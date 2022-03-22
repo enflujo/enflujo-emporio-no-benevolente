@@ -8,7 +8,9 @@
   "scripts": {
     "build": "npm run crear-lista && webpack --config webpack.prod.js",
     "start": "npm run crear-lista && webpack serve --config webpack.dev.js",
-    "crear-lista": "node crearListaVideos"
+    "crear-lista": "node crearListaVideos",
+    "lint": "prettier --check .",
+    "lint:fix": "prettier --write --list-different ."
   },
   "devDependencies": {
     "@babel/core": "^7.17.8",
@@ -27,6 +29,7 @@
     "postcss": "^8.4.12",
     "postcss-loader": "^6.2.1",
     "postcss-preset-env": "^7.4.3",
+    "prettier": "^2.6.0",
     "sass": "^1.49.9",
     "sass-loader": "^12.6.0",
     "style-loader": "^3.3.1",
