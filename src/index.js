@@ -16,11 +16,11 @@ function imprimirMensaje(mensaje) {
   contenedorMensaje.innerText = mensaje;
 }
 
-function cargarVideo(nombre) {
+function cargarVideo(nombre, formato) {
   video.innerHTML = '';
   const fuente = document.createElement('source');
   fuente.setAttribute('src', `./videos/${nombre}`);
-  fuente.setAttribute('type', 'video/webm');
+  fuente.setAttribute('type', `video/${formato}`);
   video.appendChild(fuente);
   video.load();
 }
@@ -51,25 +51,23 @@ video.onplay = () => {
 
 async function verVideo() {
   if (video.readyState > 1) {
-    const predicciones = await modelo.detect(video);
+    const predicciones = await modelo.detect(video, 20, 0.5);
     ctx.clearRect(0, 0, lienzo.width, lienzo.height);
 
     predicciones.forEach((prediccion) => {
-      if (prediccion.score > 0.6) {
-        const [x, y, ancho, alto] = prediccion.bbox;
-        const { class: categoria } = prediccion;
+      const [x, y, ancho, alto] = prediccion.bbox;
+      const { class: categoria } = prediccion;
 
-        ctx.beginPath();
-        ctx.rect(x, y, ancho, alto);
-        ctx.stroke();
+      ctx.beginPath();
+      ctx.rect(x, y, ancho, alto);
+      ctx.stroke();
 
-        ctx.save();
-        ctx.fillStyle = 'black';
-        ctx.fillRect(x, y, ctx.measureText(categoria).width, 20);
-        ctx.fillStyle = 'white';
-        ctx.fillText(categoria, x, y + 13);
-        ctx.restore();
-      }
+      ctx.save();
+      ctx.fillStyle = 'black';
+      ctx.fillRect(x, y, ctx.measureText(categoria).width, 20);
+      ctx.fillStyle = 'white';
+      ctx.fillText(categoria, x, y + 13);
+      ctx.restore();
     });
   }
 
@@ -79,16 +77,17 @@ async function verVideo() {
 async function inicio() {
   const respuesta = await fetch('./listaVideos.json');
   const videos = await respuesta.json();
-  console.log(videos);
 
   imprimirMensaje('Loading model, this can take some time...');
-  modelo = await cocoSsd.load();
+  modelo = await cocoSsd.load({
+    base: 'mobilenet_v2',
+  });
   imprimirMensaje('Model loaded, ready to play videos.');
 
-  videos.forEach((nombreVideo) => {
+  videos.forEach(({ nombre, formato }) => {
     const btn = document.createElement('li');
     btn.classList.add('videoBtn');
-    btn.innerText = nombreVideo;
+    btn.innerText = nombre;
     lista.appendChild(btn);
 
     btn.onclick = () => {
@@ -97,7 +96,7 @@ async function inicio() {
       if (seleccionado) seleccionado.classList.remove('seleccionado');
 
       btn.classList.add('seleccionado');
-      cargarVideo(nombreVideo);
+      cargarVideo(nombre, formato);
     };
   });
 }
