@@ -79,9 +79,7 @@ async function inicio() {
   const videos = await respuesta.json();
 
   imprimirMensaje('Loading model, this can take some time...');
-  modelo = await cocoSsd.load({
-    base: 'mobilenet_v2',
-  });
+  modelo = await cocoSsd.load();
   imprimirMensaje('Model loaded, ready to play videos.');
 
   videos.forEach(({ nombre, formato }) => {
