@@ -1,0 +1,79 @@
+html {
+  box-sizing: border-box;
+  height: 100%;
+}
+
+*,
+*:before,
+*:after {
+  box-sizing: inherit;
+}
+
+html,
+body {
+  margin: 0;
+  padding: 0;
+}
+
+main {
+  display: flex;
+}
+
+#controles {
+  width: 20vw;
+}
+
+#mensaje {
+  width: 100%;
+  padding: 0.5em;
+  font-style: italic;
+  text-align: center;
+  margin-bottom: 1em;
+  border-bottom: 1px dotted;
+}
+
+#seccionVideo {
+  width: 80vw;
+  height: 100vh;
+  background-color: #242424;
+  position: relative;
+
+  video {
+    height: 500px;
+    width: auto;
+  }
+
+  #lienzo {
+    position: absolute;
+    pointer-events: none;
+  }
+}
+
+video {
+  display: block;
+}
+
+#listaVideos {
+  font-size: 0.9em;
+  margin: 0 20px;
+  padding: 0;
+  list-style: none;
+}
+
+.videoBtn {
+  cursor: pointer;
+  margin-bottom: 0.7em;
+  padding: 0.3em;
+
+  &:hover {
+    opacity: 0.5;
+  }
+
+  &.seleccionado {
+    border: 1px dotted;
+  }
+}
+
+video::-webkit-media-controls-fullscreen-button {
+  display: none;
+}

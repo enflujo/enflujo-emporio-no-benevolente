@@ -1,0 +1,6 @@
+publico/*
+node_modules
+.DS_Store
+!publico/videos/
+publico/videos/*
+!publico/videos/README.md
