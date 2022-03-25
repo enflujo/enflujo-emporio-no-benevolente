@@ -20,7 +20,7 @@ module.exports = merge(common, {
   },
   plugins: [
     new CleanWebpackPlugin({
-      cleanOnceBeforeBuildPatterns: ['**/*', '!videos/**'],
+      cleanOnceBeforeBuildPatterns: ['**/*', '!videos/**', '!imgs/**'],
     }),
     new MiniCssExtractPlugin(),
   ],

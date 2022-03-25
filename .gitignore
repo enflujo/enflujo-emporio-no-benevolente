@@ -4,3 +4,5 @@ node_modules
 !publico/videos/
 publico/videos/*
 !publico/videos/README.md
+
+!publico/imgs/
