@@ -6,7 +6,7 @@
   "license": "MIT",
   "private": true,
   "scripts": {
-    "build": "npm run crear-lista && webpack --config webpack.prod.js",
+    "build": "webpack --config webpack.prod.js && npm run crear-lista",
     "start": "npm run crear-lista && webpack serve --config webpack.dev.js",
     "crear-lista": "node crearListaVideos",
     "lint": "prettier --check .",
