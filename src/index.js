@@ -50,7 +50,9 @@ video.onpause = () => {
 video.onplay = () => {
   contadorAnim = requestAnimationFrame(verVideo);
 };
-let listaCreadaCategorias = new Set();
+
+let listaCreadaCategorias = [];
+
 async function verVideo() {
   if (video.readyState > 1) {
     const predicciones = await modelo.detect(video, 20, 0.5);
@@ -71,22 +73,26 @@ async function verVideo() {
       ctx.fillText(categoria, x, y + 13);
       ctx.restore();
 
-      if (!listaCreadaCategorias.has(categoria)) {
-        listaCreadaCategorias.add(categoria);
-        llamarCategorias(listaCreadaCategorias);
+      if (!listaCreadaCategorias.some((instancia) => instancia.categoria === categoria)) {
+        listaCreadaCategorias.push({
+          categoria,
+          apariciones: [],
+        });
+        const elemento = document.createElement('p');
+        elemento.className = 'categoria';
+        elemento.innerText = categoria;
+        listaCategorias.appendChild(elemento);
       }
+
+      const objeto = listaCreadaCategorias.find((obj) => obj.categoria === categoria);
+      objeto.apariciones.push({
+        tiempo: video.currentTime,
+        area: prediccion.bbox,
+      });
     });
   }
+  console.log(listaCreadaCategorias);
   contadorAnim = requestAnimationFrame(verVideo);
-}
-function llamarCategorias(listaCreadaCategorias) {
-  let listaCategoriasArreglo = [];
-
-  listaCreadaCategorias.forEach((cat) => {
-    console.log(cat);
-    listaCategoriasArreglo.push(cat);
-  });
-  listaCategorias.innerHTML = `<pre>${JSON.stringify(listaCategoriasArreglo, null, 2)}</pre>`;
 }
 
 function crearNuevoDiv(cat) {
