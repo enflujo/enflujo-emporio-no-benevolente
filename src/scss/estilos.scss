@@ -35,7 +35,7 @@ main {
 }
 
 #seccionVideo {
-  width: 80vw;
+  width: 60vw;
   height: 100vh;
   background-color: #242424;
   position: relative;
@@ -49,6 +49,14 @@ main {
     position: absolute;
     pointer-events: none;
   }
+}
+
+#llamarCategorias {
+  max-width: 20vw;
+  width: 20vw;
+  height: 100vh;
+  background-color: #ffffff;
+  position: relative;
 }
 
 video {

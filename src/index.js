@@ -2,12 +2,14 @@ import './scss/estilos.scss';
 console.log('..:: EnFlujo ::..');
 import * as tf from '@tensorflow/tfjs';
 import * as cocoSsd from '@tensorflow-models/coco-ssd';
+import { div } from '@tensorflow/tfjs';
 
 const contenedorMensaje = document.getElementById('mensaje');
 const lista = document.getElementById('listaVideos');
 const video = document.getElementById('video');
 const lienzo = document.getElementById('lienzo');
 const ctx = lienzo.getContext('2d');
+const listaCategorias = document.getElementById('listaCategorias');
 
 let modelo;
 let contadorAnim;
@@ -48,7 +50,7 @@ video.onpause = () => {
 video.onplay = () => {
   contadorAnim = requestAnimationFrame(verVideo);
 };
-
+let listaCreadaCategorias = new Set();
 async function verVideo() {
   if (video.readyState > 1) {
     const predicciones = await modelo.detect(video, 20, 0.5);
@@ -68,10 +70,29 @@ async function verVideo() {
       ctx.fillStyle = 'white';
       ctx.fillText(categoria, x, y + 13);
       ctx.restore();
+
+      if (!listaCreadaCategorias.has(categoria)) {
+        listaCreadaCategorias.add(categoria);
+        llamarCategorias(listaCreadaCategorias);
+      }
     });
   }
-
   contadorAnim = requestAnimationFrame(verVideo);
+}
+function llamarCategorias(listaCreadaCategorias) {
+  let listaCategoriasArreglo = [];
+
+  listaCreadaCategorias.forEach((cat) => {
+    console.log(cat);
+    listaCategoriasArreglo.push(cat);
+  });
+  listaCategorias.innerHTML = `<pre>${JSON.stringify(listaCategoriasArreglo, null, 2)}</pre>`;
+}
+
+function crearNuevoDiv(cat) {
+  let nuevoDiv = document.createElement('div');
+  div.innerHTML = cat;
+  return nuevoDiv;
 }
 
 async function inicio() {
