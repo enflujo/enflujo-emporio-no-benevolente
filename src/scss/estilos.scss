@@ -44,7 +44,6 @@ main {
   min-width: 40vw;
   width: 60vw;
   height: 100vh;
-  background-color: #242424;
   position: relative;
 
   video {
@@ -159,4 +158,13 @@ video::-webkit-media-controls-fullscreen-button {
   width: 100%;
   justify-items: center;
   background-color: dimgrey;
+}
+
+.confianza {
+  padding: 1em;
+
+  .info {
+    font-style: italic;
+    font-size: 0.9em;
+  }
 }

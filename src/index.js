@@ -2,20 +2,20 @@ import './scss/estilos.scss';
 console.log('..:: EnFlujo ::..');
 import * as tf from '@tensorflow/tfjs';
 import * as cocoSsd from '@tensorflow-models/coco-ssd';
-import { div } from '@tensorflow/tfjs';
 
 const contenedorMensaje = document.getElementById('mensaje');
 const lista = document.getElementById('listaVideos');
 const video = document.getElementById('video');
 const lienzo = document.getElementById('lienzo');
-const lienzo2 = document.getElementById('lienzo2');
+// const lienzo2 = document.getElementById('lienzo2');
 const ctx = lienzo.getContext('2d');
-const ctx2 = lienzo2.getContext('2d');
+// const ctx2 = lienzo2.getContext('2d');
 const listaCategorias = document.getElementById('listaCategorias');
-const tiemposAparicionCategorias = document.getElementById('tiemposAparicionCategorias');
-const espacioAparicionCategorias = document.getElementById('espacioAparicionCategorias');
-const BarraDeRangos = document.getElementById('BarraDeRangos');
-const apariciones = {};
+// const tiemposAparicionCategorias = document.getElementById('tiemposAparicionCategorias');
+// const espacioAparicionCategorias = document.getElementById('espacioAparicionCategorias');
+const barraDeRangos = document.getElementById('barraDeRangos');
+const valorConfianza = document.getElementById('valorConfianza');
+let apariciones = {};
 
 let modelo;
 let contadorAnim;
@@ -39,10 +39,8 @@ video.onloadstart = () => {
 };
 
 video.onloadedmetadata = () => {
-  video.width = video.videoWidth;
-  video.height = video.videoHeight;
-  lienzo.width = video.offsetWidth;
-  lienzo.height = video.offsetHeight;
+  video.width = lienzo.width = video.videoWidth;
+  video.height = lienzo.height = video.videoHeight;
 
   ctx.lineWidth = '2px';
   ctx.strokeStyle = 'red';
@@ -57,15 +55,17 @@ video.onplay = () => {
   contadorAnim = requestAnimationFrame(verVideo);
 };
 
-let listaCreadaCategorias = [];
-
-BarraDeRangos.oninput = function () {
-  return this.value;
+const actualizarConfianza = () => {
+  const valor = barraDeRangos.value;
+  valorConfianza.innerText = `${Math.floor(valor * 100)}%`;
 };
+
+barraDeRangos.oninput = actualizarConfianza;
+actualizarConfianza();
 
 async function verVideo() {
   if (video.readyState > 1) {
-    const predicciones = await modelo.detect(video, 20, BarraDeRangos.value);
+    const predicciones = await modelo.detect(video, 20, barraDeRangos.value);
     ctx.clearRect(0, 0, lienzo.width, lienzo.height);
 
     predicciones.forEach((prediccion) => {
@@ -147,6 +147,7 @@ function detector(prediccion) {
       console.log(`Apariciones de categoría ${prediccion.class}`, apariciones[nombreCategoria]);
     };
   }
+
   apariciones[prediccion.class].push({
     tiempo: video.currentTime,
     area: prediccion.bbox,
@@ -170,6 +171,8 @@ async function inicio() {
 
     btn.onclick = () => {
       const seleccionado = document.querySelector('.seleccionado');
+      apariciones = {};
+      listaCategorias.innerHTML = '';
 
       if (seleccionado) seleccionado.classList.remove('seleccionado');
 
