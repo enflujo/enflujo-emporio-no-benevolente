@@ -1,3 +1,9 @@
+//Fuentes de Google
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
+//Variables de fuentes
+$Roboto: 'Roboto', sans-serif;
+
 html {
   box-sizing: border-box;
   height: 100%;
@@ -35,9 +41,9 @@ main {
 }
 
 #seccionVideo {
-  width: 80vw;
+  min-width: 40vw;
+  width: 60vw;
   height: 100vh;
-  background-color: #242424;
   position: relative;
 
   video {
@@ -49,6 +55,39 @@ main {
     position: absolute;
     pointer-events: none;
   }
+}
+
+#lienzo2 {
+  width: 40vw;
+  height: 100%;
+  background-color: #242424;
+  position: relative;
+  border-left: 1px #ffffff solid;
+}
+
+#listaCategorias {
+  width: 100%;
+  height: 100vh;
+  background-color: #242424;
+  position: relative;
+  border-left: 1px #ffffff solid;
+}
+
+#tiemposAparicionCategorias {
+  max-width: 15vw;
+  width: 20vw;
+  height: 100vh;
+  background-color: #242424;
+  position: relative;
+  border-left: 1px #ffffff solid;
+}
+#espacioAparicionCategorias {
+  max-width: 15vw;
+  width: 20vw;
+  height: 100vh;
+  background-color: #242424;
+  position: relative;
+  border-left: 1px #ffffff solid;
 }
 
 video {
@@ -79,4 +118,53 @@ video {
 
 video::-webkit-media-controls-fullscreen-button {
   display: none;
+}
+
+.categoria {
+  padding: 10px;
+  font-family: $Roboto;
+  font-weight: bold;
+  float: left;
+  background-color: whitesmoke;
+  margin: 5px;
+  font-size: 1vw;
+  text-transform: uppercase;
+}
+
+.elementoTiempo {
+  font-family: $Roboto;
+  padding: 3px;
+  font-weight: bold;
+  float: left;
+  background-color: antiquewhite;
+  margin: 3px;
+  font-size: 0.5vw;
+  text-transform: uppercase;
+}
+
+.elementoEspacio {
+  font-family: $Roboto;
+  padding: 3px;
+  font-weight: bold;
+  float: left;
+  background-color: bisque;
+  margin: 3px;
+  font-size: 0.5vw;
+  text-transform: uppercase;
+}
+.barraRango {
+  margin: 20px 20px 20px 0;
+  color: white;
+  width: 100%;
+  justify-items: center;
+  background-color: dimgrey;
+}
+
+.confianza {
+  padding: 1em;
+
+  .info {
+    font-style: italic;
+    font-size: 0.9em;
+  }
 }

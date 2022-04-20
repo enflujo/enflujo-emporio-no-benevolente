@@ -22,7 +22,22 @@
       <div id="seccionVideo">
         <canvas id="lienzo"></canvas>
         <video id="video" autoplay controls></video>
+        <div class="confianza">
+          <p>Confidence level: <span id="valorConfianza"></span></p>
+          <input type="range" min="0.01" max="1.0" step="0.01" value="0.5" class="slider" id="barraDeRangos" />
+          <p class="info">
+            Setting a low confidence level makes the model detect more "objects" but makes more mistakes, while high
+            confidence detects less "objects" but the model has more confidence it is detecting the correct object. The
+            default is 50% - just in the middle of confidence and ability to detect.
+          </p>
+        </div>
+        <div id="listaCategorias"></div>
       </div>
+      <!-- <canvas id="lienzo2"></canvas>
+      <div id="otraInfo">
+        <div id="tiemposAparicionCategorias"></div>
+        <div id="espacioAparicionCategorias"></div>
+      </div> -->
     </main>
   </body>
 </html>
