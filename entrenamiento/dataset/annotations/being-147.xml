@@ -1,0 +1,26 @@
+<annotation>
+	<folder>imagenes</folder>
+	<filename>class1_147.jpg</filename>
+	<path>/home/est3r30sc0p10/h/lab/enflujo-emporio-no-benevolente/dist/imagenes/class1_147.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1836</width>
+		<height>2647</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>being</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>627</xmin>
+			<ymin>540</ymin>
+			<xmax>1216</xmax>
+			<ymax>995</ymax>
+		</bndbox>
+	</object>
+</annotation>
