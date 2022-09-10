@@ -1,0 +1,26 @@
+<annotation>
+	<folder>imagenes</folder>
+	<filename>class1_90.jpg</filename>
+	<path>/home/est3r30sc0p10/h/lab/enflujo-emporio-no-benevolente/dist/imagenes/class1_90.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1836</width>
+		<height>2904</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>being</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>304</xmin>
+			<ymin>315</ymin>
+			<xmax>1595</xmax>
+			<ymax>1558</ymax>
+		</bndbox>
+	</object>
+</annotation>

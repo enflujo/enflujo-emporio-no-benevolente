@@ -63,6 +63,13 @@ const actualizarConfianza = () => {
 barraDeRangos.oninput = actualizarConfianza;
 actualizarConfianza();
 
+document.getElementById("downloadbutton")
+  .addEventListener("click", function () {
+        var text = JSON.stringify(apariciones);
+        var filename = "output.json";
+        download(filename, text);
+}, false);
+
 async function verVideo() {
   if (video.readyState > 1) {
     const predicciones = await modelo.detect(video, 20, barraDeRangos.value);
@@ -71,14 +78,15 @@ async function verVideo() {
     predicciones.forEach((prediccion) => {
       const [x, y, ancho, alto] = prediccion.bbox;
       const { class: categoria } = prediccion;
+      const texto = categoria + ` - ${(prediccion.score * 100) | 0}%`;
       ctx.beginPath();
       ctx.rect(x, y, ancho, alto);
       ctx.stroke();
       ctx.save();
       ctx.fillStyle = 'black';
-      ctx.fillRect(x, y, ctx.measureText(categoria).width, 20);
+      ctx.fillRect(x, y, ctx.measureText(texto).width, 20);
       ctx.fillStyle = 'white';
-      ctx.fillText(categoria, x, y + 13);
+      ctx.fillText(texto, x, y + 13);
       ctx.restore();
       detector(prediccion);
       // if (!listaCreadaCategorias.some((instancia) => instancia.categoria === categoria)) {
@@ -153,6 +161,15 @@ function detector(prediccion) {
     area: prediccion.bbox,
     confianza: prediccion.score,
   });
+}
+
+function download(filename, textInput) {
+
+  var element = document.createElement('a');
+  element.setAttribute('href','data:text/plain;charset=utf-8, ' + encodeURIComponent(textInput));
+  element.setAttribute('download', filename);
+  document.body.appendChild(element);
+  element.click();
 }
 
 async function inicio() {
