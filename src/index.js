@@ -4,8 +4,10 @@ import * as tf from '@tensorflow/tfjs';
 import * as cocoSsd from '@tensorflow-models/coco-ssd';
 
 const contenedorMensaje = document.getElementById('mensaje');
+const seccionVideo = document.getElementById('seccionVideo');
 const lista = document.getElementById('listaVideos');
 const video = document.getElementById('video');
+const iconoFullScreen = document.getElementById('iconoFullScreen');
 const lienzo = document.getElementById('lienzo');
 // const lienzo2 = document.getElementById('lienzo2');
 const ctx = lienzo.getContext('2d');
@@ -15,10 +17,48 @@ const listaCategorias = document.getElementById('listaCategorias');
 // const espacioAparicionCategorias = document.getElementById('espacioAparicionCategorias');
 const barraDeRangos = document.getElementById('barraDeRangos');
 const valorConfianza = document.getElementById('valorConfianza');
+const configuracionConfianza = document.getElementById('configuracionConfianza');
 let apariciones = {};
 
 let modelo;
 let contadorAnim;
+
+let pantallaCompleta = false;
+
+// Video en pantalla completa
+function ampliarVideo() {
+  lista.classList.add('oculta');
+  contenedorMensaje.classList.add('oculto');
+  seccionVideo.classList.add('pantallaCompleta');
+  video.classList.add('pantallaCompleta');
+  configuracionConfianza.classList.add('confianzaPantallaCompleta');
+  listaCategorias.classList.add('pantallaCompleta');
+  iconoFullScreen.classList.add('pantallaCompleta');
+}
+
+function reducirVideo() {
+  if (pantallaCompleta === true) {
+    imprimirMensaje('Model loaded, ready to play videos.');
+    lista.classList.remove('oculta');
+    contenedorMensaje.classList.remove('oculto');
+    seccionVideo.classList.remove('pantallaCompleta');
+    video.classList.remove('pantallaCompleta');
+    configuracionConfianza.classList.remove('confianzaPantallaCompleta');
+    listaCategorias.classList.remove('pantallaCompleta');
+    iconoFullScreen.classList.remove('pantallaCompleta');
+  }
+}
+
+function cambiarModoPantalla() {
+  if (pantallaCompleta === false) {
+    ampliarVideo();
+  } else {
+    reducirVideo();
+  }
+  pantallaCompleta = !pantallaCompleta;
+}
+
+iconoFullScreen.addEventListener('click', cambiarModoPantalla);
 
 function imprimirMensaje(mensaje) {
   contenedorMensaje.innerText = mensaje;
@@ -63,12 +103,15 @@ const actualizarConfianza = () => {
 barraDeRangos.oninput = actualizarConfianza;
 actualizarConfianza();
 
-document.getElementById("downloadbutton")
-  .addEventListener("click", function () {
-        var text = JSON.stringify(apariciones);
-        var filename = "output.json";
-        download(filename, text);
-}, false);
+document.getElementById('downloadbutton').addEventListener(
+  'click',
+  function () {
+    var text = JSON.stringify(apariciones);
+    var filename = 'output.json';
+    download(filename, text);
+  },
+  false
+);
 
 async function verVideo() {
   if (video.readyState > 1) {
@@ -164,9 +207,8 @@ function detector(prediccion) {
 }
 
 function download(filename, textInput) {
-
   var element = document.createElement('a');
-  element.setAttribute('href','data:text/plain;charset=utf-8, ' + encodeURIComponent(textInput));
+  element.setAttribute('href', 'data:text/plain;charset=utf-8, ' + encodeURIComponent(textInput));
   element.setAttribute('download', filename);
   document.body.appendChild(element);
   element.click();
