@@ -30,6 +30,7 @@ function ampliarVideo() {
   lista.classList.add('oculta');
   contenedorMensaje.classList.add('oculto');
   seccionVideo.classList.add('pantallaCompleta');
+  lienzo.classList.add('pantallaCompleta');
   video.classList.add('pantallaCompleta');
   configuracionConfianza.classList.add('confianzaPantallaCompleta');
   listaCategorias.classList.add('pantallaCompleta');
@@ -42,6 +43,7 @@ function reducirVideo() {
     lista.classList.remove('oculta');
     contenedorMensaje.classList.remove('oculto');
     seccionVideo.classList.remove('pantallaCompleta');
+    lienzo.classList.remove('pantallaCompleta');
     video.classList.remove('pantallaCompleta');
     configuracionConfianza.classList.remove('confianzaPantallaCompleta');
     listaCategorias.classList.remove('pantallaCompleta');

@@ -69,12 +69,17 @@ main {
     width: auto;
     height: 100vh;
     max-width: 70vw;
+
+    &.pantallaCompleta {
+      max-width: 84vw;
   }
+}
 
   &.pantallaCompleta {
     position: absolute;
     width: 99vw;
     background-color: black;
+    max-width: 99vw;
   }
 }
 
