@@ -218,6 +218,12 @@ video::-webkit-media-controls-fullscreen-button {
     font-style: italic;
     font-size: 0.9em;
   }
+
+  &.pantallaCompleta {
+    width: 67%;
+    margin: 1em 2em;
+    padding-bottom: 2em;
+  }
 }
 
 .confianzaPantallaCompleta {

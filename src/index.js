@@ -19,6 +19,7 @@ const listaCategorias = document.getElementById('listaCategorias');
 const barraDeRangos = document.getElementById('barraDeRangos');
 const valorConfianza = document.getElementById('valorConfianza');
 const configuracionConfianza = document.getElementById('configuracionConfianza');
+const confianzaInfo = document.getElementById('confianzaInfo');
 let apariciones = {};
 
 let modelo;
@@ -33,6 +34,7 @@ function ampliarVideo() {
   lienzo.classList.add('pantallaCompleta');
   video.classList.add('pantallaCompleta');
   configuracionConfianza.classList.add('confianzaPantallaCompleta');
+  confianzaInfo.classList.add('pantallaCompleta');
   listaCategorias.classList.add('pantallaCompleta');
   iconoFullScreen.classList.add('pantallaCompleta');
   iconoFullScreen.innerText = 'Exit full screen';
@@ -46,6 +48,7 @@ function reducirVideo() {
     lienzo.classList.remove('pantallaCompleta');
     video.classList.remove('pantallaCompleta');
     configuracionConfianza.classList.remove('confianzaPantallaCompleta');
+    confianzaInfo.classList.remove('pantallaCompleta');
     listaCategorias.classList.remove('pantallaCompleta');
     iconoFullScreen.classList.remove('pantallaCompleta');
     iconoFullScreen.innerText = 'Full screen';
