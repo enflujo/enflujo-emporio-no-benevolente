@@ -158,20 +158,13 @@ video::-webkit-media-controls-fullscreen-button {
 }
 
 #iconoFullScreen {
-  position: relative;
-  bottom: 61px;
-  left: 130px;
-  opacity: 0.8;
+  margin-top: 0.5em;
   cursor: pointer;
 
-  img {
-    background-color: white;
-    padding: 0.2em;
-    border-radius: 3px;
-  }
-
   &.pantallaCompleta {
-    left: 174px;
+    position: relative;
+    bottom: 119px;
+    left: 20px;
   }
 }
 
@@ -221,8 +214,6 @@ video::-webkit-media-controls-fullscreen-button {
 }
 
 .confianza {
-  padding: 1em;
-
   .info {
     font-style: italic;
     font-size: 0.9em;
@@ -231,8 +222,8 @@ video::-webkit-media-controls-fullscreen-button {
 
 .confianzaPantallaCompleta {
   position: absolute;
-  left: 25px;
-  bottom: 70px;
+  left: 20px;
+  bottom: 114px;
   color: white;
   background-color: black;
   padding: 0em 1em 0.5em 1em;

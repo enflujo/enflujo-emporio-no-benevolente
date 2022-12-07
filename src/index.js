@@ -35,6 +35,7 @@ function ampliarVideo() {
   configuracionConfianza.classList.add('confianzaPantallaCompleta');
   listaCategorias.classList.add('pantallaCompleta');
   iconoFullScreen.classList.add('pantallaCompleta');
+  iconoFullScreen.innerText = 'Exit full screen';
 }
 
 function reducirVideo() {
@@ -47,6 +48,7 @@ function reducirVideo() {
     configuracionConfianza.classList.remove('confianzaPantallaCompleta');
     listaCategorias.classList.remove('pantallaCompleta');
     iconoFullScreen.classList.remove('pantallaCompleta');
+    iconoFullScreen.innerText = 'Full screen';
   }
 }
 
