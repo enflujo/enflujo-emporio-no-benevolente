@@ -5,6 +5,7 @@ import * as cocoSsd from '@tensorflow-models/coco-ssd';
 
 const contenedorMensaje = document.getElementById('mensaje');
 const seccionVideo = document.getElementById('seccionVideo');
+const controles = document.getElementById('controles');
 const lista = document.getElementById('listaVideos');
 const video = document.getElementById('video');
 const iconoFullScreen = document.getElementById('iconoFullScreen');
@@ -27,8 +28,7 @@ let pantallaCompleta = false;
 
 // Video en pantalla completa
 function ampliarVideo() {
-  lista.classList.add('oculta');
-  contenedorMensaje.classList.add('oculto');
+  controles.classList.add('oculto');
   seccionVideo.classList.add('pantallaCompleta');
   lienzo.classList.add('pantallaCompleta');
   video.classList.add('pantallaCompleta');
@@ -40,8 +40,7 @@ function ampliarVideo() {
 function reducirVideo() {
   if (pantallaCompleta === true) {
     imprimirMensaje('Model loaded, ready to play videos.');
-    lista.classList.remove('oculta');
-    contenedorMensaje.classList.remove('oculto');
+    controles.classList.remove('oculto');
     seccionVideo.classList.remove('pantallaCompleta');
     lienzo.classList.remove('pantallaCompleta');
     video.classList.remove('pantallaCompleta');
