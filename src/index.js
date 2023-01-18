@@ -1,5 +1,4 @@
 import './scss/estilos.scss';
-console.log('..:: EnFlujo ::..');
 import * as tf from '@tensorflow/tfjs';
 import * as cocoSsd from '@tensorflow-models/coco-ssd';
 
@@ -10,21 +9,15 @@ const lista = document.getElementById('listaVideos');
 const video = document.getElementById('video');
 const iconoFullScreen = document.getElementById('iconoFullScreen');
 const lienzo = document.getElementById('lienzo');
-// const lienzo2 = document.getElementById('lienzo2');
 const ctx = lienzo.getContext('2d');
-// const ctx2 = lienzo2.getContext('2d');
 const listaCategorias = document.getElementById('listaCategorias');
-// const tiemposAparicionCategorias = document.getElementById('tiemposAparicionCategorias');
-// const espacioAparicionCategorias = document.getElementById('espacioAparicionCategorias');
 const barraDeRangos = document.getElementById('barraDeRangos');
 const valorConfianza = document.getElementById('valorConfianza');
 const configuracionConfianza = document.getElementById('configuracionConfianza');
 const confianzaInfo = document.getElementById('confianzaInfo');
 let apariciones = {};
-
 let modelo;
 let contadorAnim;
-
 let pantallaCompleta = false;
 
 // Video en pantalla completa
@@ -138,59 +131,11 @@ async function verVideo() {
       ctx.fillText(texto, x, y + 13);
       ctx.restore();
       detector(prediccion);
-      // if (!listaCreadaCategorias.some((instancia) => instancia.categoria === categoria)) {
-      //   listaCreadaCategorias.push({
-      //     categoria,
-      //     apariciones: [],
-      //   });
-      //   const elemento = document.createElement('div');
-      //   elemento.className = 'categoria';
-      //   elemento.innerText = categoria;
-      //   listaCategorias.appendChild(elemento);
-      // }
-
-      // const objeto = listaCreadaCategorias.find((obj) => obj.categoria === categoria);
-      // objeto.apariciones.push({
-      //   tiempo: video.currentTime,
-      //   area: prediccion.bbox,
-      //   confianza: prediccion.score,
-      // });
-
-      // const elementoTiempo = document.createElement('div');
-      // elementoTiempo.className = 'elementoTiempo';
-      // elementoTiempo.innerText = objeto.apariciones[0].tiempo;
-      // tiemposAparicionCategorias.appendChild(elementoTiempo);
-
-      // const elementoEspacio = document.createElement('div');
-      // elementoEspacio.className = 'elementoEspacio';
-      // elementoEspacio.innerText = objeto.apariciones[0].area;
-      // espacioAparicionCategorias.appendChild(elementoEspacio);
     });
   }
 
   contadorAnim = requestAnimationFrame(verVideo);
 }
-// function detector(prediccion, categoria) {
-//   if (!apariciones.hasOwnProperty(prediccion.class)) {
-//     apariciones[prediccion.class] = [];
-//   }
-//   apariciones[prediccion.class].push({
-//     tiempo: video.currentTime,
-//     area: prediccion.bbox,
-//     confianza: prediccion.score,
-//   });
-//   const categoriasDetectadas = Object.keys(apariciones);
-//   if (!listaCreadaCategorias.some((instancia) => instancia.prediccion === prediccion)) {
-//     listaCreadaCategorias.push({
-//       categoriasDetectadas,
-//     });
-//   }
-//   const elemento = document.createElement('div');
-//   elemento.className = 'categoria';
-//   elemento.innerText = listaCreadaCategorias;
-//   listaCategorias.appendChild(elemento);
-//   console.log(`prediccion=`, prediccion);
-// }
 
 function detector(prediccion) {
   if (!apariciones.hasOwnProperty(prediccion.class)) {
