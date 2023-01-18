@@ -26,9 +26,16 @@ main {
 }
 
 #controles {
-  width: 20vw;
+  width: 12vw;
   max-height: 100vh;
   overflow: auto;
+  z-index: 99;
+  margin-right: 20px;
+display: block;
+
+&.oculto {
+  display: none;
+}
 }
 
 #mensaje {
@@ -38,22 +45,42 @@ main {
   text-align: center;
   margin-bottom: 1em;
   border-bottom: 1px dotted;
+  visibility: visible;
 }
 
 #seccionVideo {
   min-width: 40vw;
-  width: 60vw;
+  width: 70vw;
   height: 100vh;
   position: relative;
 
   video {
-    height: 500px;
+    height: 100vh;
     width: auto;
+    max-width: 70vw;
+
+    &.pantallaCompleta {
+      max-width: 84vw;
+    }
   }
 
   #lienzo {
     position: absolute;
     pointer-events: none;
+    width: auto;
+    height: 100vh;
+    max-width: 70vw;
+
+    &.pantallaCompleta {
+      max-width: 84vw;
+    }
+  }
+
+  &.pantallaCompleta {
+    position: absolute;
+    width: 99vw;
+    background-color: black;
+    max-width: 99vw;
   }
 }
 
@@ -66,11 +93,20 @@ main {
 }
 
 #listaCategorias {
-  width: 100%;
+  width: 15vw;
   height: 100vh;
   background-color: #242424;
-  position: relative;
+  position: absolute;
   border-left: 1px #ffffff solid;
+  top: 0px;
+  left: 71vw;
+
+  &.pantallaCompleta {
+    position: absolute;
+    top: 0px;
+    left: 84vw;
+    width: 15%;
+  }
 }
 
 #tiemposAparicionCategorias {
@@ -99,6 +135,7 @@ video {
   margin-left: 20px;
   padding: 0 15px 4em 0;
   list-style: none;
+  visibility: visible;
 }
 
 .videoBtn {
@@ -120,15 +157,31 @@ video::-webkit-media-controls-fullscreen-button {
   display: none;
 }
 
+#iconoFullScreen {
+  margin-top: 0.5em;
+  cursor: pointer;
+
+  &.pantallaCompleta {
+    position: relative;
+    bottom: 119px;
+    left: 20px;
+  }
+}
+
 .categoria {
-  padding: 10px;
+  padding: 5px;
   font-family: $Roboto;
   font-weight: bold;
   float: left;
   background-color: whitesmoke;
-  margin: 5px;
+  margin: 3px;
   font-size: 1vw;
   text-transform: uppercase;
+
+  &.pantallaCompleta {
+    margin: 2px;
+    padding: 4px;
+  }
 }
 
 .elementoTiempo {
@@ -161,10 +214,24 @@ video::-webkit-media-controls-fullscreen-button {
 }
 
 .confianza {
-  padding: 1em;
-
   .info {
     font-style: italic;
     font-size: 0.9em;
   }
+
+  &.pantallaCompleta {
+    width: 67%;
+    margin: 1em 2em;
+    padding-bottom: 2em;
+  }
+}
+
+.confianzaPantallaCompleta {
+  position: absolute;
+  left: 20px;
+  bottom: 114px;
+  color: white;
+  background-color: black;
+  padding: 0em 1em 0.5em 1em;
+  margin-bottom: 1em;
 }
