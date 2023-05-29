@@ -3,7 +3,7 @@ const { extname } = require('path');
 const formatos = ['mp4', 'webm', 'ogv'];
 const videos = [];
 
-readdir('publico/videos', (err, archivos) => {
+readdir('estaticos/videos', (err, archivos) => {
   if (err) throw new Error(err);
 
   archivos.forEach((nombre) => {
@@ -15,6 +15,6 @@ readdir('publico/videos', (err, archivos) => {
     }
   });
 
-  writeFileSync('./publico/listaVideos.json', JSON.stringify(videos));
+  writeFileSync('./estaticos/listaVideos.json', JSON.stringify(videos));
   console.log('Lista de videos creada!');
 });

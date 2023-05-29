@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="es">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="icon" href="/favicon.ico" sizes="any" />
+    <link rel="icon" href="/favicon.svg" type="image/svg+xml" />
+    <link rel="apple-touch-icon" href="/apple-touch-icon.png" />
+    <link rel="manifest" href="/sitio.webmanifest" />
+    <link rel="canonical" href="https://enflujo.com/emporio/" />
+
+    <title>Emporio no Benevolente | ..:: EnFlujo ::..</title>
+    <meta
+      name="description"
+      content="Aplicación para detectar 'objetos' (según el lenguaje de modelos como Coco SSD, el cual incluye humanos) en películas grabadas durante la colonia Belga en África."
+    />
+
+    <!-- OpenGraph -->
+    <meta property="og:locale" content="es_CO" />
+    <meta property="og:site_name" content="EnFlujo" />
+    <meta property="og:type" content="website" />
+    <meta property="og:url" content="https://enflujo.com/emporio/" />
+    <meta property="og:title" content="Emporio no Benevolente" />
+    <meta
+      property="og:description"
+      content="Aplicación para detectar 'objetos' (según el lenguaje de modelos como Coco SSD, el cual incluye humanos) en películas grabadas durante la colonia Belga en África."
+    />
+    <meta property="og:image" content="https://enflujo.com/emporio/imgs/emporio-no-benevolente_v1.jpg" />
+    <meta property="og:image:alt" content="Emporio no Benevolente" />
+    <meta property="og:image:width" content="1200" />
+    <meta property="og:image:height" content="630" />
+
+    <!-- Twitter -->
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:site" content="@labenflujo" />
+    <meta name="twitter:creator" content="@labenflujo" />
+    <meta name="twitter:url" content="https://enflujo.com/emporio/" />
+    <meta name="twitter:title" content="Emporio no Benevolente" />
+    <meta
+      name="twitter:description"
+      content="Aplicación para detectar 'objetos' (según el lenguaje de modelos como Coco SSD, el cual incluye humanos) en películas grabadas durante la colonia Belga en África."
+    />
+    <meta name="twitter:image" content="https://enflujo.com/emporio/imgs/emporio-no-benevolente_v1.jpg" />
+    <meta name="twitter:image:alt" content="Emporio no Benevolente" />
+
+    <script
+      async
+      defer
+      data-website-id="569a36fc-18d4-4ee4-a40c-7c7a9a35b3a1"
+      src="https://analitica.enflujo.com/script.js"
+      data-domains="enflujo.com"
+    ></script>
+  </head>
+  <body>
+    <main>
+      <div id="controles">
+        <div id="mensaje"></div>
+        <ul id="listaVideos"></ul>
+      </div>
+
+      <div id="seccionVideo">
+        <canvas id="lienzo"></canvas>
+        <video id="video" autoplay controls></video>
+        <button id="iconoFullScreen">Full screen</button>
+        <div id="configuracionConfianza">
+          <p>Confidence level: <span id="valorConfianza"></span></p>
+          <input type="range" min="0.01" max="1.0" step="0.01" value="0.5" class="slider" id="barraDeRangos" />
+        </div>
+        <div class="confianza" id="confianzaInfo">
+          <p class="info">
+            Setting a low confidence level makes the model detect more "objects" but makes more mistakes, while high
+            confidence detects less "objects" but the model has more confidence it is detecting the correct object. The
+            default is 50% - just in the middle of confidence and ability to detect.
+          </p>
+          <input type="button" id="downloadbutton" value="Download Result" />
+        </div>
+        <div id="listaCategorias"></div>
+      </div>
+      <!-- <canvas id="lienzo2"></canvas>
+      <div id="otraInfo">
+        <div id="tiemposAparicionCategorias"></div>
+        <div id="espacioAparicionCategorias"></div>
+      </div> -->
+    </main>
+
+    <script type="module" src="/src/programa.js"></script>
+  </body>
+</html>

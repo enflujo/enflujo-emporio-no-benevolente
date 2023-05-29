@@ -24,7 +24,7 @@ yarn
 Iniciar servidor local en http://localhost:8080
 
 ```bash
-yarn start
+yarn dev
 ```
 
 ### Generar lista de videos

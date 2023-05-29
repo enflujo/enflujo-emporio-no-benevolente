@@ -1,8 +1,6 @@
-publico/*
+publico
 node_modules
 .DS_Store
-!publico/videos/
-publico/videos/*
-!publico/videos/README.md
-
-!publico/imgs/
+estaticos/videos/*
+!estaticos/videos/README.md
+estaticos/listaVideos.json
