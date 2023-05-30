@@ -117,7 +117,7 @@
   resolved "https://registry.yarnpkg.com/@tensorflow-models/coco-ssd/-/coco-ssd-2.2.2.tgz#2a308b3b11a106bf640c5245b980c79df8208b60"
   integrity sha512-Jey2JscmKEValcFZH2ZLz14s8KPRmVtfJ0d0M3dPhvBp9dJiGNanVXr/pJAY5OS7emKj9uSciGhdkHWXY9Hovw==
 
-"@tensorflow/tfjs-backend-cpu@4.6.0":
+"@tensorflow/tfjs-backend-cpu@4.6.0", "@tensorflow/tfjs-backend-cpu@^4.6.0":
   version "4.6.0"
   resolved "https://registry.yarnpkg.com/@tensorflow/tfjs-backend-cpu/-/tfjs-backend-cpu-4.6.0.tgz#c2cb473596d3813143048f08d3fa6f9bf8d28b35"
   integrity sha512-SsJQQmO/cOjQkWy6wiTMFZY8/BQa1/UO/3wkqWgwDGPjPZ2EIsqmfT8lkKDHaIHTUZP8jBeeSbjIOpJZgAq6zw==
@@ -125,7 +125,7 @@
     "@types/seedrandom" "^2.4.28"
     seedrandom "^3.0.5"
 
-"@tensorflow/tfjs-backend-webgl@4.6.0":
+"@tensorflow/tfjs-backend-webgl@4.6.0", "@tensorflow/tfjs-backend-webgl@^4.6.0":
   version "4.6.0"
   resolved "https://registry.yarnpkg.com/@tensorflow/tfjs-backend-webgl/-/tfjs-backend-webgl-4.6.0.tgz#9b81d737e026bed0a147fc0ea35423caf5d2a425"
   integrity sha512-rnzPDIL6J0UAYyVdilxHkNXG40q4WpNN3Ex50L9PKPuYIV9wbnYk09ATU/sdCb5QtxG1ncXYKMirNDGN4uQ1DQ==
@@ -1066,6 +1066,11 @@ tr46@~0.0.3:
   version "0.0.3"
   resolved "https://registry.yarnpkg.com/tr46/-/tr46-0.0.3.tgz#8184fd347dac9cdc185992f3a6622e14b9d9ab6a"
   integrity sha512-N3WMsuqV66lT30CrXNbEjx4GEwlow3v6rr4mCcv6prnfwhS01rkgyFdjPNBYd9br7LpXV1+Emh01fHnq2Gdgrw==
+
+typescript@^5.0.4:
+  version "5.0.4"
+  resolved "https://registry.yarnpkg.com/typescript/-/typescript-5.0.4.tgz#b217fd20119bd61a94d4011274e0ab369058da3b"
+  integrity sha512-cW9T5W9xY37cc+jfEnaUvX91foxtHkza3Nw3wkoF4sSlKn0MONdkdEndig/qPBWXNkmplh3NzayQzCiHM4/hqw==
 
 update-browserslist-db@^1.0.11:
   version "1.0.11"

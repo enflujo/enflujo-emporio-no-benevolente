@@ -58,10 +58,6 @@ main {
     height: 100vh;
     width: auto;
     max-width: 70vw;
-
-    &.pantallaCompleta {
-      max-width: 84vw;
-    }
   }
 
   #lienzo {
@@ -70,17 +66,6 @@ main {
     width: auto;
     height: 100vh;
     max-width: 70vw;
-
-    &.pantallaCompleta {
-      max-width: 84vw;
-    }
-  }
-
-  &.pantallaCompleta {
-    position: absolute;
-    width: 99vw;
-    background-color: black;
-    max-width: 99vw;
   }
 }
 
@@ -100,13 +85,6 @@ main {
   border-left: 1px #ffffff solid;
   top: 0px;
   left: 71vw;
-
-  &.pantallaCompleta {
-    position: absolute;
-    top: 0px;
-    left: 84vw;
-    width: 15%;
-  }
 }
 
 #tiemposAparicionCategorias {
@@ -160,12 +138,6 @@ video::-webkit-media-controls-fullscreen-button {
 #iconoFullScreen {
   margin-top: 0.5em;
   cursor: pointer;
-
-  &.pantallaCompleta {
-    position: relative;
-    bottom: 119px;
-    left: 20px;
-  }
 }
 
 .categoria {
@@ -177,11 +149,6 @@ video::-webkit-media-controls-fullscreen-button {
   margin: 3px;
   font-size: 1vw;
   text-transform: uppercase;
-
-  &.pantallaCompleta {
-    margin: 2px;
-    padding: 4px;
-  }
 }
 
 .elementoTiempo {
@@ -218,20 +185,46 @@ video::-webkit-media-controls-fullscreen-button {
     font-style: italic;
     font-size: 0.9em;
   }
-
-  &.pantallaCompleta {
-    width: 67%;
-    margin: 1em 2em;
-    padding-bottom: 2em;
-  }
 }
 
-.confianzaPantallaCompleta {
-  position: absolute;
-  left: 20px;
-  bottom: 114px;
-  color: white;
-  background-color: black;
-  padding: 0em 1em 0.5em 1em;
-  margin-bottom: 1em;
+.pantallaCompleta {
+  #seccionVideo {
+    position: absolute;
+    width: 99vw;
+    background-color: black;
+    max-width: 99vw;
+
+    video,
+    #lienzo {
+      max-width: 84vw;
+    }
+  }
+
+  .categoria {
+    margin: 2px;
+    padding: 4px;
+  }
+
+  #listaCategorias {
+    position: absolute;
+    top: 0px;
+    left: 84vw;
+    width: 15%;
+  }
+
+  #iconoFullScreen {
+    position: relative;
+    bottom: 119px;
+    left: 20px;
+  }
+
+  #configuracionConfianza {
+    position: absolute;
+    left: 20px;
+    bottom: 114px;
+    color: white;
+    background-color: black;
+    padding: 0em 1em 0.5em 1em;
+    margin-bottom: 1em;
+  }
 }

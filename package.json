@@ -18,10 +18,13 @@
     "postcss": "^8.4.21",
     "prettier": "^2.8.3",
     "sass": "^1.57.1",
+    "typescript": "^5.0.4",
     "vite": "^4.3.9"
   },
   "dependencies": {
     "@tensorflow-models/coco-ssd": "^2.2.2",
-    "@tensorflow/tfjs": "^4.2.0"
+    "@tensorflow/tfjs": "^4.2.0",
+    "@tensorflow/tfjs-backend-cpu": "^4.6.0",
+    "@tensorflow/tfjs-backend-webgl": "^4.6.0"
   }
 }

@@ -52,7 +52,7 @@
     ></script>
   </head>
   <body>
-    <main>
+    <main id="contenedor">
       <div id="controles">
         <div id="mensaje"></div>
         <ul id="listaVideos"></ul>
@@ -64,15 +64,15 @@
         <button id="iconoFullScreen">Full screen</button>
         <div id="configuracionConfianza">
           <p>Confidence level: <span id="valorConfianza"></span></p>
-          <input type="range" min="0.01" max="1.0" step="0.01" value="0.5" class="slider" id="barraDeRangos" />
+          <input id="barraDeRangos" type="range" min="0.01" max="1.0" step="0.01" value="0.5" class="slider" />
         </div>
-        <div class="confianza" id="confianzaInfo">
+        <div id="confianzaInfo">
           <p class="info">
             Setting a low confidence level makes the model detect more "objects" but makes more mistakes, while high
             confidence detects less "objects" but the model has more confidence it is detecting the correct object. The
             default is 50% - just in the middle of confidence and ability to detect.
           </p>
-          <input type="button" id="downloadbutton" value="Download Result" />
+          <input id="downloadbutton" type="button" value="Download Result" />
         </div>
         <div id="listaCategorias"></div>
       </div>
@@ -83,6 +83,6 @@
       </div> -->
     </main>
 
-    <script type="module" src="/src/programa.js"></script>
+    <script type="module" src="/src/programa.ts"></script>
   </body>
 </html>
