@@ -1,10 +1,12 @@
 {
   "name": "enflujo-emporio-no-benevolente",
+  "packageManager": "yarn@4.4.1",
   "version": "1.0.0",
   "main": "src/index.js",
   "author": "Juan Camilo González <j.gonzalezj@uniandes.edu.co> (https://juancgonzalez.com)",
   "license": "MIT",
   "private": true,
+  "type": "module",
   "scripts": {
     "build": "yarn crear-lista && vite build",
     "dev": "yarn crear-lista && vite",
@@ -13,18 +15,18 @@
     "lint:fix": "prettier --write --list-different ."
   },
   "devDependencies": {
-    "autoprefixer": "^10.4.13",
-    "cssnano": "^6.0.1",
-    "postcss": "^8.4.21",
-    "prettier": "^2.8.3",
-    "sass": "^1.57.1",
-    "typescript": "^5.0.4",
-    "vite": "^4.3.9"
+    "autoprefixer": "^10.4.20",
+    "cssnano": "^7.0.5",
+    "postcss": "^8.4.45",
+    "prettier": "^3.3.3",
+    "sass": "^1.78.0",
+    "typescript": "^5.5.4",
+    "vite": "^5.4.3"
   },
   "dependencies": {
-    "@tensorflow-models/coco-ssd": "^2.2.2",
-    "@tensorflow/tfjs": "^4.2.0",
-    "@tensorflow/tfjs-backend-cpu": "^4.6.0",
-    "@tensorflow/tfjs-backend-webgl": "^4.6.0"
+    "@tensorflow-models/coco-ssd": "^2.2.3",
+    "@tensorflow/tfjs": "^4.21.0",
+    "@tensorflow/tfjs-backend-cpu": "^4.21.0",
+    "@tensorflow/tfjs-backend-webgl": "^4.21.0"
   }
 }

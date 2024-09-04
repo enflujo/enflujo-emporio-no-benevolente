@@ -1,5 +1,5 @@
-const { readdir, writeFileSync } = require('fs');
-const { extname } = require('path');
+import { readdir, writeFileSync } from 'fs';
+import { extname } from 'path';
 const formatos = ['mp4', 'webm', 'ogv'];
 const videos = [];
 

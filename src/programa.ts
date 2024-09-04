@@ -32,7 +32,7 @@ function cargarVideo(nombre: string, formato: string) {
   if (!video) return;
   video.innerHTML = '';
   const fuente = document.createElement('source');
-  fuente.setAttribute('src', `./videos/${nombre}`);
+  fuente.setAttribute('src', `${import.meta.env.BASE_URL}/videos/${nombre}`);
   fuente.setAttribute('type', `video/${formato}`);
   video.appendChild(fuente);
   nombreVideo = nombre;
@@ -127,7 +127,7 @@ function download(nombre: string, datos: string) {
 }
 
 async function inicio() {
-  const videos = await fetch('./listaVideos.json').then((res) => res.json());
+  const videos = await fetch(`${import.meta.env.BASE_URL}/listaVideos.json`).then((res) => res.json());
 
   imprimirMensaje('Loading model, this can take some time...');
   modelo = await load();
