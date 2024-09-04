@@ -1,4 +1,4 @@
-name: Estilo Código
+name: 🐾 Estilo Código
 
 on:
   push:
@@ -10,37 +10,26 @@ on:
 
 jobs:
   ci:
-    runs-on: ${{ matrix.os }}
-
-    strategy:
-      matrix:
-        os: [ubuntu-latest]
-        node: [16]
+    runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout 🛎
-        uses: actions/checkout@v3.0.0
-
-      - name: Preparar ambiente Node 🏗
-        uses: actions/setup-node@v3.0.0
+      - name: 🐯 Obtener código del repositorio
+        uses: actions/checkout@v4
         with:
-          node-version: ${{ matrix.node }}
-          check-latest: true
+          fetch-depth: 0
 
-      - name: Obtener cache de yarn 🛠
-        id: yarn-cache-dir-path
-        run: echo "::set-output name=dir::$(yarn cache dir)"
+      - name: 🐜 Activar Corepack
+        run: corepack enable
 
-      - name: Cache node_modules 📦
-        uses: actions/cache@v2.1.7
-        id: yarn-cache # use this to check for `cache-hit` (`steps.yarn-cache.outputs.cache-hit != 'true'`)
+      - name: 🐝 Usar Node
+        uses: actions/setup-node@v4
         with:
-          path: ${{ steps.yarn-cache-dir-path.outputs.dir }}
-          key: ${{ runner.os }}-yarn-${{ hashFiles('**/yarn.lock') }}
-          restore-keys: |
-            ${{ runner.os }}-yarn-
-      - name: Instalar dependencias 👨🏻‍💻
-        run: yarn
+          node-version: 'lts/*'
+          cache: 'yarn'
 
-      - name: Revisar estilos 👀
+      - name: 🦒 Instalar dependencias
+        run: |
+          yarn install --immutable
+
+      - name: 👀 Buscar errores
         run: yarn lint
