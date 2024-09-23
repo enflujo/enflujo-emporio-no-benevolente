@@ -52,6 +52,8 @@
     ></script>
   </head>
   <body>
+    <div id="menu"></div>
+
     <main id="contenedor">
       <div id="controles">
         <div id="mensaje"></div>
@@ -59,8 +61,11 @@
       </div>
 
       <div id="seccionVideo">
-        <canvas id="lienzo"></canvas>
-        <video id="video" autoplay controls></video>
+        <canvas id="lienzo1" class="lienzo visible"></canvas>
+        <canvas id="lienzo2" class="lienzo visible"></canvas>
+        <canvas id="lienzo3" class="lienzo"></canvas>
+
+        <video id="video" class="visible" autoplay controls></video>
         <button id="iconoFullScreen">Full screen</button>
         <div id="configuracionConfianza">
           <p>Confidence level: <span id="valorConfianza"></span></p>
@@ -72,15 +77,18 @@
             confidence detects less "objects" but the model has more confidence it is detecting the correct object. The
             default is 50% - just in the middle of confidence and ability to detect.
           </p>
-          <input id="downloadbutton" type="button" value="Download Result" />
+          <input id="descargar" type="button" value="Download Data" />
         </div>
+      </div>
+
+      <div id="categorias">
+        <div class="columnas">
+          <span id="verVideo" class="modo activo">Video</span>
+          <span id="verVis" class="modo activo">Heatmap</span>
+        </div>
+
         <div id="listaCategorias"></div>
       </div>
-      <!-- <canvas id="lienzo2"></canvas>
-      <div id="otraInfo">
-        <div id="tiemposAparicionCategorias"></div>
-        <div id="espacioAparicionCategorias"></div>
-      </div> -->
     </main>
 
     <script type="module" src="/src/programa.ts"></script>

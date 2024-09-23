@@ -16,14 +16,15 @@
   },
   "devDependencies": {
     "autoprefixer": "^10.4.20",
-    "cssnano": "^7.0.5",
-    "postcss": "^8.4.45",
+    "cssnano": "^7.0.6",
+    "postcss": "^8.4.47",
     "prettier": "^3.3.3",
-    "sass": "^1.78.0",
+    "sass": "^1.79.3",
     "typescript": "^5.5.4",
-    "vite": "^5.4.3"
+    "vite": "^5.4.7"
   },
   "dependencies": {
+    "@mediapipe/tasks-vision": "^0.10.16",
     "@tensorflow-models/coco-ssd": "^2.2.3",
     "@tensorflow/tfjs": "^4.21.0",
     "@tensorflow/tfjs-backend-cpu": "^4.21.0",
