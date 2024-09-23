@@ -1,8 +1,7 @@
 {
   "name": "enflujo-emporio-no-benevolente",
-  "packageManager": "yarn@4.4.1",
-  "version": "1.0.0",
-  "main": "src/index.js",
+  "packageManager": "yarn@4.5.0",
+  "version": "1.1.0",
   "author": "Juan Camilo González <j.gonzalezj@uniandes.edu.co> (https://juancgonzalez.com)",
   "license": "MIT",
   "private": true,
