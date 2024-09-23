@@ -21,7 +21,7 @@ Instalar dependencias:
 yarn
 ```
 
-Iniciar servidor local en http://localhost:8080
+Iniciar servidor local
 
 ```bash
 yarn dev
@@ -60,8 +60,8 @@ ffmpeg -i {fuente} \
 {salida}
 ```
 
-| variable | ejemplo                                                             |
-| -------- | ------------------------------------------------------------------- |
-| fuente   | `ruta_al_video/0013.webm` (incluir extensión)                       |
-| salida   | `publico/videos/0013.mp4` (incluir extensión)                       |
+| variable | ejemplo                                                                 |
+| -------- | ----------------------------------------------------------------------- |
+| fuente   | `ruta_al_video/0013.webm` (incluir extensión)                        |
+| salida   | `publico/videos/0013.mp4` (incluir extensión)                        |
 | ancho    | `640` (para un video de 640x480, `1280` para uno de 1280x720, etc.) |
