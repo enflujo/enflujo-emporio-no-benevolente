@@ -1,13 +1,14 @@
 {
   "name": "enflujo-emporio-no-benevolente",
-  "packageManager": "yarn@4.5.0",
+  "packageManager": "yarn@4.6.0",
   "version": "1.1.0",
   "author": "Juan Camilo González <j.gonzalezj@uniandes.edu.co> (https://juancgonzalez.com)",
   "license": "MIT",
   "private": true,
   "type": "module",
   "scripts": {
-    "build": "yarn crear-lista && vite build",
+    "build": "yarn crear-lista && tsc && vite build",
+    "preview": "vite preview",
     "dev": "yarn crear-lista && vite",
     "crear-lista": "node crearListaVideos",
     "lint": "prettier --check .",
@@ -16,17 +17,13 @@
   "devDependencies": {
     "autoprefixer": "^10.4.20",
     "cssnano": "^7.0.6",
-    "postcss": "^8.4.47",
-    "prettier": "^3.3.3",
-    "sass": "^1.79.3",
-    "typescript": "^5.5.4",
-    "vite": "^5.4.7"
+    "postcss": "^8.5.1",
+    "prettier": "^3.4.2",
+    "sass": "^1.83.4",
+    "typescript": "^5.7.3",
+    "vite": "^6.0.7"
   },
   "dependencies": {
-    "@mediapipe/tasks-vision": "^0.10.16",
-    "@tensorflow-models/coco-ssd": "^2.2.3",
-    "@tensorflow/tfjs": "^4.21.0",
-    "@tensorflow/tfjs-backend-cpu": "^4.21.0",
-    "@tensorflow/tfjs-backend-webgl": "^4.21.0"
+    "@mediapipe/tasks-vision": "^0.10.20"
   }
 }
