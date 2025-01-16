@@ -1,7 +1,6 @@
 import type { Aparicion, Cuadro } from '../tipos';
 import categoriasConColor from './categorias';
 
-const video = document.getElementById('video') as HTMLVideoElement;
 const lienzo2 = document.getElementById('lienzo2') as HTMLCanvasElement;
 const lienzo3 = document.getElementById('lienzo3') as HTMLCanvasElement;
 const ctx3 = lienzo3.getContext('2d');
