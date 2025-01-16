@@ -15,3 +15,5 @@ estaticos/listaVideos.json
 !.yarn/versions
 
 .venv
+modelos
+!modelos/README.md
