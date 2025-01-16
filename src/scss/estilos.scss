@@ -46,21 +46,65 @@ main {
   font-variation-settings: 'wdth' 100;
 }
 
-#menu {
-  height: $altoMenu;
-  width: 100%;
-  background-color: var(--negro);
+#barraConfianza {
+  width: 80%;
+  display: inline-block;
+  vertical-align: middle;
+}
+
+#valorConfianza {
+  font-weight: bold;
+}
+
+#cerrarControles {
+  padding: 0.3em;
+  text-align: right;
+  display: block;
+  cursor: pointer;
+  font-weight: bold;
+}
+
+input[type='range'] {
+  -webkit-appearance: none;
+}
+
+input[type='range']::-webkit-slider-runnable-track {
+  height: 5px;
+  background: #dadaf9;
+  border: none;
+  border-radius: 3px;
+}
+
+input[type='range']::-webkit-slider-thumb {
+  -webkit-appearance: none;
+  border: solid 1px #242323;
+  height: 16px;
+  width: 16px;
+  border-radius: 50%;
+  background: rgb(218, 241, 248);
+  margin-top: -5.4px;
+}
+
+input[type='range']:focus {
+  outline: none;
+}
+
+input[type='range']:focus::-webkit-slider-runnable-track {
+  background: #dadaf9;
 }
 
 #controles {
   width: 15vw;
+  padding: 1.25em 2em;
   max-height: $altoContenido;
   overflow: auto;
   z-index: 99;
   display: block;
+  transition: all 0.3s ease-out;
 
   &.oculto {
-    display: none;
+    width: 0;
+    padding: 0;
   }
 }
 
@@ -75,7 +119,7 @@ main {
 }
 
 #seccionVideo {
-  width: 70vw;
+  flex: 1;
   height: $altoContenido;
   position: relative;
   background-color: var(--negro);
@@ -199,7 +243,6 @@ video {
 
 #listaVideos {
   font-size: 0.75em;
-  padding: 1.25em 2em;
   list-style: none;
   visibility: visible;
 }
@@ -257,11 +300,9 @@ video::-webkit-media-controls-fullscreen-button {
   background-color: dimgrey;
 }
 
-.confianza {
-  .info {
-    font-style: italic;
-    font-size: 0.9em;
-  }
+.info {
+  font-style: italic;
+  font-size: 0.8em;
 }
 
 .pantallaCompleta {

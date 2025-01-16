@@ -60,7 +60,7 @@ function cargarVideo(nombre: string, formato: string) {
 }
 
 async function inicio() {
-  const barraDeRangos = document.getElementById('barraDeRangos') as HTMLInputElement;
+  const barraConfianza = document.getElementById('barraConfianza') as HTMLInputElement;
   const valorConfianza = document.getElementById('valorConfianza') as HTMLInputElement;
 
   imprimirMensaje('Loading model, this can take some time...');
@@ -71,7 +71,7 @@ async function inicio() {
       modelAssetPath: `https://storage.googleapis.com/mediapipe-models/object_detector/efficientdet_lite0/float16/1/efficientdet_lite0.tflite`,
       delegate: 'GPU',
     },
-    scoreThreshold: +barraDeRangos.value,
+    scoreThreshold: +barraConfianza.value,
     runningMode: 'VIDEO',
   });
 
@@ -144,14 +144,14 @@ async function inicio() {
   let reloj: ReturnType<typeof setTimeout> | null = null;
 
   async function actualizarConfianza() {
-    const valor = +barraDeRangos.value;
+    const valor = +barraConfianza.value;
     valorConfianza.innerText = `${Math.floor(valor * 100)}%`;
 
     if (reloj !== null) {
       clearTimeout(reloj);
     }
     reloj = setTimeout(() => {
-      modelo.setOptions({ scoreThreshold: +barraDeRangos.value });
+      modelo.setOptions({ scoreThreshold: +barraConfianza.value });
       reloj = null;
     }, 500);
   }
@@ -159,7 +159,7 @@ async function inicio() {
   controlesPantallaCompleta();
   actualizarConfianza();
 
-  barraDeRangos.oninput = actualizarConfianza;
+  barraConfianza.oninput = actualizarConfianza;
 
   function escalar() {
     video.width = lienzo.width = lienzo2.width = lienzo3.width = video.clientWidth;

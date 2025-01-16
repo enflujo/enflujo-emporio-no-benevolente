@@ -52,11 +52,25 @@
     ></script>
   </head>
   <body>
-    <div id="menu"></div>
-
     <main id="contenedor">
+      <span id="cerrarControles">X</span>
+
       <div id="controles">
+        <div id="configuracionConfianza">
+          <p>Confidence level:</p>
+          <input id="barraConfianza" type="range" min="0.01" max="1.0" step="0.01" value="0.5" />
+          <span id="valorConfianza"></span>
+        </div>
+        <div id="confianzaInfo">
+          <p class="info">
+            Setting a low confidence level makes the model detect more "objects" but makes more mistakes, while high
+            confidence detects less "objects" but the model has more confidence it is detecting the correct object. The
+            default is 50% - just in the middle of confidence and ability to detect.
+          </p>
+        </div>
+
         <div id="mensaje"></div>
+
         <ul id="listaVideos"></ul>
       </div>
 
@@ -66,22 +80,11 @@
         <canvas id="lienzo3" class="lienzo"></canvas>
 
         <video id="video" class="visible" autoplay controls></video>
-        <button id="iconoFullScreen">Full screen</button>
-        <div id="configuracionConfianza">
-          <p>Confidence level: <span id="valorConfianza"></span></p>
-          <input id="barraDeRangos" type="range" min="0.01" max="1.0" step="0.01" value="0.5" class="slider" />
-        </div>
-        <div id="confianzaInfo">
-          <p class="info">
-            Setting a low confidence level makes the model detect more "objects" but makes more mistakes, while high
-            confidence detects less "objects" but the model has more confidence it is detecting the correct object. The
-            default is 50% - just in the middle of confidence and ability to detect.
-          </p>
-          <input id="descargar" type="button" value="Download Data" />
-        </div>
       </div>
 
       <div id="categorias">
+        <!-- <input id="descargar" type="button" value="Download Data" /> -->
+
         <div class="columnas">
           <span id="verVideo" class="modo activo">Video</span>
           <span id="verVis" class="modo activo">Heatmap</span>
