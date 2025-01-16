@@ -25,4 +25,11 @@ GZZ_Mechelen_31_Austria-Venice-boat-S-Afr.mp4
 
 AI can actually measure distance
 
-Humans can fictionalice
+Humans can fictionalize
+
+- Are always in the present tense
+- Is innocent
+- imprudente
+- no tiene moralidad.
+- tienen los prejuicios con los que fueron educados.
+- si se les asigna una tarea que requiera cautela y precisión, van a hacer un desastre.
