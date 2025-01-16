@@ -4,8 +4,8 @@ import { controlesPantallaCompleta } from './componentes/pantallaCompleta';
 import { FilesetResolver, ObjectDetector } from '@mediapipe/tasks-vision';
 import predicciones from './componentes/predicciones';
 import categoriasConColor from './componentes/categorias';
+import { crearMenuVideos } from './componentes/ListaVideos';
 
-const lista = document.getElementById('listaVideos') as HTMLUListElement;
 const video = document.getElementById('video') as HTMLVideoElement;
 const lienzo = document.getElementById('lienzo1') as HTMLCanvasElement;
 const ctx = lienzo.getContext('2d') as CanvasRenderingContext2D;
@@ -59,24 +59,6 @@ function cargarVideo(nombre: string, formato: string) {
   predicciones.reiniciar();
 }
 
-async function crearMenuVideos() {
-  const videos = await fetch(`${import.meta.env.BASE_URL}/listaVideos.json`).then((res) => res.json());
-  /** Crear lista de videos disponibles */
-  videos.forEach(({ nombre, formato }) => {
-    const btn = document.createElement('li');
-    btn.classList.add('videoBtn');
-    btn.innerText = nombre;
-    lista.appendChild(btn);
-
-    btn.onclick = () => {
-      const seleccionado = document.querySelector('.seleccionado');
-      if (seleccionado) seleccionado.classList.remove('seleccionado');
-      btn.classList.add('seleccionado');
-      cargarVideo(nombre, formato);
-    };
-  });
-}
-
 async function inicio() {
   const barraDeRangos = document.getElementById('barraDeRangos') as HTMLInputElement;
   const valorConfianza = document.getElementById('valorConfianza') as HTMLInputElement;
@@ -95,7 +77,7 @@ async function inicio() {
 
   imprimirMensaje('Model loaded, ready to play videos.');
 
-  await crearMenuVideos();
+  await crearMenuVideos(cargarVideo);
 
   video.onloadstart = () => {
     const nombreArchivo = video.querySelector('source')?.src.split('/').pop();
@@ -159,18 +141,19 @@ async function inicio() {
     contadorAnim = requestAnimationFrame(verVideo);
   }
 
-  let reloj: NodeJS.Timeout | null = null;
+  let reloj: ReturnType<typeof setTimeout> | null = null;
 
   async function actualizarConfianza() {
     const valor = +barraDeRangos.value;
     valorConfianza.innerText = `${Math.floor(valor * 100)}%`;
 
-    if (reloj === null) {
-      reloj = setTimeout(() => {
-        modelo.setOptions({ scoreThreshold: +barraDeRangos.value });
-        reloj = null;
-      }, 500);
+    if (reloj !== null) {
+      clearTimeout(reloj);
     }
+    reloj = setTimeout(() => {
+      modelo.setOptions({ scoreThreshold: +barraDeRangos.value });
+      reloj = null;
+    }, 500);
   }
 
   controlesPantallaCompleta();

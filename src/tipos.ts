@@ -10,3 +10,8 @@ export type Aparicion = {
   area: Cuadro;
   confianza: number;
 };
+
+export type VideoLista = {
+  nombre: string;
+  formato: string;
+};
