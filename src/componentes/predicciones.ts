@@ -1,76 +1,80 @@
 import type { Aparicion, Cuadro } from '../tipos';
 import categoriasConColor from './categorias';
 
-const lienzo2 = document.getElementById('lienzo2') as HTMLCanvasElement;
-const lienzo3 = document.getElementById('lienzo3') as HTMLCanvasElement;
-const ctx3 = lienzo3.getContext('2d');
 const listaCategorias = document.getElementById('listaCategorias') as HTMLDivElement;
 let categorias: { [categoria: string]: { contador: HTMLSpanElement; apariciones: Aparicion[] } } = {};
 
-export default {
-  reiniciar: () => {
-    listaCategorias.innerHTML = '';
-    categorias = {};
-  },
+export default function utilidadPredicciones(
+  lienzoEspectros: HTMLCanvasElement,
+  lienzoEspectroCategoria: HTMLCanvasElement
+) {
+  const ctx3 = lienzoEspectroCategoria.getContext('2d');
 
-  agregar: (nombreCategoria: string, confianza: number, area: Cuadro, tiempo: number) => {
-    const categoria = categorias[nombreCategoria];
+  return {
+    reiniciar: () => {
+      listaCategorias.innerHTML = '';
+      categorias = {};
+    },
 
-    if (!categoria) {
-      const elemento = document.createElement('div');
-      const contador = document.createElement('span');
-      const barra = document.createElement('span');
-      const color = categoriasConColor[nombreCategoria];
+    agregar: (nombreCategoria: string, confianza: number, area: Cuadro, tiempo: number) => {
+      const categoria = categorias[nombreCategoria];
 
-      elemento.className = 'categoria';
-      elemento.innerText = nombreCategoria;
-      contador.className = 'contadorCategoria';
-      contador.innerText = '1';
-      barra.className = 'barraColor';
-      barra.style.backgroundColor = color;
+      if (!categoria) {
+        const elemento = document.createElement('div');
+        const contador = document.createElement('span');
+        const barra = document.createElement('span');
+        const color = categoriasConColor[nombreCategoria];
 
-      elemento.appendChild(barra);
-      elemento.appendChild(contador);
-      listaCategorias.appendChild(elemento);
+        elemento.className = 'categoria';
+        elemento.innerText = nombreCategoria;
+        contador.className = 'contadorCategoria';
+        contador.innerText = '1';
+        barra.className = 'barraColor';
+        barra.style.backgroundColor = color;
 
-      elemento.onclick = () => {
-        console.log(`Apariciones de categoría ${nombreCategoria}`, categorias[nombreCategoria].apariciones);
-      };
+        elemento.appendChild(barra);
+        elemento.appendChild(contador);
+        listaCategorias.appendChild(elemento);
 
-      elemento.onmouseenter = () => {
-        if (!ctx3) return;
+        elemento.onclick = () => {
+          console.log(`Apariciones de categoría ${nombreCategoria}`, categorias[nombreCategoria].apariciones);
+        };
 
-        lienzo2.classList.remove('visible');
-        lienzo3.classList.add('visible');
+        elemento.onmouseenter = () => {
+          if (!ctx3) return;
 
-        ctx3.clearRect(0, 0, lienzo3.width, lienzo3.height);
+          lienzoEspectros.classList.remove('visible');
+          lienzoEspectroCategoria.classList.add('visible');
 
-        const { apariciones } = categorias[nombreCategoria];
+          ctx3.clearRect(0, 0, lienzoEspectroCategoria.width, lienzoEspectroCategoria.height);
 
-        if (apariciones && apariciones.length) {
-          ctx3.fillStyle = color;
-          ctx3.globalAlpha = 0.05;
+          const { apariciones } = categorias[nombreCategoria];
 
-          apariciones.forEach(({ area }) => {
-            ctx3.fillRect(area.x, area.y, area.alto, area.alto);
-          });
-        }
-      };
+          if (apariciones && apariciones.length) {
+            ctx3.fillStyle = color;
+            ctx3.globalAlpha = 0.05;
 
-      elemento.onmouseleave = () => {
-        lienzo2.classList.add('visible');
-        lienzo3.classList.remove('visible');
-      };
+            apariciones.forEach(({ area }) => {
+              ctx3.fillRect(area.x, area.y, area.alto, area.alto);
+            });
+          }
+        };
 
-      categorias[nombreCategoria] = { contador, apariciones: [] };
-    } else {
-      categoria.contador.innerText = `${categoria.apariciones.length + 1}`;
-    }
+        elemento.onmouseleave = () => {
+          lienzoEspectros.classList.add('visible');
+          lienzoEspectroCategoria.classList.remove('visible');
+        };
 
-    categorias[nombreCategoria].apariciones.push({ tiempo, area, confianza });
-  },
+        categorias[nombreCategoria] = { contador, apariciones: [] };
+      } else {
+        categoria.contador.innerText = `${categoria.apariciones.length + 1}`;
+      }
 
-  apariciones: () => {
-    return categorias.apariciones;
-  },
-};
+      categorias[nombreCategoria].apariciones.push({ tiempo, area, confianza });
+    },
+
+    apariciones: () => {
+      return categorias.apariciones;
+    },
+  };
+}

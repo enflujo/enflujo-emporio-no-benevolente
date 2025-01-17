@@ -1,23 +1,26 @@
 import './scss/estilos.scss';
 import { imprimirMensaje } from './componentes/mensajes';
 import { controlesPantallaCompleta } from './componentes/pantallaCompleta';
-import { FilesetResolver, ObjectDetector } from '@mediapipe/tasks-vision';
-import predicciones from './componentes/predicciones';
+
+import utilidadPredicciones from './componentes/predicciones';
 import categoriasConColor from './componentes/categorias';
 import { crearMenuVideos } from './componentes/ListaVideos';
+import cargarModelo from './componentes/cargarModelo';
 
 const video = document.getElementById('video') as HTMLVideoElement;
 const lienzo = document.getElementById('lienzo1') as HTMLCanvasElement;
 const ctx = lienzo.getContext('2d') as CanvasRenderingContext2D;
-const lienzo2 = document.getElementById('lienzo2') as HTMLCanvasElement;
-const ctx2 = lienzo2.getContext('2d') as CanvasRenderingContext2D;
-const lienzo3 = document.getElementById('lienzo3') as HTMLCanvasElement;
+const lienzoEspectros = document.getElementById('lienzo2') as HTMLCanvasElement;
+const ctx2 = lienzoEspectros.getContext('2d') as CanvasRenderingContext2D;
+const lienzoEspectroCategoria = document.getElementById('lienzo3') as HTMLCanvasElement;
 
 let contadorAnim: number;
 let nombreVideo = '';
 let escala = { x: 1, y: 1 };
 const verVideo = document.getElementById('verVideo');
 const verVis = document.getElementById('verVis');
+
+const predicciones = utilidadPredicciones(lienzoEspectros, lienzoEspectroCategoria);
 
 if (verVideo) {
   verVideo.onclick = () => {
@@ -39,10 +42,10 @@ if (verVis) {
 
     if (activo) {
       verVis.classList.remove('activo');
-      lienzo2.classList.remove('visible');
+      lienzoEspectros.classList.remove('visible');
     } else {
       verVis.classList.add('activo');
-      lienzo2.classList.add('visible');
+      lienzoEspectros.classList.add('visible');
     }
   };
 }
@@ -62,22 +65,14 @@ function cargarVideo(nombre: string, formato: string) {
 async function inicio() {
   const barraConfianza = document.getElementById('barraConfianza') as HTMLInputElement;
   const valorConfianza = document.getElementById('valorConfianza') as HTMLInputElement;
+  let reloj: ReturnType<typeof setTimeout> | null = null;
 
   imprimirMensaje('Loading model, this can take some time...');
-  const vision = await FilesetResolver.forVisionTasks('https://cdn.jsdelivr.net/npm/@mediapipe/tasks-vision/wasm');
-
-  const modelo = await ObjectDetector.createFromOptions(vision, {
-    baseOptions: {
-      modelAssetPath: `https://storage.googleapis.com/mediapipe-models/object_detector/efficientdet_lite0/float16/1/efficientdet_lite0.tflite`,
-      delegate: 'GPU',
-    },
-    scoreThreshold: +barraConfianza.value,
-    runningMode: 'VIDEO',
-  });
-
-  imprimirMensaje('Model loaded, ready to play videos.');
-
+  const modelo = await cargarModelo(+barraConfianza.value);
+  imprimirMensaje('Model loaded, ready to play videos. Please select one from the list below.');
   await crearMenuVideos(cargarVideo);
+  controlesPantallaCompleta();
+  actualizarConfianza();
 
   video.onloadstart = () => {
     const nombreArchivo = video.querySelector('source')?.src.split('/').pop();
@@ -141,8 +136,6 @@ async function inicio() {
     contadorAnim = requestAnimationFrame(verVideo);
   }
 
-  let reloj: ReturnType<typeof setTimeout> | null = null;
-
   async function actualizarConfianza() {
     const valor = +barraConfianza.value;
     valorConfianza.innerText = `${Math.floor(valor * 100)}%`;
@@ -156,14 +149,11 @@ async function inicio() {
     }, 500);
   }
 
-  controlesPantallaCompleta();
-  actualizarConfianza();
-
   barraConfianza.oninput = actualizarConfianza;
 
   function escalar() {
-    video.width = lienzo.width = lienzo2.width = lienzo3.width = video.clientWidth;
-    video.height = lienzo.height = lienzo2.height = lienzo3.height = video.clientHeight;
+    video.width = lienzo.width = lienzoEspectros.width = lienzoEspectroCategoria.width = video.clientWidth;
+    video.height = lienzo.height = lienzoEspectros.height = lienzoEspectroCategoria.height = video.clientHeight;
 
     if (lienzo.width > video.videoWidth) escala.x = lienzo.width / video.videoWidth;
     else escala.x = video.videoWidth / lienzo.width;
