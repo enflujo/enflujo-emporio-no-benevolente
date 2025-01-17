@@ -51,6 +51,14 @@ Esto exporta todos los archivos que se deben subir a un servidor dentro de la ca
 
 Para convertir videos con FFMPEG con la máxima compatibilidad con exploradores:
 
+| variable | ejemplo                                                             |
+| -------- | ------------------------------------------------------------------- |
+| fuente   | `ruta_al_video/0013.webm` (incluir extensión)                       |
+| salida   | `publico/videos/0013.mp4` (incluir extensión)                       |
+| ancho    | `640` (para un video de 640x480, `1280` para uno de 1280x720, etc.) |
+
+Usando la CPU:
+
 ```bash
 ffmpeg -i {fuente} \
 -c:v libx264 -pix_fmt yuv420p -profile:v baseline -level 3.0 \
@@ -60,8 +68,17 @@ ffmpeg -i {fuente} \
 {salida}
 ```
 
-| variable | ejemplo                                                             |
-| -------- | ------------------------------------------------------------------- |
-| fuente   | `ruta_al_video/0013.webm` (incluir extensión)                       |
-| salida   | `publico/videos/0013.mp4` (incluir extensión)                       |
-| ancho    | `640` (para un video de 640x480, `1280` para uno de 1280x720, etc.) |
+Usando la GPU:
+
+h.264 (optimizado para web y asegurar la creación de fotogramas para detección con modelo de IA)
+
+```bash
+ffmpeg -i ./peppers_ghost01-modifyed.mp4 \
+-c:v h264_nvenc -preset slow \
+-b:v 2M -maxrate 3M -bufsize 4M \
+-profile:v main \
+-vf "fps=30,scale=1280:-2:flags=bicubic" \
+-c:a aac -b:a 128k -movflags +faststart \
+-pix_fmt yuv420p \
+peppers_ghost01-web_h264_2MB__.mp4
+```
