@@ -1,0 +1,71 @@
+{
+  "categoria": "zebra",
+  "categoriaSlug": "zebra",
+  "idioma": "zh",
+  "nombreIdioma": "中文",
+  "termino": "斑马",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T20:55:16.776Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "zh-CN",
+    "gl": "cn"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=%E6%96%91%E9%A9%AC&hl=zh-CN&gl=cn",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/zebra/zh/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfzlOGm0j3IdVZOLm3hhry0_W2hLGLAJbqsQ&s",
+      "fuentePagina": "https://zh.wikipedia.org/zh-cn/%E6%96%91%E9%A6%AC",
+      "titulo": "斑马- 维基百科，自由的百科全书",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfzlOGm0j3IdVZOLm3hhry0_W2hLGLAJbqsQ&s",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Plains_Zebra_Equus_quagga.jpg/960px-Plains_Zebra_Equus_quagga.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/zebra/zh/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRi4HyAp0Lt_-QFJwkgvgNWRRUvssMAJeqhbA&s",
+      "fuentePagina": "https://zh.wikipedia.org/zh-cn/%E7%BB%86%E7%BA%B9%E6%96%91%E9%A9%AC",
+      "titulo": "细纹斑马- 维基百科，自由的百科全书",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRi4HyAp0Lt_-QFJwkgvgNWRRUvssMAJeqhbA&s",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/0/0b/Grevys_zebra.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/zebra/zh/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2uKLIwE60GnDIRkU0zQgGt2Vc26C3sBNKXw&s",
+      "fuentePagina": "https://www.sohu.com/a/431200177_120591017",
+      "titulo": "最常见也最狡猾的动物，一身保护色让人难解，猎豹被耍得团团转_ ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2uKLIwE60GnDIRkU0zQgGt2Vc26C3sBNKXw&s",
+      "original": "http://p4.itc.cn/images01/20201111/b1b0f232aaf84c3d81b8b03e624e813d.jpeg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/zebra/zh/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8C1JvDLF8PAynaowjaNgZYqujlux0p9VKJg&s",
+      "fuentePagina": "https://safarimallorca.es/zh-CN/%E6%89%80%E6%9C%89%E7%9A%84%E5%8A%A8%E7%89%A9/%E6%96%91%E9%A9%AC/",
+      "titulo": "斑马- 马略卡岛野生动物园",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8C1JvDLF8PAynaowjaNgZYqujlux0p9VKJg&s",
+      "original": "https://safarimallorca.es/wp-content/uploads/2025/03/cebra-1.jpg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/zebra/zh/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzcorHy1UfMgKTFC1MOFAdELiZm88qR7Kqsg&s",
+      "fuentePagina": "https://cn.dreamstime.com/%E5%BA%93%E5%AD%98%E7%85%A7%E7%89%87-%E6%96%91%E9%A9%AC-image87494143",
+      "titulo": "Zebra 库存图片. 图片包括有斑马, 大草原, 野生生物, 表面, 本质 ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzcorHy1UfMgKTFC1MOFAdELiZm88qR7Kqsg&s",
+      "original": "https://thumbs.dreamstime.com/b/%E8%A2%AB%E9%9A%94-%E7%9A%84%E6%96%91%E9%A9%AC-30408343.jpg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/zebra/zh/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtKjpFJnikzFsUxu80r9tLHU4TergsspVK6w&s",
+      "fuentePagina": "https://zh.wikipedia.org/zh-cn/%E5%B1%B1%E6%96%91%E9%A9%AC",
+      "titulo": "山斑马- 维基百科，自由的百科全书",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtKjpFJnikzFsUxu80r9tLHU4TergsspVK6w&s",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/0/06/Zebra.zoo.750pix.jpg"
+    }
+  ]
+}

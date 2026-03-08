@@ -1,0 +1,71 @@
+{
+  "categoria": "zebra",
+  "categoriaSlug": "zebra",
+  "idioma": "zu",
+  "nombreIdioma": "isiZulu",
+  "termino": "idube",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T20:55:03.860Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "zu",
+    "gl": "za"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=idube&hl=zu&gl=za",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/zebra/zu/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIKzR6kuKqHWJ-JYft75jQWZsehm18hJzxjg&s",
+      "fuentePagina": "https://travelandthings.co.za/2022/10/back-again-idube-game-reserve-our-favourite-in-the-sabie-sands/",
+      "titulo": "Back again. iDube Game Reserve, our favourite in the Sabie ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIKzR6kuKqHWJ-JYft75jQWZsehm18hJzxjg&s",
+      "original": "http://travelandthings.co.za/content/uploads/2022/10/1-zebra1.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/zebra/zu/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUH39KWzqPzsIvZbKcHzRctRoKjLloUAWpJg&s",
+      "fuentePagina": "https://www.booking.com/hotel/za/idube-game-reserve.html",
+      "titulo": "Idube Game Reserve, Sabi Sand Game Reserve (updated prices 2026)",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUH39KWzqPzsIvZbKcHzRctRoKjLloUAWpJg&s",
+      "original": "https://cf.bstatic.com/xdata/images/hotel/max500/753932877.jpg?k=27438736de96305711b146f3ff78b2a0a5eb806461cacfcb1af401d618479098&o=&hp=1"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/zebra/zu/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtGFqfrdfQ_H4NH7wECoKuWSwzIcsqGVfxAw&s",
+      "fuentePagina": "https://travelandthings.co.za/2022/11/all-creatures-great-and-small-idube-game-reserve/",
+      "titulo": "All creatures great and small. iDube Game Reserve - Travel ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtGFqfrdfQ_H4NH7wECoKuWSwzIcsqGVfxAw&s",
+      "original": "http://travelandthings.co.za/content/uploads/2022/11/4-IMGP2156.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/zebra/zu/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSB-0D2qH-xxBEZHe4ZHKXknjlWdku7zuWFTw&s",
+      "fuentePagina": "https://wetu.com/iBrochure/en/Home/5583/idube_game_reserve",
+      "titulo": "Idube Game Reserve - Home",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSB-0D2qH-xxBEZHe4ZHKXknjlWdku7zuWFTw&s",
+      "original": "https://wetu.com/ImageHandler/w1920x1080/5583/1756388858322idube-game-reserve---lodge-exterior-4.jpg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/zebra/zu/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfJRnfAoUvjFJYASkLQPxaWga4KyQFQTSNhA&s",
+      "fuentePagina": "https://www.instagram.com/p/DVYIQOLCAWw/",
+      "titulo": "SAFARI BREAKAWAY! Reservations: Tel: (+27) 13 735 8000 Cell ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfJRnfAoUvjFJYASkLQPxaWga4KyQFQTSNhA&s",
+      "original": "https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3843858581061895600"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/zebra/zu/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRi9Mx89svRbsoRV5EbGOpZULDrwQohLDQAFg&s",
+      "fuentePagina": "https://www.sabi-sands.com/idube-game-lodge.php",
+      "titulo": "Idube Game Lodge – Safari suites with private pools | Sabi ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRi9Mx89svRbsoRV5EbGOpZULDrwQohLDQAFg&s",
+      "original": "https://www.sabi-sands.com/assets/img/idube-game-lodge-sabi-sands.jpg"
+    }
+  ]
+}
