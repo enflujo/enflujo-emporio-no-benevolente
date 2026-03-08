@@ -1,0 +1,71 @@
+{
+  "categoria": "toothbrush",
+  "categoriaSlug": "toothbrush",
+  "idioma": "qu",
+  "nombreIdioma": "Quechua",
+  "termino": "churanas",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:32:36.886Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "es",
+    "gl": "pe"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=churanas&hl=es&gl=pe",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/toothbrush/qu/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlEwCOmwv-ONX2x07laGIHhlpoSz-YtITsBw&s",
+      "fuentePagina": "https://www.deepayurveda.in/collections/churanas?srsltid=AfmBOopjR2DKbUDmzWW9PlnEuEclcv7HQFbPNM8HRLb9XT6rD8qAPnYc",
+      "titulo": "Churanas to balance the doshas (Vata, Pitta, and Kapha)",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlEwCOmwv-ONX2x07laGIHhlpoSz-YtITsBw&s",
+      "original": "https://www.deepayurveda.in/cdn/shop/products/edea014e694d5fdefb32d4306a86aebd.webp?v=1734096907"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/toothbrush/qu/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_Ek_i6gn6k7vqckCWBelZBubyo07byKovKA&s",
+      "fuentePagina": "https://www.facebook.com/robert.paucarachurana/",
+      "titulo": "Robert Paucara Churana (@robert.paucarachurana) • Facebook",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_Ek_i6gn6k7vqckCWBelZBubyo07byKovKA&s",
+      "original": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=1824168632"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/toothbrush/qu/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHO7udrrbGfq11q4DaDdXOHKnFr_iFAZ2gSw&s",
+      "fuentePagina": "https://www.tiktok.com/@churanafashion/video/7567138895146552596",
+      "titulo": "Indumentarias Indígenas: Detalles y Estilo Único",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHO7udrrbGfq11q4DaDdXOHKnFr_iFAZ2gSw&s",
+      "original": "https://www.tiktok.com/api/img/?itemId=7567138895146552596&location=0&aid=1988"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/toothbrush/qu/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqXKWRtYp9h2ysYdGZgZlwYgPkDzTTTa-v2Q&s",
+      "fuentePagina": "https://www.facebook.com/Churanaperu/",
+      "titulo": "Churana (@Churanaperu) • Facebook",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqXKWRtYp9h2ysYdGZgZlwYgPkDzTTTa-v2Q&s",
+      "original": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=100064073980812"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/toothbrush/qu/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNX2JSHYkZ_yS84My2XpuGgKjIPgHPf2Z8kg&s",
+      "fuentePagina": "https://www.tiktok.com/@churanafashion/video/7554902138594266379",
+      "titulo": "Visítanos en Alausi: Moda con Cultura y Tradición",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNX2JSHYkZ_yS84My2XpuGgKjIPgHPf2Z8kg&s",
+      "original": "https://www.tiktok.com/api/img/?itemId=7554902138594266379&location=0&aid=1988"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/toothbrush/qu/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRK1UBRtR_hcmZVe2QVWJJw4Ej_Yh3T3xu3w&s",
+      "fuentePagina": "https://www.pharmavends.com/product/triphala-churana/",
+      "titulo": "Triphala Churana - Highly effective in coonstipation ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRK1UBRtR_hcmZVe2QVWJJw4Ej_Yh3T3xu3w&s",
+      "original": "https://www.pharmavends.com/userspics/3c9c6a0dcaccd2c9b0b8d2fe437ba991.jpg"
+    }
+  ]
+}

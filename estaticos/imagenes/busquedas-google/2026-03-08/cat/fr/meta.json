@@ -1,0 +1,71 @@
+{
+  "categoria": "cat",
+  "categoriaSlug": "cat",
+  "idioma": "fr",
+  "nombreIdioma": "Français",
+  "termino": "chat",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T20:50:24.587Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "fr",
+    "gl": "be"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=chat&hl=fr&gl=be",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/cat/fr/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOPgKyJO5ydakxNwoXD3BALBCI7jihaULiGQ&s",
+      "fuentePagina": "https://sevetys.fr/conseils-veterinaires/chat/race-de-chats/europeen-european-shorthair/",
+      "titulo": "Chat européen (european shorthair) : santé, caractère et ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOPgKyJO5ydakxNwoXD3BALBCI7jihaULiGQ&s",
+      "original": "https://sevetys.fr/_next/image/?url=https%3A%2F%2Fcharming-angel-5ca83bf286.media.strapiapp.com%2FChat_europeen_573af6e71d.webp&w=3840&q=75"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/cat/fr/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgNU-nTgB66z4hIj8Q7ZUM_5H1pUjM6B1Qtw&s",
+      "fuentePagina": "https://parcsaintecroix.com/fr/le-chat-forestier-en-france",
+      "titulo": "Chat Forestier - Secrets du Chat Sauvage en France",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgNU-nTgB66z4hIj8Q7ZUM_5H1pUjM6B1Qtw&s",
+      "original": "https://parcsaintecroix.com/wp-content/uploads/2024/02/MG_3383-scaled.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/cat/fr/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7R7J4c6oBX_fkMyDPp_a0GjZlnk4sh5ymZw&s",
+      "fuentePagina": "https://fr.wikipedia.org/wiki/British_shorthair",
+      "titulo": "British shorthair — Wikipédia",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7R7J4c6oBX_fkMyDPp_a0GjZlnk4sh5ymZw&s",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/British_Shorthair._Female._18_months_old.jpg/960px-British_Shorthair._Female._18_months_old.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/cat/fr/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdqZgVzohObRZp1Idan1Ksplune1SwqfEMgQ&s",
+      "fuentePagina": "https://franklinpetfood.com/pages/races-guide-chats-moyens/bengal?srsltid=AfmBOora8cC_tRBcytr13XzWzNDKTiac46MiN1FlBnPfg57Bj7GscjsU",
+      "titulo": "Le Chat Bengal - Histoire, caractère, santé et entretien ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdqZgVzohObRZp1Idan1Ksplune1SwqfEMgQ&s",
+      "original": "https://franklinpetfood.com/cdn/shop/files/600X600_BENGAL_HEADER.jpg?v=1702485452&width=642"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/cat/fr/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVYz5dyQZheD5YJM8ZjCrkYIyhHwAMiQigtA&s",
+      "fuentePagina": "https://www.nationalgeographic.fr/animaux/comportement-animal-veterinaire-les-chats-auraient-276-expressions-faciales-animaux-de-compagnie",
+      "titulo": "Les chats auraient 276 expressions faciales | National ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVYz5dyQZheD5YJM8ZjCrkYIyhHwAMiQigtA&s",
+      "original": "https://static.nationalgeographic.fr/files/styles/image_3200/public/nationalgeographic_1468962.webp?w=1600&h=900"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/cat/fr/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTeAESK_7TivTqwhHZtM-9I8HEl-HyNdrH0cA&s",
+      "fuentePagina": "https://livvet.vet/races/chat-bengal/",
+      "titulo": "Chat Bengal | Caractère, santé, entretien et prix",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTeAESK_7TivTqwhHZtM-9I8HEl-HyNdrH0cA&s",
+      "original": "https://livvet.vet/wp-content/uploads/2025/07/bengal-chat-livvet-fiche-race-chat-teleconseil-veterinaire-home-livvet-veterinaire-min.png"
+    }
+  ]
+}

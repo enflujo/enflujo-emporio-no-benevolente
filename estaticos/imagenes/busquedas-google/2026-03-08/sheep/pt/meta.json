@@ -1,0 +1,71 @@
+{
+  "categoria": "sheep",
+  "categoriaSlug": "sheep",
+  "idioma": "pt",
+  "nombreIdioma": "Português",
+  "termino": "ovelha",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T20:52:48.569Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "pt",
+    "gl": "br"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=ovelha&hl=pt&gl=br",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/sheep/pt/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRC69n15a_Bytd4SV_Hcg7dskT5uWoeX_IR4w&s",
+      "fuentePagina": "https://www.infoescola.com/mamiferos/ovelha/",
+      "titulo": "Ovelha - InfoEscola",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRC69n15a_Bytd4SV_Hcg7dskT5uWoeX_IR4w&s",
+      "original": "https://www.infoescola.com/wp-content/uploads/2008/07/ovelha_112282007.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/sheep/pt/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZ1qiz-sfLKMCX4sLSbOHw9TuTuArldtwANA&s",
+      "fuentePagina": "https://www.petz.com.br/blog/visao-das-ovelhas/",
+      "titulo": "Visão das ovelhas: confira algumas curiosidades",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZ1qiz-sfLKMCX4sLSbOHw9TuTuArldtwANA&s",
+      "original": "https://www.petz.com.br/blog/wp-content/uploads/2023/04/nome-para-ovelhas-topo.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/sheep/pt/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZbarquzAwk3B42pPuZLp5RTjYpXVfuTqVaQ&s",
+      "fuentePagina": "https://www.cpt.com.br/noticias/racas-ovelhas-boa-adaptabilidade-brasil-13",
+      "titulo": "13 raças de ovelhas com boa adaptabilidade no Brasil ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZbarquzAwk3B42pPuZLp5RTjYpXVfuTqVaQ&s",
+      "original": "https://cptstatic.s3.amazonaws.com/imagens/enviadas/materias/materia2356/racas-ovelhas-boa-adaptabilidade-brasil-13-cpt.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/sheep/pt/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxRV5w8P8AjUskv7DRylQlaBhawa3RfsSOXw&s",
+      "fuentePagina": "https://labovet.com.br/blog-grandes-animais/ovinocultura-e-as-curiosidades-sobre-ovelhas",
+      "titulo": "OVINOCULTURA E AS CURIOSIDADES SOBRE OVELHAS | Labovet ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxRV5w8P8AjUskv7DRylQlaBhawa3RfsSOXw&s",
+      "original": "https://labovet.com.br/wp-content/uploads/2024/11/OVINOCULTURA-E-AS-CURIOSIDADES-SOBRE-OVELHAS-1024x576.jpg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/sheep/pt/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT52-NCe82j2Dl8cUUv5QDXNGYivvz8HBjWvw&s",
+      "fuentePagina": "https://www.marianebrezolin.com.br/ovelha-carneiro-cordeiro-tu-sabes-quem-e-quem/",
+      "titulo": "Ovelha, carneiro, cordeiro… Tu sabes quem é quem? – Sobre ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT52-NCe82j2Dl8cUUv5QDXNGYivvz8HBjWvw&s",
+      "original": "https://www.marianebrezolin.com.br/wp-content/uploads/2020/08/DSC04353-2-scaled.jpg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/sheep/pt/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxJsQ29pNdHAZXOa12yuJoBxDhLzmDkWvGLA&s",
+      "fuentePagina": "https://portalamoregraca.com.br/_site/mobile/espiritual/noticias/por-que-jesus-nos-compara-com-ovelhas",
+      "titulo": "Noticias - Por que Jesus nos compara com ovelhas ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxJsQ29pNdHAZXOa12yuJoBxDhLzmDkWvGLA&s",
+      "original": "https://portalamoregraca.com.br/_site/upload/noticias/por-que-jesus-nos-compara-com-ovelhas-97.png"
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "categoria": "motorcycle",
+  "categoriaSlug": "motorcycle",
+  "idioma": "en",
+  "nombreIdioma": "English",
+  "termino": "motorcycle",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T20:42:17.284Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "en",
+    "gl": "us"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=motorcycle&hl=en&gl=us",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/motorcycle/en/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPM0Kj_IQrmjGUwFnzZL77QKF46kOXDSspxA&s",
+      "fuentePagina": "https://www.motorcyclecruiser.com/what-is-standard-motorcycle/",
+      "titulo": "What is a Standard Motorcycle? | Motorcycle Cruiser",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPM0Kj_IQrmjGUwFnzZL77QKF46kOXDSspxA&s",
+      "original": "https://www.motorcyclecruiser.com/resizer/-PAnxmuTE3vonuu0CUHRZqr2kY8=/1440x0/smart/cloudfront-us-east-1.images.arcpublishing.com/octane/U7NE4JOSA757H7EYU44LJEESSA.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/motorcycle/en/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQm8bOHkbNkxlfRJr6E3OnpGxSXdk9Jf5GVOg&s",
+      "fuentePagina": "https://en.wikipedia.org/wiki/Motorcycle",
+      "titulo": "Motorcycle - Wikipedia",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQm8bOHkbNkxlfRJr6E3OnpGxSXdk9Jf5GVOg&s",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Kawasaki_Ninja_400_KRT_Edition_%28facelift_model%29_right_side.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/motorcycle/en/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQC5x4zEZXhD2UBpRKRPjHQJkYPW5UUHHAtBA&s",
+      "fuentePagina": "https://www.runmotorun.com/motorcycle-musings/types-of-motorcycles",
+      "titulo": "12 Types of Motorcycles Explained (With Photos) | 2026",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQC5x4zEZXhD2UBpRKRPjHQJkYPW5UUHHAtBA&s",
+      "original": "https://lirp.cdn-website.com/072a18a0/dms3rep/multi/opt/types-of-motorcycles-900x450-1920w.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/motorcycle/en/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTr1BR9lC0x7piqL_eSbI3vu3Up_uEGkO-TEA&s",
+      "fuentePagina": "https://www.roadrunner.travel/articles/do-you-ride-or-drive-a-motorcycle/",
+      "titulo": "Do You Ride or Drive a Motorcycle?",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTr1BR9lC0x7piqL_eSbI3vu3Up_uEGkO-TEA&s",
+      "original": "https://assets.roadrunner.travel/img/2024/08/WING9240.jpg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/motorcycle/en/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTplH_SCGlNwSGEXkdMrpfTscT_hyQBnDYbiw&s",
+      "fuentePagina": "https://www.kawasaki.com/en-us/motorcycle/ninja/sport/ninja-650",
+      "titulo": "Kawasaki Ninja® 650 | Motorcycle | Sporty & Nimble",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTplH_SCGlNwSGEXkdMrpfTscT_hyQBnDYbiw&s",
+      "original": "https://kawasaki-global-admin.com/ContentStorage/KMC/ProductTrimGroup/18/0d00b2e1-35c8-456d-93b6-c7e22cd914bb.jpg?w=1500"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/motorcycle/en/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQimEld4wi9M28Pay9PUH_sUaFHk58I7jrd3Q&s",
+      "fuentePagina": "https://www.cleanharleys.com/blog/howtochoosetherightmotorcycle",
+      "titulo": "How To Choose The Right Motorcycle For You: A Beginner's ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQimEld4wi9M28Pay9PUH_sUaFHk58I7jrd3Q&s",
+      "original": "https://cdn.dealeraccelerate.com/amtc/marketing_assets/78/bwmc2-motorcycle-types.webp"
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "categoria": "elephant",
+  "categoriaSlug": "elephant",
+  "idioma": "qu",
+  "nombreIdioma": "Quechua",
+  "termino": "paqichu",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T20:53:56.509Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "es",
+    "gl": "pe"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=paqichu&hl=es&gl=pe",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/elephant/qu/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvALrDfBIH_fUg4yAMIzoxDwlpj4_fxBPJ9w&s",
+      "fuentePagina": "https://chewinghappiness.com/es/qapchi-plato-de-ayacucho/",
+      "titulo": "Qapchi",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvALrDfBIH_fUg4yAMIzoxDwlpj4_fxBPJ9w&s",
+      "original": "https://chewinghappiness.com/wp-content/uploads/2020/04/Qapchi.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/elephant/qu/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBC8MW8HI8q_yLwPeRGKPH9-Ux_zw52oXiWg&s",
+      "fuentePagina": "https://chewinghappiness.com/es/qapchi-plato-de-ayacucho/",
+      "titulo": "Qapchi - Plato de Ayacucho | Receta Peruana Paso a Paso",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBC8MW8HI8q_yLwPeRGKPH9-Ux_zw52oXiWg&s",
+      "original": "https://chewinghappiness.com/wp-content/uploads/2020/04/qapchi-1.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/elephant/qu/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpzQnJPz-79wsDUH6k9BepsiR-qO1PvhirvQ&s",
+      "fuentePagina": "https://www.youtube.com/watch?v=Kko5bQcO9ao",
+      "titulo": "PREPARACION DE QAPCHI SUPER FACIL",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpzQnJPz-79wsDUH6k9BepsiR-qO1PvhirvQ&s",
+      "original": "https://i.ytimg.com/vi/Kko5bQcO9ao/sddefault.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/elephant/qu/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZUtvht-3eYTMqnVvcjwxwYg8GMPOZE-XX1A&s",
+      "fuentePagina": "https://chewinghappiness.com/es/qapchi-plato-de-ayacucho/",
+      "titulo": "Qapchi - Plato de Ayacucho | Receta Peruana Paso a Paso",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZUtvht-3eYTMqnVvcjwxwYg8GMPOZE-XX1A&s",
+      "original": "https://chewinghappiness.com/wp-content/uploads/2020/04/qapchi-2.jpg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/elephant/qu/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTx60VJMx7Sl4HNgNOewqClIC9yWp1z-SM-Yw&s",
+      "fuentePagina": "https://www.wikidex.net/wiki/Pichu",
+      "titulo": "Pichu - WikiDex, la enciclopedia Pokémon",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTx60VJMx7Sl4HNgNOewqClIC9yWp1z-SM-Yw&s",
+      "original": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/9/9d/latest/20150620210539/Pichu.png/200px-Pichu.png"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/elephant/qu/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgdwSrcNSP6i966yQfiHSZTNEcU9cFOgugCQ&s",
+      "fuentePagina": "https://chewinghappiness.com/es/qapchi-plato-de-ayacucho/",
+      "titulo": "Qapchi - Plato de Ayacucho | Receta Peruana Paso a Paso",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgdwSrcNSP6i966yQfiHSZTNEcU9cFOgugCQ&s",
+      "original": "https://chewinghappiness.com/wp-content/uploads/2020/04/qapchi-3.jpg"
+    }
+  ]
+}

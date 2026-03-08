@@ -1,0 +1,71 @@
+{
+  "categoria": "stop sign",
+  "categoriaSlug": "stop-sign",
+  "idioma": "ha",
+  "nombreIdioma": "Hausa",
+  "termino": "alama ta tsaya",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T20:47:50.372Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "ha",
+    "gl": "ng"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=alama%20ta%20tsaya&hl=ha&gl=ng",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/stop-sign/ha/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGeZTEXQdjffAywXGNY4-7voeHvHoZIN8rsQ&s",
+      "fuentePagina": "https://www.facebook.com/FreedomRadioNigeria/posts/bayyanar-sen-barau-jibrin-alama-ce-ta-alkiyamar-siyasar-wasu-ta-tsaya-kuma-ko-su/1266160115547085/",
+      "titulo": "Bayyanar Sen. Barau Jibrin, alama ce ta alkiyamar siyasar ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGeZTEXQdjffAywXGNY4-7voeHvHoZIN8rsQ&s",
+      "original": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=1266159822213781"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/stop-sign/ha/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLI0Dvp7bPZKOF3KQMzSNQBBrUA9B61Hk5tg&s",
+      "fuentePagina": "https://www.facebook.com/faizualfindikii/posts/boom-ga-wata-ta-cire-tsoro-tana-gayawa-kwankwasawa-gaskiyada-alama-ita-bata-iya-/1429367095226775/",
+      "titulo": "BOOM🔥 Ga wata ta cire tsoro tana gayawa Kwankwasawa gaskiya,da alama ita  bata iya raba kafa ba ta tsaya cak wajen mai garin garin mu💪👍🏻 | Faizu  Alfindiki | Facebook",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLI0Dvp7bPZKOF3KQMzSNQBBrUA9B61Hk5tg&s",
+      "original": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=1952809898783082&get_thumbnail=1"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/stop-sign/ha/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAqs0onAhEiXD1OqTLjWGPUMr8tv2AEMyBeQ&s",
+      "fuentePagina": "https://www.facebook.com/groups/220995231778681/posts/1830689330809255/",
+      "titulo": "Da alama yafi son wacca ta tsaya a hannun damar sa ne 😅",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAqs0onAhEiXD1OqTLjWGPUMr8tv2AEMyBeQ&s",
+      "original": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=711678241810087"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/stop-sign/ha/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpUv_jLtRTBmPWvid3RmvmsG3x9v0I4ubPFA&s",
+      "fuentePagina": "https://www.facebook.com/ibrahim.y.nguru/posts/alhamdu-lillaah-yobe-facebook-connect-muna-godiyawannan-lambar-yabo-ba-ta-tsaya-/10236098523180666/",
+      "titulo": "ALHAMDU LILLAAH Yobe Facebook Connect , muna godiya. Wannan ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpUv_jLtRTBmPWvid3RmvmsG3x9v0I4ubPFA&s",
+      "original": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=10236098522220642"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/stop-sign/ha/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCVl5sHxr6Icq-JzsPYZeDflwsamay2mVZWg&s",
+      "fuentePagina": "https://www.bbc.com/hausa/articles/c625xp5l1x1o",
+      "titulo": "Ambaliyar ruwa a Turai alama ce ta ɓarnar da sauyin yanayi ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCVl5sHxr6Icq-JzsPYZeDflwsamay2mVZWg&s",
+      "original": "https://ichef.bbci.co.uk/ace/ws/640/cpsprodpb/09d0/live/a9752f60-7aea-11ef-bf0c-9107d5571f2a.jpg.webp"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/stop-sign/ha/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKLlPI0FjFl1u6FtnFA2gHnldSiLAk6h5dtA&s",
+      "fuentePagina": "https://www.instagram.com/p/C1wm5J1tLfC/",
+      "titulo": "Da Alama Wannan Shekarar Monogram on top Sababbin Design ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKLlPI0FjFl1u6FtnFA2gHnldSiLAk6h5dtA&s",
+      "original": "https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3274287982440658882"
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "categoria": "truck",
+  "categoriaSlug": "truck",
+  "idioma": "en",
+  "nombreIdioma": "English",
+  "termino": "truck",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T20:44:52.156Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "en",
+    "gl": "us"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=truck&hl=en&gl=us",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/truck/en/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStuKKvXuVn4ffBgA5PytIp4NXTM7OIbeLmBg&s",
+      "fuentePagina": "https://www.chevrolet.com/trucks/silverado/1500",
+      "titulo": "2026 Chevy Silverado 1500 | Pickup Truck | Chevrolet",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStuKKvXuVn4ffBgA5PytIp4NXTM7OIbeLmBg&s",
+      "original": "https://www.chevrolet.com/content/dam/chevrolet/na/us/english/retail/march-2026/phase-1/movs/silverado-1500-26-mov-cw.png?imwidth=1200"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/truck/en/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbmQRzFPA89FFvTXzEh4Ij7pQGu6a-Lyi-Gg&s",
+      "fuentePagina": "https://www.indyautoman.com/blog/three-quarter-ton-truck",
+      "titulo": "What Is a Three-Quarter Ton Truck? | Indy Auto Man, Indianapolis",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbmQRzFPA89FFvTXzEh4Ij7pQGu6a-Lyi-Gg&s",
+      "original": "https://static.overfuel.com/dealers/indy-auto-man/image/what_is_a_three-quarter_ton_truck_1.webp"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/truck/en/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkpaW9PSzsmA74Hfy2O4R9UIwtoe8r9PPFGg&s",
+      "fuentePagina": "https://www.macktrucks.com/trucks/",
+      "titulo": "Product Lineup | Mack Trucks",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkpaW9PSzsmA74Hfy2O4R9UIwtoe8r9PPFGg&s",
+      "original": "https://www.macktrucks.com/trucks/media_1f12677374477276c0f3576aa371005221e7a55ba.png?width=750&format=png&optimize=medium"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/truck/en/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHzGxpmGfsrxuCFcbUPBHAot2bzL8Rf6qwRQ&s",
+      "fuentePagina": "https://www.kbb.com/pickup-truck/",
+      "titulo": "Best Trucks of 2025 - Top-Rated New Trucks Ranked",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHzGxpmGfsrxuCFcbUPBHAot2bzL8Rf6qwRQ&s",
+      "original": "https://file.kelleybluebookimages.com/kbb/base/evox/CP/58370/2026-Ford-Ranger%20SuperCrew-front_58370_032_1808x795_RR_cropped.png"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/truck/en/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgS0pE5sARCMNUCSoXPq7A_u1gVaV89OuZ8g&s",
+      "fuentePagina": "https://www.universityforddurham.com/blog/ford-pickup-benefits",
+      "titulo": "The Benefits of Choosing a Ford Pickup Truck | University ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgS0pE5sARCMNUCSoXPq7A_u1gVaV89OuZ8g&s",
+      "original": "https://d2v1gjawtegg5z.cloudfront.net/posts/preview_images/000/015/155/original/fordpickup.png?1717090124"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/truck/en/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEk86Ld85_uGeRkzfce49Jslzv7n3iVSSuHg&s",
+      "fuentePagina": "https://en.wikipedia.org/wiki/Truck",
+      "titulo": "Truck - Wikipedia",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEk86Ld85_uGeRkzfce49Jslzv7n3iVSSuHg&s",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/1/11/Freightliner_M2_106_6x4_2014_%2814240376744%29.jpg"
+    }
+  ]
+}

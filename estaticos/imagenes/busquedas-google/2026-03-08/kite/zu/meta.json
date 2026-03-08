@@ -1,0 +1,71 @@
+{
+  "categoria": "kite",
+  "categoriaSlug": "kite",
+  "idioma": "zu",
+  "nombreIdioma": "isiZulu",
+  "termino": "inkayishi",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:02:14.714Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "zu",
+    "gl": "za"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=inkayishi&hl=zu&gl=za",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/kite/zu/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFMfxxYRsTGOMg6bmplCsBgLru-7pJaoFH-g&s",
+      "fuentePagina": "https://www.facebook.com/100063622004336/posts/gameda-lakani-mallaka-wallahi-tallahi-inkayishi-nan-take-sai-yarinyar-tazo-inda-/428599748498013/",
+      "titulo": "Gameda lakani mallaka wallahi tallahi inkayishi nan take sai ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFMfxxYRsTGOMg6bmplCsBgLru-7pJaoFH-g&s",
+      "original": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=428598041831517"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/kite/zu/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDxeVz144EvAvn6Ylvit5ZrkX3n9Y7eafmdQ&s",
+      "fuentePagina": "https://www.youtube.com/watch?v=k8B7Xz48xq4",
+      "titulo": "Inkabi Ne Nkabikazi (Ft. Diary & Skillz) - S'yaz'Siyizoni (Visualiser)",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDxeVz144EvAvn6Ylvit5ZrkX3n9Y7eafmdQ&s",
+      "original": "https://i.ytimg.com/vi/k8B7Xz48xq4/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGD8gYShyMA8=&rs=AOn4CLDI89gPqxfOT7ovRtpXdu20chBrow"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/kite/zu/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRp1_4QqnAzgzpJLnPy9CE82u9XiI8GeYfi9Q&s",
+      "fuentePagina": "https://open.spotify.com/album/4NZL3lD7gsbWwEQwqbNinn",
+      "titulo": "Inkanyezi - Album by Sushi Da Deejay | Spotify",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRp1_4QqnAzgzpJLnPy9CE82u9XiI8GeYfi9Q&s",
+      "original": "https://i.scdn.co/image/ab67616d0000b273e0f5b5798f0b026a96f07236"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/kite/zu/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8wM6oIA7ZiZpLoBIdLwW1_qS9mb4LfhFPmg&s",
+      "fuentePagina": "https://www.instagram.com/p/DF8HQfcIxrl/?hl=am-et",
+      "titulo": "🤍",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8wM6oIA7ZiZpLoBIdLwW1_qS9mb4LfhFPmg&s",
+      "original": "https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3565756763848370226"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/kite/zu/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKDWhRc7mIcHYmdjKXop93x_MxiqtxrJ2SzQ&s",
+      "fuentePagina": "https://www.imdb.com/title/tt32365822/",
+      "titulo": "Inkabi (2024) - IMDb",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKDWhRc7mIcHYmdjKXop93x_MxiqtxrJ2SzQ&s",
+      "original": "https://m.media-amazon.com/images/M/MV5BMmZhYWIxMzQtNGUwZS00YmJhLTk3ZGQtYjFjNjVmZGFhYmVkXkEyXkFqcGc@._V1_.jpg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/kite/zu/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRW4TwJKrnf0dhQLSGZsDy3RQoRBc3SmSEIyw&s",
+      "fuentePagina": "https://www.youtube.com/watch?v=_-ohH1r37Gk",
+      "titulo": "Inkabi Nations - Kuyokhanya (Official Audio) ft. Mduduzi ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRW4TwJKrnf0dhQLSGZsDy3RQoRBc3SmSEIyw&s",
+      "original": "https://i.ytimg.com/vi/_-ohH1r37Gk/sddefault.jpg?v=6368bb27"
+    }
+  ]
+}

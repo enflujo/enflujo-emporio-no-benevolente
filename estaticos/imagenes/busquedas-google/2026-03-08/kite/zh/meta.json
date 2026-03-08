@@ -1,0 +1,71 @@
+{
+  "categoria": "kite",
+  "categoriaSlug": "kite",
+  "idioma": "zh",
+  "nombreIdioma": "中文",
+  "termino": "风筝",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:02:27.357Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "zh-CN",
+    "gl": "cn"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=%E9%A3%8E%E7%AD%9D&hl=zh-CN&gl=cn",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/kite/zh/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7tlES1xxnMt5pVt59NH9dk6SbTXVq7EPoNw&s",
+      "fuentePagina": "https://zh.wikipedia.org/zh-cn/%E9%A3%8E%E7%AD%9D",
+      "titulo": "风筝- 维基百科，自由的百科全书",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7tlES1xxnMt5pVt59NH9dk6SbTXVq7EPoNw&s",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/3/37/Fengzheng.JPG"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/kite/zh/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpk5KnZHhyPfDKsFt_AGNK_h1RDMHI1tfg0A&s",
+      "fuentePagina": "https://www.wlkst.com/mzfq/5682.jhtml",
+      "titulo": "风筝的分类|武隆旅游网",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpk5KnZHhyPfDKsFt_AGNK_h1RDMHI1tfg0A&s",
+      "original": "https://www.wlkst.com/u/cms/www/201304/101755516a9i.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/kite/zh/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQ_U2Q7MDtnmI1X8i8BXprXwzX63TgkTzdLQ&s",
+      "fuentePagina": "https://baike.baidu.com/item/%E6%94%BE%E9%A3%8E%E7%AD%9D/1851393",
+      "titulo": "放风筝_百度百科",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQ_U2Q7MDtnmI1X8i8BXprXwzX63TgkTzdLQ&s",
+      "original": "https://bkimg.cdn.bcebos.com/smart/7e3e6709c93d70cf3bc78331728bc600baa1cd11fdca-bkimg-process,v_1,rw_1,rh_1,pad_1,color_ffffff?x-bce-process=image/format,f_auto"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/kite/zh/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcToJ33ltr0XBDbWHhmTT5P46X-BeMMj38uO6g&s",
+      "fuentePagina": "https://cn.dreamstime.com/%E5%BA%93%E5%AD%98%E7%85%A7%E7%89%87-%E9%BE%99%E9%A3%8E%E7%AD%9D%E5%A4%A9%E7%A9%BA-image1852593",
+      "titulo": "天空中飞舞的龙风筝库存图片. 图片包括有风筝, 乐趣, 室外, 黄色 ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcToJ33ltr0XBDbWHhmTT5P46X-BeMMj38uO6g&s",
+      "original": "https://thumbs.dreamstime.com/b/%E9%BE%99%E9%A3%8E%E7%AD%9D%E5%A4%A9%E7%A9%BA-1852593.jpg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/kite/zh/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTjw9xRoDnKfdrdhAdhSy8MxjNz7EPOEHLqA&s",
+      "fuentePagina": "http://shaoer.cctv.com/2017/04/06/ARTIII97mLcFDy0RTEOWEhrw170406.shtml",
+      "titulo": "放风筝对孩子的好处_青少台_央视网(cctv.com)",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTjw9xRoDnKfdrdhAdhSy8MxjNz7EPOEHLqA&s",
+      "original": "http://p1.img.cctvpic.com/photoworkspace/contentimg/2017/04/06/2017040611030933161.jpg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/kite/zh/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGFg0BgKJIA2HTRIgMN6Ln3_tikYGeJKvQlQ&s",
+      "fuentePagina": "https://www.sohu.com/a/419209467_631907",
+      "titulo": "痴迷风筝的印度：好斗性格把风筝当空战，每年因风筝发生多起意外 ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGFg0BgKJIA2HTRIgMN6Ln3_tikYGeJKvQlQ&s",
+      "original": "http://p2.itc.cn/images01/20200918/aa0a4ac09d6a499893bcc6717ee0fad2.jpeg"
+    }
+  ]
+}

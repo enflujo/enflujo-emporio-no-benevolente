@@ -1,0 +1,71 @@
+{
+  "categoria": "parking meter",
+  "categoriaSlug": "parking-meter",
+  "idioma": "ln",
+  "nombreIdioma": "Lingala",
+  "termino": "compteur ya gari",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T20:48:17.513Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "fr",
+    "gl": "cd"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=compteur%20ya%20gari&hl=fr&gl=cd",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/parking-meter/ln/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_MLn6-mD3TNDsazSX4q_DVEl0WAdcHmjcsg&s",
+      "fuentePagina": "https://bolitoo.com/produit/compteur-denergie-electrique-monophase-yaki/",
+      "titulo": "Compteur d'Énergie Électrique Monophasé YAKI",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_MLn6-mD3TNDsazSX4q_DVEl0WAdcHmjcsg&s",
+      "original": "https://bolitoo.com/wp-content/uploads/2021/10/Compteur-dEnergie-Electrique-Monophase-YAKI.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/parking-meter/ln/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHk5q04RwmW2fqBH6QeTF9iLpBsV8aA6X3AA&s",
+      "fuentePagina": "https://ici.radio-canada.ca/nouvelle/739491/nouveaux-compteurs-electriques-reservoirs-propane-rapport-ireq",
+      "titulo": "Nouveaux compteurs électriques et incendies : rapport ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHk5q04RwmW2fqBH6QeTF9iLpBsV8aA6X3AA&s",
+      "original": "https://img.src.ca/2014/04/01/1250x703/140401_977m7_le1518-compteurshydro_sn1250.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/parking-meter/ln/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSVVtb6b_Q1DKMWnjtYqaWIxrU_tCTColcwg&s",
+      "fuentePagina": "https://www.luro.fr/compteur-gasoil-mecanique-4-chiffres-debit-de-20-a-120-l-mn",
+      "titulo": "Compteur gasoil mécanique 4 chiffres, débit de 20 à 120 l/mn",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSVVtb6b_Q1DKMWnjtYqaWIxrU_tCTColcwg&s",
+      "original": "https://www.luro.fr/media/catalog/product/cache/b1de46bdd1cbe89edaf13a8ccce9dd9e/1/0/10022044.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/parking-meter/ln/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS25ieB9Jl-9iX-A7r-iilMp-foMUfaauUhUw&s",
+      "fuentePagina": "https://picbleu.fr/les-articles/avantages-et-inconvenients-du-compteur-gaz-gazpar-grdf",
+      "titulo": "Compteur Gazpar GRDF : avantages inconvénients du compteur ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS25ieB9Jl-9iX-A7r-iilMp-foMUfaauUhUw&s",
+      "original": "https://picbleu.fr/uploads/article/compteur-gaz-communiquant-gazpar-grdf-doc-picbleu_647604f772b36.jpg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/parking-meter/ln/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxNxT6iOy8UjI7u8pz3SHNSCY2PgEf7q0SMQ&s",
+      "fuentePagina": "https://www.algi.fr/produit/transfert-electrique/transfert-electrique-gasoil-et-fuel/compteurs-pour-gasoil-et-fuel/compteur-mecanique-4-chiffres-pour-gasoil/",
+      "titulo": "Compteur mécanique 4 chiffres pour gasoil - Algi Equipements",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxNxT6iOy8UjI7u8pz3SHNSCY2PgEf7q0SMQ&s",
+      "original": "https://www.algi.fr/wp-content/uploads/2021/09/07635015-1.jpg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/parking-meter/ln/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnicQuJu5-9DuaRAFNCXWUzJftreiRw3gY7Q&s",
+      "fuentePagina": "https://www.orka-sas.com/compteur-communicant-de-gaz-de-grdf/",
+      "titulo": "Compteur communicant de gaz de GRDF - Orka SAS",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnicQuJu5-9DuaRAFNCXWUzJftreiRw3gY7Q&s",
+      "original": "https://www.orka-sas.com/wp-content/uploads/2024/07/gazpar-orka.jpg"
+    }
+  ]
+}

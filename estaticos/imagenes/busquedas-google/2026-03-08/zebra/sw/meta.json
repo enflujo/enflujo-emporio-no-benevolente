@@ -1,0 +1,71 @@
+{
+  "categoria": "zebra",
+  "categoriaSlug": "zebra",
+  "idioma": "sw",
+  "nombreIdioma": "Kiswahili",
+  "termino": "punda milia",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T20:54:47.914Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "sw",
+    "gl": "tz"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=punda%20milia&hl=sw&gl=tz",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/zebra/sw/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3YSeuDeJtz41aohqC2tW-rAWGluBfMR_EAQ&s",
+      "fuentePagina": "https://sw.wikipedia.org/wiki/Punda_milia",
+      "titulo": "Punda milia - Wikipedia, kamusi elezo huru",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3YSeuDeJtz41aohqC2tW-rAWGluBfMR_EAQ&s",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/e/e8/TheGreatZebra.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/zebra/sw/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJAFJ2cCC3gFAubQ8mFa77Oj8KFexvUJkM0A&s",
+      "fuentePagina": "https://sw.wikipedia.org/wiki/Punda_milia_nyika",
+      "titulo": "Punda milia nyika - Wikipedia, kamusi elezo huru",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJAFJ2cCC3gFAubQ8mFa77Oj8KFexvUJkM0A&s",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/4/45/Equus_quagga_burchellii_-_Etosha%2C_2014.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/zebra/sw/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbN0h3eP_FCgvgFmDUXEN_3cphlc4NnND0Qg&s",
+      "fuentePagina": "https://www.bbc.com/swahili/habari-50012002",
+      "titulo": "Pundamilia 'alibino' apatikana mbuga ya wanyama pori Masai ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbN0h3eP_FCgvgFmDUXEN_3cphlc4NnND0Qg&s",
+      "original": "http://c.files.bbci.co.uk/A5E5/production/_109196424_1cec8adc-2dfb-4a0f-9f62-c9d05160cae7.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/zebra/sw/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtHLh5eIYtMg9Oz4sva4BcaKL4wFCFowcdyA&s",
+      "fuentePagina": "https://sw.wikipedia.org/wiki/Punda_milia",
+      "titulo": "Punda milia - Wikipedia, kamusi elezo huru",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtHLh5eIYtMg9Oz4sva4BcaKL4wFCFowcdyA&s",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Zebra_portrait.jpg/250px-Zebra_portrait.jpg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/zebra/sw/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4nx4R6JSNeMu4ZAh2aAL8181fip5N1oabnQ&s",
+      "fuentePagina": "https://sw.wikipedia.org/wiki/Punda_milia",
+      "titulo": "Punda milia - Wikipedia, kamusi elezo huru",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4nx4R6JSNeMu4ZAh2aAL8181fip5N1oabnQ&s",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Tanzanian_Animals.jpg/250px-Tanzanian_Animals.jpg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/zebra/sw/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9XaI5BO1H2hb4gvgmEBKaQ-UsOgBK46YdEA&s",
+      "fuentePagina": "https://www.bbc.com/swahili/habari-44977364",
+      "titulo": "Bustani ya wanyama Misri imetuhumiwa kumpaka rangi Punda ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9XaI5BO1H2hb4gvgmEBKaQ-UsOgBK46YdEA&s",
+      "original": "http://c.files.bbci.co.uk/1368C/production/_102700597_001343837.jpg"
+    }
+  ]
+}

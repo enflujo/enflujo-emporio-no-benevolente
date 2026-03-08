@@ -1,0 +1,71 @@
+{
+  "categoria": "microwave",
+  "categoriaSlug": "microwave",
+  "idioma": "ha",
+  "nombreIdioma": "Hausa",
+  "termino": "murƙusar abinci",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:24:59.743Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "ha",
+    "gl": "ng"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=mur%C6%99usar%20abinci&hl=ha&gl=ng",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/microwave/ha/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMezk9Em5pKQ9LksuQSAgqMzD6tYs0Kc-A8A&s",
+      "fuentePagina": "https://www.bbc.com/hausa/articles/c751x0q9v22o",
+      "titulo": "Abinci 7 da za su taimaka muku wajen rage ƙiba - BBC News Hausa",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMezk9Em5pKQ9LksuQSAgqMzD6tYs0Kc-A8A&s",
+      "original": "https://ichef.bbci.co.uk/news/1024/branded_hausa/8313/live/b483fb50-ba6f-11f0-aa13-0b0479f6f42a.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/microwave/ha/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKQpomKtHtPvUzohhRXgWItHwT4jrc_TqAIA&s",
+      "fuentePagina": "https://www.bbc.com/hausa/articles/c751x0q9v22o",
+      "titulo": "Abinci 7 da za su taimaka muku wajen rage ƙiba - BBC News Hausa",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKQpomKtHtPvUzohhRXgWItHwT4jrc_TqAIA&s",
+      "original": "https://ichef.bbci.co.uk/ace/ws/640/cpsprodpb/230e/live/0b477980-ba57-11f0-995c-3bd371294616.jpg.webp"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/microwave/ha/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQF1pVe4Y20k0k5IG9czceAtF4jeehaNxXizQ&s",
+      "fuentePagina": "https://www.bbc.com/hausa/articles/ckmex36p473o",
+      "titulo": "Ko cin abinci sau uku a rana na da illa? - BBC News Hausa",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQF1pVe4Y20k0k5IG9czceAtF4jeehaNxXizQ&s",
+      "original": "https://ichef.bbci.co.uk/news/1024/branded_hausa/9dc3/live/e3edfc50-6ba3-11ee-8204-a9475f26e6d9.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/microwave/ha/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPAT8GzS7-xDO9IpDnpTvXlLwQQNjSdHYJbg&s",
+      "fuentePagina": "https://www.instagram.com/p/DVWcXCujcKG/",
+      "titulo": "Wane abinci ne ba ku son yin buɗe-baki da shi?🍛",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPAT8GzS7-xDO9IpDnpTvXlLwQQNjSdHYJbg&s",
+      "original": "https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3836134426179040539"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/microwave/ha/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwtXqDpRTZYpdHesEGqJSm5c-iu5iSScFgMg&s",
+      "fuentePagina": "https://hausa.legit.ng/news/1579625-an-tare-motocin-abinci-50-daga-najeriya-za-su-shiga-kasar-nijar-bayan-umarnin-tinubu/",
+      "titulo": "An Maida Motocin Abinci 50 Najeriya, Za Su Shiga Kasar Nijar ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwtXqDpRTZYpdHesEGqJSm5c-iu5iSScFgMg&s",
+      "original": "https://cdn.legit.ng/images/1200x675/136063080032bd70.jpeg?v=1"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/microwave/ha/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRiCxivSlNB7LBBiopaSM5QLz6uUsl5Lk-xig&s",
+      "fuentePagina": "https://www.bbc.com/hausa/articles/cqqd34pw5kqo",
+      "titulo": "Rashin abinci ya sa ƴan Zimbabwe tunanin ko dawa da gero ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRiCxivSlNB7LBBiopaSM5QLz6uUsl5Lk-xig&s",
+      "original": "https://ichef.bbci.co.uk/news/1024/branded_hausa/0b66/live/37e63e30-0769-11ed-93ba-314ede9cd985.jpg"
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "categoria": "toothbrush",
+  "categoriaSlug": "toothbrush",
+  "idioma": "yo",
+  "nombreIdioma": "Yorùbá",
+  "termino": "fìràṣì eyin",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:32:22.454Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "yo",
+    "gl": "ng"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=f%C3%ACr%C3%A0%E1%B9%A3%C3%AC%20eyin&hl=yo&gl=ng",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/toothbrush/yo/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6ppYY6RgLxpfUbJujwS8inPjzPTiThjUcDg&s",
+      "fuentePagina": "https://techafricanews.com/2025/08/13/firs-launches-e-invoicing-solution-to-revolutionize-tax-administration-in-nigeria/",
+      "titulo": "FIRS Launches E-Invoicing Solution to Revolutionize Tax ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6ppYY6RgLxpfUbJujwS8inPjzPTiThjUcDg&s",
+      "original": "https://techafricanews.com/wp-content/uploads/2025/08/firs--1024x690.png"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/toothbrush/yo/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzwx1922TR0PntMakLOz3MNYTdZwsUGZK37g&s",
+      "fuentePagina": "https://www.instagram.com/p/DS1bsaSjwu2/",
+      "titulo": "Tis the season! ❤️🌲🧑‍🎄 #asifaartistry #makeupartist ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzwx1922TR0PntMakLOz3MNYTdZwsUGZK37g&s",
+      "original": "https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3825243918963600642"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/toothbrush/yo/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGCyckvBuyvYzPQhu8Ru9_Fk6XJbxt2gP74Q&s",
+      "fuentePagina": "https://www.bbc.com/hausa/articles/cyd81v089g3o",
+      "titulo": "Daga Bakin Mai Ita tare da Fati Zinariya ta Izzar So",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGCyckvBuyvYzPQhu8Ru9_Fk6XJbxt2gP74Q&s",
+      "original": "https://ichef.bbci.co.uk/images/ic/512xn/p0fnxsfb.jpg.webp"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/toothbrush/yo/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlYb-Op4vXQbrrSn5cI-iZqqzonpBByc6Z9Q&s",
+      "fuentePagina": "https://en.wikipedia.org/wiki/Firas_Al-Buraikan",
+      "titulo": "Firas Al-Buraikan - Wikipedia",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlYb-Op4vXQbrrSn5cI-iZqqzonpBByc6Z9Q&s",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/8/89/Feras_Albrikan%2C_2025_CONCACAF_Gold_Cup_%28cropped%29.jpg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/toothbrush/yo/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgHnC1Jd5A3n0fjouT5jjt19IU7DVA2pbjnA&s",
+      "fuentePagina": "https://ha.wikipedia.org/wiki/Fir%27auna",
+      "titulo": "Fir'auna - Wikipedia",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgHnC1Jd5A3n0fjouT5jjt19IU7DVA2pbjnA&s",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Figura_de_Fara%C3%B3n_-_A740811.jpg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/toothbrush/yo/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ79IoGVWZVOZMBMnKuqLtC0b3CPZeH3HGPCQ&s",
+      "fuentePagina": "https://www.facebook.com/YemibOyebanji/posts/yesterday-i-joined-the-first-lady-of-ekiti-state-erelu-bisi-fayemi-at-her-chieft/131462636283222/",
+      "titulo": "Yesterday, I joined the First Lady of Ekiti State, Erelu ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ79IoGVWZVOZMBMnKuqLtC0b3CPZeH3HGPCQ&s",
+      "original": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=131461132950039"
+    }
+  ]
+}

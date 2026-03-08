@@ -1,0 +1,71 @@
+{
+  "categoria": "car",
+  "categoriaSlug": "car",
+  "idioma": "es",
+  "nombreIdioma": "Español",
+  "termino": "automóvil",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T20:42:12.777Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "es",
+    "gl": "es"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=autom%C3%B3vil&hl=es&gl=es",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/car/es/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2cpuDGPBoBn4a024rvNZc4zadwGUTwOzzBw&s",
+      "fuentePagina": "https://www.caranddriver.com/es/coches/planeta-motor/g37304006/coches-mas-caros-del-mundo/",
+      "titulo": "Los 29 coches más caros y lujosos del mundo, analizados",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2cpuDGPBoBn4a024rvNZc4zadwGUTwOzzBw&s",
+      "original": "https://hips.hearstapps.com/hmg-prod/images/si202407110285-6690fe8721fc2.jpg?crop=1.00xw:0.846xh;0,0.116xh"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/car/es/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHS6v7IQkh5l7CGsEd80t3taM8tMxUwH5f1g&s",
+      "fuentePagina": "https://www.caranddriver.com/es/coches/planeta-motor/g37304006/coches-mas-caros-del-mundo/",
+      "titulo": "Los 29 coches más caros y lujosos del mundo, analizados",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHS6v7IQkh5l7CGsEd80t3taM8tMxUwH5f1g&s",
+      "original": "https://hips.hearstapps.com/hmg-prod/images/bugatti-divo-lady-bug-2020-1600-05-1614854784.jpg?crop=1.00xw:0.752xh;0,0.106xh"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/car/es/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZ1SX-nR-yh6vVP4oa6QibREd7GOJMr_FajQ&s",
+      "fuentePagina": "https://www.bbc.com/mundo/noticias-38923000",
+      "titulo": "El largo y complejo proceso para producir a mano el auto más ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZ1SX-nR-yh6vVP4oa6QibREd7GOJMr_FajQ&s",
+      "original": "http://c.files.bbci.co.uk/11728/production/_94246417_9.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/car/es/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQf3uJHS877ZPrd4tIQhzpmvsLfIpshSTCAow&s",
+      "fuentePagina": "https://www.marca.com/motor/salon-automovil-los-angeles/2018/11/28/5bfe84b2468aebc81f8b4705.html",
+      "titulo": "Salón del Automóvil de Los Ángeles 2018: el Toyota Prius ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQf3uJHS877ZPrd4tIQhzpmvsLfIpshSTCAow&s",
+      "original": "https://e00-marca.uecdn.es/assets/multimedia/imagenes/2018/11/28/15434043406558.jpg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/car/es/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbuOlzzSm847mLwyVX1ZUds0_GrgzIgjYX_A&s",
+      "fuentePagina": "https://www.caranddriver.com/es/coches/planeta-motor/g37304006/coches-mas-caros-del-mundo/",
+      "titulo": "Los 29 coches más caros y lujosos del mundo, analizados",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbuOlzzSm847mLwyVX1ZUds0_GrgzIgjYX_A&s",
+      "original": "https://hips.hearstapps.com/hmg-prod/images/bugatti-mistral-roadster-101-1660658847.jpg?crop=0.817xw:0.726xh;0.183xw,0.0892xh"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/car/es/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQj4smt1xSxigmxD61itWgCWhqpBhk5sC-rlw&s",
+      "fuentePagina": "https://es.wikipedia.org/wiki/Veh%C3%ADculo",
+      "titulo": "Vehículo - Wikipedia, la enciclopedia libre",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQj4smt1xSxigmxD61itWgCWhqpBhk5sC-rlw&s",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Mercedes-simplex-508.jpg"
+    }
+  ]
+}

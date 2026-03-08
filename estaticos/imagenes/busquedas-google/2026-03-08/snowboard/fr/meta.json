@@ -1,0 +1,71 @@
+{
+  "categoria": "snowboard",
+  "categoriaSlug": "snowboard",
+  "idioma": "fr",
+  "nombreIdioma": "Français",
+  "termino": "snowboard",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:00:47.386Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "fr",
+    "gl": "be"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=snowboard&hl=fr&gl=be",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/snowboard/fr/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3o6LcEprbzZMPdadPyq4XqwvqOsjlcOVBVg&s",
+      "fuentePagina": "https://www.ridestore.com/fr/mag/quel-est-le-plus-facile-le-ski-ou-le-snowboard/",
+      "titulo": "Quel est le plus facile : le ski ou le snowboard ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3o6LcEprbzZMPdadPyq4XqwvqOsjlcOVBVg&s",
+      "original": "https://www.ridestore.com/images/wordpress-4582241/uploads/2022/08/quel-est-le-plus-facile-le-ski-ou-le-snowboard-ridestore-magazine.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/snowboard/fr/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnqna3K-NxswFwUA_qyZMQA8_Iii1hpTJQsQ&s",
+      "fuentePagina": "https://www.photowall.com/be-fr/snowboard-big-air-jump-impressions-sur-toile",
+      "titulo": "Snowboard Big Air Jump - impression sur toile en ligne pas ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnqna3K-NxswFwUA_qyZMQA8_Iii1hpTJQsQ&s",
+      "original": "https://images.photowall.com/products/48546/snowboard-big-air-jump.jpg?h=699&q=85"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/snowboard/fr/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpxyhD7ZGykea6fPtB6Oo3AaVRhZo6AnUSUg&s",
+      "fuentePagina": "https://www.dopesnow.com/mag/is-snowboarding-a-good-workout/?srsltid=AfmBOoo0Wmtv0-s0J3TKDR2XfWhkot_gxP4tHkQWhE7Fi00q8RPBgfx-",
+      "titulo": "Is snowboarding a good workout? - Top 5 benefits | Dope Magazine",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpxyhD7ZGykea6fPtB6Oo3AaVRhZo6AnUSUg&s",
+      "original": "https://www.dopesnow.com/images/wordpress-4582242/uploads/2023/01/top-5-health-benefits-of-skiing-and-snowboarding-dope-magazine.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/snowboard/fr/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSty_oXeAHJWtvs79yc6PzPgWyY-XFdaaYpEQ&s",
+      "fuentePagina": "https://www.nitrosnowboards.com/fr/collections/all-mens-snowboards",
+      "titulo": "Tous les snowboards homme",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSty_oXeAHJWtvs79yc6PzPgWyY-XFdaaYpEQ&s",
+      "original": "https://www.nitrosnowboards.com/cdn/shop/collections/QUIVER_Nitro_Snowboards_24_Digital-023_d54cffee-6cd7-4a55-a871-a5d8cdcadda6.jpg?v=1755768533&width=2250"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/snowboard/fr/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-hHNBbljCOyTw0e0qb9KHpF4nM6SupJnxiA&s",
+      "fuentePagina": "https://evolution2.com/snowboard-stages",
+      "titulo": "Réservez votre cours de snowboard avec les moniteurs Evolution 2",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-hHNBbljCOyTw0e0qb9KHpF4nM6SupJnxiA&s",
+      "original": "https://evolution2.com/media/cache/adv_content_block_boxed/2024/08/5224-evolution2-tignes-snowboard-bank-slalom-189.jpg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/snowboard/fr/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyKEWuxdq1pZ73w-VqerSkWmJ7ysUaCO-5vA&s",
+      "fuentePagina": "https://www.photowall.com/be-fr/snowboarder-backflip-papiers-peint",
+      "titulo": "Snowboarder Backflip - Papier peint panoramique remarquable ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyKEWuxdq1pZ73w-VqerSkWmJ7ysUaCO-5vA&s",
+      "original": "https://images.photowall.com/products/52933/snowboarder-backflip.jpg?h=699&q=85"
+    }
+  ]
+}

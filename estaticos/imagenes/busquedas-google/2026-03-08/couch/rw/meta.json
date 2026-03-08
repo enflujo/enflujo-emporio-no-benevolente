@@ -1,0 +1,71 @@
+{
+  "categoria": "couch",
+  "categoriaSlug": "couch",
+  "idioma": "rw",
+  "nombreIdioma": "Kinyarwanda",
+  "termino": "sofa",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:17:39.128Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "en",
+    "gl": "rw"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=sofa&hl=en&gl=rw",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/couch/rw/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcrf89aVC4Sjz9ABLcCVszyRE8EyrMGK1PnA&s",
+      "fuentePagina": "https://lusso-living.com/en/products/l-form-nebula",
+      "titulo": "L form Sofa NEBULA – LUSSO - my way of living",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcrf89aVC4Sjz9ABLcCVszyRE8EyrMGK1PnA&s",
+      "original": "https://lusso-living.com/cdn/shop/files/LSLGROLSNBA_6_1024x1024.jpg?v=1736857824"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/couch/rw/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWrCmGrRc-lQra9UnYOMwFF2etnt6lr5wBQA&s",
+      "fuentePagina": "https://www.estre.in/products/salvador-sofa-set?srsltid=AfmBOopgNoI0GePQCar1IKvMyKL5HG8dj09MkHqpERQlFsEpM9XrgbLy",
+      "titulo": "Buy Now: Estre's Brasilia Sofa - Modern Designs & Customized ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWrCmGrRc-lQra9UnYOMwFF2etnt6lr5wBQA&s",
+      "original": "http://www.estre.in/cdn/shop/files/2-min_d2bc49bf-1893-4118-bab5-8d0848d4d3fb.jpg?v=1743762905"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/couch/rw/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQingYe5mgs5J0uVxhZnR1K7RcC0_z-7ZbJGA&s",
+      "fuentePagina": "https://iconx-studios.com/products/4-seater-cloud",
+      "titulo": "4 Seater Sofa CLOUD – iconX STUDIOS - Switzerland",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQingYe5mgs5J0uVxhZnR1K7RcC0_z-7ZbJGA&s",
+      "original": "https://iconx-studios.com/cdn/shop/files/CDS4AAOCS6.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/couch/rw/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKGlvDRaLQeWjtxCch_gp--Ea3MT4_UTuz8w&s",
+      "fuentePagina": "https://rowenhomes.com/products/bubble-tufted-dark-grey-boucle-chunky-sofa-range?srsltid=AfmBOoqWSWmgmBgaReVRcXJjRyZBicLBiark9nIUV6ubL1Nf8sBifnS2",
+      "titulo": "Shop Bubble Tufted Dark Grey Boucle Chunky Sofa",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKGlvDRaLQeWjtxCch_gp--Ea3MT4_UTuz8w&s",
+      "original": "http://rowenhomes.com/cdn/shop/files/bubble-tufted-dark-grey-boucle-chunky-sofa-sofa-aluxo-422172.png?v=1734963807"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/couch/rw/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUUFGTDFDP3RfSyCRDc453622TqvkTuGPIbA&s",
+      "fuentePagina": "https://urbanmood.sg/products/vue-modern-fabric-sofa?srsltid=AfmBOooeImWIRBXuJzkEwPktj1OCgMiH-WgXvSuAGkaWFLk-SI9Z54SY",
+      "titulo": "VUE Modern Fabric Sofa – Urban Mood",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUUFGTDFDP3RfSyCRDc453622TqvkTuGPIbA&s",
+      "original": "https://urbanmood.sg/cdn/shop/products/LogoLicious_20220726_203613.png?v=1658841684&width=1080"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/couch/rw/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4Xm1DbAMDm7UAVZpMztmWWzylVuqCFfAVsA&s",
+      "fuentePagina": "https://www.orangetree.in/products/fior-3-seater-sofa?srsltid=AfmBOorI9NQZSytBD16DprqtBNYbBix7YHdCThA1aRftqVMjCJ-4B6Bj",
+      "titulo": "Fior 3 Seater Farbic Sofa in Walnut Finish with Wooden Legs",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4Xm1DbAMDm7UAVZpMztmWWzylVuqCFfAVsA&s",
+      "original": "https://www.orangetree.in/cdn/shop/files/premium-sofa-regular.jpg?v=1756237350"
+    }
+  ]
+}

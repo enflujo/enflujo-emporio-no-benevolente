@@ -1,0 +1,71 @@
+{
+  "categoria": "sheep",
+  "categoriaSlug": "sheep",
+  "idioma": "ln",
+  "nombreIdioma": "Lingala",
+  "termino": "mpate",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T20:52:14.682Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "fr",
+    "gl": "cd"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=mpate&hl=fr&gl=cd",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/sheep/ln/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyIR3694szyM2Hu7j3p_3bdky6SXILtDfP2Q&s",
+      "fuentePagina": "https://www.deezer.com/fr/album/391356987",
+      "titulo": "Mwana na Mpate - bruce tenda | Deezer",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyIR3694szyM2Hu7j3p_3bdky6SXILtDfP2Q&s",
+      "original": "https://cdn-images.dzcdn.net/images/cover/8c61e91f213024cb4c65b79ce8431335/0x1900-000000-80-0-0.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/sheep/ln/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFhjhCassB3fh_nqj-U08qrEec-dq4dhxNFg&s",
+      "fuentePagina": "https://www.youtube.com/watch?v=aI4dOO3UxiU",
+      "titulo": "Bruce Tenda - Mwana na Mpate (Clip Officiel)",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFhjhCassB3fh_nqj-U08qrEec-dq4dhxNFg&s",
+      "original": "https://i.ytimg.com/vi/aI4dOO3UxiU/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLCr94bbWj6SsEyNGuJLqWlQgP77zw"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/sheep/ln/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnxj5QagKnOa2Nc62ZN7hfzBGt9JAhDFbvIA&s",
+      "fuentePagina": "https://www.tiktok.com/@best_gospel/video/7301613314948271366",
+      "titulo": "MWANA NA MPATE de Gael Music: Chanson Gospel ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnxj5QagKnOa2Nc62ZN7hfzBGt9JAhDFbvIA&s",
+      "original": "https://p19-common-sign.tiktokcdn-us.com/tos-maliva-p-0068/434fc48043f14f75b4afb61a5c53e952_1700039336~tplv-photomode-video-share-card:630:630:20.jpeg?dr=9616&refresh_token=4f85a2c1&x-expires=1804510800&x-signature=HzrpmkuqblV2hUnJki3cNfzLJZM%3D&t=4d5b0474&ps=13740610&shp=55bbe6a9&shcp=f07906a3&idc=useast8&ftpl=1"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/sheep/ln/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKMahPb1GkZJFago_fXAWjIBk_F5nqWE23Dg&s",
+      "fuentePagina": "https://www.youtube.com/watch?v=HiM10hVBKLE",
+      "titulo": "Sekoti mpate",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKMahPb1GkZJFago_fXAWjIBk_F5nqWE23Dg&s",
+      "original": "https://i.ytimg.com/vi/HiM10hVBKLE/maxresdefault.jpg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/sheep/ln/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1Wwu2WSK2cJh2ra7BhkeaYxr_ilyLDsV9Lg&s",
+      "fuentePagina": "https://www.deezer.com/en/album/823769731",
+      "titulo": "Prophète Khonde Mpolo Dominique - Bileli Ya Mpate | Deezer",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1Wwu2WSK2cJh2ra7BhkeaYxr_ilyLDsV9Lg&s",
+      "original": "https://cdn-images.dzcdn.net/images/cover/a5c11a963515062128c72b9ab2fbeb0e/0x1900-000000-80-0-0.jpg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/sheep/ln/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTomeWESsKjUs1uI-ENxV7sLTwYxA5ubV0ONA&s",
+      "fuentePagina": "https://www.youtube.com/watch?v=iJFuZQE-pek",
+      "titulo": "MWANA NA MPATE de GAEL Music",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTomeWESsKjUs1uI-ENxV7sLTwYxA5ubV0ONA&s",
+      "original": "https://i.ytimg.com/vi/iJFuZQE-pek/maxresdefault.jpg"
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "categoria": "sandwich",
+  "categoriaSlug": "sandwich",
+  "idioma": "ln",
+  "nombreIdioma": "Lingala",
+  "termino": "sandwiche",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:11:52.232Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "fr",
+    "gl": "cd"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=sandwiche&hl=fr&gl=cd",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/sandwich/ln/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgXWR9yuggRG6jpdnFssB9MFfRmHWN6yw0RQ&s",
+      "fuentePagina": "https://www.la-viande.fr/cuisine-achat/incontournables/sandwichs-viande-gourmandise-coin-rue",
+      "titulo": "Les sandwichs à la viande, la gourmandise au coin de la rue ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgXWR9yuggRG6jpdnFssB9MFfRmHWN6yw0RQ&s",
+      "original": "https://www.la-viande.fr/sites/default/files/inline-images/sandwich-roti-boeuf.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/sandwich/ln/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpbyx4974hGf3Cr7IYMkiFjZ9pQQ2mEaYmDw&s",
+      "fuentePagina": "https://fromageon.be/produit/sandwiche-salade-de-viande/",
+      "titulo": "Sandwiche Salade de viande - Le Fromageon à Gerpinnes",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpbyx4974hGf3Cr7IYMkiFjZ9pQQ2mEaYmDw&s",
+      "original": "https://fromageon.be/wp-content/uploads/2025/04/Le-Fromageon-Sandwichs-1.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/sandwich/ln/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpV8uqxEtcAWCodSE9cPjrhRRboz_khXwS4w&s",
+      "fuentePagina": "https://www.shutterstock.com/fr/search/sandwich-on-a-plate",
+      "titulo": "Sandwich on a plate : résultats (456 mille) d'images libres ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpV8uqxEtcAWCodSE9cPjrhRRboz_khXwS4w&s",
+      "original": "https://www.shutterstock.com/image-photo/closeup-two-sandwiches-bacon-salami-260nw-2510577925.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/sandwich/ln/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQP1exT8Fjqt0FIVA78qgUL4yACJKt_B_JG1A&s",
+      "fuentePagina": "https://www.boblechef.com/recettes/club-sandwich-classique/",
+      "titulo": "Club sandwich classique comme au casse-croûte | Bob le Chef",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQP1exT8Fjqt0FIVA78qgUL4yACJKt_B_JG1A&s",
+      "original": "https://www.boblechef.com/wp-content/uploads/2023/12/boblechef-recette-club-sandwich-classique.jpg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/sandwich/ln/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdGltxoAvp97KH30bP5zno-U3_1cUblx50bA&s",
+      "fuentePagina": "https://lepoulet.qc.ca/recettes/sandwich-mediterraneen-au-poulet/",
+      "titulo": "Sandwich méditerranéen au poulet",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdGltxoAvp97KH30bP5zno-U3_1cUblx50bA&s",
+      "original": "https://lepoulet.qc.ca/wp-content/uploads/2021/10/38322028-6309-4da8-95f9-145325bf5924.jpg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/sandwich/ln/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCVxgX_IM_Cidx_pBaoNy0sx9QAha4MJXEMw&s",
+      "fuentePagina": "https://www.shutterstock.com/search/sandwiche",
+      "titulo": "1,776,246 Sandwiche Royalty-Free Images, Stock Photos ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCVxgX_IM_Cidx_pBaoNy0sx9QAha4MJXEMw&s",
+      "original": "https://www.shutterstock.com/image-photo/club-sandwich-halves-isolated-on-260nw-2624923023.jpg"
+    }
+  ]
+}

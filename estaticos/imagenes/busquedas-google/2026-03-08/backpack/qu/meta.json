@@ -1,0 +1,71 @@
+{
+  "categoria": "backpack",
+  "categoriaSlug": "backpack",
+  "idioma": "qu",
+  "nombreIdioma": "Quechua",
+  "termino": "wistalla",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T20:56:32.585Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "es",
+    "gl": "pe"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=wistalla&hl=es&gl=pe",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/backpack/qu/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZDYs8CClftNz7Vbu7dDm07JMw1qhoICdAqQ&s",
+      "fuentePagina": "https://www.facebook.com/100069518271156/posts/wistallaes-un-tejido-de-lana-de-oveja-o-llama-te%C3%B1ido-con-frutos-de-la-tierra-ind/157188575812202/",
+      "titulo": "Wistalla Es un tejido de lana de oveja o llama, teñido con ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZDYs8CClftNz7Vbu7dDm07JMw1qhoICdAqQ&s",
+      "original": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=157188552478871"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/backpack/qu/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEqLRezJBqVPqqNGQgOfui9HIhr1s3MFv8aA&s",
+      "fuentePagina": "https://www.researchgate.net/figure/Coca-pouch-wistalla-woven-by-Natividad-Castro-Challapa-with-the-pattern-churitu-flanked_fig2_334670412",
+      "titulo": "Coca pouch (wistalla) woven by Natividad Castro Challapa ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEqLRezJBqVPqqNGQgOfui9HIhr1s3MFv8aA&s",
+      "original": "https://www.researchgate.net/publication/334670412/figure/fig2/AS:784440800313345@1564036669553/Coca-pouch-wistalla-woven-by-Natividad-Castro-Challapa-with-the-pattern-churitu-flanked.ppm"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/backpack/qu/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkUd9Dg_3s9yk7wNC3JLlYE-CEX3o92a2xFQ&s",
+      "fuentePagina": "https://www.facebook.com/TMicaTayca/posts/hermosos-tejidos-de-wistallas-chuspa-o-imillas-para-portar-la-hoja-sagrada-la-in/2173627606183620/",
+      "titulo": "HERMOSOS TEJIDOS DE WISTALLAS, CHUSPA O IMILLAS PARA PORTAR ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkUd9Dg_3s9yk7wNC3JLlYE-CEX3o92a2xFQ&s",
+      "original": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=2173627416183639"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/backpack/qu/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxyOz6Vjn4WUEFeeNyMY5RY7vG5SsJ0teNyA&s",
+      "fuentePagina": "https://www.researchgate.net/figure/Figura-7-Bolsa-pequena-para-coca-wistalla-urdida-por-dona-Soria-Mamani-Challapa-y_fig1_367997134",
+      "titulo": "Bolsa pequeña para coca (wistalla) urdida por doña Soria ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxyOz6Vjn4WUEFeeNyMY5RY7vG5SsJ0teNyA&s",
+      "original": "https://www.researchgate.net/publication/367997134/figure/fig1/AS:11431281117199921@1675399352538/Figura-7-Bolsa-pequena-para-coca-wistalla-urdida-por-dona-Soria-Mamani-Challapa-y.png"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/backpack/qu/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNFs_hmItcSl0Zx-zBNQK1nSn6Iii1JyxRlQ&s",
+      "fuentePagina": "https://m.facebook.com/TMicaTayca/photos/la-wistalla-imilla-en-las-costumbres-de-la-marca-salinasse-la-utiliza-para-manej/1678699895676396/",
+      "titulo": "Thunupa - LA WISTALLA (IMILLA) EN LAS COSTUMBRES DE LA MARCA ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNFs_hmItcSl0Zx-zBNQK1nSn6Iii1JyxRlQ&s",
+      "original": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=1678699895676396"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/backpack/qu/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR17oM1im9kfGJlaGr8j5PNpZDzaWKFgKlD9w&s",
+      "fuentePagina": "https://www.facebook.com/TMicaTayca/posts/hermosos-tejidos-de-wistallas-chuspa-o-imillas-para-portar-la-hoja-sagrada-la-in/2173627606183620/",
+      "titulo": "HERMOSOS TEJIDOS DE WISTALLAS, CHUSPA O IMILLAS PARA PORTAR ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR17oM1im9kfGJlaGr8j5PNpZDzaWKFgKlD9w&s",
+      "original": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=2173627192850328"
+    }
+  ]
+}

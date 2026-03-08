@@ -1,0 +1,71 @@
+{
+  "categoria": "hot dog",
+  "categoriaSlug": "hot-dog",
+  "idioma": "nah",
+  "nombreIdioma": "Náhuatl",
+  "termino": "hot dog",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:14:48.149Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "es",
+    "gl": "mx"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=hot%20dog&hl=es&gl=mx",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/hot-dog/nah/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdv1C2D9MGCOZl6gW55yqPXqFr7DgJJTK3PA&s",
+      "fuentePagina": "https://en.wikipedia.org/wiki/Hot_dog",
+      "titulo": "Hot Dog",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdv1C2D9MGCOZl6gW55yqPXqFr7DgJJTK3PA&s",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Hot_dog_with_mustard.png/1280px-Hot_dog_with_mustard.png"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/hot-dog/nah/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRb03xtsz6jbohWNcc-KJjSzlLA7UAXLEQuA&s",
+      "fuentePagina": "https://cookidoo.mx/recipes/recipe/es-MX/r902949",
+      "titulo": "Chicago-Style Hot Dogs",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRb03xtsz6jbohWNcc-KJjSzlLA7UAXLEQuA&s",
+      "original": "https://assets.tmecosys.com/image/upload/t_web_rdp_recipe_584x480/img/recipe/ras/Assets/5cf6c117f5c41319d85be7490cbb0e47/Derivates/0fa2242bd92c2f55248c9d38bdbca4b5d543a220.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/hot-dog/nah/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcKffHYj8GNeC-Gn4lvvu0VWcGk3UVDQtZ7A&s",
+      "fuentePagina": "https://www.allrecipes.com/recipe/268494/basic-air-fryer-hot-dogs/",
+      "titulo": "Basic Air Fryer Hot Dogs",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcKffHYj8GNeC-Gn4lvvu0VWcGk3UVDQtZ7A&s",
+      "original": "https://www.allrecipes.com/thmb/hHB6wlw7KZQFB6jU5CEa2ACeKjg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/AR-268494-BasicAirFryerHotDogs-4x3-49aad2a82d284f8dab6d3c09243eeaea.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/hot-dog/nah/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDAwz4ZTZs6SxEOo6sczBSJB-H-ycYV76M7g&s",
+      "fuentePagina": "https://cookpad.com/mx/buscar/hot%20dog",
+      "titulo": "Hot dog: recetas caseras, fáciles y con mucho sabor",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDAwz4ZTZs6SxEOo6sczBSJB-H-ycYV76M7g&s",
+      "original": "https://img-global.cpcdn.com/recipes/18aa41b0550d6ad5/1200x630cq80/photo.jpg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/hot-dog/nah/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQaKqDVCWtGQzA2-d1WvRmTfPi0krczx2pwzQ&s",
+      "fuentePagina": "https://bonviveur.com/es/recetas/hot-dog",
+      "titulo": "Hot dog",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQaKqDVCWtGQzA2-d1WvRmTfPi0krczx2pwzQ&s",
+      "original": "https://imag.bonviveur.com/hot-dog.jpg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/hot-dog/nah/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGULfuxUqfWBhedEIHy-zabLtQs68XqtLS9w&s",
+      "fuentePagina": "https://www.vvsupremo.com/recipe/hot-dogs-a-la-mexicana-2/?lang=es",
+      "titulo": "Hot Dogs a la Mexicana | ¡Todo lo mejor para un delicioso ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGULfuxUqfWBhedEIHy-zabLtQs68XqtLS9w&s",
+      "original": "https://www.vvsupremo.com/wp-content/uploads/2016/02/900X570_Mexican-Style-Hot-Dogs.jpg"
+    }
+  ]
+}

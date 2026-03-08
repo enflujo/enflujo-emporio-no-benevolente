@@ -1,0 +1,71 @@
+{
+  "categoria": "person",
+  "categoriaSlug": "person",
+  "idioma": "nah",
+  "nombreIdioma": "Náhuatl",
+  "termino": "tlācatl",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T20:40:50.933Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "es",
+    "gl": "mx"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=tl%C4%81catl&hl=es&gl=mx",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/person/nah/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2cGpZCgBPxVVgkyAk8HoaPgJzyJ0u_BOqDA&s",
+      "fuentePagina": "https://www.facebook.com/lycaones/posts/sab%C3%ADas-que-en-n%C3%A1huatl-el-oso-se-denomina-tl%C4%81cam%C4%81yeh-t%C4%93cu%C4%81nieste-t%C3%A9rmino-constitu/1184954740487027/",
+      "titulo": "Sabías que en náhuatl, el Oso se denomina Tlācamāyeh Tēcuāni ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2cGpZCgBPxVVgkyAk8HoaPgJzyJ0u_BOqDA&s",
+      "original": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=1184954703820364"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/person/nah/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQytJVPB9YS6K8eH9QkgjSBvIw8bCTMHNN9Gg&s",
+      "fuentePagina": "https://en.wiktionary.org/wiki/tlacatl",
+      "titulo": "tlacatl - Wiktionary, the free dictionary",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQytJVPB9YS6K8eH9QkgjSBvIw8bCTMHNN9Gg&s",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Historia_general_de_las_cosas_de_nueva_Espa%C3%B1a_page_406_2.png/1280px-Historia_general_de_las_cosas_de_nueva_Espa%C3%B1a_page_406_2.png"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/person/nah/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6z1cWHLC_AaFmRiSboXOhfhKelYDIqSIk2Q&s",
+      "fuentePagina": "https://gdn.iib.unam.mx/diccionario/tlacatl/18502",
+      "titulo": "tlacatl - Gran Diccionario Náhuatl",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6z1cWHLC_AaFmRiSboXOhfhKelYDIqSIk2Q&s",
+      "original": "https://tlachia.iib.unam.mx/archivos/tepetlaoztoc/imagenes/K40_B_05.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/person/nah/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdAjhHkA7A8fUQdLsIOP_2mtpGgOn6aejJNw&s",
+      "fuentePagina": "https://www.facebook.com/inapastepeque/posts/existieron-los-h%C3%A9roes-indios-atlacatl-y-atonalatl%C3%A1catl-n%C3%A1huatl-%C4%81tl%C4%81catl-%C4%81tl-agua/3278682218834631/",
+      "titulo": "EXISTIERON LOS HÉROES INDIOS ATLACATL Y ATONAL? Atlácatl ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdAjhHkA7A8fUQdLsIOP_2mtpGgOn6aejJNw&s",
+      "original": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=3278681412168045"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/person/nah/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRV8STwlS7FFPenxkA-B-IFSffv-tRPlQtywg&s",
+      "fuentePagina": "https://www.facebook.com/lycaones/posts/sab%C3%ADas-que-en-n%C3%A1huatl-el-oso-se-denomina-tl%C4%81cam%C4%81yeh-t%C4%93cu%C4%81nieste-t%C3%A9rmino-constitu/1184954740487027/",
+      "titulo": "Sabías que en náhuatl, el Oso se denomina Tlācamāyeh Tēcuāni ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRV8STwlS7FFPenxkA-B-IFSffv-tRPlQtywg&s",
+      "original": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=1245116984470802"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/person/nah/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbAQy9w9AiPha3kEldxBmmo0DfMEf2r0iFQA&s",
+      "fuentePagina": "https://es.wikipedia.org/wiki/Tlaca%C3%A9lel",
+      "titulo": "Tlacaélel - Wikipedia, la enciclopedia libre",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbAQy9w9AiPha3kEldxBmmo0DfMEf2r0iFQA&s",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Tlacochcalcatl.jpg/250px-Tlacochcalcatl.jpg"
+    }
+  ]
+}

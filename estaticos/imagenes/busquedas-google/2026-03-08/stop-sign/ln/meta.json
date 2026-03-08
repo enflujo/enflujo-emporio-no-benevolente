@@ -1,0 +1,71 @@
+{
+  "categoria": "stop sign",
+  "categoriaSlug": "stop-sign",
+  "idioma": "ln",
+  "nombreIdioma": "Lingala",
+  "termino": "panneau télémé",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T20:47:36.760Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "fr",
+    "gl": "cd"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=panneau%20t%C3%A9l%C3%A9m%C3%A9&hl=fr&gl=cd",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/stop-sign/ln/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHyE5zWDFD063uXqOtDAk-Cne0OC8BlZXg9Q&s",
+      "fuentePagina": "https://www.ecosolaire.com/62-panneau-solaire-110w-12v-polycristallin-goldi110pm.html",
+      "titulo": "Module solaire 110W GOLDI110PM – Panneau polycristallin 36 ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHyE5zWDFD063uXqOtDAk-Cne0OC8BlZXg9Q&s",
+      "original": "https://www.ecosolaire.com/1981-large_default/panneau-solaire-110w-12v-polycristallin-goldi110pm.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/stop-sign/ln/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQE8IRUkWS6G7sknWcXcPFMl1nAAVZ2_6OeUQ&s",
+      "fuentePagina": "https://www.shutterstock.com/fr/search/t%C3%A9l%C3%A9m%C3%A9trie?image_type=photo&page=2",
+      "titulo": "Télémétrie : plus de 9 911 photos de stock libres de droits ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQE8IRUkWS6G7sknWcXcPFMl1nAAVZ2_6OeUQ&s",
+      "original": "https://www.shutterstock.com/image-photo/solar-panel-mounted-on-metal-260nw-2730028805.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/stop-sign/ln/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOZt7Z7BRRIZ8kLiyp_KTUjLZjL3gRzzJuNQ&s",
+      "fuentePagina": "https://www.ecosolaire.com/535-panneau-solaire-115w-12v-monocristallin-serelio-xf-115w-18v-m.html",
+      "titulo": "Module Solaire Monocristallin 115W 18V PERC – Cadre ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOZt7Z7BRRIZ8kLiyp_KTUjLZjL3gRzzJuNQ&s",
+      "original": "https://www.ecosolaire.com/943-large_default/panneau-solaire-115w-12v-monocristallin-serelio-xf-115w-18v-m.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/stop-sign/ln/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-DrTbBYlFuOPrPWtNCyp8ZCmpMPE0iul4oA&s",
+      "fuentePagina": "https://www.ecosolaire.com/60-panneau-solaire-200w-24v-monocristallin-serelio-xf-200w-18v-m.html",
+      "titulo": "Module solaire monocristallin 200W – XF-200W/18V-M – Panneau ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-DrTbBYlFuOPrPWtNCyp8ZCmpMPE0iul4oA&s",
+      "original": "https://www.ecosolaire.com/1613-large_default/panneau-solaire-200w-24v-monocristallin-serelio-xf-200w-18v-m.jpg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/stop-sign/ln/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzKDz1FSO-NOAU25rcruPRq4mJRCEVecUFKw&s",
+      "fuentePagina": "https://rei-industry.fr/fr/magelis/8357-xbt-e016010.html",
+      "titulo": "TÉLÉMÉCANIQUE XBT-E016010 - REI Industry",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzKDz1FSO-NOAU25rcruPRq4mJRCEVecUFKw&s",
+      "original": "https://rei-industry.fr/107881-medium_default/xbt-e016010.jpg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/stop-sign/ln/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWoiWaEsu_Ck4AykwJnkWcMwa0Uf0NVhpY3g&s",
+      "fuentePagina": "https://fr.dreamstime.com/photos-images/telemetrie.html",
+      "titulo": "1,540 Photos de Telemetrie - Photos de stock gratuites et ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWoiWaEsu_Ck4AykwJnkWcMwa0Uf0NVhpY3g&s",
+      "original": "https://thumbs.dreamstime.com/b/un-panneau-de-contr%C3%B4le-t%C3%A9l%C3%A9m%C3%A9trie-m%C3%A9tallique-industriel-et-bo%C3%AEtier-%C3%A9lectrique-435953067.jpg"
+    }
+  ]
+}

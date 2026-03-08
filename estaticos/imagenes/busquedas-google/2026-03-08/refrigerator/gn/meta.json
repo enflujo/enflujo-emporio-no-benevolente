@@ -1,0 +1,71 @@
+{
+  "categoria": "refrigerator",
+  "categoriaSlug": "refrigerator",
+  "idioma": "gn",
+  "nombreIdioma": "Guaraní",
+  "termino": "heladera",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:27:49.359Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "es",
+    "gl": "py"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=heladera&hl=es&gl=py",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/refrigerator/gn/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqS2AknZEBWGDVpJESLNRqv2wyTkC-HRTLhg&s",
+      "fuentePagina": "https://nissei.com/py/heladera-whirlpool-french-door-inverter-220v-554l?srsltid=AfmBOorFG8IAK6Fok21e3qFYVX5BlQ_ulcha-W9g5eMyVgDzI-fHTKpl",
+      "titulo": "Heladera Whirlpool French Door Inverter 220v - 554L",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqS2AknZEBWGDVpJESLNRqv2wyTkC-HRTLhg&s",
+      "original": "https://nissei.com/media/catalog/product/cache/c68e9bbb2d73eded5f4972f8e568886c/h/e/heladera_whirlpool_french_door_inverter_220v_554l_NGO-W484_0000.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/refrigerator/gn/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSb_0vj4KsAhgUM3gpYKn9epghXdYwJ51HF3w&s",
+      "fuentePagina": "https://www.gonzalezgimenez.com.py/producto/3327/heladera-consul-361-lts-crm39ak-inox?srsltid=AfmBOoqFsAOfBXn0din77gshDs3IJX4_somaOXUu66wpyDTZl5AArFBP",
+      "titulo": "Heladera Consul 361 Lts. CRM39AK Inox",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSb_0vj4KsAhgUM3gpYKn9epghXdYwJ51HF3w&s",
+      "original": "https://www.gonzalezgimenez.com.py/storage/sku/consul-heladeras-heladera-consul-361-lts-crm39ak-inox-1-1-1628349322.jpg?v=1628349322"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/refrigerator/gn/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcuwLKNTmRPTIP5j4FPIL69eNcyJ6Q8hvghg&s",
+      "fuentePagina": "https://www.megared.com.py/producto/593/heladera-tokyo-430-litros-blanca-tok430fs-2p",
+      "titulo": "MEGARED - HELADERA TOKYO 430 LITROS BLANCA TOK430FS 2P",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcuwLKNTmRPTIP5j4FPIL69eNcyJ6Q8hvghg&s",
+      "original": "https://www.megared.com.py/storage/sku/tokyo-heladeras-heladera-tokyo-430-litros-blanca-tok430fs-2p-2-1-1706195854.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/refrigerator/gn/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRi5vEcVDU2GcLfbrzsYJ4JIJhkUlDPJ7WjoA&s",
+      "fuentePagina": "https://www.gonzalezgimenez.com.py/producto/4120/heladera-electrolux-371-l-dfx43-ff-2p-inox?srsltid=AfmBOoqup4dhizoKn_ss5rcv3zW9LE2cXYEElqP34F0PmaJ6uHcgHzup",
+      "titulo": "Heladera Electrolux 371 L DFX43 F.F 2P Inox.",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRi5vEcVDU2GcLfbrzsYJ4JIJhkUlDPJ7WjoA&s",
+      "original": "https://www.gonzalezgimenez.com.py/storage/sku/electrolux-heladeras-heladera-electrolux-371-l-dfx43-ff-2p-inox-1-1-1656765673.png?v=1656765673"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/refrigerator/gn/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUTB8eT-iHiYKGtCHTKXHWQztLepxxCtZ9iQ&s",
+      "fuentePagina": "https://www.digi.com.py/electrodomesticos/heladera-enxuta-205lts-renx16200-3763?srsltid=AfmBOopV7P3b2uZRa-DB2Mk7fBhOsmyeiFgWXEaqY33LBKVWhsIi6F_r",
+      "titulo": "Heladera enxuta 205lts renx16200",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUTB8eT-iHiYKGtCHTKXHWQztLepxxCtZ9iQ&s",
+      "original": "https://cdn.digi.com.py/storage/App/Models/ProductImage/000/005/808/image/large/Heladera%20Enxuta%20205lts%20RENX16200.webp"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/refrigerator/gn/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcResZitRp7pxZ5JqbnhyuKZusfWNZgJWb6hzg&s",
+      "fuentePagina": "https://www.bristol.com.py/catalogo/heladera-consul-407-litros-2-puertas-frio-seco_BS12281_BS12281?srsltid=AfmBOoojs4OwP2ZR9aFwH2YJzLPEgnwPs7Vngl10aZ62P2EeMxQSOUhw",
+      "titulo": "Heladera Consul 407 Litros 2 Puertas Frío Seco — Bristol",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcResZitRp7pxZ5JqbnhyuKZusfWNZgJWb6hzg&s",
+      "original": "https://f.fcdn.app/imgs/f3becb/www.bristol.com.py/brispy/d200/original/catalogo/BS12281_BS12281_1/1920-1200/heladera-consul-407-litros-2-puertas-frio-seco-heladera-consul-407-litros-2-puertas-frio-seco.jpg"
+    }
+  ]
+}

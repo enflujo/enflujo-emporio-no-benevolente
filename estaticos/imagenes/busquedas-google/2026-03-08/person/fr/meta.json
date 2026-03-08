@@ -1,0 +1,71 @@
+{
+  "categoria": "person",
+  "categoriaSlug": "person",
+  "idioma": "fr",
+  "nombreIdioma": "Français",
+  "termino": "personne",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T20:40:31.779Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "fr",
+    "gl": "be"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=personne&hl=fr&gl=be",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/person/fr/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKdG3zlo6rsY1oNgUyNAvPLl96-OGHAswLvQ&s",
+      "fuentePagina": "https://fr.freepik.com/psd-gratuit/personne-celebrant-son-orientation-sexuelle_37299409.htm",
+      "titulo": "Personne célébrant son orientation sexuelle | PSD Gratuite",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKdG3zlo6rsY1oNgUyNAvPLl96-OGHAswLvQ&s",
+      "original": "https://img.freepik.com/psd-gratuit/personne-celebrant-son-orientation-sexuelle_23-2150115662.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/person/fr/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4_WOevl5t3J8UeAEq5tMF9ypeY_JRuB3iGw&s",
+      "fuentePagina": "https://www.istockphoto.com/fr/photos/personne-de-face",
+      "titulo": "2 672 900+ Personne De Face Photos, taleaux et images libre ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4_WOevl5t3J8UeAEq5tMF9ypeY_JRuB3iGw&s",
+      "original": "https://media.istockphoto.com/id/1389348844/fr/photo/plan-de-studio-dune-belle-jeune-femme-souriante-debout-sur-un-fond-gris.jpg?s=612x612&w=0&k=20&c=VGipX3a8xrbYuXTNm_61pFuzpGdAO9lwt2xnVUd7Khs="
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/person/fr/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvhpruz1iTlXJkJUyDkKoUCzkPTg6REw-mcw&s",
+      "fuentePagina": "https://www.le7.info/article/21266-vivre-en-couple-avec-une-personne-autiste",
+      "titulo": "Vivre en couple avec une personne autiste ? | Le7.info",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvhpruz1iTlXJkJUyDkKoUCzkPTg6REw-mcw&s",
+      "original": "https://www.le7.info/media/cache/article/uploads/photos/64101bd1e383a.jpeg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/person/fr/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbVIbvlmg9gqG1RYUZ4aGAJsb3riqOFtI3Dg&s",
+      "fuentePagina": "https://www.aidonslesnotres.fr/les-soins/communiquer-avec-une-personne-agee-tres-desorientee-la-methode-de-naomi-feil/",
+      "titulo": "Communiquer avec une personne âgée très désorientée : la ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbVIbvlmg9gqG1RYUZ4aGAJsb3riqOFtI3Dg&s",
+      "original": "https://www.aidonslesnotres.fr/wp-content/uploads/2016/03/Etre-accompagne-au-quotidien-methode-naomi-feil-700x465-1.jpg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/person/fr/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2GvN9xsBAT1sga5u-ALdzJLjIVHs5Qs7OBw&s",
+      "fuentePagina": "https://www.francaisauthentique.com/decrire-une-personne/",
+      "titulo": "Décrire une personne en français : Vocabulaire et Exemples",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2GvN9xsBAT1sga5u-ALdzJLjIVHs5Qs7OBw&s",
+      "original": "https://www.francaisauthentique.com/wp-content/uploads/2023/09/decrire-une-personne-en-francais.jpg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/person/fr/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSI_WdRGmIalk3hZDnoEmWWoIpH9gXibARteQ&s",
+      "fuentePagina": "https://letremplinlevis.com/personnes-immigrantes/",
+      "titulo": "Personnes immigrantes - Le Tremplin Lévis",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSI_WdRGmIalk3hZDnoEmWWoIpH9gXibARteQ&s",
+      "original": "https://letremplinlevis.com/wp-content/uploads/fly-images/739/persona-personne-immigrante-906x933-c.jpg"
+    }
+  ]
+}

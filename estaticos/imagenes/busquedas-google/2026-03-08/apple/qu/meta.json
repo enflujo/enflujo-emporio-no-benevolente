@@ -1,0 +1,71 @@
+{
+  "categoria": "apple",
+  "categoriaSlug": "apple",
+  "idioma": "qu",
+  "nombreIdioma": "Quechua",
+  "termino": "mansana",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:11:38.366Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "es",
+    "gl": "pe"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=mansana&hl=es&gl=pe",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/apple/qu/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSm5QapleJ5S_mfJYAU-Y8RhBfbo8msrMdEEQ&s",
+      "fuentePagina": "https://www.recetasnestle.com.pe/escuela-sabor/ingredientes/manzana-verde-roja",
+      "titulo": "Conoce las propiedades de la manzana | Recetas Nestlé",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSm5QapleJ5S_mfJYAU-Y8RhBfbo8msrMdEEQ&s",
+      "original": "https://www.recetasnestle.com.pe/sites/default/files/2022-07/tipos-de-manzana-royal-gala.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/apple/qu/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTE2Riyxv3hpvoRbwkz4zx3PtbvHjpx5z-2yw&s",
+      "fuentePagina": "https://es.wikipedia.org/wiki/Manzana",
+      "titulo": "Manzana - Wikipedia, la enciclopedia libre",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTE2Riyxv3hpvoRbwkz4zx3PtbvHjpx5z-2yw&s",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/5/53/Owoce_Jab%C5%82ko.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/apple/qu/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYes_9oaYvRyuEme-EiF1DVJzlLsOzllOhOA&s",
+      "fuentePagina": "https://www.recetasnestle.com.pe/escuela-sabor/ingredientes/manzana-verde-roja",
+      "titulo": "Conoce las propiedades de la manzana | Recetas Nestlé",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYes_9oaYvRyuEme-EiF1DVJzlLsOzllOhOA&s",
+      "original": "https://www.recetasnestle.com.pe/sites/default/files/2022-07/tipos-de-manzana-verde.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/apple/qu/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKSmjIMG433tktQxIIrviA8JckyMOYhpzH3g&s",
+      "fuentePagina": "https://www.xatakaciencia.com/sabias-que/algunas-curiosidades-sobre-las-manzanas",
+      "titulo": "Algunas curiosidades sobre las manzanas",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKSmjIMG433tktQxIIrviA8JckyMOYhpzH3g&s",
+      "original": "https://i.blogs.es/0216cb/manzana/450_1000.webp"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/apple/qu/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1RNhbriJohTM_3mrSzCVuszXqtvFWdCDrjQ&s",
+      "fuentePagina": "https://www.mercadolibre.com.mx/1-arbolito-de-manzana-mansana-delicia-roja-americana-dulce/up/MLMU460638909",
+      "titulo": "1 Arbolito De Manzana, Mansana, Delicia Roja Americana Dulce ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1RNhbriJohTM_3mrSzCVuszXqtvFWdCDrjQ&s",
+      "original": "https://http2.mlstatic.com/D_NQ_NP_748044-MLM51894434362_102022-O.webp"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/apple/qu/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDNPxkNAoLn1beO8RQUr7WxtWs6Hl0_x9New&s",
+      "fuentePagina": "https://es.ccoo.cat/noticias/servicio-ling%C3%BC%C3%ADstico/la-calle-que-busca-es-en-la-cercana-isla-mancana-o-mansana/",
+      "titulo": "La calle que busca es en la próxima manzana, manzana o ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDNPxkNAoLn1beO8RQUr7WxtWs6Hl0_x9New&s",
+      "original": "https://www.ccoo.cat/wp-content/uploads/2021/04/7_.jpg"
+    }
+  ]
+}

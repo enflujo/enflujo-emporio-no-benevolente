@@ -1,0 +1,71 @@
+{
+  "categoria": "bird",
+  "categoriaSlug": "bird",
+  "idioma": "nah",
+  "nombreIdioma": "Náhuatl",
+  "termino": "tōtōtl",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T20:50:04.484Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "es",
+    "gl": "mx"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=t%C5%8Dt%C5%8Dtl&hl=es&gl=mx",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bird/nah/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTujzctahPAKv7FixOMeWg4ZXqUKMFjPOWtgQ&s",
+      "fuentePagina": "https://es.wiktionary.org/wiki/tototl",
+      "titulo": "tototl - Wikcionario, el diccionario libre",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTujzctahPAKv7FixOMeWg4ZXqUKMFjPOWtgQ&s",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/b/b8/Superb_fairy_wren2_LiquidGhoul.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bird/nah/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiwmVTe-gd8Dp-jLLxMpPnd_bIEcTSeb0jZA&s",
+      "fuentePagina": "https://m.facebook.com/molca.mexico/photos/en-su-infograf%C3%ADa-n%C3%A1huatl-de-la-semana-tototl-avesnahuatl-nawatl-ave-tototl-birds/870392248425688/",
+      "titulo": "Mole - En su infografía náhuatl de la semana: tototl / aves ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiwmVTe-gd8Dp-jLLxMpPnd_bIEcTSeb0jZA&s",
+      "original": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=870392248425688"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bird/nah/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZw6yEG1vgj08qriMnnUbgXS4xQ5x392-Ddg&s",
+      "fuentePagina": "https://www.facebook.com/100082993609414/posts/tototl-viene-del-n%C3%A1huatl-que-significa-p%C3%A1jaronuestra-misi%C3%B3n-es-crear-una-tienda-/106527078681036/",
+      "titulo": "Tototl viene del náhuatl que significa pájaro. Nuestra ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZw6yEG1vgj08qriMnnUbgXS4xQ5x392-Ddg&s",
+      "original": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=106519518681792"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bird/nah/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYzvNWsnYVnh2Ll0LqP1OXykaFZTTvSfDCdA&s",
+      "fuentePagina": "https://gdn.iib.unam.mx/diccionario/tototl/248665",
+      "titulo": "tototl - Gran Diccionario Náhuatl",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYzvNWsnYVnh2Ll0LqP1OXykaFZTTvSfDCdA&s",
+      "original": "https://tlachia.iib.unam.mx/archivos/mh-teotlaltzinco/imagenes/387_810v_07.jpg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bird/nah/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9Kvl-L12ox6RgwmP9ni5et8MydXMfhUbWtQ&s",
+      "fuentePagina": "https://www.tiktok.com/@yoteinvitomexico/photo/7535610557341224199",
+      "titulo": "✨ Todos tenemos ese primo que no sabe pronunciar su propio ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9Kvl-L12ox6RgwmP9ni5et8MydXMfhUbWtQ&s",
+      "original": "https://www.tiktok.com/api/img/?itemId=7535610557341224199&location=3&aid=1988&index=1"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bird/nah/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYj2QhxoQlT5nkrLA6fJ-CKNTSjozHHn7gqA&s",
+      "fuentePagina": "https://gdn.iib.unam.mx/diccionario/tototl/18778",
+      "titulo": "tototl - Gran Diccionario Náhuatl",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYj2QhxoQlT5nkrLA6fJ-CKNTSjozHHn7gqA&s",
+      "original": "https://tlachia.iib.unam.mx/archivos/valeriano/imagenes/02.01.13.jpg"
+    }
+  ]
+}

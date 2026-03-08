@@ -1,0 +1,71 @@
+{
+  "categoria": "toilet",
+  "categoriaSlug": "toilet",
+  "idioma": "sw",
+  "nombreIdioma": "Kiswahili",
+  "termino": "choo",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:20:17.433Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "sw",
+    "gl": "tz"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=choo&hl=sw&gl=tz",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/toilet/sw/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfvE85nxD7PQOOkKwDIEoc5Z_qAiRMFlolJw&s",
+      "fuentePagina": "https://www.bbc.com/swahili/articles/cdxw6k01nn6o",
+      "titulo": "Hiki ndicho choo ghali zaidi duniani? - BBC News Swahili",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfvE85nxD7PQOOkKwDIEoc5Z_qAiRMFlolJw&s",
+      "original": "https://ichef.bbci.co.uk/ace/ws/640/cpsprodpb/c331/live/11aee760-c694-11f0-a892-01d657345866.jpg.webp"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/toilet/sw/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyi_SZTxlX5B_ZfTq4-eAz0jcrlTVxFlorEA&s",
+      "fuentePagina": "https://www.bbc.com/swahili/habari-53100099",
+      "titulo": "Virusi vya corona: Kusafisha choo 'kunaweza kurusha virusi ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyi_SZTxlX5B_ZfTq4-eAz0jcrlTVxFlorEA&s",
+      "original": "https://ichef.bbci.co.uk/ace/ws/640/cpsprodpb/14701/production/_109731738_gettyimages-1145011888.jpg.webp"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/toilet/sw/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjCCRNdVn9-G_xcevKK2PpbZH4FcBYm849yg&s",
+      "fuentePagina": "https://www.mwananchi.co.tz/mw/habari/makala/johari/namna-sahihi-ya-kusafisha-choo-2841144",
+      "titulo": "Namna sahihi ya kusafisha choo | Mwananchi",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjCCRNdVn9-G_xcevKK2PpbZH4FcBYm849yg&s",
+      "original": "https://www.mwananchi.co.tz/resource/image/2841146/landscape_ratio3x2/1200/800/e4886ac68314a3670959f0a2bcdf6845/RB/pic-choo.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/toilet/sw/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQs4aATJn3Dm2i80dShHsd87fV_aNx3gpA1Q&s",
+      "fuentePagina": "https://ashubashop.com/product/choo-cha-kukaa/",
+      "titulo": "Choo Cha Kukaa – ASHUBA",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQs4aATJn3Dm2i80dShHsd87fV_aNx3gpA1Q&s",
+      "original": "https://ashubashop.com/wp-content/uploads/2022/03/Toilets-scaled.jpg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/toilet/sw/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3Fr2qQpKD9DYNJ_HiB82qpzUJNf1Ch6680A&s",
+      "fuentePagina": "https://row.jimmychoo.com/en/women/beauty/i-want-choo-le-parfum-100ml/jimmy-choo-i-want-choo-le-parfum-100ml-IWCLEPARFUM100MLFJCGOO1616.html",
+      "titulo": "Jimmy Choo I Want Choo Le Parfum 100ml | Fragrance | JIMMY CHOO",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3Fr2qQpKD9DYNJ_HiB82qpzUJNf1Ch6680A&s",
+      "original": "https://media.jimmychoo.com/image/upload/q_auto:best,f_auto,dpr_2.0/ROWPROD_PRODUCT/images/original/IWCLEPARFUM100MLFJCG_OO1616_PACK_vg478.jpg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/toilet/sw/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3DTbsPXfHdFUexMoPSYJXqB5NLKODt0eUpQ&s",
+      "fuentePagina": "https://www.ubuy.co.tz/en/product/7TXZAR4CU-jimmy-choo-3-3-oz-i-want-choo-eau-de-parfum-spray-for-women?srsltid=AfmBOop_eZoPJFDXpCtDF25Mg2CMLjBXOBfrBnMqov6q3a_1HBfw0Gg0",
+      "titulo": "Jimmy Choo I Want Choo Eau De Parfum Spray for Women, 3.3 oz",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3DTbsPXfHdFUexMoPSYJXqB5NLKODt0eUpQ&s",
+      "original": "https://i5.walmartimages.com/asr/abb5d5b8-bebe-4957-83ab-b268b0e76aea.23e5bbebde65c47afea94de8742e1681.jpeg"
+    }
+  ]
+}

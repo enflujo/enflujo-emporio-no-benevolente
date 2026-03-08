@@ -1,0 +1,71 @@
+{
+  "categoria": "tennis racket",
+  "categoriaSlug": "tennis-racket",
+  "idioma": "ha",
+  "nombreIdioma": "Hausa",
+  "termino": "raketi",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:05:33.502Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "ha",
+    "gl": "ng"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=raketi&hl=ha&gl=ng",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/tennis-racket/ha/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSankHnlSDxW6A8kyhX-JngUJTM207oWWqamQ&s",
+      "fuentePagina": "https://raketi.co/collections/all",
+      "titulo": "Products – Raketi",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSankHnlSDxW6A8kyhX-JngUJTM207oWWqamQ&s",
+      "original": "https://raketi.co/cdn/shop/files/IMG_8463.heic?v=1763042071&width=3840"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/tennis-racket/ha/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKgMWEyW9Qo-9Kl7rNaAXs7tHaJyCyQXalvQ&s",
+      "fuentePagina": "https://raketi.co/",
+      "titulo": "Raketi | Premium Wooden Rackets",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKgMWEyW9Qo-9Kl7rNaAXs7tHaJyCyQXalvQ&s",
+      "original": "https://raketi.co/cdn/shop/files/logo_13.png?v=1758471720&width=3840"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/tennis-racket/ha/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9dAuW_gjJgHgCibuLecGqKQeT7r-knnJ4YA&s",
+      "fuentePagina": "https://www.voitspor.com/urun/voit-tournament-tenis-raketi-27-inch-l2-fosfor",
+      "titulo": "Voit Tournament Pro Tenis Raketi 27 Inch L2 Fosfor,Voit ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9dAuW_gjJgHgCibuLecGqKQeT7r-knnJ4YA&s",
+      "original": "https://www.voitspor.com/idea/cb/58/myassets/products/469/voit-tournament-tenis-raketi-27-inch-l2-tek.jpg?revision=1722967588"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/tennis-racket/ha/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsQw-6Dlm04goy7wBB3G_LHdMf_qpj4xqalg&s",
+      "fuentePagina": "https://raketi.co/products/wooden-rackets-blue",
+      "titulo": "Racket Set - Azura – Raketi",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsQw-6Dlm04goy7wBB3G_LHdMf_qpj4xqalg&s",
+      "original": "https://raketi.co/cdn/shop/files/IMG_8456.heic?v=1763041915&width=3840"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/tennis-racket/ha/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbDWl439rIyYp-rws5rcRm00vPx_1VmtUHZA&s",
+      "fuentePagina": "https://www.yalispor.com.tr/voit-workout-tenis-raketi-27-inch-l2-tenis-raketi-siyah?srsltid=AfmBOoqvfbV2c_t-UScKAAbBZy8TtIaRc2J-EOpLLkID7ULiHm_0DZPC",
+      "titulo": "Voit Workout Tenis Raketi 27 Inch L2 Unisex Siyah Tenis ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbDWl439rIyYp-rws5rcRm00vPx_1VmtUHZA&s",
+      "original": "https://minio.yalispor.com.tr/yalispor/images/voit-workout-tenis-raketi-27-inch-l2-tenis-raketi-1-1717503552.jpg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/tennis-racket/ha/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTaidRtqArWkPYHYwNTN84Z44r3BrsKfYJkHw&s",
+      "fuentePagina": "https://www.voitspor.com/urun/voit-tournament-pro-tenis-raketi-21-inch-yesil",
+      "titulo": "Voit Tournament Pro Tenis Raketi 21 Inch Yeşil,Voit ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTaidRtqArWkPYHYwNTN84Z44r3BrsKfYJkHw&s",
+      "original": "https://www.voitspor.com/idea/cb/58/myassets/products/473/voit-tournament-tenis-raketi-21-inch-tek.jpg?revision=1722967422"
+    }
+  ]
+}

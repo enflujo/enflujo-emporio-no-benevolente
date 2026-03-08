@@ -1,0 +1,71 @@
+{
+  "categoria": "cow",
+  "categoriaSlug": "cow",
+  "idioma": "ar",
+  "nombreIdioma": "العربية",
+  "termino": "بقرة",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T20:53:11.707Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "ar",
+    "gl": "eg"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=%D8%A8%D9%82%D8%B1%D8%A9&hl=ar&gl=eg",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/cow/ar/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqUuVpNkVWiSmtdNiyythKzdiTRu9jWZ9l_w&s",
+      "fuentePagina": "https://ar.wikipedia.org/wiki/%D8%A8%D9%82%D8%B1%D8%A9_%D8%AD%D9%84%D9%88%D8%A8",
+      "titulo": "بقرة حلوب - ويكيبيديا",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqUuVpNkVWiSmtdNiyythKzdiTRu9jWZ9l_w&s",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Cow_female_black_white.jpg/1280px-Cow_female_black_white.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/cow/ar/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdDTZccSoTSrFTr43OEpuxSTq6lJgeuCwHaQ&s",
+      "fuentePagina": "https://ar.wikipedia.org/wiki/%D8%A8%D9%82%D8%B1",
+      "titulo": "بقر - ويكيبيديا",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdDTZccSoTSrFTr43OEpuxSTq6lJgeuCwHaQ&s",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/d/d4/CH_cow_2_cropped.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/cow/ar/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTy4LMksiLu999_obn09JPPmqiiCh4xUmVJOw&s",
+      "fuentePagina": "https://ar.pngtree.com/free-png-vectors/%D8%A8%D9%82%D8%B1%D8%A9-%D8%A7%D9%84%D9%83%D8%B1%D8%AA%D9%88%D9%86",
+      "titulo": "بقرة الكرتون Png ، المتجهات ، PSD ، قصاصة فنية , تحميل مجاني ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTy4LMksiLu999_obn09JPPmqiiCh4xUmVJOw&s",
+      "original": "https://png.pngtree.com/png-clipart/20240504/original/pngtree-cartoon-cow-standing-on-grass-png-image_15008187.png"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/cow/ar/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfdbWtYI9b50wVKZKwuIPfWqRzGkVlrdBXgQ&s",
+      "fuentePagina": "https://animals.fandom.com/ar/wiki/%D8%A8%D9%82%D8%B1%D8%A9",
+      "titulo": "بقرة | ويكي الحيوانات | Fandom",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfdbWtYI9b50wVKZKwuIPfWqRzGkVlrdBXgQ&s",
+      "original": "https://static.wikia.nocookie.net/animals/images/7/74/709-cow.png/revision/latest?cb=20160420150157&path-prefix=ar"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/cow/ar/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRh1fpgVS69krBePyFaDpWuR0a9GvQS5PtL_g&s",
+      "fuentePagina": "https://www.pinterest.com/majedhhhb/%D8%B5%D9%88%D8%B1-%D8%A7%D8%A8%D9%82%D8%A7%D8%B1/",
+      "titulo": "أفكار21 {اسم المجلس } | حيوان, صورة, حيوانات",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRh1fpgVS69krBePyFaDpWuR0a9GvQS5PtL_g&s",
+      "original": "https://i.pinimg.com/474x/8f/07/31/8f073110a74eb734b823488061b05344.jpg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/cow/ar/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIuD-8vYVf2GHAbyyw1oJpptCKdtcq5WeE7Q&s",
+      "fuentePagina": "https://ar.pikbest.com/png-images/3d-cute-cow-art-image_10768616.html",
+      "titulo": "صورة فنية بقرة لطيفة ثلاثية الأبعاد | صور PNG PNG تحميل ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIuD-8vYVf2GHAbyyw1oJpptCKdtcq5WeE7Q&s",
+      "original": "https://img.pikbest.com/png-images/20240828/3d-cute-cow-art-image-_10768616.png!bw700"
+    }
+  ]
+}

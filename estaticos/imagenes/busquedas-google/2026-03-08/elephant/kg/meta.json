@@ -1,0 +1,71 @@
+{
+  "categoria": "elephant",
+  "categoriaSlug": "elephant",
+  "idioma": "kg",
+  "nombreIdioma": "Kikongo",
+  "termino": "nzau",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T20:53:39.189Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "fr",
+    "gl": "cd"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=nzau&hl=fr&gl=cd",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/elephant/kg/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfX7uk2KvOCTzv4yZazsVGHNmXKteWz8GVPA&s",
+      "fuentePagina": "https://www.topcongo.live/articles/clement-nzau-serviteur-inconditionnel-de-lukula-au-kongo-central",
+      "titulo": "Clément Nzau, « serviteur inconditionnel de Lukula » au ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfX7uk2KvOCTzv4yZazsVGHNmXKteWz8GVPA&s",
+      "original": "https://admin.topcongo.live/storage/article/covers/1700829480.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/elephant/kg/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSiX6spmGzV5DNetkh1qy6nprJW8W7LT1bmGw&s",
+      "fuentePagina": "https://www.transfermarkt.fr/lionel-mpasi-nzau/profil/spieler/164915",
+      "titulo": "Lionel Mpasi-Nzau - Profil du joueur 25/26 | Transfermarkt",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSiX6spmGzV5DNetkh1qy6nprJW8W7LT1bmGw&s",
+      "original": "https://img.a.transfermarkt.technology/portrait/big/164915-1666190720.JPG?lm=1"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/elephant/kg/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrpYL7T1s2XDel6mstgBRcMXuYOtphfzze_g&s",
+      "fuentePagina": "https://www.soundbetter.com/profiles/507507-sofiya-nzau",
+      "titulo": "Sofiya Nzau - Afro singer and Songwriter - Kenya | SoundBetter",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrpYL7T1s2XDel6mstgBRcMXuYOtphfzze_g&s",
+      "original": "https://res.cloudinary.com/soundbetter/image/upload/c_fill,f_auto,g_face:auto,h_533,q_auto:eco,w_763/v1698726480/assets/photos/507507/DSC00078__1_.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/elephant/kg/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQn7O_2yn4YoQRF60NOL5nimd9UKUB9FinLvA&s",
+      "fuentePagina": "https://www.youtube.com/watch?v=jQQ9K9r04-Q",
+      "titulo": "EDITION SPECIALE ACGT DG Nico NZAU Nzau",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQn7O_2yn4YoQRF60NOL5nimd9UKUB9FinLvA&s",
+      "original": "https://i.ytimg.com/vi/jQQ9K9r04-Q/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLAIKKvK4VanROYBKTvCRtJDk-r0fQ"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/elephant/kg/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdhqDnWCF2625-bIeUEep_SgJXD3xgdIY3nw&s",
+      "fuentePagina": "https://www.facebook.com/NzauTechnologies/",
+      "titulo": "Nzau Technologies | Kinshasa",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdhqDnWCF2625-bIeUEep_SgJXD3xgdIY3nw&s",
+      "original": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=100093593155182"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/elephant/kg/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1ahaldncbUl4922L8062CurRMxX_TyQL6OQ&s",
+      "fuentePagina": "https://acgt.cd/2024/03/15/le-president-de-la-republique-a-recu-le-directeur-general-de-lagence-congolaise-des-grands-travaux-pour-un-moment-dechange/",
+      "titulo": "Le Président de la République a reçu le Directeur Général de ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1ahaldncbUl4922L8062CurRMxX_TyQL6OQ&s",
+      "original": "https://acgt.cd/wp-content/uploads/2024/03/WhatsApp-Image-2024-03-14-at-00.33.39-1024x683.jpg"
+    }
+  ]
+}

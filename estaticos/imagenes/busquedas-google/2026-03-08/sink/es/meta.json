@@ -1,0 +1,71 @@
+{
+  "categoria": "sink",
+  "categoriaSlug": "sink",
+  "idioma": "es",
+  "nombreIdioma": "Español",
+  "termino": "fregadero",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:27:17.051Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "es",
+    "gl": "es"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=fregadero&hl=es&gl=es",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/sink/es/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtuBJ8DaSowjrryseyKZmZt4F59V-V8zZEJQ&s",
+      "fuentePagina": "https://www.amazon.es/Fregadero-Accesorios-Extra%C3%ADbles-Interiores-Mostradores/dp/B0CDPZ7DYQ",
+      "titulo": "Fregadero Cocina Inox,fregadero Empotrado,diseño De Lavabo ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtuBJ8DaSowjrryseyKZmZt4F59V-V8zZEJQ&s",
+      "original": "https://m.media-amazon.com/images/I/71IglGchAvL._AC_UF894,1000_QL80_.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/sink/es/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRICSgf_npUT1RxF-8oN6yDKUJfuh08pQBHEA&s",
+      "fuentePagina": "https://fregaderococina.es/fregaderos-acero-inoxidable/461-fregadero-inoxidable-sobre-encimera-80-x-48-cm-viena-plastimodul.html",
+      "titulo": "Fregadero Inoxidable Sobre Encimera 80 x 48 cm Viena Plastimodul. - Tienda  Especializada",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRICSgf_npUT1RxF-8oN6yDKUJfuh08pQBHEA&s",
+      "original": "https://fregaderococina.es/3382-large_default/fregadero-inoxidable-sobre-encimera-80-x-48-cm-viena-plastimodul.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/sink/es/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHO11OuH0RlpuGb03jvaLPrq9GwUSZlOWmMA&s",
+      "fuentePagina": "https://www.manomano.es/p/fregadero-empotrado-hecho-a-mano-1-lavabos-55-45cm-fregadero-de-cocina-de-acero-inoxidable-incluyendo-juego-de-rebosadero-y-desage-50824890",
+      "titulo": "Fregadero de Cocina 1 Seno 55 x 45 x 18,5 cm Fregadero empotrado hecho a  mano Acero inoxidable, Con Dispensador de Jabón,Adecuado para muebles de  más ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHO11OuH0RlpuGb03jvaLPrq9GwUSZlOWmMA&s",
+      "original": "https://cdn.manomano.com/images/images_products/41091444/P/159774789_1.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/sink/es/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAOYlLLIGuQ3tgPGG-LuvUGt0Cqk8cdHXOgA&s",
+      "fuentePagina": "https://www.minspira.com/fregaderos-franke-de-granito-natural-bajo-encimera-y-de-encastre/701-fregadero-bajo-encimera-franke-una-cubeta-maris-mrg-110-52-negro-mate.html?srsltid=AfmBOoqATiXBRfG6mv0qOn3HQKMPYqaUXP7seC8tMIXuIx-4xqPGaSgc",
+      "titulo": "Fregadero bajo encimera Franke una cubeta Maris MRG-110-52 negro mate",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAOYlLLIGuQ3tgPGG-LuvUGt0Cqk8cdHXOgA&s",
+      "original": "https://www.minspira.com/3655-thickbox_default/fregadero-bajo-encimera-franke-una-cubeta-maris-mrg-110-52-negro-mate.webp"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/sink/es/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3kqp4wPRwuE5MvLcxyHJIsdC9TiYkucHv7w&s",
+      "fuentePagina": "https://www.amazon.es/Fregadero-Inoxidable-Fregaderos-Extra%C3%ADble-Accesorios/dp/B0CSWG5D3V",
+      "titulo": "Fregadero De Acero Inoxidable Fregaderos De Cocina De Dos Senos Fregadero  Plateado Grifo Extraíble Plateado Fregaderos De Comedor Incluidos  Accesorios ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3kqp4wPRwuE5MvLcxyHJIsdC9TiYkucHv7w&s",
+      "original": "https://m.media-amazon.com/images/I/61GSb3kFoRL._AC_UF894,1000_QL80_.jpg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/sink/es/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTI7wO6BhUSkJhoVEG9GKi4vrNjItpvJzdeKA&s",
+      "fuentePagina": "https://anw-home.com/es/products/handmade-single-bowl-kitchen-sink-60x45?srsltid=AfmBOopkKIBCSdeI4bGQcBLyLa1JDRSQQLookBnV49NvhPlO-k_kkZtH",
+      "titulo": "Fregadero de cocina ANW HOME 6045 de acero inoxidable nano ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTI7wO6BhUSkJhoVEG9GKi4vrNjItpvJzdeKA&s",
+      "original": "https://anw-home.com/cdn/shop/files/4_Render_Kitchen_03.jpg?v=1739028808&width=1946"
+    }
+  ]
+}

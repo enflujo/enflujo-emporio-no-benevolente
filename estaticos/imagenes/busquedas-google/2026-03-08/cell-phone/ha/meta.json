@@ -1,0 +1,71 @@
+{
+  "categoria": "cell phone",
+  "categoriaSlug": "cell-phone",
+  "idioma": "ha",
+  "nombreIdioma": "Hausa",
+  "termino": "wayar salula",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:24:20.886Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "ha",
+    "gl": "ng"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=wayar%20salula&hl=ha&gl=ng",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/cell-phone/ha/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYcxN9nHyGCx8KWkohIxt13NQRQNHx2e5HMA&s",
+      "fuentePagina": "https://commons.wikimedia.org/wiki/File:Hoton_wayar_salula_kenan.jpg",
+      "titulo": "File:Hoton wayar salula kenan.jpg - Wikimedia Commons",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYcxN9nHyGCx8KWkohIxt13NQRQNHx2e5HMA&s",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/3/34/Hoton_wayar_salula_kenan.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/cell-phone/ha/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREMPm9wq0-8nVyCif6SpSu2JVRCYzBaoCX7Q&s",
+      "fuentePagina": "https://aminiya.ng/alakar-wayar-salula-da-mahallinmu-2/",
+      "titulo": "Alakar wayar salula da mahallinmu (2) - Aminiya",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREMPm9wq0-8nVyCif6SpSu2JVRCYzBaoCX7Q&s",
+      "original": "https://aminiya.ng/wp-content/uploads/2015/05/Page-32.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/cell-phone/ha/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSx0pVAaO4eS28GN06x2VbKLFQdEwYJtT3ikg&s",
+      "fuentePagina": "https://www.bbc.com/hausa/39311711",
+      "titulo": "Cajin wayar salula ya kashe wani a banɗaki - BBC News Hausa",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSx0pVAaO4eS28GN06x2VbKLFQdEwYJtT3ikg&s",
+      "original": "http://c.files.bbci.co.uk/6B3B/production/_95215472_290ec4d2-9306-4cd7-adc2-8ed7dd15bcfe.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/cell-phone/ha/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuJauz_XZSXxmWq9wHAvFmsPMMJpoFHxNgSQ&s",
+      "fuentePagina": "https://wikihausa.com.ng/illar-wayar-salula-guda-goma-10-ga-lafiyar-jiki/?srsltid=AfmBOorEKPqAM7yhwHFYxLC5IfAly5OF3Xp2h6wtddnPpZgxtQgy8sYf",
+      "titulo": "WikiHausa - Illar Wayar Salula Guda Goma (10) Ga Lafiyar Jiki",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuJauz_XZSXxmWq9wHAvFmsPMMJpoFHxNgSQ&s",
+      "original": "https://wikihausa.com.ng/wp-content/uploads/2024/05/Illar-Wayar-Salula-Guda-Goma-10-Ga-Lafiyar-Jiki.jpg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/cell-phone/ha/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSF_oZZEII0Gbe7HuF4PBYNpU8AbLOobKFPfQ&s",
+      "fuentePagina": "https://www.voahausa.com/a/buhari-ya-karbi-wayar-salula-ta-farko-da-aka-hada-a-najeriya/5922282.html",
+      "titulo": "Buhari Ya Karbi Wayar Salula Ta Farko Da Aka Hada a Najeriya",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSF_oZZEII0Gbe7HuF4PBYNpU8AbLOobKFPfQ&s",
+      "original": "https://gdb.voanews.com/3d2e226b-670e-4cf6-af93-854a47317e49_cx0_cy36_cw77_w1200_h630.png"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/cell-phone/ha/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3KygyaBIoNs5oTYIwh2RQ6R6hAu-2aszNQQ&s",
+      "fuentePagina": "https://www.facebook.com/100075992350016/posts/shaawar-wayar-salula-a-cikin-shekara-fiye-da-20-ya-tarasu-daga-barrista-nuraddee/384428779638648/",
+      "titulo": "SHA'AWAR WAYAR SALULA~ a Cikin Shekara Fiye Da 20 Ya Tarasu ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3KygyaBIoNs5oTYIwh2RQ6R6hAu-2aszNQQ&s",
+      "original": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=384428709638655"
+    }
+  ]
+}

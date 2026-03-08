@@ -1,0 +1,71 @@
+{
+  "categoria": "elephant",
+  "categoriaSlug": "elephant",
+  "idioma": "sw",
+  "nombreIdioma": "Kiswahili",
+  "termino": "tembo",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T20:53:35.264Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "sw",
+    "gl": "tz"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=tembo&hl=sw&gl=tz",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/elephant/sw/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3XY_BBrkmNCM2quPjTWD1ZNvz9S_XL1H8kA&s",
+      "fuentePagina": "https://www.bbc.com/swahili/articles/cn0ev64e34go",
+      "titulo": "Wanasayansi wagundua kwa mara ya kwanza tembo wakiwazika na ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3XY_BBrkmNCM2quPjTWD1ZNvz9S_XL1H8kA&s",
+      "original": "https://ichef.bbci.co.uk/ace/ws/640/cpsprodpb/92ba/live/2da77d50-dfb5-11ee-90ed-87ddbef5877a.jpg.webp"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/elephant/sw/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcgn9uXN8c-VGXxTZi39XdXwM4YoP1onN8Yw&s",
+      "fuentePagina": "https://www.youtube.com/watch?v=ZB-aaeCc_ws",
+      "titulo": "UJUE UHUSIANO WA TEMBO TEMBO NA BINADAMU",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcgn9uXN8c-VGXxTZi39XdXwM4YoP1onN8Yw&s",
+      "original": "https://i.ytimg.com/vi/ZB-aaeCc_ws/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLAFRzwLXuwCsaWeXO3kTfL4Vu1t1Q"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/elephant/sw/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWV9VgvBSpdnoRLuVor-8SpDzw1lN1W-NeKw&s",
+      "fuentePagina": "https://www.facebook.com/isjoshy/posts/tembo-ni-jina-linalotumiwa-kumaanisha-mnyama-mkubwa-wa-jamii-ya-ndovu-ambaye-ana/1036853784899841/",
+      "titulo": "Tembo ni jina linalotumiwa kumaanisha mnyama mkubwa wa jamii ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWV9VgvBSpdnoRLuVor-8SpDzw1lN1W-NeKw&s",
+      "original": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=1036853761566510"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/elephant/sw/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_bxYatJKfy1oRTwh5Owqo6A_9spcKDjWmyw&s",
+      "fuentePagina": "https://www.bbc.com/swahili/habari-46411631",
+      "titulo": "Utafiti: Mitetemeko ya Tembo inavyoweza kuashiria walipo ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_bxYatJKfy1oRTwh5Owqo6A_9spcKDjWmyw&s",
+      "original": "http://c.files.bbci.co.uk/2A7D/production/_104577801_c90c44c9-c419-4ff0-a41b-ea23c492e808.jpg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/elephant/sw/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThFiPVvHwI7hng7QannBalENr2Ozk9Cwswpw&s",
+      "fuentePagina": "https://www.ippmedia.co.tz/nipashe/habari/kitaifa/read/tembo-wavamia-makazi-waua-watu-watano-2024-11-08-112826",
+      "titulo": "Tembo wavamia makazi, waua watu watano | Nipashe",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThFiPVvHwI7hng7QannBalENr2Ozk9Cwswpw&s",
+      "original": "https://www.ippmedia.co.tz/storage/post-feature-images/01JC5E74EF50QBTHZG3D1HQY0T.webp"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/elephant/sw/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwDCFJTX9zRxW9IQPue0nJcGPXBQe6SuVx4Q&s",
+      "fuentePagina": "https://www.instagram.com/p/DFMoHS_tKVB/",
+      "titulo": "Nini cha kufanya ikiwa tembo kafunga barabara Tembo akifunga ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwDCFJTX9zRxW9IQPue0nJcGPXBQe6SuVx4Q&s",
+      "original": "https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3552390629381416257"
+    }
+  ]
+}

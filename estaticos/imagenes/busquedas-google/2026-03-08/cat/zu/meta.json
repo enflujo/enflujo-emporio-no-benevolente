@@ -1,0 +1,71 @@
+{
+  "categoria": "cat",
+  "categoriaSlug": "cat",
+  "idioma": "zu",
+  "nombreIdioma": "isiZulu",
+  "termino": "ikati",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T20:50:32.832Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "zu",
+    "gl": "za"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=ikati&hl=zu&gl=za",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/cat/zu/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoCXpSx44Y2-shovILEO4MUqBV0MWk93HrIw&s",
+      "fuentePagina": "https://welearnzulu.co.za/product/ikati-lami/",
+      "titulo": "Ikati Lami",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoCXpSx44Y2-shovILEO4MUqBV0MWk93HrIw&s",
+      "original": "https://welearnzulu.co.za/wp-content/uploads/2023/07/Screenshot-2023-07-01-153527.png"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/cat/zu/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxJmhyFmMSuPwh6AhD-C3Xdtedh3hhLxm6DA&s",
+      "fuentePagina": "https://zu.wikipedia.org/wiki/Ikati",
+      "titulo": "Ikati - Wikipedia",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxJmhyFmMSuPwh6AhD-C3Xdtedh3hhLxm6DA&s",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Cat_on_a_Book.jpg/250px-Cat_on_a_Book.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/cat/zu/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_AawiYWHBfjITLh2XKkTAC4l4eNNA8kLZQg&s",
+      "fuentePagina": "https://zu.wikipedia.org/wiki/Ikati",
+      "titulo": "Ikati - Wikipedia",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_AawiYWHBfjITLh2XKkTAC4l4eNNA8kLZQg&s",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Collage_of_Six_Cats-02.jpg/250px-Collage_of_Six_Cats-02.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/cat/zu/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTi43kZbs8gyAjtsyFkttIro1s3tdIC-h1sbw&s",
+      "fuentePagina": "https://davidkrutprojects.com/artworks/49865/ikati-elikwatile",
+      "titulo": "Ikati elikwatile - DAVID KRUT PROJECTS",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTi43kZbs8gyAjtsyFkttIro1s3tdIC-h1sbw&s",
+      "original": "https://davidkrutprojects.com/cms/wp-content/uploads/2018/11/Promo-imageikati-elikwatile-LR-637x900.jpg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/cat/zu/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQ5lcX2c2txqOLKRuiOiwOyOUE7UsROJD8Mg&s",
+      "fuentePagina": "https://marumo.co.za/product/ikati-eliyivila/",
+      "titulo": "Ikati eliyivila | Marumo Publishing",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQ5lcX2c2txqOLKRuiOiwOyOUE7UsROJD8Mg&s",
+      "original": "https://marumo.co.za/wp-content/uploads/2022/02/The-Lazy-Cat-Zulu-1.jpg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/cat/zu/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiF-ZQe5qKDe3QCUJWZaC5ze272p12jh_GDw&s",
+      "fuentePagina": "https://www.ikatisomalis.com/history.html",
+      "titulo": "Ikati Somalis",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiF-ZQe5qKDe3QCUJWZaC5ze272p12jh_GDw&s",
+      "original": "https://www.ikatisomalis.com/assets/img/Ikati%20Griffin.jpg"
+    }
+  ]
+}

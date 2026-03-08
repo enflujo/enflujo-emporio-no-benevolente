@@ -1,0 +1,71 @@
+{
+  "categoria": "microwave",
+  "categoriaSlug": "microwave",
+  "idioma": "zh",
+  "nombreIdioma": "中文",
+  "termino": "微波炉",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:25:18.665Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "zh-CN",
+    "gl": "cn"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=%E5%BE%AE%E6%B3%A2%E7%82%89&hl=zh-CN&gl=cn",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/microwave/zh/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmwzGg93CF49t5VJTtc2GSfWrN87nBOj8iMA&s",
+      "fuentePagina": "https://www.zhihu.com/topic/19584644/intro",
+      "titulo": "微波炉- 知乎",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmwzGg93CF49t5VJTtc2GSfWrN87nBOj8iMA&s",
+      "original": "https://pic1.zhimg.com/v2-fa4b1e2ac2a271b64a0ab38ea6a98fe8_b.png"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/microwave/zh/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLBI6euhfp7AdPJSuMvrr46NNHInPMAQ2ENg&s",
+      "fuentePagina": "https://consumer.panasonic.cn/product/cooking-appliances/microwave-ovens/household-microwave-ovens/NN-GF33KBXPE.html",
+      "titulo": "松下微波炉NN-GF33KB-松下家电",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLBI6euhfp7AdPJSuMvrr46NNHInPMAQ2ENg&s",
+      "original": "https://consumer.panasonic.cn/static/upload/image/20230626/1687761989379472.png"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/microwave/zh/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3-3pw7Ith0dsVcVz3ABCzSeKV1YEqJ4Qw3w&s",
+      "fuentePagina": "https://zh.wikipedia.org/zh-cn/%E5%BE%AE%E6%B3%A2%E7%82%89",
+      "titulo": "微波炉- 维基百科，自由的百科全书",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3-3pw7Ith0dsVcVz3ABCzSeKV1YEqJ4Qw3w&s",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Consumer_Reports_-_Kenmore_microwave_oven.tif/lossy-page1-250px-Consumer_Reports_-_Kenmore_microwave_oven.tif.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/microwave/zh/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNnFelnB6ywBmkCD-sQExjWr0EZU2TScOgaA&s",
+      "fuentePagina": "https://www.bbc.com/ukchina/simp/horizon-53507099",
+      "titulo": "盘点如何避免微波炉加工食品的安全隐患- BBC 英伦网",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNnFelnB6ywBmkCD-sQExjWr0EZU2TScOgaA&s",
+      "original": "https://ichef.bbci.co.uk/ace/ws/640/cpsprodpb/13766/production/_113581797_whatsubject.jpg.webp"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/microwave/zh/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvqSBAGe49exKQp7zN_bXIkKWTpQ-A-wVWMw&s",
+      "fuentePagina": "https://consumer.panasonic.cn/product/cooking-appliances/microwave-ovens/household-microwave-ovens/",
+      "titulo": "家用及商用微波炉-松下家电",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvqSBAGe49exKQp7zN_bXIkKWTpQ-A-wVWMw&s",
+      "original": "https://consumer.panasonic.cn/static/upload/image/20240827/1724726524411062.png"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/microwave/zh/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZysoL_-KnxpgPNqLBTpQe4hOHcPM5ttWNpA&s",
+      "fuentePagina": "https://baike.baidu.com/item/%E5%BE%AE%E6%B3%A2%E7%82%89/84186",
+      "titulo": "微波炉_百度百科",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZysoL_-KnxpgPNqLBTpQe4hOHcPM5ttWNpA&s",
+      "original": "https://bkimg.cdn.bcebos.com/smart/7af40ad162d9f2d3f6db6aa1a3ec8a136227ccb2-bkimg-process,v_1,rw_1,rh_1,pad_1,color_ffffff?x-bce-process=image/format,f_auto"
+    }
+  ]
+}

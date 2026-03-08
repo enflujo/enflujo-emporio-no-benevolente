@@ -1,0 +1,71 @@
+{
+  "categoria": "bird",
+  "categoriaSlug": "bird",
+  "idioma": "en",
+  "nombreIdioma": "English",
+  "termino": "bird",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T20:49:35.429Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "en",
+    "gl": "us"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=bird&hl=en&gl=us",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bird/en/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5pdzpTvpyShSFMnJ7-C5LprluIpEcgiKrcg&s",
+      "fuentePagina": "https://www.scientificamerican.com/article/we-are-in-the-golden-age-of-bird-watching/",
+      "titulo": "We Are in the Golden Age of Bird-Watching | Scientific American",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5pdzpTvpyShSFMnJ7-C5LprluIpEcgiKrcg&s",
+      "original": "https://static.scientificamerican.com/dam/m/4beab95014486f06/original/Tree-Swallow2.JPG?m=1714055470.635&w=1200"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bird/en/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXeF_dsTLiLtSQ6ftjHIHiXyvZ9ZTLu54ayQ&s",
+      "fuentePagina": "https://www.britannica.com/animal/bird-animal",
+      "titulo": "Bird | Description, Species, Feathers, & Facts | Britannica",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXeF_dsTLiLtSQ6ftjHIHiXyvZ9ZTLu54ayQ&s",
+      "original": "https://cdn.britannica.com/10/250610-050-BC5CCDAF/Zebra-finch-Taeniopygia-guttata-bird.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bird/en/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUv7pxNTNCXV6qvtCYOYxpIMEp5hcQPro_AA&s",
+      "fuentePagina": "https://academy.allaboutbirds.org/plumage-variations/",
+      "titulo": "Bird Plumage Variations and Abnormalities | Bird Academy ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUv7pxNTNCXV6qvtCYOYxpIMEp5hcQPro_AA&s",
+      "original": "https://academy.allaboutbirds.org/wp-content/uploads/2015/07/Painted_Bunting_male_Birdhsare_Tim_Hopwood.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bird/en/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQu4-n38DUyT4kF8_Ga46xx5qGh4VH4_8goQQ&s",
+      "fuentePagina": "https://www.birds.cornell.edu/home/",
+      "titulo": "Cornell Lab of Ornithology—Home | Birds, Cornell Lab of ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQu4-n38DUyT4kF8_Ga46xx5qGh4VH4_8goQQ&s",
+      "original": "https://www.birds.cornell.edu/home/wp-content/uploads/2023/09/334289821-Baltimore_Oriole-Matthew_Plante.jpg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bird/en/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEETxp515kUwztOnulWyjRySH4DGp_X2kpJw&s",
+      "fuentePagina": "https://www.pennington.com/all-products/wild-bird/resources",
+      "titulo": "Birding Resources",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEETxp515kUwztOnulWyjRySH4DGp_X2kpJw&s",
+      "original": "https://www.pennington.com/-/media/Project/OneWeb/Pennington/Images/headers/secondary-category/About_WildBird-mobile.jpg?h=330&iar=0&w=480&hash=85A6611B4C76F416ED8CF1BE1FC2BA0E"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bird/en/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRh4EWy7PhpSbQiEPtBBEf6OPg5fd1s1g0TA&s",
+      "fuentePagina": "https://en.wikipedia.org/wiki/Songbird",
+      "titulo": "Songbird - Wikipedia",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRh4EWy7PhpSbQiEPtBBEf6OPg5fd1s1g0TA&s",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/4/45/Eopsaltria_australis_-_Mogo_Campground.jpg"
+    }
+  ]
+}

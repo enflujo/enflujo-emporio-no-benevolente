@@ -1,0 +1,71 @@
+{
+  "categoria": "bowl",
+  "categoriaSlug": "bowl",
+  "idioma": "rw",
+  "nombreIdioma": "Kinyarwanda",
+  "termino": "icano",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:09:56.610Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "en",
+    "gl": "rw"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=icano&hl=en&gl=rw",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bowl/rw/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-SVJANziNznC8wkHsoIj-BnzA5vZ-S2_aow&s",
+      "fuentePagina": "https://www.researchgate.net/figure/One-ICANO-and-one-ICACO-with-hybrid-recanalization-Case-3-A-C-A-56-year-old-man_fig2_349087788",
+      "titulo": "One ICANO and one ICACO with hybrid recanalization. Case-3 ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-SVJANziNznC8wkHsoIj-BnzA5vZ-S2_aow&s",
+      "original": "https://www.researchgate.net/publication/349087788/figure/fig2/AS:11431281244203869@1715861353656/One-ICANO-and-one-ICACO-with-hybrid-recanalization-Case-3-A-C-A-56-year-old-man.tif"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bowl/rw/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4XM0ZhWzEOdHahim3lCWy2njFFAgi9_9c2g&s",
+      "fuentePagina": "https://www.aletraris.com/product/icano/?srsltid=AfmBOoogUXAdlIHMAGIDkuwQTVB3z2MvTQjpCHsemHbkeV7XCIQeVEAf",
+      "titulo": "Icano Coffee Table – Aletraris Furniture",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4XM0ZhWzEOdHahim3lCWy2njFFAgi9_9c2g&s",
+      "original": "https://www.aletraris.com/wp-content/uploads/2025/10/12202039003_2877-ICANO.webp"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bowl/rw/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcPV1Vf9jnBpDsOTga2tHgoMOVzukx_AML3Q&s",
+      "fuentePagina": "https://www.tradeinn.com/motardinn/en/held-icano-pants-long/59676/p",
+      "titulo": "Held Icano Pants Long | Motardinn",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcPV1Vf9jnBpDsOTga2tHgoMOVzukx_AML3Q&s",
+      "original": "https://www.tradeinn.com/f/5/59676_4/held-icano-pants-long.webp"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bowl/rw/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKkSd9FofZ2dCvMvVCE4cam1cXvsrKf00ZLQ&s",
+      "fuentePagina": "https://www.facebook.com/inyarwandadotcom/photos/d41d8cd9/1313362840825461/",
+      "titulo": "inyarwanda.com - inyarwanda.com added a new photo.",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKkSd9FofZ2dCvMvVCE4cam1cXvsrKf00ZLQ&s",
+      "original": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=1313362840825461"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bowl/rw/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6W69hAF2z4Ab05_zQ26y6NSvpiO7ZDwa4pw&s",
+      "fuentePagina": "https://www.facebook.com/icanotv/",
+      "titulo": "ICANO TV (@icanotv) • Facebook",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6W69hAF2z4Ab05_zQ26y6NSvpiO7ZDwa4pw&s",
+      "original": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=100063746872080"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bowl/rw/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVH3xtsDyQmLwFUTOCLxm2KBCcoCE-Lk7oxA&s",
+      "fuentePagina": "https://www.tradeinn.com/motardinn/en/held-icano-pants-long/59676/p",
+      "titulo": "Held Icano Pants Long | Motardinn",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVH3xtsDyQmLwFUTOCLxm2KBCcoCE-Lk7oxA&s",
+      "original": "https://www.tradeinn.com/f/5/59676/held-icano-pants-long.webp"
+    }
+  ]
+}

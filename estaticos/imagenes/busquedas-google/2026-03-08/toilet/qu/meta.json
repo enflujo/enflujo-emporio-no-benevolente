@@ -1,0 +1,71 @@
+{
+  "categoria": "toilet",
+  "categoriaSlug": "toilet",
+  "idioma": "qu",
+  "nombreIdioma": "Quechua",
+  "termino": "uñay wasi",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:20:39.007Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "es",
+    "gl": "pe"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=u%C3%B1ay%20wasi&hl=es&gl=pe",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/toilet/qu/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpZdquNfXxUa1RsfWEa4wECl5BCuJdRyJA7A&s",
+      "fuentePagina": "https://www.facebook.com/yawasi.edu.pe/",
+      "titulo": "Wiñay Wasi (@yawasi.edu.pe) • Facebook",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpZdquNfXxUa1RsfWEa4wECl5BCuJdRyJA7A&s",
+      "original": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=100063564159658"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/toilet/qu/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcD59LI4B8zoUscaLemXSwoi9OwloieivXVA&s",
+      "fuentePagina": "https://www.youtube.com/watch?v=DKka9uzHUYE",
+      "titulo": "VIDEO INSTITUCIONAL UNIVERSIDAD AMAWTAY WASI 2024",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcD59LI4B8zoUscaLemXSwoi9OwloieivXVA&s",
+      "original": "https://i.ytimg.com/vi/DKka9uzHUYE/sddefault.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/toilet/qu/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7M5CmMZsyQbwQqusbX1IUFyOYfrBxfaabZw&s",
+      "fuentePagina": "https://larepublica.pe/politica/2025/05/13/renuncia-jefa-de-wasi-mikuna-por-conflicto-con-ministra-urteaga-nadya-villavicencio-callo-leslie-urteaga-qali-warma-midis-hnews-472550",
+      "titulo": "Renuncia jefa de Wasi Mikuna por conflicto con ministra ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7M5CmMZsyQbwQqusbX1IUFyOYfrBxfaabZw&s",
+      "original": "https://larepublica.cronosmedia.glr.pe/original/2025/05/13/6823e1be5ba67140090fdc91.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/toilet/qu/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGJ-6BUy8eKHF83dMMSd0a_GBE1NXaPCw1zQ&s",
+      "fuentePagina": "https://www.youtube.com/@uamawtaywasi",
+      "titulo": "Universidad Amawtay Wasi - YouTube",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGJ-6BUy8eKHF83dMMSd0a_GBE1NXaPCw1zQ&s",
+      "original": "https://yt3.googleusercontent.com/6LPZeR4LiPDauueo2L-Wt6XPEsAdO_tPCwBVl-PFWbY12ObzJH-DxvSVT_w_giqFV0M0xqvH4Q=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/toilet/qu/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCW1A43jJLTiFDLP-eEPi-OcH3jGasR1b0-Q&s",
+      "fuentePagina": "https://gestion.pe/peru/politica/urteaga-senala-que-fortalecera-wasi-mikuna-con-participacion-de-padres-de-familia-midis-qali-warma-julio-demartini-noticia/",
+      "titulo": "Urteaga señala que fortalecerá Wasi Mikuna con participación ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCW1A43jJLTiFDLP-eEPi-OcH3jGasR1b0-Q&s",
+      "original": "https://gestion.pe/resizer/v2/UZVHS6EXNVBHFNI4FLTUCID3KQ.jpg?auth=15b3c13521e8d2559afb84bc26a3450deaf156638d327a93c7a3c0031cd343f6&width=1200&height=1200&quality=75&smart=true"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/toilet/qu/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjEBB4_mPsaqbS8947hIbYWv_moxLKbmpYnQ&s",
+      "fuentePagina": "https://larepublica.pe/politica/2025/05/13/renuncia-jefa-de-wasi-mikuna-por-conflicto-con-ministra-urteaga-nadya-villavicencio-callo-leslie-urteaga-qali-warma-midis-hnews-472550",
+      "titulo": "Renuncia jefa de Wasi Mikuna por conflicto con ministra ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjEBB4_mPsaqbS8947hIbYWv_moxLKbmpYnQ&s",
+      "original": "https://imgmedia.larepublica.pe/1200x735/larepublica/image/metadata-social-media/2025/05/13/d0g3h84egc-lr-portada.png"
+    }
+  ]
+}

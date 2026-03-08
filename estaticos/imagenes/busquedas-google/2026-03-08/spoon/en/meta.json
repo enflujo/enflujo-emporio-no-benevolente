@@ -1,0 +1,71 @@
+{
+  "categoria": "spoon",
+  "categoriaSlug": "spoon",
+  "idioma": "en",
+  "nombreIdioma": "English",
+  "termino": "spoon",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:09:10.639Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "en",
+    "gl": "us"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=spoon&hl=en&gl=us",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/spoon/en/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWBCb7ElQtkRLAYH27JwpcCTnFlh_wi9MWAg&s",
+      "fuentePagina": "https://en.wikipedia.org/wiki/Spoon",
+      "titulo": "Spoon - Wikipedia",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWBCb7ElQtkRLAYH27JwpcCTnFlh_wi9MWAg&s",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Soup_Spoon.jpg/1280px-Soup_Spoon.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/spoon/en/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQn4Bk2mQ-siR6VQcaPrfJlGd8bVwLquFSNmg&s",
+      "fuentePagina": "https://www.amazon.com/Aebeky-24-Piece-Stainless-Tablespoons-8-Inches/dp/B092LN1S8X",
+      "titulo": "Amazon.com: Aebeky 24-Piece Stainless Steel Dinner Spoon ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQn4Bk2mQ-siR6VQcaPrfJlGd8bVwLquFSNmg&s",
+      "original": "https://m.media-amazon.com/images/I/51gadWnFOzS.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/spoon/en/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuxOOYi64Uyj0YAyNp9OwSMHT-gcFFpBok4g&s",
+      "fuentePagina": "https://misen.com/products/slotted-chef-spoon?srsltid=AfmBOoo-8VPu9vlEySoAQDgwyQdu6_iqcETgYftlnDR_VZ908vvqrSIu",
+      "titulo": "Misen Slotted Chef Spoon",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuxOOYi64Uyj0YAyNp9OwSMHT-gcFFpBok4g&s",
+      "original": "http://misen.com/cdn/shop/files/TX-Chef_Spoons-Slotted-_2.png?v=1757975173&width=2000"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/spoon/en/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROiUh8Acwgk4KRXiLOCpH3bdchDzL72-_0VQ&s",
+      "fuentePagina": "https://www.webstaurantstore.com/choice-dominion-7-5-8-18-0-stainless-steel-tablespoon-serving-spoon-case/267020010.html?srsltid=AfmBOooPjzlw3S8yAfGJM689BQiKseBKv1rXvY-hwiB4u0gOai6mulAj",
+      "titulo": "Choice Dominion 7 5/8\" 18/0 Stainless Steel Tablespoon / Serving Spoon -  12/Case",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROiUh8Acwgk4KRXiLOCpH3bdchDzL72-_0VQ&s",
+      "original": "https://www.webstaurantstore.com/images/products/extra_large/369433/2354904.jpg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/spoon/en/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYjcO1z_5ik0zXqQ6DjOVW-XQdnmWKWBDzkg&s",
+      "fuentePagina": "https://www.hendi.eu/en/sundae-spoon-6-pcs-6255.html",
+      "titulo": "Sundae spoon - 6 pcs - HENDI Tools for Chefs",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYjcO1z_5ik0zXqQ6DjOVW-XQdnmWKWBDzkg&s",
+      "original": "https://hendi.xcdn.nl/hendi/images/764503_2018_IMGP77701.jpg?xv=2&f=att:1/raw:1"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/spoon/en/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpnWmAZyUv9HlpVgQrx2UgI5RqyQKWsiRQKQ&s",
+      "fuentePagina": "https://www.popatstores.co.uk/bead-mirror-finished-table-spoon.html",
+      "titulo": "Buy Bead Stainless Steel Mirror Finished Table Spoon in UK",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpnWmAZyUv9HlpVgQrx2UgI5RqyQKWsiRQKQ&s",
+      "original": "https://www.popatstores.co.uk/media/catalog/product/O/_/O_10152013114829459_1.jpeg"
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "categoria": "toaster",
+  "categoriaSlug": "toaster",
+  "idioma": "rw",
+  "nombreIdioma": "Kinyarwanda",
+  "termino": "toaster",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:26:12.412Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "en",
+    "gl": "rw"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=toaster&hl=en&gl=rw",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/toaster/rw/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYUvqaIjoW9onTGTY2JGdf4otUAyHtiX-wfw&s",
+      "fuentePagina": "https://www.nytimes.com/wirecutter/reviews/best-toaster/",
+      "titulo": "The 2 Best Toasters of 2026 | Reviews by Wirecutter",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYUvqaIjoW9onTGTY2JGdf4otUAyHtiX-wfw&s",
+      "original": "https://cdn.thewirecutter.com/wp-content/media/2024/11/toasters-2048px-9002-3x2-1.jpg?auto=webp&quality=75&crop=3:2&width=1024"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/toaster/rw/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDmmo6TJCpaKQ-2Q24BobaeISqUL5-GY6zyw&s",
+      "fuentePagina": "https://www.morphyrichards.co.uk/products/accents-4-slice-toaster-blue?srsltid=AfmBOorhC8m0m8PxY7x1kRwOFZAYcl95CfNnHycyDlV5TUhpUR81Z_qZ",
+      "titulo": "Accents Gold 4-Slice Toaster Navy – Morphy Richards-UK",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDmmo6TJCpaKQ-2Q24BobaeISqUL5-GY6zyw&s",
+      "original": "https://www.morphyrichards.co.uk/cdn/shop/files/MorphyRichards_Accents_4SliceToaster_242045_Lifestyle_8.jpg?v=1756460628&width=1080"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/toaster/rw/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMVT1Z43szS2q2V2XQBwtGwxRr5vh-V7OI8g&s",
+      "fuentePagina": "https://www.krupsusa.com/BREAKFAST-APPLIANCES/TOASTERS/2-Slice-Toaster/p/8000035967",
+      "titulo": "KRUPS 2 Slice Toaster KH250D51",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMVT1Z43szS2q2V2XQBwtGwxRr5vh-V7OI8g&s",
+      "original": "https://www.krupsusa.com/medias/?context=bWFzdGVyfGltYWdlc3wxOTk2NDR8aW1hZ2UvanBlZ3xhVzFoWjJWekwyZ3pNaTlvWm1Ndk1qWTRPRGd5TlRneE9URXpPVEF8OGQzMjc4ODlmMzhmNDlhYzQwN2FiNmZiZjQ3MWE1NWU4MTJiZWUwNTE1OTJhYTAyZDg4OTNjN2UwZjM1NDJiMA"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/toaster/rw/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3FQn51Lc5T9Jk2oYekR3mt7hVQB-r3xM-Fw&s",
+      "fuentePagina": "https://www.davidwoodappliances.co.uk/russell-hobbs-adventure-two-slice-toaster/p-4583",
+      "titulo": "Russell Hobbs Two Slice Toaster - Stainless Steel - David ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3FQn51Lc5T9Jk2oYekR3mt7hVQB-r3xM-Fw&s",
+      "original": "https://db9e73c0ae8c911c01a9-f879e35b52733b9fba1f9a23eac6c566.ssl.cf3.rackcdn.com/images/product-images/Capture-70_1500_1500.JPG"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/toaster/rw/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScuNzlDhyQKyshhgsN8f-sQwllHJSkSgZOqg&s",
+      "fuentePagina": "https://steba.com/produkte/toaster-to-20-inox/?lang=en&srsltid=AfmBOorZ1jdcNMUNCMo7lyjG94tc0Rsrk5vI_uyuBwy5EYYLNRVJINos",
+      "titulo": "Steba Elektrogeräte |",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScuNzlDhyQKyshhgsN8f-sQwllHJSkSgZOqg&s",
+      "original": "https://steba.com/wp-content/uploads/2024/06/TO20_Toaster_Steba_emoI_4011833001191_1772x1772.png"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/toaster/rw/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGKLpc1b6P8VNSTd-0ZOBSHpHWIZbboqCsRg&s",
+      "fuentePagina": "https://www.procook.co.uk/product/white-toaster-4-slice",
+      "titulo": "White Toaster 4 Slice | ProCook",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGKLpc1b6P8VNSTd-0ZOBSHpHWIZbboqCsRg&s",
+      "original": "https://cdn.procook.co.uk/888cd206-e9fb-4b23-8f88-b1ea00c67412/Product-image-square/Ivory_4slice_Feature_Front%26Side.jpg?dpr=2&width=750&format=pjpg&auto=webp&crop=1:1"
+    }
+  ]
+}

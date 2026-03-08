@@ -1,0 +1,71 @@
+{
+  "categoria": "toaster",
+  "categoriaSlug": "toaster",
+  "idioma": "ar",
+  "nombreIdioma": "العربية",
+  "termino": "محمصة خبز",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:26:26.971Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "ar",
+    "gl": "eg"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=%D9%85%D8%AD%D9%85%D8%B5%D8%A9%20%D8%AE%D8%A8%D8%B2&hl=ar&gl=eg",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/toaster/ar/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLK1ZImFoiV_oJeZu0of3eqqgte66EvDi0bw&s",
+      "fuentePagina": "https://kixat.com/egypt-/product-details/kenwood-tcm01-toasterro-?srsltid=AfmBOop72PNUMCNQuBoWA0sYbsrqVfZTKooTDL7KZpklBISNI_qwLR-f",
+      "titulo": "محمصة خبز ميتال راب ممتازة وانيقة من كينوود سعة شريحتين ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLK1ZImFoiV_oJeZu0of3eqqgte66EvDi0bw&s",
+      "original": "https://kixat.blob.core.windows.net/kixatweb/1c790fca-4935-48b1-8cfb-96276f7b535d.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/toaster/ar/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQnf4SKRIFi8qAtjLhQlIkBqc-Dptj7ayCRA&s",
+      "fuentePagina": "https://www.amazon.eg/%D9%85%D8%AD%D9%85%D8%B5%D8%A9-%D8%B4%D8%B1%D9%8A%D8%AD%D8%AA%D9%8A%D9%86-%D8%A8%D8%AA%D8%B5%D9%85%D9%8A%D9%85-%D9%83%D9%8A%D9%86%D9%88%D9%88%D8%AF%D8%8C-TCP01-AOWH/dp/B07XCXNY61",
+      "titulo": "محمصة توست شريحتين بتصميم عصري يناسب اي مطبخ من كينوود ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQnf4SKRIFi8qAtjLhQlIkBqc-Dptj7ayCRA&s",
+      "original": "https://m.media-amazon.com/images/I/71onWVgvmLL._AC_UF894,1000_QL80_.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/toaster/ar/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrUGxLDLVt7QhHp_1V4siudWllQvgnNqxe9A&s",
+      "fuentePagina": "https://www.amazon.eg/%D9%85%D8%AD%D9%85%D8%B5%D8%A9-%D8%AE%D8%A8%D8%B2-%D8%AA%D9%88%D8%B3%D8%AA-%D9%84%D9%82%D8%B7%D8%B9%D8%AA%D9%8A%D9%86-%D8%B3%D9%88%D9%83%D8%A7%D9%86%D9%8A/dp/B09MV1Q2BM",
+      "titulo": "محمصة خبز توست لقطعتين من سوكاني - 700 وات، HJT-022 : Amazon.eg",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrUGxLDLVt7QhHp_1V4siudWllQvgnNqxe9A&s",
+      "original": "https://m.media-amazon.com/images/I/51G+cjWfU6L.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/toaster/ar/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfXKCWQRuxlr9eKul1fwb9d2kE6c0Ab-216A&s",
+      "fuentePagina": "https://makka.store/product/feller-to290rcr-toaster-815w-2-slices-steel/",
+      "titulo": "فيلر محمصة خبز ألمانية 815 واط شريحتين هيكل فولاذي TO290",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfXKCWQRuxlr9eKul1fwb9d2kE6c0Ab-216A&s",
+      "original": "https://makka.store/wp-content/uploads/2025/09/%D9%85%D8%AD%D9%85%D8%B5%D8%A9-%D8%AE%D8%A8%D8%B2-%D9%85%D9%86-%D9%81%D9%8A%D9%84%D8%B1-%D8%A7%D9%84%D8%A7%D9%84%D9%85%D8%A7%D9%86%D9%8A%D9%87-%D9%83%D8%B1%D9%8A%D9%85%D9%8A.jpeg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/toaster/ar/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0dPv2pBDuvRAAPwikHweESiEQqFFMKRUV8Q&s",
+      "fuentePagina": "https://www.raneen.com/ar/raf-toaster-r-2102-2-slices-900-watts-black?srsltid=AfmBOop4jlKnnDt1bMcFeWORc1iwNcmhoZZn7dg96xOb9rhAiupaqEYd",
+      "titulo": "محمصة خبز راف، 2 شريحة، 900 وات، R.2102 - اسود",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0dPv2pBDuvRAAPwikHweESiEQqFFMKRUV8Q&s",
+      "original": "https://www.raneen.com/media/catalog/product/2/_/2_z5jpd35c4i5mwk0g.jpg?optimize=high&bg-color=255,255,255&fit=bounds&height=700&width=700&canvas=700:700"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/toaster/ar/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkVDh7Vtexp-Q0FHeSOeIc6nOJ2-iSB8qlWg&s",
+      "fuentePagina": "https://www.philips.ae/ar/c-p/HD2650_91/viva-collection-toaster",
+      "titulo": "مجموعة Viva آلة تحميص الخبز HD2650/91 | Philips‎",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkVDh7Vtexp-Q0FHeSOeIc6nOJ2-iSB8qlWg&s",
+      "original": "https://images.philips.com/is/image/philipsconsumer/vrs_514c8b051dddc7274d4dafc6ebfec63f0ca06897?wid=700&hei=700&$pnglarge$"
+    }
+  ]
+}

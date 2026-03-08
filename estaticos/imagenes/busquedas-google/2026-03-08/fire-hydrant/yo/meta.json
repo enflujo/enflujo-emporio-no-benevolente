@@ -1,0 +1,71 @@
+{
+  "categoria": "fire hydrant",
+  "categoriaSlug": "fire-hydrant",
+  "idioma": "yo",
+  "nombreIdioma": "Yorùbá",
+  "termino": "omi ìná",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T20:47:07.031Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "yo",
+    "gl": "ng"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=omi%20%C3%ACn%C3%A1&hl=yo&gl=ng",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/fire-hydrant/yo/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJvMEcBp8qkBrDwHDdNvWHDQLm9HPIemsKBg&s",
+      "fuentePagina": "https://www.blanda-beauty.com/products/ashe-omi-ina-parfum",
+      "titulo": "Ashé Omi Iná | Natural Energy Perfume – Blanda Beauty",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJvMEcBp8qkBrDwHDdNvWHDQLm9HPIemsKBg&s",
+      "original": "http://www.blanda-beauty.com/cdn/shop/files/ashe-omi-ina-30-ml-530998.jpg?v=1729092916"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/fire-hydrant/yo/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJEEITg9R5qat2222N_gsN4P_fVBfYp9KvQw&s",
+      "fuentePagina": "https://www.shamanic.com/products/eau-de-parfum-omi-ina?srsltid=AfmBOor3sUDGcHXg0SXiF_KLbmXojZeXDjNrt610HMj9FeVMaYUwgGJM",
+      "titulo": "Eau de Parfum Omi Iná – SHAMANIC",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJEEITg9R5qat2222N_gsN4P_fVBfYp9KvQw&s",
+      "original": "http://www.shamanic.com/cdn/shop/files/ashe-eau-de-parfum-omi-ina.jpg?v=1763658528"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/fire-hydrant/yo/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_ouxt8QE9nlmT1F7a-0EQfk-DWgkfVg_aIg&s",
+      "fuentePagina": "https://www.blanda-beauty.com/products/ashe-omi-ina-parfum",
+      "titulo": "Ashé Omi Iná | Natural Energy Perfume – Blanda Beauty",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_ouxt8QE9nlmT1F7a-0EQfk-DWgkfVg_aIg&s",
+      "original": "https://www.blanda-beauty.com/cdn/shop/files/ashe-omi-ina-30-ml-4872928.webp?v=1759318444&width=600"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/fire-hydrant/yo/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHiF8TrJAG0vM2qGTJFDUMSMHHkA-Vh-3TwQ&s",
+      "fuentePagina": "https://www.tiktok.com/@estherigbekele/video/7448590513696935174",
+      "titulo": "Powerful Worship Song: O GBE INA KA ORI OMI",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHiF8TrJAG0vM2qGTJFDUMSMHHkA-Vh-3TwQ&s",
+      "original": "https://www.tiktok.com/api/img/?itemId=7448590513696935174&location=0&aid=1988"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/fire-hydrant/yo/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQunoDwMUvow_jQUs1Q0a8SbyhNaLG8eZUnRg&s",
+      "fuentePagina": "https://yo.kainiugroup.com/special-tricycle/68346557.html",
+      "titulo": "Ina omi oju omi Olupilẹṣẹ China",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQunoDwMUvow_jQUs1Q0a8SbyhNaLG8eZUnRg&s",
+      "original": "https://bsg-i.nbxc.com/product/d7/5f/ba/e7c322703c276cea10f1ede347.png@4e_500w_500h.src%7C95Q.webp"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/fire-hydrant/yo/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1r4whaChj7Ff6RYXcSXIkVVfc3yCZ8tzzcg&s",
+      "fuentePagina": "https://www.youtube.com/watch?v=7ZjOTiEPef4",
+      "titulo": "INA OJU OMI - AN AFRICAN YORUBA MOVIE STARRING : BEST ACTORS 2025",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1r4whaChj7Ff6RYXcSXIkVVfc3yCZ8tzzcg&s",
+      "original": "https://i.ytimg.com/vi/7ZjOTiEPef4/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLD9Bbur4NTQpaoqRn-4gEQDEUhn5w"
+    }
+  ]
+}

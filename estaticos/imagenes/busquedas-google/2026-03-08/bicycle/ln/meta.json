@@ -1,0 +1,71 @@
+{
+  "categoria": "bicycle",
+  "categoriaSlug": "bicycle",
+  "idioma": "ln",
+  "nombreIdioma": "Lingala",
+  "termino": "velo",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T20:41:00.780Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "fr",
+    "gl": "cd"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=velo&hl=fr&gl=cd",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bicycle/ln/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0vtsMyZwSCgasHuPXcfhF21XrGdY0-FwUhQ&s",
+      "fuentePagina": "https://www.valenceromansmobilites.fr/velo/location-longue-duree/",
+      "titulo": "Location longue durée - Valenceromansmobilites",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0vtsMyZwSCgasHuPXcfhF21XrGdY0-FwUhQ&s",
+      "original": "https://storage.googleapis.com/is-wp-46-prod/uploads-prod/2025/05/6d4aeb91-mon-libelo-longtail-en-usage-5-scaled.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bicycle/ln/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQeeL9XrGlYMWqg2okrZvop4CAACUlhmLFsw&s",
+      "fuentePagina": "https://gibuscycles.com/products/velo-20-pouces?srsltid=AfmBOoqJ7-PbdeCbiWutoSZcaa27C8jXM5VQWLhQBwETGXRcIl8E9AYs",
+      "titulo": "Vélo 20 pouces Fille - Garçon | VTT 20 pouces – Gibus Cycles",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQeeL9XrGlYMWqg2okrZvop4CAACUlhmLFsw&s",
+      "original": "https://gibuscycles.com/cdn/shop/files/velo-20-pouces-profil-droit-vert-gibus-cycles.jpg?v=1745845076"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bicycle/ln/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1XXJ_WYh9CmrRV8LNCNryNoq_WpHlIeuHgw&s",
+      "fuentePagina": "https://naolib.fr/fr/velos/velos-en-location-longue-duree",
+      "titulo": "Louer un vélo avec ou sans assistance électrique - Naolib",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1XXJ_WYh9CmrRV8LNCNryNoq_WpHlIeuHgw&s",
+      "original": "https://naolib.fr/medias/photo/location-longue-duree-velo_1751012253575-png"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bicycle/ln/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_NpTgXvm4XrIYi3b7Yl4VM5oMrBrMMr_EtQ&s",
+      "fuentePagina": "https://coconutslocationgroix.com/louer/velo-assistance-electrique/",
+      "titulo": "Vélo à Assistance Électrique",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_NpTgXvm4XrIYi3b7Yl4VM5oMrBrMMr_EtQ&s",
+      "original": "https://coconutslocationgroix.com/wp-content/uploads/2024/01/velo-electrique-location-de-velo-coconuts-location-port-tudy-groix-1.jpg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bicycle/ln/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfDRNDQ02L8FDQ9LWGLe79uxa3XIMIP53EXw&s",
+      "fuentePagina": "https://www.montania-sport.com/blog/comment-repartir-le-poids-sur-son-velo-en-voyage-guide-bikepacking-et-cyclotourisme/?srsltid=AfmBOookFVzxlGj_cl0s7PHG2D1Gp_Q1NGYhrdSLRwiw_wWIZ6848ju6",
+      "titulo": "Comment répartir le poids sur son vélo en voyage ? Guide ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfDRNDQ02L8FDQ9LWGLe79uxa3XIMIP53EXw&s",
+      "original": "https://www.montania-sport.com/blog/wp-content/uploads/2025/07/Comment-repartir-le-poids-sur-son-velo-en-voyage-_-Guide-bikepacking-et-cyclotourisme.jpeg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bicycle/ln/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROtvQ53cMg-xOIRluCtwz7hqEXvZP-hseE9Q&s",
+      "fuentePagina": "https://www.decathlon.sn/p/305496-7792-velo-vtt-randonnee-st-120-noir-bleu-275.html?srsltid=AfmBOorc52ZnUbpdz4bpSEXf372wyZFB6O_RnYI3btYDKgkUMILGTwZT",
+      "titulo": "Vélo vtt randonnee st 120 noir bleu 27,5\" - Decathlon",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROtvQ53cMg-xOIRluCtwz7hqEXvZP-hseE9Q&s",
+      "original": "https://contents.mediadecathlon.com/p2968364/k$89986b2a474e442a3863429a212cd401/velo-vtt-randonnee-st-120-noir-bleu-275.jpg"
+    }
+  ]
+}

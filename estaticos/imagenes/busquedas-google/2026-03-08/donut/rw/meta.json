@@ -1,0 +1,71 @@
+{
+  "categoria": "donut",
+  "categoriaSlug": "donut",
+  "idioma": "rw",
+  "nombreIdioma": "Kinyarwanda",
+  "termino": "idonete",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:15:38.836Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "en",
+    "gl": "rw"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=idonete&hl=en&gl=rw",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/donut/rw/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYpnTABUYO8_juSFGpbkp9LeDDWFXupv2uBg&s",
+      "fuentePagina": "https://www.tiktok.com/@idonete.oliveira/video/7525734182002216248",
+      "titulo": "Os vídeos de Idonete Oliveira (@idonete.oliveira) com som ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYpnTABUYO8_juSFGpbkp9LeDDWFXupv2uBg&s",
+      "original": "https://www.tiktok.com/api/img/?itemId=7525734182002216248&location=0&aid=1988"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/donut/rw/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6QclT7PaU01pFryO6pLdhSIQFp9r4CDs6nA&s",
+      "fuentePagina": "https://www.dominiox.com/en/idoneth-deepkin-battletome-2025-english?srsltid=AfmBOorYbpsxzbHFJT1UxEie56v6VHMQscRMi_E72SfNrxGaUNWzXn5M",
+      "titulo": "Idoneth Deepkin: Battletome 2025 ENGLISH | €50.00 | Dominiox.com",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6QclT7PaU01pFryO6pLdhSIQFp9r4CDs6nA&s",
+      "original": "https://www.dominiox.com/104421-large_default/idoneth-deepkin-battletome-2025-english.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/donut/rw/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSE1oK7eTPwQWA5oqwglrZtspomigzZQijmUw&s",
+      "fuentePagina": "https://idonateas.org/",
+      "titulo": "iDonate Nonprofit Organization",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSE1oK7eTPwQWA5oqwglrZtspomigzZQijmUw&s",
+      "original": "http://idonateas.org/uploadfile/202208/eab5819086a1289.png"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/donut/rw/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVf64eUkxlCdDXhR5vcM0g3KAYNJJ4Tn8sqg&s",
+      "fuentePagina": "https://www.tiktok.com/@idoneteborges",
+      "titulo": "Idonete Borges (@idoneteborges) | TikTok",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVf64eUkxlCdDXhR5vcM0g3KAYNJJ4Tn8sqg&s",
+      "original": "https://www.tiktok.com/api/img/?itemId=7492430179554348294&location=0&aid=1988"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/donut/rw/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXdWKQGirswq-TdTGudYbdZXXCpzz7IEsD5w&s",
+      "fuentePagina": "https://www.pinterest.com/idoneted/",
+      "titulo": "Idonete Damasceno (idoneted) - Profile | Pinterest",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXdWKQGirswq-TdTGudYbdZXXCpzz7IEsD5w&s",
+      "original": "https://i.pinimg.com/200x/20/3f/45/203f456a02f1bf5f1d79f552303dbfb6.jpg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/donut/rw/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1-fUyihux-RGQ1gpRD6PVquLxm-TZ5baKQw&s",
+      "fuentePagina": "https://idonateas.org/",
+      "titulo": "iDonate Nonprofit Organization",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1-fUyihux-RGQ1gpRD6PVquLxm-TZ5baKQw&s",
+      "original": "http://idonateas.org/uploadfile/202208/0dcfe1161da75.jpg"
+    }
+  ]
+}

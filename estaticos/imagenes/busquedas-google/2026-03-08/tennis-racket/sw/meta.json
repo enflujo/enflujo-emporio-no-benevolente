@@ -1,0 +1,71 @@
+{
+  "categoria": "tennis racket",
+  "categoriaSlug": "tennis-racket",
+  "idioma": "sw",
+  "nombreIdioma": "Kiswahili",
+  "termino": "raketi",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:05:21.196Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "sw",
+    "gl": "tz"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=raketi&hl=sw&gl=tz",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/tennis-racket/sw/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWORbpeT7MsiR60VDqSn7VB6ao-ZD55L1NJg&s",
+      "fuentePagina": "https://sw.wikipedia.org/wiki/Raketi",
+      "titulo": "Raketi - Wikipedia, kamusi elezo huru",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWORbpeT7MsiR60VDqSn7VB6ao-ZD55L1NJg&s",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Peng_Shuai_-_Flickr_-_chascow.jpg/960px-Peng_Shuai_-_Flickr_-_chascow.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/tennis-racket/sw/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWBSV3rQlkpsS3iaGBORiFy6rLIMARhub2BA&s",
+      "fuentePagina": "https://sw.wikipedia.org/wiki/Raketi",
+      "titulo": "Raketi - Wikipedia, kamusi elezo huru",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWBSV3rQlkpsS3iaGBORiFy6rLIMARhub2BA&s",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Ballsizes.JPG/250px-Ballsizes.JPG"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/tennis-racket/sw/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZAVBRbJYsPXaPaU6BqGf7HB5HGu7eS9IJmQ&s",
+      "fuentePagina": "https://www.cfrp-tstar.com/sw/Racket-ya-padel/",
+      "titulo": "Raketi ya Padel - Tstar Composites",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZAVBRbJYsPXaPaU6BqGf7HB5HGu7eS9IJmQ&s",
+      "original": "https://www.cfrp-tstar.com/wp-content/uploads/2024/08/2@WE9U66OGRKHJ9D446R9.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/tennis-racket/sw/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjoHjz9xxMoVzNs5Q_reL4E8BmWpyhYyTB-A&s",
+      "fuentePagina": "https://www.cfrp-tstar.com/sw/raketi-za-padel/",
+      "titulo": "Raketi za Padel - Tstar Composites",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjoHjz9xxMoVzNs5Q_reL4E8BmWpyhYyTB-A&s",
+      "original": "https://www.cfrp-tstar.com/wp-content/uploads/2024/05/0LB99G3KLH9KEQSJ.jpg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/tennis-racket/sw/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTaidRtqArWkPYHYwNTN84Z44r3BrsKfYJkHw&s",
+      "fuentePagina": "https://www.voitspor.com/urun/voit-tournament-pro-tenis-raketi-21-inch-yesil",
+      "titulo": "Voit Tournament Pro Tenis Raketi 21 Inch Yeşil,Voit ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTaidRtqArWkPYHYwNTN84Z44r3BrsKfYJkHw&s",
+      "original": "https://www.voitspor.com/idea/cb/58/myassets/products/473/voit-tournament-tenis-raketi-21-inch-tek.jpg?revision=1722967422"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/tennis-racket/sw/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuuyI2MeyZGGz2pU6mGRZqeo-kuNnMfPQ2yg&s",
+      "fuentePagina": "https://shop.proforce.com.tr/tenis-raketi-tr-23--23--tr23",
+      "titulo": "TENİS RAKETİ TR 23 -23\" TR23Proforce",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuuyI2MeyZGGz2pU6mGRZqeo-kuNnMfPQ2yg&s",
+      "original": "https://cdn.myikas.com/images/7c3c05b4-bc4b-4fdb-9934-f853fbbb2ee6/6cbd22b0-11d3-4179-a6c9-3d0d876d1002/3840/tr-23.webp"
+    }
+  ]
+}

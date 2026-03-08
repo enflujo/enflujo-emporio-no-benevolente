@@ -1,0 +1,71 @@
+{
+  "categoria": "car",
+  "categoriaSlug": "car",
+  "idioma": "am",
+  "nombreIdioma": "Amharic — አማርኛ",
+  "termino": "መኪና",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T20:41:56.505Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "am",
+    "gl": "et"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=%E1%88%98%E1%8A%AA%E1%8A%93&hl=am&gl=et",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/car/am/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlGkYirKdgwphW1gTOw7TM3SSccZVJCueAqQ&s",
+      "fuentePagina": "https://www.youtube.com/watch?v=My6ZXVkynpU",
+      "titulo": "አዲሷ አቅምን ያገናዘበች የጭነት መኪና ኢትዮጵያ ገባች | Amazing car sales #ethiopia  #seifu_on_ebs #መኪና #donkey_tube",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlGkYirKdgwphW1gTOw7TM3SSccZVJCueAqQ&s",
+      "original": "https://i.ytimg.com/vi/My6ZXVkynpU/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLC2Kpbn6Xmtc8otFCZYvhqxAlJUDQ"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/car/am/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvU5P_aD_eIgn2UgdFhpPAFzrBYZokkUlsAg&s",
+      "fuentePagina": "https://www.facebook.com/groups/412799519954759/",
+      "titulo": "ሀመር ያገለገሉ መኪና መሸጫ | Facebook",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvU5P_aD_eIgn2UgdFhpPAFzrBYZokkUlsAg&s",
+      "original": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=1323541848371338"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/car/am/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_DKQOSbJ2wb7D7iYV4-jt5XzTgk-uoeVpRQ&s",
+      "fuentePagina": "https://www.youtube.com/watch?v=5qiTCoTrobI",
+      "titulo": "የስራ እና የቤት መኪና በቅናሽ ዋጋ 35% በብድር | Work and home car Price in ethiopia",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_DKQOSbJ2wb7D7iYV4-jt5XzTgk-uoeVpRQ&s",
+      "original": "https://i.ytimg.com/vi/5qiTCoTrobI/sddefault.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/car/am/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStRXI2JiG_Mz4NLNdARjg6IzeJzObXDIRMqA&s",
+      "fuentePagina": "https://www.nesetekauto.com/am/byd-denza-d9-new-ev-full-electric-mpv-business-car-vehicle-exporter-china-product/",
+      "titulo": "China BYD DENZA D9 አዲስ ኢቪ ሙሉ ኤሌክትሪክ MPV ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStRXI2JiG_Mz4NLNdARjg6IzeJzObXDIRMqA&s",
+      "original": "https://www.nesetekauto.com/uploads/DENZA-ELECTRIC-CAR.jpg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/car/am/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSw9QeTuabxTDTP8CcoMhme1cxckP-KOtJTw&s",
+      "fuentePagina": "https://www.youtube.com/watch?v=u_eB7J_MNSQ",
+      "titulo": "የመኪና ዋጋ በኢትዮጺያ በ 2018| Car price in ethiopia 2018.",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSw9QeTuabxTDTP8CcoMhme1cxckP-KOtJTw&s",
+      "original": "https://i.ytimg.com/vi/u_eB7J_MNSQ/sddefault.jpg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/car/am/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRg51Hpdj4lS9ftTfqD57wbLklYp9OegLukWA&s",
+      "fuentePagina": "https://am.wikipedia.org/wiki/%E1%88%98%E1%8A%AA%E1%8A%93",
+      "titulo": "ውክፔዲያ - መኪና",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRg51Hpdj4lS9ftTfqD57wbLklYp9OegLukWA&s",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/3/3b/1961_Simca_Aronde_P60_Elys%C3%A9e_Rush.jpg"
+    }
+  ]
+}

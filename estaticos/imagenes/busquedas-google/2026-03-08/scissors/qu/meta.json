@@ -1,0 +1,71 @@
+{
+  "categoria": "scissors",
+  "categoriaSlug": "scissors",
+  "idioma": "qu",
+  "nombreIdioma": "Quechua",
+  "termino": "kuchuna",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:30:33.243Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "es",
+    "gl": "pe"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=kuchuna&hl=es&gl=pe",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/scissors/qu/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZbb82Y3GU45ggY2wO1YAVGXyHIs501qv_LA&s",
+      "fuentePagina": "https://www.facebook.com/p/La-Kuchuna-100081669909817/",
+      "titulo": "La Kuchuna",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZbb82Y3GU45ggY2wO1YAVGXyHIs501qv_LA&s",
+      "original": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=100081669909817"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/scissors/qu/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyh_rekgpD-NoeH8mxrrvgotWadLn1pynPBQ&s",
+      "fuentePagina": "https://willay.org.pe/curso-quechua-basico/clase-15/",
+      "titulo": "🤓 Clase 15: Curso de Quechua Básico | Willay",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyh_rekgpD-NoeH8mxrrvgotWadLn1pynPBQ&s",
+      "original": "https://willay.org.pe/wp-content/uploads/kuchuna_cuchillo_quechua.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/scissors/qu/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyqQ_TzEQXotJTv_Qb_2Trg-oAdxCpqY--tQ&s",
+      "fuentePagina": "https://es.slideshare.net/slideshow/objetos-de-la-casa-en-quechua/124707266",
+      "titulo": "Objetos de la casa en Quechua | PPTX",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyqQ_TzEQXotJTv_Qb_2Trg-oAdxCpqY--tQ&s",
+      "original": "https://image.slidesharecdn.com/quechua-181202204042/85/Objetos-de-la-casa-en-Quechua-10-320.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/scissors/qu/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU51CZizNAVZg8TstIyHauKW5BAHzrOz9jJg&s",
+      "fuentePagina": "https://quechuavirtual.blogspot.com/2019/01/objetos-de-la-casa-en-quechua.html",
+      "titulo": "Objetos de la casa en Quechua",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU51CZizNAVZg8TstIyHauKW5BAHzrOz9jJg&s",
+      "original": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiNwsKsVOVf-yVqIoMk4VRKwbZdBOUpRRUaE7tFpkIAHtIS1D-rmJ3cRq645TS-ZS5wTe6tfcXyKynNDFukuYi5fdmbrDH4ZtIQuid86J8_SCT7sGvWRkglKvL2rM3apQqwLw1Y9LP1jS-k/s1600/cuchillo.png"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/scissors/qu/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREcVvs6BjVvjHxLYM32XEPTEmgQIz85UOTzw&s",
+      "fuentePagina": "https://www.youtube.com/watch?v=3PQ1fCNc-rk",
+      "titulo": "OBJETOS EN QUECHUA",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREcVvs6BjVvjHxLYM32XEPTEmgQIz85UOTzw&s",
+      "original": "https://i.ytimg.com/vi/3PQ1fCNc-rk/maxresdefault.jpg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/scissors/qu/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtUhvVLDFg5ZXjL4wA04qTVZVJrOqSDqlnug&s",
+      "fuentePagina": "https://www.reddit.com/r/PERU/comments/1jc28rj/la_kunkakuchuna_champi/?tl=es-419",
+      "titulo": "La Kunkakuchuna Champi : r/PERU",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtUhvVLDFg5ZXjL4wA04qTVZVJrOqSDqlnug&s",
+      "original": "https://preview.redd.it/la-kunkakuchuna-champi-v0-zp917c27hwoe1.jpg?width=640&crop=smart&auto=webp&s=4aaedf958bd4fad7e71ca23ce249d9b32ad4b2b4"
+    }
+  ]
+}

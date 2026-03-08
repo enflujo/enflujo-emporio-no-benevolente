@@ -1,0 +1,71 @@
+{
+  "categoria": "sheep",
+  "categoriaSlug": "sheep",
+  "idioma": "fr",
+  "nombreIdioma": "Français",
+  "termino": "mouton",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T20:52:22.984Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "fr",
+    "gl": "be"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=mouton&hl=fr&gl=be",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/sheep/fr/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQeJtpiLHHVrlldKEISyJsMIDlEVXIjqHqczA&s",
+      "fuentePagina": "https://fr.wikipedia.org/wiki/Mouton",
+      "titulo": "Mouton — Wikipédia",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQeJtpiLHHVrlldKEISyJsMIDlEVXIjqHqczA&s",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Flock_of_sheep.jpg/330px-Flock_of_sheep.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/sheep/fr/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbGBqEu_8RO_R233fgVDVPg_CZzow5DEfYfQ&s",
+      "fuentePagina": "https://fr.wikipedia.org/wiki/Ovis",
+      "titulo": "Ovis — Wikipédia",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbGBqEu_8RO_R233fgVDVPg_CZzow5DEfYfQ&s",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Schaf_bei_Woodhenge1.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/sheep/fr/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQN1m17CriDNO0TmQCH8GyuE3uvCjqpuID5Jw&s",
+      "fuentePagina": "https://www.quatre-pattes.ch/campagnes-themes/animaux/moutons/esperance-de-vie-des-moutons",
+      "titulo": "Espérance de vie des moutons - QUATRE PATTES - Fondation ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQN1m17CriDNO0TmQCH8GyuE3uvCjqpuID5Jw&s",
+      "original": "https://media.4-paws.org/9/9/8/9/99898fc9a84c6a04f9e506f04d4d4972de64ed6e/VIER%20PFOTEN_2016-06-15_120-734x508.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/sheep/fr/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhHNkzEW0HJaRqI6fQGLhqvWHylHACujiZTw&s",
+      "fuentePagina": "https://www.zoologiste.com/animaux/mouton.html",
+      "titulo": "Mouton | Zoologiste.com",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhHNkzEW0HJaRqI6fQGLhqvWHylHACujiZTw&s",
+      "original": "https://www.zoologiste.com/images/xl/mouton.jpg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/sheep/fr/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9pq09NAqFkDyDhfTHTyMBGXLhjAbNcuzFSg&s",
+      "fuentePagina": "https://www.universalis.fr/encyclopedie/mouton/",
+      "titulo": "MOUTON | Sciences de la vie - Encyclopédie Universalis",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9pq09NAqFkDyDhfTHTyMBGXLhjAbNcuzFSg&s",
+      "original": "https://www.universalis.fr/typo3temp/assets/_processed_/1/f/csm_pa085935_244fa80ae4.webp"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/sheep/fr/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_xGuKbtDE8QeKIBDHwAk0urv9XESBaXRsiw&s",
+      "fuentePagina": "https://www.anigaido.com/animaux/caprines/mouton",
+      "titulo": "Mouton : taille, description, biotope, habitat, reproduction",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_xGuKbtDE8QeKIBDHwAk0urv9XESBaXRsiw&s",
+      "original": "https://www.anigaido.com/media/zoo_animaux/101-200/188/mouton-2-julien-pierre-xl.jpg"
+    }
+  ]
+}

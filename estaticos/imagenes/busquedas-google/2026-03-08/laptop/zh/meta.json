@@ -1,0 +1,71 @@
+{
+  "categoria": "laptop",
+  "categoriaSlug": "laptop",
+  "idioma": "zh",
+  "nombreIdioma": "中文",
+  "termino": "笔记本电脑",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:22:04.397Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "zh-CN",
+    "gl": "cn"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=%E7%AC%94%E8%AE%B0%E6%9C%AC%E7%94%B5%E8%84%91&hl=zh-CN&gl=cn",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/laptop/zh/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRm1nfff5l-3fz_dkPddTjPRvNJfHOUPb4RUA&s",
+      "fuentePagina": "https://s.lenovo.com.cn/search/?plat=1&key=%E7%AC%94%E8%AE%B0%E6%9C%AC%2016G%20%E9%9B%86%E6%88%90%E6%98%BE%E5%8D%A1%20%E5%95%86%E5%8A%A1%E5%8A%9E%E5%85%AC",
+      "titulo": "笔记本16G 集成显卡商务办公_联想商城",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRm1nfff5l-3fz_dkPddTjPRvNJfHOUPb4RUA&s",
+      "original": "https://p1.lefile.cn/product/adminweb/2024/08/28/F6GCiMOVysUvoSPKbKbkuKxCh-2515.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/laptop/zh/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTz6GRawiU2SCG7hy1205Yc5V4moeVfGeSDeQ&s",
+      "fuentePagina": "https://www.dxomark.cn/laptops/reviews/",
+      "titulo": "Laptop reviews - DXOMARK",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTz6GRawiU2SCG7hy1205Yc5V4moeVfGeSDeQ&s",
+      "original": "https://www.dxomark.com/wp-content/uploads/2025/05/Microsoft-Surface-13.png"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/laptop/zh/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCyrhmMlk_PvYVjCZXZ9C8rA9B6XUatTTVuQ&s",
+      "fuentePagina": "https://www.microsoftstore.com.cn/surface/surface-laptop-go",
+      "titulo": "微软Surface Laptop Go-Surface Laptop便携笔记本轻薄本-微软 ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCyrhmMlk_PvYVjCZXZ9C8rA9B6XUatTTVuQ&s",
+      "original": "https://cdn.microsoftstore.com.cn/media/catalog/product/cache/ebb942237ce05d210b9907bfdb9fc80f/c/o/configure_338338_1414.png"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/laptop/zh/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqysPnRhaIpEYxJAFRw54-0DQOvs6hWmADbg&s",
+      "fuentePagina": "https://consumer.huawei.com/cn/laptops/matebook-14/select/",
+      "titulo": "华为笔记本选择- 华为官网",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqysPnRhaIpEYxJAFRw54-0DQOvs6hWmADbg&s",
+      "original": "https://consumer.huawei.com/content/dam/huawei-cbg-site/greate-china/cn/mkt/pdp/laptops/matebook-14-2021/silver-select.png"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/laptop/zh/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSknvJWZbGaWLJ6yl_ebuqJM70vgHeSk2OzVA&s",
+      "fuentePagina": "https://zh.wikipedia.org/zh-cn/%E7%AD%86%E8%A8%98%E5%9E%8B%E9%9B%BB%E8%85%A6",
+      "titulo": "笔记本电脑- 维基百科，自由的百科全书",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSknvJWZbGaWLJ6yl_ebuqJM70vgHeSk2OzVA&s",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Late_2016_MacBook_Pro.jpg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/laptop/zh/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfWmx3GweEsJeF10hymWGQuQ16wzZ2alu9Rg&s",
+      "fuentePagina": "https://www.hp168.com/product31/1059.html",
+      "titulo": "HP EliteBook 640 G10 14 英寸笔记本电脑",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfWmx3GweEsJeF10hymWGQuQ16wzZ2alu9Rg&s",
+      "original": "https://www.hp168.com/uploads/image/20230607/d5cc755d7759b7abc226088e2ad5c4c9.png"
+    }
+  ]
+}

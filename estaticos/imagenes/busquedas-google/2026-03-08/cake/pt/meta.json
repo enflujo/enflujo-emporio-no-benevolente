@@ -1,0 +1,71 @@
+{
+  "categoria": "cake",
+  "categoriaSlug": "cake",
+  "idioma": "pt",
+  "nombreIdioma": "Português",
+  "termino": "bolo",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:16:49.818Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "pt",
+    "gl": "br"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=bolo&hl=pt&gl=br",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/cake/pt/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRl9QOKz4qrzHXDFPcpw_SaR4UpcLvv1l8NiQ&s",
+      "fuentePagina": "https://www.compraemcasabeirario.com.br/produto/3133-bolo-de-aniversario-chocolate-1-650kg/",
+      "titulo": "BOLO DE ANIVERSÁRIO CHOCOLATE 1,650KG - PADARIA, BOLOS ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRl9QOKz4qrzHXDFPcpw_SaR4UpcLvv1l8NiQ&s",
+      "original": "https://cdn.shoppub.io/cdn-cgi/image/w=1000,h=1000,q=80,f=auto/beirario/media/uploads/produtos/foto/kidtfesb/file.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/cake/pt/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQr_UVb83RInMw13ncIbbvaixv_C6aPRAdXCQ&s",
+      "fuentePagina": "https://www.receiteria.com.br/receita/bolo-simples-de-chocolate/",
+      "titulo": "Bolo simples de chocolate",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQr_UVb83RInMw13ncIbbvaixv_C6aPRAdXCQ&s",
+      "original": "https://www.receiteria.com.br/wp-content/uploads/bolo-simples-de-chocolate.jpeg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/cake/pt/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRx2FpiPMBtyE5LZv2B-5D11ZrQgik2UopHCA&s",
+      "fuentePagina": "https://www.vovovegana.com.br/bolo-vegano-de-morango-com-brigadeiro?srsltid=AfmBOoqw_X13wXO7Fx8AxOpS8DksXE7IXMsqWaVAyNmiFbuow6WnwYdS",
+      "titulo": "Bolo Vegano de Morango com Brigadeiro | Vovó Vegana - Vovó ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRx2FpiPMBtyE5LZv2B-5D11ZrQgik2UopHCA&s",
+      "original": "https://cdn.awsli.com.br/600x1000/2658/2658919/produto/257217253/fatia-de-bolo-vegano-de-brigadeiro-com-morangos-a3liq2p83s.png"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/cake/pt/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTeu8aST6dH2D58HO1YBRhK47egAtGGG65yyQ&s",
+      "fuentePagina": "https://www.sabornamesa.com.br/bolos/bolo-rustico",
+      "titulo": "12 Receitas de Bolo Rústico Com Preparos Simples E Elegantes para Se  Inspirar",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTeu8aST6dH2D58HO1YBRhK47egAtGGG65yyQ&s",
+      "original": "https://www.sabornamesa.com.br/media/k2/items/cache/964a78b2d96f3061f52701ec46354cb6_XL.jpg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/cake/pt/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1tWUyI_1pI3rhB3cLQCDTXGC52TJi0v-47A&s",
+      "fuentePagina": "https://patipiva.com.br/products/bolo-de-chocolate-surpresa-crocante-para-6-pessoas?srsltid=AfmBOop2k58DZpCnx_ggsscyH-zKJJP5yABMW_XguOChAhytwS3VZaPt",
+      "titulo": "Bolo Chocolate Surpresa Pati Piva | Recheio de Gianduia e ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1tWUyI_1pI3rhB3cLQCDTXGC52TJi0v-47A&s",
+      "original": "http://patipiva.com.br/cdn/shop/files/3000_-_Bolo_Chocolate.jpg?v=1739282169"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/cake/pt/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqPZHIM1Cz3WTrCPr_0beIa5W5niUFsTJD8w&s",
+      "fuentePagina": "https://dafeiraaobaile.com.br/produto/birthday-cake-chocolate-bolo-festivo/",
+      "titulo": "Birthday Cake Chocolate (Bolo Festivo) – Da Feira ao Baile",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqPZHIM1Cz3WTrCPr_0beIa5W5niUFsTJD8w&s",
+      "original": "https://dafeiraaobaile.com.br/wp-content/uploads/2023/02/Dafeiraaobaile-Novembro-59.jpg"
+    }
+  ]
+}

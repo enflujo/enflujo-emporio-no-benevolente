@@ -1,0 +1,71 @@
+{
+  "categoria": "bottle",
+  "categoriaSlug": "bottle",
+  "idioma": "pt",
+  "nombreIdioma": "Português",
+  "termino": "garrafa",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:06:35.167Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "pt",
+    "gl": "br"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=garrafa&hl=pt&gl=br",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bottle/pt/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQ_c5S-MlZBOsgP50VtGGpPQqzk5IkyDyE8A&s",
+      "fuentePagina": "https://gympack.com.br/products/garrafa-premium-gympack-1-2l?srsltid=AfmBOorlZc8i1VW9GfKwjMLZDKMJ1plBLa2tX-3WzGjFDVufHX5BWrS2",
+      "titulo": "Garrafa Térmica Premium Gympack 1200ml",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQ_c5S-MlZBOsgP50VtGGpPQqzk5IkyDyE8A&s",
+      "original": "http://gympack.com.br/cdn/shop/files/garrafa1200.jpg?v=1739293829"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bottle/pt/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-RRgoLD6uz9HJXljoos8q2-waiKfR0wYBpQ&s",
+      "fuentePagina": "https://www.indupropil.com.br/garrafa-pet-2-lt-verde.html?srsltid=AfmBOoq6ScJvb1qfcowJn2yobhsadP3Yr0Bcp64EcVY0U7xXa25GNAxo",
+      "titulo": "Garrafa Pet 2 Litros Verde",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-RRgoLD6uz9HJXljoos8q2-waiKfR0wYBpQ&s",
+      "original": "https://www.indupropil.com.br/media/tmp/webp/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/2/3/23gpet006_2_jpg.webp"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bottle/pt/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFm4dn4-taVkX2zeZguM-TBLb3YGEITEDsVg&s",
+      "fuentePagina": "https://www.360imprimir.com.br/garrafa-termica?srsltid=AfmBOoq3RL1vWY4sGOQGak_xl47hTjTq2tFMC8JEHBtIUWuBLIBxgGAp",
+      "titulo": "2 Garrafa térmica : R$ 253,83 | 360imprimir",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFm4dn4-taVkX2zeZguM-TBLb3YGEITEDsVg&s",
+      "original": "https://cdnspecssa.bizay.com/product/migrated/garrafa-termo-x-serigrafia-prata-clhcl-dhgb-source-br-c_h_f_pt-br.png?v=0"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bottle/pt/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGSzNCw80HsTYheWmXKdD4JCDYZz426f7eNQ&s",
+      "fuentePagina": "https://www.goldentec.com.br/garrafa-termica-inox-750-ml-para-bebidas-quentes-ou-frias-com-tampa-com-bico-e-base-emborrachada-rosa-claro/p",
+      "titulo": "Garrafa Térmica 750ml com base emborrachada - Rosa Claro ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGSzNCw80HsTYheWmXKdD4JCDYZz426f7eNQ&s",
+      "original": "https://lojagoldentec.vteximg.com.br/arquivos/ids/165107-1000-1000/image-1808261849854d04bc61bd0724da090e.jpg?v=638901009761730000"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bottle/pt/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAs4kVqf63-_ZLFKR4Nw-lE_Pxeo9mfVRdLw&s",
+      "fuentePagina": "https://www.bkind.com.br/kit-s/garrafa-termica-b-kind-rosa-areia-500ml-750ml",
+      "titulo": "Garrafa Térmica B'kind Rosa Areia 500ml + 750ml - B'kind",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAs4kVqf63-_ZLFKR4Nw-lE_Pxeo9mfVRdLw&s",
+      "original": "https://images.tcdn.com.br/img/img_prod/689875/combo_garrafa_termica_b_kind_rosa_areia_500ml_750ml_341_1_1fe2ab66a3c479d8cd2f30b602cb28e0.jpg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bottle/pt/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXC9k9_g7dCksdzkX_i9OeAZ6AbxwF1XQwBQ&s",
+      "fuentePagina": "https://www.gocase.com.br/garrafa-termica-fresh-ebook-luxury-color-azul-claro/p",
+      "titulo": "Garrafa Térmica Fresh Azul Claro + Ebook - Luxury Color",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXC9k9_g7dCksdzkX_i9OeAZ6AbxwF1XQwBQ&s",
+      "original": "https://ik.imagekit.io/gocase/govinci/garrafa-fresh-luxury-color-azul-claro/360freshazulclarov3-garrafafresh650ebook/mockup?stamp=uploads/designcustomization/40397/preview_pt_shrine/63d48f44d8a29a47d1c2efd10c934c5d.png&expires=yes"
+    }
+  ]
+}

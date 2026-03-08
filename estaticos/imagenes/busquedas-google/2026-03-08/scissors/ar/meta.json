@@ -1,0 +1,71 @@
+{
+  "categoria": "scissors",
+  "categoriaSlug": "scissors",
+  "idioma": "ar",
+  "nombreIdioma": "العربية",
+  "termino": "مقص",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:30:29.064Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "ar",
+    "gl": "eg"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=%D9%85%D9%82%D8%B5&hl=ar&gl=eg",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/scissors/ar/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPpQugRjOYSCJxynPYFqsnZDhRSeKBAp9POg&s",
+      "fuentePagina": "https://www.ikea.com/eg/ar/p/svartfisk-kitchen-scissors-stainless-steel-black-10562764/",
+      "titulo": "SVARTFISK مقص مطبخ - ستينلس ستيل/أسود",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPpQugRjOYSCJxynPYFqsnZDhRSeKBAp9POg&s",
+      "original": "https://www.ikea.com/eg/ar/images/products/svartfisk-kitchen-scissors-stainless-steel-black__1215188_pe911902_s5.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/scissors/ar/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTMyevqaSHu7_MbSeFK4i8uJZEUEmN9H0xHA&s",
+      "fuentePagina": "https://www.amazon.eg/%D9%84%D9%84%D9%85%D9%86%D8%B2%D9%84-%D9%88%D8%A7%D9%84%D8%A7%D8%B3%D8%AA%D8%AE%D8%AF%D8%A7%D9%85-%D8%A7%D9%84%D8%B9%D8%A7%D9%85-%D9%85%D9%82%D8%A7%D8%B3-%D9%83%D8%A7%D9%86%D8%AC%D8%A7%D8%B1%D9%88/dp/B098QNPCMJ",
+      "titulo": "مقص للمنزل والاستخدام العام مقاس 4 بوصة × 108 ملم من كانجارو ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTMyevqaSHu7_MbSeFK4i8uJZEUEmN9H0xHA&s",
+      "original": "https://m.media-amazon.com/images/I/61WhL9RW9NL.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/scissors/ar/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNG0SLO2qab_YJAVvm8InFaLhKwfFj9vyDyQ&s",
+      "fuentePagina": "https://www.nylonsa.com/products/%D9%85%D9%82%D8%B5-%D9%88%D8%B1%D9%82?srsltid=AfmBOopJMDWJss-sw3m5DY-VKKIRjtJNty8MPHtk8es8EBtQ3w0pA5KC",
+      "titulo": "مقص ورق (1حبة)",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNG0SLO2qab_YJAVvm8InFaLhKwfFj9vyDyQ&s",
+      "original": "https://www.nylonsa.com/image/cache/catalog/osama%203/1723752913%D9%85%D9%82%D8%B5%20%D9%88%D8%B1%D9%82%20(1%D8%AD%D8%A8%D8%A9)-1024x1024.webp"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/scissors/ar/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRo4JDNTqrC3Jn1LMeOc6tgXPVErB_JGcXfPg&s",
+      "fuentePagina": "https://ar.pngtree.com/so/%D9%85%D9%82%D8%B5",
+      "titulo": "مقص PNG الصور | ناقل و PSD الملفات | تحميل مجاني على Pngtree",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRo4JDNTqrC3Jn1LMeOc6tgXPVErB_JGcXfPg&s",
+      "original": "https://png.pngtree.com/png-clipart/20220929/ourmid/pngtree-scissors-llustration-png-image_6230105.png"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/scissors/ar/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6z9iZktoG1YwJIxoxQYHUFu0E6BpJfguYNQ&s",
+      "fuentePagina": "https://weraqh.com/products/black-scissor?srsltid=AfmBOoqdehXQV6SRWo64DK6bUbUBN0vJrLRZ6_wNWjcu99WwFbNfvIEG",
+      "titulo": "مقص حديد كبير مع مقبض أسود",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6z9iZktoG1YwJIxoxQYHUFu0E6BpJfguYNQ&s",
+      "original": "https://media.zid.store/cdea19f6-b0f8-453a-91ed-a293ac37de30/c5ecc8f3-bd15-4a36-9104-f0c2817b38e5.jpeg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/scissors/ar/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxd-zBFZLdVZUjnQqiFQHkPeQhUWSc_b39Xg&s",
+      "fuentePagina": "https://www.ikea.com/eg/ar/p/manoega-scissors-stainless-steel-black-00563429/",
+      "titulo": "MÅNÖGA مقص - ستينلس ستيل/أسود",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxd-zBFZLdVZUjnQqiFQHkPeQhUWSc_b39Xg&s",
+      "original": "https://www.ikea.com/eg/ar/images/products/manoega-scissors-stainless-steel-black__1215197_pe911911_s5.jpg"
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "categoria": "bus",
+  "categoriaSlug": "bus",
+  "idioma": "sw",
+  "nombreIdioma": "Kiswahili",
+  "termino": "basi",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T20:43:39.513Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "sw",
+    "gl": "tz"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=basi&hl=sw&gl=tz",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bus/sw/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSz6nqB1kZEOVe837UquRLX9nAiJ0v-mqR_DA&s",
+      "fuentePagina": "https://sw.wikipedia.org/wiki/Basi",
+      "titulo": "Basi - Wikipedia, kamusi elezo huru",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSz6nqB1kZEOVe837UquRLX9nAiJ0v-mqR_DA&s",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/2/21/Minibus_in_Novoaltaisk_02.JPG"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bus/sw/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnOyM4fqD28TGBFhovS9HQv33ZNzR7AYKUzg&s",
+      "fuentePagina": "https://www.instagram.com/p/DIg_dLvqBAV/",
+      "titulo": "🚨𝐔𝐏𝐃𝐀𝐓𝐄𝐒....𝐁𝐀𝐒𝐈 𝐉𝐈𝐏𝐘𝐀 𝐋𝐀 𝐊𝐈𝐒𝐀𝐒𝐀 ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnOyM4fqD28TGBFhovS9HQv33ZNzR7AYKUzg&s",
+      "original": "https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3612165983556866069"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bus/sw/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtzLE_dK5KH1-rna61_5d4b9-MREnhjqY-1A&s",
+      "fuentePagina": "https://sw.wikipedia.org/wiki/Basi",
+      "titulo": "Basi - Wikipedia, kamusi elezo huru",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtzLE_dK5KH1-rna61_5d4b9-MREnhjqY-1A&s",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Yutong_ZK6129H_in_Krak%C3%B3w_%282%29.jpg/250px-Yutong_ZK6129H_in_Krak%C3%B3w_%282%29.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bus/sw/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6M2lUupb--zfMAjUtGhoHqVaHiZ1dY7N2-g&s",
+      "fuentePagina": "https://www.instagram.com/p/C8Oxt-Vq96s/",
+      "titulo": "BUS WORLD TANZANIA 🇹🇿 | ▶️ Hapa basi namba 1 kule basi ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6M2lUupb--zfMAjUtGhoHqVaHiZ1dY7N2-g&s",
+      "original": "https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3390866218686192384"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bus/sw/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVsL1tGsS065NJbAnoJQv2E1KVsWCWQ0agqw&s",
+      "fuentePagina": "https://www.youtube.com/watch?v=0TsaRdyKKB0",
+      "titulo": "MAPOKEZI YA BASI MPYA ZA ALLY STAR ZIKIELEKEA SHINYANGA | YANI NI FULL  V.I.P KANDA YA ZIWA",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVsL1tGsS065NJbAnoJQv2E1KVsWCWQ0agqw&s",
+      "original": "https://i.ytimg.com/vi/0TsaRdyKKB0/maxresdefault.jpg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bus/sw/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQaJPf3DsZy8ObhLb_tKaISDvSM2mt59SfXIg&s",
+      "fuentePagina": "https://open.spotify.com/artist/35WaRsrLTXoHhL5b9uI3Mq",
+      "titulo": "BASI | Spotify",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQaJPf3DsZy8ObhLb_tKaISDvSM2mt59SfXIg&s",
+      "original": "https://i.scdn.co/image/ab6761610000e5eb3e573abfaf4aa8e202a36580"
+    }
+  ]
+}

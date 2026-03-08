@@ -1,0 +1,71 @@
+{
+  "categoria": "handbag",
+  "categoriaSlug": "handbag",
+  "idioma": "kg",
+  "nombreIdioma": "Kikongo",
+  "termino": "sac",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T20:57:34.006Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "fr",
+    "gl": "cd"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=sac&hl=fr&gl=cd",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/handbag/kg/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsvemTU3IwUAtsVQX9n-70qC_plk7RioPM7w&s",
+      "fuentePagina": "https://terredefrance.fr/products/le-sac-a-main-eternite?srsltid=AfmBOoreLi7Bh2LYJIZw5iOCkYVIjnSDJDkGifAq_rHDSrNX0lauT93O",
+      "titulo": "Le sac à main Eternité – Terre De France",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsvemTU3IwUAtsVQX9n-70qC_plk7RioPM7w&s",
+      "original": "http://terredefrance.fr/cdn/shop/files/2F1B5754_75a53666-9493-479f-80af-0b318dfbfcc4.jpg?v=1729269708"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/handbag/kg/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDy51h9TuBtKu7EXAJLNEOqP3SgVdbpOuvRw&s",
+      "fuentePagina": "https://safari.ma/le-pliage-m/22779-sac-a-main-m-le-pliage-original.html",
+      "titulo": "Sac à main M Le Pliage Original",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDy51h9TuBtKu7EXAJLNEOqP3SgVdbpOuvRw&s",
+      "original": "https://safari.ma/119175-large_default/sac-a-main-m-le-pliage-original.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/handbag/kg/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTk494bn3fYjcSJ4qfWOkMrPNwp3GG3-i1_Hg&s",
+      "fuentePagina": "https://www.jwpei.fr/products/faux-suede-tote-bag-brown?srsltid=AfmBOord5VXosE1KRSaj2YWH3qtswP2p3silGSdArctkKrg24bOC3ENg",
+      "titulo": "Sac fourre-tout mini Hana en faux suède - Marron - E-SHOP ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTk494bn3fYjcSJ4qfWOkMrPNwp3GG3-i1_Hg&s",
+      "original": "https://www.jwpei.fr/cdn/shop/files/JH306A03-3_FRONT_0114f7e1-f42e-4897-bb90-ad6ede9c96fe.jpg?v=1772073041"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/handbag/kg/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSisa9y2fu4loarhMxVimf4z58DUom0Uzc9A&s",
+      "fuentePagina": "https://sacdejour.com/products/sac-a-main-de-luxe-pour-femme",
+      "titulo": "Sac à Main Femme Élégant┃Cuir Résistant & Imperméable ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSisa9y2fu4loarhMxVimf4z58DUom0Uzc9A&s",
+      "original": "http://sacdejour.com/cdn/shop/products/H85e3522a6289442fbf64bc457b87f30aM.jpg?v=1614606512&width=2048"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/handbag/kg/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTzNeLqXpkHI2YItvpH1knf99T0jQLBg3JcA&s",
+      "fuentePagina": "https://fr.freepik.com/photos-vecteurs-libre/sac",
+      "titulo": "Images de Sac – Téléchargement gratuit sur Freepik",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTzNeLqXpkHI2YItvpH1knf99T0jQLBg3JcA&s",
+      "original": "https://img.freepik.com/photos-gratuite/belle-elegance-sac-main-vert-mode-luxe_1203-7655.jpg?semt=ais_hybrid&w=740&q=80"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/handbag/kg/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuqSYqT9n7Jd0Bc7wjrG_UbUKDrWMBv1MDIQ&s",
+      "fuentePagina": "https://www.beausoleilmaroquinerie.fr/",
+      "titulo": "BEAUSOLEIL Maroquinerie : Sacs, Bagages et Accessoires de luxe",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuqSYqT9n7Jd0Bc7wjrG_UbUKDrWMBv1MDIQ&s",
+      "original": "https://www.beausoleilmaroquinerie.fr/img/modules/homepage/brands/7.jpg"
+    }
+  ]
+}

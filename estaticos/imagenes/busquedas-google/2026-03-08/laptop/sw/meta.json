@@ -1,0 +1,71 @@
+{
+  "categoria": "laptop",
+  "categoriaSlug": "laptop",
+  "idioma": "sw",
+  "nombreIdioma": "Kiswahili",
+  "termino": "kompyuta",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:21:35.231Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "sw",
+    "gl": "tz"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=kompyuta&hl=sw&gl=tz",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/laptop/sw/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQaBdX6LREvaKKwFFqCw17dotx6xGD2F0kLBA&s",
+      "fuentePagina": "https://jifunzebure.wordpress.com/2015/04/04/jifunze-kompyuta-kwa-kiswahili-hatua-ya-kwanza-i/",
+      "titulo": "Jifunze kompyuta kwa Kiswahili: Hatua ya kwanza (I ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQaBdX6LREvaKKwFFqCw17dotx6xGD2F0kLBA&s",
+      "original": "https://jifunzebure.wordpress.com/wp-content/uploads/2015/04/sehemu-za-kompyuta.png"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/laptop/sw/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6Ngene9TjXa5ptyA5RtJSwHpFl-qRGBp1dA&s",
+      "fuentePagina": "http://shycomputer.blogspot.com/2016/09/kompyuta-ni-nini.html",
+      "titulo": "SHY COMPUTER SOLUTIONS: KOMPYUTA NI NINI?",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6Ngene9TjXa5ptyA5RtJSwHpFl-qRGBp1dA&s",
+      "original": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjDdmCExODC54B2yBzEGDgHVlZR8Ukph9U-Si3Jmba1FpmuG9prKT4rrKyeuIiMrY7VH7y8ZNerfo9V3DF935FPWKMf3g4Jyz1EGE92HDmddnSAkpMLlK8IX4wYCwOX6ziaaS9tDFdDU3ly/s1600/desktop-computer1-300x200.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/laptop/sw/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6cLhHfnQ98okOSMTM0lmwBhifQi1pvVrGQg&s",
+      "fuentePagina": "https://fullshangweblog.co.tz/2025/01/23/tanzania-kuanza-kuzalisha-kompyuta/",
+      "titulo": "TANZANIA KUANZA KUZALISHA KOMPYUTA – Full Shangwe Blog",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6cLhHfnQ98okOSMTM0lmwBhifQi1pvVrGQg&s",
+      "original": "https://fullshangweblog.co.tz/wp-content/uploads/2025/01/computer-lcd-monitor-vector.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/laptop/sw/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJqzPiTRsmC8dZnulrR7t2sHavJZgRkjUToA&s",
+      "fuentePagina": "https://www.facebook.com/Nicktechnologyltd/posts/hizi-ndiyo-sifa-za-kompyuta-bora-inayofaa-kwa-matumizi-yoyoteprocessor-dual-core/2393562450877282/",
+      "titulo": "HIZI NDIYO SIFA ZA KOMPYUTA BORA INAYOFAA KWA MATUMIZI ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJqzPiTRsmC8dZnulrR7t2sHavJZgRkjUToA&s",
+      "original": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=2393561520877375"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/laptop/sw/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjQ_szN8ifDJbP2Xjq26alGklOk9_BjZYGJg&s",
+      "fuentePagina": "https://www.ubuy.co.tz/sw/product/5BV1387K6-hp-compaq-elite-8300-desktop-computer-pc-intel-quad-core-i5-gen-4-8gb-ddr3-ram-500gb-hdd-storage-windows-10-home-64-bit-dual-2-22-screens?srsltid=AfmBOop4pXP6Of2tL2wA7KX5hBaRBq4GYL4cLY-Xymae5ExhfdGgOwhK",
+      "titulo": "HP Compaq Elite 8300 PC ya kompyuta ya Desktop, Tanzania | Ubuy",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjQ_szN8ifDJbP2Xjq26alGklOk9_BjZYGJg&s",
+      "original": "https://i5.walmartimages.com/asr/eff3f441-0c93-491c-8b28-5e92d4ac224a.e21d91d3fc60f3ac2cf018683d87eef6.jpeg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/laptop/sw/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRujlgBEjGw4_POBhKPt47Z-zB67GvjA_TJKg&s",
+      "fuentePagina": "https://diji.africa/sw/tumia-kompyuta/somo-la-1-elezea-kompyuta/",
+      "titulo": "Somo la 1: Elezea kompyuta – Diji Kiswahili",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRujlgBEjGw4_POBhKPt47Z-zB67GvjA_TJKg&s",
+      "original": "https://i0.wp.com/diji.africa/sw/wp-content/uploads/sites/4/2021/02/Desktop-computer.png?resize=580%2C474&ssl=1"
+    }
+  ]
+}

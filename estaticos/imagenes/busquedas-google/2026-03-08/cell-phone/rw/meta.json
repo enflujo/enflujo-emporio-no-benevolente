@@ -1,0 +1,71 @@
+{
+  "categoria": "cell phone",
+  "categoriaSlug": "cell-phone",
+  "idioma": "rw",
+  "nombreIdioma": "Kinyarwanda",
+  "termino": "telefone",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:24:12.968Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "en",
+    "gl": "rw"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=telefone&hl=en&gl=rw",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/cell-phone/rw/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS57lVaxiu-Zq0szAvTzxMXoRwpCCvXjsnAzw&s",
+      "fuentePagina": "https://www.knaytec.com.br/telefone-com-fio-intelbras-pleno?srsltid=AfmBOor2JiOZRpJ6BaSNdUzYms2tiBzSoHDF2HqNNayOQyjR_5_n7XsW",
+      "titulo": "Telefone com fio Intelbras Pleno | Knaytec Tecnologia",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS57lVaxiu-Zq0szAvTzxMXoRwpCCvXjsnAzw&s",
+      "original": "https://cdn.dooca.store/973/products/pleno-intelbras_450x600+fill_ffffff.png?v=1633440519&webp=0"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/cell-phone/rw/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbsCHqW3REktAv8VonkuShF7wgF5eOrLhPfQ&s",
+      "fuentePagina": "https://www.amazon.com.br/Telefone-telefone-rediscagem-decora%C3%A7%C3%A3o-escrit%C3%B3rio/dp/B0C5VXCBKV",
+      "titulo": "SIXDEFLY Telefone retrô, telefone fixo clássico vintage ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbsCHqW3REktAv8VonkuShF7wgF5eOrLhPfQ&s",
+      "original": "https://m.media-amazon.com/images/I/611AuXKjUCL._AC_UF1000,1000_QL80_.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/cell-phone/rw/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQabEqnb2J46iP7CmB-9o1M_WavuyrNQnDYCg&s",
+      "fuentePagina": "https://loja.intelbras.com.br/telefone-com-secretaria-ts-3130/p?srsltid=AfmBOoo6ZVskpTMrlIPWip7CzVYEa03gS5n44cE2gNxUl31uv5Bc5nxO",
+      "titulo": "Telefone sem Fio Digital com Secretária Eletrônica Intelbras ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQabEqnb2J46iP7CmB-9o1M_WavuyrNQnDYCg&s",
+      "original": "https://intelbras.vtexassets.com/arquivos/ids/156199-800-auto?v=637066541370970000&width=800&height=auto&aspect=true"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/cell-phone/rw/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSR39px69sKpWfcpa_MhUWEXin2YONTSBIaWA&s",
+      "fuentePagina": "https://www.amazon.com.br/Telefone-com-Pleno-Intelbras-Preto/dp/B0754KBN6F",
+      "titulo": "Telefone com fio Pleno Preto Intelbras | Amazon.com.br",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSR39px69sKpWfcpa_MhUWEXin2YONTSBIaWA&s",
+      "original": "https://m.media-amazon.com/images/I/515fiZQB1JL._AC_UF894,1000_QL80_.jpg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/cell-phone/rw/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwfctw8SKwq2Vw8p3SKiJaHM8ncIBSPvbe9Q&s",
+      "fuentePagina": "https://www.eletronicasantana.com.br/telefone-com-fio-retro-classic-london-32-389-classic/p",
+      "titulo": "Telefone com Fio Retrô Classic London | Design Retrô ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwfctw8SKwq2Vw8p3SKiJaHM8ncIBSPvbe9Q&s",
+      "original": "https://eletronicasantana.vteximg.com.br/arquivos/ids/108127-1000-1000/Telefone-Com-Fio-Retro-Classic-London-32-389---Classic-0.jpg?v=638346268028700000"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/cell-phone/rw/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTzRy1DY8TIhfl0drXey_Zs5aTXTWWqYgvjA&s",
+      "fuentePagina": "https://www.oficinadosbits.com.br/produto/telefone-intelbras-pleno-4080051-preto/?srsltid=AfmBOoobl3ZGQ5v_paMDNmsUXI0H5q3QTPEJC7zRG9xtEjKANxEilYL8",
+      "titulo": "Telefone Intelbras Pleno 4080051 Preto | Oficina dos Bits",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTzRy1DY8TIhfl0drXey_Zs5aTXTWWqYgvjA&s",
+      "original": "https://cdn.shoppub.io/cdn-cgi/image/w=1000,h=1000,q=80,f=auto/oficinadosbits/media/uploads/produtos/foto/ffigqaxc/file.png"
+    }
+  ]
+}

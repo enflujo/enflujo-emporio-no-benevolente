@@ -1,0 +1,71 @@
+{
+  "categoria": "bus",
+  "categoriaSlug": "bus",
+  "idioma": "ln",
+  "nombreIdioma": "Lingala",
+  "termino": "bisisi",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T20:43:36.592Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "fr",
+    "gl": "cd"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=bisisi&hl=fr&gl=cd",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bus/ln/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmpU94k0MVfa2zoOp_E8iXkMGsr3xAWoqCCw&s",
+      "fuentePagina": "https://kivuavenir.com/kalonge-un-mort-et-4-blesses-dans-affrontements-a-bisisi-bilan-provisoire/",
+      "titulo": "Kalonge : Un mort et 4 blessés dans affrontements à Bisisi ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmpU94k0MVfa2zoOp_E8iXkMGsr3xAWoqCCw&s",
+      "original": "https://kivuavenir.com/wp-content/uploads/2022/01/RM.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bus/ln/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPxWw8CN7D-cCHnZ5i_a_gMoNmo6DDc2jDiw&s",
+      "fuentePagina": "https://www.tageo.com/index-e-cf-v-04-d-70103.htm",
+      "titulo": "BISISI Geography Population Map cities coordinates location ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPxWw8CN7D-cCHnZ5i_a_gMoNmo6DDc2jDiw&s",
+      "original": "https://www.tageo.com/get_map.php?lat=-4.577&long=12.420&name=Bisisi&tag=1"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bus/ln/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcToKznywtTwRFUT3IPx-5_JGammutWoGV0pow&s",
+      "fuentePagina": "https://www.youtube.com/watch?v=H39m0TwVoqM",
+      "titulo": "Ste Milano x Oia la mélodie x Jd - BISISI - ( CLIP OFFICIEL ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcToKznywtTwRFUT3IPx-5_JGammutWoGV0pow&s",
+      "original": "https://i.ytimg.com/vi/H39m0TwVoqM/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLD7Y80AsbQt4MW0CigF21pLIdhJ4w"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bus/ln/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPwLNC_sBANQfjG1y_w9xDFNCuSRizM45aiw&s",
+      "fuentePagina": "https://www.youtube.com/watch?v=SpTw6k1fOiE",
+      "titulo": "Marta Bisisi: How to Build a Fully Remote Team at Scale ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPwLNC_sBANQfjG1y_w9xDFNCuSRizM45aiw&s",
+      "original": "https://i.ytimg.com/vi/SpTw6k1fOiE/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLDTVTVVWj33YqRRTy0D6hI24yKGAA"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bus/ln/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQN0JfeHonp54JNTTOHv3IwABvnbKjv51aYBg&s",
+      "fuentePagina": "https://studentaffairs.unt.edu/student-spotlights/dorcas-bisisi.html",
+      "titulo": "Student Spotlight: Dorcas Bisisi | University of North Texas",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQN0JfeHonp54JNTTOHv3IwABvnbKjv51aYBg&s",
+      "original": "https://studentaffairs.unt.edu/student-spotlights/_files/dorcas-bisisi-student-spotlight.jpg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bus/ln/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZMcybyjhRnocZwJp-A8tPpD71M3sPG5Yxmg&s",
+      "fuentePagina": "https://www.instagram.com/bisisila/",
+      "titulo": "Bisisi La Légende (@bisisila) • Instagram photos and videos",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZMcybyjhRnocZwJp-A8tPpD71M3sPG5Yxmg&s",
+      "original": "https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=2716978674519709868"
+    }
+  ]
+}

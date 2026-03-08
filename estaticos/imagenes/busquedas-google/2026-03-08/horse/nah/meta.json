@@ -1,0 +1,71 @@
+{
+  "categoria": "horse",
+  "categoriaSlug": "horse",
+  "idioma": "nah",
+  "nombreIdioma": "Náhuatl",
+  "termino": "cahuayo",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T20:52:04.097Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "es",
+    "gl": "mx"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=cahuayo&hl=es&gl=mx",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/horse/nah/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsLNUFi9W8iOlxXSzzVkXYOusWaUbV3YvD6g&s",
+      "fuentePagina": "https://benvolere.mx/producto/cahuayo/",
+      "titulo": "Inicio | Benvolere, La experiencia del vino",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsLNUFi9W8iOlxXSzzVkXYOusWaUbV3YvD6g&s",
+      "original": "https://benvolere.mx/wp-content/uploads/2020/12/Cahuayo-1.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/horse/nah/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzRwDAHoMuhJajFMWePZZBfSYeqmPCkJX84w&s",
+      "fuentePagina": "https://vinedosazteca.com/kowine/product/cahuayo/",
+      "titulo": "Cahuayo – Viñedos Azteca",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzRwDAHoMuhJajFMWePZZBfSYeqmPCkJX84w&s",
+      "original": "https://vinedosazteca.com/kowine/wp-content/uploads/2020/12/Cahuayo.png"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/horse/nah/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuG-OTJMpZLBEmWPQuLKwInTA-dZ2PAJqu9g&s",
+      "fuentePagina": "https://www.instagram.com/p/CzUyrhXu-AJ/",
+      "titulo": "Sumérgete en la esencia de Cahuayo, un vino tinto con ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuG-OTJMpZLBEmWPQuLKwInTA-dZ2PAJqu9g&s",
+      "original": "https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3230429725826211849"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/horse/nah/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQb-hxopmzaHGgEUa7jekCldrzT6XT9Wdhd3g&s",
+      "fuentePagina": "https://www.amazon.com.mx/Vi%C3%B1edos-Azteca-Cahuayo-EVITE-EL-EXCESO/dp/B07WG42C24",
+      "titulo": "Cahuayo.EVITE EL EXCESO : Amazon.com.mx: Alimentos y Bebidas",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQb-hxopmzaHGgEUa7jekCldrzT6XT9Wdhd3g&s",
+      "original": "https://m.media-amazon.com/images/I/51W8tePbv+L.jpg_BO30,255,255,255_UF750,750_SR1910,1000,0,C_QL100_.jpg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/horse/nah/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxQzHJltEg4qkmPHmCfwvmIdxRCAZD_rlyYA&s",
+      "fuentePagina": "https://cavalasrocas.com.mx/product/malbec-cahuayo/",
+      "titulo": "🍷 Cahuayo, Viñedos Azteca - Cava Las Rocas",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxQzHJltEg4qkmPHmCfwvmIdxRCAZD_rlyYA&s",
+      "original": "https://cavalasrocas.com.mx/wp-content/uploads/2024/07/Cahuayo-Vinedos-Azteca-1024x1024.png"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/horse/nah/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJkbEy71gTDLEnqdUs3MmlM44P_n2ublHF-A&s",
+      "fuentePagina": "https://www.amazon.com.mx/Vi%C3%B1edos-Azteca-Cahuayo-EVITE-EL-EXCESO/dp/B07WG42C24",
+      "titulo": "Cahuayo.EVITE EL EXCESO : Amazon.com.mx: Alimentos y Bebidas",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJkbEy71gTDLEnqdUs3MmlM44P_n2ublHF-A&s",
+      "original": "https://m.media-amazon.com/images/I/51W8tePbv+L.jpg"
+    }
+  ]
+}

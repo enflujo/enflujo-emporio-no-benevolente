@@ -1,0 +1,71 @@
+{
+  "categoria": "teddy bear",
+  "categoriaSlug": "teddy-bear",
+  "idioma": "sw",
+  "nombreIdioma": "Kiswahili",
+  "termino": "dubu ya watoto",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:30:53.052Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "sw",
+    "gl": "tz"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=dubu%20ya%20watoto&hl=sw&gl=tz",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/teddy-bear/sw/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStaWpOhKyDNrPPReVC42YANzKNaBh5d6b68A&s",
+      "fuentePagina": "https://www.nextdirect.com/ke/sw/style/su762200/w60264",
+      "titulo": "Nunua Dubu wa Bluu - Seti ya Watoto wa Dungare na Suti za ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStaWpOhKyDNrPPReVC42YANzKNaBh5d6b68A&s",
+      "original": "https://xcdn.next.co.uk/common/items/default/default/itemimages/3_4Ratio/product/lge/W60264s.jpg?im=Resize,width=750"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/teddy-bear/sw/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoSaVIKkVe2vvbWWWCXexHSDlWRr64zDUy9g&s",
+      "fuentePagina": "https://www.nextdirect.com/ke/sw/style/su762200/w60264",
+      "titulo": "Nunua Dubu wa Bluu - Seti ya Watoto wa Dungare na Suti za ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoSaVIKkVe2vvbWWWCXexHSDlWRr64zDUy9g&s",
+      "original": "https://xcdn.next.co.uk/common/items/default/default/itemimages/3_4Ratio/product/lge/W60264s4.jpg?im=Resize,width=750"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/teddy-bear/sw/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQm8_IBhBgfS7rvV9H4BOFGy_EVbyLNTeOMDg&s",
+      "fuentePagina": "https://www.nextdirect.com/ke/sw/style/su762200/w60264",
+      "titulo": "Nunua Dubu wa Bluu - Seti ya Watoto wa Dungare na Suti za ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQm8_IBhBgfS7rvV9H4BOFGy_EVbyLNTeOMDg&s",
+      "original": "https://xcdn.next.co.uk/common/items/default/default/itemimages/3_4Ratio/product/lge/W60264s3.jpg?im=Resize,width=750"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/teddy-bear/sw/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnNaaJnrVg97_eKn3VNYFy-lWm_4a0qAWD9g&s",
+      "fuentePagina": "https://www.ubuy.co.tz/sw/product/3375QIKY-morismos-giant-teddy-bear-stuffed-animal-3-ft-36-in-large-teddy-bear-for-baby-shower-decor-soft-big-stuffed-animal-plush-toy-for-kid-birthday?srsltid=AfmBOoo5donHnghK5_KidTWLXQ-muylgiq74YFTDry2mghWYV-Bl_6Z4",
+      "titulo": "Teddy Bear Mkubwa wa MorisMos Aliyejazwa Mnyama futi ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnNaaJnrVg97_eKn3VNYFy-lWm_4a0qAWD9g&s",
+      "original": "https://m.media-amazon.com/images/I/71sqR0pt0SL._AC_SL1000__.jpg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/teddy-bear/sw/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFf90xbMUKTKLw2LP423ZswWvtIPcJh9eMHg&s",
+      "fuentePagina": "https://www.nextdirect.com/ke/sw/style/su762200/w60264",
+      "titulo": "Nunua Dubu wa Bluu - Seti ya Watoto wa Dungare na Suti za ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFf90xbMUKTKLw2LP423ZswWvtIPcJh9eMHg&s",
+      "original": "https://xcdn.next.co.uk/common/items/default/default/itemimages/3_4Ratio/product/lge/W60264s2.jpg?im=Resize,width=750"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/teddy-bear/sw/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRoHFOGu8SBzn_luLJTG-yX6VMArMBMGtMnw&s",
+      "fuentePagina": "https://www.nextdirect.com/ke/sw/style/su566376/an4582",
+      "titulo": "Nunua Dubu wa Bluu - Koti ya Jezi ya Mtoto, Bodysuit na ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRoHFOGu8SBzn_luLJTG-yX6VMArMBMGtMnw&s",
+      "original": "https://xcdn.next.co.uk/common/items/default/default/itemimages/3_4Ratio/product/lge/AN4582s.jpg?im=Resize,width=750"
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "categoria": "broccoli",
+  "categoriaSlug": "broccoli",
+  "idioma": "ar",
+  "nombreIdioma": "العربية",
+  "termino": "بروكلي",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:13:25.634Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "ar",
+    "gl": "eg"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=%D8%A8%D8%B1%D9%88%D9%83%D9%84%D9%8A&hl=ar&gl=eg",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/broccoli/ar/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtZM7pGDECqUe2QmH_dqzmOWCOv5SmNNguwA&s",
+      "fuentePagina": "https://www.sharbatlyfruit.com/ar/fresh-produce/broccoli",
+      "titulo": "البروكلي الطازج | خضار مغذي ومليء بالفوائد الصحية من شربتلي",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtZM7pGDECqUe2QmH_dqzmOWCOv5SmNNguwA&s",
+      "original": "https://www.sharbatlyfruit.com/Home/fruits-vegetable/1668/image-thumb__1668__commonThumbnail/Broccoli%20green_5.acdd3ceb.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/broccoli/ar/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZ37T_XU37JvUYKuoFMrwHSNwMuV393UxU6w&s",
+      "fuentePagina": "https://arz.wikipedia.org/wiki/%D8%A8%D8%B1%D9%88%D9%83%D9%84%D9%89",
+      "titulo": "بروكلى - ويكيبيديا",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZ37T_XU37JvUYKuoFMrwHSNwMuV393UxU6w&s",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/0/03/Broccoli_and_cross_section_edit.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/broccoli/ar/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvXPdBl3-xuqNlEEOG5V4Za7JDHCLUwMUGsA&s",
+      "fuentePagina": "https://natureland.net/ar-AE/product/broccoli-497/?srsltid=AfmBOopgg9A0FWNi0oUYyAZprlXVKdzCs7rtvPGfMs7PDMNsCPgXAHPb",
+      "titulo": "بروكلي",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvXPdBl3-xuqNlEEOG5V4Za7JDHCLUwMUGsA&s",
+      "original": "https://naturelandcdn-master.fra1.cdn.digitaloceanspaces.com/media/noname/sku/5vFRse/219ddcad-e555-4785-ac24-ee1f8a4a51d3_SiGsvNICD.jpeg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/broccoli/ar/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsw41ieFf4YuSXU0hjkHLAEWw38MQASY6g3A&s",
+      "fuentePagina": "https://ar.shoujiafood.com/products/fresh-broccoli.html",
+      "titulo": "البروكلي الطازج",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsw41ieFf4YuSXU0hjkHLAEWw38MQASY6g3A&s",
+      "original": "https://image.chukouplus.com/upload/C_3875/file/20240112/fe912e04040eee2a3a3a9faa789d821a.jpg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/broccoli/ar/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAg0Bzb286HZcgzdNDqhLm-aci4_8pcydwpA&s",
+      "fuentePagina": "https://mvc-fresh.com/ar/%D8%A8%D8%B1%D9%88%D9%83%D9%84%D9%8A-%D9%86%D8%B5%D9%81-%D9%83%D9%8A%D9%84%D9%88/p131342391?srsltid=AfmBOorVHbKwvO90c2cU-fM5ClkfUCIwz-7IsPJKc0mPEEM6FIC6q3BJ",
+      "titulo": "بروكلي نصف كيلو - MVC",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAg0Bzb286HZcgzdNDqhLm-aci4_8pcydwpA&s",
+      "original": "https://cdn.salla.sa/XRVjV/5a16b935-2a9b-42cf-93d4-862a4672cb18-500x500-oOvM4ZbVGdjhZckiYYX2kbD1i0prGGqxwQKvMEML.png"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/broccoli/ar/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQohSrLRiWaVksAduCBwGrpsexGbAAPbblqPw&s",
+      "fuentePagina": "https://www.aljazeera.net/family/2025/12/3/%D8%BA%D8%B0%D8%A7%D8%A1-%D9%84%D8%A7-%D8%BA%D9%86%D9%89-%D8%B9%D9%86%D9%87-%D9%84%D9%84%D9%86%D8%B3%D8%A7%D8%A1-5-%D8%A3%D9%81%D9%83%D8%A7%D8%B1-%D9%85%D8%A8%D8%AF%D8%B9%D8%A9",
+      "titulo": "غذاء لا غنى عنه للنساء.. 5 أفكار مبدعة للاستمتاع بتناول ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQohSrLRiWaVksAduCBwGrpsexGbAAPbblqPw&s",
+      "original": "https://www.aljazeera.net/wp-content/uploads/2014/05/450f0d62-f6ab-4e23-b4df-394d91047c08.jpeg?resize=686%2C513&quality=80"
+    }
+  ]
+}

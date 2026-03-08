@@ -1,0 +1,71 @@
+{
+  "categoria": "knife",
+  "categoriaSlug": "knife",
+  "idioma": "fr",
+  "nombreIdioma": "Français",
+  "termino": "couteau",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:08:42.304Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "fr",
+    "gl": "be"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=couteau&hl=fr&gl=be",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/knife/fr/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHMPd3qrAMBEZuWH8BfeUZXowNhJRszP2-0A&s",
+      "fuentePagina": "https://www.dille-kamille.be/fr/couteau-de-chef-manche-en-bois-de-hetre-33-cm-00008079.html",
+      "titulo": "Couteau de chef, manche en bois de hêtre, 33 cm",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHMPd3qrAMBEZuWH8BfeUZXowNhJRszP2-0A&s",
+      "original": "https://dilka.xcdn.nl/dilka/images/catalog/product/00008079_1.jpg?f=rs:fit:600:600/g:ce&s=2d2d"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/knife/fr/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzfDk--UXSyOR2Whls5QudAamK1vOsVlynhg&s",
+      "fuentePagina": "https://tb-outdoor.com/blogs/news/ultimate-guide-du-couteau-de-survie-comment-choisir-la-meilleure-lame?srsltid=AfmBOoqTJoOuIjLKk3N1-pd4HvdoJoyNMKUclYs0sYDZlFPEGM4Uh9AU",
+      "titulo": "Ultimate guide du couteau de survie : comment choisir la ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzfDk--UXSyOR2Whls5QudAamK1vOsVlynhg&s",
+      "original": "https://tb-outdoor.com/cdn/shop/articles/10mo_-_TB-9457insta_059658c3-d220-4555-b81f-a76bb709d1b0.jpg?v=1757331228&width=1500"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/knife/fr/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFkIgcnY1HaJaGJhtYhQC18u8oQalhydKgmg&s",
+      "fuentePagina": "https://www.weba.be/fr/couteau-santoku-inox-400085-830.html",
+      "titulo": "Couteau Santoku inox",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFkIgcnY1HaJaGJhtYhQC18u8oQalhydKgmg&s",
+      "original": "https://www.weba.be/media/catalog/product/cache/03444c61b9e9957a5d77b401b0841741/1/6/161615250-8-80824.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/knife/fr/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqQPlwC1oFYZkZpvRolHRbP54jtwhqPQWbag&s",
+      "fuentePagina": "https://www.lessecretsduchef.be/fr/couteaux-cuisine-acier/10763-arcos-nordika-couteau-chef-14-cm-8421002165405.html",
+      "titulo": "Arcos - Nórdika Couteau Chef 14 cm - Les Secrets du Chef",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqQPlwC1oFYZkZpvRolHRbP54jtwhqPQWbag&s",
+      "original": "https://www.lessecretsduchef.be/38810-thickbox_default/nordika-couteau-chef-14-cm.jpg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/knife/fr/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRohKEVnMemUWf-aJtFjITAaVkT0yBQmLX-Kg&s",
+      "fuentePagina": "https://fr.knivesandtools.be/fr/pt/-couteau-d-office-alpha-gude-1764-10.htm",
+      "titulo": "Couteau d'office Alpha Güde, 1764/10 | Achetez à prix ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRohKEVnMemUWf-aJtFjITAaVkT0yBQmLX-Kg&s",
+      "original": "https://assets.katogroup.eu/i/katogroup/GU1764-10_01_gude-alpha-officemes-gu1764-10-d1?%24product-image%24=&fmt=auto&h=434&w=652"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/knife/fr/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWLw0nk0JbR5Mc87IVVfa5YOS6OjrU_ddXUw&s",
+      "fuentePagina": "https://www.pearl.be/article/ZX6299/3-couteaux-pour-fruits-et-legumes?srsltid=AfmBOooC-NHj0MJwN-aGa7OsHvkHDxBJnKyaCQ01kzvOfdRugrjr9TfH",
+      "titulo": "3 couteaux pour fruits et légumes | Accessoires de découpe ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWLw0nk0JbR5Mc87IVVfa5YOS6OjrU_ddXUw&s",
+      "original": "https://content.pearl.be/media/cache/default/article_ultralarge_high_nocrop/shared/images/articles/Z/ZX6/3-couteaux-pour-fruits-et-legumes-ref_ZX6299_3.jpg"
+    }
+  ]
+}

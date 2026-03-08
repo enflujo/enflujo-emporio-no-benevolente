@@ -1,0 +1,71 @@
+{
+  "categoria": "surfboard",
+  "categoriaSlug": "surfboard",
+  "idioma": "rw",
+  "nombreIdioma": "Kinyarwanda",
+  "termino": "ubao w'amazi",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:04:43.734Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "en",
+    "gl": "rw"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=ubao%20w'amazi&hl=en&gl=rw",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/surfboard/rw/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSImClBtHdeLsqv1vGJtqJetxtGJ8-ZZPSfLg&s",
+      "fuentePagina": "https://www.kigalitoday.com/ubuzima/urusobe-rw-ubuzima/article/rusizi-amazi-meza-yabaye-ingume-bamwe-bashotse-ibishanga",
+      "titulo": "Rusizi : Amazi meza yabaye ingume, bamwe bashotse ibishanga ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSImClBtHdeLsqv1vGJtqJetxtGJ8-ZZPSfLg&s",
+      "original": "https://www.kigalitoday.com/IMG/jpg/aho_ni_hamwe_muho_abaturage_bavomera_mu_mujyi_wa_rusizi_hadaheruka_amazi_copy.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/surfboard/rw/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYzYuyhZ9dciQ2ugTHkAzMN3pRY-WIrEr7ig&s",
+      "fuentePagina": "https://www.instagram.com/p/DMcp43hsrEA/",
+      "titulo": "AMAFOTO: Umusobanuzi wa filime akaba n'umujyanama w'abahanzi ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYzYuyhZ9dciQ2ugTHkAzMN3pRY-WIrEr7ig&s",
+      "original": "https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3683002818059550280"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/surfboard/rw/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdA2ncgZt5F3BDJA9ApFkHAp7GJg_bd4A3Lg&s",
+      "fuentePagina": "https://www.instagram.com/p/DMcp43hsrEA/",
+      "titulo": "AMAFOTO: Umusobanuzi wa filime akaba n'umujyanama w'abahanzi ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdA2ncgZt5F3BDJA9ApFkHAp7GJg_bd4A3Lg&s",
+      "original": "https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3683002818051008886"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/surfboard/rw/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-wz4G7FQ-9NV9QfaGoh907sfgo1QG0QZBvA&s",
+      "fuentePagina": "https://www.instagram.com/p/DFIavELsBEx/",
+      "titulo": "Amafoto 📷 ; Uburanga bwa bamwe mu bakinnyikazi ba filime ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-wz4G7FQ-9NV9QfaGoh907sfgo1QG0QZBvA&s",
+      "original": "https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3551205874983980238"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/surfboard/rw/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbleNqsTU9-TOaCg5wcz-ziji9jFw4ihpT9A&s",
+      "fuentePagina": "https://www.instagram.com/p/DFIavELsBEx/",
+      "titulo": "Amafoto 📷 ; Uburanga bwa bamwe mu bakinnyikazi ba filime ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbleNqsTU9-TOaCg5wcz-ziji9jFw4ihpT9A&s",
+      "original": "https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3551205874992214469"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/surfboard/rw/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLYeQoMp3vTP2xudE9qkPNmx7MpjA7O-FixA&s",
+      "fuentePagina": "https://www.instagram.com/p/DFIavELsBEx/",
+      "titulo": "Amafoto 📷 ; Uburanga bwa bamwe mu bakinnyikazi ba filime ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLYeQoMp3vTP2xudE9qkPNmx7MpjA7O-FixA&s",
+      "original": "https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3551205875000576401"
+    }
+  ]
+}

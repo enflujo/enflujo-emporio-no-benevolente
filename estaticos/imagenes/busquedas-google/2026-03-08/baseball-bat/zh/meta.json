@@ -1,0 +1,71 @@
+{
+  "categoria": "baseball bat",
+  "categoriaSlug": "baseball-bat",
+  "idioma": "zh",
+  "nombreIdioma": "中文",
+  "termino": "棒球棒",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:03:08.290Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "zh-CN",
+    "gl": "cn"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=%E6%A3%92%E7%90%83%E6%A3%92&hl=zh-CN&gl=cn",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/baseball-bat/zh/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSiybmVa3v5msNWM2pfeY4IK4nL8GKGaKe4HQ&s",
+      "fuentePagina": "https://www.lakeinsports.com/product-detail/SBB4023--11?srsltid=AfmBOoouiTESjhYwUuItm1sudJ8tpHQOtVOKusGcqop1W8OEYFRohtXb",
+      "titulo": "║SSK║泡綿FRP棒球棒-SBB4023 - LAKEINsports萊肯運動網",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSiybmVa3v5msNWM2pfeY4IK4nL8GKGaKe4HQ&s",
+      "original": "https://www.lakeinsports.com/upload_files/fonlego-rwd/prodpic/SBB4023%E5%95%86%E5%93%81%E5%9C%96(1).jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/baseball-bat/zh/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3Rkq4f-UP3ikxBcdy66B0xSIaWWJxdT2igg&s",
+      "fuentePagina": "https://zh.wikipedia.org/zh-cn/%E7%90%83%E6%A3%92",
+      "titulo": "球棒- 维基百科，自由的百科全书",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3Rkq4f-UP3ikxBcdy66B0xSIaWWJxdT2igg&s",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/3/30/Fourbats.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/baseball-bat/zh/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEzOWKCm3gXYEf-8LMeHGPK-e8_XTXT1Ll-A&s",
+      "fuentePagina": "https://24h.pchome.com.tw/prod/DXBO47-A900GTHSX?srsltid=AfmBOoqF5b8yeusOT3xiuLyegW-gCCPXMgCjIqbC05YOueP3d2TCG2JQ",
+      "titulo": "鐵人防衛鋁棒球棒28吋(長約71cm) 3支/組SA-28 (4718761068288 ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEzOWKCm3gXYEf-8LMeHGPK-e8_XTXT1Ll-A&s",
+      "original": "https://img.pchome.com.tw/cs/items/DXBO47A900GTHSX/000001_1766744736.jpg?width=640"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/baseball-bat/zh/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHVQ1rezoRgqsEy2F011yNoE4nufGK5Kv_7w&s",
+      "fuentePagina": "https://www.decathlon.tw/p/%E6%A3%92%E7%90%83%E7%99%BD%E6%A8%BA%E6%9C%A8%E6%A3%92-kipsta-ba180-2022-30-33-%E9%BB%91%E8%89%B2-kipsta-8737533.html?srsltid=AfmBOorhIp4wdDhdrjrJvBgFIOyTFRZQ_Y-HYvC-Wn0UCZhTWu0Zm3wG",
+      "titulo": "棒球白樺木棒KIPSTA BA180 2022 30\"/33\" 黑色",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHVQ1rezoRgqsEy2F011yNoE4nufGK5Kv_7w&s",
+      "original": "https://contents.mediadecathlon.com/p2215882/k$a610d8f8d7fdb910015e9114654ef5c3/%E6%A3%92%E7%90%83%E7%99%BD%E6%A8%BA%E6%9C%A8%E6%A3%92-kipsta-ba180-2022-30-33-%E9%BB%91%E8%89%B2-kipsta-8737533.jpg?f=1920x0&format=auto"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/baseball-bat/zh/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEzKPwoIjPn7nDKyE9U8xxIZ-YnLOBoZ1Dkg&s",
+      "fuentePagina": "https://www.mizuno.com.cn/sort/baseball-bat",
+      "titulo": "球棒- 美津浓官网",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEzKPwoIjPn7nDKyE9U8xxIZ-YnLOBoZ1Dkg&s",
+      "original": "https://www.mizuno.com.cn/content/uploadfile/202503/fa311741144561.jpg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/baseball-bat/zh/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXjQJRfCFweTpbLlFkN_jjbtzmsI0yBHJvvQ&s",
+      "fuentePagina": "https://www.woodenbatshop.com/products/%E3%80%8C%E6%A3%92%E7%90%83%E6%A3%92%E3%80%8Dvictus-pro-reserve-%E6%A5%93%E6%9C%A8%E6%A3%92%E7%90%83%E6%A3%92",
+      "titulo": "棒球棒」Victus Pro Reserve -楓木棒球棒",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXjQJRfCFweTpbLlFkN_jjbtzmsI0yBHJvvQ&s",
+      "original": "https://shoplineimg.com/5a65448a080f06acfb007643/698f1c8d7659dc9e307c1a43/800x.jpg?"
+    }
+  ]
+}

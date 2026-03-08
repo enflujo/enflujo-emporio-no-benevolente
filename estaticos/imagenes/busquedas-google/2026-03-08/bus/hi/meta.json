@@ -1,0 +1,71 @@
+{
+  "categoria": "bus",
+  "categoriaSlug": "bus",
+  "idioma": "hi",
+  "nombreIdioma": "हिन्दी",
+  "termino": "बस",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T20:44:00.444Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "hi",
+    "gl": "in"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=%E0%A4%AC%E0%A4%B8&hl=hi&gl=in",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bus/hi/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgXPOcpC4hczeWqFxpLI188i8ogBukO_mTEA&s",
+      "fuentePagina": "https://www.cmv360.com/hi/buses/eicher/starline-2090-l-school-bus/52-seater-5240",
+      "titulo": "आइशर स्टारलाइन 2090 L स्कूल बस 52 ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgXPOcpC4hczeWqFxpLI188i8ogBukO_mTEA&s",
+      "original": "https://www.cmv360.com/_next/image?url=https%3A%2F%2Fd1odgbsvvxl2qd.cloudfront.net%2Fsmall_4a512707cd985b27e56b4e8a74e_22f0b18ded.jpg&w=3840&q=100"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bus/hi/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8m_d4ontJp6odhAKRBElAhRPyyXgI85uprw&s",
+      "fuentePagina": "https://www.cmv360.com/hi/buses/ashok-leyland/oyster-wide-staff-bus",
+      "titulo": "अशोक लीलैंड ऑयस्टर वाइड स्टाफ बस ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8m_d4ontJp6odhAKRBElAhRPyyXgI85uprw&s",
+      "original": "https://www.cmv360.com/_next/image?url=https%3A%2F%2Fs3.ap-southeast-1.amazonaws.com%2Fdelen%2Fuploads%2Fbf02079d-7953-4819-8c2a-2391572f8d0e-small-New%2520Project%2520%25281%2529.webp&w=3840&q=100"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bus/hi/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSI0H_qd5wEPgDCj_55ejZIOyiBJWNgjJz_4Q&s",
+      "fuentePagina": "https://hi.made-in-china.com/co_cssenquan/product_30-Passenger-Mini-Bus-and-15-Seats-Mini-Bus-for-Mini-Bus-Brand-New-Price_uoesegrsog.html",
+      "titulo": "30 यात्री मिनी बस और 15 सीट मिनी बस ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSI0H_qd5wEPgDCj_55ejZIOyiBJWNgjJz_4Q&s",
+      "original": "https://image.made-in-china.com/202f0j00YOuVmGhFfnqR/30-Passenger-Mini-Bus-and-15-Seats-Mini-Bus-for-Mini-Bus-Brand-New-Price.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bus/hi/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0aSgmxVamLnuYj-v7Jo2FMzd86lcVljCuPw&s",
+      "fuentePagina": "https://www.91trucks.com/hi/buses/volvo/9600",
+      "titulo": "वोल्वो 9600 बस की कीमत ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0aSgmxVamLnuYj-v7Jo2FMzd86lcVljCuPw&s",
+      "original": "https://images.91trucks.com/buses/models/81/3045/volvo-9600-1364295443.png"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bus/hi/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQI1UudpVE_QGGv5uRSEPR1DWmOqlCY6GMbWw&s",
+      "fuentePagina": "https://play.google.com/store/apps/details?id=com.akc.bustime&hl=hi",
+      "titulo": "Bus Time Maharashtra - Google Play पर ऐप्लिकेशन",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQI1UudpVE_QGGv5uRSEPR1DWmOqlCY6GMbWw&s",
+      "original": "https://play-lh.googleusercontent.com/aNeJMsgByAefZo47PdAYXiKp2xc9ORowKLbU2lUut_lpD9DFa_GZGyLJIaL6Fa1GuS2l"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bus/hi/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6ogCzHiPrAu3CbVgZzF9psXc9BRLaJLy0Gw&s",
+      "fuentePagina": "https://navbharattimes.indiatimes.com/auto/car-bikes/tata-motors-launches-all-new-lpo-1622-bus-in-qatar-to-delivers-superior-performance-and-excellent-passenger-comfort/articleshow/121951567.cms",
+      "titulo": "टाटा मोटर्स की बसें अब इस अमीर ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6ogCzHiPrAu3CbVgZzF9psXc9BRLaJLy0Gw&s",
+      "original": "https://static.langimg.com/nbt/thumb/121951535/tata-motors-lpo-1622-bus-in-qatar.jpg?imgsize=1370916&width=1600&height=900&resizemode=75"
+    }
+  ]
+}

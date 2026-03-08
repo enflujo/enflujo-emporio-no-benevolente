@@ -1,0 +1,71 @@
+{
+  "categoria": "truck",
+  "categoriaSlug": "truck",
+  "idioma": "zu",
+  "nombreIdioma": "isiZulu",
+  "termino": "iloli",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T20:45:11.237Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "zu",
+    "gl": "za"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=iloli&hl=zu&gl=za",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/truck/zu/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTg32P7rZoYIIFwUBZd1bfx6-1X75otVJl6A&s",
+      "fuentePagina": "https://www.tripadvisor.co.za/Restaurant_Review-g293732-d4469297-Reviews-ILOLI-Casablanca_Casablanca_Settat.html",
+      "titulo": "ILOLI, Casablanca - Restaurant Reviews, Phone Number ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTg32P7rZoYIIFwUBZd1bfx6-1X75otVJl6A&s",
+      "original": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/05/7e/fe/f6/iloli.jpg?w=900&h=500&s=1"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/truck/zu/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlAxQGhrXizozBUeMu5CteDcYhvEVWvERHpg&s",
+      "fuentePagina": "https://www.theworlds50best.com/discovery/Establishments/Morocco/Casablanca/Iloli.html",
+      "titulo": "Iloli - Casablanca - Restaurant - 50Best Discovery",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlAxQGhrXizozBUeMu5CteDcYhvEVWvERHpg&s",
+      "original": "https://www.theworlds50best.com/discovery/filestore/jpg/Iloli-Casablanca-Morocco-02.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/truck/zu/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRL81OMkFWH4Zoa1LO15QKorB_AVasEgJ8YLA&s",
+      "fuentePagina": "https://www.iloli-restaurant.com/le-restaurant/",
+      "titulo": "Le restaurant – ILOLI Restaurant",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRL81OMkFWH4Zoa1LO15QKorB_AVasEgJ8YLA&s",
+      "original": "https://www.iloli-restaurant.com/wp-content/uploads/2020/07/06-3.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/truck/zu/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTsloKup-0Leu2qyr9L_H76tGFS4-4sEtAoQ&s",
+      "fuentePagina": "https://www.theworlds50best.com/discovery/Establishments/Morocco/Casablanca/Iloli.html",
+      "titulo": "Iloli - Casablanca - Restaurant - 50Best Discovery",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTsloKup-0Leu2qyr9L_H76tGFS4-4sEtAoQ&s",
+      "original": "https://www.theworlds50best.com/discovery/filestore/jpg/Iloli-Casablanca-Morocco-03.jpg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/truck/zu/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQe0BKOzl79RMXc8poq5K_yMPihqGb2DtPxyg&s",
+      "fuentePagina": "https://www.tripadvisor.com.sg/LocationPhotoDirectLink-g293732-d4469297-i69646425-ILOLI-Casablanca_Casablanca_Settat.html",
+      "titulo": "iloli - Picture of ILOLI, Casablanca - Tripadvisor",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQe0BKOzl79RMXc8poq5K_yMPihqGb2DtPxyg&s",
+      "original": "https://media-cdn.tripadvisor.com/media/photo-s/04/26/b8/59/iloli.jpg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/truck/zu/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3344faggprohtrhyfDg_ZZzkWJwGcPgH1iw&s",
+      "fuentePagina": "https://www.bestrestaurantsmaroc.com/en/restaurant-maroc/iloli-casa-maroc.html",
+      "titulo": "Restaurant Iloli - Japanese cuisine | bestrestaurantsmaroc.com",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3344faggprohtrhyfDg_ZZzkWJwGcPgH1iw&s",
+      "original": "https://www.bestrestaurantsmaroc.com/public/images/image_rs/_banner_format/4aa2b16c9ed7de9bafee30b1b0991f7c_318_banner.jpg"
+    }
+  ]
+}

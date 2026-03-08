@@ -1,0 +1,71 @@
+{
+  "categoria": "clock",
+  "categoriaSlug": "clock",
+  "idioma": "zh",
+  "nombreIdioma": "中文",
+  "termino": "时钟",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:29:13.815Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "zh-CN",
+    "gl": "cn"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=%E6%97%B6%E9%92%9F&hl=zh-CN&gl=cn",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/clock/zh/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJhc53-WsQgkSkrkx51ETIod-39CidUSSrfA&s",
+      "fuentePagina": "https://616pic.com/sucai/z62ilr031.html",
+      "titulo": "时钟图片免费下载_PNG素材_编号z62ilr031_图精灵",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJhc53-WsQgkSkrkx51ETIod-39CidUSSrfA&s",
+      "original": "https://pic.616pic.com/ys_bnew_img/00/08/40/C7PTq1JMuv.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/clock/zh/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQZOPaYlkBiaHC1zviOrMAWgS1brRbXnT9EA&s",
+      "fuentePagina": "https://www.suning.com/itemvideo/0071480357/12313516153.html",
+      "titulo": "现代简约静音挂钟客厅创意个性时尚钟表家用北欧时钟日式装饰静音 ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQZOPaYlkBiaHC1zviOrMAWgS1brRbXnT9EA&s",
+      "original": "https://imgservice.suning.cn/uimg1/b2c/image/YSujXcw3MTq6y7HvJgvVrg.jpg_800w_800h_4e"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/clock/zh/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTI-s0M3HWNCMZ3YuPvjL3srj-2OJjjh19Nug&s",
+      "fuentePagina": "https://www.pngsucai.com/png/540739.html",
+      "titulo": "简约时钟表盘PNG图片素材下载_图片编号540739-PNG素材网",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTI-s0M3HWNCMZ3YuPvjL3srj-2OJjjh19Nug&s",
+      "original": "https://pic.pngsucai.com/00/05/40/7fb12d76c34a9764.webp"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/clock/zh/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhhk-5tSsWnzwvhrBCeVnBOwAo0yNMo4iLxg&s",
+      "fuentePagina": "https://www.nitori.com.hk/products/%E5%AE%B6%E5%B1%85-wifi%E6%8E%9B%E9%8D%BE-sw-009tg",
+      "titulo": "家居】WIFI掛鍾SW 009TG – NITORI HONG KONG CO.,LIMITED",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhhk-5tSsWnzwvhrBCeVnBOwAo0yNMo4iLxg&s",
+      "original": "http://www.nitori.com.hk/cdn/shop/files/211710000151101.jpg?v=1757127672"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/clock/zh/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfTfEkYXYzxjzZWPOowxc9BhLNtn2ZCTU6HA&s",
+      "fuentePagina": "https://rhythm-shop.com.hk/zh-hant/dummy/?srsltid=AfmBOoq050l0LK9Gz2FXmFyXK7xcBXm20mOtMe00bPFrtVvjL9tq19Vv",
+      "titulo": "Dummy - Wall Clock – Rhythm Online Shop",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfTfEkYXYzxjzZWPOowxc9BhLNtn2ZCTU6HA&s",
+      "original": "https://rhythm-shop.com.hk/wp-content/uploads/20240408/CMG982NR06.png"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/clock/zh/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0IsdDBmRE2W5f_g0zRtK_B8rFDWXKAogCkg&s",
+      "fuentePagina": "https://www.pinterest.com/pin/838725130602497150/",
+      "titulo": "时钟png图片免费下载-素材7Nmkkgjka-新图网",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0IsdDBmRE2W5f_g0zRtK_B8rFDWXKAogCkg&s",
+      "original": "https://i.pinimg.com/736x/39/a9/87/39a9875d8da289acaacdc834c57d3050.jpg"
+    }
+  ]
+}

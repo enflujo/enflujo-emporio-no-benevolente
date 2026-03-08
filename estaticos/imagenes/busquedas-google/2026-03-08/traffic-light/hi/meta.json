@@ -1,0 +1,71 @@
+{
+  "categoria": "traffic light",
+  "categoriaSlug": "traffic-light",
+  "idioma": "hi",
+  "nombreIdioma": "हिन्दी",
+  "termino": "ट्रैफिक बत्ती",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T20:46:39.418Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "hi",
+    "gl": "in"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=%E0%A4%9F%E0%A5%8D%E0%A4%B0%E0%A5%88%E0%A4%AB%E0%A4%BF%E0%A4%95%20%E0%A4%AC%E0%A4%A4%E0%A5%8D%E0%A4%A4%E0%A5%80&hl=hi&gl=in",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/traffic-light/hi/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQZsMFXbqgSqCpBQRPd7CWwDXpvWu4k-553A&s",
+      "fuentePagina": "https://hi.wikipedia.org/wiki/%E0%A4%9F%E0%A5%8D%E0%A4%B0%E0%A5%88%E0%A4%AB%E0%A4%BF%E0%A4%95_%E0%A4%B2%E0%A4%BE%E0%A4%87%E0%A4%9F",
+      "titulo": "ट्रैफिक लाइट - विकिपीडिया",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQZsMFXbqgSqCpBQRPd7CWwDXpvWu4k-553A&s",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/9/91/Modern_British_LED_Traffic_Light.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/traffic-light/hi/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKVY6yJ_gBjCBbC3wTg_PBuKgvbVXONtjNqg&s",
+      "fuentePagina": "https://hi.pngtree.com/freepng/traffic-light-clipart---red-yellow-green-lights-illustration_18716087.html",
+      "titulo": "ट्रैफिक लाइट क्लिपआर्ट लाल पीली ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKVY6yJ_gBjCBbC3wTg_PBuKgvbVXONtjNqg&s",
+      "original": "https://png.pngtree.com/png-vector/20241030/ourlarge/pngtree-traffic-light-clipart---red-yellow-green-lights-illustration-png-image_14173237.png"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/traffic-light/hi/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQoYlIk1dn2v98VHfZ6iy-xBdP_FgkgzHZeiQ&s",
+      "fuentePagina": "https://www.lightwaytraffic.com/the-three-colors-of-traffic-lights-and-what-they-represent/",
+      "titulo": "Traffic Lights: Essential for Safe and Efficient Road ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQoYlIk1dn2v98VHfZ6iy-xBdP_FgkgzHZeiQ&s",
+      "original": "https://www.lightwaytraffic.com/wp-content/uploads/2024/09/Lightway-0923-1.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/traffic-light/hi/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1Gu4VZMprVBKgRl-wbY8GqLWBfKiGXEWulQ&s",
+      "fuentePagina": "https://www.vecteezy.com/free-vector/traffic-light",
+      "titulo": "Traffic Light Vector Art, Icons, and Graphics for Free Download",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1Gu4VZMprVBKgRl-wbY8GqLWBfKiGXEWulQ&s",
+      "original": "https://static.vecteezy.com/system/resources/thumbnails/000/550/395/small/traffic_light_006.jpg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/traffic-light/hi/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgFMW5CyUi73QlmlJVLIvuMdvdJMFAa2oL0Q&s",
+      "fuentePagina": "https://www.youtube.com/watch?v=qRVjpdaHT74",
+      "titulo": "How to Draw Traffic Light / Traffic Signal Drawing / Road Safety Drawing /  Traffic Light Drawing",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgFMW5CyUi73QlmlJVLIvuMdvdJMFAa2oL0Q&s",
+      "original": "https://i.ytimg.com/vi/qRVjpdaHT74/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLCiwD-UaAtwiai1dpsim8VpckNl2g"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/traffic-light/hi/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQH3CcKLFw3lBA9j3LDcofWtTNcZuNHLKmc0A&s",
+      "fuentePagina": "https://pngtree.com/free-png-vectors/traffic-light",
+      "titulo": "Traffic Light PNG, Vector, PSD, and Clipart With Transparent ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQH3CcKLFw3lBA9j3LDcofWtTNcZuNHLKmc0A&s",
+      "original": "https://png.pngtree.com/png-clipart/20230529/ourmid/pngtree-traffic-lights-png-image_7113828.png"
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "categoria": "cup",
+  "categoriaSlug": "cup",
+  "idioma": "fr",
+  "nombreIdioma": "Français",
+  "termino": "tasse",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:07:24.445Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "fr",
+    "gl": "be"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=tasse&hl=fr&gl=be",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/cup/fr/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRusbjiaPzn03-YyQ92Wk8sdLAPzUfDeqJ8gA&s",
+      "fuentePagina": "https://www.igopromo.be/fr/vaiselle/tasses/tasse-r-utilisable-en-plastique-pp-300-ml/p197341-master",
+      "titulo": "Tasse réutilisable en plastique PP 300 ml publicitaire dès 25 pcs. | IGO",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRusbjiaPzn03-YyQ92Wk8sdLAPzUfDeqJ8gA&s",
+      "original": "https://static.igopromo.com/ish/Images/IGO/490x490/mo6256-05.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/cup/fr/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZ7aEh49KS51rCx2RqE7sch5aKBFkZTlyPuQ&s",
+      "fuentePagina": "https://www.cadeauxfolies.be/tasse-a-cafe-personnalisee-avec-monogramme-store-13?srsltid=AfmBOopJe-UYa04cRXiCQeZghlOE8FJvpQDEstXVM5Tj5EJFqq0bjLvy",
+      "titulo": "Tasse à café personnalisée avec monogramme",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZ7aEh49KS51rCx2RqE7sch5aKBFkZTlyPuQ&s",
+      "original": "https://www.cadeauxfolies.be/media/catalog/product/cache/062e45dbf31eec6e301505cbcbf442f4/m/o/monogramm_16x4_8cm_1200x1200px_fr_v1_1.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/cup/fr/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLIo0hKALWLNj1OLrUebsFwD7Xh31umMSPdg&s",
+      "fuentePagina": "https://www.dille-kamille.fr/tasse-porcelaine-hauteur-8-cm-00002300.html",
+      "titulo": "Tasse, porcelaine, hauteur 8 cm | Vaisselle, porcelaine chez ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLIo0hKALWLNj1OLrUebsFwD7Xh31umMSPdg&s",
+      "original": "https://dilka.xcdn.nl/dilka/images/catalog/product/00002300_1.jpg?f=rs:fit:600:600/g:ce&s=2d2d"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/cup/fr/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSr4sKzhJGkadpjqifOxOOWCeSc-H_bOVtog&s",
+      "fuentePagina": "https://www.zarahome.com/be/fr/tasse-a-cafe-et-soucoupe-gres-l42448207",
+      "titulo": "TASSE À CAFÉ ET SOUCOUPE GRÈS | Zara Home België / Belgique",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSr4sKzhJGkadpjqifOxOOWCeSc-H_bOVtog&s",
+      "original": "https://static.zarahome.net/assets/public/aab3/cb20/80124563a6e6/dd3bdfa185a9/42448207712-a7/42448207712-a7.jpg?ts=1772711621119&f=auto&w=1082"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/cup/fr/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRa4XBqOg5XOZfbvfSTHw7oI6y_wNsPydJhtA&s",
+      "fuentePagina": "https://www.cosmodesign.fr/objets-design-cadeaux/mugs/tasse-expresso-emotion-tassen.html",
+      "titulo": "TASSE expresso EMOTION - Vaisselle Visage Tassen - COSMO design",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRa4XBqOg5XOZfbvfSTHw7oI6y_wNsPydJhtA&s",
+      "original": "https://media.cdnws.com/_i/209313/1158/979/59/expresso-mug-visage-grognon-et-joyeux-tassen-porcelaine.png"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/cup/fr/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTA1ojNzqIAH60DAeFMPtsZti_MKoemTH_hXg&s",
+      "fuentePagina": "https://www.zarahome.com/be/fr/tasse-en-gres-l42448210",
+      "titulo": "TASSE EN GRÈS | Zara Home België / Belgique",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTA1ojNzqIAH60DAeFMPtsZti_MKoemTH_hXg&s",
+      "original": "https://static.zarahome.net/assets/public/297e/f004/1686496e892b/8ae6948cbbe4/42448210712-a7/42448210712-a7.jpg?ts=1772700457157&f=auto&w=1082"
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "categoria": "horse",
+  "categoriaSlug": "horse",
+  "idioma": "ln",
+  "nombreIdioma": "Lingala",
+  "termino": "farasa",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T20:51:36.585Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "fr",
+    "gl": "cd"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=farasa&hl=fr&gl=cd",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/horse/ln/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5gBglSfHpNYrnnbIKkILpZwpCbl9KCxMPcA&s",
+      "fuentePagina": "https://www.gettyimages.com/photos/farasa",
+      "titulo": "19 Farasa Stock Photos, High-Res Pictures, and Images ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5gBglSfHpNYrnnbIKkILpZwpCbl9KCxMPcA&s",
+      "original": "https://media.gettyimages.com/id/929534360/photo/the-garden-temple-in-wadi-farasa-petra-jordan.jpg?s=612x612&w=gi&k=20&c=m-lmopNpgy_9KLp2SHo_QmFPQ-USh3GzoMElep60JfU="
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/horse/ln/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcTuA51GeH6JP8CDfQR6fBPetA8XvfwB-zsA&s",
+      "fuentePagina": "https://universes.art/en/art-destinations/jordan/petra/wadi-farasa",
+      "titulo": "Wadi Farasa East, Petra. Art Destination Jordan",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcTuA51GeH6JP8CDfQR6fBPetA8XvfwB-zsA&s",
+      "original": "https://universes.art/fileadmin/user_upload/Art-Destinations/Jordan/Petra/06-Wadi-Farasa/12-1-IMG_0934-A.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/horse/ln/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIatfmZ0aG6ZHAWZm7PQDSHnrthrOSnvuUyg&s",
+      "fuentePagina": "https://www.shutterstock.com/search/farasa",
+      "titulo": "163 Farasa Royalty-Free Images, Stock Photos & Pictures ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIatfmZ0aG6ZHAWZm7PQDSHnrthrOSnvuUyg&s",
+      "original": "https://www.shutterstock.com/image-photo/view-above-ancient-tomb-roman-260nw-2157331587.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/horse/ln/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwjS0NyT-iXfyPobpbDOaq0OzIbqHU7uvZ3w&s",
+      "fuentePagina": "https://universes.art/en/art-destinations/jordan/petra/wadi-farasa",
+      "titulo": "Wadi Farasa East, Petra. Art Destination Jordan",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwjS0NyT-iXfyPobpbDOaq0OzIbqHU7uvZ3w&s",
+      "original": "https://universes.art/fileadmin/_processed_/b/7/csm_03-IMG_0900-2000-750_a27395dfc3.jpg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/horse/ln/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4RXN1J_FrrTM6nPHQ4Lt4CNCejJAI4IHm9Q&s",
+      "fuentePagina": "https://www.gettyimages.fr/photos/farasa",
+      "titulo": "19 Farasa Stock Photos, High-Res Pictures, and Images ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4RXN1J_FrrTM6nPHQ4Lt4CNCejJAI4IHm9Q&s",
+      "original": "https://media.gettyimages.com/id/910818136/fr/photo/the-garden-temple-in-wadi-farasa-petra.jpg?s=612x612&w=gi&k=20&c=ek9Zsthtms5tLREOiKzSgSva-cXe75tysfXqP4cM7vc="
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/horse/ln/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUsqvfQ0L0JV0eZSEScSUOhhCcWZefuBJJ0Q&s",
+      "fuentePagina": "https://www.indiamart.com/proddetail/ladies-farasa-11482717197.html?srsltid=AfmBOoqc0WbP73G10W-s0NVke5ovWORBqxrFJa7qDzTVsqsaEpl_FfGY",
+      "titulo": "Ladies Farasa at ₹ 600 | फ़राशा in Surat | ID ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUsqvfQ0L0JV0eZSEScSUOhhCcWZefuBJJ0Q&s",
+      "original": "https://4.imimg.com/data4/VS/XK/MY-26418595/1-500x500.jpg"
+    }
+  ]
+}

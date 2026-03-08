@@ -1,0 +1,71 @@
+{
+  "categoria": "chair",
+  "categoriaSlug": "chair",
+  "idioma": "kg",
+  "nombreIdioma": "Kikongo",
+  "termino": "kiti",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:17:00.784Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "fr",
+    "gl": "cd"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=kiti&hl=fr&gl=cd",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/chair/kg/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsfh7UbVLbT4sYgJXndcwuNL1qaqDrZE1UBg&s",
+      "fuentePagina": "https://play.google.com/store/apps/details?id=com.kiti.chat.android",
+      "titulo": "Kiti Live - A Stage to Shine - Apps on Google Play",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsfh7UbVLbT4sYgJXndcwuNL1qaqDrZE1UBg&s",
+      "original": "https://play-lh.googleusercontent.com/3rQyyxmr_LNvDymc7nW8CyI2vsreSfNDMUR0xbL-QTRkinvteWzlbmSRMj4oS2DF5O4"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/chair/kg/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhaLHdmEWGK6VJKdFg7Ksra0y1U_reRquVMw&s",
+      "fuentePagina": "https://www.pinterest.com/danicaukanovi/helo-kiti/",
+      "titulo": "45 Helo kiti ideas to save today | hello kitty pictures ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhaLHdmEWGK6VJKdFg7Ksra0y1U_reRquVMw&s",
+      "original": "https://i.pinimg.com/236x/ff/78/62/ff7862e8d041d8ec8494cb96c9648f04.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/chair/kg/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTs_GUZnl-VTtHxZ_Dsh53xsUO1e9F__EqtOQ&s",
+      "fuentePagina": "https://soundcloud.com/user-20718212/jelo-kiti",
+      "titulo": "Stream Jelo Kiti by lilxnjxl | Listen online for free on ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTs_GUZnl-VTtHxZ_Dsh53xsUO1e9F__EqtOQ&s",
+      "original": "https://i1.sndcdn.com/artworks-UEKB9irMtzK5r3Zd-GlyrAw-t500x500.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/chair/kg/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXVrkZqq8o6fQ27hQB_tcN30Hsogb2xcZY4g&s",
+      "fuentePagina": "https://fr.pixiz.com/frame/kiti-766360",
+      "titulo": "kiti Montage Photo | Pixiz",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXVrkZqq8o6fQ27hQB_tcN30Hsogb2xcZY4g&s",
+      "original": "https://data.pixiz.com/output/user/frame/preview/400x400/0/6/3/6/766360_2a112.jpg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/chair/kg/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPzF50oMzLuBPLsrqwouZjo4n7RUKrL9KaxQ&s",
+      "fuentePagina": "https://fr.pixiz.com/frame/hello-kiti-1857147",
+      "titulo": "hello kiti Montage Photo | Pixiz",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPzF50oMzLuBPLsrqwouZjo4n7RUKrL9KaxQ&s",
+      "original": "https://data.pixiz.com/output/user/frame/preview/api/big/7/4/1/7/1857147_89f44.jpg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/chair/kg/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUSbymeGnRxOsbhYAIjaHjt_tkAuwLAFszig&s",
+      "fuentePagina": "https://www.pinterest.com/danicaukanovi/helo-kiti/",
+      "titulo": "45 Helo kiti ideas to save today | hello kitty pictures ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUSbymeGnRxOsbhYAIjaHjt_tkAuwLAFszig&s",
+      "original": "https://i.pinimg.com/236x/80/ef/ea/80efeaa4c10f9add26332da7f67b5fa3.jpg"
+    }
+  ]
+}

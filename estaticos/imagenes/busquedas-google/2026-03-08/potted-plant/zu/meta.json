@@ -1,0 +1,71 @@
+{
+  "categoria": "potted plant",
+  "categoriaSlug": "potted-plant",
+  "idioma": "zu",
+  "nombreIdioma": "isiZulu",
+  "termino": "isitshalo esisentweni",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:18:32.145Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "zu",
+    "gl": "za"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=isitshalo%20esisentweni&hl=zu&gl=za",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/potted-plant/zu/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuQqmnKw70UrV1OGZQEgTGNU-jMwgkA6QZuQ&s",
+      "fuentePagina": "https://www.etv.co.za/scoop/isitha-enemy-family-first",
+      "titulo": "Isitha: The Enemy Family First | e.tv",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuQqmnKw70UrV1OGZQEgTGNU-jMwgkA6QZuQ&s",
+      "original": "https://www.etv.co.za/sites/default/files/media/images/2025-07/amaqiniso-awafihlwa.png"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/potted-plant/zu/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwcdEjZwMfYMH8vxfl46boRgggSQ3M3qqrgg&s",
+      "fuentePagina": "https://ranisherbalist.co.za/products/isiwasho-sesinyama-_-evil-spirit-450g-1",
+      "titulo": "ISIWASHO SESINYAMA _ EVIL SPIRIT 450g",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwcdEjZwMfYMH8vxfl46boRgggSQ3M3qqrgg&s",
+      "original": "http://ranisherbalist.co.za/cdn/shop/files/23007352.jpg?v=1723719361"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/potted-plant/zu/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxq82VlR_WkOsM3o38hR9CKK0WhnhOGZmGnA&s",
+      "fuentePagina": "https://ranisherbalist.co.za/products/isiwasho-semfundo-_-education-450g",
+      "titulo": "ISIWASHO SEMFUNDO _ EDUCATION 450g",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxq82VlR_WkOsM3o38hR9CKK0WhnhOGZmGnA&s",
+      "original": "http://ranisherbalist.co.za/cdn/shop/files/23007079.jpg?v=1723637525"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/potted-plant/zu/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR96JRORj2Ap9nq52ZwGxTtLRi8PGBso_qF-A&s",
+      "fuentePagina": "https://ilangaherbals.co.za/product/bhubesi-imoto-entshontsha-imali-siwasho-320gm/",
+      "titulo": "Bhubesi Imoto Entshontsha Imali Siwasho 320gm – Ilanga Herbals",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR96JRORj2Ap9nq52ZwGxTtLRi8PGBso_qF-A&s",
+      "original": "https://ilangaherbals.co.za/wp-content/uploads/2024/10/BH-115-1.png"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/potted-plant/zu/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdZEk5IChd7PxxkPhS98dut-s5a7Y24C-rRg&s",
+      "fuentePagina": "https://www.youtube.com/watch?v=u4QAaS9SEKI",
+      "titulo": "Using Isithwalo Ukuvusa Esinye Isithwalo - Prof CM Lekhuleni",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdZEk5IChd7PxxkPhS98dut-s5a7Y24C-rRg&s",
+      "original": "https://i.ytimg.com/vi/u4QAaS9SEKI/maxresdefault.jpg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/potted-plant/zu/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuG20QubvmeFERge3SB0JIPtyn_gePvzld3w&s",
+      "fuentePagina": "https://ranisherbalist.co.za/products/isiwasho-isigilabathakathi-450g-1",
+      "titulo": "ISIWASHO ISIGILABATHAKATHI 450g",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuG20QubvmeFERge3SB0JIPtyn_gePvzld3w&s",
+      "original": "http://ranisherbalist.co.za/cdn/shop/files/23006492.jpg?v=1723624542"
+    }
+  ]
+}

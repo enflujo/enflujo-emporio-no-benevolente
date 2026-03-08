@@ -1,0 +1,71 @@
+{
+  "categoria": "refrigerator",
+  "categoriaSlug": "refrigerator",
+  "idioma": "pt",
+  "nombreIdioma": "Português",
+  "termino": "geladeira",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:27:56.836Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "pt",
+    "gl": "br"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=geladeira&hl=pt&gl=br",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/refrigerator/pt/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfgztdmsuwIVmpkHv_xcyjksMbdHAIP5KNQg&s",
+      "fuentePagina": "https://www.casasbahia.com.br/geladeira-brastemp-duplex-brm55fb-frost-free-com-painel-click-black-e-turbo-freezer-463l-branca/p/55066485",
+      "titulo": "Geladeira Brastemp Duplex BRM55FB Frost Free | Casas Bahia",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfgztdmsuwIVmpkHv_xcyjksMbdHAIP5KNQg&s",
+      "original": "https://imgs.casasbahia.com.br/55066485/1g.jpg?imwidth=500"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/refrigerator/pt/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmLYvx00GMHCvuXTh1L6ZP8oTC3AtAetnlow&s",
+      "fuentePagina": "https://www.lojasedmil.com.br/geladeira-electrolux-frost-free-duplex-dfn41-371-litros-branca/p?srsltid=AfmBOooReqdWCZM9mCVhFmFYi_e68nf2pZBhZZx_BOGzqJUVtgHG46Rx",
+      "titulo": "Geladeira Electrolux Frost Free Duplex DFN41 371 Litros Branca",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmLYvx00GMHCvuXTh1L6ZP8oTC3AtAetnlow&s",
+      "original": "http://io.convertiez.com.br/m/lojasedmil/shop/products/images/625/large/geladeira-electrolux-frost-free-duplex-dfn41-371-litros-branca_13948.JPG"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/refrigerator/pt/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8ZdSGM4W1h5e8IHOdv_jMSYURmVem7Ewwg&s",
+      "fuentePagina": "https://www.liliani.com.br/geladeira-frost-free-brastemp-french-door-554-litros-inox-bro85ak-p4879?srsltid=AfmBOorfuOn66LtE1hTyy70gPdh0vEpaKmNg7sdiGQ_aa-CCs4m60gWb",
+      "titulo": "Geladeira Frost Free Brastemp French Door 554 litros Inox ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8ZdSGM4W1h5e8IHOdv_jMSYURmVem7Ewwg&s",
+      "original": "https://dleyjack4mlu0.cloudfront.net/Custom/Content/Products/48/79/4879_refrigerador-brastemp-bro85ak-inverse-3-portas-554l_m2_638122530710775001.webp"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/refrigerator/pt/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScfUteU00RDtHzuif7KVzOghVA_e5KY9i0kw&s",
+      "fuentePagina": "https://www.brastemp.com.br/geladeira-brastemp-frost-free-inverse-a-479-litros-cor-inox-com-super-capacidade-e-smart-flow-bre58fk/p",
+      "titulo": "Geladeira Frost Free Inverse 479L Inox: design e eficiência ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScfUteU00RDtHzuif7KVzOghVA_e5KY9i0kw&s",
+      "original": "https://brastemp.vtexassets.com/arquivos/ids/270876-800-800?v=638996770721070000&width=800&height=800&aspect=true"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/refrigerator/pt/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMztjW0NVvx3_TSLgVNA_jKasN_Y2ktGsQdw&s",
+      "fuentePagina": "https://www.lojastopmoveis.com.br/geladeira-2-portas-375-litros-frost-free-com-fresh-zone-brm44-brastemp/p?srsltid=AfmBOoqXc92kYyCiguFmvZMTr7SGtEkhIMbRPQ6-oUuqb0gMjj8cEz9p",
+      "titulo": "Geladeira Brastemp 375L Frost Free 2 Portas - Branca | Lojas ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMztjW0NVvx3_TSLgVNA_jKasN_Y2ktGsQdw&s",
+      "original": "https://topmoveis.vtexassets.com/arquivos/ids/164136/REFRIGERADOR-GELADEIRA-BRM44-HBBNA-BR-2-PORTAS-375L-FROST-FREE-220V-BRASTEMP.jpg?v=638480114622300000"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/refrigerator/pt/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTna8cdqhTY2t7b8mIrmeqB2kC7LTjYHG-Qyw&s",
+      "fuentePagina": "https://www.amazon.com.br/Geladeira-Electrolux-Efficient-AutoSense-Duplex/dp/B0DN3RX4L8",
+      "titulo": "Geladeira Electrolux Frost Free 431L Efficient AutoSense ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTna8cdqhTY2t7b8mIrmeqB2kC7LTjYHG-Qyw&s",
+      "original": "https://m.media-amazon.com/images/I/41FhtTDaN0L._AC_UF894,1000_QL80_.jpg"
+    }
+  ]
+}

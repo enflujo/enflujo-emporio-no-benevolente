@@ -1,0 +1,71 @@
+{
+  "categoria": "bowl",
+  "categoriaSlug": "bowl",
+  "idioma": "pt",
+  "nombreIdioma": "Português",
+  "termino": "tigela",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:10:28.072Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "pt",
+    "gl": "br"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=tigela&hl=pt&gl=br",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bowl/pt/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREeELrXHgaXeBF7QEFLJZg_-kTybT-PZuAGw&s",
+      "fuentePagina": "https://www.porceloucas.com.br/conjunto-06-tigelas-600ml-laranja-azulesverdeado?srsltid=AfmBOopBtxvnDggm0Yr7fF5R2kvNKJ3wx7gCle9h3--YqpwRj7U3x4Yj",
+      "titulo": "Tigelas Pequenas - Bowl - 600ml - 16cm - Laranja/Azul ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREeELrXHgaXeBF7QEFLJZg_-kTybT-PZuAGw&s",
+      "original": "https://cdn.awsli.com.br/2500x2500/1597/1597824/produto/220427149/tigela_laranja_a-yr8rk5ciag.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bowl/pt/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFCr6q1dZ5NEuDQAtB5-GLId8ba5GtgHEHsA&s",
+      "fuentePagina": "https://www.casaferrari.com.br/tigela-em-ceramica-600ml-flat-pacifico-oxford?srsltid=AfmBOooTagFuMyLmz9ZLhKHjGpghdnAv_NBn-d41Lqtx9M5K5UQsVFt2",
+      "titulo": "Tigela em Cerâmica 600ml - Flat Pacífico - Oxford",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFCr6q1dZ5NEuDQAtB5-GLId8ba5GtgHEHsA&s",
+      "original": "https://casaferrari.cdn.magazord.com.br/img/2025/07/produto/59214/flat-pacifico-tigela.png"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bowl/pt/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQk7lDK5jjqe-h1lcKgqNgqJkWYk9lGRg70aA&s",
+      "fuentePagina": "https://loja.zeek.com.br/mesa/pratos-e-tigelas/tigela-sobremesa-pop?srsltid=AfmBOor7eDc3zDJL915wKRLEH-TRC91X0uv9CQag-i-KKfktuhBjrdfM",
+      "titulo": "Tigela Sobremesa 300 ml em Plástico Zeek Linha POP | Loja ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQk7lDK5jjqe-h1lcKgqNgqJkWYk9lGRg70aA&s",
+      "original": "https://images.tcdn.com.br/img/img_prod/641157/tigela_sobremesa_pop_92_1_20180825154755.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bowl/pt/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQB5_xA2yJlon4itliPv6op_85_WsjaC3GGVQ&s",
+      "fuentePagina": "https://www.novamesa.com.br/preparar-e-servir/saladeiras-bowls-e-tigelas/tigela-mexicana-em-porcelana-350ml-085-alfa?srsltid=AfmBOooN1metoOgo29ByRNCubS8dqlbOCL7dr7BGq9k4jyRNJj9TLcie",
+      "titulo": "Tigela Mexicana Porcelana 350ml | Nova Mesa",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQB5_xA2yJlon4itliPv6op_85_WsjaC3GGVQ&s",
+      "original": "https://images.tcdn.com.br/img/img_prod/887624/tigela_mexicana_em_porcelana_350ml_ref_085_alfa_50_1_6b47b331a8546b660be696d7a77d5d36.jpg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bowl/pt/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyYhscHG0nf116PWSC5HK9D16pKLVtIIG1aQ&s",
+      "fuentePagina": "https://listas.oxfordporcelanas.com.br/tigela-preto/p",
+      "titulo": "Tigela 300 Ml Preto",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyYhscHG0nf116PWSC5HK9D16pKLVtIIG1aQ&s",
+      "original": "https://oxfordporcelanas.vteximg.com.br/arquivos/ids/180246-1000-1000/025481_Tigela_300Ml_Preto.jpg?v=638130992910800000"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bowl/pt/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQogAKsY-aYnl7qgInCdZjJpUhJKOva6WtcDw&s",
+      "fuentePagina": "https://www.gicimagazine.com.br/kit-8-tigela-sobremesa-pequena-bowl-amber-em-vidro-de-600ml?srsltid=AfmBOoon8nBhWMFCrOwkPNNTPMpMY-hafkGxnEH8VvqkYjwACak_VXn4",
+      "titulo": "Kit 8 Tigela Sobremesa Pequena Bowl Âmber Em Vidro De 600ml",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQogAKsY-aYnl7qgInCdZjJpUhJKOva6WtcDw&s",
+      "original": "https://gicimagazine.cdn.magazord.com.br/img/2024/09/produto/19604/tigela-bowl-amber-em-vidro-1.jpg?ims=fit-in/800x"
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "categoria": "bed",
+  "categoriaSlug": "bed",
+  "idioma": "sw",
+  "nombreIdioma": "Kiswahili",
+  "termino": "kitanda",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:18:58.977Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "sw",
+    "gl": "tz"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=kitanda&hl=sw&gl=tz",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bed/sw/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSC21wmGZo3J4f5a4Lq2q6HF11W8AqbhJf6dQ&s",
+      "fuentePagina": "https://www.instagram.com/p/DAqBUQ3otlN/",
+      "titulo": "Karibuni kitanda cha mbao kizuri kuliko picha Size:5*6 Kina ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSC21wmGZo3J4f5a4Lq2q6HF11W8AqbhJf6dQ&s",
+      "original": "https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3470592253391722829"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bed/sw/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrcK_5lSw6ifLUWQodQ57zBVVVINx1G6rAqQ&s",
+      "fuentePagina": "https://aarsunwoods.com/sw/product/royal-teak-wood-bed/",
+      "titulo": "Kitanda cha Royal Teak Wood katika Kipolandi cha Dhahabu",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrcK_5lSw6ifLUWQodQ57zBVVVINx1G6rAqQ&s",
+      "original": "https://aarsunwoods.b-cdn.net/Queen%20Size%20Bed/Bed%20Design%20Bedroom/Teak-Wood-Bed-in-Gold-Polish.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bed/sw/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXK9RxCRV6s9P2GNPsqEDKATtSP0uHvOM2bA&s",
+      "fuentePagina": "https://www.threads.com/@astonfurniture/post/DBdIdmJudnx",
+      "titulo": "🔛 KITANDA CHA KISASA 👉BEI 📌5&6 800k 📌6&6 850k 👊KITANDA ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXK9RxCRV6s9P2GNPsqEDKATtSP0uHvOM2bA&s",
+      "original": "https://lookaside.fbsbx.com/lookaside/crawler/threads/DBdIdmJudnx/0/image.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bed/sw/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7TkrZ7mITwmbu4FElDDynS_BqM-XdNYlsCw&s",
+      "fuentePagina": "https://madeintanzania.co.tz/products/271/",
+      "titulo": "Kitanda - Products Made In Tanzania",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7TkrZ7mITwmbu4FElDDynS_BqM-XdNYlsCw&s",
+      "original": "https://madeintanzania.co.tz/static/uploads/images/2022-08-02-16-58-46IMG-20220802-WA0008.jpg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bed/sw/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6WBZ0q6OOIINKcIZ-aD7IGsM-KYLjpQNExg&s",
+      "fuentePagina": "https://jiji.co.tz/kinondoni/furniture/kitanda-kizuri-sana-cha-mbao-iF8U9HcIRYpxUIj3dSAF71zo.html",
+      "titulo": "Kitanda Kizuri Sana Cha Mbao in Kinondoni - Furniture, Yun ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6WBZ0q6OOIINKcIZ-aD7IGsM-KYLjpQNExg&s",
+      "original": "https://pictures-tanzania.jijistatic.com/6956218_NjIwLTg2MC04ZmE5NWVlMDk1.webp"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bed/sw/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9fPXVZx3eH1iT4cultaHQMQBY5tN4Qh9_Hg&s",
+      "fuentePagina": "https://kupatana.com/tz/car-seats-and-carriers/p/kitanda-5-6/62666144252ece00014d91ea139348",
+      "titulo": "Kitanda 5/6 | Kupatana",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9fPXVZx3eH1iT4cultaHQMQBY5tN4Qh9_Hg&s",
+      "original": "https://kupatana.com/api/v1/filestorage/image/large/8c31d130bca3e46953c503a78b0929f5.jpg"
+    }
+  ]
+}

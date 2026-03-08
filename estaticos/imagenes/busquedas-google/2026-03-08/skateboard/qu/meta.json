@@ -1,0 +1,71 @@
+{
+  "categoria": "skateboard",
+  "categoriaSlug": "skateboard",
+  "idioma": "qu",
+  "nombreIdioma": "Quechua",
+  "termino": "skateboard",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:04:25.782Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "es",
+    "gl": "pe"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=skateboard&hl=es&gl=pe",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/skateboard/qu/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfh99jVlPcWKImNW4h_SNxDlon5VcIfNmp_w&s",
+      "fuentePagina": "https://www.ubuy.pe/sp/product/G6KHTPS30-barbie-malibu-beach-31-complete-skateboard-pink-checkered-kids-ages-6-pink?srsltid=AfmBOoqTpd6IDwlrQxIFgp2BFUfRdIWEA-x_IaXapwRQk79peMQUurZI",
+      "titulo": "Barbie Malibu Beach 31 Complete Skateboard, Pink Peru | Ubuy",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfh99jVlPcWKImNW4h_SNxDlon5VcIfNmp_w&s",
+      "original": "https://i5.walmartimages.com/seo/Barbie-Malibu-Beach-31-Complete-Skateboard-Pink-Checkered-Kids-Ages-6-Pink_59633ba7-dcb3-4305-95a0-420f1a494057.faf40f139d190873cb7ae3565591da2f.jpeg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/skateboard/qu/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpmlVue6yigvkZozlRCRUvsTJ3ltOHPOBhag&s",
+      "fuentePagina": "https://www.skatedeluxe.com/blog/en/skateboards-for-beginners-recommendations-checklists/",
+      "titulo": "Skateboards for Beginners - Recommendations | skatedeluxe Blog",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpmlVue6yigvkZozlRCRUvsTJ3ltOHPOBhag&s",
+      "original": "https://www.skatedeluxe.com/blog/wp-content/uploads/2023/11/skateboard-completes-at-skatedeluxe.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/skateboard/qu/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8hRcv2mYQ1z-ya6Vk-lZgQdT-t_jAOQtSfQ&s",
+      "fuentePagina": "https://skatehouseperu.com/products/skate-trucos-hello-kitty-pink",
+      "titulo": "SKATE TRUCOS HELLO KITTY PINK 8",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8hRcv2mYQ1z-ya6Vk-lZgQdT-t_jAOQtSfQ&s",
+      "original": "https://skatehouseperu.com/cdn/shop/files/IMG-20240406-WA0177_FILEminimizer_600x600.jpg?v=1712679560"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/skateboard/qu/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTVGb5acyWNkHbU7vDSYz8ZMSkgfY7HCMb8g&s",
+      "fuentePagina": "https://www.decathlon.co.ke/p/357956-54338-cp100-fsc-complete-size-8-skateboard.html?srsltid=AfmBOopXM3CWEje5J9AP5_o_aQET-D_5w0PVOjVdG8P2ROj-QvtHpnIq",
+      "titulo": "CP100 FSC Complete Size 8\" Skateboard - Decathlon",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTVGb5acyWNkHbU7vDSYz8ZMSkgfY7HCMb8g&s",
+      "original": "https://contents.mediadecathlon.com/p2828811/k$8bdc94c63e5fc72eb0026c779e9b742b/cp100-fsc-complete-size-8-skateboard.jpg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/skateboard/qu/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEtjWDK8vUDDi0FcDvZMYFxJm9sLlCnOkUqg&s",
+      "fuentePagina": "https://www.ubuy.pe/sp/product/M91OJO-chromewheels-31-inch-skateboard-double-kick-skate-board-cruiser-longboard-8-layer-maple-deck-skateboards-for-kids-and-beginners?srsltid=AfmBOoru5ga9qFQf-Etldr6E-UN6VcCk6sMazNYx2aP6eGZsz-pSNUaG",
+      "titulo": "Ruedas 31 pulgadas Skateboard doble patada patineta crucero Longboard 8  Capa Maple cubierta patinetes para niños y principiantes",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEtjWDK8vUDDi0FcDvZMYFxJm9sLlCnOkUqg&s",
+      "original": "https://m.media-amazon.com/images/I/71PfGyStYmL._AC_SL1000_.jpg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/skateboard/qu/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVJqhYsJ4NA1r-W9eqvx-HArV675h-4zkX0Q&s",
+      "fuentePagina": "https://es.wikipedia.org/wiki/Archivo:Globe_Skateboard.jpg",
+      "titulo": "Archivo:Globe Skateboard.jpg - Wikipedia, la enciclopedia libre",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVJqhYsJ4NA1r-W9eqvx-HArV675h-4zkX0Q&s",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/4/41/Globe_Skateboard.jpg"
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "categoria": "bicycle",
+  "categoriaSlug": "bicycle",
+  "idioma": "es",
+  "nombreIdioma": "Español",
+  "termino": "bicicleta",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T20:41:34.554Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "es",
+    "gl": "es"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=bicicleta&hl=es&gl=es",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bicycle/es/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqGdAhkHMY5MaIzEQlaC5jYGg6zLo_dmQiYw&s",
+      "fuentePagina": "https://fabricbike.com/es/bicicletas/paseo-step-city.html",
+      "titulo": "Bicicleta de paseo Step-City",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqGdAhkHMY5MaIzEQlaC5jYGg6zLo_dmQiYw&s",
+      "original": "https://fabricbike.com/1832-thickbox_default/paseo-step-city.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bicycle/es/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzuotiUpT7zJokDWyS_FkO9GWiNJMfwUh6Ag&s",
+      "fuentePagina": "https://www.clootbike.com/bicicleta-montana-mujer-xrtrail-7.0-pro?srsltid=AfmBOopS6lY3Cm1ra7xhsfUkMjsP6HHwfUb_y8vkU6MWuhPDelg5lAWO",
+      "titulo": "Bicicleta Montaña 27.5 Cloot Trail 7.0 Pro 9x2",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzuotiUpT7zJokDWyS_FkO9GWiNJMfwUh6Ag&s",
+      "original": "https://www.clootbike.com/images/products/bicicleta-montana-mujer-xrtrail-7.0-pro-portada.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bicycle/es/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3tc6TQDJ_M10zroBdGuQf89o2rfZ8Rpfdcw&s",
+      "fuentePagina": "https://www.elcorteingles.es/deportes/A53043092-bicicleta-de-ninos-24-mtb-bkom-bpro/",
+      "titulo": "Bicicleta de niños 24\" Mtb Bkom BPRO Variante única Rojo",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3tc6TQDJ_M10zroBdGuQf89o2rfZ8Rpfdcw&s",
+      "original": "https://dam.elcorteingles.es/producto/www-001026610108594-00.jpg?impolicy=Resize&width=1200&height=1200"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bicycle/es/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQy73YxABmTboz1zskVv1hUtdvUnyOXiiGvnA&s",
+      "fuentePagina": "https://biocyclespain.com/producto/crono/?srsltid=AfmBOoqOHULDB8sUz0JrCUkCKT-qIy1PtK-kFpOTNlCMmF0T7KhHpfDj",
+      "titulo": "CRONO",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQy73YxABmTboz1zskVv1hUtdvUnyOXiiGvnA&s",
+      "original": "https://biocyclespain.com/wp-content/uploads/2021/06/CRONO-NEGRA.png"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bicycle/es/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvrnvRjPN1ga86Mfmsi7FQ2txResDKYQvwjA&s",
+      "fuentePagina": "https://www.runnersworld.com/es/training/a38135122/20-increibles-beneficios-montar-bicicleta/",
+      "titulo": "Los 20 increíbles beneficios de montar en bicicleta",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvrnvRjPN1ga86Mfmsi7FQ2txResDKYQvwjA&s",
+      "original": "https://hips.hearstapps.com/hmg-prod/images/gettyimages-1658233950.jpg?resize=980:*"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bicycle/es/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLMyOGM0QAcwR5PgdtJAiTdwyPetzdjBH63g&s",
+      "fuentePagina": "https://carbonbikes.es/products/bicicleta-mtb",
+      "titulo": "Bicicleta CBK MTB – CBK Carbonbikes",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLMyOGM0QAcwR5PgdtJAiTdwyPetzdjBH63g&s",
+      "original": "https://carbonbikes.es/cdn/shop/products/bicimtb_1024x1024.jpg?v=1742981457"
+    }
+  ]
+}

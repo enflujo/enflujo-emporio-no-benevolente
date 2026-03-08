@@ -1,0 +1,71 @@
+{
+  "categoria": "truck",
+  "categoriaSlug": "truck",
+  "idioma": "ar",
+  "nombreIdioma": "العربية",
+  "termino": "شاحنة",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T20:45:13.961Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "ar",
+    "gl": "eg"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=%D8%B4%D8%A7%D8%AD%D9%86%D8%A9&hl=ar&gl=eg",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/truck/ar/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJpa341I5V3wtCRLO4aJVDGpG5Pwm_Ifon3w&s",
+      "fuentePagina": "https://www.cscvehicle.com/van-truck/refrigerated-truck/18-ton-payload-56-cbm-refrigerated-truck.html",
+      "titulo": "الصين جودة عالية 18 طن حمولة 56 تدابير بناء الثقة شاحنة ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJpa341I5V3wtCRLO4aJVDGpG5Pwm_Ifon3w&s",
+      "original": "http://www.cscvehicle.com/uploads/202421798/18-ton-payload-56-cbm-refrigerated-truck8ebae881-6ebc-42c0-b9f0-1c3cba273309.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/truck/ar/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8rXZEXcz3gvMrd111mbNBRKMsVPHvxEcZLA&s",
+      "fuentePagina": "http://hytruck.asia/1c-tractor-truck.html",
+      "titulo": "شاحنة نصف مقطورة 2×4 Euro IV | مورد شاحنات النقل البري | HONGYAN",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8rXZEXcz3gvMrd111mbNBRKMsVPHvxEcZLA&s",
+      "original": "http://hytruck.asia/products/1c-tractor-truck_01.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/truck/ar/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdSc9rEn_UOG1bwCj4t45D0HB3Aib58DCKIw&s",
+      "fuentePagina": "https://ar.cnqixinggroup.com/truck/heavy-duty-truck/19-ton-commercial-vehicle-heavy-duty-trucks.html",
+      "titulo": "الصين 19 طن المركبات التجارية الثقيلة شاحنات مصنعين، مصنع ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdSc9rEn_UOG1bwCj4t45D0HB3Aib58DCKIw&s",
+      "original": "https://ar.cnqixinggroup.com/uploads/202332520/19-ton-commercial-vehicle-heavy-duty-trucks7d3801e5-2269-4ee8-94a9-5c24879a6cb5.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/truck/ar/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJyPrD4X5QbjtaBUaMmg384LyHysejcr3msQ&s",
+      "fuentePagina": "https://ar.redragonvehicle.com/18-ton-commercial-electric-heavy-duty-dump-truck-manufacturers",
+      "titulo": "18 طن الكهربائية التجارية الثقيلة شاحنة قلابة مصنعين",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJyPrD4X5QbjtaBUaMmg384LyHysejcr3msQ&s",
+      "original": "https://ar.redragonvehicle.com/storage/uploads/images/202208/12/1660273637_Ln7eyxXRUq.jpg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/truck/ar/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTG1RR2F6nhcyWRjN8UoCSM8vd98XvVZOnRcg&s",
+      "fuentePagina": "https://www.volvotrucks.com/ar-eg/",
+      "titulo": "Volvo Trucks Egypt",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTG1RR2F6nhcyWRjN8UoCSM8vd98XvVZOnRcg&s",
+      "original": "https://assets.volvo.com/is/image/VolvoInformationTechnologyAB/trucks-landing-volvo-fh-cgi-exterior-2?qlt=82&wid=1024&ts=1714475437603&dpr=off&fit=constrain&fmt=png-alpha"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/truck/ar/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZ1dLEeQxbm_SqV67MdBlqvbQ0rXX1WDDgdg&s",
+      "fuentePagina": "http://ar.global.shacman.com/cargo-truck/container-truck/8x4-container-truck.html",
+      "titulo": "الصين 8 × 4 شاحنات الحاويات الموردين والمصنعين - أفضل ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZ1dLEeQxbm_SqV67MdBlqvbQ0rXX1WDDgdg&s",
+      "original": "http://ar.global.shacman.com/uploads/202133114/8x4-container-truck33052764467.jpg"
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "categoria": "sandwich",
+  "categoriaSlug": "sandwich",
+  "idioma": "pt",
+  "nombreIdioma": "Português",
+  "termino": "sanduíche",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:12:27.209Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "pt",
+    "gl": "br"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=sandu%C3%ADche&hl=pt&gl=br",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/sandwich/pt/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUBYt3wo_FTBf4EombNWS7PbG2GUvbGIkQ9w&s",
+      "fuentePagina": "https://www.hellmanns.com.br/r/sandu%C3%ADche-de-fil%C3%A9-de-frango-com-queijo-e-salada.html/99439",
+      "titulo": "Sanduíche de Filé de Frango com Queijo e Salada",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUBYt3wo_FTBf4EombNWS7PbG2GUvbGIkQ9w&s",
+      "original": "https://assets.unileversolutions.com/recipes-v2/99439.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/sandwich/pt/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4idiJAU-VjIsEDbSy7FZkk4ulFPMgR_A2HQ&s",
+      "fuentePagina": "https://comida.umcomo.com.br/receita/como-fazer-sanduiche-natural-9310.html",
+      "titulo": "Como fazer sanduíche natural",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4idiJAU-VjIsEDbSy7FZkk4ulFPMgR_A2HQ&s",
+      "original": "https://cdn0.umcomo.com.br/pt/posts/0/1/3/como_fazer_sanduiche_natural_9310_orig.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/sandwich/pt/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRokeb0_4VMLKr02KLcxcmPQ-t4eaIjshqbMA&s",
+      "fuentePagina": "https://alegrafoods.com.br/pratico-e-leve-sanduiche-de-presunto-com-mostarda-e-mel/",
+      "titulo": "Prático e leve: sanduíche de presunto com mostarda e mel ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRokeb0_4VMLKr02KLcxcmPQ-t4eaIjshqbMA&s",
+      "original": "https://alegrafoods.com.br/wp-content/uploads/2023/10/captura-de-tela-2023-10-18-as-11.10.35-528x350.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/sandwich/pt/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTt1vwnfvXdApRK7Xri5Vg8MvZhjnaGeUMCmw&s",
+      "fuentePagina": "https://bakeandcakegourmet.com.br/receitas/sanduiche-mexicano-de-frango-com-guacamole",
+      "titulo": "SANDUÍCHE MEXICANO DE FRANGO COM GUACAMOLE",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTt1vwnfvXdApRK7Xri5Vg8MvZhjnaGeUMCmw&s",
+      "original": "https://bakeandcakegourmet.com.br/uploads/site/receitas/sanduiche-mexicano-de-frango-com-guacamole-4-fhqgwe8v.jpg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/sandwich/pt/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7_QINtNQkDfrTOYgiINWPze5_y2kh__Nelw&s",
+      "fuentePagina": "https://receitas.globo.com/regionais/rpc/receitas-paranaenses/aprenda-como-fazer-sanduiche-facil-na-frigideira-g.ghtml",
+      "titulo": "Aprenda como fazer sanduíche fácil na frigideira",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7_QINtNQkDfrTOYgiINWPze5_y2kh__Nelw&s",
+      "original": "https://s2-receitas.glbimg.com/vI9memhz7MRsJbKKaxgJOGWbnEA=/0x0:1080x608/924x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_e84042ef78cb4708aeebdf1c68c6cbd6/internal_photos/bs/2022/h/M/FKoc48R7AAr0mNU0rpDQ/capa-materia-gshow-2022-01-20t112229.412.png"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/sandwich/pt/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQldIx5vDmTw4hA8jaGAMIpFkAFV-7HwnVJZg&s",
+      "fuentePagina": "https://www.sabornamesa.com.br/receitas-de-lanches/sanduiche-natural-simples-e-saudavel",
+      "titulo": "16 Receitas de Sanduíche Natural Saudável E Preparos Para Variar Nos  Lanchinho Da Tarde",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQldIx5vDmTw4hA8jaGAMIpFkAFV-7HwnVJZg&s",
+      "original": "https://www.sabornamesa.com.br/media/k2/items/cache/8f704c6e91e045c72378c71d940a59ce_XL.jpg"
+    }
+  ]
+}

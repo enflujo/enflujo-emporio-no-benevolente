@@ -1,0 +1,71 @@
+{
+  "categoria": "hot dog",
+  "categoriaSlug": "hot-dog",
+  "idioma": "zh",
+  "nombreIdioma": "中文",
+  "termino": "热狗",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:14:49.857Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "zh-CN",
+    "gl": "cn"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=%E7%83%AD%E7%8B%97&hl=zh-CN&gl=cn",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/hot-dog/zh/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQQPo4jhIvZZzcu5aZ_dLPZjDGLzA-eYltfA&s",
+      "fuentePagina": "https://zh.wikipedia.org/zh-cn/%E7%86%B1%E7%8B%97",
+      "titulo": "热狗- 维基百科，自由的百科全书",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQQPo4jhIvZZzcu5aZ_dLPZjDGLzA-eYltfA&s",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/3/3a/NCI_Visuals_Food_Hot_Dog.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/hot-dog/zh/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSaochhriuof1UEysJOpUwTudEVHBEBJSMH-g&s",
+      "fuentePagina": "http://www.cnr.cn/sbpd/sbzlg/sbqs/201002/t20100205_505994869.html",
+      "titulo": "热狗”源自世博会狗肉争议",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSaochhriuof1UEysJOpUwTudEVHBEBJSMH-g&s",
+      "original": "http://www.cnr.cn/sbpd/sbzlg/sbqs/201002/W020100205616003758363.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/hot-dog/zh/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPi0OasXMXQkIe05ePnUdmtGo2tdlRfuAB-Q&s",
+      "fuentePagina": "https://baike.baidu.com/item/%E7%83%AD%E7%8B%97/3592",
+      "titulo": "热狗_百度百科",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPi0OasXMXQkIe05ePnUdmtGo2tdlRfuAB-Q&s",
+      "original": "https://bkimg.cdn.bcebos.com/smart/83025aafa40f4bfbfbedd49159186ff0f736aec3b2e5-bkimg-process,v_1,rw_1,rh_1,pad_1,color_ffffff?x-bce-process=image/format,f_auto"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/hot-dog/zh/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSw45esvDR9LJyDWmHrJjbEEbUm3xN8dGnG7g&s",
+      "fuentePagina": "https://www.epochtimes.com/gb/20/4/8/n12013240.htm",
+      "titulo": "不说不知道美国专家告诉你热狗的正确吃法| 礼节| 调味料| 大紀元",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSw45esvDR9LJyDWmHrJjbEEbUm3xN8dGnG7g&s",
+      "original": "https://i.epochtimes.com/assets/uploads/2020/04/Fotolia_42349247_Subscription_L.jpg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/hot-dog/zh/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSghP6yBq_iRT6XOsCX-tL0N8DK8XyvwkwZfg&s",
+      "fuentePagina": "https://www.bbc.com/ukchina/simp/vert-tra-49031648",
+      "titulo": "美食争议：最老牌的美国热狗是哪一家？ - BBC 英伦网",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSghP6yBq_iRT6XOsCX-tL0N8DK8XyvwkwZfg&s",
+      "original": "http://c.files.bbci.co.uk/1C0E/production/_107928170_p07fqj0w-1.jpg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/hot-dog/zh/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrDuADrYRfRSLPTGUBvtbAtO-j7TusplY7pw&s",
+      "fuentePagina": "https://product.suning.com/0070175876/11819568268.html",
+      "titulo": "风味烤香肠热狗烤肠批发火腿脆骨肠油炸小吃20根原味肉肠【价格 ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrDuADrYRfRSLPTGUBvtbAtO-j7TusplY7pw&s",
+      "original": "https://imgservice.suning.cn/uimg1/b2c/image/zbL-EWN_h8AgSgm5UK6-tA.jpg_800w_800h_4e_80Q_is"
+    }
+  ]
+}

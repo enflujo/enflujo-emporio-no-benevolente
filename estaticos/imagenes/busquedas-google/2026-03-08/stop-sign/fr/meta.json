@@ -1,0 +1,71 @@
+{
+  "categoria": "stop sign",
+  "categoriaSlug": "stop-sign",
+  "idioma": "fr",
+  "nombreIdioma": "Français",
+  "termino": "panneau stop",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T20:47:46.471Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "fr",
+    "gl": "be"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=panneau%20stop&hl=fr&gl=be",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/stop-sign/fr/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYumgIrtvDGL30sBsNMBUP2JFDwnLcqvhtfw&s",
+      "fuentePagina": "https://www.seton.be/fr/panneau-routier-pvc-stop.html?srsltid=AfmBOoq99UiXPxzJ9xWScoctho6CRjOFce2rHwQblOH-fUc18lRMk5RO",
+      "titulo": "Panneau PVC - Stop",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYumgIrtvDGL30sBsNMBUP2JFDwnLcqvhtfw&s",
+      "original": "https://cdn-01-artemis.media-brady.com/Assets/ImageRoot/DMEU_WebPipeline/5~/01/DMEU_Y4142995~01_std.lang.all.gif"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/stop-sign/fr/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYQyqQBgoslc8cBeOfdDhDb5HhzNLk6s5OtQ&s",
+      "fuentePagina": "https://www.amazon.com.be/Panneau-Plastique-Diam%C3%A8tre-Protection-Anti-UV/dp/B07CRLCZ8Q",
+      "titulo": "Panneau - Stop - Plastique rigide PVC 1,5 mm - Diamètre 250 mm - Protection  Anti-UV : Amazon.com.be: Bricolage",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYQyqQBgoslc8cBeOfdDhDb5HhzNLk6s5OtQ&s",
+      "original": "https://m.media-amazon.com/images/I/413jtYgar2L._AC_UF1000,1000_QL80_.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/stop-sign/fr/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbrrjFP6Cowqmgi0w9CpTzyLa9SUGNlfkAbg&s",
+      "fuentePagina": "https://www.seton.be/fr/panneau-aide-trafic-stop-avancez-4.html?srsltid=AfmBOoqCPnqg0twzfGfgf4hW51IOubvj7Zmd3O6xR0b2qkMn6lgunTuo",
+      "titulo": "Panneau d'aide au trafic - Panneau de balisage | Seton",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbrrjFP6Cowqmgi0w9CpTzyLa9SUGNlfkAbg&s",
+      "original": "https://cdn-01-artemis.media-brady.com/Assets/ImageRoot/DMEU_WebPipeline/t2/~1/DMEU_PAT2~1_std.lang.all.gif"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/stop-sign/fr/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJcWlg4bVer7bXzJBV3SCRf4Hb0VVbwGJ9zw&s",
+      "fuentePagina": "https://securotheque.wallonie.be/equipements/signalisation-c/verticale/de-police/b5-signaux-de-priorite",
+      "titulo": "B5 – Signaux de priorité – Marquer l'arrêt et céder le ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJcWlg4bVer7bXzJBV3SCRf4Hb0VVbwGJ9zw&s",
+      "original": "https://securotheque.wallonie.be/files/wp-content/uploads/Signaux/Type%20B%20Priorit%C3%A9/B%20-%20Dimensions/B5-dimensions.png"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/stop-sign/fr/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQey115LT2Chmydx5PXhgDuzSn_47KR373MNw&s",
+      "fuentePagina": "https://fr.pixers.be/posters/panneau-stop-35757980",
+      "titulo": "Poster Panneau stop - FR.PIXERS.BE",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQey115LT2Chmydx5PXhgDuzSn_47KR373MNw&s",
+      "original": "https://t1.pixers.pics/img-c676e9e9/posters-panneau-stop.jpg?H4sIAAAAAAAAA42PWW6EMAyGrwMSYGcjhgPM6xwBQZYpLZuStEU9fUNb9a1SZVteZH_WD69bHL0D47bkAqyztYsDPy-5i31wcf5whZSywrLP06VAzNX-5oIJ-1HUjLGqll2lcrSMlf37mC_XMbwUTykdsQeIojnmM-NyMhHMGoEj04AEqiMSzgjyXvrhqGMaNzsGW3N5CmyO7VHhZf_HEjAENVk2tRNZlBMNnOOpsP4lfGGFUJVSdKF_RGrESl_iUpjXIqvd83Yqno9HCX_8_K4hX8HtDkKBzt4B4TUabnehtNId4WBGYgI9ScGpY8JMbWcsck8oDQnUTf7yCWa4LJiKAQAA"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/stop-sign/fr/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSK2UWVQnSk1z6dceTL8HivK-jE912ye2gj8Q&s",
+      "fuentePagina": "https://www.manutan.be/fr/mab/panneau-de-signalisation-b7-stop?srsltid=AfmBOoqCDrC-Ha1fUUb8wzfHpnMeOb_lLkGx5bBdlXO1q1DkJSSKO4_C",
+      "titulo": "Panneau de signalisation - B7 - Stop - Manutan.be",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSK2UWVQnSk1z6dceTL8HivK-jE912ye2gj8Q&s",
+      "original": "https://www.manutan.be/img/S/GRP/ST/AIG324650.jpg"
+    }
+  ]
+}

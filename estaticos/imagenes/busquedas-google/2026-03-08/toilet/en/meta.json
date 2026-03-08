@@ -1,0 +1,71 @@
+{
+  "categoria": "toilet",
+  "categoriaSlug": "toilet",
+  "idioma": "en",
+  "nombreIdioma": "English",
+  "termino": "toilet",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:20:12.802Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "en",
+    "gl": "us"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=toilet&hl=en&gl=us",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/toilet/en/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRi4KybzxLQn4g54a8Zjieu0tBNVobZaeXK0w&s",
+      "fuentePagina": "https://horow.com/products/2-piece-toilet-with-elongated-bowl-and-single-flush-model-hwtt-e02s?srsltid=AfmBOorUJEiwqI-31F9huboSGBCq7-5vp0Jz0aKCSvbTkt5IeJOO4Ejw",
+      "titulo": "2 Piece Toilet with Elongated Bowl and Single Flush Model HWTT - E02S",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRi4KybzxLQn4g54a8Zjieu0tBNVobZaeXK0w&s",
+      "original": "https://horow.com/cdn/shop/files/E02S-1.webp?v=1732064435"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/toilet/en/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRydj6TV1yxYJulydpmJl1Dz1F-q6c7pCBqAw&s",
+      "fuentePagina": "https://www.next.us/en/style/st823122/263176",
+      "titulo": "Buy Showerdrape White Toledo Toilet Seat from Next USA",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRydj6TV1yxYJulydpmJl1Dz1F-q6c7pCBqAw&s",
+      "original": "https://xcdn.next.co.uk/common/items/default/default/itemimages/3_4Ratio/product/lge/263176s.jpg?im=Resize,width=750"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/toilet/en/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHs41NsC8W2FNhd4kjbtiutxrjyaJUaiN4jA&s",
+      "fuentePagina": "https://www.signaturehardware.com/carraway-two-piece-skirted-elongated-toilet---ada-compliant---white/948432.html?srsltid=AfmBOooo3bqBAJllvzH0jJzidqhia80-NWN4QXESgup7JrihoMoruZjM",
+      "titulo": "Carraway Two-Piece Skirted Elongated Toilet - ADA Compliant ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHs41NsC8W2FNhd4kjbtiutxrjyaJUaiN4jA&s",
+      "original": "https://images.signaturehardware.com/i/signaturehdwr/447385-Carraway-toilet-WH-Beauty10.jpg?w=950&fmt=auto"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/toilet/en/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSF9peVpplC4Z6AZUX5XjL1OFxNzNNDmx8OUA&s",
+      "fuentePagina": "https://royaltoiletry.com/product/royal-sphere-gold-and-white-smart-toilet/?srsltid=AfmBOoqrvrsPOJoNPFvXdOZt1Euz0-8LmC8mq78XCi5wAgNsEZNCpo83",
+      "titulo": "Royal Sphere Gold & White Smart Toilet – Luxury High-Tech ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSF9peVpplC4Z6AZUX5XjL1OFxNzNNDmx8OUA&s",
+      "original": "https://royaltoiletry.com/wp-content/uploads/2024/09/Royal-Sphere-Smart-Toilet6.png"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/toilet/en/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPVtteHB2qmkWDPCjhYAACaX74iWBXMGPKHQ&s",
+      "fuentePagina": "https://www.consumerreports.org/home-garden/toilets/best-toilets-of-the-year-a5565220264/",
+      "titulo": "9 Best Toilets of 2026, Lab-Tested and Reviewed - Consumer ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPVtteHB2qmkWDPCjhYAACaX74iWBXMGPKHQ&s",
+      "original": "https://article.images.consumerreports.org/image/upload/t_article_tout/v1749666505/prod/content/dam/CRO-Images-2025/Home/CR-Home-Inlinehero-Best-Toilets-of-2025-0625"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/toilet/en/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDXwrYqtjsdv40Lho_LizMcOWX05u8LD7gmw&s",
+      "fuentePagina": "https://www.amazon.com/HOROW-HWMT-8733-Compact-Bathroom-Concealed/dp/B07K32DFHS",
+      "titulo": "HOROW HWMT-8733 Small Compact One Piece Toilet For Bathroom ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDXwrYqtjsdv40Lho_LizMcOWX05u8LD7gmw&s",
+      "original": "https://m.media-amazon.com/images/I/71fbUMtggRL.jpg"
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "categoria": "microwave",
+  "categoriaSlug": "microwave",
+  "idioma": "ln",
+  "nombreIdioma": "Lingala",
+  "termino": "micro-ondes",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:24:45.392Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "fr",
+    "gl": "cd"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=micro-ondes&hl=fr&gl=cd",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/microwave/ln/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTunZNZZV-M0kJ0m_CLYQ9x_pwswYLoiGXXlQ&s",
+      "fuentePagina": "https://www.lesitedelapiece.com/blog/fours-micro-ondes-quelle-duree-de-vie--n57",
+      "titulo": "Durée de vie micro-ondes | Le site de la pièce",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTunZNZZV-M0kJ0m_CLYQ9x_pwswYLoiGXXlQ&s",
+      "original": "https://media1.lesitedelapiece.com/img/cms/images%20blog/micro-ondes-assiette.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/microwave/ln/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAjX6OXOcKdDSAAK6DRP_J4PKRK1WJV5yrPQ&s",
+      "fuentePagina": "https://www.furnotel.fr/four-micro-ondes-professionnel/57-samsung-four-micro-onde-professionnel-26-l-1050-w-cm1099a.html",
+      "titulo": "Samsung - Four micro-onde professionnel - 26 L - 1050 W ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAjX6OXOcKdDSAAK6DRP_J4PKRK1WJV5yrPQ&s",
+      "original": "https://www.furnotel.fr/7795-thickbox_default/samsung-four-micro-onde-professionnel-26-l-1050-w-cm1099a.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/microwave/ln/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiLCfxBrC7OHG1WucG-M3wakZcTFy_2FcJeg&s",
+      "fuentePagina": "https://www.chezvous.re/micro-onde-20l-solo-blanc-kenwood",
+      "titulo": "KENWOOD Micro Onde 20L Solo MWM100 - 800W | ChezVous.re ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiLCfxBrC7OHG1WucG-M3wakZcTFy_2FcJeg&s",
+      "original": "https://www.chezvous.re/content/images/thumbs/6453a88b95b816268493ea2e_micro-onde-20l-solo-mcanique-blanc-kenwood.jpeg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/microwave/ln/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTygJUizrVNCkakddghd1nDgTguvvIWirlzRw&s",
+      "fuentePagina": "https://www.20minutes.fr/guide-achat/cuisine-guide-achat/4060514-20231102-top-5-micro-ondes-meilleur-prix-2023",
+      "titulo": "Top 5 des micro-ondes au meilleur prix en 2023",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTygJUizrVNCkakddghd1nDgTguvvIWirlzRw&s",
+      "original": "https://img.20mn.fr/AwlP7sBfR2qekjtFOw7pLCk/1444x920_top-5-des-micro-ondes-au-meilleur-prix"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/microwave/ln/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU_YyH5nIO40yFchRpfAiq3U00zvPab6sxYQ&s",
+      "fuentePagina": "https://www.electrodepot.be/fr/micro-ondes-hisense-edh23mobv-23l-mono-digit.html?srsltid=AfmBOoqQAqDpw8gtqFqu8xTCtwFAOk1oMR3u-bA5W8qD7maJhgX8YeQV",
+      "titulo": "Micro-ondes monofonction HISENSE EDH23MOBV - ELECTRO DEPOT",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU_YyH5nIO40yFchRpfAiq3U00zvPab6sxYQ&s",
+      "original": "https://www.electrodepot.be/media/catalog/product/P993619.jpg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/microwave/ln/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFlZwGbOFmF2clevTI_NmZkNI7NFsy1GHV8A&s",
+      "fuentePagina": "https://fr.wikipedia.org/wiki/Four_%C3%A0_micro-ondes",
+      "titulo": "Four à micro-ondes — Wikipédia",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFlZwGbOFmF2clevTI_NmZkNI7NFsy1GHV8A&s",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/1/17/Microwave_oven_Zanussi_ZM019M.jpg"
+    }
+  ]
+}

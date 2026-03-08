@@ -1,0 +1,71 @@
+{
+  "categoria": "toilet",
+  "categoriaSlug": "toilet",
+  "idioma": "pt",
+  "nombreIdioma": "Português",
+  "termino": "vaso sanitário",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:20:50.465Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "pt",
+    "gl": "br"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=vaso%20sanit%C3%A1rio&hl=pt&gl=br",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/toilet/pt/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUzxLI3N01Y6YR2J4LnpwXfEnnbTR5cQj3wg&s",
+      "fuentePagina": "https://www.meumoveldebanheiro.com.br/vaso-sanitario-monobloco-para-banheiro-eva-fabribam-branco-brilho?srsltid=AfmBOorkzVMZ2IXRlPKNDsYv2G6c9VBhKuhp9gDH_hc1QTvV_Kf8tYfC",
+      "titulo": "Vaso Sanitário Monobloco para Banheiro Eva - FabribamBranco Brilho",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUzxLI3N01Y6YR2J4LnpwXfEnnbTR5cQj3wg&s",
+      "original": "https://meumoveldebanheiro.cdn.magazord.com.br/img/2025/01/produto/4614/bacia-sanitaria-eva-1-ambientada.jpg?ims=600x600"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/toilet/pt/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8NHxIlrGn14RiuxjSIPVOnmxkAnJLPQWWqA&s",
+      "fuentePagina": "https://www.leroymerlin.com.br/vaso-sanitario-caixa-acoplada-basic-smart-norte_1571666681",
+      "titulo": "Vaso Sanitário Caixa Acoplada Basic - Smart Norte | Leroy Merlin",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8NHxIlrGn14RiuxjSIPVOnmxkAnJLPQWWqA&s",
+      "original": "https://cdn.leroymerlin.com.br/products/vaso_sanitario_caixa_acoplada_basic_smart_norte_1571666681_26f2_600x600.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/toilet/pt/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHyKyb-LDM0lxbRyZH7pJaI6_FTodn3GeBFA&s",
+      "fuentePagina": "https://www.amazon.com.br/Banheiro-levantamento-autom%C3%A1tico-sanit%C3%A1rio-confort%C3%A1vel/dp/B0D1C7PWWX",
+      "titulo": "Banheiro com levantamento automático, não elétrico, vaso ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHyKyb-LDM0lxbRyZH7pJaI6_FTodn3GeBFA&s",
+      "original": "https://m.media-amazon.com/images/I/71wm-CwbptL.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/toilet/pt/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQG6-K9Zr3-nELfb196ux1-YZoSsMpCRoPRfA&s",
+      "fuentePagina": "https://www.coresvivashomecenter.com.br/p-vaso-sanitario-quadra-convencional-gelo-21-17-deca",
+      "titulo": "Vaso Sanitário Quadra Convencional Gelo P.21.17 Deca",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQG6-K9Zr3-nELfb196ux1-YZoSsMpCRoPRfA&s",
+      "original": "https://img.irroba.com.br/fit-in/600x600/filters:fill(fff):quality(80)/coresviv/catalog/api/coresviv_integrac/63e65057b5954.jpg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/toilet/pt/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR87b7JeRnFMtgxY5RKlXUbFVkKF-4SDS6hKg&s",
+      "fuentePagina": "https://www.smartnorte.com.br/produto/vaso-sanitario-caixa-acoplada-basic-smart-norte",
+      "titulo": "Vaso Sanitário Caixa Acoplada Basic - Smart Norte - Smart ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR87b7JeRnFMtgxY5RKlXUbFVkKF-4SDS6hKg&s",
+      "original": "https://cdn.awsli.com.br/2500x2500/1615/1615520/produto/236702512/img_0008-xhxy2rlub0.jpg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/toilet/pt/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQudbsWK37QxBouq1QRXMSHNIKq6ec7Z0IusA&s",
+      "fuentePagina": "https://www.construmarques.com.br/produto/vaso-sanitario-convencional-deca-axis-cor-barbante-p-47-26-83493?srsltid=AfmBOoofkN6HSMIk9z_ry-B-rcoNGPYjR2t1nuEDX5JKrv2wR4LyD2uE",
+      "titulo": "Vaso Sanitário Convencional Deca Axis Cor Barbante - P.47.26",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQudbsWK37QxBouq1QRXMSHNIKq6ec7Z0IusA&s",
+      "original": "https://construmarques.fbitsstatic.net/img/p/vaso-sanitario-convencional-deca-axis-cor-barbante-p-47-26-83493/270360-2.jpg?v=no-value"
+    }
+  ]
+}

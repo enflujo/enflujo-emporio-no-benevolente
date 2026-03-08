@@ -1,0 +1,71 @@
+{
+  "categoria": "potted plant",
+  "categoriaSlug": "potted-plant",
+  "idioma": "ha",
+  "nombreIdioma": "Hausa",
+  "termino": "shuka na tukunya",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:18:27.955Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "ha",
+    "gl": "ng"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=shuka%20na%20tukunya&hl=ha&gl=ng",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/potted-plant/ha/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuqeW5PoA2HrzpQn6hSR_ngHMKRUhwzFGv4g&s",
+      "fuentePagina": "https://ha.ceramic.school/notes/plant-pot-with-attached-saucer2/",
+      "titulo": "Tukunyar Shuka tare da miya # 2 - The Ceramic School",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuqeW5PoA2HrzpQn6hSR_ngHMKRUhwzFGv4g&s",
+      "original": "https://cdn3.ceramic.school/wp-content/uploads/2023/11/20231107_101435-768x1024.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/potted-plant/ha/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDDuFQapACW2r8DdaEo0fsCwJ0Ehv10geGzA&s",
+      "fuentePagina": "https://sunyfarsilkflowers.com/ha/10910.html",
+      "titulo": "wholesale shuka wucin gadi ba tare da tukunya, wucin gadi ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDDuFQapACW2r8DdaEo0fsCwJ0Ehv10geGzA&s",
+      "original": "https://sunyfarsilkflowers.com/wp-content/uploads/2022/10/2022101207413360.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/potted-plant/ha/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTeThR8-7udjZM6iyRAGGEqR5d3vcxiJinrFQ&s",
+      "fuentePagina": "https://sunyfarsilkflowers.com/ha/13342.html",
+      "titulo": "Tsirarrun Tsirrai na wucin gadi tare da ƙwallan echinop masu ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTeThR8-7udjZM6iyRAGGEqR5d3vcxiJinrFQ&s",
+      "original": "https://sunyfarsilkflowers.com/wp-content/uploads/2023/12/2023122603231187.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/potted-plant/ha/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQH5Ik9f1CKNOOo3YabDz9_LY5u3tJ4DQ58bw&s",
+      "fuentePagina": "https://ha.agriculture-solution.com/news/how-to-grow-blueberries-on-a-balcony/",
+      "titulo": "Labarai - Yadda ake Shuka blueberries akan baranda",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQH5Ik9f1CKNOOo3YabDz9_LY5u3tJ4DQ58bw&s",
+      "original": "https://www.agriculture-solution.com/uploads/%E5%9B%BE%E7%89%8743.png"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/potted-plant/ha/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKxDAPEWv2HExaB9kaUpfoFJ3LA0Pic-OIuQ&s",
+      "fuentePagina": "https://sunyfarsilkflowers.com/ha/10807.html",
+      "titulo": "wholesale wucin gadi shuka, kaka eucalyptus for tukunya ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKxDAPEWv2HExaB9kaUpfoFJ3LA0Pic-OIuQ&s",
+      "original": "https://sunyfarsilkflowers.com/wp-content/uploads/2022/10/2022100803214042.jpg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/potted-plant/ha/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRP63D36R4brUDM8elP1kaeehS30nTfGeTIRw&s",
+      "fuentePagina": "https://www.miilkiiagrow.com/ha/news/how-to-grow-vegetables-in-a-greenhouse-all-year-long/",
+      "titulo": "Yadda Ake Shuka Kayan Lambu a Cikin Gidan Kore Duk Shekara ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRP63D36R4brUDM8elP1kaeehS30nTfGeTIRw&s",
+      "original": "https://statics.mylandingpages.co/static/aaanxdmf26c522mpaaaaz2wwe7ppkact/image/9164df7062a74f7ab117fde90fe7379a.webp"
+    }
+  ]
+}

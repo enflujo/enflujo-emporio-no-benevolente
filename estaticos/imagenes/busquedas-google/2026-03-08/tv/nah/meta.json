@@ -1,0 +1,71 @@
+{
+  "categoria": "tv",
+  "categoriaSlug": "tv",
+  "idioma": "nah",
+  "nombreIdioma": "Náhuatl",
+  "termino": "televisión",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:21:22.050Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "es",
+    "gl": "mx"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=televisi%C3%B3n&hl=es&gl=mx",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/tv/nah/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFcOIotwQyVNSTP2n00ofMZjA-xpWOjLE5OA&s",
+      "fuentePagina": "https://www.amazon.com.mx/Televisi%C3%B3n-Inteligente-Decodificaci%C3%B3n-Inteligencia-Artificial/dp/B08765QX42",
+      "titulo": "43 Pulgados HD Televisión Digital,1080P TV Inteligente de ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFcOIotwQyVNSTP2n00ofMZjA-xpWOjLE5OA&s",
+      "original": "https://m.media-amazon.com/images/I/715KhA-4rRL._AC_UF1000,1000_QL80_.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/tv/nah/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhn6t_CvX4aHD80yBnY7YWcClDPsbjGve7LQ&s",
+      "fuentePagina": "https://www.rac.mx/producto/television-hisense-de-43-full-hd-smart-tv/",
+      "titulo": "Televisión Hisense de 43'' Full HD | RAC",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhn6t_CvX4aHD80yBnY7YWcClDPsbjGve7LQ&s",
+      "original": "https://www.rac.mx/wp-content/uploads/2024/11/television-hisense-43-pulgadas-full-hd-smart-tv.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/tv/nah/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4XaU-Rh1pyC6IBdBupVou40e7Zgtk5DN_UA&s",
+      "fuentePagina": "https://es.pngtree.com/so/televisi%C3%B3n-de-tubo",
+      "titulo": "Televisión De Tubo PNG Imágenes Y Dibujos Con Fondo ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4XaU-Rh1pyC6IBdBupVou40e7Zgtk5DN_UA&s",
+      "original": "https://png.pngtree.com/png-vector/20250320/ourmid/pngtree-classic-vintage-tv-clipart-old-school-television-png-image_15793935.png"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/tv/nah/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJFgoPWDGa_wrhue40hL15mJv_xJ8j1rt54Q&s",
+      "fuentePagina": "https://www.freepik.es/fotos-vectores-gratis/televisor-dibujo",
+      "titulo": "Imágenes de Televisor dibujo - Descarga gratuita en Freepik",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJFgoPWDGa_wrhue40hL15mJv_xJ8j1rt54Q&s",
+      "original": "https://img.freepik.com/vector-gratis/television-estilo-pop-art-noventa_24877-81774.jpg?semt=ais_rp_50_assets&w=740&q=80"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/tv/nah/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJ0W0ECpsodeci7ql2VAsnXoohr6s2mXK-Tg&s",
+      "fuentePagina": "https://news.samsung.com/mx/descubre-la-evolucion-del-consumo-de-entretenimiento-en-el-dia-mundial-de-la-television",
+      "titulo": "Descubre la evolución del consumo de entretenimiento en el ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJ0W0ECpsodeci7ql2VAsnXoohr6s2mXK-Tg&s",
+      "original": "https://img.global.news.samsung.com/mx/wp-content/uploads/2023/11/dia-tv.png"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/tv/nah/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlrzYfdWPW9N-tRUeMIR2i_GqgyxT2pNBCnA&s",
+      "fuentePagina": "https://www.shutterstock.com/es/search/televisi%C3%B3n",
+      "titulo": "1,3 millones resultados de imágenes, fotos de stock e ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlrzYfdWPW9N-tRUeMIR2i_GqgyxT2pNBCnA&s",
+      "original": "https://www.shutterstock.com/image-photo/modern-tv-set-isolated-on-260nw-2548119265.jpg"
+    }
+  ]
+}

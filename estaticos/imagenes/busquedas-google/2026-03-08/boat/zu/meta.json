@@ -1,0 +1,71 @@
+{
+  "categoria": "boat",
+  "categoriaSlug": "boat",
+  "idioma": "zu",
+  "nombreIdioma": "isiZulu",
+  "termino": "isikebhe",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T20:45:54.055Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "zu",
+    "gl": "za"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=isikebhe&hl=zu&gl=za",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/boat/zu/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRz5cujZ2wzpOXN7bD1dIP2avN62Y9Y_qpeVQ&s",
+      "fuentePagina": "https://www.facebook.com/p/Isikebhe-community-forum-100064326683477/",
+      "titulo": "Isikebhe community forum",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRz5cujZ2wzpOXN7bD1dIP2avN62Y9Y_qpeVQ&s",
+      "original": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=100064326683477"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/boat/zu/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOVBaf2fcuLL6fjeBRvcptUhUOLpeVkidZtg&s",
+      "fuentePagina": "https://www.facebook.com/p/Isikebhe-community-forum-100064326683477/",
+      "titulo": "Isikebhe community forum",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOVBaf2fcuLL6fjeBRvcptUhUOLpeVkidZtg&s",
+      "original": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=302137515133615&get_thumbnail=1"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/boat/zu/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8t4GWobMJ2PBNFgczAS0Ls8QCrS99hfPKnA&s",
+      "fuentePagina": "https://www.tiktok.com/@sandisokwakhe98/video/7519254766690635013",
+      "titulo": "Traditional Healing Practices of Isikebhe",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8t4GWobMJ2PBNFgczAS0Ls8QCrS99hfPKnA&s",
+      "original": "https://www.tiktok.com/api/img/?itemId=7519254766690635013&location=0&aid=1988"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/boat/zu/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRa6EHzKr9Nyn9kWmjZ4BA8U1CpL8U_jbjwLA&s",
+      "fuentePagina": "https://www.youtube.com/watch?v=eIaV7jRQDHA",
+      "titulo": "NKR - Isikebhe (feat Wandile) - Single | #afropop #sound",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRa6EHzKr9Nyn9kWmjZ4BA8U1CpL8U_jbjwLA&s",
+      "original": "https://i.ytimg.com/vi/eIaV7jRQDHA/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AHOBYAC0AWKAgwIABABGE0gZShPMA8=&rs=AOn4CLCBKUgRCCP71fv9jQLP7r0vXmYy-g"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/boat/zu/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjT1e49WKXV4T9Z3HRENxHOX3BWyjdJU-hlw&s",
+      "fuentePagina": "https://x.com/Buyisekhaya/status/1582845245217132544",
+      "titulo": "Themba V Phakathi's Video on X",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjT1e49WKXV4T9Z3HRENxHOX3BWyjdJU-hlw&s",
+      "original": "https://pbs.twimg.com/ext_tw_video_thumb/1582819826166337543/pu/img/9zSfL4ZwIjPk7Avp.jpg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/boat/zu/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSx8r0qjR_p0UItJZTDWnA0Wgouu2TR8ht7Aw&s",
+      "fuentePagina": "https://www.qualibooks.co.za/bookstore/fiction/isikebhe-esiyicembe/?srsltid=AfmBOoparP0-NEasobfIjVnHPkoAsdb8UvbEwP5x_JxTFHgo-uXkc_Dd",
+      "titulo": "Isikebhe esiyicembe",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSx8r0qjR_p0UItJZTDWnA0Wgouu2TR8ht7Aw&s",
+      "original": "https://www.qualibooks.co.za/wp-content/uploads/2023/10/9781779802309_cover.jpg"
+    }
+  ]
+}

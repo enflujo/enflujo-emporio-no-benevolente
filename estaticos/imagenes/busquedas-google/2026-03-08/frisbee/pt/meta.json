@@ -1,0 +1,71 @@
+{
+  "categoria": "frisbee",
+  "categoriaSlug": "frisbee",
+  "idioma": "pt",
+  "nombreIdioma": "Português",
+  "termino": "frisbee",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T20:59:58.528Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "pt",
+    "gl": "br"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=frisbee&hl=pt&gl=br",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/frisbee/pt/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS--HEhij0TKL78qgkqH35e9zEN_BEmFFmq6A&s",
+      "fuentePagina": "https://zabcafe.com/en/products/frizbee-cafelimo?srsltid=AfmBOoo2f_1y1viPewK62ybpCNKvvpMb9Lixc_YSuWqYCT5qYDRV5sfa",
+      "titulo": "Cafélimo Frisbee – Zab Café",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS--HEhij0TKL78qgkqH35e9zEN_BEmFFmq6A&s",
+      "original": "https://zabcafe.com/cdn/shop/files/frisbee-cafelimo-sky.jpg?v=1748348264&width=1200"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/frisbee/pt/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSw2nVC9rQBB1wB5O3yrBGY6nYSMRVZeauFFw&s",
+      "fuentePagina": "https://www.pistaecampo.com.br/frisbee-de-pvc-pista-e-campo.html",
+      "titulo": "Frisbee de plástico para recreação Pista e Campo",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSw2nVC9rQBB1wB5O3yrBGY6nYSMRVZeauFFw&s",
+      "original": "https://www.pistaecampo.com.br/media/catalog/product/cache/8707f1ee35bea7704420a99b1b71b952/f/r/frisbee_disco01.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/frisbee/pt/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOPPeUYRXc0mWVFPbMztz_8WmpOi3qORN0Uw&s",
+      "fuentePagina": "https://en.wikipedia.org/wiki/Frisbee",
+      "titulo": "Frisbee - Wikipedia",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOPPeUYRXc0mWVFPbMztz_8WmpOi3qORN0Uw&s",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Frisbee_090719.jpg/500px-Frisbee_090719.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/frisbee/pt/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdwodbmrVoOxkp0Pkjnbign4QYu1Jr16bi1w&s",
+      "fuentePagina": "https://www.decathlon.ph/p/ultimate-disc-original-175g-white-tribord-8590276.html",
+      "titulo": "Ultimate Disc Original 175g - White",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdwodbmrVoOxkp0Pkjnbign4QYu1Jr16bi1w&s",
+      "original": "https://contents.mediadecathlon.com/p2140421/k$2317974123b07ccd65c829aad67cefb9/ultimate-disc-original-175g-white-tribord-8590276.jpg?f=1920x0&format=auto"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/frisbee/pt/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1qS7TveaEkY5vyR0fBOiBrdI72PsAsM4btA&s",
+      "fuentePagina": "https://www.rochaesportes.com.br/disco-de-frisbee-d90-tribord-pr-9717-354638.htm?srsltid=AfmBOopk4Bsd9bkztR-uLC9CvMnxChuwdiZOZpiGQXNKrEpvWAqI1zes",
+      "titulo": "Disco de Frisbee D90 Tribord",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1qS7TveaEkY5vyR0fBOiBrdI72PsAsM4btA&s",
+      "original": "https://images.tcdn.com.br/img/img_prod/354638/disco_de_frisbee_d90_tribord_9717_2_20200228145517.jpg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/frisbee/pt/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9RTP2ChcpilG_NId66paOjuroNbXIiy9DfA&s",
+      "fuentePagina": "https://www.amazon.com.br/Frisbee-Pet-Brinquedo-Cachorro-Aerodin%C3%A2mico/dp/B0D9WRZ44M",
+      "titulo": "Frisbee Pet Brinquedo Cachorro Aerodinâmico Disco Big Bull para Porte  Grande (Amarelo) | Amazon.com.br",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9RTP2ChcpilG_NId66paOjuroNbXIiy9DfA&s",
+      "original": "https://m.media-amazon.com/images/I/61+oCTG2WKL._AC_UF1000,1000_QL80_.jpg"
+    }
+  ]
+}

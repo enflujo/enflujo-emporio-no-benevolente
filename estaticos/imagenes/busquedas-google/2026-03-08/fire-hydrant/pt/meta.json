@@ -1,0 +1,71 @@
+{
+  "categoria": "fire hydrant",
+  "categoriaSlug": "fire-hydrant",
+  "idioma": "pt",
+  "nombreIdioma": "Português",
+  "termino": "hidrante",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T20:47:32.377Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "pt",
+    "gl": "br"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=hidrante&hl=pt&gl=br",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/fire-hydrant/pt/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStvj5e0z9uDd0zS4JJitAZLC1SOB9oyHGhKw&s",
+      "fuentePagina": "https://www.gifel.com.br/o-que-e-e-como-funciona-um-hidrante/",
+      "titulo": "O que é e como funciona um Hidrante | GIFEL - Engenharia de ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStvj5e0z9uDd0zS4JJitAZLC1SOB9oyHGhKw&s",
+      "original": "https://www.gifel.com.br/wp-content/uploads/2016/09/hidrante.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/fire-hydrant/pt/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTL3rvLlc08vWw31tM24ALFAb5wI4jxLAwGxQ&s",
+      "fuentePagina": "https://www.bucka.com.br/como-funciona-um-hidrante/",
+      "titulo": "Como funciona um hidrante? | Bucka",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTL3rvLlc08vWw31tM24ALFAb5wI4jxLAwGxQ&s",
+      "original": "https://www.bucka.com.br/wp-content/uploads/2017/10/Como-funciona-um-hidrante-1.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/fire-hydrant/pt/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3AnNkFmTXuyQ8TcYrxESGPzsSoHvG4gaRHQ&s",
+      "fuentePagina": "https://www.firex.com.br/hidrantes/hidrante-urbano-de-coluna.html",
+      "titulo": "Hidrante Urbano de Coluna - Hidrantes - Firex",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3AnNkFmTXuyQ8TcYrxESGPzsSoHvG4gaRHQ&s",
+      "original": "https://www.firex.com.br/imagens/produtos/HIDRAULICA/hidrante-de-coluna-urbano-2368_2369.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/fire-hydrant/pt/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBdxmtSbkUCDnfKQggS9faIvHNmAV9vZAJZw&s",
+      "fuentePagina": "https://www.bucka.com.br/funcao-dos-hidrantes-no-combate-a-incendios/",
+      "titulo": "Função dos hidrantes no combate a incêndios | Bucka",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBdxmtSbkUCDnfKQggS9faIvHNmAV9vZAJZw&s",
+      "original": "https://www.bucka.com.br/wp-content/uploads/2012/10/hidrante-vermelho.jpg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/fire-hydrant/pt/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrt0lIFg-9cK3AE-X0giaeJm1P0H3LzWgH-g&s",
+      "fuentePagina": "https://bombeiros.com.br/hidrante-parede/",
+      "titulo": "Hidrante de parede - Bombeiros.com.br",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrt0lIFg-9cK3AE-X0giaeJm1P0H3LzWgH-g&s",
+      "original": "https://bombeiros.com.br/wp-content/uploads/2019/10/hidrante-incendio.jpg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/fire-hydrant/pt/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0LJJrGzD5bnOVHYtVoa-BIKhBbuNlINkTPg&s",
+      "fuentePagina": "https://www.inovefingerboards.com.br/miniatura-hidrante-3d-inove?srsltid=AfmBOorFKMcJGOk0wlAPUuevSlC6GIPoR8-gSid658a9ognptQAhNpOH",
+      "titulo": "Miniatura Hidrante de Impressão 3D Inove",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0LJJrGzD5bnOVHYtVoa-BIKhBbuNlINkTPg&s",
+      "original": "https://www.inovefingerboards.com.br/produtos/20250609_104934_lixeira+hidrante_0003_hidrante1.png"
+    }
+  ]
+}

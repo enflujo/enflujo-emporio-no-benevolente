@@ -1,0 +1,71 @@
+{
+  "categoria": "truck",
+  "categoriaSlug": "truck",
+  "idioma": "kg",
+  "nombreIdioma": "Kikongo",
+  "termino": "kamion",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T20:45:00.852Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "fr",
+    "gl": "cd"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=kamion&hl=fr&gl=cd",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/truck/kg/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQoXDrFNHu6qsuoyy28CzgVDf8xSUXwjYHeyQ&s",
+      "fuentePagina": "https://cs.wikipedia.org/wiki/Kamion",
+      "titulo": "Kamion – Wikipedie",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQoXDrFNHu6qsuoyy28CzgVDf8xSUXwjYHeyQ&s",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/3/34/Renault_T-Truck_-_E_5958KC.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/truck/kg/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwPkg6Q3LtIX5vzXs0nLceRDQqdKZcs9y7NQ&s",
+      "fuentePagina": "https://www.facebook.com/kamionsofor/photos/",
+      "titulo": "Kamion (@kamionsofor) • Facebook",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwPkg6Q3LtIX5vzXs0nLceRDQqdKZcs9y7NQ&s",
+      "original": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=100064901881457"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/truck/kg/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXSFbMGIFp5pq2JZlfISCSAvKHEoV3yozWQw&s",
+      "fuentePagina": "https://www.instagram.com/p/C89eKT7N9ip/",
+      "titulo": "Kamion 4 Aks Mercedez benz 4144 Viti 2008 km 400000 km Tel ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXSFbMGIFp5pq2JZlfISCSAvKHEoV3yozWQw&s",
+      "original": "https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3404009536853783747"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/truck/kg/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8MrQ2HH3ZkHfK3Olzj0jZ6dpn8FtOOWl0rQ&s",
+      "fuentePagina": "https://www.facebook.com/cruzo74/",
+      "titulo": "kamion truck (@cruzo74) • Facebook",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8MrQ2HH3ZkHfK3Olzj0jZ6dpn8FtOOWl0rQ&s",
+      "original": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=100068842975605"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/truck/kg/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBBPl62peJSQnneUi4urJMRivaiu1QGZdYPw&s",
+      "fuentePagina": "https://bs.wikipedia.org/wiki/Kamion",
+      "titulo": "Kamion - Wikipedia",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBBPl62peJSQnneUi4urJMRivaiu1QGZdYPw&s",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Mercedes_Benz_Actros_MP_IV_%281%29.jpg/250px-Mercedes_Benz_Actros_MP_IV_%281%29.jpg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/truck/kg/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8GUiPFXImflpotz5egWdALUGVIrMWv2nalA&s",
+      "fuentePagina": "https://ba.ownacechina.com/heavy-duty-truck/heavy-duty-lorry-truck/shacman-f3000-8-4-lorry-truck.html",
+      "titulo": "Kina Prilagođeni proizvođači kamiona Shacman F3000 8 × 4 ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8GUiPFXImflpotz5egWdALUGVIrMWv2nalA&s",
+      "original": "https://ba.ownacechina.com/uploads/202132922/shacman-f3000-8-4-lorry-truck12363622075.jpg"
+    }
+  ]
+}

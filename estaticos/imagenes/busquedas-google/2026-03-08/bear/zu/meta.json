@@ -1,0 +1,71 @@
+{
+  "categoria": "bear",
+  "categoriaSlug": "bear",
+  "idioma": "zu",
+  "nombreIdioma": "isiZulu",
+  "termino": "ibhere",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T20:54:25.340Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "zu",
+    "gl": "za"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=ibhere&hl=zu&gl=za",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bear/zu/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJ2rpdg_bNxqNzHKLhfFLxEB3oIWGwWj9rlw&s",
+      "fuentePagina": "https://ibhereprojects.co.za/",
+      "titulo": "IBHERE PROJECTS – Comprehensive Services for a Complete Solution",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJ2rpdg_bNxqNzHKLhfFLxEB3oIWGwWj9rlw&s",
+      "original": "https://ibhereprojects.co.za/sitepad-data/uploads/2024/09/Ibhere-1-1.png"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bear/zu/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2-hAVf3MYzi3Urn99rNSs-taksnwmDWrizQ&s",
+      "fuentePagina": "https://ibhereprojects.co.za/",
+      "titulo": "IBHERE PROJECTS – Comprehensive Services for a Complete Solution",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2-hAVf3MYzi3Urn99rNSs-taksnwmDWrizQ&s",
+      "original": "https://ibhereprojects.co.za/sitepad-data/uploads/2024/09/IBHERE-PROJECTS-copy.png"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bear/zu/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6uiXFcCO6TgOgpDEipN5tykeByVOHgXQ4Og&s",
+      "fuentePagina": "https://ibhereprojects.co.za/",
+      "titulo": "IBHERE PROJECTS – Comprehensive Services for a Complete Solution",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6uiXFcCO6TgOgpDEipN5tykeByVOHgXQ4Og&s",
+      "original": "https://ibhereprojects.co.za/sitepad-data/uploads/2024/09/Ibhere-3.png"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bear/zu/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTigrdhaVqpMHiOrBoup1kxp2-35iT4SVh6yw&s",
+      "fuentePagina": "https://ibhereprojects.co.za/",
+      "titulo": "IBHERE PROJECTS – Comprehensive Services for a Complete Solution",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTigrdhaVqpMHiOrBoup1kxp2-35iT4SVh6yw&s",
+      "original": "https://ibhereprojects.co.za/sitepad-data/uploads/2024/09/Ibhere-2-1.png"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bear/zu/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjeZemIJ_4ZFckEqmTVngPP2Wjzo9I5DiIQQ&s",
+      "fuentePagina": "https://ibhereprojects.co.za/",
+      "titulo": "IBHERE PROJECTS – Comprehensive Services for a Complete Solution",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjeZemIJ_4ZFckEqmTVngPP2Wjzo9I5DiIQQ&s",
+      "original": "https://ibhereprojects.co.za/sitepad-data/uploads/2024/09/Ibhere-5.png"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bear/zu/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzMhrTtwwfMrBQ9MZ4-3cF0clPwRePpVELbw&s",
+      "fuentePagina": "https://ibhereprojects.co.za/",
+      "titulo": "IBHERE PROJECTS – Comprehensive Services for a Complete Solution",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzMhrTtwwfMrBQ9MZ4-3cF0clPwRePpVELbw&s",
+      "original": "https://ibhereprojects.co.za/sitepad-data/uploads/2024/09/Ibhere-9.png"
+    }
+  ]
+}

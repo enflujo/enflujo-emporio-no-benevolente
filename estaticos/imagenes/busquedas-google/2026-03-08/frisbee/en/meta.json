@@ -1,0 +1,71 @@
+{
+  "categoria": "frisbee",
+  "categoriaSlug": "frisbee",
+  "idioma": "en",
+  "nombreIdioma": "English",
+  "termino": "frisbee",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T20:59:25.325Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "en",
+    "gl": "us"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=frisbee&hl=en&gl=us",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/frisbee/en/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOPPeUYRXc0mWVFPbMztz_8WmpOi3qORN0Uw&s",
+      "fuentePagina": "https://en.wikipedia.org/wiki/Frisbee",
+      "titulo": "Frisbee - Wikipedia",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOPPeUYRXc0mWVFPbMztz_8WmpOi3qORN0Uw&s",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Frisbee_090719.jpg/500px-Frisbee_090719.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/frisbee/en/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0jJCnFPGRoqjeuGJEJWCntDqBbnWpandHDA&s",
+      "fuentePagina": "https://www.museumofplay.org/toys/frisbee/",
+      "titulo": "Frisbee - The Strong National Museum of Play",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0jJCnFPGRoqjeuGJEJWCntDqBbnWpandHDA&s",
+      "original": "https://www.museumofplay.org/app/uploads/2021/08/Frisbee-sq.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/frisbee/en/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRY8WPB-DaPZq3T33sI_w1Q25El5lg-BLxutw&s",
+      "fuentePagina": "https://www.amazon.com/Wham-Pro-Classic-U-Flex-Frisbee-colors/dp/B0009TNFI6",
+      "titulo": "Amazon.com: Wham-O Pro-Classic U-Flex Frisbee 130g colors ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRY8WPB-DaPZq3T33sI_w1Q25El5lg-BLxutw&s",
+      "original": "https://m.media-amazon.com/images/I/8149-Dsn5mL.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/frisbee/en/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2EU8HLN7QypAfAhDlYwfpqMrrab850X8BPw&s",
+      "fuentePagina": "https://wham-o.com/products/75th-anniversary-frisbee%C2%AE?srsltid=AfmBOopUp_nPrbcU00TvidClXKYDyQnI_SQjevd32tG2LoV_77zMeWOx",
+      "titulo": "Wham-O 75th Anniversary Frisbee® – Wham-O®",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2EU8HLN7QypAfAhDlYwfpqMrrab850X8BPw&s",
+      "original": "https://wham-o.com/cdn/shop/files/75thFrisbeeFrontFlat.jpg?v=1687137960&width=2615"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/frisbee/en/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHfgeluxAwql4gsa68EzcCKvkNeQNEBYrhzA&s",
+      "fuentePagina": "https://www.acefitness.org/continuing-education/prosource/june-2016/5914/ace-sponsored-research-can-you-get-fit-playing-ultimate-frisbee/?srsltid=AfmBOoqX2xjLy1AIQRjuIl2-NBQkrdiLZf4jSv94dS3YNhAbYhOightT",
+      "titulo": "ACE - ProSource™: June 2016 - ACE-SPONSORED RESEARCH: Can ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHfgeluxAwql4gsa68EzcCKvkNeQNEBYrhzA&s",
+      "original": "https://ik.imagekit.io/02fmeo4exvw/June2016/Frisbee_main.jpg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/frisbee/en/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS--HEhij0TKL78qgkqH35e9zEN_BEmFFmq6A&s",
+      "fuentePagina": "https://zabcafe.com/en/products/frizbee-cafelimo?srsltid=AfmBOopcvj6XuvPVsZwd6jggJepPNq6lbobsSqO0jm-ztADm2vQq-itm",
+      "titulo": "Cafélimo Frisbee – Zab Café",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS--HEhij0TKL78qgkqH35e9zEN_BEmFFmq6A&s",
+      "original": "https://zabcafe.com/cdn/shop/files/frisbee-cafelimo-sky.jpg?v=1748348264&width=1200"
+    }
+  ]
+}

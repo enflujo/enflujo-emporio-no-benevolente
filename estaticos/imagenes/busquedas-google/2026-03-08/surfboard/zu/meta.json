@@ -1,0 +1,71 @@
+{
+  "categoria": "surfboard",
+  "categoriaSlug": "surfboard",
+  "idioma": "zu",
+  "nombreIdioma": "isiZulu",
+  "termino": "ibhodi lokusarfa",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:04:55.913Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "zu",
+    "gl": "za"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=ibhodi%20lokusarfa&hl=zu&gl=za",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/surfboard/zu/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDTFgOsIarxYAhgdcyIcrd4WswVcigu3yAug&s",
+      "fuentePagina": "https://isolezwe.co.za/ezemidlalo/ibhola/2023-10-18-umotaung-ufuna-kubuye-usiko-lokunqoba-kwichiefs/",
+      "titulo": "UMotaung ufuna kubuye usiko lokunqoba kwiChiefs",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDTFgOsIarxYAhgdcyIcrd4WswVcigu3yAug&s",
+      "original": "https://iol-prod.appspot.com/image/00cfdc116de6203a0061cb0c69c85aa9a59e75d5/1000/jpeg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/surfboard/zu/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsuPQhaQJ5POcgnncEwHypF3g8D3Ofo3tLIg&s",
+      "fuentePagina": "https://ilaf.co.za/isixhosa-lilifa-uncwadi-lwesixhosa-lilifa/",
+      "titulo": "IsiXhosa lilifa, uncwadi lwesiXhosa lilifa - ILAF",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsuPQhaQJ5POcgnncEwHypF3g8D3Ofo3tLIg&s",
+      "original": "https://ilaf.co.za/wp-content/uploads/2021/10/IsiXhosa-300x260.jpeg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/surfboard/zu/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgRDp0ci-KC2MtB-V76hqArqEfpo_8ldaLZA&s",
+      "fuentePagina": "https://www.cosmeticconnection.co.za/products/ibhodwe-labafazi-25g?srsltid=AfmBOooZRmOIHgi_ZN_MDtxY7JJfljT3LQPPGAdIRt4MuR5_ydyud_2E",
+      "titulo": "Ibhodwe Labafazi Herbal Blend for Female Vitality - Brand ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgRDp0ci-KC2MtB-V76hqArqEfpo_8ldaLZA&s",
+      "original": "http://www.cosmeticconnection.co.za/cdn/shop/products/lulama-ibhodwe-labafazi-25g-33327384887446.jpg?v=1655461351"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/surfboard/zu/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4avAMJCDvjIRe2PgcsvY9he9dV8XUp1YI8Q&s",
+      "fuentePagina": "https://www.facebook.com/UkhoziFMOfficial/posts/namhlanje-usuku-lokuzalwa-lwendlovukazi-yohlelo-ukhozifmvabs-sithanda-ukufisela-/10159358436919398/",
+      "titulo": "Namhlanje usuku lokuzalwa lwendlovukazi yohlelo ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4avAMJCDvjIRe2PgcsvY9he9dV8XUp1YI8Q&s",
+      "original": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=10159358436784398"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/surfboard/zu/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUge4RyTc2rFl_3M-vNbfHvzou_r2nRL6LZg&s",
+      "fuentePagina": "https://westhampharmacy.com/product/indlovu-ibhodo-labafazi-15g/?srsltid=AfmBOoqOioZ-n_zG5obf4dobtjcZ07TlPkLV0LZ-CBDJnGFFTXzxpL6B",
+      "titulo": "INDLOVU IBHODO LABAFAZI 15G – Westham Pharmacy",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUge4RyTc2rFl_3M-vNbfHvzou_r2nRL6LZg&s",
+      "original": "https://westhampharmacy.com/wp-content/uploads/2022/10/05102921-1.jpg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/surfboard/zu/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7ApVpMHqyp-Py6cOy_B1Uj_R1E60qbtTyzw&s",
+      "fuentePagina": "https://www.macmillaneducation.co.za/books/isisombululo-sethu-isixhosa-ibanga-9-incwadi-yokufunda?srsltid=AfmBOordGHU6TBsmFiO5uNw2o7w6BNc02S-k4jw4oKtCVZYrWsY58vjQ",
+      "titulo": "Isisombululo Sethu IsiXhosa Ibanga 9 Incwadi Yokufunda ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7ApVpMHqyp-Py6cOy_B1Uj_R1E60qbtTyzw&s",
+      "original": "https://www.macmillaneducation.co.za/imagecache/book-view/9781431019809.jpg"
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "categoria": "mouse",
+  "categoriaSlug": "mouse",
+  "idioma": "zh",
+  "nombreIdioma": "中文",
+  "termino": "鼠标",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:22:42.703Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "zh-CN",
+    "gl": "cn"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=%E9%BC%A0%E6%A0%87&hl=zh-CN&gl=cn",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/mouse/zh/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQx3qARXQdkyZYhkR35oeGLmLoIWjODSqbNbA&s",
+      "fuentePagina": "https://zh.wikipedia.org/zh-cn/%E9%BC%A0%E6%A0%87",
+      "titulo": "鼠标- 维基百科，自由的百科全书",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQx3qARXQdkyZYhkR35oeGLmLoIWjODSqbNbA&s",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/2/22/3-Tasten-Maus_Microsoft.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/mouse/zh/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQy5Paa5rDg3aG0hKxENOq1Ay3XTJHH1pMx9Q&s",
+      "fuentePagina": "https://rog.asus.com.cn/mice-mouse-pads/mice-series/",
+      "titulo": "鼠标| 电竞鼠标｜ROG - Republic of Gamers｜ASUS中国",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQy5Paa5rDg3aG0hKxENOq1Ay3XTJHH1pMx9Q&s",
+      "original": "https://dlcdnwebimgs.asus.com.cn/gain/781F4693-8352-43CD-90DE-D5ED9B99FCCE/w717/h525"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/mouse/zh/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6SC3GSZtXwBupoiYfTgaI2aabjvHSxaj5Bg&s",
+      "fuentePagina": "https://www.logitech.com/zh-cn/shop/p/m100r-corded-mouse",
+      "titulo": "罗技M100r 有线鼠标",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6SC3GSZtXwBupoiYfTgaI2aabjvHSxaj5Bg&s",
+      "original": "https://resource.logitech.com/w_544,h_466,ar_7:6,c_pad,q_auto,f_auto,dpr_1.0/d_transparent.gif/content/dam/logitech/en/products/mice/m100r/gallery/m100r-midnight-black-gallery-3.png"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/mouse/zh/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYswEivwoUjCaRQxwCbABu_o5MU8dZT3M41A&s",
+      "fuentePagina": "https://www.logitech.com/zh-cn/shop/c/mice",
+      "titulo": "电脑鼠标- 无线鼠标，蓝牙，有线| 罗技",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYswEivwoUjCaRQxwCbABu_o5MU8dZT3M41A&s",
+      "original": "https://resource.logitech.com/w_416,h_312,ar_4:3,c_pad,q_auto,f_auto,dpr_1.0/d_transparent.gif/content/dam/logitech/en/products/mice/mx-master-4-mac/gallery/mx-master-4-mac-space-black-top-angle-gallery-1.png"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/mouse/zh/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJkftKY7mBNG1837gYdWH-_-XH2Rfr5C34QA&s",
+      "fuentePagina": "https://www.microsoftstore.com.cn/surface/surface-mouse",
+      "titulo": "微软Surface鼠标-Surface无线蓝牙鼠标-Surface Mouse-微软官方商城",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJkftKY7mBNG1837gYdWH-_-XH2Rfr5C34QA&s",
+      "original": "https://cdn.microsoftstore.com.cn/media/catalog/product/cache/ebb942237ce05d210b9907bfdb9fc80f/c/o/configure_338338_490.png"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/mouse/zh/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROIcTRZ-v66txMWHOkWdIQI4BVeoOYP9dM4g&s",
+      "fuentePagina": "https://rog.asus.com.cn/mice-mouse-pads/mice-series/",
+      "titulo": "鼠标| 电竞鼠标｜ROG - Republic of Gamers｜ASUS中国",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROIcTRZ-v66txMWHOkWdIQI4BVeoOYP9dM4g&s",
+      "original": "https://dlcdnwebimgs.asus.com.cn/gain/D4B714E3-09E2-45D3-BBD5-D75CE3FDDD6C/w717/h525"
+    }
+  ]
+}

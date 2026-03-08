@@ -1,0 +1,71 @@
+{
+  "categoria": "donut",
+  "categoriaSlug": "donut",
+  "idioma": "ha",
+  "nombreIdioma": "Hausa",
+  "termino": "beignet",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:15:46.050Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "ha",
+    "gl": "ng"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=beignet&hl=ha&gl=ng",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/donut/ha/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDARBOlLRpQ7EklGNKyunsbvmRvetmwUPDKA&s",
+      "fuentePagina": "https://www.biggerbolderbaking.com/homemade-beignets/",
+      "titulo": "Baked Easy Beignets",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDARBOlLRpQ7EklGNKyunsbvmRvetmwUPDKA&s",
+      "original": "https://www.biggerbolderbaking.com/wp-content/uploads/2016/05/Baked-Beignets-thumbnail.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/donut/ha/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHruwIwMU2ow3K5DBq5B29PjsSQkTrQbAKkQ&s",
+      "fuentePagina": "https://www.allrecipes.com/recipe/7179/beignets/",
+      "titulo": "Beignets",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHruwIwMU2ow3K5DBq5B29PjsSQkTrQbAKkQ&s",
+      "original": "https://www.allrecipes.com/thmb/hKFUyVfr92RDNlZyBUoR1xMkk4M=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/7179-beignets-VAT-014-4x3-205f030f178a42c48a0e04b17d4e94f8.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/donut/ha/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEb3Dx7-jrFj43zKXtFcpoRVSwFRGFI8LFvA&s",
+      "fuentePagina": "https://www.seriouseats.com/beignets-recipe-8788234",
+      "titulo": "Homemade Beignets",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEb3Dx7-jrFj43zKXtFcpoRVSwFRGFI8LFvA&s",
+      "original": "https://www.seriouseats.com/thmb/LiErOBBTvg6x8BhKJV9n0Pr979g=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/20241205-SEA-Beignets-RobbieLozano-Hero1-73-b7e7b10a95944fffa2ebc73a841e0bed.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/donut/ha/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzprmz2wGx7TvHhbLwQRjXFvyle6C-Auw0_g&s",
+      "fuentePagina": "https://beplantwell.com/vegan-beignets/",
+      "titulo": "Vegan Beignets",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzprmz2wGx7TvHhbLwQRjXFvyle6C-Auw0_g&s",
+      "original": "https://beplantwell.com/wp-content/uploads/2022/11/IMG_7762.jpg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/donut/ha/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEQG_jcPsygej-t8ZBqHczWdTY3Rw__jwdrw&s",
+      "fuentePagina": "https://en.wikipedia.org/wiki/Beignet",
+      "titulo": "Beignet - Wikipedia",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEQG_jcPsygej-t8ZBqHczWdTY3Rw__jwdrw&s",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/BeignetsCafeDuMonde.jpg/1280px-BeignetsCafeDuMonde.jpg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/donut/ha/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5dBNz78b0MMDdMaQwxT0LnUJn9lknWbPESw&s",
+      "fuentePagina": "https://lenoxbakery.com/beignets/",
+      "titulo": "Beignets",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5dBNz78b0MMDdMaQwxT0LnUJn9lknWbPESw&s",
+      "original": "https://lenoxbakery.com/wp-content/uploads/2019/03/beignets.jpg"
+    }
+  ]
+}

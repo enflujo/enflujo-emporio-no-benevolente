@@ -1,0 +1,71 @@
+{
+  "categoria": "suitcase",
+  "categoriaSlug": "suitcase",
+  "idioma": "rw",
+  "nombreIdioma": "Kinyarwanda",
+  "termino": "umufuko w'urugendo",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T20:58:50.159Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "en",
+    "gl": "rw"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=umufuko%20w'urugendo&hl=en&gl=rw",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/suitcase/rw/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAm9LL3j_UOSaCvhk-8KsgGJ-jsLl9uYU-lw&s",
+      "fuentePagina": "https://www.instagram.com/p/DKFZlZ7MzUB/",
+      "titulo": "Yuko Ogasawara afatwa nk'umuntu ukina filime z'urukozasoni ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAm9LL3j_UOSaCvhk-8KsgGJ-jsLl9uYU-lw&s",
+      "original": "https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3833749896742905199"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/suitcase/rw/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLaYGpwbtN0prdxlG5B1v1v6iua4K3WduxHA&s",
+      "fuentePagina": "https://www.deezer.com/en/album/287261632",
+      "titulo": "Mkombozi Luxfer - URUKUNDO (feat. T MWAFRIKA) | Deezer",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLaYGpwbtN0prdxlG5B1v1v6iua4K3WduxHA&s",
+      "original": "https://cdn-images.dzcdn.net/images/cover/38e3b3ce29015c5f24dddb5e722e332f/1900x1900-000000-80-0-0.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/suitcase/rw/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCbfbABdvX7hXiqjhl5citLTSltFPk5ZT4EQ&s",
+      "fuentePagina": "https://www.facebook.com/photo.php?fbid=1440734306057482&set=a.310304632433794&id=100064439306293",
+      "titulo": "Amafoto Urukundo no Gusetsa... - Amafoto Urukundo no Gusetsa",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCbfbABdvX7hXiqjhl5citLTSltFPk5ZT4EQ&s",
+      "original": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=1440734306057482"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/suitcase/rw/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvFlCCGY0GoCPQeu0vqj2fvefLyAynP04rVw&s",
+      "fuentePagina": "https://www.instagram.com/p/DKFZlZ7MzUB/",
+      "titulo": "Yuko Ogasawara afatwa nk'umuntu ukina filime z'urukozasoni ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvFlCCGY0GoCPQeu0vqj2fvefLyAynP04rVw&s",
+      "original": "https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3844797654245084784"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/suitcase/rw/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkvgZA1rEBUd10ws-TicQu4HwBltc1P5-Jpg&s",
+      "fuentePagina": "https://www.facebook.com/1541734479425197/photos/amagarayacu-kuyorwa-uri-ku-rugendobirakunze-kuboneka-kumuntu-afata-urugendo-mu-m/1667244273540883/?locale=it_IT",
+      "titulo": "Yaga - #AmagaraYacu: Kuyorwa uri ku rugendo. Birakunze ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkvgZA1rEBUd10ws-TicQu4HwBltc1P5-Jpg&s",
+      "original": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=1667244273540883"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/suitcase/rw/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5OQUSn_WpISwotCjz8lnoKFLHvOa0dFwzyA&s",
+      "fuentePagina": "https://www.facebook.com/Umuseke.rw/posts/amafoto-meddy-numukunzi-we-bagaragaje-ko-urukundo-rwabo-rukiri-umunyengahttpsumu/3761857447175841/",
+      "titulo": "AMAFOTO: Meddy n'umukunzi we bagaragaje ko urukundo rwabo ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5OQUSn_WpISwotCjz8lnoKFLHvOa0dFwzyA&s",
+      "original": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=3761857210509198"
+    }
+  ]
+}

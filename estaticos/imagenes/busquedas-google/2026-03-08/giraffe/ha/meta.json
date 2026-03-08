@@ -1,0 +1,71 @@
+{
+  "categoria": "giraffe",
+  "categoriaSlug": "giraffe",
+  "idioma": "ha",
+  "nombreIdioma": "Hausa",
+  "termino": "raƙumi",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T20:55:36.513Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "ha",
+    "gl": "ng"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=ra%C6%99umi&hl=ha&gl=ng",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/giraffe/ha/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfg3YGtoMmm6D_0EgPFINmPvwMpD8mlH_IDA&s",
+      "fuentePagina": "https://ha.wikipedia.org/wiki/Ra%C6%99umi",
+      "titulo": "Raƙumi - Wikipedia",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfg3YGtoMmm6D_0EgPFINmPvwMpD8mlH_IDA&s",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/b/b1/Chameau_de_bactriane.JPG"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/giraffe/ha/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRw6VJJLSrodecIt7rkajqqjfCK81hoR5oTug&s",
+      "fuentePagina": "https://hausadictionary.com/ra%C6%99umi",
+      "titulo": "raƙumi - HausaDictionary.com | Hausa English Translations",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRw6VJJLSrodecIt7rkajqqjfCK81hoR5oTug&s",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/07._Camel_Profile%2C_near_Silverton%2C_NSW%2C_07.07.2007.jpg/330px-07._Camel_Profile%2C_near_Silverton%2C_NSW%2C_07.07.2007.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/giraffe/ha/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKDlCyY2GYP8jNbF1BUq_l53h6YWm6uFOIcQ&s",
+      "fuentePagina": "https://ha.wikipedia.org/wiki/Ra%C6%99umi",
+      "titulo": "Raƙumi - Wikipedia",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKDlCyY2GYP8jNbF1BUq_l53h6YWm6uFOIcQ&s",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Camel_seitlich_trabend.jpg/250px-Camel_seitlich_trabend.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/giraffe/ha/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSglLfN2Nv1o9N_u3FQrZ1JZdz4XofyoQtNrg&s",
+      "fuentePagina": "https://ha.wikipedia.org/wiki/Ra%C6%99umi",
+      "titulo": "Raƙumi - Wikipedia",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSglLfN2Nv1o9N_u3FQrZ1JZdz4XofyoQtNrg&s",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Camelmomandbaby.jpg/250px-Camelmomandbaby.jpg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/giraffe/ha/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKGJVvsxmhiD08uhUgA4RbOwZdkdVci_uNJw&s",
+      "fuentePagina": "https://glosbe.com/ha/en/ra%C6%99umi",
+      "titulo": "raƙumi in English - Hausa-English Dictionary | Glosbe",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKGJVvsxmhiD08uhUgA4RbOwZdkdVci_uNJw&s",
+      "original": "https://glosbe.com/fb_img/profilePageAvatar/jt335376_Wahiba_Sands_-25-.jpg.cvrt.jpg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/giraffe/ha/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQka9Rv-47P37SSwvkL6hHD1xk_yX-Qbk7rWQ&s",
+      "fuentePagina": "https://www.facebook.com/photo.php?fbid=10159299282597608&set=a.581062257531804&id=100068841052037",
+      "titulo": "BBC - Wane kirari ne Bahaushe yake yi wa raƙumi? | Facebook",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQka9Rv-47P37SSwvkL6hHD1xk_yX-Qbk7rWQ&s",
+      "original": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=10159299282597608"
+    }
+  ]
+}

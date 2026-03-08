@@ -1,0 +1,71 @@
+{
+  "categoria": "umbrella",
+  "categoriaSlug": "umbrella",
+  "idioma": "es",
+  "nombreIdioma": "Español",
+  "termino": "paraguas",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T20:57:21.160Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "es",
+    "gl": "es"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=paraguas&hl=es&gl=es",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/umbrella/es/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYgD_aEp_js5MJpuLQUTU_OWEibYaqivUMGg&s",
+      "fuentePagina": "https://www.aktive.es/deportes/otros-deportes/sombrilla-paraguas-8-varillas-150-cm-rojo",
+      "titulo": "Sombrilla paraguas Sport 8 varillas 150 cm rojo | Aktive",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYgD_aEp_js5MJpuLQUTU_OWEibYaqivUMGg&s",
+      "original": "https://www.aktive.es/11887/sombrilla-paraguas-8-varillas-150-cm-rojo.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/umbrella/es/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzipkpt0Ncyy-_OBXlYyyGsegAnuaxdghLiQ&s",
+      "fuentePagina": "https://www.regalospublicitarios.com/paraguas-luxe-antiviento-23-new-quay?srsltid=AfmBOoq0FWVTdV6qViaoftjlko7xugNvgOuezLxxhembXJsBLIiso-ug",
+      "titulo": "Paraguas antiviento automático con Ø 102 cm New Quay",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzipkpt0Ncyy-_OBXlYyyGsegAnuaxdghLiQ&s",
+      "original": "https://cdn1.midocean.com/image/700X700/mo8776-37.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/umbrella/es/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS24_4W8XpIeWdn73X_WKXhsydt5HfRVyGOLQ&s",
+      "fuentePagina": "https://www.clima.es/paraguas-mujer-bisetti-dots-rojo-3428r?srsltid=AfmBOoq-QPkIOeAIjMBKQxVAp-SgGdB65ZsqZNh3szhD139sI25XdA6t",
+      "titulo": "Paraguas largo para mujer rojo - Dots",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS24_4W8XpIeWdn73X_WKXhsydt5HfRVyGOLQ&s",
+      "original": "https://www.clima.es/cdnassets/3428R-O_l-2.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/umbrella/es/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuhnvD2NIVS6gdPVwB0Eqo5PQddbGORi4uug&s",
+      "fuentePagina": "https://lasmaletas.es/largos/769-paraguas-de-caballero-puno-madera.html",
+      "titulo": "Paraguas de caballero M&P gris puño bambú | LasMaletas.es ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuhnvD2NIVS6gdPVwB0Eqo5PQddbGORi4uug&s",
+      "original": "https://lasmaletas.es/12602-large_default/paraguas-de-caballero-puno-madera.jpg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/umbrella/es/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZ1d_-Qc1arO_f5gNNhHKQrqj8BmzK6tu36g&s",
+      "fuentePagina": "https://www.carrefour.es/paraguas-plegable-automatico-multicolor-124-cm-vidaxl/8720286345115/p",
+      "titulo": "Paraguas Plegable Automático Multicolor 124 Cm Vidaxl",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZ1d_-Qc1arO_f5gNNhHKQrqj8BmzK6tu36g&s",
+      "original": "https://storage.googleapis.com/catalog-pictures-carrefour-es/catalog/pictures/hd_510x_/8720286345115_1.jpg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/umbrella/es/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxAsqsEmTqjAU3Xy_qvxmnZFfqDH9DvDxYcA&s",
+      "fuentePagina": "https://www.regalospublicitarios.com/paraguas-de-27-swansea-plus?srsltid=AfmBOoqlM5O-LTepxIm2WFpK6WDQMHz_p54_kXWMlu1IolQnJilVHMrE",
+      "titulo": "Comprar Paraguas grande de golf automático con Publicitario",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxAsqsEmTqjAU3Xy_qvxmnZFfqDH9DvDxYcA&s",
+      "original": "https://www.regalospublicitarios.com/52149-thickbox_default/paraguas-de-27-swansea-plus.jpg"
+    }
+  ]
+}

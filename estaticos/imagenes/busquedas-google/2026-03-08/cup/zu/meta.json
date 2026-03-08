@@ -1,0 +1,71 @@
+{
+  "categoria": "cup",
+  "categoriaSlug": "cup",
+  "idioma": "zu",
+  "nombreIdioma": "isiZulu",
+  "termino": "inkomishi",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:07:34.545Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "zu",
+    "gl": "za"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=inkomishi&hl=zu&gl=za",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/cup/zu/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrVizF661PALBOwI6sga78yTzNXWpR6I3GgQ&s",
+      "fuentePagina": "https://zulu.zzhcmy.com/Inkomishi-yomlomo-yezinga-eliphezulu-eYurophu/inkomishi-yenkomishi-yangokwezifiso-koqweqwe-lwawo-inkomishi-koqweqwe-lwawo-lwenkomishi-ye-mugenamel-hcmg-5612",
+      "titulo": "Inkomishi yoqweqwe lwangokwezifiso inkomishi / inkomishi ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrVizF661PALBOwI6sga78yTzNXWpR6I3GgQ&s",
+      "original": "https://www.zzhcmy.com/upload/product/1680766908660205.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/cup/zu/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtaZhzhG_YEEc-vG74RpEWdcc3nMu2O4_9wQ&s",
+      "fuentePagina": "https://www.garbotableware.com/zu/ceramic-cup/320ml-stoneware-coffee-mug-with-light-brown-color-glazed-and-decal-printing.html",
+      "titulo": "320ml inkomishi yekhofi ye-stoneware enombala onsundu ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtaZhzhG_YEEc-vG74RpEWdcc3nMu2O4_9wQ&s",
+      "original": "https://www.garbotableware.com/data/watermark/20230804/64ccbbd257888.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/cup/zu/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4b1Y0rIQUbyg_o-Ky3mAnBaI6llV92ke6PQ&s",
+      "fuentePagina": "https://www.youtube.com/watch?v=OZqeIE3m6UI",
+      "titulo": "Ukuphupha inkomishi | @pastorweningi",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4b1Y0rIQUbyg_o-Ky3mAnBaI6llV92ke6PQ&s",
+      "original": "https://i.ytimg.com/vi/OZqeIE3m6UI/maxresdefault.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/cup/zu/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9zNe0amvC1Dvc1fzNNZusqxRfibKGhj7cxw&s",
+      "fuentePagina": "https://zulu.zzhcmy.com/Inkomishi-yomlomo-yezinga-eliphezulu-eYurophu/inkomishi-yenkomishi-yangokwezifiso-koqweqwe-lwawo-inkomishi-koqweqwe-lwawo-lwenkomishi-ye-mugenamel-hcmg-5612",
+      "titulo": "Inkomishi yoqweqwe lwangokwezifiso inkomishi / inkomishi ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9zNe0amvC1Dvc1fzNNZusqxRfibKGhj7cxw&s",
+      "original": "https://www.zzhcmy.com/upload/product/1680766906935667.jpg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/cup/zu/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSn1Wza94IvfTTvKiTJK059jRMKyzxZmaM-uQ&s",
+      "fuentePagina": "https://www.wayandfarer.com/zu/i-tableware/izinkomishi-zokukhempa-a/izinkomishi-ezimhlophe-koqweqwe-lwawo/?srsltid=AfmBOopPkVuEgiXbfW7Vjbt_qgOgukm_E3poYwPcozZ5hMv8gh5pjdV7",
+      "titulo": "2x Inkomishi Yoqweqwe Olumhlophe | Isethi Yezinkomishi Ezi-2 ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSn1Wza94IvfTTvKiTJK059jRMKyzxZmaM-uQ&s",
+      "original": "https://www.wayandfarer.com/wp-content/uploads/2021/01/2-tone-Olive-Enamel-Mug-9-scaled.jpeg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/cup/zu/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRT0I_AYJ2fiu129VciWlWgRmoZBdHv9UF6SQ&s",
+      "fuentePagina": "https://www.wayandfarer.com/zu/i-tableware/izinkomishi-zokukhempa-a/inkomishi-koqweqwe-lwawo/?srsltid=AfmBOooLV1GSqj1vdni-hB_Trpt9p-7sIObm7PwfN88qmg8q-cgwLG7g",
+      "titulo": "Inkomishi yoqweqwe lwawo - Isethi yoku-2 | Izinkomishi ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRT0I_AYJ2fiu129VciWlWgRmoZBdHv9UF6SQ&s",
+      "original": "https://www.wayandfarer.com/wp-content/uploads/2020/02/Enamal-Mugs2.jpg"
+    }
+  ]
+}

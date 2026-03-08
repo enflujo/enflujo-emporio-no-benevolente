@@ -1,0 +1,71 @@
+{
+  "categoria": "parking meter",
+  "categoriaSlug": "parking-meter",
+  "idioma": "am",
+  "nombreIdioma": "Amharic — አማርኛ",
+  "termino": "የመኪና ሰዓት",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T20:48:32.835Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "am",
+    "gl": "et"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=%E1%8B%A8%E1%88%98%E1%8A%AA%E1%8A%93%20%E1%88%B0%E1%8B%93%E1%89%B5&hl=am&gl=et",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/parking-meter/am/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ045Nlj4MolgvuaPhD-Zd7Tem7pYJf9sfbpQ&s",
+      "fuentePagina": "https://www.facebook.com/abyssiniacar/posts/%E1%89%A0%E1%8A%A0%E1%88%81%E1%8A%91-%E1%88%B0%E1%8B%93%E1%89%B5-%E1%8B%A8%E1%88%98%E1%8A%AA%E1%8A%93-%E1%89%BB%E1%88%8C%E1%8A%95%E1%8C%85-%E1%8B%A8%E1%8A%A2%E1%89%B5%E1%8B%AE%E1%8C%B5%E1%8B%AB%E1%8A%95-%E1%88%9B%E1%88%85%E1%89%A0%E1%88%AB%E1%8B%8A-%E1%88%9A%E1%8B%B2%E1%8B%AB-%E1%89%A0%E1%8A%A8%E1%8D%8D%E1%89%B0%E1%8A%9B-%E1%88%81%E1%8A%94%E1%89%B3-%E1%8A%A5%E1%8B%AB%E1%8A%90%E1%8C%8B%E1%8C%88%E1%88%A8-%E1%8B%AD%E1%8C%88%E1%8A%9B%E1%88%8D-%E1%8A%A5%E1%8A%95%E1%8B%B0-%E1%8A%A0%E1%8B%B6%E1%8A%93%E1%8B%AD-%E1%8B%AB%E1%88%89-%E1%8B%88%E1%8C%A3%E1%89%B6%E1%89%BD-%E1%8B%B5%E1%88%AD%E1%8C%85%E1%89%B6/1384364670368886/",
+      "titulo": "በአሁኑ ሰዓት \"የመኪና ቻሌንጅ\" የኢትዮጵያን ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ045Nlj4MolgvuaPhD-Zd7Tem7pYJf9sfbpQ&s",
+      "original": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=1384364633702223"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/parking-meter/am/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWb_EB0ilXUCmaBlArNp1OkwLSI4TM2N4W_A&s",
+      "fuentePagina": "https://www.autokingsteel.com/am/product/for-nissan-altima-kicks-2018-2022-car-parts-auto-steering-wheel-hairspring-spiral-clock-spring-coil-airbag-spiral-cable-25554-6ca2a-255546ca2a/",
+      "titulo": "ለኒሳን አልቲማ ኪክስ 2018-2022 የመኪና መለዋወጫ ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWb_EB0ilXUCmaBlArNp1OkwLSI4TM2N4W_A&s",
+      "original": "https://www.autokingsteel.com/wp-content/uploads/2024/08/25554-6ca2a-8-.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/parking-meter/am/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR53JyxyEcWnVu1Gq70ZyaQGhB0JacvX5EvXQ&s",
+      "fuentePagina": "http://am.saicmgautoparts.com/saic-maxus-g10-new-auto-parts-car-spare-clock-spring-c00016930-c00016929-power-system-auto-parts-supplier-wholesale-maxus-catalog-cheaper-factory-price-product/",
+      "titulo": "China SAIC MAXUS G10 አዲስ የመኪና ክፍሎች የመኪና ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR53JyxyEcWnVu1Gq70ZyaQGhB0JacvX5EvXQ&s",
+      "original": "http://www.saicmgautoparts.com/uploads/AIR-BALANCE-SPRING-C00016930-C000169291.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/parking-meter/am/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyDTYPdB3UdJZcTJcNsdnT0JP_hP38uGa4Ig&s",
+      "fuentePagina": "https://www.whdybscar.com/am/product-cheap-price-car-2024-to-yota-corollas-cross-20l-intelligent-hybrid-elite-new-car-made-in-china-gasoline-car-5-seat-suv",
+      "titulo": "የ2024 የተጠቁመ ገበያ ኮር Ethiopian Birr YOTA COROLLAS ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyDTYPdB3UdJZcTJcNsdnT0JP_hP38uGa4Ig&s",
+      "original": "https://sc04.alicdn.com/kf/Hfad7bf6d9f9f4ce794bbc4eb6998221bV.jpg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/parking-meter/am/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwIK4jsfnC_D18JYf1osB5dxzGRn1Nmhvu_g&s",
+      "fuentePagina": "http://am.saicmgautoparts.com/saic-maxus-g10-new-auto-parts-car-spare-clock-spring-c00016930-c00016929-power-system-auto-parts-supplier-wholesale-maxus-catalog-cheaper-factory-price-product/",
+      "titulo": "China SAIC MAXUS G10 አዲስ የመኪና ክፍሎች የመኪና ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwIK4jsfnC_D18JYf1osB5dxzGRn1Nmhvu_g&s",
+      "original": "http://www.saicmgautoparts.com/uploads/AIR-BALANCE-SPRING-C00016930-C00016929.jpg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/parking-meter/am/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-aJrt3P_PXEzvJrh8gEqJU9lNP_5ujbtClQ&s",
+      "fuentePagina": "https://www.mart-sd.com/am/clock-spring-oe93490-1d600-for-hyundai-santa-fe-product/",
+      "titulo": "የጅምላ ሰዓት ጸደይ OE:93490-1D600 ለHYUNDAI አምራች ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-aJrt3P_PXEzvJrh8gEqJU9lNP_5ujbtClQ&s",
+      "original": "https://www.mart-sd.com/uploads//image/202307/80D810D8-9CB8-422B-B9B1-21A400CAB722.jpg"
+    }
+  ]
+}

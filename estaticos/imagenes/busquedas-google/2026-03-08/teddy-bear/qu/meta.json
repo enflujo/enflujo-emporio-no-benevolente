@@ -1,0 +1,71 @@
+{
+  "categoria": "teddy bear",
+  "categoriaSlug": "teddy-bear",
+  "idioma": "qu",
+  "nombreIdioma": "Quechua",
+  "termino": "pelush oso",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:31:15.231Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "es",
+    "gl": "pe"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=pelush%20oso&hl=es&gl=pe",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/teddy-bear/qu/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwcgBIY8PZvlRuBOQEcon2gxGSZobSutXc5A&s",
+      "fuentePagina": "https://www.falabella.com.pe/falabella-pe/product/138706852/PELUCHE-DE-UN-OSITO-COLOR-MARRON/138706853",
+      "titulo": "PELUCHE DE UN OSITO COLOR MARRON GENERICO | falabella.com",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwcgBIY8PZvlRuBOQEcon2gxGSZobSutXc5A&s",
+      "original": "https://media.falabella.com/falabellaPE/138706853_01/w=1500,h=1500,fit=cover"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/teddy-bear/qu/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXUp1rGmftJiYnEupYGreLQvEWH6-xwuJw4A&s",
+      "fuentePagina": "https://mipeluche.pe/products/oso-peluche-grande-cancion",
+      "titulo": "Oso Peluche Grande de 110 Cm Canción Personalizada - SIN música  personalizada",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXUp1rGmftJiYnEupYGreLQvEWH6-xwuJw4A&s",
+      "original": "https://mipeluche.pe/cdn/shop/files/oso_mipeluche.pe_peluche_grande_marron.jpg?v=1764024037&width=1946"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/teddy-bear/qu/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2keLVhSlFuV3TuiJ4hjtjZNUgF4z2nvxZTQ&s",
+      "fuentePagina": "https://www.miniso.pe/peluche-oso-sentado-marron-serie-miniso-miniso/p?srsltid=AfmBOoo4pkbWZjQwEol8p7eOmoeh9Rpxr9O5ZuP6904gadXAmknIhb6h",
+      "titulo": "Peluche oso sentado marrón serie miniso - Miniso",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2keLVhSlFuV3TuiJ4hjtjZNUgF4z2nvxZTQ&s",
+      "original": "https://minisope.vtexassets.com/arquivos/ids/340185-800-800?v=638838347148370000&width=800&height=800&aspect=true"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/teddy-bear/qu/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIL4yF_bjAQ4Q9XIjwfj5xqEVsqocS-6RU8A&s",
+      "fuentePagina": "https://www.tottus.com.pe/tottus-pe/articulo/145418633/peluche-oso-50cm-san-valentin-beige/145418634",
+      "titulo": "Peluche Oso San Valentín Beige 50 cm",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIL4yF_bjAQ4Q9XIjwfj5xqEVsqocS-6RU8A&s",
+      "original": "https://media.falabella.com/tottusPE/43553468_1/w=1004,h=1500,fit=pad"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/teddy-bear/qu/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNKBscesWjaovIQHMb5_RwtBydqYB94UvO8Q&s",
+      "fuentePagina": "https://undetalle.com.pe/oso-peluche-eddy/?srsltid=AfmBOooJ9INkqpQsm5tkIUHa-yBHs0gZBylQO6nbl-ElLkcirfN5i15i",
+      "titulo": "Oso de Peluche Eddy - Undetalle",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNKBscesWjaovIQHMb5_RwtBydqYB94UvO8Q&s",
+      "original": "https://undetalle.com.pe/wp-content/uploads/2025/11/peluche-oso.webp"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/teddy-bear/qu/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKqflPPOn3G6cBgu-n2W2RAdDkTcnGfTwT4Q&s",
+      "fuentePagina": "https://simple.ripley.com.pe/peluche-ripley-gy196084d-15-oso-marron-2032271500239p?srsltid=AfmBOorCDnB-HETJ9a2C7AnLwjfz579Nx5NM39hT3Mh6Z0NQYRAZklHt",
+      "titulo": "PELUCHE RIPLEY GY196084D-15 OSO MARRON",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKqflPPOn3G6cBgu-n2W2RAdDkTcnGfTwT4Q&s",
+      "original": "https://home.ripley.com.pe/Attachment/WOP_5/2032271500239/2032271500239_2.jpg"
+    }
+  ]
+}

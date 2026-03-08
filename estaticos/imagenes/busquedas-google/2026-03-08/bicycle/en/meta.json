@@ -1,0 +1,71 @@
+{
+  "categoria": "bicycle",
+  "categoriaSlug": "bicycle",
+  "idioma": "en",
+  "nombreIdioma": "English",
+  "termino": "bicycle",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T20:40:58.841Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "en",
+    "gl": "us"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=bicycle&hl=en&gl=us",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bicycle/en/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTRaNUD8fzxaV1Alela2SiKVJhxL88M4AJ4g&s",
+      "fuentePagina": "https://en.wikipedia.org/wiki/Bicycle",
+      "titulo": "Bicycle - Wikipedia",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTRaNUD8fzxaV1Alela2SiKVJhxL88M4AJ4g&s",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/4/41/Left_side_of_Flying_Pigeon.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bicycle/en/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQN-8z91VxttbKl59gPAuzjnsmnkFoB_c3C4Q&s",
+      "fuentePagina": "https://www.statebicycle.com/products/state-bicycle-klunker-black-metallic-27-5?srsltid=AfmBOorcsx3i7WCavZpRwaoYTuqFKW1LsbQlVQrGdLpOnVF1Udu7_4cq",
+      "titulo": "State Bicycle Co. Klunker - Black & Metallic (27.5\") | State ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQN-8z91VxttbKl59gPAuzjnsmnkFoB_c3C4Q&s",
+      "original": "http://www.statebicycle.com/cdn/shop/products/StateBicycleCo.Klunker-Black_Metallic_27.5__8_large.jpg?v=1762450443"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bicycle/en/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRemZ6I4EmUoO38_SNivHh9t8JtkkHHhahCDg&s",
+      "fuentePagina": "https://www.brooklynbicycleco.com/collections/urban-bikes/3-speed?srsltid=AfmBOorTuf5D9ZbrohYbxzzPMF-PE2vh6v9webm3l1EtyjF6OG5ijfSh",
+      "titulo": "Urban Bikes | Brooklyn Bicycle Co. - 3-speed",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRemZ6I4EmUoO38_SNivHh9t8JtkkHHhahCDg&s",
+      "original": "https://www.brooklynbicycleco.com/cdn/shop/files/franklin-3-speed-1186519177.jpg?v=1768499701"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bicycle/en/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQztLwktAoSTeJokeWhcWmNHVApMjqYsuvyDw&s",
+      "fuentePagina": "https://www.bicycling.com/skills-tips/a20044021/13-things-about-e-bikes/",
+      "titulo": "What Is an E-Bike, and How Do Electric Bikes Work?",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQztLwktAoSTeJokeWhcWmNHVApMjqYsuvyDw&s",
+      "original": "https://hips.hearstapps.com/hmg-prod/images/velotric-t1-0009-preview-maxwidth-3000-maxheight-3000-ppi-300-quality-90-662fd674675df.jpg?crop=0.668xw:1.00xh;0.151xw,0&resize=1200:*"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bicycle/en/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTutq-bHdBU6iIYIwlyCtllWl8KVNxqw5BghQ&s",
+      "fuentePagina": "https://www.racv.com.au/cars-transport/bikes-other-transport/bicycles-escooters-ebikes.html",
+      "titulo": "Cycling, E-scooter & E-bike Tips and Safety | RACV",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTutq-bHdBU6iIYIwlyCtllWl8KVNxqw5BghQ&s",
+      "original": "https://www.racv.com.au/content/dam/racv-assets/images/images/motor/cars-bikes-transport/1600x900/bicycles-scooters-ebikes-1600x900.jpg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bicycle/en/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTU7bcnYIu7alLfipj_pCbU7u3MPhrKEqRjkA&s",
+      "fuentePagina": "https://www.walmart.com/ip/Kent-Bicycle-26-350W-Adult-Pedal-Assist-Cruiser-Electric-Bicycle-Red/637344427",
+      "titulo": "Kent Bicycle 26\" 350W Adult Pedal Assist Cruiser Electric ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTU7bcnYIu7alLfipj_pCbU7u3MPhrKEqRjkA&s",
+      "original": "https://i5.walmartimages.com/seo/Kent-Bicycle-26-350W-Adult-Pedal-Assist-Cruiser-Electric-Bicycle-Red_e1df94f8-8de8-407b-ab14-328627337172.f1c1af9bea0beacf281d76b378d05669.jpeg?odnHeight=768&odnWidth=768&odnBg=FFFFFF"
+    }
+  ]
+}

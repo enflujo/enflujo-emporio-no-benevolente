@@ -1,0 +1,71 @@
+{
+  "categoria": "wine glass",
+  "categoriaSlug": "wine-glass",
+  "idioma": "hi",
+  "nombreIdioma": "हिन्दी",
+  "termino": "वाइन गिलास",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:07:00.576Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "hi",
+    "gl": "in"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=%E0%A4%B5%E0%A4%BE%E0%A4%87%E0%A4%A8%20%E0%A4%97%E0%A4%BF%E0%A4%B2%E0%A4%BE%E0%A4%B8&hl=hi&gl=in",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/wine-glass/hi/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmTK4fnEMcnDQmvO6_OQXKcTcF51pn_UY2tQ&s",
+      "fuentePagina": "https://www.thebarshop.in/products/burgundy-wine-glass-set-of-6-650ml?srsltid=AfmBOopn-0ZX-jA_OzK-7KI_ENW14GXkou3e0VILSmlSLD_Dn7sI9lC1",
+      "titulo": "Buy Burgundy Wine Glasses (Set of 6, 650ml) Online | TheBarShop.in",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmTK4fnEMcnDQmvO6_OQXKcTcF51pn_UY2tQ&s",
+      "original": "http://www.thebarshop.in/cdn/shop/files/Burgundy6501.jpg?v=1754123848"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/wine-glass/hi/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfjp6ibkWVuPlsAHxaQ07rq3PSR8Y9s-GEFw&s",
+      "fuentePagina": "https://www.amazon.in/-/hi/Ocean-%E0%A4%B5%E0%A5%8D%E0%A4%B9%E0%A4%BE%E0%A4%87%E0%A4%9F-%E0%A4%B5%E0%A4%BE%E0%A4%87%E0%A4%A8-%E0%A4%97%E0%A5%8D%E0%A4%B2%E0%A4%BE%E0%A4%B8-195ml/dp/B00NMG42TO",
+      "titulo": "Ocean व्हाइट वाइन ग्लास सेट, 195ml, 6 का ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfjp6ibkWVuPlsAHxaQ07rq3PSR8Y9s-GEFw&s",
+      "original": "https://m.media-amazon.com/images/I/71U6luhKvDL._AC_UF894,1000_QL80_.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/wine-glass/hi/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFR25cEQbtrWz3wp0UsQTqbYrmp0jzNJPA6A&s",
+      "fuentePagina": "https://muusart.com/blog/how-to-draw-a-wine-glass/",
+      "titulo": "How to Draw a Wine Glass in 4 Easy Steps | Muus Art",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFR25cEQbtrWz3wp0UsQTqbYrmp0jzNJPA6A&s",
+      "original": "https://muusart.com/wp-content/uploads/2024/10/How-to-draw-a-wine-glass-featured-image.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/wine-glass/hi/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSevTP8uv5yDqnQ37CjLdZaE1bpLjGPucjNkQ&s",
+      "fuentePagina": "https://www.amazon.in/-/hi/Glass-%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A5%80%E0%A4%AE%E0%A4%BF%E0%A4%AF%E0%A4%AE-%E0%A4%95%E0%A5%8D%E0%A4%B0%E0%A4%BF%E0%A4%B8%E0%A5%8D%E0%A4%9F%E0%A4%B2-%E0%A4%B8%E0%A4%BE%E0%A4%B2%E0%A4%97%E0%A4%BF%E0%A4%B0%E0%A4%B9-%E0%A4%95%E0%A5%8D%E0%A4%B0%E0%A4%BF%E0%A4%B8%E0%A4%AE%E0%A4%B8/dp/B07WL8DWCB",
+      "titulo": "Red Wine Glass â'¬\" बड़े वाइन चश्मा, हाथ ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSevTP8uv5yDqnQ37CjLdZaE1bpLjGPucjNkQ&s",
+      "original": "https://m.media-amazon.com/images/I/719aRrzKA7L._AC_UF894,1000_QL80_.jpg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/wine-glass/hi/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTezRNzrepVACP8vordVV3-j0X8qAEg71M08w&s",
+      "fuentePagina": "https://www.flipkart.com/hi/tinsuhg-pack-2-wine-glass-ideal-party-glass-whisky-clear-set/p/itm68c8bbea6097a",
+      "titulo": "TINSUHG (Pack of 2) Wine Glass - Ideal for Party Glass, Whisky Glass, Clear  Glass Glass Set Wine Glass Price in India - Buy TINSUHG (Pack of 2) Wine ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTezRNzrepVACP8vordVV3-j0X8qAEg71M08w&s",
+      "original": "https://rukminim2.flixcart.com/image/300/300/xif0q/glass/v/v/h/european-style-crystal-clear-red-and-white-wine-madcube-250-original-imafu33yyyeeqjgz.jpeg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/wine-glass/hi/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTz19nf15JIF1SC519rf924-FgDXKJEMjfebA&s",
+      "fuentePagina": "https://www.ikea.com/in/en/cat/wine-glasses-18870/",
+      "titulo": "Buy Wine Glasses at Affordable Price in India - IKEA",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTz19nf15JIF1SC519rf924-FgDXKJEMjfebA&s",
+      "original": "https://www.ikea.com/in/en/images/products/svalka-wine-glass-clear-glass__0913974_pe783804_s5.jpg"
+    }
+  ]
+}

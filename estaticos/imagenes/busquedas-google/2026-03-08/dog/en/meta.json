@@ -1,0 +1,71 @@
+{
+  "categoria": "dog",
+  "categoriaSlug": "dog",
+  "idioma": "en",
+  "nombreIdioma": "English",
+  "termino": "dog",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T20:50:51.898Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "en",
+    "gl": "us"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=dog&hl=en&gl=us",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/dog/en/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIlUYGXtHUXLPO2Lpkj6WavqaT5boSfagzQA&s",
+      "fuentePagina": "https://www.goodhousekeeping.com/life/pets/g4531/cutest-dog-breeds/",
+      "titulo": "15 Cutest Dog Breeds",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIlUYGXtHUXLPO2Lpkj6WavqaT5boSfagzQA&s",
+      "original": "https://hips.hearstapps.com/hmg-prod/images/dog-puppy-on-garden-royalty-free-image-1586966191.jpg?crop=1xw:0.74975xh;0,0.190xh"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/dog/en/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdgwlLnfdM75IVP2P4kGFgQmJcQMkJEE77RA&s",
+      "fuentePagina": "https://www.aspcapetinsurance.com/resources/small-breed-dogs/",
+      "titulo": "Get To Know Small Dog Breeds | ASPCA® Pet Health Insurance",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdgwlLnfdM75IVP2P4kGFgQmJcQMkJEE77RA&s",
+      "original": "https://d3544la1u8djza.cloudfront.net/APHI/Blog/2023/September/small-breeds-hero.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/dog/en/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQP8E9tFqr2FMNYEMkhFFKT7EhtwtJ4ZIxfiQ&s",
+      "fuentePagina": "https://atlantahumane.org/adopt/dogs/",
+      "titulo": "Adopt a Dog | Atlanta Humane Society",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQP8E9tFqr2FMNYEMkhFFKT7EhtwtJ4ZIxfiQ&s",
+      "original": "https://atlantahumane.org/wp-content/uploads/2025/11/dog-hero.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/dog/en/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdrGKdSjRcEr4t-18YFnt9qGZ7wsTm0c1mfQ&s",
+      "fuentePagina": "https://www.borrowmydoggy.com/doggypedia/dog-breed-guides-labrador",
+      "titulo": "Labrador Dog Breed Guide: Care and Training | BorrowMyDoggy",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdrGKdSjRcEr4t-18YFnt9qGZ7wsTm0c1mfQ&s",
+      "original": "https://www.borrowmydoggy.com/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2F4ij0poqn%2Fproduction%2Fe24bfbd855cda99e303975f2bd2a1bf43079b320-800x600.jpg&w=1080&q=80"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/dog/en/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSaR5kK_ap4yeI9aLXzZNDvFUr2UKFHzxgp3Q&s",
+      "fuentePagina": "https://www.azhumane.org/adopt/",
+      "titulo": "Adopt - Arizona Humane Society",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSaR5kK_ap4yeI9aLXzZNDvFUr2UKFHzxgp3Q&s",
+      "original": "https://24petconnect.com/image/687385968"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/dog/en/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCA9GPKfLMAqi66o5q5SLkDyZEPpObcqaU2A&s",
+      "fuentePagina": "https://www.countryliving.com/life/kids-pets/g3283/the-50-most-popular-dog-breeds/",
+      "titulo": "Most Popular Dog Breeds: America's 50 Favorite Dogs",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCA9GPKfLMAqi66o5q5SLkDyZEPpObcqaU2A&s",
+      "original": "https://hips.hearstapps.com/clv.h-cdn.co/assets/16/18/gettyimages-586890581.jpg?crop=0.668xw:1.00xh;0.219xw,0"
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "categoria": "knife",
+  "categoriaSlug": "knife",
+  "idioma": "am",
+  "nombreIdioma": "Amharic — አማርኛ",
+  "termino": "ቢላ",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:08:48.703Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "am",
+    "gl": "et"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=%E1%89%A2%E1%88%8B&hl=am&gl=et",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/knife/am/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIoC7VcqlrAiQcICB5MZPC-w0NTWWwMHu6EQ&s",
+      "fuentePagina": "https://amharicteacher.com/dictionary/english/%E1%89%A2%E1%88%8B%E1%8B%8B",
+      "titulo": "ቢላዋ (beelawa) meaning in English - Amharic Dictionary",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIoC7VcqlrAiQcICB5MZPC-w0NTWWwMHu6EQ&s",
+      "original": "https://d9seco0wfq8yu.cloudfront.net/dict/bilawa.png"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/knife/am/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkO7ivFJ-E8YuutqP8UgYcqLzMFEEAhYvcVg&s",
+      "fuentePagina": "https://www.rtkitchenknife.com/am/three-piece-sets-of-boning-knife",
+      "titulo": "ቦኒንግ ቢላ ሶስት-ቁራጭ ስብስቦች | ሩታይ",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkO7ivFJ-E8YuutqP8UgYcqLzMFEEAhYvcVg&s",
+      "original": "https://img80003074.weyesimg.com/uploads/rtkitchenknife.com/images/16384366232165.jpg?imageView2/2/w/768/q/80/format/webp"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/knife/am/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4Y3eT6go_1cuHhZKseH_jFwAcWcRnrKU-EQ&s",
+      "fuentePagina": "https://jiji.com.et/bole/kitchen-and-dining/18pcs-knife-set-bilaa-lasethotaa-yamihone-eqaa-zJlyM5FExWUHzqqK8e6Ix4ti.html",
+      "titulo": "18pcs Knife Set ቢላ ለስጦታ የሚሆን ዕቃ in Bole ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4Y3eT6go_1cuHhZKseH_jFwAcWcRnrKU-EQ&s",
+      "original": "https://pictures-ethiopia.jijistatic.com/3877893_NjAwLTYwMC0yYTQ2ODhjOWNjLTE.webp"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/knife/am/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFw6vsIor2Kj7tMDnNDsZMddCXh_RcKTtY4A&s",
+      "fuentePagina": "https://am.sewasew.com/p/%E1%89%A2%E1%88%8B-%E1%88%98%E1%89%BC-%E1%8A%A5%E1%8A%93-%E1%8A%A5%E1%8A%95%E1%8B%B4%E1%89%B5-%E1%88%98%E1%8C%B8%E1%8B%B3%E1%89%B5-%E1%8A%A0%E1%88%88%E1%89%A0%E1%89%B5",
+      "titulo": "ሰዋስው | ቢላ መቼ እና እንዴት መጸዳት አለበት?",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFw6vsIor2Kj7tMDnNDsZMddCXh_RcKTtY4A&s",
+      "original": "https://img.sewasew.com/definitions/91c1b27e7019441bbdd2eea0c424c38a_640_320"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/knife/am/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRb2r9_weXBFbpNkX4S7sdr993tqaXyEBBFBg&s",
+      "fuentePagina": "https://www.rtkitchenknife.com/am/hot-selling-kitchen-tools-chef-knife-pp-material-knife-protector-knife-cover-t1903",
+      "titulo": "ትኩስ ሽያጭ የወጥ ቤት እቃዎች ሼፍ ቢላዋ ፒ ፒ ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRb2r9_weXBFbpNkX4S7sdr993tqaXyEBBFBg&s",
+      "original": "https://img80003074.weyesimg.com/uploads/rtkitchenknife.com/images/15906277684674.jpg?imageView2/2/w/768/q/80/format/webp"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/knife/am/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3ct_3UCYrLCV_sNGhyyUVH9ewjUX5hReYpw&s",
+      "fuentePagina": "https://manuals.plus/am/media/c-0256-japanese-chefs-knife-manual",
+      "titulo": "ሚዲያ ሲ 0256 የጃፓን ሼፍ ቢላ መመሪያዎች",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3ct_3UCYrLCV_sNGhyyUVH9ewjUX5hReYpw&s",
+      "original": "https://manuals.plus/wp-content/uploads/2024/12/Media-C-0256-Japanese-Chefs-knife-PRODUCT.png"
+    }
+  ]
+}

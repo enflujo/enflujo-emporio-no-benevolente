@@ -1,0 +1,71 @@
+{
+  "categoria": "traffic light",
+  "categoriaSlug": "traffic-light",
+  "idioma": "pt",
+  "nombreIdioma": "Português",
+  "termino": "semáforo",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T20:46:51.612Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "pt",
+    "gl": "br"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=sem%C3%A1foro&hl=pt&gl=br",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/traffic-light/pt/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwQC7WW8nqhObX2rbw0oORdjT62Hx2UUq2GA&s",
+      "fuentePagina": "https://br.freepik.com/fotos-vetores-gratis/semaforo",
+      "titulo": "Semaforo Imagens – Download Grátis no Freepik",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwQC7WW8nqhObX2rbw0oORdjT62Hx2UUq2GA&s",
+      "original": "https://img.freepik.com/vetores-gratis/traffic-lights-realistic_1284-4985.jpg?semt=ais_hybrid&w=740&q=80"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/traffic-light/pt/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYhi90MMsOtoS1LwphxX3qMqhh6HSNj7c0pw&s",
+      "fuentePagina": "https://www.lojaviaria.com.br/placa-semaforo-a-frente-a-14?srsltid=AfmBOor6OeE9LIkxwyYmwjXeq6CSQyTbrK5AIGkgbWKGZicXiDVQfDat",
+      "titulo": "Placa semáforo à frente A-14",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYhi90MMsOtoS1LwphxX3qMqhh6HSNj7c0pw&s",
+      "original": "https://cdn.awsli.com.br/600x450/1012/1012749/produto/37703470/fae7a04d27.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/traffic-light/pt/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYPsc_vTtsTxO2CITLFidmjg7UKuAxFqTXZw&s",
+      "fuentePagina": "https://clickpetroleoegas.com.br/as-cores-vermelho-amarelo-e-verde-nos-semaforos-nao-foram-escolhidas-por-acaso-flpc96/",
+      "titulo": "As cores vermelho, amarelo e verde nos semáforos não foram ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYPsc_vTtsTxO2CITLFidmjg7UKuAxFqTXZw&s",
+      "original": "https://clickpetroleoegas.com.br/wp-content/uploads/2025/05/ChatGPT-Image-11-de-mai.-de-2025-22_11_17.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/traffic-light/pt/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgIbBq-KAjBQA6A7xheoarTVDYSPRBhMKvBA&s",
+      "fuentePagina": "https://www.istockphoto.com/br/fotos/sem%C3%A1foro",
+      "titulo": "91.800+ Semáforo fotos de stock, imagens e fotos royalty ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgIbBq-KAjBQA6A7xheoarTVDYSPRBhMKvBA&s",
+      "original": "https://media.istockphoto.com/id/1167361237/pt/vetorial/traffic-light-vector-template-illustration-design-vector-eps-10.jpg?s=612x612&w=0&k=20&c=e-ovm-T6Nfm0kccdr4CnpRXlgkw99uxeB6vlAsUo1DM="
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/traffic-light/pt/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKOsL9Rqk0BMAwqAfNWafcNKWz5rbwUQZIIQ&s",
+      "fuentePagina": "https://pt.pngtree.com/freepng/traffic-light-illustration-in-flat-design-red-yellow-and-green_15634097.html",
+      "titulo": "Ilustração De Semáforo Em Design Plano Vermelho Amarelo E ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKOsL9Rqk0BMAwqAfNWafcNKWz5rbwUQZIIQ&s",
+      "original": "https://png.pngtree.com/png-vector/20240612/ourlarge/pngtree-traffic-light-illustration-in-flat-design-red-yellow-and-green-png-image_12696716.png"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/traffic-light/pt/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCi-RQxh2IdK7Mu3B0brjiOQ3XdoMlw-za3A&s",
+      "fuentePagina": "https://www.instagram.com/p/DIRTIHiRQMt/",
+      "titulo": "Cada cor do semáforo carrega um lembrete importante ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCi-RQxh2IdK7Mu3B0brjiOQ3XdoMlw-za3A&s",
+      "original": "https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3607748897231143725"
+    }
+  ]
+}

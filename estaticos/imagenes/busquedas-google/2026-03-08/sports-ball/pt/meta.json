@@ -1,0 +1,71 @@
+{
+  "categoria": "sports ball",
+  "categoriaSlug": "sports-ball",
+  "idioma": "pt",
+  "nombreIdioma": "Português",
+  "termino": "bola",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:01:54.305Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "pt",
+    "gl": "br"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=bola&hl=pt&gl=br",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/sports-ball/pt/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMO8gxgZTDmy6Kee_Ro6eHNOtk52gOJkVmZA&s",
+      "fuentePagina": "https://br.freepik.com/fotos-vetores-gratis/bola",
+      "titulo": "Bola Imagens – Download Grátis no Freepik",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMO8gxgZTDmy6Kee_Ro6eHNOtk52gOJkVmZA&s",
+      "original": "https://img.freepik.com/vetores-gratis/bola-de-futebol-realista-isolada-de-vetor-sobre-o-branco_1284-41932.jpg?semt=ais_hybrid&w=740&q=80"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/sports-ball/pt/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRV99BnUY5zFWPAl1yuvGOrEKMl4wzuNqWbYA&s",
+      "fuentePagina": "https://www.e3m3.com.br/acessorios/bola-de-futebol-juvenil",
+      "titulo": "Bola de futebol juvenil Tamanho Oficial",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRV99BnUY5zFWPAl1yuvGOrEKMl4wzuNqWbYA&s",
+      "original": "https://images.tcdn.com.br/img/img_prod/646374/bola_de_futebol_juvenil_n_5_271_1_20201213220437.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/sports-ball/pt/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPhGVQZIcZ8DG5fxSTqMArfEL7z9mD4pNefg&s",
+      "fuentePagina": "https://www.moinhoatacadista.com.br/bola-plastica-colorida-degrade-futebol-22cm-dute-4900",
+      "titulo": "Bola plástica colorida degrade futebol 22cm Dute",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPhGVQZIcZ8DG5fxSTqMArfEL7z9mD4pNefg&s",
+      "original": "https://www.moinhoatacadista.com.br/image/cache/data/Produtos/BO/Bola-plastica-colorida-degrade-futebol-22cm-Dute-COR-NAO-DEFINIDA-A173C41F-1-700x700.jpg.webp"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/sports-ball/pt/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSojJeOHdF0OEmk_0gr1LmKHpRzjwPQ_miG1g&s",
+      "fuentePagina": "https://www.multifestas.com.br/brinquedos/bola-leve-6-un-3087",
+      "titulo": "BOLA LEVE 6 UN - Multifestas - Festas, Descartáveis e Embalagens",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSojJeOHdF0OEmk_0gr1LmKHpRzjwPQ_miG1g&s",
+      "original": "https://images.tcdn.com.br/img/img_prod/857195/bola_leve_6_un_3087_1_449d905c08901d8fe113f7c08f1be26a.jpg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/sports-ball/pt/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVzKhspt-hn3gNC4kTdkWWA8GM22kq4_aa9w&s",
+      "fuentePagina": "https://www.decathlon.com.br/bola-de-futebol-first-kick-tam-4-8676297-kipsta/p?srsltid=AfmBOoo7r30Gn5neRTvZUA1gKvIPHBYk9yEgbumGglYMXAHAhgKC4bdT",
+      "titulo": "Decathlon | Bola de Futebol First Kick Tam 4 Kipsta",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVzKhspt-hn3gNC4kTdkWWA8GM22kq4_aa9w&s",
+      "original": "https://decathlonpro.vtexassets.com/arquivos/ids/8719981/first-kick-size-5-yellow-5-vermelho-41.jpg?v=637795917281430000"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/sports-ball/pt/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTI3rATDWGYhWFl2n_XUEMiy8SNIPQnfjzdA&s",
+      "fuentePagina": "https://www.lojaodosesportes.com.br/bola-futebol-de-campo-nike-cbf-academy-su23?srsltid=AfmBOoqss7f6XJVlGpKWlcWbEiI9YnatI2Jbu0n0Y1GnHc39In_bzPsK",
+      "titulo": "Bola Futebol de Campo Nike CBF Academy SU23 Oficial com ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTI3rATDWGYhWFl2n_XUEMiy8SNIPQnfjzdA&s",
+      "original": "https://images.tcdn.com.br/img/img_prod/1376235/bola_futebol_de_campo_nike_cbf_academy_su23_2049_2_02f38b79e4b77fc181bc34aaeffd9114.jpg"
+    }
+  ]
+}

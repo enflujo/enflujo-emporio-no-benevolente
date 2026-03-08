@@ -1,0 +1,71 @@
+{
+  "categoria": "parking meter",
+  "categoriaSlug": "parking-meter",
+  "idioma": "yo",
+  "nombreIdioma": "Yorùbá",
+  "termino": "mítà àgò ọkọ̀",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T20:48:28.469Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "yo",
+    "gl": "ng"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=m%C3%ADt%C3%A0%20%C3%A0g%C3%B2%20%E1%BB%8Dk%E1%BB%8D%CC%80&hl=yo&gl=ng",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/parking-meter/yo/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnAp19wbJQW2S_XgmjInok2QR4EzbyXfNYaA&s",
+      "fuentePagina": "https://www.bbc.com/yoruba/50360753",
+      "titulo": "Ọkọ̀ kan tàkìtì nínú ìjàmbá ọkọ̀ tó wáyé lẹ́bá afárá Third ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnAp19wbJQW2S_XgmjInok2QR4EzbyXfNYaA&s",
+      "original": "https://ichef.bbci.co.uk/ace/ws/1024/cpsprodpb/11fe/live/b62ccc20-1960-11f1-b048-c9424b2cf5fd.png.webp"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/parking-meter/yo/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsfYeNOrCjwxpWEIDn6XqwLmBsWsAzEDQGlQ&s",
+      "fuentePagina": "https://www.youtube.com/watch?v=erEsfRJpzbY",
+      "titulo": "OKO ATI OBO KII KA MITA(METER)",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsfYeNOrCjwxpWEIDn6XqwLmBsWsAzEDQGlQ&s",
+      "original": "https://i.ytimg.com/vi/erEsfRJpzbY/hqdefault.jpg?sqp=-oaymwEmCOADEOgC8quKqQMa8AEB-AHuAYACqgOKAgwIABABGEogZShcMA8=&rs=AOn4CLDa-uvy_B6CGA6uC84uUbx3DSGSFQ"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/parking-meter/yo/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0OFa0zXChtinQvfSfq-_PhbJVKDBwKXviBQ&s",
+      "fuentePagina": "https://www.facebook.com/groups/2727690384222168/",
+      "titulo": "Oju to ile oju to oko | Facebook",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0OFa0zXChtinQvfSfq-_PhbJVKDBwKXviBQ&s",
+      "original": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=122210630150332026"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/parking-meter/yo/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZrEYKRVyNkAkXrsb-cW4OyuBR4WGImrtOdw&s",
+      "fuentePagina": "https://www.youtube.com/watch?v=zEFBwxSXuY8",
+      "titulo": "OKO MI - Yoruba Movie 2025 Drama Rotimi Salami, Juliet Jatto, Feranmi  Oyalowo, Jide Awobona",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZrEYKRVyNkAkXrsb-cW4OyuBR4WGImrtOdw&s",
+      "original": "https://i.ytimg.com/vi/zEFBwxSXuY8/maxresdefault.jpg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/parking-meter/yo/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfnEp1Gbx--_9rg0VyqLsP9PvwIPpBJfeQ5g&s",
+      "fuentePagina": "https://www.instagram.com/p/DAuLcN3y0EJ/",
+      "titulo": "A moment in time on @tony.rakshit's set🎬 Photos by ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfnEp1Gbx--_9rg0VyqLsP9PvwIPpBJfeQ5g&s",
+      "original": "https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3471762669370469824"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/parking-meter/yo/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEGuyJLQyEwUOqM_8jBzEfu1QFIRD8M_hQcQ&s",
+      "fuentePagina": "https://www.youtube.com/watch?v=9HmSZlrFZXA",
+      "titulo": "Oko Meta | Latest Yoruba Movies 2026 Lateef Adedimeji, Femi Adebayo, Muyiwa  Ademola",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEGuyJLQyEwUOqM_8jBzEfu1QFIRD8M_hQcQ&s",
+      "original": "https://i.ytimg.com/vi/9HmSZlrFZXA/maxresdefault.jpg"
+    }
+  ]
+}

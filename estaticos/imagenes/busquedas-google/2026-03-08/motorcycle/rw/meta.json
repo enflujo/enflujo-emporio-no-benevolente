@@ -1,0 +1,71 @@
+{
+  "categoria": "motorcycle",
+  "categoriaSlug": "motorcycle",
+  "idioma": "rw",
+  "nombreIdioma": "Kinyarwanda",
+  "termino": "moto",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T20:42:24.174Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "en",
+    "gl": "rw"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=moto&hl=en&gl=rw",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/motorcycle/rw/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbazNhOleriMNN-ePFKDqHbqBWs9qovdcxpA&s",
+      "fuentePagina": "https://www.posters.cz/salto-con-moto-da-cross-f82163169?srsltid=AfmBOorvjQN-oi8acr9JczimcEC20w22DDzPwGrzj1yxtGsFntKiu7IO",
+      "titulo": "Plakát salto con moto da cross – Obraz na Zeď | Posters.cz",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbazNhOleriMNN-ePFKDqHbqBWs9qovdcxpA&s",
+      "original": "https://as2.ftcdn.net/v2/jpg/00/82/16/31/1000_F_82163169_RKlLnk6kePqYkxhnrw5g9o8s1qlfxK9F.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/motorcycle/rw/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnXpe8gAvAQ0kBr_mEC9qbFxFA5r_Mu31M6Q&s",
+      "fuentePagina": "https://www.euroboost.fr/fr/3-moto-enduro-supermotard",
+      "titulo": "Moto enduro et supermotard en ligne",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnXpe8gAvAQ0kBr_mEC9qbFxFA5r_Mu31M6Q&s",
+      "original": "https://www.euroboost.fr/5128/xc-125ri-24.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/motorcycle/rw/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRy1awoKgAkWCysM4SacKubfACvVyChs77cQQ&s",
+      "fuentePagina": "https://www.motoconduite.fr/conduire-une-moto-5-raisons/",
+      "titulo": "Conduire une moto : 5 raisons de s'y mettre dès maintenant",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRy1awoKgAkWCysM4SacKubfACvVyChs77cQQ&s",
+      "original": "https://www.motoconduite.fr/wp-content/uploads/2023/07/conduire-une-moto-768x768.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/motorcycle/rw/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS06GxpV4la_8L1FJ8-N5ntup4yo4Z_yxlYag&s",
+      "fuentePagina": "https://pitbikeimr.com/gb/mir-racing/261-mir-racing-moto-5-2023.html",
+      "titulo": "MIR RACING MOTO 5 2023 - Pit Bike IMR",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS06GxpV4la_8L1FJ8-N5ntup4yo4Z_yxlYag&s",
+      "original": "https://pitbikeimr.com/2518-thickbox_default/mir-racing-moto-5-2023.jpg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/motorcycle/rw/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMHe-kkKx2xFY5-q4wDV72txTq1OrD2AQpsQ&s",
+      "fuentePagina": "https://hpmoto.en.made-in-china.com/product/pnGrHcavawkh/China-Moto-Cross-250cc-Adult-Dirt-Bike.html",
+      "titulo": "Moto Cross 250cc Adult Dirt Bike - Adult Dirt Bike and Moto ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMHe-kkKx2xFY5-q4wDV72txTq1OrD2AQpsQ&s",
+      "original": "https://image.made-in-china.com/202f0j00wOWqhNtskQkb/Moto-Cross-250cc-Adult-Dirt-Bike.webp"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/motorcycle/rw/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLxcCEhAcOb7Kj3YMlDYbXzdrjgXWRcAX3fQ&s",
+      "fuentePagina": "https://lesbikeuses.fr/c/motos/sportive/",
+      "titulo": "Sportive - Les Bikeuses",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLxcCEhAcOb7Kj3YMlDYbXzdrjgXWRcAX3fQ&s",
+      "original": "https://lesbikeuses.fr/wp-content/uploads/2022/07/lxs-125-lexmoto.png"
+    }
+  ]
+}

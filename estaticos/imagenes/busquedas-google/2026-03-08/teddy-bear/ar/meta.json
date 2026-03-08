@@ -1,0 +1,71 @@
+{
+  "categoria": "teddy bear",
+  "categoriaSlug": "teddy-bear",
+  "idioma": "ar",
+  "nombreIdioma": "العربية",
+  "termino": "دمية دب",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:31:10.192Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "ar",
+    "gl": "eg"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=%D8%AF%D9%85%D9%8A%D8%A9%20%D8%AF%D8%A8&hl=ar&gl=eg",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/teddy-bear/ar/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1Kct8qyvfDfZ2KiskOs5kmVp3bTBLEKlCBQ&s",
+      "fuentePagina": "https://www.amazon.eg/%D9%85%D9%88%D8%B1%D9%8A%D8%B3-%D9%84%D9%84%D8%A3%D8%B5%D8%AF%D9%82%D8%A7%D8%A1%D8%8C-%D8%AF%D9%8A%D9%83%D9%88%D8%B1%D8%A7%D8%AA-%D8%A7%D8%B3%D8%AA%D9%82%D8%A8%D8%A7%D9%84-%D8%A7%D9%84%D8%A3%D8%B7%D9%81%D8%A7%D9%84%D8%8C/dp/B0CRH62DR3",
+      "titulo": "دمية دب عملاقة محشوة بلون بني للبنات 91 سم من موريس موس، دب قطيفة كبير  للأصدقاء، ديكورات حفلات استقبال المولود الجديد، هدايا عيد ميلاد الأطفال،  هدايا ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1Kct8qyvfDfZ2KiskOs5kmVp3bTBLEKlCBQ&s",
+      "original": "https://m.media-amazon.com/images/I/71jsSRBZKvL.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/teddy-bear/ar/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRaHSDoLDv5zW4YBnqI1qlnjd4vJEPnvEMGWg&s",
+      "fuentePagina": "https://www.amazon.eg/%D9%85%D9%88%D8%B1%D9%8A%D8%B3-%D9%85%D9%88%D8%B3-%D9%84%D9%84%D8%B5%D8%AF%D9%8A%D9%82%D8%A9-%D8%AF%D9%8A%D9%83%D9%88%D8%B1%D8%A7%D8%AA-%D8%A7%D8%B3%D8%AA%D9%82%D8%A8%D8%A7%D9%84/dp/B0CRH74NB8",
+      "titulo": "دمية دب عملاقة محشوة بينك للبنات 91 سم من موريس موس ، قطيفة كبير للصديقة  ديكورات حفلات استقبال المولود الجديد هدايا عيد ميلاد الأطفال بطابع: اشتري  اون ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRaHSDoLDv5zW4YBnqI1qlnjd4vJEPnvEMGWg&s",
+      "original": "https://m.media-amazon.com/images/I/71OC5xn9+6L.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/teddy-bear/ar/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT98eVT1tOnb-si-pPq_4kxj2gBu4wwT7n9zw&s",
+      "fuentePagina": "https://www.noon.com/egypt-ar/non-toxic-stuffed-and-plush-giant-soft-teddy-bear-toy-best-cuddling-buddy-100cm/N39929180A/p/",
+      "titulo": "تسوق دبدوبي ودمية دب ناعمة محشوة وغير سامة على شكل دمية دب ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT98eVT1tOnb-si-pPq_4kxj2gBu4wwT7n9zw&s",
+      "original": "https://f.nooncdn.com/p/v1599049693/N39929180A_1.jpg?width=800"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/teddy-bear/ar/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRP7xx3V432exHbmMi1RlO4-I5L2HPF1vjxUg&s",
+      "fuentePagina": "https://albadertoys.com/products/Giant-Pink-Cotton-Teddy-Bear-Plush?srsltid=AfmBOoqFeVjzM-E5ikncrl3Iy3aYD8897Ibh3M2uWSuZ2ltXlY6GtY1m",
+      "titulo": "دبدوب قطن وردي عملاق – طويل 150 سم",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRP7xx3V432exHbmMi1RlO4-I5L2HPF1vjxUg&s",
+      "original": "https://media.zid.store/4bd92e58-a536-4ead-ac36-c0b5a922aa59/8fa5c522-4aff-4cdd-be26-4936f3b1f531.jpg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/teddy-bear/ar/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHlINar5wFdWRWq-36tloAJPVgEId2iBaYKg&s",
+      "fuentePagina": "https://www.kanbkam.com/sa/ar/17-teddy-bear-stuffed-animal-large-brown-bear-plush-toy-gift-for-kids-girls-boys-babies-B08SR3P3SS",
+      "titulo": "سعر دمية دب محشوة بشكل دبدوب مقاس 17 بوصة ، لعبة قطيفة كبيرة ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHlINar5wFdWRWq-36tloAJPVgEId2iBaYKg&s",
+      "original": "https://images-na.ssl-images-amazon.com/images/I/51N9c3-kWsL._SL500_._AC_SL500_.jpg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/teddy-bear/ar/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSspoebDeFaCKaMpkjeHBCLp4ibjQ5ocz-dDg&s",
+      "fuentePagina": "https://flauraly.com/ar/products/large-teddy-bear?srsltid=AfmBOoqHko1gUgT00DEla7-_7whF9FmtN7d0AlshFHWf_1W3ir7m1dEX",
+      "titulo": "دمية دب مبتسمة للعناق – Flauraly Flowers and Plants",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSspoebDeFaCKaMpkjeHBCLp4ibjQ5ocz-dDg&s",
+      "original": "http://flauraly.com/cdn/shop/files/L_Terry_Bear.png?v=1719241572"
+    }
+  ]
+}

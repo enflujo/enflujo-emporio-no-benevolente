@@ -1,0 +1,71 @@
+{
+  "categoria": "skis",
+  "categoriaSlug": "skis",
+  "idioma": "zu",
+  "nombreIdioma": "isiZulu",
+  "termino": "izingamaskhi",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:00:18.372Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "zu",
+    "gl": "za"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=izingamaskhi&hl=zu&gl=za",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/skis/zu/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAUoD-flkSoxfsl7-PtiDT2UwwApBSaPckPA&s",
+      "fuentePagina": "https://open.spotify.com/album/58isjq7doHR9R4YKJdCK99",
+      "titulo": "IZINGQWELE ZIKAMASKANDI - Album by IZINGONYAMA | Spotify",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAUoD-flkSoxfsl7-PtiDT2UwwApBSaPckPA&s",
+      "original": "https://i.scdn.co/image/ab67616d00001e02da4d443204e8e94d990e864b"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/skis/zu/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_8VJpIAyeifWE-rQBK1QWatQ8d4hEXYaXHQ&s",
+      "fuentePagina": "https://www.youtube.com/watch?v=a0oHUXVbcok",
+      "titulo": "izingane-amakhozi-sidonse-moyeni",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_8VJpIAyeifWE-rQBK1QWatQ8d4hEXYaXHQ&s",
+      "original": "https://i.ytimg.com/vi/a0oHUXVbcok/maxresdefault.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/skis/zu/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0U2Hb5KOwXsRMZX-ZRQvgWcwOYSGyUppOpw&s",
+      "fuentePagina": "https://www.youtube.com/watch?v=RIovma-R4GQ",
+      "titulo": "Izingoma Zothando || Maskandi Mix 2024 Ft Umafikizolo, Al Mgube, Scebi,  Smirnofu, Saliwa, Mashelela",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0U2Hb5KOwXsRMZX-ZRQvgWcwOYSGyUppOpw&s",
+      "original": "https://i.ytimg.com/vi/RIovma-R4GQ/hqdefault.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/skis/zu/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRr5MgTHtsYMA5GpcWWQtKG9ggANzFPrma6qw&s",
+      "fuentePagina": "https://www.tiktok.com/@gogomadineo/video/7387682373174873349",
+      "titulo": "Isgenama siyodla umnikazi #😂😂😂 #fyp #gogomadineo #thokozagogo #sama28 #❤️",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRr5MgTHtsYMA5GpcWWQtKG9ggANzFPrma6qw&s",
+      "original": "https://www.tiktok.com/api/img/?itemId=7387682373174873349&location=0&aid=1988"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/skis/zu/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTX7tf5El-oO_ojmCEFVUDaU5v2YvRtIus_XQ&s",
+      "fuentePagina": "https://www.youtube.com/watch?v=v_IXMVe16A0",
+      "titulo": "Izingane Zoma - Asimhlalise (Official Music Video)",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTX7tf5El-oO_ojmCEFVUDaU5v2YvRtIus_XQ&s",
+      "original": "https://i.ytimg.com/vi/v_IXMVe16A0/hqdefault.jpg?sqp=-oaymwEmCOADEOgC8quKqQMa8AEB-AHUBoAC4AOKAgwIABABGEAgUihlMA8=&rs=AOn4CLBoIDQpQEeL7JYAe4_lRV9o91bvxw"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/skis/zu/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMcidhqe0A6JomuMI68QptHVwtmstItY__AA&s",
+      "fuentePagina": "https://www.tiktok.com/@gogomadineo/video/7387682373174873349",
+      "titulo": "Isgenama siyodla umnikazi #😂😂😂 #fyp #gogomadineo ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMcidhqe0A6JomuMI68QptHVwtmstItY__AA&s",
+      "original": "https://p19-common-sign.tiktokcdn-us.com/tos-maliva-p-0068/oQMo4LCjSGNcDkI5ogKVAsfKIeB9f7CImJQcJE~tplv-photomode-video-share-card:630:630:20.jpeg?dr=9616&refresh_token=ac5a946a&x-expires=1804500000&x-signature=H%2Bpt%2BoSPVd9sblVtdke%2F0fJrCo8%3D&t=4d5b0474&ps=13740610&shp=55bbe6a9&shcp=f07906a3&idc=useast5&ftpl=1"
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "categoria": "carrot",
+  "categoriaSlug": "carrot",
+  "idioma": "zh",
+  "nombreIdioma": "中文",
+  "termino": "胡萝卜",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:14:14.771Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "zh-CN",
+    "gl": "cn"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=%E8%83%A1%E8%90%9D%E5%8D%9C&hl=zh-CN&gl=cn",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/carrot/zh/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4wCwnsawAU4hWMr6WHzv6Vq5LIPWTWC1QnA&s",
+      "fuentePagina": "http://gd.sina.com.cn/zs/eat/2017-03-07/city-zs-ifycaafp2209150.shtml?from=wap",
+      "titulo": "胡萝卜不一定要用油炒这样吃胡萝卜才最营养_中山频道_新浪广东_ ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4wCwnsawAU4hWMr6WHzv6Vq5LIPWTWC1QnA&s",
+      "original": "http://n.sinaimg.cn/gd/transform/20170307/yfLA-fycapec2590087.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/carrot/zh/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2CPPRvVARCnW7K_pPCO4HXzHFNeebDQ3HMA&s",
+      "fuentePagina": "https://kewpie.com.cn/season_recipes_backnumber/season_huluobo.html",
+      "titulo": "胡萝卜|推荐食材|丘比菜谱|丘比食品",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2CPPRvVARCnW7K_pPCO4HXzHFNeebDQ3HMA&s",
+      "original": "https://kewpie.com.cn/images/huluobo_img01.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/carrot/zh/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwd8lJLA6y9Fkx_ghZ1SIKWueNHGlKvb8sjQ&s",
+      "fuentePagina": "https://www.epochtimes.com/gb/15/9/7/n4522148.htm",
+      "titulo": "胡萝卜护眼、抗癌煮熟吃吸收更好| 胡萝卜功效| 胡萝卜汁| 大紀元",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwd8lJLA6y9Fkx_ghZ1SIKWueNHGlKvb8sjQ&s",
+      "original": "https://i.epochtimes.com/assets/uploads/2015/09/huluobo1.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/carrot/zh/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqTwreO-UMZnlT7RqqCEKGu8Kp1rIDsDobBg&s",
+      "fuentePagina": "https://www.tntsupermarket.com/chs/05004301-carrot.html",
+      "titulo": "红萝卜/胡萝卜(1.6lbs) ｜ 大统华超级市场",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqTwreO-UMZnlT7RqqCEKGu8Kp1rIDsDobBg&s",
+      "original": "https://www.tntsupermarket.com/media/catalog/product/0/5/050043_1_.jpg?auto=webp&format=pjpg&width=556&height=556&fit=cover"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/carrot/zh/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkcdTAa6VSJ6NdSunSjQEcWrwAgoIdKYRTfA&s",
+      "fuentePagina": "https://baike.baidu.com/item/%E8%83%A1%E8%90%9D%E5%8D%9C/351711",
+      "titulo": "胡萝卜_百度百科",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkcdTAa6VSJ6NdSunSjQEcWrwAgoIdKYRTfA&s",
+      "original": "https://bkimg.cdn.bcebos.com/smart/a8773912b31bb051f819912eec2dcdb44aed2e734a27-bkimg-process,v_1,rw_1,rh_1,pad_1,color_ffffff?x-bce-process=image/format,f_auto"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/carrot/zh/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQhm2Ki4YHGP05sNeuyXq1d2_Ynfd0PBkdjQ&s",
+      "fuentePagina": "https://wapypk.39.net/c517783/",
+      "titulo": "胡萝卜的功效与作用,胡萝卜的副作用-药效-用法-图片-39药品通",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQhm2Ki4YHGP05sNeuyXq1d2_Ynfd0PBkdjQ&s",
+      "original": "https://pimg.39.net/yaopin/zycimg/11rvin2ykmxrd2019.jpg"
+    }
+  ]
+}

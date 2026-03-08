@@ -1,0 +1,71 @@
+{
+  "categoria": "airplane",
+  "categoriaSlug": "airplane",
+  "idioma": "ln",
+  "nombreIdioma": "Lingala",
+  "termino": "avion",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T20:42:57.765Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "fr",
+    "gl": "cd"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=avion&hl=fr&gl=cd",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/airplane/ln/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPcZ6eUcqY_dySKkHPR-vrfbMxKkN--j3Lhw&s",
+      "fuentePagina": "https://fr.wikipedia.org/wiki/Avion_de_ligne",
+      "titulo": "Avion de ligne — Wikipédia",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPcZ6eUcqY_dySKkHPR-vrfbMxKkN--j3Lhw&s",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/3/30/Airbus_A320-200_Airbus_Industries_%28AIB%29_%22House_colors%22_F-WWBA_-_MSN_001_%2810276181983%29.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/airplane/ln/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGT-8HqYZqeYbIYgfWuF80gqYc-mmPO2I2_Q&s",
+      "fuentePagina": "https://a.anglet.fr/psst/un-avion-dair-france-baptise-anglet/",
+      "titulo": "Un avion d'Air France baptisé \"Anglet\"",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGT-8HqYZqeYbIYgfWuF80gqYc-mmPO2I2_Q&s",
+      "original": "https://a.anglet.fr/wp-content/uploads/2025/03/avion_anglet-scaled.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/airplane/ln/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJ9TMONA-e_hIKJhbmOAsAmUmeoFjWEkmeTw&s",
+      "fuentePagina": "https://www.pourlascience.fr/sr/disputes-environnementales/le-mirage-de-l-avion-vert-28086.php",
+      "titulo": "Le mirage de l'avion vert | Pour la Science",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJ9TMONA-e_hIKJhbmOAsAmUmeoFjWEkmeTw&s",
+      "original": "https://medias.pourlascience.fr/api/v1/images/view/68a44a41e989363dd40bdd12/wide_1000-webp/image.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/airplane/ln/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRl4-todDuMbZpXMeqXw5QDyB8PQ0yAGkAMvg&s",
+      "fuentePagina": "https://www.24heures.ch/easyjet-demi-tour-dun-avion-a-cause-dun-passager-delirant-263730221119",
+      "titulo": "Easyjet: demi-tour d'un avion à cause d'un passager délirant",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRl4-todDuMbZpXMeqXw5QDyB8PQ0yAGkAMvg&s",
+      "original": "https://cdn.unitycms.io/images/EAE8oIywq8NBn2GgvcbPZU.jpg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/airplane/ln/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9b7t5tCgV0rQUHYjSJbUvDu-aYZnvHxuhAA&s",
+      "fuentePagina": "https://www.ledevoir.com/economie/940002/bombardier-met-marche-avion-civil-plus-rapide-monde",
+      "titulo": "Aéronautique : Bombardier lance le le Global 8000, l'avion ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9b7t5tCgV0rQUHYjSJbUvDu-aYZnvHxuhAA&s",
+      "original": "https://media2.ledevoir.com/images_galerie/originale_2702388_2029650/image.jpg?crop=3%3A2%2Csmart&width=1440"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/airplane/ln/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS50oFCvYmwZQMOepL_Hb-ZBniGERAZ19yR8Q&s",
+      "fuentePagina": "https://fr.wikipedia.org/wiki/Avion",
+      "titulo": "Avion — Wikipédia",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS50oFCvYmwZQMOepL_Hb-ZBniGERAZ19yR8Q&s",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/6/65/Airliners_28.07.2009_10-01-28.JPG"
+    }
+  ]
+}

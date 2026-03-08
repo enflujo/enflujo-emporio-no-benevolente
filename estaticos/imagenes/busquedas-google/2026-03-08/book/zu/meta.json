@@ -1,0 +1,71 @@
+{
+  "categoria": "book",
+  "categoriaSlug": "book",
+  "idioma": "zu",
+  "nombreIdioma": "isiZulu",
+  "termino": "incwadi",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:28:20.306Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "zu",
+    "gl": "za"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=incwadi&hl=zu&gl=za",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/book/zu/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRy20WWi5GJegBSsvchGYV4ttFimt48Bq3sRA&s",
+      "fuentePagina": "https://www.scribd.com/document/780371154/Incwadi-Yakomkhulu",
+      "titulo": "Incwadi Yakomkhulu | PDF",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRy20WWi5GJegBSsvchGYV4ttFimt48Bq3sRA&s",
+      "original": "https://imgv2-1-f.scribdassets.com/img/document/780371154/original/ce6da9fc93/1?v=1"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/book/zu/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmOMd2NJd9iP-PczWipk0rDlIg2qDT-RNmLA&s",
+      "fuentePagina": "https://www.jw.org/nd/izinto-ezikhona/jw-ugwalo-lwemihlangano/march-2019-mwb/uhlelo-lomhlangano-luka-mar18-24/Incwadi-Eyisibonelo/",
+      "titulo": "Ukubhala Incwadi Ngendlela Eqondileyo—Incwadi Eyisibonelo",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmOMd2NJd9iP-PczWipk0rDlIg2qDT-RNmLA&s",
+      "original": "https://cms-imgp.jw-cdn.org/img/p/202019089/NBZ/art/202019089_NBZ_cnt_1_xl.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/book/zu/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMNddH9GOWtvXSGHRlcab-OwbyZWYpelV9tw&s",
+      "fuentePagina": "https://www.trumpeterpublishers.co.za/product/incwadi-yemisebenzi-yasenkulisa/",
+      "titulo": "Incwadi Yemisebenzi YaseNkulisa - Trumpeter Publishers",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMNddH9GOWtvXSGHRlcab-OwbyZWYpelV9tw&s",
+      "original": "https://www.trumpeterpublishers.co.za/wp-content/uploads/2018/06/front-1-17.png"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/book/zu/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrlC7yXxRbrfhpS0AM3MJVVXQRo8VlygihNg&s",
+      "fuentePagina": "https://clarkesbooks.co.za/products/ivamna-bafazi-bolusu-incwadi-yemibongo",
+      "titulo": "IVAMNA BAFAZI BOLUSU, incwadi yemibongo",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrlC7yXxRbrfhpS0AM3MJVVXQRo8VlygihNg&s",
+      "original": "http://clarkesbooks.co.za/cdn/shop/products/ivamnabafazilolusumaputi_800x.jpg?v=1654688517"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/book/zu/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2dvDAaQACVsbBcEhqN0KEdYC74MjOi6suWQ&s",
+      "fuentePagina": "https://schoolnotes.co.za/incwadi-yobungani-isizulu/",
+      "titulo": "Incwadi Yobungani - isiZulu - School Notes",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2dvDAaQACVsbBcEhqN0KEdYC74MjOi6suWQ&s",
+      "original": "https://schoolnotes.co.za/wp-content/uploads/2025/01/Iyini-Incwadi-Yobungani.jpg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/book/zu/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUVV8kOcEBE0yeA0VO41Uv85OA0hlccaY0yw&s",
+      "fuentePagina": "https://www.christianbooks.co.za/shop/incwadi-yezinkonzo/",
+      "titulo": "Incwadi Yezinkonzo [HC]",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUVV8kOcEBE0yeA0VO41Uv85OA0hlccaY0yw&s",
+      "original": "https://cbd-b454.kxcdn.com/wp-content/uploads/2024/12/SCAN_20250109_150034338-scaled-e1736427557963.jpg"
+    }
+  ]
+}

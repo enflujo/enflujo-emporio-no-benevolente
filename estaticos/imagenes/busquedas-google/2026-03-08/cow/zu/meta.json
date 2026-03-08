@@ -1,0 +1,71 @@
+{
+  "categoria": "cow",
+  "categoriaSlug": "cow",
+  "idioma": "zu",
+  "nombreIdioma": "isiZulu",
+  "termino": "inkomo",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T20:53:09.246Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "zu",
+    "gl": "za"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=inkomo&hl=zu&gl=za",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/cow/zu/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAzYiqm0CFyEOLLT7B2CIJQs8DXyxCKFymWg&s",
+      "fuentePagina": "https://www.facebook.com/1640875339510225/photos/inkomo-enkoneyinkomo-ebomvu-emdaka-emnyama-entsundu-elubhelu-etge-rhwelele-ibala/2736246546639760/",
+      "titulo": "Masibuyel'embo - Inkomo enkone Yinkomo ebomvu, emdaka ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAzYiqm0CFyEOLLT7B2CIJQs8DXyxCKFymWg&s",
+      "original": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=2736246546639760"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/cow/zu/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSp2LOVzJJA3H7XysdCRp4nD7s4uWje_0SDhA&s",
+      "fuentePagina": "https://www.instagram.com/p/DDg7yhouoDv/",
+      "titulo": "CHOSI: The Spiritual Significance of Inkomo Kwa Xhosa and ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSp2LOVzJJA3H7XysdCRp4nD7s4uWje_0SDhA&s",
+      "original": "https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3522077854633907277"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/cow/zu/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZ-g6wgDXNCgEei-ujvSKFHsJdSG53rQml-g&s",
+      "fuentePagina": "https://www.instagram.com/p/DDg7yhouoDv/",
+      "titulo": "CHOSI: The Spiritual Significance of Inkomo Kwa Xhosa and ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZ-g6wgDXNCgEei-ujvSKFHsJdSG53rQml-g&s",
+      "original": "https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3522077854558406935"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/cow/zu/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAzqVUV4-TLtnRXbVLtZlknVEpzaLC9HOTqQ&s",
+      "fuentePagina": "https://21stcfs.co.za/enhance-your-funeral-cover-with-the-inkomo-plan/",
+      "titulo": "Enhance your funeral cover with the Inkomo Plan",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAzqVUV4-TLtnRXbVLtZlknVEpzaLC9HOTqQ&s",
+      "original": "https://21stcfs.co.za/wp-content/uploads/2025/08/Inkomo-Plan.jpeg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/cow/zu/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyo7B8op4mjzB2CZF5wKKAFGRKy70m_uBuUQ&s",
+      "fuentePagina": "https://www.facebook.com/spoekmathambo/posts/inkomo-emzondolena-inkomo-exube-imibala-emibili-omnyama-nobomvu-ukuxuba-kwayo-im/3199202023462511/",
+      "titulo": "iNkomo eMzondo: Lena inkomo exube imibala emibili omnyama ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyo7B8op4mjzB2CZF5wKKAFGRKy70m_uBuUQ&s",
+      "original": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=3199201633462550"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/cow/zu/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMA60o2LNDA1VjeYUmVFiHfPq-qWP0Nek6Lw&s",
+      "fuentePagina": "https://zu.wikipedia.org/wiki/File:Inkomo_yesikhumba.jpg",
+      "titulo": "File:Inkomo yesikhumba.jpg - Wikipedia",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMA60o2LNDA1VjeYUmVFiHfPq-qWP0Nek6Lw&s",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/3/31/Inkomo_yesikhumba.jpg"
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "categoria": "stop sign",
+  "categoriaSlug": "stop-sign",
+  "idioma": "pt",
+  "nombreIdioma": "Português",
+  "termino": "sinal de parada",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T20:48:13.385Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "pt",
+    "gl": "br"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=sinal%20de%20parada&hl=pt&gl=br",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/stop-sign/pt/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzv6E3ENjJmmamE-tVwUsmd0BRgO61nMfBqg&s",
+      "fuentePagina": "https://doutormultas.com.br/avancar-o-sinal-de-parada-obrigatoria/",
+      "titulo": "Avançar o sinal de parada obrigatória",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzv6E3ENjJmmamE-tVwUsmd0BRgO61nMfBqg&s",
+      "original": "https://doutormultas.com.br/wp-content/uploads/2023/08/placa-R1-pare-1.png"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/stop-sign/pt/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQueZ7mAB9_BAjFAvqXjCf7K8swTzm7bKh7A&s",
+      "fuentePagina": "https://www.flaticon.com/br/icone-gratis/sinal-de-parada_11568973",
+      "titulo": "Sinal de parada - ícones de sinalização grátis",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQueZ7mAB9_BAjFAvqXjCf7K8swTzm7bKh7A&s",
+      "original": "https://cdn-icons-png.flaticon.com/512/11568/11568973.png"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/stop-sign/pt/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbBv0Idk-8JPZNaqrIX5to65ma6AaZWsExRA&s",
+      "fuentePagina": "https://www.sinalcenter.com.br/placa-parada-obrigatoria-a-frente-a-15?srsltid=AfmBOopYuYC2fEqvJLnN4PxRXyeKolKfbZgvikp2vgCcBM-ZN2LZO9Yo",
+      "titulo": "Placa parada obrigatória à frente A-15",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbBv0Idk-8JPZNaqrIX5to65ma6AaZWsExRA&s",
+      "original": "https://cdn.awsli.com.br/600x450/2755/2755133/produto/276188969/placa-parada-obrigat-ria---frente-a-15-8gjbc3xoth.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/stop-sign/pt/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3YU4jzKtRgq6hsbnSRjDDO9-QC67wi_F--g&s",
+      "fuentePagina": "https://blog.usezapay.com.br/multas/605-02",
+      "titulo": "Multa por avançar o sinal de parada obrigatória",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3YU4jzKtRgq6hsbnSRjDDO9-QC67wi_F--g&s",
+      "original": "https://blog.usezapay.com.br/wp-content/uploads/2022/09/placa-pare-r1-610x610.jpg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/stop-sign/pt/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmp8ZbbtBY9OkPVOTdv7H24Ws0FQrKfRKIXg&s",
+      "fuentePagina": "https://www.amazon.com.br/reflexivo-octogonal-resist%C3%AAncia-imperme%C3%A1vel-resistente/dp/B0CXQ4CPNZ",
+      "titulo": "Sinal de parada, painel reflexivo octogonal de alumínio de alta resistência  de 30,5 x 30,5 cm, impermeável, resistente a UV, sinal de trânsito de ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmp8ZbbtBY9OkPVOTdv7H24Ws0FQrKfRKIXg&s",
+      "original": "https://m.media-amazon.com/images/I/71qhy819PuL._AC_UF894,1000_QL80_.jpg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/stop-sign/pt/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZ1ETzZYI2BaopWyPMWS2CscuHA6WG8NHS4g&s",
+      "fuentePagina": "https://pt.vecteezy.com/foto/26760282-sinal-de-parada-de-transito-em-portugues",
+      "titulo": "sinal de parada de trânsito em português 26760282 Foto de ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZ1ETzZYI2BaopWyPMWS2CscuHA6WG8NHS4g&s",
+      "original": "https://static.vecteezy.com/ti/fotos-gratis/p1/26760282-sinal-de-parada-de-transito-em-portugues-foto.jpg"
+    }
+  ]
+}

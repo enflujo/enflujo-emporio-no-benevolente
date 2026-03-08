@@ -1,0 +1,71 @@
+{
+  "categoria": "toothbrush",
+  "categoriaSlug": "toothbrush",
+  "idioma": "en",
+  "nombreIdioma": "English",
+  "termino": "toothbrush",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:32:07.189Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "en",
+    "gl": "us"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=toothbrush&hl=en&gl=us",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/toothbrush/en/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWc_ed7Yoi1sJkwRZKl7cJI2sQO5mXo8e9dQ&s",
+      "fuentePagina": "https://www.amazon.com/Mintburst-Prepasted-Individually-Toothbrush-Toothbrushes/dp/B019S6TI0E",
+      "titulo": "Amazon.com : Plak Smacker Mintburst Prepasted Individually ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWc_ed7Yoi1sJkwRZKl7cJI2sQO5mXo8e9dQ&s",
+      "original": "https://m.media-amazon.com/images/I/614jZkgfhOL.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/toothbrush/en/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGBbmNdDCtllClQP7I9YPQejigCE_wq8UZvA&s",
+      "fuentePagina": "https://snodgrassking.com/how-to-find-the-right-toothbrush/",
+      "titulo": "How to Find the Right Toothbrush | Snodgrass-King Dental",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGBbmNdDCtllClQP7I9YPQejigCE_wq8UZvA&s",
+      "original": "https://snodgrassking.com/wp-content/uploads/2020/07/Toothbrush1-scaled.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/toothbrush/en/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ05Gq2XZQi2BumICpjo3D9MCClOT3niCzDDw&s",
+      "fuentePagina": "https://www.skydentalsupply.com/oral-b-deep-cleantoothbrush-12.htm?srsltid=AfmBOoorjWe-bKVOACdyTVVlbY4v_TEMatl7fE01vUJLtrGiwUOdm7AP",
+      "titulo": "Toothbrush Deep Clean Adult 35 Tuft Soft 12/Pkg (Oral-B)",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ05Gq2XZQi2BumICpjo3D9MCClOT3niCzDDw&s",
+      "original": "https://www.skydentalsupply.com/picts/products/tn850x700-p070098.png"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/toothbrush/en/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpQwmEvpmYjMgRsw2h7XV7BaPOetuP-SLdrA&s",
+      "fuentePagina": "https://specialtyappliances.com/product/specialty-products-single-head-toothbrush-v-trim-144-pk/",
+      "titulo": "Specialty Products: Single Head Toothbrush V-Trim (144 pk)",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpQwmEvpmYjMgRsw2h7XV7BaPOetuP-SLdrA&s",
+      "original": "https://specialtyappliances.com/wp-content/uploads/2024/11/Ortho-Kit-Single-Head-Toothbrush-V-Trim-1.png"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/toothbrush/en/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzBfO9v4K3VGgq1IEj-x_HDm4r5qPni5Sq4g&s",
+      "fuentePagina": "https://www.walmart.com/ip/Colgate-Extra-Clean-Full-Head-Toothbrush-Soft-1-Count/46212474",
+      "titulo": "Colgate Extra Clean Full Head Toothbrush, Soft - 1 Count",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzBfO9v4K3VGgq1IEj-x_HDm4r5qPni5Sq4g&s",
+      "original": "https://i5.walmartimages.com/seo/Colgate-Extra-Clean-Full-Head-Toothbrush-Soft-1-Count_8b6c4548-9159-4ed6-b549-f7de5374ab77.08eb2e45c7b44a6a32b70b8ac98d3ccc.jpeg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/toothbrush/en/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYcGn6N2hWPVFactyCRLaFnFpCgxeUuSswbA&s",
+      "fuentePagina": "https://vitalrecord.tamu.edu/how-to-choose-a-toothbrush-and-when-to-throw-it-out/",
+      "titulo": "How to choose a toothbrush and when to throw it out - Vital ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYcGn6N2hWPVFactyCRLaFnFpCgxeUuSswbA&s",
+      "original": "https://vitalrecord.tamu.edu/wp-content/uploads/2022/07/toothbrushes.jpg"
+    }
+  ]
+}

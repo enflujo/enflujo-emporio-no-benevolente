@@ -1,0 +1,71 @@
+{
+  "categoria": "wine glass",
+  "categoriaSlug": "wine-glass",
+  "idioma": "am",
+  "nombreIdioma": "Amharic — አማርኛ",
+  "termino": "የወይን ብርጭቆ",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:06:53.780Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "am",
+    "gl": "et"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=%E1%8B%A8%E1%8B%88%E1%8B%AD%E1%8A%95%20%E1%89%A5%E1%88%AD%E1%8C%AD%E1%89%86&hl=am&gl=et",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/wine-glass/am/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuA_RmwoDXaVVyOaSBOnxf4jec0yLf7dTmeA&s",
+      "fuentePagina": "https://www.selamtausa.com/am_ET/shop/2856-6-yawayene-berecheqo-bateleqe-thelate-1476",
+      "titulo": "6 የወይን ብርጭቆ (በትልቅ ጥለት) | Selamta L.L.C",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuA_RmwoDXaVVyOaSBOnxf4jec0yLf7dTmeA&s",
+      "original": "https://www.selamtausa.com/web/image/product.template/1476/image_1024?unique=b60c62f"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/wine-glass/am/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQr8JhVR_s_SRHejqGtDxEyDKTk0uZ1-pa4og&s",
+      "fuentePagina": "https://www.selamtausa.com/am_ET/shop/2849-6-yawayene-berecheqo-basaabaa-1477",
+      "titulo": "6 የወይን ብርጭቆ (በሳባ) | Selamta L.L.C",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQr8JhVR_s_SRHejqGtDxEyDKTk0uZ1-pa4og&s",
+      "original": "https://www.selamtausa.com/web/image/product.template/1477/image_1024?unique=b60c62f"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/wine-glass/am/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRS-bC-hHEX6mx2R-mU_OStG6SxQi_e1eNMfg&s",
+      "fuentePagina": "https://www.facebook.com/100064559987584/posts/%EF%B8%8F6-%E1%8B%A8%E1%88%9A%E1%8B%AB%E1%88%9B%E1%88%9D%E1%88%A9-%E1%8B%A8%E1%8B%88%E1%8B%AD%E1%8A%95-%E1%89%A5%E1%88%AD%E1%8C%AD%E1%89%86%E1%8B%8E%E1%89%BD-%E1%8A%A8%E1%88%9A%E1%8B%AB%E1%88%9D%E1%88%AD-%E1%8B%A8%E1%8B%88%E1%8B%AD%E1%8A%95-%E1%88%9B%E1%89%85%E1%88%A8%E1%89%A2%E1%8B%AB-%E1%89%A5%E1%88%AD%E1%8C%AD%E1%89%86-%E1%8C%8B%E1%88%AD-%EF%B8%8F%E1%89%A4%E1%89%B6%E1%89%B5-%E1%8A%A5%E1%8A%95%E1%8C%8D%E1%8B%B3-%E1%89%A2%E1%88%98%E1%8C%A3%E1%89%A6%E1%89%B5-%E1%89%A2%E1%8B%AB%E1%89%80%E1%88%AD%E1%89%A1%E1%89%A0%E1%89%B5-%E1%8C%8D%E1%88%AD%E1%88%9B-%E1%88%9E%E1%8C%88%E1%88%B5-%E1%8B%AB/1115791155446758/",
+      "titulo": "▶️6 የሚያማምሩ የወይን ብርጭቆዎች ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRS-bC-hHEX6mx2R-mU_OStG6SxQi_e1eNMfg&s",
+      "original": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=1115790768780130"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/wine-glass/am/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPSyrd7IDjqxoyccLiT4WC8kZ2z9I2WejPUg&s",
+      "fuentePagina": "http://am.sublivagroup.com/henriier-wine-glass-750ml-product/",
+      "titulo": "የጅምላ ሄንሪየር የወይን ጠጅ የመስታወት መስታወት ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPSyrd7IDjqxoyccLiT4WC8kZ2z9I2WejPUg&s",
+      "original": "http://www.sublivagroup.com/uploads/HenriIer-Wine-Glass-750ml.jpg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/wine-glass/am/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSm-jhBSYd0BfBRSylQGb-en6n4UzyppNsPfA&s",
+      "fuentePagina": "https://www.facebook.com/100063787195394/posts/%E1%8B%A8%E1%8B%88%E1%8B%AD%E1%8A%95-%E1%89%A5%E1%88%AD%E1%8C%AD%E1%89%86-%E1%88%9B%E1%88%B5%E1%89%80%E1%88%98%E1%8C%AB-%E1%88%88%E1%89%B8%E1%8A%AE%E1%88%8C%E1%89%B5-%E1%88%88%E1%8A%A8%E1%88%A8%E1%88%9C%E1%88%8B-%E1%88%88%E1%8D%8D%E1%88%A9%E1%89%B5-%E1%8B%A8%E1%8D%88%E1%88%88%E1%8C%89%E1%89%B5%E1%8A%95-%E1%8A%90%E1%8C%88%E1%88%AD-%E1%88%9B%E1%88%B5%E1%89%80%E1%88%98%E1%8C%A5-%E1%8B%AD%E1%89%BD%E1%88%8B%E1%88%89-%E1%8B%8B%E1%8C%8B-%E1%88%9B%E1%88%B5%E1%89%80%E1%88%98%E1%8C%AB%E1%8B%8D-1600%E1%89%A5%E1%88%AD-%E1%8B%A8%E1%8B%88%E1%8B%AD%E1%8A%95-%E1%89%A5%E1%88%AD%E1%8C%AD/128771462280052/",
+      "titulo": "የወይን ብርጭቆ ማስቀመጫ ለቸኮሌት ለከረሜላ ለፍሩት ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSm-jhBSYd0BfBRSylQGb-en6n4UzyppNsPfA&s",
+      "original": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=128771428946722"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/wine-glass/am/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-0DCEy-TfRXriwj0tezNCLsR1_bXfRUTsgg&s",
+      "fuentePagina": "http://am.qqglassware.com/china-wholesale-goblet-wine-glass-cup-crystal-red-wine-glasses-set-product/",
+      "titulo": "ቻይና ቻይና የጅምላ ጎብል ወይን ብርጭቆ ዋንጫ ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-0DCEy-TfRXriwj0tezNCLsR1_bXfRUTsgg&s",
+      "original": "http://cdn.globalso.com/qqglassware/HLB16wf9TCzqK1RjSZFLq6An2XXap.jpg"
+    }
+  ]
+}

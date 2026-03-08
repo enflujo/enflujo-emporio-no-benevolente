@@ -1,0 +1,71 @@
+{
+  "categoria": "snowboard",
+  "categoriaSlug": "snowboard",
+  "idioma": "es",
+  "nombreIdioma": "Español",
+  "termino": "snowboard",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:01:10.670Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "es",
+    "gl": "es"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=snowboard&hl=es&gl=es",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/snowboard/es/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXPTNXIRGEtpuJnJRSPGm7oTqydgksplz0bg&s",
+      "fuentePagina": "https://alpinefleet.com/es/history-of-snowboarding/",
+      "titulo": "Historia del Snowboard | flota alpina",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXPTNXIRGEtpuJnJRSPGm7oTqydgksplz0bg&s",
+      "original": "https://alpinefleet.com/wp-content/uploads/2023/06/Alpine-Fleet_The-History-of-Snowboarding.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/snowboard/es/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXSRJQq6YGzeumrCihB5bNQ8f1DELYV3VL3g&s",
+      "fuentePagina": "https://www.totiaranalquilerbaqueira.com/blog/esqui-o-snowboard-conoce-las-ventajas-de-cada-deporte/",
+      "titulo": "Esquí o Snowboard? Conoce las ventajas de cada deporte",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXSRJQq6YGzeumrCihB5bNQ8f1DELYV3VL3g&s",
+      "original": "https://www.totiaranalquilerbaqueira.com/blog/wp-content/uploads/2024/08/esqui-o-snowboard.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/snowboard/es/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnqna3K-NxswFwUA_qyZMQA8_Iii1hpTJQsQ&s",
+      "fuentePagina": "https://www.photowall.es/snowboard-big-air-jump-papel-pintado",
+      "titulo": "Salto de snowboard Big Air",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnqna3K-NxswFwUA_qyZMQA8_Iii1hpTJQsQ&s",
+      "original": "https://images.photowall.com/products/48546/snowboard-big-air-jump.jpg?h=699&q=85"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/snowboard/es/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpxyhD7ZGykea6fPtB6Oo3AaVRhZo6AnUSUg&s",
+      "fuentePagina": "https://www.dopesnow.com/mag/is-snowboarding-a-good-workout/?srsltid=AfmBOooHjiogqDywNRYS99YbwXqQe3gLa32ItyjgzTYXvIxbi7KeJ2tH",
+      "titulo": "Is snowboarding a good workout? - Top 5 benefits | Dope Magazine",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpxyhD7ZGykea6fPtB6Oo3AaVRhZo6AnUSUg&s",
+      "original": "https://www.dopesnow.com/images/wordpress-4582242/uploads/2023/01/top-5-health-benefits-of-skiing-and-snowboarding-dope-magazine.jpg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/snowboard/es/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7nHbWUCruoKxRL9I1v3iRhv_XPpn-pvHLSA&s",
+      "fuentePagina": "https://www.snowtrex.es/mundos-tematicos/snowboard.html",
+      "titulo": "Viajes snowboard - vacaciones snowboard - fin de semana ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7nHbWUCruoKxRL9I1v3iRhv_XPpn-pvHLSA&s",
+      "original": "https://d3u9sm4kpb9d1j.cloudfront.net/pictures/6893139"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/snowboard/es/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuW3bLL638gvXRud_Mj5Vi53-srWnwD7gJ2g&s",
+      "fuentePagina": "https://www.totiaranalquilerbaqueira.com/blog/esqui-o-snowboard-conoce-las-ventajas-de-cada-deporte/",
+      "titulo": "Esquí o Snowboard? Conoce las ventajas de cada deporte",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuW3bLL638gvXRud_Mj5Vi53-srWnwD7gJ2g&s",
+      "original": "https://www.totiaranalquilerbaqueira.com/blog/wp-content/uploads/2024/08/snowboard.jpg"
+    }
+  ]
+}

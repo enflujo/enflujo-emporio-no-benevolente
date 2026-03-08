@@ -1,0 +1,71 @@
+{
+  "categoria": "cat",
+  "categoriaSlug": "cat",
+  "idioma": "sw",
+  "nombreIdioma": "Kiswahili",
+  "termino": "paka",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T20:50:18.293Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "sw",
+    "gl": "tz"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=paka&hl=sw&gl=tz",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/cat/sw/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqkGUeA6ZjhLKsa0WyMO-MXM0YK88n9_p5Fg&s",
+      "fuentePagina": "https://sw.wikipedia.org/wiki/Paka-kaya",
+      "titulo": "Paka-kaya - Wikipedia, kamusi elezo huru",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqkGUeA6ZjhLKsa0WyMO-MXM0YK88n9_p5Fg&s",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/9/9b/Domestic_cat_cropped.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/cat/sw/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOit1XzrN7odGMASNd_N9IMc2vBQc272N-fg&s",
+      "fuentePagina": "https://sw.wikipedia.org/wiki/Paka",
+      "titulo": "Paka - Wikipedia, kamusi elezo huru",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOit1XzrN7odGMASNd_N9IMc2vBQc272N-fg&s",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Black-footed_cat%2C_Zoo_Wuppertal%2C_July_2009.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/cat/sw/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpbccWeMhgEItAePwGpOxeRP0-UDXp75R2vw&s",
+      "fuentePagina": "https://www.bbc.com/swahili/habari-47729591",
+      "titulo": "Paka shume na mbwa koko wanalaumiwa kwa kuharibu baianuwai ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpbccWeMhgEItAePwGpOxeRP0-UDXp75R2vw&s",
+      "original": "http://c.files.bbci.co.uk/4D1C/production/_106204791_gettyimages-feralcat.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/cat/sw/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsFVPE2jh4n8EacQlWqUMruFbORt3uLMHQBA&s",
+      "fuentePagina": "https://www.rfi.fr/sw/ulaya/20230717-paka-wamethibitishwa-kuambukizwa-homa-ya-ndege-poland",
+      "titulo": "Paka wamethibitishwa kuambukizwa homa ya ndege Poland - RFI",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsFVPE2jh4n8EacQlWqUMruFbORt3uLMHQBA&s",
+      "original": "https://s.rfi.fr/media/display/414c7456-1245-11ea-8862-005056a99247/w:1280/p:4x3/640px-Six_weeks_old_cat_%28aka%29_0.jpg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/cat/sw/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQv_D5EwZS5Ui9_qN-ngRY-_PhKlZOO1rtR7w&s",
+      "fuentePagina": "https://www.facebook.com/tujuzetv/posts/fahamu-maisha-ya-paka-tafadhali-usisahau-ku-share-na-like-haya-ni-mambo-22-ambay/1017019225428642/",
+      "titulo": "FAHAMU MAISHA YA PAKA TAFADHALI USISAHAU KU SHARE NA LIKE ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQv_D5EwZS5Ui9_qN-ngRY-_PhKlZOO1rtR7w&s",
+      "original": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=1017018462095385"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/cat/sw/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUKX_zu9hiPgsWDXyU6MFkbU3cj8TuhBLRIg&s",
+      "fuentePagina": "https://www.mwananchi.co.tz/mw/habari/kitaifa/paka-ni-adui-au-rafiki-wa-binadamu--4330414",
+      "titulo": "Paka ni adui au rafiki wa binadamu? | Mwananchi",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUKX_zu9hiPgsWDXyU6MFkbU3cj8TuhBLRIg&s",
+      "original": "https://www.mwananchi.co.tz/resource/image/4330420/portrait_ratio1x1/1600/1600/63fed1fbf25d97ddc9842cc04e3891e/rp/paka-pic.jpg"
+    }
+  ]
+}

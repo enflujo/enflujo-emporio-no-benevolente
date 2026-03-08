@@ -1,0 +1,71 @@
+{
+  "categoria": "carrot",
+  "categoriaSlug": "carrot",
+  "idioma": "rw",
+  "nombreIdioma": "Kinyarwanda",
+  "termino": "karote",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:13:51.346Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "en",
+    "gl": "rw"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=karote&hl=en&gl=rw",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/carrot/rw/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZZ1YVxhg7aVCPhdeyjMdn3MXOtorM016VAQ&s",
+      "fuentePagina": "https://stock.adobe.com/search?k=karote",
+      "titulo": "Karote Images – Browse 113 Stock Photos, Vectors, and Video ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZZ1YVxhg7aVCPhdeyjMdn3MXOtorM016VAQ&s",
+      "original": "https://t4.ftcdn.net/jpg/00/23/04/03/360_F_23040370_WV0O5ihe79hCIZct9t2xfsFH5HsqTZgq.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/carrot/rw/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOD2iieGnUY3zs0qJf6ABQguyNOrmWAAvsQQ&s",
+      "fuentePagina": "https://stock.adobe.com/search?k=karote",
+      "titulo": "Karote Images – Browse 113 Stock Photos, Vectors, and Video ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOD2iieGnUY3zs0qJf6ABQguyNOrmWAAvsQQ&s",
+      "original": "https://t3.ftcdn.net/jpg/01/70/81/36/360_F_170813610_otFvYIL9zyQiFla5qXpeXaPehYd83CSi.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/carrot/rw/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6s5AqeRHisxS7iG9ELr66JHE4pxcHlHfXew&s",
+      "fuentePagina": "https://vls.wikipedia.org/wiki/Karote",
+      "titulo": "Karote - Wikipedia",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6s5AqeRHisxS7iG9ELr66JHE4pxcHlHfXew&s",
+      "original": "https://upload.wikimedia.org/wikipedia/vls/3/34/Karoten_van_olle_kleur%27n.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/carrot/rw/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvKGlo4oTamnIzhVD9Mc7YKqzuIop-t2LlRw&s",
+      "fuentePagina": "http://astronoma.lv/lv/karotes/1046-deserta-karote-dream.html",
+      "titulo": "Karote deserta h-18,5cm DREAM - Trauku noma ASTRO",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvKGlo4oTamnIzhVD9Mc7YKqzuIop-t2LlRw&s",
+      "original": "http://astronoma.lv/1345-thickbox_default/deserta-karote-dream.jpg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/carrot/rw/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1b8S-wZ-NuWyOSbdBjs868Uyo-sFHlBbW4w&s",
+      "fuentePagina": "https://www.rimi.lv/e-veikals/en/products/house-garden-and-leisure/kitchen-products-and-utensils/-cutlery/pusdienu-karote-tradicional/p/647571",
+      "titulo": "Pusdienu karote Tradicional",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1b8S-wZ-NuWyOSbdBjs868Uyo-sFHlBbW4w&s",
+      "original": "https://rimibaltic-res.cloudinary.com/image/upload/b_white,c_limit,dpr_3.0,f_auto,q_auto:low,w_400/d_ecommerce:backend-fallback.png/MAT_647571_PCE_LV"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/carrot/rw/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNrRNttFR1vj5jfT7hJLWDJs9QbqIn2jYvhg&s",
+      "fuentePagina": "https://arsenal.lv/en/produkti/esanas-piederumi-trauki/trauki-un-galda-piederumi/m-tac-spork-karote-ar-karabini-9258",
+      "titulo": "M-tac Spork karote ar karabīni, Dishes and cutlery, Eating ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNrRNttFR1vj5jfT7hJLWDJs9QbqIn2jYvhg&s",
+      "original": "https://arsenal.lv/content/images/jpg/9258.jpg"
+    }
+  ]
+}

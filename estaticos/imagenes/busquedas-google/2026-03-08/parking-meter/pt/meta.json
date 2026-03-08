@@ -1,0 +1,71 @@
+{
+  "categoria": "parking meter",
+  "categoriaSlug": "parking-meter",
+  "idioma": "pt",
+  "nombreIdioma": "Português",
+  "termino": "parquímetro",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T20:48:52.214Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "pt",
+    "gl": "br"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=parqu%C3%ADmetro&hl=pt&gl=br",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/parking-meter/pt/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_fWiYcSZ-b0Odw3lqoo_nD3L4-bZ5V-8Prg&s",
+      "fuentePagina": "https://bhzepi.com.br/produto/parquimetro-digital-150mm-mtx/",
+      "titulo": "Parquímetro Digital 150MM – MTX – BHZ EPI",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_fWiYcSZ-b0Odw3lqoo_nD3L4-bZ5V-8Prg&s",
+      "original": "https://bhzepi.com.br/wp-content/uploads/2019/08/Paquimetro-Universal-Digital-150mm-em-Ac-mtx-31611911.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/parking-meter/pt/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFX958tJHOJfNA9Lhhm6QFYRi8zTtNFojObg&s",
+      "fuentePagina": "https://pt.wikipedia.org/wiki/Parqu%C3%ADmetro",
+      "titulo": "Parquímetro – Wikipédia, a enciclopédia livre",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFX958tJHOJfNA9Lhhm6QFYRi8zTtNFojObg&s",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/4/47/Im4g3m_d3_unn_parqu1m3tr0.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/parking-meter/pt/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSM8hO-nvtmudVSE3dA98CPIxvMJE-UanZLw&s",
+      "fuentePagina": "https://zonaazulepesmel.com.br/a-tecnologia-do-nosso-parquimetro/",
+      "titulo": "A tecnologia do nosso parquímetro – Zona Azul EPESMEL",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSM8hO-nvtmudVSE3dA98CPIxvMJE-UanZLw&s",
+      "original": "https://zonaazulepesmel.com.br/wp-content/uploads/2016/08/32132133131.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/parking-meter/pt/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRsz9oo4TVZMSEiqQ1XYEDAPlPQSm50NjJng&s",
+      "fuentePagina": "https://jundiai.sp.gov.br/noticias/2025/02/19/novo-sistema-de-parquimetros-moderniza-estacionamento-e-facilita-pagamento-com-cartao-e-pix/",
+      "titulo": "Novo sistema de parquímetros moderniza estacionamento e ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRsz9oo4TVZMSEiqQ1XYEDAPlPQSm50NjJng&s",
+      "original": "https://jundiai.sp.gov.br/noticias/wp-content/uploads/sites/32/2025/02/novo_parquimetro-6.jpg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/parking-meter/pt/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRAhM9RbTLaxtrb0SoRMElTjEQdvF4OYHHaQ&s",
+      "fuentePagina": "https://www.vvale.com.br/transito/parquimetros-ja-estao-funcionando/",
+      "titulo": "Parquímetros já estão funcionando - Vvale",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRAhM9RbTLaxtrb0SoRMElTjEQdvF4OYHHaQ&s",
+      "original": "https://static5.vvale.com.br/wp-content/uploads/2019/11/parquimentos-funcionamento-estar2.jpeg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/parking-meter/pt/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStIEfHoNdHTXTPXzaTkwHZU-3s4DpP6kJjSw&s",
+      "fuentePagina": "https://www.instagram.com/p/DLZtuGFO0aF/",
+      "titulo": "🅿️ Parquímetro traz mais facilidade para quem estaciona em ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStIEfHoNdHTXTPXzaTkwHZU-3s4DpP6kJjSw&s",
+      "original": "https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3664126112893032378"
+    }
+  ]
+}

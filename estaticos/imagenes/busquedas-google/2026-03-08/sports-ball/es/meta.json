@@ -1,0 +1,71 @@
+{
+  "categoria": "sports ball",
+  "categoriaSlug": "sports-ball",
+  "idioma": "es",
+  "nombreIdioma": "Español",
+  "termino": "pelota",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:01:52.554Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "es",
+    "gl": "es"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=pelota&hl=es&gl=es",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/sports-ball/es/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNK1BDtZg8q9mpgo8PlGs_QhxhE4vgcOdBwA&s",
+      "fuentePagina": "https://www.freepik.es/fotos-vectores-gratis/pelota",
+      "titulo": "Imágenes de Pelota - Descarga gratuita en Freepik",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNK1BDtZg8q9mpgo8PlGs_QhxhE4vgcOdBwA&s",
+      "original": "https://img.freepik.com/vector-gratis/vector-aislado-balon-futbol-realista-sobre-blanco_1284-41932.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/sports-ball/es/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTEq8ESaZ1qaQrV_7eqetAZTIS9LJ-MauHNw&s",
+      "fuentePagina": "https://es.wikipedia.org/wiki/Pelota",
+      "titulo": "Pelota - Wikipedia, la enciclopedia libre",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTEq8ESaZ1qaQrV_7eqetAZTIS9LJ-MauHNw&s",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/c/ce/Many_balls.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/sports-ball/es/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5Ez5uoKzVRuOVQno9wrptBRieZu_7pp2JPw&s",
+      "fuentePagina": "https://www.mumuchu.com/pelota-blanda-y-suave-arcoiris-grimm-s.html",
+      "titulo": "Pelota blanda y suave Arcoíris - Grimm's",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5Ez5uoKzVRuOVQno9wrptBRieZu_7pp2JPw&s",
+      "original": "https://www.mumuchu.com/media/catalog/product/cache/babc9c3930426724bed95a50193e0e01/p/e/pelota-blanda-y-suave-arcoiris---grimms.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/sports-ball/es/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwpDzZD8-NgHh2XC_OXzw_R1I-Dwg6kpXazQ&s",
+      "fuentePagina": "https://www.toysrus.es/Sun-y-Sport-Pelota-suave-16-cm-(varios-modelos)/p/K1043114",
+      "titulo": "Sun & Sport - Pelota suave 16 cm (varios modelos)",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwpDzZD8-NgHh2XC_OXzw_R1I-Dwg6kpXazQ&s",
+      "original": "https://www.toysrus.es/medias/?context=bWFzdGVyfHByb2R1Y3RfaW1hZ2VzfDU0MTA5fGltYWdlL2pwZWd8YUdFMUwyZ3lOQzh4TWpZME5Ua3hPREkzTnpZMk1nfGIxZWExNTFiMjFkOGZiODE4NTY3ZWJkZmJhZDM3YTU0ZjE1MDc1MTQwM2E4MjIxNjlmMTBiYmE1MWRmOTJkNDg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/sports-ball/es/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHKePNWHMeYLDaZ7RJr0t23SrrxbDKp534Mg&s",
+      "fuentePagina": "https://es.vecteezy.com/arte-vectorial/2703018-futbol-pelota-deporte-dibujos-animados-en-blanco-y-negro",
+      "titulo": "dibujos animados de deporte de pelota de fútbol en blanco y ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHKePNWHMeYLDaZ7RJr0t23SrrxbDKp534Mg&s",
+      "original": "https://static.vecteezy.com/system/resources/previews/002/703/018/non_2x/soccer-ball-sport-cartoon-in-black-and-white-free-vector.jpg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/sports-ball/es/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRh2Fx8hx11KGNrAi5nJ6qRL5SFZJcgstUboQ&s",
+      "fuentePagina": "https://www.soyvisual.org/fotos/pelota-de-baloncesto",
+      "titulo": "Pelota de baloncesto #Soyvisual",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRh2Fx8hx11KGNrAi5nJ6qRL5SFZJcgstUboQ&s",
+      "original": "https://www.soyvisual.org/sites/default/files/styles/twitter_card/public/images/photos/dep_0002.jpg?itok=wgC2bMKz"
+    }
+  ]
+}

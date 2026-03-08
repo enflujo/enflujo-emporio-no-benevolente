@@ -1,0 +1,71 @@
+{
+  "categoria": "donut",
+  "categoriaSlug": "donut",
+  "idioma": "sw",
+  "nombreIdioma": "Kiswahili",
+  "termino": "donati",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:15:36.831Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "sw",
+    "gl": "tz"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=donati&hl=sw&gl=tz",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/donut/sw/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXkBVXY1oz3UZ05mL4aUM1D5-P-axZ5IOvew&s",
+      "fuentePagina": "https://www.youtube.com/watch?v=Ls8i6V247U4",
+      "titulo": "JINSI YA KUPIKA DONATI / HOW TO MAKE DONUTS: Ika Malle",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXkBVXY1oz3UZ05mL4aUM1D5-P-axZ5IOvew&s",
+      "original": "https://i.ytimg.com/vi/Ls8i6V247U4/maxresdefault.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/donut/sw/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQv-brCDH0mluXCMGrpdY1Kx0LHUllL3rxUJg&s",
+      "fuentePagina": "https://www.youtube.com/watch?v=1hWr4Z0GSmo",
+      "titulo": "jinsi ya kupika donati laini tamu kila kitu unacho hapo nyumbani. kupamba  na chocolate//donuts.",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQv-brCDH0mluXCMGrpdY1Kx0LHUllL3rxUJg&s",
+      "original": "https://i.ytimg.com/vi/1hWr4Z0GSmo/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLA9edbTfzUYf5A6aQhioa4lF5SEcQ"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/donut/sw/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXA49005WNXYpHP2hNZu6heC74Z3IHOgXuqg&s",
+      "fuentePagina": "https://www.youtube.com/watch?v=STKEspUwNSc",
+      "titulo": "Jinsi ya kupika DONUTS LAINI za MAZIWA na YAI Nyumbani bila la Kifaa  chochote | DONATI LAINI",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXA49005WNXYpHP2hNZu6heC74Z3IHOgXuqg&s",
+      "original": "https://i.ytimg.com/vi/STKEspUwNSc/hqdefault.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/donut/sw/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsyevtDV1N-PCBQQMKQdxs4v2tzEPWE7Deqg&s",
+      "fuentePagina": "https://www.facebook.com/JinsiYaKupika/posts/jinsi-ya-kupika-doughnut%EF%B8%8Fmahitaji1-unga-wa-ngano-kilo-12-mafuta-ya-kupikia-lita-/134191184828472/",
+      "titulo": "JINSI YA KUPIKA DOUGHNUT ️MAHITAJI 1. Unga wa ngano kilo 1 ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsyevtDV1N-PCBQQMKQdxs4v2tzEPWE7Deqg&s",
+      "original": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=134191164828474"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/donut/sw/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8KTpUHavdTsS8FHswUcvi3tPbOYy204FLeg&s",
+      "fuentePagina": "https://www.youtube.com/watch?v=ylIHgAJU48c",
+      "titulo": "JINSI YA KUPIKA DONATI TAMU SANA NA LAINI/ HOME MADE DONUT RECIPE",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8KTpUHavdTsS8FHswUcvi3tPbOYy204FLeg&s",
+      "original": "https://i.ytimg.com/vi/ylIHgAJU48c/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLAaYmvZkPEHByguPohKvukLcVQRLA"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/donut/sw/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9AfI-ixIH1XG8Xuvg5CICnUNz4PMsoNndpA&s",
+      "fuentePagina": "https://www.facebook.com/mymapishi/posts/jinsi-ya-kupika-donati-mahitaji-siagi-12-kg-sukari-iliyosagwa-12-kgmayai-6-unga-/824817244293677/",
+      "titulo": "Jinsi ya kupika Donati Mahitaji Siagi 1/2 kg Sukari ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9AfI-ixIH1XG8Xuvg5CICnUNz4PMsoNndpA&s",
+      "original": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=824817244293677"
+    }
+  ]
+}

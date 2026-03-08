@@ -1,0 +1,71 @@
+{
+  "categoria": "tie",
+  "categoriaSlug": "tie",
+  "idioma": "gn",
+  "nombreIdioma": "Guaraní",
+  "termino": "corbata",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T20:58:33.599Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "es",
+    "gl": "py"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=corbata&hl=es&gl=py",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/tie/gn/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPcrZsNJxXRxyZUQFmmkkwdssz2TKunYvWGQ&s",
+      "fuentePagina": "https://www.freepik.es/fotos-vectores-gratis/corbata-dibujo",
+      "titulo": "Imágenes de Corbata dibujo - Descarga gratuita en Freepik",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPcrZsNJxXRxyZUQFmmkkwdssz2TKunYvWGQ&s",
+      "original": "https://img.freepik.com/vector-gratis/conjunto-corbatas-varios-estilos_78370-9463.jpg?semt=ais_rp_50_assets&w=740&q=80"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/tie/gn/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7-yGAlgeBMD8Es7fCZ33yLCVW4Y0jc5DsDA&s",
+      "fuentePagina": "https://sastreriaforaster.es/5-claves-para-elegir-la-corbata-adecuada/",
+      "titulo": "5 claves para elegir la corbata adecuada - Sastrería Foraster",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7-yGAlgeBMD8Es7fCZ33yLCVW4Y0jc5DsDA&s",
+      "original": "https://sastreriaforaster.es/wp-content/uploads/2021/02/corbata-color.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/tie/gn/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIaQTez5Usk3sHyZed9LzHiRJrvNdQLyFFNQ&s",
+      "fuentePagina": "https://www.istockphoto.com/es/fotos/dibujo-corbata",
+      "titulo": "97.200+ Dibujo Corbata Fotografías de stock, fotos e ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIaQTez5Usk3sHyZed9LzHiRJrvNdQLyFFNQ&s",
+      "original": "https://media.istockphoto.com/id/925793072/es/vector/corbata.jpg?s=612x612&w=0&k=20&c=52TCOI2r9Od1akDef5ak0r-7oyl9fQfyLgJf4V36uJA="
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/tie/gn/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUfk3D7TYRC_P7lrX4e_-ilPaW9aX_UYW-IA&s",
+      "fuentePagina": "https://www.glamira.com.py/tie-clips-men-s-accessories/oro-amarillo-585/",
+      "titulo": "Corbatas de Clip 14k Oro Amarillo para Hombres | GLAMIRA.com.py",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUfk3D7TYRC_P7lrX4e_-ilPaW9aX_UYW-IA&s",
+      "original": "https://cdn-media.glamira.com/media/catalog/category/tie_clips_top_banner.jpg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/tie/gn/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWqnW00Ia1o9qEkH04vzXN_rry4jHPoIcppQ&s",
+      "fuentePagina": "https://autoserviciosantodomingo.com.py/SECCION-DE-ROPA/15548-corbata-infantil-pq-id-107043.html",
+      "titulo": "CORBATA INFANTIL PQ LISTRADO CON GOMA",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWqnW00Ia1o9qEkH04vzXN_rry4jHPoIcppQ&s",
+      "original": "https://autoserviciosantodomingo.com.py/44217-superlarge_default/corbata-infantil-pq-id-107043.jpg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/tie/gn/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwYDtojRa7M6iOA4ydEkM0BPm88c5lCGDDkQ&s",
+      "fuentePagina": "https://www.amazon.com/-/es/PAASHE-Corbata-poli%C3%A9ster-corbata-negocios/dp/B0C6DZWLNH",
+      "titulo": "Amazon.com: PAASHE Corbata de poliéster de moda de lujo para ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwYDtojRa7M6iOA4ydEkM0BPm88c5lCGDDkQ&s",
+      "original": "https://m.media-amazon.com/images/I/61bbBeSVGKL._AC_UF894,1000_QL80_.jpg"
+    }
+  ]
+}

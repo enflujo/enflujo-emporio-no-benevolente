@@ -1,0 +1,71 @@
+{
+  "categoria": "clock",
+  "categoriaSlug": "clock",
+  "idioma": "yo",
+  "nombreIdioma": "Yorùbá",
+  "termino": "àgogo",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:28:54.458Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "yo",
+    "gl": "ng"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=%C3%A0gogo&hl=yo&gl=ng",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/clock/yo/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQiX_1Z8PEGXZQj7tzIWsZntVFCBtHPcbuqA&s",
+      "fuentePagina": "https://www.tiktok.com/@agogo.pasta/video/7585199107711536405",
+      "titulo": "Àgogo: Discovering Yerevan's Tasteful Pasta Delights",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQiX_1Z8PEGXZQj7tzIWsZntVFCBtHPcbuqA&s",
+      "original": "https://www.tiktok.com/api/img/?itemId=7585199107711536405&location=0&aid=1988"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/clock/yo/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgmov09tUnq76OUqsODJ44S7sqOni3EoYohw&s",
+      "fuentePagina": "https://www.instagram.com/p/DL0BneYMF3p/",
+      "titulo": "Àgogo - fresh pasta on the go. Made for your lunch break ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgmov09tUnq76OUqsODJ44S7sqOni3EoYohw&s",
+      "original": "https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3671566700118145410"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/clock/yo/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkcC-Na1D3JZ6oaz1iparfy0WV19D4zTw2CQ&s",
+      "fuentePagina": "https://agogobooks.com/en/about-agogo?srsltid=AfmBOoqrBfhhw07i4cZ0yQxGlzx6Jy-kEPv8U6STRaazY_w5NGNwKjMZ",
+      "titulo": "àgogobooks | Books & Toys",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkcC-Na1D3JZ6oaz1iparfy0WV19D4zTw2CQ&s",
+      "original": "https://agogobooks.com/00_images/AGG-logo-EN.png"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/clock/yo/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLa_l-JESOqMP2ntgc4tKg8zTcGb52avdNMw&s",
+      "fuentePagina": "https://www.instagram.com/p/DSc7XzDDBqD/",
+      "titulo": "ÀGOGO is open. Fresh pasta, open kitchen, city pace. Drop by ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLa_l-JESOqMP2ntgc4tKg8zTcGb52avdNMw&s",
+      "original": "https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3791166106443192963"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/clock/yo/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpkeDxHJUOMidFzRg4DEHF0LwsM-P8WQHRIw&s",
+      "fuentePagina": "https://www.youtube.com/watch?v=wRb2_Qx1TK0",
+      "titulo": "Yoruba kids Song. Àgogo Baba mi Ẹgbẹ́ Ogírí Ló dúró",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpkeDxHJUOMidFzRg4DEHF0LwsM-P8WQHRIw&s",
+      "original": "https://i.ytimg.com/vi/wRb2_Qx1TK0/maxresdefault.jpg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/clock/yo/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSy34HcvkLOf5C-d8xZAWGIUepqfgjdg1Cong&s",
+      "fuentePagina": "https://www.instagram.com/p/DLz2BuDMVMi/",
+      "titulo": "Welcome to pasta, the Àgogo way. 🍝 Fresh pasta, handmade in ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSy34HcvkLOf5C-d8xZAWGIUepqfgjdg1Cong&s",
+      "original": "https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3671515733913850658"
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "categoria": "bear",
+  "categoriaSlug": "bear",
+  "idioma": "ar",
+  "nombreIdioma": "العربية",
+  "termino": "دب",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T20:54:27.707Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "ar",
+    "gl": "eg"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=%D8%AF%D8%A8&hl=ar&gl=eg",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bear/ar/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS47-aCtYc44zYUkgN5q4s_Ii2dzZdmrHAlAg&s",
+      "fuentePagina": "https://www.tiktok.com/@natgeomagarab/video/7512364203622157573",
+      "titulo": "عطلة نهاية الأسبوع مع دب البني",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS47-aCtYc44zYUkgN5q4s_Ii2dzZdmrHAlAg&s",
+      "original": "https://www.tiktok.com/api/img/?itemId=7512364203622157573&location=0&aid=1988"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bear/ar/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTlAS-ZlnNNzHGMfky9O5RlOZNIcKn3p3U1g&s",
+      "fuentePagina": "https://www.marefa.org/%D8%AF%D8%A8",
+      "titulo": "دب - المعرفة",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTlAS-ZlnNNzHGMfky9O5RlOZNIcKn3p3U1g&s",
+      "original": "https://www.marefa.org/w/images/thumb/9/9e/Ours_brun_parcanimalierpyrenees_1.jpg/640px-Ours_brun_parcanimalierpyrenees_1.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bear/ar/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQA399UCLKIZs8ewgqrQLdeDA7nghVr10ZNA&s",
+      "fuentePagina": "https://share.america.gov/ar/%D8%AF%D8%A8%D8%A8%D8%A9-%D8%A3%D9%84%D8%A7%D8%B3%D9%83%D8%A7-%D8%AA%D8%B3%D8%AA%D9%85%D8%AA%D8%B9-%D8%A8%D8%A3%D8%AC%D9%88%D8%A7%D8%A1-%D8%A3%D8%B3%D8%A8%D9%88%D8%B9-%D8%A7%D9%84%D8%AF%D8%A8/",
+      "titulo": "دببة ألاسكا تستمتع بأجواء 'أسبوع الدب السمين' - ShareAmerica",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQA399UCLKIZs8ewgqrQLdeDA7nghVr10ZNA&s",
+      "original": "https://share.america.gov/wp-content/uploads/sites/155/2025/09/Fat-Bear-Week-2-scaled.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bear/ar/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOJOkDRYGF197lAw0EpocY7KinDXnaFOutYA&s",
+      "fuentePagina": "https://www.aletihad.ae/news/%D8%AF%D9%86%D9%8A%D8%A7/3992092/v",
+      "titulo": "رصد دب بني للمرة الأولى منذ 150 عاماً في شمال إسبانيا ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOJOkDRYGF197lAw0EpocY7KinDXnaFOutYA&s",
+      "original": "https://cdn1-m.alittihad.ae/store/archive/image/2020/5/5/102f917b-4954-43e8-abd3-a470588d1c50.jpg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bear/ar/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZdWF4n5dA-w-a9DWZYJoXxqEBHvwwabZxUA&s",
+      "fuentePagina": "https://www.dw.com/ar/%D8%AF%D8%A8-%D9%8A%D9%84%D8%AA%D9%87%D9%85-%D9%8A%D8%AF-%D8%B7%D9%81%D9%84-%D9%81%D9%84%D8%B3%D8%B7%D9%8A%D9%86%D9%8A-%D9%81%D9%8A-%D8%AD%D8%AF%D9%8A%D9%82%D8%A9-%D8%A7%D9%84%D8%AD%D9%8A%D9%88%D8%A7%D9%86%D8%A7%D8%AA/a-38589370",
+      "titulo": "دب يلتهم يد طفل فلسطيني في حديقة الحيوانات",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZdWF4n5dA-w-a9DWZYJoXxqEBHvwwabZxUA&s",
+      "original": "https://static.dw.com/image/37881656_803.webp"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bear/ar/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPEIbj-85-1TD8Cxrq6i9bfn-895OaMJuqzw&s",
+      "fuentePagina": "https://arz.wikipedia.org/wiki/%D8%AF%D8%A8_%D9%82%D8%B7%D8%A8%D9%89",
+      "titulo": "دب قطبى - ويكيبيديا",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPEIbj-85-1TD8Cxrq6i9bfn-895OaMJuqzw&s",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/6/66/Polar_Bear_-_Alaska_%28cropped%29.jpg"
+    }
+  ]
+}

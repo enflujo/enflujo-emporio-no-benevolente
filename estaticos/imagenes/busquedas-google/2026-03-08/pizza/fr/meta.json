@@ -1,0 +1,71 @@
+{
+  "categoria": "pizza",
+  "categoriaSlug": "pizza",
+  "idioma": "fr",
+  "nombreIdioma": "Français",
+  "termino": "pizza",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:15:05.659Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "fr",
+    "gl": "be"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=pizza&hl=fr&gl=be",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/pizza/fr/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyLCWEbWCyzRRiQoUBSLcY52FedzxjpJn2fA&s",
+      "fuentePagina": "https://cookidoo.be/recipes/recipe/nl-BE/r917387",
+      "titulo": "Pizza napolitaine",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyLCWEbWCyzRRiQoUBSLcY52FedzxjpJn2fA&s",
+      "original": "https://assets.tmecosys.com/image/upload/t_web_rdp_recipe_584x480_1_5x/img/recipe/ras/Assets/48a49653c8716457eb0b2f7eb3c7d74c/Derivates/8d83d9ed4567fa15456d8eec7557e60006a15576.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/pizza/fr/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDJKJPlaalwOKPpT-IChF_JIU4S8ZMGOiyGQ&s",
+      "fuentePagina": "https://explore.typhur.com/fr/homemade-pizza",
+      "titulo": "Pizza maison à la friteuse à air",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDJKJPlaalwOKPpT-IChF_JIU4S8ZMGOiyGQ&s",
+      "original": "https://wp-cdn.typhur.com/wp-content/uploads/2025/01/homemade-pizza-in-air-fryer.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/pizza/fr/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_2CnSVbm0H2wwMPIeHhd5vZiIkpa1I9gohA&s",
+      "fuentePagina": "https://www.tasteofhome.com/recipes/homemade-pizza/",
+      "titulo": "Homemade Pizza",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_2CnSVbm0H2wwMPIeHhd5vZiIkpa1I9gohA&s",
+      "original": "https://www.tasteofhome.com/wp-content/uploads/2018/01/Homemade-Pizza_EXPS_FT23_376_EC_120123_3.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/pizza/fr/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQugXpVRngY9P616NZ57jyx2kl-Xoq_DbC58A&s",
+      "fuentePagina": "https://www.hunts.com/recipes/quick-easy-meals/easy-pepperoni-pizza-6934",
+      "titulo": "Easy Pepperoni Pizza",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQugXpVRngY9P616NZ57jyx2kl-Xoq_DbC58A&s",
+      "original": "https://www.hunts.com/sites/g/files/qyyrlu211/files/uploadedImages/img_6934_48664.jpg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/pizza/fr/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwJTnvgv4AUo3m6uKAIp_HbY_H7Qxjz9xLOw&s",
+      "fuentePagina": "https://www.meilleurduchef.com/fr/recette/pizza-margherita.html",
+      "titulo": "Pizza margherita",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwJTnvgv4AUo3m6uKAIp_HbY_H7Qxjz9xLOw&s",
+      "original": "https://files.meilleurduchef.com/mdc/photo/recette/pizza-margherita/pizza-margherita-1200.jpg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/pizza/fr/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSeEs81Q4neWhSIwUB34QbeDQk_ztiPwWDrSw&s",
+      "fuentePagina": "https://www.oilvinegar.be/fr/blogs/recettes/pizza-piccante",
+      "titulo": "Pizza Piccante",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSeEs81Q4neWhSIwUB34QbeDQk_ztiPwWDrSw&s",
+      "original": "http://www.oilvinegar.be/cdn/shop/articles/thumb-pizza-piccante.jpg?v=1721939371"
+    }
+  ]
+}

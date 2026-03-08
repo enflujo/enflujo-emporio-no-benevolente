@@ -1,0 +1,71 @@
+{
+  "categoria": "cow",
+  "categoriaSlug": "cow",
+  "idioma": "es",
+  "nombreIdioma": "Español",
+  "termino": "vaca",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T20:53:26.447Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "es",
+    "gl": "es"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=vaca&hl=es&gl=es",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/cow/es/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdKtQWkwUcWiNKu1noF-N3i_Gmo3E0PUXK3A&s",
+      "fuentePagina": "https://www.gastroactitud.com/pista/vacas-asadores/",
+      "titulo": "Razas de vacas de los asadores - Gastroactitud. Pasión por ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdKtQWkwUcWiNKu1noF-N3i_Gmo3E0PUXK3A&s",
+      "original": "https://www.gastroactitud.com/wp-content/uploads/2021/07/frisona-1280x720.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/cow/es/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTe7UQstFKm3iAEyVzW4GH2b2G0LwR9Wvd7DA&s",
+      "fuentePagina": "https://www.freepik.es/fotos-vectores-gratis/vaca-dibujo",
+      "titulo": "Imágenes de Vaca dibujo - Descarga gratuita en Freepik",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTe7UQstFKm3iAEyVzW4GH2b2G0LwR9Wvd7DA&s",
+      "original": "https://img.freepik.com/vector-gratis/vaca-sonriente-ilustracion-vectorial-dibujos-animados_96037-417.jpg?semt=ais_rp_50_assets&w=740&q=80"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/cow/es/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTW1fqD7Dj9hvaEJhbyAhtYTfx7dl3r7Ez72Q&s",
+      "fuentePagina": "https://www.contextoganadero.com/ganaderia-sostenible/3-datos-curiosos-que-debe-saber-sobre-las-vacas",
+      "titulo": "3 datos curiosos que debe saber sobre las vacas | CONtexto ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTW1fqD7Dj9hvaEJhbyAhtYTfx7dl3r7Ez72Q&s",
+      "original": "https://a.storyblok.com/f/160385/4bf112f0cd/datos_curiosos.jpg/m/filters:quality(70)/"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/cow/es/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRe83FX_Tp4Uq-hRXaiPptC3GTZdGnIEyWQ3A&s",
+      "fuentePagina": "https://www.contextoganadero.com/ganaderia-sostenible/cual-es-la-belleza-de-las-vacas",
+      "titulo": "Cuál es la belleza de las vacas? | CONtexto Ganadero",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRe83FX_Tp4Uq-hRXaiPptC3GTZdGnIEyWQ3A&s",
+      "original": "https://a.storyblok.com/f/160385/4cd7b2fac3/vaca_bonita.jpg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/cow/es/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYIiQUWc-AzfV5udEWLbra3-UrR5C4xYuSwg&s",
+      "fuentePagina": "https://www.worldanimalprotection.es/noticias-y-blogs/blogs/datos-curiosos-vacas-toros-granja-bienestar-animal/",
+      "titulo": "10 datos curiosos sobre las vacas | World Animal Protection",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYIiQUWc-AzfV5udEWLbra3-UrR5C4xYuSwg&s",
+      "original": "https://www.worldanimalprotection.es/cdn-cgi/image/width=800,format=auto,fit=cover/siteassets/images/datos-curiosos-vacas/"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/cow/es/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8XnutooimuRxSKK1i_FvbUpuVDzwy8Q5-OA&s",
+      "fuentePagina": "https://naukas.com/2017/05/22/cuanta-leche-da-una-vaca/",
+      "titulo": "Cuánta leche da una vaca? - Naukas",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8XnutooimuRxSKK1i_FvbUpuVDzwy8Q5-OA&s",
+      "original": "https://naukas.com/fx/uploads/2017/05/Dairy_cow.jpg"
+    }
+  ]
+}

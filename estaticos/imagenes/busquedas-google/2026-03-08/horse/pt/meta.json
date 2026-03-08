@@ -1,0 +1,71 @@
+{
+  "categoria": "horse",
+  "categoriaSlug": "horse",
+  "idioma": "pt",
+  "nombreIdioma": "Português",
+  "termino": "cavalo",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T20:52:10.610Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "pt",
+    "gl": "br"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=cavalo&hl=pt&gl=br",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/horse/pt/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRt8U1mAJL68qbHcEy9ipiRtYlFIXyM6ghO-A&s",
+      "fuentePagina": "https://blog.agroline.com.br/cavalo-dourado/",
+      "titulo": "Cavalo dourado: conheça a raça mais bonita do mundo",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRt8U1mAJL68qbHcEy9ipiRtYlFIXyM6ghO-A&s",
+      "original": "https://blog.agroline.com.br/wp-content/uploads/2021/10/Akhal-Teke_1-opt.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/horse/pt/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTahPUnSxHOQtNe9DU4hg_4crRAURy8fM_oyQ&s",
+      "fuentePagina": "https://www.criacaodecavalos.com.br/principais-racas-de-trote",
+      "titulo": "Principais raças de trote | Criação de Cavalos",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTahPUnSxHOQtNe9DU4hg_4crRAURy8fM_oyQ&s",
+      "original": "https://cptstatic.s3.amazonaws.com/imagens/enviadas/materias/materia26213/cavalo-andando-cdc.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/horse/pt/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6nHJRIU6CXfU8PSU2rgW2N8FQ9CktW11PuA&s",
+      "fuentePagina": "https://agro.estadao.com.br/economia/cavalo-garanhao",
+      "titulo": "Genética do sucesso: saiba tudo sobre o cavalo garanhão ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6nHJRIU6CXfU8PSU2rgW2N8FQ9CktW11PuA&s",
+      "original": "https://media-agro.estadao.com.br/uploads/2025/03/AdobeStock_326500445-scaled.jpeg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/horse/pt/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQG7z_IR35KnlL_ggG0uMeZB962WRThl9uc9Q&s",
+      "fuentePagina": "https://brasilescola.uol.com.br/animais/cavalo.htm",
+      "titulo": "Cavalo: características, raças, importância - Brasil Escola",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQG7z_IR35KnlL_ggG0uMeZB962WRThl9uc9Q&s",
+      "original": "https://s1.static.brasilescola.uol.com.br/be/conteudo/images/cavalo.jpg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/horse/pt/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMbnFxkP50-8uzoB2TMMEDPpqhLFltWd9pkg&s",
+      "fuentePagina": "https://www.cpt.com.br/dicas-cursos-cpt/a-pelagem-dita-o-temperamento-do-cavalo-verdade-ou-mentira",
+      "titulo": "A pelagem dita o temperamento do cavalo. Verdade ou mentira ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMbnFxkP50-8uzoB2TMMEDPpqhLFltWd9pkg&s",
+      "original": "https://cptstatic.s3.amazonaws.com/imagens/enviadas/materias/materia19863/a-pelagem-dita-o-temperamento-do-cavalo-verdade-ou-mentira-cpt-246.jpg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/horse/pt/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxUPlhOl-7TRCJ0zHGEyACFJz6XtcETbjheg&s",
+      "fuentePagina": "https://www.eltonbrunetti.com.br/loja/quadro-de-cavalo-frisio-pintura-a-oleo/?srsltid=AfmBOor9HutCYo-ZmHZdCF5fmOG5ohJh8XEYDWwJJR_Pekeg3zLTYppC",
+      "titulo": "Quadro de Cavalo Frisio | Pintura a óleo",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxUPlhOl-7TRCJ0zHGEyACFJz6XtcETbjheg&s",
+      "original": "https://www.eltonbrunetti.com.br/wp-content/uploads/2021/04/Quadro-pintura-Cavalo-Frisio-80x100-Elton-Brunetti-jpg.webp"
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "categoria": "microwave",
+  "categoriaSlug": "microwave",
+  "idioma": "hi",
+  "nombreIdioma": "हिन्दी",
+  "termino": "माइक्रोवेव",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:25:09.323Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "hi",
+    "gl": "in"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=%E0%A4%AE%E0%A4%BE%E0%A4%87%E0%A4%95%E0%A5%8D%E0%A4%B0%E0%A5%8B%E0%A4%B5%E0%A5%87%E0%A4%B5&hl=hi&gl=in",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/microwave/hi/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIgNug3MIt99CL3w2es7YPo27x_LjPJ2223A&s",
+      "fuentePagina": "https://www.rasoishop.com/hi/products/bajaj-2005-etb-20-litres-grill-microwave-oven-with-jog-dial-white?srsltid=AfmBOoruPMwukKQi9Fueg5Fvv6UpsfHjLgXNBTcANkka7vgR6NBpLNNl",
+      "titulo": "बजाज 2005 ईटीबी 20 लीटर ग्रिल ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIgNug3MIt99CL3w2es7YPo27x_LjPJ2223A&s",
+      "original": "http://www.rasoishop.com/cdn/shop/products/490036_1.png?v=1640846818"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/microwave/hi/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzUMiyRriZAC7H-P9r53aAY7K_adso5hr3Ag&s",
+      "fuentePagina": "https://www.samsung.com/in/support/home-appliances/what-are-the-materials-suitable-for-microwave-cooking-hindi/?srsltid=AfmBOorkdLE0g0Kblp1IKsyzbeIIjQruAnLCRtk3dm82xB166i-K0Rrx",
+      "titulo": "माइक्रोवेव में खाना पकाने के लिए ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzUMiyRriZAC7H-P9r53aAY7K_adso5hr3Ag&s",
+      "original": "https://images.samsung.com/is/image/samsung/assets/in/support/home-appliances/convection-microwave1.png?$ORIGIN_PNG$"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/microwave/hi/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSndzgcf-EPLAi7ZEaYVYkl77HGZJBngaWm6A&s",
+      "fuentePagina": "https://www.moglix.com/hi/lg-28-litre-black-convection-microwave-oven-mc2886brum/mp/msn2rcqxumjni9?srsltid=AfmBOooJLaspNre9ZzHQTh5NX7L465ZMhqzCpbaDAcf5H8dj2DAEJ5Qu",
+      "titulo": "खरीदें LG 28 लीटर ब्लैक कन्वेक्शन ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSndzgcf-EPLAi7ZEaYVYkl77HGZJBngaWm6A&s",
+      "original": "https://cdn.moglix.com/p/I/9/V/d/MINI9VE5IBUB1-xxlarge.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/microwave/hi/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRd3xin1m-KjEbKAFyqfYBw4HQdqzeoqsm3OQ&s",
+      "fuentePagina": "https://news.samsung.com/bharat/samsung-bolsters-microwave-range-with-new-make-for-india-innovations",
+      "titulo": "माइक्रोवेव में अब लगाएं तड़का ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRd3xin1m-KjEbKAFyqfYBw4HQdqzeoqsm3OQ&s",
+      "original": "https://img.global.news.samsung.com/bharat/wp-content/uploads/2018/06/Microwave2.jpg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/microwave/hi/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSflAiLyeNju7yRaJrb8dgpeFvWGcXMY9hDUQ&s",
+      "fuentePagina": "https://www.flipkart.com/hi/haier-28-l-convection-microwave-oven/p/itme26mkw7zfskyg",
+      "titulo": "Flipkart.com | Haier 28 L Convection Microwave Oven - Convection",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSflAiLyeNju7yRaJrb8dgpeFvWGcXMY9hDUQ&s",
+      "original": "https://rukminim2.flixcart.com/image/480/640/jtx9evk0/microwave-new/y/u/m/hil2801rbsj-haier-original-imaff5y5vbzum4y2.jpeg?q=90"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/microwave/hi/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAOKMw9xJ48FxLWhp6Wy3o2QqD0XYSwPhTDQ&s",
+      "fuentePagina": "https://www.amazon.in/-/hi/LG-%E0%A4%95%E0%A4%A8%E0%A5%8D%E0%A4%B5%E0%A5%87%E0%A4%95%E0%A5%8D%E0%A4%B6%E0%A4%A8-%E0%A4%AE%E0%A4%BE%E0%A4%87%E0%A4%95%E0%A5%8D%E0%A4%B0%E0%A5%8B%E0%A4%B5%E0%A5%87%E0%A4%B5-MC2886BRUM-%E0%A4%95%E0%A4%BE%E0%A4%B2%E0%A4%BE/dp/B01LF927AU",
+      "titulo": "LG 28 L कन्वेक्शन माइक्रोवेव ओवन (MC2886BRUM, काला) : Amazon.in: घर और किचन",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAOKMw9xJ48FxLWhp6Wy3o2QqD0XYSwPhTDQ&s",
+      "original": "https://m.media-amazon.com/images/I/81USDPEpZhL._AC_UF1000,1000_QL80_.jpg"
+    }
+  ]
+}

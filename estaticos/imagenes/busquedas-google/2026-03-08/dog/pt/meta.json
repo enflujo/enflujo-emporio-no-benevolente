@@ -1,0 +1,71 @@
+{
+  "categoria": "dog",
+  "categoriaSlug": "dog",
+  "idioma": "pt",
+  "nombreIdioma": "Português",
+  "termino": "cachorro",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T20:51:32.325Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "pt",
+    "gl": "br"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=cachorro&hl=pt&gl=br",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/dog/pt/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDziUXRiXcEXtkD-4IhhTuhAJdyXhHv9nLiQ&s",
+      "fuentePagina": "https://premierpet.com.br/tutor/dicas-para-o-primeiro-cachorro-o-que-voce-precisa-saber/",
+      "titulo": "Dicas para o primeiro cachorro: o que você precisa saber?",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDziUXRiXcEXtkD-4IhhTuhAJdyXhHv9nLiQ&s",
+      "original": "https://premierpet.com.br/wp-content/uploads/2025/04/model-banner-dicasprimeirocachorro-mobile-v1.png"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/dog/pt/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6KAl9yE5qcfvrSPOE8P1-r8HIyzVjvFJdBA&s",
+      "fuentePagina": "https://www.cpt.com.br/cursos-pequenasempresas-comomontar/artigos/racas-de-cachorro-golden-retriever",
+      "titulo": "Raças de cachorro: Golden Retriever | Cursos a Distância CPT",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6KAl9yE5qcfvrSPOE8P1-r8HIyzVjvFJdBA&s",
+      "original": "https://cptstatic.s3.amazonaws.com/imagens/enviadas/materias/materia10349/racas-de-cachorro-golden-retriever-cpt11.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/dog/pt/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQ_O1IFq66j6t-pC4_jFjycTiBfYEp8M7cMw&s",
+      "fuentePagina": "https://labovet.com.br/blog-pet/4-cuidados-para-o-cao-filhote",
+      "titulo": "4 CUIDADOS PARA O CÃO FILHOTE | Labovet Produtos Veterinários",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQ_O1IFq66j6t-pC4_jFjycTiBfYEp8M7cMw&s",
+      "original": "https://labovet.com.br/wp-content/uploads/2024/11/4-CUIDADOS-PARA-O-CAO-FILHOTE-1024x576.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/dog/pt/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8YCbLchWBk9jQ1mkgk0An8SjFpJz88cEzNA&s",
+      "fuentePagina": "https://www.petz.com.br/blog/raca-de-cachorro-muito-popular-no-brasil/",
+      "titulo": "Raça de cachorro muito popular no Brasil: veja quais são | Petz",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8YCbLchWBk9jQ1mkgk0An8SjFpJz88cEzNA&s",
+      "original": "https://www.petz.com.br/blog/wp-content/uploads/2020/07/raca-de-cachorro-muito-popular-no-brasil-1.jpg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/dog/pt/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-qIq9WmrjkSvoIMZVCdEnYEPUyEP40PlvbA&s",
+      "fuentePagina": "https://www.pedigree.com.br/comportamento/curiosidades/conheca-racas-de-cachorros-mais-inteligentes-do-mundo",
+      "titulo": "Conheça os cachorros mais inteligentes do mundo | PEDIGREE®",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-qIq9WmrjkSvoIMZVCdEnYEPUyEP40PlvbA&s",
+      "original": "https://www.pedigree.com.br/cdn-cgi/image/format=auto,q=90/sites/g/files/fnmzdf2401/files/2024-09/conheca-as-racas-de-cachorros-mais-inteligentes-do-mundo_0.jpg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/dog/pt/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQT7heVk1LKgn5FxRuI4Na4bCpkIWT-_2uu8w&s",
+      "fuentePagina": "https://purina.com.br/purina/racas-cachorros-porte-medio",
+      "titulo": "Raças de cachorros de porte médio para o seu lar | Purina Brasil",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQT7heVk1LKgn5FxRuI4Na4bCpkIWT-_2uu8w&s",
+      "original": "https://purina.com.br/sites/default/files/2024-08/racas-cachorros-porte-medio-beagle-br.jpg"
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "categoria": "bicycle",
+  "categoriaSlug": "bicycle",
+  "idioma": "yo",
+  "nombreIdioma": "Yorùbá",
+  "termino": "kẹ̀kẹ̀",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T20:41:11.082Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "yo",
+    "gl": "ng"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=k%E1%BA%B9%CC%80k%E1%BA%B9%CC%80&hl=yo&gl=ng",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bicycle/yo/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRF2g4lOZI7_QU5ucBD_5wYwB0Fs3Quu8eDNA&s",
+      "fuentePagina": "https://factcheck.thecable.ng/fidio-tinubu-nibi-ti-o-ti-n-ro-keke-mo-awon-omo-naijiria-nitori-pe-won-pe-oro-re-ni-ai-kii-se-ooto/",
+      "titulo": "Fídíò Tinubu níbi tí ó ti ń rọ́ kẹ̀kẹ̀ mọ̀ àwọn ọmọ Nàìjíríà ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRF2g4lOZI7_QU5ucBD_5wYwB0Fs3Quu8eDNA&s",
+      "original": "https://factcheck.thecable.ng/wp-content/uploads/2025/08/images-2.jpeg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bicycle/yo/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKCV0trP_ZN9wfX4JD6vVoV2RX0A4PYhxwsA&s",
+      "fuentePagina": "https://www.facebook.com/bbcnewsyoruba/posts/%C3%A0%C3%A0r%E1%BA%B9-n%C3%A0%C3%ACj%C3%ADr%C3%AD%C3%A0-t%E1%BA%B9%CC%80l%E1%BA%B9%CC%80r%C3%AD-ol%C3%B3y%C3%A8-olusegun-obasanjo-wa-k%E1%BA%B9%CC%80k%E1%BA%B9%CC%81-maruwa-n%C3%ADl%C3%B9%C3%BA-abeokuta%C3%ACr/5529313037125358/",
+      "titulo": "Ààrẹ Nàìjíríà tẹ̀lẹ̀rí, Olóyè Olusegun Obasanjo wa kẹ̀kẹ́ ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKCV0trP_ZN9wfX4JD6vVoV2RX0A4PYhxwsA&s",
+      "original": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=5529312637125398"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bicycle/yo/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2swik5VVNqPwAwM_BQlFSxOqG1P9Gje1ysg&s",
+      "fuentePagina": "https://www.bbc.com/yoruba/61169463",
+      "titulo": "London Bicycle ride to Lagos: Ọmọ Naijiria kan ti bẹ̀rẹ̀ ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2swik5VVNqPwAwM_BQlFSxOqG1P9Gje1ysg&s",
+      "original": "http://c.files.bbci.co.uk/43E6/production/_124228371_fqvgykexwaihntl.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bicycle/yo/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnMgZZRMyC4EY-OZ3Jwpw4aRJMLJs-Kqothw&s",
+      "fuentePagina": "https://www.facebook.com/bbcnewsyoruba/posts/%C3%A0%C3%A0r%E1%BA%B9-n%C3%A0%C3%ACj%C3%ADr%C3%AD%C3%A0-t%E1%BA%B9%CC%80l%E1%BA%B9%CC%80r%C3%AD-ol%C3%B3y%C3%A8-olusegun-obasanjo-wa-k%E1%BA%B9%CC%80k%E1%BA%B9%CC%81-maruwa-n%C3%ADl%C3%B9%C3%BA-abeokuta%C3%ACr/5529313037125358/",
+      "titulo": "Ààrẹ Nàìjíríà tẹ̀lẹ̀rí, Olóyè Olusegun Obasanjo wa kẹ̀kẹ́ ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnMgZZRMyC4EY-OZ3Jwpw4aRJMLJs-Kqothw&s",
+      "original": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=5529312507125411"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bicycle/yo/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvGGEPzjOjTVIk9ZriPGOCPokGuf0Lrl0Zqg&s",
+      "fuentePagina": "https://www.facebook.com/bbcnewsyoruba/posts/%C3%ACl%C3%BA-osogbo-%C5%84-r%E1%BB%8D%CC%80-k%E1%BA%B9%CC%80k%E1%BA%B9%CC%80g%C3%B3m%C3%ACn%C3%A0-gboyega-oyetola-%C3%A0ti-%C3%A0w%E1%BB%8Dn-al%C3%A1t%C3%ACl%E1%BA%B9y%C3%ACn-r%E1%BA%B9%CC%80-ti-b%E1%BB%8D%CC%81-s%C3%ADg/2322459444477416/",
+      "titulo": "Ìlú Osogbo ń rọ̀ kẹ̀kẹ̀! Gómìnà Gboyega Oyetola àti àwọn ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvGGEPzjOjTVIk9ZriPGOCPokGuf0Lrl0Zqg&s",
+      "original": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=2322587254464635"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bicycle/yo/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRF_Y0BH0agO0AfThYEOgobNISNvRrfIfzxIQ&s",
+      "fuentePagina": "https://www.facebook.com/photo.php?fbid=1779921306071101&set=a.527681011295143&type=3",
+      "titulo": "Erugale - Erugale Ààrẹ Agbédègbẹyọ̀ Ilẹ O'odua àti Kẹ̀kẹ̀ ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRF_Y0BH0agO0AfThYEOgobNISNvRrfIfzxIQ&s",
+      "original": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=1779921306071101"
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "categoria": "bench",
+  "categoriaSlug": "bench",
+  "idioma": "ar",
+  "nombreIdioma": "العربية",
+  "termino": "مقعد",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T20:49:18.277Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "ar",
+    "gl": "eg"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=%D9%85%D9%82%D8%B9%D8%AF&hl=ar&gl=eg",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bench/ar/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfw_sA2k3dDammT0wdrLz2Wv76tNgXM4F7zw&s",
+      "fuentePagina": "https://www.ikea.com/eg/ar/p/paeronholmen-bench-with-backrest-outdoor-red-90503799/",
+      "titulo": "اشتر PARONHOLMEN مقعد مع مسند ظهر اونلاين في مصر - IKEA",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfw_sA2k3dDammT0wdrLz2Wv76tNgXM4F7zw&s",
+      "original": "https://www.ikea.com/eg/ar/images/products/paeronholmen-bench-with-backrest-outdoor-red__1070875_pe854776_s5.jpg?f=s"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bench/ar/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSrnT9zqGem4028PmVVHcNXD7G3qxyHA8pTg&s",
+      "fuentePagina": "https://sultangardencenter.com/%D9%85%D9%82%D8%B9%D8%AF-%D8%AE%D8%B4%D8%A8%D9%8A-%D9%85%D8%B9-%D9%85%D8%B3%D9%86%D8%AF-%D8%B8%D9%87%D8%B1--ob-wbench-ta?srsltid=AfmBOorkV61O0-s9PTbt48Nz7bQK3ca5XeMfTcSx1s-7vwckBXEGgwY7",
+      "titulo": "مقعد خشبي مع مسند ظهر",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSrnT9zqGem4028PmVVHcNXD7G3qxyHA8pTg&s",
+      "original": "https://sultangardencenter.com/image/cache/catalog/product/5310/OB-WBENCH-TA-(1)-5310-thumb-800x533.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bench/ar/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfEcxdDSPT798QOFawecVjYADqVT44ya0dZg&s",
+      "fuentePagina": "https://procyclingest.com/products/%D9%85%D9%82%D8%B9%D8%AF-%D8%AD%D8%AC%D9%85-%D9%85%D8%AA%D9%88%D8%B3%D8%B7?srsltid=AfmBOoraNhZEbKxtjGmeAJTytmc_EfGRNcBDy-UWhcor0EFhqWUN6lb9",
+      "titulo": "مقعد دراجه حجم متوسط مصنوع من الجلد الصناعي و السيليكون ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfEcxdDSPT798QOFawecVjYADqVT44ya0dZg&s",
+      "original": "https://media.zid.store/37538fff-826d-4076-ab44-7dbbd8a716da/910959ed-ad77-40f4-b707-ed01bb49a26c.png"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bench/ar/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSo9AZDMWaI4pXf0QeivwbFxYxkWjs5KmLrhA&s",
+      "fuentePagina": "https://visionfortarget.com/product/%D9%83%D8%B1%D8%A7%D8%B3%D9%8A-%D8%AD%D8%AF%D8%A7%D8%A6%D9%82-%D8%AE%D8%B4%D8%A8%D9%8A%D8%A9/?srsltid=AfmBOoq-5B48hiTqrX68uFGCFXcpoAoNEAQPNXdqDnFHxHt6e2ltsQn2",
+      "titulo": "مقعد خشبي للحدائق الخارجية - مؤسسة رؤيا الهدف",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSo9AZDMWaI4pXf0QeivwbFxYxkWjs5KmLrhA&s",
+      "original": "https://visionfortarget.com/wp-content/uploads/2024/02/img74.jpg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bench/ar/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGYSQGaLcV56xZ05CfVm8hIb8NqO4a150r9A&s",
+      "fuentePagina": "https://www.amazon.eg/%D9%85%D9%82%D8%B9%D8%AF-%D8%A7%D9%86%D8%AA%D8%B8%D8%A7%D8%B1-%D9%85%D9%86-Two-Seats/dp/B09N3Z4VXL",
+      "titulo": "مقعد انتظار من 2 مقعد (Two Seats) : Amazon.eg: المنزل والمطبخ",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGYSQGaLcV56xZ05CfVm8hIb8NqO4a150r9A&s",
+      "original": "https://m.media-amazon.com/images/I/31qL6UeLhvL._AC_UF894,1000_QL80_.jpg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bench/ar/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnd7IElIQXQ3D97-WpVmiFXmcJKr5ryR6Kfg&s",
+      "fuentePagina": "https://masterroom.com/%D8%BA%D8%B1%D9%81%D8%A9-%D9%85%D8%B9%D9%8A%D8%B4%D8%A9/%D9%85%D9%82%D8%B9%D8%AF-%D8%A8%D9%86%D8%B4-%D8%A8%D8%AA%D8%B5%D9%85%D9%8A%D9%85-%D9%83%D9%84%D8%A7%D8%B3%D9%8A%D9%83%D9%8A/?srsltid=AfmBOorq2_Qb48QyRbBfOieVKsIZNnJ7FJ95jbDLNqfqWqx2hr7SF7Fh",
+      "titulo": "مقعد بنش بتصميم كلاسيكي | ماستر روم",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnd7IElIQXQ3D97-WpVmiFXmcJKr5ryR6Kfg&s",
+      "original": "https://masterroom.com/wp-content/uploads/2024/08/%D9%85%D9%82%D8%B9%D8%AF-%D8%A8%D9%86%D8%B4-1-1.webp"
+    }
+  ]
+}

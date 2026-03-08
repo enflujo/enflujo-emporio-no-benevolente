@@ -1,0 +1,71 @@
+{
+  "categoria": "sheep",
+  "categoriaSlug": "sheep",
+  "idioma": "en",
+  "nombreIdioma": "English",
+  "termino": "sheep",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T20:52:13.014Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "en",
+    "gl": "us"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=sheep&hl=en&gl=us",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/sheep/en/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRH41YGmCfpQnl_m1uIiLT2W-mFD6cz31zVyw&s",
+      "fuentePagina": "https://www.farmsanctuary.org/news-stories/ten-facts-about-sheep/",
+      "titulo": "Ten Things You Didn't Know About Sheep",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRH41YGmCfpQnl_m1uIiLT2W-mFD6cz31zVyw&s",
+      "original": "https://assets.farmsanctuary.org/content/uploads/2025/05/15062015/2024_04-19_FSNY_Margaretta_lamb_LH_4565-scaled.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/sheep/en/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcReXx-ngn4hsy1dB5mik_aqcfclPE63d51wYQ&s",
+      "fuentePagina": "https://en.wikipedia.org/wiki/Sheep",
+      "titulo": "Sheep - Wikipedia",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcReXx-ngn4hsy1dB5mik_aqcfclPE63d51wYQ&s",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Flock_of_sheep.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/sheep/en/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZ_8-_A3BjK1vxhKUa_zJBzyLD0kAvLeHDZA&s",
+      "fuentePagina": "https://www.ciwf.org.uk/farm-animals/sheep/",
+      "titulo": "Sheep Farming & Welfare Guide | CIWF Farm Animals",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZ_8-_A3BjK1vxhKUa_zJBzyLD0kAvLeHDZA&s",
+      "original": "https://www.ciwf.org.uk/media/7430330/sheep-closeup-eating-grass.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/sheep/en/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKVgZMkDm1Y7eEaubYhueLLR5vmdFG39Kgqg&s",
+      "fuentePagina": "https://modernfarmer.com/2017/12/6-facts-sheep-might-not-know/",
+      "titulo": "6 Fun Facts About Sheep You Might Not Know - Modern Farmer",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKVgZMkDm1Y7eEaubYhueLLR5vmdFG39Kgqg&s",
+      "original": "https://modernfarmer.com/wp-content/uploads/2017/12/Funny-Sheep-Facts-jpg.webp"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/sheep/en/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTN1tl8wwiWUOYKIjZF7RYeVYT7aixcJxGAoQ&s",
+      "fuentePagina": "https://www.aces.edu/blog/topics/sheep-goats/sheep-production-in-the-southeast/",
+      "titulo": "Sheep Production in the Southeast - Alabama Cooperative ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTN1tl8wwiWUOYKIjZF7RYeVYT7aixcJxGAoQ&s",
+      "original": "https://www.aces.edu/wp-content/uploads/2018/11/iStock-182344013.jpg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/sheep/en/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqtflpQWSAf8VrY8PArCmRloTMKEkK4u_KMg&s",
+      "fuentePagina": "https://www.fourpawsusa.org/our-stories/blog-news/five-cool-facts-sheep",
+      "titulo": "Five cool facts about sheep - FOUR PAWS in US - Global ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqtflpQWSAf8VrY8PArCmRloTMKEkK4u_KMg&s",
+      "original": "https://media.4-paws.org/4/d/5/7/4d579ac34a8ee834f2c9acc26c4eaba336d7f034/shutterstock_97268789%20-%20lamb%20looking%20at%20camera%20-%20web%20size-1277x884.jpg"
+    }
+  ]
+}

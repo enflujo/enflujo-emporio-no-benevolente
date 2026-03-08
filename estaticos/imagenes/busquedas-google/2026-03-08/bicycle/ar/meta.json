@@ -1,0 +1,71 @@
+{
+  "categoria": "bicycle",
+  "categoriaSlug": "bicycle",
+  "idioma": "ar",
+  "nombreIdioma": "العربية",
+  "termino": "دراجة",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T20:41:20.162Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "ar",
+    "gl": "eg"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=%D8%AF%D8%B1%D8%A7%D8%AC%D8%A9&hl=ar&gl=eg",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bicycle/ar/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1BEMhYzxoJyz3kMg1SzFduTm8wKrfMPlT2g&s",
+      "fuentePagina": "https://www.amazon.eg/%D9%84%D9%84%D8%A8%D8%A7%D9%84%D8%BA%D9%8A%D9%86%D8%8C-%D8%B1%D8%A7%D9%84%D9%8A%D9%83%D8%B3-%D9%87%D9%88%D8%A7%D8%A6%D9%8A%D8%A9-%D9%85%D8%B2%D8%AF%D9%88%D8%AC%D8%A9%D8%8C-%D8%A7%D9%84%D8%A3%D9%84%D9%88%D8%A7%D9%86%D8%8C/dp/B0CSWV466R",
+      "titulo": "دراجة جبلية قابلة للطي مقاس 66 سم، دراجة جبلية ذات إطار سميك ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1BEMhYzxoJyz3kMg1SzFduTm8wKrfMPlT2g&s",
+      "original": "https://m.media-amazon.com/images/I/61mTu2MASbL._AC_UF894,1000_QL80_.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bicycle/ar/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLN12hOkp97l7VKUYZ5S92AlbA5KyfRp4-qw&s",
+      "fuentePagina": "https://www.amazon.eg/%D8%AF%D8%B1%D8%A7%D8%AC%D8%A9-%D8%AC%D8%A8%D9%84%D9%8A%D8%A9-%D8%A7%D9%84%D8%A3%D9%84%D9%88%D9%85%D9%86%D9%8A%D9%88%D9%85-%D9%85%D9%88%D8%AF%D9%8A%D9%84-%D8%AC%D8%A7%D9%84%D8%A7%D9%83%D8%B3%D9%8A%D8%8C/dp/B0DFYHN5TB",
+      "titulo": "دراجة جبلية من الألومنيوم موديل XC11 من جالاكسي، مقاس 26 ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLN12hOkp97l7VKUYZ5S92AlbA5KyfRp4-qw&s",
+      "original": "https://m.media-amazon.com/images/I/61-b7mwVW-L.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bicycle/ar/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3-OLr6rP_caGBw_TxdHEwFnMdyKG4sG9bjg&s",
+      "fuentePagina": "https://lenotoys.com/%D8%AF%D8%B1%D8%A7%D8%AC%D8%A9-%D8%B1%D9%8A%D8%A7%D8%B6%D9%8A%D8%A9/p1533129189?srsltid=AfmBOopaNSeqSWVVlC-LFFYwtpu73an_9CNOvwaLaXOsDJa9wQmoibfA",
+      "titulo": "دراجة هوائية للكبار - لينو لإحتياجات الترفية والرياضة والمتعة",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3-OLr6rP_caGBw_TxdHEwFnMdyKG4sG9bjg&s",
+      "original": "https://cdn.salla.sa/paggB/0j06xstoOcK6hTFzlvIGvmr6K4pFqzy2u0QKrluG.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bicycle/ar/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSLMWJZKdRbEOhXogbKENKR-WoHipgfDtIcg&s",
+      "fuentePagina": "https://planet115.com/ar/%D8%AF%D8%B1%D8%A7%D8%AC%D8%A9-%D9%87%D9%88%D8%A7%D8%A6%D9%8A%D8%A9-%D8%B1%D9%8A%D8%A7%D8%B6%D9%8A%D8%A9-%D9%85%D9%82%D8%A7%D8%B326/p1592249530",
+      "titulo": "دراجة هوائية رياضية مقاس26 - كوكب الدراجات",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSLMWJZKdRbEOhXogbKENKR-WoHipgfDtIcg&s",
+      "original": "https://cdn.salla.sa/jZaPpV/sDXLfAISeRrRgjgKms7aO5T2rMrJvI3BDYbOvqpQ.jpg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bicycle/ar/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtPz5Wwsz7M75O_z5V3H6VIi94seGgnehnug&s",
+      "fuentePagina": "https://ingaz-eg.com/shop/bicycle-italiano-29/",
+      "titulo": "دراجة ايطاليانو مقاس 29 بوصة – شركة إنجاز",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtPz5Wwsz7M75O_z5V3H6VIi94seGgnehnug&s",
+      "original": "https://ingaz-eg.com/wp-content/uploads/2023/06/%D8%AF%D8%B1%D8%A7%D8%AC%D8%A9-%D8%A7%D9%8A%D8%B7%D8%A7%D9%84%D9%8A%D8%A7%D9%86%D9%88-%D9%85%D9%82%D8%A7%D8%B3-29-%D8%A8%D9%88%D8%B5%D8%A9.png"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bicycle/ar/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTydOdLtY7k0Gsy8639ajBnjlzVye_dcZYRCg&s",
+      "fuentePagina": "https://todosaudi.com/ar/%D8%AF%D8%B1%D8%A7%D8%AC%D8%A9-%D9%87%D9%88%D8%A7%D8%A6%D9%8A%D8%A9-%D9%85%D9%82%D8%A7%D8%B3-14-%D8%A8%D9%88%D8%B5%D8%A9-%D8%A8%D8%B9%D8%AF%D8%A9-%D8%A7%D9%84%D9%88%D8%A7%D9%86/p351207043?srsltid=AfmBOopxzcyxTBIIVxd8r2EbAvb8KMn88PLV9QCVvqDSrD-0dfi8AiWz",
+      "titulo": "دراجة هوائية مقاس 14 بوصة بعدة الوان - تودو للأثاث المنزلي ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTydOdLtY7k0Gsy8639ajBnjlzVye_dcZYRCg&s",
+      "original": "https://cdn.salla.sa/Yzven/dd200c7c-3784-4ed3-b0cf-79c25011bd49-1000x1000-gn7xn3BAnl3hjx0M2uDtVCX5u3EcO7WtGTt2k0GS.jpg"
+    }
+  ]
+}

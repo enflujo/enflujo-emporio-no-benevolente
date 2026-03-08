@@ -1,0 +1,71 @@
+{
+  "categoria": "dining table",
+  "categoriaSlug": "dining-table",
+  "idioma": "es",
+  "nombreIdioma": "Español",
+  "termino": "mesa de comedor",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:20:08.767Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "es",
+    "gl": "es"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=mesa%20de%20comedor&hl=es&gl=es",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/dining-table/es/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8E0OQZfqV7cY-P1EWCyqAQHI35tiDZOF5NA&s",
+      "fuentePagina": "https://www.decoracionbeltran.com/salon-comedor/mesas-salon-comedor/mesas-de-comedor-rusticas-y-coloniales/mesa-comedor-con-tapa-en-madera-de-acacia-mudri.html?srsltid=AfmBOop9G8CPLMkDH2ZF_bsuO5jwY4HEu0pKmhvCTwUC09pe9VkcFrHh",
+      "titulo": "Mesa comedor rústica MUDRI | Mesas madera acacia | Ofertas",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8E0OQZfqV7cY-P1EWCyqAQHI35tiDZOF5NA&s",
+      "original": "https://www.decoracionbeltran.com/72611-superlarge_default/mesa-comedor-con-tapa-en-madera-de-acacia-mudri.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/dining-table/es/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYzTH7vIFfsIdApooJisgSfzzp5QumniBSuw&s",
+      "fuentePagina": "https://dismobel.es/nacher-mesas/14294-mesa-de-comedor-mumm-wood-de-nacher.html",
+      "titulo": "Mesa de comedor Mumm Wood de Nacher | Dismobel",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYzTH7vIFfsIdApooJisgSfzzp5QumniBSuw&s",
+      "original": "https://dismobel.es/71683-home_default/mesa-de-comedor-mumm-wood-de-nacher.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/dining-table/es/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuphuBjQ8vpFGLlMlg_fmIi4PO6n9NfTHtkQ&s",
+      "fuentePagina": "https://mueblesimedio.com/rebajas/mesa-de-comedor-vintage/",
+      "titulo": "MESA DE COMEDOR VINTAGE",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuphuBjQ8vpFGLlMlg_fmIi4PO6n9NfTHtkQ&s",
+      "original": "https://mueblesimedio.com/wp-content/uploads/2023/12/MESA-VITANGE-8.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/dining-table/es/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5ItNNUkHng0afrxSMF7livSufVIyvl8GDTQ&s",
+      "fuentePagina": "https://www.mobiprix.com/mesa-comedor-lorna?srsltid=AfmBOoqrB5dXP0cvQ5W_JA0whSqefXHrkV9vZWVcCB_I_dDv54Ic5mM4",
+      "titulo": "Mesa de comedor rectangular extensible modelo Lorna",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5ItNNUkHng0afrxSMF7livSufVIyvl8GDTQ&s",
+      "original": "https://www.mobiprix.com/cdnassets/products/3437/eon/139463_l.jpg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/dining-table/es/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSeTUfUJaGKIMjD0P-Pqpl1azCltXnmWNwzug&s",
+      "fuentePagina": "https://muebleshely.es/mesa-de-comedor-n7513-royal-rectangular-extensible-copia/",
+      "titulo": "▷ Comprar Mesa de comedor ovalada n7455 fija royal ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSeTUfUJaGKIMjD0P-Pqpl1azCltXnmWNwzug&s",
+      "original": "https://muebleshely.es/wp-content/uploads/2024/08/Mesa-de-comedor-n-234-royal.jpg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/dining-table/es/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSze161iyYNkilIl4S3P7CBOKPu8WYE_4kW3Q&s",
+      "fuentePagina": "https://www.naturshome.com/decoraci%C3%B3n-hogar-1/mesas/mesa-comedor-envejecida-con-patas-de-hierro/",
+      "titulo": "Mesa comedor rústica",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSze161iyYNkilIl4S3P7CBOKPu8WYE_4kW3Q&s",
+      "original": "https://image.jimcdn.com/app/cms/image/transf/none/path/s666063991d71c99f/image/i95b6fa6010cc1c59/version/1600876281/image.jpg"
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "categoria": "giraffe",
+  "categoriaSlug": "giraffe",
+  "idioma": "zh",
+  "nombreIdioma": "中文",
+  "termino": "长颈鹿",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T20:55:56.157Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "zh-CN",
+    "gl": "cn"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=%E9%95%BF%E9%A2%88%E9%B9%BF&hl=zh-CN&gl=cn",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/giraffe/zh/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtEjhFTVpeJpxYGe6jTajn3icYL5Qxlejnqg&s",
+      "fuentePagina": "http://www.xinhuanet.com/world/2016-09/11/c_129276282.htm",
+      "titulo": "美期刊研究报告表明称世界上有４种长颈鹿-新华网",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtEjhFTVpeJpxYGe6jTajn3icYL5Qxlejnqg&s",
+      "original": "http://www.xinhuanet.com/world/2016-09/11/129276282_14735149064461n.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/giraffe/zh/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTzxxKI7eA252TlFvlJkN0J1i7Vt5ciK5EMw&s",
+      "fuentePagina": "https://zh.wikipedia.org/zh-cn/%E7%BD%91%E7%BA%B9%E9%95%BF%E9%A2%88%E9%B9%BF",
+      "titulo": "网纹长颈鹿- 维基百科，自由的百科全书",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTzxxKI7eA252TlFvlJkN0J1i7Vt5ciK5EMw&s",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/b/b4/1993_147-3A_Samburu_reticulated_giraffe.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/giraffe/zh/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_r0LktcllRg2Xh-7ZyW3DMCeMdUeTrGN8JA&s",
+      "fuentePagina": "http://www.cdzoo.com.cn/news/flash/3523",
+      "titulo": "动物界的网红——长颈鹿，原来有这么多秘密。 | 成都动物园",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_r0LktcllRg2Xh-7ZyW3DMCeMdUeTrGN8JA&s",
+      "original": "http://sources.yundaolan.com/serviceObject/9/a5/97/a597fcbd32a6874c8330d56ca4db9bfc27430.jpeg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/giraffe/zh/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQo6_kjDi-gzVyNE5kHN-rg1fJKLkxHFmut2g&s",
+      "fuentePagina": "http://www.cdzoo.com.cn/news/flash/3523",
+      "titulo": "动物界的网红——长颈鹿，原来有这么多秘密。 | 成都动物园",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQo6_kjDi-gzVyNE5kHN-rg1fJKLkxHFmut2g&s",
+      "original": "http://sources.yundaolan.com/serviceObject/9/21/24/21243a9e43b2dafd277381df428db4b667294.jpeg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/giraffe/zh/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdt9PvIIshEat-7-qixm4Wm37fulF0PRfHpA&s",
+      "fuentePagina": "http://edu.sina.com.cn/kids/2015-07-23/155691318.shtml",
+      "titulo": "双语揭秘长颈鹿的12个真相：舌头长50厘米？_新浪教育_新浪网",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdt9PvIIshEat-7-qixm4Wm37fulF0PRfHpA&s",
+      "original": "http://i2.sinaimg.cn/edu/2015/0723/U12216P42DT20150723155526.jpg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/giraffe/zh/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRczJYaFhfom5Uk6EXOPUk7GFcdPbzNBIxlSg&s",
+      "fuentePagina": "https://zh.wikipedia.org/wiki/%E9%A9%BC%E8%B1%B9",
+      "titulo": "长颈鹿- 维基百科，自由的百科全书",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRczJYaFhfom5Uk6EXOPUk7GFcdPbzNBIxlSg&s",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Giraffe_Mikumi_National_Park.jpg/960px-Giraffe_Mikumi_National_Park.jpg"
+    }
+  ]
+}

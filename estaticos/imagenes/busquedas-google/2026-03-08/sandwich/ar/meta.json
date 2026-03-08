@@ -1,0 +1,71 @@
+{
+  "categoria": "sandwich",
+  "categoriaSlug": "sandwich",
+  "idioma": "ar",
+  "nombreIdioma": "العربية",
+  "termino": "ساندويتش",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:12:13.297Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "ar",
+    "gl": "eg"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=%D8%B3%D8%A7%D9%86%D8%AF%D9%88%D9%8A%D8%AA%D8%B4&hl=ar&gl=eg",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/sandwich/ar/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvYJkMevoQCT2NFQmYFUXvrPEJxEbF4Fs6nQ&s",
+      "fuentePagina": "https://www.unileverfoodsolutions.eg/ar/recipe/%D8%B3%D8%A7%D9%86%D8%AF%D9%88%D9%8A%D8%AA%D8%B4-%D8%A7%D9%84%D9%81%D8%B1%D8%A7%D8%AE-%D8%A7%D9%84%D9%8A%D9%88%D9%86%D8%A7%D9%86%D9%8A-R0070355.html",
+      "titulo": "ساندويتش الفراخ اليوناني",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvYJkMevoQCT2NFQmYFUXvrPEJxEbF4Fs6nQ&s",
+      "original": "https://www.unileverfoodsolutions.eg/dam/global-ufs/mcos/meps/arabia/calcmenu/recipes/EG-recipes/In-Development/greek-chicken-sandwich/main-header.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/sandwich/ar/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSEfLMmz4Ky_BaFmNlDpXfWR62mvxiGX2YLw&s",
+      "fuentePagina": "https://www.unileverfoodsolutions.eg/ar/recipe/%D8%B3%D8%A7%D9%86%D8%AF%D9%88%D9%8A%D8%AA%D8%B4-%D8%A7%D9%84%D8%AC%D9%85%D8%A8%D8%B1%D9%8A-%D9%86%D9%8A%D9%88-%D8%A3%D9%88%D8%B1%D9%84%D9%8A%D9%86%D8%B2-%D8%B4%D8%B1%D9%85%D8%A8-%D8%A8%D9%88-%D8%A8%D9%88%D9%8A--R0070356.html",
+      "titulo": "ساندويتش الجمبري \" نيو أورلينز شرمب بو بوي\"",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSEfLMmz4Ky_BaFmNlDpXfWR62mvxiGX2YLw&s",
+      "original": "https://www.unileverfoodsolutions.eg/dam/global-ufs/mcos/meps/arabia/calcmenu/recipes/EG-recipes/In-Development/new-orleans-shrimp-po-boy/main-header.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/sandwich/ar/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5QySpUYjYXolCZkhfvIzegr1-FLk_nePIeA&s",
+      "fuentePagina": "https://corporate.unioncoop.ae/ar/%D8%A7%D8%B5%D9%86%D8%B9-%D8%B3%D8%A7%D9%86%D8%AF%D9%88%D9%8A%D8%AA%D8%B4-%D9%85%D8%AB%D8%A7%D9%84%D9%8A/",
+      "titulo": "اصنع ساندويتش مثالي - Union Coop",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5QySpUYjYXolCZkhfvIzegr1-FLk_nePIeA&s",
+      "original": "https://corporate.unioncoop.ae/wp-content/uploads/2019/12/Sandwich.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/sandwich/ar/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQanie_mHSPhSgv2mLv3f50SBDWV_-JjsZ5TQ&s",
+      "fuentePagina": "https://www.webteb.com/diet/recipes/%D9%83%D9%84%D9%88%D8%A8-%D8%B3%D8%A7%D9%86%D8%AF%D9%88%D9%8A%D8%B4_215",
+      "titulo": "وصفة لتحضير كلوب ساندويتش طريقة صحية - ويب طب",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQanie_mHSPhSgv2mLv3f50SBDWV_-JjsZ5TQ&s",
+      "original": "https://static.webteb.net/images/content/ramadanrecipe_recipe_215_733.jpg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/sandwich/ar/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvuK2lLBVdHfD_NP-lvz7ZYxIm5ZefISXSkA&s",
+      "fuentePagina": "https://www.youm7.com/story/2021/11/3/%D8%A7%D9%84%D9%8A%D9%88%D9%85-%D8%A7%D9%84%D8%B9%D8%A7%D9%84%D9%85%D9%8A-%D9%84%D9%80-%D8%A7%D9%84%D8%B3%D8%A7%D9%86%D8%AF%D9%88%D9%8A%D8%AA%D8%B4-%D8%A7%D8%B9%D8%B1%D9%81-%D9%82%D8%B5%D8%A9-%D8%A7%D8%AE%D8%AA%D8%B1%D8%A7%D8%B9%D9%87-%D9%88%D8%B3%D8%A8%D8%A8-%D8%AA%D8%B3%D9%85%D9%8A%D8%AA%D9%87/5519808",
+      "titulo": "اليوم العالمي لـ الساندويتش .. اعرف قصة اختراعه وسبب تسميته ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvuK2lLBVdHfD_NP-lvz7ZYxIm5ZefISXSkA&s",
+      "original": "https://img.youm7.com/ArticleImgs/2021/11/3/243356-%D8%B3%D8%A7%D9%86%D8%AF%D9%88%D9%8A%D8%AA%D8%B4-%D8%AD%D8%A7%D8%B1.jpeg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/sandwich/ar/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6OpDZXzoVaWUgzDpDmXuIyYPkNq7ycmbC0A&s",
+      "fuentePagina": "https://www.puckarabia.com/ar/recipes/honey-glazed-grilled-halloumi-cheese-sandwich/",
+      "titulo": "ساندويش جبنة الحلومي المشوية بالعسل",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6OpDZXzoVaWUgzDpDmXuIyYPkNq7ycmbC0A&s",
+      "original": "https://images.arla.com/recordid/608A428A-CC3A-4B68-A2336435E69BBB76/honey-glazed-grilled-halloumi-cheese-sandwich.jpg?width=768&height=400&mode=crop&format=webp"
+    }
+  ]
+}

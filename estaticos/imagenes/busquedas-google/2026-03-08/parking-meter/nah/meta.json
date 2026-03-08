@@ -1,0 +1,71 @@
+{
+  "categoria": "parking meter",
+  "categoriaSlug": "parking-meter",
+  "idioma": "nah",
+  "nombreIdioma": "Náhuatl",
+  "termino": "parquímetro",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T20:48:46.143Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "es",
+    "gl": "mx"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=parqu%C3%ADmetro&hl=es&gl=mx",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/parking-meter/nah/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRI3OLsWroBbSuvrlwNHNHudUE2TFYIRwtcwQ&s",
+      "fuentePagina": "https://www.santander.com.mx/personas/blog/como-funcionan-los-parquimetros-en-cdmx.html",
+      "titulo": "Descubre cómo funcionan los parquímetros en CDMX",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRI3OLsWroBbSuvrlwNHNHudUE2TFYIRwtcwQ&s",
+      "original": "https://www.santander.com.mx/personas/blog/assets/img/img-como-funcionan-los-parquimetros-en-cdmx.webp"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/parking-meter/nah/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhukjPqIHGP8p9o8Z1khsHshh4Z4n83Csr_w&s",
+      "fuentePagina": "https://es.wikipedia.org/wiki/Parqu%C3%ADmetro",
+      "titulo": "Parquímetro - Wikipedia, la enciclopedia libre",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhukjPqIHGP8p9o8Z1khsHshh4Z4n83Csr_w&s",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/6/64/Parquimetro_de_la_Ciudad_de_Cordoba_Argentina.JPG"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/parking-meter/nah/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_O6o77yKnhea40QA6XM23r4byry_Rj6-Vpg&s",
+      "fuentePagina": "https://www.elnorte.com/dejan-en-2-50-costo-de-parquimetros/ar3035771",
+      "titulo": "Dejan en $2.50 costo de parquímetros",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_O6o77yKnhea40QA6XM23r4byry_Rj6-Vpg&s",
+      "original": "https://iphonegr.elnorte.com/libre/online07/imagetransformer2/ImageTransformer.aspx?img=https://img.gruporeforma.com/imagenes/960x640/6/985/5984425.jpg&imagencompleta=1"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/parking-meter/nah/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9sHFg7IYFxpYEw1qdx46oqnXInbvIBjmDAg&s",
+      "fuentePagina": "https://politica.expansion.mx/cdmx/2024/09/13/multas-no-pagar-parquimetro-cdmx",
+      "titulo": "De cuánto es la multa por no pagar el parquímetro en CDMX?",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9sHFg7IYFxpYEw1qdx46oqnXInbvIBjmDAg&s",
+      "original": "https://cdn-3.expansion.mx/dims4/default/ff69d1c/2147483647/resize/1280x/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2F45%2Fa8%2Fc2bf69824472b5ce086235b42e79%2Fparquimetros-cdmx-multas.jpg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/parking-meter/nah/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrf2PonAjre5-f0-OJB5r161YSR6gDsk4b_w&s",
+      "fuentePagina": "https://www.tumomento.com/blog/parquimetros-cdmx-sabados-domingos/",
+      "titulo": "Todo lo que Debes Saber sobre los Parquímetros en CDMX los ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrf2PonAjre5-f0-OJB5r161YSR6gDsk4b_w&s",
+      "original": "https://images.ctfassets.net/pxl1ylwrzwwj/1KFG5qzSW7ItHM2V0Hrhqe/50751eaedfa8013f26dedc9b01e22365/Thumbnail_Blog_Parqu_metros__1_.webp"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/parking-meter/nah/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5xpHKsMFBh-C5SxH-4c6pf6G1Xo68YfEcIg&s",
+      "fuentePagina": "https://meypar.com/solucion/optima-360-parquimetro/",
+      "titulo": "Parquímetro Optima 360 | Meypar",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5xpHKsMFBh-C5SxH-4c6pf6G1Xo68YfEcIg&s",
+      "original": "https://meypar.com/wp-content/uploads/2024/11/blog-1.jpg"
+    }
+  ]
+}

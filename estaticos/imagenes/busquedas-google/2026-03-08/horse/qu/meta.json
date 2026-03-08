@@ -1,0 +1,71 @@
+{
+  "categoria": "horse",
+  "categoriaSlug": "horse",
+  "idioma": "qu",
+  "nombreIdioma": "Quechua",
+  "termino": "kawalli",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T20:51:59.529Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "es",
+    "gl": "pe"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=kawalli&hl=es&gl=pe",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/horse/qu/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkvi6pLArOwbwsDxT5ZHntoa65fTAK30-FKQ&s",
+      "fuentePagina": "https://es.wikipedia.org/wiki/Amazona_kawalli",
+      "titulo": "Amazona kawalli - Wikipedia, la enciclopedia libre",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkvi6pLArOwbwsDxT5ZHntoa65fTAK30-FKQ&s",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Amazona_kawalli_JJK%271.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/horse/qu/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRh-iVxqMp5f0SY8uQaoQvjIOcMBXyFdB0B6w&s",
+      "fuentePagina": "https://birdsoftheworld.org/bow/species/kawpar1/cur/introduction?lang=es",
+      "titulo": "Kawall's Amazon - Amazona kawalli - Birds of the World",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRh-iVxqMp5f0SY8uQaoQvjIOcMBXyFdB0B6w&s",
+      "original": "https://cdn.download.ams.birds.cornell.edu/api/v2/asset/188517851/320"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/horse/qu/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRqibH_vrDMcXMv3sksjVjajwHRG0qsQJSWA&s",
+      "fuentePagina": "https://birdscolombia.com/2022/07/13/lora-de-kawall-kawalls-parrot-amazona-kawalli/",
+      "titulo": "Lora de Kawall/Kawall's Amazon/Amazona kawalli | Birds ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRqibH_vrDMcXMv3sksjVjajwHRG0qsQJSWA&s",
+      "original": "https://i0.wp.com/birdscolombia.com/wp-content/uploads/2022/07/Amazona-kawalli.jpeg?resize=1024%2C730&ssl=1"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/horse/qu/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSK8-F8_BLS1iUjplRP1LRicFEnEXuw0liOgA&s",
+      "fuentePagina": "https://birdscolombia.com/2022/07/13/lora-de-kawall-kawalls-parrot-amazona-kawalli/",
+      "titulo": "Lora de Kawall/Kawall's Amazon/Amazona kawalli | Birds ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSK8-F8_BLS1iUjplRP1LRicFEnEXuw0liOgA&s",
+      "original": "https://i0.wp.com/birdscolombia.com/wp-content/uploads/2022/07/Amazona-kawalli1.jpeg?resize=1024%2C1008&ssl=1"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/horse/qu/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7lPiCnCQ5u-jyJizRjOGJ7cVz_TiAKzlM7g&s",
+      "fuentePagina": "https://dibird.com/species/kawall-s-amazon/",
+      "titulo": "Kawall's Amazon / Amazona kawalli photo call and song",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7lPiCnCQ5u-jyJizRjOGJ7cVz_TiAKzlM7g&s",
+      "original": "https://live.staticflickr.com/3697/9671671047_1315a846c4_c.jpg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/horse/qu/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4k2Z-NfUqg-BcT718oVsRmFo_3smB3hT3gw&s",
+      "fuentePagina": "https://birdscolombia.com/2022/07/13/lora-de-kawall-kawalls-parrot-amazona-kawalli/",
+      "titulo": "Lora de Kawall/Kawall's Amazon/Amazona kawalli | Birds ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4k2Z-NfUqg-BcT718oVsRmFo_3smB3hT3gw&s",
+      "original": "https://i0.wp.com/birdscolombia.com/wp-content/uploads/2022/07/Amazona-kawalli2.jpeg?resize=1024%2C814&ssl=1"
+    }
+  ]
+}

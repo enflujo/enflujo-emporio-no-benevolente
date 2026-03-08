@@ -1,0 +1,71 @@
+{
+  "categoria": "cup",
+  "categoriaSlug": "cup",
+  "idioma": "yo",
+  "nombreIdioma": "Yorùbá",
+  "termino": "ife",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:07:26.668Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "yo",
+    "gl": "ng"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=ife&hl=yo&gl=ng",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/cup/yo/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShcb9dMrQcLUaRMGYMY6Glc3knBreeN5rkkQ&s",
+      "fuentePagina": "https://en.wikipedia.org/wiki/If%E1%BA%B9",
+      "titulo": "Ifẹ - Wikipedia",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShcb9dMrQcLUaRMGYMY6Glc3knBreeN5rkkQ&s",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/9/9d/Ile_Ife_aerial_scape.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/cup/yo/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjadFj3Bp0AoCZuat3nH62Ro4awdZsY1Pi3Q&s",
+      "fuentePagina": "https://en.wikipedia.org/wiki/Bronze_Head_from_Ife",
+      "titulo": "Bronze Head from Ife - Wikipedia",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjadFj3Bp0AoCZuat3nH62Ro4awdZsY1Pi3Q&s",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Arte_yoruba%2C_nigeria%2C_testa_da_ife%2C_12-15mo_secolo.JPG"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/cup/yo/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6_kGDWiJcy3ONYyF0myH7CrJceZF-6WWpWw&s",
+      "fuentePagina": "https://www.britannica.com/place/Ile-Ife",
+      "titulo": "Ile-Ife | Meaning, Artifacts, Culture, & Map | Britannica",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6_kGDWiJcy3ONYyF0myH7CrJceZF-6WWpWw&s",
+      "original": "https://cdn.britannica.com/39/243139-050-952E70D5/Locator-map-Ile-Ife.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/cup/yo/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgJrHugm2V36G2p10XuY7crZ7AwJe461Ic4w&s",
+      "fuentePagina": "https://commons.wikimedia.org/wiki/File:IFE_logo.gif",
+      "titulo": "File:IFE logo.gif - Wikimedia Commons",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgJrHugm2V36G2p10XuY7crZ7AwJe461Ic4w&s",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/c/c9/IFE_logo.gif"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/cup/yo/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPVpUNpggRLIinDcBNmfnTwnC6SPgssHgbyA&s",
+      "fuentePagina": "https://www.khanacademy.org/humanities/art-africa/west-africa/nigeria/a/kingdom-of-ife-sculptures-from-west-africa",
+      "titulo": "Kingdom of Ife: Sculptures from West Africa (article) | Khan ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPVpUNpggRLIinDcBNmfnTwnC6SPgssHgbyA&s",
+      "original": "https://cdn.kastatic.org/ka-content-images/566db6a9513e229b2c2f16a4d61a27a98bf83a9f.jpg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/cup/yo/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRyJOzvApYa7AuUMDzvOUJdSj08CFy7xvV4A&s",
+      "fuentePagina": "https://www.worldhistory.org/Ife/",
+      "titulo": "Ife - World History Encyclopedia",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRyJOzvApYa7AuUMDzvOUJdSj08CFy7xvV4A&s",
+      "original": "https://www.worldhistory.org/img/c/p/1600x900/10301.jpg"
+    }
+  ]
+}

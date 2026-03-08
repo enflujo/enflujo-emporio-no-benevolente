@@ -1,0 +1,71 @@
+{
+  "categoria": "spoon",
+  "categoriaSlug": "spoon",
+  "idioma": "rw",
+  "nombreIdioma": "Kinyarwanda",
+  "termino": "ikijiko",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:09:17.288Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "en",
+    "gl": "rw"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=ikijiko&hl=en&gl=rw",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/spoon/rw/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhkke-TtitH7v-fdp0AtF1iis3K_kfi5-5Dg&s",
+      "fuentePagina": "https://www.facebook.com/photo.php?fbid=518001961884658&id=219282105089980&set=a.219510091733848",
+      "titulo": "Rasta - *kutengeneza Conditioner Nyumbani* Vifaa. Bakuli ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhkke-TtitH7v-fdp0AtF1iis3K_kfi5-5Dg&s",
+      "original": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=518001961884658"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/spoon/rw/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzvmRN45xO2_ZyzmeTMqAmIE0DHzbHPnm8qQ&s",
+      "fuentePagina": "https://www.facebook.com/groups/559337045094542/posts/1347176186310620/",
+      "titulo": "Ni izihe ntara zikunda Tuno dufungurwa Ku musi mukuru 🤣",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzvmRN45xO2_ZyzmeTMqAmIE0DHzbHPnm8qQ&s",
+      "original": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=122120868710587191"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/spoon/rw/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvoEzpIp2txUt7FuXQAoWq6mANqzC_fsLOhw&s",
+      "fuentePagina": "https://www.instagram.com/p/DTiLD17Dk6j/",
+      "titulo": "Ikiganiro The Special Evening. ✓Imikino y'ibirarane mu ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvoEzpIp2txUt7FuXQAoWq6mANqzC_fsLOhw&s",
+      "original": "https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3833257928631904528"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/spoon/rw/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTTYPCz4iIzPeTRoOd3lhsvg0wFvIRuv4eGw&s",
+      "fuentePagina": "https://www.instagram.com/p/DUVdnNpDNgO/",
+      "titulo": "Dusoje ikiganiro 'Urukiko rw'Ikirenga rw'Imikino' cyo kuri ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTTYPCz4iIzPeTRoOd3lhsvg0wFvIRuv4eGw&s",
+      "original": "https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3826017784602316217"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/spoon/rw/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLafoWLKrm6RoLdAf2joHxuyIvPQEBXz5oew&s",
+      "fuentePagina": "https://www.instagram.com/p/C0cuOzPLH4R/",
+      "titulo": "Time for some fun facts 📝 ⭐️ What does IIKO mean? In ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLafoWLKrm6RoLdAf2joHxuyIvPQEBXz5oew&s",
+      "original": "https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3833391039575697785"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/spoon/rw/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlgftVx1l4xJDeR2IhddVMpX5xPDKnZQJxUw&s",
+      "fuentePagina": "https://www.instagram.com/p/DF-vMlrsceC/",
+      "titulo": "Mwiriwe ariko! Emmy Rwanda Ikinege✍️",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlgftVx1l4xJDeR2IhddVMpX5xPDKnZQJxUw&s",
+      "original": "https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3566495515848914520"
+    }
+  ]
+}

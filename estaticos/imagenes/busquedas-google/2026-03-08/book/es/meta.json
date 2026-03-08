@@ -1,0 +1,71 @@
+{
+  "categoria": "book",
+  "categoriaSlug": "book",
+  "idioma": "es",
+  "nombreIdioma": "Español",
+  "termino": "libro",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:28:37.124Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "es",
+    "gl": "es"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=libro&hl=es&gl=es",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/book/es/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWgTkNpda_whXqvmYOIj9pBME90oBTyFLxiA&s",
+      "fuentePagina": "https://www.freepik.es/psd/libro-dibujo",
+      "titulo": "PSD de Libro dibujo, plantillas PSD gratuitas de gran ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWgTkNpda_whXqvmYOIj9pBME90oBTyFLxiA&s",
+      "original": "https://img.freepik.com/psd-gratis/ilustracion-dia-libro_23-2151969256.jpg?semt=ais_rp_50_assets&w=740&q=80"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/book/es/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQoLdgtaLf2IEzAicLoriXvOWlKlPosPdx8tA&s",
+      "fuentePagina": "https://dical.es/blog/news/cuales-son-las-partes-de-un-libro-por-fuera",
+      "titulo": "Cuáles son las partes de un libro por fuera - Distribución ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQoLdgtaLf2IEzAicLoriXvOWlKlPosPdx8tA&s",
+      "original": "https://dical.es/modules/ph_simpleblog/covers/78.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/book/es/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvyNef0kU5hlKkMqjJHtcaJHFbjG0HiSwYPg&s",
+      "fuentePagina": "https://es.vecteezy.com/arte-vectorial/35402595-libro-abierto-dibujos-animados",
+      "titulo": "libro abierto dibujos animados 35402595 Vector en Vecteezy",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvyNef0kU5hlKkMqjJHtcaJHFbjG0HiSwYPg&s",
+      "original": "https://static.vecteezy.com/system/resources/previews/035/402/595/non_2x/book-open-cartoon-free-vector.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/book/es/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStjD6mneLelk2Yo6B6fTajT8W_-Z_NVtukRw&s",
+      "fuentePagina": "https://www.freepik.es/fotos/libro",
+      "titulo": "Fotos de Libro - Descarga fotos gratis de gran calidad | Freepik",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStjD6mneLelk2Yo6B6fTajT8W_-Z_NVtukRw&s",
+      "original": "https://img.freepik.com/foto-gratis/composicion-libros-libro-abierto_23-2147690555.jpg?semt=ais_rp_50_assets&w=740&q=80"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/book/es/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJ0crumAb7JR55XjkYTAZNr1A7l8xnWrvc1Q&s",
+      "fuentePagina": "https://es.pinterest.com/pin/182466222397089663/",
+      "titulo": "Montón de libros de texto. Objetos de pila de dibujos ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJ0crumAb7JR55XjkYTAZNr1A7l8xnWrvc1Q&s",
+      "original": "https://i.pinimg.com/736x/18/3e/24/183e24b12211121a82bfe80829d0c945.jpg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/book/es/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcSbmmfyIoowzu4H-V1PM3HaQGmErHPy78XQ&s",
+      "fuentePagina": "https://www.flaticon.es/icono-gratis/libro-abierto_11776429",
+      "titulo": "Libro abierto - Iconos gratis de educación",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcSbmmfyIoowzu4H-V1PM3HaQGmErHPy78XQ&s",
+      "original": "https://cdn-icons-png.flaticon.com/512/11776/11776429.png"
+    }
+  ]
+}

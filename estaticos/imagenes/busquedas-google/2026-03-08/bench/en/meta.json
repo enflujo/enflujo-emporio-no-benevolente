@@ -1,0 +1,71 @@
+{
+  "categoria": "bench",
+  "categoriaSlug": "bench",
+  "idioma": "en",
+  "nombreIdioma": "English",
+  "termino": "bench",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T20:48:55.666Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "en",
+    "gl": "us"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=bench&hl=en&gl=us",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bench/en/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGD09dOMhPxwk78RcWW14lSdVsT8pPQ6ie8g&s",
+      "fuentePagina": "https://www.dutchcrafters.com/Amish-Cedar-Wood-Traditional-English-Garden-Bench/p/45637",
+      "titulo": "A & L Furniture Western Red Cedar Traditional English Garden Bench",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGD09dOMhPxwk78RcWW14lSdVsT8pPQ6ie8g&s",
+      "original": "https://s3.dutchcrafters.com/product-images/pid_45637-Amish-Cedar-Wood-Traditional-English-Garden-Bench--270.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bench/en/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2DSph8PCtFbv96RTh5RVMmHB8EzDv0S-Faw&s",
+      "fuentePagina": "https://signaturestreetscapes.com/products/deluxe-park-bench-recycled-plastic",
+      "titulo": "Deluxe Park Bench | Wide Seat, Back ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2DSph8PCtFbv96RTh5RVMmHB8EzDv0S-Faw&s",
+      "original": "https://cdn.shopify.com/s/files/1/0517/2120/8003/products/benches-deluxe.jpg?v=1660745450"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bench/en/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSutwz7TqHJH0fKwNYWY_7yDUB2KuR9CH5RXA&s",
+      "fuentePagina": "https://www.amazon.com/ERoomQ-Outdoor-Courtyard-Aluminum-Suitable/dp/B0D1XTHLDV",
+      "titulo": "Amazon.com: ERoomQ Outdoor Garden Bench ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSutwz7TqHJH0fKwNYWY_7yDUB2KuR9CH5RXA&s",
+      "original": "https://m.media-amazon.com/images/I/81ek8iCurdL._AC_UF894,1000_QL80_.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bench/en/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkKrZF7J-Nrrj9g-tXxd-mAk9xgkfVLwE2dA&s",
+      "fuentePagina": "https://www.recycleaway.com/oakley-collection-slatted-steel-bench-4ft-p-3756.html?srsltid=AfmBOopSRsGawsYHJgklp588QM3yrIqM3eNyEp1ZOr1aPO1t4B11Iwqv",
+      "titulo": "Witt Industries Oakley 48 in. Steel Bench - Black",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkKrZF7J-Nrrj9g-tXxd-mAk9xgkfVLwE2dA&s",
+      "original": "https://www.recycleaway.com/assets/images/gshop-pix/ra-3756.jpg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bench/en/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRaqrowvTvbeHsBgLCt1v9GzsQEpuaedrOGuQ&s",
+      "fuentePagina": "https://www.barcoproducts.com/georgetown-benches?srsltid=AfmBOopwxqAJS5DxGXBTdxliqZUgpwh8cw-FmLHqudRjaw_WvIYMK5QJ",
+      "titulo": "Georgetown Benches BN-37 - - Barco Products",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRaqrowvTvbeHsBgLCt1v9GzsQEpuaedrOGuQ&s",
+      "original": "https://barcoproducts.sirv.com/magento/catalog/product/G/T/GTB600_CD_LIF1_4k.jpg?q=30&canvas.width=2400&canvas.height=1429&canvas.color=ffffff&w=2400&h=1429"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bench/en/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyBhziD7xhZPfYZkrF9He8ygzDV8NXzZmfNQ&s",
+      "fuentePagina": "https://www.amazon.com/Sunnydaze-Solid-Teak-Outdoor-Bench/dp/B08CVW4BQ2",
+      "titulo": "Wooden Teak Patio Garden Bench ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyBhziD7xhZPfYZkrF9He8ygzDV8NXzZmfNQ&s",
+      "original": "https://m.media-amazon.com/images/I/A1mc105hSVL._AC_UF894,1000_QL80_.jpg"
+    }
+  ]
+}

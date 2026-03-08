@@ -1,0 +1,71 @@
+{
+  "categoria": "baseball bat",
+  "categoriaSlug": "baseball-bat",
+  "idioma": "nah",
+  "nombreIdioma": "Náhuatl",
+  "termino": "bate",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:03:06.559Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "es",
+    "gl": "mx"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=bate&hl=es&gl=mx",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/baseball-bat/nah/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0ZqbuncuuB3zxj0pqKtiGTRFv2VQ4bAAedg&s",
+      "fuentePagina": "https://www.amazon.com/-/es/b%C3%A9isbol-pulgadas-defensa-personal-entrenamiento/dp/B0FBFS2645",
+      "titulo": "Amazon.com: Bate de béisbol de madera, mini bates de béisbol ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0ZqbuncuuB3zxj0pqKtiGTRFv2VQ4bAAedg&s",
+      "original": "https://m.media-amazon.com/images/I/51uJ0ohn2bL._AC_UF1000,1000_QL80_.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/baseball-bat/nah/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSL9AtIwRQjhd9LTCjq3MkNfz_BAJ8Eu34nQ&s",
+      "fuentePagina": "https://ficcion-sin-limites.fandom.com/es/wiki/Bate_de_B%C3%A9isbol",
+      "titulo": "Bate de Béisbol | Ficción Sin Límites Wiki | Fandom",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSL9AtIwRQjhd9LTCjq3MkNfz_BAJ8Eu34nQ&s",
+      "original": "https://static.wikia.nocookie.net/ficcion-sin-limites/images/a/ad/Bat.png/revision/latest?cb=20210326055538&path-prefix=es"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/baseball-bat/nah/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtvx5Yu5y71WIiah0YJG2RLnchT4sKzWhE3g&s",
+      "fuentePagina": "https://www.amazon.com.mx/CIOTTOLI-Bate-b%C3%A9isbol-aleaci%C3%B3n-aluminio/dp/B09WNWJQZB",
+      "titulo": "CIOTTOLI - Bate de béisbol de aluminio ligero (12 onzas ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtvx5Yu5y71WIiah0YJG2RLnchT4sKzWhE3g&s",
+      "original": "https://m.media-amazon.com/images/I/519ba68Da8L.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/baseball-bat/nah/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxJgkFwns9LOgAcSQGmWHi5aW7j5JEEBxMUA&s",
+      "fuentePagina": "https://www.walmart.com.mx/ip/bate-de-beisbol-bate-de-beisbol-de-madera-de-84-cm-ligero-y-para-entrenamiento-bate-de-softbol-de-madera-con-palo-para-uso-domestico-para-adultos-y-ninos-equipo-de-entrenamiento-al-aire/00078363275508",
+      "titulo": "Bate de béisbol,Bate de béisbol de madera de 84 cm,ligero y ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxJgkFwns9LOgAcSQGmWHi5aW7j5JEEBxMUA&s",
+      "original": "https://i5.walmartimages.com/asr/a61bf5e2-dc4d-4ff6-968e-0567114ad31e.488f3c71e32f4acc647a2cb9b636c340.jpeg?odnHeight=612&odnWidth=612&odnBg=FFFFFF"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/baseball-bat/nah/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSDSA1AgCdcBjm-hZ6KTSkrJk0uL4LHC4RFg&s",
+      "fuentePagina": "https://www.mercadolibre.com.mx/bate-de-beisbol-madera-maciza-de-roble-palo-de-palo-practica/p/MLM2021682825",
+      "titulo": "Bate De Béisbol Madera Maciza De Roble Palo De Palo Práctica ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSDSA1AgCdcBjm-hZ6KTSkrJk0uL4LHC4RFg&s",
+      "original": "https://http2.mlstatic.com/D_NQ_NP_752869-CBT74988875294_032024-O.webp"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/baseball-bat/nah/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnCHDnBWFD93umvW2x57O5h4TkZ5PYdtgS2Q&s",
+      "fuentePagina": "https://midwaysports.com/es/products/axe-pro-series-maple-wood-baseball-bat-pwr-243-turn-brown-trout-axe-handle?srsltid=AfmBOoqwiKA7uZ9_SxNmuCd-PnFaEpXL-5fycMibsM1z-jSoXIGb-leD",
+      "titulo": "Bate de béisbol Axe Pro Series de madera de arce | PWR 243 ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnCHDnBWFD93umvW2x57O5h4TkZ5PYdtgS2Q&s",
+      "original": "https://midwaysports.com/cdn/shop/files/L125P-1_reduced.jpg?v=1741594736"
+    }
+  ]
+}

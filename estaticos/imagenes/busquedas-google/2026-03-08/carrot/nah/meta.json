@@ -1,0 +1,71 @@
+{
+  "categoria": "carrot",
+  "categoriaSlug": "carrot",
+  "idioma": "nah",
+  "nombreIdioma": "Náhuatl",
+  "termino": "iztatl",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:14:12.335Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "es",
+    "gl": "mx"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=iztatl&hl=es&gl=mx",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/carrot/nah/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUBH60ph3iWSeNsI2zmLuoH5bQ48ZBMJzncw&s",
+      "fuentePagina": "https://nah.wikipedia.org/wiki/Iztatl",
+      "titulo": "Iztatl - Huiquipedia, in yōllōxoxouhqui cēntlamatilizāmoxtli",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUBH60ph3iWSeNsI2zmLuoH5bQ48ZBMJzncw&s",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/2/28/Salt_-_close-up.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/carrot/nah/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmsM3iLfKAYZLJ125aoiHi_4NkPeTVWtGsKQ&s",
+      "fuentePagina": "https://www.facebook.com/IztatlMexico/",
+      "titulo": "Iztatl | Ixtapan de la Sal",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmsM3iLfKAYZLJ125aoiHi_4NkPeTVWtGsKQ&s",
+      "original": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=100063670083476"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/carrot/nah/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBO-1Oeuj3cZfBSQKf9N_C3LYtgnnbJ_6fTQ&s",
+      "fuentePagina": "https://mx.linkedin.com/company/rodamientos-y-art%C3%ADculos-industriales-iztatl-s-a-de-c-v",
+      "titulo": "Rodamientos y Artículos Industriales Iztatl S.A de C.V ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBO-1Oeuj3cZfBSQKf9N_C3LYtgnnbJ_6fTQ&s",
+      "original": "https://media.licdn.com/dms/image/v2/D4E0BAQEztAOjzvsGew/company-logo_200_200/company-logo_200_200/0/1708548494932/rodamientos_y_artculos_industriales_iztatl_s_a_de_c_v_logo?e=2147483647&v=beta&t=6XAaJXusw_efKTHWrPk87lox61_f8F-ty6DpCryOQd8"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/carrot/nah/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAqigO3ezF4KSU-rq_4Ybn3iGivXkEEeS1xg&s",
+      "fuentePagina": "https://www.facebook.com/IztatlMexico/",
+      "titulo": "Iztatl | Ixtapan de la Sal",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAqigO3ezF4KSU-rq_4Ybn3iGivXkEEeS1xg&s",
+      "original": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=2036192249958795"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/carrot/nah/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_RRI1_CVRLse1w6YXAeTncTLm9XQvQaDpGA&s",
+      "fuentePagina": "https://nah.wiktionary.org/wiki/iztatl",
+      "titulo": "iztatl - Wiktionary",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_RRI1_CVRLse1w6YXAeTncTLm9XQvQaDpGA&s",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Fleur_de_sel1.jpg/250px-Fleur_de_sel1.jpg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/carrot/nah/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3PYRmAjZm3CSIUhdry6LsaHLlEQze89bl9g&s",
+      "fuentePagina": "https://commons.wikimedia.org/wiki/File:Iztatl-Sal-Salt.png",
+      "titulo": "File:Iztatl-Sal-Salt.png - Wikimedia Commons",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3PYRmAjZm3CSIUhdry6LsaHLlEQze89bl9g&s",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Iztatl-Sal-Salt.png/500px-Iztatl-Sal-Salt.png"
+    }
+  ]
+}

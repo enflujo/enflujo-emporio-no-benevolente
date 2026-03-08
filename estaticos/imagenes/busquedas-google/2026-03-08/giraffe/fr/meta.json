@@ -1,0 +1,71 @@
+{
+  "categoria": "giraffe",
+  "categoriaSlug": "giraffe",
+  "idioma": "fr",
+  "nombreIdioma": "Français",
+  "termino": "girafe",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T20:55:32.622Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "fr",
+    "gl": "be"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=girafe&hl=fr&gl=be",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/giraffe/fr/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-lARwhbVD0B2DIo8nXuwjXqJuwnIhNwBokQ&s",
+      "fuentePagina": "https://fr.wikipedia.org/wiki/Girafe",
+      "titulo": "Girafe — Wikipédia",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-lARwhbVD0B2DIo8nXuwjXqJuwnIhNwBokQ&s",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Giraffa_camelopardalis_angolensis.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/giraffe/fr/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZvRD3nFvCzYcqHq-mxts48dOkSh75jd3QDg&s",
+      "fuentePagina": "https://wildexpedition.com/fr/animaux/girafe-reticulee/",
+      "titulo": "Girafe réticulée - Expédition sauvage",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZvRD3nFvCzYcqHq-mxts48dOkSh75jd3QDg&s",
+      "original": "https://wildexpedition.com/wp-content/uploads/2024/09/DSC01144.jpeg.webp"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/giraffe/fr/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFIvENr7hBDtSvpgqJ3GGoiyCfwam0Yy14Gw&s",
+      "fuentePagina": "https://www.zoobeauval.com/zooparc/liste-des-animaux/girafe",
+      "titulo": "Girafe réticulée | ZooParc de Beauval",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFIvENr7hBDtSvpgqJ3GGoiyCfwam0Yy14Gw&s",
+      "original": "https://cdn-images.zoobeauval.com/pTsc7axkqY3t5MzSk0WS5C3K7Ig=/730x730/https%3A%2F%2Fs3.eu-west-3.amazonaws.com%2Fimages.zoobeauval.com%2F2024%2F02%2Fgirafe-02-65ccbbb1cfc0b.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/giraffe/fr/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQ3aQP16SrwNyF6lAqMA-XboTflqH57UEBmw&s",
+      "fuentePagina": "https://www.ifaw.org/fr/animaux/girafes",
+      "titulo": "Ce que vous devriez savoir sur les girafes | IFAW",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQ3aQP16SrwNyF6lAqMA-XboTflqH57UEBmw&s",
+      "original": "https://d1jyxxz9imt9yb.cloudfront.net/medialib/3597/image/s768x1300/WR202206_GiraffeTranslocation_012_360559_reduced.jpg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/giraffe/fr/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPsF2use24MXe97T4TYqok-zfe4mAFU4Yrmw&s",
+      "fuentePagina": "https://www.sciencesetavenir.fr/animaux/grands-mammiferes/c-est-officiel-les-girafes-comptent-quatre-especes-distinctes_187738",
+      "titulo": "C'est officiel : les girafes comptent quatre espèces distinctes",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPsF2use24MXe97T4TYqok-zfe4mAFU4Yrmw&s",
+      "original": "https://www.sciencesetavenir.fr/assets/img/2025/08/20/cover-r4x3w1200-68a5c0e13b512-afp-20250419-2594504-v1-highres-reticulatedgiraffegiraffareticulatafemaleandyou.jpg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/giraffe/fr/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0g9O4ABhQ0s9LOei8Q_aGUUXMlIFSGKsyzw&s",
+      "fuentePagina": "https://www.monde-animal.fr/fiches-animaux/giraffa-camelopardalis/",
+      "titulo": "Girafe (Giraffa camelopardalis) - Monde Animal",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0g9O4ABhQ0s9LOei8Q_aGUUXMlIFSGKsyzw&s",
+      "original": "https://www.monde-animal.fr/wp-content/uploads/2020/04/fiche-animale-monde-animal-girafe.jpg"
+    }
+  ]
+}

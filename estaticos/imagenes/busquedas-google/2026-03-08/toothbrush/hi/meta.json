@@ -1,0 +1,71 @@
+{
+  "categoria": "toothbrush",
+  "categoriaSlug": "toothbrush",
+  "idioma": "hi",
+  "nombreIdioma": "हिन्दी",
+  "termino": "टूथब्रश",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:32:34.847Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "hi",
+    "gl": "in"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=%E0%A4%9F%E0%A5%82%E0%A4%A5%E0%A4%AC%E0%A5%8D%E0%A4%B0%E0%A4%B6&hl=hi&gl=in",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/toothbrush/hi/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCij8Dp2aplCes_me6L1RpOLtxXwbKrrTUew&s",
+      "fuentePagina": "https://www.amazon.in/-/hi/EasyHonor-%E0%A4%9F%E0%A5%82%E0%A4%A5%E0%A4%AC%E0%A5%8D%E0%A4%B0%E0%A4%B6-%E0%A4%AC%E0%A5%8D%E0%A4%B0%E0%A4%BF%E0%A4%B8%E0%A4%B2%E0%A5%8D%E0%A4%B8-%E0%A4%B5%E0%A5%8D%E0%A4%B9%E0%A4%BE%E0%A4%87%E0%A4%9F-%E0%A4%AC%E0%A5%8D%E0%A4%B0%E0%A4%BF%E0%A4%B8%E0%A5%8D%E0%A4%9F%E0%A4%B2/dp/B08XC4M1VH",
+      "titulo": "EasyHonor विशाल हेड टूथब्रश, बड़ा टूथब्रश, जाइंट हेड टूथब्रश, हार्ड एंड  फर्म टूथब्रश ब्रिसल्स BPA फ़्री उचित डेंटल केयर के लिए 4 पैक व्हाइट हार्ड  ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCij8Dp2aplCes_me6L1RpOLtxXwbKrrTUew&s",
+      "original": "https://m.media-amazon.com/images/I/61UCQveTktL._AC_UF1000,1000_QL80_.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/toothbrush/hi/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5fJIKncEV6xV1atogjytVJHBImQRkua3x0w&s",
+      "fuentePagina": "https://www.collinsdictionary.com/hi/dictionary/english/toothbrush",
+      "titulo": "TOOTHBRUSH परिभाषा और अर्थ | कोलिन्स ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5fJIKncEV6xV1atogjytVJHBImQRkua3x0w&s",
+      "original": "https://www.collinsdictionary.com/images/full/toothbrush_121250959_1000.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/toothbrush/hi/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9lUzKrzPwotW5g7WnZWbfxYsI4KAbUSUICg&s",
+      "fuentePagina": "https://www.apollopharmacy.in/hi/otc/thermoseal-ortho-brush?srsltid=AfmBOoqDsnXzwOukvnO8yaEfoL8nZg0TLlAoM3-ODzIc-nir7F5O_ySM",
+      "titulo": "थर्मोसील ऑर्थो टूथब्रश, 1 काउंट ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9lUzKrzPwotW5g7WnZWbfxYsI4KAbUSUICg&s",
+      "original": "https://images.apollo247.in/pub/media/catalog/product/T/H/THE0197_1.jpg?tr=q-80,f-webp,w-400,dpr-3,c-at_max%20400w"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/toothbrush/hi/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGCL6fBi3YrlPsFZs2LOy-m3cJFnu_Bvig4g&s",
+      "fuentePagina": "https://www.amazon.in/-/hi/TWINZEN-%E0%A4%9F%E0%A5%82%E0%A4%A5%E0%A4%AC%E0%A5%8D%E0%A4%B0%E0%A4%B6-%E0%A4%AE%E0%A4%B8%E0%A5%82%E0%A4%A1%E0%A4%BC%E0%A5%8B%E0%A4%82-%E0%A4%B8%E0%A4%82%E0%A4%B5%E0%A5%87%E0%A4%A6%E0%A5%80-%E0%A4%91%E0%A4%9F%E0%A4%BF%E0%A4%B8%E0%A5%8D%E0%A4%9F%E0%A4%BF%E0%A4%95/dp/B0CLP6LB96",
+      "titulo": "TWINZEN तीन तरफा नरम टूथब्रश, 3-सिर वाला ब्रश गहराई से और पूरी तरह से साफ  दांत और मसूड़ों के लिए, V आकार का अभिनव संवेदी और ऑटिस्टिक ओरल केयर टूथब्रश  ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGCL6fBi3YrlPsFZs2LOy-m3cJFnu_Bvig4g&s",
+      "original": "https://m.media-amazon.com/images/I/61+bV0Q8OfL._AC_UF1000,1000_QL80_.jpg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/toothbrush/hi/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZj0GC2VL_GF59546FdtjvEkw29PGdraIs-w&s",
+      "fuentePagina": "https://ndtv.in/lifestyle/right-time-to-replace-old-toothbrush-read-to-know-how-to-use-toothbrush-for-healthy-and-clean-teeth-3967340",
+      "titulo": "जानिए कितने दिन तक करना चाहिए ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZj0GC2VL_GF59546FdtjvEkw29PGdraIs-w&s",
+      "original": "https://c.ndtvimg.com/2023-04/fq2ci4m_when-to-replace-toothbrush_625x300_21_April_23.jpg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/toothbrush/hi/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwxgYhAu42RjklX9ImaV0YeH-9gVhIJIcLdA&s",
+      "fuentePagina": "https://www.apollopharmacy.in/hi/otc/senolin-orthodontic-brush?srsltid=AfmBOoq-CFqH3plGr7J5SVL-j1J8rGyjIQ9HvRtJu3KBTzLDEYh61CWj",
+      "titulo": "सेनोलिन ऑर्थोडोंटिक टूथब्रश, 1 काउंट",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwxgYhAu42RjklX9ImaV0YeH-9gVhIJIcLdA&s",
+      "original": "https://images.apollo247.in/pub/media/catalog/product/S/E/SEN0008_1.jpg?tr=q-80,f-webp,w-400,dpr-3,c-at_max%20400w"
+    }
+  ]
+}

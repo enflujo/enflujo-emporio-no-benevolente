@@ -1,0 +1,71 @@
+{
+  "categoria": "carrot",
+  "categoriaSlug": "carrot",
+  "idioma": "hi",
+  "nombreIdioma": "हिन्दी",
+  "termino": "गाजर",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:14:06.916Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "hi",
+    "gl": "in"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=%E0%A4%97%E0%A4%BE%E0%A4%9C%E0%A4%B0&hl=hi&gl=in",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/carrot/hi/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8eKmTp8QquRMclwKtBWXsUAf1tlMmvv9C7A&s",
+      "fuentePagina": "https://www.amazon.in/-/hi/Gachwala-%E0%A4%97%E0%A4%BE%E0%A4%9C%E0%A4%B0-%E0%A4%85%E0%A4%B0%E0%A5%8D%E0%A4%B2%E0%A5%80-%E0%A4%B9%E0%A4%BE%E0%A4%B0%E0%A5%8D%E0%A4%B5%E0%A5%87%E0%A4%B8%E0%A5%8D%E0%A4%9F-%E0%A4%A6%E0%A5%87%E0%A4%B8%E0%A5%80/dp/B0CMV27RMJ",
+      "titulo": "Gachwala लाल गाजर के बीज | अर्ली ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8eKmTp8QquRMclwKtBWXsUAf1tlMmvv9C7A&s",
+      "original": "https://m.media-amazon.com/images/I/81Hcz-c5X7L._AC_UF1000,1000_QL80_.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/carrot/hi/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5TcMskjrwsWr9Uyp8kOLzIQSkevGAo_yv7w&s",
+      "fuentePagina": "https://www.amazon.in/-/hi/%E0%A4%AA%E0%A5%80%E0%A4%B2%E0%A4%BE-%E0%A4%97%E0%A4%BE%E0%A4%9C%E0%A4%B0-%E0%A4%97%E0%A4%9C%E0%A4%B0-%E0%A4%B8%E0%A4%AC%E0%A5%8D%E0%A4%9C%E0%A4%BF%E0%A4%AF%E0%A5%8B%E0%A4%82-%E0%A4%AC%E0%A5%80%E0%A4%9C/dp/B07MTK1TR7",
+      "titulo": "पीला गाजर/गजर सब्जियों के बीज ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5TcMskjrwsWr9Uyp8kOLzIQSkevGAo_yv7w&s",
+      "original": "https://m.media-amazon.com/images/I/710EvtgG++L.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/carrot/hi/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtM5ZbsW7xdc7fH5XFxd_uzulwiGZOLDL6kQ&s",
+      "fuentePagina": "https://www.amazon.in/-/hi/GARDENIFY-INDIA-%E0%A4%B2%E0%A4%BE%E0%A4%B2-%E0%A4%97%E0%A4%BE%E0%A4%9C%E0%A4%B0-%E0%A4%AA%E0%A5%88%E0%A4%95%E0%A5%87%E0%A4%9F/dp/B094G9QF2P?s=bazaar",
+      "titulo": "GARDENIFY INDIA लाल गाजर के बीज (500 बीज ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtM5ZbsW7xdc7fH5XFxd_uzulwiGZOLDL6kQ&s",
+      "original": "https://m.media-amazon.com/images/I/51s2bZs08EL._AC_UF1000,1000_QL80_.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/carrot/hi/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSI1cscrtJ-Zy8uNLwQFgBgyCg-Gma9yv3YGw&s",
+      "fuentePagina": "https://www.facebook.com/photo/?fbid=1756195947975370&set=a.1588355631426070",
+      "titulo": "Advanced - गाजर की खेती कैसे करें गाजर ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSI1cscrtJ-Zy8uNLwQFgBgyCg-Gma9yv3YGw&s",
+      "original": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=1756195947975370"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/carrot/hi/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsdj2KvDzrqjUMaBlv4UaM69VfOmxgfl_ImQ&s",
+      "fuentePagina": "https://hindi.indiamart.com/proddetail/%E0%A4%A4%E0%A4%BE%E0%A4%9C%E0%A5%80-%E0%A4%97%E0%A4%BE%E0%A4%9C%E0%A4%B0-%E0%A4%B8%E0%A4%AC%E0%A5%8D%E0%A4%9C%E0%A5%80-2855644531348.html",
+      "titulo": "पैन इंडिया ए ग्रेड फ्रेश गाजर ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsdj2KvDzrqjUMaBlv4UaM69VfOmxgfl_ImQ&s",
+      "original": "https://5.imimg.com/data5/SELLER/Default/2025/3/495998214/PS/HP/FA/66789684/fresh-carrot-vegetable-500x500.jpg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/carrot/hi/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsr1W7YLAuL3pfD-PgBZAB5zzMUqXm34JHig&s",
+      "fuentePagina": "https://ndtv.in/lifestyle/health-benefits-of-carrot-gajar-1777802",
+      "titulo": "ये हैं गाजर खाने के 7 फायदे, नहीं ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsr1W7YLAuL3pfD-PgBZAB5zzMUqXm34JHig&s",
+      "original": "https://i.ndtvimg.com/i/2017-11/carrots-are-a-rich-source-of-vitamin-a_650x400_81511086163.jpg"
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "categoria": "elephant",
+  "categoriaSlug": "elephant",
+  "idioma": "zh",
+  "nombreIdioma": "中文",
+  "termino": "大象",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T20:54:02.065Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "zh-CN",
+    "gl": "cn"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=%E5%A4%A7%E8%B1%A1&hl=zh-CN&gl=cn",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/elephant/zh/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJ4gKbPflhZPWHrbG3To966R1D1E5RbyjBXg&s",
+      "fuentePagina": "https://zh.wikipedia.org/zh-cn/%E8%B1%A1",
+      "titulo": "象- 维基百科，自由的百科全书",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJ4gKbPflhZPWHrbG3To966R1D1E5RbyjBXg&s",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/African_Bush_Elephant.jpg/250px-African_Bush_Elephant.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/elephant/zh/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxqoZo3sZFhUUzxokCh8wj43CAKSlqjNaiwQ&s",
+      "fuentePagina": "https://zh.wikipedia.org/zh-cn/%E4%BA%9A%E6%B4%B2%E8%B1%A1",
+      "titulo": "亚洲象- 维基百科，自由的百科全书",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxqoZo3sZFhUUzxokCh8wj43CAKSlqjNaiwQ&s",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/f/f9/Zoorashia_elephant.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/elephant/zh/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWhKKgAnY8XK6dr6xGxQa-1FfTesFjnW2laQ&s",
+      "fuentePagina": "https://www.bbc.com/zhongwen/simp/world-62490761",
+      "titulo": "世界大象日：非洲“超级獠牙象”的悲歌- BBC News 中文",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWhKKgAnY8XK6dr6xGxQa-1FfTesFjnW2laQ&s",
+      "original": "https://ichef.bbci.co.uk/ace/ws/640/cpsprodpb/10D74/production/_126208986_wed5.jpg.webp"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/elephant/zh/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQO1GG0RUFajxi8U1vpsMqN4e9mVFkc9s6g-w&s",
+      "fuentePagina": "https://cn.dreamstime.com/%E5%85%8D%E7%89%88%E7%A8%8E%E5%BA%93%E5%AD%98%E7%85%A7%E7%89%87-%E9%9D%9E-%E5%A4%A7%E8%B1%A1-%E9%9D%9E-%E8%B1%A1%E5%B1%9Eafricana-%E3%80%82-image34456078",
+      "titulo": "非洲象(Loxodonta africana)。 库存照片. 图片包括有图标, 茴香 ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQO1GG0RUFajxi8U1vpsMqN4e9mVFkc9s6g-w&s",
+      "original": "https://thumbs.dreamstime.com/b/%E9%9D%9E-%E5%A4%A7%E8%B1%A1%E3%80%82-35980917.jpg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/elephant/zh/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmaKOTgCdv3KaGlGFqjb0S1zmCb-6rEjM79w&s",
+      "fuentePagina": "https://www.wenxiaobai.com/api/expends/detail?article=d45b6ff6-938c-45f9-9651-fc57a1282734",
+      "titulo": "大象体型庞大，却6000万年不衰，它是怎么从五六斤长到五六吨的？",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmaKOTgCdv3KaGlGFqjb0S1zmCb-6rEjM79w&s",
+      "original": "https://wy-static.wenxiaobai.com/aigc-online/delogo_17f1b14d-33e8-2333-1d0c-11ac741a3578.webp?ratioWH=1.8&type=opt"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/elephant/zh/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFuC8WGGYH3DI7zAfOlMaD3XbhcL6bgSAWqw&s",
+      "fuentePagina": "http://www.news.cn/2022-08/12/c_1128911271.htm",
+      "titulo": "科普：世界大象日，这些知识值得了解-新华网",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFuC8WGGYH3DI7zAfOlMaD3XbhcL6bgSAWqw&s",
+      "original": "http://www.news.cn/2022-08/12/1128911271_16603072103321n.jpg"
+    }
+  ]
+}

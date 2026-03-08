@@ -1,0 +1,71 @@
+{
+  "categoria": "potted plant",
+  "categoriaSlug": "potted-plant",
+  "idioma": "nah",
+  "nombreIdioma": "Náhuatl",
+  "termino": "xochitl",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:18:44.507Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "es",
+    "gl": "mx"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=xochitl&hl=es&gl=mx",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/potted-plant/nah/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpk7z9p1bL6DStzRMWY34Iv7DIAiKneXRkXw&s",
+      "fuentePagina": "https://doblaje.fandom.com/es/wiki/X%C3%B3chitl_Ahuactzin",
+      "titulo": "Xóchitl Ahuactzin | Doblaje Wiki | Fandom",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpk7z9p1bL6DStzRMWY34Iv7DIAiKneXRkXw&s",
+      "original": "https://static.wikia.nocookie.net/doblaje/images/b/b1/Xochitlartwork.jpg/revision/latest?cb=20250216091831&path-prefix=es"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/potted-plant/nah/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSO09s1r1hPYmr2bARMUW0_2KVpxKknYB3Kg&s",
+      "fuentePagina": "https://es.wikipedia.org/wiki/X%C3%B3chitl_G%C3%A1lvez",
+      "titulo": "Xóchitl Gálvez - Wikipedia, la enciclopedia libre",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSO09s1r1hPYmr2bARMUW0_2KVpxKknYB3Kg&s",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/X%C3%B3chitl_G%C3%A1lvez_mayo_2024_%28cropped%29.jpg/250px-X%C3%B3chitl_G%C3%A1lvez_mayo_2024_%28cropped%29.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/potted-plant/nah/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTc5fIhiLuV1TSzDAATY8IUjXBy5v_zLAmLCg&s",
+      "fuentePagina": "https://legendquest.fandom.com/es/wiki/X%C3%B3chitl",
+      "titulo": "Xóchitl | Saga Las Leyendas Wiki | Fandom",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTc5fIhiLuV1TSzDAATY8IUjXBy5v_zLAmLCg&s",
+      "original": "https://static.wikia.nocookie.net/legendquest/images/a/a2/X%C3%B3chitl_infobox.png/revision/latest?cb=20180617224828&path-prefix=es"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/potted-plant/nah/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrAU66Qn82JP15qwfzuyNxA7X0mqnnIVYOgQ&s",
+      "fuentePagina": "https://aristeguinoticias.com/0309/mexico/discurso-de-xochitl-galvez-recuerden-mi-regla-de-oro-ni-huevones-ni-rateros-ni-pendejos/",
+      "titulo": "Discurso de Xóchitl Gálvez: recuerden mi regla de oro, ni ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrAU66Qn82JP15qwfzuyNxA7X0mqnnIVYOgQ&s",
+      "original": "https://editorial.aristeguinoticias.com/wp-content/uploads/2023/09/xochitl-galvez-discurso-angel-independencia.jpg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/potted-plant/nah/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6KH4l4qoEjROM1aft7hXkSl-xuzG4_kob4g&s",
+      "fuentePagina": "https://www.elsiglodedurango.com.mx/noticia/2026/acepte-la-realidad-xochitl-galvez-revela-como-cambio-su-vida-despues-de-la-eleccion.html",
+      "titulo": "Acepté la realidad': Xóchitl Gálvez revela cómo cambió su ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6KH4l4qoEjROM1aft7hXkSl-xuzG4_kob4g&s",
+      "original": "https://tecolotito.elsiglodedurango.com.mx/cdn-cgi/image/format=auto,width=1024/i/2026/01/1343403.jpeg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/potted-plant/nah/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQN9w4mt2wM0_oqGXCv8kp1rwwNPAU_1JdEQ&s",
+      "fuentePagina": "https://x.com/XochitlGalvez/status/1967826704036163658",
+      "titulo": "Qué gusto acompañar a mi querida @AlessandraRdlv en la ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQN9w4mt2wM0_oqGXCv8kp1rwwNPAU_1JdEQ&s",
+      "original": "https://pbs.twimg.com/media/G08f9R3W0AAttEW.jpg"
+    }
+  ]
+}

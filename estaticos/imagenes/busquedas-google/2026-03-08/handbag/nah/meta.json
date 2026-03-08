@@ -1,0 +1,71 @@
+{
+  "categoria": "handbag",
+  "categoriaSlug": "handbag",
+  "idioma": "nah",
+  "nombreIdioma": "Náhuatl",
+  "termino": "bolso",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T20:57:55.905Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "es",
+    "gl": "mx"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=bolso&hl=es&gl=mx",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/handbag/nah/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcST4VmbBzUZIRQda3fYbiMc0ejuQIl1QCW67g&s",
+      "fuentePagina": "https://www.amazon.com.mx/SDYSM-Bandolera-Crossbody-impermeable-Adecuado/dp/B0CL28G2Y9",
+      "titulo": "SDYSM Bolsas de Mujer,Bolsa de Mano de PU Bolso Bandolera ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcST4VmbBzUZIRQda3fYbiMc0ejuQIl1QCW67g&s",
+      "original": "https://m.media-amazon.com/images/I/81RbiEidOVL._AC_UY1000_.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/handbag/nah/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvBauyhkYNoeoJwSjQuGkFGV3st6Zaf-8uEA&s",
+      "fuentePagina": "https://www.cartier.mx/l1002324-bolso-de-mano-tamano-pequeno-panthere-de-cartier/p",
+      "titulo": "L1002324 - Bolso de mano tamaño pequeño, Panthère de Cartier ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvBauyhkYNoeoJwSjQuGkFGV3st6Zaf-8uEA&s",
+      "original": "https://cartiermx.vtexassets.com/arquivos/ids/184942-800-800?v=637728124214800000&width=800&height=800&aspect=true"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/handbag/nah/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEUTs4LldsKRPgvECJwa152eV_hIaqLtK3LQ&s",
+      "fuentePagina": "https://betterware.com.mx/products/set-bolso-elegant-24794?srsltid=AfmBOooA2e-Igr25M9uzYPUV-xV5HBYHgiFkYEXfYl-929Q-FdVfA24f",
+      "titulo": "Set Bolso Elegant – Betterware",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEUTs4LldsKRPgvECJwa152eV_hIaqLtK3LQ&s",
+      "original": "http://betterware.com.mx/cdn/shop/files/24794-1-Set-Bolso-Elegant-Betterware-990375.jpg?v=1727126707"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/handbag/nah/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJ6nDbFv4UMTTWp0SjrZWmPkrG47D26uOA8w&s",
+      "fuentePagina": "https://www.sanborns.com.mx/producto/552821/bolso-tote-huser-negro-para-mujer",
+      "titulo": "Bolso Tote Huser Negro para Mujer",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJ6nDbFv4UMTTWp0SjrZWmPkrG47D26uOA8w&s",
+      "original": "https://resources.sanborns.com.mx/imagenes-sanborns-ii/1200/7502321523037_4.jpg?scale=500&qlty=75"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/handbag/nah/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4uDHCGxPokev5GQkpemv88fNgZfBIOa6OcQ&s",
+      "fuentePagina": "https://cyzone.tiendabelcorp.com.mx/bolso-de-mujer-emiliana/p",
+      "titulo": "Bolso de Mujer Emiliana",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4uDHCGxPokev5GQkpemv88fNgZfBIOa6OcQ&s",
+      "original": "https://belcorpmexico.vtexassets.com/arquivos/ids/971737-800-800?v=638622030320000000&width=800&height=800&aspect=true"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/handbag/nah/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSD5N6lhpB5kbNCYL0_pBkSWP-DzzsL5dotXw&s",
+      "fuentePagina": "https://www.bodegaaurrera.com.mx/ip/accesorios-para-mujer/bolsos-para-mujer-bolso-grande-para-mujer-bolso-tipo-cubo/00944530398262",
+      "titulo": "Bolsos para mujer Bolso grande para mujer Bolso tipo cubo ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSD5N6lhpB5kbNCYL0_pBkSWP-DzzsL5dotXw&s",
+      "original": "https://i5.walmartimages.com/asr/18545881-cc5f-47de-a6a0-5439185c3a1a.c57ef608d9d7291a432c7cb168eb06b3.jpeg?odnHeight=612&odnWidth=612&odnBg=FFFFFF"
+    }
+  ]
+}

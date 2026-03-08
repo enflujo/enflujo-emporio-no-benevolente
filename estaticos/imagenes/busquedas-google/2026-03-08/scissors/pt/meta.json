@@ -1,0 +1,71 @@
+{
+  "categoria": "scissors",
+  "categoriaSlug": "scissors",
+  "idioma": "pt",
+  "nombreIdioma": "Português",
+  "termino": "tesoura",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:30:46.244Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "pt",
+    "gl": "br"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=tesoura&hl=pt&gl=br",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/scissors/pt/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRh-k_UCS_17aIB81z9wSz4WbNlrsYkhcrrg&s",
+      "fuentePagina": "https://www.tilibraexpress.com.br/tesoura-escolar-128mm-soho?srsltid=AfmBOooZhjMnK2MnKEjDfwVNi5pP24Tvwuhzx5SpYMtd66TZ9apmXgI3",
+      "titulo": "Tesoura Escolar 128mm Soho",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRh-k_UCS_17aIB81z9wSz4WbNlrsYkhcrrg&s",
+      "original": "https://cdnv2.moovin.com.br/marbig/imagens/produtos/det/tesoura-escolar-128mm-soho-img-159201_1709251616473932.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/scissors/pt/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQswjTjbWULjiGe-RP-9xP0ZhtoVjjpo8jYEQ&s",
+      "fuentePagina": "https://andrearmarinhos.com.br/produto/tesoura-para-costura-9-pol-23-cm-509b-western/?srsltid=AfmBOop19RQ9p1vjL8awx9uTM9POg942vNL9_Etro6yTOeyNNfsYyZdx",
+      "titulo": "Tesoura para Costura 9 pol 23 cm 509B - Western - André ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQswjTjbWULjiGe-RP-9xP0ZhtoVjjpo8jYEQ&s",
+      "original": "https://andrearmarinhos.com.br/wp-content/uploads/2021/11/Tesoura-de-Uso-Geral-9-pol-23-cm-509B-Western-01.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/scissors/pt/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQL3yEP8Ujv9eqyw5FgoSeKzobzNYIdUyPYIA&s",
+      "fuentePagina": "https://lojaalfa.com/tesoura-zig-zag-papel-tecido-couro-profissional-masterprint?srsltid=AfmBOor0ioD8QncWXQjhqH29DtoiaQloFdH8OOYK_Y7EhZiEjL6VE2WE",
+      "titulo": "Tesoura Zig Zag Papel Tecido Couro Profissional Masterprint",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQL3yEP8Ujv9eqyw5FgoSeKzobzNYIdUyPYIA&s",
+      "original": "https://lojaalfa.com/image/cache/catalog/bling/tesoura-zig-zag-papel-tecido-couro-profissional-masterprint0-1200x1200.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/scissors/pt/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRA6d2ymBVYaUmxrfymwlgOtm8Z_cmF79PrUg&s",
+      "fuentePagina": "https://www.paperhope.com.br/papelaria/tesoura-sem-ponta-tesoura-escolar-anatomica-kit-6-unidades-cores-sortidas",
+      "titulo": "Tesoura Sem Ponta Tesoura Escolar Anatômica Kit 6 Unidades Cores Sortidas",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRA6d2ymBVYaUmxrfymwlgOtm8Z_cmF79PrUg&s",
+      "original": "https://images.tcdn.com.br/img/img_prod/1209962/tesoura_sem_ponta_tesoura_escolar_anatomica_kit_6_unidades_cores_sortidas_689_1_59975583ebb2f21bad182424327f1b0b.jpg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/scissors/pt/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrqDsmRnbx0WO1vLSlZEpEi1JrWiUpzAV6yQ&s",
+      "fuentePagina": "https://b2b.brwsuprimentos.com.br/tesoura-escolar-de-aco-c--regua-13cm---display-c--30un/p",
+      "titulo": "TESOURA ESCOLAR DE AÇO C/ RÉGUA 13CM - DISPLAY C/ 30UN",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrqDsmRnbx0WO1vLSlZEpEi1JrWiUpzAV6yQ&s",
+      "original": "https://tfdfgu.vtexassets.com/arquivos/ids/190534-800-800?v=639084395617570000&width=800&height=800&aspect=true"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/scissors/pt/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmhtd24V_PEOCHPL4BK2FGbdheVU0ac63QXQ&s",
+      "fuentePagina": "https://www.universodolar.com.br/tesoura-escolar-5-?srsltid=AfmBOoooSYUahAorFfD9eqaJSRWqqOy7AGPnUrfvATmKyeg3W7vhnWkF",
+      "titulo": "Tesoura Escolar Tramontina Supercort Monster Lâmina Inox Cabo Preto  5\"Tramontina",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmhtd24V_PEOCHPL4BK2FGbdheVU0ac63QXQ&s",
+      "original": "https://expresso10.cdn.magazord.com.br/img/2024/09/produto/88245/25901105pdma001.jpg?ims=fit-in/800x800/filters:fill(white)"
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "categoria": "mouse",
+  "categoriaSlug": "mouse",
+  "idioma": "kg",
+  "nombreIdioma": "Kikongo",
+  "termino": "souris",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:22:19.942Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "fr",
+    "gl": "cd"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=souris&hl=fr&gl=cd",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/mouse/kg/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPEd3wj1Js6UfBA72HS2wNwZCKTpwr4Ziy3Q&s",
+      "fuentePagina": "https://www.exterminateursassocies.com/identification-insectes/souris/",
+      "titulo": "Définition et caractéristiques d'une souris | C'est quoi une ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPEd3wj1Js6UfBA72HS2wNwZCKTpwr4Ziy3Q&s",
+      "original": "https://www.exterminateursassocies.com/wp-content/uploads/2024/06/identification-insectes-souris-lg.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/mouse/kg/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsE6SFQqjH6Vruvtrlz6P9mxOlpsZ7AUWalg&s",
+      "fuentePagina": "https://www.aquaportail.com/dictionnaire/definition/789/souris",
+      "titulo": "Souris (animal) : définition et explications",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsE6SFQqjH6Vruvtrlz6P9mxOlpsZ7AUWalg&s",
+      "original": "https://www.aquaportail.com/pictures2302/souris-mus-musculus.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/mouse/kg/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTosP8lpm_q8qyYZh6ij9L8rB9bVslLnT_UlA&s",
+      "fuentePagina": "https://www.abatextermination.ca/souris-description/",
+      "titulo": "La souris grise commune au Québec",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTosP8lpm_q8qyYZh6ij9L8rB9bVslLnT_UlA&s",
+      "original": "https://www.abatextermination.ca/wp-content/uploads/2012/01/souris_21.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/mouse/kg/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRoShVB95YHW2m63_hp2qBH7vep6Hovyn0frA&s",
+      "fuentePagina": "https://www.salamandre.org/article/ceci-nest-pas-une-souris-mulot/",
+      "titulo": "Comment faire la différence entre une souris grise et un ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRoShVB95YHW2m63_hp2qBH7vep6Hovyn0frA&s",
+      "original": "https://master.salamandre.org/media/22001/wood-mouse-2826216-350x234.jpg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/mouse/kg/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHeNwJunLc3uo9L7bi-Ut1oZmN7CgSwNgBAg&s",
+      "fuentePagina": "https://barriere-a-nuisibles.fr/nuisible/souris-domestique/",
+      "titulo": "Souris domestique | Barrière à nuisibles",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHeNwJunLc3uo9L7bi-Ut1oZmN7CgSwNgBAg&s",
+      "original": "https://barriere-a-nuisibles.fr/wp-content/uploads/souris-1024x1024.jpg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/mouse/kg/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKqRqPBgnNtjh9b7WgrDYPlPdFkwo7VdSurg&s",
+      "fuentePagina": "https://lemagdesanimaux.ouest-france.fr/dossier-84-souris-petit-rongeur.html",
+      "titulo": "La souris, petit rongeur que l'on déteste à la maison !",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKqRqPBgnNtjh9b7WgrDYPlPdFkwo7VdSurg&s",
+      "original": "https://lemagdesanimaux.ouest-france.fr/images/dossiers/2019-06/mini/souris-1-080920-650-400.jpg"
+    }
+  ]
+}

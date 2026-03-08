@@ -1,0 +1,71 @@
+{
+  "categoria": "sports ball",
+  "categoriaSlug": "sports-ball",
+  "idioma": "sw",
+  "nombreIdioma": "Kiswahili",
+  "termino": "mpira",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:01:18.644Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "sw",
+    "gl": "tz"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=mpira&hl=sw&gl=tz",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/sports-ball/sw/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcReQmbPLU_fILm5sgLRo3vueB7Dexi0o37x9A&s",
+      "fuentePagina": "https://news.un.org/sw/story/2024/05/1175006",
+      "titulo": "UN yapitisha azimio kutangaza Mei 25 kila mwaka siku ya ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcReQmbPLU_fILm5sgLRo3vueB7Dexi0o37x9A&s",
+      "original": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/assets/2015/02/21218/image1024x768.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/sports-ball/sw/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRE_BJPsNcKUcgg24Qoqat08qEXeHnDBD9sUw&s",
+      "fuentePagina": "https://www.bbc.com/swahili/michezo-44625097",
+      "titulo": "Kombe la Dunia 2018: Mpira mpya kuanza kutumiwa hatua ya ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRE_BJPsNcKUcgg24Qoqat08qEXeHnDBD9sUw&s",
+      "original": "http://c.files.bbci.co.uk/141F/production/_102215150_telstarindex.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/sports-ball/sw/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEzCIh1I7RdWwIyQF8dMmWO9X3ITcu6G01BQ&s",
+      "fuentePagina": "https://www.mwananchi.co.tz/mw/michezo/mzee-wa-fact-mpira-zaidi-ya-uujuavyo-4985008",
+      "titulo": "MZEE WA FACT: Mpira zaidi ya uujuavyo | Mwananchi",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEzCIh1I7RdWwIyQF8dMmWO9X3ITcu6G01BQ&s",
+      "original": "https://www.mwananchi.co.tz/resource/image/4985010/landscape_ratio16x9/1600/900/199c19f80a8fc5c025a877b3936042f0/Tz/mpira-pic.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/sports-ball/sw/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDWNzE1Q8o3e4mASxHRbK7JVHxy46eANyCTw&s",
+      "fuentePagina": "https://sw.wikipedia.org/wiki/Mpira_wa_miguu",
+      "titulo": "Mpira wa miguu - Wikipedia, kamusi elezo huru",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDWNzE1Q8o3e4mASxHRbK7JVHxy46eANyCTw&s",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/d/d7/Angola_vs_Morocco_2013_AFCON.jpg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/sports-ball/sw/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXtDm3gMtdwzQJ5VIEjqqwNQY2jGhBfxJtYg&s",
+      "fuentePagina": "https://www.mwanaspoti.co.tz/ms/spoti-majuu/mpira-mpya-epl-homa-kali-kwa-makipa-5164208",
+      "titulo": "Mpira mpya EPL, homa kali kwa makipa | Mwanaspoti",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXtDm3gMtdwzQJ5VIEjqqwNQY2jGhBfxJtYg&s",
+      "original": "https://www.mwanaspoti.co.tz/resource/blob/5164210/35240bc3b7e07e9eca64e0502d3d0321/mpira-pict-data.jpg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/sports-ball/sw/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYwm09TF4I0BqhDP2sGeN1NsopKCPHwkdNPQ&s",
+      "fuentePagina": "https://www.instagram.com/p/DO6wnHcjSur/",
+      "titulo": "Huu ndiyo mpira utakaotumika kwenye michezo yote ya Ligi kuu ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYwm09TF4I0BqhDP2sGeN1NsopKCPHwkdNPQ&s",
+      "original": "https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3727505430101722977"
+    }
+  ]
+}

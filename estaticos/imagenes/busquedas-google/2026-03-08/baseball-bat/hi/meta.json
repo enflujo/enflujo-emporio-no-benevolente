@@ -1,0 +1,71 @@
+{
+  "categoria": "baseball bat",
+  "categoriaSlug": "baseball-bat",
+  "idioma": "hi",
+  "nombreIdioma": "हिन्दी",
+  "termino": "बैट",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:03:00.981Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "hi",
+    "gl": "in"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=%E0%A4%AC%E0%A5%88%E0%A4%9F&hl=hi&gl=in",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/baseball-bat/hi/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKAnWyC4ndItfjVNDLcdv67GCJwelvFpzEwg&s",
+      "fuentePagina": "https://www.amazon.in/-/hi/%E0%A4%B8%E0%A5%8D%E0%A4%AA%E0%A5%87%E0%A4%B6%E0%A4%B2-%E0%A4%8F%E0%A4%A1%E0%A4%BF%E0%A4%B6%E0%A4%A8-%E0%A4%B8%E0%A4%BF%E0%A4%82%E0%A4%97%E0%A4%B2-%E0%A4%95%E0%A5%8D%E0%A4%B0%E0%A4%BF%E0%A4%95%E0%A5%87%E0%A4%9F-%E0%A4%95%E0%A4%B6%E0%A5%8D%E0%A4%AE%E0%A5%80%E0%A4%B0/dp/B0C8BD4V41",
+      "titulo": "स्पेशल एडिशन (सिंगल ब्लेड ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKAnWyC4ndItfjVNDLcdv67GCJwelvFpzEwg&s",
+      "original": "https://m.media-amazon.com/images/I/61cXVT65J3L.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/baseball-bat/hi/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyWQMy6ahoXUTbf9TL5P2FRozUl3qgt4rtLg&s",
+      "fuentePagina": "https://www.amazon.in/-/hi/%E0%A4%B2%E0%A4%A1%E0%A4%BC%E0%A4%95%E0%A5%8B%E0%A4%82-%E0%A4%95%E0%A5%8D%E0%A4%B0%E0%A4%BF%E0%A4%95%E0%A5%87%E0%A4%9F-%E0%A4%B8%E0%A4%BE%E0%A4%87%E0%A4%9C%E0%A4%BC-%E0%A4%AC%E0%A4%9A%E0%A5%8D%E0%A4%9A%E0%A5%87-%E0%A4%8F%E0%A4%AE%E0%A4%86%E0%A4%B0/dp/B0BFWT8HST",
+      "titulo": "लड़कों के लिए क्रिकेट बैट ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyWQMy6ahoXUTbf9TL5P2FRozUl3qgt4rtLg&s",
+      "original": "https://m.media-amazon.com/images/I/31LnhoH6p2L._AC_UF894,1000_QL80_.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/baseball-bat/hi/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjTKjWwLD08_vwbGjNQ1s7I5zgcJ7tw-MyxQ&s",
+      "fuentePagina": "https://www.flipkart.com/hi/ute-sports-heavy-wooden-cricket-bat-wickets-set-2-tennis-ball-kit/p/itm4308137a1c27a",
+      "titulo": "UTE SPORTS Heavy wooden cricket bat with wickets set & 2 ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjTKjWwLD08_vwbGjNQ1s7I5zgcJ7tw-MyxQ&s",
+      "original": "https://rukminim2.flixcart.com/image/480/640/xif0q/kit/l/g/t/heavy-wooden-cricket-bat-with-wickets-set-2-tennis-ball-4-4-25-original-imagqwzmbfyztbqj.jpeg?q=90"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/baseball-bat/hi/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRemXNgbsJbSxUrJ5amrTV16qrSts0RNttrmw&s",
+      "fuentePagina": "https://www.amazon.in/-/hi/WILLAGE%C2%AE-%E0%A4%AA%E0%A5%8D%E0%A4%B2%E0%A4%BE%E0%A4%B8%E0%A5%8D%E0%A4%9F%E0%A4%BF%E0%A4%95-%E0%A4%95%E0%A5%8D%E0%A4%B0%E0%A4%BF%E0%A4%95%E0%A5%87%E0%A4%9F-%E0%A4%AB%E0%A4%BE%E0%A4%87%E0%A4%AC%E0%A4%B0-%E0%A4%9F%E0%A4%B0%E0%A5%8D%E0%A4%AE%E0%A4%BF%E0%A4%A8%E0%A5%87%E0%A4%9F%E0%A4%B0/dp/B08R447MFZ",
+      "titulo": "WILLAGE® प्लास्टिक बैट | क्रिकेट बैट | फाइबर बैट | प्लास्टिक क्रिकेट बैट  हार्ड प्लास्टिक | टर्फ के लिए क्रिकेट बैट | टर्मिनेटर | साइज़ 8 फुल साइज़ :  ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRemXNgbsJbSxUrJ5amrTV16qrSts0RNttrmw&s",
+      "original": "https://m.media-amazon.com/images/I/716-o5eiwiL._AC_UF894,1000_QL80_.jpg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/baseball-bat/hi/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_cVH4zQMi5cfdunGilJID0biKmTckvwTzzw&s",
+      "fuentePagina": "https://khatabook.com/blog/hi/%E0%A4%95%E0%A5%8D%E0%A4%B0%E0%A4%BF%E0%A4%95%E0%A5%87%E0%A4%9F-%E0%A4%AC%E0%A5%88%E0%A4%9F-%E0%A4%95%E0%A5%88%E0%A4%B8%E0%A5%87-%E0%A4%AC%E0%A4%A8%E0%A4%BE%E0%A4%8F%E0%A4%81-%E0%A4%95%E0%A4%9A%E0%A5%8D%E0%A4%9A%E0%A4%BE-%E0%A4%AE%E0%A4%BE%E0%A4%B2-%E0%A4%94%E0%A4%B0-%E0%A4%A8%E0%A4%BF%E0%A4%B0%E0%A5%8D%E0%A4%AE%E0%A4%BE%E0%A4%A3-%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%95%E0%A5%8D%E0%A4%B0%E0%A4%BF%E0%A4%AF%E0%A4%BE-%E0%A4%95%E0%A5%80-%E0%A4%B5%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%96%E0%A5%8D%E0%A4%AF%E0%A4%BE/",
+      "titulo": "क्रिकेट बैट के डिजाइन और निर्माण ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_cVH4zQMi5cfdunGilJID0biKmTckvwTzzw&s",
+      "original": "https://khatabook-assets.s3.amazonaws.com/media/post/XpYuvmq_d5JIbTpXR4v308aVkqh8-ZnBF4FkHo3VcV77h3IIT6rx8THs7DAlq0ON1Mg8oHmVFzNuleggxjlzV-CSf6lQOgqhKuwTCZzDdKlJX7pT1tHz1l1pJnB5eized06ryCjC8IQq8LRjSmRuHw.webp"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/baseball-bat/hi/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRe3A9yHiY9SiqJUFs0U1D0-3GcDeCJMOWnEg&s",
+      "fuentePagina": "https://www.tradeindia.com/hi/products/cricket-tennis-ball-bat-7065404.html",
+      "titulo": "क्रिकेट टेनिस बॉल बैट सबसे अच्छी ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRe3A9yHiY9SiqJUFs0U1D0-3GcDeCJMOWnEg&s",
+      "original": "https://tiimg.tistatic.com/fp/2/007/065/cricket-tennis-ball-bat-404.jpg"
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "categoria": "couch",
+  "categoriaSlug": "couch",
+  "idioma": "nah",
+  "nombreIdioma": "Náhuatl",
+  "termino": "sofá",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:18:02.604Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "es",
+    "gl": "mx"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=sof%C3%A1&hl=es&gl=mx",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/couch/nah/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGlh3yTkrYzhTEmJdSQf2veoIEU62osPgfzw&s",
+      "fuentePagina": "https://www.amazon.com.mx/Furmax-seccionales-asientos-tumbona-departamento/dp/B0D12R1V39",
+      "titulo": "Furmax Sofás Seccionales para Sala de Estar, Sofá en Forma de U con Tela de  Lino, Juego de Sofá de 4 Asientos con Doble Chaise para Apartamento (Tela,  ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGlh3yTkrYzhTEmJdSQf2veoIEU62osPgfzw&s",
+      "original": "https://m.media-amazon.com/images/I/91fW+hspcrL._AC_UF894,1000_QL80_.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/couch/nah/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmjYh_zthTwVGogCIorHq4ajqLXmWKDGUf8A&s",
+      "fuentePagina": "https://dico.com.mx/df/sofa-uma-gris.html",
+      "titulo": "Sofá Uma Gris",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmjYh_zthTwVGogCIorHq4ajqLXmWKDGUf8A&s",
+      "original": "https://cloudfront.dico.com.mx/media/catalog/product/cache/e5313a059d82e47a0dd0c73b13afb6be/s/a/sala-moderna-sofa-gris-uma_sal54622s1-ai-f-01-jpg.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/couch/nah/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcToi8gm0KfZVAIL03oy_47-VPggqd_RG5FzHA&s",
+      "fuentePagina": "https://www.costco.com.mx/Muebles/Sofas-y-Sillones/Sofa-Cama/Montbrook-Home-Ashlyn-Sofa-Cama-Seccional-con-Puerto-USB/p/687771?srsltid=AfmBOoq4BfIU-IIekd0uS5CPf1lYh0UUi5Xn_eaLX9QGftJQ57sgvgIP",
+      "titulo": "Montbrook Home, Ashlyn, Sofá Cama Seccional con Puerto USB",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcToi8gm0KfZVAIL03oy_47-VPggqd_RG5FzHA&s",
+      "original": "http://www.costco.com.mx/medias/sys_master/products/h1e/ha8/261719114612766.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/couch/nah/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbJpFKNBvSvprKw7MpxA9UoBbPTF5NcdQzgQ&s",
+      "fuentePagina": "https://www.boconcept.com/es-mx/p/taylor/4990390-14:3142/",
+      "titulo": "Sofá cama Taylor W140xL200cm | sofa bed | Taylor | Henrik ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbJpFKNBvSvprKw7MpxA9UoBbPTF5NcdQzgQ&s",
+      "original": "https://assets.boconcept.com/92073bfa-3a59-4ce2-bac4-ad43018a4429/1560789_PNG-Web%2072dpi.png?format=webply&fit=bounds&width=3020&quality=75"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/couch/nah/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSv2fQLmJGOvNDsaxJthtCk5n4hsBrEdwmtkw&s",
+      "fuentePagina": "https://www.amazon.com.mx/WILLIAMSPACE-seccional-pulgadas-tapizado-almohadas/dp/B0C39PQX6R",
+      "titulo": "WILLIAMSPACE Sofá seccional de 109 pulgadas para sala de ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSv2fQLmJGOvNDsaxJthtCk5n4hsBrEdwmtkw&s",
+      "original": "https://m.media-amazon.com/images/I/71OVpwbblLL._AC_UF894,1000_QL80_.jpg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/couch/nah/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTb-0E6y7a7u4zTCNjs7H3mkOSf3XU4xJtFsQ&s",
+      "fuentePagina": "https://www.homedepot.com.mx/p/homemake-sofa-de-2-plazas-puede-ser-almacenamiento-beige-h1694-220489?srsltid=AfmBOoq7rX2RkYJwUGNPZOdcWDeAqmqaiVBNcbektt84K38n-2oLZ6yF",
+      "titulo": "SOFÁ DE 2 PLAZAS PUEDE SER ALMACENAMIENTO BEIGE | The Home ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTb-0E6y7a7u4zTCNjs7H3mkOSf3XU4xJtFsQ&s",
+      "original": "https://cdn.homedepot.com.mx/productos/220489/220489-d.jpg"
+    }
+  ]
+}

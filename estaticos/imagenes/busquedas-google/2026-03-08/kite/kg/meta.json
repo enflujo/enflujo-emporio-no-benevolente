@@ -1,0 +1,71 @@
+{
+  "categoria": "kite",
+  "categoriaSlug": "kite",
+  "idioma": "kg",
+  "nombreIdioma": "Kikongo",
+  "termino": "cerf-volant",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:02:04.504Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "fr",
+    "gl": "cd"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=cerf-volant&hl=fr&gl=cd",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/kite/kg/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ171Yu0njXn68Hu5m-GDv-Q1vECcYJVy4HQg&s",
+      "fuentePagina": "https://www.lepetitsouk.fr/p/cerf-volant-diamant-multicolore.html?srsltid=AfmBOop4YGCogXW71wmLDjUen6ZG4WyAynF8T0wqxEXvAueil8c1U3uK",
+      "titulo": "Cerf-volant diamant multicolore Mercredi et Patati - Le ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ171Yu0njXn68Hu5m-GDv-Q1vECcYJVy4HQg&s",
+      "original": "https://www.lepetitsouk.fr/media/catalog/product/cache/28d5f2cd6e4d8d7868fcee62942e790b/3/5/35873-cerf-volant-losange2.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/kite/kg/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTicR1id9x8fsafq5wqvtSycjHaPbFVFk4gbQ&s",
+      "fuentePagina": "https://www.francebleu.fr/emissions/le-conseil-forme-et-bien-etre/le-cerf-volant",
+      "titulo": "Le cerf-volant - ICI",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTicR1id9x8fsafq5wqvtSycjHaPbFVFk4gbQ&s",
+      "original": "https://www.francebleu.fr/pikapi/images/6c892937-0471-46b5-8f06-38c47230d5a4/1200x680?webp=false"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/kite/kg/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWDzp0RK-Mq1B_l4riCh4AQ6ViDHfJO1BB-g&s",
+      "fuentePagina": "https://www.boutiqueducerfvolant.com/fr/content/6-ou-et-comment-pratiquer-le-cerf-volant",
+      "titulo": "Où et comment pratiquer le cerf-volant",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWDzp0RK-Mq1B_l4riCh4AQ6ViDHfJO1BB-g&s",
+      "original": "https://www.boutiqueducerfvolant.com/img/cms/$_10.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/kite/kg/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvKfEeifiqKSfq-gpjbJvFUePqi-1DUoQNBQ&s",
+      "fuentePagina": "https://www.envol-fr.com/catalogue-envol/atelier-cerf-volant/",
+      "titulo": "Atelier fabrication et initiation au cerf volant | Atelier ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvKfEeifiqKSfq-gpjbJvFUePqi-1DUoQNBQ&s",
+      "original": "https://www.envol-fr.com/wp-content/uploads/2019/07/atelier-cerf-volant.jpg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/kite/kg/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRY0lwNmleGd2-gDz0VGamKCAyMNmKfAczPQ&s",
+      "fuentePagina": "https://www.lapouleapois.fr/jeux-d-exterieur/12000-cerf-volant-multicolore-moulin-roty-3575677131052.html?srsltid=AfmBOoqkqWUAzm_fl8UPe_To8JXub6V36oM2tgz3Ic13EpY8UssaCiP5",
+      "titulo": "Cerf volant multicolore - Moulin Roty",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRY0lwNmleGd2-gDz0VGamKCAyMNmKfAczPQ&s",
+      "original": "https://www.lapouleapois.fr/38017-large_default/cerf-volant-multicolore-moulin-roty.webp"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/kite/kg/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcSazBP2m8khkC3mTwksnpegkuMEaIplCTGw&s",
+      "fuentePagina": "https://www.linternaute.fr/sport/pratique/1452864-cerf-volant-comment-bien-choisir/",
+      "titulo": "Cerf-volant : comment bien choisir",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcSazBP2m8khkC3mTwksnpegkuMEaIplCTGw&s",
+      "original": "https://img-4.linternaute.com/Lu9kVd81L2VMrqHhjMMUYyYR0DU=/1500x/smart/49388c47f4b1487982d9b26ebeea8d1f/ccmcms-linternaute/10772863.jpg"
+    }
+  ]
+}

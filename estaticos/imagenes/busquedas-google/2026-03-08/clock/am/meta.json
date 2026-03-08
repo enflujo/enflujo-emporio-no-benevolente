@@ -1,0 +1,71 @@
+{
+  "categoria": "clock",
+  "categoriaSlug": "clock",
+  "idioma": "am",
+  "nombreIdioma": "Amharic — አማርኛ",
+  "termino": "ሰዓት",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:28:58.588Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "am",
+    "gl": "et"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=%E1%88%B0%E1%8B%93%E1%89%B5&hl=am&gl=et",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/clock/am/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRI7NnrjctJt-CiSrCDfs-pTgCtxpakbU4zg&s",
+      "fuentePagina": "http://am.yz-clock.com/non-ticking-super-silent-10-inch-plastic-wall-clock-with-lovely-color-frame-and-minimalist-style-clock-face-product/",
+      "titulo": "የጅምላ መሸጫ የሌለው እጅግ በጣም ጸጥ ያለ 10 ኢንች ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRI7NnrjctJt-CiSrCDfs-pTgCtxpakbU4zg&s",
+      "original": "http://cdn.globalso.com/yz-clock/%E5%9B%BE%E7%89%8736652.png"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/clock/am/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRj1ns8cCrRs_W8pu0cdc8oTKM32q7g8im0A&s",
+      "fuentePagina": "https://jiji.com.et/bole/watches/swiss-mens-watch-lawanedoce-yaeje-sa-aate-BQrX24QjqclPHUH5Y0iT941R.html",
+      "titulo": "Swiss Men's Watch | ለወንዶች የእጅ ሰዓት in Bole ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRj1ns8cCrRs_W8pu0cdc8oTKM32q7g8im0A&s",
+      "original": "https://pictures-ethiopia.jijistatic.com/2430354_NjIwLTExMDItYzk4YTEzZDFhNw.webp"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/clock/am/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSb--4VGfGLNWkYcOIlRFya8HJnAYLU4KqpVA&s",
+      "fuentePagina": "http://am.yz-clock.com/modern-design-night-light-quartz-wall-clock-with-second-hand-9-75-inch-glow-in-the-dark-round-plastic-wall-clock-product/",
+      "titulo": "የጅምላ ዘመናዊ ዲዛይን የምሽት ብርሃን ኳርትዝ ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSb--4VGfGLNWkYcOIlRFya8HJnAYLU4KqpVA&s",
+      "original": "http://cdn.globalso.com/yz-clock/3342-1.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/clock/am/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_bFHC3WjP3r1hqn9AKroi3qk0Pg4g2iPaGw&s",
+      "fuentePagina": "https://babadada.com/topic/clock/tir/en-US",
+      "titulo": "ሰዓት in ትግርኛ > American English – BABADADA",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_bFHC3WjP3r1hqn9AKroi3qk0Pg4g2iPaGw&s",
+      "original": "https://babadada.com/images/topics/clock_big.png"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/clock/am/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlcaBGKjegZOQT04MYEaJ4mUO-Fvo-v-4EIg&s",
+      "fuentePagina": "https://apps.microsoft.com/detail/9pgcw5km7ddb?hl=am-ET&gl=US",
+      "titulo": "አናሎግ ሰዓት የባለሙያ ስሪት - አውርድና ጫን በ ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlcaBGKjegZOQT04MYEaJ4mUO-Fvo-v-4EIg&s",
+      "original": "https://store-images.s-microsoft.com/image/apps.54427.14187399043103965.75de6bbd-daa4-4bc7-9e2a-3b35ddce81e0.27ceccd9-2376-4293-9475-2273138b486f?h=210"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/clock/am/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIBvUu6yhx6y4QO81i4ZyJor29PsoZjMgoEw&s",
+      "fuentePagina": "https://am.sewasew.com/p/%E1%88%B5%E1%88%9B%E1%88%AD%E1%89%B5-%E1%88%B0%E1%8B%93%E1%89%B5-smart-watch",
+      "titulo": "ሰዋስው | ስማርት ሰዓት /smart watch/",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIBvUu6yhx6y4QO81i4ZyJor29PsoZjMgoEw&s",
+      "original": "https://img.sewasew.com/definitions/3db0ec3574f548d28fdc085f809871d7_320_320"
+    }
+  ]
+}

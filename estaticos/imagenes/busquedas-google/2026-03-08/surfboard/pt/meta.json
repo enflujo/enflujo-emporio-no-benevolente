@@ -1,0 +1,71 @@
+{
+  "categoria": "surfboard",
+  "categoriaSlug": "surfboard",
+  "idioma": "pt",
+  "nombreIdioma": "Português",
+  "termino": "prancha de surfe",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:05:14.950Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "pt",
+    "gl": "br"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=prancha%20de%20surfe&hl=pt&gl=br",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/surfboard/pt/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFkoiKMO2BPAngSqvdGj9wetmSZFzMivnXxQ&s",
+      "fuentePagina": "https://fmsurf.com.br/produto/prancha-shortboard-noronha/?srsltid=AfmBOooYPLhbUzfM6N0CuE60xBWl1-zLl46NX5I1LyNgcf16JFTKomar",
+      "titulo": "Prancha Shortboard Noronha",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFkoiKMO2BPAngSqvdGj9wetmSZFzMivnXxQ&s",
+      "original": "https://fmsurf.com.br/wp-content/uploads/2021/10/site_FM-pranchinha-13a-scaled.jpg.webp"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/surfboard/pt/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXCGDRyUNvPFC442yzkGt5VoBHt-ybF1-KOg&s",
+      "fuentePagina": "https://www.comsurf.com.br/prancha-de-surf-al-merrick-ci-mid-encomenda?srsltid=AfmBOooxUUhWLOXWPjokTH-OdNGEldGp-BFiYfq7BXgum15k9JfzPxa2",
+      "titulo": "Prancha de surf Al Merrick - CI Mid - Encomenda",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXCGDRyUNvPFC442yzkGt5VoBHt-ybF1-KOg&s",
+      "original": "https://www.comsurf.com.br/pub/media/catalog/product/cache/09f49bca549f246a5d21f7b023a3d859/c/h/channel-island-mid-green-comsurf-04_1.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/surfboard/pt/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJP4nwB2bnkCRaOxHqeDjOLP4Kyhg2uO5SaQ&s",
+      "fuentePagina": "https://pranchanova.com/shop/pranchas-de-surf/tokoro/prancha-de-surf-5/?srsltid=AfmBOoqzqiRsh6TPWDPQTLB997m8lpu83F0r05XdWADyMtcPvyVChFQC",
+      "titulo": "Prancha de Surf 5+",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJP4nwB2bnkCRaOxHqeDjOLP4Kyhg2uO5SaQ&s",
+      "original": "https://pranchanova.com/wp-content/uploads/2021/05/5-2.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/surfboard/pt/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxHjBSCD18VteRDlGjfwGX4JFd1r3dEk96OQ&s",
+      "fuentePagina": "https://pranchanova.com/shop/pranchas-de-surf/lost/prancha-de-surf-driver-3-0-round/?srsltid=AfmBOortYbhNfsF6jN5RBA4Ov0-yWNXMEPWLyeytTMpE5ucmJeLgL_oF",
+      "titulo": "Prancha de Surf Driver 3.0 (Round)",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxHjBSCD18VteRDlGjfwGX4JFd1r3dEk96OQ&s",
+      "original": "https://i0.wp.com/pranchanova.com/wp-content/uploads/2023/06/1-3-7.png?fit=720%2C933&ssl=1"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/surfboard/pt/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSU2Da8QzcXoqUiutlWJCZUbxUEjuIH8jE-_Q&s",
+      "fuentePagina": "https://davidweber.com.br/br/pranchas/surf/rocket?srsltid=AfmBOopizVsHpYlAhIxeCI-CLPILz_eRH1qX4CceK6OSQtBlhmCaF4oH",
+      "titulo": "prancha de surf",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSU2Da8QzcXoqUiutlWJCZUbxUEjuIH8jE-_Q&s",
+      "original": "https://davidweber.com.br/55-large_default/rocket.jpg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/surfboard/pt/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-zmtxd-Z-CsT8iVWLU6RfCm5MPupvmm7ZPQ&s",
+      "fuentePagina": "https://www.seaclubshop.com.br/surf/strong-sea/prancha-de-surf-strong-sea-60?srsltid=AfmBOopIN2TGxApd5nBDRLhSGp6dyRF2ou087c7_0UYZO3wT6bHC8ODI",
+      "titulo": "Prancha de Surf Strong Sea 6'.0\"",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-zmtxd-Z-CsT8iVWLU6RfCm5MPupvmm7ZPQ&s",
+      "original": "https://images.tcdn.com.br/img/img_prod/1224276/prancha_de_surf_strong_sea_433_1_a97508b67b5991e801bccda7c30b4d46.jpg"
+    }
+  ]
+}

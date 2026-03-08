@@ -1,0 +1,71 @@
+{
+  "categoria": "wine glass",
+  "categoriaSlug": "wine-glass",
+  "idioma": "ln",
+  "nombreIdioma": "Lingala",
+  "termino": "verre ya vin",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:06:39.369Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "fr",
+    "gl": "cd"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=verre%20ya%20vin&hl=fr&gl=cd",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/wine-glass/ln/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsBzWQPm2BEMZ0zSaRDgqzLnt8cCPhKoJHbQ&s",
+      "fuentePagina": "https://cuvee-privee.com/blog/limportance-du-verre-vin-pour-mieux-apprecier-la-degustation?srsltid=AfmBOopypwbb-4yLeBFLRU3_a-o5ktrO9M5t697CnSdpv5vRbyyDYq0y",
+      "titulo": "Quel verre à vin utiliser pour une bonne dégustation ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsBzWQPm2BEMZ0zSaRDgqzLnt8cCPhKoJHbQ&s",
+      "original": "https://cuvee-privee.com/sites/default/files/images/cuvee-privee/blog/verre-a-vin.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/wine-glass/ln/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqvJxdDMK8p1bjpaLCDvrF_EwxhT8DWNV1Zg&s",
+      "fuentePagina": "https://venerablecapital.es/fr/types-de-vin-et-quel-verre-choisir/",
+      "titulo": "Types de vin et quel verre choisir < Venerable Capital",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqvJxdDMK8p1bjpaLCDvrF_EwxhT8DWNV1Zg&s",
+      "original": "https://venerablecapital.es/wp-content/uploads/2021/05/color_vino-2.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/wine-glass/ln/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1YVmoXOW7SMCCXwytjtruudH6sskH6YkZlg&s",
+      "fuentePagina": "https://www.etsy.com/fr/listing/1184075875/verres-a-vin-graves-personnalises-vin",
+      "titulo": "Verres à vin gravés personnalisés, vin gravé - cadeau de ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1YVmoXOW7SMCCXwytjtruudH6sskH6YkZlg&s",
+      "original": "https://i.etsystatic.com/7997901/r/il/b61977/3736329535/il_570xN.3736329535_tdd5.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/wine-glass/ln/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsGYMNt0Lkn4EjbBho4SM1ZNBPRLkDPUKocw&s",
+      "fuentePagina": "https://chateau-arsac.com/comprendre-verre-vin-innovations-savoir-faire/",
+      "titulo": "Comprendre votre verre de vin : innovations et savoir-faire",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsGYMNt0Lkn4EjbBho4SM1ZNBPRLkDPUKocw&s",
+      "original": "https://6f3f22ec.delivery.rocketcdn.me/wp-content/uploads/2025/07/IMG_3180-scaled.jpeg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/wine-glass/ln/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLU-Xe8z5kTSlB7OHr0EsUTEoBFzvAOT_OzA&s",
+      "fuentePagina": "https://heydear.fr/products/amies-de-coeur-verre-a-vin-personnalise-set-de-2",
+      "titulo": "Amies de cœur - Verre à vin personnalisé – HEY DEAR 💜",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLU-Xe8z5kTSlB7OHr0EsUTEoBFzvAOT_OzA&s",
+      "original": "https://heydear.fr/cdn/shop/files/6910c6c48fc35.webp?v=1762707162&width=1445"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/wine-glass/ln/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSq_uRZeki2ULi9TZxdt0yRSTZaA9iatfNsvQ&s",
+      "fuentePagina": "https://www.boutiqueiletaitunefois.com/products/ce-vin-a-ete-note-a-copie?srsltid=AfmBOopN8sNhfVUiMVa1fVJ_WZo7BeHis4NcX2QUGaX2_JpQvS4Yj4T6",
+      "titulo": "Verre à vin - Derrière chaque enfant ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSq_uRZeki2ULi9TZxdt0yRSTZaA9iatfNsvQ&s",
+      "original": "https://www.boutiqueiletaitunefois.com/cdn/shop/files/imprimerie-artcollection-verre-vin-derrierechaquecopie.jpg?v=1755196891&width=1080"
+    }
+  ]
+}

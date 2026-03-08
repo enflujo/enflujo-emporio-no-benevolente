@@ -1,0 +1,71 @@
+{
+  "categoria": "zebra",
+  "categoriaSlug": "zebra",
+  "idioma": "hi",
+  "nombreIdioma": "हिन्दी",
+  "termino": "ज़ेबरा",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T20:55:09.577Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "hi",
+    "gl": "in"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=%E0%A4%9C%E0%A4%BC%E0%A5%87%E0%A4%AC%E0%A4%B0%E0%A4%BE&hl=hi&gl=in",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/zebra/hi/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgFSFNTKvlv26cjn9uMVucaRIxQPuDP1LFNQ&s",
+      "fuentePagina": "https://new.wikipedia.org/wiki/%E0%A4%9C%E0%A5%87%E0%A4%AC%E0%A5%8D%E0%A4%B0%E0%A4%BE",
+      "titulo": "जेब्रा - Wikipedia",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgFSFNTKvlv26cjn9uMVucaRIxQPuDP1LFNQ&s",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/e/e3/Plains_Zebra_Equus_quagga.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/zebra/hi/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5H8020PMfjBBlvKOnPmk7b-_Dxwis6muoJA&s",
+      "fuentePagina": "https://www.youtube.com/watch?v=L8kspkfMAkI",
+      "titulo": "ज़ेबरा का स्वभाव zebra in Hindi | Zebras long neck | zebra Facts ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5H8020PMfjBBlvKOnPmk7b-_Dxwis6muoJA&s",
+      "original": "https://i.ytimg.com/vi/L8kspkfMAkI/sddefault.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/zebra/hi/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSP2D7StMOXX8lpwbxk9xHuYj6mtFCs-Wmtgw&s",
+      "fuentePagina": "https://en.wikipedia.org/wiki/Zebra",
+      "titulo": "Zebra - Wikipedia",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSP2D7StMOXX8lpwbxk9xHuYj6mtFCs-Wmtgw&s",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Plains_Zebra_Equus_quagga_cropped.jpg/250px-Plains_Zebra_Equus_quagga_cropped.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/zebra/hi/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGmR0ZJLCYmU_mIbiZ4WknweUHj_I0Qum3cg&s",
+      "fuentePagina": "https://www.treehugger.com/things-you-didnt-know-about-zebras-4864185",
+      "titulo": "10 Fascinating Facts About Zebras",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGmR0ZJLCYmU_mIbiZ4WknweUHj_I0Qum3cg&s",
+      "original": "https://www.treehugger.com/thmb/qFhPReYPPaVgTtHBOthYeMJVeZ0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-1043597638-49acd69677d7442588c1d8930d298a59.jpg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/zebra/hi/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHEFIOWq7zHwEj2r6i5AfXFUFPKeswnoQWjA&s",
+      "fuentePagina": "https://tusk.org/species/grevy-zebra/",
+      "titulo": "Grevy's Zebra - Tusk",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHEFIOWq7zHwEj2r6i5AfXFUFPKeswnoQWjA&s",
+      "original": "https://tusk.org/wp-content/uploads/2025/03/WWW-Grevys-Zebra-Grevy.jpg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/zebra/hi/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHlR-333tec9OtlJoUnIUDwRtxp7H2EyOX3Q&s",
+      "fuentePagina": "https://www.livescience.com/27443-zebras.html",
+      "titulo": "Zebra Facts | Live Science",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHlR-333tec9OtlJoUnIUDwRtxp7H2EyOX3Q&s",
+      "original": "https://cdn.mos.cms.futurecdn.net/HjFE8NKWuCmgfHCcndJ3rK-1000-80.jpg"
+    }
+  ]
+}

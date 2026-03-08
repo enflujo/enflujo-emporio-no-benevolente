@@ -1,0 +1,71 @@
+{
+  "categoria": "carrot",
+  "categoriaSlug": "carrot",
+  "idioma": "sw",
+  "nombreIdioma": "Kiswahili",
+  "termino": "karoti",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:13:49.124Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "sw",
+    "gl": "tz"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=karoti&hl=sw&gl=tz",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/carrot/sw/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcPD0ureu0iSoBK9o_x74rM-BdXSsRaLZf_w&s",
+      "fuentePagina": "https://sw.wikipedia.org/wiki/Karoti",
+      "titulo": "Karoti - Wikipedia, kamusi elezo huru",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcPD0ureu0iSoBK9o_x74rM-BdXSsRaLZf_w&s",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/e/e6/Carrots.JPG"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/carrot/sw/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjtsShQgF-yuqi_GJBl84c14hEpJP0E2Humg&s",
+      "fuentePagina": "https://www.facebook.com/100064761514768/posts/faida-ya-kula-karoti-kwa-afya-ya-mwili-wakoasilimia-kubwa-tunapenda-kutumia-karo/1946371712150328/",
+      "titulo": "FAIDA YA KULA KAROTI KWA AFYA YA MWILI WAKO Asilimia kubwa ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjtsShQgF-yuqi_GJBl84c14hEpJP0E2Humg&s",
+      "original": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=1946370205483812"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/carrot/sw/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSn0wpymux1iAhOw99aUNZc6GAxyeBwhnQ_nw&s",
+      "fuentePagina": "https://www.mwananchi.co.tz/mw/habari/makala/afya/ukila-karoti-utapata-faida-hizi-2956586",
+      "titulo": "Ukila karoti utapata faida hizi | Mwananchi",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSn0wpymux1iAhOw99aUNZc6GAxyeBwhnQ_nw&s",
+      "original": "https://www.mwananchi.co.tz/resource/image/2956588/portrait_ratio1x1/1600/1600/430cf2fa5ef25fd5ad51f9675f25cbaf/AE/pic-karoti.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/carrot/sw/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnQjaBqd_9pwCEhtdIpigU3w9UjbldG1uFzA&s",
+      "fuentePagina": "https://www.kigalitoday.com/amakuru/utuntu-n-utundi/article/karoti-ingirakamaro-ku-buzima-bwiza-bw-amaso-amenyo-umutima-n-amagufa",
+      "titulo": "Karoti: Ingirakamaro ku buzima bwiza bw'amaso, amenyo ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnQjaBqd_9pwCEhtdIpigU3w9UjbldG1uFzA&s",
+      "original": "https://www.kigalitoday.com/IMG/jpg/karoti_ok.jpg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/carrot/sw/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWl0OrQmBWLyMT_bSl3T9ASQdLQqFP3IBO8w&s",
+      "fuentePagina": "https://www.medicoverhospitals.in/sw/articles/health-benefits-of-carrots",
+      "titulo": "Kuchunguza Faida Bora za Kiafya za Karoti",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWl0OrQmBWLyMT_bSl3T9ASQdLQqFP3IBO8w&s",
+      "original": "https://www.medicoverhospitals.in/images/articles/health-benefits-of-carrots.webp"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/carrot/sw/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSP3Mw1ApGgCaOL63_Qq-XLcrF99FEjQvESTA&s",
+      "fuentePagina": "https://www.instagram.com/p/DB0kyl3tz_H/",
+      "titulo": "Faida ya Juisi ya Karoti Kwenye Mfumo wa Uzazi Juisi ya ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSP3Mw1ApGgCaOL63_Qq-XLcrF99FEjQvESTA&s",
+      "original": "https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3491577417430417351"
+    }
+  ]
+}

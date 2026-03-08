@@ -1,0 +1,71 @@
+{
+  "categoria": "frisbee",
+  "categoriaSlug": "frisbee",
+  "idioma": "zh",
+  "nombreIdioma": "中文",
+  "termino": "飞盘",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T20:59:53.869Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "zh-CN",
+    "gl": "cn"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=%E9%A3%9E%E7%9B%98&hl=zh-CN&gl=cn",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/frisbee/zh/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRiwRR5LamSEVMcaxJuYXuEd_nZe55AwEmgKg&s",
+      "fuentePagina": "https://www.lifetimes.cn/article/49k5ebiaDjf",
+      "titulo": "玩飞盘，准备活动要做足",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRiwRR5LamSEVMcaxJuYXuEd_nZe55AwEmgKg&s",
+      "original": "https://img-rs.lifetimes.cn/dp/api/files/imageDir/e2c4dc3b2cea93cab7b76673d08b1e01u5.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/frisbee/zh/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGz3gzLablr1h9CAtPiYKGIqvFSP7PvzOOgQ&s",
+      "fuentePagina": "https://zh.wikipedia.org/zh-cn/%E9%A3%9B%E7%9B%A4",
+      "titulo": "飞盘- 维基百科，自由的百科全书",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGz3gzLablr1h9CAtPiYKGIqvFSP7PvzOOgQ&s",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Frisbee_Catch_02-_Fcb981.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/frisbee/zh/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyC83Q4KF0mT28U2_CmFiMxoTaQlt23j_T6Q&s",
+      "fuentePagina": "https://www.cbndata.com/information/245664",
+      "titulo": "从上瘾到“下头”：让年轻人手中的飞盘再“飞”一会儿| CBNData",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyC83Q4KF0mT28U2_CmFiMxoTaQlt23j_T6Q&s",
+      "original": "https://cf.dtcj.com/fac8e1db-94a2-4cb3-81ca-e28840dea45e.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/frisbee/zh/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShquyKzy1HjFTv94DTGP-grbd6dW40WLaJfw&s",
+      "fuentePagina": "https://news.qq.com/rain/a/20250313A00UJ800",
+      "titulo": "怎样快速组织一场飞盘比赛-腾讯新闻",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShquyKzy1HjFTv94DTGP-grbd6dW40WLaJfw&s",
+      "original": "https://inews.gtimg.com/news_bt/O6AJ9a6WtQjvHA8LXNMDL0326TTfNA0y_ZJXxKyQKcLIUAA/1000"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/frisbee/zh/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAlurJLo9vnOPPsssjD7ZHlAO6F4kKS2FmfQ&s",
+      "fuentePagina": "http://www.news.cn/politics/2022-08/23/c_1128937284.htm",
+      "titulo": "一群传承飞盘运动的年轻人-新华网",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAlurJLo9vnOPPsssjD7ZHlAO6F4kKS2FmfQ&s",
+      "original": "http://www.news.cn/politics/2022-08/23/1128937284_16612112830461n.jpg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/frisbee/zh/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcLeXiPWZFQ8r-nd0uXyh-B3N0Wxh9BJELLQ&s",
+      "fuentePagina": "https://baike.baidu.com/minilemma/%E9%A3%9E%E7%9B%98/222245/230920694?category=1",
+      "titulo": "飞盘_百度百科",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcLeXiPWZFQ8r-nd0uXyh-B3N0Wxh9BJELLQ&s",
+      "original": "https://bkimg.cdn.bcebos.com/pic/060828381f30e92490f05a854c086e061d95f72a"
+    }
+  ]
+}

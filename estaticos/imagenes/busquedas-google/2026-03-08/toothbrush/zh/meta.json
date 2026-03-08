@@ -1,0 +1,71 @@
+{
+  "categoria": "toothbrush",
+  "categoriaSlug": "toothbrush",
+  "idioma": "zh",
+  "nombreIdioma": "中文",
+  "termino": "牙刷",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:32:44.074Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "zh-CN",
+    "gl": "cn"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=%E7%89%99%E5%88%B7&hl=zh-CN&gl=cn",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/toothbrush/zh/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1eKzPD4qGCiYTtA-vbjAqLzZMm6GAaBLNlQ&s",
+      "fuentePagina": "https://zh.wikipedia.org/zh-cn/%E7%89%99%E5%88%B7",
+      "titulo": "牙刷- 维基百科，自由的百科全书",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1eKzPD4qGCiYTtA-vbjAqLzZMm6GAaBLNlQ&s",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/a/a6/Gum_manual_toothbrush.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/toothbrush/zh/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQonhSkj7wiiGo1VIX3S8mTXXQuG0BykiIpIw&s",
+      "fuentePagina": "https://www.dentaidpacific.com/products/vitis%C2%AE-kids-toothbrush?srsltid=AfmBOooxABzyo-8qGE-wczlikieAgVvxOopzSApnWKKdkX164NMhXctY",
+      "titulo": "柔軟刷毛保護牙齒健康｜VITIS® 幼兒牙刷",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQonhSkj7wiiGo1VIX3S8mTXXQuG0BykiIpIw&s",
+      "original": "https://shoplineimg.com/5cbd755f670f280001667ba7/5d679bce9c414d00356c92db/800x.jpg?"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/toothbrush/zh/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRy3R7xkha88XLXOH4MLfZo3MWf7OZlFmgGIw&s",
+      "fuentePagina": "https://www.shallop.com.tw/products/ultrathin-comfort",
+      "titulo": "極薄舒敏牙刷│刷樂Shallop | 刷樂Shallop",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRy3R7xkha88XLXOH4MLfZo3MWf7OZlFmgGIw&s",
+      "original": "https://cdn-next.cybassets.com/media/W1siZiIsIjEzODk2L3Byb2R1Y3RzLzQxOTYxMDM3LzE2OTI1ODAxMTBfN2EzNDkwMzFlNTg4ZGQ4ZTM1NTUuanBlZyJdLFsicCIsInRodW1iIiwiNjAweDYwMCJdXQ.jpeg?sha=ff14ad82506f7de7"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/toothbrush/zh/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdCRxtn1s2JXO36aZw1PNjqQTRd2t5ZcpN9Q&s",
+      "fuentePagina": "https://www.27662000.com.tw/products/dhc-tooth-brush?srsltid=AfmBOop-4ZlE4widn27XsbVgOspoeruKJHUgp2arvI-SglqVmubWdE1Q",
+      "titulo": "日式健齒牙刷",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdCRxtn1s2JXO36aZw1PNjqQTRd2t5ZcpN9Q&s",
+      "original": "https://shoplineimg.com/61e7ac9a37b8070040c5c10e/6347ddc1ae2d29001c160e9b/800x.jpg?"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/toothbrush/zh/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTh5LYo5DYAVtj4-80C9Y9FSyb-q-AE4vIMfg&s",
+      "fuentePagina": "https://www.dentaidpacific.com/products/vitis%C2%AE-sensitive-toothbrush?srsltid=AfmBOoobnq1TL1ri_qQAcyGNMUJ4COqYgBTBuQOq6jgJBurVRvxDMDBz",
+      "titulo": "超柔軟刷毛|呵護敏感牙齒|VITIS® 敏感牙齒專用牙刷",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTh5LYo5DYAVtj4-80C9Y9FSyb-q-AE4vIMfg&s",
+      "original": "https://shoplineimg.com/5cbd755f670f280001667ba7/5d64db7dc903e5003e6129e8/800x.jpg?"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/toothbrush/zh/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTP0o00tXELGYPOOkZV1dX4ytiSiVc-5I48bA&s",
+      "fuentePagina": "https://www.sohu.com/a/538082975_121333388",
+      "titulo": "牙刷如何挑选？牙刷检测项目有哪些？_搜狐网",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTP0o00tXELGYPOOkZV1dX4ytiSiVc-5I48bA&s",
+      "original": "https://p1.itc.cn/images01/20220415/d41495e306864684a3429262983cab2f.jpeg"
+    }
+  ]
+}

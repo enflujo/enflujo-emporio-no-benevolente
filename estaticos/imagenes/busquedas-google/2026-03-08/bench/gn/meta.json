@@ -1,0 +1,71 @@
+{
+  "categoria": "bench",
+  "categoriaSlug": "bench",
+  "idioma": "gn",
+  "nombreIdioma": "Guaraní",
+  "termino": "banco",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T20:49:25.812Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "es",
+    "gl": "py"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=banco&hl=es&gl=py",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bench/gn/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIh-32uIlOA5oBq_Crf5aPt5Z1klQUkstxjA&s",
+      "fuentePagina": "https://grupfabregas.com/producto/banco-modo/",
+      "titulo": "Banco Madera Modo Mobiliario urbano para sentarse parques y jardines",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIh-32uIlOA5oBq_Crf5aPt5Z1klQUkstxjA&s",
+      "original": "https://grupfabregas.com/fotos/C-106.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bench/gn/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfOpa_uAXnFUd4ol-B9jUCMGlGtPW0wXmM4A&s",
+      "fuentePagina": "https://fazilpay.com/blog/que-es-un-banco/",
+      "titulo": "Qué es un banco? - Fazil Pay",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfOpa_uAXnFUd4ol-B9jUCMGlGtPW0wXmM4A&s",
+      "original": "https://fazilpay.com/wp-content/uploads/2023/05/image-1024x735.png"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bench/gn/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRE66IWebdMO2dBBqLnDtfWma7WyiSu8w59A&s",
+      "fuentePagina": "https://www.shutterstock.com/es/search/bank-branch-exterior?image_type=illustration",
+      "titulo": "Bank branch exterior: Más de 317 ilustraciones y dibujos de stock con  licencia libres de regalías | Shutterstock",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRE66IWebdMO2dBBqLnDtfWma7WyiSu8w59A&s",
+      "original": "https://www.shutterstock.com/image-vector/cartoon-illustration-bank-building-features-600nw-2674333161.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bench/gn/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwmyHnBWRb1kDJ83D5_GNTfGyWKIIEtH-9Aw&s",
+      "fuentePagina": "https://rankiator.com/que-es-cuenta-ahorro/",
+      "titulo": "Qué es una cuenta de ahorro y por qué debes tener una? | Rankiator",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwmyHnBWRb1kDJ83D5_GNTfGyWKIIEtH-9Aw&s",
+      "original": "https://rankiator.com/app/uploads/2025/08/rankiator-web-720-x-460-px-portada-17-e1754466506262.png"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bench/gn/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuBEt3dYtQuYclJK0kTsF_Hwqt_a9zvdhOsg&s",
+      "fuentePagina": "https://nomen.com.py/productos/mobiliario/bancos/banco-dn",
+      "titulo": "Banco D+N - Nomen",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuBEt3dYtQuYclJK0kTsF_Hwqt_a9zvdhOsg&s",
+      "original": "https://nomen.com.py/catalogo/mobiliario/bancos/banco-dn/imagenes/galeria/banco_d+n_madera_cemento_exterior_01.jpg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bench/gn/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROfs36-PzrmJ5rTYluZjnpFAtPi7kUYA7A5g&s",
+      "fuentePagina": "https://grupfabregas.com/producto/banco-plaza-real-guinea-alto/",
+      "titulo": "Banco Madera Plaza Real Mobiliario elemento urbano parques y jardines",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROfs36-PzrmJ5rTYluZjnpFAtPi7kUYA7A5g&s",
+      "original": "https://grupfabregas.com/fotos/C-01-ALTO.jpg"
+    }
+  ]
+}

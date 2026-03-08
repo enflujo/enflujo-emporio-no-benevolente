@@ -1,0 +1,71 @@
+{
+  "categoria": "hair drier",
+  "categoriaSlug": "hair-drier",
+  "idioma": "gn",
+  "nombreIdioma": "Guaraní",
+  "termino": "secadora",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:31:56.303Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "es",
+    "gl": "py"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=secadora&hl=es&gl=py",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/hair-drier/gn/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4PtuAVqj68_Kh7MaPi346QLNPc1pQZVntEQ&s",
+      "fuentePagina": "https://www.lacasadelelectrodomestico.com/blog/elegir-la-mejor-secadora/",
+      "titulo": "Cómo elegir la mejor secadora para tu hogar?",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4PtuAVqj68_Kh7MaPi346QLNPc1pQZVntEQ&s",
+      "original": "https://www.lacasadelelectrodomestico.com/blog/wp-content/uploads/2023/03/mejor-secadora.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/hair-drier/gn/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLwqC7VlKujlnfMVdxoZoZJGo9FdB3Dq7u6w&s",
+      "fuentePagina": "https://www.remingtonlatam.com/py/producto/mujer/cuidado-del-cabello/secadores/secador-remington-silk-2/",
+      "titulo": "Secador Remington Silk – Remington Paraguay",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLwqC7VlKujlnfMVdxoZoZJGo9FdB3Dq7u6w&s",
+      "original": "https://www.remingtonlatam.com/py/wp-content/uploads/sites/33/2019/12/AC9096-Secador-Remington-Silk-Infundido-en-Ceramica-con-Seda-03.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/hair-drier/gn/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIK-_EQ4_HdcAPkZPguCdypcpR1-CiofLWdg&s",
+      "fuentePagina": "https://visuar.com.py/secarropas/secadora-samsung-con-tecnologia-ia-9-kg-dv90t.html?srsltid=AfmBOoqCa86nymT7OsN00ozKZ6DMMsnkzK-A3jxuRA769-yYxkwaR-QZ",
+      "titulo": "Secadora Samsung con Tecnología IA, 9 kg al mejor precio de ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIK-_EQ4_HdcAPkZPguCdypcpR1-CiofLWdg&s",
+      "original": "https://visuar.com.py/13560-large_default/secadora-samsung-con-tecnologia-ia-9-kg-dv90t.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/hair-drier/gn/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTk1G_eO0R39G-3xx-j-x0e69EWyhxDfQiJMw&s",
+      "fuentePagina": "https://www.amazon.com/-/es/Secadora-port%C3%A1til-inoxidable-apartamento-dormitorio/dp/B08X6ZJR6C",
+      "titulo": "Amazon.com: ROVSUN Secadora portátil de 110V, secadora de ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTk1G_eO0R39G-3xx-j-x0e69EWyhxDfQiJMw&s",
+      "original": "https://m.media-amazon.com/images/I/71EbntwyjEL._AC_UF894,1000_QL80_.jpg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/hair-drier/gn/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXOHYSefzth1oapBqGkBHQMcxEJNuZvpoWvg&s",
+      "fuentePagina": "https://www.lg.com/cac/lavadoras-y-secadoras/lg-df22vv2sbe",
+      "titulo": "Secadora Eléctrica de Carga Frontal 22Kg DF22VV2SBE Plateado",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXOHYSefzth1oapBqGkBHQMcxEJNuZvpoWvg&s",
+      "original": "https://www.lg.com/cac/images/lavadoras-y-secadoras/md07505129/gallery/D-8.jpg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/hair-drier/gn/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIxqcVdWkG97eje5d-bEA6bwv-3pKOOzJrTA&s",
+      "fuentePagina": "https://www.samsung.com/py/washers-and-dryers/dryers/dv5000t-front-loading-ai-control-reversible-door-wrinkle-prevent-9kg-white-dv90t5240aw-ey/",
+      "titulo": "Secadora con tecnología IA, 9 kg | Samsung Paraguay",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIxqcVdWkG97eje5d-bEA6bwv-3pKOOzJrTA&s",
+      "original": "https://images.samsung.com/is/image/samsung/p6pim/py/dv90t5240aw-ey/gallery/py-dryer-dv90t5240aws3-dv90t5240aw-ey-501535929?$Q90_1248_936_F_PNG$"
+    }
+  ]
+}

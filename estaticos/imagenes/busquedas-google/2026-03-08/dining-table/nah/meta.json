@@ -1,0 +1,71 @@
+{
+  "categoria": "dining table",
+  "categoriaSlug": "dining-table",
+  "idioma": "nah",
+  "nombreIdioma": "Náhuatl",
+  "termino": "quauitl",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:20:04.419Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "es",
+    "gl": "mx"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=quauitl&hl=es&gl=mx",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/dining-table/nah/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdn3Xtqzr6UYGKKECp1nC8AJOC1wXiDjwFmw&s",
+      "fuentePagina": "https://www.academia.edu/7721859/_El_Xochitlicacan_y_el_Quauitl_xicalli_del_recinto_sagrado_de_M%C3%A9xico_Tenochtitlan_el_%C3%A1rbol_como_s%C3%ADmbolo_de_poder_en_el_M%C3%A9xico_antiguo_",
+      "titulo": "PDF) \"El Xochitlicacan y el Quauitl-xicalli del recinto ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdn3Xtqzr6UYGKKECp1nC8AJOC1wXiDjwFmw&s",
+      "original": "https://0.academia-photos.com/attachment_thumbnails/34246857/mini_magick20190324-18380-1hl7xv3.png?1553474404"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/dining-table/nah/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHlIEFpGBYH6y9F4MTEZX9gZM4d0xPxOU2Eg&s",
+      "fuentePagina": "https://es.wikipedia.org/wiki/Cuahuitlicac",
+      "titulo": "Cuahuitlicac - Wikipedia, la enciclopedia libre",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHlIEFpGBYH6y9F4MTEZX9gZM4d0xPxOU2Eg&s",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/a/a7/Huitzilopochtli_asesinando_a_los_cetzonhuitznahua.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/dining-table/nah/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAggWuahqw5gOVT2IApQdyXZztx-S8p1VpRQ&s",
+      "fuentePagina": "https://gdn.iib.unam.mx/diccionario/cuahuitl/19737",
+      "titulo": "cuahuitl - Gran Diccionario Náhuatl",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAggWuahqw5gOVT2IApQdyXZztx-S8p1VpRQ&s",
+      "original": "https://tlachia.iib.unam.mx/archivos/20-mazorcas/imagenes/391_B_037a.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/dining-table/nah/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrge9HJHfN_SlaMgCZsNGbA6z_EAtBxUw6nQ&s",
+      "fuentePagina": "https://www.eluniversal.com.mx/cultura/alistan-nueva-traduccion-del-codice-florentino/",
+      "titulo": "Alistan nueva traducción del Códice Florentino | El Universal",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrge9HJHfN_SlaMgCZsNGbA6z_EAtBxUw6nQ&s",
+      "original": "https://cloudfront-us-east-1.images.arcpublishing.com/eluniversal/ZNXHD57STNDCBMGTROQSXUOPUA.jpg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/dining-table/nah/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRit1AK1aUXsabxzO2UppngVdI0ZfzxBf7xkw&s",
+      "fuentePagina": "https://www.infobae.com/noticias/2023/11/13/la-grandeza-cultural-de-mexico-en-esta-foto-del-dia/",
+      "titulo": "La grandeza cultural de México en esta foto del día - Infobae",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRit1AK1aUXsabxzO2UppngVdI0ZfzxBf7xkw&s",
+      "original": "https://www.infobae.com/new-resizer/vbc14mjrFy6qThxzqYZ1VN8GF0w=/arc-anglerfish-arc2-prod-infobae/public/TT6H3C5GPZHGLKOVXCW46VHBBA.jpg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/dining-table/nah/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcZnUi906rBDynyXEaclQo8dqVlT92nJ9Umw&s",
+      "fuentePagina": "https://www.mexicodesconocido.com.mx/el-codice-florentino-y-la-creacion-del-nuevo-mundo.html",
+      "titulo": "El Códice Florentino y la Creación del Nuevo Mundo - México ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcZnUi906rBDynyXEaclQo8dqVlT92nJ9Umw&s",
+      "original": "https://www.mexicodesconocido.com.mx/wp-content/uploads/2019/10/codiceflorentino1-641x1024.jpg"
+    }
+  ]
+}

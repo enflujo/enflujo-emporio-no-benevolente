@@ -1,0 +1,71 @@
+{
+  "categoria": "sports ball",
+  "categoriaSlug": "sports-ball",
+  "idioma": "ln",
+  "nombreIdioma": "Lingala",
+  "termino": "bale",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:01:16.606Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "fr",
+    "gl": "cd"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=bale&hl=fr&gl=cd",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/sports-ball/ln/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnm92wFcKeozw7nRp2Vceq2Cdlaflc82zCFA&s",
+      "fuentePagina": "https://www.realmadrid.com/fr-FR/le-club/histoire/legendes-football/gareth-bale",
+      "titulo": "Gareth Bale - Histoire et palmarès | Site officiel Real ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnm92wFcKeozw7nRp2Vceq2Cdlaflc82zCFA&s",
+      "original": "https://assets.realmadrid.com/is/image/realmadrid/1330782131022?$Mobile$&fit=wrap&wid=312"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/sports-ball/ln/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6skU9Ui9gBWqFvSSy7oC2NSRxsS_HGzG-qQ&s",
+      "fuentePagina": "https://fr.wikipedia.org/wiki/Gareth_Bale",
+      "titulo": "Gareth Bale — Wikipédia",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6skU9Ui9gBWqFvSSy7oC2NSRxsS_HGzG-qQ&s",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/2022_FIFA_World_Cup_United_States_1%E2%80%931_Wales_-_%2832%29_%28cropped%29.jpg/250px-2022_FIFA_World_Cup_United_States_1%E2%80%931_Wales_-_%2832%29_%28cropped%29.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/sports-ball/ln/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4ig5S5Ga5qdzjn8x-GFsXbSQL-G3zrC1mcQ&s",
+      "fuentePagina": "https://www.cnn.com/2022/06/26/football/gareth-bale-los-angeles-real-madrid-spt-intl",
+      "titulo": "Former Real Madrid star Gareth Bale to join Los Angeles FC ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4ig5S5Ga5qdzjn8x-GFsXbSQL-G3zrC1mcQ&s",
+      "original": "https://media.cnn.com/api/v1/images/stellar/prod/220626110534-01-gareth-bale-real-madrid-180526.jpg?c=original"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/sports-ball/ln/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPMd4kE-nv6pq_r-9Pz8fO7ZrOQhJTCbBf0g&s",
+      "fuentePagina": "https://www.forbes.com/profile/gareth-bale/",
+      "titulo": "Gareth Bale",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPMd4kE-nv6pq_r-9Pz8fO7ZrOQhJTCbBf0g&s",
+      "original": "https://imageio.forbes.com/specials-images/imageserve/5ecec1c2938ec500060ab3ba/0x0.jpg?format=jpg&crop=1231,1232,x838,y159,safe&height=416&width=416&fit=bounds"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/sports-ball/ln/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzGKB-IuKfs4TfHTsvU7G7GOuB6VF-tv1Ynw&s",
+      "fuentePagina": "https://www.instagram.com/p/DMKY7YMIdwN/",
+      "titulo": "Gareth Bale turns 36 today. Never forget his aesthetic back ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzGKB-IuKfs4TfHTsvU7G7GOuB6VF-tv1Ynw&s",
+      "original": "https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3677861667739474226"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/sports-ball/ln/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWa22xOHey_Dkh7PHF2tBBCURlQqSd5JMRFg&s",
+      "fuentePagina": "https://www.lequipe.fr/Football/Article/Real-madrid-gareth-bale-de-banni-a-beni/1059871",
+      "titulo": "Real Madrid : Gareth Bale, de banni à béni",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWa22xOHey_Dkh7PHF2tBBCURlQqSd5JMRFg&s",
+      "original": "https://www.lequipe.fr/_medias/img-photo-jpg/bale-de-banni-a-beni/1500000001220552/0-828-828-75/c8454.jpg"
+    }
+  ]
+}

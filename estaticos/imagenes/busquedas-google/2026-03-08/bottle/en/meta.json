@@ -1,0 +1,71 @@
+{
+  "categoria": "bottle",
+  "categoriaSlug": "bottle",
+  "idioma": "en",
+  "nombreIdioma": "English",
+  "termino": "bottle",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:05:57.760Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "en",
+    "gl": "us"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=bottle&hl=en&gl=us",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bottle/en/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQExvbPJgNhrfqLZg81p6InZXq2MUc75typ1g&s",
+      "fuentePagina": "https://www.thecarycompany.com/12-oz-clear-glass-long-neck-beer-bottle-crown-pry-off-8025860?srsltid=AfmBOoqKB00XWChoeIOIlSVGCHzPVBbYUR8cAHIPVR_t0g2jdqbvAXl7",
+      "titulo": "12 oz. (355 ml) Clear Glass Long Neck Beer Bottle, Pry-Off ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQExvbPJgNhrfqLZg81p6InZXq2MUc75typ1g&s",
+      "original": "https://www.thecarycompany.com/media/catalog/product/8/0/8025860.jpg?quality=95&fit=bounds&height=700&width=700&canvas=700:700"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bottle/en/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCNRck0umsL0oT2YkXAH4tY4NiBp8JZHrsKQ&s",
+      "fuentePagina": "https://en.wikipedia.org/wiki/Bottle",
+      "titulo": "Bottle - Wikipedia",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCNRck0umsL0oT2YkXAH4tY4NiBp8JZHrsKQ&s",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/e/e3/Bouteille.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bottle/en/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLJhYmZdwLEqGsfxhtJrOIX9QBAvLNxm7fIA&s",
+      "fuentePagina": "https://www.amazon.com/Copco-2510-2291-Reusable-Resistant-16-9-Ounce/dp/B00D5UJ418",
+      "titulo": "Amazon.com: Copco Hydra Water Bottle with Spill-Resistant ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLJhYmZdwLEqGsfxhtJrOIX9QBAvLNxm7fIA&s",
+      "original": "https://m.media-amazon.com/images/I/610pu5al5hL.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bottle/en/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTeFtvhYdLJ58sdgMFTjbHqvOooF3kGX6aofw&s",
+      "fuentePagina": "https://www.tempercraft.com/products/32oz-bottle?srsltid=AfmBOoqB5cfYlvY7VAcBbhD0pnM46WRsTNwPhbbpT0L_ugJxGpzRtKVe",
+      "titulo": "Tempercraft 32oz Water Bottle | Custom Engraving | Stainless ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTeFtvhYdLJ58sdgMFTjbHqvOooF3kGX6aofw&s",
+      "original": "https://www.tempercraft.com/cdn/shop/files/QSB32-RED_H_2048x.png?v=1746070414"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bottle/en/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQP_w-YLP30xR8ilBTRyGQg1pW1SNPAL3iNzg&s",
+      "fuentePagina": "https://binkmade.com/products/36oz-big-bottle?srsltid=AfmBOor4wNt7q9PDctIzuziW4XqCkcHP6dI6iLX0Q922hLNrJqBU8mmz",
+      "titulo": "Big Bottle | 36oz",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQP_w-YLP30xR8ilBTRyGQg1pW1SNPAL3iNzg&s",
+      "original": "https://binkmade.com/cdn/shop/files/Moss_002_e292016c-8774-4c4d-bdf9-1bab7bd2e6af.jpg?v=1769794510&width=2000"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bottle/en/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMMbr5H8QvNyJZlzSk1KMoLQG1H3f1nFMuZQ&s",
+      "fuentePagina": "https://www.tempercraft.com/products/22oz-bottle?srsltid=AfmBOooyKLQRHbUokRkiqggjDcVe58kACyUuRhUZHPvBEB_1e72OKEyH",
+      "titulo": "Tempercraft 22oz Water Bottle | Custom Engraving | Stainless ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMMbr5H8QvNyJZlzSk1KMoLQG1H3f1nFMuZQ&s",
+      "original": "https://www.tempercraft.com/cdn/shop/files/QSB22-CAR_H_2048x.png?v=1746070400"
+    }
+  ]
+}

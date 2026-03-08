@@ -1,0 +1,71 @@
+{
+  "categoria": "stop sign",
+  "categoriaSlug": "stop-sign",
+  "idioma": "hi",
+  "nombreIdioma": "हिन्दी",
+  "termino": "रुको संकेत",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T20:48:00.273Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "hi",
+    "gl": "in"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=%E0%A4%B0%E0%A5%81%E0%A4%95%E0%A5%8B%20%E0%A4%B8%E0%A4%82%E0%A4%95%E0%A5%87%E0%A4%A4&hl=hi&gl=in",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/stop-sign/hi/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9wEHOdvbDSBOgLOh3DpGOSAiem3TqJZ5EIA&s",
+      "fuentePagina": "https://www.facebook.com/100064302594959/posts/%E0%A4%B0%E0%A5%81%E0%A4%95%E0%A5%8B-stop-%E0%A4%B8%E0%A4%A1%E0%A4%BC%E0%A4%95-%E0%A4%AA%E0%A4%B0-%E0%A4%B0%E0%A5%81%E0%A4%95%E0%A5%8B-%E0%A4%95%E0%A4%BE-%E0%A4%B8%E0%A4%82%E0%A4%95%E0%A5%87%E0%A4%A4-%E0%A4%8F%E0%A4%95-%E0%A4%85%E0%A4%B7%E0%A5%8D%E0%A4%9F%E0%A4%95%E0%A5%8B%E0%A4%A3%E0%A5%80%E0%A4%AF-%E0%A4%86%E0%A4%95%E0%A4%BE%E0%A4%B0-%E0%A4%95%E0%A4%BE-%E0%A4%B2%E0%A4%BE%E0%A4%B2-%E0%A4%B0%E0%A4%82%E0%A4%97-%E0%A4%95%E0%A4%BE-%E0%A4%9A%E0%A4%BF%E0%A4%A8%E0%A5%8D%E0%A4%B9-%E0%A4%B9%E0%A5%8B%E0%A4%A4%E0%A4%BE-%E0%A4%B9%E0%A5%88-%E0%A4%87%E0%A4%B8/1184547890365286/",
+      "titulo": "रुको (Stop) * सड़क पर \"रुको\" का संकेत ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9wEHOdvbDSBOgLOh3DpGOSAiem3TqJZ5EIA&s",
+      "original": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=1184547863698622"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/stop-sign/hi/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVffLQr-rWvQtbQXdFbKCvxAQsoynGiO7ZZg&s",
+      "fuentePagina": "https://www.reddit.com/r/mildlyinteresting/comments/16kqler/stop_yield_sign/?tl=hi",
+      "titulo": "रुको और रास्ता दो का निशान : r ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVffLQr-rWvQtbQXdFbKCvxAQsoynGiO7ZZg&s",
+      "original": "https://i.redd.it/3871953qlqob1.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/stop-sign/hi/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBj-SUsaxBLCjRuNtJG7irbUwNz_40Jy6iUw&s",
+      "fuentePagina": "https://www.istockphoto.com/photos/stop-sign",
+      "titulo": "239,600+ Stop Sign Stock Photos, Pictures & Royalty-Free ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBj-SUsaxBLCjRuNtJG7irbUwNz_40Jy6iUw&s",
+      "original": "https://media.istockphoto.com/id/486744506/vector/stop-sign-vector.jpg?s=612x612&w=0&k=20&c=ibvthRQWTgcSt2R9EaqCb8WvmSYJHBQXDCPr8C9qLj8="
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/stop-sign/hi/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYk96fKeIUwAHwvIqBKskbJ24ntsF0gdfdOQ&s",
+      "fuentePagina": "https://www.amazon.in/Reflective-Octagon-040-Protected-Waterproof-Resistant/dp/B07XM5C5TV",
+      "titulo": "Stop Sign, Street Slow Warning Reflective Signs, 12 x 12 ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYk96fKeIUwAHwvIqBKskbJ24ntsF0gdfdOQ&s",
+      "original": "https://m.media-amazon.com/images/I/716xxit0fFL._AC_UF350,350_QL80_.jpg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/stop-sign/hi/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRXoa-kKvHzZCBe3aWWwF0OFJpZIIb5ADr1g&s",
+      "fuentePagina": "https://www.freepik.com/free-photos-vectors/stop-sign",
+      "titulo": "Stop sign Images - Free Download on Freepik",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRXoa-kKvHzZCBe3aWWwF0OFJpZIIb5ADr1g&s",
+      "original": "https://img.freepik.com/free-vector/two-red-stop-signs-set_78370-1291.jpg?semt=ais_rp_50_assets&w=740&q=80"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/stop-sign/hi/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrp1iDOHeeu71Tre4_1evkt8DQdGdEJVwW-Q&s",
+      "fuentePagina": "https://en.wikipedia.org/wiki/Stop_sign",
+      "titulo": "Stop sign - Wikipedia",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrp1iDOHeeu71Tre4_1evkt8DQdGdEJVwW-Q&s",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/STOP_sign.jpg/250px-STOP_sign.jpg"
+    }
+  ]
+}

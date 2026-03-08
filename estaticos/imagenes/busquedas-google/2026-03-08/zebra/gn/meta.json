@@ -1,0 +1,71 @@
+{
+  "categoria": "zebra",
+  "categoriaSlug": "zebra",
+  "idioma": "gn",
+  "nombreIdioma": "Guaraní",
+  "termino": "cebra",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T20:55:13.118Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "es",
+    "gl": "py"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=cebra&hl=es&gl=py",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/zebra/gn/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1TwQitpmj-v0jwtiTqvF0258AXs6QuvqrSA&s",
+      "fuentePagina": "https://es.wikipedia.org/wiki/Cebra",
+      "titulo": "Cebra - Wikipedia, la enciclopedia libre",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1TwQitpmj-v0jwtiTqvF0258AXs6QuvqrSA&s",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/f/f2/Beautiful_Zebra_in_South_Africa.JPG"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/zebra/gn/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyoe1DsVEAFb5ver4gzS6s8S87ycUobxnMNg&s",
+      "fuentePagina": "https://es.wikipedia.org/wiki/Equus_zebra",
+      "titulo": "Equus zebra - Wikipedia, la enciclopedia libre",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyoe1DsVEAFb5ver4gzS6s8S87ycUobxnMNg&s",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/6/69/Equus_zebra_-_Disney%27s_Animal_Kingdom_Lodge%2C_Orlando%2C_Florida%2C_USA_-_20100119.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/zebra/gn/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLH9QJgkb9ZI_7QcT5TwX61A19aNBhkCOPcQ&s",
+      "fuentePagina": "https://pixabay.com/es/vectors/cebra-cebra-de-dibujos-animados-9868376/",
+      "titulo": "Cebra De Dibujos Animados - Gráficos vectoriales gratis en ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLH9QJgkb9ZI_7QcT5TwX61A19aNBhkCOPcQ&s",
+      "original": "https://cdn.pixabay.com/photo/2025/10/02/13/05/zebra-9868376_1280.png"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/zebra/gn/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRM80W8db44iMvQ39qkmdS99IJgbXskgwkkdg&s",
+      "fuentePagina": "https://ecologiaverde.elperiodico.com/cebra-5773.html",
+      "titulo": "Cebra - Características, dónde vive, qué come y reproducción",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRM80W8db44iMvQ39qkmdS99IJgbXskgwkkdg&s",
+      "original": "https://cdn0.ecologiaverde.com/es/posts/3/7/7/cebra_5773_orig.jpg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/zebra/gn/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7PDJ6N7wSIqNeAJZFeZyl7SRjoh0LWRM1VA&s",
+      "fuentePagina": "http://svdb.minec.gob.ve/fauna/cebra",
+      "titulo": "Cebra – SVDB",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7PDJ6N7wSIqNeAJZFeZyl7SRjoh0LWRM1VA&s",
+      "original": "http://svdb.minec.gob.ve/wp-content/uploads/2023/09/cebra-1.jpg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/zebra/gn/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRoTvyulAQM3JWQvTodw-7h49Z2mMkFvSdbMQ&s",
+      "fuentePagina": "https://es.dreamstime.com/photos-images/cebra-hermosa.html",
+      "titulo": "22,538 Cebra Hermosa Fotos de stock - Fotos libres de ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRoTvyulAQM3JWQvTodw-7h49Z2mMkFvSdbMQ&s",
+      "original": "https://thumbs.dreamstime.com/b/cebra-hermosa-joven-aislada-en-el-fondo-blanco-ascendente-cercano-de-la-recorte-integral-107890734.jpg"
+    }
+  ]
+}

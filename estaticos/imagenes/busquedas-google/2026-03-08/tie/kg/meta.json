@@ -1,0 +1,71 @@
+{
+  "categoria": "tie",
+  "categoriaSlug": "tie",
+  "idioma": "kg",
+  "nombreIdioma": "Kikongo",
+  "termino": "cravate",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T20:58:14.248Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "fr",
+    "gl": "cd"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=cravate&hl=fr&gl=cd",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/tie/kg/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTM-EITDV02nV9nwye9Xwt4CMYoAvhWdS_Z-A&s",
+      "fuentePagina": "https://sk-cargo.com/Violet-Aubergine-Coupe-Slim-6cm-Fabriqu-En-Italie-k-1043871",
+      "titulo": "Cravate Remo Sartori Cravate Homme Remo Sartori Violet ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTM-EITDV02nV9nwye9Xwt4CMYoAvhWdS_Z-A&s",
+      "original": "https://www.lecoqenpap.fr/wp-content/uploads/2018/10/Cravate-sur-mesure-le-coq-en-pap-1-1.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/tie/kg/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuldGCl18VVsOOGqIYykPmvvaV4XMAilT_Dg&s",
+      "fuentePagina": "https://www.hastparis.com/collections/71-cravates?srsltid=AfmBOoqpEV_xCcmMGnFQp0ODoLsVkPg95zAxbYiG3OQg0P5BRAYfoNO-",
+      "titulo": "Cravates homme| Hast – Hast Paris",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuldGCl18VVsOOGqIYykPmvvaV4XMAilT_Dg&s",
+      "original": "https://www.hastparis.com/cdn/shop/files/TIE-H25-TED04-0370.jpg?v=1757491406&width=1066"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/tie/kg/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJZWEV32CPZaHjdS84oLivk5kZ_be4ot1OoQ&s",
+      "fuentePagina": "https://www.amazon.fr/HISDERN-Mouchoir-Formelle-Cravates-dAffaires/dp/B0CJM8WK6W",
+      "titulo": "HISDERN Cravate Bleu Marine Homme Mariage Classique Cravate ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJZWEV32CPZaHjdS84oLivk5kZ_be4ot1OoQ&s",
+      "original": "https://m.media-amazon.com/images/I/71ENmOTijKL._AC_UY1000_.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/tie/kg/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnh-3jFmgzVRVtue-11imPF29BHKaEclSASA&s",
+      "fuentePagina": "https://www.istockphoto.com/fr/photos/cravate",
+      "titulo": "440 900+ Cravate Photos, taleaux et images libre de droits ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnh-3jFmgzVRVtue-11imPF29BHKaEclSASA&s",
+      "original": "https://media.istockphoto.com/id/157180004/fr/photo/rouge-cravate-sur-blanc.jpg?s=612x612&w=0&k=20&c=MfDknJmHQhfPCQor0QTzEWd9kS8hj1aR0-ZuQzpQPB8="
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/tie/kg/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDg-lNpKPmWQbebIpKWlAiB8MGypv-OyI6_w&s",
+      "fuentePagina": "https://deguisement-costume.be/cravates-noeud-papillon-echarpes/2300-cravate-noir.html",
+      "titulo": "Cravate noir",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDg-lNpKPmWQbebIpKWlAiB8MGypv-OyI6_w&s",
+      "original": "https://deguisement-costume.be/10004-large_default/cravate-noir.jpg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/tie/kg/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQicqFJLHhZAxJUvpFg3zs_YUxR4X3Qa3TdvA&s",
+      "fuentePagina": "https://www.hastparis.com/collections/71-cravates?srsltid=AfmBOoqUBTWK9c8RQLZa8R1DqVyvv2rUYd_UB8fdP8-xdC329FWWn2Wy",
+      "titulo": "Cravates homme| Hast – Hast Paris",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQicqFJLHhZAxJUvpFg3zs_YUxR4X3Qa3TdvA&s",
+      "original": "https://www.hastparis.com/cdn/shop/files/TIE-E25-TED02-01.jpg?v=1759313499&width=1066"
+    }
+  ]
+}

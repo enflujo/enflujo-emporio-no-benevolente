@@ -1,0 +1,71 @@
+{
+  "categoria": "potted plant",
+  "categoriaSlug": "potted-plant",
+  "idioma": "am",
+  "nombreIdioma": "Amharic — አማርኛ",
+  "termino": "የድስት ተክል",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:18:29.980Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "am",
+    "gl": "et"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=%E1%8B%A8%E1%8B%B5%E1%88%B5%E1%89%B5%20%E1%89%B0%E1%8A%AD%E1%88%8D&hl=am&gl=et",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/potted-plant/am/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTOs9hCJJkTNVRP6addPPI4uOk4zngpZoR3w&s",
+      "fuentePagina": "http://am.vanliplants.com/snake-plant-lotus-hahnii-for-indoor-plants-product/",
+      "titulo": "የቻይና የእባብ ተክል Lotus Hahnii ለቤት ውስጥ እፅዋት ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTOs9hCJJkTNVRP6addPPI4uOk4zngpZoR3w&s",
+      "original": "http://cdn.globalso.com/vanliplants/Lotus-Hahnii-31.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/potted-plant/am/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdf7owndH3O7l26aCiALCAVd6CJopezRJIgA&s",
+      "fuentePagina": "http://am.vanliplants.com/snake-plant-lotus-hahnii-for-indoor-plants-product/",
+      "titulo": "የቻይና የእባብ ተክል Lotus Hahnii ለቤት ውስጥ እፅዋት ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdf7owndH3O7l26aCiALCAVd6CJopezRJIgA&s",
+      "original": "http://cdn.globalso.com/vanliplants/Lotus-Hahnii-11.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/potted-plant/am/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTv3Pu10RjMIEOY_ODvj3NWWV3FU88cwZATkg&s",
+      "fuentePagina": "http://am.zzsunnyflower.com/natural-chrysalidocarpus-lutescens-palm-trees-product/",
+      "titulo": "ቻይና የተፈጥሮ ክሪሳሊዶካርፐስ ሉቴሴንስ የዘንባባ ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTv3Pu10RjMIEOY_ODvj3NWWV3FU88cwZATkg&s",
+      "original": "http://www.zzsunnyflower.com/uploads/IMG_0516.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/potted-plant/am/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGl8vXqm9JwjSZrRQpnF4DROApU9FfGwRWJg&s",
+      "fuentePagina": "http://am.vanliplants.com/snake-plant-lotus-hahnii-for-indoor-plants-product/",
+      "titulo": "የቻይና የእባብ ተክል Lotus Hahnii ለቤት ውስጥ እፅዋት ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGl8vXqm9JwjSZrRQpnF4DROApU9FfGwRWJg&s",
+      "original": "http://cdn.globalso.com/vanliplants/Lotus-Hahnii-51.jpg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/potted-plant/am/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRME__AWv6nu3ZjEFS8bhuQXlp8WnOPuG5qdQ&s",
+      "fuentePagina": "http://am.zzsunnyflower.com/natural-chrysalidocarpus-lutescens-palm-trees-product/",
+      "titulo": "ቻይና የተፈጥሮ ክሪሳሊዶካርፐስ ሉቴሴንስ የዘንባባ ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRME__AWv6nu3ZjEFS8bhuQXlp8WnOPuG5qdQ&s",
+      "original": "http://www.zzsunnyflower.com/uploads/IMG_1289.jpg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/potted-plant/am/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1_VAjCU9PswtTB4bQMmCiDNU0X0LewJlxjw&s",
+      "fuentePagina": "http://am.vanliplants.com/sansevieria-futura-balck-potted-plant-product/",
+      "titulo": "ቻይና ሳንሴቪዬሪያ ፉቱራ ባልክ ማሰሮ ፋብሪካ አቅራቢ ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1_VAjCU9PswtTB4bQMmCiDNU0X0LewJlxjw&s",
+      "original": "http://cdn.globalso.com/vanliplants/zdw.jpg"
+    }
+  ]
+}

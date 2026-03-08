@@ -1,0 +1,71 @@
+{
+  "categoria": "skateboard",
+  "categoriaSlug": "skateboard",
+  "idioma": "pt",
+  "nombreIdioma": "Português",
+  "termino": "skate",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:04:35.391Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "pt",
+    "gl": "br"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=skate&hl=pt&gl=br",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/skateboard/pt/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLsPA2n62j_b6SdSMyYK9Bw6Z4GQjvPSuZBA&s",
+      "fuentePagina": "https://www.cnnbrasil.com.br/esportes/outros-esportes/rayssa-leal-termina-mundial-de-skate-em-quarto-lugar/",
+      "titulo": "Rayssa Leal fica fora do pódio na final do Mundial de Skate ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLsPA2n62j_b6SdSMyYK9Bw6Z4GQjvPSuZBA&s",
+      "original": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/03/rayssa-leal-mundial-skate-sao-paulo-e1772837634977.jpg?w=419&h=283&crop=0"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/skateboard/pt/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsM5t2AQtgweumOwHbi9IDdkwwGylqDNLkFg&s",
+      "fuentePagina": "https://www.b2brshop.com.br/skate-de-maple-completo-dgk-paisley",
+      "titulo": "Skate de maple completo DGK Paisley",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsM5t2AQtgweumOwHbi9IDdkwwGylqDNLkFg&s",
+      "original": "https://cdn.awsli.com.br/600x700/2755/2755328/produto/333634360/e38989fdba2f9b98aeb99e1c475d2231-0q9br1tw49.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/skateboard/pt/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZYmX254eXnBewe5Acl6HMFBV_1TtujObIQw&s",
+      "fuentePagina": "https://www.primorskateshop.com.br/produto/skate-longboard-multimarca-skate-simulador-30-deep-sea-4135?srsltid=AfmBOooZ2pFp31lRVH5UdNN-DgQZFYwA2dZfd1x221OcFYoBcgCjH1zV",
+      "titulo": "Skate Longboard Multimarca | Skate Simulador 30 Deep sea",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZYmX254eXnBewe5Acl6HMFBV_1TtujObIQw&s",
+      "original": "https://cdn.vnda.com.br/primorskateshop/2025/05/18/17_35_31_668_skate-longboard-multimarca-skate-simulador-30-deep-sea-azul-preto-5116.jpg?v=1747600531"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/skateboard/pt/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_usMv5b-4tP48c7IE_iJRiSy-iCqioUIGxw&s",
+      "fuentePagina": "https://www.lojamor.com.br/skate-iniciante-79cm-x-20cm-sortido-40600221-estamp-4/p?srsltid=AfmBOopE_fDAtyBZDsw0D5_TLAKn1W9NNQ4HpK6QWYWbwnGgx3Gd2-ck",
+      "titulo": "Skate Iniciante 79cm x 20cm - Estamp-4",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_usMv5b-4tP48c7IE_iJRiSy-iCqioUIGxw&s",
+      "original": "https://lojamor.vtexassets.com/arquivos/ids/189716-800-800?v=638973551702400000&width=800&height=800&aspect=true"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/skateboard/pt/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-C3gFz7BEFWYab21lnkZVUT0pL_I1lb1cHw&s",
+      "fuentePagina": "https://dropdead.com.br/skate-completo-kids-truck-drop-dead-78701028/p?srsltid=AfmBOopEVKysEJJ1hEomMXjh0NUV-fdxS7aw9YoPTDfBTegNkFQdwRUR",
+      "titulo": "Skate Completo Kids Truck Drop Dead",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-C3gFz7BEFWYab21lnkZVUT0pL_I1lb1cHw&s",
+      "original": "https://s.dropdead.com.br/product/2024/09/skate-dd-kids-truck-marfim-vista-de-baixo.jpg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/skateboard/pt/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThIpG73gZe9bsznxwpdHna90ZJg45C2mS4-g&s",
+      "fuentePagina": "https://www.tricks.com.br/blog/o-que-e-skateboard/",
+      "titulo": "O que é Skateboard? - Tricks - Guia Radical",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThIpG73gZe9bsznxwpdHna90ZJg45C2mS4-g&s",
+      "original": "https://www.tricks.com.br/blog/wp-content/uploads/2020/11/skate-e-skateboard-1024x576.jpg"
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "categoria": "knife",
+  "categoriaSlug": "knife",
+  "idioma": "sw",
+  "nombreIdioma": "Kiswahili",
+  "termino": "kisu",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:08:35.597Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "sw",
+    "gl": "tz"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=kisu&hl=sw&gl=tz",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/knife/sw/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZVzjholYNkGnGL8XBFZoFIj_acwdKJB0UVQ&s",
+      "fuentePagina": "https://www.eatv.tv/news/current-affairs/lindi-mtoto-atishiwa-kisu-na-kutekwa",
+      "titulo": "Lindi: Mtoto atishiwa kisu na kutekwa | East Africa Television",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZVzjholYNkGnGL8XBFZoFIj_acwdKJB0UVQ&s",
+      "original": "https://www.eatv.tv/sites/default/files/styles/detailpageimg/public/news/2019/06/28/kisu.jpg?itok=WHIcyEhP&timestamp=1561731355"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/knife/sw/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlAZX_F16Pbl4Z1sOQNtw05jRCsNUWvUb8dQ&s",
+      "fuentePagina": "https://swahilitimes.co.tz/mwanafunzi-ajichoma-kisu-baada-ya-kuhojiwa-kuiba-fedha-kwa-jirani/",
+      "titulo": "Mwanafunzi ajichoma kisu baada ya kuhojiwa kuiba fedha kwa ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlAZX_F16Pbl4Z1sOQNtw05jRCsNUWvUb8dQ&s",
+      "original": "https://swahilitimes.co.tz/wp-content/uploads/2024/09/Kisu-1-905x613.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/knife/sw/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRk2Z20Ecpfflq0CbqQcS-ToA-pD_5zIAnQTA&s",
+      "fuentePagina": "https://www.mwananchi.co.tz/mw/habari/kitaifa/mwanafunzi-adaiwa-kumchoma-kisu-mwenzake-kisa-kudaiwa-kofia-3403340",
+      "titulo": "Mwanafunzi adaiwa kumchoma kisu mwenzake, kisa kudaiwa kofia ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRk2Z20Ecpfflq0CbqQcS-ToA-pD_5zIAnQTA&s",
+      "original": "https://www.mwananchi.co.tz/resource/image/3403342/landscape_ratio3x2/1620/1080/3506de79bfd66b7b128b5971d5a227a5/vb/kisu-pc.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/knife/sw/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPDvLJ9KTPYnRjqv7oEosY5Ebk8hUw177JqA&s",
+      "fuentePagina": "https://www.ubuy.co.tz/sw/productde/ICZRQ1M92-ktx7-knife-folding-pocket-knife-rs?srsltid=AfmBOopKhTeVYD00cfD9mQN6ALtSWWQ4g6HiY1x6z0UfGMwCya66HjFD",
+      "titulo": "Buy KTX7® Kisu cha Kukunja Kisu RS Online Tanzania | Ubuy",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPDvLJ9KTPYnRjqv7oEosY5Ebk8hUw177JqA&s",
+      "original": "https://m.media-amazon.com/images/I/7145cY9srzL._AC_SL1500_.jpg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/knife/sw/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrtHW76Wjuu093-DTfyuQri7R79DKVeMEaqg&s",
+      "fuentePagina": "https://www.rtkitchenknife.com/sw/fish-fillet-knife-set-deba-knife-straight-handle-ruitai-gm1822s-r2t",
+      "titulo": "Kisu cha Fillet ya Samaki Weka Kisu cha Deba Kishikio Moja ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrtHW76Wjuu093-DTfyuQri7R79DKVeMEaqg&s",
+      "original": "https://img80003074.weyesimg.com/uploads/rtkitchenknife.com/images/15792610285526.jpg?imageView2/2/w/768/q/80/format/webp"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/knife/sw/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwsmbn8nkWMzFCXsXrfT9JVmsK9uoEXra3Bw&s",
+      "fuentePagina": "https://www.wayandfarer.com/sw/zana/visu-za-kupiga-kambi/kisu-cha-kukunja/?srsltid=AfmBOorT4-yN8_-O-xIp7zOYdNS68LcoPR0Kj28WqYc3MScLDx4J1tpj",
+      "titulo": "Kisu cha Kukunja | Kisu cha Kukunja cha Kambi cha Mbao Ngumu ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwsmbn8nkWMzFCXsXrfT9JVmsK9uoEXra3Bw&s",
+      "original": "https://www.wayandfarer.com/wp-content/uploads/2020/02/Folding-Steak-Knife-2.jpg"
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "categoria": "scissors",
+  "categoriaSlug": "scissors",
+  "idioma": "sw",
+  "nombreIdioma": "Kiswahili",
+  "termino": "mkasi",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:30:11.174Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "sw",
+    "gl": "tz"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=mkasi&hl=sw&gl=tz",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/scissors/sw/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfhF2qVZ5mLWVKAkYDc3a3t4oOCWDiS6Sr3g&s",
+      "fuentePagina": "https://sw.wikipedia.org/wiki/Mkasi",
+      "titulo": "Mkasi - Wikipedia, kamusi elezo huru",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfhF2qVZ5mLWVKAkYDc3a3t4oOCWDiS6Sr3g&s",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/0/03/2scissors-clean.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/scissors/sw/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7ru45qzrZn3HnY27U9rlgnw9FmFj7c-uiCA&s",
+      "fuentePagina": "https://en.wikipedia.org/wiki/Mkasi",
+      "titulo": "Mkasi - Wikipedia",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7ru45qzrZn3HnY27U9rlgnw9FmFj7c-uiCA&s",
+      "original": "https://upload.wikimedia.org/wikipedia/en/5/53/Mkasi_Logo.png"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/scissors/sw/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1t0D_vzFKXwxnweF1zdL0NTLOBdEX69cX7Q&s",
+      "fuentePagina": "https://www.facebook.com/photo.php?fbid=593882404596859&set=a.427107439405389&id=100063184092983",
+      "titulo": "malamsha_tailoring_accessories - Kwa nini uhangaike mkasi wa ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1t0D_vzFKXwxnweF1zdL0NTLOBdEX69cX7Q&s",
+      "original": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=593882404596859"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/scissors/sw/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrzF1NrKipDJNsG7O2W5J7KkbwFA_yOZnJwQ&s",
+      "fuentePagina": "https://www.ubuy.co.tz/sw/product/14J0CLAS8-misuzu-silky-handicraft-scissors-135mm-japan-import?srsltid=AfmBOooHtOIRy8DvqxKHD6H_2WX48kO1wXBY6Gg_oRFMksIzJdppZPru",
+      "titulo": "Misuzu silky Handicraft mkasi 135mm japan Tanzania | Ubuy",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrzF1NrKipDJNsG7O2W5J7KkbwFA_yOZnJwQ&s",
+      "original": "https://m.media-amazon.com/images/I/51s6Pw2DvYL._AC_SL400_.jpg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/scissors/sw/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_4pf0Wzw3yJJ_zl3TsMZrULC35OKXmZomAA&s",
+      "fuentePagina": "https://www.medikal.net/sw/vyombo-vya-upasuaji/mkasi/",
+      "titulo": "mkasi",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_4pf0Wzw3yJJ_zl3TsMZrULC35OKXmZomAA&s",
+      "original": "https://www.medikal.net/images/altkategori/makaslar.jpg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/scissors/sw/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6IbC5VWWidNynG9DYCob84lcJ20ewiDB_wQ&s",
+      "fuentePagina": "https://www.kid.re/sw/vyombo-vya-habari/mkasi-702",
+      "titulo": "Mkasi - Shughuli Kwa Watoto ! 👦👧",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6IbC5VWWidNynG9DYCob84lcJ20ewiDB_wQ&s",
+      "original": "https://www.kid.re/stock-high/sw/kurasa-za-kupaka-rangi-zinazoweza-kuchapishwa/vitu/mkasi%204.jpg"
+    }
+  ]
+}

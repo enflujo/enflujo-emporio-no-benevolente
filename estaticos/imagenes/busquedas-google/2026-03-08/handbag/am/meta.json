@@ -1,0 +1,71 @@
+{
+  "categoria": "handbag",
+  "categoriaSlug": "handbag",
+  "idioma": "am",
+  "nombreIdioma": "Amharic — አማርኛ",
+  "termino": "ቦርሳ",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T20:57:41.968Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "am",
+    "gl": "et"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=%E1%89%A6%E1%88%AD%E1%88%B3&hl=am&gl=et",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/handbag/am/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSz3HNWIaCV9lzr4djlythIimqKuzG-bmKNGw&s",
+      "fuentePagina": "http://am.hunterbags.com/men-women-laptop-backpack-15-6-inch-rucksack-school-bag-travel-backpack-men-notebook-computer-bag-product/",
+      "titulo": "የቻይና ወንዶች ሴቶች ላፕቶፕ ቦርሳ 15.6 ኢንች ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSz3HNWIaCV9lzr4djlythIimqKuzG-bmKNGw&s",
+      "original": "http://cdn.globalso.com/hunterbags/IMG_0284-3.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/handbag/am/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPhhnuR_BIH7N2zKkKhN2FsqnA-HnIjKfL5w&s",
+      "fuentePagina": "https://www.gzflybag.com/am/product/factory-wholesale-waterproof-primary-kids-school-bag-backpack-nylon-travel-sports-backpack-for-boy-girls-kids/",
+      "titulo": "የፋብሪካ ጅምላ ውሃ የማይገባ የመጀመሪያ ደረጃ ልጆች ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPhhnuR_BIH7N2zKkKhN2FsqnA-HnIjKfL5w&s",
+      "original": "https://www.gzflybag.com/wp-content/uploads/2024/11/c-80888-8-.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/handbag/am/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdt5Nshns0bIWUSxmw-0x1PUlPk9_nDp_SaA&s",
+      "fuentePagina": "https://am.hunterbags.com/backpack-for-women-nylon-travel-backpack-purse-black-small-school-bag-for-girls-black-quilted-product/",
+      "titulo": "የቻይና የሴቶች ቦርሳ ፣ ናይሎን የጉዞ ቦርሳ ቦርሳ ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdt5Nshns0bIWUSxmw-0x1PUlPk9_nDp_SaA&s",
+      "original": "https://cdn.globalso.com/hunterbags/Backpack-for-Women-Nylon-Travel-Backpack-Purse-Black-Small-School-Bag-for-Girls-Black-Quilted-4.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/handbag/am/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmxteCFpT0CXO4z5pLzQMpjEn6eAd47-4dAg&s",
+      "fuentePagina": "https://www.gzflybag.com/am/product/new-design-waterproof-large-capacity-college-student-teenagers-bag-primary-kids-children-school-backpack-bag/",
+      "titulo": "አዲስ ዲዛይን ውሃ የማይገባበት ትልቅ አቅም ኮሌጅ ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmxteCFpT0CXO4z5pLzQMpjEn6eAd47-4dAg&s",
+      "original": "https://www.gzflybag.com/wp-content/uploads/2024/09/c-80858-5-.jpg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/handbag/am/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5KrqC36MEQFvMulWKi2_0VPE13yTV4MUMYw&s",
+      "fuentePagina": "https://www.tsxluggage.com/am/omaska-dipaer-backpack-women-travelling-bag-babay-care-backpack-hs2015-1.html",
+      "titulo": "China Omaska ​​dipaer ቦርሳ የሴቶች ተጓዥ ቦርሳ babay ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5KrqC36MEQFvMulWKi2_0VPE13yTV4MUMYw&s",
+      "original": "https://cdnus.globalso.com/tsxluggage/1611.jpg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/handbag/am/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTaArFZWRzJ9actAHlbfo4fAzM1qQVAkUjctw&s",
+      "fuentePagina": "https://am.come4buy.com/products/fashion-backpacks-travel-small-bag",
+      "titulo": "የፋሽን ቦርሳዎች ተጓዥ አነስተኛ ቦርሳ ሴት ባለ ብዙ ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTaArFZWRzJ9actAHlbfo4fAzM1qQVAkUjctw&s",
+      "original": "https://come4buy.com/cdn/shop/products/fashion-backpacks-travel-small-bag-221030004001p_800x.jpg?v=1667134846"
+    }
+  ]
+}

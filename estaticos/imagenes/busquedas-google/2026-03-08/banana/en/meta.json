@@ -1,0 +1,71 @@
+{
+  "categoria": "banana",
+  "categoriaSlug": "banana",
+  "idioma": "en",
+  "nombreIdioma": "English",
+  "termino": "banana",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:10:30.750Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "en",
+    "gl": "us"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=banana&hl=en&gl=us",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/banana/en/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmTl3u-oVEFUP-11SmyRePFfaSbntmwuoRqQ&s",
+      "fuentePagina": "https://www.dole.com/produce/bananas",
+      "titulo": "Heart Healthy Bananas | Dole",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmTl3u-oVEFUP-11SmyRePFfaSbntmwuoRqQ&s",
+      "original": "https://www.dole.com/sites/default/files/styles/1024w768h-80/public/media/2025-01/banana-cavendish_0.png?itok=xIgYOIE_-9FKLRtCr"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/banana/en/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQY0P0cu_u94QjFc6jAIZEIILj2XZpUDMKO9g&s",
+      "fuentePagina": "https://nutritionsource.hsph.harvard.edu/food-features/bananas/",
+      "titulo": "Bananas • The Nutrition Source",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQY0P0cu_u94QjFc6jAIZEIILj2XZpUDMKO9g&s",
+      "original": "https://nutritionsource.hsph.harvard.edu/wp-content/uploads/2018/08/bananas-1354785_1920-1024x683.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/banana/en/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMZw3NVvQB7ew-0I7zWlJw5b6iaU9TrcGY4Q&s",
+      "fuentePagina": "https://nutriscan.app/calories-nutrition/banana",
+      "titulo": "Banana: Calories, Nutrition and Health Benefits | NutriScan App",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMZw3NVvQB7ew-0I7zWlJw5b6iaU9TrcGY4Q&s",
+      "original": "https://nutriscan.app/calories-nutrition/images/banana-7h4m9.webp"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/banana/en/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLWh-E-5rCitwZiTaKzesMB6kupUh0TRu1FQ&s",
+      "fuentePagina": "https://en.wikipedia.org/wiki/Cavendish_banana",
+      "titulo": "Cavendish banana - Wikipedia",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLWh-E-5rCitwZiTaKzesMB6kupUh0TRu1FQ&s",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/9/9b/Cavendish_Banana_DS.jpg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/banana/en/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnhPWWskqMJa1Rt6_yTUUe7aMJdtOcbAAWMw&s",
+      "fuentePagina": "https://en.wikipedia.org/wiki/Banana",
+      "titulo": "Banana - Wikipedia",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnhPWWskqMJa1Rt6_yTUUe7aMJdtOcbAAWMw&s",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/d/de/Bananavarieties.jpg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/banana/en/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjXPesTTPlP0ElzslHUleLe1DDfsdo_Mr7Bw&s",
+      "fuentePagina": "https://www.istockphoto.com/photos/bunch-of-bananas-and-one-peeled-banana",
+      "titulo": "560+ Bunch Of Bananas And One Peeled Banana Stock Photos ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjXPesTTPlP0ElzslHUleLe1DDfsdo_Mr7Bw&s",
+      "original": "https://media.istockphoto.com/id/2197760431/photo/half-peeled-banana-isolated-on-black-background.jpg?s=612x612&w=0&k=20&c=CxMtulpl0li3CR8fCtNV2D__SV9eMcUd5PLp1zFd4GM="
+    }
+  ]
+}

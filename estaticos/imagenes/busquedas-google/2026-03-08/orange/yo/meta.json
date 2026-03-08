@@ -1,0 +1,71 @@
+{
+  "categoria": "orange",
+  "categoriaSlug": "orange",
+  "idioma": "yo",
+  "nombreIdioma": "Yorùbá",
+  "termino": "ọsàn",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:12:41.896Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "yo",
+    "gl": "ng"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=%E1%BB%8Ds%C3%A0n&hl=yo&gl=ng",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/orange/yo/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRc4wVnCnI9wInjsDnja4qloXA5F1ivZpGLg&s",
+      "fuentePagina": "https://yo.wikipedia.org/wiki/%E1%BB%8Cs%C3%A0n",
+      "titulo": "Ọsàn - Wikipedia, ìwé-ìmọ̀ ọ̀fẹ́",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRc4wVnCnI9wInjsDnja4qloXA5F1ivZpGLg&s",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/%E1%BB%8Cm%E1%BB%8D_%E1%BB%8Dl%E1%BB%8Dsan.jpg/250px-%E1%BB%8Cm%E1%BB%8D_%E1%BB%8Dl%E1%BB%8Dsan.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/orange/yo/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAOb7hTk7kHPMwve4WAs6mEvZOyNissg7Lrg&s",
+      "fuentePagina": "https://www.facebook.com/Yorubatisawa/posts/eel-in-yor%C3%B9b%C3%A1-language-%E1%BA%B9ja-%E1%BB%8Ds%C3%A0nyorubatisawa-yoruba-eels-fish-eja-ejaosan-eelfish/927814892810440/",
+      "titulo": "Eel in Yorùbá Language: Ẹja Ọsàn. #yorubatisawa #yoruba ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAOb7hTk7kHPMwve4WAs6mEvZOyNissg7Lrg&s",
+      "original": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=927814839477112"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/orange/yo/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqxI6_El4-J2vAjLFwAwWzCWPYeO3yhhnlFw&s",
+      "fuentePagina": "https://en.wiktionary.org/wiki/%E1%BB%8Dsan",
+      "titulo": "ọsan - Wiktionary, the free dictionary",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqxI6_El4-J2vAjLFwAwWzCWPYeO3yhhnlFw&s",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Toyosi_Onikosi%2C_Nigeria_Photo_7.jpg/250px-Toyosi_Onikosi%2C_Nigeria_Photo_7.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/orange/yo/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0rlkiLs-pykWEJjiY4Cs3lJhwfv5iY9rEKg&s",
+      "fuentePagina": "https://yo.wikipedia.org/wiki/%E1%BB%8Cs%C3%A0n",
+      "titulo": "Ọsàn - Wikipedia, ìwé-ìmọ̀ ọ̀fẹ́",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0rlkiLs-pykWEJjiY4Cs3lJhwfv5iY9rEKg&s",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/OrangeBloss_wb.jpg/250px-OrangeBloss_wb.jpg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/orange/yo/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6pEB3MhdE0InhRMidQn0EbwtK_Or2ZuboEQ&s",
+      "fuentePagina": "https://funke-koleosho.blogspot.com/2017/02/key-lime-osan-wewe-super-fruit.html",
+      "titulo": "Key Lime (Osan Wewe) - Super Fruit",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6pEB3MhdE0InhRMidQn0EbwtK_Or2ZuboEQ&s",
+      "original": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj-IhCUEy9XUWvcLZDwP7c97mKlLH_ypygQ1GaFBBabVQvKGSGlC-NbHCynt2Hal7YlCbZAsSwKAWYDbUvf5P4tgQRBqYmk_-tghn4bUXtVPBCa6hPxrKIeodWHtbo3o2CHcvSG-l4mUrq5/s1600/osanwewe.jpg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/orange/yo/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2JaBg5jTcGhFBOQYLssC6xWNU4HnMHGpwow&s",
+      "fuentePagina": "https://www.themarketfoodshop.com/product/smoked-eja-osan-2/?srsltid=AfmBOorBUHC8Mz6Ne8fqFxyB2_CwpZspjFqABFWRzYJOfpI5mHP4t0mC",
+      "titulo": "Smoked Eja Osan",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2JaBg5jTcGhFBOQYLssC6xWNU4HnMHGpwow&s",
+      "original": "https://www.themarketfoodshop.com/wp-content/uploads/2015/11/smoked-eja-osan-42pieces.jpeg"
+    }
+  ]
+}

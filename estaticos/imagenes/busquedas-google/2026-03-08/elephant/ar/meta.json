@@ -1,0 +1,71 @@
+{
+  "categoria": "elephant",
+  "categoriaSlug": "elephant",
+  "idioma": "ar",
+  "nombreIdioma": "العربية",
+  "termino": "فيل",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T20:53:52.184Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "ar",
+    "gl": "eg"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=%D9%81%D9%8A%D9%84&hl=ar&gl=eg",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/elephant/ar/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSzg7o3s3C8DdduKxFomc7oAnjFm5wIBRK2w&s",
+      "fuentePagina": "https://ar.pngtree.com/so/%D8%B5%D9%88%D8%B1%D8%A9-%D8%A7%D9%84%D9%81%D9%8A%D9%84",
+      "titulo": "صورة الفيل PNG الصور | ناقل و PSD الملفات | تحميل مجاني على ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSzg7o3s3C8DdduKxFomc7oAnjFm5wIBRK2w&s",
+      "original": "https://png.pngtree.com/png-vector/20250109/ourmid/pngtree-elephant-cartoon-photo-png-image_15109717.png"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/elephant/ar/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVoFq3XlAYVa5ThUCMFuzv_C7zei7KhT9Nag&s",
+      "fuentePagina": "https://ar.wikipedia.org/wiki/%D9%81%D9%8A%D9%84_%D8%A5%D9%81%D8%B1%D9%8A%D9%82%D9%8A",
+      "titulo": "فيل إفريقي - ويكيبيديا",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVoFq3XlAYVa5ThUCMFuzv_C7zei7KhT9Nag&s",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/3/37/African_Bush_Elephant.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/elephant/ar/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRzeCxiMXC1D8tbiY6yzMYFXaoyl5yT3kQvA&s",
+      "fuentePagina": "https://www.elwatannews.com/news/details/6386520",
+      "titulo": "فيل ينهي حياة المسؤول عن رعايته بـ«ضربة غدر».. نطحه في صدره ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRzeCxiMXC1D8tbiY6yzMYFXaoyl5yT3kQvA&s",
+      "original": "https://media.elwatannews.com/media/img/mediaarc/medium/17305207941672414310.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/elephant/ar/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAJjI6r9Ccy50Q6t-4RdTlEBYy9eLtkOHRkg&s",
+      "fuentePagina": "https://www.instagram.com/p/DOvekR5iCCR/",
+      "titulo": "هل تعلم أن: الفيل هو أكبر الثدييات البرية ويمكن أن يصل وزنه ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAJjI6r9Ccy50Q6t-4RdTlEBYy9eLtkOHRkg&s",
+      "original": "https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3724329851374018705"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/elephant/ar/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYvC50bs3FPFdjn7rE8Q0ykIDhrdhCHU7uSw&s",
+      "fuentePagina": "https://ngalarabiya.com/article/4296456/%D8%A7%D9%84%D9%81%D9%8A%D9%84-%D8%A7%D9%84%D8%A5%D9%81%D8%B1%D9%8A%D9%82%D9%8A---%D8%B9%D9%85%D9%84%D8%A7%D9%82-%D9%85%D9%87%D8%AF%D8%AF-%D8%A8%D8%A7%D9%84%D8%A7%D9%86%D9%82%D8%B1%D8%A7%D8%B6",
+      "titulo": "الفيل الإفريقي.. عملاق مهدد بالانقراض - مجلة ناشيونال ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYvC50bs3FPFdjn7rE8Q0ykIDhrdhCHU7uSw&s",
+      "original": "https://media.ngalarabiya.com/store/archive/image/2022/6/24/9be047f7-3386-410a-b40f-0d16040ce402.png"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/elephant/ar/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSR4fFv1B4Jq0kBgfQgqCjE2whMlnTolUj9xg&s",
+      "fuentePagina": "https://ar.wikipedia.org/wiki/%D9%81%D9%8A%D9%84",
+      "titulo": "فيل - ويكيبيديا",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSR4fFv1B4Jq0kBgfQgqCjE2whMlnTolUj9xg&s",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/d/de/Paignton_%2C_Paignton_Zoo%2C_Elephants_-_geograph.org.uk_-_1484811.jpg"
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "categoria": "handbag",
+  "categoriaSlug": "handbag",
+  "idioma": "en",
+  "nombreIdioma": "English",
+  "termino": "handbag",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T20:57:25.665Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "en",
+    "gl": "us"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=handbag&hl=en&gl=us",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/handbag/en/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQjatH9DMJTr65EcV1N0OfW6KaPnHlHgRvKQ&s",
+      "fuentePagina": "https://www.amazon.com/Handbags-Top-handle-Contrast-Stitching-Shoulder/dp/B08PFG2Z8D",
+      "titulo": "I IHAYNER Womens Leather Handbags Purse Top-handle Bags ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQjatH9DMJTr65EcV1N0OfW6KaPnHlHgRvKQ&s",
+      "original": "https://m.media-amazon.com/images/I/71vz71m5usL._AC_UY900_.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/handbag/en/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbm3hCQmMDOJuAb-Qu8D_wyaa7lXYrfoza7w&s",
+      "fuentePagina": "https://www.amazon.com/Fashion-Handbags-Shoulder-Crossbody-Valentines/dp/B0BM9RCF5Q",
+      "titulo": "Amazon.com: 4PCS Women Fashion Handbags Purses Wallet ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbm3hCQmMDOJuAb-Qu8D_wyaa7lXYrfoza7w&s",
+      "original": "https://m.media-amazon.com/images/I/71lN8Q+AmbL._AC_UY900_.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/handbag/en/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAYzuPzW3NKOnWnIMGL5UJ2ToJhRII4DIApQ&s",
+      "fuentePagina": "https://www.marieclaire.co.uk/fashion/shopping/iconic-handbags",
+      "titulo": "Re-introducing The Most Iconic Handbags of All Time | Marie ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAYzuPzW3NKOnWnIMGL5UJ2ToJhRII4DIApQ&s",
+      "original": "https://cdn.mos.cms.futurecdn.net/z37mwDVckwJURH4Ho5KRYW-2560-80.jpeg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/handbag/en/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcToFDzTSJwDWcbMU4n-R__6znhPs3e9KukAaw&s",
+      "fuentePagina": "https://www.codogirl.com/blogs/news/know-your-types-of-handbags?srsltid=AfmBOopSzoMIzRnZmHGtNpe74IqOoILvLFVM9jtqeLTLaBHHJmmcfpjP",
+      "titulo": "Understanding Different Types of Handbags | CODOGIRL ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcToFDzTSJwDWcbMU4n-R__6znhPs3e9KukAaw&s",
+      "original": "https://ucarecdn.com/bd2bbf34-6bfd-4bca-bbae-871b08952fd0/-/format/auto/-/preview/3000x3000/-/quality/lighter/A%20variety%20of%20bag%20types.jpg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/handbag/en/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuxNuCcxVssBENwaPyvT_6cqgpsardmsYE3Q&s",
+      "fuentePagina": "https://www.amazon.com/XingChen-Handbag-Leather-Top-Handle-Shoulder/dp/B09TK9GK9P",
+      "titulo": "Amazon.com: XingChen Shiny Women Handbag Patent Leather ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuxNuCcxVssBENwaPyvT_6cqgpsardmsYE3Q&s",
+      "original": "https://m.media-amazon.com/images/I/71-5LUlah5L._AC_UY900_.jpg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/handbag/en/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRp9nrEnvJA5lxIyWUfqsBhAFFBGFY48p5HwA&s",
+      "fuentePagina": "https://mygemma.com/en-it/blogs/news/top-10-handbags?srsltid=AfmBOooox7cRIlF8KWjMrHKFONGrIfEyYtcXqsB7vFMPDq_A7WTlZ2-l",
+      "titulo": "The 10 Top Luxury Handbags in 2025 | myGemma | IT",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRp9nrEnvJA5lxIyWUfqsBhAFFBGFY48p5HwA&s",
+      "original": "https://mygemma.com/cdn/shop/articles/NEW-WPD-BLOG-Top-Image-12.png?v=1695912820"
+    }
+  ]
+}

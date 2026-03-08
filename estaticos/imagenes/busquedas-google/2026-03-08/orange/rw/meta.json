@@ -1,0 +1,71 @@
+{
+  "categoria": "orange",
+  "categoriaSlug": "orange",
+  "idioma": "rw",
+  "nombreIdioma": "Kinyarwanda",
+  "termino": "icungwa",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:12:35.153Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "en",
+    "gl": "rw"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=icungwa&hl=en&gl=rw",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/orange/rw/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTta2ULP_XG4-ikeCDBs0w3thMWVNgoJNGvgQ&s",
+      "fuentePagina": "https://www.facebook.com/kimani.ichungwah/",
+      "titulo": "Kimani Ichung'wah (@kimani.ichungwah) • Facebook",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTta2ULP_XG4-ikeCDBs0w3thMWVNgoJNGvgQ&s",
+      "original": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=100044290276564"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/orange/rw/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjeeTThhWCz3QN_8voVpt9QaOszvIyxP0FTQ&s",
+      "fuentePagina": "https://www.parliament.go.ke/index.php/the-national-assembly/hon-ichungwah-antony-kimani",
+      "titulo": "HON. ICHUNG'WAH ANTONY KIMANI | The Kenyan Parliament Website",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjeeTThhWCz3QN_8voVpt9QaOszvIyxP0FTQ&s",
+      "original": "https://www.parliament.go.ke/sites/default/files/2022-10/Ichung%27wah%20Anthony%20Kimani2.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/orange/rw/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYzv0MO6iS0JKLBErkd2-5D0eAPeaCV-uyFg&s",
+      "fuentePagina": "https://www.parliament.go.ke/the-national-assembly/national-assembly-majority-whip",
+      "titulo": "Hon. Kimani Ichung'wah, EGH, MP, Leader of the Majority ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYzv0MO6iS0JKLBErkd2-5D0eAPeaCV-uyFg&s",
+      "original": "https://www.parliament.go.ke/sites/default/files/articles/ichungwa.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/orange/rw/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbVXedGPCS5B0jfsEM91p-6GawBLki-ADamQ&s",
+      "fuentePagina": "https://www.facebook.com/TOneTvKe/posts/kwa-hii-interview-mp-kimani-icungwa-atatoboa/647138614499806/",
+      "titulo": "Kwa hii interview MP Kimani Icungwa atatoboa?",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbVXedGPCS5B0jfsEM91p-6GawBLki-ADamQ&s",
+      "original": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=647138584499809"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/orange/rw/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdggOe9yaMefq7TC9aFcb6_1U41BVhHNudqg&s",
+      "fuentePagina": "https://www.igihe.com/ubuzima/article/kwishingira-kanseri-gukorana-n-amavuriro-yigenga-imyaka-umunani-ya-mituweli",
+      "titulo": "Kwishingira kanseri, gukorana n'amavuriro yigenga…Imyaka ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdggOe9yaMefq7TC9aFcb6_1U41BVhHNudqg&s",
+      "original": "https://www.igihe.com/local/cache-vignettes/L600xH400/umuyobozi_mukuru_wa_rssb_rugemanshuro_regis_agaragaza_ko_uko_amikoro_azagenda_aboneka_indwara_zishingirwa_na_mituweli_zizajya_zongerwa-91700.jpg?1713676286"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/orange/rw/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpBCSOLHsLPFo4arsslzeNwcWA2HpcAvxx1w&s",
+      "fuentePagina": "https://www.facebook.com/NyeriPolitician/posts/kindiki-icungwa-are-the-senior-most-sons-of-the-mountain-in-this-governmentwhen-/1521343329347691/",
+      "titulo": "KINDIKI & ICUNGWA ARE THE SENIOR-MOST SONS OF THE MOUNTAIN ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpBCSOLHsLPFo4arsslzeNwcWA2HpcAvxx1w&s",
+      "original": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=1521328489349175"
+    }
+  ]
+}

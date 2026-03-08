@@ -1,0 +1,71 @@
+{
+  "categoria": "bus",
+  "categoriaSlug": "bus",
+  "idioma": "kg",
+  "nombreIdioma": "Kikongo",
+  "termino": "bisi",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T20:43:44.062Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "fr",
+    "gl": "cd"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=bisi&hl=fr&gl=cd",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bus/kg/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDC1ZzxAwUklDDeJ10iIlGe1ytUC6o06n59g&s",
+      "fuentePagina": "https://www.sanpellegrino.com/fr/boissons-petillantes/recettes-italiennes/risi-e-bisi",
+      "titulo": "Risi e bisi",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDC1ZzxAwUklDDeJ10iIlGe1ytUC6o06n59g&s",
+      "original": "https://www.sanpellegrino.com/fr/sites/g/files/xknfdk2146/files/styles/amp_1200x900_4_3/public/risi_bisi_post.jpg.webp?itok=sP24gVdb"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bus/kg/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6J-IWDVWgKhDd8mD_zfa4YSvs3m94PFWtIA&s",
+      "fuentePagina": "https://fr.wikipedia.org/wiki/Bisi_bele_bath",
+      "titulo": "Bisi bele bath — Wikipédia",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6J-IWDVWgKhDd8mD_zfa4YSvs3m94PFWtIA&s",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/0/04/Bisi_Bele_Bath_%28Bisibelebath%29.JPG"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bus/kg/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScuaYX4bPjX71RG1VdzRuERtUZLYzS8hY6EA&s",
+      "fuentePagina": "https://awdf.org/bisi-adeleye-fayemi-a-trailblazer-in-humanitarian-leadership/",
+      "titulo": "Bisi Adeleye Fayemi: A trailblazer in Humanitarian ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScuaYX4bPjX71RG1VdzRuERtUZLYzS8hY6EA&s",
+      "original": "https://awdf.org/wp-content/uploads/2019/04/Erelu-Bisi-Fayemi-633x400-1.jpeg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bus/kg/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfHkXNJmPpICsD6kGhRXujg4XvJnfhynwmRA&s",
+      "fuentePagina": "https://fr.tradingview.com/symbols/IDX-BISI/technicals/",
+      "titulo": "Analyse technique de PT BISI International Tbk (IDX: BISI ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfHkXNJmPpICsD6kGhRXujg4XvJnfhynwmRA&s",
+      "original": "https://s3-symbol-logo.tradingview.com/bisi-international-tbk--600.png"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bus/kg/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDJnG0GBVTzsveMEs2y8W8sxRut7sPq3e0qw&s",
+      "fuentePagina": "https://www.facebook.com/bisipro/",
+      "titulo": "Bisi (@bisipro) • Facebook",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDJnG0GBVTzsveMEs2y8W8sxRut7sPq3e0qw&s",
+      "original": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=100063595840919"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bus/kg/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_R0zNGm8kkNf2MHeRK1SeRaTyJY8nYRGbLA&s",
+      "fuentePagina": "https://authenticroyal.com/recipes/bisi-bele-bath/",
+      "titulo": "Bisi Bele Bath | Authentic Royal®",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_R0zNGm8kkNf2MHeRK1SeRaTyJY8nYRGbLA&s",
+      "original": "https://authenticroyal.com/wp-content/uploads/2024/10/Bisi-Bele-Bath.jpg"
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "categoria": "donut",
+  "categoriaSlug": "donut",
+  "idioma": "am",
+  "nombreIdioma": "Amharic — አማርኛ",
+  "termino": "ዶናት",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:15:48.533Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "am",
+    "gl": "et"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=%E1%8B%B6%E1%8A%93%E1%89%B5&hl=am&gl=et",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/donut/am/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSG5xPlpSxTr_J2XHevQ8oYNMRolNffdKFVnw&s",
+      "fuentePagina": "https://www.facebook.com/8128A/posts/%E1%8B%B6%E1%8A%93%E1%89%B5-donut-%E1%8B%A8%E1%88%9A%E1%8B%AB%E1%88%B5%E1%8D%88%E1%88%8D%E1%8C%89%E1%8A%952-%E1%8B%A8%E1%88%BE%E1%88%AD%E1%89%A3-%E1%88%9B%E1%8A%95%E1%8A%AA%E1%8B%AB-%E1%8B%A8%E1%8C%88%E1%89%A0%E1%89%B3-%E1%89%85%E1%89%A412-%E1%8A%A9%E1%89%A3%E1%8B%AB-64-%E1%8C%8D%E1%88%AB%E1%88%9D%E1%8A%90%E1%8C%AD-%E1%88%B5%E1%8A%B3%E1%88%AD-2-%E1%8A%A5%E1%8A%95%E1%89%81%E1%88%8B%E1%88%8D-%E1%8B%A8%E1%89%B0%E1%88%98%E1%89%B3-2-%E1%8A%A9%E1%89%A3%E1%8B%AB-256-/2767667113517050/",
+      "titulo": "ዶናት ( Donut 🍩) የሚያስፈልጉን •2 የሾርባ ማንኪያ ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSG5xPlpSxTr_J2XHevQ8oYNMRolNffdKFVnw&s",
+      "original": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=2767667013517060"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/donut/am/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYZPp8NtikcuyTWATAboln13Hm0AwxRYUhsw&s",
+      "fuentePagina": "https://www.youtube.com/watch?v=0VBKpjNCpZ8",
+      "titulo": "ዶናት አሰራር How to make donuts Home made donuts Soft and fluffy",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYZPp8NtikcuyTWATAboln13Hm0AwxRYUhsw&s",
+      "original": "https://i.ytimg.com/vi/0VBKpjNCpZ8/hqdefault.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/donut/am/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-Kn-qTOI3vxlO0liT0GZCi83DlNesZ7yXTQ&s",
+      "fuentePagina": "https://www.youtube.com/watch?v=fuh3zIYcMMs",
+      "titulo": "ዶናት አሰራር // ለመስራት ቀላል የሚጣፍጥ // ያለ ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-Kn-qTOI3vxlO0liT0GZCi83DlNesZ7yXTQ&s",
+      "original": "https://i.ytimg.com/vi/fuh3zIYcMMs/mqdefault.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/donut/am/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMoXYjSNMHpjQ14CgNP7s6st-DNOtJDiRDGA&s",
+      "fuentePagina": "https://www.youtube.com/watch?v=z6xa2r6tuWM",
+      "titulo": "ዶናት አሰራር Easy Homemade Donut Recipe. ||Ethiopian Food|| donut recipe tasty  | Donut mukbang |Donut",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMoXYjSNMHpjQ14CgNP7s6st-DNOtJDiRDGA&s",
+      "original": "https://i.ytimg.com/vi/z6xa2r6tuWM/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLCXLTYOsVMgWNrkWuYzyeuVDifrcA"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/donut/am/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHni2eu_nEEbmRyMBeRoZXmVRMjk4NWJSH_g&s",
+      "fuentePagina": "https://am.sewasew.com/p/%E1%8B%B6%E1%8A%93%E1%89%B5-%E1%8A%A0%E1%88%A0%E1%88%AB%E1%88%AD",
+      "titulo": "ሰዋስው | ዶናት አሠራር",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHni2eu_nEEbmRyMBeRoZXmVRMjk4NWJSH_g&s",
+      "original": "https://img.sewasew.com/definitions/9d3beea5284d49249d224c1b0a670772_640_312"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/donut/am/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRh7Tx7FzwlGlAQEZL_L4fTtya3zRq0EsBYkQ&s",
+      "fuentePagina": "https://www.pinterest.com/pin/how-to-make-bombolino-donuts-recipe-ethiopian-food-youtube--584482857877149092/",
+      "titulo": "የቦምቦሊኖ/የዶናት አሰራር / ዶናት አሰራር / How to ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRh7Tx7FzwlGlAQEZL_L4fTtya3zRq0EsBYkQ&s",
+      "original": "https://i.pinimg.com/564x/7f/68/b1/7f68b1e6f93ed32efd568f50086aff71.jpg"
+    }
+  ]
+}

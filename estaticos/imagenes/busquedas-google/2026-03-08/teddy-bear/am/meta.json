@@ -1,0 +1,71 @@
+{
+  "categoria": "teddy bear",
+  "categoriaSlug": "teddy-bear",
+  "idioma": "am",
+  "nombreIdioma": "Amharic — አማርኛ",
+  "termino": "ፍቅር ድብ",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:31:05.849Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "am",
+    "gl": "et"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=%E1%8D%8D%E1%89%85%E1%88%AD%20%E1%8B%B5%E1%89%A5&hl=am&gl=et",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/teddy-bear/am/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8hxkkzd_n-hkXpVrxwJdr4A02CQPgE5Jimg&s",
+      "fuentePagina": "https://www.qroundtoy.com/am/Large-Plush-Stuffed-Soft-Love-Teddy-Bear-Toy-Doll-Gift-Cushion-pd520136858.html",
+      "titulo": "ትልቅ ፕላስ የተሞላ ለስላሳ ፍቅር ቴዲ ድብ ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8hxkkzd_n-hkXpVrxwJdr4A02CQPgE5Jimg&s",
+      "original": "https://iqrorwxhqjollq5p-static.micyjz.com/cloud/lrBpiKorlkSRpkmijmjjiq/1.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/teddy-bear/am/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBd5ead3peLBG4ZLu8I80XX8FjjrGWvfgy6w&s",
+      "fuentePagina": "https://www.qroundtoy.com/am/Large-Plush-Stuffed-Soft-Love-Teddy-Bear-Toy-Doll-Gift-Cushion-pd520136858.html",
+      "titulo": "ትልቅ ፕላስ የተሞላ ለስላሳ ፍቅር ቴዲ ድብ ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBd5ead3peLBG4ZLu8I80XX8FjjrGWvfgy6w&s",
+      "original": "https://iqrorwxhqjollq5p-static.micyjz.com/cloud/llBpiKorlkSRpkmijmojiq/4.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/teddy-bear/am/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJlv0j0KcqiPVsrJ26tQztcFTKeVyoMrn74Q&s",
+      "fuentePagina": "http://am.yztdctoygifts.com/teddy_bear/love-teddy-bear/",
+      "titulo": "ተከታታይ ፍቅር ቴዲ",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJlv0j0KcqiPVsrJ26tQztcFTKeVyoMrn74Q&s",
+      "original": "https://cdn.globalso.com/yztdctoygifts/LTB-01.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/teddy-bear/am/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrzFVmgsIK4VwFJKZNF3INpOAnguBOrDDLTQ&s",
+      "fuentePagina": "http://am.yztdctoygifts.com/teddy_bear/love-teddy-bear/",
+      "titulo": "ተከታታይ ፍቅር ቴዲ",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrzFVmgsIK4VwFJKZNF3INpOAnguBOrDDLTQ&s",
+      "original": "https://cdn.globalso.com/yztdctoygifts/LTB-02.jpg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/teddy-bear/am/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrkabucJd3LTyIoBoLgU5lt345h0Q9SwLZ8A&s",
+      "fuentePagina": "https://www.qroundtoy.com/am/Large-Plush-Stuffed-Soft-Love-Teddy-Bear-Toy-Doll-Gift-Cushion-pd520136858.html",
+      "titulo": "ትልቅ ፕላስ የተሞላ ለስላሳ ፍቅር ቴዲ ድብ ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrkabucJd3LTyIoBoLgU5lt345h0Q9SwLZ8A&s",
+      "original": "https://iqrorwxhqjollq5p-static.micyjz.com/cloud/ljBpiKorlkSRpkmijmljiq/3.jpg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/teddy-bear/am/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFgpBBKEsQS0m7JeR7hyRGc5hZDi5EEoI4ug&s",
+      "fuentePagina": "https://www.customstuffedtoy.com/am/custom-cute-new-love-bear-plush-toy-size-customization-suitable-for-girls-valentine-s-day-gift-product/",
+      "titulo": "ብጁ ቆንጆ አዲስ የፍቅር ድብ ፕላሽ የአሻንጉሊት ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFgpBBKEsQS0m7JeR7hyRGc5hZDi5EEoI4ug&s",
+      "original": "https://ecdn6.globalso.com/upload/p/604/image_product/2024-05/custom-cute-new-love-bear-plush-toy-size-customization-suitable-for-girls-valentine-s-day-gift.jpg"
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "categoria": "car",
+  "categoriaSlug": "car",
+  "idioma": "fr",
+  "nombreIdioma": "Français",
+  "termino": "voiture",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T20:41:50.159Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "fr",
+    "gl": "be"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=voiture&hl=fr&gl=be",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/car/fr/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTusD5paaQNCVvJP1L22XYAIThxaj-FCgkBmw&s",
+      "fuentePagina": "https://www.caradisiac.com/les-voitures-neuves-deviennent-encore-plus-cheres-et-ce-n-est-pas-une-surprise-204388.htm",
+      "titulo": "Les voitures neuves deviennent encore plus chères (et ce n ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTusD5paaQNCVvJP1L22XYAIThxaj-FCgkBmw&s",
+      "original": "https://images.caradisiac.com/logos/8/9/1/4/278914/S0-les-voitures-neuves-deviennent-encore-plus-cheres-et-ce-n-est-pas-une-surprise-204388.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/car/fr/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQl7bc-uDygijdj73wNLQyW73XABcVjJwVatg&s",
+      "fuentePagina": "https://www.index-assurance.fr/top-100-des-voitures-les-plus-vendues-en-france-en-2022-13586.html",
+      "titulo": "Top 100 des voitures les plus vendues en France en 2022 ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQl7bc-uDygijdj73wNLQyW73XABcVjJwVatg&s",
+      "original": "https://www.index-assurance.fr/fichiers/images/peugeot-208-allure.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/car/fr/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-oJuEZjf-Ch-sZfRwK1sqoQdRb-S2C5oG8w&s",
+      "fuentePagina": "https://www.leparisien.fr/automobile/la-voiture-n-a-jamais-coute-aussi-cher-13-04-2016-5711309.php",
+      "titulo": "La voiture n'a jamais coûté aussi cher - Le Parisien",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-oJuEZjf-Ch-sZfRwK1sqoQdRb-S2C5oG8w&s",
+      "original": "https://www.leparisien.fr/resizer/Y775f-YIsgc3gPz1N9CWVBKtkXI=/1280x800/arc-anglerfish-eu-central-1-prod-leparisien.s3.amazonaws.com/public/R6XIXECAMQIZHIOYVS75DQYZOM.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/car/fr/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSleE1OVxX8yFLkr9zLE8LXTyToZQHMAfO2ww&s",
+      "fuentePagina": "https://www.moniteurautomobile.be/actu-auto/marche/bmw-ix1-vs-dacia-sanaero.html",
+      "titulo": "La voiture la plus vendue en Belgique est une BMW | Moniteur ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSleE1OVxX8yFLkr9zLE8LXTyToZQHMAfO2ww&s",
+      "original": "https://static.moniteurautomobile.be/imgcontrol/images_tmp/clients/moniteur/c680-d465/content/medias/images/news/43000/600/40/bmw-ix1.jpg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/car/fr/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0jf59YF5sowmjlrZzg7xHSjkGHppKq0e_fg&s",
+      "fuentePagina": "https://www.gqmagazine.fr/article/voitures-les-plus-stylees-a-prix-raisonnable",
+      "titulo": "Les 7 voitures les plus stylées à un prix raisonnable pour ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0jf59YF5sowmjlrZzg7xHSjkGHppKq0e_fg&s",
+      "original": "https://media.gqmagazine.fr/photos/670797760823415bd5167d97/16:9/w_2560%2Cc_limit/Voiture%2520style%25CC%2581.jpg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/car/fr/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnW4S6kr_ax3rS1ImeGuh5p6H3Lw92Xielkw&s",
+      "fuentePagina": "https://www.largus.fr/actualite-automobile/voitures-neuves-ou-d-occasion-pourquoi-faut-il-acheter-maintenant-30037364.html",
+      "titulo": "Voitures neuves ou d'occasion : pourquoi faut-il acheter ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnW4S6kr_ax3rS1ImeGuh5p6H3Lw92Xielkw&s",
+      "original": "https://www.largus.fr/images/styles/max_1300x1300/public/2024-11/Renault-Scenic-E-Tech-vs-Peugeot-e-3008-AC-2024-027-bis-bd_14.jpg?itok=wXn7yYfs"
+    }
+  ]
+}

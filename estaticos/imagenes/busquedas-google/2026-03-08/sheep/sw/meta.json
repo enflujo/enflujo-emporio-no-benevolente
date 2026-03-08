@@ -1,0 +1,71 @@
+{
+  "categoria": "sheep",
+  "categoriaSlug": "sheep",
+  "idioma": "sw",
+  "nombreIdioma": "Kiswahili",
+  "termino": "kondoo",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T20:52:16.713Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "sw",
+    "gl": "tz"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=kondoo&hl=sw&gl=tz",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/sheep/sw/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvwUXdVQT7MtjkSKZXI6oTTF1gERBqAta8kg&s",
+      "fuentePagina": "https://www.bbc.com/swahili/habari-41911239",
+      "titulo": "Kondoo si wapumbavu sana, utafiti wabaini - BBC News Swahili",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvwUXdVQT7MtjkSKZXI6oTTF1gERBqAta8kg&s",
+      "original": "http://c.files.bbci.co.uk/081B/production/_98657020_c0042087-black_faced_sheep-spl.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/sheep/sw/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTf82I9uN-uMEQ4Obl8iZ94sploYYKDshuYvQ&s",
+      "fuentePagina": "https://sw.wikipedia.org/wiki/Kondoo-kaya",
+      "titulo": "Kondoo-kaya - Wikipedia, kamusi elezo huru",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTf82I9uN-uMEQ4Obl8iZ94sploYYKDshuYvQ&s",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Black_sheep-1.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/sheep/sw/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0t_SF_0MOUGVxrc4xhRv7N3dM1JnCP4UpIQ&s",
+      "fuentePagina": "https://mkulimambunifu.org/mifugo/boresha-kundi-lako-la-kondoo-kwa-kuzalisha-chotara-2/",
+      "titulo": "Boresha kundi lako la kondoo kwa kuzalisha chotara – Mkulima ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0t_SF_0MOUGVxrc4xhRv7N3dM1JnCP4UpIQ&s",
+      "original": "https://mkulimambunifu.org/wp-content/uploads/2025/02/dorper.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/sheep/sw/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTxRxdnA4lrSEkiVA7xaL1Lykk7WkSPlx_oQ&s",
+      "fuentePagina": "https://taifaleo.nation.co.ke/makala/ufugaji-kondoo-aina-ya-dorper-unavyompa-hela-kibao/",
+      "titulo": "Ufugaji kondoo aina ya Dorper unavyompa hela kibao – Taifa Leo",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTxRxdnA4lrSEkiVA7xaL1Lykk7WkSPlx_oQ&s",
+      "original": "https://d1qw3p19ag2ajj.cloudfront.net/uploads/2024/09/Kondoo-aina-ya-Dorper.jpg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/sheep/sw/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSb5i-KBhUUmJNzZjQU4riyYOUTLbfAaBgnvA&s",
+      "fuentePagina": "https://www.taliri.go.tz/pages/sheep",
+      "titulo": "TALIRI | Kondoo",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSb5i-KBhUUmJNzZjQU4riyYOUTLbfAaBgnvA&s",
+      "original": "http://demo81.eganet.go.tz/taliri/uploads/text-editor/images/sheep_1706519782.jpeg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/sheep/sw/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvSULABAG8QFHsUAVqsQMaMjph-Y5dDuwHhA&s",
+      "fuentePagina": "https://www.instagram.com/p/CVDWoxBql2t/",
+      "titulo": "NGUVU YA KONDOO KWENYE TIBA. Kondoo ni mnyama mwenye heshima ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvSULABAG8QFHsUAVqsQMaMjph-Y5dDuwHhA&s",
+      "original": "https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=2685089361286553005"
+    }
+  ]
+}

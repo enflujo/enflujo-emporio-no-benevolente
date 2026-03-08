@@ -1,0 +1,71 @@
+{
+  "categoria": "vase",
+  "categoriaSlug": "vase",
+  "idioma": "am",
+  "nombreIdioma": "Amharic — አማርኛ",
+  "termino": "አበባ ማስቀመጫ",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:29:41.045Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "am",
+    "gl": "et"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=%E1%8A%A0%E1%89%A0%E1%89%A3%20%E1%88%9B%E1%88%B5%E1%89%80%E1%88%98%E1%8C%AB&hl=am&gl=et",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/vase/am/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4ZWBsXEWb6JE-glw47S0QG1LahOXIQXFHOg&s",
+      "fuentePagina": "https://www.facebook.com/hasesacrafts/posts/%E1%8B%A8%E1%8C%A0%E1%88%A8%E1%8C%B4%E1%8B%9B-%E1%8A%A0%E1%89%A0%E1%89%A3-%E1%88%9B%E1%88%B5%E1%89%80%E1%88%98%E1%8C%ABflower-vases-for-office-and-home-decor%E1%89%A2%E1%88%AE%E1%8A%95%E1%8A%93-%E1%88%B3%E1%88%8E%E1%8A%95%E1%8A%95-%E1%88%88%E1%88%9B%E1%8B%B5%E1%88%98%E1%89%85price-etb-45/120352616484412/",
+      "titulo": "የጠረጴዛ አበባ ማስቀመጫ Flower vases for office and ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4ZWBsXEWb6JE-glw47S0QG1LahOXIQXFHOg&s",
+      "original": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=120352536484420"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/vase/am/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSs5V6Dp7103x8M_0WYHdyjmf5eVzr1zI9l5Q&s",
+      "fuentePagina": "https://www.facebook.com/100064103951557/posts/%E1%8B%A8-%E1%8A%A0%E1%89%A0%E1%89%A3-%E1%88%9B%E1%88%B5%E1%89%80%E1%88%98%E1%8C%AB-%E1%8A%A5%E1%8A%95%E1%8B%B2%E1%88%81%E1%88%9D-%E1%8A%A0%E1%89%A0%E1%89%A3/141413054027157/",
+      "titulo": "የ አበባ ማስቀመጫ እንዲሁም አበባ",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSs5V6Dp7103x8M_0WYHdyjmf5eVzr1zI9l5Q&s",
+      "original": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=141413014027161"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/vase/am/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBoMQN3kSy2hea8v7ytQPRjkLzxPmto118_g&s",
+      "fuentePagina": "https://www.facebook.com/zolafurniture/posts/%E1%8A%A0%E1%89%A0%E1%89%A3-%E1%88%9B%E1%88%B5%E1%89%80%E1%88%98%E1%8C%AB-%E1%8A%A8%E1%8D%88%E1%88%88%E1%8C%89-%E1%8B%B0%E1%8B%89%E1%88%89-0913091922/672684563152665/",
+      "titulo": "አበባ ማስቀመጫ ከፈለጉ ደዉሉ 0913091922",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBoMQN3kSy2hea8v7ytQPRjkLzxPmto118_g&s",
+      "original": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=672684266486028"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/vase/am/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-uZIxujCsFb3qGzTg8-ojD5ecutEiDT08Mw&s",
+      "fuentePagina": "https://www.facebook.com/zolafurniture/posts/%E1%8A%A0%E1%89%A0%E1%89%A3-%E1%88%9B%E1%88%B5%E1%89%80%E1%88%98%E1%8C%AB-0913091922-%E1%8B%B0%E1%8B%89%E1%88%89/864253370662449/",
+      "titulo": "አበባ ማስቀመጫ 0913091922 ደዉሉ",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-uZIxujCsFb3qGzTg8-ojD5ecutEiDT08Mw&s",
+      "original": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=864253343995785"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/vase/am/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQoEdC-n52Qo5OhVjhdicoFldR2rQjTpMFgdQ&s",
+      "fuentePagina": "https://www.facebook.com/hasesacrafts/posts/%E1%8B%A8%E1%8C%A0%E1%88%A8%E1%8C%B4%E1%8B%9B-%E1%8A%A0%E1%89%A0%E1%89%A3-%E1%88%9B%E1%88%B5%E1%89%80%E1%88%98%E1%8C%ABflower-vases-for-office-and-home-decor%E1%89%A2%E1%88%AE%E1%8A%95%E1%8A%93-%E1%88%B3%E1%88%8E%E1%8A%95%E1%8A%95-%E1%88%88%E1%88%9B%E1%8B%B5%E1%88%98%E1%89%85price-etb-45/120352616484412/",
+      "titulo": "የጠረጴዛ አበባ ማስቀመጫ Flower vases for office and ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQoEdC-n52Qo5OhVjhdicoFldR2rQjTpMFgdQ&s",
+      "original": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=120352543151086"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/vase/am/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcReRziZIIAEZ3LQR0UOdwR3__C3ds66OP7s9A&s",
+      "fuentePagina": "https://am.jiweiceramic.com/high-quality-home-decoration-ceramic-planter-vase-product/",
+      "titulo": "የቻይና ከፍተኛ ጥራት ያለው የቤት ማስጌጫ ሴራሚክ ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcReRziZIIAEZ3LQR0UOdwR3__C3ds66OP7s9A&s",
+      "original": "https://cdn.globalso.com/jiweiceramic/230.jpg"
+    }
+  ]
+}

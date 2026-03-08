@@ -1,0 +1,71 @@
+{
+  "categoria": "kite",
+  "categoriaSlug": "kite",
+  "idioma": "qu",
+  "nombreIdioma": "Quechua",
+  "termino": "wayra wawa",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:02:21.132Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "es",
+    "gl": "pe"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=wayra%20wawa&hl=es&gl=pe",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/kite/qu/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbH6sGQNHIcxY_czmc5HHRhHp9WaESvt-7ag&s",
+      "fuentePagina": "https://www.facebook.com/wayra.wawa/",
+      "titulo": "WAYRA WAWA (@wayra.wawa) • Facebook",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbH6sGQNHIcxY_czmc5HHRhHp9WaESvt-7ag&s",
+      "original": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=100063708002148"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/kite/qu/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpV_4LxZXvrSnoGr3XpNRi8k2yeLtzat0KBw&s",
+      "fuentePagina": "https://www.facebook.com/wayra.wawa/",
+      "titulo": "WAYRA WAWA (@wayra.wawa) • Facebook",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpV_4LxZXvrSnoGr3XpNRi8k2yeLtzat0KBw&s",
+      "original": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=503522068448056"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/kite/qu/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6fzHHFUOA6HZInLEaq5GYXREYGt-e0Qb53Q&s",
+      "fuentePagina": "https://www.facebook.com/wawawayra/",
+      "titulo": "Wawa Wayra Elenco Infantil (@wawawayra) • Facebook",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6fzHHFUOA6HZInLEaq5GYXREYGt-e0Qb53Q&s",
+      "original": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=100063786540885"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/kite/qu/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5cKTEDZlLDkcNqF-Cak6jSde5gPeJmU9N0Q&s",
+      "fuentePagina": "https://m.facebook.com/wayra.wawa/photos/d41d8cd9/962120579254867/",
+      "titulo": "WAYRA WAWA - WAYRA WAWA added a new photo.",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5cKTEDZlLDkcNqF-Cak6jSde5gPeJmU9N0Q&s",
+      "original": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=962120579254867"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/kite/qu/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJlSoKV-d510mI36qXxATGhfgdPFSvWuvNRA&s",
+      "fuentePagina": "https://www.facebook.com/gdhperu/posts/wayra/5845314195550559/",
+      "titulo": "WAYRA",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJlSoKV-d510mI36qXxATGhfgdPFSvWuvNRA&s",
+      "original": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=1012477209679258"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/kite/qu/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqeWxROQdJND4asE2qTm86KqCW_QW1MvbCzw&s",
+      "fuentePagina": "https://m.facebook.com/wayra.wawa/photos/a.106374341325398/237770884852409/?type=3",
+      "titulo": "WAYRA WAWA - WAYRA WAWA added a new photo.",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqeWxROQdJND4asE2qTm86KqCW_QW1MvbCzw&s",
+      "original": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=237770884852409"
+    }
+  ]
+}

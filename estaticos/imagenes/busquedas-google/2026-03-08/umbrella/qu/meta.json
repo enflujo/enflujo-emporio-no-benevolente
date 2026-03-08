@@ -1,0 +1,71 @@
+{
+  "categoria": "umbrella",
+  "categoriaSlug": "umbrella",
+  "idioma": "qu",
+  "nombreIdioma": "Quechua",
+  "termino": "p'acha",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T20:57:12.879Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "es",
+    "gl": "pe"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=p'acha&hl=es&gl=pe",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/umbrella/qu/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTn8lb7wOjvFrMznNFjeqG1RTXV0KNdy2Y7Lg&s",
+      "fuentePagina": "https://www.facebook.com/pachayaccesorios/",
+      "titulo": "P'acha ropa & accesorios (@pachayaccesorios) • Facebook",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTn8lb7wOjvFrMznNFjeqG1RTXV0KNdy2Y7Lg&s",
+      "original": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=100063568151054"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/umbrella/qu/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOv3MbN1ftSztLIp8rXkLqk1RAvpegU8zkEw&s",
+      "fuentePagina": "https://www.facebook.com/iheartpacha/",
+      "titulo": "P'acha (@iheartpacha) • Facebook",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOv3MbN1ftSztLIp8rXkLqk1RAvpegU8zkEw&s",
+      "original": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=100069713575298"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/umbrella/qu/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTz9998OEMfmvf1a2iHDV2kN_AmDWd5J0xXPg&s",
+      "fuentePagina": "https://www.facebook.com/p/Pacha-100070812978700/",
+      "titulo": "P'acha",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTz9998OEMfmvf1a2iHDV2kN_AmDWd5J0xXPg&s",
+      "original": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=100070812978700"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/umbrella/qu/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtFH8xgJzZwc4JNgr5Cu0OEFo3nAZlUtL8-g&s",
+      "fuentePagina": "https://www.facebook.com/mosqoy/photos/the-quechua-word-of-the-week-is-pacha-which-means-clothing-la-palabra-quechua-de/10163653979835533/?locale=ms_MY",
+      "titulo": "Mosqoy - The Quechua word of the week is P'ACHA, which means ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtFH8xgJzZwc4JNgr5Cu0OEFo3nAZlUtL8-g&s",
+      "original": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=10163653979835533"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/umbrella/qu/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJLAoAr4G4jRLZZ0-t7T4riyiKN8F6JG4h5Q&s",
+      "fuentePagina": "https://www.mercadolibre.com.pe/perfume-sexy-para-mujer-p-acha-ibiza-80-ml/p/MPE30938926",
+      "titulo": "Perfume sexy para mujer P Acha Ibiza 80 ml | MercadoLibre",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJLAoAr4G4jRLZZ0-t7T4riyiKN8F6JG4h5Q&s",
+      "original": "https://http2.mlstatic.com/D_NQ_NP_625815-MLU74180355922_012024-O.webp"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/umbrella/qu/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdjmP4uu98gz2PsUc0V6mNh1eN3xN7wWiR1g&s",
+      "fuentePagina": "https://www.facebook.com/p/Pacha-Moda-100064077581563/",
+      "titulo": "P'acha Moda",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdjmP4uu98gz2PsUc0V6mNh1eN3xN7wWiR1g&s",
+      "original": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=100064077581563"
+    }
+  ]
+}

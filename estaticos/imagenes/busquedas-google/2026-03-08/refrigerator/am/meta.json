@@ -1,0 +1,71 @@
+{
+  "categoria": "refrigerator",
+  "categoriaSlug": "refrigerator",
+  "idioma": "am",
+  "nombreIdioma": "Amharic — አማርኛ",
+  "termino": "ፍሪጅ",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:27:38.181Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "am",
+    "gl": "et"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=%E1%8D%8D%E1%88%AA%E1%8C%85&hl=am&gl=et",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/refrigerator/am/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQR6jgmNRHe4O-Ep4EYtOAz8ktr29cEzSRy5w&s",
+      "fuentePagina": "http://am.fridge-aircon.com/108l-low-noise-top-mounted-home-use-two-door-small-fridge-freezer-price-product/",
+      "titulo": "ቻይና 108ኤል ዝቅተኛ ጫጫታ ከላይ የተገጠመ የቤት ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQR6jgmNRHe4O-Ep4EYtOAz8ktr29cEzSRy5w&s",
+      "original": "http://cdn.globalso.com/fridge-aircon/two-door-fridge.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/refrigerator/am/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRoy9rik970xsVXz2x7JMkKeKQE7zptuRKEg&s",
+      "fuentePagina": "http://am.fridge-aircon.com/108l-low-noise-top-mounted-home-use-two-door-small-fridge-freezer-price-product/",
+      "titulo": "ቻይና 108ኤል ዝቅተኛ ጫጫታ ከላይ የተገጠመ የቤት ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRoy9rik970xsVXz2x7JMkKeKQE7zptuRKEg&s",
+      "original": "http://cdn.globalso.com/fridge-aircon/small-fridge-price.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/refrigerator/am/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqufu_eh_lZ07kQN8u9LywXGIMYrE0h5evgw&s",
+      "fuentePagina": "https://www.facebook.com/photo.php?fbid=439999542159857&set=a.276738675152612&id=100084494439858",
+      "titulo": "Orbit - በተመጣጠነ ዋጋ ከትንሽ እስከ ትልቅ በፈለጉት ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqufu_eh_lZ07kQN8u9LywXGIMYrE0h5evgw&s",
+      "original": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=439999542159857"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/refrigerator/am/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6e_2XFj_ZjYBaQUigBpRVjChDQG8JTB3GPQ&s",
+      "fuentePagina": "http://am.fridge-aircon.com/108l-low-noise-top-mounted-home-use-two-door-small-fridge-freezer-price-product/",
+      "titulo": "ቻይና 108ኤል ዝቅተኛ ጫጫታ ከላይ የተገጠመ የቤት ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6e_2XFj_ZjYBaQUigBpRVjChDQG8JTB3GPQ&s",
+      "original": "http://cdn.globalso.com/fridge-aircon/small-fridge-freezer.jpg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/refrigerator/am/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSi4fpenzU-c2ebZOZ0QETe_B01izjOg-5_bA&s",
+      "fuentePagina": "https://soderestore.com/SAMSUNG-Refrigerator-%E1%88%B3%E1%88%9D%E1%88%B0%E1%8A%95%E1%8C%8D-%E1%8D%8D%E1%88%AA%E1%8C%85-p426384753",
+      "titulo": "SAMSUNG Refrigerator ሳምሰንግ ፍሪጅ",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSi4fpenzU-c2ebZOZ0QETe_B01izjOg-5_bA&s",
+      "original": "https://d2j6dbq0eux0bg.cloudfront.net/images/16648100/2799133274.jpg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/refrigerator/am/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQoI3ayffQvLOrfhsNtzrveta7Rx6SpQNIN4g&s",
+      "fuentePagina": "https://www.youtube.com/watch?v=T8rHs0s_6wk",
+      "titulo": "የዘመናዊ ፍሪጅ ዋጋ በኢትዮጵያ 2015 | Refrigerator price in Ethiopia | business |  Gebeya",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQoI3ayffQvLOrfhsNtzrveta7Rx6SpQNIN4g&s",
+      "original": "https://i.ytimg.com/vi/T8rHs0s_6wk/sddefault.jpg"
+    }
+  ]
+}

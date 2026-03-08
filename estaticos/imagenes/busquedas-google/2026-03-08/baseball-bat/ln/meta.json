@@ -1,0 +1,71 @@
+{
+  "categoria": "baseball bat",
+  "categoriaSlug": "baseball-bat",
+  "idioma": "ln",
+  "nombreIdioma": "Lingala",
+  "termino": "bate ya baseball",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:02:35.717Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "fr",
+    "gl": "cd"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=bate%20ya%20baseball&hl=fr&gl=cd",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/baseball-bat/ln/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3Rkq4f-UP3ikxBcdy66B0xSIaWWJxdT2igg&s",
+      "fuentePagina": "https://fr.wikipedia.org/wiki/Batte_de_baseball",
+      "titulo": "Batte de baseball — Wikipédia",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3Rkq4f-UP3ikxBcdy66B0xSIaWWJxdT2igg&s",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/3/30/Fourbats.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/baseball-bat/ln/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2JFKlssEWljtqEIXrXweku43yeAqydN0oWQ&s",
+      "fuentePagina": "https://www.amazon.fr/Player-Sports-Goods-baseball-softball/dp/B0CRRXF2ZY",
+      "titulo": "Player Sports Goods LLC Batte de baseball et softball plate ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2JFKlssEWljtqEIXrXweku43yeAqydN0oWQ&s",
+      "original": "https://m.media-amazon.com/images/I/71NyB3VQlWL.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/baseball-bat/ln/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXUc-CIfQgr4jQ1tM5N4ynYT24ilryx6sl_w&s",
+      "fuentePagina": "https://www.grandchelem.ca/fr/bate-de-baseball-pour-jeunes-easton-hype-fire-10-u.html?srsltid=AfmBOoqTN5qAAy5QFI6JG6LT6grJyp9-OACJUzM3FHhgh59AAZNNqfcb",
+      "titulo": "BÂTE DE BASEBALL POUR JEUNES EASTON HYPE FIRE-10 USSSA ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXUc-CIfQgr4jQ1tM5N4ynYT24ilryx6sl_w&s",
+      "original": "https://cdn.shoplightspeed.com/shops/620090/files/72941022/650x750x2/easton-bate-de-baseball-pour-jeunes-hype-fire-10-u.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/baseball-bat/ln/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWh7qTXUg2eek7iwT2ooeBmOWs2_bB3VhFCg&s",
+      "fuentePagina": "https://baseball-shop.online/fr/5-battes",
+      "titulo": "Battes de baseball | Battes de softball",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWh7qTXUg2eek7iwT2ooeBmOWs2_bB3VhFCg&s",
+      "original": "https://baseball-shop.online/2601-home_default/baton-de-baseball-kr3-eagle-magnum-i13-34-3.jpg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/baseball-bat/ln/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCGVB4ijPAMdAcjD_1SbNz2bd4n0j6j4q_gQ&s",
+      "fuentePagina": "https://baseball-shop.online/fr/5-battes",
+      "titulo": "Battes de baseball | Battes de softball",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCGVB4ijPAMdAcjD_1SbNz2bd4n0j6j4q_gQ&s",
+      "original": "https://baseball-shop.online/2590-home_default/baton-de-baseball-kr3-maple-crossover-big-barel-32-4.jpg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/baseball-bat/ln/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqb4cJjA-X7nTEQi5gSmDHgPaTd0MxeKfKgA&s",
+      "fuentePagina": "https://sportlandamerican.com/fr/686-battes-de-baseball-15u?srsltid=AfmBOopcFnxjvopMzl_rIjrmX4PSDPr0p5RDaQek8eXuGzqiimuoyuev",
+      "titulo": "Batte de Baseball -15U en Aluminium",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqb4cJjA-X7nTEQi5gSmDHgPaTd0MxeKfKgA&s",
+      "original": "https://sportlandamerican.com/71709-home_large/batte-de-baseball-easton-hype-fire-5.jpg"
+    }
+  ]
+}

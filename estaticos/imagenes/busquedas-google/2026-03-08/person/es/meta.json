@@ -1,0 +1,71 @@
+{
+  "categoria": "person",
+  "categoriaSlug": "person",
+  "idioma": "es",
+  "nombreIdioma": "Español",
+  "termino": "persona",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T20:40:55.087Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "es",
+    "gl": "es"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=persona&hl=es&gl=es",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/person/es/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKljN3a_Pjo592RuIL8gF8WH7sAmC8uizguQ&s",
+      "fuentePagina": "https://www.freepik.es/fotos-vectores-gratis/persona-frontal",
+      "titulo": "Imágenes de Persona frontal - Descarga gratuita en Freepik",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKljN3a_Pjo592RuIL8gF8WH7sAmC8uizguQ&s",
+      "original": "https://img.freepik.com/foto-gratis/hombre-morena-sobre-fondo-blanco-aislado_1368-4404.jpg?semt=ais_rp_50_assets&w=740&q=80"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/person/es/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-Azr3yaHQLicVJ8sFNliszbJVE7fseYKn-w&s",
+      "fuentePagina": "https://concepto.de/persona-2/",
+      "titulo": "Persona - Qué es, etimología y distintas acepciones",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-Azr3yaHQLicVJ8sFNliszbJVE7fseYKn-w&s",
+      "original": "https://concepto.de/wp-content/uploads/2018/08/persona-e1533759204552.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/person/es/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyW1LFVLrTeSynKd6fZW2JFbbIwM3-jBJilg&s",
+      "fuentePagina": "https://www.freepik.es/fotos-vectores-gratis/persona",
+      "titulo": "Imágenes de Persona - Descarga gratuita en Freepik",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyW1LFVLrTeSynKd6fZW2JFbbIwM3-jBJilg&s",
+      "original": "https://img.freepik.com/foto-gratis/joven-hombre-barbudo-camisa-rayas_273609-5677.jpg?semt=ais_hybrid&w=740&q=80"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/person/es/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgqdKAyqPlKD17i881_HJwFFnJYFzdP45ADQ&s",
+      "fuentePagina": "https://www.ecured.cu/Persona",
+      "titulo": "Persona - EcuRed",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgqdKAyqPlKD17i881_HJwFFnJYFzdP45ADQ&s",
+      "original": "https://www.ecured.cu/images/2/27/SILUETA_PERSONA.jpg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/person/es/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWGfll0_920NrvwTZCFwarSAJRtXylDKrHKw&s",
+      "fuentePagina": "https://www.salesforce.com/mx/blog/persona/",
+      "titulo": "Persona: ¿qué es y cómo definir la tuya? | Salesforce",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWGfll0_920NrvwTZCFwarSAJRtXylDKrHKw&s",
+      "original": "https://www.salesforce.com/mx/blog/wp-content/uploads/sites/11/2024/06/AdobeStock_76817015.jpg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/person/es/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTI8ywOXi6VFptSSU43yVkTS87zOc6V0CGUqA&s",
+      "fuentePagina": "https://unsplash.com/es/s/fotos/retrato-de-persona",
+      "titulo": "Imágenes de Retrato De Persona | Descarga imágenes gratuitas ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTI8ywOXi6VFptSSU43yVkTS87zOc6V0CGUqA&s",
+      "original": "https://plus.unsplash.com/premium_photo-1688572454849-4348982edf7d?fm=jpg&q=60&w=3000&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8cmV0cmF0byUyMGRlJTIwcGVyc29uYXxlbnwwfHwwfHx8MA%3D%3D"
+    }
+  ]
+}

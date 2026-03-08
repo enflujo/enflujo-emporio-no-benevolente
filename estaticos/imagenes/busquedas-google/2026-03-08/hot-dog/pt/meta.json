@@ -1,0 +1,71 @@
+{
+  "categoria": "hot dog",
+  "categoriaSlug": "hot-dog",
+  "idioma": "pt",
+  "nombreIdioma": "Português",
+  "termino": "cachorro-quente",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:14:54.688Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "pt",
+    "gl": "br"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=cachorro-quente&hl=pt&gl=br",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/hot-dog/pt/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtAD9fWfqDVShBbxnWDFqv02nczbUPaG2HHg&s",
+      "fuentePagina": "https://www.tudogostoso.com.br/receita/119770-cachorro-quente-aprovadissimo.html",
+      "titulo": "Cachorro quente aprovadíssimo",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtAD9fWfqDVShBbxnWDFqv02nczbUPaG2HHg&s",
+      "original": "https://static.itdg.com.br/images/640-400/ac539e127fc4784c8606502714f3de96/357545-original.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/hot-dog/pt/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZevp5Fk0KvgtwwcDmoGYyWoo08HBiArLOCw&s",
+      "fuentePagina": "https://bomgourmet.com/bomgourmet/receitas-pratos/dia-do-cachorro-quente-3-formas-de-inovar-no-preparo-do-lanche/",
+      "titulo": "Dia do Cachorro-Quente: 3 formas de inovar no preparo do lanche",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZevp5Fk0KvgtwwcDmoGYyWoo08HBiArLOCw&s",
+      "original": "https://resize.casapino.com.br//?u=https://cms-bomgourmet.s3.amazonaws.com/bomgourmet/2025/09/09095012/hotdogdesktop.png&w=480"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/hot-dog/pt/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOHSdCnEsU7pDwmyZ22KfOf7m70onxBXp43g&s",
+      "fuentePagina": "https://www.receiteria.com.br/receitas-de-cachorro-quente/",
+      "titulo": "18 receitas fáceis de cachorro-quente para um lanche de sucesso",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOHSdCnEsU7pDwmyZ22KfOf7m70onxBXp43g&s",
+      "original": "https://www.receiteria.com.br/wp-content/uploads/hot-dog-classico-capa-730x480.jpeg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/hot-dog/pt/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9hcSSQKU2-Ty7LNb5q8dLz8vGv7sZRQ7XZw&s",
+      "fuentePagina": "https://www.sabornamesa.com.br/receitas-de-lanches/cachorro-quente-hot-dog-simples",
+      "titulo": "20 Receitas de Cachorro Quente (Hot Dog) & Preparos Mais Que  Impressionantes E Saborosos",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9hcSSQKU2-Ty7LNb5q8dLz8vGv7sZRQ7XZw&s",
+      "original": "https://www.sabornamesa.com.br/media/k2/items/cache/d91d2793afc1e2281971343ae9f4138f_L.jpg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/hot-dog/pt/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-YrQelX22JcQ6BIzVfzknKHOikrMM8-nl-w&s",
+      "fuentePagina": "https://alegrafoods.com.br/dia-do-cachorro-quente-receitas-com-carne-suina/",
+      "titulo": "Dia do Cachorro-quente: receitas com carne suína trazem ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-YrQelX22JcQ6BIzVfzknKHOikrMM8-nl-w&s",
+      "original": "https://alegrafoods.com.br/wp-content/uploads/2020/09/hot-dogs-pwy2hz8.jpg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/hot-dog/pt/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFrv3iGfwzvR7XaoKvgZhR42g6EwHzmrSP8A&s",
+      "fuentePagina": "https://receitas.folha.com.br/receita/232",
+      "titulo": "Cachorro-quente turbinado da General Prime Burger",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFrv3iGfwzvR7XaoKvgZhR42g6EwHzmrSP8A&s",
+      "original": "http://f.i.uol.com.br/folha/comida/images/10272699.jpeg"
+    }
+  ]
+}

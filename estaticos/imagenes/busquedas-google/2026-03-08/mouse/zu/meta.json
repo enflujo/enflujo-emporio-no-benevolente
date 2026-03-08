@@ -1,0 +1,71 @@
+{
+  "categoria": "mouse",
+  "categoriaSlug": "mouse",
+  "idioma": "zu",
+  "nombreIdioma": "isiZulu",
+  "termino": "imbiba",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:22:29.533Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "zu",
+    "gl": "za"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=imbiba&hl=zu&gl=za",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/mouse/zu/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPDL3xwdBCal_JnVz6YDXGuXIYttfpU5pTvg&s",
+      "fuentePagina": "https://www.facebook.com/groups/523396435442256/posts/1015160116265883/",
+      "titulo": "This is Imbiba and it's far from being a rat or mouse. I ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPDL3xwdBCal_JnVz6YDXGuXIYttfpU5pTvg&s",
+      "original": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=265425336466994"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/mouse/zu/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXnyWDpV-Ld-ujC3q0C9f2TlRbKygoZ3-qcg&s",
+      "fuentePagina": "https://x.com/Sjava_atm/status/1504082089112748036",
+      "titulo": "Post by Sjava indlalifa on X: Imbiba",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXnyWDpV-Ld-ujC3q0C9f2TlRbKygoZ3-qcg&s",
+      "original": "https://pbs.twimg.com/media/FN96A_pXsAEIv5C.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/mouse/zu/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzeQh1YvoSsKAXpaVeOHgaTwCxvQCUe6NXXg&s",
+      "fuentePagina": "https://x.com/_SimphiweM44/status/1612064293800771586",
+      "titulo": "Post by SIMPHIWE'M on X: Imbiba",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzeQh1YvoSsKAXpaVeOHgaTwCxvQCUe6NXXg&s",
+      "original": "https://pbs.twimg.com/media/Fl36IybX0AQTnm2.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/mouse/zu/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5iiVuZJ0AxtwXVh-pOr-VuBAgOFY_XZ-IFQ&s",
+      "fuentePagina": "https://open.spotify.com/track/3IMuSO4WyKy0Q0epwbD4Ie",
+      "titulo": "Imbiba - song and lyrics by Chilli Bite, Thokozani Langa ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5iiVuZJ0AxtwXVh-pOr-VuBAgOFY_XZ-IFQ&s",
+      "original": "https://i.scdn.co/image/ab67616d0000b273ca89f69e6b5844de2a01e9ce"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/mouse/zu/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzqHHGYSwD_CTOMXbTp25gDOWxg6Wg63xdpQ&s",
+      "fuentePagina": "https://www.facebook.com/IzibongoZamakhosiAkwazulu/posts/ukubika-imbibaubike-ibuzi/1365064195647274/",
+      "titulo": "Ukubika iMbiba,ubike iBuzi",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzqHHGYSwD_CTOMXbTp25gDOWxg6Wg63xdpQ&s",
+      "original": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=1642445483850679"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/mouse/zu/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTyRCpTGmEUifl_RHDaYjpbEGGZoqachEckQ&s",
+      "fuentePagina": "https://bulawayo24.com/index-id-opinion-sc-columnist-byo-117492.html",
+      "titulo": "Ngunis eat imbiba too - Bulawayo24 News",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTyRCpTGmEUifl_RHDaYjpbEGGZoqachEckQ&s",
+      "original": "https://img.bulawayo24.com/articles/imbiba.jpg"
+    }
+  ]
+}

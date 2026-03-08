@@ -1,0 +1,71 @@
+{
+  "categoria": "dog",
+  "categoriaSlug": "dog",
+  "idioma": "rw",
+  "nombreIdioma": "Kinyarwanda",
+  "termino": "imbwa",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T20:50:58.553Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "en",
+    "gl": "rw"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=imbwa&hl=en&gl=rw",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/dog/rw/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSHPKIgMXO7ElI4QpuMmNAuqMA-1u5BQ2kkw&s",
+      "fuentePagina": "https://www.kigalitoday.com/umutekano/imbere-mu-gihugu/article/nyanza-imbwa-zitagira-ba-nyirazo-zigomba-kwicwa-njyanama",
+      "titulo": "Nyanza: Imbwa zitagira ba nyirazo zigomba kwicwa –Njyanama ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSHPKIgMXO7ElI4QpuMmNAuqMA-1u5BQ2kkw&s",
+      "original": "https://www.kigalitoday.com/IMG/jpg/imbwa-3.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/dog/rw/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSt6ufOJeGYB3eStwtTijjo4-YVNjS5qWo49w&s",
+      "fuentePagina": "https://imvahonshya.co.rw/sobanukirwa-inama-ugirwa-igihe-warumwe-nimbwa/",
+      "titulo": "Sobanukirwa inama ugirwa igihe warumwe n'imbwa ImvahoNshya",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSt6ufOJeGYB3eStwtTijjo4-YVNjS5qWo49w&s",
+      "original": "https://imvahonshya.co.rw/wp-content/uploads/2024/02/imbwa_iryana.webp"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/dog/rw/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYMyMLMFqDWMmuXrhpsCU0bodJRpXPmX8JUQ&s",
+      "fuentePagina": "https://www.kigalitoday.com/amakuru/utuntu-n-utundi/article/menya-impamvu-imbwa-zizunguza-imirizo",
+      "titulo": "Menya impamvu imbwa zizunguza imirizo - Kigali Today",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYMyMLMFqDWMmuXrhpsCU0bodJRpXPmX8JUQ&s",
+      "original": "https://www.kigalitoday.com/IMG/jpg/oip-3.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/dog/rw/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQF1tyZ8ciG5N0JnS1X_FbMcPWKufa4QLj03g&s",
+      "fuentePagina": "https://sn.wikipedia.org/wiki/Imbwa",
+      "titulo": "Imbwa - Wikipedia",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQF1tyZ8ciG5N0JnS1X_FbMcPWKufa4QLj03g&s",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Rhodesian_ridgeback.jpg/250px-Rhodesian_ridgeback.jpg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/dog/rw/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUpBeuHw_UY9sDQsWJzK-WXaX8i2HdqSf1wg&s",
+      "fuentePagina": "https://www.facebook.com/JimbereMagazine/posts/-mu-gihe-ca-none-aho-intozo-iciye-bayikurikiza-ibuye-ariko-aho-hambere-uwishe-im/3110240242547094/",
+      "titulo": "🐶 Mu gihe ca none, aho intozo iciye bayikurikiza ibuye ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUpBeuHw_UY9sDQsWJzK-WXaX8i2HdqSf1wg&s",
+      "original": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=3110240042547114"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/dog/rw/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXX1sCKv7ILdtm3So2IsPnUh9C14BIaKTDlA&s",
+      "fuentePagina": "https://m.imvahonshya.co.rw/90-byabarumwa-nimbwa-bakoga-igisebe-ntibandura-ibisazi-byayo/",
+      "titulo": "90% by'abarumwa n'imbwa bakoga igisebe ntibandura ibisazi ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXX1sCKv7ILdtm3So2IsPnUh9C14BIaKTDlA&s",
+      "original": "https://imvahonshya.co.rw/wp-content/uploads/2024/01/WhatsApp-Image-2024-01-26-at-13.11.58_0f1c8651.jpg"
+    }
+  ]
+}

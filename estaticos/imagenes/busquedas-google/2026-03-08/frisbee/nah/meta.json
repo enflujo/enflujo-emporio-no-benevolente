@@ -1,0 +1,71 @@
+{
+  "categoria": "frisbee",
+  "categoriaSlug": "frisbee",
+  "idioma": "nah",
+  "nombreIdioma": "Náhuatl",
+  "termino": "frisbee",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T20:59:52.130Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "es",
+    "gl": "mx"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=frisbee&hl=es&gl=mx",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/frisbee/nah/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRY8WPB-DaPZq3T33sI_w1Q25El5lg-BLxutw&s",
+      "fuentePagina": "https://www.amazon.com/-/es/Frisbee-Wham-Pro-Classic-colores-estilos/dp/B0009TNFI6",
+      "titulo": "Amazon.com: Frisbee Wham-O Pro-Classic U-Flex 4.6 oz ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRY8WPB-DaPZq3T33sI_w1Q25El5lg-BLxutw&s",
+      "original": "https://m.media-amazon.com/images/I/8149-Dsn5mL.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/frisbee/nah/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS--HEhij0TKL78qgkqH35e9zEN_BEmFFmq6A&s",
+      "fuentePagina": "https://zabcafe.com/en/products/frizbee-cafelimo?srsltid=AfmBOoq5h7jDOi5Hrq4oTmPMX6bylPsHS397PnOfhivjUQLluLkiZVO0",
+      "titulo": "Cafélimo Frisbee – Zab Café",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS--HEhij0TKL78qgkqH35e9zEN_BEmFFmq6A&s",
+      "original": "https://zabcafe.com/cdn/shop/files/frisbee-cafelimo-sky.jpg?v=1748348264&width=1200"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/frisbee/nah/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOPPeUYRXc0mWVFPbMztz_8WmpOi3qORN0Uw&s",
+      "fuentePagina": "https://en.wikipedia.org/wiki/Frisbee",
+      "titulo": "Frisbee - Wikipedia",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOPPeUYRXc0mWVFPbMztz_8WmpOi3qORN0Uw&s",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Frisbee_090719.jpg/500px-Frisbee_090719.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/frisbee/nah/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLOhgcJGoomYgFUiO0Ek2YwbTX00U0_nakCw&s",
+      "fuentePagina": "https://hartplas.com/products/frisbee-volador-175gr-profesional?srsltid=AfmBOor0SaI3pjcNh2F_3WcfrlJdRjBA03OxyhcQYVMep6-RHvYoFkgQ",
+      "titulo": "Frisbee Volador 175 gr - Vuelo Estable | Hartplas",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLOhgcJGoomYgFUiO0Ek2YwbTX00U0_nakCw&s",
+      "original": "http://hartplas.com/cdn/shop/files/frisbee-verde.png?v=1755639434"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/frisbee/nah/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdwodbmrVoOxkp0Pkjnbign4QYu1Jr16bi1w&s",
+      "fuentePagina": "https://www.decathlon.ph/p/ultimate-disc-original-175g-white-tribord-8590276.html",
+      "titulo": "Ultimate Disc Original 175g - White",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdwodbmrVoOxkp0Pkjnbign4QYu1Jr16bi1w&s",
+      "original": "https://contents.mediadecathlon.com/p2140421/k$2317974123b07ccd65c829aad67cefb9/ultimate-disc-original-175g-white-tribord-8590276.jpg?f=1920x0&format=auto"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/frisbee/nah/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHfgeluxAwql4gsa68EzcCKvkNeQNEBYrhzA&s",
+      "fuentePagina": "https://www.acefitness.org/continuing-education/prosource/june-2016/5914/ace-sponsored-research-can-you-get-fit-playing-ultimate-frisbee/?srsltid=AfmBOoos-r6lA9lkNpCj6uVXIZvrrgzYcmezc_N0fnEwoihEl_7t8wiF",
+      "titulo": "ACE - ProSource™: June 2016 - ACE-SPONSORED RESEARCH: Can ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHfgeluxAwql4gsa68EzcCKvkNeQNEBYrhzA&s",
+      "original": "https://ik.imagekit.io/02fmeo4exvw/June2016/Frisbee_main.jpg"
+    }
+  ]
+}

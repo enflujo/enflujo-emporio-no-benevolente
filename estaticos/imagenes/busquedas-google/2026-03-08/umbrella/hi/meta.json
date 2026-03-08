@@ -1,0 +1,71 @@
+{
+  "categoria": "umbrella",
+  "categoriaSlug": "umbrella",
+  "idioma": "hi",
+  "nombreIdioma": "हिन्दी",
+  "termino": "छाता",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T20:57:10.778Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "hi",
+    "gl": "in"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=%E0%A4%9B%E0%A4%BE%E0%A4%A4%E0%A4%BE&hl=hi&gl=in",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/umbrella/hi/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxpH7F-ubFeGEq5EP3cPuDDx2DeAi7ijvRFA&s",
+      "fuentePagina": "https://www.amazon.in/-/hi/%E0%A4%AC%E0%A4%9A%E0%A5%8D%E0%A4%9A%E0%A5%8B%E0%A4%82-%E0%A4%87%E0%A4%82%E0%A4%A6%E0%A5%8D%E0%A4%B0%E0%A4%A7%E0%A4%A8%E0%A5%81%E0%A4%B7-%E0%A4%9C%E0%A4%B2%E0%A4%B0%E0%A5%8B%E0%A4%A7%E0%A4%95-%E0%A4%AE%E0%A4%BE%E0%A4%AE%E0%A4%B2%E0%A5%87-%E0%A4%B8%E0%A5%82%E0%A4%B0%E0%A5%8D%E0%A4%AF/dp/B0C99J7DL4",
+      "titulo": "बच्चों के लिए इंद्रधनुष छाता, जलरोधक मामले और सीटी यूवी सूर्य छाता छोटे  छाता के साथ बच्चों छाता, बहु(मल्टी) : Amazon.in: बैग, वॉलेट और लगेज",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxpH7F-ubFeGEq5EP3cPuDDx2DeAi7ijvRFA&s",
+      "original": "https://m.media-amazon.com/images/I/617jxLmO8bL._AC_UY1100_.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/umbrella/hi/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjwZuvSGh7kmJhe9lS-RBcrOxvKKelMOTQ3Q&s",
+      "fuentePagina": "https://www.amazon.in/-/hi/Destinio-%E0%A4%AC%E0%A4%BF%E0%A4%97-%E0%A4%85%E0%A4%AE%E0%A5%8D%E0%A4%AC%E0%A5%8D%E0%A4%B0%E0%A5%87%E0%A4%B2%E0%A4%BE-%E0%A4%AA%E0%A5%81%E0%A4%B0%E0%A5%81%E0%A4%B7%E0%A5%8B%E0%A4%82-%E0%A4%B8%E0%A5%81%E0%A4%B0%E0%A4%95%E0%A5%8D%E0%A4%B7%E0%A4%BE/dp/B09G2HMDCG",
+      "titulo": "Destinio बिग अम्ब्रेला - ऑटो ओपन 54 इंच ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjwZuvSGh7kmJhe9lS-RBcrOxvKKelMOTQ3Q&s",
+      "original": "https://m.media-amazon.com/images/I/61INyjia+7L._AC_UY1100_.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/umbrella/hi/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKoPQoUitMyxMGw__-uEvKAEFlKm5L6qtfYQ&s",
+      "fuentePagina": "https://www.vishalmegamart.com/hi-in/%E0%A4%95%E0%A4%BF%E0%A4%A1%E0%A5%8D%E0%A4%B8-%E0%A4%94%E0%A4%B0-%E0%A4%87%E0%A4%A8%E0%A5%8D%E0%A4%AB%E0%A5%88%E0%A4%A8%E0%A5%8D%E0%A4%9F%E0%A5%8D%E0%A4%B8-/%E0%A4%95%E0%A4%BF%E0%A4%A1%E0%A5%8D%E0%A4%B8-%E0%A4%8F%E0%A4%95%E0%A5%8D%E0%A4%B8%E0%A5%87%E0%A4%B8%E0%A4%B0%E0%A5%80%E0%A5%9B/%E0%A4%B0%E0%A5%87%E0%A4%A8%E0%A4%B5%E0%A5%80%E0%A4%AF%E0%A4%B0/brink-%E0%A4%AC%E0%A4%9A%E0%A5%8D%E0%A4%9A%E0%A5%8B%E0%A4%82-%E0%A4%95%E0%A4%BE-%E0%A4%9B%E0%A4%BE%E0%A4%A4%E0%A4%BE/1243001033.html",
+      "titulo": "Brink बच्चों का छाता | Vishal Mega Mart India",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKoPQoUitMyxMGw__-uEvKAEFlKm5L6qtfYQ&s",
+      "original": "https://www.vishalmegamart.com/dw/image/v2/BGHT_PRD/on/demandware.static/-/Sites-vmm-gm-master-catalog/default/dw53dd160e/images/large/1243001033_2.jpg?sw=900&sh=900"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/umbrella/hi/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZuO32-LadrstEaCISIhInsOxgZUKoU365pg&s",
+      "fuentePagina": "https://www.tradeindia.com/hi/products/kids-multi-color-umbrella-c6286528.html",
+      "titulo": "बच्चों के लिए मल्टीकलर छाता सबसे ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZuO32-LadrstEaCISIhInsOxgZUKoU365pg&s",
+      "original": "https://cpimg.tistatic.com/6286528/b/4/kids-multi-color-umbrella.jpg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/umbrella/hi/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1U75oH1OjWB6r4sbG8QenbDYdfXkGXkfdJw&s",
+      "fuentePagina": "https://www.moglix.com/hi/generic-24x8-inch-2-fold-jumbo-umbrella/mp/msne9j8016xr9d?srsltid=AfmBOoqYMNTGjLHzRYd1m76qeCNXhtXSGvYgOQbwfc-RaKVw2RgSidaI",
+      "titulo": "खरीदें जेनेरिक 24x8 इंच 2 फोल्ड ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1U75oH1OjWB6r4sbG8QenbDYdfXkGXkfdJw&s",
+      "original": "https://cdn.moglix.com/p/BSnUffjQ9SvtH-xxlarge.jpg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/umbrella/hi/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoZBoJMGZQqGLwyx1TKjcc0K3GOYBZBKXw1Q&s",
+      "fuentePagina": "https://www.flipkart.com/hi/dragon-kids-head-umbrella/p/itmeprxfmajjgjfg",
+      "titulo": "Dragon Kids Head Umbrella Umbrella - Buy Dragon Kids Head ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoZBoJMGZQqGLwyx1TKjcc0K3GOYBZBKXw1Q&s",
+      "original": "https://rukminim2.flixcart.com/image/480/640/jkwwgi80/hair-accessory/t/w/u/head-umbrella-for-kids-1-small-umbrella-dragon-original-imaf856hpjywegt4.jpeg?q=90"
+    }
+  ]
+}

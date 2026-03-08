@@ -1,0 +1,71 @@
+{
+  "categoria": "cup",
+  "categoriaSlug": "cup",
+  "idioma": "ar",
+  "nombreIdioma": "العربية",
+  "termino": "كوب",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:07:36.820Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "ar",
+    "gl": "eg"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=%D9%83%D9%88%D8%A8&hl=ar&gl=eg",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/cup/ar/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsSxLVSzf16LX2Z-6G-cJ5W9QwQeRH2NXqEw&s",
+      "fuentePagina": "https://www.amazon.eg/%D8%A7%D8%AE%D8%B1%D9%89-%D9%83%D9%88%D8%A8-%D8%B2%D8%AC%D8%A7%D8%AC-%D9%84%D9%84%D8%B4%D8%A7%D9%8A-%D8%B4%D9%81%D8%A7%D9%81/dp/B091DKTTPM",
+      "titulo": "كوب زجاج للشاي شفاف : Amazon.eg: المنزل والمطبخ",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsSxLVSzf16LX2Z-6G-cJ5W9QwQeRH2NXqEw&s",
+      "original": "https://m.media-amazon.com/images/I/61-NXLfEdrL.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/cup/ar/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGkoL1MeAO6jVSwlDV8p091bCp-EcguJPL8Q&s",
+      "fuentePagina": "https://alelm-alamal.com/magic-mug?srsltid=AfmBOoqEH87BkAU6h0Pd2r9ZH5mVulRtZ88G83YVkMla7R_6ahSy-j7v",
+      "titulo": "كوب سحري ( عدة ألوان)",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGkoL1MeAO6jVSwlDV8p091bCp-EcguJPL8Q&s",
+      "original": "https://alelm-alamal.com/image/cache/catalog/Products/mug/211554%20-700x550h.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/cup/ar/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6akVE8fiVcSbjyNo6TDNvaS8g24UPnpI8Bw&s",
+      "fuentePagina": "https://badaamshop.net/index.php?route=product/product&product_id=135",
+      "titulo": "كوب ابيض عادي 36 كوب",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6akVE8fiVcSbjyNo6TDNvaS8g24UPnpI8Bw&s",
+      "original": "https://badaamshop.net/image/cache/catalog/mugs/20301001-700x700.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/cup/ar/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSomIRAKVMemxN9yBVvBDoXed6nqabSswpYRg&s",
+      "fuentePagina": "https://helalgroup.store/ar/products/easy-high-cup?srsltid=AfmBOoqdEnbj3e9StruHLSoNjntXrSA68fYVN4yKJtBecOjedCU7nfLT",
+      "titulo": "Easy High Cup",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSomIRAKVMemxN9yBVvBDoXed6nqabSswpYRg&s",
+      "original": "https://helalgroup.store/cdn/shop/files/4e9ccb040b35cc921f1d521427f8572a_800x.png?v=1738074021"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/cup/ar/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQK2gIDTm1bZbXzAQ3XsHSc2isTwM0qVR71jw&s",
+      "fuentePagina": "https://www.amazon.ae/-/ar/%D9%87%D8%A7%D8%B1%D9%8A%D8%A8%D9%8A-%D8%A7%D9%88%D9%86%D8%B5%D8%A9%D8%8C-%D8%B3%D9%8A%D8%B1%D8%A7%D9%85%D9%8A%D9%83-%D9%84%D9%84%D9%85%D9%83%D8%AA%D8%A8-%D9%88%D8%A7%D9%84%D9%85%D9%86%D8%B2%D9%84%D8%8C/dp/B08B8MPKYY",
+      "titulo": "هاريبي كوب قهوة كبير 20 اونصة، كوب شاي سيراميك ناعم للمكتب ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQK2gIDTm1bZbXzAQ3XsHSc2isTwM0qVR71jw&s",
+      "original": "https://m.media-amazon.com/images/I/61-gPGG7umL._AC_UF1000,1000_QL80_.jpg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/cup/ar/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRknUy0ztaPdE_Q9rHJ8zrQosOdrOK4RAvRjw&s",
+      "fuentePagina": "https://www.ikea.com/eg/ar/p/vaerdera-mug-white-10277366/",
+      "titulo": "VÄRDERA كوب, أبيض, 30 سل - IKEA",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRknUy0ztaPdE_Q9rHJ8zrQosOdrOK4RAvRjw&s",
+      "original": "https://www.ikea.com/eg/ar/images/products/vaerdera-mug-white__51249_pe150726_s5.jpg?f=s"
+    }
+  ]
+}

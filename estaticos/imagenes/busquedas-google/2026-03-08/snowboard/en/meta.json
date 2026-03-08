@@ -1,0 +1,71 @@
+{
+  "categoria": "snowboard",
+  "categoriaSlug": "snowboard",
+  "idioma": "en",
+  "nombreIdioma": "English",
+  "termino": "snowboard",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:00:37.668Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "en",
+    "gl": "us"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=snowboard&hl=en&gl=us",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/snowboard/en/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpxyhD7ZGykea6fPtB6Oo3AaVRhZo6AnUSUg&s",
+      "fuentePagina": "https://www.dopesnow.com/mag/is-snowboarding-a-good-workout/?srsltid=AfmBOorufzXw3JwYkStrM2dtYI42vuhDKE4l4KLxSfCspDevUs1IB1PH",
+      "titulo": "Is snowboarding a good workout? - Top 5 benefits | Dope Magazine",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpxyhD7ZGykea6fPtB6Oo3AaVRhZo6AnUSUg&s",
+      "original": "https://www.dopesnow.com/images/wordpress-4582242/uploads/2023/01/top-5-health-benefits-of-skiing-and-snowboarding-dope-magazine.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/snowboard/en/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3o6LcEprbzZMPdadPyq4XqwvqOsjlcOVBVg&s",
+      "fuentePagina": "https://www.dopesnow.com/mag/what-to-wear-snowboarding-skiing/?srsltid=AfmBOop7RNey8BTBxf8uvjStKz8128XWfh-dfb6XTX9m7ScrkwpFEQfW",
+      "titulo": "What to wear snowboarding and skiing | Dope Magazine",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3o6LcEprbzZMPdadPyq4XqwvqOsjlcOVBVg&s",
+      "original": "https://www.dopesnow.com/images/wordpress-4582242/uploads/2024/05/what-to-wear-snowboarding-and-skiing-dope-magazine.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/snowboard/en/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnqna3K-NxswFwUA_qyZMQA8_Iii1hpTJQsQ&s",
+      "fuentePagina": "https://www.photowall.com/us/snowboard-big-air-jump-canvas-print",
+      "titulo": "Snowboard Big Air Jump – affordable canvas prints online ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnqna3K-NxswFwUA_qyZMQA8_Iii1hpTJQsQ&s",
+      "original": "https://images.photowall.com/products/48546/snowboard-big-air-jump.jpg?h=699&q=85"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/snowboard/en/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbnjH6f3_AD5oQyhIXYgWjHDk0t7LTGhSWrg&s",
+      "fuentePagina": "https://borealis-snowboards.com/products/borealis-tundra?srsltid=AfmBOooAfnsb1hxhUIufuo0-lR3YfdhdN3vJdc584ncvSH4E5Cz-vi5f",
+      "titulo": "Borealis Tundra Snowboard: All-Mountain Backcountry ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbnjH6f3_AD5oQyhIXYgWjHDk0t7LTGhSWrg&s",
+      "original": "https://borealis-snowboards.com/cdn/shop/files/MorganBodet_-MB_09623.jpg?v=1755588433&width=3840"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/snowboard/en/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSty_oXeAHJWtvs79yc6PzPgWyY-XFdaaYpEQ&s",
+      "fuentePagina": "https://www.nitrosnowboards.com/collections/all-mens-snowboards",
+      "titulo": "All Men's Snowboards",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSty_oXeAHJWtvs79yc6PzPgWyY-XFdaaYpEQ&s",
+      "original": "https://www.nitrosnowboards.com/cdn/shop/collections/QUIVER_Nitro_Snowboards_24_Digital-023_d54cffee-6cd7-4a55-a871-a5d8cdcadda6.jpg?v=1755768533&width=2250"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/snowboard/en/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcToBHjcaeBIWwRmUVpnLQ15woRK3a-ycKu1qA&s",
+      "fuentePagina": "https://www.magicmurals.com/snowboard-jump.html?srsltid=AfmBOoqcxJEtiNTYTR6iARjVK6obLHOWxgFU_3j20dVAOXDxk401UhwA",
+      "titulo": "Snowboard Jump",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcToBHjcaeBIWwRmUVpnLQ15woRK3a-ycKu1qA&s",
+      "original": "https://www.magicmurals.com/media/catalog/product/cache/af1e2a1566fa2dbb552605e8822354b7/F/O/FOT-0010862976_1.jpg"
+    }
+  ]
+}

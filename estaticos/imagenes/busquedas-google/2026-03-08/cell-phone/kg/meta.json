@@ -1,0 +1,71 @@
+{
+  "categoria": "cell phone",
+  "categoriaSlug": "cell-phone",
+  "idioma": "kg",
+  "nombreIdioma": "Kikongo",
+  "termino": "telefone",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:24:14.561Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "fr",
+    "gl": "cd"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=telefone&hl=fr&gl=cd",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/cell-phone/kg/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTLDd3G9KA-O-JJnoRw2F7KZ3kBbbPJz1MRg&s",
+      "fuentePagina": "https://www.refritron.com.br/telefone-intelbras-pleno-sem-chave-preto?srsltid=AfmBOorMHTT5t1mYQml0QCGywVD7_7JHw4WUeE_oTCWH7R3L13yPWmwU",
+      "titulo": "Telefone Com Fio Pleno Preto (SEM CHAVE) - Intelbrás ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTLDd3G9KA-O-JJnoRw2F7KZ3kBbbPJz1MRg&s",
+      "original": "https://images.tcdn.com.br/img/img_prod/473588/telefone_com_fio_pleno_preto_sem_chave_intelbras_1167_1_20200818174042.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/cell-phone/kg/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwfctw8SKwq2Vw8p3SKiJaHM8ncIBSPvbe9Q&s",
+      "fuentePagina": "https://www.eletronicasantana.com.br/telefone-com-fio-retro-classic-london-32-389-classic/p",
+      "titulo": "Telefone com Fio Retrô Classic London | Design Retrô ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwfctw8SKwq2Vw8p3SKiJaHM8ncIBSPvbe9Q&s",
+      "original": "https://eletronicasantana.vteximg.com.br/arquivos/ids/108127-1000-1000/Telefone-Com-Fio-Retro-Classic-London-32-389---Classic-0.jpg?v=638346268028700000"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/cell-phone/kg/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQw7KsIhZKj95C3cjf5sS9K8QyXc71A__szhg&s",
+      "fuentePagina": "https://loja.intelbras.com.br/telefone-sem-fio-ts-3110-preto/p?srsltid=AfmBOorLcf02b-Fd3r0pHDYZVNGvlvMx736sO1Vi7QVOE8oQFVnM1adJ",
+      "titulo": "Telefone sem Fio| TS 3110 Preto - Intelbras",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQw7KsIhZKj95C3cjf5sS9K8QyXc71A__szhg&s",
+      "original": "https://intelbras.vtexassets.com/arquivos/ids/168013-800-auto?v=638162176363370000&width=800&height=auto&aspect=true"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/cell-phone/kg/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8TcNHHF4wAKGJsGT7qgyKu5qB7Z-2yOk6lA&s",
+      "fuentePagina": "https://www.miranda.com.br/produto/telefone-com-fio-pleno-preto-modelo-4080051-intelbras/5003838?srsltid=AfmBOormCLa7771ynRLksTQD1qjA9znrycHZ2z2A7gC5TJhyGEQTS18Z",
+      "titulo": "Telefone com fio Pleno preto, Modelo 4080051, INTELBRAS",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8TcNHHF4wAKGJsGT7qgyKu5qB7Z-2yOk6lA&s",
+      "original": "https://mirandacomputacao.jetassets.com.br/produto/18063-principal.png"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/cell-phone/kg/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSR39px69sKpWfcpa_MhUWEXin2YONTSBIaWA&s",
+      "fuentePagina": "https://www.amazon.eg/-/en/intelbras-NSUH4600465XL-telephone-Totally-Brazilian/dp/B0754KBN6F",
+      "titulo": "Pleno telephone (Totally Brazilian): Buy Online at Best ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSR39px69sKpWfcpa_MhUWEXin2YONTSBIaWA&s",
+      "original": "https://m.media-amazon.com/images/I/515fiZQB1JL._AC_UF894,1000_QL80_.jpg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/cell-phone/kg/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1Qvx5xltoKb7eijIKHcRKxEdRK_sGN_wm4g&s",
+      "fuentePagina": "https://www.kalunga.com.br/prod/telefone-sem-fio-com-identificador-de-chamadas-preto-ts2510-intelbras-cx-1-un/678118",
+      "titulo": "Telefone sem fio com identificador de chamadas, preto ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1Qvx5xltoKb7eijIKHcRKxEdRK_sGN_wm4g&s",
+      "original": "https://img.kalunga.com.br/fotosdeprodutos/678118z.jpg"
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "categoria": "mouse",
+  "categoriaSlug": "mouse",
+  "idioma": "en",
+  "nombreIdioma": "English",
+  "termino": "mouse",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:22:11.009Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "en",
+    "gl": "us"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=mouse&hl=en&gl=us",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/mouse/en/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjVZO-KM2R0pVQbm7E2dKtB2PVqcgLFir8SQ&s",
+      "fuentePagina": "https://en.wikipedia.org/wiki/Mouse",
+      "titulo": "Mouse - Wikipedia",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjVZO-KM2R0pVQbm7E2dKtB2PVqcgLFir8SQ&s",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/%D0%9C%D1%8B%D1%88%D1%8C_2.jpg/500px-%D0%9C%D1%8B%D1%88%D1%8C_2.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/mouse/en/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbn--ElVhPYQ4dVbH4SVE5EwUQq03sjrIEoQ&s",
+      "fuentePagina": "https://www.webmd.com/a-to-z-guides/know-about-house-mice",
+      "titulo": "Mice: Identification, Infestations, and Health Hazards",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbn--ElVhPYQ4dVbH4SVE5EwUQq03sjrIEoQ&s",
+      "original": "https://img.lb.wbmdstatic.com/vim/live/webmd/consumer_assets/site_images/article_thumbnails/BigBead/what_to_know_about_house_mice_bigbead/1800x1200_getty_rf_what_to_know_about_house_mice_bigbead.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/mouse/en/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFXSN1sXN0jv8sd-7jKkCDhea8iaSJXbKnHQ&s",
+      "fuentePagina": "https://www.rottler.com/pests/rodents/meadow-mouse/",
+      "titulo": "Meadow Mouse | Pest Information & Prevention Tips",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFXSN1sXN0jv8sd-7jKkCDhea8iaSJXbKnHQ&s",
+      "original": "https://www.rottler.com/wp-content/uploads/medow-mouse.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/mouse/en/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_u7C8A7UXcIrWqWnouDHGrbjJnXcmiHUotg&s",
+      "fuentePagina": "https://www.britannica.com/animal/mouse-rodent",
+      "titulo": "Mouse | Description, Habitat, Diet, Classification, & Facts ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_u7C8A7UXcIrWqWnouDHGrbjJnXcmiHUotg&s",
+      "original": "https://cdn.britannica.com/91/81291-050-1CDF67EB/house-mouse.jpg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/mouse/en/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYxiQgo8lBUoYu0uQjHfA1l845bGQZLeSHFw&s",
+      "fuentePagina": "https://www.environmentalpestcontrol.ca/mice/deer-mouse",
+      "titulo": "Deer Mouse Control & Info | Environmental Pest Control",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYxiQgo8lBUoYu0uQjHfA1l845bGQZLeSHFw&s",
+      "original": "https://www.environmentalpestcontrol.ca/a/uploads/field_mouse_mouse%20pest_control_environmental_pest_control.jpg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/mouse/en/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYnBHl7iVnjR5pshT2KKHOB8ZyqJxPjrZm0A&s",
+      "fuentePagina": "https://www.theguardian.com/environment/2025/mar/28/country-diary-driving-a-wood-mouse-to-a-new-home",
+      "titulo": "Country diary: Driving a wood mouse to a new home | Wildlife ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYnBHl7iVnjR5pshT2KKHOB8ZyqJxPjrZm0A&s",
+      "original": "https://i.guim.co.uk/img/media/794fddf7fec514427d16269133ff99e6ff26b81f/0_68_1559_936/master/1559.jpg?width=1200&height=1200&quality=85&auto=format&fit=crop&s=7a68c76464766b069de3a2a14629c07b"
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "categoria": "suitcase",
+  "categoriaSlug": "suitcase",
+  "idioma": "gn",
+  "nombreIdioma": "Guaraní",
+  "termino": "maleta",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T20:59:14.703Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "es",
+    "gl": "py"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=maleta&hl=es&gl=py",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/suitcase/gn/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTa-mh-nLeZp2enemzDuKsqkOaDMlV6WAQhdQ&s",
+      "fuentePagina": "https://www.catlifestyle.com.py/maleta-cat-cargo-28--unisex-/p?srsltid=AfmBOoqivr3A0YfuswMq4SV4skQUGc2ce9E-_3Fy_tvqhSiiZMFYp09u",
+      "titulo": "Maleta Cat Unisex Cargo Trolley 28 Negro - Cat Lifestyle ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTa-mh-nLeZp2enemzDuKsqkOaDMlV6WAQhdQ&s",
+      "original": "https://optimapy.vtexassets.com/arquivos/ids/182134/Maleta-Cat-Cargo-28--Unisex-2.jpg?v=638892391384300000"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/suitcase/gn/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRaJkQvin-gWe72A0eCswOgZI7cDgyUm0qcjQ&s",
+      "fuentePagina": "https://www.catlifestyle.com.py/maleta-unisex-industrial-plate-24--/p?srsltid=AfmBOoruJ0EFvwBfZyy0phsHge8PBS_VToYiBFUbvaoNG4Vtjcr4YXsS",
+      "titulo": "Maleta Cat Unisex Industrial Plate 24\" Amarillo - Cat ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRaJkQvin-gWe72A0eCswOgZI7cDgyUm0qcjQ&s",
+      "original": "https://optimapy.vtexassets.com/arquivos/ids/182153/Maleta-Unisex-Industrial-Plate-24--1.jpg?v=638354871034600000"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/suitcase/gn/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmu1j21tBFbmSYLexsH24AzJ5y1Zk0mmg3rw&s",
+      "fuentePagina": "https://cellshop.com.py/3433850-maleta-resena-rp1905-rosado-mediano-1",
+      "titulo": "Maleta Resena RP1905 Rosado (Mediano)",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmu1j21tBFbmSYLexsH24AzJ5y1Zk0mmg3rw&s",
+      "original": "https://cellshop.com.py/media/catalog/product/3/4/3433850_1_4831_1.jpg?optimize=medium&bg-color=255,255,255&fit=bounds&height=616&width=616&canvas=616:616"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/suitcase/gn/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcS0P-EY1fRFwJO7AqfgcLXdGFRLWTfECNcQ&s",
+      "fuentePagina": "https://www.unicentro.com.py/maleta-gris-aprox--23-kilos-palmer-ec036224/p?srsltid=AfmBOor2YvIDDmA42ZCXoHnCKURJCXOUonD5QvWpyMUIRhs-mshiLvo2",
+      "titulo": "Maleta Gris Aprox. 23 Kilos Palmer - Unicentro Tienda Online",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcS0P-EY1fRFwJO7AqfgcLXdGFRLWTfECNcQ&s",
+      "original": "https://pyunicentroprod.vtexassets.com/arquivos/ids/1035766/IMG-EC036224-6105225-01.jpg?v=638689964290300000"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/suitcase/gn/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQT2pstn_Wg8UhuDZAfxahJ1WgfeC2SzmR-xg&s",
+      "fuentePagina": "https://bubbaparaguay.com/collections/maleta",
+      "titulo": "MALETAS – Bubba Paraguay",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQT2pstn_Wg8UhuDZAfxahJ1WgfeC2SzmR-xg&s",
+      "original": "https://bubbaparaguay.com/cdn/shop/files/Maletaoriginalsmatteazuresmall.webp?v=1732654235&width=533"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/suitcase/gn/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2Wgrt-4797ncjM28w8ufEramJLOkCot_4eQ&s",
+      "fuentePagina": "https://www.blessimport.com.py/parana-maleta-champagne-15-pol-1pc-pa-121-u-",
+      "titulo": "PARANA MALETA CHAMPAGNE 15 POL 1PC PA-121 -U$",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2Wgrt-4797ncjM28w8ufEramJLOkCot_4eQ&s",
+      "original": "https://www.blessimport.com.py/image/cache/catalog/bolsas/7093043/7093043-2048x2048.png"
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "categoria": "bench",
+  "categoriaSlug": "bench",
+  "idioma": "zh",
+  "nombreIdioma": "中文",
+  "termino": "长椅",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T20:49:29.521Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "zh-CN",
+    "gl": "cn"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=%E9%95%BF%E6%A4%85&hl=zh-CN&gl=cn",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bench/zh/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyXHauHdsPpmifqTz5vs0YZr4h1pukqCQqbg&s",
+      "fuentePagina": "https://zh.wikipedia.org/zh-cn/%E9%95%B7%E6%A4%85",
+      "titulo": "长椅- 维基百科，自由的百科全书",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyXHauHdsPpmifqTz5vs0YZr4h1pukqCQqbg&s",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/8/85/Garden_bench_001.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bench/zh/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXUUGSkJQx4e4lv_ftvNh9fzY-CVHmluxmmQ&s",
+      "fuentePagina": "https://www.hags.com/zh/products/park-urban-furniture/furniture-families/city-form/park-bench-city-form-1",
+      "titulo": "公园长凳City-Form | HAGS",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXUUGSkJQx4e4lv_ftvNh9fzY-CVHmluxmmQ&s",
+      "original": "https://www.hags.com/Assets/8042480/Bilder/8042480.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bench/zh/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJzcLuxxee6UXv15ef8ZuRy4udgWM_pQe0aQ&s",
+      "fuentePagina": "https://baike.baidu.com/item/%E9%95%BF%E6%A4%85/25149",
+      "titulo": "长椅_百度百科",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJzcLuxxee6UXv15ef8ZuRy4udgWM_pQe0aQ&s",
+      "original": "https://bkimg.cdn.bcebos.com/smart/0eb30f2442a7d933c8951f6aaf04c61373f08202abd1-bkimg-process,v_1,rw_1,rh_1,pad_1,color_ffffff?x-bce-process=image/format,f_auto"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bench/zh/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFNLYDTtLBESPwG773rcCpbOeYS0-mTH8rsw&s",
+      "fuentePagina": "https://szduomai.cn.goepe.com/apollo/prodetail-14954685.html",
+      "titulo": "多麦户外椅景观长椅全国联保长凳- 谷瀑(GOEPE.COM)",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFNLYDTtLBESPwG773rcCpbOeYS0-mTH8rsw&s",
+      "original": "https://img1.goepe.com/2020012/0_1578401599_1822.jpg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bench/zh/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxXoYgTEhmACgvNww0TF3FwyxsMzqW_EI_mw&s",
+      "fuentePagina": "https://www.archiexpo.cn/prod/greenblue-urban-ltd/product-161887-2281195.html",
+      "titulo": "现代风格公共长椅- INOA - GreenBlue Urban Ltd - 木质/ 不锈钢 ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxXoYgTEhmACgvNww0TF3FwyxsMzqW_EI_mw&s",
+      "original": "https://img.archiexpo.cn/images_ae/photo-mg/161887-16633216.jpg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bench/zh/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRT0agsAoP0KbsW2XgY95-fQAr-Hlf709Ny4Q&s",
+      "fuentePagina": "https://www.hermanmiller.com/zh_cn/products/seating/benches/nelson-platform-bench/",
+      "titulo": "Nelson平台长椅- 长凳- Herman Miller",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRT0agsAoP0KbsW2XgY95-fQAr-Hlf709Ny4Q&s",
+      "original": "https://www.hermanmiller.com/content/dam/hmicom/page_assets/products/nelson_platform_bench/og_benches_nelson_platform_bench.jpg"
+    }
+  ]
+}

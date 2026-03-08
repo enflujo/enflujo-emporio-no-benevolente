@@ -1,0 +1,71 @@
+{
+  "categoria": "banana",
+  "categoriaSlug": "banana",
+  "idioma": "gn",
+  "nombreIdioma": "Guaraní",
+  "termino": "tatakua",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:11:01.025Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "es",
+    "gl": "py"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=tatakua&hl=es&gl=py",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/banana/gn/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkaxxWvgPJU0x4XmXvkdZpvmpsOy2Krdj0dA&s",
+      "fuentePagina": "https://www.tiktok.com/@guidopenayo/video/7489969328637447479",
+      "titulo": "Deliciosa Tatakua: Cocina Tradicional Paraguaya",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkaxxWvgPJU0x4XmXvkdZpvmpsOy2Krdj0dA&s",
+      "original": "https://www.tiktok.com/api/img/?itemId=7489969328637447479&location=0&aid=1988"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/banana/gn/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS18dLdUnibURyHFe5_7K6VML9agpGS_z6peg&s",
+      "fuentePagina": "https://www.abc.com.py/edicion-impresa/suplementos/abc-revista/2023/04/02/los-secretos-del-tatakua/",
+      "titulo": "Los secretos del tatakua - ABC Revista - ABC Color",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS18dLdUnibURyHFe5_7K6VML9agpGS_z6peg&s",
+      "original": "https://www.abc.com.py/resizer/v2/https%3A%2F%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fabccolor%2FJOGCVZWQWFGP5IYYIAMU25OY54.JPG?auth=5132dc9253537b29985cb3e50a48a46787d6dcc2b420ce2cbced5a63688dd643&width=770&smart=true"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/banana/gn/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRplPQyV4xU18pTZoPEOOUvU1rJhdGuPwGFvw&s",
+      "fuentePagina": "https://www.abc.com.py/edicion-impresa/suplementos/abc-revista/2023/04/02/los-secretos-del-tatakua/",
+      "titulo": "Los secretos del tatakua - ABC Revista - ABC Color",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRplPQyV4xU18pTZoPEOOUvU1rJhdGuPwGFvw&s",
+      "original": "https://www.abc.com.py/resizer/v2/https%3A%2F%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fabccolor%2F73VBNVACPBCQREE5MPZG2GI4KU.JPG?auth=96274dcf0d531dc4b8bfba1706c411cd9dcee1aaccbc4975b47639a0db030d8b&width=770&smart=true"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/banana/gn/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUIrIir_0S97LRmc8Y2X7_w38EvKX3RwQ70w&s",
+      "fuentePagina": "https://redsagrados.com.py/producto/tatakua-monoblock-70-tradicional-pie-monoblock/",
+      "titulo": "Tatakua Monoblock 70 Tradicional + Pie de Hierro",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUIrIir_0S97LRmc8Y2X7_w38EvKX3RwQ70w&s",
+      "original": "https://redsagrados.com.py/wp-content/uploads/2023/09/TTK-Monoblock-70-Tradicional-3.jpeg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/banana/gn/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTr1EqszqQP3MNh4T5TGphFkSuii_531OcaWg&s",
+      "fuentePagina": "https://www.alacarta.com.py/notas/tatakua-y-un-menu-para-compartir",
+      "titulo": "Tatakua y un menú para compartir | Alacarta",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTr1EqszqQP3MNh4T5TGphFkSuii_531OcaWg&s",
+      "original": "https://alacarta.com.py/filemanager/photos/15/REVISTAS/122/Nota-de-tapa/a.jpg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/banana/gn/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0viNgOo7h7TqHxv-TQuRX2W7xBQXIJhMuew&s",
+      "fuentePagina": "https://www.abc.com.py/edicion-impresa/suplementos/abc-revista/2023/04/02/los-secretos-del-tatakua/",
+      "titulo": "Los secretos del tatakua - ABC Revista - ABC Color",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0viNgOo7h7TqHxv-TQuRX2W7xBQXIJhMuew&s",
+      "original": "https://www.abc.com.py/resizer/v2/https%3A%2F%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fabccolor%2FLDDOOBJOTRHWLE6ANZ7HRRYRCA.JPG?auth=91967c2f66fe2e7107c72a2978cd3e77cc4fdcb807952388a987598ffbb9bc93&width=770&smart=true"
+    }
+  ]
+}

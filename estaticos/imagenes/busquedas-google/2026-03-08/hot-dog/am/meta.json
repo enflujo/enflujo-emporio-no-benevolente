@@ -1,0 +1,71 @@
+{
+  "categoria": "hot dog",
+  "categoriaSlug": "hot-dog",
+  "idioma": "am",
+  "nombreIdioma": "Amharic — አማርኛ",
+  "termino": "ሆት ዶግ",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:14:35.318Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "am",
+    "gl": "et"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=%E1%88%86%E1%89%B5%20%E1%8B%B6%E1%8C%8D&hl=am&gl=et",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/hot-dog/am/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT56C4_sC8LckKUwG9yE7EGC3WQHjFSW11Ryg&s",
+      "fuentePagina": "https://www.youtube.com/watch?v=pWFt49UOXEA",
+      "titulo": "በቀላሉ ሆት ዶግ እንደዚህ .....#ethio#mimi#tube",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT56C4_sC8LckKUwG9yE7EGC3WQHjFSW11Ryg&s",
+      "original": "https://i.ytimg.com/vi/pWFt49UOXEA/sddefault.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/hot-dog/am/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmxCNdzNaGvyx16Dv6sUtuZRiJ_cVZKPVWcw&s",
+      "fuentePagina": "https://www.coolprotech.gr/am/product/dynamic-hdw-1-hot-dog-thermantiko/",
+      "titulo": "ዳይናሚክ HDW 1 - ሆት ዶግ ማሞቂያ - CoolProTech",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmxCNdzNaGvyx16Dv6sUtuZRiJ_cVZKPVWcw&s",
+      "original": "https://www.coolprotech.gr/wp-content/uploads/2026/02/0073441.jpeg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/hot-dog/am/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUKbokwoX7q03cg1gfWLtdje6tKls3VYzmGg&s",
+      "fuentePagina": "https://am.cnivycandy.com/candy-supplier-halal-hot-dog-marshmallow-product/",
+      "titulo": "የቻይና ከረሜላ አቅራቢ ሃላል ሆት ዶግ ማርሽማሎው ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUKbokwoX7q03cg1gfWLtdje6tKls3VYzmGg&s",
+      "original": "https://www.cnivycandy.com/uploads/M197-9-hot-dog-marshmallow-supplier.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/hot-dog/am/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKDUqUfeXDefAB_mIaTbCrbmRldEfNqD-xYg&s",
+      "fuentePagina": "https://am.cnivycandy.com/halal-2-in-1-hot-dog-gummy-candy-supplier-product/",
+      "titulo": "ቻይና ሃላል 2 በ1 ሆት ዶግ ጉሚ ከረሜላ አቅራቢ ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKDUqUfeXDefAB_mIaTbCrbmRldEfNqD-xYg&s",
+      "original": "https://www.cnivycandy.com/uploads/halal-2-in-1-hot-dog-gummy-candy.jpg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/hot-dog/am/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgCsM1VmbHVHYtkJwcj1RWeg04-JXlZlzuDg&s",
+      "fuentePagina": "https://am.delachieve.com/%E1%8A%A5%E1%8A%95%E1%8B%B4%E1%89%B5-%E1%89%A0%E1%8D%8D%E1%8C%A5%E1%8A%90%E1%89%B5-%E1%8A%A5%E1%8A%93-%E1%89%A0%E1%89%B5%E1%8A%AD%E1%8A%AD%E1%88%8D-%E1%88%86%E1%89%B5-%E1%8B%B6%E1%8C%8D/",
+      "titulo": "እንዴት በፍጥነት እና በትክክል ሆት ዶግ ምግብ",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgCsM1VmbHVHYtkJwcj1RWeg04-JXlZlzuDg&s",
+      "original": "https://i23.delachieve.com/image/7599c58d46a90dfd.jpg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/hot-dog/am/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvO3du6CBwdf-ipBb2vlOZ35gSjN-tVpbFEw&s",
+      "fuentePagina": "https://am.cnivycandy.com/food-shape-hot-dog-marshmallow-candy-for-sale-product/",
+      "titulo": "የቻይና የምግብ ቅርጽ ያለው ሆት ዶግ ማርሽማሎው ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvO3du6CBwdf-ipBb2vlOZ35gSjN-tVpbFEw&s",
+      "original": "https://www.cnivycandy.com/uploads/M197-4-hot-dog-marshmallow-candy.jpg"
+    }
+  ]
+}

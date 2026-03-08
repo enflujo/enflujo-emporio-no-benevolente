@@ -1,0 +1,71 @@
+{
+  "categoria": "laptop",
+  "categoriaSlug": "laptop",
+  "idioma": "fr",
+  "nombreIdioma": "Français",
+  "termino": "ordinateur portable",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:21:41.818Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "fr",
+    "gl": "be"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=ordinateur%20portable&hl=fr&gl=be",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/laptop/fr/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnfWNvRQFsdHDzqyZltLChGwIrDyY5ZlvGvQ&s",
+      "fuentePagina": "https://www.bol.com/be/fr/p/hp-15-fd0703nd-ordinateur-portable-15-6-pouces/9300000185339943/",
+      "titulo": "HP 15-fd0703nd - Ordinateur portable - 15,6 pouces | bol",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnfWNvRQFsdHDzqyZltLChGwIrDyY5ZlvGvQ&s",
+      "original": "https://media.s-bol.com/GNkrqvkRnvJ0/NkW74qN/550x427.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/laptop/fr/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8uL98YqZorr10JXfS4dcKp5V1Sn-6gVV2pw&s",
+      "fuentePagina": "https://www.quechoisir.org/guide-d-achat-ordinateurs-portables-n10667/",
+      "titulo": "PC portable - Guide d'achat - UFC-Que Choisir",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8uL98YqZorr10JXfS4dcKp5V1Sn-6gVV2pw&s",
+      "original": "https://im.qccdn.fr/node/comparatif-ordinateur-portable-827/thumbnail_800x480px-118854.png"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/laptop/fr/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCon3oRh08xSGGWhePsfz20p60KT_p6aA2nQ&s",
+      "fuentePagina": "https://www.amazon.com.be/Lenovo-Ordinateur-Portable-fran%C3%A7ais-7388/dp/B0CL4X6ZND",
+      "titulo": "Lenovo (FullHD 15,6 Zoll Ordinateur Portable (Intel® Quad ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCon3oRh08xSGGWhePsfz20p60KT_p6aA2nQ&s",
+      "original": "https://m.media-amazon.com/images/I/51fE7FmJZ2L._AC_UF1000,1000_QL80_.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/laptop/fr/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEtEFJ5mJRVj3qrRlzrFvjCwNx0MJAYKlZCA&s",
+      "fuentePagina": "https://www.fr.fnac.be/HP-Laptop-15-fd0080nf/a20615865",
+      "titulo": "Ordinateur Portable HP 15-fd0080nf 15.6\" Intel Core i7",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEtEFJ5mJRVj3qrRlzrFvjCwNx0MJAYKlZCA&s",
+      "original": "https://static.fnac-static.com/multimedia/Images/FR/MDM/fa/90/6b/23826682/1540-1/tsp20260213081303/PC-portable-HP-15-fd0080nf-15-6-Intel-Core-i7-16-Go-RAM-512-Go-D-Argent-naturel.jpg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/laptop/fr/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR32jMeiX-McqV1Nbzk3cRG6Vd32rAEtjJw-g&s",
+      "fuentePagina": "https://www.laptopspirit.fr/meilleurs-ordinateurs-portables-a-moins-de-800-euros",
+      "titulo": "Meilleurs ordinateurs portables à moins de 800 euros en 2026 ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR32jMeiX-McqV1Nbzk3cRG6Vd32rAEtjJw-g&s",
+      "original": "https://www.laptopspirit.fr/wp-content/uploads/new/2022/12/Asus-Vivobook-S17-S712JA-BX642W-3.jpg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/laptop/fr/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNzJ1upzjrIX3uCDxgx7lJrM7hWMCLSyK9aA&s",
+      "fuentePagina": "https://www.yonis-shop.com/1215-pc-portable-pas-cher?srsltid=AfmBOopzxEr3n1qvSeDMBGvL4hJ75w5pqO_TN1uv3iYhPGeI8CcTH0gU",
+      "titulo": "PC Portable pas cher - jusqu'à 50% de Promotion livré en 48h",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNzJ1upzjrIX3uCDxgx7lJrM7hWMCLSyK9aA&s",
+      "original": "https://www.yonis-shop.com/img/cms/2021/1215%20-%20PC%20Portable%20pas%20cher/pc-portable-pas-cher.jpg"
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "categoria": "sandwich",
+  "categoriaSlug": "sandwich",
+  "idioma": "es",
+  "nombreIdioma": "Español",
+  "termino": "sándwich",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:12:25.380Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "es",
+    "gl": "es"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=s%C3%A1ndwich&hl=es&gl=es",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/sandwich/es/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEJBcgKK2ZJ4nppCsLHa981UknQ3PlzDsspA&s",
+      "fuentePagina": "https://recetasdecocina.elmundo.es/2024/10/sandwich-club-receta-facil-casera.html",
+      "titulo": "Sándwich club. Receta fácil y casera",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEJBcgKK2ZJ4nppCsLHa981UknQ3PlzDsspA&s",
+      "original": "https://recetasdecocina.elmundo.es/wp-content/uploads/2024/10/sandwich-club-1.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/sandwich/es/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRz50-KzQtCEMVev_fAK9rHnuIMn04pkRsPnQ&s",
+      "fuentePagina": "https://recetasdecocina.elmundo.es/2024/01/sandwich-mixto-receta-facil-casera.html",
+      "titulo": "Sándwich mixto, receta fácil y casera",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRz50-KzQtCEMVev_fAK9rHnuIMn04pkRsPnQ&s",
+      "original": "https://recetasdecocina.elmundo.es/wp-content/uploads/2024/01/sandwich-mixto.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/sandwich/es/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKuWI7NgJ2VRPK69fIAAE9cxLqI9JfJPNAgQ&s",
+      "fuentePagina": "https://www.bimbo.es/recetas/sandwich-con-queso-lechuga-tomate-mayonesa-y-pechuga-de-pavo-a-las-finas-hierbas",
+      "titulo": "Sándwich con queso, lechuga, tomate, mayonesa y pechuga de pavo a las finas  hierbas",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKuWI7NgJ2VRPK69fIAAE9cxLqI9JfJPNAgQ&s",
+      "original": "https://www.bimbo.es/uploads/11-sandwich-con-queso-lechuga-tomate-mayonesa-y-pechuga-de-pavo-a-las-finas-hierbas.webp"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/sandwich/es/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSk1cj4UPBo9A4PVTc-HPHFDy-BchA2pr3OAw&s",
+      "fuentePagina": "https://www.abc.es/recetasderechupete/sandwich-club-receta-facil-paso-a-paso/9810/",
+      "titulo": "Cómo hacer un Sándwich Club. Receta fácil del nuestro sándwich preferido",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSk1cj4UPBo9A4PVTc-HPHFDy-BchA2pr3OAw&s",
+      "original": "https://cdn.recetasderechupete.com/wp-content/uploads/2019/10/Sandwich-club-presentacion.jpg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/sandwich/es/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXiiPfOCMCSt5aqZe7VWQaBOJr3UnfmNeFwA&s",
+      "fuentePagina": "https://recetasdecocina.elmundo.es/2023/11/sandwich-pollo-receta-facil-casera.html",
+      "titulo": "Sándwich de pollo, receta fácil y casera",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXiiPfOCMCSt5aqZe7VWQaBOJr3UnfmNeFwA&s",
+      "original": "https://recetasdecocina.elmundo.es/wp-content/uploads/2023/11/sandwich-de-pollo.jpg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/sandwich/es/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9GvfIdMqwVpcTr4V3SmIhClibeLTJeDvuQQ&s",
+      "fuentePagina": "https://laroussecocina.mx/receta/sandwich-de-queso-mozzarella/",
+      "titulo": "Sándwich de queso mozzarella",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9GvfIdMqwVpcTr4V3SmIhClibeLTJeDvuQQ&s",
+      "original": "https://laroussecocina.mx/wp-content/uploads/2018/12/sandwich-de-queso-mossarella.jpg"
+    }
+  ]
+}

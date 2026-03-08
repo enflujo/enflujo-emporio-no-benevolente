@@ -1,0 +1,71 @@
+{
+  "categoria": "wine glass",
+  "categoriaSlug": "wine-glass",
+  "idioma": "en",
+  "nombreIdioma": "English",
+  "termino": "wine glass",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:06:37.303Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "en",
+    "gl": "us"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=wine%20glass&hl=en&gl=us",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/wine-glass/en/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzSxmX8T1goNWSz_K2I08VWSKLR_eM34u_OQ&s",
+      "fuentePagina": "https://www.designpublic.com/products/peter-svarrer-cabernet-red-wine-glass-set-of-6-holmegaard?srsltid=AfmBOoqQBrc1VMQvGpAyai1OiiWAy8nxqxdJPe1TtNG_szq8156bQBkg",
+      "titulo": "Cabernet Red Wine Glass - Set of 6",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzSxmX8T1goNWSz_K2I08VWSKLR_eM34u_OQ&s",
+      "original": "https://www.designpublic.com/cdn/shop/files/smallerredwine.jpg?v=1770399121&width=1200"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/wine-glass/en/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSv1B7e5l_QP-VLqFhz5ps7N_vbxD0-9OsEqg&s",
+      "fuentePagina": "https://www.webstaurantstore.com/anchor-hocking-perfect-portions-3-oz-wine-taster-glass-case/55090062.html?srsltid=AfmBOoqSQSFLnk1eftKMxTejmiBIINoWwTXYKW5wCf_exJwXQdVutk6K",
+      "titulo": "Anchor Hocking Perfect Portions 3 oz. Wine Taster Glass - 36/Case",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSv1B7e5l_QP-VLqFhz5ps7N_vbxD0-9OsEqg&s",
+      "original": "https://cdnimg.webstaurantstore.com/images/products/large/19988/2744794.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/wine-glass/en/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrd1Nq4CRUUwIljI1nmD3RXSP5sr3j6MQPpg&s",
+      "fuentePagina": "https://www.amazon.com/WOGXN-Creative-Glasses-Portable-Birthday/dp/B0D7C7LG8Y",
+      "titulo": "Amazon.com | WOGXN Half Wine Glass Set Of 2, 140ml Creative ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrd1Nq4CRUUwIljI1nmD3RXSP5sr3j6MQPpg&s",
+      "original": "https://m.media-amazon.com/images/I/711FY20cSIL.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/wine-glass/en/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJegBbvrUrSfNfoKOZX6y6jszX6uU5Du0_3w&s",
+      "fuentePagina": "https://www.seriouseats.com/best-universal-wine-glasses",
+      "titulo": "The 8 Best Wine Glasses of 2026, Tested & Reviewed",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJegBbvrUrSfNfoKOZX6y6jszX6uU5Du0_3w&s",
+      "original": "https://www.seriouseats.com/thmb/xnQObuVXoS4rVwmuQ0DlycZckB4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/sea-primary-glassware-rkilgore-980-bddd4702ec1046cb80204d37a4003cc1.jpeg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/wine-glass/en/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcTb3215hl6tBVAxF8EIBRyew7KwslzT5hFg&s",
+      "fuentePagina": "https://muusart.com/blog/how-to-draw-a-wine-glass/",
+      "titulo": "How to Draw a Wine Glass in 4 Easy Steps | Muus Art",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcTb3215hl6tBVAxF8EIBRyew7KwslzT5hFg&s",
+      "original": "https://muusart.com/wp-content/uploads/2024/10/4.-Contrast-Final-drawing-769x1024.jpg.webp"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/wine-glass/en/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqHZtLPe1hQSdAuJiKSqtECSzwyFVVAsJWAg&s",
+      "fuentePagina": "https://shop.libbey.com/products/libbey-vina-tall-wine-glasses-16-ounce-set-of-12?bvstate=pg:2/ct:r&srsltid=AfmBOoqWbHhH5tAbAmwY5xVtZgXlthWCfLOfJ0XOqE_YHJMBeNk5CVeS",
+      "titulo": "Libbey Vina Tall Wine Glasses, 16 ounce, Set of 12 – Libbey Shop",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqHZtLPe1hQSdAuJiKSqtECSzwyFVVAsJWAg&s",
+      "original": "https://shop.libbey.com/cdn/shop/files/681abc68852a24e9f380ffd649a631bc6e7801d4.jpg?v=1760472206&width=1080"
+    }
+  ]
+}

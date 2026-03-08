@@ -1,0 +1,71 @@
+{
+  "categoria": "boat",
+  "categoriaSlug": "boat",
+  "idioma": "es",
+  "nombreIdioma": "Español",
+  "termino": "barco",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T20:46:08.906Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "es",
+    "gl": "es"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=barco&hl=es&gl=es",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/boat/es/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT66Zhqrt-Zh-aUFjZt1h__Q8XhWeT4AX8HPw&s",
+      "fuentePagina": "https://www.bbc.com/mundo/noticias-43745915",
+      "titulo": "Cómo fue creado el \"Sinfonía de los Mares\", el barco de ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT66Zhqrt-Zh-aUFjZt1h__Q8XhWeT4AX8HPw&s",
+      "original": "http://c.files.bbci.co.uk/7C82/production/_100847813_low_1522141236_image001.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/boat/es/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXQthC1y7YULOaORMuk-T3OA9otL06zJgcag&s",
+      "fuentePagina": "https://es.wikipedia.org/wiki/Barco_de_pasajeros",
+      "titulo": "Barco de pasajeros - Wikipedia, la enciclopedia libre",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXQthC1y7YULOaORMuk-T3OA9otL06zJgcag&s",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/d/d0/RMS_Queen_Elizabeth_2_in_Trondheim_2008.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/boat/es/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlbnADJK7ctyAZHQn78BxChJu15QV1_Hvpgg&s",
+      "fuentePagina": "https://www.freepik.es/fotos-vectores-gratis/barco-dibujo",
+      "titulo": "Imágenes de Barco dibujo - Descarga gratuita en Freepik",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlbnADJK7ctyAZHQn78BxChJu15QV1_Hvpgg&s",
+      "original": "https://img.freepik.com/vector-gratis/ilustracion-dibujos-animados-aislados-barco-madera_1308-158108.jpg?semt=ais_hybrid&w=740&q=80"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/boat/es/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQo2F1IDDtHF2FQLvqPIWUOUXRnojqmdrGVdg&s",
+      "fuentePagina": "https://vadebarcos.net/2023/12/09/el-buque-escuela-amerigo-vespucci-el-barco-mas-bonito-del-mundo/",
+      "titulo": "El buque escuela Amerigo Vespucci, el barco más bonito del ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQo2F1IDDtHF2FQLvqPIWUOUXRnojqmdrGVdg&s",
+      "original": "https://i0.wp.com/vadebarcos.net/wp-content/uploads/2023/12/image.png?fit=1200%2C805&ssl=1"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/boat/es/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyR_8YEfV1fb2HPnvoqZy0iAgSoweSBavGbA&s",
+      "fuentePagina": "https://es.pngtree.com/free-png-vectors/dibujos-animados-de-barco",
+      "titulo": "Dibujos Animados De Barco PNG, Dibujos, Vectores Para ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyR_8YEfV1fb2HPnvoqZy0iAgSoweSBavGbA&s",
+      "original": "https://png.pngtree.com/png-vector/20240204/ourmid/pngtree-cartoon-boat-or-toy-ship-png-image_11608023.png"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/boat/es/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJIMLJmRituwoig8MPb4Ewka7qPrlmkl_Hvw&s",
+      "fuentePagina": "https://es.travel2latam.com/news-90700-regent-seven-seas-cruises-presenta-la-primera-mirada-de-los-barcos-de-ultralujo-de-proxima-generacion",
+      "titulo": "Regent Seven Seas Cruises presenta la primera mirada de los ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJIMLJmRituwoig8MPb4Ewka7qPrlmkl_Hvw&s",
+      "original": "https://es.travel2latam.com/uploads/0000060758-resized-1280x720.png"
+    }
+  ]
+}

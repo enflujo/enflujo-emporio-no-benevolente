@@ -1,0 +1,71 @@
+{
+  "categoria": "toilet",
+  "categoriaSlug": "toilet",
+  "idioma": "am",
+  "nombreIdioma": "Amharic — አማርኛ",
+  "termino": "መጸዳጃ",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:20:30.021Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "am",
+    "gl": "et"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=%E1%88%98%E1%8C%B8%E1%8B%B3%E1%8C%83&hl=am&gl=et",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/toilet/am/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcpBZ280dD1qgkdtgIeoGdpZhTmQywcbtTng&s",
+      "fuentePagina": "https://www.facebook.com/EthiopiaFMoH/posts/%E1%88%98%E1%8C%B8%E1%8B%B3%E1%8C%83-%E1%89%A4%E1%89%B5-%E1%8B%A8%E1%88%81%E1%88%8B%E1%89%BD%E1%8A%95%E1%88%9D-%E1%8C%89%E1%8B%B3%E1%8B%AD-%E1%88%8A%E1%88%86%E1%8A%95-%E1%8B%AD%E1%8C%8D%E1%89%A3%E1%88%8D-%E1%8B%A8%E1%88%98%E1%8D%80%E1%8B%B3%E1%8C%83-%E1%89%A4%E1%89%B5%E1%8B%8E%E1%8A%95-%E1%8A%95%E1%88%85%E1%8C%BD%E1%8A%93-%E1%89%A0%E1%88%98%E1%8C%A0%E1%89%A0%E1%89%85-%E1%8B%88%E1%8B%B0-%E1%8C%A4%E1%8A%93%E1%88%9B-%E1%8A%91%E1%88%AE-%E1%8A%A0%E1%8A%95%E1%8B%B5-%E1%8A%A5%E1%88%AD%E1%88%9D%E1%8C%83-%E1%8B%AD%E1%88%AB%E1%88%98%E1%8B%B1-toilet/1953138661523594/",
+      "titulo": "መጸዳጃ ቤት የሁላችንም ጉዳይ ሊሆን ይግባል ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcpBZ280dD1qgkdtgIeoGdpZhTmQywcbtTng&s",
+      "original": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=1953137974856996"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/toilet/am/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfvE85nxD7PQOOkKwDIEoc5Z_qAiRMFlolJw&s",
+      "fuentePagina": "https://www.bbc.com/amharic/articles/ce8611dk413o",
+      "titulo": "በወርቅ የተሠራው መጸዳጃ በ12 ሚሊዮን ዶላር ተሸጠ ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfvE85nxD7PQOOkKwDIEoc5Z_qAiRMFlolJw&s",
+      "original": "https://ichef.bbci.co.uk/ace/ws/640/cpsprodpb/c331/live/11aee760-c694-11f0-a892-01d657345866.jpg.webp"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/toilet/am/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHkpZG84jVomAsiTwpYwR3J42sXTWdsJZBYA&s",
+      "fuentePagina": "https://am.sunriseceramicgroup.com/high-quality-ceramic-water-saving-toilet-product/",
+      "titulo": "የጅምላ ቆንጆ ዲዛይን ሁለት ቁራጭ ሽንት ቤት ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHkpZG84jVomAsiTwpYwR3J42sXTWdsJZBYA&s",
+      "original": "http://cdn.globalso.com/sunriseceramicgroup/CT6606-3toilet.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/toilet/am/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTH_BbZT8NR0t3pocS6ho-vqx16_M-4ls2hqg&s",
+      "fuentePagina": "https://am.sunriseceramicgroup.com/news/the-story-about-the-toilet-2/",
+      "titulo": "ዜና - ስለ መጸዳጃ ቤት ያለው ታሪክ",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTH_BbZT8NR0t3pocS6ho-vqx16_M-4ls2hqg&s",
+      "original": "https://www.sunriseceramicgroup.com/uploads/CT8802H-toilet-33.jpg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/toilet/am/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3PlKB6e5U_DlD8CyPPKjrIB2iG5pV8LIPaA&s",
+      "fuentePagina": "https://am.sunriseceramicgroup.com/the-timeless-elegance-of-traditional-close-coupled-toilets-product/",
+      "titulo": "የጅምላ ንግድ ጊዜ የማይሽረው የባህላዊ ቅርብ ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3PlKB6e5U_DlD8CyPPKjrIB2iG5pV8LIPaA&s",
+      "original": "http://cdn.globalso.com/sunriseceramicgroup/CB8805-9toilet1.jpg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/toilet/am/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjO-IuZdRHEo0kHGv8e8VJAD_1I-N407JyQA&s",
+      "fuentePagina": "https://am.sunriseceramicgroup.com/news/how-to-choose-and-buy-a-suitable-toilet-in-a-small-bathroom/",
+      "titulo": "ዜና - በትንሽ መታጠቢያ ቤት ውስጥ ተስማሚ መጸዳጃ ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjO-IuZdRHEo0kHGv8e8VJAD_1I-N407JyQA&s",
+      "original": "https://cdn.globalso.com/sunriseceramicgroup/223.jpg"
+    }
+  ]
+}

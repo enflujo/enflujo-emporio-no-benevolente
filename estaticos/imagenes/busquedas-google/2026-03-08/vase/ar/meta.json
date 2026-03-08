@@ -1,0 +1,71 @@
+{
+  "categoria": "vase",
+  "categoriaSlug": "vase",
+  "idioma": "ar",
+  "nombreIdioma": "العربية",
+  "termino": "مزهرية",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:29:45.778Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "ar",
+    "gl": "eg"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=%D9%85%D8%B2%D9%87%D8%B1%D9%8A%D8%A9&hl=ar&gl=eg",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/vase/ar/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCTVEzsXDl6aNRZn8o7JYOt5FXcpfF5tuYGA&s",
+      "fuentePagina": "https://ar.wikipedia.org/wiki/%D9%85%D8%B2%D9%87%D8%B1%D9%8A%D8%A9",
+      "titulo": "مزهرية - ويكيبيديا",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCTVEzsXDl6aNRZn8o7JYOt5FXcpfF5tuYGA&s",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Chinese_vase.jpg/250px-Chinese_vase.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/vase/ar/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTytycj3wC8nzCYFE6A1Bv3AZYwCAUM4GFvZg&s",
+      "fuentePagina": "https://sa.made-in-china.com/co_taisiceramics/product_V093-Wholesale-Chinoiserie-Vase-Decor-Decoration-Ceramic-Table-Flower-Vase-Porcelain-Green-Hand-Painting-Rustic-Vase_ysgeioyheg.html",
+      "titulo": "V093 مزهرية صينية بالجملة ديكور زينة مزهرية زهور سيراميك ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTytycj3wC8nzCYFE6A1Bv3AZYwCAUM4GFvZg&s",
+      "original": "https://image.made-in-china.com/202f0j00JsZopMqrnact/V093-Wholesale-Chinoiserie-Vase-Decor-Decoration-Ceramic-Table-Flower-Vase-Porcelain-Green-Hand-Painting-Rustic-Vase.webp"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/vase/ar/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIE0Mb7vRLKrhqWHSqim5nH0SZoUlm-ZMdMQ&s",
+      "fuentePagina": "https://in.pinterest.com/pin/725853664931213320/",
+      "titulo": "بيضاء إناء جميل إن مزهرية جميلة إناء طويل القامة, التوضيح ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIE0Mb7vRLKrhqWHSqim5nH0SZoUlm-ZMdMQ&s",
+      "original": "https://i.pinimg.com/736x/6a/63/57/6a635750f9d8e63dce0ac528dcb1adf5.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/vase/ar/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3jMrg2OXSSVadSmbdJ9WJotpYEcRcdFQ3Tg&s",
+      "fuentePagina": "https://magmagallery.com/2016/10/08/tall-crochet-vase-%D9%85%D8%B2%D9%87%D8%B1%D9%8A%D8%A9-%D8%A7%D9%84%D9%83%D8%B1%D9%88%D8%B4%D9%8A%D9%87-%D8%A7%D9%84%D8%B7%D9%88%D9%8A%D9%84%D8%A9-2/",
+      "titulo": "Tall Crochet Vase مزهرية الكروشيه الطويلة – Magma Gallery",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3jMrg2OXSSVadSmbdJ9WJotpYEcRcdFQ3Tg&s",
+      "original": "https://magmagallery.com/wp-content/uploads/2016/10/82110.jpg?w=1000"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/vase/ar/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjQZPGWhCtUT4OdtC0lKbCgm4lJ5-DbOVZGw&s",
+      "fuentePagina": "https://www.zarahome.com/eg/%D9%85%D8%B2%D9%87%D8%B1%D9%8A%D8%A9-%D8%AE%D8%B2%D9%81%D9%8A%D8%A9-%D8%A8%D9%85%D8%B8%D9%87%D8%B1-%D8%AE%D8%B4%D9%86-l47321043",
+      "titulo": "مزهرية خزفية بمظهر خشن | Zara Home Egypt",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjQZPGWhCtUT4OdtC0lKbCgm4lJ5-DbOVZGw&s",
+      "original": "https://static.zarahome.net/assets/public/14ba/2bba/bb984897957f/825f8e4c7843/47321043802-p1/47321043802-p1.jpg?ts=1738769280028&f=auto&w=1082"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/vase/ar/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQoMCxK7Fpl9OiQNhshrBba4OKuaV3xzcHpug&s",
+      "fuentePagina": "https://www.nextdirect.com/eg/ar/style/su354723/e05691",
+      "titulo": "اشترِ مزهرية كبيرة مزيّنة بزهور من Next مصر",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQoMCxK7Fpl9OiQNhshrBba4OKuaV3xzcHpug&s",
+      "original": "https://xcdn.next.co.uk/common/items/default/default/itemimages/3_4Ratio/product/lge/E05691s.jpg?im=Resize,width=750"
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "categoria": "toothbrush",
+  "categoriaSlug": "toothbrush",
+  "idioma": "fr",
+  "nombreIdioma": "Français",
+  "termino": "brosse à dents",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:32:20.375Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "fr",
+    "gl": "be"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=brosse%20%C3%A0%20dents&hl=fr&gl=be",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/toothbrush/fr/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRB_9q4YHhpGTKn-d8zWSz9hGjrGTg-TM1jtg&s",
+      "fuentePagina": "https://medi-market.be/fr/c/meridol-brosse-a-dents-souple-protection-gencive/p/66075",
+      "titulo": "Meridol Brosse à Dents Souple Protection Gencive - Brosse à ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRB_9q4YHhpGTKn-d8zWSz9hGjrGTg-TM1jtg&s",
+      "original": "https://medias.medi-market.be/sys-master/products/34951-fr/1200x1200.34951-fr.webp?timestamp=1753170248510"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/toothbrush/fr/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTACPmxmhDRIN5Wtyb2KvBcEbZoo9LFcZU7rA&s",
+      "fuentePagina": "https://fr.wikipedia.org/wiki/Brosse_%C3%A0_dents",
+      "titulo": "Brosse à dents — Wikipédia",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTACPmxmhDRIN5Wtyb2KvBcEbZoo9LFcZU7rA&s",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/b/b2/Cepillo_Duralon.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/toothbrush/fr/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRmfHh5_J5sVaOcfF_RpsKUh4ZBxhE0DfgZA&s",
+      "fuentePagina": "https://www.pharmacie-pharmaforce.be/produit/gum-brosse-specifique-nettoyage-prothese-dentaire",
+      "titulo": "la brosse à dents pour prothèse permet le nettoyage ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRmfHh5_J5sVaOcfF_RpsKUh4ZBxhE0DfgZA&s",
+      "original": "https://www.pharmacie-pharmaforce.be/resize/1200x1200/media/finish/img/normal/73/0070942502016-brosse-a-dents-pour-prothese-n0201.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/toothbrush/fr/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDazaEkBnyzIb8H6w37yGIetDBv2HyqrjcaA&s",
+      "fuentePagina": "https://medi-market.be/fr/c/elgydium-classic-brosse-a-dents-dure/p/10616",
+      "titulo": "Elgydium Classic Brosse à Dents Dure - Brosse à dents ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDazaEkBnyzIb8H6w37yGIetDBv2HyqrjcaA&s",
+      "original": "https://medias.medi-market.be/sys-master/products/20433-fr/1200x1200.20433-fr.webp?timestamp=1753169853983"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/toothbrush/fr/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKG8-E7i6NIpTsPq4_0V-07Oh0cvGsiUE2lA&s",
+      "fuentePagina": "https://www.vandenborre.be/fr/brosse-a-dents-electrique/oral-b-pro1-black",
+      "titulo": "ORAL-B PRO1 BLACK",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKG8-E7i6NIpTsPq4_0V-07Oh0cvGsiUE2lA&s",
+      "original": "https://image.vandenborre.be/WEB/images/products/superzoom/oral-b_pro1-black_7810091_5.jpg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/toothbrush/fr/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwADTqmv2dMCoJ_Fo6Mgr8jIo2WCsFBPCgzA&s",
+      "fuentePagina": "https://www.newpharma.be/pharmacie/oral-b/870406/oral-b-io-labo-5-brosse-dents-electrique-1-piece.html",
+      "titulo": "Oral-B Io Labo 5 Brosse Dents Électrique 1 Pièce",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwADTqmv2dMCoJ_Fo6Mgr8jIo2WCsFBPCgzA&s",
+      "original": "https://img.newpharma.net/images/products/fr/500/oral-b-io-labo-5-brosse-dents-electrique-1-piece.v1.jpg"
+    }
+  ]
+}

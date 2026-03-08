@@ -1,0 +1,71 @@
+{
+  "categoria": "horse",
+  "categoriaSlug": "horse",
+  "idioma": "es",
+  "nombreIdioma": "Español",
+  "termino": "caballo",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T20:52:08.929Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "es",
+    "gl": "es"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=caballo&hl=es&gl=es",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/horse/es/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBwbQT8QU8yMnsVsHXiSMrWfwp4sK4GLVWFA&s",
+      "fuentePagina": "https://es.wikipedia.org/wiki/Equus_ferus_caballus",
+      "titulo": "Equus ferus caballus - Wikipedia, la enciclopedia libre",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBwbQT8QU8yMnsVsHXiSMrWfwp4sK4GLVWFA&s",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Biandintz_eta_zaldiak_-_modified2.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/horse/es/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSz-xd-q_9Fb8uozs5vtQ8aftWBwcEymV4XWA&s",
+      "fuentePagina": "https://www.zotal.com/tipos-y-razas-de-caballos/",
+      "titulo": "Tipos y razas de caballos | Recopilación de razas y ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSz-xd-q_9Fb8uozs5vtQ8aftWBwcEymV4XWA&s",
+      "original": "https://www.zotal.com/wp-content/uploads/2019/08/razascaballos.png"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/horse/es/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-3ezA0Hagl5n9-of05Cy5Bm-HyjqMn_opkQ&s",
+      "fuentePagina": "https://equspaddock.com/caballos-raza-ideales/",
+      "titulo": "Caballos de raza: selección ideal para saltos e hípica ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-3ezA0Hagl5n9-of05Cy5Bm-HyjqMn_opkQ&s",
+      "original": "https://equspaddock.com/wp-content/uploads/caballos-de-raza.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/horse/es/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGOkXPDSgK_gzvD5xSk5sguXbqpT4bQIO0pQ&s",
+      "fuentePagina": "https://www.freepik.es/fotos-vectores-gratis/caballos-svg",
+      "titulo": "Imágenes de Caballos svg - Descarga gratuita en Freepik",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGOkXPDSgK_gzvD5xSk5sguXbqpT4bQIO0pQ&s",
+      "original": "https://img.freepik.com/vector-gratis/dibujo-animado-caballo-marron-aislado_1308-140956.jpg?semt=ais_hybrid&w=740&q=80"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/horse/es/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRLRWDXNGzd_E7HnWyBuXewWRgNzPrE0xIAA&s",
+      "fuentePagina": "https://ecologiaverde.elperiodico.com/caballo-5784.html",
+      "titulo": "Caballo - Características, hábitat, alimentación y reproducción",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRLRWDXNGzd_E7HnWyBuXewWRgNzPrE0xIAA&s",
+      "original": "https://cdn0.ecologiaverde.com/es/posts/4/8/7/caballo_5784_orig.jpg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/horse/es/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQF31Lj_U0CETi0kQqOLDrZEX16S9kFjjeKvg&s",
+      "fuentePagina": "https://www.ehorses.es/comprar-caballo/kwpn.html",
+      "titulo": "Caballos KWPN en venta: Encuentre su caballo hoy",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQF31Lj_U0CETi0kQqOLDrZEX16S9kFjjeKvg&s",
+      "original": "https://cdn.ehorses.media/image/blur/eyecatcher/kwpn-semental-3anos-170-cm-caballos-de-salto-heerde_a05830d1-b84d-4a91-8e95-d240420ff0aa.jpg"
+    }
+  ]
+}

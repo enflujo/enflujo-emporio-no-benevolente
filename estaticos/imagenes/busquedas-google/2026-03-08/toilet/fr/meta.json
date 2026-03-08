@@ -1,0 +1,71 @@
+{
+  "categoria": "toilet",
+  "categoriaSlug": "toilet",
+  "idioma": "fr",
+  "nombreIdioma": "Français",
+  "termino": "toilettes",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:20:23.653Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "fr",
+    "gl": "be"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=toilettes&hl=fr&gl=be",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/toilet/fr/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThoBfZkD4Pp9W-QjxcC-xf6cVtLZ0ehtEedQ&s",
+      "fuentePagina": "https://www.banio.be/nl/staande-toiletsets/3047765-toilettes-compactes-retro-kr-13-avec-siege-5906365574574.html",
+      "titulo": "Banio KR13 compacte vrijstaande toilet 66cm retro Duoblok met reservoir en  zitting",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThoBfZkD4Pp9W-QjxcC-xf6cVtLZ0ehtEedQ&s",
+      "original": "https://www.banio.be/565593-large_default/toilettes-compactes-retro-kr-13-avec-siege.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/toilet/fr/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwDzAKGcywr_G32jv16aPFT3GOriO4F8OFOg&s",
+      "fuentePagina": "https://sfa.fr/fr/blog/quels-sont-les-differents-types-de-toilettes",
+      "titulo": "Quels sont les différents types de toilettes ? | SFA",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwDzAKGcywr_G32jv16aPFT3GOriO4F8OFOg&s",
+      "original": "https://sfa.backend.sfagroup.com/sites/default/files/blog/images/fr/148.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/toilet/fr/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWmGOnm4yk-qJZGKsCwjseuGAauTq7wuixcg&s",
+      "fuentePagina": "https://www.reuter.com/fr-fr/marques/laufen/toilette.html",
+      "titulo": "WC et toilettes LAUFEN | reuter.com",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWmGOnm4yk-qJZGKsCwjseuGAauTq7wuixcg&s",
+      "original": "https://img.reuter.com/products/la/640x640/laufen-cada-wc-suspendu-avec-silent-flush-l-53-l-36-cm-avec-abattant-wc-avec-cleancoat-lcc-blanc--la-h821cd10000001_1.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/toilet/fr/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfFQPfNPdWWN8jHCmDgbyIS9h_rJkeNoFJsA&s",
+      "fuentePagina": "https://www.banio.be/fr/pack-complet-wc-sur-pieds/3047441-banio-toilette-compacte-niagara-duo-sans-rebord-abattant-soft-close-et-mecanisme-de-chasse-complete-5907548115126.html",
+      "titulo": "Banio toilette compacte Niagara Duo, sans rebord abattant soft-close et  mécanisme de chasse complète",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfFQPfNPdWWN8jHCmDgbyIS9h_rJkeNoFJsA&s",
+      "original": "https://www.banio.be/565014-large_default/banio-toilette-compacte-niagara-duo-sans-rebord-abattant-soft-close-et-mecanisme-de-chasse-complete.jpg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/toilet/fr/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgl_lcX_bIa1QLLyM_Wr9B7gp7OStxOD4_qw&s",
+      "fuentePagina": "https://www.jacobdelafon.fr/blog/conseils/deco-quelles-couleurs-pour-mes-toilettes",
+      "titulo": "DECO - Quelles couleurs pour mes toilettes ? | JacobDelafon",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgl_lcX_bIa1QLLyM_Wr9B7gp7OStxOD4_qw&s",
+      "original": "https://www.jacobdelafon.fr/sites/default/files/public/2024-03/low_def_BASTILLE_ambiance_14.tif_.jpeg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/toilet/fr/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnUM5rsCKXsB10gc6Sjmy30qGsp6k84OzokQ&s",
+      "fuentePagina": "https://www.lemondedubain.com/products/toilette-wc-a-poser-retro-chery-en-ceramique",
+      "titulo": "Toilette WC à poser rétro CHERY en céramique – Le Monde du Bain",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnUM5rsCKXsB10gc6Sjmy30qGsp6k84OzokQ&s",
+      "original": "https://www.lemondedubain.com/cdn/shop/files/00079109_1080x.jpg?v=1718717788"
+    }
+  ]
+}

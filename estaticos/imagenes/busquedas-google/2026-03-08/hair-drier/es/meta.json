@@ -1,0 +1,71 @@
+{
+  "categoria": "hair drier",
+  "categoriaSlug": "hair-drier",
+  "idioma": "es",
+  "nombreIdioma": "Español",
+  "termino": "secador de cabello",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:32:02.360Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "es",
+    "gl": "es"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=secador%20de%20cabello&hl=es&gl=es",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/hair-drier/es/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRj6mVpcVVZac-4JZleuQ2w3ig8RZY_pYBqmw&s",
+      "fuentePagina": "https://es.bellissima.com/products/secador-de-pelo-profesional-my-pro-ceramic-argan-oil-p5-4000",
+      "titulo": "Secador de pelo profesional Ceramic Argan Oil P5 4000",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRj6mVpcVVZac-4JZleuQ2w3ig8RZY_pYBqmw&s",
+      "original": "https://es.bellissima.com/cdn/shop/files/asciugacapelli-professionale-ceramic-argan-oil-p5-4000-11784-gallery_3.jpg?v=1705313743&width=1445"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/hair-drier/es/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9QlgdIlOFz_qTnuXiZOjbGm6q-yijNbxcJA&s",
+      "fuentePagina": "https://www.todocabello.net/blog/caracteristicas-secador-de-pelo-profesional/?srsltid=AfmBOopiTDOgPORkUCT68MgcWs1VuGXkyO7PaAIrENoXkhZblQA19CXS",
+      "titulo": "5 Características Esenciales de un Secador de Pelo Profesional",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9QlgdIlOFz_qTnuXiZOjbGm6q-yijNbxcJA&s",
+      "original": "https://www.todocabello.net/blog/wp-content/uploads/2025/01/secador-peluqueria.webp"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/hair-drier/es/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGRHV1_sM7uOVCwdB-3W-vBevKq4Cls6X8_Q&s",
+      "fuentePagina": "https://taurus-home.com/products/lyss-2302?srsltid=AfmBOor2aICcRk3rDhC3oPrUoz_7EDJvU0c9t9EiQS67_EMzRfD-J840",
+      "titulo": "LYSS 2300",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGRHV1_sM7uOVCwdB-3W-vBevKq4Cls6X8_Q&s",
+      "original": "https://taurus-home.com/cdn/shop/files/900398000-Lyss-2300-min_11.jpg?v=1731009800&width=1500"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/hair-drier/es/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTH5_ux2xC24NfBe0EcWq8VQ-JIDdSscMzK0Q&s",
+      "fuentePagina": "https://elpais.com/escaparate/comparativas/2024-11-23/mejor-secador-de-pelo-ionico.html",
+      "titulo": "Probamos los mejores secadores iónicos: pelo menos ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTH5_ux2xC24NfBe0EcWq8VQ-JIDdSscMzK0Q&s",
+      "original": "https://imagenes.elpais.com/resizer/v2/LPFXCRZEARDXZOFDJKDNEWNYAU.png?auth=e4c04877e5b28c84cb3dc8e6a3dd403d2d2b88e9c194edaf38cbd23570eb87b4&width=1960&height=1103&smart=true"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/hair-drier/es/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlIG1A0Z_aawM9_Ij9rrhD1xGK9uReWYlUDw&s",
+      "fuentePagina": "https://www.carrefour.es/secador-de-pelo-control-tactil-de-pantalla-totalmente-deslizante-aire-frio-y-caliente/8425490134820/p",
+      "titulo": "Secador De Pelo, Control Táctil De Pantalla Totalmente Deslizante, Aire  Frío Y Caliente.",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlIG1A0Z_aawM9_Ij9rrhD1xGK9uReWYlUDw&s",
+      "original": "https://storage.googleapis.com/catalog-pictures-carrefour-es/catalog/pictures/hd_510x_/8425490134820_1.jpg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/hair-drier/es/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRB_QHUl9lxt5KmyC9Dg3EAObVPE4Nb3k8cTg&s",
+      "fuentePagina": "https://www.dyson.es/cuidado-del-cabello/secador-de-pelo",
+      "titulo": "Secadores de pelo profesionales | Ligeros y potentes | Dyson.es",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRB_QHUl9lxt5KmyC9Dg3EAObVPE4Nb3k8cTg&s",
+      "original": "https://dyson-h.assetsadobe2.com/is/image/content/dam/dyson/products/hair-care/505d/consumer/2025/plp/WEB-505-PLP-Carousel_Fast_Drying.jpg?cropPathE=mobile&fit=stretch,1&wid=640"
+    }
+  ]
+}

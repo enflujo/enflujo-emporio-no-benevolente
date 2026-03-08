@@ -1,0 +1,71 @@
+{
+  "categoria": "sandwich",
+  "categoriaSlug": "sandwich",
+  "idioma": "zu",
+  "nombreIdioma": "isiZulu",
+  "termino": "isandwitshi",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:12:10.744Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "zu",
+    "gl": "za"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=isandwitshi&hl=zu&gl=za",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/sandwich/zu/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNZOy2ZKfnJI27s19GIi0zfX5BHOvVxu83gQ&s",
+      "fuentePagina": "https://loyal-machine.com/xh/blog/biscuit-sandwich-recipes/",
+      "titulo": "Iiresiphi zeSandwich eziLula: zifanelekile kwisidlo sakusasa ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNZOy2ZKfnJI27s19GIi0zfX5BHOvVxu83gQ&s",
+      "original": "https://loyal-machine.com/wp-content/uploads/2024/05/1-13.png"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/sandwich/zu/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXFreck0b6t_rU46m-teb2nUOoF-bg_MQQBw&s",
+      "fuentePagina": "https://loyal-machine.com/xh/blog/biscuit-sandwich-recipes/",
+      "titulo": "Iiresiphi zeSandwich eziLula: zifanelekile kwisidlo sakusasa ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXFreck0b6t_rU46m-teb2nUOoF-bg_MQQBw&s",
+      "original": "https://loyal-machine.com/wp-content/uploads/2024/05/7-7.png"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/sandwich/zu/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSd819qWy07lMS9S6EMvcPWItvPhCgOQfbIIw&s",
+      "fuentePagina": "https://loyal-machine.com/xh/blog/biscuit-sandwich-recipes/",
+      "titulo": "Iiresiphi zeSandwich eziLula: zifanelekile kwisidlo sakusasa ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSd819qWy07lMS9S6EMvcPWItvPhCgOQfbIIw&s",
+      "original": "https://loyal-machine.com/wp-content/uploads/2024/05/2-11.png"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/sandwich/zu/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYZtupXyocSQxbUnXqocsVl6CvXVyKWktQlA&s",
+      "fuentePagina": "https://www.instagram.com/reel/DSwFC0FCHIS/",
+      "titulo": "In Zulu as in ngesiZulu 😅",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYZtupXyocSQxbUnXqocsVl6CvXVyKWktQlA&s",
+      "original": "https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3840442708401899246"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/sandwich/zu/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSupS_d-4BDhEt4MeTbPSo2-SjhsUg5NsLaag&s",
+      "fuentePagina": "https://www.instagram.com/reel/DSwFC0FCHIS/",
+      "titulo": "In Zulu as in ngesiZulu 😅",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSupS_d-4BDhEt4MeTbPSo2-SjhsUg5NsLaag&s",
+      "original": "https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3821610404565750059"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/sandwich/zu/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTG8zqNeeFQavWyKVQzuSlJbiqPulEWx-vraw&s",
+      "fuentePagina": "https://www.instagram.com/reel/DSwFC0FCHIS/",
+      "titulo": "In Zulu as in ngesiZulu 😅",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTG8zqNeeFQavWyKVQzuSlJbiqPulEWx-vraw&s",
+      "original": "https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3836059497849094001"
+    }
+  ]
+}

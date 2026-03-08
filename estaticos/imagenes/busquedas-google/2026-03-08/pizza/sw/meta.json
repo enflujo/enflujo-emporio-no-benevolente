@@ -1,0 +1,71 @@
+{
+  "categoria": "pizza",
+  "categoriaSlug": "pizza",
+  "idioma": "sw",
+  "nombreIdioma": "Kiswahili",
+  "termino": "piza",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:15:00.485Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "sw",
+    "gl": "tz"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=piza&hl=sw&gl=tz",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/pizza/sw/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqVtuiDguOaE6Zk8b-qKkYN7fyRCnS3I3ueA&s",
+      "fuentePagina": "https://www.youtube.com/watch?v=JEPtJvykQkI",
+      "titulo": "HOW TO MAKE THE BEST HOMEMADE PIZA //HOMEMADE PIZZA",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqVtuiDguOaE6Zk8b-qKkYN7fyRCnS3I3ueA&s",
+      "original": "https://i.ytimg.com/vi/JEPtJvykQkI/maxresdefault.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/pizza/sw/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTmdDgwZMXkXzHiU_mN0ayDSWMnNlJQj994A&s",
+      "fuentePagina": "https://www.freepik.com/free-photos-vectors/piza",
+      "titulo": "Piza Images - Free Download on Freepik",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTmdDgwZMXkXzHiU_mN0ayDSWMnNlJQj994A&s",
+      "original": "https://img.freepik.com/free-psd/delicious-pepperoni-pizza-culinary-delight_632498-24206.jpg?semt=ais_rp_50_assets&w=740&q=80"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/pizza/sw/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPtdDRx3PpxitbLdsZydzkenADSkwTGVUCFg&s",
+      "fuentePagina": "https://www.istockphoto.com/photo/tasty-slice-of-piza-gm477876950-66981515",
+      "titulo": "Tasty Slice Of Piza Stock Photo - Download Image Now - Pizza ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPtdDRx3PpxitbLdsZydzkenADSkwTGVUCFg&s",
+      "original": "https://media.istockphoto.com/id/477876950/photo/tasty-slice-of-piza.jpg?s=612x612&w=0&k=20&c=L5Zrb3_njtgTCBNmuJC9oXa-xQTsbu3Y_yHvwQBEC-w="
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/pizza/sw/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTw8ILp0nCwyYc7X99PqEVTBRqelr4PotV4dg&s",
+      "fuentePagina": "https://www.justdial.com/Kolkata/Piza-Huts-New-Alipore/033PXX33-XX33-220401093140-Q9N1_BZDET",
+      "titulo": "Piza Huts in New Alipore,Kolkata - Order Food Online - Best ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTw8ILp0nCwyYc7X99PqEVTBRqelr4PotV4dg&s",
+      "original": "https://content.jdmagicbox.com/v2/comp/kolkata/n1/033pxx33.xx33.220401093140.q9n1/catalogue/piza-huts-new-alipore-kolkata-pizza-outlets-jgueoqdlwz.jpg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/pizza/sw/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8TTRkWVCBnEvgNd_eL2kocMDqzIwlU6HhrA&s",
+      "fuentePagina": "https://www.instagram.com/p/C8ujgTUOdMI/",
+      "titulo": "Sabías que en PIZA puedes pedir mitad de un sabor y mitad de ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8TTRkWVCBnEvgNd_eL2kocMDqzIwlU6HhrA&s",
+      "original": "https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3399810920102875912"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/pizza/sw/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTec8zUfRIhICBszXhD7Fv7jAyTKRe7dkAYpQ&s",
+      "fuentePagina": "https://sw.wikipedia.org/wiki/Pizza",
+      "titulo": "Pizza - Wikipedia, kamusi elezo huru",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTec8zUfRIhICBszXhD7Fv7jAyTKRe7dkAYpQ&s",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/a/a3/Eq_it-na_pizza-margherita_sep2005_sml.jpg"
+    }
+  ]
+}

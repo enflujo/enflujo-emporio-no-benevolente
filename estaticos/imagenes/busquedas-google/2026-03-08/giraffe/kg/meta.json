@@ -1,0 +1,71 @@
+{
+  "categoria": "giraffe",
+  "categoriaSlug": "giraffe",
+  "idioma": "kg",
+  "nombreIdioma": "Kikongo",
+  "termino": "jirafé",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T20:55:30.994Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "fr",
+    "gl": "cd"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=jiraf%C3%A9&hl=fr&gl=cd",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/giraffe/kg/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-lARwhbVD0B2DIo8nXuwjXqJuwnIhNwBokQ&s",
+      "fuentePagina": "https://fr.wikipedia.org/wiki/Girafe",
+      "titulo": "Girafe — Wikipédia",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-lARwhbVD0B2DIo8nXuwjXqJuwnIhNwBokQ&s",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Giraffa_camelopardalis_angolensis.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/giraffe/kg/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQm2Q8pkjmXWmkhyU28Az0lqz4ApSYgp8wX8w&s",
+      "fuentePagina": "https://tanzaniaspecialist.fr/blog/tout-savoir-sur-la-girafe/",
+      "titulo": "Tout savoir sur la girafe | Tanzania Specialist",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQm2Q8pkjmXWmkhyU28Az0lqz4ApSYgp8wX8w&s",
+      "original": "https://tanzaniaspecialist.fr/wp-content/uploads/sites/8/2023/02/Reticulated-Giraffe-scaled-1.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/giraffe/kg/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQU38KojljegPO30YmbuWkZyFM4cGKgwwQKbw&s",
+      "fuentePagina": "https://www.anigaido.com/animaux/giraffides/girafe",
+      "titulo": "Girafe : taille, description, biotope, habitat, reproduction",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQU38KojljegPO30YmbuWkZyFM4cGKgwwQKbw&s",
+      "original": "https://www.anigaido.com/media/zoo_animaux/101-200/112/girafe-masai-girafe-du-kilimandjaro-giraffa-camelopardalis-tippelskirchi2-xl.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/giraffe/kg/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQ3aQP16SrwNyF6lAqMA-XboTflqH57UEBmw&s",
+      "fuentePagina": "https://www.ifaw.org/fr/animaux/girafes",
+      "titulo": "Ce que vous devriez savoir sur les girafes | IFAW",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQ3aQP16SrwNyF6lAqMA-XboTflqH57UEBmw&s",
+      "original": "https://d1jyxxz9imt9yb.cloudfront.net/medialib/3597/image/s768x1300/WR202206_GiraffeTranslocation_012_360559_reduced.jpg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/giraffe/kg/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBGlDBy6EUeu5dICM8ullYOY3W39M2BHhCTg&s",
+      "fuentePagina": "https://fr.wikipedia.org/wiki/Giraffidae",
+      "titulo": "Giraffidae — Wikipédia",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBGlDBy6EUeu5dICM8ullYOY3W39M2BHhCTg&s",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/e/ef/Giraffe-closeup-head.jpg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/giraffe/kg/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5-NTmgmPnwqyGk1__HArigWk5dCcOVmgUiw&s",
+      "fuentePagina": "https://www.beeksebergen.nl/fr/en-safari/safaripark/animaux/girafe",
+      "titulo": "Girafe | Toutes les informations | Beekse Bergen",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5-NTmgmPnwqyGk1__HArigWk5dCcOVmgUiw&s",
+      "original": "https://a.storyblok.com/f/151320/2560x1707/23cb73b92c/groep-giraffen-bij-elkaar-safaripark-beekse-bergen.JPG"
+    }
+  ]
+}

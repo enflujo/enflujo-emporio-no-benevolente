@@ -1,0 +1,71 @@
+{
+  "categoria": "fork",
+  "categoriaSlug": "fork",
+  "idioma": "en",
+  "nombreIdioma": "English",
+  "termino": "fork",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:07:54.195Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "en",
+    "gl": "us"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=fork&hl=en&gl=us",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/fork/en/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLYeKmmPALeMtQrHUPFkTSHuGwtygCxZxA_Q&s",
+      "fuentePagina": "https://www.amazon.com/Stainless-Steel-Dinner-8-Inch-Dishwasher/dp/B08FHGQTRK",
+      "titulo": "Amazon.com: 18/10 Stainless Steel Dinner Fork, 8-Inch, Set ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLYeKmmPALeMtQrHUPFkTSHuGwtygCxZxA_Q&s",
+      "original": "https://m.media-amazon.com/images/I/61z0LVrrowL._AC_UF894,1000_QL80_.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/fork/en/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDhDBCZwuORDjmtPKQLBbDF0s_TUW0rzaiow&s",
+      "fuentePagina": "https://www.wmf-professional.com/table-fork-barock-silverplated.html",
+      "titulo": "Table fork Barock silverplated",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDhDBCZwuORDjmtPKQLBbDF0s_TUW0rzaiow&s",
+      "original": "https://www.wmf-professional.com/media/catalog/product/cache/2/image/508x/040ec09b1e35df139433887a97daa66f/5/4/54_3002_6040.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/fork/en/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGslC2EsmOe8qmB9zp5bVyJ7YNQIPLYFkWeA&s",
+      "fuentePagina": "https://www.hendi.eu/en/table-fork-6-pcs-6245.html",
+      "titulo": "Table fork - 6 pcs - HENDI Tools for Chefs",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGslC2EsmOe8qmB9zp5bVyJ7YNQIPLYFkWeA&s",
+      "original": "https://hendi.xcdn.nl/hendi/images/764411_2018_IMGP77501.jpg?xv=2&f=att:1/raw:1"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/fork/en/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQV1XryIvb8Jnfe8uzFyui1RDJzmb-LDdn1Xw&s",
+      "fuentePagina": "https://www.hoffmaster.com/mini-metallic-fork883314.html",
+      "titulo": "Browse Mini Metallic Forks in Silver / Hoffmaster",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQV1XryIvb8Jnfe8uzFyui1RDJzmb-LDdn1Xw&s",
+      "original": "https://www.hoffmaster.com/media/catalog/product/cache/5e5ab4b510a8ac0e5c717a412505503e/m/i/mini_metallic_fork_883314_1.png"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/fork/en/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsxqcbSeWo46B28QQ45hUe6utMP6JGBPqyvg&s",
+      "fuentePagina": "https://peppercorn.com/products/dinner-fork-12",
+      "titulo": "Dinner Fork — Peppercorn",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsxqcbSeWo46B28QQ45hUe6utMP6JGBPqyvg&s",
+      "original": "https://peppercorn.com/cdn/shop/files/7303_1200x1200_crop_center.jpg?v=1750378405"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/fork/en/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdYwAik4cI-AhVdP-Hh7GEOa6HUFncENk7wQ&s",
+      "fuentePagina": "https://en.wikipedia.org/wiki/Fork",
+      "titulo": "Fork - Wikipedia",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdYwAik4cI-AhVdP-Hh7GEOa6HUFncENk7wQ&s",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Assorted_forks.jpg"
+    }
+  ]
+}

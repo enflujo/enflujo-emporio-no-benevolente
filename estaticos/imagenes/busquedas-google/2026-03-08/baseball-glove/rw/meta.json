@@ -1,0 +1,71 @@
+{
+  "categoria": "baseball glove",
+  "categoriaSlug": "baseball-glove",
+  "idioma": "rw",
+  "nombreIdioma": "Kinyarwanda",
+  "termino": "intoki ya beisiboli",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:03:24.019Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "en",
+    "gl": "rw"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=intoki%20ya%20beisiboli&hl=en&gl=rw",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/baseball-glove/rw/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTy2bNRBwj-BeiMXI9TulIiZP7zYFt427mbUA&s",
+      "fuentePagina": "https://www.facebook.com/tantinerw/posts/gukaraba-intoki-ni-intambwe-idasubira-inyuma-mu-kwirinda-indwara-ya-covid_19-dor/2635899443202701/",
+      "titulo": "Gukaraba intoki ni intambwe idasubira inyuma mu kwirinda ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTy2bNRBwj-BeiMXI9TulIiZP7zYFt427mbUA&s",
+      "original": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=2635899443202701"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/baseball-glove/rw/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROaG-k4dkX_6nQx9TR-_d1BsOREdD3xvMVzA&s",
+      "fuentePagina": "https://www.igihe.com/amakuru/mu-mahanga/article/oms-yerekanye-ko-ubwoko-bwa-covid-19-yihinduranyije-bwacogozwa-no-kubahiriza",
+      "titulo": "OMS yerekanye ko ubwoko bwa COVID-19 yihinduranyije ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROaG-k4dkX_6nQx9TR-_d1BsOREdD3xvMVzA&s",
+      "original": "https://igihe.com/IMG/arton154207.jpg?1626719693"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/baseball-glove/rw/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwU27CBhURCBVYv6BJmd9oOjx1mRDH8yAhFw&s",
+      "fuentePagina": "https://www.unicef.org/rwanda/rw/press_release/minisante-na-unicef-batangije-ingamba-zo-gukaraba-intoki",
+      "titulo": "MINISANTE na UNICEF batangije ingamba zo gukaraba intoki",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwU27CBhURCBVYv6BJmd9oOjx1mRDH8yAhFw&s",
+      "original": "https://www.unicef.org/rwanda/sites/unicef.org.rwanda/files/styles/press_release_feature/public/3L7A5194.jpg.webp?itok=RrkSb7Es"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/baseball-glove/rw/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9EyA26ZRjtIxXfHW3OtOxgPBUiefsxUGyxw&s",
+      "fuentePagina": "https://www.facebook.com/isibotvandradio/posts/abashakashatsi-bagaragaza-ko-kwandikisha-intoki-biri-gukendera-ibituma-bahangayi/1385151622902652/",
+      "titulo": "Abashakashatsi bagaragaza ko kwandikisha intoki biri ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9EyA26ZRjtIxXfHW3OtOxgPBUiefsxUGyxw&s",
+      "original": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=1385151619569319"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/baseball-glove/rw/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStWQp98_1B6Qv3B6MppJgbVOoHEdS9JhYmyw&s",
+      "fuentePagina": "https://www.merlin-living.com/rw/news/the-artistry-of-handcrafted-ceramic-vases-a-unique-design-experience/",
+      "titulo": "Amakuru - Ubuhanzi bw'amavaze ya Ceramic yakozwe n'intoki ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStWQp98_1B6Qv3B6MppJgbVOoHEdS9JhYmyw&s",
+      "original": "https://www.merlin-living.com/uploads/Handmade-Ceramic-semi-circular-white-vase-for-home-decor-Merlin-Living-71.jpg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/baseball-glove/rw/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqNjI8xc5GSWZ-5A4q3phpG4lR8qxUtoF1RA&s",
+      "fuentePagina": "https://www.kigalitoday.com/imikino/article/2024-umwaka-udasanzwe-ku-makipe-ya-kepler-basketball-na-volleyball",
+      "titulo": "2024: Umwaka udasanzwe ku makipe ya Kepler Basketball na ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqNjI8xc5GSWZ-5A4q3phpG4lR8qxUtoF1RA&s",
+      "original": "https://www.kigalitoday.com/IMG/png/umwaka_udasanzwe_ku_makipe_ya_kepler.png"
+    }
+  ]
+}

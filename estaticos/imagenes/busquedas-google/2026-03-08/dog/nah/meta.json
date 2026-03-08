@@ -1,0 +1,71 @@
+{
+  "categoria": "dog",
+  "categoriaSlug": "dog",
+  "idioma": "nah",
+  "nombreIdioma": "Náhuatl",
+  "termino": "chichi",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T20:51:26.013Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "es",
+    "gl": "mx"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=chichi&hl=es&gl=mx",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/dog/nah/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwvAzm-IgZmb3ufOCWIi3P3zPeIU9k54uZSw&s",
+      "fuentePagina": "https://heroes-unite.fandom.com/wiki/Chi-Chi_(Dragon_Ball_Series)",
+      "titulo": "Chi-Chi (Dragon Ball Series) | Heroes unite Wikia | Fandom",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwvAzm-IgZmb3ufOCWIi3P3zPeIU9k54uZSw&s",
+      "original": "https://static.wikia.nocookie.net/heroes-unite/images/e/e9/Chichi_by_maffo1989-d6pkj5n.png/revision/latest?cb=20181210211750"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/dog/nah/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcMEXxmgis6RuvTxcCfN9A1ntXBz-40_11_g&s",
+      "fuentePagina": "https://mx.pinterest.com/pin/594123375828005139/",
+      "titulo": "Chichi ~😍♥️🐼",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcMEXxmgis6RuvTxcCfN9A1ntXBz-40_11_g&s",
+      "original": "https://i.pinimg.com/564x/b4/f3/fe/b4f3feedcee5fd5c91932854f6830336.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/dog/nah/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ52EixpI79AHbhCAMByr9_pS_1mHzBsy_vGg&s",
+      "fuentePagina": "https://dragonballworld.fandom.com/wiki/Chichi",
+      "titulo": "Chichi | Dragon Ball World Wiki | Fandom",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ52EixpI79AHbhCAMByr9_pS_1mHzBsy_vGg&s",
+      "original": "https://static.wikia.nocookie.net/dragonball-world/images/5/59/Chichi.png/revision/latest?cb=20161024235108"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/dog/nah/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRemWNid7vSCYXAuUWV_zclWQSi8sXooBzCKQ&s",
+      "fuentePagina": "https://www.reddit.com/r/PowerScaling/comments/1oa3vq2/chichi_dragon_ball_vs_mahito_jjk_who_would_win/?tl=es-419",
+      "titulo": "Chichi (Dragon Ball) vs Mahito (JJK), ¿quién ganaría y por ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRemWNid7vSCYXAuUWV_zclWQSi8sXooBzCKQ&s",
+      "original": "https://i.redd.it/chichi-dragon-ball-vs-mahito-jjk-who-would-win-and-why-v0-skb0daw82xvf1.png?width=605&format=png&auto=webp&s=e89c3cb8567e78fe6f6dda2961c2de85a8ba8f2a"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/dog/nah/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQAjtUAz6ldrRAET4Dibgu-t15JAkIRCdoCw&s",
+      "fuentePagina": "https://ar.pinterest.com/pin/934778466437230278/",
+      "titulo": "Chichi",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQAjtUAz6ldrRAET4Dibgu-t15JAkIRCdoCw&s",
+      "original": "https://i.pinimg.com/736x/d3/2a/85/d32a85b7ac317fd06e66b0023328d7cd.jpg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/dog/nah/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrVRRKk-RowZe709_RcBOCxeNWIMzJl0TW-A&s",
+      "fuentePagina": "https://dragonball.fandom.com/es/wiki/Chi-Chi",
+      "titulo": "Chi-Chi | Dragon Ball Wiki Hispano | Fandom",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrVRRKk-RowZe709_RcBOCxeNWIMzJl0TW-A&s",
+      "original": "https://static.wikia.nocookie.net/dragonball/images/3/31/Chi-Chi_Daima.png/revision/latest/scale-to-width/360?cb=20241129080654&path-prefix=es"
+    }
+  ]
+}

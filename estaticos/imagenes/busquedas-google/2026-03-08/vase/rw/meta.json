@@ -1,0 +1,71 @@
+{
+  "categoria": "vase",
+  "categoriaSlug": "vase",
+  "idioma": "rw",
+  "nombreIdioma": "Kinyarwanda",
+  "termino": "imbuto y'amashuri",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:29:30.505Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "en",
+    "gl": "rw"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=imbuto%20y'amashuri&hl=en&gl=rw",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/vase/rw/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQI-gmr7mc3IoA8b7O9WuKBRHc69mSN3BM3TA&s",
+      "fuentePagina": "https://www.kigalitoday.com/uburezi/ibikorwa-by-uburezi/article/huye-hatangijwe-ingando-y-abana-barihirwa-amashuri-n-imbuto-foundation",
+      "titulo": "Huye: Hatangijwe ingando y'abana barihirwa amashuri n'imbuto ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQI-gmr7mc3IoA8b7O9WuKBRHc69mSN3BM3TA&s",
+      "original": "https://www.kigalitoday.com/IMG/jpg/a.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/vase/rw/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUEVUiXYNPtYk8dDvt72KSR-3EqwRPs6UNRg&s",
+      "fuentePagina": "https://www.kigalitoday.com/uburezi/ibikorwa-by-uburezi/article/huye-hatangijwe-ingando-y-abana-barihirwa-amashuri-n-imbuto-foundation",
+      "titulo": "Huye: Hatangijwe ingando y'abana barihirwa amashuri n'imbuto ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUEVUiXYNPtYk8dDvt72KSR-3EqwRPs6UNRg&s",
+      "original": "https://www.kigalitoday.com/IMG/jpg/b.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/vase/rw/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnZM9lbbXez_VEHDYnbZVZ2dCimNQitlD6eQ&s",
+      "fuentePagina": "https://kigalitoday.com/uburezi/amashuri/Imbuto-Foundation-yahembye-abakobwa-batsinze-neza-ibizamini-bya-Leta",
+      "titulo": "Imbuto Foundation yahembye abakobwa batsinze neza ibizamini ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnZM9lbbXez_VEHDYnbZVZ2dCimNQitlD6eQ&s",
+      "original": "https://kigalitoday.com/IMG/jpg/abayobozi_bashimiye_abanyeshuri_batsinze_neza_mu_bizamini_bya_leta_bisoza_umwaka_wa_2015.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/vase/rw/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpc8hTpgKXs8tQr_hLSMaAGn6IqJOk-obNhA&s",
+      "fuentePagina": "https://www.kigalitoday.com/uburezi/ibikorwa-by-uburezi/article/huye-hatangijwe-ingando-y-abana-barihirwa-amashuri-n-imbuto-foundation",
+      "titulo": "Huye: Hatangijwe ingando y'abana barihirwa amashuri n'imbuto ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpc8hTpgKXs8tQr_hLSMaAGn6IqJOk-obNhA&s",
+      "original": "https://www.kigalitoday.com/IMG/jpg/c.jpg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/vase/rw/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyvE0wG3r1j__qYB7JHpZts-TsYfbpiFkJcQ&s",
+      "fuentePagina": "https://www.facebook.com/Umuseke.rw/posts/abishyuriwe-amashuri-na-imbuto-f-batangiye-kwigisha-urubyiruko-indangagacirourub/2093328600695409/",
+      "titulo": "Abishyuriwe amashuri na Imbuto F. batangiye kwigisha ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyvE0wG3r1j__qYB7JHpZts-TsYfbpiFkJcQ&s",
+      "original": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=2093327547362181"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/vase/rw/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjZbYsiN66CJQgsTTJibF8kzTNUckjexITig&s",
+      "fuentePagina": "https://www.kigalitoday.com/amakuru/utuntu-n-utundi/article/menya-igihe-cyiza-cyo-kurya-imbuto",
+      "titulo": "Menya igihe cyiza cyo kurya imbuto - Kigali Today",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjZbYsiN66CJQgsTTJibF8kzTNUckjexITig&s",
+      "original": "https://www.kigalitoday.com/IMG/jpg/maxresdefault-11.jpg"
+    }
+  ]
+}

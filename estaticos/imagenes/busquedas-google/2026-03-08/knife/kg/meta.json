@@ -1,0 +1,71 @@
+{
+  "categoria": "knife",
+  "categoriaSlug": "knife",
+  "idioma": "kg",
+  "nombreIdioma": "Kikongo",
+  "termino": "mopangu",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:08:40.063Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "fr",
+    "gl": "cd"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=mopangu&hl=fr&gl=cd",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/knife/kg/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTs4UNyq3UOn2_S8opnm_u8jF4SwHLDqQtmqQ&s",
+      "fuentePagina": "https://www.weathercrave.com/weather-forecast-democratic-republic-of-congo/city-47795/weather-forecast-mopangu-today",
+      "titulo": "Weather Forecast Mopangu - Democratic Republic of Congo ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTs4UNyq3UOn2_S8opnm_u8jF4SwHLDqQtmqQ&s",
+      "original": "https://static1.mclcm.net/iod/images/v2/69/citytheque/localite_104_194/420x177_80_300_000000x10x0.jpg?ts=20200311140204"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/knife/kg/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTiBak1MgJ5IfcvHy9CEPsCUBOjkHBHuZ05jg&s",
+      "fuentePagina": "https://www.youtube.com/watch?v=M6p__j7ygQE",
+      "titulo": "VOL 1796 LA SANKUROISE AMEMELI BINO MOPANGU YA KITOKO NA N ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTiBak1MgJ5IfcvHy9CEPsCUBOjkHBHuZ05jg&s",
+      "original": "https://i.ytimg.com/vi/M6p__j7ygQE/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLDd9c-T_kJ3hq0Wrc-ta--mbm8N0Q"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/knife/kg/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvNVsvMfAWb2llMffs28Rg8Cdw3uItMCN25w&s",
+      "fuentePagina": "https://fr.wikipedia.org/wiki/Maker_Mwangu",
+      "titulo": "Maker Mwangu — Wikipédia",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvNVsvMfAWb2llMffs28Rg8Cdw3uItMCN25w&s",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/d/d2/Maker_Mwangu_%28cropped%29.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/knife/kg/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEockvs6JLhxXwKGGy4tQiZ3lnA12pBdWI1Q&s",
+      "fuentePagina": "https://www.youtube.com/watch?v=UEnzxYQrsjs",
+      "titulo": "Mopanga - YouTube",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEockvs6JLhxXwKGGy4tQiZ3lnA12pBdWI1Q&s",
+      "original": "https://i.ytimg.com/vi/CQ3yT3C4u4E/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLBsA6v7IXy2fjYI7DnMPaJBDMh9YQ"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/knife/kg/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzbieODWbLbWKIeXAc1QFRnKN0dVON1VHhcw&s",
+      "fuentePagina": "https://congoprofond.net/vers-un-retour-de-maker-mwangu-a-lepst-ce-que-cache-la-sortie-du-depute-mulumba-kanza/",
+      "titulo": "Vers un retour de Maker Mwangu à l'EPST : Ce que cache la ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzbieODWbLbWKIeXAc1QFRnKN0dVON1VHhcw&s",
+      "original": "https://congoprofond.net/wp-content/uploads/2025/07/IMG-20250729-WA02101.jpg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/knife/kg/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0xbHCQN8FqqOKE9rDAopgXeuakei6OJ_FIQ&s",
+      "fuentePagina": "https://fr.getamap.net/cartes/democratic_republic_of_the_congo/congo_democratic_republic_of_the_(general)/210/",
+      "titulo": "Carte Congo Democratic Republic of The (general ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0xbHCQN8FqqOKE9rDAopgXeuakei6OJ_FIQ&s",
+      "original": "https://cdn.getamap.net/img/maps/country/large/cg-map.gif"
+    }
+  ]
+}

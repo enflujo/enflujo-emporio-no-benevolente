@@ -1,0 +1,71 @@
+{
+  "categoria": "sink",
+  "categoriaSlug": "sink",
+  "idioma": "qu",
+  "nombreIdioma": "Quechua",
+  "termino": "sink",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:27:08.984Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "es",
+    "gl": "pe"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=sink&hl=es&gl=pe",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/sink/qu/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpA8Dp3c3g6mz7t79vMaSMbdDn6H7QJJHW-A&s",
+      "fuentePagina": "https://articture.com/products/luxury-sink?srsltid=AfmBOoqPN4VGMfBEciItxeDLCphqoUhUMNwVBavp0mQEndCVVwojRPAh",
+      "titulo": "Articture Signature Luxury Sink",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpA8Dp3c3g6mz7t79vMaSMbdDn6H7QJJHW-A&s",
+      "original": "http://articture.com/cdn/shop/files/image_2_6b85e401-e421-4a33-b1c0-79d14ef6e08c.jpg?v=1691270810"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/sink/qu/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwzCElYqGwtACDe0T_PavOBTlN4_cIyuem8w&s",
+      "fuentePagina": "https://www.signaturehardware.com/18-in-myers-rectangular-porcelain-undermount-bathroom-sink/948176.html?srsltid=AfmBOoqbUXRlYoQ9-c2tPdeJDZBTG1mD09kLni_xbFDVnOED0uVpXA3e",
+      "titulo": "18\" Myers Rectangular Porcelain Undermount Bathroom Sink ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwzCElYqGwtACDe0T_PavOBTlN4_cIyuem8w&s",
+      "original": "https://images.signaturehardware.com/i/signaturehdwr/447959-Myers-sink-WH-18-Beauty08.jpg?w=950&fmt=auto"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/sink/qu/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRY1XOdUmJwCHqsnCgoFm-I3_kG0A0DE_pbNg&s",
+      "fuentePagina": "https://www.ebay.co.uk/itm/202021789024",
+      "titulo": "Bathroom Wash Basin Sink Full Pedestal Single Tap Hole ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRY1XOdUmJwCHqsnCgoFm-I3_kG0A0DE_pbNg&s",
+      "original": "https://ohrmarketplaceimages.blob.core.windows.net/linnworks-images/PWBK0001/PWBK0001__EBY_LS.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/sink/qu/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1PzKPywBYNHdaVpzqwR9bcDgebAbvFo2FcA&s",
+      "fuentePagina": "https://www.ruvati.com/products/ruvati-36-inch-slope-bottom-offset-drain-reversible-kitchen-sink-undermount-16-gauge-stainless-steel-rvh7497/",
+      "titulo": "Ruvati 36-inch Slope Bottom Offset Drain Reversible Kitchen ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1PzKPywBYNHdaVpzqwR9bcDgebAbvFo2FcA&s",
+      "original": "https://www.ruvati.com/wp-content/uploads/RVH7497-1.jpg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/sink/qu/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOWfziMxAy4WaZvMCiZiAskVJ9K-jfSxN9Vw&s",
+      "fuentePagina": "https://www.tapwarehouse.com/p/vellamo-1-bowl-ceramic-inset-sink-1010x530",
+      "titulo": "Vellamo Ceramic 1 Bowl Inset Kitchen Sink with Reversible ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOWfziMxAy4WaZvMCiZiAskVJ9K-jfSxN9Vw&s",
+      "original": "https://img.tapwarehouse.com/products/7/0/5/c/705cb7ff6d0a7167a8e479933a44e864b967858f_vellamo_ceramic_1_bowl_kitchen_sink_with_drainer_lifestyle.jpg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/sink/qu/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkSUDECMIa-MUi7vPlKpJ2n-60IEAY9rFLRQ&s",
+      "fuentePagina": "https://nativetrailshome.com/product/nipomo/",
+      "titulo": "Nipomo | Rectangular Concrete Bathroom Sink | Native Trails",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkSUDECMIa-MUi7vPlKpJ2n-60IEAY9rFLRQ&s",
+      "original": "https://nativetrailshome.com/wp-content/uploads/Images/Bathroom_Sinks/Nipomo-NativeStone-Bathroom-Sink-Ocean-NSL1915-O.jpg"
+    }
+  ]
+}

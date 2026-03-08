@@ -1,0 +1,71 @@
+{
+  "categoria": "sheep",
+  "categoriaSlug": "sheep",
+  "idioma": "ha",
+  "nombreIdioma": "Hausa",
+  "termino": "tumaki",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T20:52:27.084Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "ha",
+    "gl": "ng"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=tumaki&hl=ha&gl=ng",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/sheep/ha/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkpizMV_Ha34cw-RGDQEkvjCbCOIE3DgYKcg&s",
+      "fuentePagina": "https://hausa.leadership.ng/yadda-masu-kiwon-tumaki-za-su-inganta-garkensu/",
+      "titulo": "Yadda Masu Kiwon Tumaki Za Su Inganta Garkensu",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkpizMV_Ha34cw-RGDQEkvjCbCOIE3DgYKcg&s",
+      "original": "https://hausa.leadership.ng/wp-content/uploads/2024/02/33a403897e8c0ed9.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/sheep/ha/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHPbFCbQgKUS46N4LSgFs1lQ_oBEhzb16UJg&s",
+      "fuentePagina": "https://www.facebook.com/CGTNHausa/posts/hotunan-wata-dattijuwa-mai-kiwon-tumaki-a-yankin-ciyayi-na-hulun-buir-dake-jihar/1364238397034779/",
+      "titulo": "Hotunan wata dattijuwa mai kiwon tumaki a yankin ciyayi na ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHPbFCbQgKUS46N4LSgFs1lQ_oBEhzb16UJg&s",
+      "original": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=1364238080368144"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/sheep/ha/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQBhWj1PKZ4dHh810xhPLZeX0oZUtbYLEvBw&s",
+      "fuentePagina": "http://ha.veyongpharma.com/news/why-is-it-difficult-for-pastured-sheep-to-grow-fat/",
+      "titulo": "Labaran - Yadda za Mu warware matsalar cewa yana da wahala ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQBhWj1PKZ4dHh810xhPLZeX0oZUtbYLEvBw&s",
+      "original": "https://www.veyongpharma.com/uploads/sheep21.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/sheep/ha/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqyG4la9fFF6omLcttzARJx8m7_RsPB2zA6w&s",
+      "fuentePagina": "https://hausa.premiumtimesng.com/tag/yan-tumaki",
+      "titulo": "Yan Tumaki Archives - Premium Times Hausa",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqyG4la9fFF6omLcttzARJx8m7_RsPB2zA6w&s",
+      "original": "https://hausa.premiumtimesng.com/wp-content/files/sites/4/2020/07/Rams-1.jpg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/sheep/ha/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8zTknOJN2Zx8C9p3u8GSKQGC-l4sCtfrKBw&s",
+      "fuentePagina": "http://hausa.cri.cn/20210202/2cf36430-46b6-3be9-5f91-6fc925eb731c.html",
+      "titulo": "Dalibar dake sha'awar kiwon tumaki-CRI",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8zTknOJN2Zx8C9p3u8GSKQGC-l4sCtfrKBw&s",
+      "original": "http://p2.cri.cn/M00/1D/3F/rBABC2AYpP-AVRG1AAAAAAAAAAA455.1000x556.jpg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/sheep/ha/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFWKhcZgR5ewRkSiN9BVJ0klJRX3SdB10kkw&s",
+      "fuentePagina": "https://aminiya.ng/tumaki-sun-cinye-ganyen-wiwi-kilo-272-sun-yi-ta-tsalle/",
+      "titulo": "Tumaki sun cinye ganyen wiwi kilo 272 sun yi ta tsalle - Aminiya",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFWKhcZgR5ewRkSiN9BVJ0klJRX3SdB10kkw&s",
+      "original": "https://aminiya.ng/wp-content/uploads/2023/09/images-85.jpeg"
+    }
+  ]
+}

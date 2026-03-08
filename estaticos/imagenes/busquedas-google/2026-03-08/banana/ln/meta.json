@@ -1,0 +1,71 @@
+{
+  "categoria": "banana",
+  "categoriaSlug": "banana",
+  "idioma": "ln",
+  "nombreIdioma": "Lingala",
+  "termino": "liboke",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:10:32.390Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "fr",
+    "gl": "cd"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=liboke&hl=fr&gl=cd",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/banana/ln/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQh0CD4mxE2FrQoM9tJ3o0H2v5U7qVGOSP1w&s",
+      "fuentePagina": "https://heshimardc.net/v1/2022/04/19/dietetique-les-papillotes-de-poisson-deau-douce-faites-avec-des-feuilles-de-marantacees/",
+      "titulo": "Diététique: Les papillotes de poisson d'eau douce faites ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQh0CD4mxE2FrQoM9tJ3o0H2v5U7qVGOSP1w&s",
+      "original": "https://heshimardc.net/v1/wp-content/uploads/2022/04/LIBOKE-YA-MBISI-PRESTATION-2web-1200x900-1.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/banana/ln/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHN94ifWuZE5939Opj_xLh1rSqfyOf_HS0Zw&s",
+      "fuentePagina": "https://b-onetv.cd/le-liboke-entre-dans-le-petit-larousse-2026-un-plat-congolais-a-lhonneur/",
+      "titulo": "Le « Liboke » entre dans le Petit Larousse 2026 : un plat ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHN94ifWuZE5939Opj_xLh1rSqfyOf_HS0Zw&s",
+      "original": "https://b-onetv.cd/wp-content/uploads/2025/05/images-94.webp"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/banana/ln/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDzYezWixmbBtLmNBX2PS5r0VlVULocvCsgQ&s",
+      "fuentePagina": "https://fr.wikipedia.org/wiki/Liboke",
+      "titulo": "Liboke — Wikipédia",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDzYezWixmbBtLmNBX2PS5r0VlVULocvCsgQ&s",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/b/b6/Haumania_liebrechtsiana_-_leaf_pouch_for_libok%C3%A9.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/banana/ln/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTH8be2HLrL5r1w-V4CEADLic5ovYxaGe_oPQ&s",
+      "fuentePagina": "https://thebluefufu.com/fr/liboke-with-boiled-plantains/",
+      "titulo": "Liboké aux plantains bouillis",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTH8be2HLrL5r1w-V4CEADLic5ovYxaGe_oPQ&s",
+      "original": "https://thebluefufu.com/wp-content/uploads/2020/07/35-DSCF6360-scaled.jpg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/banana/ln/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwGbQBzSqSH8fqJY8KrfRpG_y6gUmNM3ATWw&s",
+      "fuentePagina": "https://www.instagram.com/reel/C84HqKroNBb/",
+      "titulo": "Liboke Ya Ngulu 🇨🇩🇨🇩/ Papillote de viande de Porc, Liboke : est une  préparation mise en papillote faite de feuilles de bananier ou autres  feuilles, cuit soit au four, ou sur un grill et la cuisson ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwGbQBzSqSH8fqJY8KrfRpG_y6gUmNM3ATWw&s",
+      "original": "https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3402503202491387995"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/banana/ln/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9I3gqJfeeNBermyZk8IJDAk4gPghnTNvNZw&s",
+      "fuentePagina": "https://www.facebook.com/61558759800593/posts/libok%C3%A9-congolais-un-liboke-prononcer-libok%C3%A9-au-pluriel-maboke-est-un-plat-et-un-/122187912644291993/",
+      "titulo": "LIBOKÉ Congolais🇨🇩🇨🇬 : Un liboke (prononcer liboké), au ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9I3gqJfeeNBermyZk8IJDAk4gPghnTNvNZw&s",
+      "original": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=122187912554291993"
+    }
+  ]
+}

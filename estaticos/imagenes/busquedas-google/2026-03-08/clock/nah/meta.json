@@ -1,0 +1,71 @@
+{
+  "categoria": "clock",
+  "categoriaSlug": "clock",
+  "idioma": "nah",
+  "nombreIdioma": "Náhuatl",
+  "termino": "cahuitl",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:29:11.662Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "es",
+    "gl": "mx"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=cahuitl&hl=es&gl=mx",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/clock/nah/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFlJ40Lz4q7IhN7wkrqSeFqSrKNbtXBgsodg&s",
+      "fuentePagina": "https://primario.mx/products/pin-sombrero-negro",
+      "titulo": "Pin - Cone Cahuitl",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFlJ40Lz4q7IhN7wkrqSeFqSrKNbtXBgsodg&s",
+      "original": "http://primario.mx/cdn/shop/products/pin_cftb_3.jpg?v=1592962511"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/clock/nah/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBezkoqx3jH7jNcLJ5y7aRWXI9BLSpg9D4oQ&s",
+      "fuentePagina": "https://www.facebook.com/Codicedeltiempo/",
+      "titulo": "Cahuitl i amoxtli (@Codicedeltiempo) • Facebook",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBezkoqx3jH7jNcLJ5y7aRWXI9BLSpg9D4oQ&s",
+      "original": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=100082565613007"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/clock/nah/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQimyuhyPdidxyWqb7RSTsZHswO9s_0cStiJg&s",
+      "fuentePagina": "https://m.facebook.com/ilhuicatlanezi/photos/a.643821105674690/685550641501736/",
+      "titulo": "Ilhuicatl - En nahuatl el tiempo se dice cahuitl un vocablo ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQimyuhyPdidxyWqb7RSTsZHswO9s_0cStiJg&s",
+      "original": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=685550641501736"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/clock/nah/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSn0IWaorPpThbeaddgw0dVJt4kGQgfUzeqfA&s",
+      "fuentePagina": "https://www.facebook.com/CahuitlAdventure/",
+      "titulo": "Cahuitl Adventure (@CahuitlAdventure) • Facebook",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSn0IWaorPpThbeaddgw0dVJt4kGQgfUzeqfA&s",
+      "original": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=100063467951383"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/clock/nah/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKXWrAZclWXCsWIyrXlnqQ2lqRoDh8JMiLpA&s",
+      "fuentePagina": "https://x.com/Lycaones/status/1759829491159912661",
+      "titulo": "En #náhuatl, Cahuitl significa «Tiempo»🕰️. Se cree que ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKXWrAZclWXCsWIyrXlnqQ2lqRoDh8JMiLpA&s",
+      "original": "https://pbs.twimg.com/profile_images/1983611005558018048/KElAi8vC.jpg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/clock/nah/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXzIOjATMt9xrIwWCdV_ZZmHge_BGKfXT8pQ&s",
+      "fuentePagina": "https://www.facebook.com/Codicedeltiempo/",
+      "titulo": "Cahuitl i amoxtli (@Codicedeltiempo) • Facebook",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXzIOjATMt9xrIwWCdV_ZZmHge_BGKfXT8pQ&s",
+      "original": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=138031252292395"
+    }
+  ]
+}

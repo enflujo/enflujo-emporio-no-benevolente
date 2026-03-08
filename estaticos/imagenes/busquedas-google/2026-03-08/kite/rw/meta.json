@@ -1,0 +1,71 @@
+{
+  "categoria": "kite",
+  "categoriaSlug": "kite",
+  "idioma": "rw",
+  "nombreIdioma": "Kinyarwanda",
+  "termino": "igikabiri",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:02:02.398Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "en",
+    "gl": "rw"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=igikabiri&hl=en&gl=rw",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/kite/rw/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGED6zqYKCGNeDPjcpP6CoeOQUd8ucpm_NQw&s",
+      "fuentePagina": "https://rw.wikipedia.org/wiki/Igiti",
+      "titulo": "Igiti - Wikipedia",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGED6zqYKCGNeDPjcpP6CoeOQUd8ucpm_NQw&s",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/a/ae/KayesBaobab.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/kite/rw/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHW0V5YFXnpGiQ59x4Bs6D9F1dx4aRfgi4QA&s",
+      "fuentePagina": "https://www.instagram.com/reel/DROujc7DEh6/",
+      "titulo": "Urubyiruko ni imbaraga z' igihugu zubaka kandi vuba! Umunsi ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHW0V5YFXnpGiQ59x4Bs6D9F1dx4aRfgi4QA&s",
+      "original": "https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3823132838560050637"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/kite/rw/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVzh3m5WLpONdElIYa9c7-ytxqsZYdORKV5Q&s",
+      "fuentePagina": "https://www.bbc.com/gahuza/42716991",
+      "titulo": "Burundi: Igikona catumye indege isubira hasi - BBC News ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVzh3m5WLpONdElIYa9c7-ytxqsZYdORKV5Q&s",
+      "original": "https://ichef.bbci.co.uk/news/1024/branded_gahuza/5D73/production/_99632932_811e58ee-de19-404d-8b48-b3031e6bb5e5.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/kite/rw/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREHTzpllpiIkU1-roYO48y5P-FfJNQ_M_qGA&s",
+      "fuentePagina": "https://www.instagram.com/p/DSmpnR6iE9L/",
+      "titulo": "Imikino y'Igikombe cya Afurika cy'Ibihugu kiri kubera muri ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREHTzpllpiIkU1-roYO48y5P-FfJNQ_M_qGA&s",
+      "original": "https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3825815152398735356"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/kite/rw/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlmVA0BwFTibG0jIU_NJJ2GXgyj5zXZZHq5w&s",
+      "fuentePagina": "https://www.instagram.com/p/DSmpnR6iE9L/",
+      "titulo": "Imikino y'Igikombe cya Afurika cy'Ibihugu kiri kubera muri ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlmVA0BwFTibG0jIU_NJJ2GXgyj5zXZZHq5w&s",
+      "original": "https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3836587336511672877"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/kite/rw/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvkC6m_Jct7siJgckXGSEmwmP0r3m-IQA78w&s",
+      "fuentePagina": "https://www.bbc.com/gahuza/articles/cz50ykyr4epo",
+      "titulo": "James Kabarebe azibukirwa ku ki mu mwuga w'igisirikare ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvkC6m_Jct7siJgckXGSEmwmP0r3m-IQA78w&s",
+      "original": "https://ichef.bbci.co.uk/ace/ws/640/cpsprodpb/b1f9/live/36111880-47ca-11ee-96ce-47ef7a541151.jpg.webp"
+    }
+  ]
+}

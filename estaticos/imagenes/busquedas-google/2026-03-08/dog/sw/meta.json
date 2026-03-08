@@ -1,0 +1,71 @@
+{
+  "categoria": "dog",
+  "categoriaSlug": "dog",
+  "idioma": "sw",
+  "nombreIdioma": "Kiswahili",
+  "termino": "mbwa",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T20:50:56.314Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "sw",
+    "gl": "tz"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=mbwa&hl=sw&gl=tz",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/dog/sw/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfegNfrOFZlCB--IlZUMaVxP8ev1g6rlmk2g&s",
+      "fuentePagina": "https://habarileo.co.tz/namna-ya-kufanya-mbwa-asile-chakula-cha-adui/",
+      "titulo": "Namna ya kufanya mbwa asile chakula cha adui - HabariLeo",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfegNfrOFZlCB--IlZUMaVxP8ev1g6rlmk2g&s",
+      "original": "https://habarileo.co.tz/wp-content/uploads/2022/12/images.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/dog/sw/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2YPzu47qHacb7eNVYZKKEkn3ERVeKhXZgmg&s",
+      "fuentePagina": "https://www.mwananchi.co.tz/mw/habari/kitaifa/unafuga-mbwa-je-unafahamu-haya--4489258",
+      "titulo": "Unafuga mbwa? Je, unafahamu haya? | Mwananchi",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2YPzu47qHacb7eNVYZKKEkn3ERVeKhXZgmg&s",
+      "original": "https://www.mwananchi.co.tz/resource/image/4489260/landscape_ratio16x9/1600/900/9d00501151c2f360f1d2c1ee9c77f0b8/DB/mbwa-pic.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/dog/sw/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-sHKy6hzQrQr1Y7cJ3Xk_aW8NUlKCZa8JOQ&s",
+      "fuentePagina": "https://eatv.tv/sw/news/current-affairs/madhara-ya-kiafya-kwa-binadamu-kutokana-na-mbwa",
+      "titulo": "Madhara ya kiafya kwa binadamu kutokana na mbwa | East ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-sHKy6hzQrQr1Y7cJ3Xk_aW8NUlKCZa8JOQ&s",
+      "original": "https://eatv.tv/sites/default/files/styles/detailpageimg/public/news/2018/03/12/Jimbwa.jpg?itok=B7jB3sgo&timestamp=1520841001"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/dog/sw/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8CVpdrSCJoTP-hpGQQg_oEFDD8o7SxMNe4Q&s",
+      "fuentePagina": "https://www.facebook.com/JamiiForums/posts/kufuga-mbwa-kwa-ajili-ya-ulinzi-ni-kupoteza-muda-mjadala-unaendelea-ndani-ya-jam/2282206258510022/",
+      "titulo": "KUFUGA MBWA KWA AJILI YA ULINZI NI KUPOTEZA MUDA? > Mjadala ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8CVpdrSCJoTP-hpGQQg_oEFDD8o7SxMNe4Q&s",
+      "original": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=2282206228510025"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/dog/sw/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCzJLFUXPRpTFY48B_4oF5JKtsSMzgBwmG9A&s",
+      "fuentePagina": "https://www.youtube.com/watch?v=mb1FwpNVT0s",
+      "titulo": "MBWA HATARI ZAIDI DUNIANI, MASHINE YA MAUAJI, HATARI KWA BINADAMU, REKODI  ZA KUTISHA",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCzJLFUXPRpTFY48B_4oF5JKtsSMzgBwmG9A&s",
+      "original": "https://i.ytimg.com/vi/mb1FwpNVT0s/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLCqRtCtTroWgVtI6aYV-tGA02MdRg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/dog/sw/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSwhwHiJlAeICkgSpZoclM0endAZ0q8wh52w&s",
+      "fuentePagina": "https://www.youtube.com/watch?v=QNRejlzMQS0",
+      "titulo": "VIDEO YA MBWA TOP 3 HATARI DUNIANI !! UKIFUGA MBWA HAWA WEKA ROHO MKONONI  Ni Noooma!!",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSwhwHiJlAeICkgSpZoclM0endAZ0q8wh52w&s",
+      "original": "https://i.ytimg.com/vi/QNRejlzMQS0/maxresdefault.jpg"
+    }
+  ]
+}

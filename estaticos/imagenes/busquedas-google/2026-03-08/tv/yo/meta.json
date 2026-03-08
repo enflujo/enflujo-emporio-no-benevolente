@@ -1,0 +1,71 @@
+{
+  "categoria": "tv",
+  "categoriaSlug": "tv",
+  "idioma": "yo",
+  "nombreIdioma": "Yorùbá",
+  "termino": "tẹlifísọ̀n",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:21:04.650Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "yo",
+    "gl": "ng"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=t%E1%BA%B9lif%C3%ADs%E1%BB%8D%CC%80n&hl=yo&gl=ng",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/tv/yo/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0M4xgbI7L8MFLf4H7lo0MBVw4JjAwrs-WpQ&s",
+      "fuentePagina": "https://www.facebook.com/groups/1492499144321992/posts/4329192940652584/",
+      "titulo": "Lérè Ọláyínká, agbẹnusọ Nyesome Wike sọ kò bá kùngbé ọ̀rọ̀ ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0M4xgbI7L8MFLf4H7lo0MBVw4JjAwrs-WpQ&s",
+      "original": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=10224316319133926"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/tv/yo/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRx9M0sY25GFZqCFOxd9Evf_-Iuf6DRvmGFGQ&s",
+      "fuentePagina": "https://www.facebook.com/awikonkotv/posts/%E1%BA%B9-k%C3%BA-u-d%C3%A9%C3%A9d%C3%A9%C3%A9-%C3%A0k%C3%B3k%C3%B2-y%C3%AC%C3%ADmo-n%C3%ADgb%C3%A0gb%E1%BB%8D%CC%81-p%C3%A9-a-j%E1%BA%B9%CC%81-%E1%BB%8D%CC%80kan-n%C3%ADn%C3%BA-%C3%A0w%E1%BB%8Dn-t%C3%B3-f%C3%ACf%E1%BA%B9%CC%81-h%C3%A0n-l%C3%A1ti-%E1%B9%A3/613383534172614/",
+      "titulo": "Ẹ Kú u déédéé àkókò yìí! Mo nígbàgbọ́ pé a jẹ́ ọ̀kan nínú ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRx9M0sY25GFZqCFOxd9Evf_-Iuf6DRvmGFGQ&s",
+      "original": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=613383514172616"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/tv/yo/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGMPPz7Gg3zffk3ucumeM44rwhuV-xpDOfyg&s",
+      "fuentePagina": "https://www.facebook.com/groups/1492499144321992/posts/4329192940652584/",
+      "titulo": "Lérè Ọláyínká, agbẹnusọ Nyesome Wike sọ kò bá kùngbé ọ̀rọ̀ ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGMPPz7Gg3zffk3ucumeM44rwhuV-xpDOfyg&s",
+      "original": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=10224316319213928"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/tv/yo/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMCWjDo089gzKs0xYPvHCq5fvp59OhJ7GhOA&s",
+      "fuentePagina": "https://www.facebook.com/groups/1492499144321992/posts/4329192940652584/",
+      "titulo": "Lérè Ọláyínká, agbẹnusọ Nyesome Wike sọ kò bá kùngbé ọ̀rọ̀ ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMCWjDo089gzKs0xYPvHCq5fvp59OhJ7GhOA&s",
+      "original": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=10224316319173927"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/tv/yo/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHpKOvGk6qVS8zpOT7OY2uHBAZfIybXewLcQ&s",
+      "fuentePagina": "https://www.facebook.com/groups/880487488689787/posts/29922490764062740/",
+      "titulo": "Lérè Ọláyínká, agbẹnusọ Nyesome Wike sọ kò bá kùngbé ọ̀rọ̀ ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHpKOvGk6qVS8zpOT7OY2uHBAZfIybXewLcQ&s",
+      "original": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=26146126614989892"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/tv/yo/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1HHuZLc7rgeKeh_yDFNaH_RmOFAxCcTCbdQ&s",
+      "fuentePagina": "https://www.jw.org/yo/Ohun-T%C3%A1-A-N%C3%AD/awon-apileko/ba-a-se-n-na-owo-te-e-fi-n-setore/%C3%80p%C3%A9j%E1%BB%8D-Agb%C3%A8gb%C3%A8-L%C3%B3r%C3%AD-T%E1%BA%B9lif%C3%AD%E1%B9%A3%C3%B2%CC%A3n-%C3%A0ti-R%C3%A9d%C3%AD%C3%B2/",
+      "titulo": "Apejo Agbegbe Lori Telifison ati Redio | Bá A Ṣe Ń Ná Owó ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1HHuZLc7rgeKeh_yDFNaH_RmOFAxCcTCbdQ&s",
+      "original": "https://cms-imgp.jw-cdn.org/img/p/502500212/univ/art/502500212_univ_lsr_md.jpg"
+    }
+  ]
+}

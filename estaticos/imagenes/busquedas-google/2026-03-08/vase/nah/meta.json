@@ -1,0 +1,71 @@
+{
+  "categoria": "vase",
+  "categoriaSlug": "vase",
+  "idioma": "nah",
+  "nombreIdioma": "Náhuatl",
+  "termino": "xochicomitl",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:29:56.766Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "es",
+    "gl": "mx"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=xochicomitl&hl=es&gl=mx",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/vase/nah/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxlGo9RWPyYJEEPyc4MQIZtbjKWbfIVOX-NQ&s",
+      "fuentePagina": "https://es.wikipedia.org/wiki/Xochiqu%C3%A9tzal",
+      "titulo": "Xochiquétzal - Wikipedia, la enciclopedia libre",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxlGo9RWPyYJEEPyc4MQIZtbjKWbfIVOX-NQ&s",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/a/ad/Xochiquetzal.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/vase/nah/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7BLGfdALkRZAgc1W9xD4bD0t2I3d_fVDzUw&s",
+      "fuentePagina": "https://www.instagram.com/reel/DLakNhPA3vB/",
+      "titulo": "😛, En México existen dos especies de cacomixtle: el cacomixtle norteño  (Bassariscus astutus) que vive en zonas más secas y rocosas del norte y  centro del país, mientras que el cacomixtle tropical ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7BLGfdALkRZAgc1W9xD4bD0t2I3d_fVDzUw&s",
+      "original": "https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3664400505532283841"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/vase/nah/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTH9Cqs9v5hmMH3a2TeC1iqaUyZrIh4RLTUXg&s",
+      "fuentePagina": "https://matadornetwork.com/es/todo-lo-que-siempre-quisiste-saber-que-es-un-cacomixtle/",
+      "titulo": "Sabes lo que es un cacomixtle? - Matador Español",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTH9Cqs9v5hmMH3a2TeC1iqaUyZrIh4RLTUXg&s",
+      "original": "https://cdn1.matadornetwork.com/blogs/2/2020/03/Cacomixtle-1200x900.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/vase/nah/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4tU-Vl5y3NfN-3U79WCCwm1Xpy34YiSaC0w&s",
+      "fuentePagina": "https://www.instagram.com/p/C5NGyqcOy89/",
+      "titulo": "El cacomixtle, científicamente conocido como Bassariscus ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4tU-Vl5y3NfN-3U79WCCwm1Xpy34YiSaC0w&s",
+      "original": "https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3336352756317885382"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/vase/nah/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUp384YMWkpQWzwkIDyitGQVQU78hNeRhj4Q&s",
+      "fuentePagina": "https://es.wikipedia.org/wiki/Zona_arqueol%C3%B3gica_de_Xochicalco",
+      "titulo": "Zona arqueológica de Xochicalco - Wikipedia, la enciclopedia ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUp384YMWkpQWzwkIDyitGQVQU78hNeRhj4Q&s",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/6/64/Xochicalco_-_panoramio.jpg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/vase/nah/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdC3ts-t72yDMZYiFrLTf8h-3m1SELGC2Nog&s",
+      "fuentePagina": "https://www.facebook.com/AmbienteEdomex/posts/el-cacomixtle-es-un-curioso-animalito-de-la-familia-de-los-mapaches-los-coat%C3%ADs-l/2423187764374261/",
+      "titulo": "El #Cacomixtle es un curioso animalito de la familia de los ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdC3ts-t72yDMZYiFrLTf8h-3m1SELGC2Nog&s",
+      "original": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=2423187614374276"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "categoria": "keyboard",
+  "categoriaSlug": "keyboard",
+  "idioma": "yo",
+  "nombreIdioma": "Yorùbá",
+  "termino": "pẹpẹ ìtẹ̀wé",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:23:39.730Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "yo",
+    "gl": "ng"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=p%E1%BA%B9p%E1%BA%B9%20%C3%ACt%E1%BA%B9%CC%80w%C3%A9&hl=yo&gl=ng",
+  "imagenes": []
+}

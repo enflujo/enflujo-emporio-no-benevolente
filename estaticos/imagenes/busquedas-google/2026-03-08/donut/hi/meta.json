@@ -1,0 +1,71 @@
+{
+  "categoria": "donut",
+  "categoriaSlug": "donut",
+  "idioma": "hi",
+  "nombreIdioma": "हिन्दी",
+  "termino": "डोनट",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:15:56.432Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "hi",
+    "gl": "in"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=%E0%A4%A1%E0%A5%8B%E0%A4%A8%E0%A4%9F&hl=hi&gl=in",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/donut/hi/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXpLRL6fp86zEBs7GokhVR0YS-XgB971sZNA&s",
+      "fuentePagina": "https://hindi.news18.com/news/lifestyle/donut-recipe-will-make-hug-day-2021-special-bgys-3462399.html",
+      "titulo": "डोनट्स",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXpLRL6fp86zEBs7GokhVR0YS-XgB971sZNA&s",
+      "original": "https://images.news18.com/ibnkhabar/uploads/2021/02/donut-recipe.jpg?im=FitAndFill,width=1200,height=900"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/donut/hi/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3ENrZLA1HSfiCaF60JDJ2iDWnkYi3s5CCOw&s",
+      "fuentePagina": "https://hebbarskitchen.com/hi/chocolate-donut-recipe-chocolate-doughnut/",
+      "titulo": "डोनट रेसिपी | donut in hindi | चॉकलेट डोनट रेसिपी | एगलेस चॉकलेट डोनट",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3ENrZLA1HSfiCaF60JDJ2iDWnkYi3s5CCOw&s",
+      "original": "https://hebbarskitchen.com/wp-content/uploads/2017/08/donut-recipe-chocolate-donut-recipe-chocolate-doughnut-recipe-2.jpeg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/donut/hi/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKQMV6btodc5Q1BPMz73AyYlTd2g95y9aTnw&s",
+      "fuentePagina": "https://www.herzindagi.com/hindi/recipe-tips/doughnut-recipe-under-100-rupees-article-257264",
+      "titulo": "सौ रुपये से भी कम में बना सकते हैं ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKQMV6btodc5Q1BPMz73AyYlTd2g95y9aTnw&s",
+      "original": "https://images.herzindagi.info/image/2023/Dec/how-to-make-doughnut-at-home-easy-recipe.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/donut/hi/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQM00KfLQVXLm1gxtU_DfRWhUIik6dWe8jvGA&s",
+      "fuentePagina": "https://hindi.news18.com/news/lifestyle/chocolate-donuts-recipe-chocolate-donuts-you-will-love-to-eat-bgys-3235119.html",
+      "titulo": "Chocolate Donuts Recipe: चॉकलेटी डोनट्स ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQM00KfLQVXLm1gxtU_DfRWhUIik6dWe8jvGA&s",
+      "original": "https://images.news18.com/ibnkhabar/uploads/2020/09/Chocolate-Donuts-Recipe.jpg?im=FitAndFill,width=1200,height=1200"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/donut/hi/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsf6pPyLQ9bg4tMnlWGUw0upBmZjiDXrU05w&s",
+      "fuentePagina": "https://nishaindia.com/donut-recipe-in-hindi/",
+      "titulo": "डोनट रेसिपी | रेसिपी | Recipe in Hindi ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsf6pPyLQ9bg4tMnlWGUw0upBmZjiDXrU05w&s",
+      "original": "https://nishaindia.com/wp-content/uploads/2022/01/baked-chocolate-donuts-recipe-720x720-1.jpg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/donut/hi/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTauYJg88bFaajJlUpX9A5D8JMbtDBOiftFpA&s",
+      "fuentePagina": "https://nishamadhulika.com/779-homemade-donuts-recipe.html",
+      "titulo": "डोनट - Homemade Donuts Recipe",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTauYJg88bFaajJlUpX9A5D8JMbtDBOiftFpA&s",
+      "original": "https://i.ytimg.com/vi/MyJPFT9vYO4/maxresdefault.jpg"
+    }
+  ]
+}

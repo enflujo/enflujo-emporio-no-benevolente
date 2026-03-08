@@ -1,0 +1,71 @@
+{
+  "categoria": "toaster",
+  "categoriaSlug": "toaster",
+  "idioma": "nah",
+  "nombreIdioma": "Náhuatl",
+  "termino": "tostadora",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:26:35.359Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "es",
+    "gl": "mx"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=tostadora&hl=es&gl=mx",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/toaster/nah/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2Kwg6eXWfDDRJmuGf1gvW-KVHtqMy7RFTag&s",
+      "fuentePagina": "https://www.koblenz.com.mx/products/tostador-tkm-800-in?srsltid=AfmBOorppgMsikG0bqWsNvOxbd8BRq031cb-rb8YNXdDT_lspBgUHf0v",
+      "titulo": "Tostador TKM-800 IN - Koblenz Electrica",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2Kwg6eXWfDDRJmuGf1gvW-KVHtqMy7RFTag&s",
+      "original": "http://www.koblenz.com.mx/cdn/shop/files/TKM1.png?v=1752110184"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/toaster/nah/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUFQHNeAK_4mG4I6c7RzX5XKiUVL4nUIV0wg&s",
+      "fuentePagina": "https://www.taurus.com.mx/products/tostador-de-pan-lucerna?srsltid=AfmBOorT4y5MrfjDZfutpZvaAMi0mGyDm5RCE80dMQpl81HrPupTH6yO",
+      "titulo": "Tostador de pan lucerna – Taurus México",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUFQHNeAK_4mG4I6c7RzX5XKiUVL4nUIV0wg&s",
+      "original": "https://www.taurus.com.mx/cdn/shop/files/f2950dcb-24ff-45ff-9dfe-480a19bd47db.jpg?v=1738163239&width=1946"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/toaster/nah/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4pl9P9JZ91LeKpV1aV7UvzKFwio5K-diwSw&s",
+      "fuentePagina": "https://www.elle.com/es/gourmet/gastronomia/a62664219/tostadora-estilo-vintage/",
+      "titulo": "Una tostadora vintage muy buena, eficaz, rápida y decorativa",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4pl9P9JZ91LeKpV1aV7UvzKFwio5K-diwSw&s",
+      "original": "https://hips.hearstapps.com/hmg-prod/images/81xviygxmgl-ac-sl1500-6715f9327d0f6.jpg?crop=0.668xw:1.00xh;0.276xw,0&resize=640:*"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/toaster/nah/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRniJJXh1BbWFhxkBKtzGDExZtWdvSgsUAgfQ&s",
+      "fuentePagina": "https://www.amazon.com.mx/Sandwichera-Tostadora-S%C3%A1ndwich-Multifunci%C3%B3n-El%C3%A9ctrica/dp/B08TTKHBCM",
+      "titulo": "Sandwichera Máquina De Gofres,Tostadora De Sándwich ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRniJJXh1BbWFhxkBKtzGDExZtWdvSgsUAgfQ&s",
+      "original": "https://m.media-amazon.com/images/I/71j3n6IUlNL._AC_UF894,1000_QL80_.jpg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/toaster/nah/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSr-el9PvdzVPBfKMk3ZFM0SWrIdVoNFh5BeA&s",
+      "fuentePagina": "https://betterware.com.mx/products/better-tostador-24544?srsltid=AfmBOopl1Rq-qnT5WG5LmIZVQaEurPUfXFXF9wR-agQSDRcMA7s8eaen",
+      "titulo": "Better Tostador – Betterware",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSr-el9PvdzVPBfKMk3ZFM0SWrIdVoNFh5BeA&s",
+      "original": "https://betterware.com.mx/cdn/shop/files/24544-2-Better-Tostador-Betterware_900x.jpg?v=1742398205"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/toaster/nah/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwAi-QZtzgvmZ4B8AfXkvxNLsDlCP0unWHyQ&s",
+      "fuentePagina": "https://www.amazon.com.mx/Keenstone-tostador-2-rebanadas-Rojo/dp/B07S2WKQS7",
+      "titulo": "tostador retro de acero inoxidable de 2 rebanadas con 6 ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwAi-QZtzgvmZ4B8AfXkvxNLsDlCP0unWHyQ&s",
+      "original": "https://m.media-amazon.com/images/I/71PrRfeGy5L._AC_UF350,350_QL80_.jpg"
+    }
+  ]
+}

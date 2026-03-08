@@ -1,0 +1,71 @@
+{
+  "categoria": "backpack",
+  "categoriaSlug": "backpack",
+  "idioma": "pt",
+  "nombreIdioma": "Português",
+  "termino": "mochila",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T20:56:44.072Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "pt",
+    "gl": "br"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=mochila&hl=pt&gl=br",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/backpack/pt/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKEM-D_tAKWvv3wdFopzSjLAJglGRgQN6k2g&s",
+      "fuentePagina": "https://www.seanite.com/marcas/marcas/color-up/mochila-feminina-19-7707?srsltid=AfmBOoqzHjgRZs5hR7vDMXCi4NHIsiZdS37p3TZHuulwOpusw3--UzL8",
+      "titulo": "MOCHILA 19\" HOLOGRAFICA WAVE ROSA - Seanite | Mochilas ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKEM-D_tAKWvv3wdFopzSjLAJglGRgQN6k2g&s",
+      "original": "https://images.tcdn.com.br/img/img_prod/886231/mochila_holografica_wave_rosa_7707_1_b34dc9e35b956b38ef11e43807a5216f.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/backpack/pt/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSQxtQWsRJB3_Py8jf68Hfcebgjc1oEJSvrQ&s",
+      "fuentePagina": "https://www.xeryus.com.br/infantil/mochilas/mochila-16-mickey-se-13282-artigo-escolar",
+      "titulo": "Mochila 16 Mickey SE - 13282",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSQxtQWsRJB3_Py8jf68Hfcebgjc1oEJSvrQ&s",
+      "original": "https://images.tcdn.com.br/img/img_prod/810961/mochila_16_mickey_marinho_13282_21397_1_3f6bb0f2d73f7f57a6c0148e7e9ca55f.png"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/backpack/pt/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfKgjcPdZZQdN63Ck9eBsuCq_IegRFMRQzgQ&s",
+      "fuentePagina": "https://www.maloa.com.br/mochila-escolar-infantil-up4you-rosa?srsltid=AfmBOopIKvJlLD3vqk1fSx4s5z46I8v_2jR7WjZFyN8zpnhsw_KMrLbo",
+      "titulo": "Mochila Escolar Juvenil Notebook UP4YOU Rosa Metalizado ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfKgjcPdZZQdN63Ck9eBsuCq_IegRFMRQzgQ&s",
+      "original": "https://adaptive-images.uooucdn.com.br/static/images/loja_virtual/maloa-store/mochila-up4you-rosa-1.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/backpack/pt/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUaxEF4A8EONXsQnPUW_UXWIPCWPd9nIUk7w&s",
+      "fuentePagina": "https://www.rebeccabonbon-loja.com.br/lancamentos/kit-crinkle-com-matelasse-mochila-de-costas-lancheira-estojo?srsltid=AfmBOop_s84hEvOw3tXwqZclOkMFoizIZ-VNh7MnRct3dZQxujnhIZX0",
+      "titulo": "Kit Crinkle com Matelassê: Mochila de Costas + Lancheira 2 ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUaxEF4A8EONXsQnPUW_UXWIPCWPd9nIUk7w&s",
+      "original": "https://images.tcdn.com.br/img/img_prod/638637/kit_crinkle_com_matelasse_mochila_de_costas_lancheira_estojo_1142_3_08a680d9b5e0ef7d92f40fef9cbbe683.png"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/backpack/pt/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVDKVW3EPLrDtZuavxubQvtnEYXiqecbzoEA&s",
+      "fuentePagina": "https://www.up4you.com.br/products/mochila-de-costas-stitch-premium-disney?srsltid=AfmBOoptQ3x9JT4P-rdBfXQtKNPOxmrDc9kjhx8_D3Hd7Li5z0VUl_cQ",
+      "titulo": "Mochila de Costas Nailon Matelassê Notebook Stitch",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVDKVW3EPLrDtZuavxubQvtnEYXiqecbzoEA&s",
+      "original": "http://www.up4you.com.br/cdn/shop/files/MC47746SC.4800.11.png?v=1757789457"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/backpack/pt/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRujL6kITHJe6BFbZerJdg9RPl9jrsPh5L0A&s",
+      "fuentePagina": "https://www.kalunga.com.br/prod/mochila-para-notebook-ate-15-polegadas-poliester-lilas-pastel-baohua-pt-1-un/438049",
+      "titulo": "Mochila para notebook até 15 polegadas, Poliéster, Lilás pastel, Baohua PT  1 UN",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRujL6kITHJe6BFbZerJdg9RPl9jrsPh5L0A&s",
+      "original": "https://img.kalunga.com.br/fotosdeprodutos/438049z.jpg"
+    }
+  ]
+}

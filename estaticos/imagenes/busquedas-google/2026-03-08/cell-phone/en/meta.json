@@ -1,0 +1,71 @@
+{
+  "categoria": "cell phone",
+  "categoriaSlug": "cell-phone",
+  "idioma": "en",
+  "nombreIdioma": "English",
+  "termino": "cell phone",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:24:06.410Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "en",
+    "gl": "us"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=cell%20phone&hl=en&gl=us",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/cell-phone/en/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6MS1x0Ynn5strC_LPEJPNwk8LjoyDfskbeA&s",
+      "fuentePagina": "https://www.amazon.com/HeyxFome-X3-Unlocked-Smartphone-T-Mobile/dp/B0D5GJ5RFH",
+      "titulo": "Amazon.com: HeyxFome X3 2025 New Cheap 4G LTE GSM Unlocked ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6MS1x0Ynn5strC_LPEJPNwk8LjoyDfskbeA&s",
+      "original": "https://m.media-amazon.com/images/I/61k-BSDw8sL.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/cell-phone/en/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTm5hHANz6aT-5NcugwT6goIfCECJFzLUW4pQ&s",
+      "fuentePagina": "https://www.consumerreports.org/electronics-computers/cell-phones/apple-iphone-11/m399694/",
+      "titulo": "Apple iPhone 11 Cell Phone Review - Consumer Reports",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTm5hHANz6aT-5NcugwT6goIfCECJFzLUW4pQ&s",
+      "original": "https://crdms.images.consumerreports.org/prod/products/cr/models/399694-smartphones-apple-iphone-11-10008711.png"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/cell-phone/en/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGx1h7nvBs08ZTSrHrDlpJw3U-oRBMGPdAEw&s",
+      "fuentePagina": "https://www.amazon.com/Vintage-Standby-Quad-Band-Bluetooth-Classic/dp/B086MJLPZH",
+      "titulo": "Amazon.com: Tosuny Vintage Retro Brick Cell Phone Mobile ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGx1h7nvBs08ZTSrHrDlpJw3U-oRBMGPdAEw&s",
+      "original": "https://m.media-amazon.com/images/I/615dVi-uiCL.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/cell-phone/en/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRG1hpftGHY3TB6fjDQsbwoSFtKFvw6U8qiYA&s",
+      "fuentePagina": "https://www.razmobility.com/product/minivision2-cell-phone/?srsltid=AfmBOoqRf0rSmIhI3KVsB5TU1McmuhjE-AmUpqW6KylOBi3AT6rvF-_j",
+      "titulo": "MiniVision2 Cell Phone - Easy-to-Use Cell Phone for Vision ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRG1hpftGHY3TB6fjDQsbwoSFtKFvw6U8qiYA&s",
+      "original": "https://www.razmobility.com/wp-content/uploads/MV2_En-Main_EN.png"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/cell-phone/en/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYT-3WlSk57rweoocTly8wotR9rmIK87hjVw&s",
+      "fuentePagina": "https://www.consumerreports.org/electronics-computers/cell-phones/apple-iphone-7/m387499/",
+      "titulo": "Apple iPhone 7 Cell Phone Review - Consumer Reports",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYT-3WlSk57rweoocTly8wotR9rmIK87hjVw&s",
+      "original": "https://crdms.images.consumerreports.org/prod/products/cr/models/387499-smartphones-apple-iphone7.png"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/cell-phone/en/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCrgmxrPHRjNPz7lnGjo_MnjpfL4BgxC6Y_Q&s",
+      "fuentePagina": "https://victra.com/blog/evolution-of-cell-phone-screens-a-visual-revolution-for-users/",
+      "titulo": "Evolution of Cell Phone Screens: A Visual Revolution for Users",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCrgmxrPHRjNPz7lnGjo_MnjpfL4BgxC6Y_Q&s",
+      "original": "https://victra.com/wp-content/uploads/2023/08/AdobeStock_227624472-e1692303453982.jpeg"
+    }
+  ]
+}

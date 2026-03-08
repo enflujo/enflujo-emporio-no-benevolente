@@ -1,0 +1,71 @@
+{
+  "categoria": "bottle",
+  "categoriaSlug": "bottle",
+  "idioma": "nah",
+  "nombreIdioma": "Náhuatl",
+  "termino": "comitl",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:06:28.820Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "es",
+    "gl": "mx"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=comitl&hl=es&gl=mx",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bottle/nah/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsH-gNNLGMxSLAndxM84c2kiQCaiJHoa5iUA&s",
+      "fuentePagina": "https://aztecglyphs.wired-humanities.org/content/comitl-mdz13v",
+      "titulo": "comitl (Mdz13v) | Visual Lexicon of Aztec Hieroglyphs",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsH-gNNLGMxSLAndxM84c2kiQCaiJHoa5iUA&s",
+      "original": "https://aztecglyphs.wired-humanities.org/sites/default/files/compreal/comitl%20SW.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bottle/nah/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQoYBAl5BfuYCUvBIzNwBeRKAq-NrXO10FoFw&s",
+      "fuentePagina": "http://www.gdn.unam.mx/diccionario/comitl/10466",
+      "titulo": "comitl - Gran Diccionario Náhuatl",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQoYBAl5BfuYCUvBIzNwBeRKAq-NrXO10FoFw&s",
+      "original": "https://tlachia.iib.unam.mx/archivos/mh-acxotlan/imagenes/05.03.01.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bottle/nah/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7RA6xDy_KEvsuzkgUqOrvIUaFzNWkwDRrpA&s",
+      "fuentePagina": "http://www.gdn.unam.mx/diccionario/comitl/10466",
+      "titulo": "comitl - Gran Diccionario Náhuatl",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7RA6xDy_KEvsuzkgUqOrvIUaFzNWkwDRrpA&s",
+      "original": "https://tlachia.iib.unam.mx/archivos/tributos-de-tlaxinic/imagenes/05.03.01.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bottle/nah/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAm8hf20YQlZspaP86H6Ge7qI98rmgOi8VhQ&s",
+      "fuentePagina": "https://www.instagram.com/p/DHTtkhoApVl/",
+      "titulo": "Comitl (Pitcher), Mexican (Nahuatl) | 20th Century Chililico ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAm8hf20YQlZspaP86H6Ge7qI98rmgOi8VhQ&s",
+      "original": "https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3590413741369484577"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bottle/nah/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTaWYUARVxzOSeaPoNmCSBdfn17nd2r5agVJg&s",
+      "fuentePagina": "https://www.amoxcalli.org.mx/glifos.php?id_codice=029&act=ult&id_lamina=029_1&id_zona=029_1_C&id_comp=029_1_C_08",
+      "titulo": "Amoxcalli Códices",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTaWYUARVxzOSeaPoNmCSBdfn17nd2r5agVJg&s",
+      "original": "https://www.amoxcalli.org.mx/codices/029/laminas/ImagenReal/olla.jpg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bottle/nah/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsfUbjP4-pxCEA0tFRwo5CVs3pvPUHLboaUw&s",
+      "fuentePagina": "https://www.facebook.com/100082909433866/posts/comitl-as%C3%AD-se-conoce-en-n%C3%A1huatl-olla-de-barro-anteriormente-usaban-mucho-para-ca/696296716477303/",
+      "titulo": "Comitl así se conoce en náhuatl, Olla de barro ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsfUbjP4-pxCEA0tFRwo5CVs3pvPUHLboaUw&s",
+      "original": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=696296679810640"
+    }
+  ]
+}

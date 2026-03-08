@@ -1,0 +1,71 @@
+{
+  "categoria": "chair",
+  "categoriaSlug": "chair",
+  "idioma": "hi",
+  "nombreIdioma": "हिन्दी",
+  "termino": "कुर्सी",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:17:16.377Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "hi",
+    "gl": "in"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=%E0%A4%95%E0%A5%81%E0%A4%B0%E0%A5%8D%E0%A4%B8%E0%A5%80&hl=hi&gl=in",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/chair/hi/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2X_tGRTjNNskI6lLWupS9gGqWjtrO22XAYg&s",
+      "fuentePagina": "https://www.amazon.in/-/hi/Nice-Chairs-%E0%A4%8F%E0%A4%95%E0%A5%8D%E0%A4%9C%E0%A4%BC%E0%A5%80%E0%A4%95%E0%A5%8D%E0%A4%AF%E0%A5%82%E0%A4%9F%E0%A4%BF%E0%A4%B5-%E0%A4%98%E0%A5%82%E0%A4%AE%E0%A4%A8%E0%A5%87-%E0%A4%95%E0%A5%81%E0%A4%B0%E0%A5%8D%E0%A4%B8%E0%A5%80/dp/B07D5Y9RV3",
+      "titulo": "Nice Chairs हाई बैक लेदर ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2X_tGRTjNNskI6lLWupS9gGqWjtrO22XAYg&s",
+      "original": "https://m.media-amazon.com/images/I/81w55Wd6phL._AC_UF894,1000_QL80_.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/chair/hi/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcToIRhcgpVVtgx8rgloioJnHLXpu1Cy4c3ebA&s",
+      "fuentePagina": "https://www.amazon.in/-/hi/%E0%A4%B9%E0%A5%8B%E0%A4%9F%E0%A4%B2-%E0%A4%89%E0%A4%AA%E0%A4%AF%E0%A5%8B%E0%A4%97-%E0%A4%A6%E0%A5%87%E0%A4%96%E0%A5%8B-%E0%A4%B2%E0%A4%95%E0%A4%A1%E0%A4%BC%E0%A5%80-%E0%A4%95%E0%A5%81%E0%A4%B0%E0%A5%8D%E0%A4%B8%E0%A5%80/dp/B098YJHP3B",
+      "titulo": "होटल और घर के उपयोग के लिए सरल देखो के साथ लकड़ी की कुर्सी (3) : Amazon.in:  घर और किचन",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcToIRhcgpVVtgx8rgloioJnHLXpu1Cy4c3ebA&s",
+      "original": "https://m.media-amazon.com/images/I/61BaJDhW23S._AC_UF894,1000_QL80_.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/chair/hi/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4279BqdCoy8rhnLBefQtCvqNABUQz0Wv9bQ&s",
+      "fuentePagina": "https://www.moglix.com/hi/chair-garage-pu-leatherette-black-brown-adjustable-height-office-chair-with-back-support-cg156/mp/msng9vn4gd1dkp?srsltid=AfmBOooC6-_i_fFxLS-LDa-q92Dt80LhO2I9J4j04b2KsRSPlH55TLY3",
+      "titulo": "चेयर गैराज पीयू लेदरेट ब्लैक एडजस्टेबल हाइट ऑफिस चेयर बैक सपोर्ट के साथ,  CG156",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4279BqdCoy8rhnLBefQtCvqNABUQz0Wv9bQ&s",
+      "original": "https://cdn.moglix.com/p/84odw4iOIGDuz-xxlarge.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/chair/hi/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIB5RT5k9bb1nIbGTdpzoKjyGVDtt2vrWFEw&s",
+      "fuentePagina": "https://woodentwist.com/hi/products/handicrafts-wooden-hand-carved-royal-look-chair-teak-wood?srsltid=AfmBOopEN5uL1WV3TvZPoTjcWTHXbLBOv_9XOPeoiI_2U4_kHd3U8AnU",
+      "titulo": "हस्तशिल्प लकड़ी की हाथ से ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIB5RT5k9bb1nIbGTdpzoKjyGVDtt2vrWFEw&s",
+      "original": "http://woodentwist.com/cdn/shop/products/51KixB9ISKL.jpg?v=1743258574"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/chair/hi/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWMNS0MAAbet97yO1UdDpWshhy8c9CwTXwig&s",
+      "fuentePagina": "https://www.moglix.com/hi/sunview-black-medium-back-office-revolving-chair/mp/msn153vveywxk3?srsltid=AfmBOor8o8KoCgbtjjgIgcU12URX5A6KKX9sj5K2rqeUFoZ2fx4oKtwA",
+      "titulo": "सनव्यू ब्लैक मीडियम बैक ऑफिस रिवॉल्विंग चेयर",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWMNS0MAAbet97yO1UdDpWshhy8c9CwTXwig&s",
+      "original": "https://cdn.moglix.com/p/iZwnSHl2onsEt-xxlarge.jpg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/chair/hi/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdJd7cDnfwei2_eYt_sprTVXKfS0ViNIOwlQ&s",
+      "fuentePagina": "https://www.tradeindia.com/hi/products/100-wood-chairs-daily-use-color-brown-7964336.html",
+      "titulo": "रेल के साथ इनडोर फर्नीचर दैनिक ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdJd7cDnfwei2_eYt_sprTVXKfS0ViNIOwlQ&s",
+      "original": "https://tiimg.tistatic.com/fp/2/007/964/indoor-furniture-with-rails-solid-wooden-chair-for-daily-use-336.jpg"
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "categoria": "cow",
+  "categoriaSlug": "cow",
+  "idioma": "ha",
+  "nombreIdioma": "Hausa",
+  "termino": "saniya",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T20:53:04.589Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "ha",
+    "gl": "ng"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=saniya&hl=ha&gl=ng",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/cow/ha/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRb6GNKMICYdgfGMcolBrX9n79YC7SIM3ozKQ&s",
+      "fuentePagina": "https://timesofindia.indiatimes.com/entertainment/tamil/web-stories/saniya-iyappan-mesmerizes-fans-with-her-stunning-pictures/photostory/115732058.cms",
+      "titulo": "Saniya Iyappan mesmerizes fans with her stunning pictures ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRb6GNKMICYdgfGMcolBrX9n79YC7SIM3ozKQ&s",
+      "original": "https://static.toiimg.com/thumb/115732078/115732078.jpg?height=746&width=420&resizemode=76&imgsize=52442"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/cow/ha/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKZ5rv_V5BubXcm_5gB_uSakhkTn_h0qKcLw&s",
+      "fuentePagina": "https://keralakaumudi.com/en/news/mobile/news.php?id=1177013&u=saniya-iyappan-drops-out-of-london-university-course-reason-revealed",
+      "titulo": "Saniya Iyappan drops out of London University course; reason ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKZ5rv_V5BubXcm_5gB_uSakhkTn_h0qKcLw&s",
+      "original": "https://keralakaumudi.com/web-news/en/2023/10/NMAN0446772/image/saniya-iyappan-kerala-.1.2416939.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/cow/ha/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGarcp9w2j20pN6KH-d_6syvgx7kALK_Xx2w&s",
+      "fuentePagina": "https://www.facebook.com/SaniyaIyappan/",
+      "titulo": "Saniya Iyappan (@SaniyaIyappan) • Facebook",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGarcp9w2j20pN6KH-d_6syvgx7kALK_Xx2w&s",
+      "original": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=100044582762786"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/cow/ha/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzKEKej5sU0x2TBJVTP8kGKmVfZQr5iu3CGw&s",
+      "fuentePagina": "https://ha.wikipedia.org/wiki/Fayil:Saniya.jpg",
+      "titulo": "Fayil:Saniya.jpg - Wikipedia",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzKEKej5sU0x2TBJVTP8kGKmVfZQr5iu3CGw&s",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/2/27/Saniya.jpg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/cow/ha/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfdoE5I84sR287ytzqQYAkjGQxBdjey8wPgw&s",
+      "fuentePagina": "https://fashionbuzz.wifd.in/celebrities/saniya-iyappan-plain-red-saree-makes-everyone-skip-a-heartbeat",
+      "titulo": "Saniya Iyappan's Plain Red Saree makes everyone skip a heartbeat",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfdoE5I84sR287ytzqQYAkjGQxBdjey8wPgw&s",
+      "original": "https://fashionbuzz.wifd.in/img/story/saniya-plain-red-saree/saniya-adore-earrings.jpg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/cow/ha/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTE6XE7sNxI89R-TvNZHqG-hPrdkMcEPgZIkA&s",
+      "fuentePagina": "https://www.instagram.com/p/DIv5Etuywus/",
+      "titulo": "20.04.2025 #adayiwillneverforget🌝 Outfit : @mankasurath ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTE6XE7sNxI89R-TvNZHqG-hPrdkMcEPgZIkA&s",
+      "original": "https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3616360024995571887"
+    }
+  ]
+}

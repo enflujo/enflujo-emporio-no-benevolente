@@ -1,0 +1,71 @@
+{
+  "categoria": "dog",
+  "categoriaSlug": "dog",
+  "idioma": "qu",
+  "nombreIdioma": "Quechua",
+  "termino": "allqu",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T20:51:20.652Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "es",
+    "gl": "pe"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=allqu&hl=es&gl=pe",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/dog/qu/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRiH80gmxRqysBhWcHuXLxMx2o5lKbX73beDw&s",
+      "fuentePagina": "https://www.facebook.com/marcaPERU/posts/es-llamado-viringo-allqu-y-kaclla-la-tradici%C3%B3n-lo-reconoce-como-un-excelente-com/793425480707361/",
+      "titulo": "Es llamado Viringo, Allqu y Kaclla. La tradición lo reconoce ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRiH80gmxRqysBhWcHuXLxMx2o5lKbX73beDw&s",
+      "original": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=793425480707361"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/dog/qu/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3zPbj9gLtcg37AiDlstZ6TVqWiM5l0neBCA&s",
+      "fuentePagina": "https://allqu.cl/producto/allqu/",
+      "titulo": "ALLQU",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3zPbj9gLtcg37AiDlstZ6TVqWiM5l0neBCA&s",
+      "original": "https://allqu.cl/wp-content/uploads/2021/09/Allqu-25-AGOSTO.png"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/dog/qu/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNyHA1AO6k0fT8kzpuSBtGWom154DYRXMvJg&s",
+      "fuentePagina": "https://uddventures.udd.cl/blog/allqu-el-suplementocardioprotector-para-mascotas-a-base-de-microalgas",
+      "titulo": "Allqu, el suplemento cardioprotector para mascotas a base de ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNyHA1AO6k0fT8kzpuSBtGWom154DYRXMvJg&s",
+      "original": "https://uddventures.udd.cl/hubfs/Allqu-udd-ventures-corfo-emprendedoras-mujeres.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/dog/qu/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThz05Jq5qa_Fy4s61BV5PNVzq7CLkfUulK2Q&s",
+      "fuentePagina": "https://uddventures.udd.cl/blog/allqu-el-suplementocardioprotector-para-mascotas-a-base-de-microalgas",
+      "titulo": "Allqu, el suplemento cardioprotector para mascotas a base de ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThz05Jq5qa_Fy4s61BV5PNVzq7CLkfUulK2Q&s",
+      "original": "https://uddventures.udd.cl/hs-fs/hubfs/allqu%20udd%20ventures%20mascota%20perros%20algas%20emprendedoras%20mujeres%20innovacion.jpg?width=1536&name=allqu%20udd%20ventures%20mascota%20perros%20algas%20emprendedoras%20mujeres%20innovacion.jpg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/dog/qu/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJTCjvMA1ehE9g3BoSX_aAKRXtaCSxLcn3FA&s",
+      "fuentePagina": "https://www.instagram.com/allqu.store/",
+      "titulo": "ALLQU STORE 🐾 (@allqu.store) • Instagram photos and videos",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJTCjvMA1ehE9g3BoSX_aAKRXtaCSxLcn3FA&s",
+      "original": "https://lookaside.fbsbx.com/lookaside/crawler/instagram/allqu.store/profile_pic.jpg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/dog/qu/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQe5F0u88pHEUu86edVQuu0CY1W3m-DTnGwRA&s",
+      "fuentePagina": "https://www.facebook.com/AllquBox/",
+      "titulo": "Allqu | Lima",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQe5F0u88pHEUu86edVQuu0CY1W3m-DTnGwRA&s",
+      "original": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=100064152939352"
+    }
+  ]
+}

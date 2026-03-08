@@ -1,0 +1,71 @@
+{
+  "categoria": "remote",
+  "categoriaSlug": "remote",
+  "idioma": "es",
+  "nombreIdioma": "Español",
+  "termino": "control remoto",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:23:23.703Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "es",
+    "gl": "es"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=control%20remoto&hl=es&gl=es",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/remote/es/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKBfUXXYzBamIUKcO2VX9EX37TpBiZv7-7kw&s",
+      "fuentePagina": "https://es.wikipedia.org/wiki/Control_remoto",
+      "titulo": "Control remoto - Wikipedia, la enciclopedia libre",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKBfUXXYzBamIUKcO2VX9EX37TpBiZv7-7kw&s",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Television_remote_control_-_black_01.jpg/250px-Television_remote_control_-_black_01.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/remote/es/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPnD4THBh4KOQ-vw13cAxi6kPlQxLKFy13BA&s",
+      "fuentePagina": "https://www.amazon.es/Control-Inteligente-reemplazo-Television-RM-L930/dp/B07WYYVBHX",
+      "titulo": "Control Remoto de TV, Control Remoto de reemplazo de Smart TV Adecuado para  Smart Television RM Distancia de Control Remoto de 8M : Amazon.es: ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPnD4THBh4KOQ-vw13cAxi6kPlQxLKFy13BA&s",
+      "original": "https://m.media-amazon.com/images/I/61E-WQ76vfL._AC_UF1000,1000_QL80_.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/remote/es/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZ_aFFLAdoKyCy8_AcMNWeDi1yvvI5DJJELw&s",
+      "fuentePagina": "https://www.t-nb.com/es/products/telecommande-universelle-pre-programmee?srsltid=AfmBOoqAgqGNglP9Vea7qwS2CqVOnJdtzJn2ZSYTyfWqq--NJ-K1UsDB",
+      "titulo": "Control remoto universal preprogramado",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZ_aFFLAdoKyCy8_AcMNWeDi1yvvI5DJJELw&s",
+      "original": "https://cdn.t-nb.com/image/upload/VISUEL_HD/TCUN05/03303170086568_C1L0_s04.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/remote/es/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR33Vu38hJc5TF8E_h7m9vLf0o_6FCMtH6nLA&s",
+      "fuentePagina": "https://www.amazon.es/Richer-R-Reemplazo-AKB73975709-AKB73975757-AKB73975728/dp/B07G9D2XWV",
+      "titulo": "Mando a Distancia para Smart TV, Control Remoto para ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR33Vu38hJc5TF8E_h7m9vLf0o_6FCMtH6nLA&s",
+      "original": "https://m.media-amazon.com/images/I/61rdKepO2SL._AC_UF1000,1000_QL80_.jpg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/remote/es/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxSOdRXLvWW7J458Y0BSW_qWYkTaaRAalhiA&s",
+      "fuentePagina": "https://robotopia.es/componentes/29-mando-control-remoto.html",
+      "titulo": "Mando control remoto",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxSOdRXLvWW7J458Y0BSW_qWYkTaaRAalhiA&s",
+      "original": "https://robotopia.es/90-large_default/mando-control-remoto.jpg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/remote/es/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSY-6xOKW0Y3wtELm6D3moIMy6bO7TBz2yCqA&s",
+      "fuentePagina": "https://play.google.com/store/apps/details?id=com.alltvremote.smarttv.remote.control&hl=es_PR",
+      "titulo": "Control remoto universal tv - Apps en Google Play",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSY-6xOKW0Y3wtELm6D3moIMy6bO7TBz2yCqA&s",
+      "original": "https://play-lh.googleusercontent.com/sKSdxvbMUbxLz0Etlh4HpSUzG5C-W22NIrZjG_j_ITMJKvBRYFf6QtCrGM3m8P3CuA"
+    }
+  ]
+}

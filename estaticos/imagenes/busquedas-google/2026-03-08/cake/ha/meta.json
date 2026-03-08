@@ -1,0 +1,71 @@
+{
+  "categoria": "cake",
+  "categoriaSlug": "cake",
+  "idioma": "ha",
+  "nombreIdioma": "Hausa",
+  "termino": "kek",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:16:26.896Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "ha",
+    "gl": "ng"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=kek&hl=ha&gl=ng",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/cake/ha/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuIQK_EkZAWW75oCKioJyxGmWB1NSGy6Ok-Q&s",
+      "fuentePagina": "https://yemek.com/tarif/sade-kek/",
+      "titulo": "Sade Kek",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuIQK_EkZAWW75oCKioJyxGmWB1NSGy6Ok-Q&s",
+      "original": "https://cdn.yemek.com/mnresize/1250/833/uploads/2024/02/sade-kek-yemekcom.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/cake/ha/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7-_LQlgP6wjXhbFQItqyQHgU1fuXbiPnvbA&s",
+      "fuentePagina": "https://www.youtube.com/watch?v=siS8O5KpmuQ",
+      "titulo": "🌀Cake Photo/Round Cake Decorating Ideas/Round Cake Design/Cake  Picture/Cake Banana/Kek Banano Recipe",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7-_LQlgP6wjXhbFQItqyQHgU1fuXbiPnvbA&s",
+      "original": "https://i.ytimg.com/vi/siS8O5KpmuQ/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLCO03zWDzlHGlrXunegCDxGvya7-w"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/cake/ha/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzT_idGCEGeZLzAosIZVj2lboQLMlBkWMkkw&s",
+      "fuentePagina": "https://www.pinterest.com/angievellaclarice93/deko-kek-imej/",
+      "titulo": "Discover 230 deko kek imej and cake decorating ideas | cake ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzT_idGCEGeZLzAosIZVj2lboQLMlBkWMkkw&s",
+      "original": "https://i.pinimg.com/236x/f8/64/be/f864be98419730d2ac16d7e316b96804.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/cake/ha/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWDhmvCTvkdRVDZEOw5YaKzUiwNAFXVjB0wg&s",
+      "fuentePagina": "https://yemek.com/tarif/kalipta-kakaolu-kek/",
+      "titulo": "Kalıpta Kakaolu Kek",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWDhmvCTvkdRVDZEOw5YaKzUiwNAFXVjB0wg&s",
+      "original": "https://cdn.yemek.com/mnresize/1250/833/uploads/2025/06/kalipta-kakaolu-kek-tarifi.jpg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/cake/ha/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHJEUDB5iWBqbKQxPvCmF_Wmh3Jrb3_mUAew&s",
+      "fuentePagina": "https://www.yemektekeyifvar.com/kek-tarifleri/kolay-islak-kek-tarifi",
+      "titulo": "Kolay Islak Kek Tarifi",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHJEUDB5iWBqbKQxPvCmF_Wmh3Jrb3_mUAew&s",
+      "original": "https://d17wu0fn6x6rgz.cloudfront.net/img/w/tarif/mgt/kolay-cslak-kek.webp"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/cake/ha/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzziGFz3o8ZzwnQrX_Fw7zW4FyDavC4GC3uA&s",
+      "fuentePagina": "https://cookidoo.com.cn/recipes/recipe/en-CN/r911579",
+      "titulo": "Yaş Kek",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzziGFz3o8ZzwnQrX_Fw7zW4FyDavC4GC3uA&s",
+      "original": "https://assets.tmecosys.cn/image/upload/t_web_rdp_recipe_584x480_1_5x/img/recipe/ras/Assets/28ae3cffcc51a55300b0197893796067/Derivates/12c868248a89e3d27ba8ec2383ca21ac7c5ec83d.jpg"
+    }
+  ]
+}

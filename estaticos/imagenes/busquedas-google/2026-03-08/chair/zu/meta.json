@@ -1,0 +1,71 @@
+{
+  "categoria": "chair",
+  "categoriaSlug": "chair",
+  "idioma": "zu",
+  "nombreIdioma": "isiZulu",
+  "termino": "isihlalo",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:17:11.495Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "zu",
+    "gl": "za"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=isihlalo&hl=zu&gl=za",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/chair/zu/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUYoYhh_G0K6IAZcKhTr6gvC8S6IonAxJJ1g&s",
+      "fuentePagina": "https://www.youtube.com/watch?v=lK-DXmvJ75c",
+      "titulo": "Zakwe - Isihlalo Sobukhosi (Official Video)",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUYoYhh_G0K6IAZcKhTr6gvC8S6IonAxJJ1g&s",
+      "original": "https://i.ytimg.com/vi/lK-DXmvJ75c/sddefault.jpg?v=65ee0848"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/chair/zu/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIxbJ2zpNXwR78S0QuL1i3165FqIytr-8f3w&s",
+      "fuentePagina": "https://open.spotify.com/track/3D328ih4lEcOIn2JDL9565",
+      "titulo": "Isihlalo - song and lyrics by Stompie Mavi | Spotify",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIxbJ2zpNXwR78S0QuL1i3165FqIytr-8f3w&s",
+      "original": "https://i.scdn.co/image/ab67616d00001e025022b861f7db0bc52aaa924c"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/chair/zu/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyopIO8sWUvqmN3p2N-PwTxNt0mTBP3ihB6Q&s",
+      "fuentePagina": "https://www.tiktok.com/@officialzakwesa/video/7345341464920067333",
+      "titulo": "Isihlalo Sobukhosi - Zakwe ft. Mdali (OUT NOW)",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyopIO8sWUvqmN3p2N-PwTxNt0mTBP3ihB6Q&s",
+      "original": "https://www.tiktok.com/api/img/?itemId=7345341464920067333&location=0&aid=1988"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/chair/zu/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQR2PXSLwbGXByQibbWMBIgSsLFrWgDklf2w&s",
+      "fuentePagina": "https://www.shazam.com/song/1830697883/umsila-webhubesi-feat-shenge-wasehlalankosi",
+      "titulo": "Umsila webhubesi (feat. Shenge Wasehlalankosi) - Mhlanganisi ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQR2PXSLwbGXByQibbWMBIgSsLFrWgDklf2w&s",
+      "original": "https://i.ytimg.com/vi/3Y88mT1ZeYY/maxresdefault.jpg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/chair/zu/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlaG0t8M9viAnEwJjtnkAA7kt57529xaCkgg&s",
+      "fuentePagina": "https://soundcloud.com/chefbeatz808/zakwe-isihlalo-sobukhosi-beatremake",
+      "titulo": "Stream Zakwe Isihlalo Sobukhosi Beat(remake) by Chefbeatz808 ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlaG0t8M9viAnEwJjtnkAA7kt57529xaCkgg&s",
+      "original": "https://i1.sndcdn.com/artworks-ynKkEDPmIIQmTy1F-KKVLPQ-t500x500.png"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/chair/zu/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvQ0jnUlbcM-hYRDo8K2qDlCfehl_pJe1rFQ&s",
+      "fuentePagina": "https://open.spotify.com/album/2Tatwr0PllMJ3EFl7VcJxW",
+      "titulo": "Isihlalo Sobukhosi - Album by African Salvation | Spotify",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvQ0jnUlbcM-hYRDo8K2qDlCfehl_pJe1rFQ&s",
+      "original": "https://i.scdn.co/image/ab67616d00001e021061e1699a0a4c0d011577cc"
+    }
+  ]
+}

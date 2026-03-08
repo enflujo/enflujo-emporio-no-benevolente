@@ -1,0 +1,71 @@
+{
+  "categoria": "vase",
+  "categoriaSlug": "vase",
+  "idioma": "sw",
+  "nombreIdioma": "Kiswahili",
+  "termino": "chombo cha maua",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:29:27.617Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "sw",
+    "gl": "tz"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=chombo%20cha%20maua&hl=sw&gl=tz",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/vase/sw/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlNNPyUfoSW2yow1V5Jps2ylSPgu8yltBDhA&s",
+      "fuentePagina": "https://www.designcrafts4u.com/sw/ceramic-nordic-art-flower-vase-black-product/",
+      "titulo": "Chombo cha Maua ya Sanaa ya Nordic cha Jumla Nyeusi ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlNNPyUfoSW2yow1V5Jps2ylSPgu8yltBDhA&s",
+      "original": "https://cdn.globalso.com/designcrafts4u/IMG_1251.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/vase/sw/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8-143TVknwRewJZQiv9_otwtAYnBxUlr4gw&s",
+      "fuentePagina": "https://www.designcrafts4u.com/sw/ceramic-leaf-flower-vase-white-product/",
+      "titulo": "Chombo cha Maua ya Kauri cha Jumla Nyeupe Mtengenezaji na ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8-143TVknwRewJZQiv9_otwtAYnBxUlr4gw&s",
+      "original": "https://www.designcrafts4u.com/uploads/IMG_1089.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/vase/sw/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSC-ihH_r9dcwUXz_yX584jClIyxlBta6Mf-A&s",
+      "fuentePagina": "https://www.merlin-living.com/sw/matte-gray-chimney-shaped-flower-vase-by-merlin-living-product/",
+      "titulo": "Chombo Bora cha Maua chenye Umbo la Chimney cha Kijivu ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSC-ihH_r9dcwUXz_yX584jClIyxlBta6Mf-A&s",
+      "original": "https://cdn.globalso.com/merlin-living/cf127392.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/vase/sw/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4OwBmlebvpYASsg0jCC9b7JMrxWAmIMtDqA&s",
+      "fuentePagina": "https://www.instagram.com/p/Cb46y9UNWIa/",
+      "titulo": "Chombo cha kupandia maua 17000 kubwa",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4OwBmlebvpYASsg0jCC9b7JMrxWAmIMtDqA&s",
+      "original": "https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=2808252950142896267"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/vase/sw/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQz_4OH5v8ua13RAWYHZMvovBvAleKkzh7ypA&s",
+      "fuentePagina": "https://www.nextdirect.com/ke/sw/style/su517638/aa4335",
+      "titulo": "Nunua Chombo cha Maua ya Kioo cha Confetti kutoka Kenya Ijayo",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQz_4OH5v8ua13RAWYHZMvovBvAleKkzh7ypA&s",
+      "original": "https://xcdn.next.co.uk/common/items/default/default/itemimages/3_4Ratio/product/lge/AA4335s.jpg?im=Resize,width=750"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/vase/sw/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBN8NE5jd69AlymKX-EULlUnLVXw329J6dxQ&s",
+      "fuentePagina": "https://www.merlin-living.com/sw/matte-gray-chimney-shaped-flower-vase-by-merlin-living-product/",
+      "titulo": "Chombo Bora cha Maua chenye Umbo la Chimney cha Kijivu ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBN8NE5jd69AlymKX-EULlUnLVXw329J6dxQ&s",
+      "original": "https://www.merlin-living.com/uploads/b64e5415.jpg"
+    }
+  ]
+}

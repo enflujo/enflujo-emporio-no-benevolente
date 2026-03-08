@@ -1,0 +1,71 @@
+{
+  "categoria": "pizza",
+  "categoriaSlug": "pizza",
+  "idioma": "zu",
+  "nombreIdioma": "isiZulu",
+  "termino": "ipizza",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:15:12.718Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "zu",
+    "gl": "za"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=ipizza&hl=zu&gl=za",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/pizza/zu/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqEc6k1Xm7zLliSW12yMRn9hvr5qK5IxRShg&s",
+      "fuentePagina": "https://www.stadlermade.com/xh/pizza/ayinagluten/",
+      "titulo": "Ipizza engenaGluten-Yenziwe iStadler",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqEc6k1Xm7zLliSW12yMRn9hvr5qK5IxRShg&s",
+      "original": "https://www.stadlermade.com/wp-content/uploads/2024/04/gluten-1-1.png"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/pizza/zu/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTdJRtFfAsGFxJas9xhmnK3CEZQMkxAUDFAA&s",
+      "fuentePagina": "https://ipizzza.com/",
+      "titulo": "Best Pizza in South Scottsdale, AZ | IPIZZA Restaurant ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTdJRtFfAsGFxJas9xhmnK3CEZQMkxAUDFAA&s",
+      "original": "https://ipizzza.com/pluto-images/funnel/images/5d2ef54d-0554-478d-be24-722555d7a4ad?w=1920&quality=40&fit=cover"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/pizza/zu/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS16_Ow-ETz-P_GgPXSjBFyMAhPX8zR7tqStQ&s",
+      "fuentePagina": "https://play.google.com/store/apps/details?id=com.ipizzaandgrill",
+      "titulo": "IPizza & Grill - Apps on Google Play",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS16_Ow-ETz-P_GgPXSjBFyMAhPX8zR7tqStQ&s",
+      "original": "https://play-lh.googleusercontent.com/I8TwCBDQddMoMB7iWxUGL7UMAxjRaeFxbGYvG9mNyusQeJD6R3f4Gqi-XXs36lrswa_3"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/pizza/zu/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxNCPhteY0cKvRsTu4cNk3PURc9DFnR4i5bg&s",
+      "fuentePagina": "https://www.ipizzamenu.com/",
+      "titulo": "i Pizza - Newark, CA - 39974 Cedar Blvd - Hours, Menu, Order",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxNCPhteY0cKvRsTu4cNk3PURc9DFnR4i5bg&s",
+      "original": "https://slicelife.imgix.net/28000/photos/original/856130_161647607320968_631219885_o.jpg?auto=compress&auto=format"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/pizza/zu/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCMYdF4JTEkv6ol5yeh8EawBt6Ozn082KaXg&s",
+      "fuentePagina": "https://hypixel.net/members/ipizza.2090165/",
+      "titulo": "iPizza | Hypixel Forums",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCMYdF4JTEkv6ol5yeh8EawBt6Ozn082KaXg&s",
+      "original": "https://forumassets.hypixel.net/data/avatars/o/2090/2090165.jpg?1598918547"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/pizza/zu/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTearQAhXRXfNEL3vmMOc47DztdnbXSJ6juTQ&s",
+      "fuentePagina": "https://www.instagram.com/ipizza_restaurante_official/",
+      "titulo": "IPIZZA RESTAURANTE OFFICIAL (@ipizza_restaurante_official ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTearQAhXRXfNEL3vmMOc47DztdnbXSJ6juTQ&s",
+      "original": "https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3134325120763767244"
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "categoria": "bicycle",
+  "categoriaSlug": "bicycle",
+  "idioma": "nah",
+  "nombreIdioma": "Náhuatl",
+  "termino": "bicicleta",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T20:41:28.959Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "es",
+    "gl": "mx"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=bicicleta&hl=es&gl=mx",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bicycle/nah/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDzmnVSdNXzKMrf7zkYyw-by174I3WjzS5wg&s",
+      "fuentePagina": "https://www.activasports.mx/bicicleta-trinx-m600-r29-15/?srsltid=AfmBOoohg2VL2AHgVY9Zs0gmNpL97rShz0581zHlLPT48yo3D2C9oIcB",
+      "titulo": "Bicicleta Trinx M600 R29 - 15'' | Activa Sports",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDzmnVSdNXzKMrf7zkYyw-by174I3WjzS5wg&s",
+      "original": "https://www.activasports.mx/media/catalog/product/cache/96aa14f134fe08857f67a9adccf0826b/b/i/bicicleta-trinx-m600-r29.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bicycle/nah/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxixVePZE4iHO9HPYHxaKcMoz9HyrX-aC0pQ&s",
+      "fuentePagina": "https://grupoveloci.com.mx/producto/bicicleta-veloci-warriors-rodada-16-naranja-infantil/?srsltid=AfmBOopNCe-DeCooHnCqhLVn4JZS1ZYW5cxrGzIksXt3Yz6z3zlvv5EW",
+      "titulo": "Bicicleta Veloci Warriors Rodada 16 Naranja Infantil – Grupo ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxixVePZE4iHO9HPYHxaKcMoz9HyrX-aC0pQ&s",
+      "original": "https://grupoveloci.com.mx/wp-content/uploads/2024/09/PTDS0104160135921-1.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bicycle/nah/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGBYBHO-kpx8qeg9CnfRzZjh4dVHB_dg32Cw&s",
+      "fuentePagina": "https://rambikes.mx/products/bicicleta-de-montana-r-29-21-velocidades?srsltid=AfmBOor22aV1Cl40PJYqFFoFNa0J2sFRSsE9tw35UUJVIYFfD3ZUYu8K",
+      "titulo": "Bicicleta de Montaña Limited | R 29, Negro Mate",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGBYBHO-kpx8qeg9CnfRzZjh4dVHB_dg32Cw&s",
+      "original": "https://rambikes.mx/cdn/shop/files/Diseno_sin_titulo_2_800x800.png?v=1738154827"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bicycle/nah/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyApBdf_0lVCO7oasFaRHqbNy42Y38ef0mIQ&s",
+      "fuentePagina": "https://www.amazon.com.mx/SPARKY-Bicicleta-Monta%C3%B1a-Pulgadas-Amarilla/dp/B0BHXSJDXF",
+      "titulo": "SPARKY Bicicleta de montaña Dragen 2.6, rodada 26”, Color ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyApBdf_0lVCO7oasFaRHqbNy42Y38ef0mIQ&s",
+      "original": "https://m.media-amazon.com/images/I/71ysp89M8RL._AC_UF894,1000_QL80_.jpg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bicycle/nah/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRO221GkmrzUx5kw9FbvRtqlQZRaF223G22A&s",
+      "fuentePagina": "https://www.mercadolibre.com.mx/bicicleta-de-montana-21-vel-suspension-frenos-de-disco-r-26-color-verde-tamano-del-cuadro-26/p/MLM36499917",
+      "titulo": "Bicicleta De Montaña 21 Vel. Suspension Frenos De Disco R-26 Color Verde  Tamaño del cuadro 26",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRO221GkmrzUx5kw9FbvRtqlQZRaF223G22A&s",
+      "original": "https://http2.mlstatic.com/D_NQ_NP_969323-MLA90548069356_082025-O.webp"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bicycle/nah/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvrnvRjPN1ga86Mfmsi7FQ2txResDKYQvwjA&s",
+      "fuentePagina": "https://www.runnersworld.com/es/training/a38135122/20-increibles-beneficios-montar-bicicleta/",
+      "titulo": "Los 20 increíbles beneficios de montar en bicicleta",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvrnvRjPN1ga86Mfmsi7FQ2txResDKYQvwjA&s",
+      "original": "https://hips.hearstapps.com/hmg-prod/images/gettyimages-1658233950.jpg?resize=980:*"
+    }
+  ]
+}

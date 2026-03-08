@@ -1,0 +1,71 @@
+{
+  "categoria": "knife",
+  "categoriaSlug": "knife",
+  "idioma": "zu",
+  "nombreIdioma": "isiZulu",
+  "termino": "imela",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:08:51.936Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "zu",
+    "gl": "za"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=imela&hl=zu&gl=za",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/knife/zu/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7HaGEJmDtleDLswx8cm2PrAcDuXOggIHfNA&s",
+      "fuentePagina": "https://www.youtube.com/watch?v=dWaqKo0fE4Q",
+      "titulo": "Imela - Nathaniel Bassey feat. Enitan Adaba (Lyrics)",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7HaGEJmDtleDLswx8cm2PrAcDuXOggIHfNA&s",
+      "original": "https://i.ytimg.com/vi/dWaqKo0fE4Q/sddefault.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/knife/zu/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfmdmQJEfs9MlCFs-9sIdtrkWcjV_n4uRSTQ&s",
+      "fuentePagina": "https://www.youtube.com/watch?v=OzU_jT7Y_JA",
+      "titulo": "Nathaniel Bassey feat. Enitan Adaba - Imela. (Thank You)",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfmdmQJEfs9MlCFs-9sIdtrkWcjV_n4uRSTQ&s",
+      "original": "https://i.ytimg.com/vi/OzU_jT7Y_JA/maxresdefault.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/knife/zu/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSk8XTE6y029kLkurbsfXkrQxk2YyBQACmoFA&s",
+      "fuentePagina": "https://www.deezer.com/en/album/585551902",
+      "titulo": "David Jones David - Imela (feat. Asto Romix & Adanna Lillian ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSk8XTE6y029kLkurbsfXkrQxk2YyBQACmoFA&s",
+      "original": "https://cdn-images.dzcdn.net/images/cover/0706a6b866ef2606a082649315966bcd/0x1900-000000-80-0-0.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/knife/zu/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmUlCTfk5PDH78uMsW9Dh8jqXbT2HvWAawGA&s",
+      "fuentePagina": "https://www.bellanaija.com/2023/10/new-music-video-judikay-imela/",
+      "titulo": "New Music + Video: Judikay - Imela | BellaNaija",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmUlCTfk5PDH78uMsW9Dh8jqXbT2HvWAawGA&s",
+      "original": "https://www.bellanaija.com/wp-content/uploads/2023/10/imela-judikay1.jpg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/knife/zu/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5MPsbWmWj_riXgUtJN6Zc_MeNFKuM8EmFEQ&s",
+      "fuentePagina": "https://www.youtube.com/watch?v=Jx84DLwIII4",
+      "titulo": "IMELA (Thank You) - Nathaniel Bassey feat Enitan Adaba",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5MPsbWmWj_riXgUtJN6Zc_MeNFKuM8EmFEQ&s",
+      "original": "https://i.ytimg.com/vi/Jx84DLwIII4/maxresdefault.jpg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/knife/zu/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRn7RknjXRU1PWMBx9Syq76XRlLaANUyI5Qlw&s",
+      "fuentePagina": "https://www.deezer.com/en/album/474820755",
+      "titulo": "Lapel J Datpastorboi - Imela (feat. Isaac king) | Deezer",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRn7RknjXRU1PWMBx9Syq76XRlLaANUyI5Qlw&s",
+      "original": "https://cdn-images.dzcdn.net/images/cover/41d1d19071446d4d4db78c095614a4b6/0x1900-000000-80-0-0.jpg"
+    }
+  ]
+}

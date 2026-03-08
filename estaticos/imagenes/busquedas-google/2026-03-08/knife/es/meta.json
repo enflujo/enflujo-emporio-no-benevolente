@@ -1,0 +1,71 @@
+{
+  "categoria": "knife",
+  "categoriaSlug": "knife",
+  "idioma": "es",
+  "nombreIdioma": "Español",
+  "termino": "cuchillo",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:09:06.404Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "es",
+    "gl": "es"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=cuchillo&hl=es&gl=es",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/knife/es/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTJl33ROHDQsQvcSMYZtSp9OZXK-dbYjTpLA&s",
+      "fuentePagina": "https://www.amazon.es/Arcos-Universal-Cuchillo-cocinero-estuche/dp/B0044R87QE",
+      "titulo": "Arcos Cuchillo Cocina de Acero Inoxidable y Hoja 200 mm. Cuchillo Chef para  cortar carne, pescado, aves, frutas y verduras. Mango ergonómico ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTJl33ROHDQsQvcSMYZtSp9OZXK-dbYjTpLA&s",
+      "original": "https://m.media-amazon.com/images/I/41Jlegft9LL.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/knife/es/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTTNMDCo2yxn6E7G-f07VGPK_kpkUiZdfy9Q&s",
+      "fuentePagina": "https://dispan.es/cuchillos-de-cocina/cuchillo-cocina-inox?srsltid=AfmBOorHXcsmzrFrnUh4pddl9_yJeAhK5zJf9SRiFrQPI5Xo2-MVJup6",
+      "titulo": "CUCHILLO COCINA INOX",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTTNMDCo2yxn6E7G-f07VGPK_kpkUiZdfy9Q&s",
+      "original": "https://dispan.es/4252-large_default/cuchillo-cocina-inox.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/knife/es/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREV6X5kPiZuw9JRiMgPEjpihGMVfu4W-e8rw&s",
+      "fuentePagina": "https://tiendasmicasa.com/producto/cuchillo-grande-acero-inox/",
+      "titulo": "Cuchillo grande acero inox_Mi casa",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREV6X5kPiZuw9JRiMgPEjpihGMVfu4W-e8rw&s",
+      "original": "https://tiendasmicasa.com/wp-content/uploads/2024/02/cuchillo-grande-acero-inox_1.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/knife/es/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5XDrx1ioJZe-3AQ3bdRmPU9UupWhfiEIGQg&s",
+      "fuentePagina": "https://www.homastores.com/es/cuchillo-chefe-con-mango-liso-390206.html",
+      "titulo": "Cuchillo CHEFE con mango liso | basics | hôma",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5XDrx1ioJZe-3AQ3bdRmPU9UupWhfiEIGQg&s",
+      "original": "https://www.homastores.com/on/demandware.static/-/Sites-homa-catalog/default/dwb3c44007/images/large/390206_faca_chefe_com_cabo_suave_homa_1.jpg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/knife/es/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzo5cX__W5J9hn5qt5bpLq9UonLpKqsHMgwA&s",
+      "fuentePagina": "https://martinezygascon.es/3765-200-70.html",
+      "titulo": "Cuchillo Cocinero Serie Escorial",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzo5cX__W5J9hn5qt5bpLq9UonLpKqsHMgwA&s",
+      "original": "https://martinezygascon.es/pub/media/catalog/product/cache/image/790x790/e9c3970ab036de70892d86c6d221abfe/3/7/3765.200.70_1.jpeg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/knife/es/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDRyzkjP214VLtZ_l3BtiSDSs8MokcVG3dJg&s",
+      "fuentePagina": "https://inoxamedida.com/cuchillos-de-pescadero/cuchillo-pescadero-mango-virola-hoja-grande?srsltid=AfmBOoq8HJ-iu7yIoYSnGGKmyeCNInIKpzIUQLDBqJLZ156etxPELSSW",
+      "titulo": "CUCHILLO PESCADERO MANGO VIROLA HOJA GRANDE",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDRyzkjP214VLtZ_l3BtiSDSs8MokcVG3dJg&s",
+      "original": "https://inoxamedida.com/6754-large_default/cuchillo-pescadero-mango-virola-hoja-grande.jpg"
+    }
+  ]
+}

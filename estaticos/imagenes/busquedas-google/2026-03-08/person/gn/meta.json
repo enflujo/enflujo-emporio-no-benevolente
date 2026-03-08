@@ -1,0 +1,71 @@
+{
+  "categoria": "person",
+  "categoriaSlug": "person",
+  "idioma": "gn",
+  "nombreIdioma": "Guaraní",
+  "termino": "ava",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T20:40:49.066Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "es",
+    "gl": "py"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=ava&hl=es&gl=py",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/person/gn/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLG6sBiac6b6SQO2fH_Fj48lQTpcWg0AKGBQ&s",
+      "fuentePagina": "https://www.imdb.com/es-es/title/tt8784956/",
+      "titulo": "Ava (2020) - IMDb",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLG6sBiac6b6SQO2fH_Fj48lQTpcWg0AKGBQ&s",
+      "original": "https://m.media-amazon.com/images/M/MV5BMjgxYjI0NzUtYTUzOC00ZDQwLThhMzItZThjMjU1YTBjM2MxXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/person/gn/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSWRqGaxn0DwqAtv58LbnD7olVaZqNnGFCtg&s",
+      "fuentePagina": "https://www.netflix.com/py/title/81034865",
+      "titulo": "Ava_hook_primary_16x9",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSWRqGaxn0DwqAtv58LbnD7olVaZqNnGFCtg&s",
+      "original": "https://occ-0-8407-2219.1.nflxso.net/dnm/api/v6/6AYY37jfdO6hpXcMjf9Yu5cnmO0/AAAABfnJ_xjHQk9ggcL3vd-iyBBtwAM_fCcs1nVexQl-MnJjluowa2bmDfoYcy_4xhOjVpc4iHfclofb7Gd4_v1Bu7Zl1NFwbkLSfibe.jpg?r=7fa"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/person/gn/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQD5UEpFwhs0zU2vw0SnAHb74_87TEctAFa4w&s",
+      "fuentePagina": "https://www.imdb.com/es-es/title/tt8784956/",
+      "titulo": "Ava (2020) - IMDb",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQD5UEpFwhs0zU2vw0SnAHb74_87TEctAFa4w&s",
+      "original": "https://m.media-amazon.com/images/M/MV5BMzI0ZjUwMmUtZDJkMS00MTU1LTlhZTMtNjM0YTliMWFlMjUyXkEyXkFqcGc@._V1_.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/person/gn/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRP4mULTJ3No59sH7DqOnGhE29gwUoSowQp9A&s",
+      "fuentePagina": "https://play.google.com/store/movies/details/Ava?id=u97Jh0CpR5k.P&hl=es_PE",
+      "titulo": "Ava - Películas en Google Play",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRP4mULTJ3No59sH7DqOnGhE29gwUoSowQp9A&s",
+      "original": "https://play-lh.googleusercontent.com/hK1jKYWZHYbqVn8Eix85XPoKCPvLPo8fBikiLTT8nRvXnMdBn5Uy8u8MrGYXXNVuDJ5hwQdICkc_Z4bI1Q=w240-h480-rw"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/person/gn/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsjjKObprk7TYvc1NKfHjty7kpIDIYJuJfJg&s",
+      "fuentePagina": "https://www.youtube.com/watch?v=mZfGcPineYk",
+      "titulo": "Ava 2 Trailer (2025) - Netflix | Jessica Chastain, Colin Farrell, Ava  Sequel Teaser, Ava 2020 Film,",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsjjKObprk7TYvc1NKfHjty7kpIDIYJuJfJg&s",
+      "original": "https://i.ytimg.com/vi/mZfGcPineYk/maxresdefault.jpg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/person/gn/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4yQsZPOy-C_yOgzG0grA-Io1nCJoFGZRTHw&s",
+      "fuentePagina": "https://www.imdb.com/es-es/title/tt8784956/mediaviewer/rm769109505/",
+      "titulo": "Ava (2020)",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4yQsZPOy-C_yOgzG0grA-Io1nCJoFGZRTHw&s",
+      "original": "https://m.media-amazon.com/images/M/MV5BNTE5OWNmNDUtMTE1ZC00NGM5LTgxY2YtMGMwY2ZiZjY2ZTQwXkEyXkFqcGc@._V1_.jpg"
+    }
+  ]
+}

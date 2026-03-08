@@ -1,0 +1,71 @@
+{
+  "categoria": "sheep",
+  "categoriaSlug": "sheep",
+  "idioma": "qu",
+  "nombreIdioma": "Quechua",
+  "termino": "uwija",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T20:52:38.232Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "es",
+    "gl": "pe"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=uwija&hl=es&gl=pe",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/sheep/qu/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgDptF6XU3mcmxVuPNTX0RB9Hs7iMoHTwx2w&s",
+      "fuentePagina": "https://www.facebook.com/108817567205191/photos/a.109495930470688/129018748518406/?type=3&locale=hi_IN",
+      "titulo": "Aster - Uwija, Oveja. Aprende quechua. Nuestro propósito es ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgDptF6XU3mcmxVuPNTX0RB9Hs7iMoHTwx2w&s",
+      "original": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=129018748518406"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/sheep/qu/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuBdX6r9VVy36zyi3TovxKmo6wmGV4vL6Z4Q&s",
+      "fuentePagina": "https://ay.wikipedia.org/wiki/Uwija",
+      "titulo": "Uwija - Wikipedia",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuBdX6r9VVy36zyi3TovxKmo6wmGV4vL6Z4Q&s",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/O_de_oveja.jpg/250px-O_de_oveja.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/sheep/qu/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbOts35KCxzI9Es-xmJBpF_dn91RCDhomCeA&s",
+      "fuentePagina": "https://www.facebook.com/SoyOruro/posts/sumaq-punchaykacha-uwija-saluden-a-la-ovejita-marco-antonio-yanque/1430770623773271/",
+      "titulo": "Sumaq P'unchay! K'acha uwija 🐑... Saluden a la ovejita ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbOts35KCxzI9Es-xmJBpF_dn91RCDhomCeA&s",
+      "original": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=1430769727106694"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/sheep/qu/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTaG9wK7TFJ6Scin36J8Q5ydRpPdlCdOwuqxw&s",
+      "fuentePagina": "https://www.facebook.com/photo.php?fbid=1457039144479752&id=397771240406553&set=a.399258296924514",
+      "titulo": "Soy - Uwija, k'achitu sayarispa qhawamushan ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTaG9wK7TFJ6Scin36J8Q5ydRpPdlCdOwuqxw&s",
+      "original": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=1457039144479752"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/sheep/qu/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgXJys274mSTTDWhHvMo5cxlqn3EJBYPYEoQ&s",
+      "fuentePagina": "https://ay.wikipedia.org/wiki/Uwija",
+      "titulo": "Uwija - Wikipedia",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgXJys274mSTTDWhHvMo5cxlqn3EJBYPYEoQ&s",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Oveja_de_las_monta%C3%B1as.jpg/250px-Oveja_de_las_monta%C3%B1as.jpg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/sheep/qu/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrwcpcqnCMRkuQAlVf4vQUVKEOWef7bEsx5g&s",
+      "fuentePagina": "https://ay.wikipedia.org/wiki/Uwija",
+      "titulo": "Uwija - Wikipedia",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrwcpcqnCMRkuQAlVf4vQUVKEOWef7bEsx5g&s",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Suffolk_%28sheep%29_-_Oveja_-_Borrega.JPG/1280px-Suffolk_%28sheep%29_-_Oveja_-_Borrega.JPG"
+    }
+  ]
+}

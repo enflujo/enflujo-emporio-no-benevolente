@@ -1,0 +1,71 @@
+{
+  "categoria": "cake",
+  "categoriaSlug": "cake",
+  "idioma": "zh",
+  "nombreIdioma": "中文",
+  "termino": "蛋糕",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:16:45.115Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "zh-CN",
+    "gl": "cn"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=%E8%9B%8B%E7%B3%95&hl=zh-CN&gl=cn",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/cake/zh/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRX-NBXovA__lc-ohEVP6F7GnPquIKB2c_QDA&s",
+      "fuentePagina": "https://ciao.kitchen/whipping-cream-technique/",
+      "titulo": "打發鮮奶油更持久的三種方式！不用抹面完成鮮奶油蛋糕的神奇方法(How to Stablize Whipped Cream)",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRX-NBXovA__lc-ohEVP6F7GnPquIKB2c_QDA&s",
+      "original": "https://ciao.kitchen/wp-content/uploads/2024/08/Strawberry_Cake_09849.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/cake/zh/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0PB6i4CdCoShbJ_ajS-eMfGENFPdVXhsVZA&s",
+      "fuentePagina": "https://www.elly.com.tw/products/%E8%8D%89%E8%8E%93%E5%A5%B6%E5%87%8D%E8%9B%8B%E7%B3%95",
+      "titulo": "草莓奶凍蛋糕(4吋) 艾立蛋糕ellyfamily",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0PB6i4CdCoShbJ_ajS-eMfGENFPdVXhsVZA&s",
+      "original": "https://cdn-next.cybassets.com/media/W1siZiIsIjI5MTcxL3Byb2R1Y3RzLzUwOTUzMjg1LzE3MzU1NTUzMDlfNzJjOWE5NzM3Zjg4YzdjOGIzOTguanBlZyJdLFsicCIsInRodW1iIiwiMjA0OHgyMDQ4Il1d.jpeg?sha=eb5adce6d3aacea3"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/cake/zh/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRskC-q4xvqKL8UNAXt_tk-pnXG68tOM3TFzQ&s",
+      "fuentePagina": "https://www.mummumcake.com/categories/%E8%9B%8B%E7%B3%95",
+      "titulo": "Mum, 蛋糕",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRskC-q4xvqKL8UNAXt_tk-pnXG68tOM3TFzQ&s",
+      "original": "https://shoplineimg.com/605c41d671de61000e764af1/67b669e0ae435d000c09b345/1080x.jpg?"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/cake/zh/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-Ng5bZi8j370shjZcdS76Mg1LD3cUuplEhw&s",
+      "fuentePagina": "https://www.bestbakery.com.tw/products_detail/638",
+      "titulo": "維也納Vienna - 線上購物- 順成蛋糕-網路線上購物",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-Ng5bZi8j370shjZcdS76Mg1LD3cUuplEhw&s",
+      "original": "https://www.bestbakery.com.tw/upload/20240701104109k8p8z1.jpg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/cake/zh/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWhaY4OLk1E_eDUBFhYaD9N-I7AE9vejgcXA&s",
+      "fuentePagina": "https://pinede.com.tw/product-category/%E7%94%9F%E6%97%A5%E8%9B%8B%E7%B3%95/",
+      "titulo": "生日蛋糕- PINEDE",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWhaY4OLk1E_eDUBFhYaD9N-I7AE9vejgcXA&s",
+      "original": "https://pinede.com.tw/wp-content/uploads/%E7%B2%89%E6%88%80-%E7%B6%B2%E7%AB%99.jpg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/cake/zh/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9mZVy3L7itfeoVebg_Ojlq56OXQsS7CQ95w&s",
+      "fuentePagina": "https://www.masterfang.com.tw/product/product&product_id=3882?srsltid=AfmBOopjs3qG8jnLrK56E6t_zaJXcugTCkS28EIN5Ys1F6kAT0VdEvM4",
+      "titulo": "水果百匯蛋糕| 方師傅點心坊",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9mZVy3L7itfeoVebg_Ojlq56OXQsS7CQ95w&s",
+      "original": "https://image-cdn-flare.qdm.cloud/q61912a58b4245/image/data/2025/03/28/881f97dbc824b2ec5518bb573a9a3f32.jpg"
+    }
+  ]
+}

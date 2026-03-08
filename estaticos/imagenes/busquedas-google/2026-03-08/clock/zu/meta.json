@@ -1,0 +1,71 @@
+{
+  "categoria": "clock",
+  "categoriaSlug": "clock",
+  "idioma": "zu",
+  "nombreIdioma": "isiZulu",
+  "termino": "iwashi",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:29:00.755Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "zu",
+    "gl": "za"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=iwashi&hl=zu&gl=za",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/clock/zu/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZoG9h1ZEYsAr9ToXYwPWosl3vyZblDXW7WQ&s",
+      "fuentePagina": "https://www.sushi-pedia.com/en/sushi/iwashi",
+      "titulo": "What is Iwashi Sushi? — Sushipedia",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZoG9h1ZEYsAr9ToXYwPWosl3vyZblDXW7WQ&s",
+      "original": "https://www.sushi-pedia.com/_astro/iwashi-sardine-fresh-for-sushi-sashimi_Z1oEVGF.jpeg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/clock/zu/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTODqhIS86meXjJ1WVYAOKAoyn8USrTM-NrvA&s",
+      "fuentePagina": "https://www.thesushigeek.com/the-sushi-geek/2015/12/03/iwashi-%E3%82%A4%E3%83%AF%E3%82%B7-sardine",
+      "titulo": "Iwashi (イワシ / Sardine) — The Sushi Geek",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTODqhIS86meXjJ1WVYAOKAoyn8USrTM-NrvA&s",
+      "original": "https://images.squarespace-cdn.com/content/v1/59488c7dbf629aaeded8b9b1/1497928215936-1NGXBQU46GBMJHA8B6VO/image-asset.jpeg?format=2500w"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/clock/zu/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfuvsArpr4kxa3YKjrlkh8quHZyBMGckExKw&s",
+      "fuentePagina": "https://sushiuniversity.jp/basicknowledge/japanese-sardine-iwashi",
+      "titulo": "Japanese sardine (Iwashi) | Basic Sushi Knowledge - Sushi ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfuvsArpr4kxa3YKjrlkh8quHZyBMGckExKw&s",
+      "original": "https://sushiuniversity.jp/basicknowledge/wp-content/uploads/sites/18/2023/05/Japanese-sardine-Iwashi.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/clock/zu/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfkcaLJsgSxtGQDKLXgsWkW82j5EKF2LgSEA&s",
+      "fuentePagina": "http://www.oksfood.com/seafood/iwashi.html",
+      "titulo": "Iwashi (Sardine) | Japanese Food Guide | Oksfood",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfkcaLJsgSxtGQDKLXgsWkW82j5EKF2LgSEA&s",
+      "original": "http://www.oksfood.com/image/iwashi.jpg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/clock/zu/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbj36fYMVYf-SK-W7hpFljEkLDAaSOBh4yqA&s",
+      "fuentePagina": "https://www.imdb.com/title/tt12097904/",
+      "titulo": "Iwashi (TV Series 2019– ) - IMDb",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbj36fYMVYf-SK-W7hpFljEkLDAaSOBh4yqA&s",
+      "original": "https://m.media-amazon.com/images/M/MV5BZmI1MGQyMTQtM2E5MC00MWUzLWFlYTAtZTk5MThhZmQ2N2IzXkEyXkFqcGc@._V1_.jpg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/clock/zu/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQELJlhr6wdCawfSaLHNl7-Sdrh96xXiIkBJQ&s",
+      "fuentePagina": "https://welovejapanesefood.com/what-is-iwashi/",
+      "titulo": "Grilled Iwashi Sardine Recipe",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQELJlhr6wdCawfSaLHNl7-Sdrh96xXiIkBJQ&s",
+      "original": "https://welovejapanesefood.com/101food/japan_tmpl/uploads/2016/06/iwashipixabay-1-1.jpg"
+    }
+  ]
+}

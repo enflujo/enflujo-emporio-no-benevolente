@@ -1,0 +1,71 @@
+{
+  "categoria": "snowboard",
+  "categoriaSlug": "snowboard",
+  "idioma": "pt",
+  "nombreIdioma": "Português",
+  "termino": "snowboard",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:01:12.437Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "pt",
+    "gl": "br"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=snowboard&hl=pt&gl=br",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/snowboard/pt/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIcNTjPaEouuQRpXYHPRfcuuhwjBFi1571OQ&s",
+      "fuentePagina": "https://www.clubmed.com.br/l/blog/snowboard-para-principiantes",
+      "titulo": "8 dicas para quem quer iniciar no snowboard | Club Med",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIcNTjPaEouuQRpXYHPRfcuuhwjBFi1571OQ&s",
+      "original": "https://production.media.dcx.clubmed/?url=https%3A%2F%2Fassets.dream.clubmed%2Fpm_7531_579_579630-uxq64wdaa8-swhr.jpg&format=webp&width=300&height=300&quality=70"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/snowboard/pt/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpxyhD7ZGykea6fPtB6Oo3AaVRhZo6AnUSUg&s",
+      "fuentePagina": "https://www.dopesnow.com/mag/is-snowboarding-a-good-workout/?srsltid=AfmBOookR6ZQfzCzWd2P8BC1m2b1NMEKljjpDeRIa0TaXSkQvg3Fkbqk",
+      "titulo": "Is snowboarding a good workout? - Top 5 benefits | Dope Magazine",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpxyhD7ZGykea6fPtB6Oo3AaVRhZo6AnUSUg&s",
+      "original": "https://www.dopesnow.com/images/wordpress-4582242/uploads/2023/01/top-5-health-benefits-of-skiing-and-snowboarding-dope-magazine.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/snowboard/pt/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwQE7IPdBoDTG_ZXyOBhQ7XZh3NkffOj3OEA&s",
+      "fuentePagina": "https://www.aspensnowmass.com/discover/experiences/stories/snowboard-pro-tips-for-riding-at-every-level",
+      "titulo": "Snowboard Pro Tips for Riding at Every Level – Aspen Snowmass",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwQE7IPdBoDTG_ZXyOBhQ7XZh3NkffOj3OEA&s",
+      "original": "https://www.aspensnowmass.com/-/media/aspen-snowmass/images/visual-story-row/winter/2024-25/snoprovs-3.jpg?mw=1920&mh=1000&hash=97B2ECDCF6A8ECC7FB559565748D5225"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/snowboard/pt/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuakGyElaKKt803wxKuN4FxYUk5z-OHsdriw&s",
+      "fuentePagina": "https://brasilnaneve.cbdn.org.br/dica-de-viagem-para-iniciante-snowboard/",
+      "titulo": "Dica de viagem para iniciante: Snowboard - Brasil na Neve!",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuakGyElaKKt803wxKuN4FxYUk5z-OHsdriw&s",
+      "original": "https://i0.wp.com/brasilnaneve.cbdn.org.br/wp-content/uploads/sites/2/2022/06/hamish-duncan-XO6FSH3H5CE-unsplash-scaled.jpg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/snowboard/pt/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKuj9iZj6Xcmecfbn1lMkcdkcYbb2XPDHAcg&s",
+      "fuentePagina": "https://www.clubmed.com.br/l/blog/ski-ou-snowboard-saiba-qual-esporte-combina-mais-com-o-seu-perfil",
+      "titulo": "Ski ou snowboard: qual combina com seu perfil | Club Med",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKuj9iZj6Xcmecfbn1lMkcdkcYbb2XPDHAcg&s",
+      "original": "https://production.media.dcx.clubmed/?url=https%3A%2F%2Fassets.dream.clubmed%2Fpm_7531_579_579684-0mndh5f4mb-swhr.jpg&format=webp&width=300&height=300&quality=70"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/snowboard/pt/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRY7LBlhIDj0T-dnWWROxkstynv51VaaROFQA&s",
+      "fuentePagina": "https://www.instagram.com/reel/DHBwvgMPS-P/",
+      "titulo": "Todo mundo curioso me perguntando se o Koa gostou mais do snowboard ou do  ski. Acredito que ele gostou mais da ‘ideia do snowboard’ porque ele fala o  tempo todo que quer andar de snow. O Koa adora ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRY7LBlhIDj0T-dnWWROxkstynv51VaaROFQA&s",
+      "original": "https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3585361148976639887"
+    }
+  ]
+}

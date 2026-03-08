@@ -1,0 +1,71 @@
+{
+  "categoria": "elephant",
+  "categoriaSlug": "elephant",
+  "idioma": "ha",
+  "nombreIdioma": "Hausa",
+  "termino": "giwā",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T20:53:45.363Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "ha",
+    "gl": "ng"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=giw%C4%81&hl=ha&gl=ng",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/elephant/ha/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDWPpVt8Xs9K64pHz67uGNW5GFDZTIFRcn3w&s",
+      "fuentePagina": "https://www.facebook.com/prusa.giwa/videos/",
+      "titulo": "ᛝ Prūsa ᛝ Giwā ᛝ (@prusa.giwa) • Facebook",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDWPpVt8Xs9K64pHz67uGNW5GFDZTIFRcn3w&s",
+      "original": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=61554394687378"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/elephant/ha/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbCOlOulwYIzWi8DKMQ4mghKzDqA2L8a08kg&s",
+      "fuentePagina": "https://www.facebook.com/prusa.giwa/videos/",
+      "titulo": "ᛝ Prūsa ᛝ Giwā ᛝ (@prusa.giwa) • Facebook",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbCOlOulwYIzWi8DKMQ4mghKzDqA2L8a08kg&s",
+      "original": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=122114796230146489"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/elephant/ha/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTefK7rAwtYrn0WkjD66mo607F05ggY_U7hg&s",
+      "fuentePagina": "https://awizi.twanksta.org/nawwiniskai/pakarwjas-walinsna-giwa-minisna-ezze-erkun-mantan/",
+      "titulo": "Pakarwjas walinsnā. Giwā minisnā ezze Ērkun Māntan ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTefK7rAwtYrn0WkjD66mo607F05ggY_U7hg&s",
+      "original": "https://i0.wp.com/awizi.twanksta.org/wp-content/uploads/2020/01/10926425_10202467109239559_9127418454949149039_n-1.jpg?fit=579%2C700&ssl=1"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/elephant/ha/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvoUAGo8iOWCdzRytEnv6_EqnPOJKNfvZxDg&s",
+      "fuentePagina": "https://www.facebook.com/photo.php?fbid=122177905802146489&set=a.122148235124146489&id=61554394687378",
+      "titulo": "ᛝ Prūsa ᛝ Giwā ᛝ added a new photo. - ᛝ Prūsa ᛝ Giwā ᛝ",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvoUAGo8iOWCdzRytEnv6_EqnPOJKNfvZxDg&s",
+      "original": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=122177905802146489"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/elephant/ha/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuGJ7gEk7NEuUBfmvpfFo9FLt0EC9n62gefA&s",
+      "fuentePagina": "https://www.7md.lt/kronika/2024-09-20/Prusa-Giw-Prusija-Gyva-Uzupio-Respublikos-Konstitucijos-prusu-kalba-atidengimo-ceremonija",
+      "titulo": "Prūsa Giwā / Prūsija Gyva“. Užupio Respublikos Konstitucijos ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuGJ7gEk7NEuUBfmvpfFo9FLt0EC9n62gefA&s",
+      "original": "https://www.7md.lt/images/ar_or/Renginio_afisa.jpg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/elephant/ha/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwvvvat2vRz_cKI7aDvNj9wFvQCRG8QhOANw&s",
+      "fuentePagina": "https://awizi.twanksta.org/nawwiniskai/pakarwjas-walinsna-giwa-minisna-ezze-erkun-mantan/",
+      "titulo": "Pakarwjas walinsnā. Giwā minisnā ezze Ērkun Māntan. - Prūsas ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwvvvat2vRz_cKI7aDvNj9wFvQCRG8QhOANw&s",
+      "original": "https://i0.wp.com/awizi.twanksta.org/wp-content/uploads/2020/01/Mant-1.jpg?resize=569%2C489&ssl=1"
+    }
+  ]
+}

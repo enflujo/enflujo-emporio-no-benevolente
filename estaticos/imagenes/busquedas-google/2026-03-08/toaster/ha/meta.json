@@ -1,0 +1,71 @@
+{
+  "categoria": "toaster",
+  "categoriaSlug": "toaster",
+  "idioma": "ha",
+  "nombreIdioma": "Hausa",
+  "termino": "mai ƙona burodi",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:26:20.791Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "ha",
+    "gl": "ng"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=mai%20%C6%99ona%20burodi&hl=ha&gl=ng",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/toaster/ha/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRo6MZoHey3ueT-47tdRnedVH8oPtKz3bJl6Q&s",
+      "fuentePagina": "https://www.instagram.com/reel/DHEX9KgI8EV/",
+      "titulo": "Kun taba sanin cewa ana iya yin burodi mai dankali cikinsa? 🍞🥔 , Chef  Halymatu za ta gwada muku yadda ake yin burodin tare da wani haɗin tsire  mai kayan lambu.",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRo6MZoHey3ueT-47tdRnedVH8oPtKz3bJl6Q&s",
+      "original": "https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3586096561528226069"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/toaster/ha/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdSd_tQm6czcEYD5PugbEc100_DPiTfw9xXA&s",
+      "fuentePagina": "https://ha.sadaalomma.com/Fassarar-ganin-burodi-a-cikin-mafarki-mafarki/",
+      "titulo": "Ƙara koyo game da fassarar ganin burodi a mafarki daga Ibn ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdSd_tQm6czcEYD5PugbEc100_DPiTfw9xXA&s",
+      "original": "https://sadaalomma.com/wp-content/uploads/2023/11/%D8%AA%D9%81%D8%B3%D9%8A%D8%B1-%D8%B1%D8%A4%D9%8A%D8%A9-%D8%A7%D9%84%D8%AE%D8%A8%D8%B2-%D9%81%D9%8A-%D8%A7%D9%84%D9%85%D9%86%D8%A7%D9%85-%D9%84%D9%84%D8%B1%D8%AC%D9%84.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/toaster/ha/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0-W92gDRlwYdYHTyHE9oKLb5MBjfodrQJHA&s",
+      "fuentePagina": "https://trustradio.com.ng/ha/yajin-aiki-ya-jawo-karancin-burodi-a-kwara",
+      "titulo": "Yajin aiki ya jawo karancin burodi a Kwara | Trust Radio",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0-W92gDRlwYdYHTyHE9oKLb5MBjfodrQJHA&s",
+      "original": "https://aminiya.ng/wp-content/uploads/2020/11/Burodi.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/toaster/ha/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2kEHzVb1UsAXuc2rM3dQD3zQclHlDGnqAiA&s",
+      "fuentePagina": "https://ha.secrets-of-dream-interpretation.com/Gurasa-%C6%99onawa-a-mafarki-ga-matar-aure/",
+      "titulo": "Fassarorin Ibn Sirin mafi mahimmanci guda 20 dangane da ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2kEHzVb1UsAXuc2rM3dQD3zQclHlDGnqAiA&s",
+      "original": "https://secrets-of-dream-interpretation.com/wp-content/uploads/2022/08/%D8%A3%D9%83%D9%84-%D8%A7%D9%84%D8%AE%D8%A8%D8%B2-%D9%81%D9%8A-%D8%A7%D9%84%D9%85%D9%86%D8%A7%D9%85.jpg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/toaster/ha/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHISr5SEbigqdkZ8l1RTXf0dfs1dKtk9nbkg&s",
+      "fuentePagina": "https://aminiya.ng/abun-da-ya-kawo-tsadar-burodi-a-kano/",
+      "titulo": "Abun da ya kawo tsadar burodi a Kano - Aminiya",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHISr5SEbigqdkZ8l1RTXf0dfs1dKtk9nbkg&s",
+      "original": "https://aminiya.ng/wp-content/uploads/2020/08/images-1-1.jpeg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/toaster/ha/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5EkOa8XXCw0iyD2PqJ769cgzUSKenx4Ba0A&s",
+      "fuentePagina": "https://ha.tafseer-dreams.com/Yin-burodi-a-mafarki/",
+      "titulo": "Tafsirin yin burodi a mafarki na Ibn Sirin - Tafsirin Mafarki",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5EkOa8XXCw0iyD2PqJ769cgzUSKenx4Ba0A&s",
+      "original": "https://tafseer-dreams.com/wp-content/uploads/2022/02/%D8%B5%D9%86%D8%A7%D8%B9%D8%A9-%D8%A7%D9%84%D8%AE%D8%A8%D8%B2-%D9%81%D9%8A-%D8%A7%D9%84%D9%85%D9%86%D8%A7%D9%85.jpg"
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "categoria": "frisbee",
+  "categoriaSlug": "frisbee",
+  "idioma": "yo",
+  "nombreIdioma": "Yorùbá",
+  "termino": "frisbee",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T20:59:36.579Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "yo",
+    "gl": "ng"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=frisbee&hl=yo&gl=ng",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/frisbee/yo/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOPPeUYRXc0mWVFPbMztz_8WmpOi3qORN0Uw&s",
+      "fuentePagina": "https://en.wikipedia.org/wiki/Frisbee",
+      "titulo": "Frisbee - Wikipedia",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOPPeUYRXc0mWVFPbMztz_8WmpOi3qORN0Uw&s",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Frisbee_090719.jpg/500px-Frisbee_090719.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/frisbee/yo/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS--HEhij0TKL78qgkqH35e9zEN_BEmFFmq6A&s",
+      "fuentePagina": "https://zabcafe.com/en/products/frizbee-cafelimo?srsltid=AfmBOoqe2b7aAneK4KH3Bi_mZQa3T4Mn4PUvS8DRuhu_fU_nJVF6sy3x",
+      "titulo": "Cafélimo Frisbee – Zab Café",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS--HEhij0TKL78qgkqH35e9zEN_BEmFFmq6A&s",
+      "original": "https://zabcafe.com/cdn/shop/files/frisbee-cafelimo-sky.jpg?v=1748348264&width=1200"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/frisbee/yo/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdwodbmrVoOxkp0Pkjnbign4QYu1Jr16bi1w&s",
+      "fuentePagina": "https://www.decathlon.ph/p/ultimate-disc-original-175g-white-tribord-8590276.html",
+      "titulo": "Ultimate Disc Original 175g - White",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdwodbmrVoOxkp0Pkjnbign4QYu1Jr16bi1w&s",
+      "original": "https://contents.mediadecathlon.com/p2140421/k$2317974123b07ccd65c829aad67cefb9/ultimate-disc-original-175g-white-tribord-8590276.jpg?f=1920x0&format=auto"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/frisbee/yo/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0jJCnFPGRoqjeuGJEJWCntDqBbnWpandHDA&s",
+      "fuentePagina": "https://www.museumofplay.org/toys/frisbee/",
+      "titulo": "Frisbee - The Strong National Museum of Play",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0jJCnFPGRoqjeuGJEJWCntDqBbnWpandHDA&s",
+      "original": "https://www.museumofplay.org/app/uploads/2021/08/Frisbee-sq.jpg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/frisbee/yo/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHfgeluxAwql4gsa68EzcCKvkNeQNEBYrhzA&s",
+      "fuentePagina": "https://www.acefitness.org/continuing-education/prosource/june-2016/5914/ace-sponsored-research-can-you-get-fit-playing-ultimate-frisbee/?srsltid=AfmBOopCg4BIDGqqXs8Ar7UtfIeuz5UBadbTVHCZP7EJ5ecKpBfCoJfc",
+      "titulo": "ACE - ProSource™: June 2016 - ACE-SPONSORED RESEARCH: Can ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHfgeluxAwql4gsa68EzcCKvkNeQNEBYrhzA&s",
+      "original": "https://ik.imagekit.io/02fmeo4exvw/June2016/Frisbee_main.jpg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/frisbee/yo/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGw_vYMXGZpNN98uAQ8xnNQVDFoEFF_nN33w&s",
+      "fuentePagina": "https://wham-o.com/products/frisbee%C2%AE-pro-classic-1?srsltid=AfmBOor8NjgbQ_qcfujo68P3D3mh4AThXBGGkTLFgsOeS9cZ7QyPLgib",
+      "titulo": "Frisbee® Pro Classic | Wham-O®",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGw_vYMXGZpNN98uAQ8xnNQVDFoEFF_nN33w&s",
+      "original": "https://wham-o.com/cdn/shop/files/71T2qnlnpDL._AC_SL1200.jpg?v=1695777226&width=1138"
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "categoria": "sink",
+  "categoriaSlug": "sink",
+  "idioma": "kg",
+  "nombreIdioma": "Kikongo",
+  "termino": "évier",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:26:52.054Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "fr",
+    "gl": "cd"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=%C3%A9vier&hl=fr&gl=cd",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/sink/kg/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbfA9gpInG7-6lnhDI6rB1CXf5wURfEF9MpA&s",
+      "fuentePagina": "https://www.construiresamaison.com/amenagement/cuisines/choisir-son-evier-de-cuisine/a15926/quel-type-de-pose-pour-mon-evier-de-cuisine",
+      "titulo": "Evier de cuisine - Les différents types de pose des éviers ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbfA9gpInG7-6lnhDI6rB1CXf5wURfEF9MpA&s",
+      "original": "https://cdn.pap.fr/image/cms/75/35/753572b44d91480809f9232bf05a0c4d/7-800x600-s8.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/sink/kg/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFphqO3uZfxkloSTWGocosKY7TuJ73Or3_xw&s",
+      "fuentePagina": "https://www.sanitaire.fr/evier-de-cuisine-portofino-inox-mini-structure-1-grand-bac-ev48011.html",
+      "titulo": "Evier de cuisine PORTOFINO inox mini-structure 1 grand bac ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFphqO3uZfxkloSTWGocosKY7TuJ73Or3_xw&s",
+      "original": "https://www.sanitaire.fr/img/500/500/26205/ev48011_26205.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/sink/kg/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcSKBUMdIatsuXXa8gkzGMqrs7NC6z8F3uZQ&s",
+      "fuentePagina": "https://www.castorama.fr/evier-de-cuisine-en-ceramique-blanche-1-bac-a-encastrer-burbank/3663602901082_CAFR.prd",
+      "titulo": "Évier de cuisine en céramique blanche 1 bac à encastrer Burbank",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcSKBUMdIatsuXXa8gkzGMqrs7NC6z8F3uZQ&s",
+      "original": "https://media.castorama.fr/is/image/Castorama/evier-de-cuisine-en-ceramique-blanche-1-bac-a-encastrer-burbank~3663602901082_30i?$MOB_PREV$&$width=600&$height=600"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/sink/kg/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoSO3rcl9YhI7NyaLXO9JIkFcOhhlfttRkFQ&s",
+      "fuentePagina": "https://dusine.fr/eviers-de-cuisine/205-evier-harry.html",
+      "titulo": "Évier en granit haut de gamme EVIER HARRY - DUSINE",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoSO3rcl9YhI7NyaLXO9JIkFcOhhlfttRkFQ&s",
+      "original": "https://dusine.fr/1042/evier-harry.jpg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/sink/kg/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtDcN7A3ryBnYQqOBYLBHr_MAgG3K247g6PQ&s",
+      "fuentePagina": "https://sanili.ma/evier-en-inox-830x830x0-8mm-ss304.html?srsltid=AfmBOor1csnjOLqZPgk_MNzgaRgQ0TZKaUW1SATr4PvdnDLkwDjy0hYG",
+      "titulo": "Évier en Inox D'angle 830x830x0.8mm SS304",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtDcN7A3ryBnYQqOBYLBHr_MAgG3K247g6PQ&s",
+      "original": "https://sanili.ma/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/s/m/smeg-evier-d-angle-alba-sp2a-2-cuves-acier-inox_1_1.jpg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/sink/kg/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLKQ7VQgmR4Ud0xWuilYKDQAzri_xUrAk2zg&s",
+      "fuentePagina": "https://www.cdiscount.com/bricolage/sanitaire-cuisine/auralum-evier-cuisine-1-bac-55x45cm-gris-fonce-e/f-1660901-aur0728360848239.html",
+      "titulo": "Évier Cuisine 1 Bac Auralum - Acier Inox 304 - Distributeur ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLKQ7VQgmR4Ud0xWuilYKDQAzri_xUrAk2zg&s",
+      "original": "https://www.cdiscount.com/pdt2/2/3/9/1/700x700/aur0728360848239/rw/auralum-evier-cuisine-1-bac-55x45cm-gris-fonce-e.jpg"
+    }
+  ]
+}

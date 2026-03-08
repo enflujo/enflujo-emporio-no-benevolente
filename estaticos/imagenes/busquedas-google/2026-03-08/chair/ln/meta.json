@@ -1,0 +1,71 @@
+{
+  "categoria": "chair",
+  "categoriaSlug": "chair",
+  "idioma": "ln",
+  "nombreIdioma": "Lingala",
+  "termino": "chaise",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:16:54.295Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "fr",
+    "gl": "cd"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=chaise&hl=fr&gl=cd",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/chair/ln/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmYIvelYqkI3YfT5T8B6k9sr4S2Seyc5-K2A&s",
+      "fuentePagina": "https://www.aosom.fr/item/chaise-de-salle-a-manger-moderne-en-tissu-de-sherpa-avec-accoudoirs-et-dossier-ergonomique-pieds-en-metal-rembourre~1P2EEIHO1RO00.html?srsltid=AfmBOop_KMbJueiwC3csaWNWZYrRK2iJbkC9sTC9CpZIKB8dHNg6HL80",
+      "titulo": "Chaise de Salle à Manger Moderne en tissu de sherpa avec ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmYIvelYqkI3YfT5T8B6k9sr4S2Seyc5-K2A&s",
+      "original": "https://img.aosomcdn.com/thumbnail/100/n0/product/2024/08/08/MNZf911913134b9e7.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/chair/ln/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR59t_fmrKO8MxAVzFF6NSRnAbrzclymgQfjw&s",
+      "fuentePagina": "https://www.tikamoon.be/fr/art-chaise-en-teck-massif-jonak-1625.htm",
+      "titulo": "Chaise de séjour en teck - Mobilier pour la salle à manger ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR59t_fmrKO8MxAVzFF6NSRnAbrzclymgQfjw&s",
+      "original": "https://media.tikamoon.com/images/f_auto/t_product-picture-774/website/product/1625_A_HD_012/chaise-en-teck-massif-jonak-1625"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/chair/ln/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2NoullVcADjk_hTPcEO4eT_isN5gB3oof7w&s",
+      "fuentePagina": "https://www.vitadeco.com/produits/chaises/chaise-marcel-gris-souris/?srsltid=AfmBOoqX7w-WJrpH5WQfF7gUZH7HVb572VE8xIq1lW44nzFrGg22R1XL",
+      "titulo": "Chaises confortables de salle à manger | Cuir gris | VitaDeco",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2NoullVcADjk_hTPcEO4eT_isN5gB3oof7w&s",
+      "original": "https://www.vitadeco.com/wp-content/uploads/2024/10/chaise-salle-manger-cuir.webp"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/chair/ln/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbCsOc9Dr4MGNG79hY6zGxiG6xD9QxaQTGkA&s",
+      "fuentePagina": "https://www.sklum.com/fr/acheter-chaises-salle-a-manger/3608-chaise-brich-scand-nordic.html",
+      "titulo": "Chaise de salle à manger en polypropylène et bois de hêtre ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbCsOc9Dr4MGNG79hY6zGxiG6xD9QxaQTGkA&s",
+      "original": "https://cdn.sklum.com/fr/4320940/chaise-brich-scand-nordic.jpg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/chair/ln/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTentJgBbNjNS6M2dgbYWBn8QNqEfnrmYKYzQ&s",
+      "fuentePagina": "https://www.alinea.com/fr-fr/p/loana-chaise-en-acier-et-simili-avec-pietement-noir----noir-27192948.html",
+      "titulo": "Chaise en acier et simili avec piètement noir",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTentJgBbNjNS6M2dgbYWBn8QNqEfnrmYKYzQ&s",
+      "original": "https://www.alinea.com/dw/image/v2/BCKM_PRD/on/demandware.static/-/Sites-ali_master/default/dw5283244d/images/27192948/Chaise-LOANA-27192948-A-1.jpg?sw=2000&sh=2000&sm=fit&sfrm=png&bgcolor=eef1eb"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/chair/ln/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOD-g357j_vX2xdmKXWACzVDadNU8rB2dyrQ&s",
+      "fuentePagina": "https://cocktail-scandinave.fr/chaise-warren/",
+      "titulo": "Fauteuil WARREN | Cocktail Scandinave",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOD-g357j_vX2xdmKXWACzVDadNU8rB2dyrQ&s",
+      "original": "https://cocktail-scandinave.fr/wp-content/uploads/2023/04/NISLFAU6-amb.jpg"
+    }
+  ]
+}

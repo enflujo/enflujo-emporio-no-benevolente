@@ -1,0 +1,71 @@
+{
+  "categoria": "bench",
+  "categoriaSlug": "bench",
+  "idioma": "hi",
+  "nombreIdioma": "हिन्दी",
+  "termino": "बेंच",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T20:49:20.540Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "hi",
+    "gl": "in"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=%E0%A4%AC%E0%A5%87%E0%A4%82%E0%A4%9A&hl=hi&gl=in",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bench/hi/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNOVHyA3o1YqXBqhpoN7b7zjS4IXsYz3NK8A&s",
+      "fuentePagina": "https://www.amazon.in/-/hi/OUTLIVING-%E0%A4%97%E0%A4%BE%E0%A4%B0%E0%A5%8D%E0%A4%A1%E0%A4%A8-%E0%A4%86%E0%A4%89%E0%A4%9F%E0%A4%A1%E0%A5%8B%E0%A4%B0-%E0%A4%B2%E0%A4%BF%E0%A4%B5%E0%A4%BF%E0%A4%82%E0%A4%97-%E0%A4%AC%E0%A4%BE%E0%A4%B2%E0%A4%95%E0%A4%A8%E0%A5%80/dp/B0D2TR9L1T",
+      "titulo": "OUTLIVING 3 सीटर कास्ट आयरन FRP गार्डन बेंच इंडोर और आउटडोर  पार्क/आंगन/लिविंग रूम/टेरेस/बालकनी के लिए (काला) लकड़ी की बनावट) :  Amazon.in: घर और किचन",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNOVHyA3o1YqXBqhpoN7b7zjS4IXsYz3NK8A&s",
+      "original": "https://m.media-amazon.com/images/I/91wJm+rV7NL._AC_UF894,1000_QL80_.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bench/hi/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhEU8qGnz2CG3MWY2Nmo_h2n8kr0DKg58FDA&s",
+      "fuentePagina": "https://www.amazon.in/-/hi/Shilpi-%E0%A4%B2%E0%A4%95%E0%A4%A1%E0%A4%BC%E0%A5%80-%E0%A4%95%E0%A5%80-%E0%A4%AC%E0%A5%87%E0%A4%82%E0%A4%9A-%E0%A4%9F%E0%A5%87%E0%A4%AC%E0%A4%B2/dp/B07L7LWT3S",
+      "titulo": "Shilpi लकड़ी की बेंच/टेबल : Amazon.in: घर ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhEU8qGnz2CG3MWY2Nmo_h2n8kr0DKg58FDA&s",
+      "original": "https://m.media-amazon.com/images/I/6143p1Mvg9L.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bench/hi/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSx3XE6O1ceh8C47ecifD3y2KX-Uc3EZftXhw&s",
+      "fuentePagina": "https://dreamlineoutdoorfurniture.com/products/lynn-cast-iron-3-seater-frp-garden-bench-for-outdoor-park-black-wooden-texture?srsltid=AfmBOorw8ICTKnPOHmnTdEcJ0Ers6KfMvHG2V4ebRPxwW5T26m6ZJVYo",
+      "titulo": "Dreamline 3 Seater cast Iron Garden FRP Bench for Indoor ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSx3XE6O1ceh8C47ecifD3y2KX-Uc3EZftXhw&s",
+      "original": "https://dreamlineoutdoorfurniture.com/cdn/shop/files/2_a8fbed5f-80a6-43d3-823a-64b533b7ae12.jpg?v=1717506527&width=1080"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bench/hi/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpY00UVw2TLiImdHl8g8jAhcg5Kb44bzZnOg&s",
+      "fuentePagina": "https://solidbench.com/products/easel-bench-uttarakhand-teak-outdoor-oil?srsltid=AfmBOorAjcdI4I3oCsp80uP73jVTlM6t8hhMhixTnBR-jKrp4HI6LeHz",
+      "titulo": "Easel Bench - Uttarakhand Teak - Outdoor Oil",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpY00UVw2TLiImdHl8g8jAhcg5Kb44bzZnOg&s",
+      "original": "http://solidbench.com/cdn/shop/files/1-IMG_3010web.jpg?v=1713363131"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bench/hi/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcLnep33YN57onq868emBsTFlWLpIoJUxtnw&s",
+      "fuentePagina": "https://www.amazon.in/FurniFuture-Garden-Waterproof-Outdoor-Indoor/dp/B09BJVSSTJ",
+      "titulo": "FurniFuture Relaxim Heavy Duty Outdoor Garden Bench 5 Feet Long 3 Seater  Brown Cast Iron Legs FRP Waterproof Termite-Proof Seating for Patio Balcony  ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcLnep33YN57onq868emBsTFlWLpIoJUxtnw&s",
+      "original": "https://m.media-amazon.com/images/I/81hIeLx5sML._AC_UF894,1000_QL80_.jpg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bench/hi/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjYbjJjtN_9jdm-iNbaVlwFBILeQu8tq7IRQ&s",
+      "fuentePagina": "https://www.ikea.com/in/en/p/naemmaroe-bench-outdoor-light-brown-stained-10510341/",
+      "titulo": "NÄMMARÖ Bench, outdoor - light brown stained 120 cm (47 1/4 \")",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjYbjJjtN_9jdm-iNbaVlwFBILeQu8tq7IRQ&s",
+      "original": "https://www.ikea.com/in/en/images/products/naemmaroe-bench-outdoor-light-brown-stained__1138759_pe880059_s5.jpg"
+    }
+  ]
+}

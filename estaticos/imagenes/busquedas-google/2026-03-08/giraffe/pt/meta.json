@@ -1,0 +1,71 @@
+{
+  "categoria": "giraffe",
+  "categoriaSlug": "giraffe",
+  "idioma": "pt",
+  "nombreIdioma": "Português",
+  "termino": "girafa",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T20:56:00.652Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "pt",
+    "gl": "br"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=girafa&hl=pt&gl=br",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/giraffe/pt/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQn5re5_yO1Aub59xdtRp1QcImI3MiQowU4Ew&s",
+      "fuentePagina": "https://pt.wikipedia.org/wiki/Girafa",
+      "titulo": "Girafa – Wikipédia, a enciclopédia livre",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQn5re5_yO1Aub59xdtRp1QcImI3MiQowU4Ew&s",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Giraffe_Mikumi_National_Park.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/giraffe/pt/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcOS5I_ip4-rVpod_OrynlEyueGZk2RHAjwg&s",
+      "fuentePagina": "https://super.abril.com.br/ciencia/existem-quatro-especies-de-girafa-e-nao-uma-so/",
+      "titulo": "Existem quatro espécies de girafa – e não uma só | Super",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcOS5I_ip4-rVpod_OrynlEyueGZk2RHAjwg&s",
+      "original": "https://super.abril.com.br/wp-content/uploads/2016/09/super_imggirafa.jpg?quality=70&strip=info&w=720&h=440&crop=1"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/giraffe/pt/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmwF0pCFWTYNPQRYsX9GpMIcaKMwvdtLv9bQ&s",
+      "fuentePagina": "https://www.infoescola.com/animais/girafa/",
+      "titulo": "Girafa - Animais - InfoEscola",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmwF0pCFWTYNPQRYsX9GpMIcaKMwvdtLv9bQ&s",
+      "original": "https://www.infoescola.com/wp-content/uploads/2008/04/girafa.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/giraffe/pt/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgSu616yFU2sHIvgScXp1fDT5crWxiKCR9dw&s",
+      "fuentePagina": "https://www.instagram.com/p/DLw_vQsS4Rd/",
+      "titulo": "Nada melhor do que carinho de mãe! ❤️🦒 Nosso filhote de ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgSu616yFU2sHIvgScXp1fDT5crWxiKCR9dw&s",
+      "original": "https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3667302529542808033"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/giraffe/pt/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJQzxsCMz8PxWdR_Jc2cLL-9XXlLZBUzMV2Q&s",
+      "fuentePagina": "https://pt.vecteezy.com/foto/7792184-girafa-em-savana-safari-em-serengeti-tanzania-africa",
+      "titulo": "girafa na savana. Safari em Serengeti, Tanzânia, África ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJQzxsCMz8PxWdR_Jc2cLL-9XXlLZBUzMV2Q&s",
+      "original": "https://static.vecteezy.com/ti/fotos-gratis/p2/7792184-girafa-em-savana-safari-em-serengeti-tanzania-africa-foto.jpg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/giraffe/pt/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhRJqNLAsbno3O2wrW0wtlFY3fuOVgx8xc7Q&s",
+      "fuentePagina": "https://brasilescola.uol.com.br/animais/girafa.htm",
+      "titulo": "Girafa: características, reprodução, curiosidades - Brasil ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhRJqNLAsbno3O2wrW0wtlFY3fuOVgx8xc7Q&s",
+      "original": "https://s1.static.brasilescola.uol.com.br/be/2020/04/girafas.jpg"
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "categoria": "bird",
+  "categoriaSlug": "bird",
+  "idioma": "ln",
+  "nombreIdioma": "Lingala",
+  "termino": "ndeke",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T20:49:37.237Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "fr",
+    "gl": "cd"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=ndeke&hl=fr&gl=cd",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bird/ln/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-hy_3JmEz0EGkm05J0MQuDqIai_mK7zTvCg&s",
+      "fuentePagina": "https://parcdelavalleedelansele.com/le-mont-ndeke/",
+      "titulo": "Le Mont Ndeke – Parc de la Vallée de la N'sele",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-hy_3JmEz0EGkm05J0MQuDqIai_mK7zTvCg&s",
+      "original": "https://parcdelavalleedelansele.com/wp-content/uploads/elementor/thumbs/Resto-tristar-003-prxyx88yn0aydz89m8j1glieweul39v5n1y1ijxto0.jpeg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bird/ln/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbcP1dLporPVNWiEyQAcBmOEPeF8Tdl2bB6Q&s",
+      "fuentePagina": "https://parcdelavalleedelansele.com/le-mont-ndeke/",
+      "titulo": "Le Mont Ndeke – Parc de la Vallée de la N'sele",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbcP1dLporPVNWiEyQAcBmOEPeF8Tdl2bB6Q&s",
+      "original": "https://parcdelavalleedelansele.com/wp-content/uploads/elementor/thumbs/Tristar-cover-prxyxgpicimjagvz8u6ol1dk8vow0jsqo7teu1la40.jpeg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bird/ln/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-Ln4oP11qv0hzolei7b4j1UByiSaWIGiV1A&s",
+      "fuentePagina": "https://parcdelavalleedelansele.com/le-mont-ndeke/",
+      "titulo": "Le Mont Ndeke – Parc de la Vallée de la N'sele",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-Ln4oP11qv0hzolei7b4j1UByiSaWIGiV1A&s",
+      "original": "https://parcdelavalleedelansele.com/wp-content/uploads/elementor/thumbs/terrasseHotel-prxyxettyujyn8ypjtdfg1un23y5l5l9zyifvho2gg.jpeg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bird/ln/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhSGt5IrpLZTO8cXBi5gvvwnRb-_yQLf0Qlg&s",
+      "fuentePagina": "https://www.youtube.com/watch?v=PCkwKMq6SSA",
+      "titulo": "NDEKE YAMUTHANGA NEW SONG DON'T LEAVE ME JESUS",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhSGt5IrpLZTO8cXBi5gvvwnRb-_yQLf0Qlg&s",
+      "original": "https://i.ytimg.com/vi/PCkwKMq6SSA/hq720.jpg?sqp=-oaymwE7CK4FEIIDSFryq4qpAy0IARUAAAAAGAElAADIQj0AgKJD8AEB-AH-CYAC0AWKAgwIABABGDogWShlMA8=&rs=AOn4CLAQ6n4qqmctRdDffxLrvXKC1p-_3g"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bird/ln/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdFVLZ2gXrBM4B7_64ZiVH2arDa9eLn0YcYw&s",
+      "fuentePagina": "https://www.hirondelle.org/fr/que-faisons-nous/operations/geographiques/afrique/republique-centrafricaine",
+      "titulo": "Radio Ndeke Luka - République centrafricaine - Fondation ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdFVLZ2gXrBM4B7_64ZiVH2arDa9eLn0YcYw&s",
+      "original": "https://www.hirondelle.org/wp-content/uploads/2024/10/Logo-NdekeLuka-NEW.jpg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bird/ln/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWVeDzNCD3SAsUTXe9dOQRL4Gcoiw0BnbSBQ&s",
+      "fuentePagina": "https://commons.wikimedia.org/wiki/File:Rond-point_ndeke.jpg",
+      "titulo": "File:Rond-point ndeke.jpg - Wikimedia Commons",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWVeDzNCD3SAsUTXe9dOQRL4Gcoiw0BnbSBQ&s",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Rond-point_ndeke.jpg/960px-Rond-point_ndeke.jpg"
+    }
+  ]
+}

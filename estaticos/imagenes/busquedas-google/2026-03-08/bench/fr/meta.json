@@ -1,0 +1,71 @@
+{
+  "categoria": "bench",
+  "categoriaSlug": "bench",
+  "idioma": "fr",
+  "nombreIdioma": "Français",
+  "termino": "banc",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T20:49:06.527Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "fr",
+    "gl": "be"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=banc&hl=fr&gl=be",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bench/fr/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZjwco7nL7WG0WTFWgZjklg-oTB2JFtp0O1w&s",
+      "fuentePagina": "https://www.manutan.be/fr/mab/banc-bois-nordique?srsltid=AfmBOoo1u5OPj3gVnrjuthQS1bD_qd59olTR2e3FGhgZACwmKNF4l8vA",
+      "titulo": "Banc bois nordique - Manutan.be",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZjwco7nL7WG0WTFWgZjklg-oTB2JFtp0O1w&s",
+      "original": "https://www.manutan.be/img/S/GRP/ST/AIG370420.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bench/fr/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRDYVzcsOKJenXwRoNQXuZXWh6ybMtkTiIJA&s",
+      "fuentePagina": "https://be.glasdon.com/fr/banc-lowther",
+      "titulo": "Banc Lowther™",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRDYVzcsOKJenXwRoNQXuZXWh6ybMtkTiIJA&s",
+      "original": "https://be.glasdon.com/fr/images/products/400/banc-lowther-vert-fr.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bench/fr/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-zkFO_EIbjkRH868qsQZS-yVJb3R10gb-kA&s",
+      "fuentePagina": "https://www.mr-bricolage.be/banc-de-jardin/16506-banc-de-jardin-180-cm-solid-5412025909292.html?srsltid=AfmBOopBAtUfZAurJlRXJIAb7jDPpjhglyGbbs-tW8j3pn3-TPDLoTWP",
+      "titulo": "Banc de jardin 180 cm SOLID",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-zkFO_EIbjkRH868qsQZS-yVJb3R10gb-kA&s",
+      "original": "https://www.mr-bricolage.be/235515-large_default/banc-de-jardin-180-cm-solid.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bench/fr/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-yrTsxdAeLnH-C5u5tPjS1hl-YXPe5BIbNw&s",
+      "fuentePagina": "https://www.bernard.be/fr_BE/tables-et-bancs_sku827110.html",
+      "titulo": "Banc bois 5 lames",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-yrTsxdAeLnH-C5u5tPjS1hl-YXPe5BIbNw&s",
+      "original": "https://raja.scene7.com/is/image/Raja/products/banc-bois-5-lames_827110.jpg?template=TemplatePictoImage&$ImageMain=BER_827110&$PictoRight=NoPicto&$PictoLeft=NoPicto&resMode=sharp2&op_usm=1.75,0.3,2,0"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bench/fr/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-x14bN30qUBSD60bC7gKbFHAS_wRe6Uqq0g&s",
+      "fuentePagina": "https://www.mr-bricolage.be/banc-de-jardin/48093-banc-de-jardin-square-150-x-88-x-74-cm-graphite-3700103086471.html?srsltid=AfmBOop6mmz94XlUyI5B0cN11HF_Oynjdp6Z2XlFj9OS0UCdoDgggdDQ",
+      "titulo": "Banc de jardin Square graphite 150 x 88 x 74 cm",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-x14bN30qUBSD60bC7gKbFHAS_wRe6Uqq0g&s",
+      "original": "https://www.mr-bricolage.be/165271-large_default/banc-de-jardin-square-150-x-88-x-74-cm-graphite.jpg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bench/fr/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwDL9w4gQjLrhNmfBlGyWuqAK02s3_1ex9Kg&s",
+      "fuentePagina": "https://www.oogarden.be/be/fr/prod-26145-Banc-bois.html",
+      "titulo": "Banc de jardin en bois JURA",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwDL9w4gQjLrhNmfBlGyWuqAK02s3_1ex9Kg&s",
+      "original": "https://cdn.oogarden.net/Product/0451/0451-0005/0451-0005-Zoom-01.jpg"
+    }
+  ]
+}

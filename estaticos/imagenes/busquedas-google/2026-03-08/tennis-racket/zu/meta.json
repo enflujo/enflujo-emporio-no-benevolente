@@ -1,0 +1,71 @@
+{
+  "categoria": "tennis racket",
+  "categoriaSlug": "tennis-racket",
+  "idioma": "zu",
+  "nombreIdioma": "isiZulu",
+  "termino": "irakhethi",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:05:37.371Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "zu",
+    "gl": "za"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=irakhethi&hl=zu&gl=za",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/tennis-racket/zu/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBGFFFuaZ2DCouhq0DdkLOBJxEHJEEMpmQfg&s",
+      "fuentePagina": "https://www.ldkchina.com/zu/news/paddle-tennis-sport-popular-sport-in-the-world/",
+      "titulo": "Izindaba - I-Paddle tennis sport- umdlalo odumile emhlabeni",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBGFFFuaZ2DCouhq0DdkLOBJxEHJEEMpmQfg&s",
+      "original": "https://img.goodao.net/ldkchina/world2.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/tennis-racket/zu/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRayCql-sQfb9tyu2MupWpQHZzeCQ5VBGyl5Q&s",
+      "fuentePagina": "https://play.google.com/store/apps/details?id=com.daf.archadus&hl=zu",
+      "titulo": "Brick Breaker VR - Izinhlelo zokusebenza ku-Google Play",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRayCql-sQfb9tyu2MupWpQHZzeCQ5VBGyl5Q&s",
+      "original": "https://play-lh.googleusercontent.com/617mQVKTQTt_59QhG_mwmHV23X92NqTmwPXzxiEZt7YmTeWiFowkk3aFMKkvqSevEQ=w526-h296-rw"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/tennis-racket/zu/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtfiOD1qmLA0V7-WTmsX3bHw4ubkX0mjUnjA&s",
+      "fuentePagina": "https://www.facebook.com/Mokgethi.teb/",
+      "titulo": "Arch Bishop Mokgethi (@Mokgethi.teb) • Facebook",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtfiOD1qmLA0V7-WTmsX3bHw4ubkX0mjUnjA&s",
+      "original": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=100003306910237"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/tennis-racket/zu/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRy1k3e7V0FD5RBZhMk-Jz30zsoA-lAH4vZ4A&s",
+      "fuentePagina": "https://www.youtube.com/watch?v=msdNX2VioKY",
+      "titulo": "Olefied Khetha- Iskhathi single launch Ft HAVAL at Senzi’s",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRy1k3e7V0FD5RBZhMk-Jz30zsoA-lAH4vZ4A&s",
+      "original": "https://i.ytimg.com/vi/msdNX2VioKY/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGD0gLih_MA8=&rs=AOn4CLBSybb-dIazSzhxWw6KYy_3FEaiPA"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/tennis-racket/zu/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTEuEvVrvwBQgPKWdkkPMCNJ0K4-8xrPJnrw&s",
+      "fuentePagina": "https://www.ldkchina.com/xh/news/new-season-la-liga-and-soccer-goal/",
+      "titulo": "Iindaba - Isizini entsha yeLa Liga kunye negoli lebhola ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTEuEvVrvwBQgPKWdkkPMCNJ0K4-8xrPJnrw&s",
+      "original": "https://img.goodao.net/ldkchina/%E5%9B%BE%E7%89%87150.png"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/tennis-racket/zu/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPljFPwIz-L49FP7GoeQ_0VcbFmuMCAX2x7g&s",
+      "fuentePagina": "https://lgbtqreligiousarchives.org/profiles/paul-mokgethi-heath",
+      "titulo": "Paul Mokgethi-Heath • LGBTQ Religious Archives Network",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPljFPwIz-L49FP7GoeQ_0VcbFmuMCAX2x7g&s",
+      "original": "https://lgbtqreligiousarchives.org/media/profile/paul-mokgethi-heath.jpg"
+    }
+  ]
+}

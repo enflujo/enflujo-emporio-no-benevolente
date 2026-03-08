@@ -1,0 +1,71 @@
+{
+  "categoria": "banana",
+  "categoriaSlug": "banana",
+  "idioma": "hi",
+  "nombreIdioma": "हिन्दी",
+  "termino": "केला",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:10:54.493Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "hi",
+    "gl": "in"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=%E0%A4%95%E0%A5%87%E0%A4%B2%E0%A4%BE&hl=hi&gl=in",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/banana/hi/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvuFWmgStX6zF38A7ZufXtDXTlUag-rcKnew&s",
+      "fuentePagina": "https://hi.wikipedia.org/wiki/%E0%A4%95%E0%A5%87%E0%A4%B2%E0%A4%BE_%E0%A4%B8%E0%A4%AE%E0%A4%A4%E0%A5%81%E0%A4%B2%E0%A4%A8_%E0%A4%AE%E0%A4%BE%E0%A4%A4%E0%A5%8D%E0%A4%B0%E0%A4%BE",
+      "titulo": "केला समतुलन मात्रा - विकिपीडिया",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvuFWmgStX6zF38A7ZufXtDXTlUag-rcKnew&s",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/8/8a/Banana-Single.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/banana/hi/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMaoMlYVISHJirENWWPgxSB4KriVGiAABUSQ&s",
+      "fuentePagina": "https://www.tradeindia.com/hi/products/pure-and-fresh-commonly-cultivated-raw-whole-sweet-banana-8196563.html",
+      "titulo": "शुद्ध और ताजा आम तौर पर उगाया ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMaoMlYVISHJirENWWPgxSB4KriVGiAABUSQ&s",
+      "original": "https://tiimg.tistatic.com/fp/1/008/196/pure-fresh-commonly-cultivated-raw-whole-sweet-banana-fruit-or-kela-563.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/banana/hi/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSscbl7tRuxXGTvt3G8VqjzOh7gqXmqBPCtHA&s",
+      "fuentePagina": "https://ndtv.in/webstories/food/what-happens-if-you-eat-banana-empty-stomach-side-effects-kela-khane-ke-nuksan-36748",
+      "titulo": "इन 5 लोगों को भूलकर भी नहीं खाना ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSscbl7tRuxXGTvt3G8VqjzOh7gqXmqBPCtHA&s",
+      "original": "https://c.ndtvimg.com/gws/ms/5-banana-side-effects/assets/5.jpeg?1743144941"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/banana/hi/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKQp8-qa8bjlBcwp186EbspkzjxYCSmeyw2A&s",
+      "fuentePagina": "https://www.amazon.in/-/hi/Mphmi-%E0%A4%95%E0%A5%87%E0%A4%B2%E0%A4%BE-%E0%A4%9C%E0%A5%80-%E0%A4%AA%E0%A5%8C%E0%A4%A7%E0%A5%87/dp/B08T1G864F",
+      "titulo": "Mphmi केला - जी 9, केला - पौधे : Amazon.in ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKQp8-qa8bjlBcwp186EbspkzjxYCSmeyw2A&s",
+      "original": "https://m.media-amazon.com/images/I/514c8qvL3dL._AC_UF1000,1000_QL80_.jpg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/banana/hi/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTu5duq8teEv7zeKXtUiRDu5AGm6-RRnXMKGg&s",
+      "fuentePagina": "https://ndtv.in/food/should-you-eat-bananas-in-winter-downsides-of-eating-bananas-who-should-avoid-them-altogether-in-which-disease-banana-should-not-be-eaten-9542576",
+      "titulo": "सर्दियों में केला खाना चाहिए या ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTu5duq8teEv7zeKXtUiRDu5AGm6-RRnXMKGg&s",
+      "original": "https://c.ndtvimg.com/2025-01/r4ogp9ag_banana_625x300_31_January_25.jpeg?im=FeatureCrop,algorithm=dnn,width=1200,height=738"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/banana/hi/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnK6Iy_KjC76aSfipSK9NZSsOZndMupXWcoQ&s",
+      "fuentePagina": "https://www.dawaadost.com/hi/blog/benefits-and-side-effects-of-eating-bananas-kela-khane-ke-fayde-aur-nuksan?srsltid=AfmBOooegi0iuMbYYDkhHXxof0PtIzSZq52rbTPoDP_3kdkOciZ2Krxs",
+      "titulo": "केला खाने के फायदे और नुकसान (Kela ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnK6Iy_KjC76aSfipSK9NZSsOZndMupXWcoQ&s",
+      "original": "https://storage.googleapis.com/dawaadost.appspot.com/main_images/kela%20khane%20ke%20fayde_0d523c44-8c6d-44bb-922a-131a53537143_resize.webp"
+    }
+  ]
+}

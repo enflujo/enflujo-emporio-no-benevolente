@@ -1,0 +1,71 @@
+{
+  "categoria": "bear",
+  "categoriaSlug": "bear",
+  "idioma": "fr",
+  "nombreIdioma": "Français",
+  "termino": "ours",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T20:54:17.203Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "fr",
+    "gl": "be"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=ours&hl=fr&gl=be",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bear/fr/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ49SOCXmGvWeyK5HhQoC9CP_ddQ7noQwMz_A&s",
+      "fuentePagina": "https://www.safari-peaugres.com/les-animaux/ours-brun/",
+      "titulo": "Ours brun - Safari Peaugres",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ49SOCXmGvWeyK5HhQoC9CP_ddQ7noQwMz_A&s",
+      "original": "https://www.safari-peaugres.com/wp-content/uploads/2023/12/ours-brun-3-e1713019239652.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bear/fr/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvo54oYLlGyZ4FTlF1mdsVOTBh-Sd7flkmJA&s",
+      "fuentePagina": "https://www.salamandre.org/article/idees-recues-ours/",
+      "titulo": "L'ours n'est ni strictement carnivore, ni hibernant, 9 idées ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvo54oYLlGyZ4FTlF1mdsVOTBh-Sd7flkmJA&s",
+      "original": "https://master.salamandre.org/media/21911/telle-est-la-bete-2-1707x1200.png"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bear/fr/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOxW1Fue2TS4X1hSW5m-W3E_-MrcnFqgXpmQ&s",
+      "fuentePagina": "https://www.futura-sciences.com/planete/definitions/zoologie-ours-brun-europeen-7745/",
+      "titulo": "Définition | Ours brun européen : qu'est-ce que c'est ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOxW1Fue2TS4X1hSW5m-W3E_-MrcnFqgXpmQ&s",
+      "original": "https://cdn8.futura-sciences.com/a1280/images/ours-brun-oursons.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bear/fr/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_ZJO8NJz_24xjOeS8lcc9ld2KWe6EbllvmA&s",
+      "fuentePagina": "https://www.pairidaiza.eu/fr/les-mondes/la-derniere-frontiere/lours-brun/",
+      "titulo": "L'Ours brun | Pairi Daiza",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_ZJO8NJz_24xjOeS8lcc9ld2KWe6EbllvmA&s",
+      "original": "https://cms.pairidaiza.eu/thumbor/xNbTc_UhafgbkdD-rJfYL5HOUGQ=/fit-in/2880x/filters:quality(92)/--/uploads/2024/02/IMG_9896-e1708530419496.jpg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bear/fr/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS10vOxcfWedSc1I64f9hILheAk8Og29WRj-A&s",
+      "fuentePagina": "https://www.monde-animal.fr/fiches-animaux/ursus-arctos/",
+      "titulo": "Ours brun (Ursus arctos) - Monde Animal",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS10vOxcfWedSc1I64f9hILheAk8Og29WRj-A&s",
+      "original": "https://www.monde-animal.fr/wp-content/uploads/2021/04/ours-brun-carre.jpg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bear/fr/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2MEyNIl0_GNWCcUTFaw3ak_g6C56o8MQhFw&s",
+      "fuentePagina": "https://fr.wikipedia.org/wiki/Ursidae",
+      "titulo": "Ursidae — Wikipédia",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2MEyNIl0_GNWCcUTFaw3ak_g6C56o8MQhFw&s",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Ursidae-01.jpg"
+    }
+  ]
+}

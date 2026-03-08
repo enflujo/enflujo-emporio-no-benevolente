@@ -1,0 +1,71 @@
+{
+  "categoria": "zebra",
+  "categoriaSlug": "zebra",
+  "idioma": "pt",
+  "nombreIdioma": "Português",
+  "termino": "zebra",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T20:55:20.612Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "pt",
+    "gl": "br"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=zebra&hl=pt&gl=br",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/zebra/pt/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSP2D7StMOXX8lpwbxk9xHuYj6mtFCs-Wmtgw&s",
+      "fuentePagina": "https://en.wikipedia.org/wiki/Zebra",
+      "titulo": "Zebra - Wikipedia",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSP2D7StMOXX8lpwbxk9xHuYj6mtFCs-Wmtgw&s",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Plains_Zebra_Equus_quagga_cropped.jpg/250px-Plains_Zebra_Equus_quagga_cropped.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/zebra/pt/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHEFIOWq7zHwEj2r6i5AfXFUFPKeswnoQWjA&s",
+      "fuentePagina": "https://tusk.org/species/grevy-zebra/",
+      "titulo": "Grevy's Zebra - Tusk",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHEFIOWq7zHwEj2r6i5AfXFUFPKeswnoQWjA&s",
+      "original": "https://tusk.org/wp-content/uploads/2025/03/WWW-Grevys-Zebra-Grevy.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/zebra/pt/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbOxHbmaJKlIv4de-0bexdeF_uYCwNcoU6VA&s",
+      "fuentePagina": "https://africawildlifesafari.com/index.php/wildlife/zebra/",
+      "titulo": "Zebra - Africa Wildlife Safari",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbOxHbmaJKlIv4de-0bexdeF_uYCwNcoU6VA&s",
+      "original": "https://africawildlifesafari.com/wp-content/uploads/2024/03/Zebra-1-768x576.png"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/zebra/pt/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTctX_-a5vb0thNq-moPt7TcRqbiUTxpI_guA&s",
+      "fuentePagina": "https://pt.wikipedia.org/wiki/Zebra",
+      "titulo": "Zebra – Wikipédia, a enciclopédia livre",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTctX_-a5vb0thNq-moPt7TcRqbiUTxpI_guA&s",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/f/f0/Zebra_standing_alone_crop.jpg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/zebra/pt/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMvXSKzD6NvHSnPFJhSKRgtDxHP8EA0y3YrQ&s",
+      "fuentePagina": "https://br.freepik.com/fotos/zebra-meio-natureza",
+      "titulo": "Fotos de Zebra meio natureza - Baixe fotos grátis de alta ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMvXSKzD6NvHSnPFJhSKRgtDxHP8EA0y3YrQ&s",
+      "original": "https://img.freepik.com/fotos-gratis/foto-de-close-de-uma-linda-zebra_181624-13280.jpg?semt=ais_hybrid&w=740&q=80"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/zebra/pt/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxgHgE53AOxg2TMaM47wgGYsG6zoDUjUDwtA&s",
+      "fuentePagina": "https://pt.wikipedia.org/wiki/Ficheiro:Plains_Zebra_Equus_quagga.jpg",
+      "titulo": "Ficheiro:Plains Zebra Equus quagga.jpg – Wikipédia, a ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxgHgE53AOxg2TMaM47wgGYsG6zoDUjUDwtA&s",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Plains_Zebra_Equus_quagga.jpg/250px-Plains_Zebra_Equus_quagga.jpg"
+    }
+  ]
+}

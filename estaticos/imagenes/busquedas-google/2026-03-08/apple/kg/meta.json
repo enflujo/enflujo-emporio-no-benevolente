@@ -1,0 +1,71 @@
+{
+  "categoria": "apple",
+  "categoriaSlug": "apple",
+  "idioma": "kg",
+  "nombreIdioma": "Kikongo",
+  "termino": "pome",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:11:20.588Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "fr",
+    "gl": "cd"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=pome&hl=fr&gl=cd",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/apple/kg/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTU5YgyqKNWg_nuQpcoL4Bed3IQcQNZoiuIKQ&s",
+      "fuentePagina": "https://fr.wiktionary.org/wiki/pome",
+      "titulo": "pome — Wiktionnaire, le dictionnaire libre",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTU5YgyqKNWg_nuQpcoL4Bed3IQcQNZoiuIKQ&s",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/5/5e/%D0%A4%D0%BE%D1%82%D0%BE_%28131652135%29.jpeg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/apple/kg/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXgUJR8VMwEl-vG3RYI3MnoZ-VkOtlpUfd2Q&s",
+      "fuentePagina": "https://grow.ifa.coop/fruit-growing/backyard-pome-fruits",
+      "titulo": "Pome Fruit Growing Guide | IFA's Helping to Grow Blog",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXgUJR8VMwEl-vG3RYI3MnoZ-VkOtlpUfd2Q&s",
+      "original": "https://grow.ifa.coop/hubfs/pome-fruit-growing-guide-img1.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/apple/kg/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWvZnhGwiuPSNsCIiHkFAJkLhpvOwUE57q6A&s",
+      "fuentePagina": "https://rw.wikipedia.org/wiki/Pome",
+      "titulo": "Pome - Wikipedia",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWvZnhGwiuPSNsCIiHkFAJkLhpvOwUE57q6A&s",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Red_Apple.jpg/330px-Red_Apple.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/apple/kg/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS93T_5I1qV_J4gDP3aL3HXxeiRCpjvM36wzQ&s",
+      "fuentePagina": "https://en.wikipedia.org/wiki/Pome",
+      "titulo": "Pome - Wikipedia",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS93T_5I1qV_J4gDP3aL3HXxeiRCpjvM36wzQ&s",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/2/22/Apple_vs_Peapod_anatomy.svg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/apple/kg/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvm-2FGzVM2NDnm_Cn3gq3Cj8mg_sPhCysZg&s",
+      "fuentePagina": "https://grow.ifa.coop/fruit-growing/backyard-pome-fruits",
+      "titulo": "Pome Fruit Growing Guide | IFA's Helping to Grow Blog",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvm-2FGzVM2NDnm_Cn3gq3Cj8mg_sPhCysZg&s",
+      "original": "https://grow.ifa.coop/hs-fs/hubfs/pome-fruit-growing-guide-img3b.jpg?width=1200&height=628&name=pome-fruit-growing-guide-img3b.jpg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/apple/kg/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnlN5Agli0a_zdcLW2cVOGm6Tf2EJyjlD6zg&s",
+      "fuentePagina": "https://postharvestinnovation.org.za/commodities/pome-fruit/",
+      "titulo": "Pome Fruit – Post Harvest Innovation",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnlN5Agli0a_zdcLW2cVOGm6Tf2EJyjlD6zg&s",
+      "original": "https://postharvestinnovation.org.za/wp-content/uploads/2017/06/Pome-fruit.jpg"
+    }
+  ]
+}

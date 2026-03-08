@@ -1,0 +1,71 @@
+{
+  "categoria": "sheep",
+  "categoriaSlug": "sheep",
+  "idioma": "es",
+  "nombreIdioma": "Español",
+  "termino": "oveja",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T20:52:46.748Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "es",
+    "gl": "es"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=oveja&hl=es&gl=es",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/sheep/es/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLZrA04qWvbsFsmuAjtNegw2v8VSxlTl3vNw&s",
+      "fuentePagina": "https://es.wikipedia.org/wiki/Ovis_orientalis_aries",
+      "titulo": "Ovis orientalis aries - Wikipedia, la enciclopedia libre",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLZrA04qWvbsFsmuAjtNegw2v8VSxlTl3vNw&s",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Flock_of_sheep.jpg/960px-Flock_of_sheep.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/sheep/es/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuxB1n3IfMgetg72boEKqg3N7c-TdoQmOa5g&s",
+      "fuentePagina": "https://www.masquesaludanimal.es/posts/razas-ovejas-curiosas.aspx",
+      "titulo": "Cuatro razas de ovejas curiosas",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuxB1n3IfMgetg72boEKqg3N7c-TdoQmOa5g&s",
+      "original": "http://www.masquesaludanimal.es//posts/easset_upload_file43365_884961_e.png"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/sheep/es/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9ihVHcrZS0Dgy1BiE7WwKwgmBGFCM4XbhmQ&s",
+      "fuentePagina": "https://frescorganico.com/producto/oveja-adulta-12-meses",
+      "titulo": "OVEJA ADULTA 12 MESES – Frescorganico",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9ihVHcrZS0Dgy1BiE7WwKwgmBGFCM4XbhmQ&s",
+      "original": "https://frescorganico.com/wp-content/uploads/2024/08/Compra-Oveja-Romney-Marsh-Adulta-de-12-Meses-en-Colombia-%E2%80%93-Ovinos-de-Doble-Proposito-para-Carne-y-Lana.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/sheep/es/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgTU8__ZeZkVOWLp3AElm28fWnUvTUvsBSQw&s",
+      "fuentePagina": "https://www2.zoetis.es/blog-mas-que-salud-animal/posts/ovejas-negras-son-importantes",
+      "titulo": "Ovejas negras, ¿por qué son importantes? | Zoetis",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgTU8__ZeZkVOWLp3AElm28fWnUvTUvsBSQw&s",
+      "original": "https://www2.zoetis.es/content/_assets/images/Mas-que-salud-animal/Article-content-images/OVEJAS.jpg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/sheep/es/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmTGne00Rfj90Wgk9vE4pl2C25qzi3biuisg&s",
+      "fuentePagina": "https://es.pngtree.com/freepng/sheep_15410171.html",
+      "titulo": "Oveja PNG ,dibujos Imágenes Prediseñadas De Oveja PNG S ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmTGne00Rfj90Wgk9vE4pl2C25qzi3biuisg&s",
+      "original": "https://png.pngtree.com/png-clipart/20240625/original/pngtree-sheep-png-image_15410171.png"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/sheep/es/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcHynd6Djp0sWiuSOL6cQr5z6FLRl8VC1aCw&s",
+      "fuentePagina": "https://ecologiaverde.elperiodico.com/tipos-de-ovejas-5226.html",
+      "titulo": "15 tipos de ovejas - Nombres y fotos",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcHynd6Djp0sWiuSOL6cQr5z6FLRl8VC1aCw&s",
+      "original": "https://cdn0.ecologiaverde.com/es/posts/6/2/2/oveja_merina_5226_0_600.jpg"
+    }
+  ]
+}

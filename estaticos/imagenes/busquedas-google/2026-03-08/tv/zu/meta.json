@@ -1,0 +1,71 @@
+{
+  "categoria": "tv",
+  "categoriaSlug": "tv",
+  "idioma": "zu",
+  "nombreIdioma": "isiZulu",
+  "termino": "umabonakude",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:21:11.386Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "zu",
+    "gl": "za"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=umabonakude&hl=zu&gl=za",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/tv/zu/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDkWtOf9duLEEfjtWB6vyENimL57V0sdHykw&s",
+      "fuentePagina": "https://elexacademicbookstore.co.za/products/umabonakude-gr-1-reader-xhosa-staple-bound?srsltid=AfmBOoqMF6nDkoLTLfx3faO7u7RctIoAcrSf2rvIneU4CZo0kTI74OR2",
+      "titulo": "Umabonakude: Gr 1: Reader (Xhosa, Staple bound)",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDkWtOf9duLEEfjtWB6vyENimL57V0sdHykw&s",
+      "original": "https://elexacademicbookstore.co.za/cdn/shop/products/4_0aaf6499-5fa8-416c-b515-daba6816ba0f_large.jpg?v=1531121054"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/tv/zu/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjCIkP52H6UZWkaQFvWhb1Brmy6FSCDmKSZg&s",
+      "fuentePagina": "https://x.com/sne_mbhele08/status/1304383891780898817",
+      "titulo": "Lastly, In Zulu we call this umabonakude, what is it in your ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjCIkP52H6UZWkaQFvWhb1Brmy6FSCDmKSZg&s",
+      "original": "https://pbs.twimg.com/media/EhoaOtEX0AApOgM.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/tv/zu/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRlVZxa6NX08HxN_KS4KE7KqWerAXGxCxpuA&s",
+      "fuentePagina": "https://www.kasahorow.org/node/1384809/Umabonakude?utm_campaign=explore&utm_source=sidebar&utm_medium=zu",
+      "titulo": "Umabonakude | kasahorow Foundation",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRlVZxa6NX08HxN_KS4KE7KqWerAXGxCxpuA&s",
+      "original": "https://openclipart.org/image/300px/svg_to_png/33247/Plasma%20Telly.png"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/tv/zu/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgkXV0siVw0UP1c7CvOae4qtgtyjSdObvcQg&s",
+      "fuentePagina": "https://www.facebook.com/uMabonaKudeFilms/",
+      "titulo": "UMabonaKude Films | Nelson Mandela Bay",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgkXV0siVw0UP1c7CvOae4qtgtyjSdObvcQg&s",
+      "original": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=100063862335488"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/tv/zu/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNXZKD3BaXFQB3B7zpziJCezZDQ3eTKkN6lw&s",
+      "fuentePagina": "https://zu.wikipedia.org/wiki/UMabonakude",
+      "titulo": "UMabonakude - Wikipedia",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNXZKD3BaXFQB3B7zpziJCezZDQ3eTKkN6lw&s",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/4/40/Cptvdisplay.jpg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/tv/zu/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwI0ddZke5XrZ1EP9NFss0_vka8PFP1t3D9w&s",
+      "fuentePagina": "https://www.youtube.com/watch?v=wAKeb9GGE1g",
+      "titulo": "Ukuphupha umabonakude uviliza | ‪@pastorweningi‬ - YouTube",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwI0ddZke5XrZ1EP9NFss0_vka8PFP1t3D9w&s",
+      "original": "https://i.ytimg.com/vi/wAKeb9GGE1g/sddefault.jpg?v=65a63022"
+    }
+  ]
+}

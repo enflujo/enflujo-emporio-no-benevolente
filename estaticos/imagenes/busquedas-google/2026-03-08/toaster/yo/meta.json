@@ -1,0 +1,71 @@
+{
+  "categoria": "toaster",
+  "categoriaSlug": "toaster",
+  "idioma": "yo",
+  "nombreIdioma": "Yorùbá",
+  "termino": "àgo búrẹ́dì",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:26:18.541Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "yo",
+    "gl": "ng"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=%C3%A0go%20b%C3%BAr%E1%BA%B9%CC%81d%C3%AC&hl=yo&gl=ng",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/toaster/yo/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZYNiqzqUV-RW_esCO2hnGoCvsL1y5y48M5A&s",
+      "fuentePagina": "https://www.instagram.com/p/DLiGRI9oUGv/",
+      "titulo": "Dide kí o sì bẹ̀rẹ̀ iṣẹ́, Èkó! Kò sí nkan tó ń fúnni ní ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZYNiqzqUV-RW_esCO2hnGoCvsL1y5y48M5A&s",
+      "original": "https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3666520612767089071"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/toaster/yo/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlXs5tuvSoCs_tl1gfdhq3hpj4xqeiDrpqZw&s",
+      "fuentePagina": "https://www.instagram.com/p/C-fYSRlC8pE/",
+      "titulo": "Ẹgbẹ́ agbábọ́ọ̀lù Óyíbíríbírí àti Ànfàní Àdúgbo yóò máa lọ́ ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlXs5tuvSoCs_tl1gfdhq3hpj4xqeiDrpqZw&s",
+      "original": "https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3431568250021595716"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/toaster/yo/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlyqCGUW2klJmjTl2AjrxdpMit8Rc5ThAjJA&s",
+      "fuentePagina": "https://www.instagram.com/p/DVWM47ACJr6/",
+      "titulo": "Iṣẹ́ Búrẹ́dì ní àgọ́ ara wa",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlyqCGUW2klJmjTl2AjrxdpMit8Rc5ThAjJA&s",
+      "original": "https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3843316020207459066"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/toaster/yo/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYun0pCV0md5Hjeq3A6d86w-hj8hn3fNA9MQ&s",
+      "fuentePagina": "https://www.instagram.com/p/CgRK_nfj2EX/",
+      "titulo": "Òní ni ẹgbẹ́ àwọn oní Iléeṣẹ́ búrẹ́dì ní àwọn yóò bẹ̀rẹ̀ ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYun0pCV0md5Hjeq3A6d86w-hj8hn3fNA9MQ&s",
+      "original": "https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=2887137188318765335"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/toaster/yo/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqovA_C41QUW7FMsPFmGqUbE3xqj-5gjjZgg&s",
+      "fuentePagina": "https://yo.m.wikipedia.org/wiki/B%C3%BAr%E1%BA%B9%CC%81d%C3%AC_Ag%C3%A9ge",
+      "titulo": "Búrẹ́dì Agége - Wikipedia, ìwé-ìmọ̀ ọ̀fẹ́",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqovA_C41QUW7FMsPFmGqUbE3xqj-5gjjZgg&s",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/2008_agege_bread_seller_Lagos_Nigeria_2655737752.jpg/330px-2008_agege_bread_seller_Lagos_Nigeria_2655737752.jpg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/toaster/yo/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoIZ5yvU5NP-PP3xlKVu1D0Z_ckXz2T8VLcA&s",
+      "fuentePagina": "https://www.instagram.com/reel/DT2AnV2jLQn/",
+      "titulo": "📢 Day 327 of 365 One Yoruba Word A Day, 🎤 Presented by: @rootsbakeryuk,  🗣️ Yoruba Word: Ilé-Iṣé Búrẹ́dì, 📝 Meaning in English: Bakery, 🔊 Listen,  learn, and repeat! Try using Ilé-Iṣé Búrẹ́dì in a ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoIZ5yvU5NP-PP3xlKVu1D0Z_ckXz2T8VLcA&s",
+      "original": "https://lookaside.fbsbx.com/lookaside/crawler/instagram/DT2AnV2jLQn/0/image.jpg"
+    }
+  ]
+}

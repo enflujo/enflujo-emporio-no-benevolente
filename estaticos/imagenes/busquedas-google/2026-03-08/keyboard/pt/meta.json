@@ -1,0 +1,71 @@
+{
+  "categoria": "keyboard",
+  "categoriaSlug": "keyboard",
+  "idioma": "pt",
+  "nombreIdioma": "Português",
+  "termino": "teclado",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:24:04.326Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "pt",
+    "gl": "br"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=teclado&hl=pt&gl=br",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/keyboard/pt/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVypP8zJ2zYKnoaOAfpp_Rp5bIeK1dVX65IQ&s",
+      "fuentePagina": "https://www.mercadolivre.com.br/teclado-c3tech-kb-14bk-usb-abnt2-preto-idioma-portugus-brasil/p/MLB22618688",
+      "titulo": "Teclado C3tech Kb-14bk, Usb, Abnt2, Preto Idioma Português ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVypP8zJ2zYKnoaOAfpp_Rp5bIeK1dVX65IQ&s",
+      "original": "https://http2.mlstatic.com/D_NQ_NP_943988-MLU74180426595_012024-O.webp"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/keyboard/pt/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIvv35sHH--rdsejsTMyVS2nLozPAv8L_kxQ&s",
+      "fuentePagina": "https://www.ioncabos.com.br/kit-teclado-e-mouse-sem-fio-jp102-hmaston?srsltid=AfmBOooNv007Oeg979tVUd43-ryoJcui1Bg1GBD7M0C6Tvl6yjW3G1gl",
+      "titulo": "Kit Teclado e Mouse Sem Fio JP-102 HMaston",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIvv35sHH--rdsejsTMyVS2nLozPAv8L_kxQ&s",
+      "original": "https://cdn.awsli.com.br/254/254944/produto/1723223102426bfb88e.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/keyboard/pt/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTNdbuzelKuc9Y4PVbuyjD_gaxdJsh_T5u1Q&s",
+      "fuentePagina": "https://www.leonorab2b.com.br/teclado-gamer-letron-rgb-114-teclas-teclas-multimidia-multi-l-pro-/p",
+      "titulo": "TECLADO GAMER LETRON 104 TECLAS COM RBG, ERGONOMICO, MODELO ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTNdbuzelKuc9Y4PVbuyjD_gaxdJsh_T5u1Q&s",
+      "original": "https://b2bleonorashop.vtexassets.com/arquivos/ids/157992-800-auto?v=637698325339870000&width=800&height=auto&aspect=true"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/keyboard/pt/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZJP8i_HT-mrVWOl-J_ZPbwrxyPQKVf-Q_xw&s",
+      "fuentePagina": "https://loja.fortrek.com.br/teclado-gamer-fortrek-fearless-100-fullsized?srsltid=AfmBOopfavV0YeKWdOceh5Uw7oIA3lwQ1xVUoG0PvXCgghcXMct50Ip7",
+      "titulo": "Teclado Gamer Fortrek Fearless 100 Fullsized Preto - Fortrek",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZJP8i_HT-mrVWOl-J_ZPbwrxyPQKVf-Q_xw&s",
+      "original": "https://static.mundomax.com.br/produtos/84032/550/1.webp"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/keyboard/pt/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3B1botkbKyYCbjblpcxJiG7hDEXPFECa5jA&s",
+      "fuentePagina": "https://www.artsolutioninformatica.com.br/teclado-hp-k45?srsltid=AfmBOor943StquacBbXwzqpZPXxMVn-gHXOAVJs1qb0-Wf439mrNfuQd",
+      "titulo": "Teclado HP K45 USB",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3B1botkbKyYCbjblpcxJiG7hDEXPFECa5jA&s",
+      "original": "https://cdn.awsli.com.br/600x450/2179/2179851/produto/319586494/teclado-hp-k45--3--jbn4kb74xo.jpeg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/keyboard/pt/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLJzVO0knlX0pDoCT4v2R4rYjoXl9ur9O0qA&s",
+      "fuentePagina": "https://shopee.com.br/Kit-Teclado-Semi-Mec%C3%A2nico-Mouse-Gamer-3200dpi-Rgb-Led-M300-i.362859393.23891917173",
+      "titulo": "Kit Teclado Semi Mecânico + Mouse Gamer 3200dpi Rgb Led M300 ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLJzVO0knlX0pDoCT4v2R4rYjoXl9ur9O0qA&s",
+      "original": "https://down-br.img.susercontent.com/file/br-11134207-7r98o-lo8gdpc8okvdbd"
+    }
+  ]
+}

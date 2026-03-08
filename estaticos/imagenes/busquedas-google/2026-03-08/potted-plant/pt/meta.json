@@ -1,0 +1,71 @@
+{
+  "categoria": "potted plant",
+  "categoriaSlug": "potted-plant",
+  "idioma": "pt",
+  "nombreIdioma": "Português",
+  "termino": "planta em vaso",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:18:50.952Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "pt",
+    "gl": "br"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=planta%20em%20vaso&hl=pt&gl=br",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/potted-plant/pt/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqBRdQmZLXTxahnP7oB9RK18Pm4yZo1WyqmA&s",
+      "fuentePagina": "https://www.decorcentro.com.br/arranjos/folhagem-artificial/planta-artificial-folhagem-verde-54cm-vaso-bacia-cinza?srsltid=AfmBOooT-CE7RZITkmX9sFFta59ibieEkvxxxnY3znzc4ixoUkXtZYTj",
+      "titulo": "Planta Artificial Folhagem Verde 54cm Vaso Bacia Cinza ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqBRdQmZLXTxahnP7oB9RK18Pm4yZo1WyqmA&s",
+      "original": "https://cdn.awsli.com.br/600x700/2413/2413185/produto/354806307/planta-artificial-folhagem-verde-54cm-vaso-bacia-cinza1-q4h8uwfkza.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/potted-plant/pt/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTq1TfjcB80hPoUPGgMk6FLEojul9JDC3mePQ&s",
+      "fuentePagina": "https://www.rristerimports.com.br/vasos/vaso-de-planta-polietileno-jardim-varanda-conico-cd09",
+      "titulo": "Vaso de Planta Cônico CD09 Polietileno | RRister Imports",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTq1TfjcB80hPoUPGgMk6FLEojul9JDC3mePQ&s",
+      "original": "https://images.tcdn.com.br/img/img_prod/1320539/vaso_de_planta_polietileno_jardim_varanda_conico_cd09_107_1_693efa4d6ad6e86dbca8e863349caabc.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/potted-plant/pt/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtC1VfhZI0a7zP1bah8kQruImKXeFPsoJANA&s",
+      "fuentePagina": "https://blog.plaenge.com.br/8-tipos-de-vasos-de-plantas-para-usar-em-cada-ambiente/",
+      "titulo": "Blog Plaenge - 8 tipos de vasos de plantas para usar em cada ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtC1VfhZI0a7zP1bah8kQruImKXeFPsoJANA&s",
+      "original": "https://blog.plaenge.com.br/wp-content/uploads/2024/02/AnyConv.com__Vaso-Grande_-80-Mod.webp"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/potted-plant/pt/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxHD26qaLD6HGN6B5vLYG9-F_k5qTkUel3mQ&s",
+      "fuentePagina": "https://www.leroymerlin.com.br/vaso-planta-grande-polietileno-tradicional-grafiato-resistente-de-37l_1571377531",
+      "titulo": "Vaso Planta Grande Polietileno Tradicional Grafiato ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxHD26qaLD6HGN6B5vLYG9-F_k5qTkUel3mQ&s",
+      "original": "https://cdn.leroymerlin.com.br/products/vaso_planta_grande_polietileno_tradicional_grafiato_resistent_1571377531_a755_600x600.jpg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/potted-plant/pt/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpdb-lt_IARveXu2f9BTRPqmvZ_Cu0HS4yRA&s",
+      "fuentePagina": "http://www.plantasperolla.com.br/vasos-para-plantas/vaso-de-parede/vaso-de-planta-pequeno-largo-da-batalha",
+      "titulo": "Vaso de Planta Pequeno Largo da Batalha - Vaso de Parede ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpdb-lt_IARveXu2f9BTRPqmvZ_Cu0HS4yRA&s",
+      "original": "https://www.plantasperolla.com.br/imagens/vaso-de-planta-pequeno.jpg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/potted-plant/pt/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOsUNyM7ea39xOZ7GVgS6_hkcGVve9zT-_Vw&s",
+      "fuentePagina": "https://revistacasaejardim.globo.com/paisagismo/noticia/2023/12/plantas-para-vaso-grande-15-especies-indicadas-e-o-que-considerar-no-cultivo.ghtml",
+      "titulo": "Plantas para vaso grande: 15 espécies indicadas e o que ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOsUNyM7ea39xOZ7GVgS6_hkcGVve9zT-_Vw&s",
+      "original": "https://s2-casaejardim.glbimg.com/YOYuuxvOcdYcBu-4Mq88bFlowkE=/0x658:1067x1533/888x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_a0b7e59562ef42049f4e191fe476fe7d/internal_photos/bs/2023/N/N/Th0bCgSKGPAUdZdPQrmw/l-p-160323-048-baixaresolucao-.jpg"
+    }
+  ]
+}

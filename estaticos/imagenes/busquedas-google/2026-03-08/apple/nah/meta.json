@@ -1,0 +1,71 @@
+{
+  "categoria": "apple",
+  "categoriaSlug": "apple",
+  "idioma": "nah",
+  "nombreIdioma": "Náhuatl",
+  "termino": "xocotl",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:11:42.428Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "es",
+    "gl": "mx"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=xocotl&hl=es&gl=mx",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/apple/nah/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsS1zGqSEmayvvq2NCuIySn4_LzN95-JSB3g&s",
+      "fuentePagina": "https://pueblodelalunametzitzin.wordpress.com/2019/08/25/mes-mexicano-xocotl-huetzi/",
+      "titulo": "Mes mexicano XOCOTL HUETZI – Tenochcayotl",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsS1zGqSEmayvvq2NCuIySn4_LzN95-JSB3g&s",
+      "original": "https://pueblodelalunametzitzin.wordpress.com/wp-content/uploads/2019/08/xh2-1.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/apple/nah/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSwmY5MnnyBVoKnWNRUoUsFnWOd1Hqvpw_Ug&s",
+      "fuentePagina": "https://arqueologiamexicana.mx/calendarios/xocotl-huetzi",
+      "titulo": "Xócotl huetzi | Arqueología Mexicana",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSwmY5MnnyBVoKnWNRUoUsFnWOd1Hqvpw_Ug&s",
+      "original": "https://arqueologiamexicana.mx/sites/default/files/styles/arq1200x600/public/imagen_1384.jpg?itok=XJqrYl2S"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/apple/nah/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSaA5nOFgldUlegErSrLh-j4NvtPiE7QsU-Ow&s",
+      "fuentePagina": "https://arqueologiamexicana.mx/mexico-antiguo/otontecuhtli-xocotl-deidad-otomiana",
+      "titulo": "Otontecuhtli Xócotl, deidad otomiana | Arqueología Mexicana",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSaA5nOFgldUlegErSrLh-j4NvtPiE7QsU-Ow&s",
+      "original": "https://arqueologiamexicana.mx/sites/default/files/styles/arq1200x600/public/velasco_am61_1.jpg?itok=xwrGZ7Ja"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/apple/nah/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQE8HqXPqK0FKHqYmie2FdYjFDWR1tE6rB0pw&s",
+      "fuentePagina": "https://m.facebook.com/arqueomex/photos/x%C3%B3cotl-huetzi-para-conmemorar-a-los-difuntoslos-mexica-conmemoraban-a-sus-difunt/714847844002264/",
+      "titulo": "Arqueología - Xócotl huetzi, para conmemorar a los difuntos ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQE8HqXPqK0FKHqYmie2FdYjFDWR1tE6rB0pw&s",
+      "original": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=714847844002264"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/apple/nah/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStvqXoAGeFQoQQJq3kxm6_d_tui7e1TUNK_g&s",
+      "fuentePagina": "https://arqueologiamexicana.mx/la-fecha-de-hoy-calendario-mexica/veintena-10-xocotl-huetzi",
+      "titulo": "Veintena 10, Xócotl huetzi | Arqueología Mexicana",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStvqXoAGeFQoQQJq3kxm6_d_tui7e1TUNK_g&s",
+      "original": "https://arqueologiamexicana.mx/sites/default/files/styles/arq1200x600/public/veintena_10_1.png?itok=MCnADKfy"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/apple/nah/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUSb2W5L3p6-QvusITLnXE7epgOE9qd8a-sg&s",
+      "fuentePagina": "https://www.facebook.com/arqueomex/photos/veintena-x%C3%B3cotl-huetzi-el-fruto-cae-gran-fiesta-de-los-muertos-tiene-relaci%C3%B3n-co/2639453872759541/",
+      "titulo": "Arqueología - Veintena xócotl huetzi, “el fruto cae”, “gran ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUSb2W5L3p6-QvusITLnXE7epgOE9qd8a-sg&s",
+      "original": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=2639453872759541"
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "categoria": "snowboard",
+  "categoriaSlug": "snowboard",
+  "idioma": "yo",
+  "nombreIdioma": "Yorùbá",
+  "termino": "snowboard",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:00:49.098Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "yo",
+    "gl": "ng"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=snowboard&hl=yo&gl=ng",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/snowboard/yo/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpxyhD7ZGykea6fPtB6Oo3AaVRhZo6AnUSUg&s",
+      "fuentePagina": "https://www.dopesnow.com/mag/is-snowboarding-a-good-workout/?srsltid=AfmBOoqd9OUmpnxXcOC_DsCD9OvLVZxSsrUxpxiex5jEVNpz2QF7Iw6V",
+      "titulo": "Is snowboarding a good workout? - Top 5 benefits | Dope Magazine",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpxyhD7ZGykea6fPtB6Oo3AaVRhZo6AnUSUg&s",
+      "original": "https://www.dopesnow.com/images/wordpress-4582242/uploads/2023/01/top-5-health-benefits-of-skiing-and-snowboarding-dope-magazine.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/snowboard/yo/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3o6LcEprbzZMPdadPyq4XqwvqOsjlcOVBVg&s",
+      "fuentePagina": "https://www.dopesnow.com/mag/what-to-wear-snowboarding-skiing/?srsltid=AfmBOor43xsTgcTGcrXs5B6FGRxEqTSqWbx6B2FBgVFts7HwA_l7qPt0",
+      "titulo": "What to wear snowboarding and skiing | Dope Magazine",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3o6LcEprbzZMPdadPyq4XqwvqOsjlcOVBVg&s",
+      "original": "https://www.dopesnow.com/images/wordpress-4582242/uploads/2024/05/what-to-wear-snowboarding-and-skiing-dope-magazine.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/snowboard/yo/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnqna3K-NxswFwUA_qyZMQA8_Iii1hpTJQsQ&s",
+      "fuentePagina": "https://www.photowall.com/us/snowboard-big-air-jump-canvas-print",
+      "titulo": "Snowboard Big Air Jump – affordable canvas prints online ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnqna3K-NxswFwUA_qyZMQA8_Iii1hpTJQsQ&s",
+      "original": "https://images.photowall.com/products/48546/snowboard-big-air-jump.jpg?h=699&q=85"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/snowboard/yo/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbnjH6f3_AD5oQyhIXYgWjHDk0t7LTGhSWrg&s",
+      "fuentePagina": "https://borealis-snowboards.com/products/borealis-tundra?srsltid=AfmBOoobJEyNI_XImyHMDOvkWgPZFGS0qrrD2TG1KqpYSkYxmaPypw2F",
+      "titulo": "Borealis Tundra Snowboard: All-Mountain Backcountry ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbnjH6f3_AD5oQyhIXYgWjHDk0t7LTGhSWrg&s",
+      "original": "https://borealis-snowboards.com/cdn/shop/files/MorganBodet_-MB_09623.jpg?v=1755588433&width=3840"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/snowboard/yo/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwQE7IPdBoDTG_ZXyOBhQ7XZh3NkffOj3OEA&s",
+      "fuentePagina": "https://www.aspensnowmass.com/discover/experiences/stories/snowboard-pro-tips-for-riding-at-every-level",
+      "titulo": "Snowboard Pro Tips for Riding at Every Level – Aspen Snowmass",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwQE7IPdBoDTG_ZXyOBhQ7XZh3NkffOj3OEA&s",
+      "original": "https://www.aspensnowmass.com/-/media/aspen-snowmass/images/visual-story-row/winter/2024-25/snoprovs-3.jpg?mw=1920&mh=1000&hash=97B2ECDCF6A8ECC7FB559565748D5225"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/snowboard/yo/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSty_oXeAHJWtvs79yc6PzPgWyY-XFdaaYpEQ&s",
+      "fuentePagina": "https://www.nitrosnowboards.com/cs/collections/all-mens-snowboards",
+      "titulo": "All Men's Snowboards",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSty_oXeAHJWtvs79yc6PzPgWyY-XFdaaYpEQ&s",
+      "original": "https://www.nitrosnowboards.com/cdn/shop/collections/QUIVER_Nitro_Snowboards_24_Digital-023_d54cffee-6cd7-4a55-a871-a5d8cdcadda6.jpg?v=1755768533&width=2250"
+    }
+  ]
+}

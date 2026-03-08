@@ -1,0 +1,71 @@
+{
+  "categoria": "bench",
+  "categoriaSlug": "bench",
+  "idioma": "qu",
+  "nombreIdioma": "Quechua",
+  "termino": "tiyay",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T20:49:22.299Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "es",
+    "gl": "pe"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=tiyay&hl=es&gl=pe",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bench/qu/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgrYVWhLY6xRlW2JjQgPmk8SW5LWdI8Ew1Yw&s",
+      "fuentePagina": "https://pe.linkedin.com/company/tiyayarquitectos",
+      "titulo": "Tiyay Arquitectos | LinkedIn",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgrYVWhLY6xRlW2JjQgPmk8SW5LWdI8Ew1Yw&s",
+      "original": "https://media.licdn.com/dms/image/v2/C4E0BAQFmv_1U1jSHGg/company-logo_200_200/company-logo_200_200/0/1630570721003?e=2147483647&v=beta&t=1o-NkiUl3T-GgAWxu4_e-KZg8uRGLD-3_EnFoXiSfYI"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bench/qu/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxa_WWbcWfV-wt_o9EMcgZMV77I19BSXR4zQ&s",
+      "fuentePagina": "https://www.construex.com.pe/exhibidores/tiyay_arquitectos/donde-estamos",
+      "titulo": "TIYAY Arquitectos - Construex Perú",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxa_WWbcWfV-wt_o9EMcgZMV77I19BSXR4zQ&s",
+      "original": "https://d18dfix3ul3fjv.cloudfront.net/images/upload/151264/sml/1728793812623f023b851107fee178f9150a2.89432590.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bench/qu/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCKWuR2e5mROzNIQQBbYf2n9rMSmhSPzyaTg&s",
+      "fuentePagina": "https://es.pinterest.com/tiyayonline/",
+      "titulo": "Tiyay (tiyayonline) - Perfil | Pinterest",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCKWuR2e5mROzNIQQBbYf2n9rMSmhSPzyaTg&s",
+      "original": "https://i.pinimg.com/280x280_RS/49/e6/42/49e642115f23e0e620602bb2cffc26fc.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bench/qu/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzGt034NnSIkpDON6uzAtiBKdva0PZmZXocA&s",
+      "fuentePagina": "https://herbscollection.com/product/the-tiyay-9371-green-tea-itkan/",
+      "titulo": "The Tiyay 9371 Green Tea Itkan 200g - Herbs Collection: The Many Benefits  Of Herbs",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzGt034NnSIkpDON6uzAtiBKdva0PZmZXocA&s",
+      "original": "https://herbscollection.com/wp-content/uploads/2022/11/The-Tiyay-9371-Green-Tea-Itkan.jpg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bench/qu/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjT8yn_FoZIoCgST4dNZqcubfmuPqU3SNMUw&s",
+      "fuentePagina": "https://www.instagram.com/tiyayarquitectos/",
+      "titulo": "TIYAY Arquitectos (@tiyayarquitectos) • Instagram photos and ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjT8yn_FoZIoCgST4dNZqcubfmuPqU3SNMUw&s",
+      "original": "https://lookaside.fbsbx.com/lookaside/crawler/instagram/tiyayarquitectos/profile_pic.jpg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bench/qu/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2yUxzrt3Fz-MztzaNA4DU3nSJThg1sBhkyQ&s",
+      "fuentePagina": "https://www.instagram.com/tiyayarquitectos/",
+      "titulo": "TIYAY Arquitectos (@tiyayarquitectos) • Instagram photos and ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2yUxzrt3Fz-MztzaNA4DU3nSJThg1sBhkyQ&s",
+      "original": "https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3766021160295836818"
+    }
+  ]
+}

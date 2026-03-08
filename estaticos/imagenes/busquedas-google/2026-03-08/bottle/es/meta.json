@@ -1,0 +1,71 @@
+{
+  "categoria": "bottle",
+  "categoriaSlug": "bottle",
+  "idioma": "es",
+  "nombreIdioma": "Español",
+  "termino": "botella",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:06:33.528Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "es",
+    "gl": "es"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=botella&hl=es&gl=es",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bottle/es/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCpnvU3kl6NpnkXF-n7XL9_1mn2GFBb8GDRg&s",
+      "fuentePagina": "https://www.freepik.es/fotos-vectores-gratis/botella-agua-animada",
+      "titulo": "Imágenes de Botella agua animada - Descarga gratuita en Freepik",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCpnvU3kl6NpnkXF-n7XL9_1mn2GFBb8GDRg&s",
+      "original": "https://img.freepik.com/vector-gratis/icono-bebida-plastico-botella-agua_18591-82523.jpg?semt=ais_rp_50_assets&w=740&q=80"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bottle/es/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6RukpD-7gT6Wg92Db38Cfx6g3taf3Xr-C2A&s",
+      "fuentePagina": "https://lopezparra.es/botellas-de-vidrio/4103-botella-vino-vidrio-transparente-75cl-bordelesa-0003200006377.html",
+      "titulo": "Botella de vidrio transparente 750ml 185 Juvasa",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6RukpD-7gT6Wg92Db38Cfx6g3taf3Xr-C2A&s",
+      "original": "https://lopezparra.es/1101515/botella-vino-vidrio-transparente-75cl-bordelesa.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bottle/es/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqkHkDcb9q5wJ14Z3xxue7Mu_fw8l6H6Gq1A&s",
+      "fuentePagina": "https://www.fumisan.es/botella-con-tapon-1000-ml-1853.html",
+      "titulo": "Botella Reutilizable PET 1000 ml con Tapón (unidad)",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqkHkDcb9q5wJ14Z3xxue7Mu_fw8l6H6Gq1A&s",
+      "original": "https://www.fumisan.es/8174-large_default/botella-con-tapon-1000-ml.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bottle/es/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTL0pa90BUoU0Cc1IEQQSPSdmYOTN7LPGcgRA&s",
+      "fuentePagina": "https://www.vetroelite.com/es/envases-de-vidrio/alimentos/botellas-para-vino/bacco/",
+      "titulo": "BACCO: Botella para vino - VETROelite",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTL0pa90BUoU0Cc1IEQQSPSdmYOTN7LPGcgRA&s",
+      "original": "https://www.vetroelite.com/public/220105-030000-bacco-alimentos-botellasparavino-vetroelite-view1.webp"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bottle/es/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtSawuigozbx5P-gGMyM3FbxkBDnQ-cG3UYA&s",
+      "fuentePagina": "https://www.lauraashley.es/es/vasos-y-copas-para-la-mesa/3442-botella-de-cristal-con-cierre.html?srsltid=AfmBOoo5VdQpRpggmqSy-RWHZp0RCY1pelwuHcMIJ2GEiN31USM2VjRV",
+      "titulo": "botella de cristal con cierre",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtSawuigozbx5P-gGMyM3FbxkBDnQ-cG3UYA&s",
+      "original": "https://www.lauraashley.es/5512/botella-de-cristal-con-cierre.jpg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bottle/es/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPMR3mP6Y8UBv72CRe75XV9Di6fA-swt1EmQ&s",
+      "fuentePagina": "https://www.amazon.es/transparente-Bottalles-inoxidable-hidrataci%C3%B3n-reutilizable/dp/B0DBL7CRB3",
+      "titulo": "Botella de agua transparente Botellas de agua sin agua a ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPMR3mP6Y8UBv72CRe75XV9Di6fA-swt1EmQ&s",
+      "original": "https://m.media-amazon.com/images/I/61CQachvmqL.jpg"
+    }
+  ]
+}

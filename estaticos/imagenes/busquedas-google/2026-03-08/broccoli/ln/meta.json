@@ -1,0 +1,71 @@
+{
+  "categoria": "broccoli",
+  "categoriaSlug": "broccoli",
+  "idioma": "ln",
+  "nombreIdioma": "Lingala",
+  "termino": "brocoli",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:13:07.218Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "fr",
+    "gl": "cd"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=brocoli&hl=fr&gl=cd",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/broccoli/ln/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2fCEtNv98apJplIwSAsmDbAPzvzi24HbMDw&s",
+      "fuentePagina": "https://www.jaimefruitsetlegumes.ca/fr/aliments/brocoli/",
+      "titulo": "Brocoli - Mouvement J'aime les fruits et légumes",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2fCEtNv98apJplIwSAsmDbAPzvzi24HbMDw&s",
+      "original": "https://www.jaimefruitsetlegumes.ca/wp-content/uploads/2019/07/Brocoli.png"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/broccoli/ln/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXMTMR0MKMZGgI0C9XxkWc6g7S8cbCjNyXFQ&s",
+      "fuentePagina": "https://www.princedebretagne.com/nos-legumes/brocoli",
+      "titulo": "Le brocoli - Chou d'été | Légumes Prince de Bretagne",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXMTMR0MKMZGgI0C9XxkWc6g7S8cbCjNyXFQ&s",
+      "original": "https://www.princedebretagne.com/sites/default/files/styles/540x350/public/2020-06/Brocoli-saison.png?itok=omOLN4CQ"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/broccoli/ln/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNPdJcJZ5naAxPJC665QsQQRo-2CxDhDpL8w&s",
+      "fuentePagina": "https://www.passeportsante.net/fr/Actualites/Dossiers/Fiche.aspx?doc=brocoli-sante-minceur-vertus-bienfaits-cuisine",
+      "titulo": "11 bonnes raisons de manger du brocoli",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNPdJcJZ5naAxPJC665QsQQRo-2CxDhDpL8w&s",
+      "original": "https://img.passeportsante.net/1200x675/2022-03-29/shutterstock-427442281.webp"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/broccoli/ln/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4gwM0VUqzWdw6V5_d1EuQBsjDCEvrtn-bjA&s",
+      "fuentePagina": "https://blog.pourdebon.com/tout-savoir-sur-le-brocoli/",
+      "titulo": "Gnocchis faciles au brocoli",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4gwM0VUqzWdw6V5_d1EuQBsjDCEvrtn-bjA&s",
+      "original": "https://blog.pourdebon.com/wp-content/uploads/2024/10/couv-brocolis.jpg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/broccoli/ln/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSphdvrBAJ1Fh1ZP-wu56_OajMECC9UJke0fA&s",
+      "fuentePagina": "https://mapetiteassiette.com/tous/le-brocoli/",
+      "titulo": "Le brocoli pour bébé",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSphdvrBAJ1Fh1ZP-wu56_OajMECC9UJke0fA&s",
+      "original": "https://mapetiteassiette.com/wp-content/uploads/2023/04/Design-sans-titre-1.png"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/broccoli/ln/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbyM5TCt5M0UyGs7MiRPtQg-a5aCgqazIwYg&s",
+      "fuentePagina": "https://www.mgc-prevention.fr/calendrier-des-aliments/brocoli/",
+      "titulo": "Brocoli - MGC Prévention Santé",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbyM5TCt5M0UyGs7MiRPtQg-a5aCgqazIwYg&s",
+      "original": "https://www.mgc-prevention.fr/wp-content/uploads/2014/11/brocolis_195628955_web.jpg"
+    }
+  ]
+}

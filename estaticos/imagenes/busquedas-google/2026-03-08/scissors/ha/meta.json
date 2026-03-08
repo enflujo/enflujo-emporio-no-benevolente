@@ -1,0 +1,71 @@
+{
+  "categoria": "scissors",
+  "categoriaSlug": "scissors",
+  "idioma": "ha",
+  "nombreIdioma": "Hausa",
+  "termino": "almakashi",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:30:22.588Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "ha",
+    "gl": "ng"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=almakashi&hl=ha&gl=ng",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/scissors/ha/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBWqdd-5k9uofjdz_wfAgT3OI7QuyOgrQHhw&s",
+      "fuentePagina": "https://ha.wikipedia.org/wiki/Almakashi",
+      "titulo": "Almakashi - Wikipedia",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBWqdd-5k9uofjdz_wfAgT3OI7QuyOgrQHhw&s",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/3/30/Scissors_collection.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/scissors/ha/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2JgH5jlwuwP1V92lc4NbcDUt6Utup1v0Yrw&s",
+      "fuentePagina": "https://hausadictionary.com/almakashi",
+      "titulo": "almakashi - HausaDictionary.com | Hausa English Translations",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2JgH5jlwuwP1V92lc4NbcDUt6Utup1v0Yrw&s",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Skalm_2.JPG/330px-Skalm_2.JPG"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/scissors/ha/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8roEL7uy_Xqm7e-J0ubLYAlBzApoeuhRzPw&s",
+      "fuentePagina": "https://ha.wikipedia.org/wiki/Almakashi",
+      "titulo": "Almakashi - Wikipedia",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8roEL7uy_Xqm7e-J0ubLYAlBzApoeuhRzPw&s",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Standard_household_scissors.jpg/250px-Standard_household_scissors.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/scissors/ha/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ13RlJ4uhtu-SUr6r8BofrTmg4DHBx_9zkEg&s",
+      "fuentePagina": "https://www.youtube.com/watch?v=4xI-S_C3LXA",
+      "titulo": "Almakashi full fassarar Algaita - Yadda zaku kalla",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ13RlJ4uhtu-SUr6r8BofrTmg4DHBx_9zkEg&s",
+      "original": "https://i.ytimg.com/vi/4xI-S_C3LXA/sddefault.jpg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/scissors/ha/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSieYtGgJCfHLix01WuzsdiEeqpjJARBICHFw&s",
+      "fuentePagina": "https://ha.wiktionary.org/wiki/almakashi",
+      "titulo": "almakashi - Wiktionary",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSieYtGgJCfHLix01WuzsdiEeqpjJARBICHFw&s",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Nozyczki4.jpg/250px-Nozyczki4.jpg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/scissors/ha/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_48BPRFlZmX0nXa7vwtzCIMZSrhy3yO-IGg&s",
+      "fuentePagina": "http://ha.wonderful-po.com/medical-artificial-orthotics-and-prosthetics-tools-lace-scissors-product/",
+      "titulo": "China Medical Artificial Orthotics da Prosthetics Tools Lace ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_48BPRFlZmX0nXa7vwtzCIMZSrhy3yO-IGg&s",
+      "original": "http://cdn.globalso.com/wonderful-po/photobank-14.jpg"
+    }
+  ]
+}

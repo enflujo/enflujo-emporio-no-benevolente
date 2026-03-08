@@ -1,0 +1,71 @@
+{
+  "categoria": "clock",
+  "categoriaSlug": "clock",
+  "idioma": "es",
+  "nombreIdioma": "Español",
+  "termino": "reloj",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:29:16.316Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "es",
+    "gl": "es"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=reloj&hl=es&gl=es",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/clock/es/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvGxIY_MtXmIAE4v2RO6MgvJvgnl2uyE1LDg&s",
+      "fuentePagina": "https://www.amazon.es/EternaHora-silencioso-pulgadas-anal%C3%B3gico-dormitorio/dp/B0CJJG6CCV",
+      "titulo": "EternaHora Reloj de Pared silencioso sin tictac, Relojes de Pared de 6  Pulgadas, Funciona con Pilas, pequeño Reloj analógico para Dormitorio,  hogar, ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvGxIY_MtXmIAE4v2RO6MgvJvgnl2uyE1LDg&s",
+      "original": "https://m.media-amazon.com/images/I/61VFeklg+ZL._AC_UF894,1000_QL80_.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/clock/es/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7qavn05pGDiH5YiBwcJ4CuQOXW43wZ-HshQ&s",
+      "fuentePagina": "https://lotus-watches.com/es-ES/reloj/hombre/lotus/reloj-lotus-18938_3-azul-hombre.html?srsltid=AfmBOor2DZ0YnKJembHe0ENG6HJhBDsobfd9YFcfPFtKhXXvALy0clZL",
+      "titulo": "RELOJ LOTUS 18938/3 AZUL HOMBRE",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7qavn05pGDiH5YiBwcJ4CuQOXW43wZ-HshQ&s",
+      "original": "https://static6.festinagroup.com/product/lotus/artistic/big/l18938_3_2.png"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/clock/es/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTv0y5baa2h8B8daRW0lRj234fQUVianQ4gaQ&s",
+      "fuentePagina": "https://www.ikea.com/es/es/p/tjalla-reloj-pared-negro-40540884/",
+      "titulo": "TJALLA reloj de pared, negro, 28 cm - IKEA",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTv0y5baa2h8B8daRW0lRj234fQUVianQ4gaQ&s",
+      "original": "https://www.ikea.com/es/es/images/products/tjalla-reloj-pared-negro__0790238_pe767383_s5.jpg?f=s"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/clock/es/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2Bcdy3FYfRdUaNpuQgKi-mu9VpMIw9-Spuw&s",
+      "fuentePagina": "https://alihogar.es/relojes-y-despertadores/7340-reloj-clasico-8413392071428.html?srsltid=AfmBOoqNG0cmCnEE8jZT_z0hJykOljNVNXKyUsUorZEZPpy31oS6VF1t",
+      "titulo": "Compra Reloj Clásico con Marco Negro - Elegancia y Estilo en ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2Bcdy3FYfRdUaNpuQgKi-mu9VpMIw9-Spuw&s",
+      "original": "https://alihogar.es/32364-large_default/reloj-clasico.jpg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/clock/es/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQp0pBA8mMM0XBsrGe7WbnvtEXWsnE5aKm8_g&s",
+      "fuentePagina": "https://www.freepik.es/fotos-vectores-gratis/reloj",
+      "titulo": "Imágenes de Reloj - Descarga gratuita en Freepik",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQp0pBA8mMM0XBsrGe7WbnvtEXWsnE5aKm8_g&s",
+      "original": "https://img.freepik.com/vector-gratis/cuenta-atras-fecha-limite-reloj-moderno_24877-81802.jpg?semt=ais_rp_50_assets&w=740&q=80"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/clock/es/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnloIjmmERlUbLXZzOxkvx6ZI_82MIZJMLow&s",
+      "fuentePagina": "https://www.fesmes.com/es/relojes-de-pared-y-mesa/831962000-reloj-de-pared-colores-4-modelos-3560239291060.html?srsltid=AfmBOoqFzaX2sRn9LEHCUPzbGR2YLmORABCUGiKcX0kuCAegtVJnN3f9",
+      "titulo": "Reloj de pared colores surtidos Ø223x39 mm",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnloIjmmERlUbLXZzOxkvx6ZI_82MIZJMLow&s",
+      "original": "https://www.fesmes.com/70922/reloj-de-pared-colores-4-modelos.jpg"
+    }
+  ]
+}

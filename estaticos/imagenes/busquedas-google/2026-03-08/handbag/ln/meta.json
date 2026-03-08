@@ -1,0 +1,71 @@
+{
+  "categoria": "handbag",
+  "categoriaSlug": "handbag",
+  "idioma": "ln",
+  "nombreIdioma": "Lingala",
+  "termino": "sac ya loboko",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T20:57:27.675Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "fr",
+    "gl": "cd"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=sac%20ya%20loboko&hl=fr&gl=cd",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/handbag/ln/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpnn30YGN-tVhA2upD7aY_q5YD6gNBTVz14g&s",
+      "fuentePagina": "https://www.facebook.com/amplobokoevents/?locale=sw_KE",
+      "titulo": "AMP Loboko Events | Kinshasa",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpnn30YGN-tVhA2upD7aY_q5YD6gNBTVz14g&s",
+      "original": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=876556321184221"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/handbag/ln/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT49lfJuIwUSOHfDfmavJnYFtXUJzSyezi9Ig&s",
+      "fuentePagina": "https://bolitoo.com/produit/sac-de-livraison-62l/",
+      "titulo": "Sac de Livraison 62L",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT49lfJuIwUSOHfDfmavJnYFtXUJzSyezi9Ig&s",
+      "original": "https://bolitoo.com/wp-content/uploads/2022/05/Sac-de-Livraison-62L.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/handbag/ln/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLcSA7838uxkvcikVgN63U2wKSJ9srCO-lIA&s",
+      "fuentePagina": "https://www.facebook.com/groups/1927805037407736/posts/2960892917432271/",
+      "titulo": "Otekaka o defisaka Sac des étudiantes 5$ de! le5 5 pièce A ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLcSA7838uxkvcikVgN63U2wKSJ9srCO-lIA&s",
+      "original": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=122216255516044047"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/handbag/ln/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbD4Y2kA9KtwhvssrGimtEFe8UOT4W5mlU9g&s",
+      "fuentePagina": "https://www.facebook.com/kinshastar2020/posts/la-chanteuse-gospel-congolaise-qui-repr%C3%A9sente-la-rdc-en-afrique-du-sud-la-soeur-/1076132834529183/",
+      "titulo": "La chanteuse gospel congolaise qui représente la RDC en ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbD4Y2kA9KtwhvssrGimtEFe8UOT4W5mlU9g&s",
+      "original": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=1076132784529188"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/handbag/ln/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvBzTpdun-TcpLClWHqgng0zZhWne3ipDtEQ&s",
+      "fuentePagina": "https://marketplace.anka.africa/fr/article/kiondo-bag-african-bag-sisal-bag-leather-bag-kenyan-bag-handwoven-bag-christmas-gift-shoulder-bags-black-cotton/LV7VDIX",
+      "titulo": "Sac Kiondo, sac africain, sac sisal, sac en cuir, sac kenyan ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvBzTpdun-TcpLClWHqgng0zZhWne3ipDtEQ&s",
+      "original": "https://d13k5xkmdqbhs.cloudfront.net/products/LV7VDIX/LMZJ8K1Y-large.jpg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/handbag/ln/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpx6iB0-NAHqrdahHFdJP4lM6DYe5U8sjGng&s",
+      "fuentePagina": "https://www.amazon.fr/LOVEVOOK-Ordinateur-Portable-R%C3%A9sistant-%C3%89claboussures/dp/B0BPDT4GY3",
+      "titulo": "LOVEVOOK Sac à Dos Cabine Grand 30L, Sac à Dos Voyage Avion ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpx6iB0-NAHqrdahHFdJP4lM6DYe5U8sjGng&s",
+      "original": "https://m.media-amazon.com/images/I/71Mkw86eGDL._AC_UF1000,1000_QL80_.jpg"
+    }
+  ]
+}

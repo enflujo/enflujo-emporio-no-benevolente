@@ -1,0 +1,71 @@
+{
+  "categoria": "backpack",
+  "categoriaSlug": "backpack",
+  "idioma": "fr",
+  "nombreIdioma": "Français",
+  "termino": "sac à dos",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T20:56:16.941Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "fr",
+    "gl": "be"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=sac%20%C3%A0%20dos&hl=fr&gl=be",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/backpack/fr/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTGwHbh9SsWrsamAgnToZc0MtHtuPXtWLGoQ&s",
+      "fuentePagina": "https://www.bol.com/be/fr/p/sac-a-dos-elegant-en-cuir-veritable-pour-homme-sac-a-dos-multifonctionnel-de-voyage-et-pour-ordinateur-portable-impermeable-et-durable-ideal-pour-le-travail-les-affaires-et-les-voyages/9300000188619749/",
+      "titulo": "Sac à dos élégant en cuir véritable pour homme – Sac à dos ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTGwHbh9SsWrsamAgnToZc0MtHtuPXtWLGoQ&s",
+      "original": "https://media.s-bol.com/BGOZZBqwYyko/68GKDlO/550x540.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/backpack/fr/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiba9Evga1TkESO-SsGDgWghxJwQD_bBMgOA&s",
+      "fuentePagina": "https://www.fr.fnac.be/mp22194205/Sac-a-dos-ENFANT-loisirs-BG125J-noir",
+      "titulo": "Sac à dos - ENFANT - loisirs - BG125J - noir",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiba9Evga1TkESO-SsGDgWghxJwQD_bBMgOA&s",
+      "original": "https://static.fnac-static.com/multimedia/Images/FR/MC/1d/a8/52/22194205/1540-1/tsp20200304123758/Sac-a-dos-ENFANT-loisirs-BG125J-noir.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/backpack/fr/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmtQmkkBwrEvPf8eM8CCy2SvERBRq_1z7m6Q&s",
+      "fuentePagina": "https://www.belsport.be/fr/sac-a-dos/5146-sac-a-dos-classique-version-junior-bleu-ciel.html?srsltid=AfmBOopel4DkWitUW2af4dz17SbAOIzMKIE2_jyEe7nMEoB1gMm2-Qxb",
+      "titulo": "Sac à dos classique - Version junior - Bleu ciel",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmtQmkkBwrEvPf8eM8CCy2SvERBRq_1z7m6Q&s",
+      "original": "https://www.belsport.be/17586-superlarge_default_2x/sac-a-dos-classique-version-junior-bleu-ciel.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/backpack/fr/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuhW--dEIdVXL8xGNvFi8uN6uPOxL133GoPQ&s",
+      "fuentePagina": "https://www.elementbrand.be/regent-26l---sac-a-dos-de-sport-taille-moyenne-pour-homme-F5BPC2ELF2.html",
+      "titulo": "Regent 26L - Sac à dos de sport taille moyenne pour Homme ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuhW--dEIdVXL8xGNvFi8uN6uPOxL133GoPQ&s",
+      "original": "https://images.napali.app/global/element-products/all/default/large/f5bpc2elf2_element,p_1278_frt1.jpg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/backpack/fr/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRoDf7YmoI2cX4k9Tn5MUqhhKQ9RUxpUmqpag&s",
+      "fuentePagina": "https://www.yoursurprise.be/fr/sacs-sacs-a-dos/sacs-a-dos-personnalises/sac-a-dos",
+      "titulo": "Sac à dos personnalisé - Noir",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRoDf7YmoI2cX4k9Tn5MUqhhKQ9RUxpUmqpag&s",
+      "original": "https://static.yoursurprise.com/galleryimage/45/456b83ac72a8cd2c01ad6daeb492a8af.jpg?width=900&crop=1:1"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/backpack/fr/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTTozLOZ7D5I_aAO5xz_Y0LpA_clyoEK0S3Q&s",
+      "fuentePagina": "https://www.hermes.com/be/fr/product/sac-a-dos-hermes-allback-H083582CKAA/",
+      "titulo": "Sac à dos Hermès Allback | Hermès Belgique",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTTozLOZ7D5I_aAO5xz_Y0LpA_clyoEK0S3Q&s",
+      "original": "https://assets.hermes.com/is/image/hermesproduct/sac-a-dos-hermes-allback--083582CKAA-worn-1-0-0-1000-1000_g.jpg"
+    }
+  ]
+}

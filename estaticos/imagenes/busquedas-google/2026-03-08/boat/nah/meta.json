@@ -1,0 +1,71 @@
+{
+  "categoria": "boat",
+  "categoriaSlug": "boat",
+  "idioma": "nah",
+  "nombreIdioma": "Náhuatl",
+  "termino": "acalli",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T20:46:04.595Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "es",
+    "gl": "mx"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=acalli&hl=es&gl=mx",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/boat/nah/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGC7ZaTkI_auG0hFEtyr5ZGEsD47tR9HNY_Q&s",
+      "fuentePagina": "https://www.facebook.com/acallinatacion/",
+      "titulo": "Acalli Natación | Zapopan",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGC7ZaTkI_auG0hFEtyr5ZGEsD47tR9HNY_Q&s",
+      "original": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=100063520345676"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/boat/nah/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQI-s1aYRWjkVn7tQ4TYo7qvZPl7gVopWYcdQ&s",
+      "fuentePagina": "https://www.instagram.com/acalli_qro/",
+      "titulo": "Acalli Planeación y Desarrollo A.C (@acalli_qro) • Instagram ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQI-s1aYRWjkVn7tQ4TYo7qvZPl7gVopWYcdQ&s",
+      "original": "https://lookaside.fbsbx.com/lookaside/crawler/instagram/acalli_qro/profile_pic.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/boat/nah/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuuZFQB93f9spH-id8OUA2Wyv2vXk5OiI8ZA&s",
+      "fuentePagina": "https://www.researchgate.net/figure/Figura-3-La-canoa-mexica-acalli-y-sus-secciones-en-nahuatl-Dibujo-de-Aban-Flores_fig3_351607310",
+      "titulo": "La canoa mexica (acalli) y sus secciones en náhuatl. Dibujo ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuuZFQB93f9spH-id8OUA2Wyv2vXk5OiI8ZA&s",
+      "original": "https://www.researchgate.net/publication/351607310/figure/fig3/AS:1023804478332928@1621105417560/Figura-3-La-canoa-mexica-acalli-y-sus-secciones-en-nahuatl-Dibujo-de-Aban-Flores.png"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/boat/nah/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSD4SdpcCkmVadwwVyo69gi1Con7_P6P9ldlw&s",
+      "fuentePagina": "https://www.facebook.com/SofiaGuadarramaCollado/posts/acalli%C3%A9sta-es-la-%C3%BAnica-canoa-prehisp%C3%A1nica-de-la-cuenca-de-m%C3%A9xico-que-se-conserva/584803789668537/",
+      "titulo": "Acalli Ésta es la única canoa prehispánica de la cuenca de ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSD4SdpcCkmVadwwVyo69gi1Con7_P6P9ldlw&s",
+      "original": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=584803739668542"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/boat/nah/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-72BQ6Ey39lgWWpPa7jqHydKmCpcGUyXAWw&s",
+      "fuentePagina": "https://rinnovomedspa.com/product/acalli/",
+      "titulo": "Acalli - Rinnovo",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-72BQ6Ey39lgWWpPa7jqHydKmCpcGUyXAWw&s",
+      "original": "https://rinnovomedspa.com/wp-content/uploads/2023/01/Shampoo_facial_acalli_exfoliante_150ml.png"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/boat/nah/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZhTwhnWrHr4dxX6KETWeANzYE6hYO029ERQ&s",
+      "fuentePagina": "https://www.elnorte.com/habra-escuelas-de-acalli-en-xochimilco/ar1832967",
+      "titulo": "Habrá escuelas de acalli en Xochimilco",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZhTwhnWrHr4dxX6KETWeANzYE6hYO029ERQ&s",
+      "original": "https://img.gruporeforma.com/imagenes/960x640/5/663/4662922.jpg"
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "categoria": "bench",
+  "categoriaSlug": "bench",
+  "idioma": "pt",
+  "nombreIdioma": "Português",
+  "termino": "banco",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T20:49:33.471Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "pt",
+    "gl": "br"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=banco&hl=pt&gl=br",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bench/pt/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKHhjR1JHEiLWad99lJyZFKGTRHO38T7h83w&s",
+      "fuentePagina": "https://www.lanci.com.br/banco-em-madeira-plastica-macica-sem-encosto-93?srsltid=AfmBOopcCFvPGrcQzYs6VrqeHnqm43ncPppxjN-MNSxGYN8X1SYduCz3",
+      "titulo": "BANCO DE 1,5M MARROM SEM ENCOSTO COM 3 LUGARES E 3 TÁBUAS/ BC-02",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKHhjR1JHEiLWad99lJyZFKGTRHO38T7h83w&s",
+      "original": "https://images.tcdn.com.br/img/img_prod/1271041/banco_em_madeira_plastica_macica_marrom_sem_encosto_com_3_lugares_e_3_tabuas_100_reciclado_1_5m_bc_0_93_1_ab9101d10a16a30b216e44b9b72734c0.jpeg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bench/pt/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXwggPYYp1WC2pADx1IDX6bNBVFCQ5ToGrmQ&s",
+      "fuentePagina": "https://www.canadabancosdejardim.com.br/bancos-para-jardim/banco-de-jardim-tamandua-8-reguas-1-20m?srsltid=AfmBOoptdFO2MwsaXTjgYHtQeJG7l3EE5pIqMMd1i3v96mrTIrfCES4j",
+      "titulo": "Banco de Jardim Tamanduá 8 réguas madeira maciça (1,20cm ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXwggPYYp1WC2pADx1IDX6bNBVFCQ5ToGrmQ&s",
+      "original": "https://images.tcdn.com.br/img/img_prod/1135604/banco_de_jardim_tamandua_8_reguas_1_20m_49_1_d0981ef2c8407b6f80dea1109545ad34.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bench/pt/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZE1aouBRJH9Qs3e_-ebThFX7cuzIkKhosPQ&s",
+      "fuentePagina": "https://bancosbetel.com.br/produto/banco-benjamim-de-madeira-macica-para-igreja/?srsltid=AfmBOorMAf39QR2_JltLypn6BvDXf16gQzogyGVYR2e8o-VTdzkDHUlr",
+      "titulo": "Banco Benjamim de Madeira Maciça para Igreja | Bancos Betel",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZE1aouBRJH9Qs3e_-ebThFX7cuzIkKhosPQ&s",
+      "original": "https://bancosbetel.com.br/wp-content/uploads/2025/07/vermelho_Banco_Benjamim1x.webp"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bench/pt/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMsbn8vHm5gIGybBC5Iy7JuEyEOz4vmtUljw&s",
+      "fuentePagina": "https://loja.nilko.com.br/assentos/bancos/banco-em-madeira-de-lei-nk1606?srsltid=AfmBOorD-xdRzs7V7D5CO8T30qGVYSQRlijSWVZN-PaOD2pwTd0Kapbf",
+      "titulo": "Banco em Madeira de Lei - Nk 1606",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMsbn8vHm5gIGybBC5Iy7JuEyEOz4vmtUljw&s",
+      "original": "https://images.tcdn.com.br/img/img_prod/1161591/banco_em_madeira_de_lei_nk_1606_119_1_1ff378df1c89d9dae886701e8eb6b762.png"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bench/pt/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRC_5HDFWggA5wxHvjrBE2xuNcw9JH-gKS_aA&s",
+      "fuentePagina": "https://www.tessaromoveis.com.br/produto/banco-em-madeira-e-base-em-aluminio-turim/",
+      "titulo": "Banco em madeira e base em alumínio turim - Tessaro Móveis.",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRC_5HDFWggA5wxHvjrBE2xuNcw9JH-gKS_aA&s",
+      "original": "https://www.tessaromoveis.com.br/wp-content/uploads/2019/03/Banco-Turim-Base-em-alum%C3%ADnio-1.jpg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bench/pt/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSonn9NjM8w66KBFknr92QdI475VxQjIQ7ogw&s",
+      "fuentePagina": "https://bancosbetel.com.br/produto/banco-benjamim-de-madeira-macica-para-igreja/?srsltid=AfmBOopCXegPlAmfAYCnyUgzuhn1FtfFsI5s8rdATBpc-9pjFAHovduG",
+      "titulo": "Banco Benjamim de Madeira Maciça para Igreja | Bancos Betel",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSonn9NjM8w66KBFknr92QdI475VxQjIQ7ogw&s",
+      "original": "https://bancosbetel.com.br/wp-content/uploads/2025/07/azul_Banco_Benjamim1x.webp"
+    }
+  ]
+}

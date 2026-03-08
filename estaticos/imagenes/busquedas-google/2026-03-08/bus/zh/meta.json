@@ -1,0 +1,71 @@
+{
+  "categoria": "bus",
+  "categoriaSlug": "bus",
+  "idioma": "zh",
+  "nombreIdioma": "中文",
+  "termino": "公共汽车",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T20:44:08.143Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "zh-CN",
+    "gl": "cn"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=%E5%85%AC%E5%85%B1%E6%B1%BD%E8%BD%A6&hl=zh-CN&gl=cn",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bus/zh/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRx69o-qTfu7pMdfer5-wcslCnCufoJfcl5ow&s",
+      "fuentePagina": "https://wuu.wikipedia.org/wiki/%E5%85%AC%E5%85%B1%E6%B1%BD%E8%BD%A6",
+      "titulo": "公共汽车- 维基百科",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRx69o-qTfu7pMdfer5-wcslCnCufoJfcl5ow&s",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/S%C3%BCkhbaatar_Square_Parking_Lot.jpg/250px-S%C3%BCkhbaatar_Square_Parking_Lot.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bus/zh/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSH69wQPAsgSu-JKXUOiaG5wJ86o5Qs8PNvGA&s",
+      "fuentePagina": "https://zh.wikipedia.org/zh-cn/%E7%94%B5%E5%8A%A8%E5%85%AC%E5%85%B1%E6%B1%BD%E8%BD%A6",
+      "titulo": "电动公共汽车- 维基百科，自由的百科全书",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSH69wQPAsgSu-JKXUOiaG5wJ86o5Qs8PNvGA&s",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/4/47/Trolleybus4120.Harvard.agr.JPG"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bus/zh/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSu4UvfnzMi9DOYGXN3ejduiMiMXfTvIoBLrA&s",
+      "fuentePagina": "https://zh.wikipedia.org/zh-cn/%E5%85%AC%E5%85%B1%E5%B0%8F%E5%9E%8B%E5%B7%B4%E5%A3%AB",
+      "titulo": "公共小型客车- 维基百科，自由的百科全书",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSu4UvfnzMi9DOYGXN3ejduiMiMXfTvIoBLrA&s",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/0/00/070054_ToyotacoasterWU4540%2CNT17M.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bus/zh/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0DmrDJIdLosLUAsNE0miodoK5YNjKsG3ZxQ&s",
+      "fuentePagina": "https://libattery.ofweek.com/2021-11/ART-36008-8330-30536169.html",
+      "titulo": "比亚迪B10纯电动公交车：城市公交中坚力量！ - OFweek锂电网",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0DmrDJIdLosLUAsNE0miodoK5YNjKsG3ZxQ&s",
+      "original": "https://mp.ofweek.com/Upload/News/Img/member8299/202111/wx_article__87ef232c49233072b2060fff98e47503.jpg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bus/zh/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEO1LGNwhH0CHPaZGVeBIBc9xvipvRyq8CMA&s",
+      "fuentePagina": "https://zh.vietnamplus.vn/article-post219689.vnp",
+      "titulo": "河内计划将全部柴油公交车替换为电动公交车| Vietnam+ (VietnamPlus)",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEO1LGNwhH0CHPaZGVeBIBc9xvipvRyq8CMA&s",
+      "original": "https://mediazh.vietnamplus.vn/images/3a0764afeffb23ac59c56f40b8233d83492ee8ab8b517e66a552a11c37f7600da19081da1bc42573c0bda6e2ab4b9fe8c4d1d3ec4bd4be78639168a775edc6d4118ff9656fb0a7a8b3696e71d4b2079b/xe-buyt-dien-vin-15112022jpg-8803.jpg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bus/zh/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5xc8SHcrzPwQN1FCJ4Ofnov_Ibfbc6Av6ZA&s",
+      "fuentePagina": "http://www.englang.cn/ShowYuanDi.asp?YDId=2162",
+      "titulo": "如何用英语说搭乘公共汽车，乘坐公共汽车的日常英汉对话，在美国 ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5xc8SHcrzPwQN1FCJ4Ofnov_Ibfbc6Av6ZA&s",
+      "original": "http://www.englang.cn/Upload/cc201804170940463045.jpg"
+    }
+  ]
+}

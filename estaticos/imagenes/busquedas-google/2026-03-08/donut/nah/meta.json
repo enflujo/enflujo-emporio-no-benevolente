@@ -1,0 +1,71 @@
+{
+  "categoria": "donut",
+  "categoriaSlug": "donut",
+  "idioma": "nah",
+  "nombreIdioma": "Náhuatl",
+  "termino": "donut",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:16:03.909Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "es",
+    "gl": "mx"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=donut&hl=es&gl=mx",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/donut/nah/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyLiHpvSXVPq0wQJPLCsbDHQRno2Vh1KtBhw&s",
+      "fuentePagina": "https://en.wikipedia.org/wiki/Doughnut",
+      "titulo": "Doughnut - Wikipedia",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyLiHpvSXVPq0wQJPLCsbDHQRno2Vh1KtBhw&s",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Glazed-Donut.jpg/1280px-Glazed-Donut.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/donut/nah/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_30V4e8wTip3M3gFYmO5zaQcTKQj_gu_MAw&s",
+      "fuentePagina": "https://www.bostongirlbakes.com/chocolate-frosted-donuts/",
+      "titulo": "Chocolate Frosted Donuts",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_30V4e8wTip3M3gFYmO5zaQcTKQj_gu_MAw&s",
+      "original": "https://www.bostongirlbakes.com/wp-content/uploads/2022/10/Chocolate-Frosted-Donuts-High-Res-68.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/donut/nah/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrIbc0EdsgFSI4A7yaAeZrhU2O9tvccZOKgg&s",
+      "fuentePagina": "https://www.epicurious.com/recipes/food/views/classic-glazed-doughnuts-51160200",
+      "titulo": "Classic Glazed Doughnuts",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrIbc0EdsgFSI4A7yaAeZrhU2O9tvccZOKgg&s",
+      "original": "https://assets.epicurious.com/photos/54b0226d766062b20344580a/1:1/w_2560%2Cc_limit/51160200_glazed-doughnuts_1x1.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/donut/nah/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSM1EfOi0ckSU6U4DCMlVR4ud9m2RgOpLbWBA&s",
+      "fuentePagina": "https://www.istockphoto.com/es/fotos/donut",
+      "titulo": "276.900+ Donut Fotografías de stock, fotos e imágenes libres ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSM1EfOi0ckSU6U4DCMlVR4ud9m2RgOpLbWBA&s",
+      "original": "https://media.istockphoto.com/id/538335769/es/foto/bu%C3%B1uelo-en-forma-de-rosca-con-virutas-de-colores-aisladas.jpg?s=612x612&w=0&k=20&c=xAvBx7V9k4jare40geWGRPpTK0MSz1WnZY5zPeuJCPc="
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/donut/nah/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWkKuPfApF3rNAneRCkfpplc-0zvhgEken6A&s",
+      "fuentePagina": "https://funcakes.com/es/recept/donuts/",
+      "titulo": "Donuts",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWkKuPfApF3rNAneRCkfpplc-0zvhgEken6A&s",
+      "original": "https://funcakes.com/content/uploads/2020/08/Donut-600x450.png"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/donut/nah/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUmhSeuSUVbUsMirDxm7WWBCdnOz1DTVWxvw&s",
+      "fuentePagina": "https://www.marketresearchintellect.com/es/blog/best-doughnut-brands/",
+      "titulo": "Las mejores marcas de donas que hacen los mejores bocadillos ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUmhSeuSUVbUsMirDxm7WWBCdnOz1DTVWxvw&s",
+      "original": "https://www.marketresearchintellect.com/images/blogs/best-doughnut-brands.webp"
+    }
+  ]
+}

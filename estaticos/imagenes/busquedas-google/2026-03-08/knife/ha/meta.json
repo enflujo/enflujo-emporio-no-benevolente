@@ -1,0 +1,71 @@
+{
+  "categoria": "knife",
+  "categoriaSlug": "knife",
+  "idioma": "ha",
+  "nombreIdioma": "Hausa",
+  "termino": "wuka",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:08:46.956Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "ha",
+    "gl": "ng"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=wuka&hl=ha&gl=ng",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/knife/ha/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQxkd4Nb_3A_s21My5fih-e9IbZL8KVGDAtQ&s",
+      "fuentePagina": "https://wuka.co.uk/products/wuka-period-wear?srsltid=AfmBOopb9PoRpUeI__6Uiw8v0DbNqu7YZcRa-2kbUgEfsBSSp1Wmrl0m",
+      "titulo": "Heavy Flow Period Pants | Leak-Proof & Breathable | WUKA®",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQxkd4Nb_3A_s21My5fih-e9IbZL8KVGDAtQ&s",
+      "original": "https://wuka.co.uk/cdn/shop/files/3-ultimate-midi-brief-heavy-flow-back.jpg?v=1756567863&width=1946"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/knife/ha/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFpbLLZqaEymXq1nu7v0aFgcvYPQ1xcVI1Ww&s",
+      "fuentePagina": "https://wuka.co.uk/collections?srsltid=AfmBOor--CFdUHJmN1r1I-BeVaHWGwqPE3cWFWHWMt-f7RxJBQHiJJX-",
+      "titulo": "Collections – WUKA",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFpbLLZqaEymXq1nu7v0aFgcvYPQ1xcVI1Ww&s",
+      "original": "https://wuka.co.uk/cdn/shop/collections/collection-all-period-products.webp?v=1757326214&width=3840"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/knife/ha/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsNzkFclcZZlzSwLvChYj-gAn_Ltbiv19c9w&s",
+      "fuentePagina": "https://tomperiodwear.ae/product-category/brand/wuka/?srsltid=AfmBOoo1nWeAdgpruK8PF8pDqPsRFSrSwJQ9DpMWlkjG6HAapP1qAQrZ",
+      "titulo": "WUKA Period Underwear UAE - 34 Styles Available! TOM Period Wear",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsNzkFclcZZlzSwLvChYj-gAn_Ltbiv19c9w&s",
+      "original": "https://tomperiodwear.ae/wp-content/uploads/2023/11/WUKA_TeenStretch_MixedColours_GroupShot13-scaled.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/knife/ha/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYSkTffG74VPNmgP9U7SXWxx5N3H-x-wrDHA&s",
+      "fuentePagina": "https://wukawear.ie/collections/all",
+      "titulo": "Shop All Products | Underwear For Everybody | WUKA",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYSkTffG74VPNmgP9U7SXWxx5N3H-x-wrDHA&s",
+      "original": "https://wukawear.ie/cdn/shop/files/6-ultimate-midi-brief-heavy-flow-cutout.jpg?v=1756798647&width=1946"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/knife/ha/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZO3pcOrTepbovNkOBFr4KIPcL548Q_DXjkg&s",
+      "fuentePagina": "https://www.facebook.com/wukawear/",
+      "titulo": "WUKA (@wukawear) • Facebook",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZO3pcOrTepbovNkOBFr4KIPcL548Q_DXjkg&s",
+      "original": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=100063988532702"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/knife/ha/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZd4MMDSONKrXEl1v3bYQ7ImwpmnpY3cECog&s",
+      "fuentePagina": "https://www.fledglings.org.uk/products/wuka-stretch-seamless-midi-period-pants-teen-heavy?srsltid=AfmBOopAB8yGyTt8mCahCZ7ugJ1jMoPHXKOiHVSdIRDdIQXPke5He59B",
+      "titulo": "WUKA - Seamless Midi Period Pants | Fledglings",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZd4MMDSONKrXEl1v3bYQ7ImwpmnpY3cECog&s",
+      "original": "https://www.fledglings.org.uk/cdn/shop/files/wuka-stretch-stretch-seamless-midi-period-pants-teen-heavy-255670.jpg?v=1741868608"
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "categoria": "apple",
+  "categoriaSlug": "apple",
+  "idioma": "gn",
+  "nombreIdioma": "Guaraní",
+  "termino": "manzana",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:11:40.156Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "es",
+    "gl": "py"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=manzana&hl=es&gl=py",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/apple/gn/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8RIMHDAKC7qAiJjbIkQQHV0QS4dXWYsOxzQ&s",
+      "fuentePagina": "https://www.smartnfinal.com.mx/tienda/frutas-y-verduras/manzana-roja/",
+      "titulo": "Manzana roja - Smart&Final",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8RIMHDAKC7qAiJjbIkQQHV0QS4dXWYsOxzQ&s",
+      "original": "https://www.smartnfinal.com.mx/wp-content/uploads/2016/08/MANZNA-ROJA.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/apple/gn/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDgVZwE-dGq3SsxNgqZj8zVILVsZuR0hHhug&s",
+      "fuentePagina": "https://es.pinterest.com/pin/1196337388907347/",
+      "titulo": "Wikichicos/Las frutas/La manzana/Color - Wikilibros",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDgVZwE-dGq3SsxNgqZj8zVILVsZuR0hHhug&s",
+      "original": "https://i.pinimg.com/736x/9f/bf/c8/9fbfc85accfb61ec44a01d5924084498.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/apple/gn/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTefUHgejxyLcdttT_ovpNnkWpHNzXHDsN9RQ&s",
+      "fuentePagina": "https://5aldia.cl/frutas-y-vegetales/manzana/",
+      "titulo": "Manzana - 5 al día",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTefUHgejxyLcdttT_ovpNnkWpHNzXHDsN9RQ&s",
+      "original": "https://5aldia.cl/wp-content/uploads/2018/03/manzana.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/apple/gn/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSiHM3JovppomCD94KNtfqocR0gkBbshqr-mg&s",
+      "fuentePagina": "https://www.shutterstock.com/es/search/manzanas",
+      "titulo": "8,1 millones resultados de imágenes, fotos de stock e ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSiHM3JovppomCD94KNtfqocR0gkBbshqr-mg&s",
+      "original": "https://www.shutterstock.com/image-photo/fresh-red-apple-green-leaf-260nw-2575888603.jpg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/apple/gn/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVELVV_Jx3X7b4ueoiXLkWuD5tDGca7udx_w&s",
+      "fuentePagina": "https://www.istockphoto.com/es/fotos/manzana-dibujo",
+      "titulo": "194.700+ Manzana Dibujo Fotografías de stock, fotos e ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVELVV_Jx3X7b4ueoiXLkWuD5tDGca7udx_w&s",
+      "original": "https://media.istockphoto.com/id/1045495508/es/vector/manzana-roja-ilustraci%C3%B3n-icono-vector.jpg?s=612x612&w=0&k=20&c=AMbEbpRpkJxzx0cYGmdTFqg112EbAZZHG1qG9n12g24="
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/apple/gn/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFxbWJgAKuNyMcrFhz4UWR2s7EwA83LfrsTw&s",
+      "fuentePagina": "https://www.arete.com.py/manzana-roja-chica-x-kg-p123068",
+      "titulo": "MANZANA ROJA CHICA X KG",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFxbWJgAKuNyMcrFhz4UWR2s7EwA83LfrsTw&s",
+      "original": "https://www.arete.com.py/userfiles/images/productos/90152.jpg"
+    }
+  ]
+}

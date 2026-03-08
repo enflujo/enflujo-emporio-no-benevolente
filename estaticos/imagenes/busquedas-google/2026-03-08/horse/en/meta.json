@@ -1,0 +1,71 @@
+{
+  "categoria": "horse",
+  "categoriaSlug": "horse",
+  "idioma": "en",
+  "nombreIdioma": "English",
+  "termino": "horse",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T20:51:34.715Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "en",
+    "gl": "us"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=horse&hl=en&gl=us",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/horse/en/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlbRDRcORjg1RKZqxdHEtMMpPgFj86KE0dRg&s",
+      "fuentePagina": "https://en.wikipedia.org/wiki/Horse",
+      "titulo": "Horse - Wikipedia",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlbRDRcORjg1RKZqxdHEtMMpPgFj86KE0dRg&s",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/d/de/Nokota_Horses_cropped.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/horse/en/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRMfGEleBagyNOR8HSCRhJjcERBHfa2QovOg&s",
+      "fuentePagina": "https://www.britannica.com/animal/horse",
+      "titulo": "Horse | Definition, Breeds, Pictures, Evolution, & Facts ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRMfGEleBagyNOR8HSCRhJjcERBHfa2QovOg&s",
+      "original": "https://cdn.britannica.com/96/1296-050-4A65097D/gelding-bay-coat.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/horse/en/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSaWnssKFYhkOCrolYakEIBugFg5iQaBMRECg&s",
+      "fuentePagina": "https://a-z-animals.com/animals/horse/",
+      "titulo": "Horse Animal Facts - Equus ferus caballus - A-Z Animals",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSaWnssKFYhkOCrolYakEIBugFg5iQaBMRECg&s",
+      "original": "https://a-z-animals.com/media/horse-3.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/horse/en/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvVz5v24dy1ohMc_-NQuKzSh7PIBd3yLULaQ&s",
+      "fuentePagina": "https://www.amnh.org/explore/ology/zoology/all-about-horses",
+      "titulo": "All About Horses | AMNH",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvVz5v24dy1ohMc_-NQuKzSh7PIBd3yLULaQ&s",
+      "original": "https://www.amnh.org/var/ezflow_site/storage/images/media/amnh/images/explore/ology-images/zoology/all-about-horses/button-horses/button_sellefrancais/6212545-1-eng-US/button_sellefrancais_full_495.jpg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/horse/en/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcReKnViy9e9T5sigRnfx1uU3yulyGntiM5IqA&s",
+      "fuentePagina": "https://nationalzoo.si.edu/animals/przewalskis-horse",
+      "titulo": "Przewalski's horse | Smithsonian's National Zoo and ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcReKnViy9e9T5sigRnfx1uU3yulyGntiM5IqA&s",
+      "original": "https://nationalzoo.si.edu/sites/default/files/styles/wide/public/animals/przewalskiswildhorse-001.jpg?h=79cb99dc&itok=NHlhuxpH"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/horse/en/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5r7BEmN5Vd1swBlpIezyIEflJ3OE5cUEM4w&s",
+      "fuentePagina": "https://racingclub.com/guides/different-types-of-racehorses/",
+      "titulo": "Different Types of Racehorses Explained - Racing Club",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5r7BEmN5Vd1swBlpIezyIEflJ3OE5cUEM4w&s",
+      "original": "https://lh7-us.googleusercontent.com/f-zhn1fVem_NoW9ELOGQ21EZeHbdNLfKw3tfFblttScX3olF8qtHU-Xmc9JfAqueBmd-8c7DBXjwXJ4sRM8VJ1ZEBqXT7dQ-UztmVkWrDaOIfWSFzkua19JGC443paSjvYud9-tmv4_V-72GRA88TIY"
+    }
+  ]
+}

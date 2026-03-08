@@ -1,0 +1,71 @@
+{
+  "categoria": "bear",
+  "categoriaSlug": "bear",
+  "idioma": "gn",
+  "nombreIdioma": "Guaraní",
+  "termino": "oso",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T20:54:34.917Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "es",
+    "gl": "py"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=oso&hl=es&gl=py",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bear/gn/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwmH587Dsi9K0TosEP8hYr_Cr_-xWQi4Y7Tg&s",
+      "fuentePagina": "https://www.nationalgeographicla.com/animales/2020/03/oso-grizzly",
+      "titulo": "Oso grizzly | National Geographic | National Geographic",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwmH587Dsi9K0TosEP8hYr_Cr_-xWQi4Y7Tg&s",
+      "original": "https://static.nationalgeographicla.com/files/styles/image_3200/public/grizzly-bear_01.adapt_.1900.1.jpg?w=1900&h=1261"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bear/gn/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXjcIL3Bcxak5UscWPVA8OHvYf8RuiWoZrDw&s",
+      "fuentePagina": "https://es.wikipedia.org/wiki/Ursus_arctos",
+      "titulo": "Ursus arctos - Wikipedia, la enciclopedia libre",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXjcIL3Bcxak5UscWPVA8OHvYf8RuiWoZrDw&s",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/f/f4/Brown_bear_%28Ursus_arctos%29%2C_Viiksimo%2C_Kainuu_region%2C_Finland%2C_16_June_2018_%2843094873292%29.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bear/gn/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8ld7ji4wxEjXbJy70ftwHncdpj2F00WM7zQ&s",
+      "fuentePagina": "https://www.aran-park.com/es/animaux/ours-brun",
+      "titulo": "Oso pardo | Aran Park",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8ld7ji4wxEjXbJy70ftwHncdpj2F00WM7zQ&s",
+      "original": "https://static.wixstatic.com/media/2a4409_f4ac0f704ee34894a9b536961c28057f~mv2.jpg/v1/fill/w_2492,h_1902,al_c,q_90/IMG_9395_edited.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bear/gn/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvacAtvAYFRHdO1OTzAEM0EVKyt_exJLxp9w&s",
+      "fuentePagina": "https://www.istockphoto.com/es/ilustraciones/oso-sentado",
+      "titulo": "8.300+ Oso Sentado Ilustraciones de Stock, gráficos ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvacAtvAYFRHdO1OTzAEM0EVKyt_exJLxp9w&s",
+      "original": "https://media.istockphoto.com/id/1633798068/es/vector/oso-pardo-depredador-salvaje-de-la-naturaleza-de-dibujos-animados-oso-lindo-sentado.jpg?s=612x612&w=0&k=20&c=F6BWuHEZYNWxQG-Vv7YOFbuBrvaaFNPOrJmz3D-r3lk="
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bear/gn/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfoepHDF4vZD8JY0sRoEvZfYHL-cJG9kUIpA&s",
+      "fuentePagina": "https://ecologiaverde.elperiodico.com/osos-5689.html",
+      "titulo": "Osos: Características y alimentación",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfoepHDF4vZD8JY0sRoEvZfYHL-cJG9kUIpA&s",
+      "original": "https://cdn0.ecologiaverde.com/es/posts/9/8/6/osos_5689_orig.jpg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bear/gn/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUoZqY3sVbEW4W9m1DQbH7WDIByt8hiRNc1A&s",
+      "fuentePagina": "https://es.vecteezy.com/arte-vectorial/8386693-caricatura-oso-pardo",
+      "titulo": "oso pardo de dibujos animados 8386693 Vector en Vecteezy",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUoZqY3sVbEW4W9m1DQbH7WDIByt8hiRNc1A&s",
+      "original": "https://static.vecteezy.com/system/resources/previews/008/386/693/non_2x/cartoon-brown-bear-vector.jpg"
+    }
+  ]
+}

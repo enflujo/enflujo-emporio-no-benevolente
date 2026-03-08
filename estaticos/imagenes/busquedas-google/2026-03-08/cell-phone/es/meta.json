@@ -1,0 +1,71 @@
+{
+  "categoria": "cell phone",
+  "categoriaSlug": "cell-phone",
+  "idioma": "es",
+  "nombreIdioma": "Español",
+  "termino": "celular",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:24:39.277Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "es",
+    "gl": "es"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=celular&hl=es&gl=es",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/cell-phone/es/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkGWR4lKxjXGzttDrMK4-yl34RSrHkoSR9mA&s",
+      "fuentePagina": "https://www.segurilatam.com/actualidad/celular-desactualizado-riesgos-seguridad_20240126.html",
+      "titulo": "Cuáles son los riesgos de usar un celular desactualizado?",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkGWR4lKxjXGzttDrMK4-yl34RSrHkoSR9mA&s",
+      "original": "https://www.segurilatam.com/wp-content/uploads/sites/5/2024/01/smartphone-blanco.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/cell-phone/es/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHr0JGlLf429Gzm1XbhUP40GPQ1U25ohCetQ&s",
+      "fuentePagina": "https://www.amazon.es/SAMSUNG-Tel%C3%A9fono-Celular-Pantalla-Pulgadas/dp/B0DNRGQRB4",
+      "titulo": "SAMSUNG Teléfono Celular Galaxy A16, 128 GB + 4 GB de RAM, cámara de hasta  50 MP, Pantalla de 6.7 Pulgadas, NFC, IP54, batería de 5000 mAh, Color Gris  ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHr0JGlLf429Gzm1XbhUP40GPQ1U25ohCetQ&s",
+      "original": "https://m.media-amazon.com/images/I/51qEkCjW6wL._AC_UF894,1000_QL80_.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/cell-phone/es/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPBGjSVY_1tnvf0Vy0QyMUvSaD659100zOBQ&s",
+      "fuentePagina": "https://www.celulares.com/apple/iphone-x",
+      "titulo": "Apple iPhone X (iPhone 10, iPhone Ten, A1865, A1901 ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPBGjSVY_1tnvf0Vy0QyMUvSaD659100zOBQ&s",
+      "original": "https://www.celulares.com/fotos/apple-iphone-x-59552-g-alt.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/cell-phone/es/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQf1FctqDT8qg-n0UR58Kx3tsfbTsXGxQwezQ&s",
+      "fuentePagina": "https://compucellservice.com/product/celular-iphone-14/",
+      "titulo": "Celular Apple iPhone 14, y 14 Plus – Compucell Service.Com",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQf1FctqDT8qg-n0UR58Kx3tsfbTsXGxQwezQ&s",
+      "original": "https://compucellservice.com/wp-content/uploads/2024/12/Celular-Apple-iPhone-14-png1.png"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/cell-phone/es/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRskkdTBn7ofrQUyHEHKXsTH2PyiuQjogHy9Q&s",
+      "fuentePagina": "https://www.bbc.com/mundo/noticias-41247353",
+      "titulo": "Las novedades y dudas que plantea el nuevo iPhone X, el ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRskkdTBn7ofrQUyHEHKXsTH2PyiuQjogHy9Q&s",
+      "original": "https://ichef.bbci.co.uk/ace/ws/640/cpsprodpb/1303F/production/_97778877_1ac3023c-0172-46bc-99f3-21c5438d26c7.jpg.webp"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/cell-phone/es/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_N-aDKK5-ZnLARuopAi4eUDSQk5rZQaoA3w&s",
+      "fuentePagina": "https://www.amazon.es/Smartphones-Desbloqueados-Tel%C3%A9fonos-Celulares-Desbloqueado/dp/B0BJF8FLWV",
+      "titulo": "I14 ProMax Smartphones Android 12 Desbloqueados, Teléfono 4G ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_N-aDKK5-ZnLARuopAi4eUDSQk5rZQaoA3w&s",
+      "original": "https://m.media-amazon.com/images/I/61x+Sq3EnUL._AC_UF1000,1000_QL80_.jpg"
+    }
+  ]
+}

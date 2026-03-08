@@ -1,0 +1,71 @@
+{
+  "categoria": "person",
+  "categoriaSlug": "person",
+  "idioma": "en",
+  "nombreIdioma": "English",
+  "termino": "person",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T20:40:20.446Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "en",
+    "gl": "us"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=person&hl=en&gl=us",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/person/en/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLA994hpL3PMmq0scCuWOu0LGsjef49dyXVg&s",
+      "fuentePagina": "https://www.wilsoncenter.org/person/james-person",
+      "titulo": "James Person | Wilson Center",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLA994hpL3PMmq0scCuWOu0LGsjef49dyXVg&s",
+      "original": "https://www.wilsoncenter.org/sites/default/files/media/images/person/james-person-1.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/person/en/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCd24TUQ4TsSCvoey0waoDX_u4NGoWfujclg&s",
+      "fuentePagina": "https://www.psychologytoday.com/us/blog/ask-the-therapist/201809/why-would-people-dislike-a-nice-person",
+      "titulo": "Why Would People Dislike a Nice Person? | Psychology Today",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCd24TUQ4TsSCvoey0waoDX_u4NGoWfujclg&s",
+      "original": "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/field_blog_entry_images/2018-09/shutterstock_648907024.jpg?itok=7lrLYx-B"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/person/en/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxJIkRR5xaxAjrWIeuiGkZBj4cMK7JFkB2CQ&s",
+      "fuentePagina": "https://caricom.org/things-to-know-and-do-when-dealing-with-a-person-with-disability-who-has-contracted-the-coronavirus/",
+      "titulo": "THINGS TO KNOW AND DO WHEN DEALING WITH A PERSON WITH ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxJIkRR5xaxAjrWIeuiGkZBj4cMK7JFkB2CQ&s",
+      "original": "https://caricom.org/wp-content/uploads/Floyd-Morris-Remake-1024x879-1.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/person/en/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4H0zzOO3JtOpPCyKpiKm3tWV5UNOxD1CUzw&s",
+      "fuentePagina": "https://www.istockphoto.com/illustrations/person",
+      "titulo": "6,847,400+ Person Stock Illustrations, Royalty-Free Vector ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4H0zzOO3JtOpPCyKpiKm3tWV5UNOxD1CUzw&s",
+      "original": "https://media.istockphoto.com/id/2022468311/vector/single-man-stick-figure-icon.jpg?s=612x612&w=0&k=20&c=_xCA1Y3pMvigQ9mejEAM56skgfAdBorLRqwiKckuTws="
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/person/en/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvkhef03Xe6hgwxJvOOFeOJQT71NbRrMU34Q&s",
+      "fuentePagina": "https://en.wikipedia.org/wiki/Andrzej_Person",
+      "titulo": "Andrzej Person - Wikipedia",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvkhef03Xe6hgwxJvOOFeOJQT71NbRrMU34Q&s",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/a/a0/Andrzej_Person_Kancelaria_Senatu.jpg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/person/en/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTZVPw2dFD29ueJrnu93M5-mw4da6DxHAnxw&s",
+      "fuentePagina": "https://www.fluentu.com/blog/english/describing-people-in-english/",
+      "titulo": "How to Describe a Person in English with 154 Common Terms ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTZVPw2dFD29ueJrnu93M5-mw4da6DxHAnxw&s",
+      "original": "https://www.fluentu.com/blog/wp-content/uploads/site//4/african-american-young-mom-with-curly-hair-in-stylish-outfit-feeling-grateful-and-happy-receiving-surprise-gift-from-kid-holding-palms-on-heart-smiling.jpg"
+    }
+  ]
+}

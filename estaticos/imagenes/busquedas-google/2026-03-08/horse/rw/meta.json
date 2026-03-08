@@ -1,0 +1,71 @@
+{
+  "categoria": "horse",
+  "categoriaSlug": "horse",
+  "idioma": "rw",
+  "nombreIdioma": "Kinyarwanda",
+  "termino": "ifarasi",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T20:51:40.622Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "en",
+    "gl": "rw"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=ifarasi&hl=en&gl=rw",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/horse/rw/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxa5z41gGvqXKRlX_blB1AHkd-pQ-6nwvCAQ&s",
+      "fuentePagina": "https://www.kigalitoday.com/amakuru/mu-mahanga/article/yafashwe-yibye-ifarasi-agerageza-kujya-kuyihisha-muri-etaje",
+      "titulo": "Yafashwe yibye ifarasi agerageza kujya kuyihisha muri etaje ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxa5z41gGvqXKRlX_blB1AHkd-pQ-6nwvCAQ&s",
+      "original": "https://www.kigalitoday.com/IMG/png/ingamiya.png"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/horse/rw/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9BiXHyrSD2cGKIFxp5Tdxj5pZ70kxFM5gFg&s",
+      "fuentePagina": "https://www.youtube.com/watch?v=k6CKO2ADZQs",
+      "titulo": "Davis D - Ifarasi (Official Video)",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9BiXHyrSD2cGKIFxp5Tdxj5pZ70kxFM5gFg&s",
+      "original": "https://i.ytimg.com/vi/k6CKO2ADZQs/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLCJUw8I5nXi5I5VW6D1I5BPNIx_tA"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/horse/rw/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHurzw8hWs6KuF78zsU8BEvsPsvk6RpDCpDw&s",
+      "fuentePagina": "https://m.facebook.com/BooksnBeyond/photos/our-kinyarwanda-word-of-the-week-is-ifarasi-which-means-horse-in-englishalso-the/2876362932384291/",
+      "titulo": "Indiana - Our Kinyarwanda word of the week is Ifarasi, which ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHurzw8hWs6KuF78zsU8BEvsPsvk6RpDCpDw&s",
+      "original": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=2876362932384291"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/horse/rw/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQICYzDW5cFSq9eAzi_86TPsAe0W4mmL4kNQ&s",
+      "fuentePagina": "https://www.bbc.com/gahuza/amakuru/2016/02/160210_human_horse",
+      "titulo": "Ifarasi iramenya ko umuntu ashavuye canke anezerewe - BBC ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQICYzDW5cFSq9eAzi_86TPsAe0W4mmL4kNQ&s",
+      "original": "https://ichef.bbci.co.uk/ace/ws/640/amz/worldservice/live/assets/images/2016/01/03/160103132037_horse_640x360_thinkstock_nocredit.jpg.webp"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/horse/rw/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHhy9vuQ2VTVzL_Iqgi-CNi5gluY-lL04UlQ&s",
+      "fuentePagina": "https://www.jw.org/run/ivyasohowe/ibinyamakuru/g201410/ukuguru-kw-ifarasi/",
+      "titulo": "Ukuguru kw'ifarasi | Vyobo vyariyadukije?",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHhy9vuQ2VTVzL_Iqgi-CNi5gluY-lL04UlQ&s",
+      "original": "https://cms-imgp.jw-cdn.org/img/p/102014368/univ/art/102014368_univ_lsr_lg.jpg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/horse/rw/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRuGOTKDwy6OGwElrO5-a8PgPG-S6lgGGo8Q&s",
+      "fuentePagina": "https://m.facebook.com/Ukurikuvugwe/photos/munsi-murahasanga-link-uyifungure-maze-wumve-injyanaifarasi-ihetse-intsinziifara/3133819803372721/",
+      "titulo": "ARC - Munsi murahasanga link uyifungure maze wumve injyana ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRuGOTKDwy6OGwElrO5-a8PgPG-S6lgGGo8Q&s",
+      "original": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=3133819803372721"
+    }
+  ]
+}

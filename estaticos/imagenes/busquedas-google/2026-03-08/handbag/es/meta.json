@@ -1,0 +1,71 @@
+{
+  "categoria": "handbag",
+  "categoriaSlug": "handbag",
+  "idioma": "es",
+  "nombreIdioma": "Español",
+  "termino": "bolso",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T20:58:00.905Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "es",
+    "gl": "es"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=bolso&hl=es&gl=es",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/handbag/es/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7fjmFxvLzlT2_pF8PSCcvP83Oi7SK4ooIVw&s",
+      "fuentePagina": "https://banoffeebcn.com/products/bolso-shopping-bag-leather-navy-1?srsltid=AfmBOoqyGVbtacbbp452EF08PoeccMwww2E4XMk8MQSXiTWfbssu4uXh",
+      "titulo": "Bolso Shopping bag leather Navy",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7fjmFxvLzlT2_pF8PSCcvP83Oi7SK4ooIVw&s",
+      "original": "http://banoffeebcn.com/cdn/shop/files/72_16b8c803-3cb9-4817-a279-27b847f3d458.png?v=1692806063"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/handbag/es/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-fH1Rk9Xm8C7lFO2hGZQ0XL6rvQvH5jn_pg&s",
+      "fuentePagina": "https://www.misako.com/products/asian-bolso?srsltid=AfmBOoqiXt-OaZy9kJZr1sWtyzfB00YrrigzG7F025THzdopj3ktB7A0",
+      "titulo": "Bolsos de tipo Shopper | Compra el bolso Asian - MISAKO – Misako",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-fH1Rk9Xm8C7lFO2hGZQ0XL6rvQvH5jn_pg&s",
+      "original": "http://www.misako.com/cdn/shop/files/3500021-misako-asian-bolso_1.jpg?v=1763973591"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/handbag/es/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3CTbjwKzWaoMF3tZWBVm_iqGZrOMkrGMr2Q&s",
+      "fuentePagina": "https://envezdeflores.com/producto/bolso-piel-personalizado-amak-tachuelas/",
+      "titulo": "BOLSO PIEL PERSONALIZADO AMAK TACHUELAS - En vez de Flores",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3CTbjwKzWaoMF3tZWBVm_iqGZrOMkrGMr2Q&s",
+      "original": "https://envezdeflores.com/wp-content/uploads/2021/12/Bolso-personalizado-piel-amak-tachuelas-camel-bordado.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/handbag/es/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgh2JDdy3gJlRKUqJUM61h5lfkFEJx7HSb_g&s",
+      "fuentePagina": "https://www.lodi.es/es/accesorios/5615-bolso-charme-rafia-natural-negro-bolsos-mujer-online.html?srsltid=AfmBOooNwBg80jtS9lmCxUmjIIOdmegBIZkB1bbIPvDRxsuzH70tZEAZ",
+      "titulo": "Bolso shopper grande efecto rafia de color negro. I LODI Bolsos de mujer  online.",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgh2JDdy3gJlRKUqJUM61h5lfkFEJx7HSb_g&s",
+      "original": "https://www.lodi.es/68953-large_default/bolso-charme-rafia-natural-negro-bolsos-mujer-online.jpg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/handbag/es/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8C5UyvCtO4WDR1eSYbSkKFpH1omwcUn6puw&s",
+      "fuentePagina": "https://banoffeebcn.com/products/bolso-federica-kaki?srsltid=AfmBOoqXW0RcmVRWQdWsboG6IamfgwCBFB2eFLfTpG3Tttti7vo9UNvy",
+      "titulo": "Bolso Federica Kaki",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8C5UyvCtO4WDR1eSYbSkKFpH1omwcUn6puw&s",
+      "original": "https://banoffeebcn.com/cdn/shop/products/66CF1E98-4E4C-414F-8573-59600615C204.jpg?v=1619457798&width=1946"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/handbag/es/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGja0uEmTfTBaqKrCWgr-QbunItCxPPr4EQA&s",
+      "fuentePagina": "https://mimique.es/products/toranda-negro",
+      "titulo": "Bolso baguette TORANDA de Mimique. Made in Spain. Piel de gran calidad",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGja0uEmTfTBaqKrCWgr-QbunItCxPPr4EQA&s",
+      "original": "http://mimique.es/cdn/shop/files/MIMQUE_BOLSO_BAGUETTE_PIEL_TORANDA_NEGRO.jpg?v=1726908634&width=2048"
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "categoria": "dog",
+  "categoriaSlug": "dog",
+  "idioma": "zu",
+  "nombreIdioma": "isiZulu",
+  "termino": "inja",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T20:51:12.689Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "zu",
+    "gl": "za"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=inja&hl=zu&gl=za",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/dog/zu/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRoWJo83Y0VM6qHiDI87GS8Xk0St2yfMHu5rg&s",
+      "fuentePagina": "https://www.deezer.com/en/artist/1429977",
+      "titulo": "Inja: albums, songs, concerts | Deezer",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRoWJo83Y0VM6qHiDI87GS8Xk0St2yfMHu5rg&s",
+      "original": "https://cdn-images.dzcdn.net/images/artist/10f7b8ee2b5bcb6991f056868c8c3df5/1900x1900-000000-80-0-0.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/dog/zu/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSILL9zlCIs1ba9-qbCJoZQyby5O0FLtaT8Pw&s",
+      "fuentePagina": "https://ukf.com/read/get-to-know-inja/",
+      "titulo": "Get To Know: Inja • UKF",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSILL9zlCIs1ba9-qbCJoZQyby5O0FLtaT8Pw&s",
+      "original": "https://ukf.com/wp-content/uploads/2023/11/71-2.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/dog/zu/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQT7uySearsGKa6pzLvZcW8lWHvbvky4FM6Xg&s",
+      "fuentePagina": "https://www.facebook.com/everydayzulu/posts/todays-isizulu-word-is-inja-inja-is-a-dog-in-the-accompanying-image-we-have-a-le/1923154604686426/",
+      "titulo": "Today's isiZulu word is inja. Inja is a dog. In the ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQT7uySearsGKa6pzLvZcW8lWHvbvky4FM6Xg&s",
+      "original": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=1923154584686428"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/dog/zu/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwrsADB223GbB-csnJUG9BxBQ9Ok7MGV8T7Q&s",
+      "fuentePagina": "https://ukf.com/read/everything-you-need-to-know-about-inja-blank-pages/",
+      "titulo": "Everything You Need To Know About Inja – Blank Pages • UKF",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwrsADB223GbB-csnJUG9BxBQ9Ok7MGV8T7Q&s",
+      "original": "https://ukf.com/wp-content/uploads/2023/11/inja-1.jpg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/dog/zu/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQP52BTAaBx9NZ2cM33Um3hhPPXUlUJ7LaAfw&s",
+      "fuentePagina": "https://www.facebook.com/photo.php?fbid=1123675765788293&set=a.202622884560257&id=100044376401489",
+      "titulo": "Inja - Inja added a new photo — in Cambridge, UK.",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQP52BTAaBx9NZ2cM33Um3hhPPXUlUJ7LaAfw&s",
+      "original": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=1123675765788293"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/dog/zu/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHfwVkBb5AWcgVm3yn4PQUwsafiMnAyTWnjA&s",
+      "fuentePagina": "https://zu.wikipedia.org/wiki/Inja",
+      "titulo": "Inja - Wikipedia",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHfwVkBb5AWcgVm3yn4PQUwsafiMnAyTWnjA&s",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Coat_types_3.jpg/250px-Coat_types_3.jpg"
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "categoria": "surfboard",
+  "categoriaSlug": "surfboard",
+  "idioma": "hi",
+  "nombreIdioma": "हिन्दी",
+  "termino": "सर्फ़बोर्ड",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:05:01.342Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "hi",
+    "gl": "in"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=%E0%A4%B8%E0%A4%B0%E0%A5%8D%E0%A4%AB%E0%A4%BC%E0%A4%AC%E0%A5%8B%E0%A4%B0%E0%A5%8D%E0%A4%A1&hl=hi&gl=in",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/surfboard/hi/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTT5DsyKFgHbEfK4u3BR6vCzYPeJJpRK0Tohw&s",
+      "fuentePagina": "https://www.amazon.in/-/hi/BNF%C2%AE%E0%A4%B8%E0%A4%B0%E0%A5%8D%E0%A4%AB%E0%A4%BC%E0%A4%AC%E0%A5%8B%E0%A4%B0%E0%A5%8D%E0%A4%A1-%E0%A4%B2%E0%A5%89%E0%A4%A8%E0%A5%8D%E0%A4%97%E0%A4%AC%E0%A5%8B%E0%A4%B0%E0%A5%8D%E0%A4%A1-Inflatable-%E0%A4%B8%E0%A5%8D%E0%A4%AA%E0%A5%8B%E0%A4%B0%E0%A5%8D%E0%A4%9F%E0%A4%BF%E0%A4%82%E0%A4%97-%E0%A4%B8%E0%A4%B0%E0%A5%8D%E0%A4%AB%E0%A4%BC%E0%A4%AC%E0%A5%8B%E0%A4%B0%E0%A5%8D%E0%A4%A1/dp/B0F5W9VHBV",
+      "titulo": "BNF®सर्फ़बोर्ड फिन शीसे रेशा ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTT5DsyKFgHbEfK4u3BR6vCzYPeJJpRK0Tohw&s",
+      "original": "https://m.media-amazon.com/images/I/518YiwEeJtL._AC_UF894,1000_QL80_.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/surfboard/hi/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTz1B7hHGoBy8-A9oJ0WzxcMSreIlRkWwimmg&s",
+      "fuentePagina": "https://www.amazon.in/-/hi/Outus-%E0%A4%B8%E0%A4%B0%E0%A5%8D%E0%A4%AB%E0%A4%BC%E0%A4%AC%E0%A5%8B%E0%A4%B0%E0%A5%8D%E0%A4%A1-%E0%A4%97%E0%A5%8D%E0%A4%B0%E0%A5%80%E0%A4%B7%E0%A5%8D%E0%A4%AE%E0%A4%95%E0%A4%BE%E0%A4%B2%E0%A5%80%E0%A4%A8-%E0%A4%AC%E0%A5%81%E0%A4%B2%E0%A5%87%E0%A4%9F%E0%A4%BF%E0%A4%A8-%E0%A4%89%E0%A4%B7%E0%A5%8D%E0%A4%A3%E0%A4%95%E0%A4%9F%E0%A4%BF%E0%A4%AC%E0%A4%82%E0%A4%A7%E0%A5%80%E0%A4%AF/dp/B089NP1J9C",
+      "titulo": "Outus 60 पीसी सर्फ़बोर्ड कटआउट सजावट ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTz1B7hHGoBy8-A9oJ0WzxcMSreIlRkWwimmg&s",
+      "original": "https://m.media-amazon.com/images/I/71KZX4xKPZL.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/surfboard/hi/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTege5BmBk_mHyzyCkhLvu_MSsSNADbV9Idsw&s",
+      "fuentePagina": "https://www.etsy.com/in-en/listing/1612766074/6-ocean-surfboard-with-resin-waves",
+      "titulo": "Buy 6' Ocean Surfboard With Resin Waves, Surfboard Wall Art ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTege5BmBk_mHyzyCkhLvu_MSsSNADbV9Idsw&s",
+      "original": "https://i.etsystatic.com/44687569/r/il/1b32ef/5579451852/il_fullxfull.5579451852_hkql.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/surfboard/hi/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR31jkmvpMgX3i5cjejkaSGQEBVWrIlg0iMwg&s",
+      "fuentePagina": "https://www.amazon.in/Surfboard-Ben-Marcus-ebook/dp/B004QGY07S",
+      "titulo": "The Surfboard: Art, Style, Stoke eBook : Marcus, Ben, Linden ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR31jkmvpMgX3i5cjejkaSGQEBVWrIlg0iMwg&s",
+      "original": "https://m.media-amazon.com/images/I/81Rh6wSgifL._UF1000,1000_QL80_.jpg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/surfboard/hi/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBaVmmTJLgIhyQVmZI6BTuVbgu4KimJ_B-fA&s",
+      "fuentePagina": "https://www.oceanatlanticrentals.com/watersports/foam-surfboard/",
+      "titulo": "Outer Banks Foam Surfboards, OBX Surf Rental | OAR",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBaVmmTJLgIhyQVmZI6BTuVbgu4KimJ_B-fA&s",
+      "original": "https://www.oceanatlanticrentals.com/wp-content/uploads/soft-surfboard-new-obx.jpg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/surfboard/hi/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRoVUi7ogineNRCAAFJ_YzzP_Sq_sNtwyWhtA&s",
+      "fuentePagina": "https://www.degree33surfboards.com/products/68-weapon-shortboard-surfboard-poly-1?srsltid=AfmBOooqxoDWHeZ8PWtIYT8ruhpLNvaZZcNkFcmp84pA57VV8O97eYL5",
+      "titulo": "6'8\" Rocket Fish Shortboard Surfboard (Poly) – Degree 33 ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRoVUi7ogineNRCAAFJ_YzzP_Sq_sNtwyWhtA&s",
+      "original": "http://www.degree33surfboards.com/cdn/shop/files/ROCKET-FISH-SHORTBOARD-SURFBOARD-WITH-CARBON-_NEXGEN-EPOXY_copy.jpg?v=1741205764"
+    }
+  ]
+}

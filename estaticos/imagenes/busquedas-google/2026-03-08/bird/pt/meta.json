@@ -1,0 +1,71 @@
+{
+  "categoria": "bird",
+  "categoriaSlug": "bird",
+  "idioma": "pt",
+  "nombreIdioma": "Português",
+  "termino": "pássaro",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T20:50:11.212Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "pt",
+    "gl": "br"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=p%C3%A1ssaro&hl=pt&gl=br",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bird/pt/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPo-PoxxdmZwvdUpVlW17Muz4fdvwlDvycig&s",
+      "fuentePagina": "https://www.petz.com.br/blog/passaro-tuim/",
+      "titulo": "Pássaro Tuim: conheça curiosidades sobre a ave | Petz",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPo-PoxxdmZwvdUpVlW17Muz4fdvwlDvycig&s",
+      "original": "https://www.petz.com.br/blog/wp-content/uploads/2022/05/passaro-tuim-interna-1.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bird/pt/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgJ4ishxmIR1QmRSD8S6XcWJ7Ka6PSNSFuIg&s",
+      "fuentePagina": "https://www.petz.com.br/blog/passaro-domestico/",
+      "titulo": "Conheça as principais espécies de pássaro doméstico | Petz",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgJ4ishxmIR1QmRSD8S6XcWJ7Ka6PSNSFuIg&s",
+      "original": "https://www.petz.com.br/blog/wp-content/uploads/2020/01/passaros-domesticos.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bird/pt/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6D4oUnR1vyfCXIQKIp8SOQ76GpbIUh56eLA&s",
+      "fuentePagina": "https://brasilescola.uol.com.br/biologia/diferenca-entre-ave-passaro.htm",
+      "titulo": "Diferença entre ave e pássaro - Brasil Escola",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6D4oUnR1vyfCXIQKIp8SOQ76GpbIUh56eLA&s",
+      "original": "https://s5.static.brasilescola.uol.com.br/img/2019/06/arara-azul.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bird/pt/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1Od1jgpDXp41lbzjhW_vu0TiaQZwLIEsQsg&s",
+      "fuentePagina": "https://all.accor.com/a/pt-br/limitless/thematics/outdoors/passaros-brasileiros-birdwatching-no-brasil.html",
+      "titulo": "Pássaros brasileiros: quais os principais e onde observar",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1Od1jgpDXp41lbzjhW_vu0TiaQZwLIEsQsg&s",
+      "original": "https://aem-all.accor.com/content/dam/all/hubs/americas/latam/generic-images/all-magazine/passaros-brasileiros-birdwatching-no-brasil-2024-1.jpg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bird/pt/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBZMskI3GPbCGvcR1W2KQrVgSPblxaq6qfkQ&s",
+      "fuentePagina": "https://www.brasildefato.com.br/colunista/com-ciencia/2023/11/17/toda-ave-e-um-passaro/",
+      "titulo": "Toda ave é um pássaro? | Brasil de Fato",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBZMskI3GPbCGvcR1W2KQrVgSPblxaq6qfkQ&s",
+      "original": "https://www.brasildefato.com.br/wp-content/uploads/2024/09/image_processing20231117-3270-1s3buqq.jpeg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bird/pt/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4JgsydTMamASG-9UNZJdQNj60v55o7fduaw&s",
+      "fuentePagina": "https://www.petz.com.br/blog/diferenca-entre-ave-e-passaro/",
+      "titulo": "Diferença entre ave e pássaro? Entenda isso | Petz",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4JgsydTMamASG-9UNZJdQNj60v55o7fduaw&s",
+      "original": "https://www.petz.com.br/blog/wp-content/uploads/2020/04/diferenca-entre-aves-e-passaros.jpg"
+    }
+  ]
+}

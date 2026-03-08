@@ -1,0 +1,71 @@
+{
+  "categoria": "book",
+  "categoriaSlug": "book",
+  "idioma": "en",
+  "nombreIdioma": "English",
+  "termino": "book",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:27:59.730Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "en",
+    "gl": "us"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=book&hl=en&gl=us",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/book/en/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTW78GtG0TVe0JqO-8hJVnv_RQC8xPRFONL1Q&s",
+      "fuentePagina": "https://www.neh.gov/news/press-release/2015-01-15/humanities-open-book",
+      "titulo": "Humanities Open Book: Unlocking Great Books | National ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTW78GtG0TVe0JqO-8hJVnv_RQC8xPRFONL1Q&s",
+      "original": "https://www.neh.gov/sites/default/files/styles/medium/public/2018-06/openbooks.jpg?itok=kUdGYpx_"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/book/en/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQe1BxDg12oySTSH1PsI1rfjSYTDbmL0XFfLg&s",
+      "fuentePagina": "https://writingcooperative.com/what-you-need-to-know-before-you-publish-your-book-b91a32862738",
+      "titulo": "What You Need to Know Before You Publish Your Book | by ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQe1BxDg12oySTSH1PsI1rfjSYTDbmL0XFfLg&s",
+      "original": "https://miro.medium.com/v2/resize:fit:1400/1*s_BUOauMhzRZL0dBiCExww.png"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/book/en/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-5Ei0F_j0MnzOfLg0x-GqTVcgss3x_yogXw&s",
+      "fuentePagina": "https://www.scientificamerican.com/podcast/episode/unread-books-at-home-still-spark-literacy-habits/",
+      "titulo": "Unread Books at Home Still Spark Literacy Habits ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-5Ei0F_j0MnzOfLg0x-GqTVcgss3x_yogXw&s",
+      "original": "https://static.scientificamerican.com/sciam/cache/file/1DDFE633-2B85-468D-B28D05ADAE7D1AD8_source.jpg?w=1200"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/book/en/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRL3ykIyCmgU8jTG6ZF89mBm7svs5V8jQbZSA&s",
+      "fuentePagina": "https://dreieck.com/en/drawing/book/",
+      "titulo": "How to Draw a Book 📖 (opened or closed) - Easy step by step",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRL3ykIyCmgU8jTG6ZF89mBm7svs5V8jQbZSA&s",
+      "original": "https://dreieck.com/en/wp-content/uploads/sites/2/2023/03/opened-book-07-filling-the-outline-850x638.png"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/book/en/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRoRywYAzgXU9lIXcmOA6u96CdDWyKDbOrSIQ&s",
+      "fuentePagina": "https://en.wikipedia.org/wiki/Book",
+      "titulo": "Book - Wikipedia",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRoRywYAzgXU9lIXcmOA6u96CdDWyKDbOrSIQ&s",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Gutenberg_Bible%2C_Lenox_Copy%2C_New_York_Public_Library%2C_2009._Pic_01.jpg/500px-Gutenberg_Bible%2C_Lenox_Copy%2C_New_York_Public_Library%2C_2009._Pic_01.jpg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/book/en/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHYwsfGUilz15EVliIzBfwHmo8OU91Yc5uEw&s",
+      "fuentePagina": "https://www.istockphoto.com/photos/open-book-isolated",
+      "titulo": "79,500+ Open Book Isolated Stock Photos, Pictures & Royalty ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHYwsfGUilz15EVliIzBfwHmo8OU91Yc5uEw&s",
+      "original": "https://media.istockphoto.com/id/495477978/photo/open-book.jpg?s=612x612&w=0&k=20&c=vwJ6__M7CVPdjkQFUv9j2pr7QJiQ9bWW_5jXjR9TcjY="
+    }
+  ]
+}

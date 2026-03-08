@@ -1,0 +1,71 @@
+{
+  "categoria": "laptop",
+  "categoriaSlug": "laptop",
+  "idioma": "en",
+  "nombreIdioma": "English",
+  "termino": "laptop",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:21:31.426Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "en",
+    "gl": "us"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=laptop&hl=en&gl=us",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/laptop/en/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhtJp5Zc90x75MI0gbNM5DF3JXpEbLUo_zPA&s",
+      "fuentePagina": "https://www.nytimes.com/wirecutter/reviews/best-laptops/",
+      "titulo": "The 13 Best Laptops of 2026 | Reviews by Wirecutter",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhtJp5Zc90x75MI0gbNM5DF3JXpEbLUo_zPA&s",
+      "original": "https://cdn.thewirecutter.com/wp-content/media/2024/07/laptopstopicpage-2048px-3685-2x1-1.jpg?width=2048&quality=75&crop=2:1&auto=webp"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/laptop/en/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZQ5ZIIveHfwjsHQ1q68xfgUZDg-WK-0VHHw&s",
+      "fuentePagina": "https://www.walmart.com/ip/HP-15-6-Ryzen-5-8GB-256GB-Laptop-Rose-Gold/481276983",
+      "titulo": "HP 15.6\"\" Laptop, AMD Ryzen 5, 8GB/256GB, Rose Gold ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZQ5ZIIveHfwjsHQ1q68xfgUZDg-WK-0VHHw&s",
+      "original": "https://i5.walmartimages.com/seo/HP-15-6-Ryzen-5-8GB-256GB-Laptop-Rose-Gold_36809cf3-480b-47a5-94f0-e1d5e70c58c0_3.fcc0d6494b0e279a13c32c80c28abfa3.jpeg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/laptop/en/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgM_vG0C7IJYOSE_BXFylzOBOknzryzFqyNg&s",
+      "fuentePagina": "https://www.amazon.com/HP-Pavilion-i7-11370H-Micro-Edge-Anti-Glare/dp/B09NL8JTB6",
+      "titulo": "Amazon.com: HP Pavilion 15.6\" FHD Laptop (2022 Latest Model ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgM_vG0C7IJYOSE_BXFylzOBOknzryzFqyNg&s",
+      "original": "https://m.media-amazon.com/images/I/61LdecwlWYL.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/laptop/en/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1SbGmy9x7AGkFuq3RB6pjCw0tON0ZeK5sUA&s",
+      "fuentePagina": "https://www.cnet.com/tech/computing/best-laptop/",
+      "titulo": "Best Laptops of 2026: Top Picks Tested by CNET - CNET",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1SbGmy9x7AGkFuq3RB6pjCw0tON0ZeK5sUA&s",
+      "original": "https://www.cnet.com/a/img/resize/bb8a2aa9c31f8ec08d82228a51eabf05f00e54d2/hub/2025/03/10/d190e21d-9634-440d-8f33-396c8cb3da6a/m4-macbook-air-15-11.jpg?auto=webp&height=500"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/laptop/en/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSiQrqGNNTR7xwgo2dIb0enMOFgw_5N3X26dA&s",
+      "fuentePagina": "https://www.nytimes.com/wirecutter/reviews/best-laptops/",
+      "titulo": "The 13 Best Laptops of 2026 | Reviews by Wirecutter",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSiQrqGNNTR7xwgo2dIb0enMOFgw_5N3X26dA&s",
+      "original": "https://cdn.thewirecutter.com/wp-content/media/2024/07/laptopstopicpage-2048px-3685-3x2-1.jpg?auto=webp&quality=75&crop=1:1,smart&width=1024"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/laptop/en/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSb74VImnaEEY54ZnwTBzFBDlWqcnTei0xzzw&s",
+      "fuentePagina": "https://www.microsoft.com/en-us/d/surface-laptop-6-for-business-certified-refurbished/90xd83jbvs4v",
+      "titulo": "Refurbished Surface Laptop 6 13.5\" or 15\", i5/i7 - See Specs ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSb74VImnaEEY54ZnwTBzFBDlWqcnTei0xzzw&s",
+      "original": "https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/SPZ1B-Platinum-13-BB-00?qlt=90&wid=1253&hei=705&extendN=0.12,0.12,0.12,0.12&bgc=FFFFFFFF&fmt=jpg"
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "categoria": "mouse",
+  "categoriaSlug": "mouse",
+  "idioma": "rw",
+  "nombreIdioma": "Kinyarwanda",
+  "termino": "mausu",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:22:17.440Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "en",
+    "gl": "rw"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=mausu&hl=en&gl=rw",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/mouse/rw/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIXtohvhoC-OlPfdgiYOGx8pkoYloXJldBPg&s",
+      "fuentePagina": "https://www.souschef.co.uk/products/white-mausu-peanut-rayu-240g",
+      "titulo": "White Mausu Peanut Rayu 240g | Buy online at Sous Chef UK",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIXtohvhoC-OlPfdgiYOGx8pkoYloXJldBPg&s",
+      "original": "http://www.souschef.co.uk/cdn/shop/files/W_PeanutRayu_1_564749e1-2ea9-42fa-b77f-19d1ad9ae50f.jpg?v=1720194142"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/mouse/rw/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQklHA8WALXaIvD9kdjGOWwvOEbqUtyoX2w6Q&s",
+      "fuentePagina": "https://www.healthysupplies.co.uk/peanut-rayu-240g-white-mausu.html?srsltid=AfmBOor7TiTwr8h7MOO-IH57uPsemAFgt1z-zib5goUxYivOrlT-lUYn",
+      "titulo": "Peanut Rayu 240g (White Mausu) | Healthy Supplies",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQklHA8WALXaIvD9kdjGOWwvOEbqUtyoX2w6Q&s",
+      "original": "https://www.healthysupplies.co.uk/pics/800x800/peanut-rayu-240g-white-mausu-WTM01.webp?tsid=1770004810"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/mouse/rw/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjtHc8-l5qqnHaxaTFMwN7HyvUneaTR3q0Hw&s",
+      "fuentePagina": "https://somersetfoodie.com/products/white-mausu-extra-hot-peanut-rayu-240g?srsltid=AfmBOoqWu_idh4sTqpSIlFTe8_UPDCMg0XWmkZ3fLxeB1olOljWj79Eb",
+      "titulo": "White Mausu Extra Hot Peanut Rayu 240g",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjtHc8-l5qqnHaxaTFMwN7HyvUneaTR3q0Hw&s",
+      "original": "http://somersetfoodie.com/cdn/shop/files/White-Mausu-Extra-Hot-Peanut-Rayu-240g.jpg?v=1689767980"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/mouse/rw/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6GZUxYSwB-77EqG0L3ynTSPTnesF38C6yKw&s",
+      "fuentePagina": "https://www.whitemausu.com/products/extra-hot-peanut-rayu-2?srsltid=AfmBOorhsPY_wNcdJLb5QLQspEWSAn_7RihYwUsEm3gZ1Jth4rIGNaWR",
+      "titulo": "Peanut Rāyu Extra Hot – White Mausu",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6GZUxYSwB-77EqG0L3ynTSPTnesF38C6yKw&s",
+      "original": "https://www.whitemausu.com/cdn/shop/files/spicy-peanut-rayu-umami.png?v=1748434563&width=533"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/mouse/rw/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCJ6obaM3OiiX05IoTugI-NXHdiwRJ4bkRnw&s",
+      "fuentePagina": "https://www.whitemausu.com/products/peanut-rayu?srsltid=AfmBOoqe2sAAqjB-HAWz7p1ZGlhlpbB1LKifRieGTkrUb6K8hEYH9f6b",
+      "titulo": "Peanut Rāyu – Salty & Sweet. A flavour bomb in a jar ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCJ6obaM3OiiX05IoTugI-NXHdiwRJ4bkRnw&s",
+      "original": "https://www.whitemausu.com/cdn/shop/files/rayu-peanut-chilli-oil_400x.png?v=1749118026"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/mouse/rw/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5-cMn8R3X0qodMlSXljqu-TUFI0bE9VfN4w&s",
+      "fuentePagina": "https://www.whitemausu.com/?srsltid=AfmBOoo6rpHLtx0plbvy0IKfGm8xVqYSHhPuY54kD24IpuTaC-FV_Xua",
+      "titulo": "Delicious Banging Chilli Oils & Rāyu | Irish-Made, Everyday ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5-cMn8R3X0qodMlSXljqu-TUFI0bE9VfN4w&s",
+      "original": "https://www.whitemausu.com/cdn/shop/files/smoky-chilli-oil.png?v=1738848117&width=560"
+    }
+  ]
+}

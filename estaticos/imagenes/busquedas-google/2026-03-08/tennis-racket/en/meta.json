@@ -1,0 +1,71 @@
+{
+  "categoria": "tennis racket",
+  "categoriaSlug": "tennis-racket",
+  "idioma": "en",
+  "nombreIdioma": "English",
+  "termino": "tennis racket",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:05:16.925Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "en",
+    "gl": "us"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=tennis%20racket&hl=en&gl=us",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/tennis-racket/en/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9_Jqk0X_pzPgROysYIramtRQyoSzu31UMOg&s",
+      "fuentePagina": "https://www.amazon.com/Wilson-Unstrung-Performance-Tennis-Racket/dp/B0CTR3GZBG",
+      "titulo": "Amazon.com: Wilson Blade 98 (18x20) V9 Strung Performance ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9_Jqk0X_pzPgROysYIramtRQyoSzu31UMOg&s",
+      "original": "https://m.media-amazon.com/images/I/51edfF8l21L._AC_UF1000,1000_QL80_.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/tennis-racket/en/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnrlrhlAdYR0Q05zfNGwkRI1WR1Dr00r4S1g&s",
+      "fuentePagina": "https://www.walmart.com/ip/Wilson-Tour-Slam-Lite-Adult-Tennis-Racket-Blue-112-sq-in-10-3-ounces/831399123",
+      "titulo": "Wilson Tour Slam Lite Adult Tennis Racket - Blue, 112 sq. in ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnrlrhlAdYR0Q05zfNGwkRI1WR1Dr00r4S1g&s",
+      "original": "https://i5.walmartimages.com/seo/Wilson-Tour-Slam-Lite-Adult-Tennis-Racket-Blue-112-sq-in-10-3-ounces_a7e40673-4e04-42b7-825e-acb7b07d906b.8e46a224a883e2dced1bcb15ca14f4c2.jpeg?odnHeight=768&odnWidth=768&odnBg=FFFFFF"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/tennis-racket/en/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmLbv3azuLLJyj4AXe0RXmx3QjMaoagwM1aA&s",
+      "fuentePagina": "https://www.functionaltennis.com/products/functional-tennis-saber?srsltid=AfmBOorwa35YkGThDehu2tkJOZtOx5heGov3wH56n9LMua1IYiy7v4Bg",
+      "titulo": "Functional Tennis Saber",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmLbv3azuLLJyj4AXe0RXmx3QjMaoagwM1aA&s",
+      "original": "https://www.functionaltennis.com/cdn/shop/products/FunctionalTennisSaber1a_1080x.jpg?v=1651237939"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/tennis-racket/en/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-P0mJxbeQbTu7dhlbp31UxmONZmGaoZNXYw&s",
+      "fuentePagina": "https://sportstationhk.com/products/wilson-intrigue-pink-tennis-racket-unstrung-264g-prestrung",
+      "titulo": "Wilson Intrigue SE Pink Tennis Racket (Unstrung 264g) (Prestrung) - 2 (4  1/4)",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-P0mJxbeQbTu7dhlbp31UxmONZmGaoZNXYw&s",
+      "original": "https://sportstationhk.com/cdn/shop/files/AD078992-5047-4CBB-A149-AF35DA0A3966-scaled.jpg?v=1731675666&width=1946"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/tennis-racket/en/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfgf7e4_sxDGGvqxxs_B7irkNUveYhh9Fskg&s",
+      "fuentePagina": "https://www.usa.tenxpro.com/products/xcalibre-tennis-racquet-300g",
+      "titulo": "XCALIBRE Tennis Racket - 300G",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfgf7e4_sxDGGvqxxs_B7irkNUveYhh9Fskg&s",
+      "original": "http://www.usa.tenxpro.com/cdn/shop/products/test-racquet-6_98dfd5bb-93b9-4594-ad32-4b86a57ffb67_1200x1200.jpg?v=1662690231"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/tennis-racket/en/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVokdJS-xR8VhUTJw1TKbtWMFv0zs96wwldQ&s",
+      "fuentePagina": "https://www.stigasports.com/en/product/supreme-26-jr",
+      "titulo": "Lipscore Real Reviews",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVokdJS-xR8VhUTJw1TKbtWMFv0zs96wwldQ&s",
+      "original": "https://www.stigasports.com/_next/image?url=https%3A%2F%2Fstigasports.centracdn.net%2Fclient%2Fdynamic%2Fimages%2F5005_d109af1a5e-tennis-racket-supreme-26-jr-black_light-blue-6205-0116-00-1-full.jpg&w=1200&q=75"
+    }
+  ]
+}

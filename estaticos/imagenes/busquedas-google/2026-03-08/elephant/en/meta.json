@@ -1,0 +1,71 @@
+{
+  "categoria": "elephant",
+  "categoriaSlug": "elephant",
+  "idioma": "en",
+  "nombreIdioma": "English",
+  "termino": "elephant",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T20:53:30.504Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "en",
+    "gl": "us"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=elephant&hl=en&gl=us",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/elephant/en/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJ4gKbPflhZPWHrbG3To966R1D1E5RbyjBXg&s",
+      "fuentePagina": "https://en.wikipedia.org/wiki/Elephant",
+      "titulo": "Elephant - Wikipedia",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJ4gKbPflhZPWHrbG3To966R1D1E5RbyjBXg&s",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/African_Bush_Elephant.jpg/250px-African_Bush_Elephant.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/elephant/en/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFnDnhqw5kPYKQ8g0lmNj6N-lpRTbyo_tJhw&s",
+      "fuentePagina": "https://www.livescience.com/27320-elephants.html",
+      "titulo": "Elephants: Facts about Earth's largest living land animals ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFnDnhqw5kPYKQ8g0lmNj6N-lpRTbyo_tJhw&s",
+      "original": "https://cdn.mos.cms.futurecdn.net/TVR7E3Kuzg2iRhKkjZPeWk.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/elephant/en/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLzgeHnYbg7iiXtsmCs9RiAY6LUmWBbj9sRQ&s",
+      "fuentePagina": "https://kids.nationalgeographic.com/animals/mammals/facts/african-elephant",
+      "titulo": "African Elephant | National Geographic Kids",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLzgeHnYbg7iiXtsmCs9RiAY6LUmWBbj9sRQ&s",
+      "original": "https://i.natgeofe.com/k/e7ba8001-23ac-457f-aedb-abd5f2fdda62/moms5.png?wp=1&w=1084.125&h=745.5"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/elephant/en/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSamvTpkKyot8rCC2ZtWxYyokyQfr-1o9Pqnw&s",
+      "fuentePagina": "https://www.britannica.com/animal/elephant-mammal",
+      "titulo": "Elephant | Description, Habitat, Scientific Names, Weight ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSamvTpkKyot8rCC2ZtWxYyokyQfr-1o9Pqnw&s",
+      "original": "https://cdn.britannica.com/02/152302-050-1A984FCB/African-savanna-elephant.jpg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/elephant/en/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQ2HVlZh7BbFse6K-9K0pAbhovrmfx9HFW9g&s",
+      "fuentePagina": "https://www.scientificamerican.com/article/male-african-elephants-were-once-thought-to-be-solitary-new-research-reveals/",
+      "titulo": "Male African Elephants Were Once Thought to Be Solitary—New ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQ2HVlZh7BbFse6K-9K0pAbhovrmfx9HFW9g&s",
+      "original": "https://static.scientificamerican.com/dam/m/73063e2264f86bda/original/sa0525OCon08.jpg?m=1744135349.749&w=900"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/elephant/en/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQan1RgPcaOlW34pk7eAomBhdWRdo4kG15XTw&s",
+      "fuentePagina": "https://www.worldanimalprotection.ca/education/animal-facts/elephant-facts/",
+      "titulo": "Elephant facts | World Animal Protection",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQan1RgPcaOlW34pk7eAomBhdWRdo4kG15XTw&s",
+      "original": "https://www.worldanimalprotection.ca/cdn-cgi/image/width=1280,format=auto/siteassets/shutterstock_2118427715_cropped.jpg"
+    }
+  ]
+}

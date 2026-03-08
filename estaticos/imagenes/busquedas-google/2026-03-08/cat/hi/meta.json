@@ -1,0 +1,71 @@
+{
+  "categoria": "cat",
+  "categoriaSlug": "cat",
+  "idioma": "hi",
+  "nombreIdioma": "हिन्दी",
+  "termino": "बिल्ली",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T20:50:37.435Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "hi",
+    "gl": "in"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=%E0%A4%AC%E0%A4%BF%E0%A4%B2%E0%A5%8D%E0%A4%B2%E0%A5%80&hl=hi&gl=in",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/cat/hi/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpnrXNgtBnM3QGtMCPk9zUAc82yyQQfJtIJA&s",
+      "fuentePagina": "https://www.gazabhindi.com/2015/07/interesting-facts-about-cats-in-hindi.html",
+      "titulo": "बिल्लियों के बारे में 24 रोचक तथ्य ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpnrXNgtBnM3QGtMCPk9zUAc82yyQQfJtIJA&s",
+      "original": "http://www.gazabhindi.com/wp-content/uploads/2015/07/cat8.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/cat/hi/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZjA19ue29EUUY8kRfkhATUFGmDsYNLE5hIQ&s",
+      "fuentePagina": "https://www.youtube.com/watch?v=TknZhf5Mu-8",
+      "titulo": "Billi ke Bache | Cat Cartoon | Cat Meowing | Cat | Kittens | Cat Videos |  Billi | Meow Meow | Cats",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZjA19ue29EUUY8kRfkhATUFGmDsYNLE5hIQ&s",
+      "original": "https://i.ytimg.com/vi/TknZhf5Mu-8/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLAV9gs3ZPK6ZO1ZIqJxNJ7D6nHUsg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/cat/hi/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDhoOd8Hzc-ZM1bI4mqoEl2obSbwOqiRIolw&s",
+      "fuentePagina": "https://www.amazon.in/-/hi/WHITE-%E0%A4%86%E0%A4%B2%E0%A5%80%E0%A4%B6%E0%A4%BE%E0%A4%A8-%E0%A4%AD%E0%A4%B0%E0%A4%B5%E0%A4%BE%E0%A4%82-%E0%A4%AC%E0%A4%BF%E0%A4%B2%E0%A5%8D%E0%A4%B2%E0%A5%80-%E0%A4%AC%E0%A4%9A%E0%A5%8D%E0%A4%9A%E0%A4%BE/dp/B0C2Q2PRYX",
+      "titulo": "THE WHITE SHOP मफिन आलीशान भरवां पशु ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDhoOd8Hzc-ZM1bI4mqoEl2obSbwOqiRIolw&s",
+      "original": "https://m.media-amazon.com/images/I/61Tm1PBKggL.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/cat/hi/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTIVRYC-le9ZPHkZMAr4aXIzwZ_BOfHoii9Q&s",
+      "fuentePagina": "https://hindi.news18.com/news/knowledge/what-does-science-say-why-cat-use-meow-sound-and-what-does-it-mean-7836559.html",
+      "titulo": "क्या कहता है विज्ञान: म्याऊं ही ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTIVRYC-le9ZPHkZMAr4aXIzwZ_BOfHoii9Q&s",
+      "original": "https://images.news18.com/ibnkhabar/uploads/2023/11/cat-meow-201-1200-900-unsplash-2023-11-c7fba4327e58a5b46afd6f60028cc436.jpg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/cat/hi/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSeyvFdUDY7z_VrLdulYh14OB0C6bcjUO8JDA&s",
+      "fuentePagina": "https://ndtv.in/faith/black-cats-good-or-bad-luck-kali-billi-ka-rasta-katna-1813925",
+      "titulo": "जानें बिल्लियों से जुड़े ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSeyvFdUDY7z_VrLdulYh14OB0C6bcjUO8JDA&s",
+      "original": "https://i.ndtvimg.com/i/2018-02/black-cat_650x400_81518872011.jpg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/cat/hi/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCgC42FvSeb0QiH9cu7i7bd00ff6CgL6PKDA&s",
+      "fuentePagina": "https://hindi.news18.com/photogallery/dharm/what-happens-if-cat-giving-birth-to-babies-at-home-ghar-me-billi-ke-baccha-dene-ka-kya-sanket-in-hindi-8613347.html",
+      "titulo": "आपके घर में भी बिल्ली ने दिए हैं ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCgC42FvSeb0QiH9cu7i7bd00ff6CgL6PKDA&s",
+      "original": "https://images.news18.com/ibnkhabar/uploads/2024/08/cat-baby-2024-08-4feeafbc01183be8352a1db34b09e8bd.jpg"
+    }
+  ]
+}

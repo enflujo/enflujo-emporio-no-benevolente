@@ -1,0 +1,71 @@
+{
+  "categoria": "sandwich",
+  "categoriaSlug": "sandwich",
+  "idioma": "rw",
+  "nombreIdioma": "Kinyarwanda",
+  "termino": "isandwichi",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:11:57.532Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "en",
+    "gl": "rw"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=isandwichi&hl=en&gl=rw",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/sandwich/rw/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_hRb28wzbhM02F_rHNKKzLpj_1rl7pTWtrA&s",
+      "fuentePagina": "https://mon-resto-halal.com/restaurant/times-square-saint-etienne",
+      "titulo": "Restaurant Times Square® - Saint-Étienne I Burger & Smash I ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_hRb28wzbhM02F_rHNKKzLpj_1rl7pTWtrA&s",
+      "original": "https://storage.googleapis.com/mon-resto-halal/restaurants/c348f2e2-2fcd-4e51-8e5b-073d287fce75/thumb@1024_41b83fc6-eb8f-43e5-b740-da6400bfe7c3.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/sandwich/rw/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS11PFcB1jE2eK3WQ_mX0CUplvcm6nMDG6Vjg&s",
+      "fuentePagina": "https://www.instagram.com/reel/C-5iJK4NwR2/",
+      "titulo": "You see how I decided to make I sandwich I was craving instead of ordering  it in… very #demure . Here’s a quick and simple smoked salmon sandwich with  cranberry sauce recipe. Very delicious… very ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS11PFcB1jE2eK3WQ_mX0CUplvcm6nMDG6Vjg&s",
+      "original": "https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3438929954211300470"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/sandwich/rw/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSE4sJx78g-ffsWXi9JDtvoL70x2VomgCsMOQ&s",
+      "fuentePagina": "https://mon-resto-halal.com/restaurant/times-square-saint-etienne",
+      "titulo": "Restaurant Times Square® - Saint-Étienne I Burger & Smash I ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSE4sJx78g-ffsWXi9JDtvoL70x2VomgCsMOQ&s",
+      "original": "https://storage.googleapis.com/mon-resto-halal/restaurants/c348f2e2-2fcd-4e51-8e5b-073d287fce75/thumb@1024_7726739b-4e3d-4e5b-b256-7948255b4a34.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/sandwich/rw/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDOzvQxW0P6PI6M-wDAHqhZ8L-6tYwseO14w&s",
+      "fuentePagina": "https://mon-resto-halal.com/restaurant/times-square-saint-etienne",
+      "titulo": "Restaurant Times Square® - Saint-Étienne I Burger & Smash I ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDOzvQxW0P6PI6M-wDAHqhZ8L-6tYwseO14w&s",
+      "original": "https://storage.googleapis.com/mon-resto-halal/restaurants/c348f2e2-2fcd-4e51-8e5b-073d287fce75/thumb@1024_122aaebb-97bf-4d02-8aed-4181c396304a.jpg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/sandwich/rw/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnVojT-bEtCB4yk4sSsdaUrd4PPlRD_WHeGA&s",
+      "fuentePagina": "https://mon-resto-halal.com/restaurant/times-square-saint-etienne",
+      "titulo": "Restaurant Times Square® - Saint-Étienne I Burger & Smash I ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnVojT-bEtCB4yk4sSsdaUrd4PPlRD_WHeGA&s",
+      "original": "https://storage.googleapis.com/mon-resto-halal/restaurants/c348f2e2-2fcd-4e51-8e5b-073d287fce75/thumb@1024_27b87eae-52a4-4ace-a8b8-5b6ef1f37dec.jpg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/sandwich/rw/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSB-nYijnSAufbxi4wYYIxxeKJwwCKwUOoLQg&s",
+      "fuentePagina": "https://mon-resto-halal.com/restaurant/times-square-saint-etienne",
+      "titulo": "Restaurant Times Square® - Saint-Étienne I Burger & Smash I ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSB-nYijnSAufbxi4wYYIxxeKJwwCKwUOoLQg&s",
+      "original": "https://storage.googleapis.com/mon-resto-halal/restaurants/c348f2e2-2fcd-4e51-8e5b-073d287fce75/thumb@1024_4aff5d64-4e06-42f7-88b7-b9fa59d90c53.jpg"
+    }
+  ]
+}

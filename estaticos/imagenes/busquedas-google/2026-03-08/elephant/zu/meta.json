@@ -1,0 +1,71 @@
+{
+  "categoria": "elephant",
+  "categoriaSlug": "elephant",
+  "idioma": "zu",
+  "nombreIdioma": "isiZulu",
+  "termino": "indlovu",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T20:53:49.930Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "zu",
+    "gl": "za"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=indlovu&hl=zu&gl=za",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/elephant/zu/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVoFq3XlAYVa5ThUCMFuzv_C7zei7KhT9Nag&s",
+      "fuentePagina": "https://zu.wikipedia.org/wiki/Indlovu",
+      "titulo": "Indlovu - Wikipedia",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVoFq3XlAYVa5ThUCMFuzv_C7zei7KhT9Nag&s",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/3/37/African_Bush_Elephant.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/elephant/zu/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQwdqM3d3t30wTwNYSz4j5fHEcCKB2E1vN4g&s",
+      "fuentePagina": "https://indlovuproducts.co.za/",
+      "titulo": "Indlovu Products - Traditional African Herbal Muti",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQwdqM3d3t30wTwNYSz4j5fHEcCKB2E1vN4g&s",
+      "original": "https://indlovuproducts.co.za/wp-content/uploads/2025/09/indlovu_siwasho_oils_banner_09_2025_product.webp"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/elephant/zu/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRPELXH6-rW8hpeaPcsDl5MffZ-zo3YNx6Qw&s",
+      "fuentePagina": "https://www.facebook.com/cosmeticconnection/posts/indlovu-products-are-available-at-cosmetic-connection-store-locations-nationwide/3832416636985330/",
+      "titulo": "Indlovu Products Are Available At Cosmetic Connection Store ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRPELXH6-rW8hpeaPcsDl5MffZ-zo3YNx6Qw&s",
+      "original": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=3832416636985330"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/elephant/zu/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXkA8hpAOxYoPmrYsO2UdpHaAJef1VCCIx-Q&s",
+      "fuentePagina": "https://indlovuproducts.co.za/",
+      "titulo": "Indlovu Products - Traditional African Herbal Muti",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXkA8hpAOxYoPmrYsO2UdpHaAJef1VCCIx-Q&s",
+      "original": "https://indlovuproducts.co.za/wp-content/uploads/2025/09/indlovu_siwasho_salts_banner_product_image_23.09.2025.webp"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/elephant/zu/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6bXgTpcRaLgTdlyIudVrFMV5FdndaJXClMA&s",
+      "fuentePagina": "https://wildaboutwhisky.com/product/indlovu-gin/?srsltid=AfmBOoqGlfoIotegTuO3mymrLeTsy1r0X1ynSwuInYpY_Anpv0sK0qfp",
+      "titulo": "Indlovu Gin - Wild about Whisky",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6bXgTpcRaLgTdlyIudVrFMV5FdndaJXClMA&s",
+      "original": "https://wildaboutwhisky.com/wp-content/uploads/media/4482.jpg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/elephant/zu/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMwXn1_yf13i5AYrbpOML33wRCwpgwfBbg2A&s",
+      "fuentePagina": "https://cvpillayherbalist.co.za/product-category/indlovu-products/?product_orderby=date&product_count=36",
+      "titulo": "Indlovu Products – CV Pillay Herbalist",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMwXn1_yf13i5AYrbpOML33wRCwpgwfBbg2A&s",
+      "original": "https://cvpillayherbalist.co.za/wp-content/uploads/2020/09/DSCF0757-500x333.jpg"
+    }
+  ]
+}

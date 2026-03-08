@@ -1,0 +1,71 @@
+{
+  "categoria": "bottle",
+  "categoriaSlug": "bottle",
+  "idioma": "ln",
+  "nombreIdioma": "Lingala",
+  "termino": "bouteille",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:05:59.764Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "fr",
+    "gl": "cd"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=bouteille&hl=fr&gl=cd",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bottle/ln/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCNRck0umsL0oT2YkXAH4tY4NiBp8JZHrsKQ&s",
+      "fuentePagina": "https://fr.wikipedia.org/wiki/Bouteille",
+      "titulo": "Bouteille — Wikipédia",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCNRck0umsL0oT2YkXAH4tY4NiBp8JZHrsKQ&s",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/e/e3/Bouteille.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bottle/ln/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZOv8uZPICAPO0eoEPzd0168BHMoTbz2W2nQ&s",
+      "fuentePagina": "https://www.boboco.fr/bouteilles-en-verre-vides/40-bouteille-limonade-75cl-3597380024858.html?srsltid=AfmBOor891fQ6Hb9YpF4Zc3GQhrFp_vdiXiQKdEZuD9ZPs7B-pvnqARB",
+      "titulo": "Bouteille vide en verre de limonade 75 cl",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZOv8uZPICAPO0eoEPzd0168BHMoTbz2W2nQ&s",
+      "original": "https://www.boboco.fr/1875-pdt_540/bouteille-limonade-75cl.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bottle/ln/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxPQGR5RzZRVSW2yO27GmS2NX2Ux6je6VoOQ&s",
+      "fuentePagina": "https://particuliers.maisonfrin.fr/produit/methode-traditionnelle-75-cl-verte-palette/",
+      "titulo": "Méthode Traditionnelle 75 cl verte - Palette 1050 btl ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxPQGR5RzZRVSW2yO27GmS2NX2Ux6je6VoOQ&s",
+      "original": "https://particuliers.maisonfrin.fr/wp-content/uploads/2022/01/method-trad-75-cl-bouteille.webp"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bottle/ln/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtX23eijZyfGlir9II1GoLRJfBrI7Qnq_U3g&s",
+      "fuentePagina": "https://glassmania.com/ch_fr/bouteilles-en-verre/bouteille-a-spiritueux-oblo-50cl.html",
+      "titulo": "Bouteille à spiritueux Oblò 50cl avec gravure Glassmania CH",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtX23eijZyfGlir9II1GoLRJfBrI7Qnq_U3g&s",
+      "original": "https://glassmania.com/media/catalog/product/cache/c2977421f383e646049de5ab98da7a5c/n/s/nspf50bobl_5.png"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bottle/ln/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzfZTsQQxQxB6hRWoOAwog783Mlmw9p-Jnhw&s",
+      "fuentePagina": "https://www.lecomptoirdubrasseur.fr/conditionnement/embouteillage/bouteilles-vides/bouteille-75cl-couronne-26-x12/",
+      "titulo": "Bouteille 75cl - Couronne 26 - X12 - Le Comptoir du Brasseur",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzfZTsQQxQxB6hRWoOAwog783Mlmw9p-Jnhw&s",
+      "original": "https://www.lecomptoirdubrasseur.fr/storage/2019/07/bouteille-biere-75cl.jpg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bottle/ln/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9sMW4YsafwvyUdAgDVYYxdVFACveAA0Lb7w&s",
+      "fuentePagina": "https://littlepots.fr/products/bouteille-en-verre-bouchon-mecanique-popine-75-cl?srsltid=AfmBOorGouHNZitTaOr22oa1_TwwiAeRvqh68bdLPl-Nh0hQ6KVU7-jK",
+      "titulo": "Bouteille en verre à bouchon mécanique Popine | 75 cL",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9sMW4YsafwvyUdAgDVYYxdVFACveAA0Lb7w&s",
+      "original": "https://littlepots.fr/cdn/shop/products/bouteille-limonade-75-cl-bouchons-mecaniques_e3ba40f2-5766-44ab-8c1e-c86f02a972ca.webp?crop=center&height=1200&v=1725032594&width=1200"
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "categoria": "teddy bear",
+  "categoriaSlug": "teddy-bear",
+  "idioma": "pt",
+  "nombreIdioma": "Português",
+  "termino": "ursinho de pelúcia",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:31:25.680Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "pt",
+    "gl": "br"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=ursinho%20de%20pel%C3%BAcia&hl=pt&gl=br",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/teddy-bear/pt/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjliuLzQeUX9zjWOB69perP4oo_EZpUJDb3A&s",
+      "fuentePagina": "https://latinflores.com/pt/products/osito-mimoso-mediano",
+      "titulo": "Ursinho de pelúcia – LatinFlores.com",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjliuLzQeUX9zjWOB69perP4oo_EZpUJDb3A&s",
+      "original": "http://latinflores.com/cdn/shop/files/DulceOsitoMediano_3cbb6b45-00f9-41d0-851b-0b44274f0d09.jpg?v=1745204289"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/teddy-bear/pt/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9Bw25lDthE0vIzobY-9TXU8v7l06HrDFNPQ&s",
+      "fuentePagina": "https://www.amazon.com.br/Linda-Pel%C3%BAcia-Ursinho-Branco-Altura/dp/B08Y7QH1DY",
+      "titulo": "Linda Pelúcia Macia Ursinho Urso Branco 38cms de Altura ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9Bw25lDthE0vIzobY-9TXU8v7l06HrDFNPQ&s",
+      "original": "https://m.media-amazon.com/images/I/61XiLjJ41uL._AC_UF894,1000_QL80_.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/teddy-bear/pt/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTe2QwfjIu1EI75UTO7rDRFhvnG4PxgbnO9NQ&s",
+      "fuentePagina": "https://www.bumerangbrinquedos.com.br/ursinho-de-pelucia-cookie-caramelo-buba-09813/p",
+      "titulo": "Ursinho De Pelúcia Cookie Caramelo Buba 09813 - Bumerang ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTe2QwfjIu1EI75UTO7rDRFhvnG4PxgbnO9NQ&s",
+      "original": "https://bumerangbrinquedos.vteximg.com.br/arquivos/ids/272356/Ursinho-de-Pelucia-Cookie-Caramelo.jpg?v=638371756622000000"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/teddy-bear/pt/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgHbRDONdKR84crHoH_Wj8AD5rWGzn-tRRAA&s",
+      "fuentePagina": "https://www.essencialenxovais.com.br/urso-de-pelucia-caramelo-com-laco-rosa-15cm/p?srsltid=AfmBOopZZscixy8Yxmgyk_J1XFlOc04Setq8Y-wOPqySNp2zP41AGmrP",
+      "titulo": "Urso de Pelúcia Classic Caramelo com Laço Rosa 15cm",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgHbRDONdKR84crHoH_Wj8AD5rWGzn-tRRAA&s",
+      "original": "https://io.convertiez.com.br/m/essencialenxovais/shop/products/images/34247/medium/urso-de-pelucia-caramelo-com-laco-rosa-15cm_72523.JPG"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/teddy-bear/pt/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLek2FPRrzZWV-0kRbXILX38ssoirINDuEIg&s",
+      "fuentePagina": "https://www.apaixonadosporpelucia.com.br/urso-de-pelucia-40-cm-decore-marrom?srsltid=AfmBOor1I1r--CYccbrGUw1vksUDMUysLUSfRbXQ4vqcLGj28P9wxtbO",
+      "titulo": "Urso de Pelúcia 40 cm - DecoreMarrom",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLek2FPRrzZWV-0kRbXILX38ssoirINDuEIg&s",
+      "original": "https://apaixonadosporpelucia.cdn.magazord.com.br/img/2018/12/produto/313/urso-de-pel-cia-40-cm-decore-marrom-com-la-o.jpg?ims=800x800"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/teddy-bear/pt/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQL0fpoNShDTi-i4kdZCN3nG3wtIzvPUzyRBw&s",
+      "fuentePagina": "https://www.fatimacrianca.com.br/urso-de-pelucia-james-tamanho-g-buba/p/363473?srsltid=AfmBOorw1FKRQNPJd3cdA1qF_Vspe1jU9qiEl8ZBJTZrwHRUYfIBPnic",
+      "titulo": "Urso de Pelúcia James Tamanho G Buba - Fátima Criança",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQL0fpoNShDTi-i4kdZCN3nG3wtIzvPUzyRBw&s",
+      "original": "https://static.fatimacrianca.com.br/public/fatimacrianca/imagens/produtos/urso-james-g-buba-11550.jpg"
+    }
+  ]
+}

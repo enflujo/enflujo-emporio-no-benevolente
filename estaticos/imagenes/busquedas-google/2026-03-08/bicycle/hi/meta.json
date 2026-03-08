@@ -1,0 +1,71 @@
+{
+  "categoria": "bicycle",
+  "categoriaSlug": "bicycle",
+  "idioma": "hi",
+  "nombreIdioma": "हिन्दी",
+  "termino": "साइकिल",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T20:41:22.393Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "hi",
+    "gl": "in"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=%E0%A4%B8%E0%A4%BE%E0%A4%87%E0%A4%95%E0%A4%BF%E0%A4%B2&hl=hi&gl=in",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bicycle/hi/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-KoXkRtp7TKw5II3gQVLByZ3jkiLbp8QVZw&s",
+      "fuentePagina": "https://www.amazon.in/-/hi/Next-2-0-%E0%A4%87%E0%A4%82%E0%A4%9F%E0%A5%80%E0%A4%97%E0%A5%8D%E0%A4%B0%E0%A5%87%E0%A4%9F%E0%A5%87%E0%A4%A1-%E0%A4%B2%E0%A4%A1%E0%A4%BC%E0%A4%95%E0%A4%BF%E0%A4%AF%E0%A5%8B%E0%A4%82-%E0%A4%AE%E0%A4%B2%E0%A5%8D%E0%A4%9F%E0%A5%80%E0%A4%95%E0%A4%B2%E0%A4%B0/dp/B0CPDSJJ49",
+      "titulo": "Hero Next 2.0 रेंजर 24T साइकिल पावर ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-KoXkRtp7TKw5II3gQVLByZ3jkiLbp8QVZw&s",
+      "original": "https://m.media-amazon.com/images/I/61mlz91GjZL._AC_UF894,1000_QL80_.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bicycle/hi/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqtZBftfuSzocxHePl0rROEXmoC8VaMFCA2g&s",
+      "fuentePagina": "https://www.amazon.in/-/hi/%E0%A4%B8%E0%A5%8D%E0%A4%95%E0%A4%BE%E0%A4%89%E0%A4%9F-%E0%A4%AC%E0%A5%80%E0%A4%B8%E0%A5%8D%E0%A4%9F-%E0%A4%B8%E0%A4%BF%E0%A4%82%E0%A4%97%E0%A4%B2-%E0%A4%B8%E0%A5%8D%E0%A4%AA%E0%A5%80%E0%A4%A1-%E0%A4%B8%E0%A4%BE%E0%A4%87%E0%A4%95%E0%A4%BF%E0%A4%B2/dp/B0CTMNT345",
+      "titulo": "Leader स्काउट MTB 26T माउंटेन साइकिल पुरुषों के लिए पूर्ण साइकिल सहायक  उपकरण के साथ | बिना गियर साइकिल | सिंगल स्पीड साइकिल, 10 + साल के लिए  आदर्श, ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqtZBftfuSzocxHePl0rROEXmoC8VaMFCA2g&s",
+      "original": "https://m.media-amazon.com/images/I/81MFfnpOQGL.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bicycle/hi/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSQMrYSmj5KyMA6tTkb1UJAZRUHIqu-GODTQ&s",
+      "fuentePagina": "https://www.flipkart.com/hi/ralley-gold-jaguar-series-full-size-bicycle-carrier-front-suspension-dual-power-brakes-26-t-mountain-cycle/p/itm3d89626309727?pid=CCEGKCMP578NZFUX&lid=LSTCCEGKCMP578NZFUXZFLRSU&marketplace=FLIPKART&spotlightTagId=TrendingId_abc%2Fulv%2Fixt%2Fi5v",
+      "titulo": "Ralley Gold Series Full Size Bicycle with Carrier, Front ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSQMrYSmj5KyMA6tTkb1UJAZRUHIqu-GODTQ&s",
+      "original": "https://rukminim2.flixcart.com/image/480/640/xif0q/cycle/k/w/i/jaguar-series-full-size-bicycle-with-carrier-front-suspension-original-imagkcmpn4vxyaxj.jpeg?q=90"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bicycle/hi/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4Pyc8K-AguqElsS-O9OUkr8pOlogfOvs7Fw&s",
+      "fuentePagina": "https://www.moglix.com/hi/hercules-h5-kombat-rf-24t-black-single-speed-bicycle/mp/msn457menmqn9j?srsltid=AfmBOopMtUE1pK2ZXWRTmdoz3bbixPB5y6JRn1b9KDmmzvHp2Stjz_5O",
+      "titulo": "हरक्यूलिस H5 कोम्बैट आरएफ 24T लाल सिंगल स्पीड साइकिल",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4Pyc8K-AguqElsS-O9OUkr8pOlogfOvs7Fw&s",
+      "original": "https://cdn.moglix.com/p/IASytdXwyeUux-xxlarge.jpg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bicycle/hi/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUwmqaEpYgZfd8tr84fCwmMM6HPt-d4BJ3Yw&s",
+      "fuentePagina": "https://hindi.alibaba.com/product-detail/cheap-price-kids-bicycle-steel-12-1600081322219.html",
+      "titulo": "सस्ते कीमत बच्चों को साइकिल स्टील 12/14/16/18/20 इंच बच्चों लड़का बच्चों 4  साल के लिए बाइक पुराने",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUwmqaEpYgZfd8tr84fCwmMM6HPt-d4BJ3Yw&s",
+      "original": "https://sc04.alicdn.com/kf/Hd360669111fe4420bdf7e6f99fcbcfc8Q.jpg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bicycle/hi/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdSCC0BFnnAEdixENtTSCn-BAJC4aWkyVyeA&s",
+      "fuentePagina": "https://www.moglix.com/hi/hero-26-city-rider-18-inch-steel-bicycle/mp/msnnkqgn71oz9x?srsltid=AfmBOoq-i2OJECfNRYpqythvShvE_sqv10FDE9KjGlE5ECGHxdXnnrgT",
+      "titulo": "खरीदें हीरो 26 सिटी राइडर 18 इंच ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdSCC0BFnnAEdixENtTSCn-BAJC4aWkyVyeA&s",
+      "original": "https://cdn.moglix.com/p/UjlHRerFwZHPK-xxlarge.jpg"
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "categoria": "backpack",
+  "categoriaSlug": "backpack",
+  "idioma": "rw",
+  "nombreIdioma": "Kinyarwanda",
+  "termino": "umufuko w'umugongo",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T20:56:10.201Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "en",
+    "gl": "rw"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=umufuko%20w'umugongo&hl=en&gl=rw",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/backpack/rw/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWgmnNlgQnthkR_aaLDntQdgb4yNCfcu5o3w&s",
+      "fuentePagina": "https://www.youtube.com/watch?v=9ctunfYYnGQ",
+      "titulo": "Umuti Uvura Umugongo wo Hasi Uterwa no Kwikinisha//Gupfakara ukiri  muto//Kubyara ugahita ujya mukazi",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWgmnNlgQnthkR_aaLDntQdgb4yNCfcu5o3w&s",
+      "original": "https://i.ytimg.com/vi/9ctunfYYnGQ/maxresdefault.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/backpack/rw/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTg50yON1TkBdEisGl4DQZv-hU0e4aa9vY4rw&s",
+      "fuentePagina": "https://www.youtube.com/watch?v=dV9V6HTzGhI",
+      "titulo": "Abagabo bakunda umugore ufite amazi | ugomba kumuha ibintu neza mugitanda |  Njye Mbikora neza",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTg50yON1TkBdEisGl4DQZv-hU0e4aa9vY4rw&s",
+      "original": "https://i.ytimg.com/vi/dV9V6HTzGhI/maxresdefault.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/backpack/rw/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkOh6wgt1Odv2QSsbBvg8o_DSqyn4XMQTWjA&s",
+      "fuentePagina": "https://www.youtube.com/watch?v=sDX0g183qjo",
+      "titulo": "00077: KWIVURA UMUGONGO || IBYO WAKORA MBERE YO GUFATA IMITI || UKO BIKORWA  NDETSE N'ICYO KWITONDERA",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkOh6wgt1Odv2QSsbBvg8o_DSqyn4XMQTWjA&s",
+      "original": "https://i.ytimg.com/vi/sDX0g183qjo/maxresdefault.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/backpack/rw/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjVxJHVr_e7zswSfm7sPAMJz-NX-sISOu7Ng&s",
+      "fuentePagina": "https://jovcreation.com/product/umugongo-6rbbq",
+      "titulo": "Umugongo",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjVxJHVr_e7zswSfm7sPAMJz-NX-sISOu7Ng&s",
+      "original": "https://jovcreation.com/public/uploads/all/URqdI49XYB8yzngd46pcsYxpEyDpSHea4SdRbWkS.jpg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/backpack/rw/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQs6UhoYm_9b8fq9EtSumFn7xyaL_ES8e8GNA&s",
+      "fuentePagina": "https://www.jovcreation.com/product/umugongo-lhok7",
+      "titulo": "Umugongo",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQs6UhoYm_9b8fq9EtSumFn7xyaL_ES8e8GNA&s",
+      "original": "https://www.jovcreation.com/public/uploads/all/BfQLTclwiQXNTOuGDfAVQQi2n82j3Tva4HTdyIqF.jpg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/backpack/rw/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-eC8ZLLIK5wOEYLoeMRLLrRABVx6tTV3KUw&s",
+      "fuentePagina": "https://www.youtube.com/watch?v=ulMlG5DBH8I",
+      "titulo": "Uyu Mukobwa Ntarambana N'umugabo. Umukobwa Utavamo Umugore  Muzima.Ibimenyetso 10 Bye. Inama y'umunsi",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-eC8ZLLIK5wOEYLoeMRLLrRABVx6tTV3KUw&s",
+      "original": "https://i.ytimg.com/vi/ulMlG5DBH8I/sddefault.jpg"
+    }
+  ]
+}

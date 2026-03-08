@@ -1,0 +1,71 @@
+{
+  "categoria": "bench",
+  "categoriaSlug": "bench",
+  "idioma": "es",
+  "nombreIdioma": "Español",
+  "termino": "banco",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T20:49:31.619Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "es",
+    "gl": "es"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=banco&hl=es&gl=es",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bench/es/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIh-32uIlOA5oBq_Crf5aPt5Z1klQUkstxjA&s",
+      "fuentePagina": "https://grupfabregas.com/producto/banco-modo/",
+      "titulo": "Banco Madera Modo Mobiliario urbano para sentarse parques y ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIh-32uIlOA5oBq_Crf5aPt5Z1klQUkstxjA&s",
+      "original": "https://grupfabregas.com/fotos/C-106.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bench/es/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCd6UXKJqWqh9qzeGboi0ss1UUDGUiVLgcHA&s",
+      "fuentePagina": "https://www.amazon.es/Terraza-Resistente-Intemperie-Estructura-Anticorrosiva/dp/B0C7ZT39N5",
+      "titulo": "Banco de Jardin Banco Banco De Parque Al Aire Libre, Banco ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCd6UXKJqWqh9qzeGboi0ss1UUDGUiVLgcHA&s",
+      "original": "https://m.media-amazon.com/images/I/71FrpxlsgsL._AC_UF894,1000_QL80_.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bench/es/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROfs36-PzrmJ5rTYluZjnpFAtPi7kUYA7A5g&s",
+      "fuentePagina": "https://grupfabregas.com/producto/banco-plaza-real-guinea-alto/",
+      "titulo": "Banco Madera Plaza Real Mobiliario elemento urbano parques y ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROfs36-PzrmJ5rTYluZjnpFAtPi7kUYA7A5g&s",
+      "original": "https://grupfabregas.com/fotos/C-01-ALTO.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bench/es/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrpn-LKe3v_syqVzPZsfh5MYvORsBNd-Qx7A&s",
+      "fuentePagina": "https://www.industriasagapito.com/banco-madera-r1241/",
+      "titulo": "BANCO EN MADERA TROPICAL CON PROTECTOR LASUR | - Industrias ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrpn-LKe3v_syqVzPZsfh5MYvORsBNd-Qx7A&s",
+      "original": "https://www.industriasagapito.com/ficheros-agapito/productos/city/R1241/tn_900/banco-madera-3d.jpg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bench/es/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfOpa_uAXnFUd4ol-B9jUCMGlGtPW0wXmM4A&s",
+      "fuentePagina": "https://fazilpay.com/blog/que-es-un-banco/",
+      "titulo": "Qué es un banco? - Fazil Pay",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfOpa_uAXnFUd4ol-B9jUCMGlGtPW0wXmM4A&s",
+      "original": "https://fazilpay.com/wp-content/uploads/2023/05/image-1024x735.png"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bench/es/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDdfE3Q-Sq8FjYHl0F3WRZr3iGNxhmNZg-cw&s",
+      "fuentePagina": "https://www.racnet.es/banco-madrid-c-7-b3c9/?srsltid=AfmBOopYb4iHECGv5PInXeL3_StEVohvkmKPzu0_rs2-c4spIFO9nfSd",
+      "titulo": "Banco Madera Modelo Madrid — RacNet",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDdfE3Q-Sq8FjYHl0F3WRZr3iGNxhmNZg-cw&s",
+      "original": "https://media.racnet.es/product/banco-madrid-c-7.jpg?width=1200"
+    }
+  ]
+}

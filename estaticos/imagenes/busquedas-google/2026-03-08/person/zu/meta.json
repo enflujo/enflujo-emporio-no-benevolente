@@ -1,0 +1,71 @@
+{
+  "categoria": "person",
+  "categoriaSlug": "person",
+  "idioma": "zu",
+  "nombreIdioma": "isiZulu",
+  "termino": "umuntu",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T20:40:40.310Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "zu",
+    "gl": "za"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=umuntu&hl=zu&gl=za",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/person/zu/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlZWhsN0tYD83bBUbKtdDD5uuYbb6bry7Lkg&s",
+      "fuentePagina": "https://www.youtube.com/watch?v=SZV8xgL0fx8",
+      "titulo": "Umutare Gaby - Umuntu (Official Lyric Video) #Umuntu #Umutaregaby",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlZWhsN0tYD83bBUbKtdDD5uuYbb6bry7Lkg&s",
+      "original": "https://i.ytimg.com/vi/SZV8xgL0fx8/maxresdefault.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/person/zu/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBB_hoVj1OuGgqd3zzevB7JBdxBNIuqtrinw&s",
+      "fuentePagina": "https://www.youtube.com/watch?v=Gjd-8ik6xbo",
+      "titulo": "Fanzo ft. Andy Keys & Mavuthela - Umuntu (Extended Mix)",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBB_hoVj1OuGgqd3zzevB7JBdxBNIuqtrinw&s",
+      "original": "https://i.ytimg.com/vi/Gjd-8ik6xbo/maxresdefault.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/person/zu/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQY0_zahtwiuwlYWrGhoDFnrq3r22fSBVYuJA&s",
+      "fuentePagina": "https://www.deezer.com/en/album/701850311",
+      "titulo": "Pitch Black Afro - uMuntu (feat. Gospel Silinda) | Deezer",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQY0_zahtwiuwlYWrGhoDFnrq3r22fSBVYuJA&s",
+      "original": "https://cdn-images.dzcdn.net/images/cover/6034346afb51bab81ba1ecc0c1ce9824/0x1900-000000-80-0-0.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/person/zu/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBO1i5Mqb8suaD8NMcU_g-S562dlPB30rBzA&s",
+      "fuentePagina": "https://www.instagram.com/p/CFgeYfYJh93/",
+      "titulo": "The African proverb “umuntu ngumuntu ngabantu” implies that ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBO1i5Mqb8suaD8NMcU_g-S562dlPB30rBzA&s",
+      "original": "https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=2405055822148595430"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/person/zu/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYnmYSmHU5jkawWbFoXHzouXAu-W94CKGC1w&s",
+      "fuentePagina": "https://soundcloud.com/capitalrec/umuntu_amag",
+      "titulo": "Stream Umuntu By Amag The Black by Capital Record$ Empire ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYnmYSmHU5jkawWbFoXHzouXAu-W94CKGC1w&s",
+      "original": "https://i1.sndcdn.com/artworks-000359295459-4hcaxs-t500x500.jpg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/person/zu/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJtUp_kimtmN6yFUbqJ2Wh3wv5g8WSP0xM8Q&s",
+      "fuentePagina": "https://www.deezer.com/en/album/455471035",
+      "titulo": "Pushkin RSA - Umuntu (feat. Dash SA, T&T Musiq, Benyric ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJtUp_kimtmN6yFUbqJ2Wh3wv5g8WSP0xM8Q&s",
+      "original": "https://cdn-images.dzcdn.net/images/cover/3488aef6b914f20df2b33d3e3855f113/0x1900-000000-80-0-0.jpg"
+    }
+  ]
+}

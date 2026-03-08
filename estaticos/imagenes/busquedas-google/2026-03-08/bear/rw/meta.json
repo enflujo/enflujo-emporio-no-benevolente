@@ -1,0 +1,71 @@
+{
+  "categoria": "bear",
+  "categoriaSlug": "bear",
+  "idioma": "rw",
+  "nombreIdioma": "Kinyarwanda",
+  "termino": "idubu",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T20:54:13.322Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "en",
+    "gl": "rw"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=idubu&hl=en&gl=rw",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bear/rw/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6MLO23Lq7ZTj1lmmBSxyhrykpRECZIiemVQ&s",
+      "fuentePagina": "https://umuryango.rw/ubuzima-115/udushya/article/idubu-ryategeye-mu-nzira-umugore-n-umugabo-mu-gitondo-rirabica",
+      "titulo": "Idubu ryategeye mu nzira umugore n'umugabo mu gitondo ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6MLO23Lq7ZTj1lmmBSxyhrykpRECZIiemVQ&s",
+      "original": "https://umuryango.rw/local/cache-vignettes/L431xH395/arton63843-9825d.png?1771479093"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bear/rw/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRs7PUpMsMfE8Y8udoSUp4rzTe7aOKU4jqlzA&s",
+      "fuentePagina": "https://www.bbc.com/gahuza/amakuru-60344823",
+      "titulo": "US: Guhusha kwica idubu byavuyemo gupfa kw'abavandimwe ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRs7PUpMsMfE8Y8udoSUp4rzTe7aOKU4jqlzA&s",
+      "original": "http://c.files.bbci.co.uk/11793/production/_123217517_gettyimages-506289332.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bear/rw/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhHqr08GHzGkzPFG_aUzdwgbT3j5BhD8S1ew&s",
+      "fuentePagina": "https://www.facebook.com/BBCnewsgahuza/videos/iyi-dubu-bear-yakina-nkabana/1088724996397574/",
+      "titulo": "Idubu ni igikoko gikara, gishobora no kurya ibitungwa canke gukomeretsa  abantu., Muri #USA, hamwe kigwiriye, cagaragaye gikinira nk'abana, m’urugo  rw’umuryango., Reba video ya #BBCNewsGahuza | BBC ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhHqr08GHzGkzPFG_aUzdwgbT3j5BhD8S1ew&s",
+      "original": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=1088724996397574&get_thumbnail=1"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bear/rw/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLEGXIxYgBRJ_o5UMB7rcF6Pf4ui8hblQOHg&s",
+      "fuentePagina": "https://umuryango.rw/ubuzima-115/udushya/article/idubu-riherutse-gukomeretsa-bikabije-umwana-na-se-ryakatiwe-igihano-cy-urupfu",
+      "titulo": "Idubu riherutse gukomeretsa bikabije umwana na se ryakatiwe ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLEGXIxYgBRJ_o5UMB7rcF6Pf4ui8hblQOHg&s",
+      "original": "https://umuryango.rw/local/cache-vignettes/L600xH576/arton50429-8714f.jpg?1771511438"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bear/rw/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSEix9DdwTKcOpd21hitPvz74tsSBCxxhccw&s",
+      "fuentePagina": "https://www.youtube.com/watch?v=EJnkGOVOxgU",
+      "titulo": "Menya byinshi ku IDUBU: inyamaswa ya mbere iteye ubwoba ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSEix9DdwTKcOpd21hitPvz74tsSBCxxhccw&s",
+      "original": "https://i.ytimg.com/vi/EJnkGOVOxgU/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLCQ9jaa27IVjsM-RJeTjeQMwG6RoA"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bear/rw/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhEjd0MqYrNV-Wv--0KAPEFr0jl9DnDoR6pQ&s",
+      "fuentePagina": "https://www.teradignews.rw/rw/umugabo-wishwe-nidubu-atabara-abana-be-akomeje-gushimwa-na-benshi/",
+      "titulo": "Umugabo wishwe n'idubu atabara abana be akomeje gushimwa na ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhEjd0MqYrNV-Wv--0KAPEFr0jl9DnDoR6pQ&s",
+      "original": "https://www.teradignews.rw/wp-content/uploads/2018/07/is1-weight.jpg"
+    }
+  ]
+}

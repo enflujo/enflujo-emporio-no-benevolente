@@ -1,0 +1,16 @@
+{
+  "categoria": "sink",
+  "categoriaSlug": "sink",
+  "idioma": "ln",
+  "nombreIdioma": "Lingala",
+  "termino": "évier",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:26:46.188Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "fr",
+    "gl": "cd"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=%C3%A9vier&hl=fr&gl=cd",
+  "imagenes": []
+}

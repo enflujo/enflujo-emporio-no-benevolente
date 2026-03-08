@@ -1,0 +1,71 @@
+{
+  "categoria": "cat",
+  "categoriaSlug": "cat",
+  "idioma": "es",
+  "nombreIdioma": "Español",
+  "termino": "gato",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T20:50:47.813Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "es",
+    "gl": "es"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=gato&hl=es&gl=es",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/cat/es/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnPu8m_elJwMPlCQ1NqzK9gtGqFEh71FPNkw&s",
+      "fuentePagina": "https://es.wikipedia.org/wiki/Felis_catus",
+      "titulo": "Felis catus - Wikipedia, la enciclopedia libre",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnPu8m_elJwMPlCQ1NqzK9gtGqFEh71FPNkw&s",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Cat_November_2010-1a.jpg/250px-Cat_November_2010-1a.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/cat/es/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7qdmUXoZABcWs4Xt5BJkNBweJ7AyBTTooMw&s",
+      "fuentePagina": "https://www.anicura.es/consejos-de-salud/gato/consejos-de-salud/60-curiosidades-sobre-gatos/",
+      "titulo": "60 curiosidades sobre gatos | AniCura España",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7qdmUXoZABcWs4Xt5BJkNBweJ7AyBTTooMw&s",
+      "original": "https://www.anicura.es/cdn-cgi/image/f=auto,fit=cover,w=640,h=640,g=auto,sharpen=1/AdaptiveImages/powerinit/52437/_SNI2031.jpg?stamp=a2efc90c9d13cd9fdc0f5f7a2e3b2231238dc8cf"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/cat/es/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwfGB6dUnr2_mIK2bbLG3JM0IWyfATg0efwQ&s",
+      "fuentePagina": "https://www.santevet.es/raza/gato-comun-europeo",
+      "titulo": "Gato europeo",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwfGB6dUnr2_mIK2bbLG3JM0IWyfATg0efwQ&s",
+      "original": "https://images.ctfassets.net/denf86kkcx7r/4IPlg4Qazd4sFRuCUHIJ1T/f6c71da7eec727babcd554d843a528b8/gatocomuneuropeo-97"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/cat/es/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQala6Xlg2jirjn2Je0XT3K2rj-fXpGjLZQQ&s",
+      "fuentePagina": "https://purina.cl/purina/gatos/conoce-algunas-razas-de-gatos",
+      "titulo": "Conoce más de estas increíbles razas de gatos | Purina Chile",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQala6Xlg2jirjn2Je0XT3K2rj-fXpGjLZQQ&s",
+      "original": "https://purina.cl/sites/default/files/2025-04/razas-de-gatos.jpg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/cat/es/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQO7fUo3-xuSJFzJhdnL6h14gfm0Gg-My-lxA&s",
+      "fuentePagina": "https://www.nationalgeographicla.com/animales/2023/11/cuantas-expresiones-faciales-tienen-los-gatos-el-numero-podria-sorprenderte",
+      "titulo": "Cuántas expresiones faciales tienen los gatos? El número ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQO7fUo3-xuSJFzJhdnL6h14gfm0Gg-My-lxA&s",
+      "original": "https://static.nationalgeographicla.com/files/styles/image_3200/public/nationalgeographic_1468962.jpg?w=1600"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/cat/es/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGmqyzF9de9GPSuRmShNrJTwwP2RU9q_IoXQ&s",
+      "fuentePagina": "https://es.wikipedia.org/wiki/Felis_catus",
+      "titulo": "Felis catus - Wikipedia, la enciclopedia libre",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGmqyzF9de9GPSuRmShNrJTwwP2RU9q_IoXQ&s",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/6/64/Collage_of_Six_Cats-02.jpg"
+    }
+  ]
+}

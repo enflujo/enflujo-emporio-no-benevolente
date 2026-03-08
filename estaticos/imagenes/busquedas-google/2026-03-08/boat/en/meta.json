@@ -1,0 +1,71 @@
+{
+  "categoria": "boat",
+  "categoriaSlug": "boat",
+  "idioma": "en",
+  "nombreIdioma": "English",
+  "termino": "boat",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T20:45:32.148Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "en",
+    "gl": "us"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=boat&hl=en&gl=us",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/boat/en/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTE0QALwyMmwMSd5JfuMVa1_JF1PRZ3i_Te6g&s",
+      "fuentePagina": "https://aceboater.com/en-us/types-of-boats",
+      "titulo": "Types of boats - Choosing the right one!",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTE0QALwyMmwMSd5JfuMVa1_JF1PRZ3i_Te6g&s",
+      "original": "https://aceboater.com/hubfs/courses/pcoc2021/images/all-types-of-boats.png"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/boat/en/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWKhxLMbWhCtUQs1BdCKFoZ78kuSnt6CyJkg&s",
+      "fuentePagina": "https://iqboatlifts.com/yacht-vs-boat-whats-the-difference-between-the-two/",
+      "titulo": "Yacht vs Boat: What's the Difference Between the Two?",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWKhxLMbWhCtUQs1BdCKFoZ78kuSnt6CyJkg&s",
+      "original": "https://iqboatlifts.com/wp-content/uploads/2018/06/Yacht-vs-Boat-Whats-the-Difference-Between-the-Two-1024x571.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/boat/en/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQcHMMoG_rLIqn1jsY7zKUsN2iJkKDDdPwGg&s",
+      "fuentePagina": "https://en.wikipedia.org/wiki/Boat",
+      "titulo": "Boat - Wikipedia",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQcHMMoG_rLIqn1jsY7zKUsN2iJkKDDdPwGg&s",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Motorboat_at_Kankaria_lake.JPG"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/boat/en/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTM6NXOmiIfD8Rev2d0Klipq2INFyq7u4wfw&s",
+      "fuentePagina": "https://www.mby.com/features/types-of-boat-20-key-styles-120628",
+      "titulo": "Types of boat: 20 key styles that you need to know about",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTM6NXOmiIfD8Rev2d0Klipq2INFyq7u4wfw&s",
+      "original": "https://keyassets.timeincuk.net/inspirewp/live/wp-content/uploads/sites/18/2022/04/types-of-boat-Center-Cons-Pursuit-S-358-Sport.jpg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/boat/en/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPpMr6KGmBgxG3igBLZ_lq2CSfMNBMHqxrXw&s",
+      "fuentePagina": "https://northpacificyachts.com/blog/trawler/what-size-boat-can-you-comfortably-live-on/",
+      "titulo": "What Size Liveaboard Boat Is Comfortable? Trawler Guide",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPpMr6KGmBgxG3igBLZ_lq2CSfMNBMHqxrXw&s",
+      "original": "https://northpacificyachts.com/wp-content/uploads/2024/11/unnamed-8.jpg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/boat/en/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSk2Du1zj6Lbzo49a1se5nigzedms328jK1EA&s",
+      "fuentePagina": "https://www.classicboat.co.uk/news/spirit-of-tradition-new-designs-and-latest-concepts/",
+      "titulo": "Spirit of Tradition: New Designs and Latest Concepts ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSk2Du1zj6Lbzo49a1se5nigzedms328jK1EA&s",
+      "original": "https://www.classicboat.co.uk/wp-content/uploads/Untitled-design-2025-09-05T121430.273.png"
+    }
+  ]
+}

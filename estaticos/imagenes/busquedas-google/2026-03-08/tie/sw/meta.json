@@ -1,0 +1,71 @@
+{
+  "categoria": "tie",
+  "categoriaSlug": "tie",
+  "idioma": "sw",
+  "nombreIdioma": "Kiswahili",
+  "termino": "tai",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T20:58:09.358Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "sw",
+    "gl": "tz"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=tai&hl=sw&gl=tz",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/tie/sw/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQh_vKeA0t0n-hQOTzQqlkPB2KEU9kGuKkvsw&s",
+      "fuentePagina": "https://sw.wikipedia.org/wiki/Tai_(vazi)",
+      "titulo": "Tai (vazi) - Wikipedia, kamusi elezo huru",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQh_vKeA0t0n-hQOTzQqlkPB2KEU9kGuKkvsw&s",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Krawaty.jpg/250px-Krawaty.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/tie/sw/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEIQ1h-aZ1ze1qyLajup2VgJP3jYS8FoMKYA&s",
+      "fuentePagina": "https://www.facebook.com/groups/1160933067381523/posts/2030552563752898/",
+      "titulo": "Ukweli usioujua Kuhusu Ndege aina ya Tai (Eagle).👇👇 👉 Tai ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEIQ1h-aZ1ze1qyLajup2VgJP3jYS8FoMKYA&s",
+      "original": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=2610637202567949"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/tie/sw/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQos3y6F91qE5Dke0di2zF45hV6Z1j9d2bliw&s",
+      "fuentePagina": "https://www.amazon.in/Generic-tai-Blue/dp/B0CHFVLWDV",
+      "titulo": "tai Blue : Amazon.in: Pet Supplies",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQos3y6F91qE5Dke0di2zF45hV6Z1j9d2bliw&s",
+      "original": "https://m.media-amazon.com/images/I/3106gyQxI4L._AC_UY1100_.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/tie/sw/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQrFzSQz4s12C4FPnLHydGl9xhixW1jfqd4A&s",
+      "fuentePagina": "https://sw.wikipedia.org/wiki/Tai",
+      "titulo": "Tai - Wikipedia, kamusi elezo huru",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQrFzSQz4s12C4FPnLHydGl9xhixW1jfqd4A&s",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/9/95/Kampfadler_02.jpg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/tie/sw/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQc6H7hgVlUA4amQ21WqxiMtOMXxibwlNl9TQ&s",
+      "fuentePagina": "https://diraelimu.blogspot.com/2017/01/mfano-wa-tai-ayashukiaye-mawindo.html",
+      "titulo": "DiraElimu: Mfano wa tai ayashukiaye Mawindo!",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQc6H7hgVlUA4amQ21WqxiMtOMXxibwlNl9TQ&s",
+      "original": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi_vNRdubqAKf-hs-ffcAlsaiswm2EaeKcUZ1Rg0V-Qywz-n8_MhbLcN1J_IkEDmccH2EzBsp7ZMVexgSotW_O71SFM9SlgSZKDFImZJY-IJAjpz20L5qrRVVPpmMdf3Ch7Iq-kFQHWmw0/s1600/tai+ni+mfano+wa+kuigwa.jpg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/tie/sw/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0e-FjSpSHxvSQGLAMWQG_z2m5SwGklNoKFg&s",
+      "fuentePagina": "https://www.facebook.com/100071135342800/posts/211340874580423/",
+      "titulo": "Kumpulan Tai Tai updated their profile picture.",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0e-FjSpSHxvSQGLAMWQG_z2m5SwGklNoKFg&s",
+      "original": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=100071135342800"
+    }
+  ]
+}

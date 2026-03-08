@@ -1,0 +1,71 @@
+{
+  "categoria": "bed",
+  "categoriaSlug": "bed",
+  "idioma": "qu",
+  "nombreIdioma": "Quechua",
+  "termino": "kama",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:19:20.846Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "es",
+    "gl": "pe"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=kama&hl=es&gl=pe",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bed/qu/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcWDIDOICfPej3NCwLxBH_n5zuO7TpkPUQcQ&s",
+      "fuentePagina": "https://es.wikipedia.org/wiki/Kama_(arma)",
+      "titulo": "Kama (arma) - Wikipedia, la enciclopedia libre",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcWDIDOICfPej3NCwLxBH_n5zuO7TpkPUQcQ&s",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Kamas.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bed/qu/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCIGbKx1VwyQ1Bzt9y_9-k-m_aOw8ShusEWA&s",
+      "fuentePagina": "https://www.criscar.com.pe/inventory/kama-kmc1035d4-2ton-motor-%F0%9D%97%9C%F0%9D%97%A6%F0%9D%97%A8%F0%9D%97%AD%F0%9D%97%A8/",
+      "titulo": "KAMA KMC1035D4 2TON motor 𝗜𝗦𝗨𝗭𝗨 - CRISCAR",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCIGbKx1VwyQ1Bzt9y_9-k-m_aOw8ShusEWA&s",
+      "original": "https://www.criscar.com.pe/wp-content/uploads/2022/10/KAMA-KMC1035D4-2TON-MOTOR-ISUZU-2.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bed/qu/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRd1Q2tcRH59vuj1ssJ-lDywGNB0hV4gHh65g&s",
+      "fuentePagina": "https://www.jmsportperu.com/producto/kama-jm-sport/",
+      "titulo": "Kama",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRd1Q2tcRH59vuj1ssJ-lDywGNB0hV4gHh65g&s",
+      "original": "https://www.jmsportperu.com/wp-content/uploads/2019/04/kama.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bed/qu/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjJEWbM95u2FetocQw8pAfL0y7McIPN0XgaQ&s",
+      "fuentePagina": "https://www.criscar.com.pe/kama/",
+      "titulo": "KAMA",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjJEWbM95u2FetocQw8pAfL0y7McIPN0XgaQ&s",
+      "original": "https://www.criscar.com.pe/wp-content/uploads/2024/06/55.jpg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bed/qu/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRR23uRB_Gmd1zX7kVZp3WNIRNvg6Rm2PIkFg&s",
+      "fuentePagina": "https://hajimekarate.com/comprar/kama-metalica-afilada/",
+      "titulo": "Kama Metálica Afilada - Hajime Karate",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRR23uRB_Gmd1zX7kVZp3WNIRNvg6Rm2PIkFg&s",
+      "original": "https://hajimekarate.com/wp-content/uploads/2019/10/kama-metalica-afilada.jpg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bed/qu/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSB2pi_niQEUc7IpAoryi3AMHwpwiyfKOnTwg&s",
+      "fuentePagina": "https://cults3d.com/es/modelo-3d/moda/kama-209?srsltid=AfmBOoqJaKfI7sV9pXJxTk26BK032v9ctR1nMT-TP1MXN10pZ4bfKvP7",
+      "titulo": "🔫 Kama 209・Archivo 3D para ・Cults",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSB2pi_niQEUc7IpAoryi3AMHwpwiyfKOnTwg&s",
+      "original": "https://fbi.cults3d.com/uploaders/30418163/illustration-file/dff30650-64ec-4512-85ac-42213c984e03/km209.57.jpg"
+    }
+  ]
+}

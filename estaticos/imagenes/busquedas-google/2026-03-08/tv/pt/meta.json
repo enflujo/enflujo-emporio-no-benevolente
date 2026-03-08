@@ -1,0 +1,71 @@
+{
+  "categoria": "tv",
+  "categoriaSlug": "tv",
+  "idioma": "pt",
+  "nombreIdioma": "Português",
+  "termino": "televisão",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:21:29.540Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "pt",
+    "gl": "br"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=televis%C3%A3o&hl=pt&gl=br",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/tv/pt/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPqs5Z2HSTpT_SrwNIxD81Vxta_Lw_nj9JCw&s",
+      "fuentePagina": "https://br.ign.com/descontos/129887/news/chegou-a-hora-de-garantir-uma-televisao-4k-por-menos-de-r-2000",
+      "titulo": "Chegou a hora de garantir uma televisão 4K por menos de R$ 2000!",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPqs5Z2HSTpT_SrwNIxD81Vxta_Lw_nj9JCw&s",
+      "original": "https://sm.ign.com/ign_br/screenshot/default/textos-afiliacao-3_7g4p.png"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/tv/pt/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROeHOdABSQ62nPSOZQm7tFgMq5iEBX7u_vnw&s",
+      "fuentePagina": "https://www.amazon.com.br/Emerson-Televis%C3%A3o-LED-Class-polegadas/dp/B0CGKKWXTS",
+      "titulo": "Emerson Televisão LED Class HD de 24 polegadas | Amazon.com.br",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROeHOdABSQ62nPSOZQm7tFgMq5iEBX7u_vnw&s",
+      "original": "https://m.media-amazon.com/images/I/81wTEx9UBXL.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/tv/pt/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAkZRESO2PDxtF55UvzPF0ubX3gIa-fbu1KA&s",
+      "fuentePagina": "https://www.magazineluiza.com.br/blog-da-lu/c/et/tves/televisao-ou-monitor-qual-escolher/7099/",
+      "titulo": "Televisão ou monitor: qual escolher? - Blog da Lu - Magazine ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAkZRESO2PDxtF55UvzPF0ubX3gIa-fbu1KA&s",
+      "original": "https://wx.mlcdn.com.br/ponzi/production/portaldalu/31726_01.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/tv/pt/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxG8aLVZrkeKlSW848bBRo30ZTv8b1VpITAQ&s",
+      "fuentePagina": "https://www.leroymerlin.com.br/tv",
+      "titulo": "TV em oferta | Leroy Merlin",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxG8aLVZrkeKlSW848bBRo30ZTv8b1VpITAQ&s",
+      "original": "https://cdn.leroymerlin.com.br/categories/televisao_cc32_300x300.jpg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/tv/pt/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROMUFzY_RLdMizT4MO_8UgjxNnkvtlSRcs9g&s",
+      "fuentePagina": "https://www.magazinevoce.com.br/magazineescorrega/suporte-pe-base-mesa-tv-televisao-43-a-55-polegadas-led-4k-lcd-curva-substitui-a-base-original-avatron/p/fa10c523dj/et/easc/",
+      "titulo": "Suporte Pé Base Mesa Tv Televisão 43 A 55 Polegadas Led 4k ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROMUFzY_RLdMizT4MO_8UgjxNnkvtlSRcs9g&s",
+      "original": "https://a-static.mlcdn.com.br/800x600/suporte-pe-base-mesa-tv-televisao-43-a-55-polegadas-led-4k-lcd-curva-substitui-a-base-original-avatron/armazemsilvestre/3285/708aeb1bd626755fbd6c3e0baca830b7.jpeg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/tv/pt/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQaT_rvRRYCDRDHHk0I9MQWPmGrai7BJes9pA&s",
+      "fuentePagina": "https://www.magazineluiza.com.br/blog-da-lu/c/et/tves/tvs-de-plasma-mitos-e-verdades/8679/",
+      "titulo": "TVs de Plasma: mitos e verdades! - Blog da Lu - Magazine Luiza",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQaT_rvRRYCDRDHHk0I9MQWPmGrai7BJes9pA&s",
+      "original": "https://wx.mlcdn.com.br/ponzi/production/portaldalu/526.jpg"
+    }
+  ]
+}

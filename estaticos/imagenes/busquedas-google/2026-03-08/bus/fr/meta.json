@@ -1,0 +1,71 @@
+{
+  "categoria": "bus",
+  "categoriaSlug": "bus",
+  "idioma": "fr",
+  "nombreIdioma": "Français",
+  "termino": "bus",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T20:43:46.019Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "fr",
+    "gl": "be"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=bus&hl=fr&gl=be",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bus/fr/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQm05rRIqxiM6qajVCB9_O2tvvgTs0GLOUydA&s",
+      "fuentePagina": "https://www.volvobuses.com/be-fr/city-and-intercity/buses/volvo-7900-electric.html",
+      "titulo": "Autobus Volvo 7900 Electric | Volvo Buses",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQm05rRIqxiM6qajVCB9_O2tvvgTs0GLOUydA&s",
+      "original": "https://www.volvobuses.com/content/dam/volvo-buses/markets/master/city-and-intercity/complete-buses/volvo-7900-electric/1860x1050-Volvo-7900-Electric-front45.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bus/fr/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBM1LVqxgTno4Zpp370zEClneIZjQL3vIddw&s",
+      "fuentePagina": "https://coulisses.letec.be/comment-le-tec-choisit-ses-bus/",
+      "titulo": "Comment le TEC choisit ses bus ? - Blog TEC",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBM1LVqxgTno4Zpp370zEClneIZjQL3vIddw&s",
+      "original": "https://coulisses.letec.be/wp-content/uploads/2023/09/Volvo-5200-pour-Stembert-scaled.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bus/fr/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQa7WuP6BiEhYCP07QuZwwD1I_2CCMGLzqnA&s",
+      "fuentePagina": "https://www.dealer.volvotrucks.be/arnould/fr-be/volvobus.html",
+      "titulo": "Volvo Bus | Volvo Trucks",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQa7WuP6BiEhYCP07QuZwwD1I_2CCMGLzqnA&s",
+      "original": "https://assets.volvo.com/is/image/VolvoInformationTechnologyAB/bus_9900_couch?qlt=82&wid=1024&ts=1617693796087&dpr=off&fit=constrain"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bus/fr/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuV8GBSycrg2YxlKrhoFE4j0pTd6v4u5-7ew&s",
+      "fuentePagina": "https://en.wikipedia.org/wiki/Bus",
+      "titulo": "Bus - Wikipedia",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuV8GBSycrg2YxlKrhoFE4j0pTd6v4u5-7ew&s",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/8/84/LTZ1328-19-20241030-160332.jpg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bus/fr/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrSPLr8J-seyaZ_oM7S1A7ePYdnWYjGHE5eQ&s",
+      "fuentePagina": "https://www.dealer.volvotrucks.be/arnould/fr-be/volvobus.html",
+      "titulo": "Volvo Bus | Volvo Trucks",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrSPLr8J-seyaZ_oM7S1A7ePYdnWYjGHE5eQ&s",
+      "original": "https://assets.volvo.com/is/image/VolvoInformationTechnologyAB/bus_7900L_city?qlt=82&wid=1024&ts=1617693796047&dpr=off&fit=constrain"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bus/fr/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCAn2ZsaIDhaSfV8Y0WGUoM5OU6wVdyZajMA&s",
+      "fuentePagina": "https://www.ebusco.com/fr/une-premiere-aux-pays-bas-39-bus-electriques-ebusco-a-carrosserie-legere-entierement-concue-en-materiaux-composites-sillonneront-les-regions-du-gooi-et-de-vecht/",
+      "titulo": "Une première aux Pays-Bas : 39 bus électriques EBUSCO à ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCAn2ZsaIDhaSfV8Y0WGUoM5OU6wVdyZajMA&s",
+      "original": "https://www.ebusco.com/wp-content/uploads/ebusco_30_rnet_front_01-scaled.jpg"
+    }
+  ]
+}

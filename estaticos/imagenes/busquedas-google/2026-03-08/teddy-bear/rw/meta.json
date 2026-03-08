@@ -1,0 +1,71 @@
+{
+  "categoria": "teddy bear",
+  "categoriaSlug": "teddy-bear",
+  "idioma": "rw",
+  "nombreIdioma": "Kinyarwanda",
+  "termino": "inzuki y'urukundo",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:30:55.424Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "en",
+    "gl": "rw"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=inzuki%20y'urukundo&hl=en&gl=rw",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/teddy-bear/rw/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEYlnXm6BjmQa1Bq6FJMKLpyiY--KT_LZb1w&s",
+      "fuentePagina": "https://www.kigalitoday.com/amakuru/mu-rwanda/article/inkuru-y-urukundo-hagati-y-abavumvu-na-pariki-ya-gishwati-mukura",
+      "titulo": "Inkuru y'urukundo hagati y'abavumvu na pariki ya Gishwati ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEYlnXm6BjmQa1Bq6FJMKLpyiY--KT_LZb1w&s",
+      "original": "https://www.kigalitoday.com/IMG/jpg/whatsapp_image_2025-05-22_at_11.16_30.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/teddy-bear/rw/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyzbv21xBmWcMyisnVlFyKBzz1IdnD75f_TQ&s",
+      "fuentePagina": "https://www.kigalitoday.com/amakuru/mu-rwanda/article/inkuru-y-urukundo-hagati-y-abavumvu-na-pariki-ya-gishwati-mukura",
+      "titulo": "Inkuru y'urukundo hagati y'abavumvu na pariki ya Gishwati ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyzbv21xBmWcMyisnVlFyKBzz1IdnD75f_TQ&s",
+      "original": "https://www.kigalitoday.com/IMG/jpg/whatsapp_image_2025-05-22_at_11.16_31_1_.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/teddy-bear/rw/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0ToqDfAaBO6iHFbmwzy4IuQXRIw5qWSSPtw&s",
+      "fuentePagina": "https://www.youtube.com/watch?v=aPDX4FN4RiQ",
+      "titulo": "🥰INKURU Y’URUKUNDO NZiZA🥰MUTESI WANJYE🥰Episode.20 FiNAL | Inkuru  z'urukundo By Alpha Samu",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0ToqDfAaBO6iHFbmwzy4IuQXRIw5qWSSPtw&s",
+      "original": "https://i.ytimg.com/vi/aPDX4FN4RiQ/maxresdefault.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/teddy-bear/rw/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbeOTOzmmY2J0OWnZg4_CEcWFzdeI88U4OdA&s",
+      "fuentePagina": "https://www.youtube.com/watch?v=Vt8nYXor1Es",
+      "titulo": "INTSINZI Y'URUKUNDO EP01 // Uko William na Yvette bamenyanye",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbeOTOzmmY2J0OWnZg4_CEcWFzdeI88U4OdA&s",
+      "original": "https://i.ytimg.com/vi/Vt8nYXor1Es/maxresdefault.jpg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/teddy-bear/rw/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRW-sf43RDA1lYopI4gv9vd2gbnJeORtwfF5A&s",
+      "fuentePagina": "https://www.youtube.com/watch?v=SWUty31sPHY",
+      "titulo": "INKURU Y'URUKUNDO: ❣️BRIGITTE na SAMUEL❣️S03 EP01: IRYOSHYE KURENZA INKURU  Z'URUKUNDO BY ALPHA SAMU",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRW-sf43RDA1lYopI4gv9vd2gbnJeORtwfF5A&s",
+      "original": "https://i.ytimg.com/vi/SWUty31sPHY/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLAoMNYmSGjdqTOEBC8F4NVJoW_mUw"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/teddy-bear/rw/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmOVj-UkGo6ZA1jh3VR2PCVu5dGeopCMyjNw&s",
+      "fuentePagina": "https://www.amazon.com/Inkuru-zurukundo-Nseko-Aimable-Kinyarwanda/dp/1492353825",
+      "titulo": "Inkuru Z'Urukundo Za Nseko Aimable: Nseko Aimable (Imitoma Y ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmOVj-UkGo6ZA1jh3VR2PCVu5dGeopCMyjNw&s",
+      "original": "https://m.media-amazon.com/images/I/614OaaRFBBL._AC_UF350,350_QL50_.jpg"
+    }
+  ]
+}

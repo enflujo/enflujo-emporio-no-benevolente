@@ -1,0 +1,71 @@
+{
+  "categoria": "snowboard",
+  "categoriaSlug": "snowboard",
+  "idioma": "zh",
+  "nombreIdioma": "中文",
+  "termino": "单板滑雪",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:01:08.461Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "zh-CN",
+    "gl": "cn"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=%E5%8D%95%E6%9D%BF%E6%BB%91%E9%9B%AA&hl=zh-CN&gl=cn",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/snowboard/zh/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTB51LAeDvVs1dOZ3myLxFGW2qhtsC7EH2D1g&s",
+      "fuentePagina": "https://www.chinaiprlaw.cn/index.php?id=5791",
+      "titulo": "单板滑雪- 记者媒体- 知识产权司法保护网（知产法网）",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTB51LAeDvVs1dOZ3myLxFGW2qhtsC7EH2D1g&s",
+      "original": "https://www.chinaiprlaw.cn/data/upload/image/20220130/1643553890727480.png"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/snowboard/zh/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQb2NxJP59bCSACHMqpQiKGvz2JrASdye4oA&s",
+      "fuentePagina": "https://baike.baidu.com/item/%E5%8D%95%E6%9D%BF%E6%BB%91%E9%9B%AA/26192",
+      "titulo": "单板滑雪_百度百科",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQb2NxJP59bCSACHMqpQiKGvz2JrASdye4oA&s",
+      "original": "https://bkimg.cdn.bcebos.com/smart/b64543a98226cffc1e17eeb13a565d90f603738dbc23-bkimg-process,v_1,rw_1,rh_1,pad_1,color_ffffff?x-bce-process=image/format,f_auto"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/snowboard/zh/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTczNvoz6UJ_S7G7Ut2XmLP3qW5nTgcxzwaSQ&s",
+      "fuentePagina": "https://zh.wikipedia.org/zh-cn/%E5%96%AE%E6%9D%BF%E6%BB%91%E9%9B%AA",
+      "titulo": "单板滑雪- 维基百科，自由的百科全书",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTczNvoz6UJ_S7G7Ut2XmLP3qW5nTgcxzwaSQ&s",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/1/16/Snowboarding.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/snowboard/zh/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQawRGV_WUwdGW9VX0L8yP80a-fYtKUd3aYQ&s",
+      "fuentePagina": "https://www.olympics.com/zh/news/olympic-snowboarding-at-beijing-2022-top-five-things-to-know",
+      "titulo": "2022年北京冬奥会单板滑雪：你需要了解的五件事",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQawRGV_WUwdGW9VX0L8yP80a-fYtKUd3aYQ&s",
+      "original": "https://img.olympics.com/images/image/private/t_s_pog_staticContent_hero_xl_2x/f_auto/primary/eyvrwpjhj50qihd7hoab"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/snowboard/zh/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQI7bodrQWIZU5NED77jzu207wrkUAiHTTY8A&s",
+      "fuentePagina": "https://www.redbull.com/cn-zh/snowboard-jumps-trick-tips",
+      "titulo": "跳台跳跃的基础技巧",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQI7bodrQWIZU5NED77jzu207wrkUAiHTTY8A&s",
+      "original": "https://img.redbull.com/images/q_auto,f_auto/redbullcom/2020/11/25/ahhotwjjykracwn6hrlr/sean-neary-snowboard-jump"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/snowboard/zh/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJvPg4HkZhHvjZVT5pfF2rDbJqoRtgpw1wPA&s",
+      "fuentePagina": "https://language.chinadaily.com.cn/a/202202/07/WS6200d3b4a310cdd39bc85218.html",
+      "titulo": "一课译词：单板滑雪- Chinadaily.com.cn",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJvPg4HkZhHvjZVT5pfF2rDbJqoRtgpw1wPA&s",
+      "original": "https://img2.chinadaily.com.cn/images/202202/07/6200d7c4a310cdd3d82bf90a.jpeg"
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "categoria": "hair drier",
+  "categoriaSlug": "hair-drier",
+  "idioma": "am",
+  "nombreIdioma": "Amharic — አማርኛ",
+  "termino": "ፀጉር ማድረቂያ",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:31:44.494Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "am",
+    "gl": "et"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=%E1%8D%80%E1%8C%89%E1%88%AD%20%E1%88%9B%E1%8B%B5%E1%88%A8%E1%89%82%E1%8B%AB&hl=am&gl=et",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/hair-drier/am/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS79VRQow3J2HBVMwTYkjzUe6fOJ9MP8uuIUw&s",
+      "fuentePagina": "https://am.come4buy.com/products/hair-dryer-21081201",
+      "titulo": "ባለሁለት ዓላማ ሙቅ አየር ማበጠሪያ ፕሮፌሽናል ፀጉር ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS79VRQow3J2HBVMwTYkjzUe6fOJ9MP8uuIUw&s",
+      "original": "http://come4buy.com/cdn/shop/products/21081201-D_1200x1200.jpg?v=1628739529"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/hair-drier/am/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7Qvc6DudMmx9AjOUXyJWeHHMHjEaBot-1MQ&s",
+      "fuentePagina": "http://am.hjbarbers.com/2-way-hair-dryer-hot-and-cold-a8898-product/",
+      "titulo": "ቻይና ባለ ሁለት መንገድ ፀጉር ማድረቂያ ሙቅ እና ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7Qvc6DudMmx9AjOUXyJWeHHMHjEaBot-1MQ&s",
+      "original": "http://cdn.globalso.com/hjbarbers/0148.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/hair-drier/am/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIhNO8rn0tFuCgf7RJnMgE666ZGKLp7I9OjQ&s",
+      "fuentePagina": "http://am.cnubetter.com/cheapest-price-professional-hair-dryer-2400w-hair-blow-dryer-electric-hair-dryer-professional-salon-high-speed-hair-dryer-ionic-hair-dryer-portable-hair-dryer-for-sale-product/",
+      "titulo": "ቻይና በጣም ርካሽ ዋጋ ፕሮፌሽናል ፀጉር ማድረቂያ ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIhNO8rn0tFuCgf7RJnMgE666ZGKLp7I9OjQ&s",
+      "original": "https://cdn.globalso.com/cnubetter/GREY-21.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/hair-drier/am/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2nmlQ7TJtFulTNgbMP691FP7Rgeohkl1HEQ&s",
+      "fuentePagina": "https://am.sewasew.com/p/%E1%8B%A8%E1%8C%B8%E1%8C%89%E1%88%AD-%E1%88%9B%E1%8B%B5%E1%88%A8%E1%89%82%E1%8B%AB-%E1%88%9B%E1%88%BD%E1%8A%95-%E1%88%B5%E1%8A%95%E1%88%98%E1%88%AD%E1%8C%A5-%E1%88%9B%E1%88%B5%E1%89%B0%E1%8B%8B%E1%88%8D-%E1%8B%AB%E1%88%89%E1%89%A5%E1%8A%95-%E1%8A%90%E1%8C%A5%E1%89%A6%E1%89%BD",
+      "titulo": "ሰዋስው | የጸጉር ማድረቂያ ማሽን ስንመርጥ ማስተዋል ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2nmlQ7TJtFulTNgbMP691FP7Rgeohkl1HEQ&s",
+      "original": "https://img.sewasew.com/definitions/75e5b320bbb64c3d86662569f9d76686_640_360"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/hair-drier/am/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTArl_0nVnxAvJ7RmMuN-ywJcHTCvf-q_paiA&s",
+      "fuentePagina": "https://am.manuals.plus/yadesba/ionic-hair-dryer-with-diffuser-and-holder-manual",
+      "titulo": "ያደስባ አዮኒክ ፀጉር ማድረቂያ ከአከፋፋይ እና መያዣ ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTArl_0nVnxAvJ7RmMuN-ywJcHTCvf-q_paiA&s",
+      "original": "https://manuals.plus/wp-content/uploads/2024/02/Screenshot_16-591.png"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/hair-drier/am/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSH0qd6CbCLLqOi3PSepf521q6k1Lyn8ac5ZQ&s",
+      "fuentePagina": "https://jiji.com.et/bole/hair-beauty/yaseetoce-tzagure-maaderaqiyaa-ceriotti-ladys-hair-dryer-set-7HQRSb1ikLdnNtB8p9Q6cjf6.html",
+      "titulo": "የሴቶች ፀጉር ማድረቂያ(Ceriotti Lady's Hair Dryer Set ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSH0qd6CbCLLqOi3PSepf521q6k1Lyn8ac5ZQ&s",
+      "original": "https://pictures-ethiopia.jijistatic.com/9857219_NjIwLTQyOS03YjdkNTJiZjgy.webp"
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "categoria": "fire hydrant",
+  "categoriaSlug": "fire-hydrant",
+  "idioma": "en",
+  "nombreIdioma": "English",
+  "termino": "fire hydrant",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T20:46:53.616Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "en",
+    "gl": "us"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=fire%20hydrant&hl=en&gl=us",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/fire-hydrant/en/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSroIbYxulgaSjhGJzdKaflPivkzOPr9Gy2Q&s",
+      "fuentePagina": "https://en.wikipedia.org/wiki/Fire_hydrant",
+      "titulo": "Fire hydrant - Wikipedia",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSroIbYxulgaSjhGJzdKaflPivkzOPr9Gy2Q&s",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Downtown_Charlottesville_fire_hydrant.jpg/250px-Downtown_Charlottesville_fire_hydrant.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/fire-hydrant/en/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZKrjRqAomVUdfYXc67xXl8ewjY8T2Jshw0Q&s",
+      "fuentePagina": "https://www.inspectpoint.com/fire-hydrant/",
+      "titulo": "The History of the Fire Hydrant - Inspect Point",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZKrjRqAomVUdfYXc67xXl8ewjY8T2Jshw0Q&s",
+      "original": "https://www.inspectpoint.com/wp-content/uploads/grass-lawn-meadow-play-flower-dog-678958-pxhere.com_.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/fire-hydrant/en/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6X-DpR2WYUhnt6Jn8jcLaxRFSZKzOZ5N4Ag&s",
+      "fuentePagina": "https://american-usa.com/products/valves-and-hydrants/fire-hydrants/5-1-4-american-darling-b-62-b-5",
+      "titulo": "5-1/4” American-Darling® B-62-B-5 | AMERICAN",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6X-DpR2WYUhnt6Jn8jcLaxRFSZKzOZ5N4Ag&s",
+      "original": "https://american-usa.com/img/http/aHR0cHM6Ly9hbWVyaWNhbi11c2EuYXRsMS5jZG4uZGlnaXRhbG9jZWFuc3BhY2VzLmNvbS9wb3N0cy81MjUtYjYyYi1hc3NlbWJseS11cHBlci1iYXJyZWwtMDctMTAtMjMtMTcxNjQ5NjEyNC5wbmc/525-b62b-assembly-upper-barrel-07-10-23-1716496124.png?p=posts-full&fm=webp&q=100&s=508a9db756761d30a2cd4fa14462cb6e"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/fire-hydrant/en/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8qYbNLHGbOQC159nr355dDCxfKga90LYaoA&s",
+      "fuentePagina": "https://velocitywaterservices.ca/resources/blog/9-things-property-managers-need-to-know-about-fire-hydrant-maintenance.html",
+      "titulo": "9 Things Property Managers Need to Know About Fire Hydrant ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8qYbNLHGbOQC159nr355dDCxfKga90LYaoA&s",
+      "original": "https://velocitywaterservices.ca/uploads/typical-american-red-fire-hydrant-picture-id94738262.jpg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/fire-hydrant/en/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfQsRnFvGuH1sW30F9MpaS_BbM97W3zhXbWg&s",
+      "fuentePagina": "https://www.lehighcountyauthority.org/2020/07/no-matter-how-hot-opening-a-hydrant-isnt-cool/",
+      "titulo": "Opening A Fire Hydrant to Cool Off is Not Cool | Lehigh ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfQsRnFvGuH1sW30F9MpaS_BbM97W3zhXbWg&s",
+      "original": "https://www.lehighcountyauthority.org/wp-content/uploads/2020/07/LCA_hydrantistock.jpg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/fire-hydrant/en/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4BEe4iWDMUkgBF-x2XZ18w4HxfxO6dGL31A&s",
+      "fuentePagina": "https://www1.wsrb.com/blog/if-fire-strikes-make-every-second-count-part-3",
+      "titulo": "If Fire Strikes, Make Every Second Count: Hydrant Access ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4BEe4iWDMUkgBF-x2XZ18w4HxfxO6dGL31A&s",
+      "original": "https://www1.wsrb.com/hs-fs/hubfs/If%20fire%20strikes%20part%203%20resized.jpg?width=600&name=If%20fire%20strikes%20part%203%20resized.jpg"
+    }
+  ]
+}

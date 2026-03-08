@@ -1,0 +1,71 @@
+{
+  "categoria": "microwave",
+  "categoriaSlug": "microwave",
+  "idioma": "ar",
+  "nombreIdioma": "العربية",
+  "termino": "ميكروويف",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:25:07.315Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "ar",
+    "gl": "eg"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=%D9%85%D9%8A%D9%83%D8%B1%D9%88%D9%88%D9%8A%D9%81&hl=ar&gl=eg",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/microwave/ar/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRF26wvYqLwJmWRerVmkrrrPCSwI1zkcKUMvg&s",
+      "fuentePagina": "https://www.amazon.eg/%D9%85%D9%8A%D9%83%D8%B1%D9%88%D9%88%D9%8A%D9%81-%D8%A8%D8%B4%D9%88%D8%A7%D9%8A%D8%A9-%D8%B3%D8%B9%D8%A9-25-%D9%84%D8%AA%D8%B1/dp/B084FG16ZS",
+      "titulo": "ميكروويف بشواية سعة 25 لتر - قدرة 900 وات - مزود بـ 6 قوائم ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRF26wvYqLwJmWRerVmkrrrPCSwI1zkcKUMvg&s",
+      "original": "https://m.media-amazon.com/images/I/61GWN9rS0+L._AC_UF894,1000_QL80_.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/microwave/ar/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQmmEyNtM_b1hK3TzgcGu95BXCNl97ISi13Q&s",
+      "fuentePagina": "https://www.electronichouseegypt.com/ar/products/fresh-microwave-25-l-900-watt-with-grill",
+      "titulo": "ميكرويف فريش 25 لتر 900 وات بالشواية - FMW-25KCG-S-6736 ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQmmEyNtM_b1hK3TzgcGu95BXCNl97ISi13Q&s",
+      "original": "http://www.electronichouseegypt.com/cdn/shop/products/366.png?v=1622046128"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/microwave/ar/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLGqCUR-1G-9_q7lai4VQNk1eIhDU_ELY6OA&s",
+      "fuentePagina": "https://berty-center.com/product/ms23f300eew-gy/?srsltid=AfmBOorfTayZSLdL3t3XWB8P5Ql8L7Pz_JFfq-oBDhmtj_Ikj-5RZGMd",
+      "titulo": "ميكروويف سامسونج 23 لتر بدون شواية أسود في أبيض MS23F300EEW ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLGqCUR-1G-9_q7lai4VQNk1eIhDU_ELY6OA&s",
+      "original": "https://berty-center.com/wp-content/uploads/2023/10/seeeee-01-1.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/microwave/ar/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIspPXrncoespzNdaRFOdtr_BLZupGJQUm8A&s",
+      "fuentePagina": "https://www.samsung.com/eg/microwave-ovens/solo/mw5500d-grill-solo-mwo-seamless-and-recessed-handle-design-sheath-heater-mg40dg5524atgy/",
+      "titulo": "احصل على ميكروويف سامسونج سولو | سامسونج مصر",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIspPXrncoespzNdaRFOdtr_BLZupGJQUm8A&s",
+      "original": "https://images.samsung.com/is/image/samsung/p6pim/eg/mg40dg5524atgy/gallery/eg-mw5500d-mg40dg5524at-mg40dg5524atgy-543825160?$Q90_1248_936_F_PNG$"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/microwave/ar/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4W6eYqRJ532xDxA0D1YhHSu5fpoCCQqICjg&s",
+      "fuentePagina": "https://cairosales.com/ar/microwaves/samsung-microwave-40l-grill-with-heater-and-home-dessert-plate-black-mg40dg5524atgy.html?srsltid=AfmBOorZDN13eVIbeSF8MF2c9peinaH_zdxCUdFeRdEykmzCTKhMukv_",
+      "titulo": "سامسونج ميكروويف 40 لتر شواية مع سخان وطبق حلى منزلي لون ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4W6eYqRJ532xDxA0D1YhHSu5fpoCCQqICjg&s",
+      "original": "https://cairosales.com/108288-large_default/samsung-microwave-40l-grill-with-heater-and-home-dessert-plate-black-mg40dg5524atgy.jpg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/microwave/ar/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXMWW6tWydPYCQp5kPyofNXXEbCX6PjQCnZg&s",
+      "fuentePagina": "https://fresh.com.eg/ar/products/fresh-microwave-oven-20-l-black?srsltid=AfmBOoqkqJFtIQt1eFttteOG0QNspdNiGqKyB_Gdf3JcLSXPWQUngS2D",
+      "titulo": "ميكروويف فريش 20 لترأسود",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXMWW6tWydPYCQp5kPyofNXXEbCX6PjQCnZg&s",
+      "original": "https://be.fresh.com.eg/media/catalog/product/cache/6fdb9282313a7e48374fe05a5418029a/f/r/fresh_microwave_oven_20l_black.png"
+    }
+  ]
+}

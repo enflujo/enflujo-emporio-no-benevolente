@@ -1,0 +1,71 @@
+{
+  "categoria": "refrigerator",
+  "categoriaSlug": "refrigerator",
+  "idioma": "nah",
+  "nombreIdioma": "Náhuatl",
+  "termino": "refrigerador",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:27:51.121Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "es",
+    "gl": "mx"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=refrigerador&hl=es&gl=mx",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/refrigerator/nah/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRigW0GJ48xaZTiMA1cSrJY3qQO7RzPFdpV_w&s",
+      "fuentePagina": "https://geprofile.lat/es_MX/Refrigeracion/Refrigeradores/Refrigerador-Autom%C3%A1tico-755-L-Grafito-GE-Appliances-%E2%80%93-GNM26AETFSS/p/GNM26AETFSS",
+      "titulo": "Refrigerador Automático 755 L Grafito GE Appliances ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRigW0GJ48xaZTiMA1cSrJY3qQO7RzPFdpV_w&s",
+      "original": "https://geprofile.lat/medias/515Wx515H-GEAppliances-Refrigeradores-755LT-Inoxidable-GNM26AETFSS-Frente.jpg?context=bWFzdGVyfHJvb3R8NjkzMDB8aW1hZ2UvanBlZ3xhREF4TDJnMU5DOHhNVFUxT0RjNU5EVTVNakk0Tmk4MU1UVlhlRFV4TlVoZlIwVkJjSEJzYVdGdVkyVnpMVkpsWm5KcFoyVnlZV1J2Y21WekxUYzFOVXhVTFVsdWIzaHBaR0ZpYkdVdFIwNU5NalpCUlZSR1UxTXRSbkpsYm5SbExtcHdad3wwNjFkZGZjYWE2OWQ2Yjc3YjAwZGUzNDU5ODg4YTZiYjc1NDVkNTRlNDBmYTNkNGQ0OWQ0MWI5ZWRmOTU0OGZh"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/refrigerator/nah/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqpv44eUEAejqlxdCEVjTp5DiEgCKOuAVzPQ&s",
+      "fuentePagina": "https://cantia.com.mx/products/refrigerador-mabe-m8132?srsltid=AfmBOorLg7WKLG1PTPiQTVyvEuxxmIHeXgWeLkLygQbWRcME23P39GgX",
+      "titulo": "Refrigerador mabe Top Mount",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqpv44eUEAejqlxdCEVjTp5DiEgCKOuAVzPQ&s",
+      "original": "http://cantia.com.mx/cdn/shop/products/M8132_2b52000f-6e96-4918-8112-8c688e84996e.png?v=1659026261"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/refrigerator/nah/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRj2JHd_rlplDaByHXkfEMmU6pYdWvMsRZ9lA&s",
+      "fuentePagina": "https://kitch.mx/products/refrigerador-french-door-80-whirlpool-mwrf140swhm?srsltid=AfmBOoq7mgdXkSf8ptqAiMOCuNMw4Ca1BiOL8N-zVvupZIJ7aK-e6bDu",
+      "titulo": "Refrigerador French Door 30\" Whirlpool MWRF140SWHM – Kitch",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRj2JHd_rlplDaByHXkfEMmU6pYdWvMsRZ9lA&s",
+      "original": "https://kitch.mx/cdn/shop/products/2_85353780-345d-4b01-ac40-44211544c161.jpg?v=1615505690"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/refrigerator/nah/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVVMXBR-Xq9xDZONtD1-P5uz085dSYjkGarQ&s",
+      "fuentePagina": "https://www.viu.mx/refrigerador-french-door-lg-gm39bvp-29-pies-lg-01444.html?srsltid=AfmBOoqokL2XOV2tqi4FCCEThSmgbbDCazOIGllDPJbYGyAhcL3K_Bq1",
+      "titulo": "Refrigerador French Door LG GM39BVP 29 Pies",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVVMXBR-Xq9xDZONtD1-P5uz085dSYjkGarQ&s",
+      "original": "https://www.viu.mx/img/1024/1024/resize/L/G/LG_01444_x1_1.jpg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/refrigerator/nah/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQBAV8NoZTWSZY7ghj_phP-EAonFMHHBWW7w&s",
+      "fuentePagina": "https://muebleriaplaza.com.mx/producto/refrigerador-mabe-rme360fgmrq0-con-despachador/",
+      "titulo": "REFRIGERADOR MABE RME360FGMRQ0 CON DESPACHADOR",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQBAV8NoZTWSZY7ghj_phP-EAonFMHHBWW7w&s",
+      "original": "https://muebleriaplaza.com.mx/wp-content/uploads/2024/07/REFRIGERADOR-MABE-RME360FGMRQ0-CON-DESPACHADOR-FOTO-2.jpg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/refrigerator/nah/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxEczrU3jqfQZwpxszlvAvdDUWG7Xl6L49Iw&s",
+      "fuentePagina": "https://www.amazon.com.mx/R-W-FLAME-refrigerador-congelador-microrefrigerador-controlado/dp/B0BD3D63V4",
+      "titulo": "R.W.FLAME Mini refrigerador con congelador, bajo ruido, 3.2 Cu. Ft -  Refrigerador pequeño, refrigerador compacto de 48 litros para recámara,  oficina, ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxEczrU3jqfQZwpxszlvAvdDUWG7Xl6L49Iw&s",
+      "original": "https://m.media-amazon.com/images/I/71DvGHjZORL._AC_UF894,1000_QL80_.jpg"
+    }
+  ]
+}

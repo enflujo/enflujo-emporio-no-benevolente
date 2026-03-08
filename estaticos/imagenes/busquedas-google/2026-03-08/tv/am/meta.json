@@ -1,0 +1,71 @@
+{
+  "categoria": "tv",
+  "categoriaSlug": "tv",
+  "idioma": "am",
+  "nombreIdioma": "Amharic — አማርኛ",
+  "termino": "ቴሌቪዥን",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:21:09.056Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "am",
+    "gl": "et"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=%E1%89%B4%E1%88%8C%E1%89%AA%E1%8B%A5%E1%8A%95&hl=am&gl=et",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/tv/am/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXF6ortBm1aDAGNjmQ08HzKBy-do6iV8P3hg&s",
+      "fuentePagina": "https://am.sewasew.com/p/%E1%88%9D%E1%88%AD%E1%8C%A5-%E1%89%B4%E1%88%8C%E1%89%AA%E1%8B%A5%E1%8A%95-%E1%88%98%E1%8C%88%E1%88%88%E1%8C%AB%E1%8B%8D-%E1%88%9D%E1%8A%95%E1%8B%B5%E1%8A%95-%E1%8A%90%E1%8B%8D",
+      "titulo": "ሰዋስው | ምርጥ ቴሌቪዥን መገለጫው ምንድን ነው?",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXF6ortBm1aDAGNjmQ08HzKBy-do6iV8P3hg&s",
+      "original": "https://st.depositphotos.com/1000128/5100/i/600/depositphotos_51000613-stock-photo-smart-tv.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/tv/am/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsvFqfvCppA-g82ioUQQrrUPYkGbGC95gWQQ&s",
+      "fuentePagina": "https://ti.wikipedia.org/wiki/%E1%89%B4%E1%88%8C%E1%89%AA%E1%8B%A5%E1%8A%95",
+      "titulo": "ቴሌቪዥን - ዊኪፐድያ፣ ናጻ ኢንሳይክሎፐድያ",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsvFqfvCppA-g82ioUQQrrUPYkGbGC95gWQQ&s",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Samsung_LE26R41BD_and_Yamada_DVD_player_20030624.jpg/330px-Samsung_LE26R41BD_and_Yamada_DVD_player_20030624.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/tv/am/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdkqGnB6SRcopvBfv06FkmrKrp49e_XncsvA&s",
+      "fuentePagina": "https://addismaleda.com/archives/32558",
+      "titulo": "የቴሌቪዥን አገልግሎትና የፍቃድ ክፍያው | Addis Maleda",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdkqGnB6SRcopvBfv06FkmrKrp49e_XncsvA&s",
+      "original": "https://addismaleda.com/wp-content/uploads/2022/10/tv.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/tv/am/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSz_2MuLE0cchlh37iUHxFk5jA-UQL0kUnpEg&s",
+      "fuentePagina": "https://www.dizayini.com/?D=29007",
+      "titulo": "XX240 BMS SNB LED TV የሚመራ ቴሌቪዥን - ንድፍ መጽሔት",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSz_2MuLE0cchlh37iUHxFk5jA-UQL0kUnpEg&s",
+      "original": "https://competition.adesignaward.com/award-winner-design-1200.php?ID=29007"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/tv/am/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcq4oW-XA0ko2YH8btAUKweBrmG3NbTFPMDg&s",
+      "fuentePagina": "http://am.fridge-aircon.com/39-inch-wifi-wall-mount-hd-plasma-smart-tv-flat-screen-television-television-set-product/",
+      "titulo": "ቻይና 39 ኢንች WIFI ግድግዳ ኤችዲ ፕላዝማ ስማርት ቲቪ ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcq4oW-XA0ko2YH8btAUKweBrmG3NbTFPMDg&s",
+      "original": "http://cdn.globalso.com/fridge-aircon/4k-televisions.jpg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/tv/am/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThvAHlqLX7ykU-eakz-Tq_QAnyLa0Vqn0Kpw&s",
+      "fuentePagina": "https://soderestore.com/%E1%88%9A%E1%8B%8A-%E1%89%B4%E1%88%8C%E1%89%AA%E1%8B%A5%E1%8A%95-MeWe-Television-p242109005",
+      "titulo": "ሚዊ ቴሌቪዥን MeWe Television",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThvAHlqLX7ykU-eakz-Tq_QAnyLa0Vqn0Kpw&s",
+      "original": "https://d2j6dbq0eux0bg.cloudfront.net/images/16648100/1694796181.jpg"
+    }
+  ]
+}

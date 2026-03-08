@@ -1,0 +1,71 @@
+{
+  "categoria": "suitcase",
+  "categoriaSlug": "suitcase",
+  "idioma": "nah",
+  "nombreIdioma": "Náhuatl",
+  "termino": "maleta",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T20:59:16.784Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "es",
+    "gl": "mx"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=maleta&hl=es&gl=mx",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/suitcase/nah/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRip3EFahD7D6H5UfbQ39ZQMED1CRULRtkSbw&s",
+      "fuentePagina": "https://www.amazon.com.mx/Equipaje-Pulgadas-Duradera-Giratorias-Maletas/dp/B0CHNZGGRX",
+      "titulo": "Maleta Equipaje de Mano Maleta De Viaje De 20/24/28 Pulgadas ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRip3EFahD7D6H5UfbQ39ZQMED1CRULRtkSbw&s",
+      "original": "https://m.media-amazon.com/images/I/51S4RYqrd4L.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/suitcase/nah/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRY8WTxST07emi2bOcAPiLaKNte_V44BXAhCw&s",
+      "fuentePagina": "https://chenson.com.mx/products/maleta-de-viaje-negra-chenson-pro-eros?srsltid=AfmBOooIaKJP_FIjU5FFX0ZGcYpVLeXn_24btaReF-YTfy5u8I3UhxrT",
+      "titulo": "Maleta de Viaje Negra Chenson Pro EROS – Chenson Mexico",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRY8WTxST07emi2bOcAPiLaKNte_V44BXAhCw&s",
+      "original": "https://chenson.com.mx/cdn/shop/files/CP70141-3_03_b9c03778-ed19-4fc4-aa74-590760eb67bd_800x.jpg?v=1756160646"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/suitcase/nah/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUXPZStu9UTFMCZy0_jUQzRntjlrmEkTmkgA&s",
+      "fuentePagina": "https://www.amazon.com.mx/Refuerzo-Luggage-suitcase-Armored-CarryOn/dp/B0CJHWXGRG",
+      "titulo": "Maleta De Viaje Carry On 20\" de Mano Cabina 10kg Rígida Doble Refuerzo Con  * TSA Lock * Luggage suitcase Armored Travel (CarryOn - Rosa) : ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUXPZStu9UTFMCZy0_jUQzRntjlrmEkTmkgA&s",
+      "original": "https://m.media-amazon.com/images/I/51qIK1zWi2L._AC_UY1000_.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/suitcase/nah/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBdUztkmkyBbL7dxd-zQ_Uugi-pJ3dntlnkA&s",
+      "fuentePagina": "https://www.suburbia.com.mx/tienda/pdp/maleta-con-ruedas-de-mano-armored-travel/1158644335",
+      "titulo": "Maleta con ruedas de mano Armored Travel | Suburbia",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBdUztkmkyBbL7dxd-zQ_Uugi-pJ3dntlnkA&s",
+      "original": "https://ss323.liverpool.com.mx/xl/1157847542.jpg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/suitcase/nah/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRo2x9gzxQCrBNbG_5P7YpnqRthjJnHkHbx7w&s",
+      "fuentePagina": "https://www.costco.com.mx/c/Ricardo-Beverly-Hills-Maleta-Carry-On-Eco-Pet-Varios-Colores/p/VA1872167?srsltid=AfmBOorb8iFx5x2poFFF72Lx-HkxUSY7CzwML6NnIOJrGzU69fPfbLyR",
+      "titulo": "Ricardo Beverly Hills Maleta Carry On Eco Pet Varios Colores",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRo2x9gzxQCrBNbG_5P7YpnqRthjJnHkHbx7w&s",
+      "original": "http://www.costco.com.mx/medias/sys_master/products/hf5/hd9/381279959384094.jpg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/suitcase/nah/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlNVFqB83-_93IvUfHUrf4KztrycsEWNcsyw&s",
+      "fuentePagina": "https://www.ferrioni.com/products/maleta-trails-mp0493?srsltid=AfmBOoo5eL-tR0enTL6Y0QzcYP4kARskeSMUOEZXRE-rG_t8EQofAylY",
+      "titulo": "Maleta Trails",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlNVFqB83-_93IvUfHUrf4KztrycsEWNcsyw&s",
+      "original": "http://www.ferrioni.com/cdn/shop/files/0000s_0002_ECOMM_MALETA_TRAILS_24_DO_U_MP0493DOU_2_6029800a-fa4f-43e6-af8c-883bd70ea4d3.jpg?v=1761246773&width=2048"
+    }
+  ]
+}

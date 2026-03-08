@@ -1,0 +1,71 @@
+{
+  "categoria": "cup",
+  "categoriaSlug": "cup",
+  "idioma": "kg",
+  "nombreIdioma": "Kikongo",
+  "termino": "tasi",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:07:22.226Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "fr",
+    "gl": "cd"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=tasi&hl=fr&gl=cd",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/cup/kg/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQG_5l-MWRfwMvA19lWEK8wv1NgZk-r52MhRQ&s",
+      "fuentePagina": "https://www.sciemetric.com/company/partners/tasi",
+      "titulo": "Partners: TASI Test and Automation | Sciemetric",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQG_5l-MWRfwMvA19lWEK8wv1NgZk-r52MhRQ&s",
+      "original": "https://www.sciemetric.com/sites/default/files/images/TASI-Test-and-Automation-Logo.png"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/cup/kg/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGSwAzJ3_g0ZmOkFaXvLoZlAAqANSu1yzEjA&s",
+      "fuentePagina": "https://www.facebook.com/tasi.management/",
+      "titulo": "TASI (@tasi.management) • Facebook",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGSwAzJ3_g0ZmOkFaXvLoZlAAqANSu1yzEjA&s",
+      "original": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=100063581882416"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/cup/kg/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRww92tqEKyfiXJMcUIBarUzlTDzj0lwCGOMQ&s",
+      "fuentePagina": "https://fluidhandlingpro.com/manufacturer/tasi-group/",
+      "titulo": "TASI Group • Fluid Handling Pro",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRww92tqEKyfiXJMcUIBarUzlTDzj0lwCGOMQ&s",
+      "original": "https://fluidhandlingpro.com/wp-content/uploads/2019/07/TASIG.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/cup/kg/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQj8k0W9uWinclgqsjfQDaeETmISiYVqwsgSw&s",
+      "fuentePagina": "https://afk-journey.fandom.com/wiki/Tasi",
+      "titulo": "Tasi | AFK Journey Wiki | Fandom",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQj8k0W9uWinclgqsjfQDaeETmISiYVqwsgSw&s",
+      "original": "https://static.wikia.nocookie.net/afk-journey/images/5/5a/Tasi.png/revision/latest?cb=20241017132809"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/cup/kg/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7sYhlRaGPuXUXe-rmtjvTPgizHWFO7xq_nQ&s",
+      "fuentePagina": "https://www.123mc.com/fr/en/mission-joins-tasi-group/",
+      "titulo": "Mission rejoint le groupe TASI - Mission Communications, LLC ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7sYhlRaGPuXUXe-rmtjvTPgizHWFO7xq_nQ&s",
+      "original": "https://www.123mc.com/wp-content/uploads/2021/05/TASI-FLOW-final.png"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/cup/kg/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSlIz4nRj44-dsREAPr0h5-4uLM88BmKEnww&s",
+      "fuentePagina": "https://www.afkarena.fr/heros/sauvageons/tasi/",
+      "titulo": "AFK Arena.fr - Guide Tasi",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSlIz4nRj44-dsREAPr0h5-4uLM88BmKEnww&s",
+      "original": "https://www.afkarena.fr/wp-content/uploads/2020/01/Tasi-full.png"
+    }
+  ]
+}

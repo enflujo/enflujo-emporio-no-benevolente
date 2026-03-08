@@ -1,0 +1,71 @@
+{
+  "categoria": "remote",
+  "categoriaSlug": "remote",
+  "idioma": "nah",
+  "nombreIdioma": "Náhuatl",
+  "termino": "control",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:23:20.051Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "es",
+    "gl": "mx"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=control&hl=es&gl=mx",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/remote/nah/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSB5y2hyOT0lsZjOnFNTt7QzOxQ-NHWfqLl1g&s",
+      "fuentePagina": "https://www.significados.com/control/",
+      "titulo": "Control (administrativo): qué es, concepto, y tipos ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSB5y2hyOT0lsZjOnFNTt7QzOxQ-NHWfqLl1g&s",
+      "original": "https://s1.significados.com/foto/control-og.jpg?class=ogImageRectangle"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/remote/nah/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjTK8iPtjQTHHIOio2mq3EChm224BccqVrbw&s",
+      "fuentePagina": "https://www.playstation.com/es-mx/games/control/",
+      "titulo": "Control - Juegos de PS4 y PS5 | PlayStation (México)",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjTK8iPtjQTHHIOio2mq3EChm224BccqVrbw&s",
+      "original": "https://image.api.playstation.com/vulcan/ap/rnd/202008/2111/hezOSo9ubBJZtTXCojBgNljX.png"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/remote/nah/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFxFysPxHyfptZwYToO8QT_EXEGZj5SKZYYg&s",
+      "fuentePagina": "https://audagoraauditores.com/blog-contabilidad-auditoria/auditoria/que-es-el-control-interno/",
+      "titulo": "Qué es el control interno?│Blog Audágora Auditores",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFxFysPxHyfptZwYToO8QT_EXEGZj5SKZYYg&s",
+      "original": "https://audagoraauditores.com/wp-content/uploads/2023/08/BL71--1024x683.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/remote/nah/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0PQ9g10MBXAvugyr7uftLByjZLWOe8Hl6ug&s",
+      "fuentePagina": "https://en.wikipedia.org/wiki/Control_(video_game)",
+      "titulo": "Control (video game) - Wikipedia",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0PQ9g10MBXAvugyr7uftLByjZLWOe8Hl6ug&s",
+      "original": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e5/Control_game_cover_art.jpg/250px-Control_game_cover_art.jpg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/remote/nah/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5D9wVXUJczpslOwqQaCHH8xpcfDC5xJ3HDw&s",
+      "fuentePagina": "https://concepto.de/control-en-administracion/",
+      "titulo": "Control en administración - Qué es, objetivos, fases y tipos",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5D9wVXUJczpslOwqQaCHH8xpcfDC5xJ3HDw&s",
+      "original": "https://concepto.de/wp-content/uploads/2018/09/control-administrativo-e1536584105902.jpg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/remote/nah/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHDHKulKLM11bWjUK2vUYRp718Z66F5IsVFg&s",
+      "fuentePagina": "https://www.amazon.com.mx/71501961-Control-Xbox-One/dp/B07DPM9XV7",
+      "titulo": "Control - Standard Edition - Xbox One : Amazon.com.mx: Videojuegos",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHDHKulKLM11bWjUK2vUYRp718Z66F5IsVFg&s",
+      "original": "https://m.media-amazon.com/images/I/71Nls7zTaPL._AC_UF1000,1000_QL80_.jpg"
+    }
+  ]
+}

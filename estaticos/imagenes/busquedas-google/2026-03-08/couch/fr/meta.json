@@ -1,0 +1,71 @@
+{
+  "categoria": "couch",
+  "categoriaSlug": "couch",
+  "idioma": "fr",
+  "nombreIdioma": "Français",
+  "termino": "canapé",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:17:42.683Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "fr",
+    "gl": "be"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=canap%C3%A9&hl=fr&gl=be",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/couch/fr/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbcQNYOV8L7f2Q782yuLhewm_p76YoS_4cEQ&s",
+      "fuentePagina": "https://fr.vente-unique.be/p/canape-dangle-droit-en-tissu-texture-beige-pogni",
+      "titulo": "Grand canapé d'angle droit en velours côtelé fines côtes beige POGNI de  Maison Céphy",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbcQNYOV8L7f2Q782yuLhewm_p76YoS_4cEQ&s",
+      "original": "https://cdn1.vente-unique.com/thumbnails/product/613/613003/large/0/57252932.webp"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/couch/fr/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRh-zhO3jb2oF9yU-BKAD3ggi1qKRTUSRY69A&s",
+      "fuentePagina": "https://www.cuirn1.com/fr-BE/produit/amaretto-canape-3-places-double-profondeur-en-tissu/A6507812.html",
+      "titulo": "AMARETTO Canapé 3 places double profondeur en tissu - Cuir N°1",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRh-zhO3jb2oF9yU-BKAD3ggi1qKRTUSRY69A&s",
+      "original": "https://media.roche-bobois.com/is/image/rochebobois/Amaretto_c3p_Valence_Col28_Ocre?wid=1250&fmt=pjpeg&resMode=sharp2&qlt=80"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/couch/fr/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8xzwzPNr5f5wLTvy_ZJTGT8mUN7kM9pNXFQ&s",
+      "fuentePagina": "https://dimehouse.be/fr/products/canape-dangle-a-3-places-romi-tissu-beige",
+      "titulo": "Canapé d'angle Romi en tissu beige gauche | Dimehouse",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8xzwzPNr5f5wLTvy_ZJTGT8mUN7kM9pNXFQ&s",
+      "original": "https://dimehouse.be/cdn/shop/files/Hoekbank_Romi_stof_beige_links.jpg?v=1765464688"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/couch/fr/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmkgcWYnOVC9Jb--374Wg7DXz9pSi1czsBXw&s",
+      "fuentePagina": "https://www.tikamoon.be/fr/art-canape-bjorn-en-chene-massif-et-tissu-ecru-3-places-6753.htm",
+      "titulo": "Bjorn - Canapé en chêne massif et tissu écru, 3 places",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmkgcWYnOVC9Jb--374Wg7DXz9pSi1czsBXw&s",
+      "original": "https://media.tikamoon.com/images/f_auto/t_product-picture-774/website/product/6753_A_HD_004/canape-bjorn-en-chene-massif-et-tissu-ecru-3-places-6753"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/couch/fr/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGHuGzZKMapCZnJcXKXI63tEaf9OPrx6kJCQ&s",
+      "fuentePagina": "https://www.quatuordesign.be/meubles-interieur/canapes-banquettes-et-poufs/canapes/canape-torino/",
+      "titulo": "Canapé Torino",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGHuGzZKMapCZnJcXKXI63tEaf9OPrx6kJCQ&s",
+      "original": "https://quatuor-images.hungryminds.host/2024/10/11150441/IMG_2726.jpg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/couch/fr/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCsRsMaM7gbvRKknMlM46WVFLKK5R2bmYWHA&s",
+      "fuentePagina": "https://www.emob.be/fr/canape-d-angle-verita-gauche-beige",
+      "titulo": "Canapé d'angle Verita gauche - beige",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCsRsMaM7gbvRKknMlM46WVFLKK5R2bmYWHA&s",
+      "original": "https://www.emob.be/media/catalog/product/cache/53a094445c57bdfaede61de2441adbf7/d/b/db_29322_12_1L_af67.jpg"
+    }
+  ]
+}

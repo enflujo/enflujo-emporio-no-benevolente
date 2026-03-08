@@ -1,0 +1,71 @@
+{
+  "categoria": "dining table",
+  "categoriaSlug": "dining-table",
+  "idioma": "ar",
+  "nombreIdioma": "العربية",
+  "termino": "طاولة طعام",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:19:56.008Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "ar",
+    "gl": "eg"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=%D8%B7%D8%A7%D9%88%D9%84%D8%A9%20%D8%B7%D8%B9%D8%A7%D9%85&hl=ar&gl=eg",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/dining-table/ar/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMUzRbdthMZfma1Uti14JN4TPdHzDeD5HyAg&s",
+      "fuentePagina": "https://www.furnitureofegypt.com/ar/%D8%B7%D8%A7%D9%88%D9%84%D8%A7%D8%AA-%D9%85%D8%B7%D8%A8%D8%AE/1218/%D8%B7%D8%A7%D9%88%D9%84%D8%A9-%D9%85%D8%B7%D8%A8%D8%AE-%DA%A4%D9%8A%D8%B1%D8%B3%D8%AA%D9%84-?srsltid=AfmBOooqGUfkU9Y-NEiJgRfWz7MYl6Zp0nPtXyGrfGBr1XR3ZdD1AtZ-",
+      "titulo": "طاولة طعام فيرستل",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMUzRbdthMZfma1Uti14JN4TPdHzDeD5HyAg&s",
+      "original": "https://backend.furnitureofegypt.com/8x-e-commerce-v3-backend/storage/23234/google_drive_SFPbqy.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/dining-table/ar/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRc4nvBSPrvmaO5KxBXxsuxja7XQzJ6JLwg7w&s",
+      "fuentePagina": "https://www.amazon.eg/%D8%B7%D8%A7%D9%88%D9%84%D9%87-%D9%85%D9%83%D9%88%D9%86%D9%87-%D9%83%D8%B1%D8%A7%D8%B3%D9%8A-%D8%A8%D8%A7%D9%86%D9%83%D8%AA-%D8%A8%D9%84%D9%85%D8%B3%D8%A9/dp/B0F9VG6VX6",
+      "titulo": "طاوله طعام MDF مكونه من 4 كراسي و بانكت بلمسة فاخرة – تنجيد ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRc4nvBSPrvmaO5KxBXxsuxja7XQzJ6JLwg7w&s",
+      "original": "https://m.media-amazon.com/images/I/81w0F6sS3GL.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/dining-table/ar/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSVTw10gGWcBnbSa76L-fgEUF73NWaoF6e0g&s",
+      "fuentePagina": "https://masterroom.com/%D8%BA%D8%B1%D9%81-%D8%A7%D9%84%D8%B7%D8%B9%D8%A7%D9%85/%D8%B7%D8%A7%D9%88%D9%84%D8%A9-%D8%B7%D8%B9%D8%A7%D9%85-%D9%85%D9%88%D8%AF%D8%B1%D9%86-%D9%85%D8%B9-%D9%83%D8%B1%D8%A7%D8%B3%D9%8A-%D8%A8%D8%B3%D9%8A%D8%B7%D8%A9/?srsltid=AfmBOoo19Wd0JTSes4v11Ny5Gj_hXNQ8cJqVwzFgCRK5Z-eUIHlknUuS",
+      "titulo": "طاولة طعام مودرن مع كراسي بسيطة عالي الجودة - Master Room",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSVTw10gGWcBnbSa76L-fgEUF73NWaoF6e0g&s",
+      "original": "https://masterroom.com/wp-content/uploads/2024/05/%D9%83%D8%B1%D8%B3%D9%8A-%D8%B7%D8%A7%D9%88%D9%84%D8%A9-%D8%B7%D8%B9%D8%A7%D9%85-21.webp"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/dining-table/ar/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVW94TzuCJ03QRQe9ZbuGjtD8QxjFtfjjeig&s",
+      "fuentePagina": "https://brassandwood.net/eg-en/dining-rooms/dining-rooms-dinning-roomss.html?srsltid=AfmBOopPvMvEhJoEuyq97jweOl4rCwXsubHdCgQBjxJrx-cN_3QALud2",
+      "titulo": "طاولة طعام دائريه",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVW94TzuCJ03QRQe9ZbuGjtD8QxjFtfjjeig&s",
+      "original": "https://brassandwood.net/media/catalog/product/cache/c88808aac13dfc4682739b8215100e45/8/1/819a0023.jpg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/dining-table/ar/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIf92F541jxZdtEgnn2rKoOv6_52cpu6jBjg&s",
+      "fuentePagina": "https://www.furnitureofegypt.com/ar/%D8%B7%D8%A7%D9%88%D9%84%D8%A7%D8%AA-%D9%85%D8%B7%D8%A8%D8%AE/1210/%D8%B7%D8%A7%D9%88%D9%84%D8%A9-%D9%85%D8%B7%D8%A8%D8%AE-%DA%A4%D9%8A%D8%B1%D9%81%D8%A7?srsltid=AfmBOoq19d6b1dj20yZZNVbg4aoT_Nja-wRUY08jgnuCNFvCTGc5GHOs",
+      "titulo": "طاولة طعام فيرفا",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIf92F541jxZdtEgnn2rKoOv6_52cpu6jBjg&s",
+      "original": "https://backend.furnitureofegypt.com/8x-e-commerce-v3-backend/storage/23209/google_drive_utwHLN.jpg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/dining-table/ar/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSlHNTWIwbaOj6Es9WasYQ8zrE0LuouSmqzg&s",
+      "fuentePagina": "https://www.ikea.com/eg/ar/p/voxloev-dining-table-light-bamboo-40434322/",
+      "titulo": "VOXLÖV طاولة طعام, خيزران فاتح, ‎180x90 سم‏ - IKEA",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSlHNTWIwbaOj6Es9WasYQ8zrE0LuouSmqzg&s",
+      "original": "https://www.ikea.com/eg/ar/images/products/voxloev-dining-table-light-bamboo__0997060_ph176798_s5.jpg?f=s"
+    }
+  ]
+}

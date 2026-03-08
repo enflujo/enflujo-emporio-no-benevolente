@@ -1,0 +1,71 @@
+{
+  "categoria": "train",
+  "categoriaSlug": "train",
+  "idioma": "zh",
+  "nombreIdioma": "中文",
+  "termino": "火车",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T20:44:46.475Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "zh-CN",
+    "gl": "cn"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=%E7%81%AB%E8%BD%A6&hl=zh-CN&gl=cn",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/train/zh/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2xr66II3GBkoXPUjmunqRj_ZqTZoWX1JUSQ&s",
+      "fuentePagina": "https://zh.wikipedia.org/zh-cn/%E9%90%B5%E8%B7%AF%E5%88%97%E8%BB%8A",
+      "titulo": "铁路列车- 维基百科，自由的百科全书",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2xr66II3GBkoXPUjmunqRj_ZqTZoWX1JUSQ&s",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/3/33/DF4D_0353_at_Liucun_%2820210411172849%29.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/train/zh/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4fQxysvZnPIMkxMn8luG3EvGWTgkFkebaxA&s",
+      "fuentePagina": "https://zh.wikipedia.org/zh-cn/%E9%90%B5%E8%B7%AF%E5%88%97%E8%BB%8A",
+      "titulo": "铁路列车- 维基百科，自由的百科全书",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4fQxysvZnPIMkxMn8luG3EvGWTgkFkebaxA&s",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Minehead_7828_Jubilee_Express.jpg/250px-Minehead_7828_Jubilee_Express.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/train/zh/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKijrPW59r-7NC1-bFcZz-10Uoh5i963ajtg&s",
+      "fuentePagina": "https://wapbaike.baidu.com/theme/%E9%90%8F%EE%82%A5%E6%BA%85%E7%BB%94%E7%86%BA%E5%8A%A7%E9%8F%88%E5%A4%8E%E7%B9%96%E6%B6%94%E5%A0%9D%EE%98%BF%E7%BB%89%E5%B6%87%E8%A2%AB%E9%94%9B%E4%BD%B7%E7%B6%98%E9%90%AD%E3%83%A9%E4%BA%BE%E9%8D%9A%E6%A5%8B%E7%B4%B5/48215837682",
+      "titulo": "火车竟然有这么多种类！你知道吗？",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKijrPW59r-7NC1-bFcZz-10Uoh5i963ajtg&s",
+      "original": "https://bkimg.cdn.bcebos.com/pic/6a63f6246b600c332f6473bb134c510fd9f9a1a0?x-bce-process=image/crop,x_0,y_17,w_550,h_275/resize,m_lfit,w_800,h_400,limit_0/format,f_auto"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/train/zh/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsRrqPKQ9HfyysG2zBFVFW0gigkKr_GrZCJw&s",
+      "fuentePagina": "https://baike.baidu.com/item/%E7%81%AB%E8%BD%A6/479",
+      "titulo": "火车_百度百科",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsRrqPKQ9HfyysG2zBFVFW0gigkKr_GrZCJw&s",
+      "original": "https://bkimg.cdn.bcebos.com/smart/64380cd7912397dda14446e23edba5b7d0a20df42999-bkimg-process,v_1,rw_1,rh_1,pad_1,color_ffffff?x-bce-process=image/format,f_auto"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/train/zh/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIYUnU7F29KaYJlOu7_J1SClrN7Lbbyyv5Bw&s",
+      "fuentePagina": "https://gooutwalkwalk.com/2546/",
+      "titulo": "马来西亚｜驶过黑夜，穿越西马脊椎的森林火车- GO OUT WALK WALK",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIYUnU7F29KaYJlOu7_J1SClrN7Lbbyyv5Bw&s",
+      "original": "https://gooutwalkwalk.com/wp-content/uploads/2024/05/gooutwalkwalk_jungle_train_12.jpg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/train/zh/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqSOrZUjr6qqiyPYOsMeSuT6nFqDlJslIJ4w&s",
+      "fuentePagina": "http://dzrb.dzng.com/paper/paperShare/id/723445",
+      "titulo": "网红小火车，跑通乡村振兴路",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqSOrZUjr6qqiyPYOsMeSuT6nFqDlJslIJ4w&s",
+      "original": "http://respub.xrdz.dzng.com/pic_file/paper/dzrb/20200529/09/09_09_0090.jpg"
+    }
+  ]
+}

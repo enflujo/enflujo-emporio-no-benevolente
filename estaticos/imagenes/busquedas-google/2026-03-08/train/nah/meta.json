@@ -1,0 +1,71 @@
+{
+  "categoria": "train",
+  "categoriaSlug": "train",
+  "idioma": "nah",
+  "nombreIdioma": "Náhuatl",
+  "termino": "tren",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T20:44:42.133Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "es",
+    "gl": "mx"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=tren&hl=es&gl=mx",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/train/nah/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVzK8pWn_7g47ZsfCC3NhFXRwoEIXKmxp9tQ&s",
+      "fuentePagina": "https://es.vecteezy.com/arte-vectorial/19483864-transporte-de-tren-colorido-simple-en-ilustracion-de-vector-de-dibujos-animados-planos-animados",
+      "titulo": "transporte de tren colorido simple en ilustración de vector ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVzK8pWn_7g47ZsfCC3NhFXRwoEIXKmxp9tQ&s",
+      "original": "https://static.vecteezy.com/system/resources/previews/019/483/864/non_2x/simple-colorful-train-transportation-in-flat-animated-cartoon-illustration-vector.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/train/nah/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcReOGQgxNaX3aEXDARJJypUvWQu28_ZCBllJA&s",
+      "fuentePagina": "https://es.pngtree.com/freepng/trains-illustrations-and-entertainment_15870212.html",
+      "titulo": "Ilustraciones Y Entretenimiento De Trenes PNG ,dibujos Tren ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcReOGQgxNaX3aEXDARJJypUvWQu28_ZCBllJA&s",
+      "original": "https://png.pngtree.com/png-clipart/20240828/original/pngtree-trains-illustrations-and-entertainment-png-image_15870212.png"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/train/nah/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTK3csXFdtNhrcn8_vqW_movLEXIkAzgQvcbA&s",
+      "fuentePagina": "https://fr.pinterest.com/pin/806777720732568759/",
+      "titulo": "Tren lindo dibujos animados | Vector Premium",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTK3csXFdtNhrcn8_vqW_movLEXIkAzgQvcbA&s",
+      "original": "https://i.pinimg.com/736x/81/b2/4b/81b24bc5ec20d623d8226613c2edaa5e.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/train/nah/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSaOEU_QITBDAzavROjmyxjpaW4CLZxx60Yaw&s",
+      "fuentePagina": "https://t21.com.mx/ferroviario-2020-09-03-puertos-o-fronteras-cual-fue-mas-relevante-tren-2019/",
+      "titulo": "Puertos o fronteras, ¿cuál fue el más relevante para el tren ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSaOEU_QITBDAzavROjmyxjpaW4CLZxx60Yaw&s",
+      "original": "https://t21.com.mx/wp-content/uploads/2023/08/gmxt_ok_1.jpg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/train/nah/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmQZSffZNwRruicBEUMrWoz-KaM-MyXr_4AA&s",
+      "fuentePagina": "https://es.wikipedia.org/wiki/Tren",
+      "titulo": "Tren - Wikipedia, la enciclopedia libre",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmQZSffZNwRruicBEUMrWoz-KaM-MyXr_4AA&s",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/8/8f/GNR_1744_at_Leicester_North_%283%29.jpg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/train/nah/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUeLQ-ND4Q1_fDEVlQftJhH0nZLhjoDCBGzg&s",
+      "fuentePagina": "https://mx.pinterest.com/pin/61431982400278717/",
+      "titulo": "Dibujo de tren pintado por Martinluna en Dibujos.net el día ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUeLQ-ND4Q1_fDEVlQftJhH0nZLhjoDCBGzg&s",
+      "original": "https://i.pinimg.com/736x/cb/4f/d6/cb4fd6ba039e5dc96f67f3446be8ee2c.jpg"
+    }
+  ]
+}

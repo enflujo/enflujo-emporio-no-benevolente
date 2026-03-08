@@ -1,0 +1,71 @@
+{
+  "categoria": "fork",
+  "categoriaSlug": "fork",
+  "idioma": "rw",
+  "nombreIdioma": "Kinyarwanda",
+  "termino": "imbembe",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:08:01.088Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "en",
+    "gl": "rw"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=imbembe&hl=en&gl=rw",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/fork/rw/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTw1pD02tx-CFnblLr80v3xY71107FJU73BcA&s",
+      "fuentePagina": "https://myteamengineering.com/team-engineering-adds-to-the-team/",
+      "titulo": "Team Engineering welcomes Blaise Imbembe! | Team Engineering",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTw1pD02tx-CFnblLr80v3xY71107FJU73BcA&s",
+      "original": "https://myteamengineering.com/wp-content/uploads/team-Blaise-Imbembe.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/fork/rw/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIfUMSlyi73I0yWVPvzLI4IO4aIuNgAZjp7g&s",
+      "fuentePagina": "https://www.tiktok.com/@dorcas.imbembe/video/7571088101951556876",
+      "titulo": "dorcas imbembe (@dorcas.imbembe)'s videos with son original ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIfUMSlyi73I0yWVPvzLI4IO4aIuNgAZjp7g&s",
+      "original": "https://www.tiktok.com/api/img/?itemId=7571088101951556876&location=0&aid=1988"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/fork/rw/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlSjGvgXElTJP38jazQ47VZzeIpuWZ03lULA&s",
+      "fuentePagina": "https://www.facebook.com/victoire.imbembe/",
+      "titulo": "Victoire Manzuku Imbembe (@victoire.imbembe) • Facebook",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlSjGvgXElTJP38jazQ47VZzeIpuWZ03lULA&s",
+      "original": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=100015918961767"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/fork/rw/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwgBI8pxHGkyzZn3GHklYU3Vygz_eL6cd9mA&s",
+      "fuentePagina": "https://www.amazon.co.uk/Construction-ma%C3%A7onnerie-%C3%A9volution-dimensionnement-Omn-Univ-Europ/dp/6131586268",
+      "titulo": "Construction en maçonnerie: évolution des matériaux et ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwgBI8pxHGkyzZn3GHklYU3Vygz_eL6cd9mA&s",
+      "original": "https://m.media-amazon.com/images/I/81Qq4Dkun0L.jpg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/fork/rw/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoadEUGMy6ctModdPT72LYok5Fg0S280F23g&s",
+      "fuentePagina": "https://fr.wikipedia.org/wiki/Eric-Junior_Dina-Ebimbe",
+      "titulo": "Eric-Junior Dina-Ebimbe — Wikipédia",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoadEUGMy6ctModdPT72LYok5Fg0S280F23g&s",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/b/bf/Lens_-_Dijon_%2815-08-2020%29_33.jpg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/fork/rw/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSo7HOV00CypiA5PE_zU66-Q_8PGUoUdolYyQ&s",
+      "fuentePagina": "https://www.facebook.com/groups/711191143543875/posts/1441017530561229/",
+      "titulo": "Bariki imbembe Masaa masaa babade jalasi",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSo7HOV00CypiA5PE_zU66-Q_8PGUoUdolYyQ&s",
+      "original": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=122234983670150384"
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "categoria": "cake",
+  "categoriaSlug": "cake",
+  "idioma": "ar",
+  "nombreIdioma": "العربية",
+  "termino": "كعكة",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:16:33.549Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "ar",
+    "gl": "eg"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=%D9%83%D8%B9%D9%83%D8%A9&hl=ar&gl=eg",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/cake/ar/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDfj8gcJDUpYtGxevwWmCaXmQafQpdNs-8_w&s",
+      "fuentePagina": "https://www.puckarabia.com/ar/recipes/cream-cake/",
+      "titulo": "كعكة الكريمة",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDfj8gcJDUpYtGxevwWmCaXmQafQpdNs-8_w&s",
+      "original": "https://images.arla.com/recordid/7F6BC2A1-2920-4228-93A6E029EC0C34AE/cream-cake.jpg?width=1200&height=630&format=webp"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/cake/ar/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEw_Ev6Zoe4SL6VbEpaVG6iHWchfaLicVoGQ&s",
+      "fuentePagina": "https://www.ferrerorocher.com/me/ar/nsayh-wafkar/alwsfat/kkt-yd-almylad",
+      "titulo": "كعكة عيد الميلاد",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEw_Ev6Zoe4SL6VbEpaVG6iHWchfaLicVoGQ&s",
+      "original": "https://www.ferrerorocher.com/me/sites/ferrerorocher20_me/files/2021-05/birthday-cake_0.jpeg?t=1770741463"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/cake/ar/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAxz3UtaDKbr3eZ06cZF_olTR8UQkki7cd3w&s",
+      "fuentePagina": "https://ar.wikipedia.org/wiki/%D9%83%D8%B9%D9%83%D8%A9",
+      "titulo": "كعكة - ويكيبيديا",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAxz3UtaDKbr3eZ06cZF_olTR8UQkki7cd3w&s",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/0/04/Pound_layer_cake.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/cake/ar/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJEOCXwFVhFm9Miy4xiucCrWLVM5BU2ujknQ&s",
+      "fuentePagina": "https://www.kitkatarabia.com/ar/recipes/kitkat-birthday-cake",
+      "titulo": "وصفة كعكة عيد الميلاد من كيت كات | KitKat",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJEOCXwFVhFm9Miy4xiucCrWLVM5BU2ujknQ&s",
+      "original": "https://www.kitkatarabia.com/sites/default/files/styles/webp/public/2025-07/077078_01-min%20.jpg%20%282%29%20%281%29.jpg.webp?itok=4xQXV4RK"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/cake/ar/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRiDozGss9FSlDWlQZwD-U1D2oDxs1OKwizSA&s",
+      "fuentePagina": "https://biopastis.com/ar/productos/%D9%83%D8%B9%D9%83-%D8%A7%D9%84%D8%A3%D9%85%D8%B1%D9%8A%D9%83%D9%8A/%D9%83%D8%B9%D9%83-%D8%A3%D9%83%D8%A8%D8%B1/%D9%83%D8%B9%D9%83%D8%A9-%D9%84%D9%8A%D9%86%D8%AF%D8%A7-%D9%81%D8%A7%D8%AF%D8%AC/",
+      "titulo": "كعكة ليندا فادج - BioPastis",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRiDozGss9FSlDWlQZwD-U1D2oDxs1OKwizSA&s",
+      "original": "https://biopastis.com/wp-content/uploads/2023/11/02012109-Linda%C2%B4s-Cake-scaled-1.jpg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/cake/ar/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRH0SoHKdtEJNSYfegjt3xHN350jKN9mmQfhA&s",
+      "fuentePagina": "https://www.zahratalkhaleej.ae/article/4350974/%D8%A7%D8%B5%D9%86%D8%B9%D9%8A-%D9%83%D8%B9%D9%83%D8%A9-%D8%A7%D9%84%D8%B4%D9%88%D9%83%D9%88%D9%84%D8%A7%D8%AA%D8%A9-%D8%A7%D9%84%D9%84%D8%B0%D9%8A%D8%B0-%D9%81%D9%8A-%D9%85%D9%86%D8%B2%D9%84%D9%83---%D8%A8%D8%AE%D8%B7%D9%88%D8%A7%D8%AA-%D8%A8%D8%B3%D9%8A%D8%B7%D8%A9",
+      "titulo": "اصنعي كعكة الشوكولاتة اللذيذ في منزلك.. بخطوات بسيطة - زهرة ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRH0SoHKdtEJNSYfegjt3xHN350jKN9mmQfhA&s",
+      "original": "https://cdn1-m.zahratalkhaleej.ae/store/archive/image/2023/2/7/51e14985-ec85-40b4-9079-64927ae9514f.jpg"
+    }
+  ]
+}

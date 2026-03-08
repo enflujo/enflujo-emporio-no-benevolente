@@ -1,0 +1,71 @@
+{
+  "categoria": "dining table",
+  "categoriaSlug": "dining-table",
+  "idioma": "en",
+  "nombreIdioma": "English",
+  "termino": "dining table",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:19:33.557Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "en",
+    "gl": "us"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=dining%20table&hl=en&gl=us",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/dining-table/en/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzNkiBsR-YnmLtb1MpXYIIbrtaV6WS__D-tg&s",
+      "fuentePagina": "https://fargowoodworks.com/products/the-broadway-dining-table/",
+      "titulo": "The Broadway Dining Table",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzNkiBsR-YnmLtb1MpXYIIbrtaV6WS__D-tg&s",
+      "original": "https://fargowoodworks.com/wp-content/uploads/2024/07/openart-e09f5c15117249eaaf8f6a8a5fee8d5e_raw-scaled.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/dining-table/en/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJVCS4Yptx9asmL__AmbwWTC_e63v_sj5IFA&s",
+      "fuentePagina": "https://www.amazon.com/LUMISOL-Farmhosue-Kitchen-Extendable-Upholstered/dp/B0CM3MNZJK",
+      "titulo": "Amazon.com - LUMISOL 5-Piece Solid Wood Dining Table Set for ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJVCS4Yptx9asmL__AmbwWTC_e63v_sj5IFA&s",
+      "original": "https://m.media-amazon.com/images/I/81e9-6jgWRL._AC_UF894,1000_QL80_.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/dining-table/en/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSc95DSMJUTTm5RIR2TgaOjca5Nu5xM6Z2Aw&s",
+      "fuentePagina": "https://www.bedbathandbeyond.com/Home-Garden/79-Sintered-Stone-Modern-Dining-Table-for-8-Rectangle-Dining-Table-Luxury-White-Gold-Kitchen-Table/39681019/product.html",
+      "titulo": "79\" White Gold Dining Table, Luxury Modern Kitchen Table ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSc95DSMJUTTm5RIR2TgaOjca5Nu5xM6Z2Aw&s",
+      "original": "https://ak1.ostkcdn.com/images/products/is/images/direct/5a048e05dad75e3e6e3548fb88cf8c055fe05835/79%22-Sintered-Stone-Modern-Dining-Table-for-8%2C-Rectangle-Dining-Table%2C-Luxury-White-%26-Gold-Kitchen-Table.jpg?impolicy=medium"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/dining-table/en/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNRP7S9Ul8xPntJg3GpVnoRZUMzkRaf2N-PQ&s",
+      "fuentePagina": "https://www.amazon.com/gopop-Dining-Leather-Texture-Kitchen/dp/B0CQM192G4",
+      "titulo": "Amazon.com - gopop Glass Dining Table Set for 8,Modern ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNRP7S9Ul8xPntJg3GpVnoRZUMzkRaf2N-PQ&s",
+      "original": "https://m.media-amazon.com/images/I/81Bik5R-bbL._AC_UF894,1000_QL80_.jpg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/dining-table/en/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSaElv_RViP-xIf4uK2qmTk4fPTrld16BdAIA&s",
+      "fuentePagina": "https://www.lafurniturestore.com/modrest-scott-modern-walnut-and-glass-extendable-70-5-106-dining-table.html?srsltid=AfmBOooCEEw8XOFou1Qn16jfxaEpdyx1jQUM7scXW6J6T0iIe99MnDv2",
+      "titulo": "Modrest Scott - Modern Walnut and Glass Extendable 70.5\"/106 ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSaElv_RViP-xIf4uK2qmTk4fPTrld16BdAIA&s",
+      "original": "https://www.lafurniturestore.com/media/catalog/product/cache/6d4faa98f2b48c05dae02148ead85f2f/d/s/dsc05362.jpg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/dining-table/en/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkqEM3A9eJs1kTN5wLK0_1sfWMw3v_iViW-Q&s",
+      "fuentePagina": "https://www.crateandbarrel.com/ivy-70-dining-table/s477011",
+      "titulo": "Ivy 70\" Dining Table + Reviews | Crate & Barrel",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkqEM3A9eJs1kTN5wLK0_1sfWMw3v_iViW-Q&s",
+      "original": "https://cdn.dashhudson.com/media/full/1728388074.73543525980.jpeg"
+    }
+  ]
+}

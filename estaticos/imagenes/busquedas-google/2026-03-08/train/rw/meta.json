@@ -1,0 +1,16 @@
+{
+  "categoria": "train",
+  "categoriaSlug": "train",
+  "idioma": "rw",
+  "nombreIdioma": "Kinyarwanda",
+  "termino": "tireni",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T20:44:20.174Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "en",
+    "gl": "rw"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=tireni&hl=en&gl=rw",
+  "imagenes": []
+}

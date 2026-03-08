@@ -1,0 +1,71 @@
+{
+  "categoria": "motorcycle",
+  "categoriaSlug": "motorcycle",
+  "idioma": "am",
+  "nombreIdioma": "Amharic — አማርኛ",
+  "termino": "ሞተር ሳይክል",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T20:42:33.226Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "am",
+    "gl": "et"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=%E1%88%9E%E1%89%B0%E1%88%AD%20%E1%88%B3%E1%8B%AD%E1%8A%AD%E1%88%8D&hl=am&gl=et",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/motorcycle/am/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRK9-moVpt3JnMhZjYfq5rlB8pcM1D_mLI7nQ&s",
+      "fuentePagina": "https://www.facebook.com/www.aatb.gov.et/posts/%E1%89%A0%E1%8A%A0%E1%8B%B2%E1%88%B5-%E1%8A%A0%E1%89%A0%E1%89%A3-%E1%8A%A8%E1%89%B0%E1%88%9B-%E1%8B%A8%E1%88%9A%E1%8C%88%E1%8A%99-%E1%8B%A8%E1%88%9E%E1%89%B0%E1%88%AD-%E1%88%B3%E1%8B%AD%E1%8A%AD%E1%88%8D-%E1%8A%A5%E1%8A%93-%E1%8B%A8%E1%8A%A4%E1%88%8C%E1%8A%AD%E1%89%B5%E1%88%AA%E1%8A%AD-%E1%88%9E%E1%89%B0%E1%88%AD-%E1%88%B3%E1%8B%AD%E1%8A%AD%E1%88%8D-%E1%8B%A8%E1%89%B5%E1%88%AB%E1%8A%95%E1%88%B5%E1%8D%96%E1%88%AD%E1%89%B5-%E1%8A%A0%E1%8C%88%E1%88%8D%E1%8C%8D%E1%88%8E%E1%89%B5-%E1%8A%A0%E1%88%B0%E1%8C%A3%E1%8C%A5%E1%8A%95-%E1%8B%A8%E1%88%9A%E1%8B%88%E1%88%B5%E1%8A%95-%E1%8A%A0%E1%8B%B2%E1%88%B5-/927655799364793/",
+      "titulo": "በአዲስ አበባ ከተማ የሚገኙ የሞተር ሳይክል እና ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRK9-moVpt3JnMhZjYfq5rlB8pcM1D_mLI7nQ&s",
+      "original": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=927655742698132"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/motorcycle/am/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYBWbUkFP_Jgksqb0bZqKUBI8CFa1werFy_A&s",
+      "fuentePagina": "https://www.youtube.com/watch?v=AnkK0i1FRVA",
+      "titulo": "Apache ሞተር አነዳድ",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYBWbUkFP_Jgksqb0bZqKUBI8CFa1werFy_A&s",
+      "original": "https://i.ytimg.com/vi/AnkK0i1FRVA/maxresdefault.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/motorcycle/am/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4jT9bdecTg0lQBNp-q_2dk_KyESJRHtIrtA&s",
+      "fuentePagina": "https://www.youtube.com/watch?v=swnBbg4tVu0",
+      "titulo": "ዘመናዊ የሞተር ሳይክል ዋጋ | Modern motorcycle price | motorcycles insurance",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4jT9bdecTg0lQBNp-q_2dk_KyESJRHtIrtA&s",
+      "original": "https://i.ytimg.com/vi/swnBbg4tVu0/maxresdefault.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/motorcycle/am/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKPlgGN9Z-kr17UyL5Gl4YTzhYiCiKE90K9w&s",
+      "fuentePagina": "https://addismaleda.com/archives/1479",
+      "titulo": "በአዲስ አበባ ለሞተር ሳይክል ሰሌዳ መስጠት ቆሟል ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKPlgGN9Z-kr17UyL5Gl4YTzhYiCiKE90K9w&s",
+      "original": "https://addismaleda.com/wp-content/uploads/2022/05/23-motercy.jpg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/motorcycle/am/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShcfhBYmviYBv60ShItxErJ8EWTVznE4YB9g&s",
+      "fuentePagina": "https://www.facebook.com/p/%E1%8A%A5%E1%88%B5%E1%8A%A9%E1%89%B0%E1%88%AD-%E1%8A%AA%E1%8B%B3%E1%8A%94-%E1%8B%A8%E1%88%9E%E1%89%B0%E1%88%AD-%E1%88%B3%E1%8B%AD%E1%8A%AD%E1%88%8D-%E1%8A%A5%E1%8A%93-%E1%8B%A8%E1%8C%80%E1%8A%90%E1%88%AC%E1%89%B0%E1%88%AD-%E1%8C%A5%E1%8C%88%E1%8A%93-100066736922973/",
+      "titulo": "እስኩተር ኪዳኔ የሞተር ሳይክል እና የጀነሬተር ጥገና",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShcfhBYmviYBv60ShItxErJ8EWTVznE4YB9g&s",
+      "original": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=100066736922973"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/motorcycle/am/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUJYd9Qt-xUE5HRoiXBlA9V_rNKsCrfu82Cg&s",
+      "fuentePagina": "http://am.fulike-ebike.com/b40-product/",
+      "titulo": "ጅምላ ቢ40 ከፍተኛ ፍጥነት ያለው ባለ 2 ጎማ ረጅም ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUJYd9Qt-xUE5HRoiXBlA9V_rNKsCrfu82Cg&s",
+      "original": "http://www.fulike-ebike.com/uploads/ava-3.jpg"
+    }
+  ]
+}

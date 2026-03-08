@@ -1,0 +1,71 @@
+{
+  "categoria": "dog",
+  "categoriaSlug": "dog",
+  "idioma": "ha",
+  "nombreIdioma": "Hausa",
+  "termino": "kare",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T20:51:06.261Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "ha",
+    "gl": "ng"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=kare&hl=ha&gl=ng",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/dog/ha/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyZBeMzl7T-DuudeeFpdq7Kn3hKLT4nYAEHQ&s",
+      "fuentePagina": "https://www.kawalingpinoy.com/kare-kare/",
+      "titulo": "Kare-Kare",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyZBeMzl7T-DuudeeFpdq7Kn3hKLT4nYAEHQ&s",
+      "original": "https://www.kawalingpinoy.com/wp-content/uploads/2014/01/kare-kare-with-oxtail-1.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/dog/ha/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8vpuO7bTCEBBXTiWqbNzDcMLrbn2fuYVtng&s",
+      "fuentePagina": "https://en.wikipedia.org/wiki/Kare-kare",
+      "titulo": "Kare-kare - Wikipedia",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8vpuO7bTCEBBXTiWqbNzDcMLrbn2fuYVtng&s",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/a/ac/Mac_MG_5939.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/dog/ha/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSI-0MwBrWAbHH-JKHSg0tb0Vw8kn6tGD_2IQ&s",
+      "fuentePagina": "https://www.thekitchn.com/kare-kare-recipe-23682226",
+      "titulo": "Kare-Kare (Filipino Oxtail and Peanut Stew with Vegetables)",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSI-0MwBrWAbHH-JKHSg0tb0Vw8kn6tGD_2IQ&s",
+      "original": "https://cdn.apartmenttherapy.info/image/upload/f_jpg,q_auto:eco,c_fill,g_auto,w_1500,ar_4:3/k%2FPhoto%2FRecipes%2F2024-09-kare-kare%2Fkare-kare-3458"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/dog/ha/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnZlT-PPtgmeZrtM0KCIx7JzZtX31QWXvxrA&s",
+      "fuentePagina": "https://www.rivertenkitchen.com/easy-kare-kare-recipe.html",
+      "titulo": "Easy Kare Kare Recipe - Riverten Kitchen",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnZlT-PPtgmeZrtM0KCIx7JzZtX31QWXvxrA&s",
+      "original": "https://www.rivertenkitchen.com/wp-content/uploads/2025/06/kare-kare-recipe-Filipino.jpg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/dog/ha/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtKWWw83nwsWB1mFa67-O71FfdPECkAAJ5Bg&s",
+      "fuentePagina": "https://www.kawalingpinoy.com/kare-kare/",
+      "titulo": "Kare-Kare",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtKWWw83nwsWB1mFa67-O71FfdPECkAAJ5Bg&s",
+      "original": "https://www.kawalingpinoy.com/wp-content/uploads/2014/01/kare-kare-with-oxtail-1-480x270.jpg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/dog/ha/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyZnxlhToACt1IU_6tyg9r2qC_cMfiETQiFg&s",
+      "fuentePagina": "https://www.kare-design.com/ng-en/catalogs",
+      "titulo": "Catalogs - KARE Design (Nigeria)",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyZnxlhToACt1IU_6tyg9r2qC_cMfiETQiFg&s",
+      "original": "https://www.kare-design.com/ng-en/img/asset/Z2xvYmFsLzIwMjUtdGVhc2VyL3BhZ2VzL2NhdGFsb2dzL2thcmUtY2F0YWxvZy1tYWdhemluZS0yMDI1LmpwZw/kare-catalog-magazine-2025.jpg?w=1000&h=0&fm=webp&s=c9c36af91ca86993e821169050ba7a4c"
+    }
+  ]
+}

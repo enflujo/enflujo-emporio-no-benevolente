@@ -1,0 +1,71 @@
+{
+  "categoria": "scissors",
+  "categoriaSlug": "scissors",
+  "idioma": "hi",
+  "nombreIdioma": "हिन्दी",
+  "termino": "कैंची",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:30:31.272Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "hi",
+    "gl": "in"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=%E0%A4%95%E0%A5%88%E0%A4%82%E0%A4%9A%E0%A5%80&hl=hi&gl=in",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/scissors/hi/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_5XQ6O9Jpn1klq4GIyjBBtEI3OOpShmHEcg&s",
+      "fuentePagina": "https://www.amazon.in/-/hi/Sameer-Sales-%E0%A4%B8%E0%A5%8D%E0%A4%9F%E0%A5%87%E0%A4%A8%E0%A4%B2%E0%A5%87%E0%A4%B8-%E0%A4%B8%E0%A5%8D%E0%A4%9F%E0%A5%80%E0%A4%B2-%E0%A4%95%E0%A5%89%E0%A4%AE%E0%A5%8D%E0%A4%AC%E0%A5%8B/dp/B08M3ND7CH",
+      "titulo": "Sameer Sales स्टेनलेस स्टील छोटा और बड़ा कैंची/Kechi कॉम्बो घर और किचन के  लिए. (1 का पैक, कैंची) : Amazon.in: कार्यालय का सामान",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_5XQ6O9Jpn1klq4GIyjBBtEI3OOpShmHEcg&s",
+      "original": "https://m.media-amazon.com/images/I/511VgHkLWhL.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/scissors/hi/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSeWCcqBXBeAM-kwz9fbCpIc1d1T1w3l83LDA&s",
+      "fuentePagina": "https://www.moglix.com/hi/pahal-12-inch-scissor/mp/msn2vsamxv9l13?srsltid=AfmBOooz9d4Hc_MnYfiOJuB-OL5OMRBbT4HQJJgJC4SdRaKDjNWetDAO",
+      "titulo": "पहल 12 इंच कैंची",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSeWCcqBXBeAM-kwz9fbCpIc1d1T1w3l83LDA&s",
+      "original": "https://cdn.moglix.com/p/J/8/Z/d/MINJ8Z87IUJU4-xxlarge.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/scissors/hi/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVj8fXfmpJXEEnkaYV7AdTAbbuEjyRFjiu5Q&s",
+      "fuentePagina": "https://www.flipkart.com/hi/kaichi-stainless-steel-all-purpose-scissor/p/itm36d854649f245",
+      "titulo": "kaichi Stainless Steel All-Purpose Scissor Price in India ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVj8fXfmpJXEEnkaYV7AdTAbbuEjyRFjiu5Q&s",
+      "original": "https://rukminim2.flixcart.com/image/480/640/xif0q/kitchen-scissor/9/a/g/3455-kaichi-original-imaghgyfsreg75sh.jpeg?q=90"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/scissors/hi/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQEJ1UZepGDu7lPJLzQkfqvNMv1qQnyKm3Mg&s",
+      "fuentePagina": "https://hi.wikipedia.org/wiki/%E0%A4%95%E0%A4%BC%E0%A5%88%E0%A4%82%E0%A4%9A%E0%A5%80",
+      "titulo": "क़ैंची - विकिपीडिया",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQEJ1UZepGDu7lPJLzQkfqvNMv1qQnyKm3Mg&s",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/7/76/Pair_of_scissors_with_black_handle%2C_2015-06-07.jpg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/scissors/hi/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTM_TAVnVunhGlDkPXpy2wZ4NHfngj3rYwsRA&s",
+      "fuentePagina": "https://www.flipkart.com/hi/unikkus-meerut-scissors-cloth-cutting-traditional-professional-kainchi-kaichi-size-9-inch-brass-handle/p/itmadfb992eec05b",
+      "titulo": "Flipkart.com | Unikkus Meerut Scissors for Cloth Cutting ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTM_TAVnVunhGlDkPXpy2wZ4NHfngj3rYwsRA&s",
+      "original": "https://rukminim2.flixcart.com/image/480/480/kirr24w0-0/scissor/r/r/g/meerut-scissors-for-cloth-cutting-traditional-and-professional-original-imafyht8agdyybrt.jpeg?q=90"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/scissors/hi/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSY-YQ6aJI6sNy1Ever_ZVWRDeez8uYmdolNQ&s",
+      "fuentePagina": "https://www.amazon.in/-/hi/%E0%A4%B8%E0%A4%BF%E0%A4%B2%E0%A4%BE%E0%A4%88-%E0%A4%95%E0%A5%88%E0%A4%82%E0%A4%9A%E0%A5%80-10-%E0%A4%87%E0%A4%82%E0%A4%9A-%E0%A4%95%E0%A4%BE%E0%A4%B0%E0%A5%8D%E0%A4%AC%E0%A4%A8/dp/B083QR89JJ",
+      "titulo": "सिलाई कैंची 9 इंच (23.5cm) - Tailors हैवी ड्यूटी हाई कार्बन स्टील शार्प  ब्लेड शियर्स फैब्रिक लेदर क्लॉथ पेपर सिलाई ड्रेसिंगिंग टेलरिंग ऑल्टरिंग  (काला, ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSY-YQ6aJI6sNy1Ever_ZVWRDeez8uYmdolNQ&s",
+      "original": "https://m.media-amazon.com/images/I/61JHopvjSIL.jpg"
+    }
+  ]
+}

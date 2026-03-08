@@ -1,0 +1,71 @@
+{
+  "categoria": "bed",
+  "categoriaSlug": "bed",
+  "idioma": "pt",
+  "nombreIdioma": "Português",
+  "termino": "cama",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:19:31.443Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "pt",
+    "gl": "br"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=cama&hl=pt&gl=br",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bed/pt/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgqkEpuAHXjg1BCoqacrBcsTlOdE46iuKTXg&s",
+      "fuentePagina": "https://reidecasa.com.br/cama-casal-athenas-lopas?srsltid=AfmBOopbYNzmBoE8RMocs9-0d5vV0ILr0SYHMSuuPcBlROshfY-WmJDI",
+      "titulo": "Cama Casal Athenas - Lopas",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgqkEpuAHXjg1BCoqacrBcsTlOdE46iuKTXg&s",
+      "original": "https://reidecasa.com.br/uploads/produto_fotos/20240528150150_camaathenascasalac.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bed/pt/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQD25EXNeKbnk2a67gtyF9HEz9GVo9mKx11FA&s",
+      "fuentePagina": "https://www.appelhome.com.br/jogo-de-cama-casal-microfibra-premium-linenn-appel-home-linho?srsltid=AfmBOoqv5fr54XbMNnoPY-UfG32gzGjai8OyAfz-fODhRMe1ZWi_WnEo",
+      "titulo": "Jogo de Cama Casal Microfibra Premium Linenn Appel Home - Linho",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQD25EXNeKbnk2a67gtyF9HEz9GVo9mKx11FA&s",
+      "original": "https://magazord-public.s3.amazonaws.com/appelhome/img/2024/09/produto/1124/jogo-de-cama-linenn-4.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bed/pt/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMaYE_qUtvdLFvYrQ9dykWG8RAif8PLcsXiA&s",
+      "fuentePagina": "https://www.movelnacaixa.com.br/quarto/camas-bercos-e-beliches/camas-de-casal/cama-casal-xangai-para-colchoes-138x188-cm-cx1140-art-in-moveis",
+      "titulo": "Cama Casal Xangai para colchões 138x188 cm CX1140 Art in ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMaYE_qUtvdLFvYrQ9dykWG8RAif8PLcsXiA&s",
+      "original": "https://images.tcdn.com.br/img/img_prod/571683/cama_casal_xangai_para_colchoes_138x188_cm_cx1140_art_in_moveis_36362_1_650f1deff9296d20169e3840de834327.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bed/pt/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQeBuu9kJL5z9BxLwMJUkUiYsdR8bPRifOGJA&s",
+      "fuentePagina": "https://www.abracasa.com.br/cama-queen-noga-ripada---nozes/p?srsltid=AfmBOooifN1rKhHb0ROmJbgtAlaqFeaUJ5x4nfSZRESEFoAEeTrm1xMw",
+      "titulo": "Cama Queen Noga Ripada - Nozes",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQeBuu9kJL5z9BxLwMJUkUiYsdR8bPRifOGJA&s",
+      "original": "https://abracasa.vteximg.com.br/arquivos/ids/208291/_MG_9655-Enhanced-NR_1000x1000.jpg?v=638863671501330000"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bed/pt/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSiunqir_ZjEn81BYwwN6gi-y4djnHxsFjJqQ&s",
+      "fuentePagina": "https://quartosetc.com.br/produto/cama-turca-2/",
+      "titulo": "CAMA TURCA - Quartos Etc - A Sua Melhor Opção em Movéis ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSiunqir_ZjEn81BYwwN6gi-y4djnHxsFjJqQ&s",
+      "original": "https://quartosetc.com.br/wp-content/uploads/2021/09/Cama-Turca-02-_-Roge%CC%81rio-Perez.jpg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bed/pt/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2dA0psO6itMwCCJVPnV94OAW417gR681YZw&s",
+      "fuentePagina": "https://www.lojasedmil.com.br/cama-de-casal-madeira-amendoa-reali-lopas/p?srsltid=AfmBOoo24cUxB95d5EGtB-IdEhCOs9rbfTjlBcXHxaKt13qpo2XkSSwV",
+      "titulo": "Cama de Casal Madeira Amêndoa Reali Lopas",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2dA0psO6itMwCCJVPnV94OAW417gR681YZw&s",
+      "original": "https://io.convertiez.com.br/m/lojasedmil/shop/products/images/1395/medium/cama-de-casal-madeira-amendoa-reali-lopas_9772.jpg"
+    }
+  ]
+}

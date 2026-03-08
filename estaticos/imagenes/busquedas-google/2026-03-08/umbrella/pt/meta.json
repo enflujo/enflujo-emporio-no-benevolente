@@ -1,0 +1,71 @@
+{
+  "categoria": "umbrella",
+  "categoriaSlug": "umbrella",
+  "idioma": "pt",
+  "nombreIdioma": "Português",
+  "termino": "guarda-chuva",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T20:57:23.368Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "pt",
+    "gl": "br"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=guarda-chuva&hl=pt&gl=br",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/umbrella/pt/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBDNm3Iz9u10YtL5tBJCh15TE-Pt-TDpei9g&s",
+      "fuentePagina": "https://www.amazon.com.br/Guarda-chuva-pato-chuva-guarda-chuva-guarda-chuvas/dp/B0DDMKRTRC",
+      "titulo": "Guarda-chuva de pato | Guarda-chuva de chuva - Guarda-chuva ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBDNm3Iz9u10YtL5tBJCh15TE-Pt-TDpei9g&s",
+      "original": "https://m.media-amazon.com/images/I/51seK6eAevL._AC_SY1000_.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/umbrella/pt/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8DpD1yD_lM0C95IIDcR-PlDrnbxTMzypoWA&s",
+      "fuentePagina": "https://www.elastobor.com.br/guarda-chuva-portaria-elastobor-manual-1-40-preto-31048248/p?srsltid=AfmBOoqI2e_WPVdJratUjub-XJxJGYbW3CYxzwP2wb6DR9UeYpbBhxpZ",
+      "titulo": "Guarda Chuva Portaria Elastobor Manual 1,40 Preto",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8DpD1yD_lM0C95IIDcR-PlDrnbxTMzypoWA&s",
+      "original": "https://elastobor.vtexassets.com/arquivos/ids/314660/GUARDA-CHUVA-PORTARIA-ELASTOBOR-MANUAL-140-PRETO.jpg?v=638768816546600000"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/umbrella/pt/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQf8nzZ0vwhcsZOHyUNXwrmLouPen67tm856Q&s",
+      "fuentePagina": "https://florenca.ind.br/produto/guarda-chuva-personalizado-z-300/",
+      "titulo": "Guarda-chuva Personalizado Z-300 - Florença Guarda-Chuvas ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQf8nzZ0vwhcsZOHyUNXwrmLouPen67tm856Q&s",
+      "original": "https://florenca.ind.br/wp-content/uploads/2023/03/fk3J4sNXgfssiAeKd4jHuFISg1JNumhvLzQAu5Sg-scaled.jpeg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/umbrella/pt/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJKcNmNtFU6xAGvjt6_zZOUJlRHaGPSQHXnQ&s",
+      "fuentePagina": "https://shopee.com.br/Guarda-Chuva-Autom%C3%A1tico-Preto-Grande-Refor%C3%A7ado-i.1063312565.21997751130",
+      "titulo": "Guarda Chuva Automático Preto Grande Reforçado | Shopee Brasil",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJKcNmNtFU6xAGvjt6_zZOUJlRHaGPSQHXnQ&s",
+      "original": "https://down-br.img.susercontent.com/file/br-11134207-7r98o-lz93znqmzlw51e"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/umbrella/pt/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROjYwEhbOF42v-S812OtbawCJ4H97u4JCfDg&s",
+      "fuentePagina": "https://www.fazzoletti.com.br/produto/guarda-chuva-cabo-de-madeira-azul-fazzoletti/",
+      "titulo": "Guarda-chuva Cabo de Madeira Azul | Fazzoletti – Fazzoletti ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROjYwEhbOF42v-S812OtbawCJ4H97u4JCfDg&s",
+      "original": "https://www.fazzoletti.com.br/wp-content/uploads/2022/08/1-jpg.webp"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/umbrella/pt/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzqzmCKoB0keLeI1RURIk_7pHQyx28PvuTWA&s",
+      "fuentePagina": "https://www.lojaspompeia.com/guarda-chuva-preto-10901304917501_6937/p?srsltid=AfmBOop4uPEPHnKrA71S_NyzcYkgXbsvqaY71qze3Ae2hrANSOShzkkv",
+      "titulo": "Guarda-Chuva Automático Premium PRETO",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzqzmCKoB0keLeI1RURIk_7pHQyx28PvuTWA&s",
+      "original": "https://lojaspompeia.vteximg.com.br/arquivos/ids/989874/10901305998101-guarda-chuva-proteja-se-preto1.jpg?v=638906281288270000"
+    }
+  ]
+}

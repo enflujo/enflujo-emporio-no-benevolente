@@ -1,0 +1,71 @@
+{
+  "categoria": "pizza",
+  "categoriaSlug": "pizza",
+  "idioma": "es",
+  "nombreIdioma": "Español",
+  "termino": "pizza",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:15:27.912Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "es",
+    "gl": "es"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=pizza&hl=es&gl=es",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/pizza/es/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyLCWEbWCyzRRiQoUBSLcY52FedzxjpJn2fA&s",
+      "fuentePagina": "https://cookidoo.es/recipes/recipe/es-ES/r700173",
+      "titulo": "Pizza napoletana",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyLCWEbWCyzRRiQoUBSLcY52FedzxjpJn2fA&s",
+      "original": "https://assets.tmecosys.com/image/upload/t_web_rdp_recipe_584x480_1_5x/img/recipe/ras/Assets/48a49653c8716457eb0b2f7eb3c7d74c/Derivates/8d83d9ed4567fa15456d8eec7557e60006a15576.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/pizza/es/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTI0-HmskFIOzX-o3_DTZdgLshMNluWvZpwAw&s",
+      "fuentePagina": "https://www.sortirambnens.com/es/recetas/que-hacemos-en-casa/cocinar-con-ninos/segundos-platos/la-receta-de-la-pizza-de-pepperoni/",
+      "titulo": "LA RECETA DE LA PIZZA DE PEPPERONI - Sortir amb nens",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTI0-HmskFIOzX-o3_DTZdgLshMNluWvZpwAw&s",
+      "original": "https://www.sortirambnens.com/wp-content/uploads/2019/02/pizza-de-peperoni.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/pizza/es/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBhEY9hJvcN50lue0FRIytmyyfnFKAHjnRrw&s",
+      "fuentePagina": "https://www.oetker.es/recetas/r/pizza-casera-rucula-y-parmesano",
+      "titulo": "Pizza casera Rúcula y Parmesano",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBhEY9hJvcN50lue0FRIytmyyfnFKAHjnRrw&s",
+      "original": "https://recipesblob.oetker.es/assets/a4ed7a36a675473fabda387048e3fe9c/750x910/pizza-rucula-e-parmiggiano.webp"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/pizza/es/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDJKJPlaalwOKPpT-IChF_JIU4S8ZMGOiyGQ&s",
+      "fuentePagina": "https://explore.typhur.com/es/homemade-pizza",
+      "titulo": "Pizza casera en freidora de aire",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDJKJPlaalwOKPpT-IChF_JIU4S8ZMGOiyGQ&s",
+      "original": "https://wp-cdn.typhur.com/wp-content/uploads/2025/01/homemade-pizza-in-air-fryer.jpg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/pizza/es/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSocpqwj127EXXhh1qNVUlY6XfzYuB5urVn7w&s",
+      "fuentePagina": "https://levanova.es/pizza-casera-de-pollo/",
+      "titulo": "Pizza casera de pollo: sabor irresistible en casa",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSocpqwj127EXXhh1qNVUlY6XfzYuB5urVn7w&s",
+      "original": "https://levanova.es/wp-content/uploads/2025/04/Imagen1-1024x682.jpg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/pizza/es/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThn2kOfbjBiprV2u1wESjlMY--iB_3GbNhuw&s",
+      "fuentePagina": "https://recetasdecocina.elmundo.es/2025/09/pizza-margarita-receta-original-italiana.html",
+      "titulo": "Pizza margarita. Receta original italiana",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThn2kOfbjBiprV2u1wESjlMY--iB_3GbNhuw&s",
+      "original": "https://recetasdecocina.elmundo.es/wp-content/uploads/2025/09/pizza-margarita.jpg"
+    }
+  ]
+}

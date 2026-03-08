@@ -1,0 +1,71 @@
+{
+  "categoria": "bus",
+  "categoriaSlug": "bus",
+  "idioma": "ha",
+  "nombreIdioma": "Hausa",
+  "termino": "bas",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T20:43:51.519Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "ha",
+    "gl": "ng"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=bas&hl=ha&gl=ng",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bus/ha/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLNnKDqh7G_pWmFxuWqSAYQd-ngmLK4WohOA&s",
+      "fuentePagina": "https://www.flickr.com/photos/hilifta/8234510098/",
+      "titulo": "Scania, Bas Sekolah (School bus) | Sentosa Island, Singapore ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLNnKDqh7G_pWmFxuWqSAYQd-ngmLK4WohOA&s",
+      "original": "https://live.staticflickr.com/8342/8234510098_91e7625143_b.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bus/ha/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWF3_Ea9KkduCSg-VwPsootAFRzic_5oyh8A&s",
+      "fuentePagina": "https://www.redbus.my/travels/bas-malaysia",
+      "titulo": "Bas Malaysia Bus Ticket Online - Upto 60% OFF on redBus",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWF3_Ea9KkduCSg-VwPsootAFRzic_5oyh8A&s",
+      "original": "https://s1.rdbuz.com/bo-images/MYS/WM/17993/1207/SI/ML/webp/ImE78u.webp"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bus/ha/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSodzOIR8FODYHV-xNm89K7Ow81EXIaU_S1Kw&s",
+      "fuentePagina": "https://en.wikipedia.org/wiki/Bas_(rapper)",
+      "titulo": "Bas (rapper) - Wikipedia",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSodzOIR8FODYHV-xNm89K7Ow81EXIaU_S1Kw&s",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Bas_2016.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bus/ha/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6GZr2ueUHyWfa8Q10JiPVlg54Ww2W1mGMkA&s",
+      "fuentePagina": "https://www.rollingstone.com/music/music-news/bas-had-cool-older-siblings-and-it-shows-through-his-life-1234640504/",
+      "titulo": "Bas had Cool Older Siblings and it Shows Through his Life in ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6GZr2ueUHyWfa8Q10JiPVlg54Ww2W1mGMkA&s",
+      "original": "https://www.rollingstone.com/wp-content/uploads/2022/12/Bas.png?crop=0px%2C312px%2C992px%2C558px&resize=1600%2C900"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bus/ha/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuudOX2NEtobAb4OHBcmwiap8oUSYg7fuBgg&s",
+      "fuentePagina": "https://kuchingborneo.info/better-bus-service-across-kuching-with-up-coming-bas-my/",
+      "titulo": "Better bus service across Kuching with up-coming BAS.MY ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuudOX2NEtobAb4OHBcmwiap8oUSYg7fuBgg&s",
+      "original": "https://kuchingborneo.info/wp-content/uploads/2024/10/Bas-my-Bernama.jpg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bus/ha/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQf01cJrGK3q5vUyQjAa2FegWX4qeZsJ2L4uw&s",
+      "fuentePagina": "https://hip-hop-music.fandom.com/wiki/Bas",
+      "titulo": "Bas | Hip Hop Wiki | Fandom",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQf01cJrGK3q5vUyQjAa2FegWX4qeZsJ2L4uw&s",
+      "original": "https://static.wikia.nocookie.net/hip-hop-music/images/7/72/Bas.jpeg/revision/latest?cb=20191123161026"
+    }
+  ]
+}

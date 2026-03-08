@@ -1,0 +1,71 @@
+{
+  "categoria": "handbag",
+  "categoriaSlug": "handbag",
+  "idioma": "zh",
+  "nombreIdioma": "中文",
+  "termino": "手提包",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T20:57:57.722Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "zh-CN",
+    "gl": "cn"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=%E6%89%8B%E6%8F%90%E5%8C%85&hl=zh-CN&gl=cn",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/handbag/zh/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQeFiJGyajgWsaIXK02mMz8m-Xjau__F16wBg&s",
+      "fuentePagina": "https://cn.mcmworldwide.com/zh_CN/%E5%A5%B3%E5%A3%AB/%E5%8C%85%E8%A2%8B/%E6%89%98%E7%89%B9%E5%8C%85%26%E8%B4%AD%E7%89%A9%E8%A2%8B",
+      "titulo": "背包-女士购物袋|MCM中国官网",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQeFiJGyajgWsaIXK02mMz8m-Xjau__F16wBg&s",
+      "original": "https://images.mcmworldwide.com/i/mcmworldwide/MWTGSMA02BK001_01/MWTGSMA02BK001/Milla%E8%A5%BF%E7%8F%AD%E7%89%99%E5%8E%8B%E8%8A%B1%E7%9A%AE%E9%9D%A9%E6%89%8B%E6%8F%90%E5%8C%85?$large$&fmt=auto&qlt=default"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/handbag/zh/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6ffd0EqoPnuWeYp1TJGwQuIQPNt-Ni42YHQ&s",
+      "fuentePagina": "https://taiwan.coach.com/women/bags/satchel-carryall.html?srsltid=AfmBOoqzoz0i2sE7avcHWEq-lZNcssBtyot4B51wbmghDPyC_j0S_E5q",
+      "titulo": "手提包- 手袋- 女士",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6ffd0EqoPnuWeYp1TJGwQuIQPNt-Ni42YHQ&s",
+      "original": "https://s7d2.scene7.com/is/image/Coach/ccc12_b4mpl_a5?fmt=jpg&wid=711&hei=888&qlt=80%2C1&op_sharpen=0&resMode=bicub&op_usm=5%2C0.2%2C0%2C0&iccEmbed=0&fit=vfit"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/handbag/zh/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEZrxH9dgUnWW7zTiuIkKb02wCBlQc6PlAjA&s",
+      "fuentePagina": "https://www.ll-porter.com/tw/product-detail/11718-02601/?srsltid=AfmBOoqDQwlFFrMVCzwJZGMyFoU0F0HZJAgDgbiGHxk0-lDv0pCgGi69",
+      "titulo": "手提包- LUXY - PORTER INTERNATIONAL",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEZrxH9dgUnWW7zTiuIkKb02wCBlQc6PlAjA&s",
+      "original": "https://cdn-ll-porter.shang-yu.com/tw//upload_files/fonlego-rwd/prodpic/D_11718-02601-1.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/handbag/zh/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzAF1d1qckf1f4t8AtxmfU-AmBllfS7-O5DQ&s",
+      "fuentePagina": "https://www.rabeanco-rabeanco.com/zh-hans/products/88082-kate-tote-bag",
+      "titulo": "KATE 手提包– Rabeanco.Rabeanco",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzAF1d1qckf1f4t8AtxmfU-AmBllfS7-O5DQ&s",
+      "original": "https://www.rabeanco-rabeanco.com/cdn/shop/files/880825B_16_04.jpg?v=1766113458&width=1500"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/handbag/zh/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSo8JASCF3UzZBBXWzn4poSFCWnNPvZx-63JA&s",
+      "fuentePagina": "https://m.momoshop.com.tw/goods.momo?i_code=10337487",
+      "titulo": "mega】日系簡約帆布小熊手提包手提袋(便當包餐袋小包包) - momo ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSo8JASCF3UzZBBXWzn4poSFCWnNPvZx-63JA&s",
+      "original": "https://i4.momoshop.com.tw/1692294573/goodsimg/0010/337/487/10337487_O_m.webp"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/handbag/zh/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvLrpvJrHHZWBXtbO6KByXZrRsPS_IwnIvaw&s",
+      "fuentePagina": "https://www.ll-porter.com/tw/product-detail/11718-02601N/?srsltid=AfmBOopo5XSNlxCkbKuk4_vWbf4BP03MK_btLftNfAgfoMMk4FNuIPhC",
+      "titulo": "手提包- LUXY - PORTER INTERNATIONAL",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvLrpvJrHHZWBXtbO6KByXZrRsPS_IwnIvaw&s",
+      "original": "https://cdn-ll-porter.shang-yu.com/tw/upload_files/fonlego-rwd/prodpic/D_11718-02601N-01.jpg"
+    }
+  ]
+}

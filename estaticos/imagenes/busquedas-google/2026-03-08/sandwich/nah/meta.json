@@ -1,0 +1,71 @@
+{
+  "categoria": "sandwich",
+  "categoriaSlug": "sandwich",
+  "idioma": "nah",
+  "nombreIdioma": "Náhuatl",
+  "termino": "sandwich",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:12:21.553Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "es",
+    "gl": "mx"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=sandwich&hl=es&gl=mx",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/sandwich/nah/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyulfGIbEAHqvn3vVduMDhZXPsvHc9R451Sw&s",
+      "fuentePagina": "https://www.unileverfoodsolutions.com.mx/recipe/sandwich-de-pollo-crispy-R9007431.html",
+      "titulo": "Sandwich de pollo crispy",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyulfGIbEAHqvn3vVduMDhZXPsvHc9R451Sw&s",
+      "original": "https://www.unileverfoodsolutions.com.mx/dam/global-ufs/mcos/NOLA/calcmenu/recipes/MX-recipes/In-Development/FULL-SAND.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/sandwich/nah/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRznK1Kr1sJr_v77OflYXIhJHowzb5MX6IccQ&s",
+      "fuentePagina": "https://bimbousa.com/es/recetas/sandwich-de-pollo-bimbor",
+      "titulo": "Sándwich de pollo Bimbo® | Bimbo",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRznK1Kr1sJr_v77OflYXIhJHowzb5MX6IccQ&s",
+      "original": "https://bimbousa.com/sites/default/files/styles/product_full_image/public/2022-07/Receta-Sandwich-de-pollo-a-la-mostaza-Bimbo.jpg?itok=Fpm5fvh0"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/sandwich/nah/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpePQpQsspVsk_qeCK7LkXUpmBhFJov2Nb8g&s",
+      "fuentePagina": "https://www.tasteofhome.com/recipes/turkey-club-sandwich/",
+      "titulo": "Turkey Club Sandwich",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpePQpQsspVsk_qeCK7LkXUpmBhFJov2Nb8g&s",
+      "original": "https://www.tasteofhome.com/wp-content/uploads/2025/04/Turkey-Club-Sandwich_EXPS_FT25_278726_EC_0408_5.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/sandwich/nah/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9GvfIdMqwVpcTr4V3SmIhClibeLTJeDvuQQ&s",
+      "fuentePagina": "https://laroussecocina.mx/receta/sandwich-de-queso-mozzarella/",
+      "titulo": "Sándwich de queso mozzarella",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9GvfIdMqwVpcTr4V3SmIhClibeLTJeDvuQQ&s",
+      "original": "https://laroussecocina.mx/wp-content/uploads/2018/12/sandwich-de-queso-mossarella.jpg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/sandwich/nah/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZYjO06J2alyy_bahlisJX3PyTt-RufMcL-Q&s",
+      "fuentePagina": "https://www.watermelon.org/recipes/watermelon-sandwich/",
+      "titulo": "Watermelon Sandwich",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZYjO06J2alyy_bahlisJX3PyTt-RufMcL-Q&s",
+      "original": "https://www.watermelon.org/wp-content/uploads/2023/02/Sandwich_2023-1000x1000.jpg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/sandwich/nah/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQE2dZQ2TkMsyVqiuXqFzhQGPRD3RZeNEeHuA&s",
+      "fuentePagina": "https://recetasdecocina.elmundo.es/2024/10/sandwich-club-receta-facil-casera.html",
+      "titulo": "Sándwich club. Receta fácil y casera",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQE2dZQ2TkMsyVqiuXqFzhQGPRD3RZeNEeHuA&s",
+      "original": "https://recetasdecocina.elmundo.es/wp-content/uploads/2024/10/sandwich-club-1-1024x683.jpg"
+    }
+  ]
+}

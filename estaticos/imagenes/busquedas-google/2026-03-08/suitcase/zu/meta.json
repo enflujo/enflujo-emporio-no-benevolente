@@ -1,0 +1,71 @@
+{
+  "categoria": "suitcase",
+  "categoriaSlug": "suitcase",
+  "idioma": "zu",
+  "nombreIdioma": "isiZulu",
+  "termino": "isikhwama sohambo",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T20:59:05.160Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "zu",
+    "gl": "za"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=isikhwama%20sohambo&hl=zu&gl=za",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/suitcase/zu/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSZ4LaH_U3HQOye_KxtP1dNJF3eJG9AFNolg&s",
+      "fuentePagina": "http://zu.tiger-bags.com/duffle-bag/",
+      "titulo": "I-duffle bag Factory | Abakhiqizi nabahlinzeki besikhwama ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSZ4LaH_U3HQOye_KxtP1dNJF3eJG9AFNolg&s",
+      "original": "https://cdn.globalso.com/tiger-bags/Head_Pro_X_12_Racquet_Duffle_Bag_L_8__13672.1738609327.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/suitcase/zu/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCYtkc0awY5VebA_d_tVXrh859Cdg0M01biw&s",
+      "fuentePagina": "http://zu.tiger-bags.com/duffle-bag/",
+      "titulo": "I-duffle bag Factory | Abakhiqizi nabahlinzeki besikhwama ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCYtkc0awY5VebA_d_tVXrh859Cdg0M01biw&s",
+      "original": "https://cdn.globalso.com/tiger-bags/2-51.png"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/suitcase/zu/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShbl8JdSD7vkz46kCVDaDI8WoYjMxKuiEKoQ&s",
+      "fuentePagina": "http://zu.tiger-bags.com/duffle-bag/",
+      "titulo": "I-duffle bag Factory | Abakhiqizi nabahlinzeki besikhwama ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShbl8JdSD7vkz46kCVDaDI8WoYjMxKuiEKoQ&s",
+      "original": "https://cdn.globalso.com/tiger-bags/Head_Pro_X_Racquet_Backpack_1__31621.1738662693.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/suitcase/zu/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4_oGX-aOki0RfJG753K5kLWiNyrBHabf_Cg&s",
+      "fuentePagina": "http://zu.tiger-bags.com/duffle-bag/",
+      "titulo": "I-duffle bag Factory | Abakhiqizi nabahlinzeki besikhwama ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4_oGX-aOki0RfJG753K5kLWiNyrBHabf_Cg&s",
+      "original": "https://cdn.globalso.com/tiger-bags/2429.jpg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/suitcase/zu/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSM6ZwpUoH2NICultZwWmIWFgyXfIzOgNlfdQ&s",
+      "fuentePagina": "https://zu.joellemena.com/ukuhunyushwa-kwamaphupho/Isikhwama-ephusheni-a/",
+      "titulo": "Funda mayelana nezincazelo ezibaluleke kakhulu zesikhwama ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSM6ZwpUoH2NICultZwWmIWFgyXfIzOgNlfdQ&s",
+      "original": "https://joellemena.com/wp-content/uploads/2021/10/%D8%A7%D9%84%D8%AD%D9%82%D9%8A%D8%A8%D8%A9-%D9%81%D9%8A-%D8%A7%D9%84%D9%85%D9%86%D8%A7%D9%85.jpg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/suitcase/zu/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQY-mfpJMMQeRj1QAlxvqhmAqoOGn51cWT4QQ&s",
+      "fuentePagina": "http://zu.tiger-bags.com/duffle-bag/",
+      "titulo": "I-duffle bag Factory | Abakhiqizi nabahlinzeki besikhwama ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQY-mfpJMMQeRj1QAlxvqhmAqoOGn51cWT4QQ&s",
+      "original": "https://cdn.globalso.com/tiger-bags/Head_Djokovic_Pro_X_12_Racquet_Bag_XL_2__66520.1738607961.jpg"
+    }
+  ]
+}

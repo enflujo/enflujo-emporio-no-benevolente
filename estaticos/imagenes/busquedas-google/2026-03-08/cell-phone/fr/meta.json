@@ -1,0 +1,71 @@
+{
+  "categoria": "cell phone",
+  "categoriaSlug": "cell-phone",
+  "idioma": "fr",
+  "nombreIdioma": "Français",
+  "termino": "téléphone portable",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:24:16.418Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "fr",
+    "gl": "be"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=t%C3%A9l%C3%A9phone%20portable&hl=fr&gl=be",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/cell-phone/fr/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqwtgLaNO_mnwy37VXvfA6aj270_WomY8yPQ&s",
+      "fuentePagina": "https://www.pearl.be/article/PX3868/telephone-portable-grandes-touches-avec-fonction-garantruf-premium-xl-915-v2?srsltid=AfmBOorSCwX4w617ZS2yUBNRyDnRtRTlHrqc76xGxSD-EB7W2ir7c7iz",
+      "titulo": "Téléphone portable XL-915 V2 | Mobiles séniors | Pearl.be",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqwtgLaNO_mnwy37VXvfA6aj270_WomY8yPQ&s",
+      "original": "https://content.pearl.be/media/cache/default/article_ultralarge_high_nocrop/shared/images/articles/P/PX3/telephone-portable-grandes-touches-xl-915-v-2-avec-fonction-garantruf-premium-ref_PX3868_2.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/cell-phone/fr/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOewq0w_LRGhkSR7K2lxoXIMrP_5g9JKMtBw&s",
+      "fuentePagina": "https://www.amazon.com.be/T%C3%A9l%C3%A9phones-Smartphone-D%C3%A9verrouill%C3%A9-Internationale-Smartphones/dp/B09BJFXX6L",
+      "titulo": "Téléphones Portables 5.45in, Smartphone HD Plein Écran Plus, Téléphone  Portable Déverrouillé de 512 Mo + 4 Go avec Caméra Haute Définition Prise  en ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOewq0w_LRGhkSR7K2lxoXIMrP_5g9JKMtBw&s",
+      "original": "https://m.media-amazon.com/images/I/71xiikZNCVS._AC_UF1000,1000_QL80_.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/cell-phone/fr/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfw4kBAFhCrG4LYMsK9TdwDCt2CiznolT98g&s",
+      "fuentePagina": "https://fr.wikipedia.org/wiki/T%C3%A9l%C3%A9phone_mobile",
+      "titulo": "Téléphone mobile — Wikipédia",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfw4kBAFhCrG4LYMsK9TdwDCt2CiznolT98g&s",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/c/c7/Mobile_phone_PHS_Japan_1997-2003.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/cell-phone/fr/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUgfvr68vZW2zxByKIF4RetHxdKCogDu5rew&s",
+      "fuentePagina": "https://www.bol.com/be/fr/p/telephone-portable-senior-doro-leva-10-simple-4g/9300000197668596/",
+      "titulo": "Téléphone portable senior Doro Leva 10 Simple - 4G (Zwart) | bol",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUgfvr68vZW2zxByKIF4RetHxdKCogDu5rew&s",
+      "original": "https://media.s-bol.com/YJ8Yo9LRoDQO/rk6RqJW/445x840.jpg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/cell-phone/fr/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQa3Knq97Plm28yJsjEWdajTnHn9zr0Ggty0g&s",
+      "fuentePagina": "https://www.thuiszorgwebshop.be/fr/telephone-portable-avec-4g.html",
+      "titulo": "Téléphone portable avec 4G",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQa3Knq97Plm28yJsjEWdajTnHn9zr0Ggty0g&s",
+      "original": "https://cdn.webshopapp.com/shops/231629/files/430748430/telephone-portable-avec-4g.jpg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/cell-phone/fr/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4oNyIG-nNoBlYUwzt6c6J35Lf-TPRmILWBw&s",
+      "fuentePagina": "https://www.amazon.com.be/McMgc-Camon30premier-T%C3%A9l%C3%A9phone-Extensible-Spark10pro-Blue/dp/B0CXHJ1MG9",
+      "titulo": "McMgc Camon30premier Téléphone Portable, 5.0 Pouces IPS Écran, 16GB ROM  128GB Extensible, Android 9.0, Dual SIM Dual Camera 3G Téléphone Pas Cher  ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4oNyIG-nNoBlYUwzt6c6J35Lf-TPRmILWBw&s",
+      "original": "https://m.media-amazon.com/images/I/71bs7yw8FXL.jpg"
+    }
+  ]
+}

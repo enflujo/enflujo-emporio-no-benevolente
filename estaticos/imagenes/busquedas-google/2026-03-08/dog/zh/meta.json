@@ -1,0 +1,71 @@
+{
+  "categoria": "dog",
+  "categoriaSlug": "dog",
+  "idioma": "zh",
+  "nombreIdioma": "中文",
+  "termino": "狗",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T20:51:28.142Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "zh-CN",
+    "gl": "cn"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=%E7%8B%97&hl=zh-CN&gl=cn",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/dog/zh/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSl1mX2CLNpb-Ir8R7xLcCP8YS5mOC4S7e8KA&s",
+      "fuentePagina": "https://www.instagram.com/p/DBveGtmyPAO/",
+      "titulo": "20种适合新手养的狗狗🐶 想养狗却不知道选哪种？这些狗狗性格 ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSl1mX2CLNpb-Ir8R7xLcCP8YS5mOC4S7e8KA&s",
+      "original": "https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3490140613289483722"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/dog/zh/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrXBoifVjD_6Lfo9gLkqV1h8omKMt7oDRORw&s",
+      "fuentePagina": "https://cn.freepik.com/%E7%85%A7%E7%89%87/%E7%8B%97%E7%8B%97%E7%94%BB%E5%83%8F",
+      "titulo": "狗狗画像照片- 下载免费高品质图片| Freepik",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrXBoifVjD_6Lfo9gLkqV1h8omKMt7oDRORw&s",
+      "original": "https://img.freepik.com/free-photo/front-view-adorable-shiba-inu-dog_23-2149457807.jpg?semt=ais_hybrid&w=740&q=80"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/dog/zh/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgypp3OnjWu9TliifuxZDU9QeQ3buWECEWOw&s",
+      "fuentePagina": "https://play.google.com/store/apps/details?id=st.harrison.dog&hl=zh",
+      "titulo": "我和狗狗- 小狗宠物养成游戏- Google Play 上的应用",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgypp3OnjWu9TliifuxZDU9QeQ3buWECEWOw&s",
+      "original": "https://play-lh.googleusercontent.com/YuS6sV6JtW5Z9t3mWZTai9BKB7cgVdiVUYvXj3h8L00zYeer4VJ2FJZHy8q4KjBKrTw=w240-h480-rw"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/dog/zh/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-TV24VO76qQU2ZTIrw6KgYGt8HFp5yEcfKA&s",
+      "fuentePagina": "https://tyenews.com/2021/05/259567/",
+      "titulo": "狗是人類最好的朋友！牠的起源你知道嗎？",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-TV24VO76qQU2ZTIrw6KgYGt8HFp5yEcfKA&s",
+      "original": "https://tyenews.com/wp-content/uploads/2022/07/%E7%8B%97%E7%8B%975411953.jpg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/dog/zh/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLQLJ1MNscRF5Nh28UM1Ds4Wbf80kLda_ckQ&s",
+      "fuentePagina": "https://www.douyin.com/search/%E7%8B%97%E7%8B%97%E5%9B%BE%E9%9B%86%E5%A4%A7%E5%85%A8%E9%AB%98%E6%B8%85%E5%9B%BE%E7%89%87",
+      "titulo": "狗狗图集大全高清图片- 抖音",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLQLJ1MNscRF5Nh28UM1Ds4Wbf80kLda_ckQ&s",
+      "original": "https://p3-pc-sign.douyinpic.com/tos-cn-i-0813c001/oUEsGfQ4zFPYAiDtRAfsFYAoAkIGTAzeEIeeiH~tplv-dy-aweme-images:q75.webp?biz_tag=aweme_images&from=327834062&lk3s=138a59ce&s=PackSourceEnum_SEARCH&sc=image&se=false&x-expires=1774530000&x-signature=WgKhF%2BNfETrfTsyxl%2Bpj96jx2%2BE%3D"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/dog/zh/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQaSl4tC2PVqP-1IAxKgzHH5kJ3MWrxPcP9eg&s",
+      "fuentePagina": "https://www.rocktail.com.tw/blog/view/278/",
+      "titulo": "10大破壞力超強的狗狗品種！有二哈不意外- 搖滾尾巴| 毛孩快樂 ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQaSl4tC2PVqP-1IAxKgzHH5kJ3MWrxPcP9eg&s",
+      "original": "https://www.rocktail.com.tw/wp-content/uploads/2024/08/93_%E5%AF%B5%E7%89%A9%E7%9F%A5%E8%AD%98%E5%A4%A7%E5%85%A8%EF%BC%BF10%E5%A4%A7%E7%A0%B4%E5%A3%9E%E5%8A%9B%E8%B6%85%E5%BC%B7%E7%9A%84%E7%8B%97%E7%8B%97%E5%93%81%E7%A8%AE%EF%BC%81%E6%9C%89%E4%BA%8C%E5%93%88%E4%B8%8D%E6%84%8F%E5%A4%96.png"
+    }
+  ]
+}

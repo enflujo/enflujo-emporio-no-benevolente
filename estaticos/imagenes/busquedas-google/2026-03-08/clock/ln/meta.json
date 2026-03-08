@@ -1,0 +1,71 @@
+{
+  "categoria": "clock",
+  "categoriaSlug": "clock",
+  "idioma": "ln",
+  "nombreIdioma": "Lingala",
+  "termino": "montre",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:28:44.360Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "fr",
+    "gl": "cd"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=montre&hl=fr&gl=cd",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/clock/ln/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBOLtQIOKGtJzargmf_utTrXicI6ehnefsWg&s",
+      "fuentePagina": "https://www.bijourama.com/p-montre-homme-lotus-18938-3-bracelet-acier-argent-lotus-3606686-203.html",
+      "titulo": "Montre Homme Lotus - 18938-3 Bracelet Acier Argent sur ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBOLtQIOKGtJzargmf_utTrXicI6ehnefsWg&s",
+      "original": "https://www.bijourama.com/media/produits/lotus-montres/img/montre-homme-lotus-18938-3-bracelet-acier-argent_3606686-5_1140x1140.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/clock/ln/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwyzVJaTwl9C33N_5GSGnzZLLbXNUjqre4bg&s",
+      "fuentePagina": "https://www.maty.com/conseils-actus/guide-montre/comment-choisir-sa-montre.html",
+      "titulo": "Guide conseil pour bien choisir sa montre | MATY",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwyzVJaTwl9C33N_5GSGnzZLLbXNUjqre4bg&s",
+      "original": "https://www.maty.com/images/DynamicPage/comment-choisir-sa-montre/hero-montre-desktop.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/clock/ln/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsZjhoKN4Z8BArpU4diw-HmmJ143fpW_IkAw&s",
+      "fuentePagina": "https://www.woodandchic.com/collections/montres-en-bois-hommes?srsltid=AfmBOopqaY_-sXIaIvnx3r1fO5cCFZvAmCaoaK7maTPXuGJuC3XJOSSQ",
+      "titulo": "Montres en Bois Homme | Livraison 24h - Gravure ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsZjhoKN4Z8BArpU4diw-HmmJ143fpW_IkAw&s",
+      "original": "https://www.woodandchic.com/cdn/shop/files/Montre_en_Bois_Homme_Henne_Wood_Chic-1_533x.jpg?v=1718457983"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/clock/ln/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQ7C2_iS9C_5sGtG-fQ2sBn0UKGjRtlpWLqA&s",
+      "fuentePagina": "https://zenkaa.fr/montre-connectee/3773-montre-connectee-cadran-noir-2-bracelets-silicone-noir-et-kaki-inwatch-ii-black-iconic-3662738044083.html?srsltid=AfmBOop5PB6YQu1FZw5SAb7boaxJYYTLbCLPXxoyqa-NECGErlvotzsD",
+      "titulo": "Montre connectée 2 bracelets INWATCH II BLACK - ICONIC",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQ7C2_iS9C_5sGtG-fQ2sBn0UKGjRtlpWLqA&s",
+      "original": "https://zenkaa.fr/16461-medium_default/montre-connectee-cadran-noir-2-bracelets-silicone-noir-et-kaki-inwatch-ii-black-iconic.jpg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/clock/ln/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQoprWyqvNi-KhqE6LUcJGqea6-IFO_bvln8Q&s",
+      "fuentePagina": "https://www.1001-montres.fr/montre-certus/3898-montre-doree-style-vintage-certus-630689.html",
+      "titulo": "Montre Certus 630689 toute dorée jaune à mailles - 1001 ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQoprWyqvNi-KhqE6LUcJGqea6-IFO_bvln8Q&s",
+      "original": "https://www.1001-montres.fr/18205-large_default/montre-doree-style-vintage-certus-630689.jpg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/clock/ln/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSd8Vb0pRoEYL0Stji31Zuk0U2WxpDBHFRchA&s",
+      "fuentePagina": "https://www.seikoboutique.eu/fr/fr/17-montres-homme",
+      "titulo": "Montre homme | Toutes nos montres - Seiko officiel",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSd8Vb0pRoEYL0Stji31Zuk0U2WxpDBHFRchA&s",
+      "original": "https://www.seikoboutique.eu/fr/c/17-categoryBandeau/montres-homme.jpg"
+    }
+  ]
+}

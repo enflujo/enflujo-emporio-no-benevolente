@@ -1,0 +1,16 @@
+{
+  "categoria": "train",
+  "categoriaSlug": "train",
+  "idioma": "fr",
+  "nombreIdioma": "Français",
+  "termino": "train",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T20:44:23.695Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "fr",
+    "gl": "be"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=train&hl=fr&gl=be",
+  "imagenes": []
+}

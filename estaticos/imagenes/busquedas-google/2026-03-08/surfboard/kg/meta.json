@@ -1,0 +1,71 @@
+{
+  "categoria": "surfboard",
+  "categoriaSlug": "surfboard",
+  "idioma": "kg",
+  "nombreIdioma": "Kikongo",
+  "termino": "planche",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:04:45.983Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "fr",
+    "gl": "cd"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=planche&hl=fr&gl=cd",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/surfboard/kg/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdumDq26FpQ5ZLV3w70Pjt6i-frHAvgFegJA&s",
+      "fuentePagina": "https://ericflag.com/blogs/infos/full-planche-calisthenics?srsltid=AfmBOoqxQbUArh42c9s7xPXLzws6HCTuDtV8OpqMmE2Z5vjtr3UKnANo",
+      "titulo": "Full Planche : comment la maîtriser ? Le Guide Ultime !",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdumDq26FpQ5ZLV3w70Pjt6i-frHAvgFegJA&s",
+      "original": "https://ericflag.com/cdn/shop/articles/full_planche_35837fec-7efc-47af-9064-b7119f3623f6.jpg?v=1746541969&width=1024"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/surfboard/kg/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQc8PPHQt7d-zWUluRDvBsFvoZbPqZhB5cuBA&s",
+      "fuentePagina": "https://www.elle.fr/Minceur/News/Sport-et-forme/Sport-combien-de-temps-faut-il-rester-en-planche-4001591",
+      "titulo": "Sport : combien de temps faut-il rester en planche ? - Elle",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQc8PPHQt7d-zWUluRDvBsFvoZbPqZhB5cuBA&s",
+      "original": "https://resize.elle.fr/original/var/plain_site/storage/images/minceur/news/sport-et-forme/sport-combien-de-temps-faut-il-rester-en-planche-4001591/96290011-1-fre-FR/Sport-combien-de-temps-faut-il-rester-en-planche.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/surfboard/kg/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1cTxtkoXvKUl0WdXFtu5NDdz7GBBxbJxQxg&s",
+      "fuentePagina": "https://fr.wikipedia.org/wiki/Fichier:Planche.jpg",
+      "titulo": "Fichier:Planche.jpg — Wikipédia",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1cTxtkoXvKUl0WdXFtu5NDdz7GBBxbJxQxg&s",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Planche.jpg/960px-Planche.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/surfboard/kg/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1IFONxYjg_8taA1mOcahHF9egmnBHg4NoeA&s",
+      "fuentePagina": "https://montougo.ca/bouger-plus/exercices-et-entrainements/entrainement-bien-faire-la-planche/",
+      "titulo": "Entraînement: bien faire la planche | TOUGO",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1IFONxYjg_8taA1mOcahHF9egmnBHg4NoeA&s",
+      "original": "https://montougo.ca/wp-content/uploads/2023/10/bonne-mauvaise-posture-planche.jpg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/surfboard/kg/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfBivI3I8VtDXO-hg1Mm2qUOVp-FkNQfINWg&s",
+      "fuentePagina": "https://fitnesskit.de/fr/blogs/autour-de-la-calisthenie/planche-lernen-equipment-und-tipps-fur-die-planche-calisthenics?srsltid=AfmBOoo99gHy06FBJLCXTpMEedn8IsVpMDATe6enL-kgWBDXcTz9oSIL",
+      "titulo": "Apprendre le planchet : Équipement et conseils pour le ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfBivI3I8VtDXO-hg1Mm2qUOVp-FkNQfINWg&s",
+      "original": "https://fitnesskit.de/cdn/shop/articles/Planche_Calisthenics_Ubung_mit_Parallettes_1000x.jpg?v=1732962841"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/surfboard/kg/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRh_C4ld2ryRVP5rk6D9NzCbGH3LFGd535yg&s",
+      "fuentePagina": "https://calisthenics.com/exercise/straddle-planche/",
+      "titulo": "Straddle Planche | CALISTHENICS Workouts & Equipment",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRh_C4ld2ryRVP5rk6D9NzCbGH3LFGd535yg&s",
+      "original": "https://calisthenics.com/wp-content/uploads/2025/02/straddle-planche-exercise.jpg"
+    }
+  ]
+}

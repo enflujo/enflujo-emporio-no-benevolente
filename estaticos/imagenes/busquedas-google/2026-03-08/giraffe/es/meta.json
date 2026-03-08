@@ -1,0 +1,71 @@
+{
+  "categoria": "giraffe",
+  "categoriaSlug": "giraffe",
+  "idioma": "es",
+  "nombreIdioma": "Español",
+  "termino": "jirafa",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T20:55:58.437Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "es",
+    "gl": "es"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=jirafa&hl=es&gl=es",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/giraffe/es/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQK-dUlhvcSgYg9liBsiu7Dkb3uMoqyH8HMkg&s",
+      "fuentePagina": "https://es.wikipedia.org/wiki/Giraffa_camelopardalis",
+      "titulo": "Giraffa camelopardalis - Wikipedia, la enciclopedia libre",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQK-dUlhvcSgYg9liBsiu7Dkb3uMoqyH8HMkg&s",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Giraffa_camelopardalis_angolensis.jpg/960px-Giraffa_camelopardalis_angolensis.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/giraffe/es/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsfwkkS50tZX6UVcLBz9bR-7AiiNq12cJ88A&s",
+      "fuentePagina": "https://es.wikipedia.org/wiki/Giraffa_reticulata",
+      "titulo": "Giraffa reticulata - Wikipedia, la enciclopedia libre",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsfwkkS50tZX6UVcLBz9bR-7AiiNq12cJ88A&s",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Giraffa_camelopardalis_reticulata_01.JPG/330px-Giraffa_camelopardalis_reticulata_01.JPG"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/giraffe/es/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVNfJYhzZR_pg3hkSRqTuifoAJ8h31m8bK8w&s",
+      "fuentePagina": "https://origens.org/es/las-maravillosas-jirafas/",
+      "titulo": "Las maravillosas jirafas - Origens / Orígenes",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVNfJYhzZR_pg3hkSRqTuifoAJ8h31m8bK8w&s",
+      "original": "https://origens.org/wp-content/uploads/2019/05/shutterstock_1153601284-jirafa-web.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/giraffe/es/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGctgVv6dGNXB7C0aDZBvtjMkRFm7drgTEpw&s",
+      "fuentePagina": "https://reinoanimalia.fandom.com/es/wiki/Jirafa",
+      "titulo": "Jirafa | Wiki Reino Animalia | Fandom",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGctgVv6dGNXB7C0aDZBvtjMkRFm7drgTEpw&s",
+      "original": "https://static.wikia.nocookie.net/reinoanimalia/images/7/70/Imagen_2025-06-16_152248683.png/revision/latest?cb=20250616202256&path-prefix=es"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/giraffe/es/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPS71g3IxEmcoN58LcxK67iH7BCKq9ItkxSA&s",
+      "fuentePagina": "https://cienciaybiologia.com/jirafa-curiosidades/",
+      "titulo": "8 curiosidades dela jirafa que te sorprenderán ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPS71g3IxEmcoN58LcxK67iH7BCKq9ItkxSA&s",
+      "original": "https://cienciaybiologia.com/wp-content/uploads/2017/04/jirafa-9-600x400.jpg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/giraffe/es/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYNmYb82B4wQ3Keq-6O88fQVSO__uZZOpowQ&s",
+      "fuentePagina": "https://es.wikipedia.org/wiki/Giraffa_camelopardalis_tippelskirchi",
+      "titulo": "Giraffa camelopardalis tippelskirchi - Wikipedia, la ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYNmYb82B4wQ3Keq-6O88fQVSO__uZZOpowQ&s",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/c/c5/Jirafa_Masai_%28Giraffa_camelopardalis%29%2C_reserva_natural_Mas%C3%A1i_Mara%2C_Kenia%2C_2024-05-20%2C_DD_91.jpg"
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "categoria": "baseball bat",
+  "categoriaSlug": "baseball-bat",
+  "idioma": "ar",
+  "nombreIdioma": "العربية",
+  "termino": "مضرب البيسبول",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:02:56.200Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "ar",
+    "gl": "eg"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=%D9%85%D8%B6%D8%B1%D8%A8%20%D8%A7%D9%84%D8%A8%D9%8A%D8%B3%D8%A8%D9%88%D9%84&hl=ar&gl=eg",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/baseball-bat/ar/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQh3AclqU3kIFjG2zPiCNP1jpcYCLHrg3-nwA&s",
+      "fuentePagina": "https://www.amazon.eg/%D8%A7%D9%84%D8%A7%D9%84%D9%88%D9%85%D9%86%D9%8A%D9%88%D9%85-%D9%84%D9%85%D9%85%D8%A7%D8%B1%D8%B3%D8%A9-%D8%A7%D9%84%D8%A8%D9%8A%D8%B3%D8%A8%D9%88%D9%84-%D9%88%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6%D8%A9-%D9%88%D8%A7%D9%84%D8%AA%D8%AF%D8%B1%D9%8A%D8%A8/dp/B0874HYW4K",
+      "titulo": "مضرب بيسبول سميك من خليط معدني من الالومنيوم مقاس 25 بوصة لممارسة البيسبول  والرياضة والتدريب من فارسلير : Amazon.eg: المستلزمات الرياضية",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQh3AclqU3kIFjG2zPiCNP1jpcYCLHrg3-nwA&s",
+      "original": "https://m.media-amazon.com/images/I/5178hq8v92L.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/baseball-bat/ar/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZmoTn3injZVUPfV81gMYkSu-YCrGbNqgmQw&s",
+      "fuentePagina": "https://mol-msr-aonlayn.almatjar.store/ar/p/mdrb-bysbol-gml-3611?vid=3612",
+      "titulo": "مضرب بيسبول (جملة) | مول مصر أونلاين",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZmoTn3injZVUPfV81gMYkSu-YCrGbNqgmQw&s",
+      "original": "https://tager-uploads.s3.eu-central-1.amazonaws.com/4a416eeb-ff8b-4ca0-b68d-9b6c5c582f2c.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/baseball-bat/ar/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqyOm4HZ0fTMpaozq8QOkvAnywpNPeJvrH1Q&s",
+      "fuentePagina": "https://www.amazon.eg/%D8%A8%D8%A7%D8%AA-%D9%85%D8%B6%D8%B1%D8%A8-%D8%A8%D9%8A%D8%B3%D8%A8%D9%88%D9%84-%D9%85%D9%86-%D8%A7%D9%84%D8%A3%D9%84%D9%88%D9%85%D9%86%D9%8A%D9%88%D9%85/dp/B091J5HY7K",
+      "titulo": "مضرب بيسبول من الألومنيوم : Amazon.eg: المستلزمات الرياضية",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqyOm4HZ0fTMpaozq8QOkvAnywpNPeJvrH1Q&s",
+      "original": "https://m.media-amazon.com/images/I/41-DOQxxShL.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/baseball-bat/ar/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyZqtgRTxD_Cm9C39GXDz-UVL1g6gkdSWf7w&s",
+      "fuentePagina": "https://www.kanteen.store/products/wooden-baseball-bat-size-80-color-white-hitman?srsltid=AfmBOooUCg6ujg4J8IAGzGwx3KChAuge2eYitAaq4RcdYSc1_VHdSeQG",
+      "titulo": "مضرب بيسبول خشب - هيتمان -لون ابيض - عصا بطول 80 سم",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyZqtgRTxD_Cm9C39GXDz-UVL1g6gkdSWf7w&s",
+      "original": "https://www.kanteen.store/cdn/shop/products/1_514ea4f6-1412-4ac3-a40a-17e16de13dd8.jpg?v=1665239110&width=1946"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/baseball-bat/ar/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSHGfwyYpeUKyIBEVGBFSrjUN-he3ZsOm7uA&s",
+      "fuentePagina": "https://www.jumia.com.eg/ar/bat-metal-baseball-bat-self-defense-baseball-softball-32-inch-red-52068361.html?srsltid=AfmBOopbqbOT_AksUM2gCFdPaVC77zTGScfNiZbkk2DDDWPu73GeWe-p",
+      "titulo": "مضرب بيسبول معدني 32 بوصة للدفاع عن النفس، بيسبول وسوفتبول ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSHGfwyYpeUKyIBEVGBFSrjUN-he3ZsOm7uA&s",
+      "original": "https://eg.jumia.is/unsafe/fit-in/500x500/filters:fill(white)/product/16/386025/1.jpg?1412"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/baseball-bat/ar/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-tmF3FsyjiN21zvrbu50LIHmV4ixZJnMtlw&s",
+      "fuentePagina": "https://www.ubuy.com.eg/ar/product/816230URS-genuine-solid-beech-wood-baseball-bat-27-inch-23-oz-tball-bat-self-defense-weight-training-and-pickup-games-classic-and-timeless-design?srsltid=AfmBOor4PidxrBD6dJE_IKF-az3e1eIJtYbZTl7tW_65Uvknp6qedzXB",
+      "titulo": "مضرب بيسبول أصلي من خشب مصر | Ubuy",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-tmF3FsyjiN21zvrbu50LIHmV4ixZJnMtlw&s",
+      "original": "https://image-cdn.ubuy.com/genuine-solid-beech-wood-baseball-bat/400_400_100/6939b2e42fe64d14c00fc728.jpg"
+    }
+  ]
+}

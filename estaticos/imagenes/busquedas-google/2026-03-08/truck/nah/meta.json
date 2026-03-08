@@ -1,0 +1,71 @@
+{
+  "categoria": "truck",
+  "categoriaSlug": "truck",
+  "idioma": "nah",
+  "nombreIdioma": "Náhuatl",
+  "termino": "camión",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T20:45:23.831Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "es",
+    "gl": "mx"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=cami%C3%B3n&hl=es&gl=mx",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/truck/nah/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIYBhAu0jSDOsjSup1niTgr46V4Funv44buA&s",
+      "fuentePagina": "https://camionesmack.mx/camion/camiones-de-carga-tipos-caracteristicas-usos/",
+      "titulo": "Camiones de Carga: Tipos, características y usos más frecuentes",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIYBhAu0jSDOsjSup1niTgr46V4Funv44buA&s",
+      "original": "https://camionesmack.mx/wp-content/uploads/2025/02/250211-blog-mack-Camiones-de-carga-tipos-caracteristicas-y-usos-mas-frecuentes-detalle_11zon.webp"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/truck/nah/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdBQnVE0P2Uagk9QS7fFQBr4WuGDdmu4DpEA&s",
+      "fuentePagina": "https://www.freepik.es/fotos-vectores-gratis/camion-dibujo",
+      "titulo": "Imágenes de Camion dibujo - Descarga gratuita en Freepik",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdBQnVE0P2Uagk9QS7fFQBr4WuGDdmu4DpEA&s",
+      "original": "https://img.freepik.com/vector-gratis/camion-transporte-dibujado-mano_23-2149161394.jpg?semt=ais_hybrid&w=740&q=80"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/truck/nah/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcyHPsmVfJLhpI640heLJvOEP4LNRn-hT4Og&s",
+      "fuentePagina": "https://www.istockphoto.com/es/fotos/cami%C3%B3n-articulado",
+      "titulo": "157.300+ Camión Articulado Fotografías de stock, fotos e ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcyHPsmVfJLhpI640heLJvOEP4LNRn-hT4Og&s",
+      "original": "https://media.istockphoto.com/id/1465157700/es/foto/un-semirremolque-de-color-rojo-brillante-acelera-en-una-carretera-de-dos-carriles-con-autos-en.jpg?s=612x612&w=0&k=20&c=n_xIsJmMT8tjs8UgXssmWZN2a7DeuiKlxRnTG_DntUE="
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/truck/nah/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZhPnIJDvUh07677LGzPG1z57JjD2Orprxsw&s",
+      "fuentePagina": "https://idoneo.es/motorpedia/camion",
+      "titulo": "Camión | idoneo",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZhPnIJDvUh07677LGzPG1z57JjD2Orprxsw&s",
+      "original": "https://static2.idoneo.es/files/uploads/camionn-compressed.jpg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/truck/nah/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCyvw28CsaW_ihKQ-ISj4Sp9Ac-banFCqEbA&s",
+      "fuentePagina": "https://sinotruksgroup.com/es/producto/camion-ligero-howo-box/",
+      "titulo": "Camión ligero Howo Box - SINOTRUK GROUP Soluciones de carga ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCyvw28CsaW_ihKQ-ISj4Sp9Ac-banFCqEbA&s",
+      "original": "https://sinotruksgroup.com/wp-content/uploads/2024/06/Howo-Box-Light-Truck-2.webp"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/truck/nah/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8y5hi16pjAYTCuC2uzcPefQG3yDuvbsrvjg&s",
+      "fuentePagina": "https://mexico.internationaltrucks.com/camiones-de-carga",
+      "titulo": "Camiones de Carga | International®",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8y5hi16pjAYTCuC2uzcPefQG3yDuvbsrvjg&s",
+      "original": "https://mexico.internationaltrucks.com/hubfs/tractocamion.jpg"
+    }
+  ]
+}

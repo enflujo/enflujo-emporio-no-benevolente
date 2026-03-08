@@ -1,0 +1,71 @@
+{
+  "categoria": "sports ball",
+  "categoriaSlug": "sports-ball",
+  "idioma": "am",
+  "nombreIdioma": "Amharic — አማርኛ",
+  "termino": "ኳስ",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:01:35.192Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "am",
+    "gl": "et"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=%E1%8A%B3%E1%88%B5&hl=am&gl=et",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/sports-ball/am/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuU92jmBqpljbKZLTHQCI9lOvi_NVh9trhQQ&s",
+      "fuentePagina": "https://www.facebook.com/wu.man.7359/posts/%E1%8A%A5%E1%8C%8D%E1%88%AD-%E1%8A%B3%E1%88%B5-%E1%88%9D%E1%8A%95%E1%8B%B5%E1%8A%90%E1%8B%8D-%E1%8B%A8%E1%8A%A5%E1%8C%8D%E1%88%AD-%E1%8A%B3%E1%88%B5-%E1%88%B0%E1%88%9C%E1%89%B5-%E1%88%9D%E1%8A%95%E1%8B%B5%E1%8A%90%E1%8B%8D-%E1%89%A5%E1%8B%99%E1%8B%8E%E1%89%BD-%E1%8A%A0%E1%8B%AD%E1%8C%88%E1%89%A3%E1%89%B8%E1%8B%8D%E1%88%9D-%E1%8A%A0%E1%8B%AD%E1%88%A8%E1%8B%B1%E1%88%85%E1%88%9D-%E1%8A%A0%E1%8B%AD%E1%8C%88%E1%8A%90%E1%8B%98%E1%89%A1%E1%89%B5%E1%88%9D-%E1%8B%A8%E1%8A%A5%E1%8C%8D%E1%88%AD-%E1%8A%B3%E1%88%B5-%E1%8D%8D%E1%89%85%E1%88%AD%E1%8A%95-%E1%8C%88%E1%89%A3%E1%89%A5%E1%88%88%E1%8B%8D-%E1%8B%AB/2022277038184165/",
+      "titulo": "እግር ኳስ ምንድነው የእግር ኳስ ሰሜት ምንድነው ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuU92jmBqpljbKZLTHQCI9lOvi_NVh9trhQQ&s",
+      "original": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=2022276274850908"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/sports-ball/am/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbRo2HS-j-SieOZVRRjoUcIBJKO-UuGmPovA&s",
+      "fuentePagina": "https://www.bbc.com/amharic/news-44469217",
+      "titulo": "አወዛጋቢው የእግር ኳስ ዳኞች ማስመሪያ - BBC News አማርኛ",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbRo2HS-j-SieOZVRRjoUcIBJKO-UuGmPovA&s",
+      "original": "https://ichef.bbci.co.uk/ace/ws/640/cpsprodpb/3D9A/production/_102007751_b91ae0c1-bbc9-4c77-a74d-31429ed6e372.jpg.webp"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/sports-ball/am/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRORrXXvoJmFvk4cgAlXVZVG4-x0t8I0vVPeg&s",
+      "fuentePagina": "https://www.ameco.et/sport/70/",
+      "titulo": "በዘመናዊ ቴክኖሎጂ የታገዘችው ኳስ | Ameco Sport",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRORrXXvoJmFvk4cgAlXVZVG4-x0t8I0vVPeg&s",
+      "original": "https://www.ameco.et/sport/wp-content/uploads/2023/12/photo_2023-12-07_10-26-07.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/sports-ball/am/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQb6Gxegpy1YZTv7DC11apzzJrlqB0Q7J1zTg&s",
+      "fuentePagina": "https://play.google.com/store/apps/details?id=com.game.globalsoccerleague.footballgame&hl=am",
+      "titulo": "የእግር ኳስ ጨዋታዎች ጀግና አድማ 3D - መተግባሪያዎች ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQb6Gxegpy1YZTv7DC11apzzJrlqB0Q7J1zTg&s",
+      "original": "https://play-lh.googleusercontent.com/Z3686VO4ILSGo_UiDPSk3i2oPf6KzCRNZhpOo5_7pTTq3JYhcUNsm1EMrK6mG_xiOBQg=w526-h296-rw"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/sports-ball/am/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRECW7VZFf0_hSqTYUbfg2WTLMRXG5glxS-yQ&s",
+      "fuentePagina": "https://am.wikipedia.org/wiki/%E1%8A%A5%E1%8C%8D%E1%88%AD_%E1%8A%B3%E1%88%B5",
+      "titulo": "ውክፔዲያ - እግር ኳስ",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRECW7VZFf0_hSqTYUbfg2WTLMRXG5glxS-yQ&s",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Lionel_Andr%C3%A9s_Messi_Cuccittini.jpg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/sports-ball/am/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKClsvdTmjStQ1E8gfGImvI8HV9cWs4X54Cg&s",
+      "fuentePagina": "https://play.google.com/store/apps/details?id=com.game.globalsoccerleague.footballgame&hl=am",
+      "titulo": "የእግር ኳስ ጨዋታዎች ጀግና አድማ 3D - መተግባሪያዎች ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKClsvdTmjStQ1E8gfGImvI8HV9cWs4X54Cg&s",
+      "original": "https://play-lh.googleusercontent.com/67bQ45qF9g8Vx7gyp34aURWu7_p2oVcno0NNsuXKIxLbq5tD9kiPJX8HwQkHnEGDWDi8=w526-h296-rw"
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "categoria": "hair drier",
+  "categoriaSlug": "hair-drier",
+  "idioma": "hi",
+  "nombreIdioma": "हिन्दी",
+  "termino": "हेयर ड्रायर",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:31:52.309Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "hi",
+    "gl": "in"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=%E0%A4%B9%E0%A5%87%E0%A4%AF%E0%A4%B0%20%E0%A4%A1%E0%A5%8D%E0%A4%B0%E0%A4%BE%E0%A4%AF%E0%A4%B0&hl=hi&gl=in",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/hair-drier/hi/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0NIpVL__U1bxhA_eUIFJtv6g5kVKAkWqoJA&s",
+      "fuentePagina": "https://www.amazon.in/-/hi/%E0%A4%87%E0%A4%82%E0%A4%9F%E0%A4%B0%E0%A4%9A%E0%A5%87%E0%A4%82%E0%A4%9C%E0%A5%87%E0%A4%AC%E0%A4%B2-%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A5%8B%E0%A4%AB%E0%A5%87%E0%A4%B6%E0%A4%A8%E0%A4%B2-%E0%A4%B8%E0%A5%8D%E0%A4%9F%E0%A4%BE%E0%A4%87%E0%A4%B2%E0%A4%BF%E0%A4%82%E0%A4%97-%E0%A4%AE%E0%A4%B9%E0%A4%BF%E0%A4%B2%E0%A4%BE%E0%A4%93%E0%A4%82-%E0%A4%AA%E0%A5%81%E0%A4%B0%E0%A5%81%E0%A4%B7%E0%A5%8B%E0%A4%82/dp/B0776WJDBC",
+      "titulo": "Ikonic Pro 2100+ हेयर ड्रायर 2000W, काला, 3 ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0NIpVL__U1bxhA_eUIFJtv6g5kVKAkWqoJA&s",
+      "original": "https://m.media-amazon.com/images/I/51-YUy4ePyL._AC_UF1000,1000_QL80_.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/hair-drier/hi/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuJkR12afrQUj8NusvBPZD1g_3mwLGaEqEIQ&s",
+      "fuentePagina": "https://www.amazon.in/-/hi/Philips-%E0%A4%B9%E0%A5%87%E0%A4%AF%E0%A4%B0-%E0%A4%A1%E0%A5%8D%E0%A4%B0%E0%A4%BE%E0%A4%AF%E0%A4%B0-HP8142-00/dp/B076JJT62W",
+      "titulo": "Philips हेयर ड्रायर HP8142/00 हेयर ड्रायर (नीला) : Amazon.in: ब्यूटी",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuJkR12afrQUj8NusvBPZD1g_3mwLGaEqEIQ&s",
+      "original": "https://m.media-amazon.com/images/I/71ie3xP1YGL.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/hair-drier/hi/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgAh5S0olCcZI7mjOMy41P7H5G54fTMY_EHg&s",
+      "fuentePagina": "https://www.flipkart.com/hi/philips-hp8643-46-hair-straightener-dryer/p/itmemhnmp8wwwsup",
+      "titulo": "PHILIPS HP8643/46 Hair Straightener + Hair Dryer - PHILIPS ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgAh5S0olCcZI7mjOMy41P7H5G54fTMY_EHg&s",
+      "original": "https://rukminim2.flixcart.com/image/480/640/xif0q/hair-dryer/j/o/t/-original-imagky3mzgfnbzd6.jpeg?q=90"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/hair-drier/hi/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROhuV4fCv1qiexyImn85xTOfC1cSu9c9wqhQ&s",
+      "fuentePagina": "https://www.amazon.in/-/hi/Havells-HD3151-1600W-%E0%A4%A1%E0%A5%8D%E0%A4%B0%E0%A4%BE%E0%A4%AF%E0%A4%B0-%E0%A4%AB%E0%A4%BF%E0%A4%B0%E0%A5%8B%E0%A4%9C%E0%A4%BC%E0%A5%80/dp/B01N33BLDT",
+      "titulo": "\"Havells HD3151 1600W कूल शॉट हेयर ड्रायर (फिरोज़ी) : Amazon.in: ब्यूटी",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROhuV4fCv1qiexyImn85xTOfC1cSu9c9wqhQ&s",
+      "original": "https://m.media-amazon.com/images/I/51gHGxAfg1L.jpg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/hair-drier/hi/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpJPMUFEzG71M3pOHcfas9DS-yUoHMH27ChA&s",
+      "fuentePagina": "https://www.flipkart.com/hi/ikonic-professional-hair-dryer-2500-plus-white/p/itm399d5763d93ac",
+      "titulo": "Ikonic Professional Hair Dryer 2500 Plus White Hair Dryer ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpJPMUFEzG71M3pOHcfas9DS-yUoHMH27ChA&s",
+      "original": "https://rukminim2.flixcart.com/image/480/640/xif0q/hair-dryer/e/2/l/hair-dryer-2500-plus-white-ikonic-professional-original-imah8g3mnehbakhd.jpeg?q=90"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/hair-drier/hi/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0_ASYKXmWtOpZRxZhDZTwPRE2rO0_0ynBew&s",
+      "fuentePagina": "https://www.flipkart.com/hi/havells-hair-dryer-hd-1902-1200w/p/itm85338955b36cd",
+      "titulo": "HAVELLS HAIR DRYER HD 1902 1200W Hair Dryer - HAVELLS ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0_ASYKXmWtOpZRxZhDZTwPRE2rO0_0ynBew&s",
+      "original": "https://rukminim2.flixcart.com/image/480/640/xif0q/hair-dryer/1/h/o/hair-dryer-hd-1902-1200w-havells-original-imaghhy7gxfbjrat.jpeg?q=90"
+    }
+  ]
+}

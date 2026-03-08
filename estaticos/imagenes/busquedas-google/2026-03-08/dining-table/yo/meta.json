@@ -1,0 +1,71 @@
+{
+  "categoria": "dining table",
+  "categoriaSlug": "dining-table",
+  "idioma": "yo",
+  "nombreIdioma": "Yorùbá",
+  "termino": "tábìlì oúnjẹ",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:19:46.612Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "yo",
+    "gl": "ng"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=t%C3%A1b%C3%ACl%C3%AC%20o%C3%BAnj%E1%BA%B9&hl=yo&gl=ng",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/dining-table/yo/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVwhYBD6uc0zbGKL5wAD9ssoSwni4GOLqkzA&s",
+      "fuentePagina": "https://aarsunwoods.com/yo/product/dining-table-for-home-decor-upgrade/",
+      "titulo": "Tábìlì oúnjẹ fún ìgbéga ohun ọ̀ṣọ́ ilé - Aarsun",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVwhYBD6uc0zbGKL5wAD9ssoSwni4GOLqkzA&s",
+      "original": "https://aarsunwoods.com/wp-content/uploads/2026/01/Dining-Table-for-Home-Decor-Upgrade-0.webp"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/dining-table/yo/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTiz2dTZ48RpqMlymKCZZCyNx1i_lqr7Tx_vQ&s",
+      "fuentePagina": "https://maxwellink.com/yo/product/solid-wood-rectangular-dining-table-set/",
+      "titulo": "Aṣa Tabili Ounjẹ Onigi Didara Olupese Onigun mẹrin - MAXWELL",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTiz2dTZ48RpqMlymKCZZCyNx1i_lqr7Tx_vQ&s",
+      "original": "https://maxwellink.com/wp-content/uploads/2025/03/Solid-Wood-Rectangular-Dining-Table-Set-2.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/dining-table/yo/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0-OSxtEuvg679V4vQfaAwZyGNMcEUjNMa_w&s",
+      "fuentePagina": "https://yo.zjnottinghill.com/exquisite-wooden-dining-table-product/",
+      "titulo": "Olùpèsè àti Ọjà Tábìlì Oúnjẹ Onígi Onígi Tó Dára Jù ní China ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0-OSxtEuvg679V4vQfaAwZyGNMcEUjNMa_w&s",
+      "original": "https://cdn.globalso.com/zjnottinghill/NH2652+NH2661.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/dining-table/yo/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzgpURJ8HNoCFhYzAabjEbjmyOaIdVE8gLOA&s",
+      "fuentePagina": "https://maxwellink.com/yo/product/5-piece-dining-table-set-with-comfortable-chairs/",
+      "titulo": "Eto Tabili Ounjẹ Apakan 5 pẹlu Awọn Aga Itura - MAXWELL",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzgpURJ8HNoCFhYzAabjEbjmyOaIdVE8gLOA&s",
+      "original": "https://maxwellink.com/wp-content/uploads/2026/01/5-piece-dining-table-set-1.jpg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/dining-table/yo/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxKO6d8sN3M_lEuCoinU75Jt28u7NCC4OXxw&s",
+      "fuentePagina": "https://aarsunwoods.com/yo/product/dining-table-for-home-decor-upgrade/",
+      "titulo": "Tábìlì oúnjẹ fún ìgbéga ohun ọ̀ṣọ́ ilé - Aarsun",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxKO6d8sN3M_lEuCoinU75Jt28u7NCC4OXxw&s",
+      "original": "https://aarsunwoods.com/wp-content/uploads/2026/01/Dining-Table-for-Home-Decor-Upgrade-1.webp"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/dining-table/yo/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRly8an2pABfSNqeM-oc8PdbLZ0FpVSN8EU6Q&s",
+      "fuentePagina": "https://yo.zjnottinghill.com/exquisite-wooden-dining-table-product/",
+      "titulo": "Olùpèsè àti Ọjà Tábìlì Oúnjẹ Onígi Onígi Tó Dára Jù ní China ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRly8an2pABfSNqeM-oc8PdbLZ0FpVSN8EU6Q&s",
+      "original": "https://www.zjnottinghill.com/uploads/NH2652-1.jpg"
+    }
+  ]
+}

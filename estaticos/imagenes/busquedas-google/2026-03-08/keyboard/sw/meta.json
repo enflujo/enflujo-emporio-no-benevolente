@@ -1,0 +1,71 @@
+{
+  "categoria": "keyboard",
+  "categoriaSlug": "keyboard",
+  "idioma": "sw",
+  "nombreIdioma": "Kiswahili",
+  "termino": "kibodi",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:23:32.370Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "sw",
+    "gl": "tz"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=kibodi&hl=sw&gl=tz",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/keyboard/sw/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0T8E9wHDq-x9Qa84VBCZZrrS4sojL8EypnA&s",
+      "fuentePagina": "https://sw.wikipedia.org/wiki/Kibodi",
+      "titulo": "Kibodi - Wikipedia, kamusi elezo huru",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0T8E9wHDq-x9Qa84VBCZZrrS4sojL8EypnA&s",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/1/19/QWERTY_HPkeyboard.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/keyboard/sw/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTJxSm-ArNtoengzBOWivQNKdP_ioRqtSP0w&s",
+      "fuentePagina": "https://www.ubuy.co.tz/sw/product/46LODZ5B0-61-keys-keyboard-piano-camide-electronic-digital-piano-with-built-in-speaker-microphone-sheet-stand-and-power-supply-portable-keyboard-gift?srsltid=AfmBOorDGppPNiVx1fv27G9ikoKX3xzps5JqRpypvehL0aAi9Tz1RMxw",
+      "titulo": "61 Vifungio vya kibodi cha kibodi, piano ya Tanzania | Ubuy",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTJxSm-ArNtoengzBOWivQNKdP_ioRqtSP0w&s",
+      "original": "https://m.media-amazon.com/images/I/71G++X1BtuS._AC_SL1200_.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/keyboard/sw/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBz1ZAul53wfFIcndxbJ2w89Ul4WrUhYZvxQ&s",
+      "fuentePagina": "https://www.konixtech.com/sw/electric-piano-keyboard-pj61z-61-keys-usb-function-piano-musical-instruments-product/",
+      "titulo": "Kibodi ya piano ya jumla ya Umeme PJ61Z Vifunguo 61 Utendaji ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBz1ZAul53wfFIcndxbJ2w89Ul4WrUhYZvxQ&s",
+      "original": "https://ecdn6.globalso.com/upload/p/812/image_other/2024-03/65e174a3e55b198438.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/keyboard/sw/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYFolmCoJntaBBCJlADcfQj5gHG9W_FPzTXA&s",
+      "fuentePagina": "https://play.google.com/store/apps/details?id=com.Play.Piano.Keyboard&hl=sw",
+      "titulo": "Kibodi ya Piano - Cheza Muziki - Programu zilizo kwenye ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYFolmCoJntaBBCJlADcfQj5gHG9W_FPzTXA&s",
+      "original": "https://play-lh.googleusercontent.com/j0-Q7gt0c0KngiJgZ6DWi0nizO_rLaJvbbtgfpWV9_t47KL8oWnELGMB1JMXO2WfM5o"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/keyboard/sw/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4MnTTUCNIeELm_mUzB0AOwA7VA8yNIFpiUg&s",
+      "fuentePagina": "https://play.google.com/store/apps/details?id=com.audiosdroid.portableorg&hl=sw",
+      "titulo": "Portable ORG Keyboard - Programu zilizo kwenye Google Play",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4MnTTUCNIeELm_mUzB0AOwA7VA8yNIFpiUg&s",
+      "original": "https://play-lh.googleusercontent.com/rAvq4dWnpwXaa_rpY1OkmtDaq1OReR85UGhtZ7cDZY_uGK8BU04Z-PN9pypUKUlDYak=w526-h296-rw"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/keyboard/sw/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnbAK3QTN5QpI65BrVwsTBPN_ztFfqW9TSZw&s",
+      "fuentePagina": "https://www.instagram.com/p/DGFopoGNDAR/",
+      "titulo": "Yamaha PSR-SX920 ni kibodi ya kisasa yenye sifa bora kwa ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnbAK3QTN5QpI65BrVwsTBPN_ztFfqW9TSZw&s",
+      "original": "https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3568437062173732881"
+    }
+  ]
+}

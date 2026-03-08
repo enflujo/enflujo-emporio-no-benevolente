@@ -1,0 +1,71 @@
+{
+  "categoria": "bus",
+  "categoriaSlug": "bus",
+  "idioma": "rw",
+  "nombreIdioma": "Kinyarwanda",
+  "termino": "bisi",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T20:43:41.807Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "en",
+    "gl": "rw"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=bisi&hl=en&gl=rw",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bus/rw/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKynNR51lMX3mm1CjRdosEQVYfm9xktkoJZA&s",
+      "fuentePagina": "https://www.sanpellegrino.com/sparkling-drinks/zesty-food/risi-e-bisi",
+      "titulo": "Risi e Bisi",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKynNR51lMX3mm1CjRdosEQVYfm9xktkoJZA&s",
+      "original": "https://www.sanpellegrino.com/sites/g/files/xknfdk1986/files/risi_bisi_post.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bus/rw/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpBsc_SRrxYRyMLCpdKuGZqUn-_a26tyiz0Q&s",
+      "fuentePagina": "https://imvahonshya.co.rw/bisi-za-basigo-zikoresha-amashahyarazi-ziratangira-kwerekeza-mu-ntara/",
+      "titulo": "Bisi za BasiGo zikoresha amashahyarazi ziratangira kwerekeza ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpBsc_SRrxYRyMLCpdKuGZqUn-_a26tyiz0Q&s",
+      "original": "https://imvahonshya.co.rw/wp-content/uploads/2024/10/WhatsApp-Image-2024-10-08-at-17.35.45_0aa3b651.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bus/rw/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_R0zNGm8kkNf2MHeRK1SeRaTyJY8nYRGbLA&s",
+      "fuentePagina": "https://authenticroyal.com/recipes/bisi-bele-bath/",
+      "titulo": "Bisi Bele Bath | Authentic Royal®",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_R0zNGm8kkNf2MHeRK1SeRaTyJY8nYRGbLA&s",
+      "original": "https://authenticroyal.com/wp-content/uploads/2024/10/Bisi-Bele-Bath.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bus/rw/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQolWVbsZObUVR9kL5hpV5nzL4jTdpvWUNcXA&s",
+      "fuentePagina": "https://www.subbuskitchen.com/bisibela-bath-sambar-rice/",
+      "titulo": "Bisi Bele Bath Recipe | Karnataka Style Bisibelebath Recipe",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQolWVbsZObUVR9kL5hpV5nzL4jTdpvWUNcXA&s",
+      "original": "https://www.subbuskitchen.com/wp-content/uploads/2020/07/Bisi-Bele-Bath_web1.jpg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bus/rw/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRV4k3miWMuuANIWuQNpLB-dIs0VwJiQSpRvQ&s",
+      "fuentePagina": "https://kannanskitchen.com/bisi-bele-bath/",
+      "titulo": "Bisi Bele Bath - Kannan's Kitchen",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRV4k3miWMuuANIWuQNpLB-dIs0VwJiQSpRvQ&s",
+      "original": "https://kannanskitchen.com/wp-content/uploads/2022/10/DSC_2152.jpg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bus/rw/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnXhsuQtKllbTMcitB6DcF4QYCb6kdTFR2dA&s",
+      "fuentePagina": "https://www.indianhealthyrecipes.com/bisi-bele-bath/",
+      "titulo": "Bisi Bele Bath Recipe",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnXhsuQtKllbTMcitB6DcF4QYCb6kdTFR2dA&s",
+      "original": "https://www.indianhealthyrecipes.com/wp-content/uploads/2021/07/bisi-bele-bath-recipe-500x375.jpg"
+    }
+  ]
+}

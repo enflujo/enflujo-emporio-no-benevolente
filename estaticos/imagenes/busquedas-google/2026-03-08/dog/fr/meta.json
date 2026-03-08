@@ -1,0 +1,71 @@
+{
+  "categoria": "dog",
+  "categoriaSlug": "dog",
+  "idioma": "fr",
+  "nombreIdioma": "Français",
+  "termino": "chien",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T20:51:02.248Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "fr",
+    "gl": "be"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=chien&hl=fr&gl=be",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/dog/fr/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZCmAaz3lv67iLiYSRrxF9hcjkJvjZSE2OIw&s",
+      "fuentePagina": "https://stan.bio/blogs/infos/chien-de-berger",
+      "titulo": "Chien de berger : découvrez les 10 meilleures races – Stan.bio",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZCmAaz3lv67iLiYSRrxF9hcjkJvjZSE2OIw&s",
+      "original": "https://cdn.shopify.com/s/files/1/0265/1327/7008/files/chien-de-berger.jpg?v=1743162624"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/dog/fr/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfqdidNyiZ6mXHHvrwx8oa0MjTrpOtAnHlig&s",
+      "fuentePagina": "https://www.bullebleue.fr/articles/chiens-garde",
+      "titulo": "Les races de chien de garde - Bulle Bleue",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfqdidNyiZ6mXHHvrwx8oa0MjTrpOtAnHlig&s",
+      "original": "https://images.ctfassets.net/denf86kkcx7r/2K7MdAAT6e3oPTfBQld5D/a24c1c1ae7db8cb3c947f9a86d89132a/aa.jpg?fm=webp&w=612"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/dog/fr/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXKvURWJhwQ65kNhUWeyzdeQj5phj1rZ8kGg&s",
+      "fuentePagina": "https://blog.ultrapremiumdirect.com/focus-sur-les-races/guide-pour-adopter-une-race-de-grand-chien/",
+      "titulo": "Guide pour adopter une race de grand chien - Blog Ultra ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXKvURWJhwQ65kNhUWeyzdeQj5phj1rZ8kGg&s",
+      "original": "https://ik.imagekit.io/yynn3ntzglc/cms/4_contenus_1200x841_px_a95da8bd97_ZSG1r-ShuO.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/dog/fr/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNqXQNtLW3L1_PSM9Z7dTkgnFsOpW8YPe_Wg&s",
+      "fuentePagina": "https://www.pedigree.fr/conseils-chien/nouveau-chien/les-chiens-le-plus-intelligents",
+      "titulo": "Le Top 12 des races de chiens les plus intelligentes | Pedigree®",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNqXQNtLW3L1_PSM9Z7dTkgnFsOpW8YPe_Wg&s",
+      "original": "https://www.pedigree.fr/cdn-cgi/image/format=auto,q=90/sites/g/files/fnmzdf8521/files/2023-06/yasmine-duchesne-deFc953RSP4-unsplash.jpg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/dog/fr/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3RY9H1OKHjR-JBq7J7gnMl63IblTZ2T3oqw&s",
+      "fuentePagina": "https://monvet.com/choisir-bon-chien-famille/",
+      "titulo": "Comment choisir le bon chien pour votre famille",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3RY9H1OKHjR-JBq7J7gnMl63IblTZ2T3oqw&s",
+      "original": "https://monvet.com/wp-content/uploads/2025/01/Jack-Russel-Terrier-2-1.jpg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/dog/fr/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzEX7Ef6zdbDanARmiCwj8VRd3_W4Ydxoc_w&s",
+      "fuentePagina": "https://www.futura-sciences.com/planete/questions-reponses/chien-esperance-vie-chiens-7222/",
+      "titulo": "Quelle est l'espérance de vie des chiens ?",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzEX7Ef6zdbDanARmiCwj8VRd3_W4Ydxoc_w&s",
+      "original": "https://cdn8.futura-sciences.com/a1280/images/actu/esperance-vie-chiens-chiot-golden-retriever.jpg"
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "categoria": "knife",
+  "categoriaSlug": "knife",
+  "idioma": "qu",
+  "nombreIdioma": "Quechua",
+  "termino": "kuchillo",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:08:58.433Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "es",
+    "gl": "pe"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=kuchillo&hl=es&gl=pe",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/knife/qu/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwr3sXkJPnFoJZLpL15kyea19fiJrNgZJc8w&s",
+      "fuentePagina": "https://www.facebook.com/mario333.peru/posts/kuchillo-chef-%EF%B8%8Fhitachi%EF%B8%8F-s35vn-%EF%B8%8F-de-acero-damasco-de-67-capas-de-8-pulgadas/122178674408050455/",
+      "titulo": "Kuchillo chef 🔺️HITACHI🔺️ S35VN 🔺️ de acero damasco de ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwr3sXkJPnFoJZLpL15kyea19fiJrNgZJc8w&s",
+      "original": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=122178674198050455"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/knife/qu/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRl4ErcNXQ2nB2V1Ugx8CHNMfdG9O8LOXqaTw&s",
+      "fuentePagina": "https://www.facebook.com/mario333.peru/posts/kuchillo-chef-%EF%B8%8Fhitachi%EF%B8%8F-s35vn-%EF%B8%8F-de-acero-damasco-de-67-capas-de-8-pulgadas/122178674408050455/",
+      "titulo": "Kuchillo chef 🔺️HITACHI🔺️ S35VN 🔺️ de acero damasco de ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRl4ErcNXQ2nB2V1Ugx8CHNMfdG9O8LOXqaTw&s",
+      "original": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=122178674162050455"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/knife/qu/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR38gbuCLEAnM01T2GAAXm0WitXSx0W4ldgbQ&s",
+      "fuentePagina": "https://www.deezer.com/es/artist/60795882",
+      "titulo": "El Kuchillo: discos, canciones y conciertos | Deezer",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR38gbuCLEAnM01T2GAAXm0WitXSx0W4ldgbQ&s",
+      "original": "https://cdn-images.dzcdn.net/images/cover/ee74f282ce146dfe3c6946db8c69357c/1900x1900-000000-80-0-0.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/knife/qu/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLr4HIKiS6T_kmi9D58U2cW-ad9scRM6L0BA&s",
+      "fuentePagina": "https://www.facebook.com/mario333.peru/posts/kuchillo-chef-%EF%B8%8Fhitachi%EF%B8%8F-s35vn-%EF%B8%8F-de-acero-damasco-de-67-capas-de-8-pulgadas/122178674408050455/",
+      "titulo": "Kuchillo chef 🔺️HITACHI🔺️ S35VN 🔺️ de acero damasco de ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLr4HIKiS6T_kmi9D58U2cW-ad9scRM6L0BA&s",
+      "original": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=122178674048050455"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/knife/qu/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbXY3yTwck48bmbzaMW4_Rd9Upwc3f3oKoxg&s",
+      "fuentePagina": "https://www.todohogar.com/productos/cuchillo-chef-de-acero-inoxidable-con-mango-negro-205cm-novo/480d7a27-0dc3-4648-9c04-ca2bc40137ec",
+      "titulo": "Cuchillo Chef de Acero Inoxidable con Mango Negro 20.5cm Novo",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbXY3yTwck48bmbzaMW4_Rd9Upwc3f3oKoxg&s",
+      "original": "https://web-pro-resources.s3.us-east-2.amazonaws.com/public/optimized-resources/product/480d7a27-0dc3-4648-9c04-ca2bc40137ec/image/cuchillo-chef-205cm-mango-negro-ac-inox-600x600.jpg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/knife/qu/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvt7-SYK577WSYPOrbbisUOCK8Y_p9t3Z1DA&s",
+      "fuentePagina": "https://open.spotify.com/intl-es/artist/3PwFYmyIXr57HBbxULzF1h",
+      "titulo": "El Kuchillo | Spotify",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvt7-SYK577WSYPOrbbisUOCK8Y_p9t3Z1DA&s",
+      "original": "https://i.scdn.co/image/ab67616d00001e02d5b5cd8786e7c215250f1e73"
+    }
+  ]
+}

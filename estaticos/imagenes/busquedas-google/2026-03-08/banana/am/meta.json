@@ -1,0 +1,71 @@
+{
+  "categoria": "banana",
+  "categoriaSlug": "banana",
+  "idioma": "am",
+  "nombreIdioma": "Amharic — አማርኛ",
+  "termino": "ሙዝ",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:10:47.119Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "am",
+    "gl": "et"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=%E1%88%99%E1%8B%9D&hl=am&gl=et",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/banana/am/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_grdVM_tlAyONj-OzguCgNSPALEvUlXTYoA&s",
+      "fuentePagina": "https://am.wikipedia.org/wiki/%E1%88%99%E1%8B%9D",
+      "titulo": "ውክፔዲያ - ሙዝ",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_grdVM_tlAyONj-OzguCgNSPALEvUlXTYoA&s",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/9/94/Banana_farm_Chinawal.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/banana/am/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSd8xaDbBzMCA1rm8Kb8yFk9ItSOwSzQTpnig&s",
+      "fuentePagina": "https://www.facebook.com/100057803433746/posts/%E1%8A%A0%E1%88%B5%E1%8C%88%E1%88%AB%E1%88%9A-%E1%8B%A8%E1%88%99%E1%8B%9D-%E1%8C%A5%E1%89%85%E1%88%9E%E1%89%BD%E1%89%A0%E1%89%A5%E1%8B%99%E1%8B%8E%E1%89%BD-%E1%8B%98%E1%8A%95%E1%8B%B5-%E1%89%B0%E1%8B%88%E1%8B%B3%E1%8C%85%E1%8A%90%E1%89%B5-%E1%88%B5%E1%88%8B%E1%88%88%E1%8B%8D-%E1%8D%8D%E1%88%AB%E1%8D%8D%E1%88%AC-%E1%88%99%E1%8B%9D-%E1%8C%A5%E1%89%85%E1%88%9E%E1%89%BD-%E1%8A%A5%E1%8A%93%E1%8A%90%E1%88%B3%E1%88%88%E1%8A%95%E1%88%99%E1%8B%9D%E1%88%99%E1%8B%9D-%E1%89%A0%E1%8A%95%E1%8C%A5%E1%88%A8-%E1%8A%90%E1%8C%88%E1%88%AD-%E1%8B%AD%E1%8B%98%E1%89%B3%E1%89%B8%E1%8B%8D-%E1%8A%A8%E1%89%A0%E1%88%88%E1%8D%80%E1%8C%89/1686662084819514/",
+      "titulo": "አስገራሚ #የሙዝ #ጥቅሞች በብዙዎች ዘንድ ተወዳጅነት ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSd8xaDbBzMCA1rm8Kb8yFk9ItSOwSzQTpnig&s",
+      "original": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=1686661344819588"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/banana/am/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2bls9xFCQBwinFi4DKDb6X1bJzYsLXkA_ew&s",
+      "fuentePagina": "https://www.facebook.com/AmharaMediaCorporation/posts/%E1%88%99%E1%8B%9D-%E1%89%A0%E1%88%80%E1%8A%AA%E1%88%9E%E1%89%BD%E1%8A%93-%E1%89%B0%E1%88%98%E1%88%AB%E1%88%9B%E1%88%AA%E1%8B%8E%E1%89%BD-%E1%8A%A5%E1%8B%AD%E1%89%B3%E1%8A%A0%E1%89%B5%E1%8A%AD%E1%88%8D%E1%89%B5-%E1%8A%A5%E1%8A%93-%E1%8D%8D%E1%88%AB%E1%8D%8D%E1%88%AC%E1%8B%8E%E1%89%BD%E1%8A%95-%E1%88%98%E1%88%98%E1%8C%88%E1%89%A5-%E1%88%88%E1%8C%A4%E1%8A%93-%E1%89%B0%E1%88%B5%E1%88%9B%E1%88%9A-%E1%88%98%E1%88%86%E1%8A%91%E1%8A%95-%E1%8B%A8%E1%8C%A4%E1%8A%93-%E1%89%A3%E1%88%88%E1%88%99%E1%8B%AB%E1%8B%8E%E1%89%BD-%E1%88%9D%E1%8A%AD%E1%88%AB%E1%89%B8%E1%8B%8D%E1%8A%95-%E1%8B%AD%E1%88%88%E1%8C%8D%E1%88%B3%E1%88%89/878673228974339/",
+      "titulo": "ሙዝ በሀኪሞችና ተመራማሪዎች እይታ አትክልት እና ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2bls9xFCQBwinFi4DKDb6X1bJzYsLXkA_ew&s",
+      "original": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=878673132307682"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/banana/am/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCSDnk_PrpXbFtnakdliUHSOEuYcJ1Pwpaig&s",
+      "fuentePagina": "https://www.facebook.com/photo.php?fbid=2179877088810257&set=a.305084434997237&id=100064870471180",
+      "titulo": "Awi - የሙዝ የጤና ጥቅሞች ሙዝ በንጥረ ነገር ይዘታቸው ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCSDnk_PrpXbFtnakdliUHSOEuYcJ1Pwpaig&s",
+      "original": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=2179877088810257"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/banana/am/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpSVISNVX5IVOj1AGdj-UOW-dzacaX3AINtw&s",
+      "fuentePagina": "https://naturmedscientific.com/am/%E1%88%9D%E1%88%AD%E1%89%B5/%E1%8B%A8%E1%88%99%E1%8B%9D-%E1%8B%B1%E1%89%84%E1%89%B5-%E1%88%99%E1%88%B3-%E1%8D%93%E1%88%AB%E1%8B%B2%E1%88%B2%E1%8B%AB%E1%8A%AB/",
+      "titulo": "የሙዝ ዱቄት (ሙሳ ፓራዲሲያካ) - ናቱርሜድ ሳይንቲፊክ",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpSVISNVX5IVOj1AGdj-UOW-dzacaX3AINtw&s",
+      "original": "https://naturmedscientific.com/wp-content/uploads/2025/07/bananas.webp"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/banana/am/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSH7E0P6ErB3rOZCQ95j2b6v-pFvWjZAsVZw&s",
+      "fuentePagina": "https://www.facebook.com/groups/649909788804615/posts/2253529721775939/",
+      "titulo": "15 የሙዝ የጤና ጥቅሞች ሙዝ በንጥረ ነገር ይዘታቸው ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSH7E0P6ErB3rOZCQ95j2b6v-pFvWjZAsVZw&s",
+      "original": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=809896414771204"
+    }
+  ]
+}

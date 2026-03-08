@@ -1,0 +1,71 @@
+{
+  "categoria": "oven",
+  "categoriaSlug": "oven",
+  "idioma": "yo",
+  "nombreIdioma": "Yorùbá",
+  "termino": "àgo ìdin",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:25:37.165Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "yo",
+    "gl": "ng"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=%C3%A0go%20%C3%ACdin&hl=yo&gl=ng",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/oven/yo/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpGlxqzJxjGXT9zAnlOxyjwhG8rDDQ60ldyg&s",
+      "fuentePagina": "https://www.instagram.com/p/DUG-m9NAvJJ/",
+      "titulo": "🌿 Odu Ifá for Today: ÌDIN ÒGÚNDÁ Some seasons reshape us ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpGlxqzJxjGXT9zAnlOxyjwhG8rDDQ60ldyg&s",
+      "original": "https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3821015761988774939"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/oven/yo/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3gbN4whcFGSmZt4vlEpNJ9kXJAlCZZqnPNA&s",
+      "fuentePagina": "https://www.instagram.com/p/DUG-m9NAvJJ/",
+      "titulo": "🌿 Odu Ifá for Today: ÌDIN ÒGÚNDÁ Some seasons reshape us ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3gbN4whcFGSmZt4vlEpNJ9kXJAlCZZqnPNA&s",
+      "original": "https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3821015810038703593"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/oven/yo/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJdax2DKZqIHoqbeAbGg-fpIhoBr3gbWhOsA&s",
+      "fuentePagina": "https://www.youtube.com/watch?v=tcc32yTKN-c",
+      "titulo": "Ifá Kíkì Lójú Ọpọ́n: Òdí Ọ̀kànràn (Ìdin-Kànràn) by Babaláwo Fáṣèyí Fáṣayọ̀  - Àlàbí.",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJdax2DKZqIHoqbeAbGg-fpIhoBr3gbWhOsA&s",
+      "original": "https://i.ytimg.com/vi/tcc32yTKN-c/hq720.jpg?sqp=-oaymwE7CK4FEIIDSFryq4qpAy0IARUAAAAAGAElAADIQj0AgKJD8AEB-AH-CYAC0AWKAgwIABABGGUgZShlMA8=&rs=AOn4CLC01bcPmq2pPvb8URA9_MQpxQC7bg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/oven/yo/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUIkaFY6H32GT0IyX3Mvo1ttkB3Jo0lm1DUA&s",
+      "fuentePagina": "https://www.instagram.com/p/DUG-m9NAvJJ/",
+      "titulo": "🌿 Odu Ifá for Today: ÌDIN ÒGÚNDÁ Some seasons reshape us ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUIkaFY6H32GT0IyX3Mvo1ttkB3Jo0lm1DUA&s",
+      "original": "https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3821015839113636846"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/oven/yo/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPtoET2en7MEOlg1t6USwOjt0kxm9eQRaBEg&s",
+      "fuentePagina": "https://www.youtube.com/watch?v=-xuYahUBER8",
+      "titulo": "Ifá Kíkì Lójú Ọpọ́n: Òdí Òfún (Ìdin-Fún-ún) by Babaláwo Aláwodé Fákáyọ̀dé.",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPtoET2en7MEOlg1t6USwOjt0kxm9eQRaBEg&s",
+      "original": "https://i.ytimg.com/vi/-xuYahUBER8/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGGUgUihMMA8=&rs=AOn4CLAQDgjK4XGfO8Bdq5KTu4oAKqikRw"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/oven/yo/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7QpD1DwSOUpNTkOM2fqFMtCiU0UcjSihKQQ&s",
+      "fuentePagina": "https://www.instagram.com/p/DSj7WG8DF_R/",
+      "titulo": "Bí mo bá lájé Orí mi, ìwọ ni Ìdin rùsùrùsù Orí mi, ìwọ ni Bí ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7QpD1DwSOUpNTkOM2fqFMtCiU0UcjSihKQQ&s",
+      "original": "https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3793136315198627793"
+    }
+  ]
+}

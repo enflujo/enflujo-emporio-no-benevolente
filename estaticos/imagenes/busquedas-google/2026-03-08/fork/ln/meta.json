@@ -1,0 +1,71 @@
+{
+  "categoria": "fork",
+  "categoriaSlug": "fork",
+  "idioma": "ln",
+  "nombreIdioma": "Lingala",
+  "termino": "fourchette",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:07:56.435Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "fr",
+    "gl": "cd"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=fourchette&hl=fr&gl=cd",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/fork/ln/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSp8ITzmjf4G02cGU_l1LFhy6TjMIchs0YGog&s",
+      "fuentePagina": "https://fr.retif.be/fourchette-acier-modele-oslo-20-9cm-noir-par-12.html",
+      "titulo": "Fourchette acier modèle Oslo 20,9cm noir - par 12 - RETIF",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSp8ITzmjf4G02cGU_l1LFhy6TjMIchs0YGog&s",
+      "original": "https://fr.retif.be/media/catalog/product/5/0/501331_Retif_PH_01.jpg?quality=80&bg-color=255,255,255&fit=bounds&height=920&width=920&canvas=920:920"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/fork/ln/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQe2eohHW8F9xgsKebh5AKw34u4pru3C236xA&s",
+      "fuentePagina": "https://www.mjpro.fr/Fourchette-de-table-Vieux-Paris-Tradition/p/4/1045/1402/",
+      "titulo": "Fourchette de table Vieux Paris 'Tradition' - MJPRO ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQe2eohHW8F9xgsKebh5AKw34u4pru3C236xA&s",
+      "original": "https://www.mjpro.fr/client/530231/media/files/Fourchette-de-table-Vieux-Paris-Tradition-1402_101_1433229667.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/fork/ln/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdYwAik4cI-AhVdP-Hh7GEOa6HUFncENk7wQ&s",
+      "fuentePagina": "https://fr.wikipedia.org/wiki/Fourchette",
+      "titulo": "Fourchette — Wikipédia",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdYwAik4cI-AhVdP-Hh7GEOa6HUFncENk7wQ&s",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Assorted_forks.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/fork/ln/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXOYfCKVrVLPCNVLj4aXNSKTiO_alcouUvLQ&s",
+      "fuentePagina": "https://www.francaisauthentique.com/haut-bas-de-fourchette/",
+      "titulo": "Le haut et le bas de la fourchette - Français Authentique",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXOYfCKVrVLPCNVLj4aXNSKTiO_alcouUvLQ&s",
+      "original": "https://www.francaisauthentique.com/wp-content/uploads/2016/07/Miniature2.jpg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/fork/ln/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrls0TudG3p-qHOVT99M0cpL3_l4sQtgoRtw&s",
+      "fuentePagina": "https://www.monouso.be/fourchette-en-acier-inox-175-cm-500-utes-9349.html?srsltid=AfmBOooDwEQemmAHstNYTXsRmxb-KHtjwts0EH18GdhrqkIjjUNvMAQc",
+      "titulo": "Fourchette en Acier Inox 17,5 cm (500 Utés)",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrls0TudG3p-qHOVT99M0cpL3_l4sQtgoRtw&s",
+      "original": "https://www.monouso.be/71396/fourchette-en-acier-inox-175-cm-500-utes.jpg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/fork/ln/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT03M4PsYqnH0hrphzn7sG0LGrFLkQ2OJtBpA&s",
+      "fuentePagina": "https://www.gastronomiac.com/ustensiles_et_vocabu/fourchette/",
+      "titulo": "Fourchette",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT03M4PsYqnH0hrphzn7sG0LGrFLkQ2OJtBpA&s",
+      "original": "https://www.gastronomiac.com/wp/wp-content/uploads/2015/05/fourchette-classique.png"
+    }
+  ]
+}

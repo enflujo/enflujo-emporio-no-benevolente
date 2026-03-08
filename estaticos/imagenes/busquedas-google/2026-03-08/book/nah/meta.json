@@ -1,0 +1,71 @@
+{
+  "categoria": "book",
+  "categoriaSlug": "book",
+  "idioma": "nah",
+  "nombreIdioma": "Náhuatl",
+  "termino": "āmoxtli",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:28:32.585Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "es",
+    "gl": "mx"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=%C4%81moxtli&hl=es&gl=mx",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/book/nah/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShKQgjJqvRSXwJt5VKJXTMrEHGWRjRlZJ0QQ&s",
+      "fuentePagina": "https://marxismo.mx/amoxtli-los-antiguos-libros-de-la-vieja-palabra-el-origen-de-la-escritura-en-mesoamerica/",
+      "titulo": "Amoxtli, los antiguos libros de la vieja palabra. El origen ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShKQgjJqvRSXwJt5VKJXTMrEHGWRjRlZJ0QQ&s",
+      "original": "https://marxismo.mx/wp-content/uploads/2019/01/image-art-4-300x293.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/book/nah/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTjh0-RfznPzQPqvEFyvc1_srI-WESaqJRAg&s",
+      "fuentePagina": "http://carloscolin.mx/portfolio/uncategorized/amoxtli-libro-book/",
+      "titulo": "Āmoxtli (Libro/Book) — Carlos Colin",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTjh0-RfznPzQPqvEFyvc1_srI-WESaqJRAg&s",
+      "original": "http://carloscolin.mx/wp-content/uploads/2018/08/Colin_Amoxtli.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/book/nah/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSw9FSWMpv9nmvV5jeWN9rxQoYBpl47pbIm8w&s",
+      "fuentePagina": "https://matadornetwork.com/es/codices-amoxtli-los-codices-del-mexico-prehispanico/",
+      "titulo": "Qué son los amoxtli, los códices del México prehispánico",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSw9FSWMpv9nmvV5jeWN9rxQoYBpl47pbIm8w&s",
+      "original": "https://cdn1.matadornetwork.com/blogs/2/2018/07/codice-mexica-shutterstock_33453730.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/book/nah/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4PUkxpEyncvrTRWOoz5TN2MajrsXlh3zfTg&s",
+      "fuentePagina": "https://marxismo.mx/amoxtli-los-antiguos-libros-de-la-vieja-palabra-el-origen-de-la-escritura-en-mesoamerica/",
+      "titulo": "Amoxtli, los antiguos libros de la vieja palabra. El origen ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4PUkxpEyncvrTRWOoz5TN2MajrsXlh3zfTg&s",
+      "original": "https://marxismo.mx/wp-content/uploads/2019/01/Image-art-2-300x169.jpg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/book/nah/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2vUCZgsBgvOiktCfUUjcwHF8fA2Be5djEcg&s",
+      "fuentePagina": "https://www.creativefabrica.com/es/product/amoxtli/",
+      "titulo": "Amoxtli Fuente por TypeFactory · Creative Fabrica",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2vUCZgsBgvOiktCfUUjcwHF8fA2Be5djEcg&s",
+      "original": "https://www.creativefabrica.com/wp-content/uploads/2021/11/02/Amoxtli-Fonts-19569189-1.jpg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/book/nah/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSq_9TGLb9MgfINQx3B5U4AnFlN-d_nw4vZhA&s",
+      "fuentePagina": "https://elcomunista.org/amoxtli-los-antiguos-libros-de-la-vieja-palabra-el-origen-de-la-escritura-en-mesoamerica/",
+      "titulo": "Amoxtli, los antiguos libros de la vieja palabra. El origen ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSq_9TGLb9MgfINQx3B5U4AnFlN-d_nw4vZhA&s",
+      "original": "https://elcomunista.org/wp-content/uploads/2019/01/calendario-copia.jpg"
+    }
+  ]
+}

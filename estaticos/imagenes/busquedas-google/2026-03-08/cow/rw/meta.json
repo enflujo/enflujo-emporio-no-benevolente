@@ -1,0 +1,71 @@
+{
+  "categoria": "cow",
+  "categoriaSlug": "cow",
+  "idioma": "rw",
+  "nombreIdioma": "Kinyarwanda",
+  "termino": "inka",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T20:52:56.762Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "en",
+    "gl": "rw"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=inka&hl=en&gl=rw",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/cow/rw/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1aieAmQAnkLEstjq8B64VgV8Pr4N6_5Cnfw&s",
+      "fuentePagina": "https://rw.wikipedia.org/wiki/Inka",
+      "titulo": "Inka - Wikipedia",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1aieAmQAnkLEstjq8B64VgV8Pr4N6_5Cnfw&s",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/e/e9/Rinder.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/cow/rw/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT20SefGY_DIdGqVEcmb9AJ0qFVOcJyc3yQJg&s",
+      "fuentePagina": "https://muhaziyacu.rw/ubukerarugendo/ubworozi-bwinka-i-murundi-mu-murenge-ufite-inzuri-1500/",
+      "titulo": "Ubworozi bw'inka i Murundi, mu murenge ufite inzuri 1500 ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT20SefGY_DIdGqVEcmb9AJ0qFVOcJyc3yQJg&s",
+      "original": "https://muhaziyacu.rw/wp-content/uploads/2021/02/333DSC_8314.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/cow/rw/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdA2nX0m5cmyn97D9MuMfmOv27s7j6cutfoA&s",
+      "fuentePagina": "https://rw.wikipedia.org/wiki/Inka",
+      "titulo": "Inka - Wikipedia",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdA2nX0m5cmyn97D9MuMfmOv27s7j6cutfoA&s",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Veau_Inyambo.jpg/250px-Veau_Inyambo.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/cow/rw/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8PPHWAv-yxcLMNEzqK_6NYjy78rxlTNU46g&s",
+      "fuentePagina": "https://kigalitoday.com/ubuhinzi/ubworozi/article/inka-ya-jersey-igiye-kwifashishwa-mu-kurandura-ubukene",
+      "titulo": "Inka ya Jersey igiye kwifashishwa mu kurandura ubukene ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8PPHWAv-yxcLMNEzqK_6NYjy78rxlTNU46g&s",
+      "original": "https://kigalitoday.com/IMG/jpg/jersey.jpg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/cow/rw/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQshRoL80OOtRyzmrJ1sx97elGq2AKhS_Or_A&s",
+      "fuentePagina": "https://www.kigalitoday.com/ubuhinzi/ubworozi/article/menya-amasano-y-inka-z-inyarwanda-kuva-ku-nkuku-kugeza-ku-nyambo",
+      "titulo": "Menya amasano y'inka z'Inyarwanda kuva ku 'Nkuku' kugeza ku ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQshRoL80OOtRyzmrJ1sx97elGq2AKhS_Or_A&s",
+      "original": "https://www.kigalitoday.com/IMG/jpg/inyambo.jpg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/cow/rw/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlUy5W4prUl-WYXJP40-0otaX-y46XDsx0MQ&s",
+      "fuentePagina": "https://kigalitoday.com/ubuhinzi/ubworozi/Ikibagarira-ni-indwara-iza-ku-isonga-mu-kwica-inka-cyane-cyane-inyana",
+      "titulo": "Ikibagarira ni indwara iza ku isonga mu kwica inka cyane ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlUy5W4prUl-WYXJP40-0otaX-y46XDsx0MQ&s",
+      "original": "https://kigalitoday.com/IMG/jpg/inka_copy_copy-4.jpg"
+    }
+  ]
+}

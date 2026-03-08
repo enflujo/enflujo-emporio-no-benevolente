@@ -1,0 +1,71 @@
+{
+  "categoria": "scissors",
+  "categoriaSlug": "scissors",
+  "idioma": "zh",
+  "nombreIdioma": "中文",
+  "termino": "剪刀",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:30:41.902Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "zh-CN",
+    "gl": "cn"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=%E5%89%AA%E5%88%80&hl=zh-CN&gl=cn",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/scissors/zh/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8pS3S9K0wRDpM5ir7NbTbkzylaLS9-iwQpg&s",
+      "fuentePagina": "https://stationery.sdi.com.tw/catalog-detail/0856D/",
+      "titulo": "│0856D│兒童好握剪刀-SDI手牌文具",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8pS3S9K0wRDpM5ir7NbTbkzylaLS9-iwQpg&s",
+      "original": "https://stationery.sdi.com.tw/upload/catalog_m/ALL_catalog_22K24_tp9i1F42oI.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/scissors/zh/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTODAN1HZKRiRPaGNXpXEI5zrSZ07UrfCkK6Q&s",
+      "fuentePagina": "https://www.victorinox.com/zh-CN/%E5%95%86%E5%93%81/%E5%8E%A8%E5%85%B7/%E5%89%AA%E5%88%80/%E5%8E%A8%E6%88%BF%E5%A4%9A%E7%94%A8%E5%89%AA%E5%88%80/p/7.6363.3",
+      "titulo": "Victorinox 厨房多用剪刀, 7 cm 为黑色- 7.6363.3",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTODAN1HZKRiRPaGNXpXEI5zrSZ07UrfCkK6Q&s",
+      "original": "https://imageengine.victorinox.com/transform/c0b875e7-73e5-4645-bca6-dc39ce750e23/CUT_7-6363-3_S3?io=transform%3Abackground%2Ccolor%3AF0F0F0&io=transform%3Afit%2Cwidth%3A900%2Cheight%3A650&quality=100"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/scissors/zh/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjoSYRkQr9Q_LMUEEDDq1ifUpp3lXaUeqAmg&s",
+      "fuentePagina": "https://www.9x9.tw/mod/product/index.php?REQUEST_ID=55a65ce32a0f9d7015e5755b7e11e3b54f48d72e7106885a574e5c203643af5b&srsltid=AfmBOoqJtkBqcKtuUFijHKOqKBm3zZEChs_IQneOZO9deY-SH6YUxw23",
+      "titulo": "ABEL 力大牌事務剪刀- 九乘九購物網：全國最專業的辦公文具線上 ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjoSYRkQr9Q_LMUEEDDq1ifUpp3lXaUeqAmg&s",
+      "original": "https://www.9x9.tw/autopic/220224013003_01.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/scissors/zh/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTE7GJLO5ww31wowmE9C16KrsWtcA8bV0iwZg&s",
+      "fuentePagina": "https://www.mc-knife.com/product_d.php?lang=tw&tb=1&id=421",
+      "titulo": "ST216 萬用剪刀| 名匠刀剪",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTE7GJLO5ww31wowmE9C16KrsWtcA8bV0iwZg&s",
+      "original": "https://www.mc-knife.com/archive/image/product1/images/ST216~.jpg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/scissors/zh/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQ8u-kzOOf6cSfbfyiyEe3ANfVWZm12QHrOw&s",
+      "fuentePagina": "https://www.amazon.com/-/zh_TW/25-63-5-%E9%87%91%E8%89%B2%E5%89%AA%E5%88%80-%E9%81%A9%E7%94%A8%E6%96%BC%E7%9B%9B%E5%A4%A7%E9%96%8B%E5%B9%95-%E9%81%A9%E7%94%A8%E6%96%BC%E7%89%B9%E5%88%A5%E6%B4%BB%E5%8B%95%E5%B0%B1%E8%81%B7%E5%85%B8%E7%A6%AE%E5%92%8C%E5%84%80%E5%BC%8F/dp/B0CBM56T9V",
+      "titulo": "Amazon.com: 25 英吋(約63.5 公分)金色剪刀適用於盛大開幕– 大型 ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQ8u-kzOOf6cSfbfyiyEe3ANfVWZm12QHrOw&s",
+      "original": "https://m.media-amazon.com/images/I/710JQTSlotL.jpg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/scissors/zh/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZSeQa0mX5be2Q-mmnqFwvrQxNHe7vPW6a6w&s",
+      "fuentePagina": "https://24h.pchome.com.tw/prod/DCBAGM-A900BW4ME?srsltid=AfmBOopv3S9hObFgMWMQiMLv4Ar9irrLhdCZVy8ys00NwNNh6EM6y4qP",
+      "titulo": "Schick 舒適台灣製Xsor可拆洗多功能廚房剪不鏽鋼220mm剪刀8.5吋 ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZSeQa0mX5be2Q-mmnqFwvrQxNHe7vPW6a6w&s",
+      "original": "https://cs-a.ecimg.tw/items/DCBAGMA900BW4ME/000001_1634624726.jpg"
+    }
+  ]
+}

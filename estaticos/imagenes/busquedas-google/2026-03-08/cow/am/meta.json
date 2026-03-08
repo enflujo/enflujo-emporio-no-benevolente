@@ -1,0 +1,71 @@
+{
+  "categoria": "cow",
+  "categoriaSlug": "cow",
+  "idioma": "am",
+  "nombreIdioma": "Amharic — አማርኛ",
+  "termino": "ላም",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T20:53:07.019Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "am",
+    "gl": "et"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=%E1%88%8B%E1%88%9D&hl=am&gl=et",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/cow/am/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrtVyLXIabyqHC7uGJe4IC0_WljpqB5QO_Og&s",
+      "fuentePagina": "https://am.wikipedia.org/wiki/%E1%88%8B%E1%88%9D",
+      "titulo": "ውክፔዲያ - ላም",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrtVyLXIabyqHC7uGJe4IC0_WljpqB5QO_Og&s",
+      "original": "https://upload.wikimedia.org/wikipedia/am/thumb/8/82/400px-CH_cow_2.jpg/250px-400px-CH_cow_2.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/cow/am/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCIQ5b3bNyQcqynh4GPs04rxqoJ0X5sVy8_g&s",
+      "fuentePagina": "https://www.facebook.com/100069774588547/posts/%E1%88%86%E1%88%88%E1%88%B5%E1%89%B2%E1%8A%95-%E1%8D%8D%E1%88%AA%E1%8B%A5%E1%8B%AB%E1%8A%95%E1%89%A0%E1%8A%A9%E1%88%AD-%E1%88%98%E1%8C%8B%E1%89%A2%E1%89%B5-192011-%E1%8B%93%E1%88%9D-%E1%88%86%E1%88%88%E1%88%B5%E1%89%B2%E1%8A%95-%E1%8D%8D%E1%88%AA%E1%8B%A5%E1%8B%AB%E1%8A%95-%E1%8A%A8%E1%89%80%E1%8A%95%E1%8B%B5-%E1%8A%A8%E1%89%A5%E1%89%B5-%E1%8B%9D%E1%88%AD%E1%8B%AB%E1%8B%8E%E1%89%BD-%E1%8B%8D%E1%88%B5%E1%8C%A5-%E1%8A%A0%E1%8A%95%E1%8B%B1-%E1%8A%90%E1%8B%8D-%E1%89%85%E1%8B%B5%E1%88%98-%E1%88%98%E1%8C%88%E1%8A%9B%E1%8B%8D-%E1%8B%B0%E1%8C%8D%E1%88%9E/1187179314791481/",
+      "titulo": "ሆለስቲን ፍሪዥያን በኩር መጋቢት 19/2011 ዓ.ም ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCIQ5b3bNyQcqynh4GPs04rxqoJ0X5sVy8_g&s",
+      "original": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=1187178894791523"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/cow/am/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3BNkTPCdbHG9eQbR8bAtyYkbAnRKF19qUrQ&s",
+      "fuentePagina": "https://play.google.com/store/apps/details?id=com.akadtech.cowsounds&hl=am",
+      "titulo": "ላም ይሰማል። - መተግባሪያዎች Google Play ላይ",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3BNkTPCdbHG9eQbR8bAtyYkbAnRKF19qUrQ&s",
+      "original": "https://play-lh.googleusercontent.com/S1zic5_LRSUji5tkQra3wGwSBsSrcVIHxRUdmLBiOwBc1AgoyFSXTzfRMFF-zLyjxhQ"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/cow/am/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_Ti9j_G0CfYJ13szznQN5J9O7uU7cafszAw&s",
+      "fuentePagina": "https://am.al-ain.com/article/world-most-expensive-cow-priced-4-3-million",
+      "titulo": "የአለማችን ውዷ ላም 4 ነጥብ 3 ሚሊየን ዶላር ዋጋ ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_Ti9j_G0CfYJ13szznQN5J9O7uU7cafszAw&s",
+      "original": "https://cdn.al-ain.com/images/2023/7/04/273-125056-nelore-cows_700x400.jpg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/cow/am/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKZi3kpuQJCgngYXRy14G9vDLjvq-iuMnhXQ&s",
+      "fuentePagina": "http://am.veyongpharma.com/news/12-points-to-keep-a-good-breeding-cow/",
+      "titulo": "ዜና - 12 ጥሩ የመራቢያ ላም ለማቆየት 12 ነጥቦች",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKZi3kpuQJCgngYXRy14G9vDLjvq-iuMnhXQ&s",
+      "original": "https://www.veyongpharma.com/uploads/medicine-for-cattle4.jpg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/cow/am/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuieBbVqRSXLt_5n6LYBUiQxk7f-pzN8IEhQ&s",
+      "fuentePagina": "https://www.youtube.com/watch?v=Yjkd6Q_xOTE",
+      "titulo": "በአለማችን ላይ ያሉ 6ቱ ምርጥ የወተት ላም ዝርያዎች በአገራችን የትኞቹ ናቸው የሚገኙት ይህንና ሌላም ጠቃሚ መረጃ  በአወል ስሪንቃ ብቻ ያገኙታል",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuieBbVqRSXLt_5n6LYBUiQxk7f-pzN8IEhQ&s",
+      "original": "https://i.ytimg.com/vi/Yjkd6Q_xOTE/maxresdefault.jpg"
+    }
+  ]
+}

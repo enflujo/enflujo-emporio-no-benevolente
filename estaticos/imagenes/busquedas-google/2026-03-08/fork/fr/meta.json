@@ -1,0 +1,71 @@
+{
+  "categoria": "fork",
+  "categoriaSlug": "fork",
+  "idioma": "fr",
+  "nombreIdioma": "Français",
+  "termino": "fourchette",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:08:04.890Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "fr",
+    "gl": "be"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=fourchette&hl=fr&gl=be",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/fork/fr/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQX0vLy0nzk2JfzGn8gXVtX98gfWDU-89VSpQ&s",
+      "fuentePagina": "https://www.amazon.com.be/Tescoma-Classic-Fourchette-table-Lot/dp/B0054PO36I",
+      "titulo": "Tescoma Classic Fourchette de table Lot de 3 : Amazon.com.be: Cuisine et  maison",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQX0vLy0nzk2JfzGn8gXVtX98gfWDU-89VSpQ&s",
+      "original": "https://m.media-amazon.com/images/I/611Npc48eML.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/fork/fr/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSp8ITzmjf4G02cGU_l1LFhy6TjMIchs0YGog&s",
+      "fuentePagina": "https://fr.retif.be/fourchette-acier-modele-oslo-20-9cm-noir-par-12.html",
+      "titulo": "Fourchette acier modèle Oslo 20,9cm noir - par 12",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSp8ITzmjf4G02cGU_l1LFhy6TjMIchs0YGog&s",
+      "original": "https://fr.retif.be/media/catalog/product/5/0/501331_Retif_PH_01.jpg?quality=80&bg-color=255,255,255&fit=bounds&height=920&width=920&canvas=920:920"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/fork/fr/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrls0TudG3p-qHOVT99M0cpL3_l4sQtgoRtw&s",
+      "fuentePagina": "https://www.monouso.be/fourchette-en-acier-inox-175-cm-10-utes-9348.html?srsltid=AfmBOopuz-hFJvZk7mATH7uagLqfZ4-2EPEXmPpJBUTOn0UR5xWmAjSN",
+      "titulo": "Fourchette en Acier Inox 17,5 cm (10 Utés)",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrls0TudG3p-qHOVT99M0cpL3_l4sQtgoRtw&s",
+      "original": "https://www.monouso.be/71395/fourchette-en-acier-inox-175-cm-10-utes.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/fork/fr/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2B60oymqtoXrzh1PIoXnXyUX-N1VaEFO9aA&s",
+      "fuentePagina": "https://fr.retif.be/fourchette-inox-18cm-argent-par-100.html",
+      "titulo": "Fourchette inox 18cm argent - par 100",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2B60oymqtoXrzh1PIoXnXyUX-N1VaEFO9aA&s",
+      "original": "https://fr.retif.be/media/catalog/product/5/0/501340_Retif_PH_01.jpg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/fork/fr/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0XE1-UETPvIB3k_68FGlTnWwQtBxlAgwdRw&s",
+      "fuentePagina": "https://ml-locations.be/locations/location-fourchette-table/",
+      "titulo": "Fourchette de table",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0XE1-UETPvIB3k_68FGlTnWwQtBxlAgwdRw&s",
+      "original": "https://ml-locations.be/wp-content/uploads/2017/04/fourchette-de-table-location-couvert.jpg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/fork/fr/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQe2eohHW8F9xgsKebh5AKw34u4pru3C236xA&s",
+      "fuentePagina": "https://www.mjpro.fr/Fourchette-de-table-Vieux-Paris-Tradition/p/4/1045/1402/",
+      "titulo": "Fourchette de table Vieux Paris 'Tradition' - MJPRO ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQe2eohHW8F9xgsKebh5AKw34u4pru3C236xA&s",
+      "original": "https://www.mjpro.fr/client/530231/media/files/Fourchette-de-table-Vieux-Paris-Tradition-1402_101_1433229667.jpg"
+    }
+  ]
+}

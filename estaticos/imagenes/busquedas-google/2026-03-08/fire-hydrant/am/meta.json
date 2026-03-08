@@ -1,0 +1,71 @@
+{
+  "categoria": "fire hydrant",
+  "categoriaSlug": "fire-hydrant",
+  "idioma": "am",
+  "nombreIdioma": "Amharic — አማርኛ",
+  "termino": "የእሳት ቱቦ",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T20:47:11.299Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "am",
+    "gl": "et"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=%E1%8B%A8%E1%8A%A5%E1%88%B3%E1%89%B5%20%E1%89%B1%E1%89%A6&hl=am&gl=et",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/fire-hydrant/am/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4UJaiqPhlBVA_C_E5wZIe1jgaBQa5tlnJXQ&s",
+      "fuentePagina": "https://www.chutuomarine.com/am/inner-rubber-fire-hose-9bar-product/",
+      "titulo": "የቻይና የውስጥ የጎማ የእሳት ቱቦ 9BAR ፋብሪካ እና ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4UJaiqPhlBVA_C_E5wZIe1jgaBQa5tlnJXQ&s",
+      "original": "https://cdnus.globalso.com/chutuomarine/Inner-Rubber-Fire-Hoses-9BAR-300x300.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/fire-hydrant/am/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLYbGDdhoN2is8b8coFh5Xf512V3qS3gX-Wg&s",
+      "fuentePagina": "http://am.pntekplast.com/pe-fire-hose-fire-hose-with-coupling-product/",
+      "titulo": "የቻይና PE የእሳት ቱቦ የእሳት ቱቦ ከተጣመረ ፋብሪካ ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLYbGDdhoN2is8b8coFh5Xf512V3qS3gX-Wg&s",
+      "original": "http://www.pntekplast.com/uploads/pe-fire-hose-31.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/fire-hydrant/am/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNN0PrMXfb05AXdtxMsiy02Sft14ursOg3xw&s",
+      "fuentePagina": "http://am.pntekplast.com/pe-fire-hose-fire-hose-with-coupling-product/",
+      "titulo": "የቻይና PE የእሳት ቱቦ የእሳት ቱቦ ከተጣመረ ፋብሪካ ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNN0PrMXfb05AXdtxMsiy02Sft14ursOg3xw&s",
+      "original": "https://cdn.globalso.com/pntekplast/pe-fire-hose5.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/fire-hydrant/am/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5BWhWLPZnJ2DRavXBVhLQgDeKxSiVgJ58Rw&s",
+      "fuentePagina": "http://am.asnmed.com/fire-hose-product/",
+      "titulo": "የቻይና የእሳት አደጋ መከላከያ ቱቦ ፋብሪካ እና ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5BWhWLPZnJ2DRavXBVhLQgDeKxSiVgJ58Rw&s",
+      "original": "http://cdn.globalso.com/asnmed/BS-6391-Type-2-Red-Color-Layflat-Coating-Hose-EPDM-PVC-Lining-Fire-Hose.webp_.jpg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/fire-hydrant/am/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJPiXA035gSl_hS3LHd0g34fykUE9CdtpmfQ&s",
+      "fuentePagina": "http://am.pntekplast.com/pe-fire-hose-fire-hose-with-coupling-product/",
+      "titulo": "የቻይና PE የእሳት ቱቦ የእሳት ቱቦ ከተጣመረ ፋብሪካ ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJPiXA035gSl_hS3LHd0g34fykUE9CdtpmfQ&s",
+      "original": "https://cdn.globalso.com/pntekplast/pe-fire-hose-4.jpg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/fire-hydrant/am/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLW1hn1fka2rwYwEss-XYjgpBmfZ4xicEeXw&s",
+      "fuentePagina": "https://www.chutuomarine.com/am/inner-rubber-fire-hose-9bar-product/",
+      "titulo": "የቻይና የውስጥ የጎማ የእሳት ቱቦ 9BAR ፋብሪካ እና ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLW1hn1fka2rwYwEss-XYjgpBmfZ4xicEeXw&s",
+      "original": "https://cdnus.globalso.com/chutuomarine/PVC-LINING-Fire-Hose-9BAR.jpg"
+    }
+  ]
+}

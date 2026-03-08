@@ -1,0 +1,71 @@
+{
+  "categoria": "sandwich",
+  "categoriaSlug": "sandwich",
+  "idioma": "hi",
+  "nombreIdioma": "हिन्दी",
+  "termino": "सैंडविच",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:12:15.238Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "hi",
+    "gl": "in"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=%E0%A4%B8%E0%A5%88%E0%A4%82%E0%A4%A1%E0%A4%B5%E0%A4%BF%E0%A4%9A&hl=hi&gl=in",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/sandwich/hi/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9hCCT4NGYhkIiJ74uovvTyX07tY1eL5w9xQ&s",
+      "fuentePagina": "https://hebbarskitchen.com/hi/grilled-paneer-sandwich-recipe/",
+      "titulo": "पनीर सैंडविच रेसिपी | paneer sandwich in hindi | हाउ टू मेक ग्रिल्ड पनीर  सैंडविच",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9hCCT4NGYhkIiJ74uovvTyX07tY1eL5w9xQ&s",
+      "original": "https://hebbarskitchen.com/wp-content/uploads/mainPhotos/paneer-sandwich-recipe-how-to-make-grilled-paneer-sandwich-recipe-1.jpeg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/sandwich/hi/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvN5fl_bAQjP8hE5nu_9mFdHS_q6eVlVui6w&s",
+      "fuentePagina": "https://www.indianhealthyrecipes.com/paneer-bhurji-sandwich-recipe/",
+      "titulo": "Paneer Bhurji Sandwich",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvN5fl_bAQjP8hE5nu_9mFdHS_q6eVlVui6w&s",
+      "original": "https://www.indianhealthyrecipes.com/wp-content/uploads/2024/06/10-mins-paneer-bhurji-sandwich.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/sandwich/hi/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBaWiVVe2xRYSqUFH6LMy6mlmL78keryo04g&s",
+      "fuentePagina": "https://food.ndtv.com/recipe-bombay-sandwich-hindi-956536",
+      "titulo": "बॉम्बे सैंडविच रेसिपी",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBaWiVVe2xRYSqUFH6LMy6mlmL78keryo04g&s",
+      "original": "https://c.ndtvimg.com/2022-03/rtb8mbbo_bombay-sandwich_625x300_11_March_22.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/sandwich/hi/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPCxbXrr6lVxgspEUqhySwaLz1U64tP1ImfQ&s",
+      "fuentePagina": "https://hindi.news18.com/news/lifestyle/recipe-how-to-make-vegetable-sandwich-in-breakfast-know-ingredients-and-steps-amu-4347177.html",
+      "titulo": "वेज सैंडविच",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPCxbXrr6lVxgspEUqhySwaLz1U64tP1ImfQ&s",
+      "original": "https://images.news18.com/ibnkhabar/uploads/2022/06/Veg-Sandwich.jpg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/sandwich/hi/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1SBzGiCz4VDIpWHSSjvpL_nerpUDnLylX2w&s",
+      "fuentePagina": "https://www.prabhatkhabar.com/life-and-style/how-to-make-desi-sandwich-recipe-at-home",
+      "titulo": "Desi Sandwich Recipe: घर पर बनाएं चटपटा ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1SBzGiCz4VDIpWHSSjvpL_nerpUDnLylX2w&s",
+      "original": "https://wpmedia.prabhatkhabar.com/uploads/2025/12/desi-sandwich.jpg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/sandwich/hi/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyzjVPXjTlU3vDNp5ZzuHy1Hp8ACB5N8gYlg&s",
+      "fuentePagina": "https://www.instagram.com/reel/Cw7DjZfoAKd/",
+      "titulo": "Jhatpat Banane vala Chatpata Tawa Aloo Sandwaich 🤩😋 , घरवाले हफ्ते में 5  दिन यही सैंडविच बनवते है जानिए राज | Spicy Potato Sandwich on Tawa | Aloo  Sandwich, Ingredients List: 🍕🍣 सामग्री , For Sandwich ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyzjVPXjTlU3vDNp5ZzuHy1Hp8ACB5N8gYlg&s",
+      "original": "https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3187156787990102685"
+    }
+  ]
+}

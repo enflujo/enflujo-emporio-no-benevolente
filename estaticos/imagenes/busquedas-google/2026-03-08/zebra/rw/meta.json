@@ -1,0 +1,71 @@
+{
+  "categoria": "zebra",
+  "categoriaSlug": "zebra",
+  "idioma": "rw",
+  "nombreIdioma": "Kinyarwanda",
+  "termino": "inzebe",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T20:54:49.821Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "en",
+    "gl": "rw"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=inzebe&hl=en&gl=rw",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/zebra/rw/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSV1KMi7sjXkbJywIf0l6fM29Qr-iFPH1N3eQ&s",
+      "fuentePagina": "https://music.africamuseum.be/instruments/english/rwanda/inzebe.html",
+      "titulo": "Inzebe",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSV1KMi7sjXkbJywIf0l6fM29Qr-iFPH1N3eQ&s",
+      "original": "https://music.africamuseum.be/instruments/pic/rwanda/inzebe.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/zebra/rw/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_N5XlrmwugTcUN-7KWQZAe2qWwEhIQcWwrQ&s",
+      "fuentePagina": "https://music.africamuseum.be/instruments/english/rwanda/inzebe.html",
+      "titulo": "Inzebe",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_N5XlrmwugTcUN-7KWQZAe2qWwEhIQcWwrQ&s",
+      "original": "https://music.africamuseum.be/instruments/pic/rwanda/context-umuduri-inzebe.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/zebra/rw/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIzQqBD290Pw8uISHdEFK4atkKNUxzNTXKeQ&s",
+      "fuentePagina": "https://www.leboncoin.fr/ad/decoration/3146496526",
+      "titulo": "Inzebe art africain vintage - Décoration",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIzQqBD290Pw8uISHdEFK4atkKNUxzNTXKeQ&s",
+      "original": "https://img.leboncoin.fr/api/v1/lbcpb1/images/13/07/c1/1307c160ef5c01ca8822756bdc6d2114e3680d1d.jpg?rule=ad-large"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/zebra/rw/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmyzcZUlMXbNjVCQtsZ66Fur04rCH8vlmmlg&s",
+      "fuentePagina": "https://www.leboncoin.fr/ad/decoration/3146496526",
+      "titulo": "Inzebe art africain vintage - Décoration",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmyzcZUlMXbNjVCQtsZ66Fur04rCH8vlmmlg&s",
+      "original": "https://img.leboncoin.fr/api/v1/lbcpb1/images/11/24/00/11240026de2e5b0a8b7486c5a81b24bd63833e30.jpg?rule=ad-large"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/zebra/rw/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT228oqdPQQfJH5f5-RcxZHOl6iR2W_3muaFA&s",
+      "fuentePagina": "https://www.leboncoin.fr/ad/decoration/3146496526",
+      "titulo": "Inzebe art africain vintage - Décoration",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT228oqdPQQfJH5f5-RcxZHOl6iR2W_3muaFA&s",
+      "original": "https://img.leboncoin.fr/api/v1/lbcpb1/images/63/e4/54/63e45443ca4c48d1c71e89ddca2b4c3e5660bf2f.jpg?rule=ad-large"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/zebra/rw/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSncW1w7XmeIcot4JOzDzKuGU46k7YBO5D9gQ&s",
+      "fuentePagina": "https://www.leboncoin.fr/ad/decoration/3146496526",
+      "titulo": "Inzebe art africain vintage - Décoration",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSncW1w7XmeIcot4JOzDzKuGU46k7YBO5D9gQ&s",
+      "original": "https://img.leboncoin.fr/api/v1/lbcpb1/images/05/44/80/0544805acee54bee5e58d8cc0b84f9436f68ca4c.jpg?rule=ad-large"
+    }
+  ]
+}

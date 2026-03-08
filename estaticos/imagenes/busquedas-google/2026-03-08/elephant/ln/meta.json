@@ -1,0 +1,71 @@
+{
+  "categoria": "elephant",
+  "categoriaSlug": "elephant",
+  "idioma": "ln",
+  "nombreIdioma": "Lingala",
+  "termino": "nzou",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T20:53:32.854Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "fr",
+    "gl": "cd"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=nzou&hl=fr&gl=cd",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/elephant/ln/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3GEPuVJOyLtzTJp4IWW2KObOedGWyBiY62Q&s",
+      "fuentePagina": "https://www.blog.zimtribes.com/nzou-samanyanga-totem/",
+      "titulo": "Nzou-Samanyanga Totem – Zimtribes",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3GEPuVJOyLtzTJp4IWW2KObOedGWyBiY62Q&s",
+      "original": "https://www.blog.zimtribes.com/wp-content/uploads/2019/08/image-4.png"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/elephant/ln/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWC3wa__uAoa9pOvlPUY7FNO7O1UP_Nclt3Q&s",
+      "fuentePagina": "https://conservationtravelafrica.org/blog/elephants/nzou-the-elephant-buffalo/",
+      "titulo": "Amazing animal relationships - meet Nzou the buffalant of Africa",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWC3wa__uAoa9pOvlPUY7FNO7O1UP_Nclt3Q&s",
+      "original": "https://conservationtravelafrica.org/wp-content/uploads/2019/09/Nzou-header.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/elephant/ln/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjg-Dk09VvhELDFJxOo2dntNAto7yd0XrXrg&s",
+      "fuentePagina": "https://conservationtravelafrica.org/blog/elephants/nzou-the-elephant-buffalo/",
+      "titulo": "Amazing animal relationships - meet Nzou the buffalant of Africa",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjg-Dk09VvhELDFJxOo2dntNAto7yd0XrXrg&s",
+      "original": "https://conservationtravelafrica.org/wp-content/uploads/2019/09/Nzou-and-Buffalo-300x200.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/elephant/ln/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRW0wzI1ppPLKnLyO96YVBRstlBfCmfOf65jw&s",
+      "fuentePagina": "https://www.facebook.com/ZimNatives/posts/nzou-samanyangaewo-nzoumaita-samnyangamaita-bondorouswamaita-vari-mapandazvaonek/292621455472588/",
+      "titulo": "Nzou Samanyanga Ewo Nzou, Maita Samnyanga, Maita Bondorouswa ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRW0wzI1ppPLKnLyO96YVBRstlBfCmfOf65jw&s",
+      "original": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=292621215472612"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/elephant/ln/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrqE2Qoye4T7COuDdKgstoXDoHvkajKFmTPg&s",
+      "fuentePagina": "https://www.pinterest.com/pin/nzou-samanyanga-clan--914371530599082848/",
+      "titulo": "Nzou Samanyanga Clan",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrqE2Qoye4T7COuDdKgstoXDoHvkajKFmTPg&s",
+      "original": "https://i.pinimg.com/474x/df/5a/7f/df5a7f09c33ab2c27a8e9a72685afe58.jpg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/elephant/ln/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTste0Wfz5uaqcT4vsV4duzy7aprWeWtXdWvw&s",
+      "fuentePagina": "https://x.com/DarozviStudios/status/1525194737023696902",
+      "titulo": "ANIMAL: ELEPHANT (NZOU/ ZHOU) TOTEM(MUTUPO): NZOU CHIDAWO ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTste0Wfz5uaqcT4vsV4duzy7aprWeWtXdWvw&s",
+      "original": "https://pbs.twimg.com/media/FSqQzUVWQAI2HiT.jpg"
+    }
+  ]
+}

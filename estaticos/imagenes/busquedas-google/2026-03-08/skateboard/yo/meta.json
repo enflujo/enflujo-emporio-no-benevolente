@@ -1,0 +1,71 @@
+{
+  "categoria": "skateboard",
+  "categoriaSlug": "skateboard",
+  "idioma": "yo",
+  "nombreIdioma": "Yorùbá",
+  "termino": "skateboard",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:04:12.632Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "yo",
+    "gl": "ng"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=skateboard&hl=yo&gl=ng",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/skateboard/yo/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfh99jVlPcWKImNW4h_SNxDlon5VcIfNmp_w&s",
+      "fuentePagina": "https://www.walmart.com/ip/Barbie-Malibu-Beach-31-Complete-Skateboard-Pink-Checkered-Kids-Ages-6-Pink/509223130",
+      "titulo": "Barbie Malibu Beach 31\" Complete Skateboard, Pink Checkered ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfh99jVlPcWKImNW4h_SNxDlon5VcIfNmp_w&s",
+      "original": "https://i5.walmartimages.com/seo/Barbie-Malibu-Beach-31-Complete-Skateboard-Pink-Checkered-Kids-Ages-6-Pink_59633ba7-dcb3-4305-95a0-420f1a494057.faf40f139d190873cb7ae3565591da2f.jpeg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/skateboard/yo/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSaSO0DWJ8zbZE8NuB1KZGVC7tDL6SRd4msA&s",
+      "fuentePagina": "https://euroskateshop.uk/nkx-journey-skateboard.html",
+      "titulo": "NKX Journey Skateboard",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSaSO0DWJ8zbZE8NuB1KZGVC7tDL6SRd4msA&s",
+      "original": "https://cdn.euroskateshop.uk/media/catalog/product/_/s/_sk8ter.ben_NKX_journey_skateboard_black_skatepark_ramp_9f7b.jpg?width=1000&height=1000&store=uk&image-type=image"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/skateboard/yo/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpmlVue6yigvkZozlRCRUvsTJ3ltOHPOBhag&s",
+      "fuentePagina": "https://www.skatedeluxe.com/blog/en/skateboards-for-beginners-recommendations-checklists/",
+      "titulo": "Skateboards for Beginners - Recommendations | skatedeluxe Blog",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpmlVue6yigvkZozlRCRUvsTJ3ltOHPOBhag&s",
+      "original": "https://www.skatedeluxe.com/blog/wp-content/uploads/2023/11/skateboard-completes-at-skatedeluxe.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/skateboard/yo/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPt3Rua8R9muscv3VehbnuW0CY7XShDhAgTQ&s",
+      "fuentePagina": "https://www.paramountsportsshop.com/product/cruiser-skateboard/?srsltid=AfmBOorPGOQNUcvcDPKibab8ZDvNu4lCehH1TMs-HioGzX0b4hFR42s0",
+      "titulo": "Cruiser Skateboard - Paramount Sports Shop",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPt3Rua8R9muscv3VehbnuW0CY7XShDhAgTQ&s",
+      "original": "https://www.paramountsportsshop.com/wp-content/uploads/2024/06/Photoroom-20240613_211351.webp"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/skateboard/yo/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTVGb5acyWNkHbU7vDSYz8ZMSkgfY7HCMb8g&s",
+      "fuentePagina": "https://www.decathlon.co.za/p/357956-111976-cp100-fsc-complete-size-8-skateboard.html?srsltid=AfmBOop8xTB-BBVID8cigtdEn5W8723MydM6TvEQrPWuzOB6MI6vNygD",
+      "titulo": "CP100 FSC Complete Size 8\" Skateboard - Decathlon",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTVGb5acyWNkHbU7vDSYz8ZMSkgfY7HCMb8g&s",
+      "original": "https://contents.mediadecathlon.com/p2828811/k$8bdc94c63e5fc72eb0026c779e9b742b/cp100-fsc-complete-size-8-skateboard.jpg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/skateboard/yo/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQloRvFLIqWt5j7XbKbVBbsTF9804e-Dm04fw&s",
+      "fuentePagina": "https://banwood.eu/products/skateboard-nature?srsltid=AfmBOoof7byklvUbwBSh8eP0aGjuHjhVQ2PuyZ5G-GFE4vQy1JyGp2i9",
+      "titulo": "BANWOOD SKATEBOARD - NATURE | Banwood",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQloRvFLIqWt5j7XbKbVBbsTF9804e-Dm04fw&s",
+      "original": "https://banwood.eu/cdn/shop/files/skateboard-banwood-nature_3324f634-3478-4138-b687-cf23e483a1f5.jpg?v=1757068798&width=1500"
+    }
+  ]
+}

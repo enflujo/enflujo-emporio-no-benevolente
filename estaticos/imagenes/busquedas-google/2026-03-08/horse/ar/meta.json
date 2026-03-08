@@ -1,0 +1,71 @@
+{
+  "categoria": "horse",
+  "categoriaSlug": "horse",
+  "idioma": "ar",
+  "nombreIdioma": "العربية",
+  "termino": "حصان",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T20:51:54.974Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "ar",
+    "gl": "eg"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=%D8%AD%D8%B5%D8%A7%D9%86&hl=ar&gl=eg",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/horse/ar/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsU0dWzgdvNyAQM1XJUGsOO_DFK_krNQ6f2g&s",
+      "fuentePagina": "https://www.arrajol.com/content/120511/%D9%85%D9%86%D9%88%D8%B9%D8%A7%D8%AA/%D9%85%D8%A7-%D9%87%D9%88-%D8%A3%D9%81%D8%B6%D9%84-%D8%AD%D8%B5%D8%A7%D9%86-%D8%B9%D8%B1%D8%A8%D9%8A-%D8%A3%D8%B5%D9%8A%D9%84-%D9%81%D9%8A-%D8%A7%D9%84%D8%B9%D8%A7%D9%84%D9%85%D8%9F-%D9%82%D8%A7%D8%A6%D9%85%D8%A9-%D8%A8%D8%A3%D9%81%D8%B6%D9%84-%D8%A7%D9%84%D8%AE%D9%8A%D9%88%D9%84-%D8%B5%D9%88%D8%B1",
+      "titulo": "ما هو أفضل حصان عربي أصيل في العالم؟ قائمة بأفضل الخيول (صور ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsU0dWzgdvNyAQM1XJUGsOO_DFK_krNQ6f2g&s",
+      "original": "https://static.arrajol.com/users/user466146/223141-9.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/horse/ar/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1U2ld0DbzbLZb7Tjg7h8_jHOTGGRL8FGzFw&s",
+      "fuentePagina": "https://www.youtube.com/watch?v=YoRGqHP8foo",
+      "titulo": "أجمل 25 حصان في العالم || سحر وجمال لا يُصدق! - YouTube",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1U2ld0DbzbLZb7Tjg7h8_jHOTGGRL8FGzFw&s",
+      "original": "https://i.ytimg.com/vi/YoRGqHP8foo/sddefault.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/horse/ar/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgv_yjHzi21wXbe9OiivEamGOYJI5mih_MVg&s",
+      "fuentePagina": "https://ar.wikipedia.org/wiki/%D9%81%D8%B1%D8%B3",
+      "titulo": "فرس - ويكيبيديا",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgv_yjHzi21wXbe9OiivEamGOYJI5mih_MVg&s",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/f/f6/Friesian_Stallion.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/horse/ar/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_wc3lZhtRH60Iq-zrOTDgYK1jvC0H37xzXg&s",
+      "fuentePagina": "https://animals.fandom.com/ar/wiki/%D8%AD%D8%B5%D8%A7%D9%86",
+      "titulo": "حصان | ويكي الحيوانات | Fandom",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_wc3lZhtRH60Iq-zrOTDgYK1jvC0H37xzXg&s",
+      "original": "https://static.wikia.nocookie.net/animals/images/9/92/Cavalo_%281%29.png/revision/latest?cb=20160421132503&path-prefix=ar"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/horse/ar/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJwPKqjhKUlxaDZEc7LMBPblhHzeMwq2dmpw&s",
+      "fuentePagina": "https://www.youm7.com/story/2019/6/24/%D8%A7%D9%84%D8%AD%D8%B5%D8%A7%D9%86-%D8%A7%D9%84%D8%B9%D8%B1%D8%A8%D9%89-%D9%8A%D9%83%D8%B3%D8%A8-%D9%84%D9%88-%D8%BA%D8%A7%D9%88%D9%89-%D8%AE%D9%8A%D9%84-%D8%A7%D8%B9%D8%B1%D9%81-%D8%A3%D8%AC%D9%85%D9%84-5-%D8%A3%D9%86%D9%88%D8%A7%D8%B9/4300823",
+      "titulo": "الحصان العربى يكسب.. لو غاوى خيل اعرف أجمل 5 أنواع فى العالم ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJwPKqjhKUlxaDZEc7LMBPblhHzeMwq2dmpw&s",
+      "original": "https://img.youm7.com/ArticleImgs/2019/6/23/55523-%D8%A7%D9%84%D8%AD%D8%B5%D8%A7%D9%86-%D8%A7%D9%84%D8%B9%D8%B1%D8%A8%D9%89.jpg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/horse/ar/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwvPheqsJxGMw9kH7DsoD1s5nkE8-d1sinhg&s",
+      "fuentePagina": "https://arabequestrian.com/%D9%83%D9%85-%D9%85%D9%86-%D8%A7%D9%84%D9%88%D9%82%D8%AA-%D8%AA%D8%B9%D9%8A%D8%B4-%D8%A7%D9%84%D8%AE%D9%8A%D9%88%D9%84%D8%9F/",
+      "titulo": "كم من الوقت تعيش الخيول؟ - مجلة الفروسية",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwvPheqsJxGMw9kH7DsoD1s5nkE8-d1sinhg&s",
+      "original": "https://arabequestrian.com/wp-content/uploads/2024/10/lean-horse-in-pasture-e1729607738452.jpg"
+    }
+  ]
+}

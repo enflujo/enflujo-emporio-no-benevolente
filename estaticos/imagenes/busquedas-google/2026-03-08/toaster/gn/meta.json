@@ -1,0 +1,71 @@
+{
+  "categoria": "toaster",
+  "categoriaSlug": "toaster",
+  "idioma": "gn",
+  "nombreIdioma": "Guaraní",
+  "termino": "tostadora",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:26:33.237Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "es",
+    "gl": "py"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=tostadora&hl=es&gl=py",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/toaster/gn/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZ3t7q3-CfD2ByokciR49WlJajV-Z0AqkgQw&s",
+      "fuentePagina": "https://www.bristol.com.py/catalogo/tostadora-philips-hd2581-10-830w-grafito_BS12919_BS12919?srsltid=AfmBOooLkficaGBBKDcuYpF_QEyFGLQhNMe_UtduRIXMroHrmZiLHWKt",
+      "titulo": "Tostadora Philips HD2581/10 830W Grafito — Bristol",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZ3t7q3-CfD2ByokciR49WlJajV-Z0AqkgQw&s",
+      "original": "https://f.fcdn.app/imgs/b3c655/www.bristol.com.py/brispy/a3b3/original/catalogo/BS12919_BS12919_1/1920-1200/tostadora-philips-hd2581-10-830w-grafito-tostadora-philips-hd2581-10-830w-grafito.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/toaster/gn/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSh_mr1CS6GHOMj8ukPXMrAPyjv1crE2bYTOg&s",
+      "fuentePagina": "https://www.olier.com.py/producto/7205/tostadora-oster-2-panes-tssttr500-053-acero",
+      "titulo": "Tostadora Oster 2 Panes TSSTTR500-053 Acero",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSh_mr1CS6GHOMj8ukPXMrAPyjv1crE2bYTOg&s",
+      "original": "https://www.olier.com.py/storage/sku/oster-tostadores-tostadora-oster-2-panes-tssttr500-053-acero-2-1-1700572787.png"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/toaster/gn/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSaPmtx5A9HYBIy5uF5H_k_pWvKafsXhP7HKQ&s",
+      "fuentePagina": "https://www.kube.com.py/tienda/tostadora-color-crema-azul/?srsltid=AfmBOooUXflXITh1sn91ZeApRXQRmIAtnEkhjecDgNsj6HTIRfFpA1hG",
+      "titulo": "Tostadora Color Crema/Azul",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSaPmtx5A9HYBIy5uF5H_k_pWvKafsXhP7HKQ&s",
+      "original": "https://www.kube.com.py/wp-content/uploads/2021/06/929-764-1.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/toaster/gn/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQKjCDdTVpt590vN4bXA0PhXuGf3APjIgd1A&s",
+      "fuentePagina": "https://realcenter.com.py/producto/tostadora-britania-tosta-pane-negra-220v-9652/?srsltid=AfmBOooevjCQwAhdRKXuIQcAYNO_UiPjCJdImlRsL8RjZK-z6cBoHU7I",
+      "titulo": "Tostadora Britania Tosta Pane Negra - 220V - 9652 | Real ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQKjCDdTVpt590vN4bXA0PhXuGf3APjIgd1A&s",
+      "original": "https://realcenter.com.py/wp-content/uploads/2025/04/66202027-4.jpg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/toaster/gn/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSN3dGCyPWblTDsRVlYhc5FMhVBj0-8LY0PCg&s",
+      "fuentePagina": "https://www.consumer.com.py/producto/49/tostadora-2-panes",
+      "titulo": "Tostadora 2 panes - Consumer",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSN3dGCyPWblTDsRVlYhc5FMhVBj0-8LY0PCg&s",
+      "original": "https://admin.consumer.com.py/storage/products/3S0j0Zl1QJVpH6b6enUwgKkQxdA9mT3QD9R48AH3.jpg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/toaster/gn/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3_CO7wITXfRkQcgw4mmWWoPHIT-BE-4nUxg&s",
+      "fuentePagina": "https://www.gonzalezgimenez.com.py/producto/9063/tostadora-philips-hd258110-grafito-900w?srsltid=AfmBOoo8TPdBehM1ZItxlvHqqHZ51Yk8XpYga041Ob4gAE3VXN2gAkxf",
+      "titulo": "Tostadora Philips Hd2581/10 Grafito 900W",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3_CO7wITXfRkQcgw4mmWWoPHIT-BE-4nUxg&s",
+      "original": "https://www.gonzalezgimenez.com.py/storage/sku/philips-tostadoras-tostadora-philips-hd258110-grafito-900w-2-1-1755714905.jpg?v=1755714905"
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "categoria": "parking meter",
+  "categoriaSlug": "parking-meter",
+  "idioma": "ar",
+  "nombreIdioma": "العربية",
+  "termino": "عداد وقوف السيارات",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T20:48:36.959Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "ar",
+    "gl": "eg"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=%D8%B9%D8%AF%D8%A7%D8%AF%20%D9%88%D9%82%D9%88%D9%81%20%D8%A7%D9%84%D8%B3%D9%8A%D8%A7%D8%B1%D8%A7%D8%AA&hl=ar&gl=eg",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/parking-meter/ar/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxgL3ox_n6skvnhcVKb6jpIyywdxif1v48nA&s",
+      "fuentePagina": "https://ar.wikipedia.org/wiki/%D8%B9%D8%AF%D8%A7%D8%AF_%D8%A7%D9%86%D8%AA%D8%B8%D8%A7%D8%B1_%D8%A7%D9%84%D8%B3%D9%8A%D8%A7%D8%B1%D8%A7%D8%AA",
+      "titulo": "عداد انتظار السيارات - ويكيبيديا",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxgL3ox_n6skvnhcVKb6jpIyywdxif1v48nA&s",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/a/a4/Parking_meter_pd_med.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/parking-meter/ar/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMuj7Whqw1JagTcx7VK6ZLfSUjLzYMc9wtrw&s",
+      "fuentePagina": "https://sa.made-in-china.com/co_wiiparking/product_Automatic-Parking-Meter-for-Smart-Parking-System_yuurhgyiry.html",
+      "titulo": "عداد وقوف السيارات التلقائي لنظام وقوف السيارات الذكي ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMuj7Whqw1JagTcx7VK6ZLfSUjLzYMc9wtrw&s",
+      "original": "https://image.made-in-china.com/318f0j00etvfGbRdviUu/Parking-Meter-2-mp4.webp"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/parking-meter/ar/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHy_xdCK1xtz67nFCx9m0T6yckWBqhLik7rQ&s",
+      "fuentePagina": "https://www.facebook.com/photo.php?fbid=3985523778188699&id=161882950552820&set=a.230339397040508",
+      "titulo": "Ramallah News - رام الله الإخباري - من المقرر أن تبدأ عدادات ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHy_xdCK1xtz67nFCx9m0T6yckWBqhLik7rQ&s",
+      "original": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=3985523778188699"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/parking-meter/ar/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTooYxBEu1MVvHS0U19Vw-slRNr6LwLgBcXQ&s",
+      "fuentePagina": "https://ar.comaparking.com/car-parking-meter/",
+      "titulo": "عدادات مواقف السيارات والموردين - الصين مصنع عدادات مواقف ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTooYxBEu1MVvHS0U19Vw-slRNr6LwLgBcXQ&s",
+      "original": "https://ar.comaparking.com/uploads/202312362/small/car-park-system-solar-parking-metersd69dcb6e-d48e-4f5d-a050-fa1e764755d5.jpg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/parking-meter/ar/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbbUsyZGoO6OUzR-4dmCZF1WbzDYtJKcVYKQ&s",
+      "fuentePagina": "https://ar.pngtree.com/freebackground/parking-meter-parking-meter-mobility-street-photo_7652935.html",
+      "titulo": "عداد وقوف السيارات عداد شارع التنقل صورة والصورة للتنزيل ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbbUsyZGoO6OUzR-4dmCZF1WbzDYtJKcVYKQ&s",
+      "original": "https://png.pngtree.com/background/20240209/original/pngtree-parking-meter-parking-meter-mobility-street-photo-picture-image_7652935.jpg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/parking-meter/ar/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSy6D3pCJRZPssOjhfQN0da2gTaqNOV-Tghjg&s",
+      "fuentePagina": "https://sa.made-in-china.com/co_wiiparking/product_Automatic-Parking-Meter-for-Smart-Parking-System_yuurhgyiry.html",
+      "titulo": "عداد وقوف السيارات التلقائي لنظام وقوف السيارات الذكي",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSy6D3pCJRZPssOjhfQN0da2gTaqNOV-Tghjg&s",
+      "original": "https://image.made-in-china.com/202f0j00AOrbGIwPACgf/Automatic-Parking-Meter-for-Smart-Parking-System.webp"
+    }
+  ]
+}

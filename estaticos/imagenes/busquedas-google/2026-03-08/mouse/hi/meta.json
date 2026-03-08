@@ -1,0 +1,71 @@
+{
+  "categoria": "mouse",
+  "categoriaSlug": "mouse",
+  "idioma": "hi",
+  "nombreIdioma": "हिन्दी",
+  "termino": "माउस",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:22:34.545Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "hi",
+    "gl": "in"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=%E0%A4%AE%E0%A4%BE%E0%A4%89%E0%A4%B8&hl=hi&gl=in",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/mouse/hi/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDF43zMnii075UjwL0OEqSKCgJkZ6FE2h0-A&s",
+      "fuentePagina": "https://www.amazon.in/-/hi/Logitech-M100r-%E0%A4%B5%E0%A4%BE%E0%A4%AF%E0%A4%B0%E0%A5%8D%E0%A4%A1-%E0%A4%AE%E0%A4%BE%E0%A4%89%E0%A4%B8-%E0%A4%95%E0%A4%BE%E0%A4%B2%E0%A4%BE/dp/B0080W1X6U",
+      "titulo": "Logitech M100r वायर्ड USB माउस (काला) : Amazon.in: कंप्यूटर और एक्सेसरी",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDF43zMnii075UjwL0OEqSKCgJkZ6FE2h0-A&s",
+      "original": "https://m.media-amazon.com/images/I/61hzuoXwjqL.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/mouse/hi/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIbE02h-IakhvMZ4-1DFLVK55MVUjHxsraiQ&s",
+      "fuentePagina": "https://www.amazon.in/-/hi/amazon-basics-%E0%A4%B5%E0%A4%BE%E0%A4%AF%E0%A4%B0%E0%A5%8D%E0%A4%A1-%E0%A4%91%E0%A4%AA%E0%A5%8D%E0%A4%9F%E0%A4%BF%E0%A4%95%E0%A4%B2-%E0%A4%87%E0%A4%B8%E0%A5%8D%E0%A4%A4%E0%A5%87%E0%A4%AE%E0%A4%BE%E0%A4%B2/dp/B0C9TJ1ZW2",
+      "titulo": "amazon basics वायर्ड माउस | 1000 DPI ऑप्टिकल सेंसर | प्लग एंड प्ले | PC,  लैपटॉप के साथ इस्तेमाल होने वाला (काला) : Amazon.in: कंप्यूटर और एक्सेसरी",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIbE02h-IakhvMZ4-1DFLVK55MVUjHxsraiQ&s",
+      "original": "https://m.media-amazon.com/images/I/614q24eTLBL.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/mouse/hi/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFg4x6Vi-dX2cxvzO_E8BbNOO-tziq7dVaHQ&s",
+      "fuentePagina": "https://www.tradeindia.com/hi/products/long-durable-black-usb-optical-computer-mouse-with-curser-7710093.html",
+      "titulo": "कर्सर के साथ लंबे समय तक टिकाऊ और ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFg4x6Vi-dX2cxvzO_E8BbNOO-tziq7dVaHQ&s",
+      "original": "https://tiimg.tistatic.com/fp/1/007/710/long-durable-high-performance-black-usb-optical-computer-mouse-with-curser-093.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/mouse/hi/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7jzjeIBeEjJmjWDfixJRjwrUvcVnluoiWHQ&s",
+      "fuentePagina": "https://www.electroniksindia.com/hi/products/wireless-bluetooth-mouse-for-laptop-rechargeable-mouse-2-4g-usb-optical-wireless-mouse-led-slim-dual-modebluetooth-5-0-and-2-4g-wireless-mouse-for-laptop-pc-mac-os-android-windows?srsltid=AfmBOooLpS3xP-BqCRRNqYy9Aka-3AQ8A22-30ayIlstPLg60uAtYxzk",
+      "titulo": "लैपटॉप के लिए वायरलेस ब्लूटूथ ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7jzjeIBeEjJmjWDfixJRjwrUvcVnluoiWHQ&s",
+      "original": "https://cdn.shopify.com/s/files/1/0015/6932/5091/files/wireless-bluetooth-mouse-for-laptop-rechargeable-mouse-2-4g-usb-optical-wireless-mouse-led-slim-dual-mode-bluetooth-5-0-and-2-4g-wireless-mouse-for-laptop-pc-894.webp"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/mouse/hi/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRskyIzq9h3c_oc1u9_QEFkjvyDCtOM1GiM8Q&s",
+      "fuentePagina": "https://www.youtube.com/watch?v=0KGe0yQcXsI",
+      "titulo": "माउस क्या है और इसका इस्तेमाल ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRskyIzq9h3c_oc1u9_QEFkjvyDCtOM1GiM8Q&s",
+      "original": "https://i.ytimg.com/vi/0KGe0yQcXsI/hqdefault.jpg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/mouse/hi/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWsCGQkqbWfHddn7kBMIC2jUjkhYzCAqWrTA&s",
+      "fuentePagina": "https://www.moglix.com/hi/hp-x900-black-usb-mouse/mp/msn2w9y4qbltax?srsltid=AfmBOoqx2jajaXHOQmMKMutp02YF-Riga3HWzTd0EHTwUUuJke46Vdjr",
+      "titulo": "एचपी एक्स900 ब्लैक यूएसबी माउस",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWsCGQkqbWfHddn7kBMIC2jUjkhYzCAqWrTA&s",
+      "original": "https://cdn.moglix.com/p/I/N/D/d/MININD4NIBUB1-xxlarge.jpg"
+    }
+  ]
+}

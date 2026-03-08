@@ -1,0 +1,71 @@
+{
+  "categoria": "mouse",
+  "categoriaSlug": "mouse",
+  "idioma": "yo",
+  "nombreIdioma": "Yorùbá",
+  "termino": "eku",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:22:23.682Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "yo",
+    "gl": "ng"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=eku&hl=yo&gl=ng",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/mouse/yo/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSiiT0vGw4s3so1NJJRe_7n_RMnKnKRkBPL_g&s",
+      "fuentePagina": "https://www.eku.edu/manchester/",
+      "titulo": "Manchester Regional Campus - Eastern Kentucky University",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSiiT0vGw4s3so1NJJRe_7n_RMnKnKRkBPL_g&s",
+      "original": "https://www.eku.edu/wp-content/uploads/2024/12/EKU-Manchester-Student-Photo.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/mouse/yo/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4-IYzGC1WSdaVskw_wr_ntTu01Py6lzIXNA&s",
+      "fuentePagina": "https://careers.eku.edu/jobs/search",
+      "titulo": "Search Page",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4-IYzGC1WSdaVskw_wr_ntTu01Py6lzIXNA&s",
+      "original": "https://d25wby5c7p9100.cloudfront.net/public/uploads/c056359fd1244e786293c4b41678e500/images/files/1713f7e4944e9fc0a562d17d30a2dede/large/eku_hero_full.png?1667257837"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/mouse/yo/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrWl6Ckh2DBg44kBKVa_LRY-YvjfL1HCFp-g&s",
+      "fuentePagina": "https://en.wikipedia.org/wiki/Eastern_Kentucky_University",
+      "titulo": "Eastern Kentucky University - Wikipedia",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrWl6Ckh2DBg44kBKVa_LRY-YvjfL1HCFp-g&s",
+      "original": "https://upload.wikimedia.org/wikipedia/en/3/37/Eastern_Kentucky_University_seal.svg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/mouse/yo/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXB9IYUoZsnmPM3VisfzNRiWSg0bkX153oRw&s",
+      "fuentePagina": "https://www.forbes.com/colleges/eastern-kentucky-university/",
+      "titulo": "Eastern Kentucky University",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXB9IYUoZsnmPM3VisfzNRiWSg0bkX153oRw&s",
+      "original": "https://imageio.forbes.com/specials-images/imageserve/5776b98da7ea436bd18c12a0/0x0.jpg?format=jpg&crop=416,416,x0,y0,safe&height=200&width=200&fit=bounds"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/mouse/yo/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRuGd6H5GXwgvw7l1Q9cFdfgVqt_VW1z4mNw&s",
+      "fuentePagina": "https://www.cincinnati.com/story/sponsor-story/2020-fall-college-guide/2020/10/12/eku-offers-quality-out-state-education-affordable-rate/5922040002/",
+      "titulo": "EKU offers a quality, out-of-state education at an ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRuGd6H5GXwgvw7l1Q9cFdfgVqt_VW1z4mNw&s",
+      "original": "https://www.cincinnati.com/gcdn/presto/2020/10/08/PCIN/0535f9fa-bc91-4c3c-91e5-a8e3ef6d0168-20200716_Drone8.jpg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/mouse/yo/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSncRcn6LzeeQMSQKCnWWy327ClDrjK-ccl_Q&s",
+      "fuentePagina": "https://www.eku.edu/",
+      "titulo": "Homepage - Eastern Kentucky University",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSncRcn6LzeeQMSQKCnWWy327ClDrjK-ccl_Q&s",
+      "original": "https://www.eku.edu/wp-content/uploads/2024/12/eku-general.jpg"
+    }
+  ]
+}

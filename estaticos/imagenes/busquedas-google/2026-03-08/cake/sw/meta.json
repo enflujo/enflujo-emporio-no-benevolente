@@ -1,0 +1,71 @@
+{
+  "categoria": "cake",
+  "categoriaSlug": "cake",
+  "idioma": "sw",
+  "nombreIdioma": "Kiswahili",
+  "termino": "keki",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:16:16.263Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "sw",
+    "gl": "tz"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=keki&hl=sw&gl=tz",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/cake/sw/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScw0TULY8JiHREvHZon9U-iRd5FMwc235Nqw&s",
+      "fuentePagina": "https://www.youtube.com/watch?v=EZKM-hs1yDk",
+      "titulo": "kuoka keki ya chocolate na kuipamba nyumbani - chocolate mousse cake",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScw0TULY8JiHREvHZon9U-iRd5FMwc235Nqw&s",
+      "original": "https://i.ytimg.com/vi/EZKM-hs1yDk/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLAX4hSCQ9XKjlAh7twzWktiJJD0YA"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/cake/sw/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAh2pB6sPw_KnY18l5pBvqmerWiXUP7iz6vQ&s",
+      "fuentePagina": "https://www.instagram.com/p/DAY0cIpNm7x/",
+      "titulo": "🚨🚨Keki nzuri na tamu kwa bei nafuu sana, piga simu au tuma ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAh2pB6sPw_KnY18l5pBvqmerWiXUP7iz6vQ&s",
+      "original": "https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3465750536248526933"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/cake/sw/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTkkTP8YuiV_Fd37JqveLWQwJH2xIfI-K1rg&s",
+      "fuentePagina": "https://www.instagram.com/p/C9PYf5cNPLk/",
+      "titulo": "Karibu @cakes_tz 😊 !! 🚨🚨Tunatengeneza cake nzuri✓, tamu ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTkkTP8YuiV_Fd37JqveLWQwJH2xIfI-K1rg&s",
+      "original": "https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3409051188039316196"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/cake/sw/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOMpccvXr5a-4ZOVfBhae2RNSTv5ffCzo9FQ&s",
+      "fuentePagina": "https://www.youtube.com/watch?v=1AH9QGGlAFE",
+      "titulo": "Kupamba keki kwa wanaoanza kujifunza keki #cake #keki ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOMpccvXr5a-4ZOVfBhae2RNSTv5ffCzo9FQ&s",
+      "original": "https://i.ytimg.com/vi/1AH9QGGlAFE/sddefault.jpg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/cake/sw/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvuUlmK8fK19ux6G40XgoSfBRxkjfPF6qF8A&s",
+      "fuentePagina": "https://play.google.com/store/apps/details?id=com.dil.cake_recipes&hl=sw",
+      "titulo": "Cake Recipes - Programu zilizo kwenye Google Play",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvuUlmK8fK19ux6G40XgoSfBRxkjfPF6qF8A&s",
+      "original": "https://play-lh.googleusercontent.com/VGk0T09YfBMUWLuSo5oloqn0tYB5mtcHuh77AouF5FnkhZZd3BOAHbFim1_midY4ZE8"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/cake/sw/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVZ33YkWp5hO0lial9dyu7q7XgdYoisHiiCA&s",
+      "fuentePagina": "https://wauzaji.com/blog/mtaji-wa-biashara-ya-keki/",
+      "titulo": "Mtaji wa Biashara Ya Keki Tanzania",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVZ33YkWp5hO0lial9dyu7q7XgdYoisHiiCA&s",
+      "original": "https://wauzaji.com/wp-content/uploads/2022/10/watengenezaji-wa-cake.jpg"
+    }
+  ]
+}

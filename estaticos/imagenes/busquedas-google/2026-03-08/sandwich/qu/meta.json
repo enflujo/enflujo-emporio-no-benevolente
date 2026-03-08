@@ -1,0 +1,71 @@
+{
+  "categoria": "sandwich",
+  "categoriaSlug": "sandwich",
+  "idioma": "qu",
+  "nombreIdioma": "Quechua",
+  "termino": "sandwich",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:12:17.611Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "es",
+    "gl": "pe"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=sandwich&hl=es&gl=pe",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/sandwich/qu/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyulfGIbEAHqvn3vVduMDhZXPsvHc9R451Sw&s",
+      "fuentePagina": "https://www.unileverfoodsolutions.com.mx/recipe/sandwich-de-pollo-crispy-R9007431.html",
+      "titulo": "Sandwich de pollo crispy",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyulfGIbEAHqvn3vVduMDhZXPsvHc9R451Sw&s",
+      "original": "https://www.unileverfoodsolutions.com.mx/dam/global-ufs/mcos/NOLA/calcmenu/recipes/MX-recipes/In-Development/FULL-SAND.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/sandwich/qu/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRznK1Kr1sJr_v77OflYXIhJHowzb5MX6IccQ&s",
+      "fuentePagina": "https://bimbousa.com/es/recetas/sandwich-de-pollo-bimbor",
+      "titulo": "Sándwich de pollo Bimbo® | Bimbo",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRznK1Kr1sJr_v77OflYXIhJHowzb5MX6IccQ&s",
+      "original": "https://bimbousa.com/sites/default/files/styles/product_full_image/public/2022-07/Receta-Sandwich-de-pollo-a-la-mostaza-Bimbo.jpg?itok=Fpm5fvh0"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/sandwich/qu/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDXGNCvqh-6ptU2PtoU4B6hNQ8cvMj5AaGtw&s",
+      "fuentePagina": "https://levanova.es/sandwiches-saludables/",
+      "titulo": "Sándwich saludable: 5 ideas de recetas nutritivas",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDXGNCvqh-6ptU2PtoU4B6hNQ8cvMj5AaGtw&s",
+      "original": "https://levanova.es/wp-content/uploads/2020/07/snadwi-scaled.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/sandwich/qu/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZYjO06J2alyy_bahlisJX3PyTt-RufMcL-Q&s",
+      "fuentePagina": "https://www.watermelon.org/recipes/watermelon-sandwich/",
+      "titulo": "Watermelon Sandwich",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZYjO06J2alyy_bahlisJX3PyTt-RufMcL-Q&s",
+      "original": "https://www.watermelon.org/wp-content/uploads/2023/02/Sandwich_2023-1000x1000.jpg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/sandwich/qu/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpePQpQsspVsk_qeCK7LkXUpmBhFJov2Nb8g&s",
+      "fuentePagina": "https://www.tasteofhome.com/recipes/turkey-club-sandwich/",
+      "titulo": "Turkey Club Sandwich",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpePQpQsspVsk_qeCK7LkXUpmBhFJov2Nb8g&s",
+      "original": "https://www.tasteofhome.com/wp-content/uploads/2025/04/Turkey-Club-Sandwich_EXPS_FT25_278726_EC_0408_5.jpg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/sandwich/qu/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRz50-KzQtCEMVev_fAK9rHnuIMn04pkRsPnQ&s",
+      "fuentePagina": "https://recetasdecocina.elmundo.es/2024/01/sandwich-mixto-receta-facil-casera.html",
+      "titulo": "Sándwich mixto, receta fácil y casera",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRz50-KzQtCEMVev_fAK9rHnuIMn04pkRsPnQ&s",
+      "original": "https://recetasdecocina.elmundo.es/wp-content/uploads/2024/01/sandwich-mixto.jpg"
+    }
+  ]
+}

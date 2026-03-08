@@ -1,0 +1,71 @@
+{
+  "categoria": "bicycle",
+  "categoriaSlug": "bicycle",
+  "idioma": "kg",
+  "nombreIdioma": "Kikongo",
+  "termino": "velo",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T20:41:07.190Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "fr",
+    "gl": "cd"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=velo&hl=fr&gl=cd",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bicycle/kg/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0vtsMyZwSCgasHuPXcfhF21XrGdY0-FwUhQ&s",
+      "fuentePagina": "https://www.valenceromansmobilites.fr/velo/location-longue-duree/",
+      "titulo": "Location longue durée - Valenceromansmobilites",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0vtsMyZwSCgasHuPXcfhF21XrGdY0-FwUhQ&s",
+      "original": "https://storage.googleapis.com/is-wp-46-prod/uploads-prod/2025/05/6d4aeb91-mon-libelo-longtail-en-usage-5-scaled.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bicycle/kg/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQeeL9XrGlYMWqg2okrZvop4CAACUlhmLFsw&s",
+      "fuentePagina": "https://gibuscycles.com/products/velo-20-pouces?srsltid=AfmBOoq06j-7XoyhyqBH3HDE9qr-DPe_frcOARl_qqg5AwJF14bfqqCE",
+      "titulo": "Vélo 20 pouces Fille - Garçon | VTT 20 pouces – Gibus Cycles",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQeeL9XrGlYMWqg2okrZvop4CAACUlhmLFsw&s",
+      "original": "https://gibuscycles.com/cdn/shop/files/velo-20-pouces-profil-droit-vert-gibus-cycles.jpg?v=1745845076"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bicycle/kg/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1XXJ_WYh9CmrRV8LNCNryNoq_WpHlIeuHgw&s",
+      "fuentePagina": "https://naolib.fr/fr/velos/velos-en-location-longue-duree",
+      "titulo": "Louer un vélo avec ou sans assistance électrique - Naolib",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1XXJ_WYh9CmrRV8LNCNryNoq_WpHlIeuHgw&s",
+      "original": "https://naolib.fr/medias/photo/location-longue-duree-velo_1751012253575-png"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bicycle/kg/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_NpTgXvm4XrIYi3b7Yl4VM5oMrBrMMr_EtQ&s",
+      "fuentePagina": "https://coconutslocationgroix.com/louer/velo-assistance-electrique/",
+      "titulo": "Vélo à Assistance Électrique",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_NpTgXvm4XrIYi3b7Yl4VM5oMrBrMMr_EtQ&s",
+      "original": "https://coconutslocationgroix.com/wp-content/uploads/2024/01/velo-electrique-location-de-velo-coconuts-location-port-tudy-groix-1.jpg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bicycle/kg/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfDRNDQ02L8FDQ9LWGLe79uxa3XIMIP53EXw&s",
+      "fuentePagina": "https://www.montania-sport.com/blog/comment-repartir-le-poids-sur-son-velo-en-voyage-guide-bikepacking-et-cyclotourisme/?srsltid=AfmBOorul2ZJBVkqR9m4FvhdJLFUwOhoJuhlhLVAA_akTFevYg7Tdzt1",
+      "titulo": "Comment répartir le poids sur son vélo en voyage ? Guide ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfDRNDQ02L8FDQ9LWGLe79uxa3XIMIP53EXw&s",
+      "original": "https://www.montania-sport.com/blog/wp-content/uploads/2025/07/Comment-repartir-le-poids-sur-son-velo-en-voyage-_-Guide-bikepacking-et-cyclotourisme.jpeg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bicycle/kg/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuUJLa9LC6oi84rmEG0fyUPneOpzgFYXzDEw&s",
+      "fuentePagina": "https://www.quechoisir.org/guide-d-achat-velo-electrique-n8147/",
+      "titulo": "Vélo électrique - Guide d'achat - UFC-Que Choisir",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuUJLa9LC6oi84rmEG0fyUPneOpzgFYXzDEw&s",
+      "original": "https://im.qccdn.fr/node/guide-d-achat-velo-electrique-8147/thumbnail_1000x600px-142430.jpg"
+    }
+  ]
+}

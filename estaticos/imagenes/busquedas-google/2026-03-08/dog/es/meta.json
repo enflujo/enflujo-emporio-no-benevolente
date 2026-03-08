@@ -1,0 +1,71 @@
+{
+  "categoria": "dog",
+  "categoriaSlug": "dog",
+  "idioma": "es",
+  "nombreIdioma": "Español",
+  "termino": "perro",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T20:51:30.544Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "es",
+    "gl": "es"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=perro&hl=es&gl=es",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/dog/es/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-jm-ZrXdRfxhpiaswiFmuXypHHH1KShir4g&s",
+      "fuentePagina": "https://www.fundacion-affinity.org/es/biblioteca/los-8-sonidos-principales-del-perro",
+      "titulo": "Los 8 sonidos principales del perro",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-jm-ZrXdRfxhpiaswiFmuXypHHH1KShir4g&s",
+      "original": "https://cdn.sanity.io/images/5vm5yn1d/pro/5cb1f9400891d9da5a4926d7814bd1b89127ecba-1300x867.jpg?fm=webp&q=80"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/dog/es/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3dk0UJFpZAuIK3saIVDahZbvjj74ngEoZow&s",
+      "fuentePagina": "https://www.purina.com/es/perros/razas-de-perros/colecciones/razas-de-perros-pequenos",
+      "titulo": "Toda la información de raza de perro pequeño | Purina EE. UU.",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3dk0UJFpZAuIK3saIVDahZbvjj74ngEoZow&s",
+      "original": "https://www.purina.com/sites/default/files/2025-09/beagle2_red-collar.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/dog/es/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUFq49vUMi0WWydWJCKVWMPr8whuGhoFcj7w&s",
+      "fuentePagina": "https://nutricionistadeperros.com/las-mejores-razas-para-quien-nunca-ha-tenido-perro/",
+      "titulo": "Las mejores razas para quien nunca ha tenido perro",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUFq49vUMi0WWydWJCKVWMPr8whuGhoFcj7w&s",
+      "original": "https://eq2imhfmrcc.exactdn.com/wp-content/uploads/2016/08/golden-retriever.jpg?strip=all"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/dog/es/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZ8A-2-gnvmAMq3WQrUxyiqnvXGa_I3djbNA&s",
+      "fuentePagina": "https://www.bbc.com/mundo/noticias-48676663",
+      "titulo": "Cómo el rostro de los perros evolucionó para enternecer a ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZ8A-2-gnvmAMq3WQrUxyiqnvXGa_I3djbNA&s",
+      "original": "http://c.files.bbci.co.uk/48DD/production/_107435681_perro1.jpg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/dog/es/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmPuJHnKrhzig-NnkDWTI_beyRxqKuS45H5A&s",
+      "fuentePagina": "https://www.santevet.es/raza/perros-de-pastor-y-boyeros",
+      "titulo": "Perros de pastor y boyeros : guía y consejos - Santévet",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmPuJHnKrhzig-NnkDWTI_beyRxqKuS45H5A&s",
+      "original": "https://images.ctfassets.net/denf86kkcx7r/2KGI03JSLCerDS7RD20OZP/b85317da255ed7119430759308414a49/perros_de_pastor_y_boyeros_-_1.jpg?fm=webp&w=612"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/dog/es/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQ8BWl9h73hQ3EcelcPjQamgAwXKQ0BorpDQ&s",
+      "fuentePagina": "https://www.esquire.com/es/actualidad/a39749147/perros-mirada-adorable-explicacion/",
+      "titulo": "Boji, el perro callejero, turista e influencer",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQ8BWl9h73hQ3EcelcPjQamgAwXKQ0BorpDQ&s",
+      "original": "https://hips.hearstapps.com/hmg-prod/images/intrigued-royalty-free-image-1650280924.jpg?crop=1xw:0.75xh;0,0.121xh"
+    }
+  ]
+}

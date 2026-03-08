@@ -1,0 +1,71 @@
+{
+  "categoria": "zebra",
+  "categoriaSlug": "zebra",
+  "idioma": "ln",
+  "nombreIdioma": "Lingala",
+  "termino": "zebra",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T20:54:46.532Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "fr",
+    "gl": "cd"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=zebra&hl=fr&gl=cd",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/zebra/ln/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbOxHbmaJKlIv4de-0bexdeF_uYCwNcoU6VA&s",
+      "fuentePagina": "https://africawildlifesafari.com/index.php/wildlife/zebra/",
+      "titulo": "Zebra - Africa Wildlife Safari",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbOxHbmaJKlIv4de-0bexdeF_uYCwNcoU6VA&s",
+      "original": "https://africawildlifesafari.com/wp-content/uploads/2024/03/Zebra-1-768x576.png"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/zebra/ln/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHEFIOWq7zHwEj2r6i5AfXFUFPKeswnoQWjA&s",
+      "fuentePagina": "https://tusk.org/species/grevy-zebra/",
+      "titulo": "Grevy's Zebra - Tusk",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHEFIOWq7zHwEj2r6i5AfXFUFPKeswnoQWjA&s",
+      "original": "https://tusk.org/wp-content/uploads/2025/03/WWW-Grevys-Zebra-Grevy.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/zebra/ln/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSP2D7StMOXX8lpwbxk9xHuYj6mtFCs-Wmtgw&s",
+      "fuentePagina": "https://en.wikipedia.org/wiki/Zebra",
+      "titulo": "Zebra - Wikipedia",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSP2D7StMOXX8lpwbxk9xHuYj6mtFCs-Wmtgw&s",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Plains_Zebra_Equus_quagga_cropped.jpg/250px-Plains_Zebra_Equus_quagga_cropped.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/zebra/ln/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGmR0ZJLCYmU_mIbiZ4WknweUHj_I0Qum3cg&s",
+      "fuentePagina": "https://www.treehugger.com/things-you-didnt-know-about-zebras-4864185",
+      "titulo": "10 Fascinating Facts About Zebras",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGmR0ZJLCYmU_mIbiZ4WknweUHj_I0Qum3cg&s",
+      "original": "https://www.treehugger.com/thmb/qFhPReYPPaVgTtHBOthYeMJVeZ0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-1043597638-49acd69677d7442588c1d8930d298a59.jpg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/zebra/ln/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgFSFNTKvlv26cjn9uMVucaRIxQPuDP1LFNQ&s",
+      "fuentePagina": "https://commons.wikimedia.org/wiki/Zebra",
+      "titulo": "Zebra - Wikimedia Commons",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgFSFNTKvlv26cjn9uMVucaRIxQPuDP1LFNQ&s",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/e/e3/Plains_Zebra_Equus_quagga.jpg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/zebra/ln/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcnLIByIL2CeMEk6QfDm_52us6lSJTLdYKaQ&s",
+      "fuentePagina": "https://www.marylandzoo.org/animal/plains-zebra/",
+      "titulo": "Plains Zebra | The Maryland Zoo",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcnLIByIL2CeMEk6QfDm_52us6lSJTLdYKaQ&s",
+      "original": "https://www.marylandzoo.org/wp-content/uploads/2017/10/zebra_web-1024x683.jpg"
+    }
+  ]
+}

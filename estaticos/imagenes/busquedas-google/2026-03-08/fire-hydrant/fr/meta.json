@@ -1,0 +1,71 @@
+{
+  "categoria": "fire hydrant",
+  "categoriaSlug": "fire-hydrant",
+  "idioma": "fr",
+  "nombreIdioma": "Français",
+  "termino": "borne fontaine",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T20:47:04.869Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "fr",
+    "gl": "be"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=borne%20fontaine&hl=fr&gl=be",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/fire-hydrant/fr/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbHQtYqc240yfmjip4HAP07hqpJ2K18dY_1Q&s",
+      "fuentePagina": "https://fr.wikipedia.org/wiki/Borne-fontaine",
+      "titulo": "Borne-fontaine — Wikipédia",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbHQtYqc240yfmjip4HAP07hqpJ2K18dY_1Q&s",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Geneuille%2C_la_borne-fontaine.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/fire-hydrant/fr/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwKF3SL34xNwnmSt-w3dHE_e7tn_nQ2xNLew&s",
+      "fuentePagina": "https://www.extincteursjmb.com/produit/borne-fontaine/",
+      "titulo": "Borne-fontaine - Extincteurs JMB",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwKF3SL34xNwnmSt-w3dHE_e7tn_nQ2xNLew&s",
+      "original": "https://www.extincteursjmb.com/wp-content/uploads/2021/03/Borne-fontaine-1.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/fire-hydrant/fr/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQE35jWMkxNdtmxCtCKla0BGzbcHLIZ-sHjeA&s",
+      "fuentePagina": "https://lemuseedeleauetdelafontaine.be/listing/borne-fontaine-place-du-roi-albert-esneux/",
+      "titulo": "Borne-fontaine Avenue de l'Eglise - Esneux - Le musée de l ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQE35jWMkxNdtmxCtCKla0BGzbcHLIZ-sHjeA&s",
+      "original": "https://lemuseedeleauetdelafontaine.be/wp-content/uploads/2023/09/borne-fontaine-eglise-1.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/fire-hydrant/fr/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZxinSH-F68NGRIonW_R3JNui3KtoFWCJh4Q&s",
+      "fuentePagina": "https://www.avk.fr/fr-fr/rechercher-des-produits/poteaux-bouches-d'incendie-et-de-lavage/bornes-fontaines/78-7510-001",
+      "titulo": "BORNE FONTAINE VICTORIA - AVK France",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZxinSH-F68NGRIonW_R3JNui3KtoFWCJh4Q&s",
+      "original": "https://files.avkvalves.com/updated-ftp/images800/7875xx_383638.jpg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/fire-hydrant/fr/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSA0o3RqV6PUlVQZA7s8YtnhCvhups3ChEwCg&s",
+      "fuentePagina": "https://www.fontes-art-dommartin.com/jardins/fontainerie/bornes-fontaines-intemporelles/fontaine-pixel-avec-vasque-392-988-1038-1045-1047-1051-1052-1053-1054-1055-1056-detail",
+      "titulo": "Bornes fontaines intemporelles: Fontaine Griffon sans vasque ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSA0o3RqV6PUlVQZA7s8YtnhCvhups3ChEwCg&s",
+      "original": "https://www.fontes-art-dommartin.com/images/stories/virtuemart/product/A7_00145.png"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/fire-hydrant/fr/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBCTZiRDslVqJbcLvSJpMleJX1UwNRjClxJg&s",
+      "fuentePagina": "https://be-monumen.be/patrimoine-belge/borne-fontaine-montigny-le-tilleul/",
+      "titulo": "Borne-fontaine – Montigny-le-Tilleul | BE-monumen",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBCTZiRDslVqJbcLvSJpMleJX1UwNRjClxJg&s",
+      "original": "https://be-monumen.be/wp-content/uploads/01-Montigny-le-Tilleul-borne-fontaine-638x850.jpg"
+    }
+  ]
+}

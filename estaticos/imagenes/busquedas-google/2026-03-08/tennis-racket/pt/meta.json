@@ -1,0 +1,71 @@
+{
+  "categoria": "tennis racket",
+  "categoriaSlug": "tennis-racket",
+  "idioma": "pt",
+  "nombreIdioma": "Português",
+  "termino": "raquete",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:05:55.145Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "pt",
+    "gl": "br"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=raquete&hl=pt&gl=br",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/tennis-racket/pt/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUgbeJKqAk4Msws-BugT-wO0onILBZQT7UYA&s",
+      "fuentePagina": "https://www.centauro.com.br/raquete-de-tenis-head-ti-reward-iniciante-adulto-972831.html?srsltid=AfmBOop9lquMe-Ua86Xlo1BmEtrW1CRPXJu7XrYZFfZTU-0GB90A1MIt",
+      "titulo": "Raquete de Tênis Head TI.Reward - Iniciante - Adulto | Centauro",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUgbeJKqAk4Msws-BugT-wO0onILBZQT7UYA&s",
+      "original": "https://imgcentauro-a.akamaihd.net/1200x1200/972831THA6.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/tennis-racket/pt/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1yhBIwn1AgeEURClOy4snAGZg_xR7WE7MdQ&s",
+      "fuentePagina": "https://www.vivanosports.com.br/raquete-wilson-blade-v9-98-18-20",
+      "titulo": "Raquete Wilson Blade V9 98 18/20",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1yhBIwn1AgeEURClOy4snAGZg_xR7WE7MdQ&s",
+      "original": "https://vivanosports.cdn.magazord.com.br/img/2025/01/produto/16645/07-raquete-wilson-blade-v9-98-18-20.png?ims=fit-in/575x750/filters:fill(fff)"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/tennis-racket/pt/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFNkd25GnJlNIDirAozLqrHzlvzr9I9e1AjQ&s",
+      "fuentePagina": "https://www.prospin.com.br/raquete-de-tenis-head-radical-mp-2025?srsltid=AfmBOor9joSNaHTT7vQhIgMROQdgDc2TEfQDCRp9zS6ULSog6cT73PlF",
+      "titulo": "Raquete de Tênis Head Radical MP 2025 - ProSpin.com.br",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFNkd25GnJlNIDirAozLqrHzlvzr9I9e1AjQ&s",
+      "original": "https://static.prospin.com.br/media/catalog/product/cache/405628f615b5edf579edd0ef4cc16c7a/2/3/231015-raquete-de-tenis-head-radical-mp-2025.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/tennis-racket/pt/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWG8gSFCcb52HbfZIrdpLerbuzSVe7zMIMrA&s",
+      "fuentePagina": "https://www.realesporte.com.br/raquetes/raquete-de-tenis-fort-force-junior-26-verdepreto?srsltid=AfmBOorkOUGC2lz22T1V725ipLO4esgrDyly4s3agX1VEfilk3bwZngy",
+      "titulo": "Raquete de Tênis Fort Force Junior 26 - Verde/Preto ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWG8gSFCcb52HbfZIrdpLerbuzSVe7zMIMrA&s",
+      "original": "https://images.tcdn.com.br/img/img_prod/662454/raquete_de_tenis_fort_force_junior_26_verde_preto_9823_1_5808632eb5585c9271cdec9f29446b32_20250807140314.png"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/tennis-racket/pt/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSW48H2RXwYCZwPV_c6ATeuPM6_Hj-fCUJQ6g&s",
+      "fuentePagina": "https://www.wilsonloja.com.br/products/raquete-de-tenis-blade-98-18x20-v9",
+      "titulo": "Raquete de Tênis Blade 98 (18X20 ) v9 - L2",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSW48H2RXwYCZwPV_c6ATeuPM6_Hj-fCUJQ6g&s",
+      "original": "https://www.wilsonloja.com.br/cdn/shop/files/WR149911U__1.webp?v=1751569648&width=1292"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/tennis-racket/pt/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQs6NSJnmzznbYAbApa3VtK9WkKUFSG0NAr1A&s",
+      "fuentePagina": "https://salaodejogos.com.br/raquete-de-tenis-de-mesa-ping-pong-4-estrelas-semi-profissional-klopf-cod-5016",
+      "titulo": "Raquete de Tênis de Mesa / Ping Pong - 4 estrelas - Semi-Profissional -  KLOPF - Cód. 5016",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQs6NSJnmzznbYAbApa3VtK9WkKUFSG0NAr1A&s",
+      "original": "https://salaodejogos.com.br/media/catalog/product/cache/d27d2a17979f79ea285678bb24e3a247/R/a/Raquete_Catamount_klopf_5016_004.jpg"
+    }
+  ]
+}

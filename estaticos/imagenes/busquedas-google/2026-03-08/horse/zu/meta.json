@@ -1,0 +1,71 @@
+{
+  "categoria": "horse",
+  "categoriaSlug": "horse",
+  "idioma": "zu",
+  "nombreIdioma": "isiZulu",
+  "termino": "ihhashi",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T20:51:52.782Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "zu",
+    "gl": "za"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=ihhashi&hl=zu&gl=za",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/horse/zu/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT49jMCLT56CXP-UgFzB81IyEG97OMWvKKNZg&s",
+      "fuentePagina": "https://www.musicinafrica.net/directory/ihhashi-elimhlophe",
+      "titulo": "Ihhashi Elimhlophe | Music In Africa",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT49jMCLT56CXP-UgFzB81IyEG97OMWvKKNZg&s",
+      "original": "https://www.musicinafrica.net/sites/default/files/styles/profile_images_large/public/images/artist_profile/201411/ihhashi-guitar-1.jpg?itok=S4xPK3Ky"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/horse/zu/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQAelT4SthtkpIXpUsJVPbFGtMy5qqlUww3A&s",
+      "fuentePagina": "https://www.instagram.com/p/DA3FeozoUMf/",
+      "titulo": "Photo by Ihhashi Elimhlophe Lo (@ihhashielimhlophe ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQAelT4SthtkpIXpUsJVPbFGtMy5qqlUww3A&s",
+      "original": "https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3474269733172364063"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/horse/zu/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfGdKTqGU0Y9GrdI0IFJlc2iNLBANx0VnOoA&s",
+      "fuentePagina": "https://open.spotify.com/track/0aHt3sZ5Ihl1Byg50hijns",
+      "titulo": "Izinqe - song and lyrics by Ihhashi Elimhlophe, SABC Choir ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfGdKTqGU0Y9GrdI0IFJlc2iNLBANx0VnOoA&s",
+      "original": "https://i.scdn.co/image/ab67616d0000b273d4bf2f01f4e8346b47cdfd64"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/horse/zu/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQdDGBESmvbohTzruSee0sFiPsnG4yJUkidw&s",
+      "fuentePagina": "https://open.spotify.com/artist/4eSUGwpQXyQh2Qb09oCs21",
+      "titulo": "Ihhashi Elimhlophe | Spotify",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQdDGBESmvbohTzruSee0sFiPsnG4yJUkidw&s",
+      "original": "https://i.scdn.co/image/ab6761610000e5eb0efc0c73a86eae7342b5967e"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/horse/zu/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR26vcqp2sh3OLH_5R37dKUmoOefZ-bZSOwtQ&s",
+      "fuentePagina": "https://www.youtube.com/watch?v=cEc0-_qgGNg",
+      "titulo": "Ihhashi Elimhlophe - YouTube",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR26vcqp2sh3OLH_5R37dKUmoOefZ-bZSOwtQ&s",
+      "original": "https://i.ytimg.com/vi/cEc0-_qgGNg/sddefault.jpg?v=65d76049"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/horse/zu/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRiVcMEvMsrcgfevFGAnnFR8YdDff5rcocTNw&s",
+      "fuentePagina": "https://www.facebook.com/IhhashiElimhlophe/",
+      "titulo": "Ihhashi Elimhlophe (@IhhashiElimhlophe) • Facebook",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRiVcMEvMsrcgfevFGAnnFR8YdDff5rcocTNw&s",
+      "original": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=100058213325921"
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "categoria": "bench",
+  "categoriaSlug": "bench",
+  "idioma": "kg",
+  "nombreIdioma": "Kikongo",
+  "termino": "banki",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T20:49:04.668Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "fr",
+    "gl": "cd"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=banki&hl=fr&gl=cd",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bench/kg/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRu9uCrNdQPm74Qznob2TXnUHlqxHnEnoq6fg&s",
+      "fuentePagina": "https://www.voaafrique.com/a/banki-une-ville-ecrasee-sous-le-poids-des-survivants-de-boko-haram/3837280.html",
+      "titulo": "Banki, une ville écrasée sous le poids des survivants de ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRu9uCrNdQPm74Qznob2TXnUHlqxHnEnoq6fg&s",
+      "original": "https://gdb.voanews.com/ef631338-7339-40c4-a1da-f0a2cd1fbb3a_w1080_h608_s.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bench/kg/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTohOFIcsAOetOZamrCq1lqpTvapi0n9ZIHDg&s",
+      "fuentePagina": "https://www.lexpress.fr/monde/banki-une-ville-ecrasee-sous-le-poids-des-survivants-de-boko-haram_1905087.html",
+      "titulo": "Nigeria: Banki, une ville écrasée sous le poids des ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTohOFIcsAOetOZamrCq1lqpTvapi0n9ZIHDg&s",
+      "original": "https://cloudfront-eu-central-1.images.arcpublishing.com/lexpress/J5K3WUJNJFBU5IBHQYF5SGPMJM.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bench/kg/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRL6GQnN2SHSYfRGfJgckrMnpqKcNkNj4a3Fw&s",
+      "fuentePagina": "https://www.msf.fr/actualites/temoignage-du-nigeria-a-banki-il-n-y-a-plus-rien",
+      "titulo": "Témoignage du Nigeria : « à Banki, il n'y a plus rien ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRL6GQnN2SHSYfRGfJgckrMnpqKcNkNj4a3Fw&s",
+      "original": "https://www.msf.fr/sites/msf.fr/files/images/Rubriques%20du%20site/Actualit%C3%A9s/nigeria/carte-Borno.png"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bench/kg/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdYk2fF5OhOMDp6i4ZHLLz5rEDlpIPjBe40A&s",
+      "fuentePagina": "https://fr.africanews.com/2017/04/29/nigeria-la-vie-desesperante-des-habitants-de-banki/",
+      "titulo": "Nigeria : la vie désespérante des habitants de Banki ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdYk2fF5OhOMDp6i4ZHLLz5rEDlpIPjBe40A&s",
+      "original": "https://static.euronews.com/articles/365196/1024x538_365196.jpg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bench/kg/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsNJMHQvxaKFjh3Z3ZzX0-vIgbDkxwK0gexw&s",
+      "fuentePagina": "https://www.doctorswithoutborders.org/latest/stories-displaced-people-banki-nigeria",
+      "titulo": "Stories From Displaced People in Banki, Nigeria | Doctors ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsNJMHQvxaKFjh3Z3ZzX0-vIgbDkxwK0gexw&s",
+      "original": "https://www.doctorswithoutborders.org/sites/default/files/msf192215_medium-banki3.jpg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bench/kg/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9PsLbo1ZuQgHW8YaGA4XOooG7woddZeVLog&s",
+      "fuentePagina": "https://www.businessincameroon.com/public-management/2202-13639-banki-market-inauguration-marks-new-era-in-nigeria-cameroon-border-trade",
+      "titulo": "Banki market inauguration marks new era in Nigeria-Cameroon ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9PsLbo1ZuQgHW8YaGA4XOooG7woddZeVLog&s",
+      "original": "https://www.businessincameroon.com/images/news/2202-13639-banki-market-inauguration-marks-new-era-in-nigeria-cameroon-border-trade_L.jpg"
+    }
+  ]
+}

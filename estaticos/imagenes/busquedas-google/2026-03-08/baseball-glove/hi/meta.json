@@ -1,0 +1,71 @@
+{
+  "categoria": "baseball glove",
+  "categoriaSlug": "baseball-glove",
+  "idioma": "hi",
+  "nombreIdioma": "हिन्दी",
+  "termino": "दस्ताना",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:03:43.486Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "hi",
+    "gl": "in"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=%E0%A4%A6%E0%A4%B8%E0%A5%8D%E0%A4%A4%E0%A4%BE%E0%A4%A8%E0%A4%BE&hl=hi&gl=in",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/baseball-glove/hi/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPHnVGYA219E3ALC_Ap5zG1Olc1Gt8lJabUA&s",
+      "fuentePagina": "https://www.amazon.in/-/hi/%E0%A4%AA%E0%A5%81%E0%A4%B0%E0%A5%81%E0%A4%B7%E0%A5%8B%E0%A4%82-%E0%A4%B6%E0%A5%80%E0%A4%A4%E0%A4%95%E0%A4%BE%E0%A4%B2%E0%A5%80%E0%A4%A8-30%E2%84%89%E0%A4%B5%E0%A4%BF%E0%A4%82%E0%A4%A1%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A5%82%E0%A4%AB-%E0%A4%B5%E0%A4%BE%E0%A4%9F%E0%A4%B0%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A5%82%E0%A4%AB-%E0%A4%B8%E0%A4%BE%E0%A4%87%E0%A4%95%E0%A4%B2%E0%A4%BF%E0%A4%82%E0%A4%97/dp/B08NW9PC9W",
+      "titulo": "पुरुषों के शीतकालीन दस्ताने -30 ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPHnVGYA219E3ALC_Ap5zG1Olc1Gt8lJabUA&s",
+      "original": "https://m.media-amazon.com/images/I/71U+bmP1mBL._AC_UF894,1000_QL80_.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/baseball-glove/hi/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKiisGCOhXAgyB_NkYv3aWJ6BatqLpYPNZCw&s",
+      "fuentePagina": "https://www.moglix.com/hi/nitrile-nylon-safety-gloves/mp/msn2vvy2opf219?srsltid=AfmBOoob-9fjhUjllm4bcIlAq0VvbMOplSBW4lquFvq3xpR_vesoxlAY",
+      "titulo": "नाइट्राइल नायलॉन सुरक्षा दस्ताने",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKiisGCOhXAgyB_NkYv3aWJ6BatqLpYPNZCw&s",
+      "original": "https://cdn.moglix.com/p/I/O/I/d/MINIOIGOIUZTS.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/baseball-glove/hi/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYh6qEtjTeJ7UlTGBhwDlSC3OLaxKdsZS71Q&s",
+      "fuentePagina": "https://www.moglix.com/hi/arcon-14-inch-split-leather-hand-gloves/mp/msne5n8lmm3ykl?srsltid=AfmBOooHazQxoDHCB3HOS2zsgUOk6odL7mjn-pcqQn02duTcdL3d7nDd",
+      "titulo": "आर्कन 14 इंच स्प्लिट लेदर हाथ के दस्ताने",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYh6qEtjTeJ7UlTGBhwDlSC3OLaxKdsZS71Q&s",
+      "original": "https://cdn.moglix.com/p/ZNWmDlsLwO8FW-xxlarge.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/baseball-glove/hi/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRoSwZ422QzMCfk9vasOyM6K5TSJWQdrr18KA&s",
+      "fuentePagina": "https://www.flipkart.com/hi/gocart-tactical-gloves-military-army-shooting-gym-fitness/p/itma6f1479d4388d",
+      "titulo": "GOCART Tactical Gloves Military Army Shooting Gym & Fitness Gloves - Buy  GOCART Tactical Gloves Military Army Shooting Gym & Fitness Gloves Online  at ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRoSwZ422QzMCfk9vasOyM6K5TSJWQdrr18KA&s",
+      "original": "https://rukminim2.flixcart.com/image/300/300/xif0q/sport-glove/w/b/a/both-hand-gloves-l-half-finger-tactical-gloves-military-army-original-imahyshjeamwt8hs.jpeg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/baseball-glove/hi/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOiyk7tJ1qQ1inalELCHEo_T0so1PhSwoXQA&s",
+      "fuentePagina": "https://www.amazon.in/-/hi/%E0%A4%A1%E0%A4%BF%E0%A4%B8%E0%A5%8D%E0%A4%AA%E0%A5%8B%E0%A4%9C%E0%A5%87%E0%A4%AC%E0%A4%B2-%E0%A4%A6%E0%A4%B8%E0%A5%8D%E0%A4%A4%E0%A4%BE%E0%A4%A8%E0%A5%87-%E0%A4%B8%E0%A4%B0%E0%A5%8D%E0%A4%9C%E0%A4%BF%E0%A4%95%E0%A4%B2-%E0%A4%A6%E0%A4%B8%E0%A5%8D%E0%A4%A4%E0%A4%BE%E0%A4%A8%E0%A5%87-%E0%A4%97%E0%A5%8D%E0%A4%B0%E0%A4%BE%E0%A4%AE/dp/B07N2TJVGX",
+      "titulo": "डिस्पोजेबल हाथ के दस्ताने ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOiyk7tJ1qQ1inalELCHEo_T0so1PhSwoXQA&s",
+      "original": "https://m.media-amazon.com/images/I/41dVDwPeauL._AC_UF1000,1000_QL80_.jpg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/baseball-glove/hi/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuvFf5BISN4YTzR7I6_pMy1ZF9MN9LK1oB3g&s",
+      "fuentePagina": "https://www.tradeindia.com/hi/products/long-lasting-black-half-finger-bike-gloves-8548742.html",
+      "titulo": "लंबे समय तक चलने वाले काले हाफ ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuvFf5BISN4YTzR7I6_pMy1ZF9MN9LK1oB3g&s",
+      "original": "https://tiimg.tistatic.com/fp/1/008/548/long-lasting-black-half-finger-bike-gloves-742.jpg"
+    }
+  ]
+}

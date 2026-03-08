@@ -1,0 +1,71 @@
+{
+  "categoria": "couch",
+  "categoriaSlug": "couch",
+  "idioma": "kg",
+  "nombreIdioma": "Kikongo",
+  "termino": "canapé",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:17:41.110Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "fr",
+    "gl": "cd"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=canap%C3%A9&hl=fr&gl=cd",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/couch/kg/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgOfx3fVi9_MHFJIVZQbTyUIyXGZzQAtDh3A&s",
+      "fuentePagina": "https://www.habitat.fr/p/ostuni-canape-3-places-en-coton-et-lin-gris-ardoise",
+      "titulo": "Ostuni - Canapé 3 places déhoussable en coton et lin assise ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgOfx3fVi9_MHFJIVZQbTyUIyXGZzQAtDh3A&s",
+      "original": "https://cdn.habitat.fr/thumbnails/product/117/117909/large/0/13530937.webp"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/couch/kg/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvsOZx8eZ9ibOlwUFgnVWqjZJXVsEh-somrA&s",
+      "fuentePagina": "https://www.homesalons.fr/canape-tissu/235-jive-canape-d-angle-tissu-l-387-x-h-87-x-p-279-cm.htm",
+      "titulo": "Canapé d'angle Jive Tissu L. 387 x H. 87 x P. 279 cm ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvsOZx8eZ9ibOlwUFgnVWqjZJXVsEh-somrA&s",
+      "original": "https://www.homesalons.fr/images/fullscreen/jive_fullscreen.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/couch/kg/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoTxyDVvRg6CijeQ6ROxJ4EpAJyMEfqdgpkw&s",
+      "fuentePagina": "https://www.hemisphere-sud.com/produit/canape-modulable-lecomte/",
+      "titulo": "Canapé modulable LECOMTE - Hémisphère Sud",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoTxyDVvRg6CijeQ6ROxJ4EpAJyMEfqdgpkw&s",
+      "original": "https://www.hemisphere-sud.com/wp-content/uploads/2024/10/canape-angle-modulable-velours-orange-rouille-lecomte-1.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/couch/kg/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSP6KNkc0YRntAcQykMP8dft0VrSnC3HpqwJw&s",
+      "fuentePagina": "https://www.intensedeco.com/canape-d-angle-droit-convertible-isaac-velours-beige.html",
+      "titulo": "Canapé d'angle droit convertible Isaac Velours Beige",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSP6KNkc0YRntAcQykMP8dft0VrSnC3HpqwJw&s",
+      "original": "https://www.intensedeco.com/media/catalog/product/cache/1/thumbnail/9df78eab33525d08d6e5fb8d27136e95/c/a/canape_d_angle_droit_isaac_p2_velours_beige_profil_coffre_decor.jpg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/couch/kg/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAjBRxExpqqanEZenYRRtXfGvCaD_cW-2I5Q&s",
+      "fuentePagina": "https://www.mobilier-deco.com/canapes-fauteuils/canape-d-angle-convertible/lohan-canape-d-angle-convertible-coffre-de-rangement-gris-et-noir-angle-gauche.html",
+      "titulo": "Mobilier Deco",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAjBRxExpqqanEZenYRRtXfGvCaD_cW-2I5Q&s",
+      "original": "https://res.cloudinary.com/deaxjme5t/image/upload/w_700,h_700,q_auto:good,f_auto,c_limit/produits/LOHAN/lohan-canape-d-angle-convertible-coffre-de-rangement-gris-et-noir-angle-gauche-4"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/couch/kg/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVe36mvjDPdoX06PxCGGMTyJJ3QbyrneFtTw&s",
+      "fuentePagina": "https://sofa-soft.fr/product/canape-modulable-cassia/",
+      "titulo": "Canapé modulable CASSIA - SOFA SOFT- Canapés, lits et ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVe36mvjDPdoX06PxCGGMTyJJ3QbyrneFtTw&s",
+      "original": "https://sofa-soft.fr/wp-content/uploads/2024/12/cassia.webp"
+    }
+  ]
+}

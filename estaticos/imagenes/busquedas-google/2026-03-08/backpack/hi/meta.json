@@ -1,0 +1,71 @@
+{
+  "categoria": "backpack",
+  "categoriaSlug": "backpack",
+  "idioma": "hi",
+  "nombreIdioma": "हिन्दी",
+  "termino": "बैग",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T20:56:30.543Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "hi",
+    "gl": "in"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=%E0%A4%AC%E0%A5%88%E0%A4%97&hl=hi&gl=in",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/backpack/hi/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1bon8aRvWOTUPCjp4_NoHj768jZAtP0YU4A&s",
+      "fuentePagina": "https://www.flipkart.com/hi/martucci-school-bags-boys-girls-ii-genuine-backpack-coaching-bag-multiuse-smart-tuition-secondary-6th-std-plus-waterproof/p/itmdc4d3ab8cb2cb",
+      "titulo": "Globalagenc \"Learning Odyssey: 32L Scholar's Stalwart Backpack\" वाटरप्रूफ",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1bon8aRvWOTUPCjp4_NoHj768jZAtP0YU4A&s",
+      "original": "https://rukminim2.flixcart.com/image/480/640/xif0q/bag/h/r/l/10-backpack-men-convertible-backpack-for-office-15-original-imagypycwsgmwaym.jpeg?q=90"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/backpack/hi/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrdOpyPV1jABnuHOgMo4wadOCceDVeHGZ17w&s",
+      "fuentePagina": "https://www.amazon.in/-/hi/HOMEDRIP-%E0%A4%AA%E0%A5%81%E0%A4%B0%E0%A5%81%E0%A4%B7%E0%A5%8B%E0%A4%82-%E0%A4%B0%E0%A5%87%E0%A4%9C%E0%A4%BC%E0%A4%BF%E0%A4%B8%E0%A5%8D%E0%A4%9F%E0%A5%87%E0%A4%82%E0%A4%9F-%E0%A4%87%E0%A4%B2%E0%A5%87%E0%A4%95%E0%A5%8D%E0%A4%9F%E0%A5%8D%E0%A4%B0%E0%A5%89%E0%A4%A8%E0%A4%BF%E0%A4%95-%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A5%8B%E0%A4%A1%E0%A4%95%E0%A5%8D%E0%A4%9F/dp/B0CSXF42PK",
+      "titulo": "HOMEDRIP mini travel bag पुरुषों के लिए ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrdOpyPV1jABnuHOgMo4wadOCceDVeHGZ17w&s",
+      "original": "https://m.media-amazon.com/images/I/617U2YqngDL._AC_UY1000_.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/backpack/hi/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlny57aw21t8_fWRFKU_7-jyN6Ygx4TFJE6g&s",
+      "fuentePagina": "https://www.flipkart.com/hi/urban-carrier-stylish-waterproof-school-bag-6th-10th-class-65-l-backpack/p/itm2822707b6063d",
+      "titulo": "urban carrier Stylish Waterproof School bag 6th to 10th ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlny57aw21t8_fWRFKU_7-jyN6Ygx4TFJE6g&s",
+      "original": "https://rukminim2.flixcart.com/image/480/640/xif0q/backpack/0/o/p/stylish-waterproof-school-bag-6th-to-10th-class-sc3-backpack-original-imagq44q5msqxqcf.jpeg?q=90"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/backpack/hi/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5GD7Lw2z8iRuvN4K64zEabYUt76l9ihqnow&s",
+      "fuentePagina": "https://www.amazon.in/-/hi/Martucci-%E0%A4%95%E0%A5%88%E0%A4%9C%E0%A4%BC%E0%A5%81%E0%A4%85%E0%A4%B2-%E0%A4%B5%E0%A4%BE%E0%A4%9F%E0%A4%B0%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A5%82%E0%A4%AB-%E0%A4%AC%E0%A5%88%E0%A4%95%E0%A4%AA%E0%A5%88%E0%A4%95-%E0%A4%AF%E0%A5%82%E0%A4%A8%E0%A4%BF%E0%A4%B8%E0%A5%87%E0%A4%95%E0%A5%8D%E0%A4%B8/dp/B0B2M8SVFH",
+      "titulo": "Martucci 16 इंच 36L कैज़ुअल वाटरप्रूफ ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5GD7Lw2z8iRuvN4K64zEabYUt76l9ihqnow&s",
+      "original": "https://m.media-amazon.com/images/I/61yMAsvoVSL._AC_UY1100_.jpg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/backpack/hi/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqv-AJNy0Y8dnhJZLmB6NV47fozoYPSLcAiQ&s",
+      "fuentePagina": "https://www.kdclick.com/hi/product/nivia-daypack-2-polyester-school-bag-adjustable-shoulder-strap-for-kids?srsltid=AfmBOooQol9yz3OLXBuMVO09qeu8ix2kiAMvR19qqFWwPwBLE1EOkiko",
+      "titulo": "निविया डेपैक 2 पॉलिएस्टर स्कूल ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqv-AJNy0Y8dnhJZLmB6NV47fozoYPSLcAiQ&s",
+      "original": "https://www.kdclick.com/s/637763a5ea78e200824eb640/65858d374708b9a99aebaeb7/1-640x640.jpg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/backpack/hi/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRensZomGTIp8hJ3g0vrOiLq8pA3CdTCJyvlQ&s",
+      "fuentePagina": "https://gentcreate.com/hi/products/large-canvas-duffle-bag-travel?srsltid=AfmBOor_nATKI1qxldrm4quyyDHyVNEnJ6ER00S3o4G4jbIFAi7D-mAr",
+      "titulo": "Large Canvas Duffle Bag \"Travel\" | GENTCREATE",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRensZomGTIp8hJ3g0vrOiLq8pA3CdTCJyvlQ&s",
+      "original": "https://gentcreate.com/cdn/shop/products/1141098630242_804x.png?v=1705520822"
+    }
+  ]
+}

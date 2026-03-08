@@ -1,0 +1,71 @@
+{
+  "categoria": "keyboard",
+  "categoriaSlug": "keyboard",
+  "idioma": "rw",
+  "nombreIdioma": "Kinyarwanda",
+  "termino": "keyboard",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:23:34.609Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "en",
+    "gl": "rw"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=keyboard&hl=en&gl=rw",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/keyboard/rw/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8jj9xkbOJwIuhuDz2J4CofR7zLdqYe63r0Q&s",
+      "fuentePagina": "https://geemarc.com/uk/product/standard-keyboard/",
+      "titulo": "Standard KEYBOARD - Black - Geemarc UK",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8jj9xkbOJwIuhuDz2J4CofR7zLdqYe63r0Q&s",
+      "original": "https://geemarc.com/uk/wp-content/uploads/sites/2/2018/05/KBS-V3-UK-scaled.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/keyboard/rw/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhJoX1PJf3fj5fcI1gWt5TyI4FzZKUrV42nw&s",
+      "fuentePagina": "https://www.fingers.co.in/computer-peripherals/keyboards/butterclicks",
+      "titulo": "ButterClicks Wired Keyboard - Smooth Typing | FINGERS",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhJoX1PJf3fj5fcI1gWt5TyI4FzZKUrV42nw&s",
+      "original": "https://www.fingers.co.in/secure/api/uploads/products/1662639724_2.png"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/keyboard/rw/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSENOX-_fz_7n8WZ3_dYEXzEjlhU6iv3ZQgRQ&s",
+      "fuentePagina": "https://plugable.com/products/usb-mech87rw?srsltid=ARcRdnpbMhkiW99KdliIhMV5ysuTMvWedIv2HwauNM8GFpReGZTkvYla",
+      "titulo": "Plugable Compact 87-Key Mechanical Keyboard With Red-Style ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSENOX-_fz_7n8WZ3_dYEXzEjlhU6iv3ZQgRQ&s",
+      "original": "http://plugable.com/cdn/shop/products/main_ori_a75270bf-0b1c-4635-a2ee-ba25c1339b80.jpg?v=1645482748"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/keyboard/rw/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2URmmUVyeBcbUGEATKn8lQR_L1rQundWEcQ&s",
+      "fuentePagina": "https://www.amazon.com/Manhattan-104-key-Keyboard-Built-Indicator/dp/B07RQVB3HQ",
+      "titulo": "Amazon.com: Manhattan Wired Computer Keyboard – Basic Black ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2URmmUVyeBcbUGEATKn8lQR_L1rQundWEcQ&s",
+      "original": "https://m.media-amazon.com/images/I/71zMsBPu3qL._AC_UF894,1000_QL80_.jpg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/keyboard/rw/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwe3VNIWjtkxLF6_10zQuBIDnjvpHYx5nHwA&s",
+      "fuentePagina": "https://www.wired.com/gallery/best-mechanical-keyboards/",
+      "titulo": "10 Best Mechanical Keyboards (2025), Tested and Reviewed | WIRED",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwe3VNIWjtkxLF6_10zQuBIDnjvpHYx5nHwA&s",
+      "original": "https://media.wired.com/photos/681ac7fd9837f8e72253f356/4:3/w_640%2Cc_limit/Lofree-Flow84-Mechanical-Keyboard-Top-View-Reviewer-Photo-SOURCE-Henri-Robbins.jpg.jpg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/keyboard/rw/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGjiGpp4O2EYbaQx8Ol08RHCn7Df4lrO3P9Q&s",
+      "fuentePagina": "https://www.ubuy.fr/en/product/41FRPGO0Y-snpurdiri-60-wired-gaming-keyboard-rgb-backlit-ultra-compact-mini-keyboard-waterproof-mini-compact-61-keys-keyboard-for-pc-mac-gamer-typist?srsltid=ARcRdnr-MDdAnGJcD-orCQevUyFVrjn2yXvGixE71bLnadWN2jRECH30",
+      "titulo": "Snpurdiri 60% Wired Gaming Keyboard, RGB Backlit France | Ubuy",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGjiGpp4O2EYbaQx8Ol08RHCn7Df4lrO3P9Q&s",
+      "original": "https://m.media-amazon.com/images/I/71+p3Hx03dL._AC_SL1000__.jpg"
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "categoria": "apple",
+  "categoriaSlug": "apple",
+  "idioma": "am",
+  "nombreIdioma": "Amharic — አማርኛ",
+  "termino": "ፖም",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:11:28.187Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "am",
+    "gl": "et"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=%E1%8D%96%E1%88%9D&hl=am&gl=et",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/apple/am/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjYnlEwuI6ESGaouf16QYduT685fCsbFWL9Q&s",
+      "fuentePagina": "https://am.wikipedia.org/wiki/%E1%8D%96%E1%88%9D",
+      "titulo": "ውክፔዲያ - ፖም",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjYnlEwuI6ESGaouf16QYduT685fCsbFWL9Q&s",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Red_Apple.jpg/1280px-Red_Apple.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/apple/am/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-LKUDrR2aBUUHXEjCOZmPEG7WDUYS7aLsPA&s",
+      "fuentePagina": "https://www.facebook.com/EthioDailyPost/posts/%E1%8B%A8%E1%8D%96%E1%88%9D-%E1%8B%A8%E1%8C%A4%E1%8A%93-%E1%8C%A5%E1%89%85%E1%88%9E%E1%89%BD-%E1%8D%96%E1%88%9D-%E1%89%A0%E1%88%9D%E1%8C%8D%E1%89%A5-%E1%8B%AD%E1%8B%98%E1%89%B1-%E1%89%AB%E1%8B%AD%E1%89%B3%E1%88%9A%E1%8A%95-%E1%88%B2-%E1%89%AB%E1%8B%AD%E1%89%B3%E1%88%9A%E1%8A%95-%E1%89%A2-%E1%88%AA%E1%89%A6%E1%8D%8D%E1%88%8B%E1%89%AA%E1%8A%95-%E1%89%AB%E1%8B%AD%E1%89%B3%E1%8B%AB%E1%88%9A%E1%8A%95-%E1%89%AB%E1%8B%AD%E1%89%B3%E1%88%9A%E1%8A%95-%E1%89%A2-%E1%88%B5%E1%8B%B5%E1%88%B5%E1%89%B5-%E1%8D%8B%E1%8B%AD%E1%89%B6-%E1%8A%AC%E1%88%9A%E1%8A%AB%E1%88%8D%E1%88%B5-%E1%8A%A5%E1%88%9A/2020192384926370/",
+      "titulo": "የፖም የጤና ጥቅሞች ፖም በምግብ ይዘቱ ቫይታሚን ሲ ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-LKUDrR2aBUUHXEjCOZmPEG7WDUYS7aLsPA&s",
+      "original": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=2020192034926405"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/apple/am/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvU9qaM3ITDHr4u9aGtP8lWylwjFjUwHioiQ&s",
+      "fuentePagina": "https://arayaz24.wordpress.com/2019/01/30/%E1%8D%96%E1%88%9D-%E1%88%88%E1%8C%A4%E1%8A%93-%E1%8B%AB%E1%88%88%E1%8B%8D-%E1%8C%A5%E1%89%85%E1%88%9D%E1%8A%93-%E1%8C%A5%E1%8A%95%E1%89%83%E1%89%84%E1%8B%8D-araya-zesolomon/",
+      "titulo": "ፖም – ለጤና ያለው ጥቅምና ጥንቃቄው |Araya Zesolomon ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvU9qaM3ITDHr4u9aGtP8lWylwjFjUwHioiQ&s",
+      "original": "https://arayaz24.wordpress.com/wp-content/uploads/2019/01/photoeditor_20190130_175818883-1438399424.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/apple/am/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpf7H9FPhQMs92_-FlTfbVDHjjfzMl7Nk6Lw&s",
+      "fuentePagina": "https://www.facebook.com/Hawassaonline/posts/%E1%8D%96%E1%88%9D-%E1%88%88%E1%8C%A4%E1%8A%93-%E1%8B%AB%E1%88%88%E1%8B%8D-%E1%8C%A5%E1%89%85%E1%88%9D%E1%8A%93-%E1%8C%A5%E1%8A%95%E1%89%83%E1%89%84%E1%8B%8D-crazy-facts-about-the-fruit%E1%8D%96%E1%88%9D-%E1%8C%AD%E1%88%9B%E1%89%82%E1%8B%8E%E1%89%BD-%E1%8D%93%E1%88%B5%E1%89%B8%E1%88%AB%E1%8B%AD%E1%8B%9D%E1%8B%B5-%E1%88%98%E1%88%86%E1%8A%93%E1%89%B8%E1%8B%8D%E1%8A%95-%E1%8A%A0%E1%88%A8%E1%8C%8B%E1%8C%8D%E1%8C%A1%E1%8B%A8%E1%88%98/1586535928121873/",
+      "titulo": "ፖም – ለጤና ያለው ጥቅምና ጥንቃቄው – Crazy Facts About ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpf7H9FPhQMs92_-FlTfbVDHjjfzMl7Nk6Lw&s",
+      "original": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=1586533901455409"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/apple/am/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVDnRMXEcAz9hOmg_nKHLu_U9p3HUp7yKiZg&s",
+      "fuentePagina": "https://www.facebook.com/photo.php?fbid=1913773342234942&set=a.638646421634943&id=100064687720155",
+      "titulo": "Ethio - ፖም /Apple/ ጥቅሞች ፖም በጣም በርካታ ሊባሉ ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVDnRMXEcAz9hOmg_nKHLu_U9p3HUp7yKiZg&s",
+      "original": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=1913773342234942"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/apple/am/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuWyKQdAkAij4ccuUf7KuHOfCPzE00OscmTg&s",
+      "fuentePagina": "https://www.facebook.com/1708828192739871/photos/%E1%8A%A0%E1%8D%95%E1%88%8D_%E1%89%A0%E1%8B%A8%E1%89%80%E1%8A%91_%E1%8B%A8%E1%88%98%E1%88%98%E1%8C%88%E1%89%A5_%E1%8C%A0%E1%89%80%E1%88%9C%E1%89%B3%E1%8A%A0%E1%8A%95%E1%8B%B5-%E1%89%80%E1%8A%95-%E1%8A%A0%E1%8A%95%E1%8B%B5-%E1%8D%96%E1%88%9D-%E1%88%98%E1%88%98%E1%8C%88%E1%89%A5-%E1%88%80%E1%8A%AA%E1%88%99%E1%8A%95-%E1%8B%AB%E1%88%AD%E1%89%83%E1%88%8D-%E1%8B%A8%E1%88%9A%E1%88%8D-%E1%8B%A8%E1%89%86%E1%8B%A8-%E1%8A%A0%E1%89%A3%E1%89%A3%E1%88%8D-%E1%89%A2%E1%8A%96%E1%88%AD%E1%88%9D-%E1%8A%A5%E1%88%B5%E1%8A%A8%E1%8B%9B%E1%88%AC%E1%88%9D-%E1%8B%B5%E1%88%A8%E1%88%B5-%E1%8A%A5%E1%8B%8D%E1%8A%90/2673956222893725/",
+      "titulo": "Selam - #አፕል_በየቀኑ_የመመገብ_ጠቀሜታ አንድ ቀን ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuWyKQdAkAij4ccuUf7KuHOfCPzE00OscmTg&s",
+      "original": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=2673956222893725"
+    }
+  ]
+}

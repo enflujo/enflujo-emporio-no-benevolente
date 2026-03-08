@@ -1,0 +1,71 @@
+{
+  "categoria": "baseball bat",
+  "categoriaSlug": "baseball-bat",
+  "idioma": "gn",
+  "nombreIdioma": "Guaraní",
+  "termino": "bate",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:03:04.845Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "es",
+    "gl": "py"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=bate&hl=es&gl=py",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/baseball-bat/gn/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0ZqbuncuuB3zxj0pqKtiGTRFv2VQ4bAAedg&s",
+      "fuentePagina": "https://www.amazon.com/-/es/b%C3%A9isbol-pulgadas-defensa-personal-entrenamiento/dp/B0FBFS2645",
+      "titulo": "Amazon.com: Bate de béisbol de madera, mini bates de béisbol ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0ZqbuncuuB3zxj0pqKtiGTRFv2VQ4bAAedg&s",
+      "original": "https://m.media-amazon.com/images/I/51uJ0ohn2bL._AC_UF1000,1000_QL80_.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/baseball-bat/gn/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSL9AtIwRQjhd9LTCjq3MkNfz_BAJ8Eu34nQ&s",
+      "fuentePagina": "https://ficcion-sin-limites.fandom.com/es/wiki/Bate_de_B%C3%A9isbol",
+      "titulo": "Bate de Béisbol | Ficción Sin Límites Wiki | Fandom",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSL9AtIwRQjhd9LTCjq3MkNfz_BAJ8Eu34nQ&s",
+      "original": "https://static.wikia.nocookie.net/ficcion-sin-limites/images/a/ad/Bat.png/revision/latest?cb=20210326055538&path-prefix=es"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/baseball-bat/gn/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTD62TJ-Q68jwQq4-jnrEJsc-4gtwpokr-HqA&s",
+      "fuentePagina": "https://syopar.com.py/products/bate-de-beisbol-aluminio-colores-varios",
+      "titulo": "Bate de Beisbol Aluminio Colores Varios – Syopar",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTD62TJ-Q68jwQq4-jnrEJsc-4gtwpokr-HqA&s",
+      "original": "https://syopar.com.py/cdn/shop/files/63_93.png?v=1748623834"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/baseball-bat/gn/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0BNk6XZquyme3Bv913gGWqF-dyCEKkepV-A&s",
+      "fuentePagina": "https://www.jdmshop.com.py/bate-aluminio-p346",
+      "titulo": "BATE ALUMINIO",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0BNk6XZquyme3Bv913gGWqF-dyCEKkepV-A&s",
+      "original": "https://www.jdmshop.com.py/userfiles/images/productos/600/bate-aluminio.jpg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/baseball-bat/gn/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSG9zbty4jppqTpuZF5gYNYmLxZAT8X742VQ&s",
+      "fuentePagina": "https://www.amazon.com/-/es/b%C3%A9isbol-pr%C3%A1ctica-defensa-personal-resistencia/dp/B09LR55QNW",
+      "titulo": "Amazon.com: Bate de béisbol de madera maciza de roble, palo ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSG9zbty4jppqTpuZF5gYNYmLxZAT8X742VQ&s",
+      "original": "https://m.media-amazon.com/images/I/71rNQkrMsPL._AC_UF894,1000_QL80_.jpg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/baseball-bat/gn/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrEBiAYqowzp0qyBSLv2-k0DfV77EqXFkFng&s",
+      "fuentePagina": "https://deportesregol.com/products/bate-beisbol-wonder-30-pulgadas-2?srsltid=AfmBOoq85aAKIPmMckeSxn_mOX8-NxT2qhztQ8AQhE0fwg5-E0M0ByDm",
+      "titulo": "Bate Baseball Wonder 29 Pulgadas – Regol",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrEBiAYqowzp0qyBSLv2-k0DfV77EqXFkFng&s",
+      "original": "https://deportesregol.com/cdn/shop/files/5051_Bate_Beisbol_Wonder_Gris_30_Pulgadas_-1_1024x1024.jpg?v=1742200422"
+    }
+  ]
+}

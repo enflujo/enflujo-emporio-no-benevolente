@@ -1,0 +1,71 @@
+{
+  "categoria": "scissors",
+  "categoriaSlug": "scissors",
+  "idioma": "fr",
+  "nombreIdioma": "Français",
+  "termino": "ciseaux",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:30:17.958Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "fr",
+    "gl": "be"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=ciseaux&hl=fr&gl=be",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/scissors/fr/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbIL7C0d3AFe1RmHvf-cJDWfS6TwpUkY8MhQ&s",
+      "fuentePagina": "https://fr.knivesandtools.be/fr/pt/-victorinox-8091924-ciseaux-de-tailleur-26-cm.htm",
+      "titulo": "Victorinox 8.0919.24 ciseaux de tailleur 26 cm",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbIL7C0d3AFe1RmHvf-cJDWfS6TwpUkY8MhQ&s",
+      "original": "https://assets.katogroup.eu/i/katogroup/VT8-0919-24_02_victorinox?%24product-image%24=&fmt=auto&h=434&w=652"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/scissors/fr/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0DGqB-J7Np0DkURlqkkCXeWbTGGQCMhCwMQ&s",
+      "fuentePagina": "https://www.geant-beaux-arts.be/ciseaux-ecolier.html",
+      "titulo": "Ciseaux écolier",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0DGqB-J7Np0DkURlqkkCXeWbTGGQCMhCwMQ&s",
+      "original": "https://images.geant-beaux-arts.be/out/pictures/generated/1500_1500/388056/Ciseaux+%C3%A9colier.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/scissors/fr/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhzpzO7r-hwb6df9aRsrStBrTlMx4LQzNlJA&s",
+      "fuentePagina": "https://www.vbs-hobby.be/fr/ciseaux-pour-enfants-vbs-bouts-ronds-a18234/?srsltid=AfmBOopg2bscDu3F3hGY4ULnRNrQf8csVZ1DRDRqa1dfD8aBTrd3u3UJ",
+      "titulo": "Ciseaux pour enfants VBS « Bouts ronds » | VBS Boutique de ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhzpzO7r-hwb6df9aRsrStBrTlMx4LQzNlJA&s",
+      "original": "https://www.vbs-hobby.be/media/prodimg/52/prodimg/1167418_520713_H-20240313.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/scissors/fr/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcR5GsycraxLYSC2bGQqPz69qxlXIy26YQLA&s",
+      "fuentePagina": "https://www.amazon.com.be/Westcott-00-Ciseaux-Softgrip-droitier/dp/B01BSSEYBS",
+      "titulo": "Westcott E-21580 00 Ciseaux pour enfants Softgrip Pour ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcR5GsycraxLYSC2bGQqPz69qxlXIy26YQLA&s",
+      "original": "https://m.media-amazon.com/images/I/61UwNLmhPeL.jpg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/scissors/fr/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcNuKbxBT3GodJGSFLY1v_xl6Lf4pfMbPydg&s",
+      "fuentePagina": "https://www.geant-beaux-arts.be/ciseaux-pour-enfants-a-bout-pointu.html",
+      "titulo": "Ciseaux pour enfants à bout pointu",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcNuKbxBT3GodJGSFLY1v_xl6Lf4pfMbPydg&s",
+      "original": "https://images.geant-beaux-arts.be/out/pictures/generated/1500_1500/370221/Ciseaux+pour+enfants+%C3%A0+bout+pointu.jpg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/scissors/fr/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXNZJsrlgTIr9WDUGYhDrt7lfslW0m-sy6zQ&s",
+      "fuentePagina": "https://www.fiducial-office-solutions.be/fr_BE/paire-ciseaux-bout-rond-13-cm-p-106469.html",
+      "titulo": "Ciseaux à bouts ronds",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXNZJsrlgTIr9WDUGYhDrt7lfslW0m-sy6zQ&s",
+      "original": "https://www.fiducial-office-solutions.be/INTERSHOP/static/WFS/FOS-BE-Site/-/FOS/fr_BE/L/106469/106469_a.webp"
+    }
+  ]
+}

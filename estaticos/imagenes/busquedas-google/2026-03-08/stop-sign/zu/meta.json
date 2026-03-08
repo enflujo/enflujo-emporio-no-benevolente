@@ -1,0 +1,71 @@
+{
+  "categoria": "stop sign",
+  "categoriaSlug": "stop-sign",
+  "idioma": "zu",
+  "nombreIdioma": "isiZulu",
+  "termino": "uphawu lokuma",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T20:47:55.573Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "zu",
+    "gl": "za"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=uphawu%20lokuma&hl=zu&gl=za",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/stop-sign/zu/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxYbv-xMW3Ps_JxTNN5SKa33uKvJmgbY1I_A&s",
+      "fuentePagina": "https://askfilo.com/user-question-answers-smart-solutions/1-2-bukisisa-umbhalo-b-bese-upho-umbhalo-b-obukwayo-3436353532393239",
+      "titulo": "1.2 Bukisisa UMBHALO B bese upho UMBHALO B (OBUKWAYO ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxYbv-xMW3Ps_JxTNN5SKa33uKvJmgbY1I_A&s",
+      "original": "https://filo-question-diagrams.cdn.askfilo.com/6909381_QnbSII_1771228817695425922_1000063468.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/stop-sign/zu/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyaFVWkLP8mI4J_aWy9o4LT5mgKjdChhWHkA&s",
+      "fuentePagina": "https://www.tiktok.com/@recept_i_nenes/video/7286389559737322785",
+      "titulo": "Lokum: Tradicional Albanian Dessert with Walnuts",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyaFVWkLP8mI4J_aWy9o4LT5mgKjdChhWHkA&s",
+      "original": "https://www.tiktok.com/api/img/?itemId=7286389559737322785&location=0&aid=1988"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/stop-sign/zu/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQ5LuwdtK2iuYjqKQPAnTmhEEM3K9G2qMhOA&s",
+      "fuentePagina": "https://www.packagingmic.com/xh/market-segements/",
+      "titulo": "Imveliso yokwahlulahlula iMarike, Ababoneleli | Abavelisi ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQ5LuwdtK2iuYjqKQPAnTmhEEM3K9G2qMhOA&s",
+      "original": "https://cdn.globalso.com/packagingmic/94395a1817dcf4c4fd754c051b13e06f.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/stop-sign/zu/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZ9nlP4EMpMH-HP4RDTVWE6P3nRjHuD499Rw&s",
+      "fuentePagina": "https://www.ypak-packaging.com/xh/news/the-ultimate-guide-to-cannabis-packaging-design-from-compliance-to-customer-appeal/",
+      "titulo": "Iindaba - Isikhokelo soYilo lokuPakisha iCannabis ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZ9nlP4EMpMH-HP4RDTVWE6P3nRjHuD499Rw&s",
+      "original": "https://www.ypak-packaging.com/uploads/1273.png"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/stop-sign/zu/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYvTOeiswHbsc53L-HI0AaSF2QLQnhe6kz-g&s",
+      "fuentePagina": "https://zu.wistronchina.com/key-road-safety-devices-their-roles-and-how-to-use-them/",
+      "titulo": "Amadivayisi Abalulekile Okuphepha Emgwaqeni: Izindima Zawo ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYvTOeiswHbsc53L-HI0AaSF2QLQnhe6kz-g&s",
+      "original": "https://www.wistronchina.com/wp-content/uploads/2024/09/1080%E5%B1%95%E7%A4%BA.jpg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/stop-sign/zu/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYpgl7NnVk-Zxfb2iJ4ehLqVT9C4lmbkkwAQ&s",
+      "fuentePagina": "https://turkishstylecooking.com/starch-cake-lokum-recipe.html",
+      "titulo": "Starch Cake Lokum Recipe",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYpgl7NnVk-Zxfb2iJ4ehLqVT9C4lmbkkwAQ&s",
+      "original": "https://turkishstylecooking.com/wp-content/uploads/2013/12/nisastali_kek_lokumu2.jpg"
+    }
+  ]
+}

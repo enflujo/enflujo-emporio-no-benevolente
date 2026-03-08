@@ -1,0 +1,71 @@
+{
+  "categoria": "wine glass",
+  "categoriaSlug": "wine-glass",
+  "idioma": "rw",
+  "nombreIdioma": "Kinyarwanda",
+  "termino": "inzogera y'inzoga",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:06:43.506Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "en",
+    "gl": "rw"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=inzogera%20y'inzoga&hl=en&gl=rw",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/wine-glass/rw/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCiFDhwX0zCSABisiozh8NTixUifHlHfoi3A&s",
+      "fuentePagina": "https://rw.wikipedia.org/wiki/Inzoga",
+      "titulo": "Inzoga - Wikipedia",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCiFDhwX0zCSABisiozh8NTixUifHlHfoi3A&s",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Weizenbier-ukko.jpg/960px-Weizenbier-ukko.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/wine-glass/rw/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQU6DM6bSygOGdhWNVh7wtL3unEFise_lQ7Sw&s",
+      "fuentePagina": "https://www.kigalitoday.com/amakuru/mu-rwanda/article/nirda-yiteguye-gufatanya-n-uwashaka-umusemburo-w-inzoga-y-ibitoki",
+      "titulo": "NIRDA yiteguye gufatanya n'uwashaka umusemburo w'inzoga y ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQU6DM6bSygOGdhWNVh7wtL3unEFise_lQ7Sw&s",
+      "original": "https://www.kigalitoday.com/IMG/jpg/inzoga_y_ibitoki_urwagwa_rwakorewe_muri_nirda_.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/wine-glass/rw/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4TL8-Iozef72nfFjrOAQUspTRmlHBw7FOkA&s",
+      "fuentePagina": "https://www.youtube.com/watch?v=28KQDgs-wa4",
+      "titulo": "Amateka y' inzoga nuko zikorwa by ISMAEL Mwanafunzi",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4TL8-Iozef72nfFjrOAQUspTRmlHBw7FOkA&s",
+      "original": "https://i.ytimg.com/vi/28KQDgs-wa4/maxresdefault.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/wine-glass/rw/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjYEt1dGipjzPXM9Pr7_oAHNChL44Z1Ncvrg&s",
+      "fuentePagina": "https://www.isangostar.rw/kunywa-inzoga-nyinshi-biri-mu-byongera-ibyago-byo-kurwara-indwara-zitandura",
+      "titulo": "Kunywa inzoga nyinshi biri mu byongera ibyago byo kurwara ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjYEt1dGipjzPXM9Pr7_oAHNChL44Z1Ncvrg&s",
+      "original": "https://www.isangostar.rw/uploads/images/2023/05/image_750x_647605da42099.jpg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/wine-glass/rw/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbQPGTqkklJaO9pJhXDTIk_pmSgE8btdqK9A&s",
+      "fuentePagina": "https://umutihealth.com/inzoga-nyinshi/",
+      "titulo": "Inzoga nyinshi ibyo zihindura ku ngirangingo z'ingenzi mu mubiri",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbQPGTqkklJaO9pJhXDTIk_pmSgE8btdqK9A&s",
+      "original": "https://umutihealth.com/wp-content/uploads/2018/04/Inzoga-nyinshi-ku-mubiri-2.jpg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/wine-glass/rw/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcReII5-wVsPmAqV9S3YCNBUDryd_NMt2LaWLw&s",
+      "fuentePagina": "https://igihe.com/amakuru/utuntu-n-utundi/article/inzoga-zibamo-iki-gituma-uwanyoye-nyinshi-ata-ubwenge",
+      "titulo": "Inzoga zibamo iki gituma uwanyoye nyinshi ata ubwenge? | IGIHE",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcReII5-wVsPmAqV9S3YCNBUDryd_NMt2LaWLw&s",
+      "original": "https://igihe.com/IMG/arton128367.jpg?1578118965"
+    }
+  ]
+}

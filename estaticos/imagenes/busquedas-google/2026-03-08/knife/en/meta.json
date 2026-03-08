@@ -1,0 +1,71 @@
+{
+  "categoria": "knife",
+  "categoriaSlug": "knife",
+  "idioma": "en",
+  "nombreIdioma": "English",
+  "termino": "knife",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:08:31.820Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "en",
+    "gl": "us"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=knife&hl=en&gl=us",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/knife/en/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRO82I3YEaBiHwcIysxGUcLPFiFvvTnc3jfvg&s",
+      "fuentePagina": "https://www.opinel-usa.com/products/no-15-effile-stainless-steel-slim-folding-knife",
+      "titulo": "Skinny Knife No.15 Effilé - Opinel USA - OPINEL USA",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRO82I3YEaBiHwcIysxGUcLPFiFvvTnc3jfvg&s",
+      "original": "https://www.opinel-usa.com/cdn/shop/files/No_15-Effile-Stainless-Steel-Filleting-Folding-Knife-Slim-7_2000x.jpg?v=1744750885"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/knife/en/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFMW0k_zeGNxqdIbW_9HafRQojK-mJW4mh3Q&s",
+      "fuentePagina": "https://silverstag.com/products/limited-edition-custom-all-purpose-chef-camp-knife-apcc7-0le",
+      "titulo": "LIMITED EDITION CUSTOM ALL PURPOSE CHEF & CAMP KNIFE – APCC7 ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFMW0k_zeGNxqdIbW_9HafRQojK-mJW4mh3Q&s",
+      "original": "https://silverstag.com/cdn/shop/files/APCC7.0LEA1200X864_1200x.jpg?v=1726680933"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/knife/en/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQv0twzbg4QFLAv6d6AbmTMo6VVi_bM6CMBfw&s",
+      "fuentePagina": "https://strongwaytools.com/product/small-knife-with-stainless-steel-blade-and-stabilized-thermo-ash-handle/?srsltid=AfmBOoo9Vrv15lURvnlGaejAa3OkmZcFwwyEAkkpBa14SOEqoCaHrDkj",
+      "titulo": "Small Knife with Stainless Steel Blade and Stabilized Thermo Ash Handle",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQv0twzbg4QFLAv6d6AbmTMo6VVi_bM6CMBfw&s",
+      "original": "https://strongwaytools.com/wp-content/uploads/2024/08/70027@2.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/knife/en/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0y6nsVzke9MaG47SuORn11V8W5D4w2sGPhg&s",
+      "fuentePagina": "https://www.wulflund.com/holt-bowie-knife-with-antler-hamon-hardening",
+      "titulo": "HOLT, Bowie knife with antler, hamon hardening Wulflund",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0y6nsVzke9MaG47SuORn11V8W5D4w2sGPhg&s",
+      "original": "https://i00.eu/img/602/1024x1024/ai2eygmh/100277.jpg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/knife/en/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTf2RUGyKg-6DRBKE9pBAEBF06eCxFXRFuSRw&s",
+      "fuentePagina": "https://www.eka1882.com/en/product/eka-chef-knife-orange-20cm?srsltid=AfmBOor0i5DmLReeG9V4-ryfvvWTkQ0gTB0ZNlhB8t-faKZ7PT-qIpy4",
+      "titulo": "Professional knives for Chefs crafted by experts. High ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTf2RUGyKg-6DRBKE9pBAEBF06eCxFXRFuSRw&s",
+      "original": "https://cdn.starwebserver.se/shops/ekaknivar/files/butcher-chef-knife-20-4.webp"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/knife/en/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKX71h2PVJTQgYvnhyNil3-JRMeol5XZ30zw&s",
+      "fuentePagina": "https://www.amazon.com/Chef-Knife-Clad-Steel-Sheath/dp/B0B4R8XRLP",
+      "titulo": "Amazon.com: HEZHEN- 8.5” Chef Knife, 3 Layers High Carbon ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKX71h2PVJTQgYvnhyNil3-JRMeol5XZ30zw&s",
+      "original": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/0fc01496-aec0-4b95-bfdd-854b68505242.__CR0,0,800,600_PT0_SX800_V1___.jpg"
+    }
+  ]
+}

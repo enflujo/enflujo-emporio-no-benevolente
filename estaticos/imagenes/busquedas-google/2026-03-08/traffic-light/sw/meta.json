@@ -1,0 +1,71 @@
+{
+  "categoria": "traffic light",
+  "categoriaSlug": "traffic-light",
+  "idioma": "sw",
+  "nombreIdioma": "Kiswahili",
+  "termino": "taa ya barabara",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T20:46:17.258Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "sw",
+    "gl": "tz"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=taa%20ya%20barabara&hl=sw&gl=tz",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/traffic-light/sw/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDUo7EV8XxMr2plVxpeLwUZFh_Q2GSAH_rOg&s",
+      "fuentePagina": "https://www.dimaonline.co.tz/2024/01/taa-za-barabarani-zilivyo-na-umuhimu.html",
+      "titulo": "TAA BARABARANI ZILIVYO NA UMUHIMU JAPO ZINA HUJUMIWA - DIMA ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDUo7EV8XxMr2plVxpeLwUZFh_Q2GSAH_rOg&s",
+      "original": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhqGmYwrYHZnW7vQAeUyVJV9_-GCg63kFfggDuRGDQBlL5u3eUKnkczHRfCdzrM1nGnzXpoUkt3Ex8GNiltybDkmHjGzL5nEciUf11mCWayZEdyUSgB3WVIcAtQIMBI8HS5BVrrUbNP_050ykppa-i0Hfwn1OemFqyLya2bdyn-YWbrmenAAIXyUF14ma9I/s320/IMG-20240118-WA0094.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/traffic-light/sw/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-HqL7wiRw93i-A_KOcYemK8HUKVE_cZm8NQ&s",
+      "fuentePagina": "https://www.temesa.go.tz/news/dar-es-salaam-bus-rapid-transit-project-phase-ii-traffic-lights-project-will-develop-temesa-technicians-skills",
+      "titulo": "Home | TEMESA",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-HqL7wiRw93i-A_KOcYemK8HUKVE_cZm8NQ&s",
+      "original": "https://www.temesa.go.tz/uploads/news/316ce849cddf81ebd65aca897aec25ad"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/traffic-light/sw/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtUglTtPOFS9DHYaw0gGLr_UHKsnYhbtOFGA&s",
+      "fuentePagina": "https://www.yingbinsolar.com/sw/news/all-levels-of-road-lighting-street-lamp-selection-suggestions/",
+      "titulo": "Viwango vyote vya mapendekezo ya uteuzi wa taa za barabarani ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtUglTtPOFS9DHYaw0gGLr_UHKsnYhbtOFGA&s",
+      "original": "https://ecdn6.globalso.com/upload/p/373/image_news/2023-12/65794fa7b7f0225999.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/traffic-light/sw/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRffEknfolXjVrpaNXHKUNV3qOs9BB2qnyQYg&s",
+      "fuentePagina": "https://www.nbrealled.com/sw/product-tag/taa-ya-barabara-ya-blulevard/",
+      "titulo": "taa ya barabara ya blulevard - Taa ya barabara iliyoongozwa ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRffEknfolXjVrpaNXHKUNV3qOs9BB2qnyQYg&s",
+      "original": "https://www.nbrealled.com/wp-content/uploads/2023/10/round-solar-street-bollard-3.webp"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/traffic-light/sw/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZwd-SPiwsPunFqKDSC2gTLveWhI3VklOd-A&s",
+      "fuentePagina": "http://sw.hongzhungroup.com/dusk-to-dawn-led-solar-street-lights-outdoor-motion-sensor-solar-security-led-lamp-for-street-yard-garden-parking-lot-product/",
+      "titulo": "Jioni hadi Alfajiri Taa za Mtaa wa Sola za LED za Nje Sensor ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZwd-SPiwsPunFqKDSC2gTLveWhI3VklOd-A&s",
+      "original": "http://cdn.globalso.com/hongzhungroup/18.jpg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/traffic-light/sw/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnpkIyIRRwM1AIH1RVfKT1rnsfvQTQOssKOg&s",
+      "fuentePagina": "https://jambofm.co.tz/tanroads-yafunga-taa-300-geita/",
+      "titulo": "TANROADS yafunga taa 300 Geita - Jambo FM Radio Tanzania",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnpkIyIRRwM1AIH1RVfKT1rnsfvQTQOssKOg&s",
+      "original": "https://jambofm.co.tz/wp-content/uploads/2024/04/photo_2024-04-15_06-32-36-1024x576.webp"
+    }
+  ]
+}

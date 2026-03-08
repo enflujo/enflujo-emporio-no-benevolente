@@ -1,0 +1,71 @@
+{
+  "categoria": "couch",
+  "categoriaSlug": "couch",
+  "idioma": "zh",
+  "nombreIdioma": "中文",
+  "termino": "沙发",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:18:04.433Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "zh-CN",
+    "gl": "cn"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=%E6%B2%99%E5%8F%91&hl=zh-CN&gl=cn",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/couch/zh/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbJpFKNBvSvprKw7MpxA9UoBbPTF5NcdQzgQ&s",
+      "fuentePagina": "https://www.boconcept.com/zh-cn/p/taylor/4990390-14:3142/",
+      "titulo": "Taylor沙发床W140xL200cm | sofa bed | Taylor | Henrik ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbJpFKNBvSvprKw7MpxA9UoBbPTF5NcdQzgQ&s",
+      "original": "https://assets.boconcept.com/92073bfa-3a59-4ce2-bac4-ad43018a4429/1560789_PNG-Web%2072dpi.png?format=webply&fit=bounds&width=3020&quality=75"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/couch/zh/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSS6iizxn_f8c6yyaQmrUXgLUdZH_zQFDFueQ&s",
+      "fuentePagina": "https://www.ikea.cn/cn/zh/p/rullerum-lu-le-lu-mu-shuang-ren-sha-fa-pei-dian-dong-tang-yi-ge-lan-bang-si-ta-mi-huang-se-20594236/",
+      "titulo": "RULLERUM 鲁勒鲁姆双人沙发，配电动躺椅哥兰/邦斯塔米黄色- IKEA",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSS6iizxn_f8c6yyaQmrUXgLUdZH_zQFDFueQ&s",
+      "original": "https://file.app.ikea.cn/cn/zh/images/products/rullerum-lu-le-lu-mu-shuang-ren-sha-fa-pei-dian-dong-tang-yi-ge-lan-bang-si-ta-mi-huang-se__1327925_pe944588_s5.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/couch/zh/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwNQC3iGNH9l7UXNd8_c9uOvYV1Fp5i9NUSQ&s",
+      "fuentePagina": "https://www.longhi.it/zh-cn/%E7%94%A2%E5%93%81/%E6%B2%99%E5%8F%91",
+      "titulo": "沙发- Longhi.it",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwNQC3iGNH9l7UXNd8_c9uOvYV1Fp5i9NUSQ&s",
+      "original": "https://www.longhi.it/ContentsFiles/ARNOLD_sofa_preview(2).jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/couch/zh/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEBX-Zec3fbsdelD6Ger9Ouhj3OAeSJ7Ftsg&s",
+      "fuentePagina": "https://www.ikea.cn/cn/zh/p/stockholm-si-de-ge-er-mo-san-ren-sha-fa-xi-ge-lao-la-zi-ran-se-30245044/",
+      "titulo": "STOCKHOLM 斯德哥尔摩三人沙发西格劳拉自然色- IKEA",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEBX-Zec3fbsdelD6Ger9Ouhj3OAeSJ7Ftsg&s",
+      "original": "https://file.app.ikea.cn/cn/zh/images/products/stockholm-si-de-ge-er-mo-san-ren-sha-fa-xi-ge-lao-la-zi-ran-se__0183763_pe334809_s5.jpg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/couch/zh/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmxpq-9hS1HVleGGw728SlVZ8R4Gu_1qQVdg&s",
+      "fuentePagina": "https://www.gammarr.com/zh/sha-fa/swing-p308",
+      "titulo": "意大利进口沙发- 欧式全真皮沙发图片- Gamma家具",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmxpq-9hS1HVleGGw728SlVZ8R4Gu_1qQVdg&s",
+      "original": "https://www.gammarr.com/Products/Sofas/Swing/img/2542/image-thumb__2542__main-product/Gamma_Sofa_Swing_Hero.1bb33b33.jpg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/couch/zh/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtRKFK1Oqc7U5_ZqVT4z915jWivlF0Cu7bBg&s",
+      "fuentePagina": "https://www.ligne-roset.com/cn/p/sha-fa/san-ren-wei-sha-fa-paipai-2211",
+      "titulo": "沙发Paipaï 三人位沙发- Ligne Roset",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtRKFK1Oqc7U5_ZqVT4z915jWivlF0Cu7bBg&s",
+      "original": "https://www.ligne-roset.com/media/ligne_roset_cn/100c3i_W.jpg"
+    }
+  ]
+}

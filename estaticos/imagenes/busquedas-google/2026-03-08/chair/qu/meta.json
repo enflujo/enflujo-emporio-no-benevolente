@@ -1,0 +1,71 @@
+{
+  "categoria": "chair",
+  "categoriaSlug": "chair",
+  "idioma": "qu",
+  "nombreIdioma": "Quechua",
+  "termino": "tiyarina",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:17:18.222Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "es",
+    "gl": "pe"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=tiyarina&hl=es&gl=pe",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/chair/qu/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQv-4lYxDS5d9aYL0PSkaeUVTEDVGzQut6NMQ&s",
+      "fuentePagina": "https://www.facebook.com/Tiyarinaecomuebles/",
+      "titulo": "Tiyarina Eco Muebles (@Tiyarinaecomuebles) • Facebook",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQv-4lYxDS5d9aYL0PSkaeUVTEDVGzQut6NMQ&s",
+      "original": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=100027247402537"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/chair/qu/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDHTCBfzHSXfsRnikxJ9Av7rML--4wAnYBng&s",
+      "fuentePagina": "https://www.facebook.com/tiyarinamuebles/",
+      "titulo": "Tiyarina | Tierralta",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDHTCBfzHSXfsRnikxJ9Av7rML--4wAnYBng&s",
+      "original": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=100063184573275"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/chair/qu/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXT0CcoGHooZS9blh1lpaZ4-fspVftgq4k6Q&s",
+      "fuentePagina": "https://www.facebook.com/tiyarinamuebles/",
+      "titulo": "Tiyarina | Tierralta",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXT0CcoGHooZS9blh1lpaZ4-fspVftgq4k6Q&s",
+      "original": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=774316953330354"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/chair/qu/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxqinl_6bKvTlewapegpmLOIkHnj56RB2nYg&s",
+      "fuentePagina": "https://www.facebook.com/tiyarinamuebles/",
+      "titulo": "Tiyarina | Tierralta",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxqinl_6bKvTlewapegpmLOIkHnj56RB2nYg&s",
+      "original": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=165086465607505"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/chair/qu/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSr2YveetRr3VWdndWIP8XDKp_mu22cTT9rQg&s",
+      "fuentePagina": "https://www.facebook.com/tiyarinamuebles/",
+      "titulo": "Tiyarina | Tierralta",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSr2YveetRr3VWdndWIP8XDKp_mu22cTT9rQg&s",
+      "original": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=399912872124862"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/chair/qu/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQa7oT0Rqq2PS0i1kRUUPsfuA02lr6mzBva1w&s",
+      "fuentePagina": "https://www.facebook.com/Tiyarinaecomuebles/",
+      "titulo": "Tiyarina Eco Muebles (@Tiyarinaecomuebles) • Facebook",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQa7oT0Rqq2PS0i1kRUUPsfuA02lr6mzBva1w&s",
+      "original": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=677552319514447"
+    }
+  ]
+}

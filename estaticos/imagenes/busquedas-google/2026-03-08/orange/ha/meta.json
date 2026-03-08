@@ -1,0 +1,71 @@
+{
+  "categoria": "orange",
+  "categoriaSlug": "orange",
+  "idioma": "ha",
+  "nombreIdioma": "Hausa",
+  "termino": "lemu",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:12:44.144Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "ha",
+    "gl": "ng"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=lemu&hl=ha&gl=ng",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/orange/ha/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzRze0Aw-23ZKxZU3zVmBHJgqGzJhEeVIugw&s",
+      "fuentePagina": "https://pixabay.com/images/search/lemu/",
+      "titulo": "100+ Free Lemu & Hem Images - Pixabay",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzRze0Aw-23ZKxZU3zVmBHJgqGzJhEeVIugw&s",
+      "original": "https://cdn.pixabay.com/photo/2018/12/02/11/16/ringtail-3851037_640.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/orange/ha/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTevxbPt6tWyXE9tS7nvtwNAj6tbWLnVVp5dA&s",
+      "fuentePagina": "https://www.worldlifeexpectancy.com/mammal-life-expectancy-geoffroys-dwarf-lemu",
+      "titulo": "GEOFFROY'S DWARF LEMU LIFE EXPECTANCY",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTevxbPt6tWyXE9tS7nvtwNAj6tbWLnVVp5dA&s",
+      "original": "https://www.worldlifeexpectancy.com/images/a/w/b/cheirogaleus-major/cheirogaleus-major.webp"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/orange/ha/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvOvKjVCngzU-ScZsrqs59JC3UnRdPsTNTqw&s",
+      "fuentePagina": "https://www.dreamstime.com/photos-images/l-lemu.html",
+      "titulo": "L Lemu Stock Photos - Free & Royalty-Free Stock Photos from ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvOvKjVCngzU-ScZsrqs59JC3UnRdPsTNTqw&s",
+      "original": "https://thumbs.dreamstime.com/b/closeup-portrait-enadangered-cute-ring-tailed-lemur-l-lemu-catta-captivity-south-africa-140611724.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/orange/ha/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdYTQ7zM7kkqBcEjB5o9Qor1J2hsUnKTnwmQ&s",
+      "fuentePagina": "https://soundcloud.com/gitdiff/resense-b2b-lemu-kazantip-08092019-cut",
+      "titulo": "Stream re.sense b2b lemu (@kazantip, 08/09/2019 10am cut) by ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdYTQ7zM7kkqBcEjB5o9Qor1J2hsUnKTnwmQ&s",
+      "original": "https://i1.sndcdn.com/avatars-000400749474-nzvdu2-t240x240.jpg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/orange/ha/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjtzID0xIsUYsv30fo9JrXcsWZzIc4hij7gQ&s",
+      "fuentePagina": "https://www.dreamstime.com/photos-images/l-lemu.html",
+      "titulo": "L Lemu Stock Photos - Free & Royalty-Free Stock Photos from ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjtzID0xIsUYsv30fo9JrXcsWZzIc4hij7gQ&s",
+      "original": "https://thumbs.dreamstime.com/b/closeup-portrait-enadangered-cute-ring-tailed-lemur-l-lemu-catta-captivity-south-africa-153767005.jpg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/orange/ha/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgDZ8-WCX8yw6rVErx7E0GcbasVmo-3nUTQQ&s",
+      "fuentePagina": "https://www.alamy.com/stock-photo-ring-tail-lemu-ring-tailed-lemur-ring-tail-lemur-or-ring-tailed-lemur-53635773.html",
+      "titulo": "Ring-Tail Lemu, Ring-Tailed Lemur, Ring Tail Lemur or Ring ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgDZ8-WCX8yw6rVErx7E0GcbasVmo-3nUTQQ&s",
+      "original": "https://c8.alamy.com/comp/D378Y9/ring-tail-lemu-ring-tailed-lemur-ring-tail-lemur-or-ring-tailed-lemur-D378Y9.jpg"
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "categoria": "cell phone",
+  "categoriaSlug": "cell-phone",
+  "idioma": "ar",
+  "nombreIdioma": "العربية",
+  "termino": "هاتف محمول",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:24:27.219Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "ar",
+    "gl": "eg"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=%D9%87%D8%A7%D8%AA%D9%81%20%D9%85%D8%AD%D9%85%D9%88%D9%84&hl=ar&gl=eg",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/cell-phone/ar/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQar73DZsOaLPlogaF2qidvLQ1JhlRputHqlA&s",
+      "fuentePagina": "https://www.philips.com.eg/ar/c-p/CTS358BK_56/mobile-phone",
+      "titulo": "هاتف محمول CTS358BK/56 | Philips‎",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQar73DZsOaLPlogaF2qidvLQ1JhlRputHqlA&s",
+      "original": "https://images.philips.com/is/image/philipsconsumer/f2daa4b6f59741209843b004012a0250?wid=700&hei=700&$pnglarge$"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/cell-phone/ar/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfw4kBAFhCrG4LYMsK9TdwDCt2CiznolT98g&s",
+      "fuentePagina": "https://ar.wikipedia.org/wiki/%D9%87%D8%A7%D8%AA%D9%81_%D9%85%D8%AD%D9%85%D9%88%D9%84",
+      "titulo": "هاتف محمول - ويكيبيديا",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfw4kBAFhCrG4LYMsK9TdwDCt2CiznolT98g&s",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/c/c7/Mobile_phone_PHS_Japan_1997-2003.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/cell-phone/ar/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6J7UP7OS72jXtX2mIa7dgYrbY9ylGWluMqg&s",
+      "fuentePagina": "https://arabic.cgtn.com/n/BfIcA-BcA-GcA/CACDcA/p.html",
+      "titulo": "هواوي تطلق أول هاتف محمول يدعم شبكة الجيل الخامس للاستخدام ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6J7UP7OS72jXtX2mIa7dgYrbY9ylGWluMqg&s",
+      "original": "https://newsar.cgtn.com/n/BfIcA-BcA-GcA/BDGcHEA.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/cell-phone/ar/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgWYCvmhUC59Q7NtTddV4ynvwR0kYLQhEoUw&s",
+      "fuentePagina": "https://sa.made-in-china.com/co_szconnectech/product_6-56-Inches-Cell-Phone-Android-12-Mobile-Phone-Uniwa-X19s-4G-Android-Global-Version-Smartphone_yuheosring.html",
+      "titulo": "6.56 بوصات هاتف محمول أندرويد 12. هاتف محمول يونيوا X19s 4G ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgWYCvmhUC59Q7NtTddV4ynvwR0kYLQhEoUw&s",
+      "original": "https://image.made-in-china.com/365f3j00cuUjabQZvWoE/6-56-12-X19s-4G-.webp"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/cell-phone/ar/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsoFK7_oQGgSHb0M3H8Avi9xTq1my-BFxw6g&s",
+      "fuentePagina": "https://arabic.people.com.cn/n3/2019/0727/c31659-9601012.html",
+      "titulo": "هواوي تطرح أول هاتف محمول يدعم شبكة الجيل الخامس للاستخدام ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsoFK7_oQGgSHb0M3H8Avi9xTq1my-BFxw6g&s",
+      "original": "https://arabic.people.com.cn/NMediaFile/2019/0727/FOREIGN201907271559000346520109857.jpg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/cell-phone/ar/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYOXtuG2nPKBmTWBJxtOqto7ptUynRlalE7A&s",
+      "fuentePagina": "https://ar.wikipedia.org/wiki/%D9%87%D8%A7%D8%AA%D9%81_%D9%85%D8%AD%D9%85%D9%88%D9%84",
+      "titulo": "هاتف محمول - ويكيبيديا",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYOXtuG2nPKBmTWBJxtOqto7ptUynRlalE7A&s",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Mobile_phone_evolution.jpg/250px-Mobile_phone_evolution.jpg"
+    }
+  ]
+}

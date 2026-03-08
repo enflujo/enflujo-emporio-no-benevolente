@@ -1,0 +1,71 @@
+{
+  "categoria": "donut",
+  "categoriaSlug": "donut",
+  "idioma": "zh",
+  "nombreIdioma": "中文",
+  "termino": "甜甜圈",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:16:05.507Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "zh-CN",
+    "gl": "cn"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=%E7%94%9C%E7%94%9C%E5%9C%88&hl=zh-CN&gl=cn",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/donut/zh/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQ-5rqFy_UvnSR5Ejfx_M-4nWEibVn7RicFQ&s",
+      "fuentePagina": "https://zh.wikipedia.org/zh-cn/%E7%94%9C%E7%94%9C%E5%9C%88",
+      "titulo": "甜甜圈- 维基百科，自由的百科全书",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQ-5rqFy_UvnSR5Ejfx_M-4nWEibVn7RicFQ&s",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/d/d8/Doughnuts_Home_Made.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/donut/zh/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRotVqYYeLoG30wL-A4A5fion9gitpSP-M3LQ&s",
+      "fuentePagina": "http://www.lotusbiscoff.com/zh-hant-cn/foodprofessionals/recipes/decorated-biscoff-donut",
+      "titulo": "Biscoff 甜甜圈",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRotVqYYeLoG30wL-A4A5fion9gitpSP-M3LQ&s",
+      "original": "http://www.lotusbiscoff.com/sites/default/files/styles/image_style_1_1_square_sm/public/2024-09/BISCOFF%20DONUTS%20DECORATED-139%2016x9_0.jpg?h=854a7be2&itok=3PF2Hjzg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/donut/zh/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRukPWP8pUGrvZtkJjhMarxsMnY21xnUT1MYA&s",
+      "fuentePagina": "https://616pic.com/sucai/18mingnw8.html",
+      "titulo": "插画甜甜圈免抠素材图片免费下载_PNG素材_编号18mingnw8_图精灵",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRukPWP8pUGrvZtkJjhMarxsMnY21xnUT1MYA&s",
+      "original": "https://pic.616pic.com/ys_bnew_img/00/49/16/Lm0lQu59Oh.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/donut/zh/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSkgBl8s_Ip7IBR14Aq50R74pVBHSMGVvHgQ&s",
+      "fuentePagina": "https://shop.silkshotelgroup.com/products/display/2477",
+      "titulo": "台北晶華酒店- 五色甜甜圈Colorful Donut",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSkgBl8s_Ip7IBR14Aq50R74pVBHSMGVvHgQ&s",
+      "original": "https://cdn.hodong.com.tw/shop.silkshotelgroup/uploads/products/2477/0506d834e90cb77a68ef7c99c1c40469.jpg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/donut/zh/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdj6ddUaJlOwGeiHyCTev3QJoO30lC1hXrjg&s",
+      "fuentePagina": "https://ciao.kitchen/baked-doughnut/",
+      "titulo": "烤箱版鬆軟甜甜圈 (Baked Fluffy Doughnut)",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdj6ddUaJlOwGeiHyCTev3QJoO30lC1hXrjg&s",
+      "original": "https://ciao.kitchen/wp-content/uploads/2021/03/baked-doughnut-01.jpg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/donut/zh/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUmhSeuSUVbUsMirDxm7WWBCdnOz1DTVWxvw&s",
+      "fuentePagina": "https://www.marketresearchintellect.com/zh/blog/best-doughnut-brands/",
+      "titulo": "最好的甜甜圈品牌制作最好的零食",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUmhSeuSUVbUsMirDxm7WWBCdnOz1DTVWxvw&s",
+      "original": "https://www.marketresearchintellect.com/images/blogs/best-doughnut-brands.webp"
+    }
+  ]
+}

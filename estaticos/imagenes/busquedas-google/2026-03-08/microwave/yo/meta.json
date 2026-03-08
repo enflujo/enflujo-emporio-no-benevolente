@@ -1,0 +1,71 @@
+{
+  "categoria": "microwave",
+  "categoriaSlug": "microwave",
+  "idioma": "yo",
+  "nombreIdioma": "Yorùbá",
+  "termino": "àgo ooru",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:24:57.001Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "yo",
+    "gl": "ng"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=%C3%A0go%20ooru&hl=yo&gl=ng",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/microwave/yo/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ51sAiUYT9X49hpuLmshj0cnKLORg9WL5pGA&s",
+      "fuentePagina": "https://www.instagram.com/p/DQlhNuBEw-Z/",
+      "titulo": "En Ooru – Wayanad Visited En Ooru today, and it's truly a ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ51sAiUYT9X49hpuLmshj0cnKLORg9WL5pGA&s",
+      "original": "https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3757555524683636354"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/microwave/yo/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7D6ZRuT1czt_1P3lUIFjKOq5C9A6tmWU3Pw&s",
+      "fuentePagina": "https://www.youtube.com/watch?v=pGxVEpH7BgI",
+      "titulo": "EN OORU Tribal Village -Wayanad- kerala|With English Subtitles |Tourist  places in Wayanad|Must Visit",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7D6ZRuT1czt_1P3lUIFjKOq5C9A6tmWU3Pw&s",
+      "original": "https://i.ytimg.com/vi/pGxVEpH7BgI/maxresdefault.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/microwave/yo/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQranYdEBvbsqZoK55wA2dqqNpIA80BKx1-fQ&s",
+      "fuentePagina": "https://www.instagram.com/p/DQlhNuBEw-Z/",
+      "titulo": "En Ooru – Wayanad Visited En Ooru today, and it's truly a ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQranYdEBvbsqZoK55wA2dqqNpIA80BKx1-fQ&s",
+      "original": "https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3757555524515918058"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/microwave/yo/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQA5L9CXhiwkY8seue6RCGvYVr58crTX3UGCQ&s",
+      "fuentePagina": "https://www.youtube.com/watch?v=8SxLLIi0LwQ",
+      "titulo": "En Ooru Tribal Village - A Beautiful Place in Wayanad, Kerala #vlog",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQA5L9CXhiwkY8seue6RCGvYVr58crTX3UGCQ&s",
+      "original": "https://i.ytimg.com/vi/8SxLLIi0LwQ/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLDJbnjUrI4-r351g3yoNPotrNNU_g"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/microwave/yo/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsq-DITcz9HlrAwdJIJoR1xQNlWATjcPG-Aw&s",
+      "fuentePagina": "https://www.reddit.com/r/india_tourism/comments/1mqwhz9/wayanad_enn_ooru_tribal_village/",
+      "titulo": "Wayanad- Enn ooru ( Tribal village) : r/india_tourism",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsq-DITcz9HlrAwdJIJoR1xQNlWATjcPG-Aw&s",
+      "original": "https://i.redd.it/wayanad-enn-ooru-tribal-village-v0-1husilnng6jf1.jpg?width=3024&format=pjpg&auto=webp&s=5c65a7f8c029bd2efed45718f9bea5528da83373"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/microwave/yo/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_UwkKSK8G71LxiBJGhZS3Eu8AzaPPTJEjrQ&s",
+      "fuentePagina": "https://www.youtube.com/watch?v=FoZ5_-vMHEE",
+      "titulo": "En Ooru Tribal Village, Wayanad 🌿 | Must-Visit Cultural Destination in  Kerala | Travel India",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_UwkKSK8G71LxiBJGhZS3Eu8AzaPPTJEjrQ&s",
+      "original": "https://i.ytimg.com/vi/FoZ5_-vMHEE/sddefault.jpg"
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "categoria": "bus",
+  "categoriaSlug": "bus",
+  "idioma": "pt",
+  "nombreIdioma": "Português",
+  "termino": "ônibus",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T20:44:12.074Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "pt",
+    "gl": "br"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=%C3%B4nibus&hl=pt&gl=br",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bus/pt/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxekXAPZsAJD8w4A0904ao1hCa3aXMtgosiw&s",
+      "fuentePagina": "https://www.volvogroup.com/br/news-and-media/news/2020/nov/cidade-alta-do-recif-compra-onibus-volvo.html",
+      "titulo": "Cidade Alta, do Recife, compra ônibus Volvo",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxekXAPZsAJD8w4A0904ao1hCa3aXMtgosiw&s",
+      "original": "https://assets.volvo.com/is/image/VolvoInformationTechnologyAB/1860x1050-image-press-releases-onibus-cidade-alta?wid=1400&fit=constrain"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bus/pt/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQD6fJ-oxIdkSDoI5nZSr7bUCscW0vPzaIZMA&s",
+      "fuentePagina": "https://portalgoverno.com.br/product/micro-onibus-rodoviario-mercedes-benz-lo-916/",
+      "titulo": "Micro-ônibus Rodoviário – Mercedes-Benz – LO-916 - Portal ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQD6fJ-oxIdkSDoI5nZSr7bUCscW0vPzaIZMA&s",
+      "original": "https://portalgoverno.com.br/wp-content/uploads/2025/08/Micro-onibus-Rodoviario-Mercedes-Benz-LO-916-Portal-Governo.png"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bus/pt/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCw8s4_Q-8gWvO_e_iIOBuPU3H1uVSOsu7qA&s",
+      "fuentePagina": "https://riobonito.rj.gov.br/rio-bonito-recebe-novo-onibus-para-o-transporte-escolar/",
+      "titulo": "Rio Bonito recebe novo ônibus para o transporte escolar ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCw8s4_Q-8gWvO_e_iIOBuPU3H1uVSOsu7qA&s",
+      "original": "https://riobonito.rj.gov.br/wp-content/uploads/2024/11/rio-bonito-recebe-onibus-escolar-4-scaled.jpeg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bus/pt/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmnG7jJS7hk0HvVuGf76lieSDwGQDFjxtMOg&s",
+      "fuentePagina": "https://clubedoonibus.com.br/fabricantes-de-onibus/",
+      "titulo": "Fabricantes de Ônibus no Brasil. Guia Completo de Todas as ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmnG7jJS7hk0HvVuGf76lieSDwGQDFjxtMOg&s",
+      "original": "https://clubedoonibus.com.br/wp-content/uploads/2024/12/Busscar-Panoramico-DD-NB1-2024-1.jpg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bus/pt/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ05mB20Za2Z6eBdI9F32AVI-1ahnNEmar6cA&s",
+      "fuentePagina": "https://transisaak.com.br/nossa-frota/onibus/",
+      "titulo": "Ônibus - Trans Isaak",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ05mB20Za2Z6eBdI9F32AVI-1ahnNEmar6cA&s",
+      "original": "https://transisaak.com.br/wp-content/uploads/2024/03/005-1024x1024.png"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bus/pt/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpjWY5jb5D80M9rePf904nplV9PdsGp30FiQ&s",
+      "fuentePagina": "https://www.autodata.com.br/noticias/2024/04/10/iveco-bus-recebeu-1-3-mil-pedidos-de-onibus-para-caminho-da-escola/70564/",
+      "titulo": "AutoData - Iveco Bus recebeu 1,3 mil pedidos de ônibus para ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpjWY5jb5D80M9rePf904nplV9PdsGp30FiQ&s",
+      "original": "https://mlqt0se4pk9p.i.optimole.com/q:85/https://www.autodata.com.br/wordpress/wp-content/uploads//2024/04/caminho-da-escola-_-iveco-scaled.jpg"
+    }
+  ]
+}

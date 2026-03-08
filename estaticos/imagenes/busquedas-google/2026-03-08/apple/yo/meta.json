@@ -1,0 +1,71 @@
+{
+  "categoria": "apple",
+  "categoriaSlug": "apple",
+  "idioma": "yo",
+  "nombreIdioma": "Yorùbá",
+  "termino": "àpùl",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:11:24.359Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "yo",
+    "gl": "ng"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=%C3%A0p%C3%B9l&hl=yo&gl=ng",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/apple/yo/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmSrbw58X-OErMA6FCVAfGGmSjZUgGW3dS4w&s",
+      "fuentePagina": "https://www.youtube.com/watch?v=sRbHy6sRDps",
+      "titulo": "Patoranking - Abule (Official Video) - YouTube",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmSrbw58X-OErMA6FCVAfGGmSjZUgGW3dS4w&s",
+      "original": "https://i.ytimg.com/vi/sRbHy6sRDps/hqdefault.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/apple/yo/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKb0OSzXx0X0kJF5xzggTWZDgOHMrUfmO1pg&s",
+      "fuentePagina": "https://www.youtube.com/americanpublicu",
+      "titulo": "American Public University - YouTube",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKb0OSzXx0X0kJF5xzggTWZDgOHMrUfmO1pg&s",
+      "original": "https://i.ytimg.com/vi/qk3d0VnnvrM/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLDIvhH0lcrKtajHAzI3H55cubRqmQ"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/apple/yo/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRo7CeDA0L_6yV4n6FP_I7i_FgaB33W6Hktg&s",
+      "fuentePagina": "https://www.youtube.com/watch?v=6dMlDquZ_fk",
+      "titulo": "Abule",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRo7CeDA0L_6yV4n6FP_I7i_FgaB33W6Hktg&s",
+      "original": "https://i.ytimg.com/vi/6dMlDquZ_fk/maxresdefault.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/apple/yo/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYfmdiskUcwaSPqGqNRiifK0XUBI4IVx37RA&s",
+      "fuentePagina": "https://www.youtube.com/watch?v=ykT1B4_9OJo",
+      "titulo": "PATORANKING - ABULE (OFFICIAL MUSIC VIDEO)",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYfmdiskUcwaSPqGqNRiifK0XUBI4IVx37RA&s",
+      "original": "https://i.ytimg.com/vi/ykT1B4_9OJo/maxresdefault.jpg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/apple/yo/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXquuxKTOSqTkuTxIMtSFSHXh9xnQBx6r0xg&s",
+      "fuentePagina": "https://music.apple.com/cd/album/abule-single/1522607210",
+      "titulo": "Abule - Single - Album by Patoranking - Apple Music",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXquuxKTOSqTkuTxIMtSFSHXh9xnQBx6r0xg&s",
+      "original": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/db/65/7b/db657b70-1825-51ce-9d6f-1927acb22a35/197188011499.jpg/1200x630bb.jpg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/apple/yo/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwZCNt_pNIGr3u_m9YoqEUpmgLGuX-YjApkg&s",
+      "fuentePagina": "https://www.youtube.com/watch?v=rNwqxT5uSKQ",
+      "titulo": "Patoranking - Abule (Official Video)Mash-up_HD",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwZCNt_pNIGr3u_m9YoqEUpmgLGuX-YjApkg&s",
+      "original": "https://i.ytimg.com/vi/rNwqxT5uSKQ/sddefault.jpg"
+    }
+  ]
+}

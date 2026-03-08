@@ -1,0 +1,71 @@
+{
+  "categoria": "toaster",
+  "categoriaSlug": "toaster",
+  "idioma": "sw",
+  "nombreIdioma": "Kiswahili",
+  "termino": "grili ya mkate",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:26:09.957Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "sw",
+    "gl": "tz"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=grili%20ya%20mkate&hl=sw&gl=tz",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/toaster/sw/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcST360OBXebzkVBiepMxYaZh6J_8AcUXm3GXQ&s",
+      "fuentePagina": "https://www.instagram.com/p/DVKSMvRjgA4/",
+      "titulo": "Jinsi Ya Kupika Mkate Kwenye Jiko La Gesi Tanzania Mkate ni ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcST360OBXebzkVBiepMxYaZh6J_8AcUXm3GXQ&s",
+      "original": "https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3829573229380249297"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/toaster/sw/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPCOkHkGGwc1sRkA0bHxMVkVo_ZqLyjISP7g&s",
+      "fuentePagina": "https://www.youtube.com/watch?v=pUpDoVJxdMs",
+      "titulo": "Mkate wa Mdalasini na Zabibu / Cinnamon Raisin Bread /Jinsi ya kupika na  Kutengeza mkate",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPCOkHkGGwc1sRkA0bHxMVkVo_ZqLyjISP7g&s",
+      "original": "https://i.ytimg.com/vi/pUpDoVJxdMs/maxresdefault.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/toaster/sw/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqT13WGs9qG_3Gs-OHZl09BHsuTbc1MtzzMQ&s",
+      "fuentePagina": "https://www.instagram.com/p/DJY8kdxIAiF/",
+      "titulo": "Mkate wa kuoka kwenye tray za mikate ya slice. #bakingbread🍞  #swahilifoodie karibuni.",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqT13WGs9qG_3Gs-OHZl09BHsuTbc1MtzzMQ&s",
+      "original": "https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3627913073846715969"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/toaster/sw/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtworsY3vUZKV9FuWdBvcx_hrWhUQeDpkC0A&s",
+      "fuentePagina": "https://www.instagram.com/p/DEwnLqPsLGt/",
+      "titulo": "Geti la chuma Futi 7 kwa 8 La mikasi Bei 200,000/= Keko Call ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtworsY3vUZKV9FuWdBvcx_hrWhUQeDpkC0A&s",
+      "original": "https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3544505231829152173"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/toaster/sw/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSG2azLYPKQXPcVtNsZVNQlM-J_qHWHkZZrxQ&s",
+      "fuentePagina": "https://www.instagram.com/reel/DEkJqtDIOSa/",
+      "titulo": "KWA MAHITAJI YA MADIRISHA YA GRILI, MILANGO YA GRILL NJOO ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSG2azLYPKQXPcVtNsZVNQlM-J_qHWHkZZrxQ&s",
+      "original": "https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3844135934766109148"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/toaster/sw/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtDiHviG-1I3U3xpUwaGMBVETYstlP_MoQxg&s",
+      "fuentePagina": "https://www.facebook.com/adjahcent/posts/mkate-wa-mchelemkate-wa-kumiminamahitaji1unga-wa-mchele-rice-flour-2vikombe-vya-/2071618486399135/",
+      "titulo": "MKATE WA MCHELE/MKATE WA KUMIMINA Mahitaji 1.Unga wa mchele ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtDiHviG-1I3U3xpUwaGMBVETYstlP_MoQxg&s",
+      "original": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=2071618436399140"
+    }
+  ]
+}

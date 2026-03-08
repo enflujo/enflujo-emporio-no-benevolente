@@ -1,0 +1,71 @@
+{
+  "categoria": "elephant",
+  "categoriaSlug": "elephant",
+  "idioma": "hi",
+  "nombreIdioma": "हिन्दी",
+  "termino": "हाथी",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T20:53:54.553Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "hi",
+    "gl": "in"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=%E0%A4%B9%E0%A4%BE%E0%A4%A5%E0%A5%80&hl=hi&gl=in",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/elephant/hi/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQt2xWYOMa09aZaB5giESv5BwWJPaVacfPkfQ&s",
+      "fuentePagina": "https://hi.wikipedia.org/wiki/%E0%A4%85%E0%A4%AB%E0%A4%BC%E0%A5%8D%E0%A4%B0%E0%A5%80%E0%A4%95%E0%A5%80_%E0%A4%B8%E0%A4%B5%E0%A4%BE%E0%A4%A8%E0%A4%BE_%E0%A4%B9%E0%A4%BE%E0%A4%A5%E0%A5%80",
+      "titulo": "अफ़्रीकी सवाना हाथी - विकिपीडिया",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQt2xWYOMa09aZaB5giESv5BwWJPaVacfPkfQ&s",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/African_Bush_Elephant.jpg/960px-African_Bush_Elephant.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/elephant/hi/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcy2wkcAd_sj3ZAaDx_mgsITzILH-RJ3Yw9A&s",
+      "fuentePagina": "https://www.bhaskar.com/lifestyle/happy-life/news/elephants-can-count-with-their-trunks-says-scientist-01561543.html",
+      "titulo": "Elephants can count with their trunks says scientist",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcy2wkcAd_sj3ZAaDx_mgsITzILH-RJ3Yw9A&s",
+      "original": "https://images.bhaskarassets.com/web2images/521/2019/06/04/0521_elephanttt.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/elephant/hi/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGFs52F4qAHPK_uharbtYDxN2AvUnDMERBQA&s",
+      "fuentePagina": "https://hindi.downtoearth.org.in/wildlife-biodiversity/social-life-of-asian-elephants-depend-on-the-amount-of-their-stress-hormones-82079",
+      "titulo": "एशियाई हाथियों के सामाजिक जीवन ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGFs52F4qAHPK_uharbtYDxN2AvUnDMERBQA&s",
+      "original": "https://gumlet.assettype.com/down-to-earth/import/library/large/2022-03-25/0.70164200_1648183501_asian-elephant.jpg?w=1200&h=675&auto=format%2Ccompress&fit=max&enlarge=true"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/elephant/hi/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGyCA0XH2OEtvIi9LgBc2sAilzj7-h6blP5w&s",
+      "fuentePagina": "https://www.gazabhindi.com/2015/04/25-interesting-facts-of-elephants-in-hindi.html",
+      "titulo": "हाथी के बारे में 25+ रोचक तथ्य ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGyCA0XH2OEtvIi9LgBc2sAilzj7-h6blP5w&s",
+      "original": "http://www.gazabhindi.com/wp-content/uploads/2015/04/elephant-gazabhindi.jpg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/elephant/hi/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTieg2PqsVqVxRh3ZbLdSCtIAb-kmfOqH19pQ&s",
+      "fuentePagina": "https://www.abplive.com/states/jharkhand/conflict-between-elephants-and-humans-continues-in-jharkhand-one-elephant-and-two-people-died-in-24-hours-2281949",
+      "titulo": "Conflict between elephants and humans continues in Jharkhand ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTieg2PqsVqVxRh3ZbLdSCtIAb-kmfOqH19pQ&s",
+      "original": "https://feeds.abplive.com/onecms/images/uploaded-images/2022/09/21/e29e20ca19c8855f30cc6cd9f9f3265c1663751175622398_original.jpg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/elephant/hi/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS33vf_pa0XP1gj2oS7NqbVZT4cYt1unk58IQ&s",
+      "fuentePagina": "https://awa.wikipedia.org/wiki/%E0%A4%B9%E0%A4%BE%E0%A4%A5%E0%A5%80",
+      "titulo": "हाथी - विकिपीडिया",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS33vf_pa0XP1gj2oS7NqbVZT4cYt1unk58IQ&s",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Asian_elephant_-_melbourne_zoo.jpg"
+    }
+  ]
+}

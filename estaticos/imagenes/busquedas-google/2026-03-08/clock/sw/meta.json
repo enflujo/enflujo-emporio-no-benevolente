@@ -1,0 +1,71 @@
+{
+  "categoria": "clock",
+  "categoriaSlug": "clock",
+  "idioma": "sw",
+  "nombreIdioma": "Kiswahili",
+  "termino": "saa",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:28:46.648Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "sw",
+    "gl": "tz"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=saa&hl=sw&gl=tz",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/clock/sw/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5eoadZ28qg5c4x653Di3wrZgxUtvlePuUag&s",
+      "fuentePagina": "https://atta.travel/resource/saa-resumes-daily-johannesburg-dar-es-salaam-flights.html",
+      "titulo": "ATTA :: SAA Resumes Daily Johannesburg-Dar es Salaam Flights",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5eoadZ28qg5c4x653Di3wrZgxUtvlePuUag&s",
+      "original": "https://atta.travel/static/f07820fd-bd8b-43d0-a1fd88f131012666/740x412_highestperformance__4a7c7e45a350/SAA-new.png"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/clock/sw/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQywwZFCuVzKSSPKoDRU4htV4OH6jScn8B7og&s",
+      "fuentePagina": "https://apta.biz/2025/01/22/saa-kicks-off-flights-to-dar-es-salaam-tanzania/",
+      "titulo": "SAA Kicks Off Flights to Dar es Salaam, Tanzania – APTA",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQywwZFCuVzKSSPKoDRU4htV4OH6jScn8B7og&s",
+      "original": "https://apta.biz/wp-content/uploads/2025/01/12jpg3bc9e07a51de5381e9dcc8e3f67930591.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/clock/sw/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1DRZhphOmJyOrBvwZPBR_MJul6N_apqPq7A&s",
+      "fuentePagina": "https://www.xlturnerstravel.co.za/saa-announces-fleet-expansion-to-relaunch-long-haul-routes/",
+      "titulo": "SAA announces fleet expansion to relaunch long-haul routes ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1DRZhphOmJyOrBvwZPBR_MJul6N_apqPq7A&s",
+      "original": "https://www.xlturnerstravel.co.za/wp-content/uploads/2018/09/SAA-on-track-for-2021-breakeven-statement-800x400.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/clock/sw/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRt98J8pmV-3NSCPUbYAq_5CffJ2noF5l_VwQ&s",
+      "fuentePagina": "https://www.polity.org.za/article/saa-south-african-airways-celebrates-83-years-of-air-transport-services-2017-02-05",
+      "titulo": "SAA: South African Airways celebrates 83 years of air ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRt98J8pmV-3NSCPUbYAq_5CffJ2noF5l_VwQ&s",
+      "original": "https://cisp.cachefly.net/assets/articles/images/resized/0000623479_resized_a320airbussaa1022.jpg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/clock/sw/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTX1NqSbaycewyzpAhnPUJ5OvhQ-W_IRsu0Rw&s",
+      "fuentePagina": "https://www.instagram.com/p/DDMrwiHosGz/",
+      "titulo": "South African Airways | SAA Updates Our dedicated teams are ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTX1NqSbaycewyzpAhnPUJ5OvhQ-W_IRsu0Rw&s",
+      "original": "https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3516377860239704499"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/clock/sw/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvOhHxjvObJfI-mbX7ci0-JbNfSNoQ6joDaQ&s",
+      "fuentePagina": "https://www.tourismupdate.com/article/saa-launches-new-route-to-drc",
+      "titulo": "SAA launches new route to DRC | Southern & East African ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvOhHxjvObJfI-mbX7ci0-JbNfSNoQ6joDaQ&s",
+      "original": "https://www.tourismupdate.com/files/styles/article_large/public/article/headline/2024-08/saa2_0.png?itok=unTsqeXt"
+    }
+  ]
+}

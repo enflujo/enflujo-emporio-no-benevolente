@@ -1,0 +1,71 @@
+{
+  "categoria": "parking meter",
+  "categoriaSlug": "parking-meter",
+  "idioma": "ha",
+  "nombreIdioma": "Hausa",
+  "termino": "agogo tanadi",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T20:48:30.833Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "ha",
+    "gl": "ng"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=agogo%20tanadi&hl=ha&gl=ng",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/parking-meter/ha/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQE_kZ5sL_aMKkVMWnL03jWMpCxot1iJRLorQ&s",
+      "fuentePagina": "https://www.facebook.com/100087753361905/posts/ba%C6%99inciki-ba-ya-maida-hannun-agogo-baya-kamar-yadda-damuwa-ba-ya-kawar-da-masifu/685858001015973/",
+      "titulo": "Baƙinciki ba ya maida hannun agogo baya kamar yadda damuwa ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQE_kZ5sL_aMKkVMWnL03jWMpCxot1iJRLorQ&s",
+      "original": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=685857961015977"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/parking-meter/ha/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbAx-DBmCjxMjv_SvbWiOyoBH-zw2s2EvZeQ&s",
+      "fuentePagina": "https://www.facebook.com/groups/277053630313164/",
+      "titulo": "Istikharar Agogo Da Bincike Akan Aure Da Al'amura Na Yau Da ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbAx-DBmCjxMjv_SvbWiOyoBH-zw2s2EvZeQ&s",
+      "original": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=1401767721280620"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/parking-meter/ha/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvEKm0vgD6hoOvCjXQpVFe7rRhLlIVXEYtzQ&s",
+      "fuentePagina": "https://www.facebook.com/dw.hausa/posts/kwaskwarimar-da-za-a-yi-wa-kundin-tsarin-mulkin-chadi-ta-kuma-tanadi-samar-da-ma/1258466216322004/",
+      "titulo": "Kwaskwarimar da za a yi wa kundin tsarin mulkin Chadi ta ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvEKm0vgD6hoOvCjXQpVFe7rRhLlIVXEYtzQ&s",
+      "original": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=1258466199655339"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/parking-meter/ha/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYbGYGWC8zYxT096_RgbmxnYrZMqypzJJu9A&s",
+      "fuentePagina": "https://www.instagram.com/p/DKSXPYONL7u/",
+      "titulo": "Professional me Adashen gata |kitchen items|clothings ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYbGYGWC8zYxT096_RgbmxnYrZMqypzJJu9A&s",
+      "original": "https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3644077244109165456"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/parking-meter/ha/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQEJiR9dSZ-dvK3lBc2FYi-qcCDuiCYIt7cA&s",
+      "fuentePagina": "https://www.facebook.com/groups/293543855250655/posts/1525263865411975/",
+      "titulo": "SHEIKH ABUBAKAR IMAM BALA GANA",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQEJiR9dSZ-dvK3lBc2FYi-qcCDuiCYIt7cA&s",
+      "original": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=873843378585200"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/parking-meter/ha/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUcRUGpOvA3WUDe9SNYce5btPbBF7PH2wPsg&s",
+      "fuentePagina": "https://hausa.leadership.ng/shugabancin-majalisa-ta-10-hannun-agogo-na-neman-koma-wa-apc-baya/",
+      "titulo": "Shugabancin Majalisa Ta 10: Hannun Agogo Na Neman Koma Wa ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUcRUGpOvA3WUDe9SNYce5btPbBF7PH2wPsg&s",
+      "original": "https://hausa.leadership.ng/wp-content/uploads/2023/05/Godswill.jpg"
+    }
+  ]
+}

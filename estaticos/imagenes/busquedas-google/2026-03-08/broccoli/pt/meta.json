@@ -1,0 +1,71 @@
+{
+  "categoria": "broccoli",
+  "categoriaSlug": "broccoli",
+  "idioma": "pt",
+  "nombreIdioma": "Português",
+  "termino": "brócolis",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:13:43.052Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "pt",
+    "gl": "br"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=br%C3%B3colis&hl=pt&gl=br",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/broccoli/pt/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROYhIiEShtHr77T_tEfEKFOcbK8mggk47TKw&s",
+      "fuentePagina": "https://www.tuasaude.com/7-boas-razoes-para-comer-brocolis/",
+      "titulo": "Brócolis: benefícios e como fazer (com receitas) - Tua Saúde",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROYhIiEShtHr77T_tEfEKFOcbK8mggk47TKw&s",
+      "original": "https://image.tuasaude.com/media/article/jd/ms/7-boas-razoes-para-comer-brocolis_14108.jpg?width=686&height=487"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/broccoli/pt/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZGiXmnisNYkvgk4ix3PQ_zvHh6veygGSgyA&s",
+      "fuentePagina": "https://www.ifrutus.com.br/produto/brocolis-comum-unidade-70651?srsltid=AfmBOoqPI--3ZWc3VntLbHVNr1olLT8LGWas5Tk4EHhh2zBW3MM6UxS8",
+      "titulo": "Brócolis Comum Unidade",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZGiXmnisNYkvgk4ix3PQ_zvHh6veygGSgyA&s",
+      "original": "https://scfoods.fbitsstatic.net/img/p/brocolis-comum-unidade-70651/257153.jpg?w=800&h=800&v=no-change&qs=ignore"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/broccoli/pt/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxXHYpb9i99rNpvWi2RRguhRVncySUPM97zw&s",
+      "fuentePagina": "https://www.infoescola.com/plantas/brocolis/",
+      "titulo": "Brócolis - Nutrientes e benefícios do Brócolis - InfoEscola",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxXHYpb9i99rNpvWi2RRguhRVncySUPM97zw&s",
+      "original": "https://www.infoescola.com/wp-content/uploads/2010/08/brocolis.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/broccoli/pt/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDhLOs7xiCFWK9r3ifUgcaxBmLQsyUNNpipQ&s",
+      "fuentePagina": "https://pt.wikipedia.org/wiki/Br%C3%B3colis",
+      "titulo": "Brócolis – Wikipédia, a enciclopédia livre",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDhLOs7xiCFWK9r3ifUgcaxBmLQsyUNNpipQ&s",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Broccoli_and_cross_section_edit.jpg/330px-Broccoli_and_cross_section_edit.jpg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/broccoli/pt/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbHmJbiqtEgHC9pp5WTyYtey8awolKBRQHFw&s",
+      "fuentePagina": "https://www.ativo.com/ativo/brocolis-ajuda-emagrecer-e-previne-envelhecimento/",
+      "titulo": "Brócolis ajuda a emagrecer e previne envelhecimento | Ativo",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbHmJbiqtEgHC9pp5WTyYtey8awolKBRQHFw&s",
+      "original": "https://s3.sa-east-1.amazonaws.com/static.activodeporte.com/brasil/uploads/2022/11/16162704/ativo_brocolis-690x515.jpg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/broccoli/pt/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkzTf9nOS5V7XrnTdqZepv1AAp3DzSPd2ScQ&s",
+      "fuentePagina": "https://www.cpt.com.br/artigos/como-e-realizado-o-plantio-de-brocolis-da-forma-correta",
+      "titulo": "Como é realizado o plantio de brócolis da forma correta ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkzTf9nOS5V7XrnTdqZepv1AAp3DzSPd2ScQ&s",
+      "original": "https://cptstatic.s3.amazonaws.com/imagens/enviadas/materias/materia28605/plantio-de-brocolis-cursos-cpt.jpg"
+    }
+  ]
+}

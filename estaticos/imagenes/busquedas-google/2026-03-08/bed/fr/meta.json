@@ -1,0 +1,71 @@
+{
+  "categoria": "bed",
+  "categoriaSlug": "bed",
+  "idioma": "fr",
+  "nombreIdioma": "Français",
+  "termino": "lit",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:19:05.168Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "fr",
+    "gl": "be"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=lit&hl=fr&gl=be",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bed/fr/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlsXr37cMygg6a9IYutY7JpVRVi8U4sUhFUQ&s",
+      "fuentePagina": "https://www.habitat-design.com/fr-be/p/lit-160x200-en-chene",
+      "titulo": "Lit 160 x 200 cm en chêne massif - Naturel - Design by Bethan Gray",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlsXr37cMygg6a9IYutY7JpVRVi8U4sUhFUQ&s",
+      "original": "https://cdn.habitat.fr/thumbnails/product/50/50881/large/0/13541785.webp"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bed/fr/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT60Hp9muQeizW0mKIMuZwrnFIOWC_GFfBuag&s",
+      "fuentePagina": "https://www.leroidumatelas.be/lit-pocket-140x200-cm",
+      "titulo": "Lit Pocket - 140x200 cm - Le Roi du Matelas",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT60Hp9muQeizW0mKIMuZwrnFIOWC_GFfBuag&s",
+      "original": "https://www.leroidumatelas.be/media/catalog/product/cache/5d3e0151dfc699c01e1af2773fee198e/l/i/lit-140-pocket_2_3__1.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bed/fr/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQxz5ssc9l4OlhiWrXlBj_khgv7A2yiNttSg&s",
+      "fuentePagina": "https://www.emob.be/fr/lit-float-160x200-noyer",
+      "titulo": "Lit Float 160x200 - noyer - Moderne, Design Temahome | Emob",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQxz5ssc9l4OlhiWrXlBj_khgv7A2yiNttSg&s",
+      "original": "https://www.emob.be/media/catalog/product/cache/53a094445c57bdfaede61de2441adbf7/9/5/9500.757556___9500.758720_Float_bed_walnut___7_a_6abe.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bed/fr/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmhYprCeG9uAPuo7SibzKtk_1VeprDXOn9mw&s",
+      "fuentePagina": "https://www.literiejehaes.be/lit-perfecta-king/",
+      "titulo": "Lit Perfecta King — Literie Jehaes Magasin de Matelas ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmhYprCeG9uAPuo7SibzKtk_1VeprDXOn9mw&s",
+      "original": "https://www.literiejehaes.be/wp-content/uploads/2022/10/Capture-de%CC%81cran-2022-10-07-a%CC%80-11.08.02.png"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bed/fr/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8bOnry1ctL9VX8ICz2jinqS7MCngDJ_4dpQ&s",
+      "fuentePagina": "https://www.easymeubles.be/bois-massif-lit-140-x-200-cm-coeur-de-hetre-huile-naturel-247039.html",
+      "titulo": "Bois massif Lit | 140 x 200 cm | Coeur de hêtre | Huilé ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8bOnry1ctL9VX8ICz2jinqS7MCngDJ_4dpQ&s",
+      "original": "https://www.easymeubles.be/media/mf_webp/jpg/media/catalog/product/cache/20b859546e37e9c88b84ba739c21c2b6/vv_img/1/media_5_SG-TB-LOZ2702-1420-1411-KB.webp"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bed/fr/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3f93rKYELb1z16CHT39aPh9HbnqazlE2ELg&s",
+      "fuentePagina": "https://www.quatuordesign.be/meubles-interieur/lits-et-chevets/lits/lit-simple-tamoto/",
+      "titulo": "Lit simple Tamoto - Quatuor Design",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3f93rKYELb1z16CHT39aPh9HbnqazlE2ELg&s",
+      "original": "https://quatuor-images.hungryminds.host/2022/10/21132139/Tamoto-Bed-Metaphor-030-headboard_bone-powder-coated-frame_Tray-Table-M-deep-blue_Duo-Pillow-Case_Duo-Duvet-Cover-sky-blue.jpg"
+    }
+  ]
+}

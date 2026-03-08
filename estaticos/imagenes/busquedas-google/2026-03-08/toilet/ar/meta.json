@@ -1,0 +1,71 @@
+{
+  "categoria": "toilet",
+  "categoriaSlug": "toilet",
+  "idioma": "ar",
+  "nombreIdioma": "العربية",
+  "termino": "مرحاض",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:20:34.768Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "ar",
+    "gl": "eg"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=%D9%85%D8%B1%D8%AD%D8%A7%D8%B6&hl=ar&gl=eg",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/toilet/ar/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSQ_YNURyqIdKldFJf6cdMx6w9lHShG6Dj-Q&s",
+      "fuentePagina": "https://khamato.com/sanipure-rosetta-close-coupled-toilet-with-seat-cover-white-2280490075-bundle?srsltid=AfmBOordbO1XRQdJJWRZoxRmUE9QAd5Af3YS5BP0gpBUTea05Zt7btov",
+      "titulo": "مرحاض كامل مع سيديلي سانيبيور روزيتا أبيض",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSQ_YNURyqIdKldFJf6cdMx6w9lHShG6Dj-Q&s",
+      "original": "https://e-motion-cdn.fra1.cdn.digitaloceanspaces.com/product/2090/UuY2qRejfxQSBGePg9EApYlObXw9GQ9sZyJ9MUmg-1000x1000.jpg?v=-1"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/toilet/ar/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJ_hW57NJNeUTJi8S1EFFOqQC0FSzmyvoPWg&s",
+      "fuentePagina": "https://panorama-egypt.com/index.php?route=product/product&product_id=1342",
+      "titulo": "مرحاض كيميرا G0222 - G0221 بالشطاف الداخلى والسيديلى والخزان بالعدة وطقم  التثبيت من أيديال ستاندرد",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJ_hW57NJNeUTJi8S1EFFOqQC0FSzmyvoPWg&s",
+      "original": "https://panorama-egypt.com/image/cache/catalog/Panorama/77700-550x550.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/toilet/ar/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1qRmwmh6v5d-CfbmRq44Ha3hkI4soN8ab5g&s",
+      "fuentePagina": "https://ar.wikipedia.org/wiki/%D9%85%D8%B1%D8%AD%D8%A7%D8%B6",
+      "titulo": "مرحاض - ويكيبيديا",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1qRmwmh6v5d-CfbmRq44Ha3hkI4soN8ab5g&s",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Toilet_370x580.jpg/250px-Toilet_370x580.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/toilet/ar/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgkI5ayk-sjFa57cppgZe_ltL37HkUe9kPwQ&s",
+      "fuentePagina": "https://khamato.com/villeroy-boch-onovo-toilet-with-sprayer-white-bundle?srsltid=AfmBOooTlPEr5vhz7oBE0Lp4A0ZDB9O1Pwb_C7ILleB3NxGeAFi9pBVF",
+      "titulo": "مرحاض بالدش فيلروي اند بوخ اونوفو أبيض",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgkI5ayk-sjFa57cppgZe_ltL37HkUe9kPwQ&s",
+      "original": "https://e-motion-cdn.fra1.cdn.digitaloceanspaces.com/product/7930/gMwrf5vLO1fozvXF5srQ41m1mZDbNKcGVSxBJlfN-1000x1000.jpg?v=-1"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/toilet/ar/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOkCDplHbcArvUVaZjnIinALCfCpR3eSi6sg&s",
+      "fuentePagina": "https://almanzilco.com/product/%D8%A7%D9%83%D9%88%D8%A7%D8%B3%D8%A7%D9%86-%D8%B7%D9%82%D9%85-%D9%85%D8%B1%D8%AD%D8%A7%D8%B6-%D8%A7%D8%B7%D9%81%D8%A7%D9%84-%D9%85%D8%B9-%D8%BA%D8%B7%D8%A7%D8%A1-%D9%88-%D9%85%D8%A7%D9%83%D9%8A/",
+      "titulo": "اكواسان - طقم مرحاض اطفال مع غطاء و ماكينة - Al Manzil",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOkCDplHbcArvUVaZjnIinALCfCpR3eSi6sg&s",
+      "original": "https://almanzilco.com/wp-content/uploads/2023/11/08-.jpg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/toilet/ar/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6Hy-hOIiVB6O39S9DDjBzHy7eqb-rj3oq_A&s",
+      "fuentePagina": "https://manaratalsaheltradingcompany.com/product/ewa-one-piece-toilet-closet/?srsltid=AfmBOoq2LUG30BfbE18iCbmv068qc1zUcYXrhnLvq4D1YqP46_aki8iL",
+      "titulo": "خزانة مرحاض من قطعة واحدة من إيوا-EWA One Piece Toilet ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6Hy-hOIiVB6O39S9DDjBzHy7eqb-rj3oq_A&s",
+      "original": "https://manaratalsaheltradingcompany.com/wp-content/uploads/H0ac819553c374a289eef20551b15d7fev.png"
+    }
+  ]
+}

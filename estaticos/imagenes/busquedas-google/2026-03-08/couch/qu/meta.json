@@ -1,0 +1,71 @@
+{
+  "categoria": "couch",
+  "categoriaSlug": "couch",
+  "idioma": "qu",
+  "nombreIdioma": "Quechua",
+  "termino": "sofa",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:17:57.685Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "es",
+    "gl": "pe"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=sofa&hl=es&gl=pe",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/couch/qu/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5EaHOpuQHNVLDcTxyV4d-prKdMFxKvm4oJA&s",
+      "fuentePagina": "https://www.famuze.pe/products/sofa-seccional-reclinable-tapizado-de-9-piezas-lucca?srsltid=AfmBOoqnGs61AliV7lgT8WVu2M4GuMVpJ9f_Brlh6Dj0kGhMgmNhl6-F",
+      "titulo": "Sofá Modular tapizado de 9 piezas - LUCCA – FAMUZE",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5EaHOpuQHNVLDcTxyV4d-prKdMFxKvm4oJA&s",
+      "original": "https://www.famuze.pe/cdn/shop/files/Sofa_modular_Lucca_04.webp?v=1761877396&width=1214"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/couch/qu/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3e3Dh_I-g5HMWplCS3oWollKjPntbFxAF4w&s",
+      "fuentePagina": "https://www.rosen.com.pe/sofa-quebec-cuero.html?srsltid=AfmBOoramyCdUBLScCoHkgEK0culYPKWNXETJxSPAdT7vsevl1gL0kHo",
+      "titulo": "Sofá Quebec Cuero",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3e3Dh_I-g5HMWplCS3oWollKjPntbFxAF4w&s",
+      "original": "https://www.rosen.com.pe/media/catalog/product/1/3/13021683-amb.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/couch/qu/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqyhD3eEoF3zT8q9wu778guBzGGNl9e6Nf1g&s",
+      "fuentePagina": "https://www.formashome.com/sofa-curvo-lianca?srsltid=AfmBOoohq3NLmaiBh3zg61wqP5VKucU7jiJ2EztQGy55Om348E2dzIRm",
+      "titulo": "Sofá Curvo Lianca",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqyhD3eEoF3zT8q9wu778guBzGGNl9e6Nf1g&s",
+      "original": "https://cdnx.jumpseller.com/formashome/image/71626539/thumb/719/719?1767827487"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/couch/qu/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRa_PSZoPoNB6_zHFCXw0O0Tv8QudHQPUwJcQ&s",
+      "fuentePagina": "https://www.ubuy.pe/sp/product/8Y5U0H78G-honbay-modern-linen-fabric-sofa-set-sectional-gray-couch-dark-grey?srsltid=AfmBOoo9gnjOArdTtqRwCRyDDvk5hD_wjBInzAvODRxr7XH9285ZwY25",
+      "titulo": "HONBAY Sofá Seccional de Tela Moderna en Forma de L con Almacenamiento  Móvil Otomano, Gris Oscuro",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRa_PSZoPoNB6_zHFCXw0O0Tv8QudHQPUwJcQ&s",
+      "original": "https://images-cdn.ubuy.co.in/65a1843783da5257de4a7903-honbay-modern-linen-fabric-couch-l-shape.jpg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/couch/qu/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRO8a7djFE8LsdSTttKS0Gr5djIcmZtzkPmPA&s",
+      "fuentePagina": "https://colineal.pe/products/sala-modular-sofa-cama-charlie",
+      "titulo": "Sala Modular Sofa Cama Charlie",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRO8a7djFE8LsdSTttKS0Gr5djIcmZtzkPmPA&s",
+      "original": "https://colineal.pe/cdn/shop/files/Sofacama-Charlie_1600x1200_36ac0818-8b33-491f-9fef-f57ceb5b020e.jpg?v=1765242100"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/couch/qu/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYLQjgUdOtCRFJ8IUQssrN6tx7WDg_ppJe1w&s",
+      "fuentePagina": "https://www.oechsle.pe/sofa-moderno-lucia-3-cuerpos-color-beige-tu-mesita-1000802024/p?srsltid=AfmBOoq7a95Vq6KOzY4dgH3Xu0nRfcU_nGcLxMMPngIMEpcOxaII49Th",
+      "titulo": "Sofa Moderno Lucía 3 cuerpos color Beige TU MESITA",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYLQjgUdOtCRFJ8IUQssrN6tx7WDg_ppJe1w&s",
+      "original": "https://oechsle.vteximg.com.br/arquivos/ids/17744757-1000-1000/image-d9d365ed78954f86ad23c3060ea1abf7.jpg?v=638507497964470000"
+    }
+  ]
+}

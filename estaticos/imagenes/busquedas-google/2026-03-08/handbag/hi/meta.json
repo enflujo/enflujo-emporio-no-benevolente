@@ -1,0 +1,71 @@
+{
+  "categoria": "handbag",
+  "categoriaSlug": "handbag",
+  "idioma": "hi",
+  "nombreIdioma": "हिन्दी",
+  "termino": "पर्स",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T20:57:49.399Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "hi",
+    "gl": "in"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=%E0%A4%AA%E0%A4%B0%E0%A5%8D%E0%A4%B8&hl=hi&gl=in",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/handbag/hi/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfjR9Jxcwz68JSv4AKN_fmkzt_Bg1kc-0Zmg&s",
+      "fuentePagina": "https://www.amazon.in/-/hi/%E0%A4%AE%E0%A4%B9%E0%A4%BF%E0%A4%B2%E0%A4%BE%E0%A4%93%E0%A4%82-%E0%A4%B9%E0%A5%88%E0%A4%82%E0%A4%A1%E0%A4%AC%E0%A5%88%E0%A4%97-%E0%A4%AE%E0%A5%88%E0%A4%9A%E0%A4%BF%E0%A4%82%E0%A4%97-A0-3pcs-%E0%A4%AC%E0%A5%88%E0%A4%82%E0%A4%97%E0%A4%A8%E0%A5%80/dp/B094X5R16F",
+      "titulo": "पर्स और वॉलेट सेट महिलाओं के काम के लिए हैंडबैग कंधे बैग टॉप हैंडल टोट्स  पर्स मैचिंग वॉलेट के साथ, 3pcs/सेट पर्पल 1, बड़ा, A0-3pcs/सेट बैंगनी :  Amazon.in ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfjR9Jxcwz68JSv4AKN_fmkzt_Bg1kc-0Zmg&s",
+      "original": "https://m.media-amazon.com/images/I/81dApK5AiwL._AC_UY1000_.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/handbag/hi/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzUkum0zxipJl5JCw2Ssa44rTKlR16Ru90bg&s",
+      "fuentePagina": "https://www.amazon.in/-/hi/Krupasadhya-%E0%A4%A1%E0%A4%BF%E0%A4%9C%E0%A4%BC%E0%A4%BE%E0%A4%87%E0%A4%A8-%E0%A4%B9%E0%A5%88%E0%A4%82%E0%A4%A1%E0%A4%AC%E0%A5%88%E0%A4%97-%E0%A4%B2%E0%A4%A1%E0%A4%BC%E0%A4%95%E0%A4%BF%E0%A4%AF%E0%A5%8B%E0%A4%82-%E0%A4%85%E0%A4%A6%E0%A5%8D%E0%A4%B5%E0%A4%BF%E0%A4%A4%E0%A5%80%E0%A4%AF/dp/B0BW6WGRXY",
+      "titulo": "Krupasadhya पिंक फ्लोरल डिज़ाइन लेथर हैंडबैग महिलाओं के लिए ऑफिस बैग लेडीज  पर्स शोल्डर बैग टोट महिलाओं कॉलेज लड़कियों के लिए अद्वितीय डिजाइन और ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzUkum0zxipJl5JCw2Ssa44rTKlR16Ru90bg&s",
+      "original": "https://m.media-amazon.com/images/I/61Bmq78FooL._AC_UY1000_.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/handbag/hi/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVYuIR8YivQwe5c9idkZ1m6yH1lwrOeOIq-Q&s",
+      "fuentePagina": "https://www.tradeindia.com/hi/products/ladies-lightweight-and-waterproof-stylish-fancy-pink-leather-hand-purse-7762606.html",
+      "titulo": "महिलाओं का हल्का और वाटरप्रूफ स्टाइलिश फैंसी पिंक (गुलाबी) लेदर हैंड पर्स  सबसे अच्छी कीमत पर नोएडा में | सारा क्रिएशन इस.",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVYuIR8YivQwe5c9idkZ1m6yH1lwrOeOIq-Q&s",
+      "original": "https://tiimg.tistatic.com/fp/1/007/762/ladies-lightweight-waterproof-stylish-fancy-pink-leather-hand-purse-606.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/handbag/hi/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ00I2Tr7NXVo5SPgouAg5aYdkHvYHG6-AsAA&s",
+      "fuentePagina": "https://hindi.alibaba.com/product-detail/Casual-Men-Wallets-PU-Leather-Short-1600402049473.html",
+      "titulo": "आकस्मिक पुरुषों के पर्स पु चमड़ा लघु सिक्का पर्स कुंडी डिजाइन बटुआ चमड़े  क्लच पर्स पुरुष Carteiras| Alibaba.com",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ00I2Tr7NXVo5SPgouAg5aYdkHvYHG6-AsAA&s",
+      "original": "https://sc04.alicdn.com/kf/Hbd6005c682a043f6a78bb3618d8ade0e7.jpg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/handbag/hi/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTz5FcXpDg9DqctJss9IcBJ4nEFKAgCU0Y3Jg&s",
+      "fuentePagina": "https://www.tradeindia.com/hi/products/moisture-proof-fancy-design-ladies-purse-8341862.html",
+      "titulo": "मॉइस्चर प्रूफ फैंसी डिज़ाइन लेडीज़ पर्स सबसे अच्छी कीमत पर नयी दिल्ली में |  लुकआउट फैशन",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTz5FcXpDg9DqctJss9IcBJ4nEFKAgCU0Y3Jg&s",
+      "original": "https://tiimg.tistatic.com/fp/1/008/341/moisture-proof-fancy-design-ladies-purse-862.jpg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/handbag/hi/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQf48A8Ih-4Diihqywn5sVSBBaSzD_ryK4J4w&s",
+      "fuentePagina": "https://sheetalonlinefashion.in/hi/products/gorgeous-stylishr-handbag-attractive-and-classic-in-design-ladies-purse-latest-trendy-fashion-side-sling-handbag-for-women-and-girls-elegant-and-exotic-woman-purse-bjfgijdej?srsltid=AfmBOoqj26tmvftAmMUAJXltFxSGrtUKg39jFEsyEx53Hzm37dOF7756",
+      "titulo": "भव्य स्टाइलिश हैंडबैग आकर्षक और क्लासिक डिजाइन महिलाओं पर्स नवीनतम ट्र –  Sheetal Online Fashion Store",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQf48A8Ih-4Diihqywn5sVSBBaSzD_ryK4J4w&s",
+      "original": "http://sheetalonlinefashion.in/cdn/shop/products/fvdiv_512.webp?v=1697786127"
+    }
+  ]
+}

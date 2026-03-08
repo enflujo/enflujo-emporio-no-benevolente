@@ -1,0 +1,71 @@
+{
+  "categoria": "bear",
+  "categoriaSlug": "bear",
+  "idioma": "qu",
+  "nombreIdioma": "Quechua",
+  "termino": "ukuku",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T20:54:32.942Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "es",
+    "gl": "pe"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=ukuku&hl=es&gl=pe",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bear/qu/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6uC1kKmSKVRUKOGd53iYlNotB0SQgSC6WBQ&s",
+      "fuentePagina": "https://www.cinencuentro.com/2011/01/16/ukuku-2009/",
+      "titulo": "Crítica] \"Ukuku\", de Gastón Vizcarra (2009) - Cinencuentro",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6uC1kKmSKVRUKOGd53iYlNotB0SQgSC6WBQ&s",
+      "original": "https://cdn.cinencuentro.com/wp-content/uploads/2011/01/ukuku.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bear/qu/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4KBkgNfpt-iFaLkQNw9FqMLlvPDxd_EsvSQ&s",
+      "fuentePagina": "https://www.tiktok.com/@inkaricentrocultural/video/7515588735665245496",
+      "titulo": "El Ukuku: El Guardián de los Andes",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4KBkgNfpt-iFaLkQNw9FqMLlvPDxd_EsvSQ&s",
+      "original": "https://www.tiktok.com/api/img/?itemId=7515588735665245496&location=0&aid=1988"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bear/qu/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuVBDdhcT8ZttC2kSZ5ZJSfckKJq3362HRlA&s",
+      "fuentePagina": "https://www.instagram.com/p/DJdHv4DNtB0/",
+      "titulo": "El Ukuku (oso) es un personaje mitológico andino. que ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuVBDdhcT8ZttC2kSZ5ZJSfckKJq3362HRlA&s",
+      "original": "https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3629090942993401895"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bear/qu/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJmv2C003Yrx6VWDvh0CtNkHr2CBx-zQLLDg&s",
+      "fuentePagina": "https://portalhuaraz.com/hombre-oso-ukuku/",
+      "titulo": "El hombre oso - Ukuku - Portal Huaraz",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJmv2C003Yrx6VWDvh0CtNkHr2CBx-zQLLDg&s",
+      "original": "https://portalhuaraz.com/wp-content/uploads/2020/10/El-hombre-oso-ukuku.jpg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bear/qu/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdvMxTO-ss3zI4Rq7_EqwyKl02sufTbxgoGQ&s",
+      "fuentePagina": "https://www.facebook.com/paucartambopuntocom/posts/el-legendario-ukuku-con-los-colores-rojo-y-negro-de-nuestra-naci%C3%B3n-paucartambo/2853889731604064/",
+      "titulo": "El legendario #ukuku, con los colores rojo y negro de ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdvMxTO-ss3zI4Rq7_EqwyKl02sufTbxgoGQ&s",
+      "original": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=2389555248037517"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bear/qu/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4QbUmDxEgxRkwDvJ3t1EEOIVuCsfoKfWbLA&s",
+      "fuentePagina": "https://www.elorejiverde.com/buen-vivir/4685-ukuku-el-hombre-oso-bailarin-devoto-guardian-de-las-nieves",
+      "titulo": "UKUKU. El hombre-oso, bailarín devoto, guardián de las nieves",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4QbUmDxEgxRkwDvJ3t1EEOIVuCsfoKfWbLA&s",
+      "original": "https://www.elorejiverde.com/images/buen-vivir/Ukuku_interior.jpg"
+    }
+  ]
+}

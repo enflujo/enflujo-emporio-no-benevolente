@@ -1,0 +1,71 @@
+{
+  "categoria": "fork",
+  "categoriaSlug": "fork",
+  "idioma": "gn",
+  "nombreIdioma": "Guaraní",
+  "termino": "tenedor",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:08:21.255Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "es",
+    "gl": "py"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=tenedor&hl=es&gl=py",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/fork/gn/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIt6BGZaXDrDfU549LHhqU7ct7ZpfDG6f6kA&s",
+      "fuentePagina": "https://www.perezramirez.com.py/catalogo/tenedor-de-mesa-tramontina-ipanema_001.1464_001.1464?srsltid=AfmBOoq_X3HXZc3zpsODheoF2dyaP0S6C1ht4Ht1STr6s7cPpk49nMM3",
+      "titulo": "Tenedor de mesa Tramontina Ipanema",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIt6BGZaXDrDfU549LHhqU7ct7ZpfDG6f6kA&s",
+      "original": "https://f.fcdn.app/imgs/360975/www.perezramirez.com.py/perrpy/cb51/original/catalogo/001.1464_001.1464_1/1500-1500/tenedor-de-mesa-tramontina-ipanema-tenedor-de-mesa-tramontina-ipanema.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/fork/gn/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLYeKmmPALeMtQrHUPFkTSHuGwtygCxZxA_Q&s",
+      "fuentePagina": "https://www.amazon.com/-/es/Tenedor-inoxidable-pulgadas-resistente-lavavajillas/dp/B08FHGQTRK",
+      "titulo": "Amazon.com: Tenedor de cena de acero inoxidable 18/10, 8 ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLYeKmmPALeMtQrHUPFkTSHuGwtygCxZxA_Q&s",
+      "original": "https://m.media-amazon.com/images/I/61z0LVrrowL._AC_UF894,1000_QL80_.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/fork/gn/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScAjrklB7xi6sslMeC4I5fP0WIQlQZYM8EZQ&s",
+      "fuentePagina": "https://www.nuevaamericana.com.py/tenedor-para-postre-satri-2014575/p?srsltid=AfmBOoqTcRHdi95B9x4chpONLrD6zsv98GbT6d2qI39YK28QuWlyoqm6",
+      "titulo": "Tenedor Para Postre Satri",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScAjrklB7xi6sslMeC4I5fP0WIQlQZYM8EZQ&s",
+      "original": "https://nuevaamericanapy.vtexassets.com/arquivos/ids/1497039/Tenedor-20Para-20Postre-20Satri.jpg?v=638542835902570000"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/fork/gn/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0GQiHoC2VAiN5AeODIG8h80LIw4A3QXQZuQ&s",
+      "fuentePagina": "https://anforama.com/products/tenedor-mesa-4-acero-inoxidable?srsltid=AfmBOop-PXeVqvzEmJrRMHLouMQ_cG0H95SUJM-DKbg_1kitrGzQJrZw",
+      "titulo": "Tenedor para Mesa de 18.3 cm a 4 dientes de Acero Inoxidable ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0GQiHoC2VAiN5AeODIG8h80LIw4A3QXQZuQ&s",
+      "original": "https://anforama.com/cdn/shop/files/TenedorparaMesaa4dientesdeAceroInoxidableEleganteToledoMovenM00120033.png?crop=center&height=1497&v=1756940560&width=1361"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/fork/gn/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8QLobFNdzafR_Kd0cMEDV3XlD8WvJCdDWHg&s",
+      "fuentePagina": "https://www.perezramirez.com.py/catalogo/tenedor-de-mesa-madera_001.13111_001.13111?srsltid=AfmBOooGwxH5AeEbyMThVC7s2iVrPLQ-029s8RWVH-299uVX52FKn6Ep",
+      "titulo": "Tenedor de mesa madera",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8QLobFNdzafR_Kd0cMEDV3XlD8WvJCdDWHg&s",
+      "original": "https://f.fcdn.app/imgs/bec6d3/www.perezramirez.com.py/perrpy/0a08/original/catalogo/001.13111_001.13111_1/2000-2000/tenedor-de-mesa-madera-tenedor-de-mesa-madera.jpg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/fork/gn/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQv__7t0F6qMyW1e-eX-J9P8-nWuIXjPAegiw&s",
+      "fuentePagina": "https://glassur.es/sevilla-tenedor-mesa-caja-12-uds-17168.html",
+      "titulo": "SEVILLA TENEDOR MESA Caja 12 Uds",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQv__7t0F6qMyW1e-eX-J9P8-nWuIXjPAegiw&s",
+      "original": "https://glassur.es/77687-large_default/sevilla-tenedor-mesa-caja-12-uds.jpg"
+    }
+  ]
+}

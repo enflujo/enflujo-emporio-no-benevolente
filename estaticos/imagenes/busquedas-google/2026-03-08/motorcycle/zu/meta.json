@@ -1,0 +1,71 @@
+{
+  "categoria": "motorcycle",
+  "categoriaSlug": "motorcycle",
+  "idioma": "zu",
+  "nombreIdioma": "isiZulu",
+  "termino": "imoto enkulu",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T20:42:35.495Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "zu",
+    "gl": "za"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=imoto%20enkulu&hl=zu&gl=za",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/motorcycle/zu/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVv1gsNTWCAA4OEv-DDZKjB_7gQ78C6fAa3A&s",
+      "fuentePagina": "https://www.terafundchina.com/zu/big-car-with-double-seat-for-kids-bmt1600-product/",
+      "titulo": "I-China Imoto enkulu enezihlalo ezimbili zezingane ze ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVv1gsNTWCAA4OEv-DDZKjB_7gQ78C6fAa3A&s",
+      "original": "https://cdnus.globalso.com/terafundchina/75100.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/motorcycle/zu/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFQgY_meH8-6mAjG1bAb9efnQEfHQA1sRD3A&s",
+      "fuentePagina": "https://www.facebook.com/groups/1433488600454403/posts/2086050625198194/",
+      "titulo": "Indlu edayisayo adams nesite enkulu kakhulu imoto yangena ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFQgY_meH8-6mAjG1bAb9efnQEfHQA1sRD3A&s",
+      "original": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=1956412601437623"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/motorcycle/zu/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRg8wozNVQRjhI36vRG7LrPD6Fz4oyMd0K61A&s",
+      "fuentePagina": "https://www.facebook.com/groups/1433488600454403/posts/2086050625198194/",
+      "titulo": "Indlu edayisayo adams nesite enkulu kakhulu imoto yangena ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRg8wozNVQRjhI36vRG7LrPD6Fz4oyMd0K61A&s",
+      "original": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=1956412638104286"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/motorcycle/zu/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxhKwsLWtQDccaB6Ik8WiiQrhSbe0YaXF8Ag&s",
+      "fuentePagina": "https://www.facebook.com/groups/1433488600454403/posts/2359863191150268/",
+      "titulo": "muzi odayisayo mgababa 6rooms + site engenhla lomuzi enkulu ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxhKwsLWtQDccaB6Ik8WiiQrhSbe0YaXF8Ag&s",
+      "original": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=2216862738725940"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/motorcycle/zu/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSM7uh2bndfArMhoGlJB5hOqMcjXMhzLj8Z0A&s",
+      "fuentePagina": "https://ilanganews.co.za/wasebenzisa-imoto-yomfowabo-obulale-unina-wengane/",
+      "titulo": "Wasebenzisa imoto yomfowabo obulale unina wengane - Ilanga News",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSM7uh2bndfArMhoGlJB5hOqMcjXMhzLj8Z0A&s",
+      "original": "https://ilanganews.co.za/wp-content/uploads/2026/03/Noluthando-Khomo-umufi.jpg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/motorcycle/zu/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUSsty4o1Ja8KYOtdWAmIFNRaL1wmZmlkB2A&s",
+      "fuentePagina": "https://www.facebook.com/groups/1433488600454403/posts/2335701456899775/",
+      "titulo": "indlu edayisayo nteke 2rooms onesite enkulu sedzue nomgwanqo ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUSsty4o1Ja8KYOtdWAmIFNRaL1wmZmlkB2A&s",
+      "original": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=2193840351028179"
+    }
+  ]
+}

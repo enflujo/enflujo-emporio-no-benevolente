@@ -1,0 +1,71 @@
+{
+  "categoria": "bear",
+  "categoriaSlug": "bear",
+  "idioma": "zh",
+  "nombreIdioma": "中文",
+  "termino": "熊",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T20:54:38.784Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "zh-CN",
+    "gl": "cn"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=%E7%86%8A&hl=zh-CN&gl=cn",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bear/zh/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRX6hYH6D0XpbzySk2k8LpY8ZiSwn3I-NZcw&s",
+      "fuentePagina": "https://zh.wikipedia.org/zh-cn/%E7%A7%91%E8%BF%AA%E4%BA%9E%E5%85%8B%E6%A3%95%E7%86%8A",
+      "titulo": "科迪亚克棕熊- 维基百科，自由的百科全书",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRX6hYH6D0XpbzySk2k8LpY8ZiSwn3I-NZcw&s",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/2010-kodiak-bear-1.jpg/1280px-2010-kodiak-bear-1.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bear/zh/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPicw6TUXafC_j8cV9pSlntg4SQdruhCCP5A&s",
+      "fuentePagina": "https://zh.wikipedia.org/zh-cn/%E7%86%8A%E7%A7%91",
+      "titulo": "熊科- 维基百科，自由的百科全书",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPicw6TUXafC_j8cV9pSlntg4SQdruhCCP5A&s",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Kodiak_Brown_Bear.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bear/zh/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPnoubAeDfnIabVEQgaueSGWfzP1-ir0bQSQ&s",
+      "fuentePagina": "https://www.bbc.com/zhongwen/simp/world-51872686",
+      "titulo": "提前结束冬眠：人熊为何两担心- BBC News 中文",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPnoubAeDfnIabVEQgaueSGWfzP1-ir0bQSQ&s",
+      "original": "http://c.files.bbci.co.uk/063A/production/_111249510_gettyimages-1200519139.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bear/zh/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCx5ZNcqvvG8eSZwuM2xq-Xry1Ha0YM1_YIw&s",
+      "fuentePagina": "https://zh.wikipedia.org/zh-cn/%E6%A3%95%E7%86%8A",
+      "titulo": "棕熊- 维基百科，自由的百科全书",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCx5ZNcqvvG8eSZwuM2xq-Xry1Ha0YM1_YIw&s",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Brown_bear.jpg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bear/zh/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSi4oj5D581ccrRKvl1bSRhWkiaaL0X2avOZg&s",
+      "fuentePagina": "https://zh.wikipedia.org/zh-cn/%E4%BA%9E%E6%B4%B2%E9%BB%91%E7%86%8A",
+      "titulo": "亚洲黑熊- 维基百科，自由的百科全书",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSi4oj5D581ccrRKvl1bSRhWkiaaL0X2avOZg&s",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Ursus_thibetanus_3_%28Wroclaw_zoo%29.JPG/250px-Ursus_thibetanus_3_%28Wroclaw_zoo%29.JPG"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bear/zh/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxhVQ6DJpCn_vJWowqonGi16lixThGh4U7mg&s",
+      "fuentePagina": "https://jingyan.baidu.com/article/4853e1e54cf45f5808f72620.html",
+      "titulo": "熊的资料-百度经验",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxhVQ6DJpCn_vJWowqonGi16lixThGh4U7mg&s",
+      "original": "http://exp-picture.cdn.bcebos.com/f0848bee41c1b727ae21fc3f1a2ca5cadde898c9.jpg?x-bce-process=image%2Fcrop%2Cx_0%2Cy_0%2Cw_766%2Ch_493%2Fformat%2Cf_auto%2Fquality%2Cq_80"
+    }
+  ]
+}

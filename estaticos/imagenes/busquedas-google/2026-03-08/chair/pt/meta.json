@@ -1,0 +1,71 @@
+{
+  "categoria": "chair",
+  "categoriaSlug": "chair",
+  "idioma": "pt",
+  "nombreIdioma": "Português",
+  "termino": "cadeira",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:17:28.873Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "pt",
+    "gl": "br"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=cadeira&hl=pt&gl=br",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/chair/pt/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThrImAv9e0-nbQQx4jm_cg1c_6tth1Bnzdsw&s",
+      "fuentePagina": "https://www.studiometalmadeira.com.br/moveis/cadeiras/cadeira-de-jantar-katrina-x-cross-espanha-paris-leve-luxo?srsltid=AfmBOoqB4xwUTXny3fBKavpOaTi4gxqX9Dm3tT1TBXa2vs-HvKov4PxE",
+      "titulo": "Cadeira De Jantar Katrina X Cross Espanha Paris Madeira ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThrImAv9e0-nbQQx4jm_cg1c_6tth1Bnzdsw&s",
+      "original": "https://images.tcdn.com.br/img/img_prod/825325/cadeira_de_jantar_katrina_x_cross_espanha_paris_leve_luxo_309_2_ce8215698cb12fa29d26e696e588763b_20250819101614.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/chair/pt/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5f7LdpfkT7O4Q9Dpzt932cd6ghkW4zkVTUQ&s",
+      "fuentePagina": "https://www.casahuma.com.br/cadeira-dior-madeira-macica-encosto-c-telinha-e-assento-estofado-bege-mel?srsltid=AfmBOooexVhfeFM93PgVOyzqmc7a2PYIo_55oenBQMIq0qiLUdMmhTfH",
+      "titulo": "Cadeira Dior Madeira Maciça Encosto c/ Telinha e Assento Estofado -Bege/Mel",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5f7LdpfkT7O4Q9Dpzt932cd6ghkW4zkVTUQ&s",
+      "original": "https://casahuma.cdn.magazord.com.br/img/2024/02/produto/1902/cadeira-dior-madeira-macica-encosto-c-telinha-e-assento-estofado.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/chair/pt/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOvtWiET8WNrHoMC_6Y-XtZ8yYioIsml7nBw&s",
+      "fuentePagina": "https://www.hiperequipamentos.com.br/produto/cadeira-rustica-quadrada-de-madeira-c-cera-nao-e-verniz-%E2%80%93-tam-80-cm-vctt-ce-68845?srsltid=AfmBOor9reG6IPEF4tSVvPyIP4jGduIlhtVVJei3uas6HVtZkyQXx8zs",
+      "titulo": "Cadeira Rústica Quadrada de Madeira c/ CERA (não é verniz ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOvtWiET8WNrHoMC_6Y-XtZ8yYioIsml7nBw&s",
+      "original": "https://hiperequipamentos.fbitsstatic.net/img/p/cadeira-rustica-quadrada-de-madeira-c-cera-nao-e-verniz-%E2%80%93-tam-80-cm-vctt-ce-68845/255560-1.jpg?w=1500&h=1500&v=202512110945"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/chair/pt/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdHweZAGdMBS5AkoqSuAMGSWgM8IBIhsIOlw&s",
+      "fuentePagina": "https://www.ideaflex.com.br/AG302S20?srsltid=AfmBOoqcO_qWPX16mmXHxK9u_8qne9h60uT5K-dSVz5lsc1eQ0DqnOaa",
+      "titulo": "Cadeira Ágata Executiva Giratória Braço Regulável Tecido Azul com Preto",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdHweZAGdMBS5AkoqSuAMGSWgM8IBIhsIOlw&s",
+      "original": "https://cdn.awsli.com.br/600x450/1947/1947193/produto/101495504/ag302s20-zknj4kafgq.png"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/chair/pt/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8HPIUDhclLcXCIpjLb2-CqKLeI3Y41FdJNg&s",
+      "fuentePagina": "https://www.casaecadeira.com.br/cadeira-de-jantar-em-madeira-encosto-em-tela?srsltid=AfmBOopU3Qhu9xvhnkB86R_fSAjy4sRPUVpfebaEgpHFNHqa59U4_qcp",
+      "titulo": "Cadeira de Jantar em Madeira encosto em Tela - Casa ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8HPIUDhclLcXCIpjLb2-CqKLeI3Y41FdJNg&s",
+      "original": "https://cdn.awsli.com.br/1804/1804030/produto/217256355/cadeira-de-jantar-em-madeira-encosto-em-tela-frente-rytgcm49y2.jpg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/chair/pt/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsr69uv4lDHavVxgOoh0nCQgTnYxyegWAurA&s",
+      "fuentePagina": "https://www.spazi.com.br/cadeiras-escritorio/cadeira-compacta-preta-plastica-igreja-recepcao?srsltid=AfmBOooRiE9cgpydl-ev1BJISt0rBambQXxJsQcYq2guvlXOCS8q9V5n",
+      "titulo": "Cadeira Compacta Preta Plástica Igreja Recepção",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsr69uv4lDHavVxgOoh0nCQgTnYxyegWAurA&s",
+      "original": "https://images.tcdn.com.br/img/img_prod/1205498/cadeira_compacta_preta_plastica_igreja_recepcao_91_1_b2b77532671545379abfd10f0d3a76e4.jpg"
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "categoria": "cake",
+  "categoriaSlug": "cake",
+  "idioma": "nah",
+  "nombreIdioma": "Náhuatl",
+  "termino": "tlaxcalli",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:16:41.436Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "es",
+    "gl": "mx"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=tlaxcalli&hl=es&gl=mx",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/cake/nah/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiC4hoWh3VzHFzDUHiKbYpyNMf6bIRpms62g&s",
+      "fuentePagina": "https://www.mexicodesconocido.com.mx/tlaxcalli-el-origen-de-las-tortillas-modernas.html",
+      "titulo": "Tlaxcalli, el origen de la tortilla como la conocemos hoy ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiC4hoWh3VzHFzDUHiKbYpyNMf6bIRpms62g&s",
+      "original": "https://www.mexicodesconocido.com.mx/wp-content/uploads/2022/12/7-1-900x675.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/cake/nah/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCUor9c3iGh3lmjg4FN8qSa6hIZPojtLnJiw&s",
+      "fuentePagina": "https://www.mexicodesconocido.com.mx/tlaxcalli-el-origen-de-las-tortillas-modernas.html",
+      "titulo": "Tlaxcalli, el origen de la tortilla como la conocemos hoy ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCUor9c3iGh3lmjg4FN8qSa6hIZPojtLnJiw&s",
+      "original": "https://www.mexicodesconocido.com.mx/wp-content/uploads/2022/12/4-3-900x675.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/cake/nah/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgaz0ZsB7Oqj7GGRIsqkvf7d-8wfJO444t7g&s",
+      "fuentePagina": "https://www.tiktok.com/@explorandocdmex/video/7335313772069801221",
+      "titulo": "Descubre el Tlaxcalli: Tortilla Tradicional Mexicana",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgaz0ZsB7Oqj7GGRIsqkvf7d-8wfJO444t7g&s",
+      "original": "https://www.tiktok.com/api/img/?itemId=7335313772069801221&location=0&aid=1988"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/cake/nah/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5haDl7iDmZabYCGV9NBz2w-k55njm_gSkJw&s",
+      "fuentePagina": "https://www.facebook.com/OrigenInformativo/posts/es-tlaxcalli-no-tortilla-la-palabra-tortilla-no-es-una-palabra-mexicana-ni-provi/744678770379755/",
+      "titulo": "ES TLAXCALLI, NO TORTILLA La palabra Tortilla, no es una ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5haDl7iDmZabYCGV9NBz2w-k55njm_gSkJw&s",
+      "original": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=744678740379758"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/cake/nah/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4oV-hG1grUoXWAyxjIAEqRaKb4vlQOnrfsA&s",
+      "fuentePagina": "https://www.mexicodesconocido.com.mx/tlaxcalli-el-origen-de-las-tortillas-modernas.html",
+      "titulo": "Tlaxcalli, el origen de la tortilla como la conocemos hoy ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4oV-hG1grUoXWAyxjIAEqRaKb4vlQOnrfsA&s",
+      "original": "https://www.mexicodesconocido.com.mx/wp-content/uploads/2022/12/6-1-900x675.jpg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/cake/nah/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQn-lZ-a4Effdkbc18CtArfPu7bBQ5UXuNbmw&s",
+      "fuentePagina": "https://x.com/tcc_mx/status/1255257369728163841",
+      "titulo": "🧐¿Sabías que los mexicas llamaban “tlaxcalli” a las ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQn-lZ-a4Effdkbc18CtArfPu7bBQ5UXuNbmw&s",
+      "original": "https://pbs.twimg.com/media/EWuR6ppWkAENI9K.jpg"
+    }
+  ]
+}

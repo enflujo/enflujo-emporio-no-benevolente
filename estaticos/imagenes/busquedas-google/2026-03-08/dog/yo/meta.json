@@ -1,0 +1,71 @@
+{
+  "categoria": "dog",
+  "categoriaSlug": "dog",
+  "idioma": "yo",
+  "nombreIdioma": "Yorùbá",
+  "termino": "ajá",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T20:51:04.048Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "yo",
+    "gl": "ng"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=aj%C3%A1&hl=yo&gl=ng",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/dog/yo/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQipllpgFx67nvkS1BNZZNSaRrhOLC5kP88Pw&s",
+      "fuentePagina": "https://www.facebook.com/Aja.Official/",
+      "titulo": "Ajá (@Aja.Official) • Facebook",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQipllpgFx67nvkS1BNZZNSaRrhOLC5kP88Pw&s",
+      "original": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=100064777715676"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/dog/yo/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrgIXghGB7MWZuYm4fdw9ToypMrLXWKIdQIA&s",
+      "fuentePagina": "https://www.youtube.com/watch?v=nw5nuH2_0rc",
+      "titulo": "Ajá",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrgIXghGB7MWZuYm4fdw9ToypMrLXWKIdQIA&s",
+      "original": "https://i.ytimg.com/vi/nw5nuH2_0rc/maxresdefault.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/dog/yo/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqANhS-gz9gIgJ7xaWYqFgbjc7q245VnwtXg&s",
+      "fuentePagina": "https://www.youtube.com/watch?v=QQUF2jvvTbs",
+      "titulo": "Chencho Corleone & Bryant Myers - Si, Ajá (Letra)",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqANhS-gz9gIgJ7xaWYqFgbjc7q245VnwtXg&s",
+      "original": "https://i.ytimg.com/vi/QQUF2jvvTbs/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLBblslWzc0nZW5zLz98Ud7qpgkbTw"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/dog/yo/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzG3ntqF-6vbkiuLzhLEaxpCYaCwXU96KaHw&s",
+      "fuentePagina": "https://rubenbladesproductions.bandcamp.com/album/eba-say-aj",
+      "titulo": "Eba Say Ajá | Rubén Blades & Cheo Feliciano | Rubén Blades ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzG3ntqF-6vbkiuLzhLEaxpCYaCwXU96KaHw&s",
+      "original": "https://f4.bcbits.com/img/0013186806_10.jpg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/dog/yo/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGqrz9uRkxerRAZ0kDVhT-ZjV1ZOThiCTKbA&s",
+      "fuentePagina": "https://x.com/RevistaAja",
+      "titulo": "Revista Ajá (@RevistaAja) / Posts / X",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGqrz9uRkxerRAZ0kDVhT-ZjV1ZOThiCTKbA&s",
+      "original": "https://pbs.twimg.com/profile_images/2218329644/logo_aj__curvas_finita_400x400.png"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/dog/yo/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdnlw-nhQie91TIgcFEFd3A57FeeKfFi67Yg&s",
+      "fuentePagina": "https://www.youtube.com/watch?v=uplAJtWRfxo",
+      "titulo": "How to pronounce Ajá",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdnlw-nhQie91TIgcFEFd3A57FeeKfFi67Yg&s",
+      "original": "https://i.ytimg.com/vi/uplAJtWRfxo/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLBih8kUKAX_OXHKzKpSMVwxJf-XvQ"
+    }
+  ]
+}

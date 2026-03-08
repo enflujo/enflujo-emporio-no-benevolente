@@ -1,0 +1,71 @@
+{
+  "categoria": "bus",
+  "categoriaSlug": "bus",
+  "idioma": "am",
+  "nombreIdioma": "Amharic — አማርኛ",
+  "termino": "አውቶቡስ",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T20:43:53.935Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "am",
+    "gl": "et"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=%E1%8A%A0%E1%8B%8D%E1%89%B6%E1%89%A1%E1%88%B5&hl=am&gl=et",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bus/am/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwTBa68uby7qotaP6njtc8XbysHLgCcFpOdA&s",
+      "fuentePagina": "https://www.facebook.com/EBCzena/posts/%E1%8A%A0%E1%8A%95%E1%89%A0%E1%88%B3-%E1%8B%A8%E1%8A%A8%E1%89%B0%E1%88%9B-%E1%8A%A0%E1%8B%8D%E1%89%B6%E1%89%A1%E1%88%B5-%E1%89%A0%E1%8A%A0%E1%8B%B3%E1%8B%B2%E1%88%B5-%E1%8A%A0%E1%8B%8D%E1%89%B6%E1%89%A1%E1%88%B6%E1%89%BD-%E1%8B%A8%E1%8A%90%E1%8D%83-%E1%8A%A0%E1%8C%88%E1%88%8D%E1%8C%8D%E1%88%8E%E1%89%B5-%E1%88%8A%E1%88%B0%E1%8C%A5-%E1%8A%90%E1%8B%8D%E1%8A%A0%E1%8A%95%E1%89%A0%E1%88%B3-%E1%8B%A8%E1%8A%A8%E1%89%B0%E1%88%9B-%E1%8A%A0%E1%8B%8D%E1%89%B6%E1%89%A1%E1%88%B5-%E1%8A%A0%E1%8C%88%E1%88%8D%E1%8C%8D%E1%88%8E%E1%89%B5-%E1%8B%B5%E1%88%AD%E1%8C%85%E1%89%B5-%E1%89%A0%E1%88%98%E1%8C%AA%E1%8B%8D-%E1%8A%A5/2245546748810522/",
+      "titulo": "አንበሳ የከተማ አውቶቡስ በአዳዲስ አውቶቡሶች የነፃ ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwTBa68uby7qotaP6njtc8XbysHLgCcFpOdA&s",
+      "original": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=2245546632143867"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bus/am/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4wxxNKxztQTSUc1Hf1qwRrQU3Gdt6qwnArg&s",
+      "fuentePagina": "https://www.facebook.com/p/%E1%8A%A0%E1%8B%B2%E1%88%B5-%E1%8A%A0%E1%89%A0%E1%89%A3-%E1%8B%A8%E1%8A%A8%E1%89%B0%E1%88%9B-%E1%8A%A0%E1%8B%8D%E1%89%B6%E1%89%A1%E1%88%B5-%E1%8A%A0%E1%8C%88%E1%88%8D%E1%8C%8D%E1%88%8E%E1%89%B5-%E1%8B%B5%E1%88%AD%E1%8C%85%E1%89%B5-Addis-Ababa-City-Bus-Service-Enterprise-100089181500839/",
+      "titulo": "አዲስ አበባ የከተማ አውቶቡስ አገልግሎት ድርጅት ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4wxxNKxztQTSUc1Hf1qwRrQU3Gdt6qwnArg&s",
+      "original": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=112063188443064"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bus/am/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMHlIK2TrKmwpfgAsGrCTwBxI3HHn5p93qJA&s",
+      "fuentePagina": "https://am.jcmotorblog.com/49-seats-coach-bus-complete-specifications-and-price-guide",
+      "titulo": "49 መቀመጫዎች አሰልጣኝ አውቶቡስ፡ የተሟሉ ዝርዝሮች ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMHlIK2TrKmwpfgAsGrCTwBxI3HHn5p93qJA&s",
+      "original": "https://www.jcmotorblog.com/icms/upload/db023da0764a11f090c9a520d238064d/ckftpdata/images/2025912/1757674989293/upload_7205160489c6fe07d50192179f958782.webp?size=1090x0"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bus/am/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXKSDJovLYb338rxnDbRDyVNNQwcl7RlGSxw&s",
+      "fuentePagina": "https://www.facebook.com/citybus2015/photos/d41d8cd9/1193484079625032/",
+      "titulo": "Addis Ababa City Bus Service Enterprise አዲስ አበባ ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXKSDJovLYb338rxnDbRDyVNNQwcl7RlGSxw&s",
+      "original": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=1193484079625032"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bus/am/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSu-QuEei4DwHcRGP7-F1BQmkzzp4zVXMjwgg&s",
+      "fuentePagina": "https://am.jcmotorblog.com/is-a-coaster-bus-suitable-for-long-distance-travel",
+      "titulo": "ኮስተር አውቶቡስ ለረጅም ርቀት ጉዞ ተስማሚ ነው? - ጄ ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSu-QuEei4DwHcRGP7-F1BQmkzzp4zVXMjwgg&s",
+      "original": "https://www.jcmotorblog.com/icms/upload/db023da0764a11f090c9a520d238064d/ckftpdata/images/2025825/1756110291601/upload_49e40cb9c450434543512f50ee55d065.webp?size=1090x0"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bus/am/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxJqJSeAjLUull1wohrj5z085uiyuBvXw6tg&s",
+      "fuentePagina": "https://www.ft-china.com/am/electric-sightseeing-bus-new-design-luxury-car-bus-collection-v11e-product/",
+      "titulo": "የቻይና ኤሌክትሪክ የእይታ አውቶቡስ አዲስ ዲዛይን ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxJqJSeAjLUull1wohrj5z085uiyuBvXw6tg&s",
+      "original": "https://www.ft-china.com/uploads/BUS-31.png"
+    }
+  ]
+}

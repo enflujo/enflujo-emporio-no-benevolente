@@ -1,0 +1,71 @@
+{
+  "categoria": "sports ball",
+  "categoriaSlug": "sports-ball",
+  "idioma": "zh",
+  "nombreIdioma": "中文",
+  "termino": "球",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:01:50.754Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "zh-CN",
+    "gl": "cn"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=%E7%90%83&hl=zh-CN&gl=cn",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/sports-ball/zh/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTEq8ESaZ1qaQrV_7eqetAZTIS9LJ-MauHNw&s",
+      "fuentePagina": "https://zh.wikipedia.org/zh-cn/%E7%90%83_(%E9%AB%94%E8%82%B2)",
+      "titulo": "球(体育) - 维基百科，自由的百科全书",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTEq8ESaZ1qaQrV_7eqetAZTIS9LJ-MauHNw&s",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/c/ce/Many_balls.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/sports-ball/zh/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGbX6ZCbHYtzuXEXGzqp_RgKczC1BecdwKfg&s",
+      "fuentePagina": "https://www.rakuten.com.tw/shop/mincyuan/product/zm92tm6ef/?srsltid=AfmBOopoWHfeHEZIYLoRHX762UT7sBOQE5L5zAAENZXp_kXAzdIfM1lk",
+      "titulo": "三色球雙色充氣球兒童安全球/一袋10個入(促90) 直徑約16cm 玩具 ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGbX6ZCbHYtzuXEXGzqp_RgKczC1BecdwKfg&s",
+      "original": "https://tshop.r10s.com/dcf/419/3d23/833d/20fc/49c9/0b9b/1147e8869f2c600c737442.jpg?_ex=486x486"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/sports-ball/zh/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdfCGrHlTRMVqgeZyqGFCdYYMuv1vLeg9hQQ&s",
+      "fuentePagina": "https://www.zdic.net/hans/%E7%90%83",
+      "titulo": "球的解释|球的意思|汉典“球”字的基本解释",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdfCGrHlTRMVqgeZyqGFCdYYMuv1vLeg9hQQ&s",
+      "original": "https://img.zdic.net/kai/cn/7403.svg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/sports-ball/zh/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSuQ71pCWwHqqrAk_tJUsc3kNMAVupTns1lw&s",
+      "fuentePagina": "https://tw.pixtastock.com/illustration/116869331",
+      "titulo": "各種球類運動的球手繪插圖（彩色）-插圖素材[116869331] - PIXTA圖庫",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSuQ71pCWwHqqrAk_tJUsc3kNMAVupTns1lw&s",
+      "original": "https://en.pimg.jp/116/869/331/1/116869331.jpg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/sports-ball/zh/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxprw8_HNzKQDfiBEde6mxWPVzDvodcSp7vg&s",
+      "fuentePagina": "https://pixabay.com/zh/vectors/ball-soccer-sports-football-round-295326/",
+      "titulo": "球足球运动的- 免费矢量图形Pixabay",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxprw8_HNzKQDfiBEde6mxWPVzDvodcSp7vg&s",
+      "original": "https://cdn.pixabay.com/photo/2014/03/24/17/17/ball-295326_1280.png"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/sports-ball/zh/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTz-16f4YltKDLtbkLn31NvXlKjdF175cfd0g&s",
+      "fuentePagina": "https://www.hanzipi.com/%E7%90%83.html",
+      "titulo": "球字笔画、笔顺、笔划- 球字怎么写?",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTz-16f4YltKDLtbkLn31NvXlKjdF175cfd0g&s",
+      "original": "https://www.hanzipi.com/pic/gif/%E7%90%83.gif"
+    }
+  ]
+}

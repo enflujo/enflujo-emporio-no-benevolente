@@ -1,0 +1,71 @@
+{
+  "categoria": "microwave",
+  "categoriaSlug": "microwave",
+  "idioma": "qu",
+  "nombreIdioma": "Quechua",
+  "termino": "microwave",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:25:11.392Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "es",
+    "gl": "pe"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=microwave&hl=es&gl=pe",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/microwave/qu/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIOjQw509BfmkRwjMmRotUvG9lrjUcCF9AMQ&s",
+      "fuentePagina": "https://www.sencor.com/microwave-oven/smw-2120ss",
+      "titulo": "Microwave Oven | SMW 2120SS | Sencor.com",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIOjQw509BfmkRwjMmRotUvG9lrjUcCF9AMQ&s",
+      "original": "https://www.sencor.com/Sencor/media/content/main%20picture/40046721-2.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/microwave/qu/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLOrm8X6rLKWFbbgGtE-4u3hpdCimIicV1TA&s",
+      "fuentePagina": "https://www.ubuy.pe/sp/product/JHTNWJHY8-mainstays-07-cu-ft-countertop-microwave-oven-700-watts-black-new?srsltid=AfmBOorxEztJKOT6cOhCekCHNXGXUuAs_5PSNZxHv811VD_M-_KEmr36",
+      "titulo": "Pilares 0,7 Cu ft Horno de Microondas de Encimera, Peru | Ubuy",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLOrm8X6rLKWFbbgGtE-4u3hpdCimIicV1TA&s",
+      "original": "https://i5.walmartimages.com/asr/479bc7ad-5d18-4be7-b9d8-2a8087efc837.950aa53e0093422a0417fd042f0236e8.jpeg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/microwave/qu/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsoLvYcVPRPXjyOxd51_EL5cDKhkvSQfoCLQ&s",
+      "fuentePagina": "https://www.electrolux.co.id/en-id/support/blog/how-to-use-microwave-oven/",
+      "titulo": "How to use a microwave oven | Electrolux Indonesia",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsoLvYcVPRPXjyOxd51_EL5cDKhkvSQfoCLQ&s",
+      "original": "https://www.electrolux.co.id/contentassets/fcd0f71208704878b36613ca7461ea9b/cara-menggunakan-microwave-thumbnail-750x730.jpg?width=464"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/microwave/qu/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKv9an8gv1NevkQernL17mXd-YTgU4n3OBcw&s",
+      "fuentePagina": "https://shop.sharpusa.com/sharp-1-4-cu-ft-1100w-stainless-steel-countertop-microwave-oven-smc1450ks/?srsltid=AfmBOoq6PsJ29dpIXsIZETDLGGDWCojj1ipYqW18TWy9ZVoGwVat0OMh",
+      "titulo": "1.4 cu. ft. 1100W Stainless Steel Countertop Microwave Oven",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKv9an8gv1NevkQernL17mXd-YTgU4n3OBcw&s",
+      "original": "https://cdn11.bigcommerce.com/s-8vy557m296/images/stencil/original/products/321/4715/20_SMC1450KS_3QL_WEB__49631.1744665203.JPG?c=2"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/microwave/qu/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGnuUrx5Qh0djza70XcnVioEOEPlZP05ZDng&s",
+      "fuentePagina": "https://www.healthyfood.com/advice/back-to-basics-microwave-cooking/",
+      "titulo": "Back to basics: Microwave cooking - Healthy Food Guide",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGnuUrx5Qh0djza70XcnVioEOEPlZP05ZDng&s",
+      "original": "https://www.healthyfood.com/wp-content/uploads/2017/03/Back-to-basics-Microwave-cooking-.jpg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/microwave/qu/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsEAQhWVMczilWu2aBqoGeey9RxQBOacCfdQ&s",
+      "fuentePagina": "https://en.wikipedia.org/wiki/Microwave_oven",
+      "titulo": "Microwave oven - Wikipedia",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsEAQhWVMczilWu2aBqoGeey9RxQBOacCfdQ&s",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Panasonic_NN-SD69LS_20220410.jpg/250px-Panasonic_NN-SD69LS_20220410.jpg"
+    }
+  ]
+}

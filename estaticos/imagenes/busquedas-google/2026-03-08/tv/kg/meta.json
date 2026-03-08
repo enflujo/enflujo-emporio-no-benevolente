@@ -1,0 +1,71 @@
+{
+  "categoria": "tv",
+  "categoriaSlug": "tv",
+  "idioma": "kg",
+  "nombreIdioma": "Kikongo",
+  "termino": "tele",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:21:00.699Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "fr",
+    "gl": "cd"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=tele&hl=fr&gl=cd",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/tv/kg/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQS0pjtX9mKsxOdxXFmfIg5iI44A_P6o1ovtw&s",
+      "fuentePagina": "https://fr.freepik.com/photos-vecteurs-libre/rendu-tele",
+      "titulo": "Images de Rendu tele – Téléchargement gratuit sur Freepik",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQS0pjtX9mKsxOdxXFmfIg5iI44A_P6o1ovtw&s",
+      "original": "https://img.freepik.com/psd-gratuit/paysage-montagneux-epoustouflant-affiche-tele-intelligente-moderne_191095-80909.jpg?semt=ais_hybrid&w=740&q=80"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/tv/kg/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT96eNI-IzCNEnjwuaR27qUCdAg5gm-rtWEaw&s",
+      "fuentePagina": "https://fr.wikipedia.org/wiki/T%C3%A9l%C3%A9vision",
+      "titulo": "Télévision — Wikipédia",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT96eNI-IzCNEnjwuaR27qUCdAg5gm-rtWEaw&s",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/e/ee/Braun_HF_1.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/tv/kg/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7xb6dYJBylbKbJ1pjDGflyH-qcRqftBe3rA&s",
+      "fuentePagina": "https://www.grundig.com/fr-fr/produits/divertissement-television",
+      "titulo": "Télévision",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7xb6dYJBylbKbJ1pjDGflyH-qcRqftBe3rA&s",
+      "original": "https://www.grundig.com/content/dam/rainbow-grundig-france-fr-aem/rainbow-grundig-france-fr-aemProductCatalog/product-images/AK4T00-32-GEH-4820-E/AK4T00-BULK-LO1-20221117-123627.png/jcr:content/renditions/original"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/tv/kg/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSugApnhgUMPLSzi-bimIxQLK5iH54dYR2EXA&s",
+      "fuentePagina": "https://www.homat.fr/fr/televisions/tele-lcd-32-pouces-hd",
+      "titulo": "Télé lcd 32 pouces hd - Homat",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSugApnhgUMPLSzi-bimIxQLK5iH54dYR2EXA&s",
+      "original": "https://www.homat.fr/media/image/f091bb58-m-tel-32hd.jpg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/tv/kg/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSydFnyNHc83ALU_ME2ycya2Y1k4FBdvT0eKw&s",
+      "fuentePagina": "https://www.quechoisir.org/actualite-impact-carbone-regarder-la-tele-ca-pollue-n132274/",
+      "titulo": "Impact carbone - Regarder la télé, ça pollue ! - Actualité ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSydFnyNHc83ALU_ME2ycya2Y1k4FBdvT0eKw&s",
+      "original": "https://im.qccdn.fr/node/actualite-impact-carbone-regarder-la-tele-ca-pollue-132274/thumbnail_800x480px-141398.jpg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/tv/kg/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnvHkicSvcwSkdFKOqhP0LlKMdu2hWVhAGqA&s",
+      "fuentePagina": "https://www.istockphoto.com/fr/photos/t%C3%A9l%C3%A9vision",
+      "titulo": "490 400+ Télévision Photos, taleaux et images libre de ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnvHkicSvcwSkdFKOqhP0LlKMdu2hWVhAGqA&s",
+      "original": "https://media.istockphoto.com/id/1395191574/fr/photo/noir-led-tv-%C3%A9cran-de-t%C3%A9l%C3%A9vision-vierge-isol%C3%A9.jpg?s=612x612&w=0&k=20&c=e0CTyOK3YOg9VVdc1bvW0yq7rBhPZ0LkIPGXDZFCfR4="
+    }
+  ]
+}

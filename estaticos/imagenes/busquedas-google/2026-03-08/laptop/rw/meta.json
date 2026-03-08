@@ -1,0 +1,71 @@
+{
+  "categoria": "laptop",
+  "categoriaSlug": "laptop",
+  "idioma": "rw",
+  "nombreIdioma": "Kinyarwanda",
+  "termino": "mudasobwa",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:21:37.227Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "en",
+    "gl": "rw"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=mudasobwa&hl=en&gl=rw",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/laptop/rw/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQppT71hIT5WWF0R8t5WGut8sdSqtKHFb0qyg&s",
+      "fuentePagina": "https://www.kigalitoday.com/uburezi/amashuri/article/kaminuza-y-u-rwanda-yatangaje-ikiri-gukorwa-kugira-ngo-imyigire-y-abatarahabwa-mudasobwa-idahungabana",
+      "titulo": "Kaminuza y'u Rwanda yatangaje ikiri gukorwa kugira ngo ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQppT71hIT5WWF0R8t5WGut8sdSqtKHFb0qyg&s",
+      "original": "https://www.kigalitoday.com/IMG/png/mudasobwa.png"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/laptop/rw/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRA9dcLHhNfRt19QX9aynk3KFEHdAkTog7UuQ&s",
+      "fuentePagina": "https://mobile.igihe.com/ikoranabuhanga/mudasobwa/article/sobanukirwa-n-ibimenyetso-ndakumirwa-mu-ikoranabuhanga-rikoresha-mudasobwa",
+      "titulo": "Sobanukirwa n'Ibimenyetso ndakumirwa mu ikoranabuhanga ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRA9dcLHhNfRt19QX9aynk3KFEHdAkTog7UuQ&s",
+      "original": "https://igihe.com/IMG/arton74598.jpg?1452106670"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/laptop/rw/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIPzSBfJtHNwXY0-dEAitrUJgM8Rr6nDAOPQ&s",
+      "fuentePagina": "https://www.kigalitoday.com/uburezi/ibikorwa-by-uburezi/article/leta-igiye-guha-amashuri-abanza-mudasobwa-nshyashya",
+      "titulo": "Leta igiye guha amashuri abanza mudasobwa nshyashya - Kigali ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIPzSBfJtHNwXY0-dEAitrUJgM8Rr6nDAOPQ&s",
+      "original": "https://www.kigalitoday.com/IMG/jpg/positivo_ok.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/laptop/rw/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFMRqweWWuHWVijqsXbK1qpfDuHnOEnXlSyQ&s",
+      "fuentePagina": "https://www.kigalitoday.com/uburezi/amashuri/article/muri-mudasobwa-86-zibwe-mu-mashuri-hagarujwe-14-gusa-harakorwa-iki",
+      "titulo": "Muri mudasobwa 86 zibwe mu mashuri hagarujwe 14 gusa ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFMRqweWWuHWVijqsXbK1qpfDuHnOEnXlSyQ&s",
+      "original": "https://www.kigalitoday.com/IMG/png/laptop.png"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/laptop/rw/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbROiZ2PO-QX1pFctpOQLiROQjrbHTwvrrvA&s",
+      "fuentePagina": "https://www.facebook.com/MudasobwaLtd/photos/",
+      "titulo": "Mudasobwa | Nyarugenge",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbROiZ2PO-QX1pFctpOQLiROQjrbHTwvrrvA&s",
+      "original": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=735777151891572"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/laptop/rw/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2XBfO-KMD29ZG2xrPqQwJdK25EJdUUeuprQ&s",
+      "fuentePagina": "https://www.igihe.com/amakuru/muri-afurika/u-rwanda/article/abanyeshuri-ba-ur-bagiye-guhabwa-mudasobwa-nshya",
+      "titulo": "Abanyeshuri ba UR bagiye guhabwa mudasobwa nshya | IGIHE",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2XBfO-KMD29ZG2xrPqQwJdK25EJdUUeuprQ&s",
+      "original": "https://igihe.com/IMG/logo/ur_igiye_guha_abanyeshuri_bayo_mudasobwa_zo_mu_bwoko_bwa_lenovo.jpg?1687757066"
+    }
+  ]
+}

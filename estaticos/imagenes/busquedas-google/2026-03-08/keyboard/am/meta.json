@@ -1,0 +1,71 @@
+{
+  "categoria": "keyboard",
+  "categoriaSlug": "keyboard",
+  "idioma": "am",
+  "nombreIdioma": "Amharic — አማርኛ",
+  "termino": "ኪቦርድ",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:23:43.587Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "am",
+    "gl": "et"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=%E1%8A%AA%E1%89%A6%E1%88%AD%E1%8B%B5&hl=am&gl=et",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/keyboard/am/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOs2aOZ-OGm6tsBNaoxeOzdupjnsnF0D5NkA&s",
+      "fuentePagina": "http://clickandlearncomputer.blogspot.com/2016/01/3.html",
+      "titulo": "ክሊክ: 3ኛ-ትምህርት: ኪቦርድ፤ ልዩ የኪቦርድ ቁልፎች ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOs2aOZ-OGm6tsBNaoxeOzdupjnsnF0D5NkA&s",
+      "original": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgxpEQS82Nnx4JO8vydE52-II1EJ2i2VrFAFtBKMSBg3JlnDiSNTUG6_hMyZ_CUGEtPp-RUQwYf3Qo5jrPwdUrgDgmoYozx1XUccSrZB2QsH7448Dw8LGMe_grLIvUdIF_oS-N4Hj-DPaHt/s1600/keyboard.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/keyboard/am/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSMGYN11_8MGQfIAv2kGUlWCoVs-zHHEqzdg&s",
+      "fuentePagina": "https://www.facebook.com/madotplc/posts/%E1%8B%A8%E1%88%8B%E1%8D%95%E1%89%B6%E1%8D%95-%E1%8A%AA%E1%89%A6%E1%88%AD%E1%8B%B5-%E1%89%B0%E1%89%A0%E1%88%8B%E1%88%BD%E1%89%B6%E1%89%A6%E1%89%B7%E1%88%8D%E1%8A%A5%E1%8A%95%E1%8C%8D%E1%8B%B2%E1%8B%AB%E1%8B%8D%E1%88%B5-%E1%8B%AD%E1%88%85%E1%8A%95-%E1%88%88%E1%8A%A0%E1%8C%A0%E1%89%83%E1%89%80%E1%88%9D-%E1%89%80%E1%88%8B%E1%88%8D-%E1%8B%A8%E1%88%86%E1%8A%90%E1%8B%8D%E1%8A%95-%E1%8B%AD%E1%88%85%E1%8A%95-%E1%8D%8D%E1%88%88%E1%8A%AD%E1%88%B0%E1%89%A5%E1%88%8D-%E1%8A%AA%E1%89%A6%E1%88%AD-%E1%8B%AD%E1%8C%A0%E1%89%80%E1%88%99%E1%8A%A8%E1%8A%A0%E1%88%B5%E1%8D%88%E1%88%8B%E1%8C%8A%E1%8B%8D%E1%8A%95-%E1%8C%A5%E1%8A%95%E1%89%83%E1%89%84/1537574949730426/",
+      "titulo": "💥የላፕቶፕ ኪቦርድ ተበላሽቶቦቷል? 💥እንግዲያውስ ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSMGYN11_8MGQfIAv2kGUlWCoVs-zHHEqzdg&s",
+      "original": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=1537570516397536"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/keyboard/am/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEM7aXXS3bEJn33fTcYLS0Z0rg1mnjZLCqbg&s",
+      "fuentePagina": "https://www.youtube.com/watch?v=X7j3fHClmNQ",
+      "titulo": "ኪቦርድ ና ቮካል ትምህርት በ professional ምንግድ። [[Piano and vocal learn]]",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEM7aXXS3bEJn33fTcYLS0Z0rg1mnjZLCqbg&s",
+      "original": "https://i.ytimg.com/vi/X7j3fHClmNQ/maxresdefault.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/keyboard/am/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRO7D9IJXgfCIgW9ixXywuUu0gMOlpPTa_p2Q&s",
+      "fuentePagina": "https://www.facebook.com/HahuAmharicKeyboard/posts/%E1%88%80%E1%88%81-%E1%8A%A0%E1%88%9B%E1%88%AD%E1%8A%9B-%E1%8A%AA%E1%89%A6%E1%88%AD%E1%8B%B5-hahu-amharic-keyboard-%E1%8A%A0%E1%8B%B3%E1%8B%B2%E1%88%B5-%E1%8B%A8%E1%8A%AA%E1%89%A6%E1%88%AD%E1%8B%B5-%E1%8C%88%E1%8D%85%E1%89%B3%E1%8B%8E%E1%89%BD%E1%8A%95-%E1%8B%AD%E1%8B%9E-%E1%89%80%E1%88%A8%E1%89%A0-%E1%89%A0%E1%89%80%E1%88%8B%E1%88%89-%E1%8B%A8%E1%8A%AA%E1%89%A6%E1%88%AD%E1%8B%B1%E1%8A%95-%E1%8C%88%E1%8D%85%E1%89%B3-%E1%88%98%E1%89%80%E1%8B%A8%E1%88%AD/1147319555338981/",
+      "titulo": "ሀሁ አማርኛ ኪቦርድ (HaHu Amharic keyboard) አዳዲስ ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRO7D9IJXgfCIgW9ixXywuUu0gMOlpPTa_p2Q&s",
+      "original": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=1147317958672474"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/keyboard/am/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpZHaJIZgvFfbUAydUqO7czP6cLuvG1FU92w&s",
+      "fuentePagina": "https://www.youtube.com/watch?v=YYQzB60Yw-Y",
+      "titulo": "Yamaha PSR-S970 ኪቦርድ በነፃ በስልኮ ይጠቀሙ።ቪዲዮ",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpZHaJIZgvFfbUAydUqO7czP6cLuvG1FU92w&s",
+      "original": "https://i.ytimg.com/vi/YYQzB60Yw-Y/sddefault.jpg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/keyboard/am/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHaiG7OutfoyWg-xdEQXAK03Xk2aKOpJbqcQ&s",
+      "fuentePagina": "https://www.konixtech.com/am/roll-up-mini-music-professional-midi-keyboard-piano-49-keys-rainbow-piano-product/",
+      "titulo": "የጅምላ ሽያጭ አነስተኛ ሙዚቃ ፕሮፌሽናል ሚዲ ኪቦርድ ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHaiG7OutfoyWg-xdEQXAK03Xk2aKOpJbqcQ&s",
+      "original": "https://ecdn6.globalso.com/upload/p/812/image_other/2024-03/65e5222ca677248929.jpg"
+    }
+  ]
+}

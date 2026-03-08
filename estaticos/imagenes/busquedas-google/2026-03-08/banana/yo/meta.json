@@ -1,0 +1,71 @@
+{
+  "categoria": "banana",
+  "categoriaSlug": "banana",
+  "idioma": "yo",
+  "nombreIdioma": "Yorùbá",
+  "termino": "ọgẹ̀dẹ̀",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:10:42.632Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "yo",
+    "gl": "ng"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=%E1%BB%8Dg%E1%BA%B9%CC%80d%E1%BA%B9%CC%80&hl=yo&gl=ng",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/banana/yo/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVVtqTxYpfAfPxqnH9_MANIJ7eRSsJ8k15Sg&s",
+      "fuentePagina": "https://www.facebook.com/dejiodulesi/posts/plantain-is-ogede-agbagba-in-yoruba-ogede-in-igbo-and-agade-in-hausa-it-is-a-del/756152326500843/",
+      "titulo": "Plantain is Ogede (agbagba) in Yoruba, Ogede in Igbo and ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVVtqTxYpfAfPxqnH9_MANIJ7eRSsJ8k15Sg&s",
+      "original": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=756152299834179"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/banana/yo/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSv9FjrFJd9Y-PMMHHfOKVHC9V17LNB9ndwrw&s",
+      "fuentePagina": "https://ecency.com/hive-114308/@miztajovial/ogede-paranta",
+      "titulo": "Ogede paranta",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSv9FjrFJd9Y-PMMHHfOKVHC9V17LNB9ndwrw&s",
+      "original": "https://images.ecency.com/p/YpihifdXP4WNbGMdjw7e3DuhJWBvCw4SfuLZsrnJYHEpsqZFkiGGNCQDfPsN88Gp87dJrunPd8G8pMG9r1jDA1iwLpECE19TsAqPnC8ZBKj7Bt3ypjSf7W7ojrW6XB1hiL4SrG35HgBSvNeAnP3aajvghYsigRXDqa9j54x3cT9x?format=match&mode=fit"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/banana/yo/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGY2pehXEwRV2SxhfiQTFxKT9_sjGChWpoww&s",
+      "fuentePagina": "https://nigeriandictionary.com/ogede1",
+      "titulo": "Meaning of Ogede",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGY2pehXEwRV2SxhfiQTFxKT9_sjGChWpoww&s",
+      "original": "https://nigeriandictionary.com/images/medium/medium_word_1481727609.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/banana/yo/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQB6DQtyVQG_m-4MIjCXjuetnsBTn3G3ykC6A&s",
+      "fuentePagina": "https://www.youtube.com/watch?v=aN6EIoNiqHw",
+      "titulo": "IWULO OGEDE OMINI ‪@Dromoodoagbatv‬ - YouTube",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQB6DQtyVQG_m-4MIjCXjuetnsBTn3G3ykC6A&s",
+      "original": "https://i.ytimg.com/vi/aN6EIoNiqHw/sddefault.jpg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/banana/yo/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSD9oMYbjTRc_0Bk_ET5zgKNj69CpQgvNyJxA&s",
+      "fuentePagina": "https://www.yorubalibrary.com/forum/plants_and_herbs/2025/06/ogede_odo.html",
+      "titulo": "Ewe Ogede Odo (Crinum jagus): A leaf for treatment of ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSD9oMYbjTRc_0Bk_ET5zgKNj69CpQgvNyJxA&s",
+      "original": "https://www.yorubalibrary.com/assets/img/ewe_ogede_odo.jpg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/banana/yo/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1XvhmC7dOrax4f3gEH94TEbJoxEbqomEE8g&s",
+      "fuentePagina": "https://www.facebook.com/jkbagroandfood/posts/plantainsogede-agbagba-highly-rich-in-potassiumhelps-to-reduce-risk-of-high-bloo/1759809517476613/",
+      "titulo": "Plantains(Ogede agbagba) - highly rich in #potassium Helps ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1XvhmC7dOrax4f3gEH94TEbJoxEbqomEE8g&s",
+      "original": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=1759809444143287"
+    }
+  ]
+}

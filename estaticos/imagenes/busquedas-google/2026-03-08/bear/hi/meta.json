@@ -1,0 +1,71 @@
+{
+  "categoria": "bear",
+  "categoriaSlug": "bear",
+  "idioma": "hi",
+  "nombreIdioma": "हिन्दी",
+  "termino": "भालू",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T20:54:30.872Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "hi",
+    "gl": "in"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=%E0%A4%AD%E0%A4%BE%E0%A4%B2%E0%A5%82&hl=hi&gl=in",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bear/hi/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0WrxynO2MjkMso7wEQooHtEEo8KhbzekI6g&s",
+      "fuentePagina": "https://hi.wikipedia.org/wiki/%E0%A4%85%E0%A4%AE%E0%A5%87%E0%A4%B0%E0%A4%BF%E0%A4%95%E0%A5%80_%E0%A4%95%E0%A4%BE%E0%A4%B2%E0%A4%BE_%E0%A4%AD%E0%A4%BE%E0%A4%B2%E0%A5%82",
+      "titulo": "अमेरिकी काला भालू - विकिपीडिया",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0WrxynO2MjkMso7wEQooHtEEo8KhbzekI6g&s",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/01_Schwarzb%C3%A4r.jpg/250px-01_Schwarzb%C3%A4r.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bear/hi/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-PnszztUwnzlqn8z6Oky-E8ZSAKB-bNHNRQ&s",
+      "fuentePagina": "https://hi.wikipedia.org/wiki/%E0%A4%AD%E0%A5%82%E0%A4%B0%E0%A4%BE_%E0%A4%AD%E0%A4%BE%E0%A4%B2%E0%A5%82",
+      "titulo": "भूरा भालू - विकिपीडिया",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-PnszztUwnzlqn8z6Oky-E8ZSAKB-bNHNRQ&s",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Kamchatka_Brown_Bear_near_Dvuhyurtochnoe_on_2015-07-23.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bear/hi/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSy-ohjtTYmgSS9xLXrIbzZ_UPVSMJN5Yiycg&s",
+      "fuentePagina": "https://www.instagram.com/p/DIkrbd7JEin/",
+      "titulo": "हिमालय का रहस्यमयी योद्धा ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSy-ohjtTYmgSS9xLXrIbzZ_UPVSMJN5Yiycg&s",
+      "original": "https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3613203796217753182"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bear/hi/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXMZFKj3NREwDcsy4VPAZ4ebtSnMUE2bHEPg&s",
+      "fuentePagina": "https://hi.pngtree.com/freepng/a-nice-bear-picture_17664254.html",
+      "titulo": "एक अच्छा भालू चित्र, काले भालू, एक ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXMZFKj3NREwDcsy4VPAZ4ebtSnMUE2bHEPg&s",
+      "original": "https://png.pngtree.com/png-clipart/20241208/original/pngtree-a-nice-bear-picture-png-image_17664254.png"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bear/hi/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6CX3Fy4kINtr_4wiTKKSPRVn4bi5InzwNZg&s",
+      "fuentePagina": "https://anp.wikipedia.org/wiki/%E0%A4%AD%E0%A4%BE%E0%A4%B2%E0%A5%82",
+      "titulo": "भालू - विकिपीडिया",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6CX3Fy4kINtr_4wiTKKSPRVn4bi5InzwNZg&s",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/5/59/American_black_bear_-_FWS.jpg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bear/hi/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPtQRTTls14HQBFuELlwZGYTkmhuBZj3NFHA&s",
+      "fuentePagina": "https://www.bhaskar.com/the-oldest-bear-in-the-country-0726708.html",
+      "titulo": "The oldest bear in the country",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPtQRTTls14HQBFuELlwZGYTkmhuBZj3NFHA&s",
+      "original": "https://images.bhaskarassets.com/web2images/521/2018/09/29/bha1.jpg"
+    }
+  ]
+}

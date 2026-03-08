@@ -1,0 +1,71 @@
+{
+  "categoria": "wine glass",
+  "categoriaSlug": "wine-glass",
+  "idioma": "es",
+  "nombreIdioma": "Español",
+  "termino": "copa de vino",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:07:10.222Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "es",
+    "gl": "es"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=copa%20de%20vino&hl=es&gl=es",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/wine-glass/es/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8VQHQPsb2yMZtsnBCa-XBSYOcTmcrP2J1FA&s",
+      "fuentePagina": "https://www.riedel.com/es-es/blog/educacion/tu-guia-definitiva-para-los-diferentes-tipos-de-copas-de-vino",
+      "titulo": "Guía de copas de vino | RIEDEL España",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8VQHQPsb2yMZtsnBCa-XBSYOcTmcrP2J1FA&s",
+      "original": "https://img.riedel.com/w_430,q_80,v_ee6d7e,hash_1dae73/dam/4000x5333px-Product-Category-Grid/RIEDEL/2023/RIEDEL-Recommends_04-23_Bella-Italia_Fankhauser-5333x4000px/5333x4000px_RR_ITALY_23-176.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/wine-glass/es/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRp1CJYQdcOzPWdzYddN6ohIMePoopYRzBpzQ&s",
+      "fuentePagina": "https://www.nordicnest.es/inspiracion-consejos/guias-de-cuidado/elegir-las-copas-de-vino/",
+      "titulo": "Guía de copas, parte 1: cómo elegir la copa de vino adecuada",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRp1CJYQdcOzPWdzYddN6ohIMePoopYRzBpzQ&s",
+      "original": "https://www.nordicnest.es/assets/contentful/p7vzp7ftmsr1/6BzP67aN6SwSLGUF2d6nDT/3364a6a6945ef5e288961f1fcc80077a/how-to-choose-right-wine-glass-red-wine-out-side-deck-karlevi-scandi-living.jpg?preset=small&dpr=2"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/wine-glass/es/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRzWriu4y5hD5nOnpGCjfud2LXBamVsMHEww&s",
+      "fuentePagina": "https://cavevinum.com/es/406-copa-de-vino-blanco-fenix-403-ml-schott-zwiesel.html",
+      "titulo": "Copa de vino blanco Fénix 400 ml (caja de 6 uds) | Schott ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRzWriu4y5hD5nOnpGCjfud2LXBamVsMHEww&s",
+      "original": "https://cavevinum.com/926-large_default/copa-de-vino-blanco-fenix-403-ml-schott-zwiesel.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/wine-glass/es/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-3mgbpZziwK7DVbydCkcPPA8wIQjOwCoVqg&s",
+      "fuentePagina": "https://www.amazon.com/-/es/Juego-burdeos-degustaci%C3%B3n-aniversario-transparente/dp/B0CD27W4TH",
+      "titulo": "Amazon.com: Juego de 6 copas de vino tinto de 19.5 onzas ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-3mgbpZziwK7DVbydCkcPPA8wIQjOwCoVqg&s",
+      "original": "https://m.media-amazon.com/images/I/81PT+LCR9SL._AC_UF350,350_QL80_.jpg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/wine-glass/es/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQj80NrEkSLBrFjnicl7ZWk609Pzb-Xng7mww&s",
+      "fuentePagina": "https://faustinorivero.com/vino/tipos-de-copas-de-vino/",
+      "titulo": "Tipos de copas de vino: Descubre cuál elegir para cada uva",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQj80NrEkSLBrFjnicl7ZWk609Pzb-Xng7mww&s",
+      "original": "https://faustinorivero.com/wp-content/uploads/2022/11/pexels-monstera-5876701.jpg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/wine-glass/es/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVwCTln_uNRGuYSKUASXnvk-R3MDkzcqbO8g&s",
+      "fuentePagina": "https://regalosgourmetonline.com/blog/copas-vino/?srsltid=AfmBOorQ3JyfhHuBGrNxre7yHPGuQ8umXhTd94M42fHHJYOPqGejqt_2",
+      "titulo": "Copas de vino, razones por las que el vino se sirve en copa",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVwCTln_uNRGuYSKUASXnvk-R3MDkzcqbO8g&s",
+      "original": "https://regalosgourmetonline.com/blog/wp-content/uploads/2021/02/Copas-de-vino-razones-por-las-que-el-vino-se-sirve-en-copa.jpg"
+    }
+  ]
+}

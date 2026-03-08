@@ -1,0 +1,71 @@
+{
+  "categoria": "airplane",
+  "categoriaSlug": "airplane",
+  "idioma": "qu",
+  "nombreIdioma": "Quechua",
+  "termino": "wayra wasi",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T20:43:21.018Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "es",
+    "gl": "pe"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=wayra%20wasi&hl=es&gl=pe",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/airplane/qu/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRoO37mqlQdamYigVuHfLSgvLbJJX0roqFe2A&s",
+      "fuentePagina": "https://www.booking.com/hotel/pe/wayra-wasi.es.html",
+      "titulo": "Wayra Wasi, Coporaque (precios actualizados en 2026)",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRoO37mqlQdamYigVuHfLSgvLbJJX0roqFe2A&s",
+      "original": "https://cf.bstatic.com/xdata/images/hotel/max500/176431064.jpg?k=f1e309ad2d9c83b342a9c5f12b7fa33c5776e55d5f02a21343f7022ef7b885e1&o=&hp=1"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/airplane/qu/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPkjr3PM1ZU36dKVLnSLCUcI18ovujsD3G0A&s",
+      "fuentePagina": "https://www.facebook.com/p/Caba%C3%B1as-Wayra-Wasi-Casa-del-Viento-100083096722334/",
+      "titulo": "Cabañas Wayra Wasi - Casa del Viento",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPkjr3PM1ZU36dKVLnSLCUcI18ovujsD3G0A&s",
+      "original": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=100083096722334"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/airplane/qu/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8EGQTjtlexbiJr72B-aZEwxbAGndqsmv2ag&s",
+      "fuentePagina": "https://www.booking.com/hotel/pe/wayra-wasi-lodge.es.html",
+      "titulo": "Lodge Wayra Wasi, Coporaque (precios actualizados 2026)",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8EGQTjtlexbiJr72B-aZEwxbAGndqsmv2ag&s",
+      "original": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/694618825.jpg?k=8d72bc232521393731318d0c9d74bea978b5654456bf8e2a90001fc8f0f21767&o="
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/airplane/qu/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpH9HhhnooxCQqwIKNBHV15c9_8KqdptF4LQ&s",
+      "fuentePagina": "https://www.facebook.com/p/Wayra-Wasi-100065195400267/",
+      "titulo": "Wayra Wasi | Coporaque",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpH9HhhnooxCQqwIKNBHV15c9_8KqdptF4LQ&s",
+      "original": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=451036307079546"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/airplane/qu/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQl-n_lPhYNDSQKoaoUYr4Qzo2gJM_C5_T3AQ&s",
+      "fuentePagina": "https://www.booking.com/hotel/pe/wayra-wasi.es.html",
+      "titulo": "Wayra Wasi, Coporaque (precios actualizados en 2026)",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQl-n_lPhYNDSQKoaoUYr4Qzo2gJM_C5_T3AQ&s",
+      "original": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/176429104.jpg?k=b3b6135de7c13596ecfc2f62dce9fed3716b903d3427c50a1c1eb7d6cfbc30b2&o="
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/airplane/qu/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlxQtJG50ueH-bYUWHAFpaLRwwRM0IbaiKoQ&s",
+      "fuentePagina": "https://www.instagram.com/wayrawasi.lodge/",
+      "titulo": "Wayra Wasi Lodge (@wayrawasi.lodge) · Pichilemu",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlxQtJG50ueH-bYUWHAFpaLRwwRM0IbaiKoQ&s",
+      "original": "https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3191820401106205083"
+    }
+  ]
+}

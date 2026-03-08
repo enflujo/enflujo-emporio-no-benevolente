@@ -1,0 +1,71 @@
+{
+  "categoria": "bird",
+  "categoriaSlug": "bird",
+  "idioma": "sw",
+  "nombreIdioma": "Kiswahili",
+  "termino": "ndege",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T20:49:39.066Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "sw",
+    "gl": "tz"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=ndege&hl=sw&gl=tz",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bird/sw/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEhvsZt6pTUuFh-GX7caztechIuO15EYrwZQ&s",
+      "fuentePagina": "https://sw.wikipedia.org/wiki/Ndege_(uanahewa)",
+      "titulo": "Ndege (uanahewa) - Wikipedia, kamusi elezo huru",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEhvsZt6pTUuFh-GX7caztechIuO15EYrwZQ&s",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Jet2_aeroplane_landing_at_EDI.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bird/sw/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDkPQlHJJxYWnfB01ZLcPflwgovyNgBHkCtQ&s",
+      "fuentePagina": "https://www.mwananchi.co.tz/mw/habari/biashara/ndege-ya-mizigo-ya-atcl-kufanya-safari-ya-pili-leo-4298592",
+      "titulo": "Ndege ya mizigo ya ATCL kufanya safari ya pili leo | Mwananchi",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDkPQlHJJxYWnfB01ZLcPflwgovyNgBHkCtQ&s",
+      "original": "https://www.mwananchi.co.tz/resource/image/4298598/landscape_ratio16x9/1600/900/c57325cfe1c84abf51fbd88be1eb2ed4/uq/ndege-pic.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bird/sw/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPk-U7-My7_Zpa-S4rCG1pWHIgdStrZthpqg&s",
+      "fuentePagina": "https://www.bbc.com/swahili/habari-59678281",
+      "titulo": "A380:Ndege ya mwisho kubwa zaidi yakabidhiwa mmiliki wake ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPk-U7-My7_Zpa-S4rCG1pWHIgdStrZthpqg&s",
+      "original": "http://c.files.bbci.co.uk/D8BB/production/_122238455_5670f94a-5fc0-4bc1-b47e-dcc8b1d52429.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bird/sw/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQsWrC1vZPOJSY8IIQ-icrEYdj-dDuAqEoEg&s",
+      "fuentePagina": "https://www.bbc.com/swahili/habari-58668747",
+      "titulo": "Hizi ndizo ndege 10 kubwa zaidi za abiria ulimwenguni - BBC ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQsWrC1vZPOJSY8IIQ-icrEYdj-dDuAqEoEg&s",
+      "original": "http://c.files.bbci.co.uk/13B9C/production/_120669708_4901860f-cc57-4ee8-8220-22ac3513fb0e.jpg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bird/sw/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMjn2Z7BwB8wKq8JD_Cbix9EqbUlCJBW8pnA&s",
+      "fuentePagina": "https://www.bbc.com/swahili/59765481",
+      "titulo": "Je, Shirika la ndege Tanzania linatoka Shimoni kwenda gizani ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMjn2Z7BwB8wKq8JD_Cbix9EqbUlCJBW8pnA&s",
+      "original": "http://c.files.bbci.co.uk/248C/production/_122465390_f479262a-d9df-411a-98ea-c9abcd8ffae7.jpg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bird/sw/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmXEs6MUUwAkJGa5TXb0tb1GCJAh7VTWbhdw&s",
+      "fuentePagina": "https://www.voaswahili.com/a/ajali-ya-ndege-kazakhstan-baada-ya-gugonga-nyuni/7914000.html",
+      "titulo": "Ajali ya ndege Kazakhstan baada ya kugonga nyuni",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmXEs6MUUwAkJGa5TXb0tb1GCJAh7VTWbhdw&s",
+      "original": "https://gdb.voanews.com/7a8e57c9-5406-4dc2-afad-56312e455ad1_w408_r1_s.jpg"
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "categoria": "tie",
+  "categoriaSlug": "tie",
+  "idioma": "en",
+  "nombreIdioma": "English",
+  "termino": "tie",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T20:58:05.062Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "en",
+    "gl": "us"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=tie&hl=en&gl=us",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/tie/en/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuxMpQl41f19wmvCc1Cq8XaOxn_AGmWtAr9w&s",
+      "fuentePagina": "https://www.violamilano.com/product/maillon-selftipped-italian-silk-tie-sea-mix/",
+      "titulo": "Maillon Selftipped Italian Silk Tie - Sea Mix | Viola Milano",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuxMpQl41f19wmvCc1Cq8XaOxn_AGmWtAr9w&s",
+      "original": "https://www.violamilano.com/wp-content/uploads/2023/02/MAILLON-SELFTIPPED-ITALIAN-SILK-TIE-%E2%80%93-SEA-MIX-3.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/tie/en/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHCT2vo7RSk5qRDKkqvfXW03MbaHLNxhuuZg&s",
+      "fuentePagina": "https://www.amazon.com/Elesa-Miracle-Pre-tied-Elastic-Necktie/dp/B01DD30GUO",
+      "titulo": "Amazon.com: Elesa Miracle Pre-Tied Elastic Neck Strap Tie ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHCT2vo7RSk5qRDKkqvfXW03MbaHLNxhuuZg&s",
+      "original": "https://m.media-amazon.com/images/I/81JnHQzGqAL._AC_UY1000_.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/tie/en/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3WLLPOf4_RcAKG-a0e3XqNQ18ZOZhQ6t6wA&s",
+      "fuentePagina": "https://www.bows-n-ties.com/Cobalt-Blue-Mens-Tie.html",
+      "titulo": "Cobalt Blue Mens Tie | Bows-N-Ties.com",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3WLLPOf4_RcAKG-a0e3XqNQ18ZOZhQ6t6wA&s",
+      "original": "https://www.bows-n-ties.com/29377-xlarge_default/Cobalt-Blue-Mens-Tie.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/tie/en/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRh8x5WSFp2DSAj4YsbSiplm2KmLSWTzDzMzA&s",
+      "fuentePagina": "https://www.walmart.com/ip/George-Men-s-Zipper-Tie-Black/1059211408",
+      "titulo": "George Men's Black Zipper Tie, Formal Neckwear with Zipper ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRh8x5WSFp2DSAj4YsbSiplm2KmLSWTzDzMzA&s",
+      "original": "https://i5.walmartimages.com/seo/George-Men-s-Zipper-Tie-Black_f06496e5-ff47-45f8-a2ce-3f371c8fd847.c5525018f72c1c7786560db6c3cc142d.jpeg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/tie/en/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-6NjWfbmiVbAMQ7R7tN9QFz_ZWaCbh4T__g&s",
+      "fuentePagina": "https://thedarkknot.com/blogs/suitupdressup/how-to-buy-a-tie-comprehensive-necktie-guide?srsltid=AfmBOoqFuFUPtfg-sb4tybwxVNRdAwhIVNfLoq8btFXww5CG1Q7SS8YX",
+      "titulo": "How to Buy a Tie | A Comprehensive Guide To Buying The ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-6NjWfbmiVbAMQ7R7tN9QFz_ZWaCbh4T__g&s",
+      "original": "https://thedarkknot.com/cdn/shop/articles/BuyTie_5_25a66414-f8a8-4717-ad66-14138f503571_720x.jpg?v=1739246908"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/tie/en/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjJr5hB9oUNGFcDhkFG2o2AYsUK1HTcVdKXQ&s",
+      "fuentePagina": "https://www.amazon.com/Sucrain-Pre-tied-Adjustable-Graduation-Uniforms/dp/B09SB4T7F6",
+      "titulo": "Amazon.com: Sucrain 5pcs Boy's Necktie Pre-tied Adjustable ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjJr5hB9oUNGFcDhkFG2o2AYsUK1HTcVdKXQ&s",
+      "original": "https://m.media-amazon.com/images/I/81JMqMDZN8S._AC_UY1000_.jpg"
+    }
+  ]
+}

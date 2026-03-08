@@ -1,0 +1,71 @@
+{
+  "categoria": "oven",
+  "categoriaSlug": "oven",
+  "idioma": "rw",
+  "nombreIdioma": "Kinyarwanda",
+  "termino": "iforno",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:25:31.248Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "en",
+    "gl": "rw"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=iforno&hl=en&gl=rw",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/oven/rw/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTb689tg5Hl4C2EV7an3REtpSFjcfEJngRosA&s",
+      "fuentePagina": "https://mesadelsur.com/en/products/matutano-iforno-alemendras-83g?srsltid=AfmBOor3gMXDumRW36ck-DdS6CxEKKvNwWwbRsp4TVCDTv5-eVUk_kOL",
+      "titulo": "MATUTANO Iforno Almendras 83g – Mesa Del Sur",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTb689tg5Hl4C2EV7an3REtpSFjcfEJngRosA&s",
+      "original": "https://mesadelsur.com/cdn/shop/products/iforno2_300x300.png?v=1612895827"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/oven/rw/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnZKGEfytXIbyU4AsJhiRKOhLpkHdEOtduDg&s",
+      "fuentePagina": "https://world.openfoodfacts.org/product/8410199013057/iforno-cocktail-matutano",
+      "titulo": "Iforno cocktail – Matutano – 94g",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnZKGEfytXIbyU4AsJhiRKOhLpkHdEOtduDg&s",
+      "original": "https://images.openfoodfacts.org/images/products/841/019/901/3057/front_es.20.400.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/oven/rw/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4KCBnsuVyDwKafGs9UmmxljfXRdIatbXZFw&s",
+      "fuentePagina": "https://lesaffre.eg/produit/il-forno-osmo/",
+      "titulo": "IL FORNO OSMO - Lesaffre Egypt",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4KCBnsuVyDwKafGs9UmmxljfXRdIatbXZFw&s",
+      "original": "https://lesaffre.eg/wp-content/uploads/sites/28/2022/06/whatsapp-image-2024-12-23-at-13.56.04.jpeg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/oven/rw/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8VGmZ33lVlXOsEiKrofK1HkNE8LvWFTqutQ&s",
+      "fuentePagina": "https://www.facebook.com/ilforno.md/photos/d41d8cd9/1297907612352860/",
+      "titulo": "IL FORNO - IL FORNO added a new photo.",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8VGmZ33lVlXOsEiKrofK1HkNE8LvWFTqutQ&s",
+      "original": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=1297907612352860"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/oven/rw/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDoB3us3wKGZay3EVu21yVVSPiyNFZybRhbQ&s",
+      "fuentePagina": "https://www.instagram.com/popular/iforno/",
+      "titulo": "Mónica, nuestra gerente general, los invita a visitar nuestra nueva sede  Plaza Central (Bogotá) 🙌🏻✨y disfrutar de una experiencia única con todo  el sabor de il forno🇮🇹¡Te esperamos!, #ilforno ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDoB3us3wKGZay3EVu21yVVSPiyNFZybRhbQ&s",
+      "original": "https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3415883792017931525"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/oven/rw/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-xI4_WQPXSxgKhvtNhzjdL9jCAkGQ9ol03A&s",
+      "fuentePagina": "https://www.ilfornopizzeria.co.uk/",
+      "titulo": "Il Forno",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-xI4_WQPXSxgKhvtNhzjdL9jCAkGQ9ol03A&s",
+      "original": "https://flipdish.imgix.net/org45540/77486fba33f1896965855bcc741debfd.jpg"
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "categoria": "spoon",
+  "categoriaSlug": "spoon",
+  "idioma": "fr",
+  "nombreIdioma": "Français",
+  "termino": "cuillère",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:09:21.335Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "fr",
+    "gl": "be"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=cuill%C3%A8re&hl=fr&gl=be",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/spoon/fr/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQERNJab9FaPcQsmOMatNWW_Bqnlvfayz18gg&s",
+      "fuentePagina": "https://fr.knivesandtools.be/fr/pt/-global-gt003.htm",
+      "titulo": "Global GT003 petite cuillère à café | Achetez à prix ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQERNJab9FaPcQsmOMatNWW_Bqnlvfayz18gg&s",
+      "original": "https://assets.katogroup.eu/i/katogroup/GL-GT003_01_global-koffielepel-klein-gl-gt003-d1"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/spoon/fr/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjOziUaIXwUqYbe2k0DJyuK1FVxRXbvbZBtQ&s",
+      "fuentePagina": "https://ml-locations.be/locations/location-cuillere-soupe/",
+      "titulo": "Cuillère à soupe",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjOziUaIXwUqYbe2k0DJyuK1FVxRXbvbZBtQ&s",
+      "original": "https://ml-locations.be/wp-content/uploads/2017/04/cuillere-soupe-location-couvert.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/spoon/fr/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmz3QjXXI-Nq8ksd9z5yeXTEZ09Wy-KXIqJw&s",
+      "fuentePagina": "https://fr.wikipedia.org/wiki/Cuill%C3%A8re_%C3%A0_soupe",
+      "titulo": "Cuillère à soupe — Wikipédia",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmz3QjXXI-Nq8ksd9z5yeXTEZ09Wy-KXIqJw&s",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/9/92/Soup_Spoon.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/spoon/fr/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGx5GF0mmIh5RjLZ3mHP8q72UirkoI_pjKnw&s",
+      "fuentePagina": "https://www.dille-kamille.be/fr/cuillere-de-service-forte-inox-00024563.html",
+      "titulo": "Cuillère de service 'Forte', inox",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGx5GF0mmIh5RjLZ3mHP8q72UirkoI_pjKnw&s",
+      "original": "https://dilka.xcdn.nl/dilka/images/catalog/product/00024563_1.jpg?f=rs:fit:600:600/g:ce&s=2d2d"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/spoon/fr/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStgsaqgncgPmrmAeH0AHkDAjvhpeRohj4mCQ&s",
+      "fuentePagina": "https://www.francisbatt.com/produits/cuillere-de-table-inox-baguette?srsltid=AfmBOorE6f6L22J_u5aHW9wjXzEXH79PYGT5o8ThyWAfsaxs8FOAnUsG",
+      "titulo": "Cuillère de table inox Baguette - BAGCT90 - Sélection ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStgsaqgncgPmrmAeH0AHkDAjvhpeRohj4mCQ&s",
+      "original": "https://www.francisbatt.com/ressources/references/miniatures/zoom1_cuillere-de-table-inox-baguette-505003.jpg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/spoon/fr/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSaxS_O3CmlFK-Z2rr9Y0BcebWNCRoLCMBrGw&s",
+      "fuentePagina": "https://www.leplaisirderecevoir.be/produit/cuillere-de-table/",
+      "titulo": "Cuillère de table - Le Plaisir de Recevoir",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSaxS_O3CmlFK-Z2rr9Y0BcebWNCRoLCMBrGw&s",
+      "original": "https://i0.wp.com/www.leplaisirderecevoir.be/wp-content/uploads/2024/02/Grande-cuillere.png?fit=1000%2C1000&ssl=1"
+    }
+  ]
+}

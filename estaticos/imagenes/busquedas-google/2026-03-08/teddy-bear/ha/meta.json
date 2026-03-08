@@ -1,0 +1,71 @@
+{
+  "categoria": "teddy bear",
+  "categoriaSlug": "teddy-bear",
+  "idioma": "ha",
+  "nombreIdioma": "Hausa",
+  "termino": "dubu na yara",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:31:03.603Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "ha",
+    "gl": "ng"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=dubu%20na%20yara&hl=ha&gl=ng",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/teddy-bear/ha/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgiPAhlXUqbVsOt610OaAkqK6pJW3M4HyJHg&s",
+      "fuentePagina": "https://www.bbc.com/hausa/articles/crm7kyz43kmo",
+      "titulo": "Yara dubu 250 a Zamfara na fama da tamowa - Unicef - BBC ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgiPAhlXUqbVsOt610OaAkqK6pJW3M4HyJHg&s",
+      "original": "https://ichef.bbci.co.uk/ace/ws/640/cpsprodpb/4edb/live/2ad22910-d972-11ef-a5c8-1da73bd59591.jpg.webp"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/teddy-bear/ha/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStDWdnhmbAbydxmplpuy3oaO78ysxyWZZ3Gg&s",
+      "fuentePagina": "https://www.facebook.com/Tozali10/posts/yara-dubu-80-ne-ke-fuskantar-barazanar-kamuwa-da-cutar-kwalara-a-afrika-unicefas/1337105288419063/",
+      "titulo": "Yara dubu 80 ne ke fuskantar barazanar kamuwa da cutar ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStDWdnhmbAbydxmplpuy3oaO78ysxyWZZ3Gg&s",
+      "original": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=1337105158419076"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/teddy-bear/ha/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvKiKhFfnQRpY7zBOh4XwQEW-5UByKkpoLRQ&s",
+      "fuentePagina": "https://www.bbc.com/hausa/labarai-59486205",
+      "titulo": "Yara fiye da dubu 20 ne suka kamu da cutar HIV a Najeriya a ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvKiKhFfnQRpY7zBOh4XwQEW-5UByKkpoLRQ&s",
+      "original": "https://ichef.bbci.co.uk/ace/ws/640/cpsprodpb/30DE/production/_121901521_gettyimages-1068710518.jpg.webp"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/teddy-bear/ha/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTTKED6dM6Ix8JQT3jtOrtYh1qIJim5pEcag&s",
+      "fuentePagina": "https://www.facebook.com/rahmaradiofm/posts/yara-miliyan-3-da-dubu-dari-5-na-fama-da-matsananciyar-yunwa-a-najeriyaa-cewar-u/1173334314812697/",
+      "titulo": "Yara Miliyan 3 Da Dubu Dari 5 Na Fama Da Matsananciyar Yunwa ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTTKED6dM6Ix8JQT3jtOrtYh1qIJim5pEcag&s",
+      "original": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=1173334261479369"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/teddy-bear/ha/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtfRVOaydaeC0f8u8hBZAu5vReUG9IN-2-fg&s",
+      "fuentePagina": "https://www.arewaradio.com/news/labarai-news/kananan-yara-milliyan-1-da-dubu-dari-biyar-na-cikin-hatsari-a-najeriya-unicef/",
+      "titulo": "Kananan Yara Milliyan 1 Da Dubu 'Dari Biyar Na Cikin Hatsari ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtfRVOaydaeC0f8u8hBZAu5vReUG9IN-2-fg&s",
+      "original": "https://mmo.aiircdn.com/370/6354dd060be91.jpg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/teddy-bear/ha/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSh-H4mRkP1iaLqc5dkmfH2CL-0wo0rE4lvXA&s",
+      "fuentePagina": "https://prnigeria.com/hausa/2023/03/26/sama-yara-dubu-fama-tsananin/",
+      "titulo": "Sama da yara dubu 500 na fama da tsananin yunwa a Yemen ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSh-H4mRkP1iaLqc5dkmfH2CL-0wo0rE4lvXA&s",
+      "original": "https://prnigeria.com/hausa/wp-content/uploads/sites/3/2023/03/images-73.jpeg"
+    }
+  ]
+}

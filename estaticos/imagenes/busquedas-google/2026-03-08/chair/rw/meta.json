@@ -1,0 +1,71 @@
+{
+  "categoria": "chair",
+  "categoriaSlug": "chair",
+  "idioma": "rw",
+  "nombreIdioma": "Kinyarwanda",
+  "termino": "intebe",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:16:58.798Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "en",
+    "gl": "rw"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=intebe&hl=en&gl=rw",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/chair/rw/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzQbm6hYyu5J6oWewj4ioYYyiLI0UdhDcZzQ&s",
+      "fuentePagina": "https://www.facebook.com/sofaprofessional/",
+      "titulo": "Intebe zigezweho KURI MACYE (@sofaprofessional) • Facebook",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzQbm6hYyu5J6oWewj4ioYYyiLI0UdhDcZzQ&s",
+      "original": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=100057119843388"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/chair/rw/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHqNCk1ob28_-NaoGEe75Hiiaj8ERlqK2XnA&s",
+      "fuentePagina": "https://www.facebook.com/sofaprofessional/",
+      "titulo": "Intebe zigezweho KURI MACYE (@sofaprofessional) • Facebook",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHqNCk1ob28_-NaoGEe75Hiiaj8ERlqK2XnA&s",
+      "original": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=1260622392518410"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/chair/rw/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_RjllzTtLiLC3_rQAoM9wEevueZWF7kqurQ&s",
+      "fuentePagina": "https://www.youtube.com/watch?v=_rKo7U0pWKg",
+      "titulo": "Intebe... Bikoresho byo m'urugo Bigurishwa 0788508415",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_RjllzTtLiLC3_rQAoM9wEevueZWF7kqurQ&s",
+      "original": "https://i.ytimg.com/vi/_rKo7U0pWKg/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLBdSq-QlQhCiTCutant9v69D4krMA"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/chair/rw/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTeu7IYvR80HxpEkhttiZih0FPefptBKVLcCw&s",
+      "fuentePagina": "https://www.instagram.com/p/Cqqpdt1s2E1/",
+      "titulo": "Furnitures:Intebe zo muri Salon ndetse na Salle a Mangé ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTeu7IYvR80HxpEkhttiZih0FPefptBKVLcCw&s",
+      "original": "https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3074452050461063302"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/chair/rw/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1TvKazdMx_QYo_76RjPfCiaf4xLwtVFF1tA&s",
+      "fuentePagina": "https://www.facebook.com/sofaprofessional/posts/1043221210925197/",
+      "titulo": "Intebe zigezweho KURI MACYE",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1TvKazdMx_QYo_76RjPfCiaf4xLwtVFF1tA&s",
+      "original": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=940337146425011"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/chair/rw/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSp-GmZep8PEs7WPKDRP5nnKnnpPB_7TGiGSA&s",
+      "fuentePagina": "https://www.youtube.com/watch?v=IC7_dpeSDX4",
+      "titulo": "Intebe nziza za Cuire zifite imyanya 7 n'utumeza twazo ziragurishwa 2.5M",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSp-GmZep8PEs7WPKDRP5nnKnnpPB_7TGiGSA&s",
+      "original": "https://i.ytimg.com/vi/IC7_dpeSDX4/sddefault.jpg"
+    }
+  ]
+}

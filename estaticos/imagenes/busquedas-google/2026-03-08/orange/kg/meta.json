@@ -1,0 +1,71 @@
+{
+  "categoria": "orange",
+  "categoriaSlug": "orange",
+  "idioma": "kg",
+  "nombreIdioma": "Kikongo",
+  "termino": "lalange",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:12:37.652Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "fr",
+    "gl": "cd"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=lalange&hl=fr&gl=cd",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/orange/kg/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSL9YFoHzYlknjMGozAMc_34ioW9ZG4SBTXEQ&s",
+      "fuentePagina": "https://www.shazam.com/song/1582714514/lalange",
+      "titulo": "Lalange - Liniker, Milton Nascimento & Orquestra Jazz ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSL9YFoHzYlknjMGozAMc_34ioW9ZG4SBTXEQ&s",
+      "original": "https://i.ytimg.com/vi/8N8CiMoDQoc/maxresdefault.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/orange/kg/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSE7fvp6b5ZuGqHJ6LEA4jVlqmbGLKls06OBA&s",
+      "fuentePagina": "https://open.spotify.com/intl-fr/track/2JANMglHHsAFlwNELzTCyv",
+      "titulo": "Lalange - titre et paroles par Liniker, Milton Nascimento ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSE7fvp6b5ZuGqHJ6LEA4jVlqmbGLKls06OBA&s",
+      "original": "https://i.scdn.co/image/ab67616d0000b273748b2d7077a8db9c93517ce1"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/orange/kg/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpFzKoxoJPPMjVIOa3B9mtr9GJLdbsDvQv2w&s",
+      "fuentePagina": "https://www.mbway.com/temoignages/lalange-louise",
+      "titulo": "Lalange Louise - Témoignages et avis - MBway",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpFzKoxoJPPMjVIOa3B9mtr9GJLdbsDvQv2w&s",
+      "original": "https://www.mbway.com/sites/default/files/styles/temoignage/public/2021-04/94010014_1263815390479956_5215452046789967872_n.jpg.webp?itok=tsdO5ocq"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/orange/kg/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3aKTB5RVpPtuv1gr919UpWi5tZ9O9ZOJnGg&s",
+      "fuentePagina": "https://soundcloud.com/linikerofficial/lalange",
+      "titulo": "Stream Lalange by Liniker | Listen online for free on SoundCloud",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3aKTB5RVpPtuv1gr919UpWi5tZ9O9ZOJnGg&s",
+      "original": "https://i1.sndcdn.com/artworks-kYJQPETGJ1kq-0-t500x500.jpg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/orange/kg/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdMr1-zMk07127gZTwKgCsPUZ9mKBGN2Oekw&s",
+      "fuentePagina": "https://www.indre.fr/fr/annuaire-des-elus/lalange-sebastien",
+      "titulo": "Lalange Sébastien | Conseil départemental de l'Indre",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdMr1-zMk07127gZTwKgCsPUZ9mKBGN2Oekw&s",
+      "original": "https://www.indre.fr/sites/default/files/styles/460x510/public/media/images/paulnay_sebastien_lalange_0.jpg?h=7fc43faa&itok=OVW8rZ6C"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/orange/kg/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRO38KMfNZM5sqU9srajqGkZU4M9ojsHn7nTw&s",
+      "fuentePagina": "https://www.last.fm/music/Liniker/_/Lalange",
+      "titulo": "Lalange — Liniker | Last.fm",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRO38KMfNZM5sqU9srajqGkZU4M9ojsHn7nTw&s",
+      "original": "https://img.youtube.com/vi/2J-SB1ZhQKM/0.jpg"
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "categoria": "knife",
+  "categoriaSlug": "knife",
+  "idioma": "ln",
+  "nombreIdioma": "Lingala",
+  "termino": "mopanga",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:08:33.691Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "fr",
+    "gl": "cd"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=mopanga&hl=fr&gl=cd",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/knife/ln/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdeEGIUWcsGbFEZvRrfDscWsyvEQsGTX0Mcw&s",
+      "fuentePagina": "https://www.deezer.com/fr/track/91003373",
+      "titulo": "L'or Mbongo - Mopanga | Deezer",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdeEGIUWcsGbFEZvRrfDscWsyvEQsGTX0Mcw&s",
+      "original": "https://cdn-images.dzcdn.net/images/artist/7649ccadc3b23a5ab40b21891f3126af/1900x1900-000000-80-0-0.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/knife/ln/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9LiH1K-DDYClj4uyG611oYU7Gj7puKyz-qA&s",
+      "fuentePagina": "https://www.youtube.com/watch?v=M4MwJHHrSrk",
+      "titulo": "Mopanga",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9LiH1K-DDYClj4uyG611oYU7Gj7puKyz-qA&s",
+      "original": "https://i.ytimg.com/vi/M4MwJHHrSrk/maxresdefault.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/knife/ln/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2eDj-cRAFHL-W8vaKVqzWZhrP-EQgaHU_WA&s",
+      "fuentePagina": "https://www.shazam.com/fr-fr/song/1869990401/mopanga",
+      "titulo": "Mopanga - Moise Mbiye : paroles de chansons, vidéoclips et ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2eDj-cRAFHL-W8vaKVqzWZhrP-EQgaHU_WA&s",
+      "original": "https://i.ytimg.com/vi/JODccmOyhkA/maxresdefault.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/knife/ln/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwIpoekxSKw-kUXV0P2ybqiBs2FTkoBOjpiQ&s",
+      "fuentePagina": "https://www.facebook.com/people/Minist%C3%A8res-Mopanga-ya-Moto-MMM/100069376339321/?locale=fr_CA",
+      "titulo": "Assemblée des Sacrificateurs Mopanga ya Moto",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwIpoekxSKw-kUXV0P2ybqiBs2FTkoBOjpiQ&s",
+      "original": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=100069376339321"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/knife/ln/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyVQti2YARIT6z94_WQ8M9pCNyY3J8naeL7g&s",
+      "fuentePagina": "https://www.facebook.com/61560229282115/",
+      "titulo": "Jeunesse Mopanga",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyVQti2YARIT6z94_WQ8M9pCNyY3J8naeL7g&s",
+      "original": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=61560229282115"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/knife/ln/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjkzOdodVqAjUdDFBuAPCNCz7PIL9nXYJeeQ&s",
+      "fuentePagina": "https://music.apple.com/fr/song/mopanga/1869990401",
+      "titulo": "Mopanga - Morceau par Moise Mbiye - Apple Music",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjkzOdodVqAjUdDFBuAPCNCz7PIL9nXYJeeQ&s",
+      "original": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/7a/7e/03/7a7e0328-ad6a-27d8-557c-6caca9c53ddb/859729191427_cover.jpg/600x600bf-60.jpg"
+    }
+  ]
+}

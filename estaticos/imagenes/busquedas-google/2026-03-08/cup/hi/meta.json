@@ -1,0 +1,71 @@
+{
+  "categoria": "cup",
+  "categoriaSlug": "cup",
+  "idioma": "hi",
+  "nombreIdioma": "हिन्दी",
+  "termino": "कप",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:07:38.855Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "hi",
+    "gl": "in"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=%E0%A4%95%E0%A4%AA&hl=hi&gl=in",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/cup/hi/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTiV7Efrd1WflMJz3PR0aAXkHoQBpVaAAlgQ&s",
+      "fuentePagina": "https://www.amazon.in/-/hi/%E0%A4%95%E0%A4%BE%E0%A4%B0%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%B2%E0%A4%AF-%E0%A4%B9%E0%A4%B0%E0%A5%87%E0%A4%AC%E0%A5%87-%E0%A4%9A%E0%A4%BF%E0%A4%95%E0%A4%A8%E0%A4%BE-%E0%A4%B8%E0%A4%BF%E0%A4%B0%E0%A5%87%E0%A4%AE%E0%A4%BF%E0%A4%95-%E0%A4%95%E0%A5%8D%E0%A4%B7%E0%A4%AE%E0%A4%A4%E0%A4%BE/dp/B08B8MPKYY",
+      "titulo": "20 OZ बड़े कॉफी मग, कार्यालय और घर ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTiV7Efrd1WflMJz3PR0aAXkHoQBpVaAAlgQ&s",
+      "original": "https://m.media-amazon.com/images/I/61-gPGG7umL.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/cup/hi/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRj0-ZiXpkkpOeLKy9Yf4hI9i-QmJNu_MJmfg&s",
+      "fuentePagina": "https://www.rasoishop.com/hi/products/clay-craft-ceramic-floral-printed-cup-saucer-set-180-ml-set-of-12-pcs?srsltid=AfmBOop0cti6uKRG_YkEyI6b6rkEO2UpfreEzJ5poW8SMoGGno5SKvSh",
+      "titulo": "इंपीरियल क्रीम कप और तश्तरी का 12 ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRj0-ZiXpkkpOeLKy9Yf4hI9i-QmJNu_MJmfg&s",
+      "original": "https://www.rasoishop.com/cdn/shop/products/DSC_3122.jpg?v=1697731378&width=1445"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/cup/hi/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzjInYqceZht7IJfl_zdByPSskJWQh_h_EHg&s",
+      "fuentePagina": "https://www.rasoishop.com/hi-gb/products/nirlon-nelcon-stainless-steel-100-ml-small-tea-cup-apple-silver-set-of-6-pcs?srsltid=AfmBOoox6gCBtwlhpZ-AGhmOkwtTC_whPFV-xc_DUj95LBtTrxMVFIt0",
+      "titulo": "निर्लॉन नेलकॉन स्टेनलेस स्टील 100 ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzjInYqceZht7IJfl_zdByPSskJWQh_h_EHg&s",
+      "original": "https://www.rasoishop.com/cdn/shop/products/8904346705112_3.jpg?v=1709186922&width=1445"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/cup/hi/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAqDZCQNfDut4BhwVo-jzy7gPhK8b6THbOGg&s",
+      "fuentePagina": "https://www.abplive.com/lifestyle/amazon-offer-ontea-cup-set-with-saucer-plate-expensive-tea-cup-set-for-gifting-premium-quality-best-cup-set-for-high-tea-2037098",
+      "titulo": "Amazon Offer OnTea cup set with Saucer Plate Expensive Tea ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAqDZCQNfDut4BhwVo-jzy7gPhK8b6THbOGg&s",
+      "original": "https://feeds.abplive.com/onecms/images/uploaded-images/2022/01/12/2e753f0692f654617acf0806f7c4faa7_original.jfif"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/cup/hi/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_kubMRw519CQNyBp23rW_JcvRWlPLXO7wGA&s",
+      "fuentePagina": "https://hi.wikipedia.org/wiki/%E0%A4%95%E0%A4%AA",
+      "titulo": "कप - विकिपीडिया",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_kubMRw519CQNyBp23rW_JcvRWlPLXO7wGA&s",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/e/e9/Tea_Cup.jpg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/cup/hi/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSa_4_hD6U1qCktmVuWitTlxzzkAWfR6sTy3w&s",
+      "fuentePagina": "https://depositphotos.com/hi/photos/cup.html",
+      "titulo": "Cup स्टॉक फ़ोटो, रॉयल्टी फ़्री Cup ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSa_4_hD6U1qCktmVuWitTlxzzkAWfR6sTy3w&s",
+      "original": "https://st2.depositphotos.com/3480741/10149/i/450/depositphotos_101493694-stock-photo-white-tea-cup.jpg"
+    }
+  ]
+}

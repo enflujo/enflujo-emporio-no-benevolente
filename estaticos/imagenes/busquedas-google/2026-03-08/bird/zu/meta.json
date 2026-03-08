@@ -1,0 +1,71 @@
+{
+  "categoria": "bird",
+  "categoriaSlug": "bird",
+  "idioma": "zu",
+  "nombreIdioma": "isiZulu",
+  "termino": "inyoni",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T20:49:53.447Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "zu",
+    "gl": "za"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=inyoni&hl=zu&gl=za",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bird/zu/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdov91xQPac8M-rYOfc4FJBL9YIdI5KNZSVw&s",
+      "fuentePagina": "https://www.facebook.com/IzibongoZamakhosiAkwazulu/posts/nalo-ke-iqola-inyoni-encane-edume-ngonya-nangesibindi-esiyisimanga-lolu-hlobo-lw/3286559084688343/",
+      "titulo": "Nalo-ke iqola inyoni encane edume ngonya nangesibindi ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdov91xQPac8M-rYOfc4FJBL9YIdI5KNZSVw&s",
+      "original": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=3286559084688343"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bird/zu/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWMewJw0acEWwOzck0gBz-WwbiEtuvv0weCw&s",
+      "fuentePagina": "https://www.facebook.com/insengwakazi/posts/intenguintengu-inyoni-emnyama-bhuqe-ngokwebala-eyimfologo-ngesisila-sayo-fork-ta/529438562523054/",
+      "titulo": "INTENGU Intengu inyoni emnyama bhuqe ngokwebala eyimfologo ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWMewJw0acEWwOzck0gBz-WwbiEtuvv0weCw&s",
+      "original": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=529438515856392"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bird/zu/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZLuZtHO3HGgVZI_LdVY7haT2wwP_G5dHxag&s",
+      "fuentePagina": "https://randaid.co.za/inyoni-creek/",
+      "titulo": "Inyoni Creek – Rand Aid Association",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZLuZtHO3HGgVZI_LdVY7haT2wwP_G5dHxag&s",
+      "original": "https://randaid.co.za/wp-content/uploads/2020/07/Inyoni.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bird/zu/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSio5Yubjbq1dKqfLOqaoYFIMLypCX09W5Yzg&s",
+      "fuentePagina": "https://www.instagram.com/p/CKZN2wRgKeK/",
+      "titulo": "Quality Biyela | Inyon yenhlanhla | Instagram",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSio5Yubjbq1dKqfLOqaoYFIMLypCX09W5Yzg&s",
+      "original": "https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=2493084806015920010"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bird/zu/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQc-BbInYYGoy010WWQ_zafgAqymfH_i1ooaA&s",
+      "fuentePagina": "https://www.youtube.com/watch?v=aBW3CpW8QCY",
+      "titulo": "Inyoni ya mbere NZIZA ku isi: Peacock Paon",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQc-BbInYYGoy010WWQ_zafgAqymfH_i1ooaA&s",
+      "original": "https://i.ytimg.com/vi/aBW3CpW8QCY/sddefault.jpg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bird/zu/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSECl_SqooLaUs62DnXSLPTFNUOib4i_pDNlA&s",
+      "fuentePagina": "https://x.com/ZuluSweG/status/1355795031513305089",
+      "titulo": "INKWAZI: On the picture inyoni igama layo siyibiza ngokuthi ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSECl_SqooLaUs62DnXSLPTFNUOib4i_pDNlA&s",
+      "original": "https://pbs.twimg.com/media/EtDAZEyW8AA-OFT.jpg"
+    }
+  ]
+}

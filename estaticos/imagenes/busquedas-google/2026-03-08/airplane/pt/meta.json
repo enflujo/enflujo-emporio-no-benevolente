@@ -1,0 +1,71 @@
+{
+  "categoria": "airplane",
+  "categoriaSlug": "airplane",
+  "idioma": "pt",
+  "nombreIdioma": "Português",
+  "termino": "avião",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T20:43:31.443Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "pt",
+    "gl": "br"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=avi%C3%A3o&hl=pt&gl=br",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/airplane/pt/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcReVT8HNJB88ICriL77uvWwOP9izQ6zEzLdDQ&s",
+      "fuentePagina": "https://pt.wikipedia.org/wiki/Avi%C3%A3o",
+      "titulo": "Avião – Wikipédia, a enciclopédia livre",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcReVT8HNJB88ICriL77uvWwOP9izQ6zEzLdDQ&s",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/8/82/Airbus_A380_blue_sky.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/airplane/pt/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSOo9zZugQku9oqrg5o2LX4M59xPv7gzlqbQ&s",
+      "fuentePagina": "https://www.tempo.com/noticias/actualidade/o-maior-aviao-eletrico-da-historia-com-capacidade-para-90-pessoas-podera-voar-em-2033-tecnologia.html",
+      "titulo": "O maior avião elétrico da história com capacidade para 90 ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSOo9zZugQku9oqrg5o2LX4M59xPv7gzlqbQ&s",
+      "original": "https://services.meteored.com/img/article/estiman-que-el-avion-electrico-mas-grande-de-la-historia-con-capacidad-para-90-personas-pueda-volar-en-1706862450681_512.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/airplane/pt/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSA0mb0DjM3OOFkC79_OvVSf7so7h3yW4xVdQ&s",
+      "fuentePagina": "https://plasticovirtual.com.br/material-plastico-e-utilizado-para-construcao-de-aviao/",
+      "titulo": "Material plástico é utilizado para construção de avião",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSA0mb0DjM3OOFkC79_OvVSf7so7h3yW4xVdQ&s",
+      "original": "https://plasticovirtual.com.br/wp-content/uploads/2017/05/avic3a3o-branco21.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/airplane/pt/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQK9yyAxcX3DrlF-U7uzfLFhPJK-sxEmkSgoA&s",
+      "fuentePagina": "https://www.melhoresdestinos.com.br/dicas-primeira-viagem-aviao.html",
+      "titulo": "Primeira viagem de avião: passo a passo e dicas para o seu ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQK9yyAxcX3DrlF-U7uzfLFhPJK-sxEmkSgoA&s",
+      "original": "https://www.melhoresdestinos.com.br/wp-content/uploads/2021/03/primeira-viagem-aviao-capa.jpg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/airplane/pt/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZuNpBpnASCTLZzUfzPQXoak1_gwSW_WfWOQ&s",
+      "fuentePagina": "https://www.cnnbrasil.com.br/nacional/sudeste/sp/maior-aviao-de-passageiros-do-mundo-voa-por-quase-2h-e-volta-a-sp-apos-pane/",
+      "titulo": "Maior avião de passageiros do mundo voa por quase 2h e volta ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZuNpBpnASCTLZzUfzPQXoak1_gwSW_WfWOQ&s",
+      "original": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2025/05/IMG_3516-e1747943988893.jpg?w=419&h=283&crop=0"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/airplane/pt/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5RhgF5Bq4BpXrSAtIPy34CdSKIidyoUJwwQ&s",
+      "fuentePagina": "https://www.panrotas.com.br/aviacao/parcerias/2022/08/margarida-sera-a-proxima-personagem-a-estampar-aviao-da-azul_191241.html",
+      "titulo": "Margarida será a próxima personagem a estampar avião da Azul",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5RhgF5Bq4BpXrSAtIPy34CdSKIidyoUJwwQ&s",
+      "original": "https://cdn.panrotas.com.br/portal-panrotas-statics/media-files-cache/334042/e66c929a0d582bcde0c05fcc44d3742014aviaodeafrotamaismagicadomundo/77,0,2412,1440/1206,720,0.28/0/default.jpg"
+    }
+  ]
+}

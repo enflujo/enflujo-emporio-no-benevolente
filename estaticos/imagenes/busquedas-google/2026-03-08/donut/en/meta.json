@@ -1,0 +1,71 @@
+{
+  "categoria": "donut",
+  "categoriaSlug": "donut",
+  "idioma": "en",
+  "nombreIdioma": "English",
+  "termino": "donut",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:15:32.340Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "en",
+    "gl": "us"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=donut&hl=en&gl=us",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/donut/en/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyLiHpvSXVPq0wQJPLCsbDHQRno2Vh1KtBhw&s",
+      "fuentePagina": "https://en.wikipedia.org/wiki/Doughnut",
+      "titulo": "Doughnut - Wikipedia",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyLiHpvSXVPq0wQJPLCsbDHQRno2Vh1KtBhw&s",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Glazed-Donut.jpg/1280px-Glazed-Donut.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/donut/en/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_30V4e8wTip3M3gFYmO5zaQcTKQj_gu_MAw&s",
+      "fuentePagina": "https://www.bostongirlbakes.com/chocolate-frosted-donuts/",
+      "titulo": "Chocolate Frosted Donuts",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_30V4e8wTip3M3gFYmO5zaQcTKQj_gu_MAw&s",
+      "original": "https://www.bostongirlbakes.com/wp-content/uploads/2022/10/Chocolate-Frosted-Donuts-High-Res-68.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/donut/en/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3wNRHZoqKhTgNIUNdzM--TnaP4ZqagC-ZGw&s",
+      "fuentePagina": "https://sugargeekshow.com/classic-baked-donut-recipe-with-colorful-glaze/",
+      "titulo": "Baked Donuts Recipe",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3wNRHZoqKhTgNIUNdzM--TnaP4ZqagC-ZGw&s",
+      "original": "https://sugargeekshow.com/wp-content/uploads/2020/10/baked_donut_recipe_featured.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/donut/en/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrIbc0EdsgFSI4A7yaAeZrhU2O9tvccZOKgg&s",
+      "fuentePagina": "https://www.epicurious.com/recipes/food/views/classic-glazed-doughnuts-51160200",
+      "titulo": "Classic Glazed Doughnuts",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrIbc0EdsgFSI4A7yaAeZrhU2O9tvccZOKgg&s",
+      "original": "https://assets.epicurious.com/photos/54b0226d766062b20344580a/1:1/w_2560%2Cc_limit/51160200_glazed-doughnuts_1x1.jpg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/donut/en/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkt80sUkCca3y1G_0XAzuQbkuR5KkNFUwwHw&s",
+      "fuentePagina": "https://wuollet.com/products/pink-sprinkled-raised-donut",
+      "titulo": "Pink Sprinkled Raised Donut",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkt80sUkCca3y1G_0XAzuQbkuR5KkNFUwwHw&s",
+      "original": "http://wuollet.com/cdn/shop/files/specialty-the-homer.jpg?v=1747846405"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/donut/en/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWkKuPfApF3rNAneRCkfpplc-0zvhgEken6A&s",
+      "fuentePagina": "https://funcakes.com/recipe/donuts/",
+      "titulo": "Donuts",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWkKuPfApF3rNAneRCkfpplc-0zvhgEken6A&s",
+      "original": "https://funcakes.com/content/uploads/2020/08/Donut-600x450.png"
+    }
+  ]
+}

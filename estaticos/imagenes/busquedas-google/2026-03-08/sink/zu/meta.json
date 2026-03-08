@@ -1,0 +1,71 @@
+{
+  "categoria": "sink",
+  "categoriaSlug": "sink",
+  "idioma": "zu",
+  "nombreIdioma": "isiZulu",
+  "termino": "isitsha samanzi",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:27:02.253Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "zu",
+    "gl": "za"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=isitsha%20samanzi&hl=zu&gl=za",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/sink/zu/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBDfrawL8TGsmj28e310Tr-oguWXJ-cuzg2g&s",
+      "fuentePagina": "https://www.temu.com/za-zu/1pc-ibhokisi-lokuphakela-izilwane-ezihuquzelayo-isitsha-sokudla-isitsha-samanzi-isigodlo-esibili-in-one-unogada-umane-lion-lizard-spider--breadworm-isitsha-sokudla-anti-escape-g-601099536570809.html",
+      "titulo": "1pc ibhokisi lokuphakela izilwane ezihuquzelayo isitsha ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBDfrawL8TGsmj28e310Tr-oguWXJ-cuzg2g&s",
+      "original": "https://img.kwcdn.com/product/Fancyalgo/VirtualModelMatting/1b1833fdaef2b0968f94ad0f1f24f0b8.jpg?imageMogr2/auto-orient%7CimageView2/2/w/800/q/70/format/webp"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/sink/zu/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7qv1HkAZ_m_b78YfHg_hhFFRbBXELPzcxVg&s",
+      "fuentePagina": "https://www.temu.com/za-zu/1pc-ibhokisi-lokuphakela-izilwane-ezihuquzelayo-isitsha-sokudla-isitsha-samanzi-isigodlo-esibili-in-one-unogada-umane-lion-lizard-spider--breadworm-isitsha-sokudla-anti-escape-g-601099536570809.html",
+      "titulo": "1pc ibhokisi lokuphakela izilwane ezihuquzelayo isitsha ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7qv1HkAZ_m_b78YfHg_hhFFRbBXELPzcxVg&s",
+      "original": "https://img.kwcdn.com/product/Fancyalgo/VirtualModelMatting/1b56535e982399b1ed3c2691d5732d61.jpg?imageMogr2/auto-orient%7CimageView2/2/w/800/q/70/format/webp"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/sink/zu/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPvV24pNbT4IJ0Me_4nrGe8qYFb8_RWY0ccw&s",
+      "fuentePagina": "http://zu.kontagavet.com/10022-automatic-cattle-drinking-bowl-water-saving-floating-ball-product/",
+      "titulo": "Umkhiqizi kanye Nomthumeli Wesitsha Samanzi saseShayina i ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPvV24pNbT4IJ0Me_4nrGe8qYFb8_RWY0ccw&s",
+      "original": "http://www.kontagavet.com/uploads/10022-Automatic-Cattle-Drinking-Bowl-Water-Saving-08.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/sink/zu/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3ACgoTLLHPLFiGuY0UFz2swcySgVp_5mUaA&s",
+      "fuentePagina": "https://www.temu.com/za-zu/1pc-ibhokisi-lokuphakela-izilwane-ezihuquzelayo-isitsha-sokudla-isitsha-samanzi-isigodlo-esibili-in-one-unogada-umane-lion-lizard-spider--breadworm-isitsha-sokudla-anti-escape-g-601099536570809.html",
+      "titulo": "1pc ibhokisi lokuphakela izilwane ezihuquzelayo isitsha ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3ACgoTLLHPLFiGuY0UFz2swcySgVp_5mUaA&s",
+      "original": "https://img.kwcdn.com/product/Fancyalgo/VirtualModelMatting/d0a66c84bd4e3471f6d6af708ac433e0.jpg?imageMogr2/auto-orient%7CimageView2/2/w/800/q/70/format/webp"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/sink/zu/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFAltIIxm61qUGEz6Jo0tl-4HaCEiPr4eq5A&s",
+      "fuentePagina": "http://zu.kontagavet.com/10022-automatic-cattle-drinking-bowl-water-saving-floating-ball-product/",
+      "titulo": "Umkhiqizi kanye Nomthumeli Wesitsha Samanzi saseShayina i ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFAltIIxm61qUGEz6Jo0tl-4HaCEiPr4eq5A&s",
+      "original": "http://www.kontagavet.com/uploads/10022-Automatic-Cattle-Drinking-Bowl-Water-Saving-07.jpg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/sink/zu/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQaVr4n4wjn9pYkJ4pIOh5j9ZKngAPWcwUe9g&s",
+      "fuentePagina": "https://www.temu.com/za-zu/1pc-ibhokisi-lokuphakela-izilwane-ezihuquzelayo-isitsha-sokudla-isitsha-samanzi-isigodlo-esibili-in-one-unogada-umane-lion-lizard-spider--breadworm-isitsha-sokudla-anti-escape-g-601099536570809.html",
+      "titulo": "1pc ibhokisi lokuphakela izilwane ezihuquzelayo isitsha ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQaVr4n4wjn9pYkJ4pIOh5j9ZKngAPWcwUe9g&s",
+      "original": "https://img.kwcdn.com/product/Fancyalgo/VirtualModelMatting/4c78df792b8751bf3321b4978cff45f0.jpg?imageMogr2/auto-orient%7CimageView2/2/w/800/q/70/format/webp"
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "categoria": "chair",
+  "categoriaSlug": "chair",
+  "idioma": "sw",
+  "nombreIdioma": "Kiswahili",
+  "termino": "kiti",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:16:56.509Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "sw",
+    "gl": "tz"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=kiti&hl=sw&gl=tz",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/chair/sw/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsfh7UbVLbT4sYgJXndcwuNL1qaqDrZE1UBg&s",
+      "fuentePagina": "https://play.google.com/store/apps/details?id=com.kiti.chat.android",
+      "titulo": "Kiti Live - A Stage to Shine - Apps on Google Play",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsfh7UbVLbT4sYgJXndcwuNL1qaqDrZE1UBg&s",
+      "original": "https://play-lh.googleusercontent.com/3rQyyxmr_LNvDymc7nW8CyI2vsreSfNDMUR0xbL-QTRkinvteWzlbmSRMj4oS2DF5O4"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/chair/sw/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnNWTjQqgc11jgPVyRQffiklkIrOAfmCMqEw&s",
+      "fuentePagina": "https://sw.wiktionary.org/wiki/kiti",
+      "titulo": "Ufafanuzi kutoka Wiktionary, kamusi iliyo huru",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnNWTjQqgc11jgPVyRQffiklkIrOAfmCMqEw&s",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/7/76/Chair.png"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/chair/sw/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQy7XgGVWjftBTCRzkPWt0XpyEbPdOpVQxvGw&s",
+      "fuentePagina": "https://mbao-zetu.square.site/product/kiti/4",
+      "titulo": "kiti | Mbao Zetu",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQy7XgGVWjftBTCRzkPWt0XpyEbPdOpVQxvGw&s",
+      "original": "https://131722371.cdn6.editmysite.com/uploads/1/3/1/7/131722371/s518559297942164028_p4_i1_w800.jpeg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/chair/sw/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQaWRdEKl5EvZxEZVT_y9OxSyAU4R5HHNzhtg&s",
+      "fuentePagina": "https://ar.pinterest.com/paulo77po/kiti/",
+      "titulo": "Descubre 28 ideas de Kiti y hello kitty | fondos de hello ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQaWRdEKl5EvZxEZVT_y9OxSyAU4R5HHNzhtg&s",
+      "original": "https://i.pinimg.com/736x/ed/96/d0/ed96d0c95aef8954122694bf77a036c9.jpg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/chair/sw/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTpIiNhXtcJY07lXZBMqoM-mro-jXDsGTFhg&s",
+      "fuentePagina": "https://kupatana.com/tz/household-furniture/p/kiti-cha-kusomea/66b4e747dca7cc000168a6b8978659",
+      "titulo": "Kiti cha kusomea | Kupatana",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTpIiNhXtcJY07lXZBMqoM-mro-jXDsGTFhg&s",
+      "original": "https://kupatana.com/api/v1/filestorage/image/large/23b17625981ca6e430df5bbc34ac3390.jpeg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/chair/sw/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQECmsHpBidwcNA4mR9LiJzYVMl1cOZb9khQg&s",
+      "fuentePagina": "https://madeintanzania.co.tz/products/70/",
+      "titulo": "kiti cha mninga - Products Made In Tanzania",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQECmsHpBidwcNA4mR9LiJzYVMl1cOZb9khQg&s",
+      "original": "https://madeintanzania.co.tz/static/uploads/images/2021-11-10-09-58-48DSC_5176.JPG"
+    }
+  ]
+}

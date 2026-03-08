@@ -1,0 +1,71 @@
+{
+  "categoria": "backpack",
+  "categoriaSlug": "backpack",
+  "idioma": "sw",
+  "nombreIdioma": "Kiswahili",
+  "termino": "mkoba",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T20:56:07.259Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "sw",
+    "gl": "tz"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=mkoba&hl=sw&gl=tz",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/backpack/sw/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSr0ybV71SGAopMa_9TIf5qW1nQmA3Dz75eRg&s",
+      "fuentePagina": "https://vodacom.co.tz/mkoba",
+      "titulo": "Welcome to Vodacom Tanzania",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSr0ybV71SGAopMa_9TIf5qW1nQmA3Dz75eRg&s",
+      "original": "https://vodacom.co.tz/uploads/Website_banners_Top_banner_Mkoba_51775b3272.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/backpack/sw/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQePRJtfRAfrP6sQ7kYjksFQT4UBXwqtoCaYg&s",
+      "fuentePagina": "https://www.tanzaniainvest.com/finance/new-pan-african-private-equity-fund-launched-in-tanzania",
+      "titulo": "New Pan-African Private Equity Fund Launched in Tanzania ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQePRJtfRAfrP6sQ7kYjksFQT4UBXwqtoCaYg&s",
+      "original": "https://www.tanzaniainvest.com/wp-content/uploads/featured-images/mkoba-private-equity-fund-africa-tanzania.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/backpack/sw/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9EecAcXhVLM4qtrTN60jNOMDDeS0MNc2BMA&s",
+      "fuentePagina": "https://www.instagram.com/p/DCzXiSGIMZM/",
+      "titulo": "Mkoba pambe, mkoba wa ngozi Unapata 3 in 1 kama unavyoona ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9EecAcXhVLM4qtrTN60jNOMDDeS0MNc2BMA&s",
+      "original": "https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3509252036453494806"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/backpack/sw/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoD_GLiulJPquLQuLEmdrUwLgh3HSAg4WkAw&s",
+      "fuentePagina": "https://www.youtube.com/watch?v=lXlQSIQPtDk",
+      "titulo": "MKOBA WA GIZA | EP 01|",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoD_GLiulJPquLQuLEmdrUwLgh3HSAg4WkAw&s",
+      "original": "https://i.ytimg.com/vi/lXlQSIQPtDk/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLA-4PZ19qdTXyxQGaPkYT9g6ZMTKw"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/backpack/sw/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVAABaY2aymPvzf5K_IpGR2I-fmlUEAtx4eg&s",
+      "fuentePagina": "https://www.scribd.com/document/680624412/M-KOBA-BOOKLET-2020-1",
+      "titulo": "M-Koba Booklet 2020-1 | PDF",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVAABaY2aymPvzf5K_IpGR2I-fmlUEAtx4eg&s",
+      "original": "https://imgv2-2-f.scribdassets.com/img/document/680624412/original/330a4e8c19/1?v=1"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/backpack/sw/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQN24A_TZF6U1ssrM0ET93zcU49LO9sKkUtlw&s",
+      "fuentePagina": "https://www.facebook.com/p/MKOBA-100068948453867/",
+      "titulo": "MKOBA",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQN24A_TZF6U1ssrM0ET93zcU49LO9sKkUtlw&s",
+      "original": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=100068948453867"
+    }
+  ]
+}

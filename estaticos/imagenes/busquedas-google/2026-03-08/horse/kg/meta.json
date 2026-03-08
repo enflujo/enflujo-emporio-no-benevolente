@@ -1,0 +1,71 @@
+{
+  "categoria": "horse",
+  "categoriaSlug": "horse",
+  "idioma": "kg",
+  "nombreIdioma": "Kikongo",
+  "termino": "kavalu",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T20:51:43.137Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "fr",
+    "gl": "cd"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=kavalu&hl=fr&gl=cd",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/horse/kg/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnyotCHWYTSYdYJJJO3KwlaQmInKIpksfRvg&s",
+      "fuentePagina": "https://subbupublications.com/product/kavalu/",
+      "titulo": "Kavalu – Subbu",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnyotCHWYTSYdYJJJO3KwlaQmInKIpksfRvg&s",
+      "original": "https://subbupublications.com/wp-content/uploads/2024/04/6c331ae8-4a79-4b3b-b73c-c74ff029a45c.jpeg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/horse/kg/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRLs0W2FIw4z4eKQkIdpaQSABMo0EEQWW8Aw&s",
+      "fuentePagina": "https://www.goodreads.com/book/show/13503242-kavalu",
+      "titulo": "ಕವಲು [Kavalu] by S.L. Bhyrappa | Goodreads",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRLs0W2FIw4z4eKQkIdpaQSABMo0EEQWW8Aw&s",
+      "original": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1610018387i/13503242.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/horse/kg/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdrO1i7qmrbphzDLfHiyZvgWNLfA0o0EeM-Q&s",
+      "fuentePagina": "https://www.indiamart.com/proddetail/wall-cladding-roofing-sheet-kavalu-20880203712.html?srsltid=AfmBOoqM47p8kjrKyt46seSaAZdO9yuXZv5qWouTVnhMzoZM2fOJlnrM",
+      "titulo": "Wall Cladding Roofing Sheet ( Kavalu ) at ₹ 90/kilogram ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdrO1i7qmrbphzDLfHiyZvgWNLfA0o0EeM-Q&s",
+      "original": "https://5.imimg.com/data5/TestImages/DC/IK/KI/SELLER-10863520/wall-cladding-roofing-sheet-500x500.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/horse/kg/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROdPMjDbliU3mr69jzawZvwtcaTK-tdrx9Vw&s",
+      "fuentePagina": "https://www.amazon.in/Kavalu-S-L-Bhyrappa/dp/B0D4F2843L",
+      "titulo": "Buy Kavalu Book Online at Low Prices in India | Kavalu ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROdPMjDbliU3mr69jzawZvwtcaTK-tdrx9Vw&s",
+      "original": "https://m.media-amazon.com/images/I/61G-HccEHkL._AC_UF1000,1000_QL80_.jpg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/horse/kg/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8uuVCeM7hbgN-Ye0T6lbwLE6fFPQh57t6Lg&s",
+      "fuentePagina": "https://www.kannadapustaka.net/product/kavalu-divergent-paths/",
+      "titulo": "Kavalu – Divergent Paths – Kannada Pustaka – Free Shipping ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8uuVCeM7hbgN-Ye0T6lbwLE6fFPQh57t6Lg&s",
+      "original": "https://www.kannadapustaka.net/wp-content/uploads/2024/05/Kavalu-front.jpeg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/horse/kg/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGzI9wv_EVGbgj3AJ7V6eu_idVqctnzS3LIQ&s",
+      "fuentePagina": "https://www.indiamart.com/proddetail/upvc-kavalu-sheet-2853609807788.html?srsltid=AfmBOookuDrjQ48DplKoEgysftZpIEGmkQ_uGzPqdrlHBvI88ZZfvEFR",
+      "titulo": "Color Coated Blue/green/red/brown Upvc Kavalu Sheet at ₹ 42 ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGzI9wv_EVGbgj3AJ7V6eu_idVqctnzS3LIQ&s",
+      "original": "https://5.imimg.com/data5/ANDROID/Default/2024/3/397611242/GX/VN/ID/38998467/product-jpeg.jpg"
+    }
+  ]
+}

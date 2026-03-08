@@ -1,0 +1,71 @@
+{
+  "categoria": "donut",
+  "categoriaSlug": "donut",
+  "idioma": "kg",
+  "nombreIdioma": "Kikongo",
+  "termino": "beignet",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:15:40.881Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "fr",
+    "gl": "cd"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=beignet&hl=fr&gl=cd",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/donut/kg/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHruwIwMU2ow3K5DBq5B29PjsSQkTrQbAKkQ&s",
+      "fuentePagina": "https://www.allrecipes.com/recipe/7179/beignets/",
+      "titulo": "Beignets",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHruwIwMU2ow3K5DBq5B29PjsSQkTrQbAKkQ&s",
+      "original": "https://www.allrecipes.com/thmb/hKFUyVfr92RDNlZyBUoR1xMkk4M=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/7179-beignets-VAT-014-4x3-205f030f178a42c48a0e04b17d4e94f8.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/donut/kg/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDARBOlLRpQ7EklGNKyunsbvmRvetmwUPDKA&s",
+      "fuentePagina": "https://www.biggerbolderbaking.com/homemade-beignets/",
+      "titulo": "Baked Easy Beignets",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDARBOlLRpQ7EklGNKyunsbvmRvetmwUPDKA&s",
+      "original": "https://www.biggerbolderbaking.com/wp-content/uploads/2016/05/Baked-Beignets-thumbnail.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/donut/kg/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTt6xEmjynRm7Z4NZfuzhxS_XJo2Ep7v81DA&s",
+      "fuentePagina": "https://cookidoo.ca/recipes/recipe/en-CA/r782482",
+      "titulo": "Petits beignets chocolat et noisettes",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTt6xEmjynRm7Z4NZfuzhxS_XJo2Ep7v81DA&s",
+      "original": "https://assets.tmecosys.com/image/upload/t_web_rdp_recipe_584x480/img/recipe/ras/Assets/9ace47ef252eb4a315bfec0a63255cba/Derivates/89b130bbdc79bb1e8539eeec49ff9bf8dcaf8694.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/donut/kg/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzprmz2wGx7TvHhbLwQRjXFvyle6C-Auw0_g&s",
+      "fuentePagina": "https://beplantwell.com/vegan-beignets/",
+      "titulo": "Vegan Beignets",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzprmz2wGx7TvHhbLwQRjXFvyle6C-Auw0_g&s",
+      "original": "https://beplantwell.com/wp-content/uploads/2022/11/IMG_7762.jpg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/donut/kg/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTetnSvoBpsArGDL7Jaai_6G-WeeH5dcPFMkg&s",
+      "fuentePagina": "https://www.meilleurduchef.com/fr/recette/beignet-au-four-sans-huile.html",
+      "titulo": "Beignet au four (sans huile)",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTetnSvoBpsArGDL7Jaai_6G-WeeH5dcPFMkg&s",
+      "original": "https://files.meilleurduchef.com/mdc/photo/recette/beignet-au-four-sans-huile/beignet-au-four-sans-huile-640.jpg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/donut/kg/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTD59vHwu6nWUWM1_WLs-b_t3bod29XMdBtdQ&s",
+      "fuentePagina": "https://cuisine.journaldesfemmes.fr/recette/310213-beignets-rapides-pupperchen",
+      "titulo": "Pâte à beignets : la meilleure recette",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTD59vHwu6nWUWM1_WLs-b_t3bod29XMdBtdQ&s",
+      "original": "https://img-3.journaldesfemmes.fr/d1dpWpoFvddThfxUmndpAcxrT74=/800x600/017ddeee4c804042b6b65afefe48cebf/ccmcms-jdf/39942498.jpg"
+    }
+  ]
+}

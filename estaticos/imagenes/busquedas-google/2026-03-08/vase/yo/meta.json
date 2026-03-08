@@ -1,0 +1,71 @@
+{
+  "categoria": "vase",
+  "categoriaSlug": "vase",
+  "idioma": "yo",
+  "nombreIdioma": "Yorùbá",
+  "termino": "àwo àpò ododo",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:29:36.565Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "yo",
+    "gl": "ng"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=%C3%A0wo%20%C3%A0p%C3%B2%20ododo&hl=yo&gl=ng",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/vase/yo/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5JZzsm65RfZhETXW6D-NMh7FqUJNWZ2x8XQ&s",
+      "fuentePagina": "https://leadership.ng/gov-ododo-orders-immediate-crackdown-on-odo-ape-attackers/",
+      "titulo": "Gov Ododo Orders Immediate Crackdown On Odo Ape Attackers",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5JZzsm65RfZhETXW6D-NMh7FqUJNWZ2x8XQ&s",
+      "original": "https://leadership.ng/wp-content/uploads/2025/01/Ododo.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/vase/yo/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsDguA4MhP59MXx2urp0I8wsRbKGQ387lz6g&s",
+      "fuentePagina": "https://tribuneonlineng.com/ododo-assures-fair-transparent-apc-governorship-primary-in-ekiti/",
+      "titulo": "Ododo assures fair, transparent APC governorship primary in ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsDguA4MhP59MXx2urp0I8wsRbKGQ387lz6g&s",
+      "original": "https://tribuneonlineng.com/wp-content/uploads/2025/08/unnamed-6-1-1-860x716.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/vase/yo/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6Cx9gEbleUsGnpUtFto6ZP2JHnvWdtZiqpQ&s",
+      "fuentePagina": "https://leadership.ng/ododo-eulogises-tinubu-as-apc-hails-achievements/",
+      "titulo": "Ododo Eulogises Tinubu As APC Hails Achievements",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6Cx9gEbleUsGnpUtFto6ZP2JHnvWdtZiqpQ&s",
+      "original": "https://leadership.ng/wp-content/uploads/2023/06/Ahmed-Usman-Ododo-1.png"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/vase/yo/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUIjmvcGyszr4vvoYUUCMAg_kN25CQmXpI1w&s",
+      "fuentePagina": "https://kogistate.gov.ng/gov-ododo-is-committed-to-mr-presidents-renewed-hope-agenda-fanwo/",
+      "titulo": "Gov. Ododo is Committed to Mr. President's Renewed Hope ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUIjmvcGyszr4vvoYUUCMAg_kN25CQmXpI1w&s",
+      "original": "https://kogistate.gov.ng/wp-content/uploads/IMG-20240920-WA0008.jpg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/vase/yo/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzgw5mI3CC-zYs_xl9MaK-in620XK9m9sWCQ&s",
+      "fuentePagina": "https://tribuneonlineng.com/gov-ododo-remains-committed-to-gender-inclusiveness-commissioner/",
+      "titulo": "Gov Ododo remains committed to gender inclusiveness",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzgw5mI3CC-zYs_xl9MaK-in620XK9m9sWCQ&s",
+      "original": "https://tribuneonlineng.com/wp-content/uploads/2025/02/ododo-main-860x630-1-e1739710118403.jpg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/vase/yo/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtpvPanmRsawt38lJSzfU-kOE18egp6kf75w&s",
+      "fuentePagina": "https://kogistate.gov.ng/world-radio-day-governor-ododo-celebrates-contribution-of-radio-to-democracy-assures-of-inclusive-governance/",
+      "titulo": "World Radio Day: GOVERNOR ODODO CELEBRATES CONTRIBUTION OF ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtpvPanmRsawt38lJSzfU-kOE18egp6kf75w&s",
+      "original": "https://kogistate.gov.ng/wp-content/uploads/IMG-20241225-WA0011-4.jpg"
+    }
+  ]
+}

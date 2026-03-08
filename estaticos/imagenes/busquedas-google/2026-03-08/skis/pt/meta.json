@@ -1,0 +1,71 @@
+{
+  "categoria": "skis",
+  "categoriaSlug": "skis",
+  "idioma": "pt",
+  "nombreIdioma": "Português",
+  "termino": "esquis",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:00:35.506Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "pt",
+    "gl": "br"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=esquis&hl=pt&gl=br",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/skis/pt/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMmCo2HgtbgtV-TVzMJVV_hKo12StGNfAuXw&s",
+      "fuentePagina": "https://www.clubmed.com.br/l/blog/tipos-de-esqui-descubra-a-diferenca-entre-os-equipamentos",
+      "titulo": "Descubra a diferença entre os tipos de esqui | Club Med",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMmCo2HgtbgtV-TVzMJVV_hKo12StGNfAuXw&s",
+      "original": "https://production.media.dcx.clubmed/?url=https%3A%2F%2Fassets.dream.clubmed%2Fpm_7531_579_579663-ukuin4ohfk-swhr.jpg&format=webp&width=380&height=240&quality=85"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/skis/pt/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3GHXtgCtximPYIONrmOQQBfKdN1PPMQweLA&s",
+      "fuentePagina": "https://www.clubmed.com.br/l/blog/tipos-de-esqui-descubra-a-diferenca-entre-os-equipamentos",
+      "titulo": "Descubra a diferença entre os tipos de esqui | Club Med",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3GHXtgCtximPYIONrmOQQBfKdN1PPMQweLA&s",
+      "original": "https://production.media.dcx.clubmed/?url=https%3A%2F%2Fassets.dream.clubmed%2Fpm_7531_579_579876-ugc5g1ovoa-swhr.jpg&format=webp&width=380&height=240&quality=85"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/skis/pt/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSWHEOZ9GECT9UiAIavmkEJbu23j71QF0_lg&s",
+      "fuentePagina": "https://www.amazon.com.br/madeira-esportes-crian%C3%A7as-acess%C3%B3rio-exclusivo/dp/B0DD3WW1PW",
+      "titulo": "Esquis de madeira para esportes ao ar livre, esquis de ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSWHEOZ9GECT9UiAIavmkEJbu23j71QF0_lg&s",
+      "original": "https://m.media-amazon.com/images/I/51Tu9i4+doL._AC_UF894,1000_QL80_.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/skis/pt/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRERi-Zfc6s9W-ZToBSI_q6jb6HHsBADJkx7w&s",
+      "fuentePagina": "https://blog.coris.com.br/esquiar-na-suica/",
+      "titulo": "Esquiar na Suíça: 9 destinos para praticar o esporte",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRERi-Zfc6s9W-ZToBSI_q6jb6HHsBADJkx7w&s",
+      "original": "https://blog.coris.com.br/wp-content/uploads/2022/12/homem-esquiando-scaled.jpg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/skis/pt/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHdOqr9UJ-D_PNrYJz24WV0UhP3RBCyV1VsA&s",
+      "fuentePagina": "https://unend.com.br/products/par-de-esquis-unissex-ski-rossignol-s86-colorido-tamanho-178cm?srsltid=AfmBOopUHljl8x5hCm4yV9RiVxLbBcvkQnLLTA3UQjf3hpU3DNSKPh7-",
+      "titulo": "Par De Esquis Unissex Ski Rossignol S86 Colorido - Tamanho 178 cm",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHdOqr9UJ-D_PNrYJz24WV0UhP3RBCyV1VsA&s",
+      "original": "https://unend.com.br/cdn/shop/files/site18-06-7_clipped_rev_1.jpg?v=1751493165&width=3000"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/skis/pt/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSJA6IkKX3cjn_AUl7a0kUM7CG5FVJy8lA_w&s",
+      "fuentePagina": "https://brasilnaneve.cbdn.org.br/modalidades-de-esqui-voce-conhece-todas/",
+      "titulo": "Modalidades de ski: você conhece todas? - Brasil na Neve!",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSJA6IkKX3cjn_AUl7a0kUM7CG5FVJy8lA_w&s",
+      "original": "https://i0.wp.com/brasilnaneve.cbdn.org.br/wp-content/uploads/sites/2/2020/03/tipos-de-esqui.jpg"
+    }
+  ]
+}

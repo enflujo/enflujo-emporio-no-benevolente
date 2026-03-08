@@ -1,0 +1,71 @@
+{
+  "categoria": "clock",
+  "categoriaSlug": "clock",
+  "idioma": "fr",
+  "nombreIdioma": "Français",
+  "termino": "horloge",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:28:52.529Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "fr",
+    "gl": "be"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=horloge&hl=fr&gl=be",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/clock/fr/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSazmv7Po-7i86jZhQIoRirLIu_tbA6AonXZg&s",
+      "fuentePagina": "https://www.lumimania.be/fr/horloge-murale-d-20-cm-1xaa-noir-blanc/",
+      "titulo": "Horloge murale d. 20 cm 1xAA noir/blanc | Lumimania",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSazmv7Po-7i86jZhQIoRirLIu_tbA6AonXZg&s",
+      "original": "https://www.lumimania.be/horloge-murale-d-20-cm-1xaa-noir-blanc-img-pl0529_1-fd-11.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/clock/fr/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSd8wnkz0KTrQIMkhSnW_P3t5Fu1oIqJHhRJw&s",
+      "fuentePagina": "https://www.manutan.be/fr/mab/horloge-analogique-eco-concue-noire-manutan-manutan-expert?srsltid=AfmBOoqJayiNWn5d-CtUF1OjkigVdaCFhyZUwaAfPyM9HIVJhC7DbWQ3",
+      "titulo": "Horloge analogique Eco-conçue Noire Manutan - Manutan Expert - Manutan.be",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSd8wnkz0KTrQIMkhSnW_P3t5Fu1oIqJHhRJw&s",
+      "original": "https://www.manutan.be/img/S/GRP/ST/AIG39222894.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/clock/fr/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwKEHtpbeb8Ni3hlHEa-UFHSFU60cr2STpLw&s",
+      "fuentePagina": "https://fr.wesco-eshop.be/of39392-horloge-a-quartz-o-30-cm-basic.html",
+      "titulo": "HORLOGE À QUARTZ",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwKEHtpbeb8Ni3hlHEa-UFHSFU60cr2STpLw&s",
+      "original": "https://static.wesco.fr/media/catalog/product/cache/7ccc10e5a8277e9f8854785247b9d41d/3/9/39392_c002_191127_pd.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/clock/fr/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTL8HS6O9eB9pIz20-y8fBJWf7zWVyKwf6Ycw&s",
+      "fuentePagina": "https://www.careserve.fr/vie-quotidienne/montres-et-horloges-grande-lisibilite/p/horloge-grand-format-facile-a-voir-noir-large-version-standard",
+      "titulo": "Lire l'heure grâce à une horloge grand format - Noir - large ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTL8HS6O9eB9pIz20-y8fBJWf7zWVyKwf6Ycw&s",
+      "original": "https://ccnint.sirv.com/CareServe.fr/product-images/horloge-grand-format-facile-a-voir-noir-large-version-standard--3.jpg?w=340&h=340&profile=ic"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/clock/fr/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKlsRxYoTaSEqXDK1Zf2cEKUvGvzjDD_RMfQ&s",
+      "fuentePagina": "https://www.bernard.be/fr_BE/pendules_sku827680.html",
+      "titulo": "Horloge Automatic DST Orium, Ø 36 cm",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKlsRxYoTaSEqXDK1Zf2cEKUvGvzjDD_RMfQ&s",
+      "original": "https://raja.scene7.com/is/image/Raja/products/horloge-automatic-dst-orium-36-cm_827680.jpg?template=TemplatePictoImage&$ImageMain=BER_827680&$PictoRight=NoPicto&$PictoLeft=NoPicto&resMode=sharp2&op_usm=1.75,0.3,2,0"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/clock/fr/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRt61B_N2n0ZWQRLqwi2KNjcIehsjSNBbQjtg&s",
+      "fuentePagina": "https://moineau-instruments.com/horloge-d-interieur/391-horloge-abs-verre-mineral-diam-300mm-mouvement-220v-9878ih.html",
+      "titulo": "Horloge Ø 300 mm - ABS noir - Verre minéral - Sur secteur",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRt61B_N2n0ZWQRLqwi2KNjcIehsjSNBbQjtg&s",
+      "original": "https://moineau-instruments.com/10753-large_default/horloge-abs-verre-mineral-diam-300mm-mouvement-220v.jpg"
+    }
+  ]
+}

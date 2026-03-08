@@ -1,0 +1,71 @@
+{
+  "categoria": "bird",
+  "categoriaSlug": "bird",
+  "idioma": "rw",
+  "nombreIdioma": "Kinyarwanda",
+  "termino": "inyoni",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T20:49:40.668Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "en",
+    "gl": "rw"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=inyoni&hl=en&gl=rw",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bird/rw/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4tBO-Ep2lZoZyTyZudsGTsJ3EaFfvJzy4rQ&s",
+      "fuentePagina": "https://www.igihe.com/ubukerarugendo/pariki-n-amashyamba/article/imibereho-y-inyombya-inyoni-imenyerewe-mu-kubyutsa-abantu-mu-museso",
+      "titulo": "Imibereho y'inyombya, inyoni imenyerewe mu kubyutsa abantu ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4tBO-Ep2lZoZyTyZudsGTsJ3EaFfvJzy4rQ&s",
+      "original": "https://igihe.com/IMG/arton152903.jpg?1624254578"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bird/rw/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQB7IlorVekkwi2wgE_CCwOADZoearMuxQLtQ&s",
+      "fuentePagina": "https://rw.wikipedia.org/wiki/Inyoni",
+      "titulo": "Inyoni - Wikipedia",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQB7IlorVekkwi2wgE_CCwOADZoearMuxQLtQ&s",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Bird_pc.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bird/rw/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSt5SM7WvZkCyzZtwHKZ02_caOEIQgCMnzHMQ&s",
+      "fuentePagina": "https://www.kigalitoday.com/amakuru/utuntu-n-utundi/article/menya-uko-inyoni-zimenya-ko-bukeye-zikaririmba",
+      "titulo": "Menya uko inyoni zimenya ko bukeye zikaririmba - Kigali Today",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSt5SM7WvZkCyzZtwHKZ02_caOEIQgCMnzHMQ&s",
+      "original": "https://www.kigalitoday.com/IMG/jpg/small-bird-singing.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bird/rw/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXyynljtqKVtXhTIw3_28nqmBr3PlSSAy6rw&s",
+      "fuentePagina": "https://www.youtube.com/watch?v=DP27RenTJy8",
+      "titulo": "INYONI ZIGURUKA GUTE? MENYA NEZA UBURYO INYONI ZIBAYEHO",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXyynljtqKVtXhTIw3_28nqmBr3PlSSAy6rw&s",
+      "original": "https://i.ytimg.com/vi/DP27RenTJy8/maxresdefault.jpg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bird/rw/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxs9e7R2XyrAYEi4NO2xl5CFXS9jRIu5DRzg&s",
+      "fuentePagina": "https://rw.wikipedia.org/wiki/Inyoni_zo_mu_Rwanda",
+      "titulo": "Inyoni zo mu Rwanda - Wikipedia",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxs9e7R2XyrAYEi4NO2xl5CFXS9jRIu5DRzg&s",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/e/ea/A_inyoni_02.jpg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bird/rw/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJCeZOnsTy14MWWIe0Yu5l6VMBnpusvypdmA&s",
+      "fuentePagina": "https://igihe.com/ibidukikije/inyamaswa/article/ivumburamatsiko-kuri-matene-inyoni-nto-ivugwaho-udushya-twinshi",
+      "titulo": "Ivumburamatsiko kuri Matene, inyoni nto ivugwaho udushya ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJCeZOnsTy14MWWIe0Yu5l6VMBnpusvypdmA&s",
+      "original": "https://igihe.com/IMG/arton151243.jpg?1621144943"
+    }
+  ]
+}

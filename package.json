@@ -1,6 +1,6 @@
 {
   "name": "enflujo-emporio-no-benevolente",
-  "packageManager": "yarn@4.6.0",
+  "packageManager": "yarn@4.13.0",
   "version": "1.1.0",
   "author": "Juan Camilo González <j.gonzalezj@uniandes.edu.co> (https://juancgonzalez.com)",
   "license": "MIT",
@@ -11,10 +11,15 @@
     "preview": "vite preview",
     "dev": "yarn crear-lista && vite",
     "crear-lista": "node crearListaVideos",
+    "descargar-busquedas": "node scripts/descargarBusquedasGoogle.js",
+    "descargar-busquedas:prueba": "node scripts/descargarBusquedasGoogle.js --dry-run --categorias person --idiomas en,es,ln --limite 4",
+    "descargar-busquedas:prueba:serper": "node scripts/descargarBusquedasGoogle.js --proveedor serper --dry-run --categorias person --idiomas en,es,ln --limite 4",
     "lint": "prettier --check .",
     "lint:fix": "prettier --write --list-different ."
   },
   "devDependencies": {
+    "@types/d3-geo": "^3.1.0",
+    "@types/topojson-client": "^3.1.5",
     "autoprefixer": "^10.4.20",
     "cssnano": "^7.0.6",
     "postcss": "^8.5.1",
@@ -24,6 +29,9 @@
     "vite": "^6.0.7"
   },
   "dependencies": {
-    "@mediapipe/tasks-vision": "^0.10.20"
+    "@mediapipe/tasks-vision": "^0.10.20",
+    "d3-geo": "^3.1.1",
+    "topojson-client": "^3.1.0",
+    "world-atlas": "^2.0.2"
   }
 }

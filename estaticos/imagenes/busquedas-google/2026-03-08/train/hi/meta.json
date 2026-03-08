@@ -1,0 +1,71 @@
+{
+  "categoria": "train",
+  "categoriaSlug": "train",
+  "idioma": "hi",
+  "nombreIdioma": "हिन्दी",
+  "termino": "ट्रेन",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T20:44:36.127Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "hi",
+    "gl": "in"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=%E0%A4%9F%E0%A5%8D%E0%A4%B0%E0%A5%87%E0%A4%A8&hl=hi&gl=in",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/train/hi/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEWEbiL_EQeDPPYg0DOEL7koIHVg1NDBlxMA&s",
+      "fuentePagina": "https://hindi.news18.com/photogallery/business/railways-difference-between-passenger-mail-express-superfast-train-know-indian-railway-interesting-facts-6087535.html",
+      "titulo": "Indian Railways: Mail, Express, Superfast और Passenger ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEWEbiL_EQeDPPYg0DOEL7koIHVg1NDBlxMA&s",
+      "original": "https://images.news18.com/ibnkhabar/uploads/2023/04/2828331_HYP_0_FEATUREtrain-3-1.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/train/hi/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmKQBgvGJ3zyjmGErfR8yxCX7QYqk5PRW42g&s",
+      "fuentePagina": "https://www.jagran.com/news/national-indian-railways-to-launch-150-new-passenger-trains-and-upgrade-existing-services-23966695.html",
+      "titulo": "अब मुश्किल भरी नहीं होगी ट्रेन ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmKQBgvGJ3zyjmGErfR8yxCX7QYqk5PRW42g&s",
+      "original": "https://www.jagranimages.com/images/newimg/17062025/17_06_2025-india_railway_news_23966695.webp"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/train/hi/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRB4LkRBQa86NKSUgVlWdGbBunrgVECZ1mHdw&s",
+      "fuentePagina": "https://www.livehindustan.com/uttar-pradesh/indian-railways-summer-special-train-list-released-via-up-agra-check-schedule-details-201743321276628.html",
+      "titulo": "Indian Railways Summer Special train List Released via UP ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRB4LkRBQa86NKSUgVlWdGbBunrgVECZ1mHdw&s",
+      "original": "https://www.livehindustan.com/lh-img/smart/img/2025/03/30/1200x900/IRCTC-train_1740979328691_1743321514470.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/train/hi/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPTkJCgd5lqqcNqBlsi3Ds7mtg2qj7TiXceA&s",
+      "fuentePagina": "https://www.bhaskar.com/local/bihar/gaya/news/change-in-timing-of-three-passenger-trains-on-patna-gaya-railway-line-135273276.html",
+      "titulo": "Change in timing of three passenger trains on Patna-Gaya ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPTkJCgd5lqqcNqBlsi3Ds7mtg2qj7TiXceA&s",
+      "original": "https://images.bhaskarassets.com/web2images/521/2025/06/20/comp-13-31709911812_1750385830.gif"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/train/hi/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKIGp5EyFYqf_zIO4ZgqmlZVkYtJeIqOxN0w&s",
+      "fuentePagina": "https://www.newsonair.gov.in/hi/%E0%A4%86%E0%A4%97%E0%A4%BE%E0%A4%AE%E0%A5%80-%E0%A4%A4%E0%A5%8D%E0%A4%AF%E0%A5%8B%E0%A4%B9%E0%A4%BE%E0%A4%B0%E0%A5%8B%E0%A4%82-%E0%A4%95%E0%A5%8B-%E0%A4%A6%E0%A5%87%E0%A4%96%E0%A4%A4%E0%A5%87/",
+      "titulo": "आगामी त्योहारों को देखते हुए ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKIGp5EyFYqf_zIO4ZgqmlZVkYtJeIqOxN0w&s",
+      "original": "https://www.newsonair.gov.in/wp-content/uploads/2024/06/Longest-Railway-Routes-of-India_5.jpg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/train/hi/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5Z6vc0FJUg_uR4YCpuZrmk3tWQxbq9G0dqA&s",
+      "fuentePagina": "https://www.aajtak.in/business/utility/story/railway-latest-news-western-railway-will-run-unreserved-summer-special-train-between-udhna-and-danapur-station-tutc-rpti-2215709-2025-04-13",
+      "titulo": "Special Train: पश्चिम रेलवे चलाएगी समर ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5Z6vc0FJUg_uR4YCpuZrmk3tWQxbq9G0dqA&s",
+      "original": "https://akm-img-a-in.tosshub.com/aajtak/images/story/202504/67fb9ee8670d2-summer-special-train-132418790-16x9.jpg?size=948:533"
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "categoria": "boat",
+  "categoriaSlug": "boat",
+  "idioma": "ha",
+  "nombreIdioma": "Hausa",
+  "termino": "jirgin ruwa",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T20:45:48.964Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "ha",
+    "gl": "ng"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=jirgin%20ruwa&hl=ha&gl=ng",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/boat/ha/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8gxNsAON8aK75IbajifBstg75U9sHYIb-nA&s",
+      "fuentePagina": "https://www.bbc.com/hausa/articles/c51d77g6y2no",
+      "titulo": "Ko hatsarin jirgin ruwa a Baltimore zai shafi jigilar kaya a ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8gxNsAON8aK75IbajifBstg75U9sHYIb-nA&s",
+      "original": "https://ichef.bbci.co.uk/ace/ws/640/cpsprodpb/6f2a/live/107b4210-ec31-11ee-8bf3-195418ba9285.jpg.webp"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/boat/ha/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRlvhCgYKvyNjWmr9Flc61mjv3dTQ2Q61aHg&s",
+      "fuentePagina": "https://www.facebook.com/100077841515934/posts/jirgin-ruwa-mafi-girma-a-duniya-da-za-a-kaddamar-a-watan-janairun-2024-mai-suna-/292679226670126/",
+      "titulo": "Jirgin ruwa mafi girma a duniya da za a kaddamar a watan ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRlvhCgYKvyNjWmr9Flc61mjv3dTQ2Q61aHg&s",
+      "original": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=292679006670148"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/boat/ha/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDGzUG3poDU6PyUHzTrUCFYB84ql6RxfQQqA&s",
+      "fuentePagina": "https://www.bbc.com/hausa/articles/cw4gxx2j3gpo",
+      "titulo": "Kun san jirgin ruwan yawon shaƙatawa mafi girma a duniya ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDGzUG3poDU6PyUHzTrUCFYB84ql6RxfQQqA&s",
+      "original": "https://ichef.bbci.co.uk/ace/ws/640/cpsprodpb/e347/live/fb9fae10-218f-11ee-941e-23d1e9ab75fa.jpg.webp"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/boat/ha/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFMLhQCz0in3gbnd9bvfPVQ839Ssd-shFQVg&s",
+      "fuentePagina": "https://www.facebook.com/bahsanonlinetv/posts/jirgin-ruwa-mafi-girma-a-duniya-da-za-a-kaddamar-a-watan-janairun-2024-mai-suna-/731483318982814/",
+      "titulo": "Jirgin ruwa mafi girma a duniya da za a kaddamar a watan ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFMLhQCz0in3gbnd9bvfPVQ839Ssd-shFQVg&s",
+      "original": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=731483032316176"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/boat/ha/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjfcfnRnJ19xqFrFfltDZUzpMGeJYBXPT7Zg&s",
+      "fuentePagina": "https://www.facebook.com/HausaReporters24/posts/jirgin-ruwa-mafi-girma-a-duniyaghali-dankanowannan-shi-ne-jirgin-ruwa-mafi-girma/429295561194135/",
+      "titulo": "JIRGIN RUWA MAFI GIRMA A DUNIYA Ghali Dankano Wannan shi ne ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjfcfnRnJ19xqFrFfltDZUzpMGeJYBXPT7Zg&s",
+      "original": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=429295117860846"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/boat/ha/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQEtiwTtwn7DymkD6ouF8W_Hnl1fp0rwN7IA&s",
+      "fuentePagina": "https://www.youtube.com/watch?v=PNWs4impj7c",
+      "titulo": "Jirgin ruwa mafi girma a duniya",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQEtiwTtwn7DymkD6ouF8W_Hnl1fp0rwN7IA&s",
+      "original": "https://i.ytimg.com/vi/PNWs4impj7c/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGGUgYShUMA8=&rs=AOn4CLBhQnVSMB_UXlw-QliR-5X_kbFGUg"
+    }
+  ]
+}

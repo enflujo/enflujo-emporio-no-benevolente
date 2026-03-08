@@ -1,0 +1,71 @@
+{
+  "categoria": "airplane",
+  "categoriaSlug": "airplane",
+  "idioma": "en",
+  "nombreIdioma": "English",
+  "termino": "airplane",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T20:42:56.000Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "en",
+    "gl": "us"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=airplane&hl=en&gl=us",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/airplane/en/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7-VNaEQEsTAc2r_DnrPjBRcTCec_rmXjEsQ&s",
+      "fuentePagina": "https://en.wikipedia.org/wiki/Airplane",
+      "titulo": "Airplane - Wikipedia",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7-VNaEQEsTAc2r_DnrPjBRcTCec_rmXjEsQ&s",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/3/36/United_Airlines_Boeing_777-200_Meulemans.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/airplane/en/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSx1nZDdmsBzJAdWadrBZ_JE3TZ_cpzoJrdyg&s",
+      "fuentePagina": "https://en.wikipedia.org/wiki/Airplane!",
+      "titulo": "Airplane! - Wikipedia",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSx1nZDdmsBzJAdWadrBZ_JE3TZ_cpzoJrdyg&s",
+      "original": "https://upload.wikimedia.org/wikipedia/en/2/21/Airplane%21_%281980_film%29.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/airplane/en/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJ96q4a-uNLZkDaQVgFMZzoUn6DGxZaNm4FA&s",
+      "fuentePagina": "https://helloartsy.com/draw-an-airplane/",
+      "titulo": "Draw an Airplane - HelloArtsy",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJ96q4a-uNLZkDaQVgFMZzoUn6DGxZaNm4FA&s",
+      "original": "https://helloartsy.com/wp-content/uploads/aircrafts/draw-an-airplane/draw-an-airplane.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/airplane/en/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHT2A6AmU5ESM7aLj1KAMDu5SZj5WLIhmkug&s",
+      "fuentePagina": "https://calaero.edu/aeronautics/flight-instruments/the-airplane-transponder/",
+      "titulo": "The Airplane Transponder - What Is It For & What Does It Do?",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHT2A6AmU5ESM7aLj1KAMDu5SZj5WLIhmkug&s",
+      "original": "https://calaero.edu/wp-content/uploads/2018/05/Airplane-Transponder.jpg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/airplane/en/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRk82OQwhtPH9VIYrkeWNQKM5QXiWP4R0nHHg&s",
+      "fuentePagina": "https://skiesmag.com/press-releases/boeing-delivers-first-bbj-max-airplane/",
+      "titulo": "Boeing delivers first BBJ MAX airplane - Skies Mag",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRk82OQwhtPH9VIYrkeWNQKM5QXiWP4R0nHHg&s",
+      "original": "https://assets.skiesmag.com/wp-content/uploads/2018/10/Boeing-Business-Jet-1024x576.jpg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/airplane/en/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQ-QsLETvXCcAsEm9zS92SHP2jteA3lqXXQQ&s",
+      "fuentePagina": "https://www.livescience.com/7109-planes-fly.html",
+      "titulo": "How Do Airplanes Fly? | Live Science",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQ-QsLETvXCcAsEm9zS92SHP2jteA3lqXXQQ&s",
+      "original": "https://cdn.mos.cms.futurecdn.net/Tpwmmfo3CiAJvwd4vXGzvn-800-80.jpg"
+    }
+  ]
+}

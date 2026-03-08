@@ -1,0 +1,71 @@
+{
+  "categoria": "laptop",
+  "categoriaSlug": "laptop",
+  "idioma": "ha",
+  "nombreIdioma": "Hausa",
+  "termino": "kwamfuta",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:21:45.997Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "ha",
+    "gl": "ng"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=kwamfuta&hl=ha&gl=ng",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/laptop/ha/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6GEFRbKSoecMPRynLaxsxW6APpG1OV96tPg&s",
+      "fuentePagina": "https://www.rumbunilimi.com.ng/KwamfutaAmfani.html",
+      "titulo": "Amfanin Kwamfuta",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6GEFRbKSoecMPRynLaxsxW6APpG1OV96tPg&s",
+      "original": "https://www.rumbunilimi.com.ng/hotuna/KwamfutaAmfanin%20(1).jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/laptop/ha/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1OPyIroEs8yXORiDtI9Y8qF5DthVNu8jXkA&s",
+      "fuentePagina": "http://sautulazmiyyah.blogspot.com/2025/06/koyon-kwamfuta-saukake-cikin-harshen.html",
+      "titulo": "Al-Azmiyyah Islamic Foundation: Koyon Kwamfuta A Saukake ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1OPyIroEs8yXORiDtI9Y8qF5DthVNu8jXkA&s",
+      "original": "https://blogger.googleusercontent.com/img/a/AVvXsEi9GKcRpF_Q57lqScRJAB_rXvEZgWXtAwbCA3DBRfdB94bxlOWtPXcGyJVgY3TrhmJnIUi9wPRViMicy_mPv6gO4O-hhNnZrmbCjgygYm-GzcyA7Hfea94kRaja7nAvs32bjfkiqYDT2iWDIVLO7jEnk2doV-lASjasiMZL8jYkd3I0OpEXSGwjK1AH-38"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/laptop/ha/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWE2SY-pK2st4WFPi66Sv7B3EjCGdqdkXkiw&s",
+      "fuentePagina": "https://www.rumbunilimi.com.ng/KwamfutaAmfani.html",
+      "titulo": "Amfanin Kwamfuta",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWE2SY-pK2st4WFPi66Sv7B3EjCGdqdkXkiw&s",
+      "original": "https://www.rumbunilimi.com.ng/hotuna/KwamfutaAmfanin%20(2).jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/laptop/ha/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8kMOYbvzTJ_XaU4lABwXQbu-wurFy_eb8EQ&s",
+      "fuentePagina": "https://hausa.leadership.ng/abubuwan-da-za-ka-lura-da-su-kafin-ka-sayi-kwamfuta/",
+      "titulo": "Abubuwan Da Za Ka Lura Da Su Kafin Ka Sayi Kwamfuta",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8kMOYbvzTJ_XaU4lABwXQbu-wurFy_eb8EQ&s",
+      "original": "https://hausa.leadership.ng/wp-content/uploads/2022/06/images-5-6.jpeg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/laptop/ha/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROFldkxVU9rhkuSxO7yj3xdxbR4d_jPmoA5g&s",
+      "fuentePagina": "https://www.youtube.com/watch?v=Fqr--Mg8sr0",
+      "titulo": "Tarihin Kompuyta (computer | kwamfuta) da hausa",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROFldkxVU9rhkuSxO7yj3xdxbR4d_jPmoA5g&s",
+      "original": "https://i.ytimg.com/vi/Fqr--Mg8sr0/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLBESsh88kODY4HN_Tw2PdjSGtluNw"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/laptop/ha/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbzX_J1yfb0udG5rQCgphAr4HR02cR1zABOw&s",
+      "fuentePagina": "https://hausa.leadership.ng/tag/kwamfuta/",
+      "titulo": "Kwamfuta",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbzX_J1yfb0udG5rQCgphAr4HR02cR1zABOw&s",
+      "original": "https://hausa.leadership.ng/wp-content/uploads/2023/04/Kwamfuta-350x250.jpg"
+    }
+  ]
+}

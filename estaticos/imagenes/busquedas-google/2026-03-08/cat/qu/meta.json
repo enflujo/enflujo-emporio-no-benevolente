@@ -1,0 +1,71 @@
+{
+  "categoria": "cat",
+  "categoriaSlug": "cat",
+  "idioma": "qu",
+  "nombreIdioma": "Quechua",
+  "termino": "michi",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T20:50:39.497Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "es",
+    "gl": "pe"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=michi&hl=es&gl=pe",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/cat/qu/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvW3dC9Vm5QdVTLw8nzF3A8XF8veYIpzJ1Cg&s",
+      "fuentePagina": "https://www.facebook.com/p/Yo-tambi%C3%A9n-tengo-un-michi-100064145164936/",
+      "titulo": "Yo también tengo un michi",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvW3dC9Vm5QdVTLw8nzF3A8XF8veYIpzJ1Cg&s",
+      "original": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=100064145164936"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/cat/qu/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBLG_5qQ_gOSTldLKltoye7_nyR2DL8BoaZQ&s",
+      "fuentePagina": "https://www.instagram.com/p/C33VJWsO1ve/",
+      "titulo": "Has pensado en qué tipo de michi tienes? 🤔 He aquí una ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBLG_5qQ_gOSTldLKltoye7_nyR2DL8BoaZQ&s",
+      "original": "https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3312209052770720734"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/cat/qu/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTq5hHdqZuGPCTzipNvDnaGMf_viVFeT7S1Dg&s",
+      "fuentePagina": "https://wamiz.es/gato/consejos/165266/por-que-se-les-dice-michi-a-los-gatos-descubre-las-razones-detras-de-esta-especial-palabra",
+      "titulo": "Por qué se les dice michi a los gatos?",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTq5hHdqZuGPCTzipNvDnaGMf_viVFeT7S1Dg&s",
+      "original": "https://cdn.wamiz.fr/cdn-cgi/image/format=auto,quality=80,width=1200,height=900,fit=cover/article/main-picture/5f1ab523804ef449086633.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/cat/qu/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQO4TTT3TOkFLH2-OP2RxtaNfwzisDMAe6H_Q&s",
+      "fuentePagina": "https://www.lanacion.com.ar/lifestyle/mascotas/cual-es-el-origen-del-termino-michi-para-referirse-a-los-gatos-nid01102024/",
+      "titulo": "Cuál es el origen del término “michi” para referirse a los ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQO4TTT3TOkFLH2-OP2RxtaNfwzisDMAe6H_Q&s",
+      "original": "https://resizer.glanacion.com/resizer/v2/los-marineros-europeos-llamaban-a-los-gatos-con-2FGW7BZRWFBCJOY2BDX5OQYTJM.jpg?auth=e10bc8ad78d357860d9296c8db5ff8fa2ba683e9a23224cce1f09632ea2d5f6c&width=420&height=439&quality=70&smart=true"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/cat/qu/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTc1yhbYKc06NZ-HSGmRtr-FYY41PW1QC4YvQ&s",
+      "fuentePagina": "https://www.facebook.com/welcometothecatsshow/?locale=fr_FR",
+      "titulo": "Ｍｉｃｈｉ (@welcometothecatsshow) • Facebook",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTc1yhbYKc06NZ-HSGmRtr-FYY41PW1QC4YvQ&s",
+      "original": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=100044822379341"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/cat/qu/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7_svgYzQ3WmI6RSbTsBFDvAo68FNHT2vxXA&s",
+      "fuentePagina": "https://open.spotify.com/playlist/2J6FW0rbjPTkF5bs7W1ZdF",
+      "titulo": "MICHI EMPODERADO - playlist by Katherin Chin | Spotify",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7_svgYzQ3WmI6RSbTsBFDvAo68FNHT2vxXA&s",
+      "original": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da841d0d551c9379db69147de4d6"
+    }
+  ]
+}

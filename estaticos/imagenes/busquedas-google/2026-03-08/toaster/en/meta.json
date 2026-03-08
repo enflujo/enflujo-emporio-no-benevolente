@@ -1,0 +1,71 @@
+{
+  "categoria": "toaster",
+  "categoriaSlug": "toaster",
+  "idioma": "en",
+  "nombreIdioma": "English",
+  "termino": "toaster",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:26:04.702Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "en",
+    "gl": "us"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=toaster&hl=en&gl=us",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/toaster/en/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMVT1Z43szS2q2V2XQBwtGwxRr5vh-V7OI8g&s",
+      "fuentePagina": "https://www.krupsusa.com/BREAKFAST-APPLIANCES/TOASTERS/2-Slice-Toaster/p/8000035967",
+      "titulo": "2 Slice Toaster",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMVT1Z43szS2q2V2XQBwtGwxRr5vh-V7OI8g&s",
+      "original": "https://www.krupsusa.com/medias/?context=bWFzdGVyfGltYWdlc3wxOTk2NDR8aW1hZ2UvanBlZ3xhVzFoWjJWekwyZ3pNaTlvWm1Ndk1qWTRPRGd5TlRneE9URXpPVEF8OGQzMjc4ODlmMzhmNDlhYzQwN2FiNmZiZjQ3MWE1NWU4MTJiZWUwNTE1OTJhYTAyZDg4OTNjN2UwZjM1NDJiMA"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/toaster/en/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRltLCrooBZgCTVAYy25T5mJQnY0onELBTsuw&s",
+      "fuentePagina": "https://www.amazon.com/Amazon-Basics-Extra-Wide-Toaster-Settings/dp/B072P11H8L",
+      "titulo": "Amazon.com: Amazon Basics 2 Slice Toaster, Extra Wide Slots ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRltLCrooBZgCTVAYy25T5mJQnY0onELBTsuw&s",
+      "original": "https://m.media-amazon.com/images/I/81R4c7AOq5L._AC_UF350,350_QL80_.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/toaster/en/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYUvqaIjoW9onTGTY2JGdf4otUAyHtiX-wfw&s",
+      "fuentePagina": "https://www.nytimes.com/wirecutter/reviews/best-toaster/",
+      "titulo": "The 2 Best Toasters of 2026 | Reviews by Wirecutter",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYUvqaIjoW9onTGTY2JGdf4otUAyHtiX-wfw&s",
+      "original": "https://cdn.thewirecutter.com/wp-content/media/2024/11/toasters-2048px-9002-3x2-1.jpg?auto=webp&quality=75&crop=3:2&width=1024"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/toaster/en/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRy_YPlde8LxF7gpL6fv1T9xtqwf9F922Z2Fw&s",
+      "fuentePagina": "https://www.amazon.com/Toaster-Function-Settings-Removable-Stainless/dp/B07K41TWK8",
+      "titulo": "Amazon.com: Retro 2 Slice Stainless Steel Toaster with 6 ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRy_YPlde8LxF7gpL6fv1T9xtqwf9F922Z2Fw&s",
+      "original": "https://m.media-amazon.com/images/I/618Bkac5n-L.jpg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/toaster/en/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQULoWZra7UXo-6jyKxsl-EtrMXUsYk8hi46Q&s",
+      "fuentePagina": "https://www.target.com/p/hamilton-beach-2-slice-toaster-stainless-steel/-/A-52062134",
+      "titulo": "Hamilton Beach 2 Slice Toaster - Stainless Steel: Bagel & Bread Toaster,  High-Lift, Adjustable Browning, Kitchen Deals",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQULoWZra7UXo-6jyKxsl-EtrMXUsYk8hi46Q&s",
+      "original": "https://target.scene7.com/is/image/Target/GUEST_73e0e7f8-6016-4d8d-919d-15675372210a?wid=300&hei=300&fmt=pjpeg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/toaster/en/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMsIkyv3pEOYtq8IfxoCrAvbmWp5_q9qBSzw&s",
+      "fuentePagina": "https://www.krupsusa.com/BREAKFAST-APPLIANCES/TOASTERS/4-slice-toaster/p/8000035969",
+      "titulo": "KRUPS 4 slice toaster KH251D51",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMsIkyv3pEOYtq8IfxoCrAvbmWp5_q9qBSzw&s",
+      "original": "https://www.krupsusa.com/medias/?context=bWFzdGVyfGltYWdlc3wyNTY2NTF8aW1hZ2UvanBlZ3xhVzFoWjJWekwyZzFaUzlvTURndk1qWTROelUwTnpNeE16TTFPVGd8ZDMwZmJjMGIxMTFkYmRmNTcxMzA1MWVjODA5OGZkZGQ1ZTIyMWViOGRmZWVhZTE5MmRhNmQ4MmY4MjRlZjc5Ng"
+    }
+  ]
+}

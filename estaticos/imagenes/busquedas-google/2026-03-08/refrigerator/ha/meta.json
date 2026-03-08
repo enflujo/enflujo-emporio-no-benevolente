@@ -1,0 +1,71 @@
+{
+  "categoria": "refrigerator",
+  "categoriaSlug": "refrigerator",
+  "idioma": "ha",
+  "nombreIdioma": "Hausa",
+  "termino": "firji",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:27:35.826Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "ha",
+    "gl": "ng"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=firji&hl=ha&gl=ng",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/refrigerator/ha/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDNQYXJqWPu4VuOwThl5jJ0pBStI_Sz94Q6A&s",
+      "fuentePagina": "http://ha.fridge-aircon.com/138l-home-appliance-double-door-household-portable-mini-fridge-with-freezer-product/",
+      "titulo": "China 138L Kayan Gida Biyu Kofa na Gida Mai ɗaukar Mini ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDNQYXJqWPu4VuOwThl5jJ0pBStI_Sz94Q6A&s",
+      "original": "http://cdn.globalso.com/fridge-aircon/small-fridge1.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/refrigerator/ha/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDyKsZHaU9kCi5JLcqVCPotjMdY2ESc5yjBQ&s",
+      "fuentePagina": "https://www.feilongelectric.com/ha/Mini-Fridge-pl3546759.html",
+      "titulo": "Karamin Firji daga China, Karamin Firji Manufacturer ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDyKsZHaU9kCi5JLcqVCPotjMdY2ESc5yjBQ&s",
+      "original": "https://iirorwxhjlnolk5p-static.micyjz.com/cloud/llBpoKrklqSRmjqilnppip/bingxiang_11-480-480.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/refrigerator/ha/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4amI9TBqhnEY4bFM5pehygaJHAjnUs061gg&s",
+      "fuentePagina": "https://bakandamiya.com/firji/",
+      "titulo": "Firji | Bakandamiya",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4amI9TBqhnEY4bFM5pehygaJHAjnUs061gg&s",
+      "original": "https://eejsccb469o.exactdn.com/wp-content/uploads/2025/12/71hdvlU9OnL._AC_UF10001000_QL80_.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/refrigerator/ha/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQRgG7bDAVQ0Kqzr3jL5HjDugPdZbebZ1_eQ&s",
+      "fuentePagina": "http://ha.fridge-aircon.com/148l-energy-saving-top-mount-refrigerator-mobile-fridge-for-sale-product/",
+      "titulo": "China 148L Energy Ajiye Babban Dutsen Refrigerator Mobile ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQRgG7bDAVQ0Kqzr3jL5HjDugPdZbebZ1_eQ&s",
+      "original": "http://cdn.globalso.com/fridge-aircon/148L-fridge.jpg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/refrigerator/ha/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTS804N70_a8p71_AZlWODtMvBAe457j3_2iQ&s",
+      "fuentePagina": "http://ha.fridge-aircon.com/refrigerator/",
+      "titulo": "Masu kera injin firji - Masu samar da firiji na China ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTS804N70_a8p71_AZlWODtMvBAe457j3_2iQ&s",
+      "original": "http://cdn.globalso.com/fridge-aircon/double-door-refrigerator-price1-300x300.jpg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/refrigerator/ha/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcReL44TmVHWxziG1TRj3z1hbRN0XbZyu22BGw&s",
+      "fuentePagina": "https://www.nenwell.com/ha/upright-single-glass-door-cooler-fridge-with-direct-cooling-system-product/",
+      "titulo": "Firji Mai Sanyaya Kofa Mai Gilashi Guda Daya Mai Daidaito ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcReL44TmVHWxziG1TRj3z1hbRN0XbZyu22BGw&s",
+      "original": "https://www.nenwell.com/uploads/NW-LG268-300-350-430-3.jpg"
+    }
+  ]
+}

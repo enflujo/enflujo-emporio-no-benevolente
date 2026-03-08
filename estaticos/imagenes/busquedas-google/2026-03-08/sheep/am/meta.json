@@ -1,0 +1,71 @@
+{
+  "categoria": "sheep",
+  "categoriaSlug": "sheep",
+  "idioma": "am",
+  "nombreIdioma": "Amharic — አማርኛ",
+  "termino": "በግ",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T20:52:29.515Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "am",
+    "gl": "et"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=%E1%89%A0%E1%8C%8D&hl=am&gl=et",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/sheep/am/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSME6uvdTrfssGbU6QnXsNWTgs-tJLGsYpK8A&s",
+      "fuentePagina": "https://jegolgifts.com/product/sheep/",
+      "titulo": "Sheep | በግ - jegolgifts.com",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSME6uvdTrfssGbU6QnXsNWTgs-tJLGsYpK8A&s",
+      "original": "https://jegolgifts.com/wp-content/uploads/2023/01/sheep-new.png"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/sheep/am/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMQr8hrlZbZeTCXgI9Rht1wbGSdvQK432bHA&s",
+      "fuentePagina": "https://jegolgifts.com/product/sheep/",
+      "titulo": "Sheep | በግ - jegolgifts.com",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMQr8hrlZbZeTCXgI9Rht1wbGSdvQK432bHA&s",
+      "original": "https://jegolgifts.com/wp-content/uploads/2022/09/white-sheep.png"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/sheep/am/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrB2V91AKKmRdEw2OzDi24sTQd1ol67A2FVQ&s",
+      "fuentePagina": "https://jegolgifts.com/product/sheep/",
+      "titulo": "Sheep | በግ - jegolgifts.com",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrB2V91AKKmRdEw2OzDi24sTQd1ol67A2FVQ&s",
+      "original": "https://jegolgifts.com/wp-content/uploads/2022/09/xl-sheep-1.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/sheep/am/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgk2G2Zp2AEBA_kXwBXbrG5D8eHZtAZQsdyA&s",
+      "fuentePagina": "https://www.habeshashops.com/product-page/ethiopian-sheep-live-medium-size-%E1%88%98%E1%8A%AB%E1%8A%A8%E1%88%88%E1%8A%9B",
+      "titulo": "Ethiopian Beg - Sheep- Live Medium Size | HabeshaShops",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgk2G2Zp2AEBA_kXwBXbrG5D8eHZtAZQsdyA&s",
+      "original": "https://static.wixstatic.com/media/626362_747dd70c536b49a28ea65bdc825f034c~mv2.jpeg/v1/fill/w_520,h_520,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/626362_747dd70c536b49a28ea65bdc825f034c~mv2.jpeg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/sheep/am/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-RUPPMiiRuw84o0yKRiKTbDmcVWfXptq6yQ&s",
+      "fuentePagina": "https://soderestore.com/%E1%89%A0%E1%8C%8D-Sheep-Beg-Lamb-Ethiopia-Only-p200324421",
+      "titulo": "በግ Sheep Beg Lamb (Ethiopia Only)",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-RUPPMiiRuw84o0yKRiKTbDmcVWfXptq6yQ&s",
+      "original": "https://d2j6dbq0eux0bg.cloudfront.net/images/16648100/1640123590.jpg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/sheep/am/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKJDZXnNzf_RR0cb7S_HFkDr3BWqY0m7t4Zg&s",
+      "fuentePagina": "https://jegolgifts.com/product/sheep/",
+      "titulo": "Sheep | በግ - jegolgifts.com",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKJDZXnNzf_RR0cb7S_HFkDr3BWqY0m7t4Zg&s",
+      "original": "https://jegolgifts.com/wp-content/uploads/2022/09/red-sheep.jpg"
+    }
+  ]
+}

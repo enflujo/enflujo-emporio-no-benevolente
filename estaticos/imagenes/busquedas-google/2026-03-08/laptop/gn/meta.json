@@ -1,0 +1,71 @@
+{
+  "categoria": "laptop",
+  "categoriaSlug": "laptop",
+  "idioma": "gn",
+  "nombreIdioma": "Guaraní",
+  "termino": "computadora",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:22:00.370Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "es",
+    "gl": "py"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=computadora&hl=es&gl=py",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/laptop/gn/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlbBYPf4p2oFrHdQmx4WFEvxfkrV0wt3noAw&s",
+      "fuentePagina": "https://www.abc.com.py/edicion-impresa/suplementos/escolar/la-computadora-y-sus-partes-1215584.html",
+      "titulo": "La computadora y sus partes - Escolar - ABC Color",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlbBYPf4p2oFrHdQmx4WFEvxfkrV0wt3noAw&s",
+      "original": "https://www.abc.com.py/resizer/v2/https%3A%2F%2Farc-anglerfish-arc2-prod-abccolor.s3.amazonaws.com%2Fpublic%2FZSJZZWLOZNBQ3FAJ3S6X4I5RAY.jpg?auth=297eae381ee9cfec0f16f4f5d4f23f8902544552ec097e0c896b7635ec902a9f&width=910&height=590&smart=true"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/laptop/gn/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHW5skFU3FBs9E4AEM1xTMWe26tUVv0gitlw&s",
+      "fuentePagina": "https://www.shutterstock.com/es/search/desktop-computer-cpu",
+      "titulo": "26 mil resultados de imágenes, fotos de stock e ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHW5skFU3FBs9E4AEM1xTMWe26tUVv0gitlw&s",
+      "original": "https://www.shutterstock.com/image-vector/flat-design-illustration-computer-set-600nw-2537142859.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/laptop/gn/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTu2tE0QQke6e3nkxS_4jP1fDCAzCKafrT-WQ&s",
+      "fuentePagina": "https://www.dell.com/support/contents/es-py/article/product-support/self-support-knowledgebase/monitor-screen-video/monitors-and-screens",
+      "titulo": "La computadora se enciende, pero no hay imagen: pasos para ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTu2tE0QQke6e3nkxS_4jP1fDCAzCKafrT-WQ&s",
+      "original": "https://i.dell.com/is/image/DellContent/content/dam/ss2/product-images/esupport/esupport-pages/desktop-connected-to-monitor.png"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/laptop/gn/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdzGF5rDTC63j0k4YOFSMjfxHy5uAlJCB6Fw&s",
+      "fuentePagina": "https://es.wikipedia.org/wiki/Computadora_de_escritorio",
+      "titulo": "Computadora de escritorio - Wikipedia, la enciclopedia libre",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdzGF5rDTC63j0k4YOFSMjfxHy5uAlJCB6Fw&s",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Desktop_computer_clipart_-_Yellow_theme.svg/1280px-Desktop_computer_clipart_-_Yellow_theme.svg.png"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/laptop/gn/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6JUbUv_uf6NaqbX9t98wtNlaFz4LrmAA4Zw&s",
+      "fuentePagina": "https://tecnologia-informatica.com/caracteristicas-de-una-computadora/",
+      "titulo": "Características de la computadora | Tecnología + Informática",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6JUbUv_uf6NaqbX9t98wtNlaFz4LrmAA4Zw&s",
+      "original": "https://tecnologia-informatica.com/wp-content/uploads/2018/08/caracteristicas-de-las-computadoras-1.jpeg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/laptop/gn/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPZVD9Z6lSsqF-__Bf9IHxk3SNX2lgvWC0UA&s",
+      "fuentePagina": "https://tecnologia-informatica.com/funciones-de-la-computadora/",
+      "titulo": "Conoce las funciones de la computadora - Tecnología + ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPZVD9Z6lSsqF-__Bf9IHxk3SNX2lgvWC0UA&s",
+      "original": "https://tecnologia-informatica.com/wp-content/uploads/2018/07/funciones-de-la-computadora-1.jpeg"
+    }
+  ]
+}

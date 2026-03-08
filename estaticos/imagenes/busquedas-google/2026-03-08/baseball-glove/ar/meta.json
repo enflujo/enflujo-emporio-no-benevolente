@@ -1,0 +1,71 @@
+{
+  "categoria": "baseball glove",
+  "categoriaSlug": "baseball-glove",
+  "idioma": "ar",
+  "nombreIdioma": "العربية",
+  "termino": "قفاز البيسبول",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:03:40.554Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "ar",
+    "gl": "eg"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=%D9%82%D9%81%D8%A7%D8%B2%20%D8%A7%D9%84%D8%A8%D9%8A%D8%B3%D8%A8%D9%88%D9%84&hl=ar&gl=eg",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/baseball-glove/ar/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDyeT1suent7FxMSWnpWyJM9m4O8QR2bQYiA&s",
+      "fuentePagina": "https://www.amazon.ae/-/ar/%D8%A7%D9%84%D8%A8%D9%8A%D8%B3%D8%A8%D9%88%D9%84-%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6%D9%8A-%D8%A7%D9%84%D8%A8%D9%8A%D8%B3%D8%A8%D9%88%D9%84%D8%8C-%D9%88%D8%A7%D9%84%D9%85%D8%B1%D8%A7%D9%87%D9%82%D9%8A%D9%86-%D9%88%D8%A7%D9%84%D9%85%D8%A8%D8%AA%D8%AF%D8%A6%D9%8A%D9%86/dp/B0B4PFK6QY",
+      "titulo": "قفاز البيسبول الرياضي للشباب، قفاز الكرة اللينة لليد اليسرى ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDyeT1suent7FxMSWnpWyJM9m4O8QR2bQYiA&s",
+      "original": "https://m.media-amazon.com/images/I/71SllA-F0YL._AC_UF350,350_QL80_.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/baseball-glove/ar/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrPhStsFHxgLJadgbW-5n7cTOUlPJjxnZBBw&s",
+      "fuentePagina": "https://www.amazon.eg/%D8%A7%D9%84%D8%A8%D9%8A%D8%B3%D8%A8%D9%88%D9%84-%D9%88%D8%A7%D9%84%D9%83%D8%B1%D8%A9-%D8%A7%D9%84%D9%84%D9%8A%D9%86%D8%A9-%D9%81%D8%B1%D8%A7%D9%86%D9%83%D9%84%D9%8A%D9%86-%D8%B3%D8%A8%D9%88%D8%B1%D8%AA/dp/B013LPRKTY",
+      "titulo": "قفاز البيسبول والكرة اللينة من فرانكلين سبورت - Field Master ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrPhStsFHxgLJadgbW-5n7cTOUlPJjxnZBBw&s",
+      "original": "https://m.media-amazon.com/images/I/91z8oHugAPL._AC_UF894,1000_QL80_.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/baseball-glove/ar/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTElKCitS9K8IoidPeYfp0ANWunwW9RWSoKtA&s",
+      "fuentePagina": "https://www.amazon.ae/-/ar/%D8%A7%D9%84%D8%A8%D9%8A%D8%B3%D8%A8%D9%88%D9%84-%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6%D9%8A-%D8%A7%D9%84%D8%A8%D9%8A%D8%B3%D8%A8%D9%88%D9%84%D8%8C-%D9%88%D8%A7%D9%84%D9%85%D8%B1%D8%A7%D9%87%D9%82%D9%8A%D9%86-%D9%88%D8%A7%D9%84%D9%85%D8%A8%D8%AA%D8%AF%D8%A6%D9%8A%D9%86/dp/B0B4PFK6QY",
+      "titulo": "قفاز البيسبول الرياضي للشباب، قفاز الكرة اللينة لليد اليسرى ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTElKCitS9K8IoidPeYfp0ANWunwW9RWSoKtA&s",
+      "original": "https://m.media-amazon.com/images/I/71iydQxDA0L._AC_UF350,350_QL80_.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/baseball-glove/ar/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2jiHuahBLe0UC5EjbeJBcP3jU0RL7h5WzRQ&s",
+      "fuentePagina": "https://www.fruugo.eg/%D9%82%D9%81%D8%A7%D8%B2%D8%A7%D8%AA-%D8%A7%D9%84%D8%A8%D9%8A%D8%B3%D8%A8%D9%88%D9%84-%D9%82%D9%81%D8%A7%D8%B2%D8%A7%D8%AA-%D8%A7%D9%84%D9%83%D8%A8%D8%A7%D8%B1-%D8%A7%D9%84%D9%83%D8%B1%D8%A9-%D8%A7%D9%84%D9%84%D9%8A%D9%86%D8%A9-%D8%A7%D9%95%D8%A8%D8%B1%D9%8A%D9%82-%D9%82%D9%81%D8%A7%D8%B2%D8%A7%D8%AA-%D8%A7%D9%84%D9%85%D8%AF%D8%B1%D8%B3%D8%A9-%D8%AA%D8%AF%D8%B1%D9%8A%D8%A8-%D8%A7%D9%84%D8%B7%D9%84%D8%A7%D8%A8-%D9%82%D9%81%D8%A7%D8%B2%D8%A7%D8%AA-%D8%B5%D9%81%D8%B1%D8%A7%D8%A1%D8%8C-105-%D8%A8%D9%88%D8%B5%D8%A9-%D8%A7%D9%84%D8%A8%D9%8A%D8%B3%D8%A8%D9%88%D9%84-%D9%84%D8%B7%D9%81%D9%84-%D8%B5%D8%BA%D9%8A%D8%B1/p-97814016",
+      "titulo": "قفازات البيسبول قفازات الكبار الكرة اللينة إبريق قفازات ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2jiHuahBLe0UC5EjbeJBcP3jU0RL7h5WzRQ&s",
+      "original": "https://img.fruugo.com/product/3/57/343210573_0340_0340.jpg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/baseball-glove/ar/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSb0Daxngk4sI1joqWnNyK3c56Q-ec5LcJPIA&s",
+      "fuentePagina": "https://www.noon.com/saudi-ar/kids-10-5-inch-premium-leather-baseball-glove-with-one-free-baseball-ideal-for-youth-and-softball-baseball-mitts/ZBC818CDA6E430832D37EZ/p/",
+      "titulo": "كفّ قفاز البيسبول المصنوع من الجلد الطبيعي بحجم 10.5 بوصة للأطفال مع كرة  بيسبول مجانية - مثالي للشباب والسوفتبول - قفاز البيسبول",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSb0Daxngk4sI1joqWnNyK3c56Q-ec5LcJPIA&s",
+      "original": "https://f.nooncdn.com/p/pzsku/ZBC818CDA6E430832D37EZ/45/_/1703050911/3b87edd4-58ce-4c54-b078-8023148698c6.jpg?width=480"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/baseball-glove/ar/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhAnVSbRl7UjTigZ93QBF3PFvAiNz7U3VC1Q&s",
+      "fuentePagina": "https://www.amazon.eg/%D8%A7%D9%84%D8%A8%D9%8A%D8%B3%D8%A8%D9%88%D9%84-%D9%88%D8%A7%D9%84%D9%83%D8%B1%D8%A9-%D8%A7%D9%84%D9%84%D9%8A%D9%86%D8%A9-%D9%81%D8%B1%D8%A7%D9%86%D9%83%D9%84%D9%8A%D9%86-%D8%B3%D8%A8%D9%88%D8%B1%D8%AA/dp/B013LPRKTY",
+      "titulo": "قفاز البيسبول والكرة اللينة من فرانكلين سبورت - Field Master ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhAnVSbRl7UjTigZ93QBF3PFvAiNz7U3VC1Q&s",
+      "original": "https://m.media-amazon.com/images/I/91IYraEVb-L._AC_UF894,1000_QL80_.jpg"
+    }
+  ]
+}

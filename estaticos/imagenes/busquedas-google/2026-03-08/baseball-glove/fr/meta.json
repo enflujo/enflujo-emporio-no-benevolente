@@ -1,0 +1,71 @@
+{
+  "categoria": "baseball glove",
+  "categoriaSlug": "baseball-glove",
+  "idioma": "fr",
+  "nombreIdioma": "Français",
+  "termino": "gant de baseball",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:03:28.734Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "fr",
+    "gl": "be"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=gant%20de%20baseball&hl=fr&gl=be",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/baseball-glove/fr/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMf6G7VUmFpW11C-9G7KDyohks8yvcE5zi3A&s",
+      "fuentePagina": "https://www.bol.com/be/fr/p/gant-de-baseball-de-luxe-sport-plein-air-baseball-softball-adolescent-cadeau-garcons-filles-11-5-pouces-marron/9300000072931885/",
+      "titulo": "Gant de Baseball de Luxe - Sport - Plein air - Baseball - Softball -  Adolescent -... | bol",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMf6G7VUmFpW11C-9G7KDyohks8yvcE5zi3A&s",
+      "original": "https://media.s-bol.com/kDBRVk1Y72yK/Q03Bo5G/550x532.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/baseball-glove/fr/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRITEWfOZRN8XuD2yuuFJP8K5VqEWBKOGNTgA&s",
+      "fuentePagina": "https://www.amazon.com.be/Franklin-Sports-baseball-softball-Master/dp/B013LQBMJM",
+      "titulo": "Franklin Sports Gant de baseball et softball Field Master ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRITEWfOZRN8XuD2yuuFJP8K5VqEWBKOGNTgA&s",
+      "original": "https://m.media-amazon.com/images/I/916d3hgx50L._AC_UF894,1000_QL80_.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/baseball-glove/fr/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqa3qejnUt81c0o_JPR-eGx__xnvFC6KwVuA&s",
+      "fuentePagina": "https://www.decathlon.be/fr/p/gant-de-baseball-adulte-pour-lanceur-droitier-ba100-noir-rouge/341154/c381c77m8771316",
+      "titulo": "Gant de Baseball Adulte pour Lanceur Droitier BA100 - Noir ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqa3qejnUt81c0o_JPR-eGx__xnvFC6KwVuA&s",
+      "original": "https://contents.mediadecathlon.com/p2704427/k$f2f1cafc977ccc3d8f57c722ad84f72e/picture.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/baseball-glove/fr/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3nj92pRoi8tcRnTKEi2aTE34iQuN9fk9GWA&s",
+      "fuentePagina": "https://fr.sport-thieme.be/Sports-d%C3%A9quipe/Baseball-softball/Gants-de-baseball/art=1183900?srsltid=AfmBOoqlFMHIGfD4yXDkS2gu62BwmQ-rsvBRrfWLmCSZJ2meF42b5vPP",
+      "titulo": "Acheter Gant de baseball Sport-Thieme « Senior » - Sport-Thieme",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3nj92pRoi8tcRnTKEi2aTE34iQuN9fk9GWA&s",
+      "original": "https://pimage.sport-thieme.be/?file=118-3900&format=jpg&fillscale=500%2C500%2Ctransparent&quality=85"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/baseball-glove/fr/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQM6CRN8qbbRBTa2YByHaAMn85hZTnSWoRsBg&s",
+      "fuentePagina": "https://www.amazon.com.be/Rawlings-Gant-baseball-droite-multicolore/dp/B07G8S9Z17",
+      "titulo": "Rawlings Gant de baseball, main droite, 29,2 cm, multicolore ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQM6CRN8qbbRBTa2YByHaAMn85hZTnSWoRsBg&s",
+      "original": "https://m.media-amazon.com/images/I/811exNml0hL.jpg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/baseball-glove/fr/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhjcXO9te465MbUgZY8g2XlDzZP5ZcJWV_JQ&s",
+      "fuentePagina": "https://www.diamsports.com/fr/gants-baseball-adulte/3401-gant-de-baseball-rawlings-sandlot-s1200bsh-12-pouces-.html",
+      "titulo": "Rawlings - Gant de Baseball Sandlot S1200BSH 12 pouces ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhjcXO9te465MbUgZY8g2XlDzZP5ZcJWV_JQ&s",
+      "original": "https://www.diamsports.com/4526-large_default/gant-de-baseball-rawlings-sandlot-s1200bsh-12-pouces-.jpg"
+    }
+  ]
+}

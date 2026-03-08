@@ -1,0 +1,71 @@
+{
+  "categoria": "baseball bat",
+  "categoriaSlug": "baseball-bat",
+  "idioma": "en",
+  "nombreIdioma": "English",
+  "termino": "baseball bat",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:02:33.622Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "en",
+    "gl": "us"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=baseball%20bat&hl=en&gl=us",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/baseball-bat/en/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQeLF0r4hWOdqrxT9oHL5_psu1ZDsjfoJzrWg&s",
+      "fuentePagina": "https://www.demarini.com/en-us/product/voodoo-one-vivid-blue-bbcor-2025-wbd2562?srsltid=AfmBOoozACE7GAlENzFRy-TAGcCWWalYpL2uPDC81ao9buOsHyOCOpJI",
+      "titulo": "Vivid Blue 2025 DeMarini Voodoo® One (-3) BBCOR Baseball Bat ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQeLF0r4hWOdqrxT9oHL5_psu1ZDsjfoJzrWg&s",
+      "original": "https://www.demarini.com/en-us/media/catalog/product/article_images/WBD2562010_/WBD2562010__7b30d5a2017822b6d23a260c8e367904.png"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/baseball-bat/en/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqQvtJZCDCHY6LYxbHbyZN_0ASkH5YbDjU-g&s",
+      "fuentePagina": "https://www.cooperstownbat.com/product/custom-cbu26-pro-wood-baseball-bat/?srsltid=AfmBOoqQNwAgdk5twPRpytKgZkRws-adAHTWq4vwKToUNDDGCMacwqvS",
+      "titulo": "Custom CBU26 Pro Wood Baseball Bat - Cooperstown Bat",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqQvtJZCDCHY6LYxbHbyZN_0ASkH5YbDjU-g&s",
+      "original": "https://cdn.cooperstownbat.com/wp-content/uploads/2020/10/CBCU26-Full.png"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/baseball-bat/en/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQz_gX1gsLAwr5Y9rdFhkRnLpaE1If0OL_2HQ&s",
+      "fuentePagina": "https://www.amazon.com/Heros-Edge-SG_B01L2QXFYS_US-Foam-Baseball/dp/B01M5GEC2K",
+      "titulo": "Amazon.com: 32\" Foam Baseball Bat : Sports & Outdoors",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQz_gX1gsLAwr5Y9rdFhkRnLpaE1If0OL_2HQ&s",
+      "original": "https://m.media-amazon.com/images/I/61-rIQlyDML._AC_UF894,1000_QL80_.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/baseball-bat/en/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5ErA09DI_hz9vGTqsSMlURvEkeFvNbnSSHQ&s",
+      "fuentePagina": "https://easton.rawlings.com/product/E00703500.html",
+      "titulo": "2025 Easton Speed BBCOR Baseball Bat, 32 in",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5ErA09DI_hz9vGTqsSMlURvEkeFvNbnSSHQ&s",
+      "original": "https://easton.rawlings.com/dw/image/v2/BBBJ_PRD/on/demandware.static/-/Sites-master-catalog/default/dwd7e8844c/products/EBB5SPD3-4.jpg?sw=800&sfrm=png&bgcolor=ebebeb"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/baseball-bat/en/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3Rkq4f-UP3ikxBcdy66B0xSIaWWJxdT2igg&s",
+      "fuentePagina": "https://en.wikipedia.org/wiki/Baseball_bat",
+      "titulo": "Baseball bat - Wikipedia",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3Rkq4f-UP3ikxBcdy66B0xSIaWWJxdT2igg&s",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/3/30/Fourbats.jpg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/baseball-bat/en/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfIygltkpPoEHBaxUw0rXn5vsu0aIzLoH6vQ&s",
+      "fuentePagina": "https://www.maxbp.com/products/heavybat?srsltid=AfmBOoq2juK7l3pxFxQdaFUSKMvlPRa0LISzL7Jz4aGe1KU7Ck9pxa5V",
+      "titulo": "HeavyBat™ Weighted Baseball Training Bat",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfIygltkpPoEHBaxUw0rXn5vsu0aIzLoH6vQ&s",
+      "original": "https://www.maxbp.com/cdn/shop/products/heavybat-3150.jpg?v=1706592609&width=1600"
+    }
+  ]
+}

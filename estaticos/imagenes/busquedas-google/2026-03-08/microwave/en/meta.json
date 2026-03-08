@@ -1,0 +1,71 @@
+{
+  "categoria": "microwave",
+  "categoriaSlug": "microwave",
+  "idioma": "en",
+  "nombreIdioma": "English",
+  "termino": "microwave",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:24:43.533Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "en",
+    "gl": "us"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=microwave&hl=en&gl=us",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/microwave/en/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKv9an8gv1NevkQernL17mXd-YTgU4n3OBcw&s",
+      "fuentePagina": "https://shop.sharpusa.com/sharp-1-4-cu-ft-1100w-stainless-steel-countertop-microwave-oven-smc1450ks/?srsltid=AfmBOopT3vz4MdbcQE0BnmFwQ2Lms8DrJLKMO7fhOyUt9FgcWHDcfCwt",
+      "titulo": "1.4 cu. ft. 1100W Stainless Steel Countertop Microwave Oven",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKv9an8gv1NevkQernL17mXd-YTgU4n3OBcw&s",
+      "original": "https://cdn11.bigcommerce.com/s-8vy557m296/images/stencil/original/products/321/4715/20_SMC1450KS_3QL_WEB__49631.1744665203.JPG?c=2"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/microwave/en/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjCoF6YMwIqe_czaFsN-6UUqDBbcxyyxk9aA&s",
+      "fuentePagina": "https://www.automaticnewyork.com/Samsung-MC17T8000CS-1-7-cu-ft-Smart-Over-the-Range-Microwave-with-Convection--Slim-Fry-in-Stainless-Steel",
+      "titulo": "Samsung - MC17T8000CS - 1.7 cu ft. Smart Over-the-Range ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjCoF6YMwIqe_czaFsN-6UUqDBbcxyyxk9aA&s",
+      "original": "https://izumo.homesourcesystems.com/2/10060392_1736883868_/Image_App_2_f79ad03b-d2af-11ef-942d-0e7d5ab1f7f5_MC17T8000CS_01_Silver_Scom.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/microwave/en/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQY6MhESaB9stAZTMmpyifB9m0Es7Nqv4b0tg&s",
+      "fuentePagina": "https://www.target.com/p/kenmore-0-7-cu-ft-microwave-stainless-steel/-/A-88179643",
+      "titulo": "Kenmore 0.7 cu ft Microwave - Stainless Steel: Countertop ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQY6MhESaB9stAZTMmpyifB9m0Es7Nqv4b0tg&s",
+      "original": "https://target.scene7.com/is/image/Target/GUEST_820080f3-d3bb-4255-9d54-10844d5e8d09"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/microwave/en/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsEAQhWVMczilWu2aBqoGeey9RxQBOacCfdQ&s",
+      "fuentePagina": "https://en.wikipedia.org/wiki/Microwave_oven",
+      "titulo": "Microwave oven - Wikipedia",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsEAQhWVMczilWu2aBqoGeey9RxQBOacCfdQ&s",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Panasonic_NN-SD69LS_20220410.jpg/250px-Panasonic_NN-SD69LS_20220410.jpg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/microwave/en/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOjBhf-L5VepIFLWZil8VjoMN_J95WWntEyA&s",
+      "fuentePagina": "https://shop.sharpusa.com/sharp-0-9-cu-ft-carousel-countertop-microwave-oven-smc0960ks/?srsltid=AfmBOoq3KJVqOpyFO7XzVWq-mSlkCRDkYAXNOGTTRCc8OjYkevARLR8G",
+      "titulo": "0.9 cu. ft. Carousel Countertop Microwave Oven (SMC0960KS)",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOjBhf-L5VepIFLWZil8VjoMN_J95WWntEyA&s",
+      "original": "https://cdn11.bigcommerce.com/s-8vy557m296/images/stencil/original/products/320/4643/50_SMC0960KS_DRAMA_WEB__73957.1744659306.JPG?c=2"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/microwave/en/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3REFQHqFRKUeIPJztRvFmDr98YeGNJTo3TQ&s",
+      "fuentePagina": "https://www.amazon.com/Farberware-FMO11AHTBSB-1000-Watt-Microwave-Stainless/dp/B0822ZS2BY",
+      "titulo": "Amazon.com: Farberware 1.1 Cu. Ft. Countertop Microwave Oven ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3REFQHqFRKUeIPJztRvFmDr98YeGNJTo3TQ&s",
+      "original": "https://m.media-amazon.com/images/I/719Z3xWK-NL._AC_UF894,1000_QL80_.jpg"
+    }
+  ]
+}

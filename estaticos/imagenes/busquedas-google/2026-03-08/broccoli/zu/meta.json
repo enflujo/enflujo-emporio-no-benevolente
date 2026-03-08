@@ -1,0 +1,71 @@
+{
+  "categoria": "broccoli",
+  "categoriaSlug": "broccoli",
+  "idioma": "zu",
+  "nombreIdioma": "isiZulu",
+  "termino": "ibhrokholi",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:13:23.401Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "zu",
+    "gl": "za"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=ibhrokholi&hl=zu&gl=za",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/broccoli/zu/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTr1f4WCPy932EWsM45qn7cqaKJhxxMpYN6g&s",
+      "fuentePagina": "https://eduoptions.online/products/imifino?srsltid=AfmBOoqZdglIGGX9HaFpwCnyHkYk5r4J7ZINx8ExY0qL1sYER7geYC3O",
+      "titulo": "Chart - Imifino (Xhosa) Vegetables – edu-options",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTr1f4WCPy932EWsM45qn7cqaKJhxxMpYN6g&s",
+      "original": "https://eduoptions.online/cdn/shop/files/566E2AC1-32F3-435B-B3D0-878CD81CFCF1_2048x.jpg?v=1706094634"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/broccoli/zu/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMNEuZ9MsNAIKdg4JtqTXAwFm1lE2ilHjR4w&s",
+      "fuentePagina": "https://www.twinkl.co.za/resource/imifino-amakhadi-za-kps-1659100047",
+      "titulo": "Imifino amakhadi",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMNEuZ9MsNAIKdg4JtqTXAwFm1lE2ilHjR4w&s",
+      "original": "https://images.twinkl.co.uk/tw1n/image/private/t_630/image_repo/db/c9/za-kps-1659100047-imifino-amakhadi_ver_5.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/broccoli/zu/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPkkegC-jaRPeFvBlJYe6UgIWaV9HmSCrB3Q&s",
+      "fuentePagina": "https://www.dmos.co.za/product/chart-hand-in-hand-grade-r-ndebele-imiror/?srsltid=AfmBOopnTuPvRLP44IlBxLQnNEBQmCXrAsXy4-SFSZ2U10-znkWEPM2M",
+      "titulo": "CHART HAND IN HAND GRADE R (NDEBELE) IMIRORHO A2 -",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPkkegC-jaRPeFvBlJYe6UgIWaV9HmSCrB3Q&s",
+      "original": "https://i0.wp.com/www.dmos.co.za/wp-content/uploads/2021/07/5aab8ca74240f.jpeg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/broccoli/zu/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjgZtEFHOIviABiO_DgqElsraL5CTiWk3vNg&s",
+      "fuentePagina": "https://imithiyesintu.co.za/ibhonya_/?srsltid=AfmBOormOghWrpMl4N2OCxcUaY-RHWTW6HYLq-89awop_jbu99ajVWvx",
+      "titulo": "Ibhonya",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjgZtEFHOIviABiO_DgqElsraL5CTiWk3vNg&s",
+      "original": "https://i0.wp.com/imithiyesintu.co.za/wp-content/uploads/2024/03/ibhonya.jpg?fit=1200%2C675&ssl=1"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/broccoli/zu/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTs2fs3AtsfAn3VlNgv-FxoUF3FQeSKoo8Yw&s",
+      "fuentePagina": "https://www.facebook.com/groups/KrugerParkVideos/posts/3793632814201156/",
+      "titulo": "Timhala aka impala aka rooibokkie aka black hoofed antelopes ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTs2fs3AtsfAn3VlNgv-FxoUF3FQeSKoo8Yw&s",
+      "original": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=376094765413022"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/broccoli/zu/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXAbdmNFJybbxQuMQ6CbRcB1XuP8QhzgpNsg&s",
+      "fuentePagina": "https://www.florencefirm.com/xh/wholesale-frozen-vegetables-frozen-spinach-product/",
+      "titulo": "Umenzi weSipinatshi esiQhoqisiweyo ngobuninzi, imifuno ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXAbdmNFJybbxQuMQ6CbRcB1XuP8QhzgpNsg&s",
+      "original": "https://ecdn6-nc.globalso.com/upload/p/3420/image_other/2025-04/55.jpg"
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "categoria": "cup",
+  "categoriaSlug": "cup",
+  "idioma": "pt",
+  "nombreIdioma": "Português",
+  "termino": "xícara",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:07:51.848Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "pt",
+    "gl": "br"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=x%C3%ADcara&hl=pt&gl=br",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/cup/pt/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHxmn9THA9D2DZ_5G2_P2TpLDZwSUbKmELeg&s",
+      "fuentePagina": "https://www.socd.com.br/xicara-porcelana-branca-sublimacao-180ml/p?srsltid=AfmBOor0oPpC3PXQdGGtRv7Tv5HzQoUdqKOmYp58FBHK02paWSq3A9XA",
+      "titulo": "Xícara de Porcelana Branca para Sublimação - 180ml - SOCD",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHxmn9THA9D2DZ_5G2_P2TpLDZwSUbKmELeg&s",
+      "original": "https://socd.vtexassets.com/arquivos/ids/185155-800-auto?v=638248623332700000&width=800&height=auto&aspect=true"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/cup/pt/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAr-XLLey3zCjrR64IsGhs8k-Y6hqmY555Bw&s",
+      "fuentePagina": "https://www.tropicalmultiloja.com.br/integra/caneca-drop-250ml-preto-oxford-un?srsltid=AfmBOoqMdq4qmKC0los6FkCx_arohgxK8UJZJS7DIfNWZ9B9RsoBXNGg",
+      "titulo": "Xícara de Café/Chá Porcelana Preta Oxford Oxford Porcelanas ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAr-XLLey3zCjrR64IsGhs8k-Y6hqmY555Bw&s",
+      "original": "https://images.tcdn.com.br/img/img_prod/841126/xicara_de_cafe_cha_porcelana_preta_oxford_14013_1_f041204fb0931be1024ad3bc6b1376a2.png"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/cup/pt/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcdx3V-oK_5zYfk06U2qYKeJSC9ohbsFRLdw&s",
+      "fuentePagina": "https://www.lojade199online.com.br/xicara-vidro-transp-230ml.html?srsltid=AfmBOorWdQbjOvqfDvGO3T7UlF_0wCVYsxUGDQb8SY50QqJi079e1IOi",
+      "titulo": "XÍCARA DE VIDRO TRANSPARENTE - 230ML - Loja de R$ 1,99 Online",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcdx3V-oK_5zYfk06U2qYKeJSC9ohbsFRLdw&s",
+      "original": "https://www.lojade199online.com.br/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/2/7/27559.jpeg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/cup/pt/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkPmpm5y_Qwv7DnL9zVQ1_-hpuz_UDRO3PSw&s",
+      "fuentePagina": "https://www.theodorahome.com.br/p-xicara-de-cha-azul-vintage-ncm-69111090",
+      "titulo": "Xícara de Chá Azul Vintage",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkPmpm5y_Qwv7DnL9zVQ1_-hpuz_UDRO3PSw&s",
+      "original": "https://www.theodorahome.com.br/lojas/00019925/prod/107030326foto1z.jpg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/cup/pt/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9dgBco3MtAkw20FEmW919fm_tLrdK6jj9jQ&s",
+      "fuentePagina": "https://www.thompsonshop.com.br/casa/xicara-de-cha-decorada-1841?srsltid=AfmBOop4RnsldK6OtsPK-3_VSjg5Won7pjTlLKdR6ovx9LuiH30vcJ1m",
+      "titulo": "Xícara de Porcelana - Petit Poá Rosa - THOMPSON",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9dgBco3MtAkw20FEmW919fm_tLrdK6jj9jQ&s",
+      "original": "https://images.tcdn.com.br/img/img_prod/1006908/xicara_de_porcelana_petit_poa_rosa_1841_1_4014a8ac7d66eda7698446dc66a4c8c2.jpg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/cup/pt/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQe4GRI2PEWEQGhE9triawjEHz9FdujTbtMig&s",
+      "fuentePagina": "https://sublitech.com.br/produto/xicara-branca-para-capuccino-com-pires-80ml/",
+      "titulo": "Xícara Branca Para Capuccino Com Pires 80ml -",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQe4GRI2PEWEQGhE9triawjEHz9FdujTbtMig&s",
+      "original": "https://sublitech.com.br/wp-content/uploads/2018/07/X%C3%ADcara-Branca-Para-Capuccino-Sem-Pires-80ml-600x587.jpg"
+    }
+  ]
+}

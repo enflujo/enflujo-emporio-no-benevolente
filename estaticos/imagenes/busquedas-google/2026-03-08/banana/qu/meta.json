@@ -1,0 +1,71 @@
+{
+  "categoria": "banana",
+  "categoriaSlug": "banana",
+  "idioma": "qu",
+  "nombreIdioma": "Quechua",
+  "termino": "gatin",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:10:58.724Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "es",
+    "gl": "pe"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=gatin&hl=es&gl=pe",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/banana/qu/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwaCLjNay_QOK7FWV5riX4uScv2KfXGCCOXg&s",
+      "fuentePagina": "https://www.facebook.com/photo.php?fbid=650158272294713&id=646621862648354&set=a.646621912648349",
+      "titulo": "Gatín - Gatín added a new photo.",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwaCLjNay_QOK7FWV5riX4uScv2KfXGCCOXg&s",
+      "original": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=100070360843776"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/banana/qu/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkXx7589QfmXeJP5qgP9URmkY_SZOYy9Czmw&s",
+      "fuentePagina": "https://www.hospitalveterinarioasturias.com/2020/11/12/como-cuidar-el-pelo-de-tu-gatin/",
+      "titulo": "Cómo cuidar el pelo de tu gatín? – Hospital Veterinario Asturias",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkXx7589QfmXeJP5qgP9URmkY_SZOYy9Czmw&s",
+      "original": "http://www.hospitalveterinarioasturias.com/wp-content/uploads/2020/11/HVA-BLOG-COMOCUIDARELPELODETUGATO-FOTO3.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/banana/qu/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKwFwmykR2YwUnj10Ip5IR5nTI0hN8Vp7STA&s",
+      "fuentePagina": "http://www.hospitalveterinarioasturias.com/2020/09/16/tu-gatin-tiene-artrosis/",
+      "titulo": "Tu gatín tiene artrosis? – Hospital Veterinario Asturias",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKwFwmykR2YwUnj10Ip5IR5nTI0hN8Vp7STA&s",
+      "original": "http://www.hospitalveterinarioasturias.com/wp-content/uploads/2020/09/HVA-BLOG-ARTROSISENGATOS-FOTO1-1024x683.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/banana/qu/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlUIi-lIZSuFS_AbQxAyyLUkOaZ1kU2KPZvw&s",
+      "fuentePagina": "https://www.instagram.com/p/DOQWFDfiBR9/",
+      "titulo": "Este gatín busca una familia para toda la vida. Tiene ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlUIi-lIZSuFS_AbQxAyyLUkOaZ1kU2KPZvw&s",
+      "original": "https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3715566796951524477"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/banana/qu/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiSvRnJO-WGthKm6UlUieJRQv5g00gz7AW4g&s",
+      "fuentePagina": "https://www.facebook.com/100064690208474/posts/es-una-hermosura-de-gatin-de-ojos-de-cielo-cuerpito-de-seda-y-nariz-dibujadallen/987272573439074/",
+      "titulo": "Es una hermosura de gatin de ojos de cielo, cuerpito de seda ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiSvRnJO-WGthKm6UlUieJRQv5g00gz7AW4g&s",
+      "original": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=987272530105745"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/banana/qu/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1v_pL9Oph4lGmpqwgnR23q6GG7YuvyPWpkw&s",
+      "fuentePagina": "https://www.istockphoto.com/es/foto/mi-gatin-gm1335566049-417243402",
+      "titulo": "Mi Gatin Foto de stock y más banco de imágenes de Aire libre ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1v_pL9Oph4lGmpqwgnR23q6GG7YuvyPWpkw&s",
+      "original": "https://media.istockphoto.com/id/1335566049/es/foto/mi-gatin.jpg?s=1024x1024&w=is&k=20&c=Xd3CvUs9xLBmqf_9TSm-7BCaBFRr2z5Klw_JMV-AjLs="
+    }
+  ]
+}

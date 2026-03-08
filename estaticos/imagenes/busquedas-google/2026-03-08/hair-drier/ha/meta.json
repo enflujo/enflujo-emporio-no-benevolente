@@ -1,0 +1,71 @@
+{
+  "categoria": "hair drier",
+  "categoriaSlug": "hair-drier",
+  "idioma": "ha",
+  "nombreIdioma": "Hausa",
+  "termino": "mai bushewar gashi",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:31:42.522Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "ha",
+    "gl": "ng"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=mai%20bushewar%20gashi&hl=ha&gl=ng",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/hair-drier/ha/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTB0etdE8gJY5p5aOUboluOUKMvct-wBprpUg&s",
+      "fuentePagina": "https://www.karseell.com/ha/product/karseell-hail-oilshampoo-and-conditioner-hair-care-set/",
+      "titulo": "Karseell Hair Oil+Shampoo da Conditioner Gashi Gyara Saita ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTB0etdE8gJY5p5aOUboluOUKMvct-wBprpUg&s",
+      "original": "https://www.karseell.com/wp-content/uploads/2025/05/Hair-Oil-Shampoo-and-Conditioner-for-Dry-Damaged-Hair-11.webp"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/hair-drier/ha/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbTYa4TWGXmbBuU4K2pQ9Lxj1VstUMSxJqVA&s",
+      "fuentePagina": "https://ha.joellemena.com/fassarar-mafarki/Bushewar-gashi-a-mafarki/",
+      "titulo": "Tafsirin Mafarki game da busar da gashi ga mace daya da kuma ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbTYa4TWGXmbBuU4K2pQ9Lxj1VstUMSxJqVA&s",
+      "original": "https://joellemena.com/wp-content/uploads/2022/01/%D8%A7%D8%B3%D8%AA%D8%B4%D9%88%D8%A7%D8%B1-%D8%A7%D9%84%D8%B4%D8%B9%D8%B1-%D9%81%D9%8A-%D8%A7%D9%84%D9%85%D9%86%D8%A7%D9%85.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/hair-drier/ha/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqqzn-0ZLPRdydtGHEYTl5jz0I2XoFD4Lplw&s",
+      "fuentePagina": "https://www.chinakangroad.com/ha/news/how-to-curl-straight-hair-with-a-straightener-the-ultimate-professional-guide-for-smooth-lasting-curls/",
+      "titulo": "Yadda Ake Lanƙwasa Gashi Mai Miƙewa Da Na'urar Gyaran Gashi ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqqzn-0ZLPRdydtGHEYTl5jz0I2XoFD4Lplw&s",
+      "original": "https://ecdn6.globalso.com/upload/p/2139/image_other/2025-09/2-28.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/hair-drier/ha/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSee6bVxeXjxsTKYiogj3DbKMIkgkz0UCEcFA&s",
+      "fuentePagina": "https://karseell.com/ha/restore-dry-hair-with-karseell-shampoo-conditioner-oil/",
+      "titulo": "Mayar da Busassun Gashi tare da Shamfu na Karseell ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSee6bVxeXjxsTKYiogj3DbKMIkgkz0UCEcFA&s",
+      "original": "https://www.karseell.com/wp-content/uploads/2025/05/Hair-Oil-Shampoo-and-Conditioner-for-Dry-Damaged-Hair-91.jpg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/hair-drier/ha/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTcE2TG5Gi4dAOMMy5IQ2f_rFEhErK-eODwg&s",
+      "fuentePagina": "https://www.tiktok.com/@drmaijalalaini/video/7531894592623365382",
+      "titulo": "Maganin Bushewar Gaba Da Rashin Dandano",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTcE2TG5Gi4dAOMMy5IQ2f_rFEhErK-eODwg&s",
+      "original": "https://www.tiktok.com/api/img/?itemId=7531894592623365382&location=0&aid=1988"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/hair-drier/ha/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTeM548f_9E4egNTF4yg9X4cN4b2Q3qCnMdqw&s",
+      "fuentePagina": "https://www.tiktok.com/@drmaijalalaini/video/7431570681126538501",
+      "titulo": "bushewar gaba rashin shaawa jin zafi lokacin kwanciyar aure ga magani Insha  Allah. #rashinshaawa #niima #bushewargaba #matanaure",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTeM548f_9E4egNTF4yg9X4cN4b2Q3qCnMdqw&s",
+      "original": "https://www.tiktok.com/api/img/?itemId=7431570681126538501&location=0&aid=1988"
+    }
+  ]
+}

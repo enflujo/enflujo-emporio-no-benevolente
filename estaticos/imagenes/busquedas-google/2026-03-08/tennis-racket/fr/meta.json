@@ -1,0 +1,71 @@
+{
+  "categoria": "tennis racket",
+  "categoriaSlug": "tennis-racket",
+  "idioma": "fr",
+  "nombreIdioma": "Français",
+  "termino": "raquette de tennis",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:05:29.023Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "fr",
+    "gl": "be"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=raquette%20de%20tennis&hl=fr&gl=be",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/tennis-racket/fr/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSg2mOe6yGpw0B3VSydL9o2eoL-IU_IB45Cag&s",
+      "fuentePagina": "https://www.tennisdeals.be/fr/raquettes-head-speed/18417-raquette-head-speed-pro-2024-310g.html",
+      "titulo": "Raquette Head Speed Pro 2024 (310g)",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSg2mOe6yGpw0B3VSydL9o2eoL-IU_IB45Cag&s",
+      "original": "https://www.tennisdeals.be/modules/wkwebp/views/img/product/32078-full_default.webp"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/tennis-racket/fr/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSG418mvb5Y5YFc8HoCzP8EHZJv3TEo-rmIg&s",
+      "fuentePagina": "https://www.decathlon.be/fr/p/raquette-de-tennis-adulte-tr500-bleu/300399/c344m8487742",
+      "titulo": "Raquette de tennis adulte TR500 BLEU",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSG418mvb5Y5YFc8HoCzP8EHZJv3TEo-rmIg&s",
+      "original": "https://contents.mediadecathlon.com/p2486925/k$04b378f68d8cd9acbbfcb04eb3c399c6/picture.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/tennis-racket/fr/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvvqokS-O4HZD3qficLlR05tNVc8ZzW1dJyg&s",
+      "fuentePagina": "https://fr.wesco-eshop.be/11617171-raquette-de-tennis-mini-kid-s-tecnifibre.html",
+      "titulo": "RAQUETTE DE TENNIS Mini kid's",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvvqokS-O4HZD3qficLlR05tNVc8ZzW1dJyg&s",
+      "original": "https://static.wesco.fr/media/catalog/product/cache/7ccc10e5a8277e9f8854785247b9d41d/1/1/11617_c171_241104_pd.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/tennis-racket/fr/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRwKQMMxoS_ooYM3s_eTR8VwZtMDGlQ0Nogw&s",
+      "fuentePagina": "https://www.babolat.com/be/fr/drive-junior-23/140512.html?srsltid=AfmBOoomZASKEu6Le32Dwr7y60-ZJGTt7rYYkGpghwv4OaxBOKEDM-L0",
+      "titulo": "Drive Junior 23",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRwKQMMxoS_ooYM3s_eTR8VwZtMDGlQ0Nogw&s",
+      "original": "https://media.babolat.com/image/upload/f_auto,q_auto,c_pad,w_3024,h_3024/v1707733567/Product_Media/2025/Tennis/Racquets/Kids_Juniors/140512-Drive_Junior_23-100-1-Face.png"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/tennis-racket/fr/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTQdH5qsXIdH5TtCKlyU9E5Bl_LwL2VqB5vw&s",
+      "fuentePagina": "https://www.decathlon.be/fr/p/raquette-de-tennis-adulte-babolat-pure-drive-bleu-clair-300g/359896/m8940506",
+      "titulo": "Raquette de tennis adulte - babolat pure drive bleu clair ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTQdH5qsXIdH5TtCKlyU9E5Bl_LwL2VqB5vw&s",
+      "original": "https://contents.mediadecathlon.com/p2846432/k$bc804640d5c7bb983fd634bfa808c905/picture.jpg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/tennis-racket/fr/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNov2lI7Mf0zp5RmBj8NWzGKvLdWjOD1N_Ig&s",
+      "fuentePagina": "https://www.protennis.fr/blog/raquette-de-tennis-wilson-ultra-100-l-cordee/",
+      "titulo": "Promo sur la Raquette de tennis Wilson Ultra - Protennis",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNov2lI7Mf0zp5RmBj8NWzGKvLdWjOD1N_Ig&s",
+      "original": "https://www.protennis.fr/blog/wp-content/uploads/2021/03/raquette-wilson-ultra-100-l-protennis.jpg"
+    }
+  ]
+}

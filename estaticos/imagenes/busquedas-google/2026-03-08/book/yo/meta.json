@@ -1,0 +1,71 @@
+{
+  "categoria": "book",
+  "categoriaSlug": "book",
+  "idioma": "yo",
+  "nombreIdioma": "Yorùbá",
+  "termino": "ìwé",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:28:13.122Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "yo",
+    "gl": "ng"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=%C3%ACw%C3%A9&hl=yo&gl=ng",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/book/yo/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAfpBQ5Vvss0OUZJqJei-nvR5zRDRfyXIJDg&s",
+      "fuentePagina": "https://yo.wikipedia.org/wiki/%C3%8Cw%C3%A9",
+      "titulo": "Ìwé - Wikipedia, ìwé-ìmọ̀ ọ̀fẹ́",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAfpBQ5Vvss0OUZJqJei-nvR5zRDRfyXIJDg&s",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/6/67/Reimski_evan%C4%91elistar.10.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/book/yo/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuz8TZf6uRqRIxgnf-SwOaa45GLGNF-ejU4A&s",
+      "fuentePagina": "https://sunshinebookseller.com/product/iwe-mimo-ifa-esin-akoda-olodumare/?srsltid=AfmBOop98kvV2XWhsJs4jOXKsM0j_7ZDo6aecsaYn7wBMV2b8fU3xZcn",
+      "titulo": "Iwe Mimo Ifa: Esin Akoda Olodumare – Sunshine Bookseller",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuz8TZf6uRqRIxgnf-SwOaa45GLGNF-ejU4A&s",
+      "original": "https://sunshinebookseller.com/wp-content/uploads/2024/07/iwe.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/book/yo/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRA5SrVHiHP9GdOxAUDZXjdsgThCMjoNBo7Q&s",
+      "fuentePagina": "https://yo.wikipedia.org/wiki/%C3%8Cw%C3%A9_Psalmu",
+      "titulo": "Ìwé Psalmu - Wikipedia, ìwé-ìmọ̀ ọ̀fẹ́",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRA5SrVHiHP9GdOxAUDZXjdsgThCMjoNBo7Q&s",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Chludov_david.jpg/330px-Chludov_david.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/book/yo/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqZGtJnomuyBH0-uiTdI83_xJv3jyJwN5KDA&s",
+      "fuentePagina": "https://sunshinebookseller.com/product/alawiiye-iwe-kefa/?srsltid=AfmBOoqo4yjMQdEp_i1Df4GWKxKWGtevS30atcVLJDVnr7fAvVguiso4",
+      "titulo": "Alawiiye: Iwe Kefa – Sunshine Bookseller",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqZGtJnomuyBH0-uiTdI83_xJv3jyJwN5KDA&s",
+      "original": "https://sunshinebookseller.com/wp-content/uploads/2023/10/Alawiiye-6-1.jpg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/book/yo/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCQOz4WXXPiP54RG2Yfiae6iKAEV-NH-SOrw&s",
+      "fuentePagina": "https://www.goodreads.com/book/show/3485052-iwe-odu-ifa",
+      "titulo": "Iwe Odu Ifa by Ifayemi Awopeju Bogunmbe | Goodreads",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCQOz4WXXPiP54RG2Yfiae6iKAEV-NH-SOrw&s",
+      "original": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1677794604i/3485052.jpg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/book/yo/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyRQsFfxru6yEdFqnFXetUN32AHSX4ZpV48Q&s",
+      "fuentePagina": "https://www.bible.com/bible/207/PRO.2.5.BM",
+      "titulo": "ÌWÉ ÒWE 2:5 (YCE) - nígbà náà ni ìbẹ̀rù OLUWA yóo yé ọ ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyRQsFfxru6yEdFqnFXetUN32AHSX4ZpV48Q&s",
+      "original": "https://www.bible.com/_next/image?url=https%3A%2F%2Fimageproxy.youversionapi.com%2Fhttps%3A%2F%2Fs3.amazonaws.com%2Fyvplans%2F14699%2F1440x810.jpg&w=3840&q=75"
+    }
+  ]
+}

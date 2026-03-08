@@ -1,0 +1,71 @@
+{
+  "categoria": "vase",
+  "categoriaSlug": "vase",
+  "idioma": "pt",
+  "nombreIdioma": "Português",
+  "termino": "vaso",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:30:05.067Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "pt",
+    "gl": "br"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=vaso&hl=pt&gl=br",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/vase/pt/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLzwoo4BXDp9JHiil8p2WlXDkeHj2GlqSJZA&s",
+      "fuentePagina": "https://www.arqplast.com.br/produto/vaso-redondo-grande-terracota/",
+      "titulo": "VASO REDONDO GRANDE TERRACOTA - ARQPLAST",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLzwoo4BXDp9JHiil8p2WlXDkeHj2GlqSJZA&s",
+      "original": "https://www.arqplast.com.br/wp-content/uploads/2023/09/25292.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/vase/pt/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpBtxgrmnO3iiRSw58RAuN6LWhyOTWrcRWug&s",
+      "fuentePagina": "https://www.decorcentro.com.br/arranjos/flores/vaso-organico-ceramica-branco-mini-jiboia-siliconada?srsltid=AfmBOorDGnCiTX9Hpgm5Hj7edwz_WLNNWv26f-RIlPxnd_z9jGHoavJO",
+      "titulo": "Vaso Orgânico Cerâmica Branco Mini Jiboia Siliconada - Loja ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpBtxgrmnO3iiRSw58RAuN6LWhyOTWrcRWug&s",
+      "original": "https://cdn.awsli.com.br/600x700/2413/2413185/produto/293601148/vaso-org-nico-cer-mica-branco-mini-jiboia-siliconada1-eoi47m1req.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/vase/pt/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYUm-LlcZusHjWh26Y1zpSG2DF1qwKnhwPrA&s",
+      "fuentePagina": "https://www.leroymerlin.com.br/vaso-planta-50x50-oval-moderno-polietileno-terracota-016_1569121493",
+      "titulo": "Vaso Planta 50x50 Oval Moderno Polietileno - Terracota 016 ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYUm-LlcZusHjWh26Y1zpSG2DF1qwKnhwPrA&s",
+      "original": "https://cdn.leroymerlin.com.br/products/vaso_planta_50x50_oval_moderno_polietileno_terracota_016_1569121493_c5f5_600x600.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/vase/pt/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTr73_Oe2zWLVEFFZ6__xn7V8YAeMMmZ1fMMQ&s",
+      "fuentePagina": "https://www.adedecore.com.br/vaso-cristal-murano-toscana-p-aqua-marine-15-cm?srsltid=AfmBOoqY8YWBl9UgBwibgdhBMG1e9QHbyxluJexxOObexnRgu9imOrxW",
+      "titulo": "Vaso Cristal Murano Toscana P Aqua Marine - 15 cm",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTr73_Oe2zWLVEFFZ6__xn7V8YAeMMmZ1fMMQ&s",
+      "original": "https://adedecore.cdn.magazord.com.br/img/2024/01/produto/5883/vaso-cristal-murano-toscana-p-aqua-marine-15-cm.png?ims=fit-in/600x600/filters:fill(white)"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/vase/pt/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOExQ1bBIMVhc-IFzz1O8ATWzd5A3gS7a4Cg&s",
+      "fuentePagina": "https://shopee.com.br/Kit-2-Vaso-Grande-Para-Plantas-N2-46cm-Estilo-Romano-Luxo-i.329107106.20497869726",
+      "titulo": "Kit 2 Vaso Grande Para Plantas N2 46cm Estilo Romano Luxo",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOExQ1bBIMVhc-IFzz1O8ATWzd5A3gS7a4Cg&s",
+      "original": "https://down-br.img.susercontent.com/file/sg-11134201-7rdvf-m0k4tqp9wy9mb2"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/vase/pt/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkQ53b6xCOb_qE5NCGXVAInE3X0_qkXUCdxQ&s",
+      "fuentePagina": "https://www.mercadolivre.com.br/vaso-de-ceramica-comum-n12-a37cm-l38cm/up/MLBU1725900387",
+      "titulo": "Vaso De Cerâmica Comum N°12 A:37cm L:38cm Terracota | Frete ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkQ53b6xCOb_qE5NCGXVAInE3X0_qkXUCdxQ&s",
+      "original": "https://http2.mlstatic.com/D_NQ_NP_714995-MLB54195765544_032023-O.webp"
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "categoria": "book",
+  "categoriaSlug": "book",
+  "idioma": "fr",
+  "nombreIdioma": "Français",
+  "termino": "livre",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:28:10.991Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "fr",
+    "gl": "be"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=livre&hl=fr&gl=be",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/book/fr/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSH2lhDmxVzgDtNBONFPqlYw_p-OU0vk428Kw&s",
+      "fuentePagina": "https://petit-tom-daffaires.com/3-livres-qui-mont-profondement-marquee/",
+      "titulo": "3 livres qui m'ont profondément marquée - Petit Tom d'affaires",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSH2lhDmxVzgDtNBONFPqlYw_p-OU0vk428Kw&s",
+      "original": "https://petit-tom-daffaires.com/wp-content/uploads/2023/08/livre-ouvert-etincelles.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/book/fr/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhMqAkjT66YSBAMrZiffGeGEjSlgBwoEeY6g&s",
+      "fuentePagina": "https://fr.vecteezy.com/photo/11327305-livre-ouvert-isole-sur-fond-blanc",
+      "titulo": "livre ouvert isolé sur fond blanc 11327305 Photo de stock ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhMqAkjT66YSBAMrZiffGeGEjSlgBwoEeY6g&s",
+      "original": "https://static.vecteezy.com/ti/photos-gratuite/p2/11327305-livre-ouvert-isole-sur-fond-blanc-photo.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/book/fr/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwddJBEV2N9BWS8l1ma0mhQ4dp-DTDz8tj4g&s",
+      "fuentePagina": "https://lenational.org/post_article.php?cul=2357",
+      "titulo": "Qu'est-ce qu'un livre ?",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwddJBEV2N9BWS8l1ma0mhQ4dp-DTDz8tj4g&s",
+      "original": "https://lenational.org/lenational_Admin_1804/assets/images/1739323992-LN.jpeg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/book/fr/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRImCbYfPnW4ZHHiXqBb-GIVqeujvJbr3EvcQ&s",
+      "fuentePagina": "https://fr.freepik.com/vecteurs/livre-clipart",
+      "titulo": "Livre clipart - Vecteurs : téléchargez gratuitement des ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRImCbYfPnW4ZHHiXqBb-GIVqeujvJbr3EvcQ&s",
+      "original": "https://img.freepik.com/vecteurs-libre/icone-isolee-bibliotheque-livres-texte_24877-83372.jpg?semt=ais_hybrid&w=740&q=80"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/book/fr/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdeqcT7UOt8nkDSH58QiaJ3wzzZ9lAk8C7xg&s",
+      "fuentePagina": "https://magazine.bellesdemeures.com/luxe/art-de-vivre/beau-livre-offrir-le-cadeau-des-grandes-bibliotheques-article-22557.html",
+      "titulo": "Beau livre à offrir, le cadeau des grandes bibliothèques ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdeqcT7UOt8nkDSH58QiaJ3wzzZ9lAk8C7xg&s",
+      "original": "https://magazine.bellesdemeures.com/sites/default/files/styles/480x/public/edito_migrate/article/image/livres_en_fetes.jpg?itok=_ELZvN_U"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/book/fr/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzlM67ysFwX8ZNgxIXcjdww5bR1pM330LqUA&s",
+      "fuentePagina": "https://www.echosciences-grenoble.fr/communautes/atout-cerveau/articles/grand-prix-du-livre-sur-le-cerveau-2018",
+      "titulo": "Grand Prix du Livre sur le Cerveau 2018 | ECHOSCIENCES ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzlM67ysFwX8ZNgxIXcjdww5bR1pM330LqUA&s",
+      "original": "https://www.echosciences-grenoble.fr/uploads/article/image/attachment/1005414294/xl_livre.png"
+    }
+  ]
+}

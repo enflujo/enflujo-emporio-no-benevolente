@@ -1,0 +1,71 @@
+{
+  "categoria": "surfboard",
+  "categoriaSlug": "surfboard",
+  "idioma": "fr",
+  "nombreIdioma": "Français",
+  "termino": "planche de surf",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:04:48.033Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "fr",
+    "gl": "be"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=planche%20de%20surf&hl=fr&gl=be",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/surfboard/fr/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTs40A9OgLpeDxSXuRgzgvvDIaDQMTLVKgQxg&s",
+      "fuentePagina": "https://www.decathlon.be/fr/p/planche-de-surf-en-mousse-6-swallow-tail-49l-bleu-ciel/357573/m8911080",
+      "titulo": "Planche de surf en mousse 6' swallow tail 49L - bleu ciel ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTs40A9OgLpeDxSXuRgzgvvDIaDQMTLVKgQxg&s",
+      "original": "https://contents.mediadecathlon.com/p2793523/k$731de78521b6ec522b27b119a7d529f9/picture.jpg?format=auto&f=3000x0"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/surfboard/fr/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQosIsUEOkn-KtMPLXDBpfmcBAOvlNBQBQRUw&s",
+      "fuentePagina": "https://www.decathlon.be/fr/p/planche-de-surf-hybride-en-resine-7-49l-avec-3-ailerons-beige/359818/m8927239",
+      "titulo": "Planche de surf hybride en résine 7' 49L avec 3 ailerons ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQosIsUEOkn-KtMPLXDBpfmcBAOvlNBQBQRUw&s",
+      "original": "https://contents.mediadecathlon.com/p2793501/k$179095692ed40fcc5cb37ddf011b81ae/picture.jpg?format=auto&f=3000x0"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/surfboard/fr/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7VQOnlQjgDcgEKenAGXEz22woytIlnGuaYQ&s",
+      "fuentePagina": "https://singlequiver.com/fr/planches-de-surf/planche-de-surf-clayton-retro-fish",
+      "titulo": "Planche de surf Clayton Retro Fish | Singlequiver.com",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7VQOnlQjgDcgEKenAGXEz22woytIlnGuaYQ&s",
+      "original": "https://singlequiver.com/23390-large_default/planche-de-surf-clayton-retro-fish.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/surfboard/fr/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHSVexdLD-5KAim51mq2oDmDYNS6z7OeQAFA&s",
+      "fuentePagina": "https://desenio.be/fr-be/p/affiches/nature-affiches/plages/surfboards-affiche/",
+      "titulo": "Surfboards Affiche",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHSVexdLD-5KAim51mq2oDmDYNS6z7OeQAFA&s",
+      "original": "https://media.desenio.com/site_images/685c3f77690d8af12d51ac63_1247587159_15989-4.jpg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/surfboard/fr/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTquU4EyKa2rsKSeku13_olxJ04HiW-wbI9hA&s",
+      "fuentePagina": "https://www.decathlon.be/fr/tous-les-sports/surf/planches-de-surf",
+      "titulo": "Planches de surf | DECATHLON",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTquU4EyKa2rsKSeku13_olxJ04HiW-wbI9hA&s",
+      "original": "https://contents.mediadecathlon.com/p2574580/k$91e287ad6e6695234efc788e6a0e80ad/picture.jpg?format=auto&f=3000x0"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/surfboard/fr/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROMC76fcadVQPDI1FJQ7Z5LCj5ZSZFzNCgcw&s",
+      "fuentePagina": "https://www.mundo-surf.com/fr/planches-shortboard/5035-planche-de-surf-lost-driver-20-squash.html",
+      "titulo": "Planche de surf Lost Driver 2.0 Squash",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROMC76fcadVQPDI1FJQ7Z5LCj5ZSZFzNCgcw&s",
+      "original": "https://www.mundo-surf.com/30196-thickbox_default/planche-de-surf-lost-driver-20-squash.jpg"
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "categoria": "cake",
+  "categoriaSlug": "cake",
+  "idioma": "rw",
+  "nombreIdioma": "Kinyarwanda",
+  "termino": "urukate",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:16:18.326Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "en",
+    "gl": "rw"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=urukate&hl=en&gl=rw",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/cake/rw/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZ0J2TobDdvQ53tgzYRhMylvUgV7ZpsExk_g&s",
+      "fuentePagina": "https://www.shamanism.com/huichol",
+      "titulo": "SHAMANISM | Huichol tribe of Mexico's Sierra Madre Mountains",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZ0J2TobDdvQ53tgzYRhMylvUgV7ZpsExk_g&s",
+      "original": "https://www.shamanism.com/wp-content/uploads/2013/07/don-juan-calling-urukate-2000px-550px-1500x430.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/cake/rw/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzhN7BmMfamdDRT-hrk-5Qy3KE1MBwAHERIg&s",
+      "fuentePagina": "https://www.redbubble.com/i/greeting-card/Space-Boyfriend-Garrus-by-urukate/15907800.5MT14",
+      "titulo": "Space Boyfriend Garrus\" Greeting Card for Sale by urukate ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzhN7BmMfamdDRT-hrk-5Qy3KE1MBwAHERIg&s",
+      "original": "https://ih1.redbubble.net/image.88464601.7800/flat,750x,075,f-pad,750x1000,f8f8f8.u3.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/cake/rw/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIW18ck6TQQ9_pYG0sDXiI4bQhuRz-2hmx5w&s",
+      "fuentePagina": "https://www.redbubble.com/i/iphone-case/Space-Boyfriend-Garrus-by-urukate/15907800.GENBX",
+      "titulo": "Space Boyfriend Garrus\" iPhone Case for Sale by urukate ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIW18ck6TQQ9_pYG0sDXiI4bQhuRz-2hmx5w&s",
+      "original": "https://ih1.redbubble.net/image.88464597.7800/icr,iphone_16_tough,back,a,x1000-bg,f8f8f8.u3.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/cake/rw/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRePcoHu5gfQ69EZfJ75bysLXFdbOXmwHZ4ZA&s",
+      "fuentePagina": "https://www.redbubble.com/i/art-print/Space-Boyfriend-Garrus-by-urukate/15907800.1G4ZT",
+      "titulo": "Space Boyfriend Garrus\" Art Print for Sale by urukate ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRePcoHu5gfQ69EZfJ75bysLXFdbOXmwHZ4ZA&s",
+      "original": "https://ih1.redbubble.net/image.88464601.7800/farp,small,wall_texture,product,750x1000.u3.jpg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/cake/rw/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgHZrtq7p4PTw3uGkLMi0V552J5w4yeR0fuw&s",
+      "fuentePagina": "https://www.instagram.com/p/C0HS2Euuwwt/",
+      "titulo": "URUKATE\" 🐆❤️😍🐆 La máxima expresión del Jaguar en arte ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgHZrtq7p4PTw3uGkLMi0V552J5w4yeR0fuw&s",
+      "original": "https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3244644931171203385"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/cake/rw/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTv38RAA-Yn58cQ3j9YJPvt7NV68DZZA_gYug&s",
+      "fuentePagina": "https://www.redbubble.com/i/art-print/Space-Boyfriend-Garrus-by-urukate/15907800.1G4ZT",
+      "titulo": "Space Boyfriend Garrus\" Art Print for Sale by urukate ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTv38RAA-Yn58cQ3j9YJPvt7NV68DZZA_gYug&s",
+      "original": "https://ih1.redbubble.net/image.88464601.7800/carp,small,product,750x1000.u3.jpg"
+    }
+  ]
+}

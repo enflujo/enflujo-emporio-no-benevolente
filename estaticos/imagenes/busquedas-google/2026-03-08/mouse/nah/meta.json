@@ -1,0 +1,71 @@
+{
+  "categoria": "mouse",
+  "categoriaSlug": "mouse",
+  "idioma": "nah",
+  "nombreIdioma": "Náhuatl",
+  "termino": "mouse",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:22:40.945Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "es",
+    "gl": "mx"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=mouse&hl=es&gl=mx",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/mouse/nah/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDF43zMnii075UjwL0OEqSKCgJkZ6FE2h0-A&s",
+      "fuentePagina": "https://www.amazon.com.mx/Logitech-B100-TAA-Optical-USB-Mouse/dp/B003L62T7W",
+      "titulo": "Logitech B100-TAA Optical USB Mouse",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDF43zMnii075UjwL0OEqSKCgJkZ6FE2h0-A&s",
+      "original": "https://m.media-amazon.com/images/I/61hzuoXwjqL.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/mouse/nah/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQu2EVeJL1qX5XfgGNztJ4cdle2aUHI-IYICw&s",
+      "fuentePagina": "https://selectsound.com.mx/products/mouse-inalambrico-2-4-ghz?srsltid=AfmBOopV9He-zbSMs8Ns-FQH-eozQomnxJR7blZSVDcnr2T-kjYjEXZB",
+      "titulo": "Mouse Inalambrico 2.4 GHZ - Selectsound.com.mx",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQu2EVeJL1qX5XfgGNztJ4cdle2aUHI-IYICw&s",
+      "original": "https://selectsound.com.mx/cdn/shop/products/mouse-inalambrico-24-ghz-715599_1080x1080.jpg?v=1698856176"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/mouse/nah/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpx7mpAEC-qwprKHrFdchpmNmquoeWpLOcIQ&s",
+      "fuentePagina": "https://www.liverpool.com.mx/tienda/pdp/mouse-gamer-al%C3%A1mbrica-logitech-m100/1137478320",
+      "titulo": "Mouse gamer alámbrica Logitech M100",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpx7mpAEC-qwprKHrFdchpmNmquoeWpLOcIQ&s",
+      "original": "https://ss637.liverpool.com.mx/xl/1137478320.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/mouse/nah/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjVZO-KM2R0pVQbm7E2dKtB2PVqcgLFir8SQ&s",
+      "fuentePagina": "https://en.wikipedia.org/wiki/Mouse",
+      "titulo": "Mouse - Wikipedia",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjVZO-KM2R0pVQbm7E2dKtB2PVqcgLFir8SQ&s",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/%D0%9C%D1%8B%D1%88%D1%8C_2.jpg/500px-%D0%9C%D1%8B%D1%88%D1%8C_2.jpg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/mouse/nah/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBKc5MY6z5pd4-cFILdqEUVZ352dt9f97KMw&s",
+      "fuentePagina": "https://www.steren.com.mx/mouse-bluetooth-rf-multiequipo-con-bateria-recargable-800-1200-1600-dpi-1.html?srsltid=AfmBOoqqZg73_8ekxFCBKgSsBf911yKGFVi-htf44fZhaglDUlFWtTur",
+      "titulo": "Mouse Bluetooth*/ RF, multidispositivo con batería recargable 800 / 1200 /  1600 DPI",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBKc5MY6z5pd4-cFILdqEUVZ352dt9f97KMw&s",
+      "original": "https://www.steren.com.mx/media/catalog/product/cache/0236bbabe616ddcff749ccbc14f38bf2/image/225305d56/mouse-bluetooth-rf-multidispositivo-con-bateria-recargable-800-1200-1600-dpi.jpg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/mouse/nah/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRX2NQahoRcCKxeeHh7vFOi6FZ5J37pcGS5cQ&s",
+      "fuentePagina": "https://www.officemax.com.mx/mouse-hp-100-wired-0193905461370/p",
+      "titulo": "Mouse HP 100 | Alámbrico | Sensor Óptico 1600 DPI| Negro - OfficeMax |  Arte, Papelería, Artículos Escolares y Muebles",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRX2NQahoRcCKxeeHh7vFOi6FZ5J37pcGS5cQ&s",
+      "original": "https://officemax.vtexassets.com/arquivos/ids/1354038/108837_3.jpg?v=638158865141370000"
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "categoria": "hair drier",
+  "categoriaSlug": "hair-drier",
+  "idioma": "fr",
+  "nombreIdioma": "Français",
+  "termino": "sèche-cheveux",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:31:38.577Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "fr",
+    "gl": "be"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=s%C3%A8che-cheveux&hl=fr&gl=be",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/hair-drier/fr/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZnDSH1jKwJFud8tYl8BxTqF4cv2-t-M5byw&s",
+      "fuentePagina": "https://www.pro-duo.be/fr/electro-materiel/seche-cheveux/proxelli-s%C3%A8che-cheveux-professionnel-maya-rose-dor%C3%A9e/P032436.html",
+      "titulo": "Proxelli Sèche-Cheveux Professionnel Maya Rose dorée ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZnDSH1jKwJFud8tYl8BxTqF4cv2-t-M5byw&s",
+      "original": "https://www.pro-duo.be/dw/image/v2/BBTX_PRD/on/demandware.static/-/Sites-produo-master-catalog/default/dw074120e0/images/original/P032436_0.jpg?sw=1000&sh=1000"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/hair-drier/fr/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWa4AsqHpPXfFOPusp9lA6dJBmUfJYvinxBA&s",
+      "fuentePagina": "https://www.pearl.be/article/NX9189/seche-cheveux-reglable-2000-w-avec-ionisateur?srsltid=AfmBOoqzeMJbIYLsTHOXIyZLklG-1hq_P6HDEizj6bPJSakvepeKN-Zv",
+      "titulo": "Sèche cheveux 2000W à 3 niveaux de chaleur et double ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWa4AsqHpPXfFOPusp9lA6dJBmUfJYvinxBA&s",
+      "original": "https://content.pearl.be/media/cache/default/article_ultralarge_high_nocrop/shared/images/articles/N/NX9/seche-cheveux-reglable-2000-w-avec-ionisateur-ref_NX9189_1.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/hair-drier/fr/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRImyIl7WyOh0EPlV5n8cIGIcC1qVhs686tNQ&s",
+      "fuentePagina": "https://www.babyliss.com/be-fr/s%C3%A8che-cheveux-cordkeeper-2000-D373E.html",
+      "titulo": "Sèche-cheveux Cordkeeper 2000 | D373E | BaByliss",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRImyIl7WyOh0EPlV5n8cIGIcC1qVhs686tNQ&s",
+      "original": "https://www.babyliss.com/on/demandware.static/-/Sites-master-fr/default/dw5843a599/images/BaByliss-ML/Dryers/D373E/WEB_D373E%20_BaByliss_Cordkeeper_2000_Hairdryer_3.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/hair-drier/fr/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQalfI4HJF7Mrr99dF8nxWGcmyReqFjTBBBlQ&s",
+      "fuentePagina": "https://bellissima.com/fr-fr/products/seche-cheveux-ionique?srsltid=AfmBOoo0QHUqJQTFWV5t_c8TmrA74H2qZkwQ5ub1cmQE8c-8zy-VAxw8",
+      "titulo": "Sèche-cheveux anti-frisottis avec diffuseur et technologie ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQalfI4HJF7Mrr99dF8nxWGcmyReqFjTBBBlQ&s",
+      "original": "https://bellissima.com/cdn/shop/files/11523-ga-05-asciugacapelli-tecnologia-ioni-K92300.jpg?v=1734512376&width=1946"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/hair-drier/fr/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsyTZlxP5njfZlFEztW9D932LiJDT5hpO9oA&s",
+      "fuentePagina": "https://www.pro-duo.be/fr/electro-materiel/seche-cheveux/barnum-s%C3%A8che-cheveux-magnesium-noir-and-diffuseur-2000w/P002522.html",
+      "titulo": "Barnum Sèche-cheveux Magnesium Noir & Diffuseur 2000W ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsyTZlxP5njfZlFEztW9D932LiJDT5hpO9oA&s",
+      "original": "https://www.pro-duo.be/dw/image/v2/BBTX_PRD/on/demandware.static/-/Sites-produo-master-catalog/default/dw3ca2fb37/images/original/5499899080142_PNG_1_copy%20-%20Copy.png?sw=1000&sh=1000"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/hair-drier/fr/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3KgYF-cUr8Hg0Es9sd8oHCdJEBWdCFus-yg&s",
+      "fuentePagina": "https://www.hairdis.com/fr/produits/seche-cheveux-ionic-noir-soft-touch",
+      "titulo": "Seche cheveux Babyliss Pro",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3KgYF-cUr8Hg0Es9sd8oHCdJEBWdCFus-yg&s",
+      "original": "https://www.hairdis.com/image?FileId=4293&preset=C_ZOOM"
+    }
+  ]
+}

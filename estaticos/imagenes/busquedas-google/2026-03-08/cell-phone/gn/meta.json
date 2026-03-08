@@ -1,0 +1,71 @@
+{
+  "categoria": "cell phone",
+  "categoriaSlug": "cell-phone",
+  "idioma": "gn",
+  "nombreIdioma": "Guaraní",
+  "termino": "celular",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:24:33.520Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "es",
+    "gl": "py"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=celular&hl=es&gl=py",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/cell-phone/gn/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_-tX1_aHUE_Tnhx43JTod_29ZgyZdkQymog&s",
+      "fuentePagina": "https://tiendamovil.com.py/shop/celulares/celular-samsung-galaxy-a06-4128gb.html?srsltid=AfmBOorDpWe_LB0M6q-erDUkJSi9beW0X7AAYDfM4z6Fek8vmsG_0Iol",
+      "titulo": "Celular Samsung Galaxy A06 4+128GB. Al mejor precio en el ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_-tX1_aHUE_Tnhx43JTod_29ZgyZdkQymog&s",
+      "original": "https://tiendamovil.com.py/shop/32726-large_default/celular-samsung-galaxy-a06-4128gb.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/cell-phone/gn/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQf1FctqDT8qg-n0UR58Kx3tsfbTsXGxQwezQ&s",
+      "fuentePagina": "https://compucellservice.com/product/celular-iphone-14/",
+      "titulo": "Celular Apple iPhone 14, y 14 Plus – Compucell Service.Com",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQf1FctqDT8qg-n0UR58Kx3tsfbTsXGxQwezQ&s",
+      "original": "https://compucellservice.com/wp-content/uploads/2024/12/Celular-Apple-iPhone-14-png1.png"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/cell-phone/gn/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkGWR4lKxjXGzttDrMK4-yl34RSrHkoSR9mA&s",
+      "fuentePagina": "https://www.segurilatam.com/actualidad/celular-desactualizado-riesgos-seguridad_20240126.html",
+      "titulo": "Cuáles son los riesgos de usar un celular desactualizado?",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkGWR4lKxjXGzttDrMK4-yl34RSrHkoSR9mA&s",
+      "original": "https://www.segurilatam.com/wp-content/uploads/sites/5/2024/01/smartphone-blanco.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/cell-phone/gn/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRn9p2Hh8oT4n-46fYHpAOCp5N56-kEht7p2w&s",
+      "fuentePagina": "https://www.tiendagonzalito.com.py/producto/6984/celular-xiaomi-redmi-note-13-dual-128gb6gb-black",
+      "titulo": "CELULAR XIAOMI REDMI NOTE 13 DUAL 128GB/6GB BLACK",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRn9p2Hh8oT4n-46fYHpAOCp5N56-kEht7p2w&s",
+      "original": "https://www.tiendagonzalito.com.py/storage/sku/xiaomi-celulares-celular-xiaomi-note-13-dual-128-gb-rom-6gb-ram-black-1-1-1712327811.jpg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/cell-phone/gn/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJgUgIvSNMddLMYK-Dd0lDVj0Nt6vjNmi3Vw&s",
+      "fuentePagina": "https://www.electroban.com.py/categoria/339/celulares?srsltid=AfmBOoqeIcCDpw7Ci9zW4MuI8RDXFncfGq2vV1y5yWd5xr4_VmAwg8Jz",
+      "titulo": "Celulares Electroban: Lo Último en Tecnología Móvil",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJgUgIvSNMddLMYK-Dd0lDVj0Nt6vjNmi3Vw&s",
+      "original": "https://www.electroban.com.py/storage/sku/honor-celulares-telefono-celular-honor-x5c-4128gb-1-1-1770293950.jpeg.webp"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/cell-phone/gn/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRskkdTBn7ofrQUyHEHKXsTH2PyiuQjogHy9Q&s",
+      "fuentePagina": "https://www.bbc.com/mundo/noticias-41247353",
+      "titulo": "Las novedades y dudas que plantea el nuevo iPhone X, el ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRskkdTBn7ofrQUyHEHKXsTH2PyiuQjogHy9Q&s",
+      "original": "https://ichef.bbci.co.uk/ace/ws/640/cpsprodpb/1303F/production/_97778877_1ac3023c-0172-46bc-99f3-21c5438d26c7.jpg.webp"
+    }
+  ]
+}

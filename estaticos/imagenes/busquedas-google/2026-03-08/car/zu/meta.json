@@ -1,0 +1,71 @@
+{
+  "categoria": "car",
+  "categoriaSlug": "car",
+  "idioma": "zu",
+  "nombreIdioma": "isiZulu",
+  "termino": "imoto",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T20:41:58.555Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "zu",
+    "gl": "za"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=imoto&hl=zu&gl=za",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/car/zu/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZku7LYPKmk5gJipyq8lPYaZ28gRtw73h31Q&s",
+      "fuentePagina": "https://www.youtube.com/watch?v=TzVfvKRFCuk",
+      "titulo": "Mlindo The Vocalist - Imoto - YouTube",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZku7LYPKmk5gJipyq8lPYaZ28gRtw73h31Q&s",
+      "original": "https://i.ytimg.com/vi/fS1Gy-CFO18/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLCLyI8wIB6aa1e1RUyL93B0RgceuQ"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/car/zu/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFErrllE2fT95ry-HZZifD6MqQiHkeJXbuPw&s",
+      "fuentePagina": "https://lacor.co.za/products/imoto-quick-start?srsltid=AfmBOorV-0EkLKQq261zI65pdMIf6R97JMH-a3yc3xUsXlHSMw7hK9eM",
+      "titulo": "IMOTO Quick Start",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFErrllE2fT95ry-HZZifD6MqQiHkeJXbuPw&s",
+      "original": "https://lacor.co.za/cdn/shop/products/PhotoRoom-20210906_193047_1024x.png?v=1743841692"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/car/zu/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdRlvwBlU1RW3Igwzvo0sR6l-tvx1m0jmdMg&s",
+      "fuentePagina": "https://mydramalist.com/people/13566-imoto-ayako",
+      "titulo": "Imoto Ayako (イモトアヤコ) - MyDramaList",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdRlvwBlU1RW3Igwzvo0sR6l-tvx1m0jmdMg&s",
+      "original": "https://i.mydramalist.com/47m21_5c.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/car/zu/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdZKhJggaYCRI2mcnwWcXz43QkxlbHtt6Dsw&s",
+      "fuentePagina": "https://en.namu.wiki/w/%EC%9D%B4%EB%AA%A8%ED%86%A0%20%EC%95%84%EC%95%BC%EC%BD%94",
+      "titulo": "Ayako Imoto - NamuWiki",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdZKhJggaYCRI2mcnwWcXz43QkxlbHtt6Dsw&s",
+      "original": "https://i.namu.wiki/i/86zacYfxnf_cVrR4Soj_l29LIrdqGgLascBRkQXmz-oG4F7olAtfWBCRHTWASnHJ_uJzrIRyap9oboZ2WhnGyw.webp"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/car/zu/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvGyMR7wtVDIID0gONJPNBi8EI2peaq3W32Q&s",
+      "fuentePagina": "https://www.facebook.com/photo.php?fbid=896359139165989&id=100063757337677&set=a.542767921191781",
+      "titulo": "iMoto online - iMoto online added a new photo.",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvGyMR7wtVDIID0gONJPNBi8EI2peaq3W32Q&s",
+      "original": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=896359139165989"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/car/zu/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMHB4OxOMC5f9L3vbN1ZGEAHY0c60I-4vMaw&s",
+      "fuentePagina": "https://apacentrepreneur.com/masaru-imoto-an-ace-entrepreneur-in-the-financial-services-space/",
+      "titulo": "Masaru Imoto: An Ace Entrepreneur in the Financial Services ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMHB4OxOMC5f9L3vbN1ZGEAHY0c60I-4vMaw&s",
+      "original": "https://apacentrepreneur.com/wp-content/uploads/2020/07/Resized_Masaru-Imoto_Founder-and-CEO-at-Standard-Transaction.jpg"
+    }
+  ]
+}

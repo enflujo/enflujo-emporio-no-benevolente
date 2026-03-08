@@ -1,0 +1,71 @@
+{
+  "categoria": "car",
+  "categoriaSlug": "car",
+  "idioma": "sw",
+  "nombreIdioma": "Kiswahili",
+  "termino": "gari",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T20:41:42.603Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "sw",
+    "gl": "tz"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=gari&hl=sw&gl=tz",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/car/sw/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5ExHzmfXx4J6Hgmuv57U_n6qrrrFUQrDz7g&s",
+      "fuentePagina": "https://www.youtube.com/watch?v=72ddUKIuvjM",
+      "titulo": "How To Make Gari At Home//@MasofsKitchen",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5ExHzmfXx4J6Hgmuv57U_n6qrrrFUQrDz7g&s",
+      "original": "https://i.ytimg.com/vi/72ddUKIuvjM/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLAoVwoR3oH4kMBOc_8KY5iviyQRGw"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/car/sw/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLSXgNDl5RiCSWgsMX1oGxmXWPi-eFzoPosQ&s",
+      "fuentePagina": "https://www.bsherieafricanmart.com/product/gari-nigeria/",
+      "titulo": "Gari-Nigeria",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLSXgNDl5RiCSWgsMX1oGxmXWPi-eFzoPosQ&s",
+      "original": "https://www.bsherieafricanmart.com/wp-content/uploads/2024/10/gari-nigeria2.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/car/sw/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEeydKnI2yX9zcxhOlBvXJk9UYGV0pZJKwhQ&s",
+      "fuentePagina": "https://www.surulerefoods.com/blogs/cultural-heritage/what-is-ghana-gari-the-west-african-staple-and-the-truth-about-its-origins?srsltid=AfmBOorT7bnZYjx_wjphFb1gkhLpD-JETFpWfjaK_OJitHYSVBQtagKZ",
+      "titulo": "What is Gari? Nigerian vs Ghanaian Gari – Origins & Uses ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEeydKnI2yX9zcxhOlBvXJk9UYGV0pZJKwhQ&s",
+      "original": "http://www.surulerefoods.com/cdn/shop/articles/what-is-ghana-gari-the-west-african-staple-and-the-truth-about-its-origins-7923986.jpg?v=1761741013"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/car/sw/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtyGgobAAm2Z8mTqQOCa-LBrQLBmzt8U6nGw&s",
+      "fuentePagina": "https://tropicalsunfoods.com/products/gari-ijebu",
+      "titulo": "Gari - Ijebu",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtyGgobAAm2Z8mTqQOCa-LBrQLBmzt8U6nGw&s",
+      "original": "https://tropicalsunfoods.com/cdn/shop/products/Tropical_Sun_Ijebu_Gari_1_5kg_Shack_1200x1200.jpg?v=1571609268"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/car/sw/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBxQa0KbJ7gQvUzm4OFUiiSvbWONWHNQb7Og&s",
+      "fuentePagina": "https://www.bbc.com/swahili/articles/c20nqprl118o",
+      "titulo": "Rekodi ya gari lenye kasi zaidi duniani yavunjwa - Je, gari ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBxQa0KbJ7gQvUzm4OFUiiSvbWONWHNQb7Og&s",
+      "original": "https://ichef.bbci.co.uk/ace/ws/640/cpsprodpb/339c/live/69c4d310-a59d-11ef-bdf5-b7cb2fa86e10.jpg.webp"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/car/sw/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMuWWgiRt4pU-phk9CJugpV_AUxHJA58LcIw&s",
+      "fuentePagina": "https://www.tanzaniatech.one/gari-kubwa-kuliko-yote/",
+      "titulo": "Kutana na Gari Kubwa Kuliko Yote Duniani (Linatembea ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMuWWgiRt4pU-phk9CJugpV_AUxHJA58LcIw&s",
+      "original": "https://www.tanzaniatech.one/wp-content/uploads/2023/11/gari-kubwa-kuliko-yote.webp"
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "categoria": "bear",
+  "categoriaSlug": "bear",
+  "idioma": "en",
+  "nombreIdioma": "English",
+  "termino": "bear",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T20:54:07.530Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "en",
+    "gl": "us"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=bear&hl=en&gl=us",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bear/en/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRX6hYH6D0XpbzySk2k8LpY8ZiSwn3I-NZcw&s",
+      "fuentePagina": "https://en.wikipedia.org/wiki/Brown_bear",
+      "titulo": "Brown bear - Wikipedia",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRX6hYH6D0XpbzySk2k8LpY8ZiSwn3I-NZcw&s",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/2010-kodiak-bear-1.jpg/1280px-2010-kodiak-bear-1.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bear/en/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZ-eo0-05BNn4XPA23qXwLCsvoypHEAORGyg&s",
+      "fuentePagina": "https://en.wikipedia.org/wiki/Bear",
+      "titulo": "Bear - Wikipedia",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZ-eo0-05BNn4XPA23qXwLCsvoypHEAORGyg&s",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Ours_brun_parcanimalierpyrenees_1.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bear/en/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuVa15iNiwsYJLbqvnQjqzx-wm8G9HGNxKIQ&s",
+      "fuentePagina": "https://blog.nwf.org/2015/12/grizzly-bears-2-truths-and-a-myth/",
+      "titulo": "Grizzly Bears: Two Truths and a Myth - The National Wildlife ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuVa15iNiwsYJLbqvnQjqzx-wm8G9HGNxKIQ&s",
+      "original": "https://blog.nwf.org/wp-content/blogs.dir/11/files/2015/12/white-collar_Pat-Roque.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bear/en/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZRT_IiQ6KLtlh3VMaW_l_Nq8LBLZlUoYgAQ&s",
+      "fuentePagina": "https://stlzoo.org/animals/mammals/carnivores/grizzly-bear",
+      "titulo": "Grizzly Bear | Saint Louis Zoo",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZRT_IiQ6KLtlh3VMaW_l_Nq8LBLZlUoYgAQ&s",
+      "original": "https://transforms.stlzoo.org/production/animals/grizzly-bear-01-01.jpg?w=1200&h=630&q=82&auto=format&fit=clip&dm=1658944720&s=da867e45b6f99c4aea90e3c1998b277f"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bear/en/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRaMXKWyGUesbaRrJNWW33YkahWum8e1KV4FA&s",
+      "fuentePagina": "https://www.nps.gov/lacl/learn/nature/ursus-arctos.htm",
+      "titulo": "Brown Bears - Lake Clark National Park & Preserve (U.S. ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRaMXKWyGUesbaRrJNWW33YkahWum8e1KV4FA&s",
+      "original": "https://www.nps.gov/lacl/learn/nature/images/Image-w-cred-cap_-1200w-_-Brown-Bear-page_-brown-bear-in-fog_2.jpg?maxwidth=1300&maxheight=1300&autorotate=false&format=webp"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bear/en/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyf7vKk-i2o1Djei_k-r6IxOa_nhi11ufC9g&s",
+      "fuentePagina": "https://www.alaskazoo.org/brown-bears-black-bears",
+      "titulo": "Brown bear, black bear — The Alaska Zoo",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyf7vKk-i2o1Djei_k-r6IxOa_nhi11ufC9g&s",
+      "original": "https://images.squarespace-cdn.com/content/v1/59b9ecdabebafb8293096530/1506927343134-BY6BAAVX3U55PNBKV7T4/IMG_3984.jpg"
+    }
+  ]
+}

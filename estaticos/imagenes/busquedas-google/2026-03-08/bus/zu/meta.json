@@ -1,0 +1,71 @@
+{
+  "categoria": "bus",
+  "categoriaSlug": "bus",
+  "idioma": "zu",
+  "nombreIdioma": "isiZulu",
+  "termino": "ibhasi",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T20:43:56.430Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "zu",
+    "gl": "za"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=ibhasi&hl=zu&gl=za",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bus/zu/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQORxo1ARkO9pT94JPlWQY2RobhNCdWFjGD8g&s",
+      "fuentePagina": "https://soundcloud.com/msandra-field/ibhasi-mp3?ref=clipboard",
+      "titulo": "Stream IBHaSI.mp3 by MsandrA FIELD | Listen online for free ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQORxo1ARkO9pT94JPlWQY2RobhNCdWFjGD8g&s",
+      "original": "https://i1.sndcdn.com/artworks-1O4UMHuDp2gD4YCk-IDqH3g-t500x500.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bus/zu/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnqYZrS8zhcqhlffjEMj0iS68K5ogJTk-pQg&s",
+      "fuentePagina": "https://www.africanstorybook.org/reader.php?id=17335",
+      "titulo": "African Storybook",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnqYZrS8zhcqhlffjEMj0iS68K5ogJTk-pQg&s",
+      "original": "https://www.africanstorybook.org/illustrations/pages/11446.png"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bus/zu/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSH0XGgTt3AZmtgRSYwIRyWwrKa1JuZp_AF8w&s",
+      "fuentePagina": "https://www.deezer.com/us/album/556158222",
+      "titulo": "Isibani - Ibhasi | Deezer",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSH0XGgTt3AZmtgRSYwIRyWwrKa1JuZp_AF8w&s",
+      "original": "https://cdn-images.dzcdn.net/images/cover/94908133d5e3ac09d299922f70dee292/0x1900-000000-80-0-0.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bus/zu/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdukLiowO9A5wmEte8f3pTWxfZg6346GAsjA&s",
+      "fuentePagina": "https://www.facebook.com/groups/970240360984902/posts/1284689962873272/",
+      "titulo": "Ibhasi💯💦",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdukLiowO9A5wmEte8f3pTWxfZg6346GAsjA&s",
+      "original": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=122144125070349572"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bus/zu/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOoaIWWM7EKtoV1e2eBX5fkYICtHQBYMmzHQ&s",
+      "fuentePagina": "https://www.youtube.com/watch?v=vf4IjOa8h9s",
+      "titulo": "Ukuphupha ibhasi | @pastorweningi",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOoaIWWM7EKtoV1e2eBX5fkYICtHQBYMmzHQ&s",
+      "original": "https://i.ytimg.com/vi/vf4IjOa8h9s/maxresdefault.jpg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bus/zu/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqNF3rMNgHQBH1CY0Qn2AtrJ16LeGAW44x6g&s",
+      "fuentePagina": "https://www.deezer.com/us/album/632326591",
+      "titulo": "Umketule - IBHASI LAMANDIYA | Deezer",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqNF3rMNgHQBH1CY0Qn2AtrJ16LeGAW44x6g&s",
+      "original": "https://cdn-images.dzcdn.net/images/cover/d84f7acdd974b7d8126be28aad3e3d47/0x1900-000000-80-0-0.jpg"
+    }
+  ]
+}

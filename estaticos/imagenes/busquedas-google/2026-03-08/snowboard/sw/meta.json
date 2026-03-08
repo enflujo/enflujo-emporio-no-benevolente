@@ -1,0 +1,71 @@
+{
+  "categoria": "snowboard",
+  "categoriaSlug": "snowboard",
+  "idioma": "sw",
+  "nombreIdioma": "Kiswahili",
+  "termino": "ubao wa theluji",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:00:41.341Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "sw",
+    "gl": "tz"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=ubao%20wa%20theluji&hl=sw&gl=tz",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/snowboard/sw/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJBlRW_R3Ft8zN40diPrxr4zxOrQLlH0fAXA&s",
+      "fuentePagina": "https://www.ubuy.co.tz/sw/product/ME0VC7YZ6-sportsstuff-wood-snowboards-snow-sleds-beginner-kids-winter-sports-accessories-90cm-130cm-models?srsltid=AfmBOopiXWnT5XkSXZyX_NZVdXGsqJlchxfyVGJ1ZFa2nQWeLtDQ_XHQ",
+      "titulo": "Ubao wa theluji wa SportsStuff Wood/Sleds za theluji ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJBlRW_R3Ft8zN40diPrxr4zxOrQLlH0fAXA&s",
+      "original": "https://m.media-amazon.com/images/I/71p89H2-DAL._AC_SL400_.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/snowboard/sw/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRblIxYy4wfAtJ9S1TI6DVUI4Ozm5hHqDU7QQ&s",
+      "fuentePagina": "https://sw.gdmkgroup.com/snow-skate/60745292.html",
+      "titulo": "Viatu vya theluji Skate muundo mpya unaoshamiri Miguu ya ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRblIxYy4wfAtJ9S1TI6DVUI4Ozm5hHqDU7QQ&s",
+      "original": "https://bsg-i.nbxc.com/product/0a/7b/28/f77bae228daac697c93fbfb8ec.jpg@4e_500w_500h.src%7C95Q.webp"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/snowboard/sw/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkRBkZ0Iza2nHHI8DbHE5XKSWKYHrBeEomDA&s",
+      "fuentePagina": "https://www.cbnbsupplier.com/sw/car-ski-snowboard-roof-racks-2-pcs-universal-ski-roof-rack-carriers-snowboard-top-holder-lockable-fit-most-vehicles-equipped-cross-bars-deluxe-2-product/",
+      "titulo": "Racks za Paa za Ubao wa Ski ya Gari ya Jumla, PCS 2 za ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkRBkZ0Iza2nHHI8DbHE5XKSWKYHrBeEomDA&s",
+      "original": "https://cdn.globalso.com/cbnbsupplier/71qUI1wx90L1.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/snowboard/sw/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtWVwuvBofkzo7P8AKoHX-NnqJ-IC9eG7XEA&s",
+      "fuentePagina": "https://ke.game-game.com/258674/",
+      "titulo": "Mchezo Dashi ya Ubao wa theluji online. Kucheza kwa bure",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtWVwuvBofkzo7P8AKoHX-NnqJ-IC9eG7XEA&s",
+      "original": "https://ke.game-game.com/gamesimg/258674.jpg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/snowboard/sw/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8D0_q7ZYY9TvUU_U6IMvYamefn4F_-rQTMg&s",
+      "fuentePagina": "https://www.cbnbsupplier.com/sw/car-ski-snowboard-roof-racks-2-pcs-universal-ski-roof-rack-carriers-snowboard-top-holder-lockable-fit-most-vehicles-equipped-cross-bars-deluxe-2-product/",
+      "titulo": "Racks za Paa za Ubao wa Ski ya Gari ya Jumla, PCS 2 za ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8D0_q7ZYY9TvUU_U6IMvYamefn4F_-rQTMg&s",
+      "original": "https://www.cbnbsupplier.com/uploads/61bkNr94LvL1.jpg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/snowboard/sw/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgbPmPQ3Eh3qTEtACqmxIhkmDzNbno5o3_FA&s",
+      "fuentePagina": "http://www.swahili.people.cn/n3/2022/0308/c416585-9968123-5.html",
+      "titulo": "Timu ya China yashinda nafasi tatu za mbele za mchezo wa ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgbPmPQ3Eh3qTEtACqmxIhkmDzNbno5o3_FA&s",
+      "original": "http://www.swahili.people.cn/NMediaFile/2022/0308/FOREIGN202203081348000168377660033.jpg"
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "categoria": "couch",
+  "categoriaSlug": "couch",
+  "idioma": "es",
+  "nombreIdioma": "Español",
+  "termino": "sofá",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:18:06.606Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "es",
+    "gl": "es"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=sof%C3%A1&hl=es&gl=es",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/couch/es/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_TW0G27FrT9coYZhtlip_M0W9ZlFS44nuuA&s",
+      "fuentePagina": "https://tapizadoshernandez.com/producto/sofa-cama-karma/",
+      "titulo": "Sofá cama apertura italiana Karma 140x190 Portes y subida Gratis",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_TW0G27FrT9coYZhtlip_M0W9ZlFS44nuuA&s",
+      "original": "https://tapizadoshernandez.com/wp-content/uploads/2018/11/sofa-cama-apertura-italiana-karma-tapizados-hernandez.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/couch/es/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQH1nkLlOlUZaccqo1SpV1epauw3GXlVqL3Zw&s",
+      "fuentePagina": "https://www.tifon.es/sofas-2-y-3-plazas/sofa-3-plazas-lenox/?srsltid=AfmBOor8IRfl6TkJj4-x2-wYFvIKf6Qh6Rz1UC8F-rgiPF0wK_JAcPlN",
+      "titulo": "Sofá 3 plazas LENOX",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQH1nkLlOlUZaccqo1SpV1epauw3GXlVqL3Zw&s",
+      "original": "https://ima.europamuebles.com/tifonima/pi/sofas-2-y-3-plazas/54770/sofa-3-plazas-lenox_100_1_wQIQ.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/couch/es/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGpW1MTMhAyNse7CwQPtDiZWRoKzoOZcGv6w&s",
+      "fuentePagina": "https://wabihome.com/products/sofa-cama-sungi?srsltid=AfmBOoqxOqpMuPTwPAFlgeWQk_fZtlnKkggE9I_cVozHdrU_549mY1fw",
+      "titulo": "Sofá cama Sungi",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGpW1MTMhAyNse7CwQPtDiZWRoKzoOZcGv6w&s",
+      "original": "https://wabihome.com/cdn/shop/files/Sofa-cama-Sungi-frontal.jpg?v=1710098078"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/couch/es/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSeMH1tyznxwupctIPYDJKr6IB4lF06sw7P4w&s",
+      "fuentePagina": "https://mubak.com/sofas-2-3-plazas/sofa-3-plazas-de-198-cm",
+      "titulo": "Sofá 3 plazas de 198 cm",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSeMH1tyznxwupctIPYDJKr6IB4lF06sw7P4w&s",
+      "original": "https://mubak.com/3837-large_default/sofa-3-plazas-de-198-cm.jpg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/couch/es/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAXu3HjxbWf2bBiZZit98GE58PjtWOvBYCIg&s",
+      "fuentePagina": "https://mueblesparamicasa.es/sofa-3-plazas/sofa-relax-3-plazas-madrid.html",
+      "titulo": "Sofá Relax 3 plazas Madrid | Mueblesparamicasa",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAXu3HjxbWf2bBiZZit98GE58PjtWOvBYCIg&s",
+      "original": "https://mueblesparamicasa.es/8029-large_default/sofa-relax-3-plazas-madrid.jpg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/couch/es/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIrmdRBbzeand99sHSORvJniAkkhYyMv8-2w&s",
+      "fuentePagina": "https://hannun.com/products/sofa-3-plazas-jill",
+      "titulo": "Sofá Jill – HANNUN",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIrmdRBbzeand99sHSORvJniAkkhYyMv8-2w&s",
+      "original": "https://cdn.shopify.com/s/files/1/2481/2502/files/T2JOA_media_model_1.jpg?v=1715867389"
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "categoria": "baseball glove",
+  "categoriaSlug": "baseball-glove",
+  "idioma": "zu",
+  "nombreIdioma": "isiZulu",
+  "termino": "igilavu le-baseball",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:03:37.977Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "zu",
+    "gl": "za"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=igilavu%20le-baseball&hl=zu&gl=za",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/baseball-glove/zu/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRapiIlmlflD2pKNzPtm8_EVVhC-a9ZcFqiZw&s",
+      "fuentePagina": "https://play.google.com/store/apps/details?id=com.newWebApp.mangoapplecatch&hl=zu",
+      "titulo": "Baseball Catch Training Game - Izinhlelo zokusebenza ku ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRapiIlmlflD2pKNzPtm8_EVVhC-a9ZcFqiZw&s",
+      "original": "https://play-lh.googleusercontent.com/1gvRq0pr6kd5jgxL7sIa0p1z8x6JgaXUObv4pvPuGq9VsI9nuFLwmak36AZgbX4B5g"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/baseball-glove/zu/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXaKYwYEjc0Ex6Hk1QT6bMHgHkSdoiuCslfA&s",
+      "fuentePagina": "https://play.google.com/store/apps/details?id=com.newWebApp.mangoapplecatch&hl=zu",
+      "titulo": "Baseball Catch Training Game - Izinhlelo zokusebenza ku ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXaKYwYEjc0Ex6Hk1QT6bMHgHkSdoiuCslfA&s",
+      "original": "https://play-lh.googleusercontent.com/TjZN1E_NYNVUMfLYgYf35o-zvP4cyvsYZlnfoiQbHXXT0DVILifCMqBdETX5yMKyCUo=w526-h296-rw"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/baseball-glove/zu/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrtL1oeMljTJL0ElLMXTWQqbMRSZ_p0MVSFQ&s",
+      "fuentePagina": "https://gwtoday.gwu.edu/gw-baseball-teammates-take-their-game-prestigious-cape-cod-league",
+      "titulo": "GW Baseball Teammates Take Their Game to Prestigious ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrtL1oeMljTJL0ElLMXTWQqbMRSZ_p0MVSFQ&s",
+      "original": "https://gwtoday.gwu.edu/sites/g/files/zaxdzs5401/files/styles/large/public/2025-08/capecod.jpeg?itok=CuvWORa6"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/baseball-glove/zu/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9CkFGerDImDUAPxoHjm9R5h_OAufdH1MgLQ&s",
+      "fuentePagina": "https://www.timesofisrael.com/team-israel-baseball-captain-ryan-lavarnway-speaks-up-at-israel-solidarity-events/",
+      "titulo": "Team Israel baseball captain Ryan Lavarnway talks solidarity ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9CkFGerDImDUAPxoHjm9R5h_OAufdH1MgLQ&s",
+      "original": "https://static-cdn.toi-media.com/www/uploads/2017/03/Japan-World-Baseball-_Horo.jpg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/baseball-glove/zu/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ77BAJFsH10nOx6pfESZuz0CwssAe2rh3xHg&s",
+      "fuentePagina": "https://godutchmen.com/news/2024/5/13/dutchmen-baseball-earns-four-spots-on-all-mac-freedom-baseball-team",
+      "titulo": "Dutchmen Baseball Earns Four Spots on All-MAC Freedom ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ77BAJFsH10nOx6pfESZuz0CwssAe2rh3xHg&s",
+      "original": "https://godutchmen.com/images/2024/5/13/2024_Baseball_All-MAC_Freedom.jpg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/baseball-glove/zu/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPu1y-C6NiF5rBdL5HmbYL1VTBOxvt4qJvyQ&s",
+      "fuentePagina": "https://www.newsnationnow.com/us-news/sports/sports-headlines/ap-cuba-welcomed-at-little-league-world-series-and-holds-japan-to-a-run-but-gets-no-hit-in-1-0-loss/",
+      "titulo": "Cuba welcomed at Little League World Series and holds Japan ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPu1y-C6NiF5rBdL5HmbYL1VTBOxvt4qJvyQ&s",
+      "original": "https://www.newsnationnow.com/wp-content/uploads/sites/108/2023/08/64dd6754a72a06.36539065.jpeg"
+    }
+  ]
+}

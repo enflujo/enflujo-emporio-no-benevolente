@@ -1,0 +1,71 @@
+{
+  "categoria": "banana",
+  "categoriaSlug": "banana",
+  "idioma": "ar",
+  "nombreIdioma": "العربية",
+  "termino": "موز",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:10:52.377Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "ar",
+    "gl": "eg"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=%D9%85%D9%88%D8%B2&hl=ar&gl=eg",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/banana/ar/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTId5JGof5ek3O2ad1pWBhTgvjmz6SUtv61aQ&s",
+      "fuentePagina": "https://www.webteb.com/articles/%D9%85%D9%83%D9%88%D9%86%D8%A7%D8%AA-%D8%A7%D9%84%D9%85%D9%88%D8%B2_33500",
+      "titulo": "مكونات الموز - ويب طب",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTId5JGof5ek3O2ad1pWBhTgvjmz6SUtv61aQ&s",
+      "original": "https://static.webteb.net/images/content/tbl_articles_article_33400_849d39c0a6d-8b65-401b-8a5b-0518fd622fba.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/banana/ar/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcRJUx6fBiS6uQCCn81ofRXLMfVyZFvxaVxA&s",
+      "fuentePagina": "https://alteencompany.com/product/%D9%85%D9%88%D8%B2-%D9%83%D9%8A%D9%84%D9%88/",
+      "titulo": "موز طازج كيلو | متجر التين – الفاكهة الصحية بأسعار مميزة",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcRJUx6fBiS6uQCCn81ofRXLMfVyZFvxaVxA&s",
+      "original": "https://alteencompany.com/wp-content/uploads/2025/03/nzgRxr1FJ1tve5opnH1zYHYAalmQfd7yjZw3zSSn.webp"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/banana/ar/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxSR2Zo4xNAP5-79u5MZPoZTfwPPEHwoQz3Q&s",
+      "fuentePagina": "https://www.bbc.com/arabic/vert-cul-55063970",
+      "titulo": "الموز: تعرف على البلد الآسيوي الذي يقدس هذه الفاكهة - BBC ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxSR2Zo4xNAP5-79u5MZPoZTfwPPEHwoQz3Q&s",
+      "original": "https://ichef.bbci.co.uk/ace/ws/640/cpsprodpb/17A23/production/_115630869_aaf6b54d-4dea-4473-9ed9-ee9c3aaf7a82.jpg.webp"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/banana/ar/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvuFWmgStX6zF38A7ZufXtDXTlUag-rcKnew&s",
+      "fuentePagina": "https://ar.wikipedia.org/wiki/%D8%AC%D8%B1%D8%B9%D8%A9_%D8%A7%D9%84%D9%85%D9%88%D8%B2_%D8%A7%D9%84%D9%85%D9%83%D8%A7%D9%81%D8%A6%D8%A9",
+      "titulo": "جرعة الموز المكافئة - ويكيبيديا",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvuFWmgStX6zF38A7ZufXtDXTlUag-rcKnew&s",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/8/8a/Banana-Single.jpg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/banana/ar/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoWpYLHtc158P4lY3YpmdyXJboo92_qTE36w&s",
+      "fuentePagina": "https://nataj.com.sa/ar/%D9%85%D9%88%D8%B2-%D9%83%D8%A8%D9%8A%D8%B1/p860238792?srsltid=AfmBOoo3PN-nJK5jXyPfnwXqu_QrwUQ1G6UbHnb0SfsuX92HFlBYjmuy",
+      "titulo": "موز كبير - نتاج كل ما هو طازج وصحي من القصيم لبيتك خضروات ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoWpYLHtc158P4lY3YpmdyXJboo92_qTE36w&s",
+      "original": "https://cdn.salla.sa/NNKNq/fc8f7541-1f2e-4154-b243-60f75202b80a-1000x1000-5Cppj8JNBA65mJMlBEPdWc4JXdeGASYNOajYkru1.png"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/banana/ar/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnEOv-rjJ_U0S9E_YDvYR7niD3CRBJRW2uTg&s",
+      "fuentePagina": "https://aljazerah-perfume.com/products/%D9%85%D9%88%D8%B2?srsltid=AfmBOops_B4KLjG38ipa70OlqlMDGMMmXcA2G89p-1qt5a_XGpuhzbGh",
+      "titulo": "موز",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnEOv-rjJ_U0S9E_YDvYR7niD3CRBJRW2uTg&s",
+      "original": "https://media.zid.store/06b7d077-7350-47dc-b489-bcaffc9c3d22/20d07e2e-29c8-4cc3-a683-382293fff881.png"
+    }
+  ]
+}

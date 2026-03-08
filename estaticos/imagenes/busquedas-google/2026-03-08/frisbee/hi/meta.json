@@ -1,0 +1,71 @@
+{
+  "categoria": "frisbee",
+  "categoriaSlug": "frisbee",
+  "idioma": "hi",
+  "nombreIdioma": "हिन्दी",
+  "termino": "फ्रिसबी",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T20:59:46.733Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "hi",
+    "gl": "in"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=%E0%A4%AB%E0%A5%8D%E0%A4%B0%E0%A4%BF%E0%A4%B8%E0%A4%AC%E0%A5%80&hl=hi&gl=in",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/frisbee/hi/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVA0-AaWYz-vgDjPacZrEJISyL1-rIuzsnQg&s",
+      "fuentePagina": "https://www.amazon.in/-/hi/Boldfit-Frisbee-%E0%A4%B5%E0%A4%AF%E0%A4%B8%E0%A5%8D%E0%A4%95%E0%A5%8B%E0%A4%82-%E0%A4%AB%E0%A5%8D%E0%A4%B2%E0%A4%BE%E0%A4%87%E0%A4%82%E0%A4%97-%E0%A4%AB%E0%A5%8D%E0%A4%B0%E0%A4%BF%E0%A4%B8%E0%A4%AC%E0%A5%80/dp/B0CYH15PK7",
+      "titulo": "Boldfit Frisbee बच्चों और वयस्कों के लिए ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVA0-AaWYz-vgDjPacZrEJISyL1-rIuzsnQg&s",
+      "original": "https://m.media-amazon.com/images/I/616ZHTnB7yL._AC_UF894,1000_QL80_.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/frisbee/hi/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcST3P_3E4FTfNfi_FOqii3K0o4mmT61u3QuJQ&s",
+      "fuentePagina": "https://www.amazon.in/-/hi/Discraft-%E0%A4%85%E0%A4%B2%E0%A5%8D%E0%A4%9F%E0%A5%8D%E0%A4%B0%E0%A4%BE-%E0%A4%B8%E0%A5%8D%E0%A4%9F%E0%A4%BE%E0%A4%B0-%E0%A4%85%E0%A4%B2%E0%A5%8D%E0%A4%9F%E0%A5%80%E0%A4%AE%E0%A5%87%E0%A4%9F-%E0%A4%AB%E0%A5%8D%E0%A4%B0%E0%A4%BF%E0%A4%B8%E0%A4%AC%E0%A5%80-%E0%A4%B8%E0%A5%8D%E0%A4%AA%E0%A5%8B%E0%A4%B0%E0%A5%8D%E0%A4%9F/dp/B01M3MUR7H",
+      "titulo": "Discraft अल्ट्रा-स्टार 175g अल्टीमेट ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcST3P_3E4FTfNfi_FOqii3K0o4mmT61u3QuJQ&s",
+      "original": "https://m.media-amazon.com/images/I/71uTr3MCGqL.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/frisbee/hi/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOPPeUYRXc0mWVFPbMztz_8WmpOi3qORN0Uw&s",
+      "fuentePagina": "https://en.wikipedia.org/wiki/Frisbee",
+      "titulo": "Frisbee - Wikipedia",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOPPeUYRXc0mWVFPbMztz_8WmpOi3qORN0Uw&s",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Frisbee_090719.jpg/500px-Frisbee_090719.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/frisbee/hi/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS--HEhij0TKL78qgkqH35e9zEN_BEmFFmq6A&s",
+      "fuentePagina": "https://zabcafe.com/en/products/frizbee-cafelimo?srsltid=AfmBOopd01YiWvNnEd6weniEApzF2xBAhy644ugjF2eUcEB9b_t7nlNQ",
+      "titulo": "Cafélimo Frisbee – Zab Café",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS--HEhij0TKL78qgkqH35e9zEN_BEmFFmq6A&s",
+      "original": "https://zabcafe.com/cdn/shop/files/frisbee-cafelimo-sky.jpg?v=1748348264&width=1200"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/frisbee/hi/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRY8WPB-DaPZq3T33sI_w1Q25El5lg-BLxutw&s",
+      "fuentePagina": "https://www.amazon.in/Wham-Classic-Frisbee-Colors-Vary/dp/B0009TNFI6",
+      "titulo": "Wham-o Pro Classic Frisbee (Colors Vary) : Amazon.in: Sports ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRY8WPB-DaPZq3T33sI_w1Q25El5lg-BLxutw&s",
+      "original": "https://m.media-amazon.com/images/I/8149-Dsn5mL.jpg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/frisbee/hi/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2568cssPkxgkzFxSa0HXPyNrZFanSwYwB1w&s",
+      "fuentePagina": "https://www.euroschoolindia.com/blogs/exciting-frisbee-games-for-kids/",
+      "titulo": "10 Exciting Frisbee Games for Kids to play and enjoy ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2568cssPkxgkzFxSa0HXPyNrZFanSwYwB1w&s",
+      "original": "https://www.euroschoolindia.com/blogs/wp-content/uploads/2023/09/ultimate-frisbee-game.jpg"
+    }
+  ]
+}

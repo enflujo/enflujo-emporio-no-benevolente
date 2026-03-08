@@ -1,0 +1,71 @@
+{
+  "categoria": "cow",
+  "categoriaSlug": "cow",
+  "idioma": "en",
+  "nombreIdioma": "English",
+  "termino": "cow",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T20:52:50.642Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "en",
+    "gl": "us"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=cow&hl=en&gl=us",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/cow/en/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7p8nMT5e6Ut3FCtkDFhNAiedRx-9kes_DbA&s",
+      "fuentePagina": "https://www.four-paws.org/campaigns-topics/topics/farm-animals/10-facts-about-cattle",
+      "titulo": "10 Facts about Dairy Cattle - FOUR PAWS International ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7p8nMT5e6Ut3FCtkDFhNAiedRx-9kes_DbA&s",
+      "original": "https://media.4-paws.org/4/9/8/9/49896113ec1edb7553e53df93fec214bfba35e4d/VIER%20PFOTEN_2015-04-27_010-3369x2246-3246x2246-1920x1329.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/cow/en/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmTO4znkQ_lXg6ZaZm6CqCkIKeV1EzLFGNIQ&s",
+      "fuentePagina": "https://www.britannica.com/animal/cow",
+      "titulo": "Cow | Description, Heifer, & Facts | Britannica",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmTO4znkQ_lXg6ZaZm6CqCkIKeV1EzLFGNIQ&s",
+      "original": "https://cdn.britannica.com/55/174255-050-526314B6/brown-Guernsey-cow.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/cow/en/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2-ooF0d-aw9DkqbvIReAiHwIBiNMHsDV5SQ&s",
+      "fuentePagina": "https://en.wikipedia.org/wiki/Cattle",
+      "titulo": "Cattle - Wikipedia",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2-ooF0d-aw9DkqbvIReAiHwIBiNMHsDV5SQ&s",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Cow_%28Fleckvieh_breed%29_Oeschinensee_Slaunger_2009-07-07.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/cow/en/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjMpBFzeiH7TtvHbYdnKBLxtS6amdRXcdw0w&s",
+      "fuentePagina": "https://en.wikipedia.org/wiki/Dairy_cattle",
+      "titulo": "Dairy cattle - Wikipedia",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjMpBFzeiH7TtvHbYdnKBLxtS6amdRXcdw0w&s",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/0/0c/Cow_female_black_white.jpg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/cow/en/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyq1iVEte1OdX2_EEco64jHLCPPFgJUUiM9w&s",
+      "fuentePagina": "https://www.betterwithdairy.com/blog/name-cow-6-great-dairy-breeds",
+      "titulo": "Name That Cow: The 6 Great Dairy Breeds | Better With Dairy",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyq1iVEte1OdX2_EEco64jHLCPPFgJUUiM9w&s",
+      "original": "https://www.betterwithdairy.com/sites/default/files/2025-02/What_Does_Dairy_Cow_Eat.webp"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/cow/en/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTS4LKYx3t9wCKfn3DIRuxJB7-biALX_vle8w&s",
+      "fuentePagina": "https://www.britannica.com/topic/dairy-cattle-breeds",
+      "titulo": "Dairy cattle breeds | Milk Production, Domestication, List ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTS4LKYx3t9wCKfn3DIRuxJB7-biALX_vle8w&s",
+      "original": "https://cdn.britannica.com/53/157153-050-E5582B5A/Holstein-cow.jpg"
+    }
+  ]
+}

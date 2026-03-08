@@ -1,0 +1,71 @@
+{
+  "categoria": "toilet",
+  "categoriaSlug": "toilet",
+  "idioma": "ha",
+  "nombreIdioma": "Hausa",
+  "termino": "bandaki",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:20:27.622Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "ha",
+    "gl": "ng"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=bandaki&hl=ha&gl=ng",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/toilet/ha/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZ-j83w3DjTaYcqwHBq0J8fmIvwupLASOeog&s",
+      "fuentePagina": "https://hausa.legit.ng/news/1528415-bidiyon-yadda-katon-maciji-ke-neman-mafaka-a-bandaki-ya-ba-jamaa-mamaki/",
+      "titulo": "Bidiyon Yadda Katon Maciji Ke Neman Mafaka a Bandaki Ya Ba ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZ-j83w3DjTaYcqwHBq0J8fmIvwupLASOeog&s",
+      "original": "https://cdn.legit.ng/images/1120/90f1b1e95f16d0d3.jpeg?v=1"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/toilet/ha/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdnmdXAokNeLgpmQxL5E6osrH4VjdrvkHAxw&s",
+      "fuentePagina": "https://hausa.premiumtimesng.com/tag/bandaki",
+      "titulo": "Bandaki Archives - Premium Times Hausa",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdnmdXAokNeLgpmQxL5E6osrH4VjdrvkHAxw&s",
+      "original": "https://hausa.premiumtimesng.com/wp-content/files/sites/4/2018/10/defecating.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/toilet/ha/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFz95K5Z1xujGArgOeuUrXjmBGCnsktkbDYA&s",
+      "fuentePagina": "https://www.youtube.com/watch?v=maIu6d0jtjU",
+      "titulo": "BANDAKI MAI HADIYE MUTANE/ TOILET THAT SWALLOWS PEOPLE/ TATSUNIYAN HAUSA/  AFRICAN FOLKTALE/ STORIES",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFz95K5Z1xujGArgOeuUrXjmBGCnsktkbDYA&s",
+      "original": "https://i.ytimg.com/vi/maIu6d0jtjU/maxresdefault.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/toilet/ha/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmI2BrCWfj9tTvRg8hZRzAWRNOXLFh7w9KeA&s",
+      "fuentePagina": "https://hausa.leadership.ng/yadda-ake-wanke-bandaki-da-coca-cola/",
+      "titulo": "Yadda Ake Wanke Bandaki Da Coca-cola",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmI2BrCWfj9tTvRg8hZRzAWRNOXLFh7w9KeA&s",
+      "original": "https://hausa.leadership.ng/wp-content/uploads/2023/06/weird-toilet-fixes-that-really-work-327019-08-a288197a48f94eacaf898dccfcf1feb7-scaled.jpg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/toilet/ha/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfvkfpsbF5smjfHXSJZqxUAaksP839x_85iw&s",
+      "fuentePagina": "https://ha.wiktionary.org/wiki/Bandaki",
+      "titulo": "Bandaki - Wiktionary",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfvkfpsbF5smjfHXSJZqxUAaksP839x_85iw&s",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Toilet_%288844253890%29.jpg/250px-Toilet_%288844253890%29.jpg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/toilet/ha/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5VAoTt8q6eQUmXX244LYc5dc59lWIgc0RsQ&s",
+      "fuentePagina": "https://hausa.legit.ng/duniya/1562715-ana-tuhumumar-mutane-hudu-da-satar-bandaki-na-zinari-na-ps48m-daga-fadar-blenheim/",
+      "titulo": "An Kama Mutane 4 Kan Laifin Satar Bandaki Na Gwal Daga Fadar ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5VAoTt8q6eQUmXX244LYc5dc59lWIgc0RsQ&s",
+      "original": "https://cdn.legit.ng/images/1120/374de91ce6f3480c.jpeg?v=1"
+    }
+  ]
+}

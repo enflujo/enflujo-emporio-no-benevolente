@@ -1,0 +1,71 @@
+{
+  "categoria": "cell phone",
+  "categoriaSlug": "cell-phone",
+  "idioma": "qu",
+  "nombreIdioma": "Quechua",
+  "termino": "celular",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:24:31.373Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "es",
+    "gl": "pe"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=celular&hl=es&gl=pe",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/cell-phone/qu/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkGWR4lKxjXGzttDrMK4-yl34RSrHkoSR9mA&s",
+      "fuentePagina": "https://www.segurilatam.com/actualidad/celular-desactualizado-riesgos-seguridad_20240126.html",
+      "titulo": "Cuáles son los riesgos de usar un celular desactualizado?",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkGWR4lKxjXGzttDrMK4-yl34RSrHkoSR9mA&s",
+      "original": "https://www.segurilatam.com/wp-content/uploads/sites/5/2024/01/smartphone-blanco.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/cell-phone/qu/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLvEy2uudmLNHUr74KHuAd55wjaFliwjQgTw&s",
+      "fuentePagina": "https://rymportatiles.com.pe/products/celular-samsung-galaxy-a16-memoria-6gb-almacenamiento-128gb-6-5-amoled?srsltid=AfmBOooDTdbXyKHxbj9UpFT6p4Gpu1QDY1armsmwn3i-LOfmgmsk43dm",
+      "titulo": "Celular Samsung Galaxy A16 Memoria 6GB Almacenamiento 128GB 6.5\" AMOLED",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLvEy2uudmLNHUr74KHuAd55wjaFliwjQgTw&s",
+      "original": "https://rymportatiles.com.pe/cdn/shop/files/9264.png?v=1745274982"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/cell-phone/qu/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPBGjSVY_1tnvf0Vy0QyMUvSaD659100zOBQ&s",
+      "fuentePagina": "https://pe.celulares.com/apple/iphone-x",
+      "titulo": "Apple iPhone X (iPhone 10, iPhone Ten, A1865, A1901 ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPBGjSVY_1tnvf0Vy0QyMUvSaD659100zOBQ&s",
+      "original": "https://pe.celulares.com/fotos/apple-iphone-x-59552-g-alt.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/cell-phone/qu/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYdEAqgzpp99eySvhAMruzbIqCV0Oir2EBow&s",
+      "fuentePagina": "https://www.carsa.pe/celular-samsung-sm-a075mzkeltp-a07-67-4gb-128gb-50mp-negro-8806097661580/p?srsltid=AfmBOoqXKstoROZm0xVd5FBwtXDlc3JyK-j6OHn1-jHE_SveF12ecLnw",
+      "titulo": "Celular Samsung SM-A075MZKELTP A07 6.7\" 4GB 128GB 50MP Negro",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYdEAqgzpp99eySvhAMruzbIqCV0Oir2EBow&s",
+      "original": "https://carsaperupoc.vtexassets.com/arquivos/ids/169015/celular-samsung-sm-a075mzkeltp-a07-67-4gb-128gb-50mp-negro-8806097661580_1.jpg?v=638923884574400000"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/cell-phone/qu/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFaTXS4yQclW0rUG2xDDO7A30ImMKpBkUGdg&s",
+      "fuentePagina": "https://www.credicalidda.com.pe/celular-apple-iphone-16-esim-2024-8gb-128gb-rosado--reacondicionado--2369/p?srsltid=AfmBOorK_MEp52L80Z-VzTnESF8YUJb5vANZXphyZ9jZWiX3hmPL7tEZ",
+      "titulo": "CrediCálidda",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFaTXS4yQclW0rUG2xDDO7A30ImMKpBkUGdg&s",
+      "original": "https://caliddape.vtexassets.com/arquivos/ids/163190/image-ef800ed7c3ae441bbe2bec9448a85a2a.jpg?v=639033329803070000"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/cell-phone/qu/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU-7I0GLKB4FyaxvkoudfuevUbJCMRn4eJQg&s",
+      "fuentePagina": "https://rymportatiles.com.pe/products/celular-samsung-galaxy-a05s-sm-a057m-memoria-6gb-almacenamiento-128gb?srsltid=AfmBOopDyvQJwtZ3V1yGdSQV1KOZo-EWlqQ8TkaQMgiZQpmv68_PDFkb",
+      "titulo": "Celular Samsung Galaxy A05S SM-A057M Memoria 6GB Almacenamiento 128GB  Android",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU-7I0GLKB4FyaxvkoudfuevUbJCMRn4eJQg&s",
+      "original": "https://rymportatiles.com.pe/cdn/shop/files/Samsung-Galaxy-A05S.png?v=1722019886"
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "categoria": "fork",
+  "categoriaSlug": "fork",
+  "idioma": "am",
+  "nombreIdioma": "Amharic — አማርኛ",
+  "termino": "ሹካ",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:08:10.216Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "am",
+    "gl": "et"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=%E1%88%B9%E1%8A%AB&hl=am&gl=et",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/fork/am/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQx1Bt3ViAcsvT9YLu_cb0kQNSEmFE3CSiRlQ&s",
+      "fuentePagina": "https://www.garbotableware.com/am/stainless-steel-fork/200mm-mriior-polished-stainless-steel-fork-flatware.html",
+      "titulo": "200mm mrior የተወለወለ ከማይዝግ ብረት ሹካ flatware",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQx1Bt3ViAcsvT9YLu_cb0kQNSEmFE3CSiRlQ&s",
+      "original": "https://www.garbotableware.com/wp-content/uploads/2020/05/SM061DF-350x350.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/fork/am/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRASgvQjUJ2GgJOLmyhpYU7aCUFGcqb4frIgw&s",
+      "fuentePagina": "https://www.naturecutlery.com/am/factory-source-cake-and-fork-sy-20-fo-small-desert-fork-100mm3-9-inch-in-bulk-packages-quanhua-product/",
+      "titulo": "የጅምላ ፋብሪካ ምንጭ ኬክ እና ሹካ - SY-20-FO ትንሽ ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRASgvQjUJ2GgJOLmyhpYU7aCUFGcqb4frIgw&s",
+      "original": "https://cdn.globalso.com/naturecutlery/SY-20-FO-Small-Desert-Fork-100mm3.9-Inch-In-Bulk-Packages.png"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/fork/am/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAcXZw-pzGYI8YR2nap1pqiot326dJRhg5DQ&s",
+      "fuentePagina": "https://www.rtkitchenknife.com/am/steak-knife-and-fork-set",
+      "titulo": "ስቴክ ቢላዋ እና ሹካ አዘጋጅ | ሩታይ",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAcXZw-pzGYI8YR2nap1pqiot326dJRhg5DQ&s",
+      "original": "https://img80003074.weyesimg.com/uploads/rtkitchenknife.com/images/16376347388767.jpg?imageView2/2/w/768/q/80/format/webp"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/fork/am/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZXDISd8ll-mIjB_UWCjYXRa1tHHKrZFu43A&s",
+      "fuentePagina": "http://am.hybambuwood.com/155-170-arc-fork-product/",
+      "titulo": "ቻይና 155 ሚሜ 170 ሚሜ የቅርብ ጊዜ የአርክ ቅርጽ ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZXDISd8ll-mIjB_UWCjYXRa1tHHKrZFu43A&s",
+      "original": "https://cdn.globalso.com/hybambuwood/13.png"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/fork/am/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQez9c_p6nJZd78q_HPdD9vnGv3j0wTm_j13A&s",
+      "fuentePagina": "https://www.facebook.com/Lensahomeshopping/posts/-re-stocked-alerthigh-quality-fork-and-spoon%E1%89%86%E1%8A%95%E1%8C%86-%E1%8C%A5%E1%88%AB%E1%89%B5-%E1%8B%AB%E1%88%8B%E1%89%B8%E1%8B%8D-%E1%8B%A8%E1%88%9B%E1%8B%AD%E1%8B%9D%E1%8C%89-%E1%8B%A8%E1%88%9B%E1%8B%AD%E1%8C%A0%E1%89%81%E1%88%A9-%E1%88%B9%E1%8A%AB-%E1%8A%A5%E1%8A%93-%E1%88%9B%E1%8A%95%E1%8A%AA%E1%8B%AB/1233558025456233/",
+      "titulo": "🚨 Re-Stocked Alert🚨 ✨High Quality fork and spoon ✨ቆንጆ ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQez9c_p6nJZd78q_HPdD9vnGv3j0wTm_j13A&s",
+      "original": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=1233558008789568"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/fork/am/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEsEP2m5Jv0AZj4Og6SkUgoRi-PhgC7Nll8g&s",
+      "fuentePagina": "https://www.rtkitchenknife.com/am/ruitai-high-quality-stainless-steel-304-gold-flatware-matte-spoon-fork-knife-cutlery-set",
+      "titulo": "ሩታይ ከፍተኛ ጥራት ያለው አይዝጌ ብረት 304 ወርቅ ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEsEP2m5Jv0AZj4Og6SkUgoRi-PhgC7Nll8g&s",
+      "original": "https://img80003074.weyesimg.com/uploads/www.rtkitchenknife.com//images/16233162647198.jpg?imageView2/2/w/768/q/80/format/webp"
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "categoria": "bowl",
+  "categoriaSlug": "bowl",
+  "idioma": "ln",
+  "nombreIdioma": "Lingala",
+  "termino": "bol",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:09:51.813Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "fr",
+    "gl": "cd"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=bol&hl=fr&gl=cd",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bowl/ln/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmIO820lP2NXubL4DLiGP6wIrDRiEaBKtVfw&s",
+      "fuentePagina": "https://www.monouso.fr/bol-reutilisable-durable-pp-mineral-rouge-2l-o20cm-1-ute-18236.html?srsltid=AfmBOopbieGzFD24i0sOqyHh1NR7pFdpA3jDmkrH8iFPII-yNwa31dJW",
+      "titulo": "Bol Réutilisable Durable PP Minéral Rouge 2.000ml Ø20cm (1 Uté)",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmIO820lP2NXubL4DLiGP6wIrDRiEaBKtVfw&s",
+      "original": "https://www.monouso.fr/64022/bol-reutilisable-durable-pp-mineral-rouge-2l-o20cm-1-ute.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bowl/ln/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyh_jG03VcKgH2t1oyftBMAMz9I9LrG3K8zw&s",
+      "fuentePagina": "https://www.porcelainedespins.fr/bols/1441-bol-noir.html",
+      "titulo": "Bol noir \"collection Vésuvio\" - Porcelaine des Pins",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyh_jG03VcKgH2t1oyftBMAMz9I9LrG3K8zw&s",
+      "original": "https://www.porcelainedespins.fr/2473-large_default/bol-noir.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bowl/ln/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNHN-jYx0_wrlpPl5BoT-gtTpJfHOmrObxvw&s",
+      "fuentePagina": "https://www.dille-kamille.fr/petit-bol-sur-pied-porcelaine-o-15-cm-00004443.html",
+      "titulo": "Petit bol sur pied, porcelaine, Ø 15 cm | La cuisine ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNHN-jYx0_wrlpPl5BoT-gtTpJfHOmrObxvw&s",
+      "original": "https://dilka.xcdn.nl/dilka/images/catalog/product/00004443_1.jpg?f=rs:fit:600:600/g:ce&s=2d2d"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bowl/ln/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPea8NHF-uk17qpvqXS6hSnEJdugaByjgTrg&s",
+      "fuentePagina": "https://veoshop.fr/mug-tasse-bol-assiette/5459-bol-a-cotes-60cl-colorama-rouge-3560238922620.html",
+      "titulo": "Bol à déjeuner 60cL COLORAMA - Rouge - Veo shop",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPea8NHF-uk17qpvqXS6hSnEJdugaByjgTrg&s",
+      "original": "https://veoshop.fr/29414-thickbox_default/bol-a-cotes-60cl-colorama-rouge.jpg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bowl/ln/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoj5JB3tS7RcjtXjrcuVKyct3Cr8qiKEEjPQ&s",
+      "fuentePagina": "https://www.plaza-grossiste.com/bol-580-ml-stoneware-bleu-14-x-7-7-cm-30-unites-5-paquet-de-6-unites.htm",
+      "titulo": "Bol 580 ml STONEWARE BLEU 14 x 7.7 cm- 30 unités (5 paquet ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoj5JB3tS7RcjtXjrcuVKyct3Cr8qiKEEjPQ&s",
+      "original": "https://cdn.store-factory.com/www.plaza-grossiste.com/content/product_11833188b.png?v=1714051291"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bowl/ln/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTczVeU7BZaSY5jOmRVH8r5mMH7zPr-2_zONQ&s",
+      "fuentePagina": "https://www.cofan.fr/fr/carte-fidelite/detail-produit/6371/bol-mod%C3%A8le-albahaca-%7C-fabrique-en-polypropyl%C3%A8ne-%7C-bol-en-plastique-%7C-plusieurs-couleurs-et-dimensions-%7C-multi-usages/",
+      "titulo": "Bol Modèle Albahaca | Fabriqué en Polypropylène | Bol en ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTczVeU7BZaSY5jOmRVH8r5mMH7zPr-2_zONQ&s",
+      "original": "https://www.cofan.fr/images/content/1024x682/web1_41001707_01.jpg"
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "categoria": "wine glass",
+  "categoriaSlug": "wine-glass",
+  "idioma": "qu",
+  "nombreIdioma": "Quechua",
+  "termino": "vaso",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:07:02.844Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "es",
+    "gl": "pe"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=vaso&hl=es&gl=pe",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/wine-glass/qu/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbzJGhaZXDCUjx03SbMtJlb-jk7B_r4n6kWQ&s",
+      "fuentePagina": "https://www.promart.pe/vaso-conico-viva-home-grande-99960182/p?srsltid=AfmBOoo8WShgEKDKgUExP5teYmCYDCnMn-LULZNV5tACrmq2Sgm19NAE",
+      "titulo": "Vaso Cónico VIVA HOME Grande - Promart",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbzJGhaZXDCUjx03SbMtJlb-jk7B_r4n6kWQ&s",
+      "original": "https://promart.vteximg.com.br/arquivos/ids/579040-1000-1000/image-3c000b9a555f4ff79a2c2e6243feab98.jpg?v=637407054234830000"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/wine-glass/qu/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgFlgQkDiKcXui0BJFIwaaA3Q3Q3lwqCgigg&s",
+      "fuentePagina": "https://www.freepik.es/fotos-vectores-gratis/vaso-lleno",
+      "titulo": "Imágenes de Vaso lleno - Descarga gratuita en Freepik",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgFlgQkDiKcXui0BJFIwaaA3Q3Q3lwqCgigg&s",
+      "original": "https://img.freepik.com/vector-gratis/vaso-agua-etiqueta-engomada-sobre-fondo-blanco_1308-76439.jpg?semt=ais_rp_50_assets&w=740&q=80"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/wine-glass/qu/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkuE8EWvx6skgZjwn8QjGsS9Ng5220QNnecw&s",
+      "fuentePagina": "https://descartables.com.pe/products/vaso-5-5-oz-vaso-t",
+      "titulo": "Vaso 5.5 Oz Vaso -T ALFA",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkuE8EWvx6skgZjwn8QjGsS9Ng5220QNnecw&s",
+      "original": "https://descartables.com.pe/cdn/shop/products/116.jpg?v=1601323421"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/wine-glass/qu/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSiWJvnLGEMiKjvTo-BpNGxz4dhk_QaLvJJ3w&s",
+      "fuentePagina": "https://www.metro.pe/vaso-krea-tableado-300ml-956077/p?srsltid=AfmBOop1-w1Flxn5IMtD65xCDDHkpRGmXO1lUz4TJ-OgJfHSk72swb6e",
+      "titulo": "Vaso Krea Tableado 300ml - Metro.pe",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSiWJvnLGEMiKjvTo-BpNGxz4dhk_QaLvJJ3w&s",
+      "original": "https://metroio.vtexassets.com/arquivos/ids/394488-800-auto?v=638180617699670000&width=800&height=auto&aspect=true"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/wine-glass/qu/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOSjC97L79ya6ANWjxjxN0ejxqh6sPrRPNpQ&s",
+      "fuentePagina": "https://jopco.net/producto/vaso-de-vidrio-11-25oz-lexington-libbey-36/",
+      "titulo": "Vaso de vidrio Lexington | Libbey - Jopco Equipos y ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOSjC97L79ya6ANWjxjxN0ejxqh6sPrRPNpQ&s",
+      "original": "https://jopco.net/wp-content/uploads/2022/11/LI-2359.jpg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/wine-glass/qu/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6Mx7US8pxKH2G66Bjy8qQPibrU0m4U-JwQw&s",
+      "fuentePagina": "https://bialetti.pe/producto/set-2-vasos-de-vidrio-200ml-firenze/",
+      "titulo": "Set 2 Vasos de Vidrio 200ML FIRENZE - Bialetti Perú",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6Mx7US8pxKH2G66Bjy8qQPibrU0m4U-JwQw&s",
+      "original": "https://bialetti.pe/wp-content/uploads/2023/03/Set-2-Vasos-de-Vidrio-200ML-de-Doble-Pared-FIRENZE-Bialetti.webp"
+    }
+  ]
+}

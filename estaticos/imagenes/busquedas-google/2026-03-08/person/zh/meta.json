@@ -1,0 +1,71 @@
+{
+  "categoria": "person",
+  "categoriaSlug": "person",
+  "idioma": "zh",
+  "nombreIdioma": "中文",
+  "termino": "人",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T20:40:53.092Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "zh-CN",
+    "gl": "cn"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=%E4%BA%BA&hl=zh-CN&gl=cn",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/person/zh/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDj_F6b2D8fX5q8SMSvnv6JYwKOokDeAVHdA&s",
+      "fuentePagina": "https://zh.wikipedia.org/zh-cn/%E4%BA%BA%E9%83%A8",
+      "titulo": "人部- 维基百科，自由的百科全书",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDj_F6b2D8fX5q8SMSvnv6JYwKOokDeAVHdA&s",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/f/fd/%E4%BA%BA-order.gif"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/person/zh/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuV-9_IaExlG2xGiC3X_FqVVJYHZBXheHFaA&s",
+      "fuentePagina": "https://www.strokeorder.com/chinese/%E4%BA%BA",
+      "titulo": "人stroke order",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuV-9_IaExlG2xGiC3X_FqVVJYHZBXheHFaA&s",
+      "original": "https://www.strokeorder.com/assets/bishun/animation/20154.gif"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/person/zh/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqj-2szNRjbidKyU5rVQ0ZnC22whBFVCaNSQ&s",
+      "fuentePagina": "https://mt.sohu.com/20170812/n506491416.shtml",
+      "titulo": "每日一字】人：仁人志士-搜狐",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqj-2szNRjbidKyU5rVQ0ZnC22whBFVCaNSQ&s",
+      "original": "https://img.mp.itc.cn/upload/20170812/b74e1c7af7f5403fa5c2c959cd3b1036.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/person/zh/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrT3yHXROAnbf1eB4w8-c7G2UHA6Ptx_u5Kg&s",
+      "fuentePagina": "https://www.hanzipi.com/%E4%BA%BA.html",
+      "titulo": "人字笔画、笔顺、笔划- 人字怎么写?",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrT3yHXROAnbf1eB4w8-c7G2UHA6Ptx_u5Kg&s",
+      "original": "https://www.hanzipi.com/pic/gif/%E4%BA%BA.gif"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/person/zh/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSE7X6ciUvsJbHPx1isFtKsppkVJgZi-Q9nkQ&s",
+      "fuentePagina": "https://www.yunmeiming.com/zidian/1087/",
+      "titulo": "人字的寓意及五行_人字的繁体字_人字有几划-云美名网",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSE7X6ciUvsJbHPx1isFtKsppkVJgZi-Q9nkQ&s",
+      "original": "https://www.yunmeiming.com/wap/uploads/zidian/zi148275657397665.png"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/person/zh/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrBZ7UnYj0LOfo_ZI5wooJNEBNeIxI13ZcMg&s",
+      "fuentePagina": "https://www.hanzipi.com/%E4%BA%BA.html",
+      "titulo": "人字笔画、笔顺、笔划- 人字怎么写?",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrBZ7UnYj0LOfo_ZI5wooJNEBNeIxI13ZcMg&s",
+      "original": "https://www.hanzipi.com/pic/png/%E4%BA%BA.png"
+    }
+  ]
+}

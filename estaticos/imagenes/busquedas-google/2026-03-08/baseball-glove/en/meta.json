@@ -1,0 +1,71 @@
+{
+  "categoria": "baseball glove",
+  "categoriaSlug": "baseball-glove",
+  "idioma": "en",
+  "nombreIdioma": "English",
+  "termino": "baseball glove",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:03:17.194Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "en",
+    "gl": "us"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=baseball%20glove&hl=en&gl=us",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/baseball-glove/en/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmsVQvxL5oFHDJ6sSCOn8rCnoAax1Dbxk6wA&s",
+      "fuentePagina": "https://www.b45baseball.com/products/diamond-series-11-5-i-web-baseball-glove?srsltid=AfmBOoqoOqLvsNAyd38M69hUuThV7ST9X698fEdgUwqP4HRipRWB6BhY",
+      "titulo": "B45 Baseball – Diamond Series Infield Fielding Glove – 11.5 ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmsVQvxL5oFHDJ6sSCOn8rCnoAax1Dbxk6wA&s",
+      "original": "https://www.b45baseball.com/cdn/shop/files/b45-baseball-fielding-gloves-diamond-series-11-5-i-web-baseball-glove-1149771325_1320x.jpg?v=1742404255"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/baseball-glove/en/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTV_eOp-85teWzWV2XOCfWtxvMTch1KXRo_XA&s",
+      "fuentePagina": "https://www.big5sportinggoods.com/store/details/rawlings-sandlot-12-75-outfield-baseball-glove/1030106680040",
+      "titulo": "Sandlot 12.75 Outfield Baseball Glove",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTV_eOp-85teWzWV2XOCfWtxvMTch1KXRo_XA&s",
+      "original": "https://www.big5sportinggoods.com/catalogimage/img/product/rwd/zoom/1030_10668_0040_684_zoom_02.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/baseball-glove/en/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtew80mJ1iSPmL_U0l3yDI0FcRVCSsa3h80g&s",
+      "fuentePagina": "https://www.justballgloves.com/product/wilson-a2000-d33-11-75--baseball-glove--wbw1003921175/34683/?srsltid=AfmBOopr3aHnZyGBSpWB9melKfyOxnYb3V-u0Ene9HEa80W-CQ0xu5EW",
+      "titulo": "Wilson A2000 D33 11.75\" Baseball Glove: WBW1003921175",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtew80mJ1iSPmL_U0l3yDI0FcRVCSsa3h80g&s",
+      "original": "https://dac8r2vkxfv8c.cloudfront.net/images/products/f802-11-23-wilson-a2000-d33-11-75--baseball-glove--wbw1003921175-34683_001_m.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/baseball-glove/en/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT74O54yOkrfQ3UUW5n6fbO6GiqZfGPdQexKA&s",
+      "fuentePagina": "https://www.amazon.ae/Clzemo-Baseball-Thickened-Resistant-Equipment/dp/B0B4FVY1F6",
+      "titulo": "Clzemo Left Hand Infield Baseball Glove, 9.5\" 10.5\" 11.5 ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT74O54yOkrfQ3UUW5n6fbO6GiqZfGPdQexKA&s",
+      "original": "https://m.media-amazon.com/images/I/71Q9S9lJGfL._AC_UF1000,1000_QL80_.jpg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/baseball-glove/en/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4NTJh3qyB6cU1Ci3dNHdkGZjbt3NIOvpvDw&s",
+      "fuentePagina": "https://select.schoolspecialty.com/sportime-yeller-right-handed-thrower-baseball-glove-adult-ages-16-and-up-021399",
+      "titulo": "Sportime Yeller Right-Handed Thrower Baseball Glove, Adult, Ages 16 and Up",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4NTJh3qyB6cU1Ci3dNHdkGZjbt3NIOvpvDw&s",
+      "original": "https://cdn.schoolspecialty.com/dca62268-d1f9-4763-82fa-b18700c751f8/087977_JPG%20Output.jpg?width=700&height=700&fit=bounds&canvas=700,700&bg-color=ffffff"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/baseball-glove/en/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1natEE9NkbVzQjNM38waZc9FSPUvjwHPehQ&s",
+      "fuentePagina": "https://www.b45baseball.com/products/pro-series-11-5-i-web-baseball-glove?srsltid=AfmBOoqhuP34MkUrUQ3AUZPFO7BLNuxoNtQA65o6gdCiSMValxAGsGoY",
+      "titulo": "B45 Baseball – Pro Series Infield Fielding Glove – 11.5 ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1natEE9NkbVzQjNM38waZc9FSPUvjwHPehQ&s",
+      "original": "https://www.b45baseball.com/cdn/shop/files/b45-baseball-fielding-gloves-pro-series-11-5-i-web-baseball-glove-1149771318_2468x.jpg?v=1742372541"
+    }
+  ]
+}

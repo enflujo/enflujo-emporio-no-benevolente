@@ -1,0 +1,71 @@
+{
+  "categoria": "snowboard",
+  "categoriaSlug": "snowboard",
+  "idioma": "qu",
+  "nombreIdioma": "Quechua",
+  "termino": "snowboard",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:01:02.760Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "es",
+    "gl": "pe"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=snowboard&hl=es&gl=pe",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/snowboard/qu/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpxyhD7ZGykea6fPtB6Oo3AaVRhZo6AnUSUg&s",
+      "fuentePagina": "https://www.dopesnow.com/mag/is-snowboarding-a-good-workout/?srsltid=AfmBOooB6PxHIH6hJdlJx4yEtx3n96NBTMDtJ18aNIImfxnqQdc69fOM",
+      "titulo": "Is snowboarding a good workout? - Top 5 benefits | Dope Magazine",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpxyhD7ZGykea6fPtB6Oo3AaVRhZo6AnUSUg&s",
+      "original": "https://www.dopesnow.com/images/wordpress-4582242/uploads/2023/01/top-5-health-benefits-of-skiing-and-snowboarding-dope-magazine.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/snowboard/qu/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3o6LcEprbzZMPdadPyq4XqwvqOsjlcOVBVg&s",
+      "fuentePagina": "https://www.dopesnow.com/mag/what-to-wear-snowboarding-skiing/?srsltid=AfmBOoofFDYXJ9HUtwoVNw8c_Lw7GSQ23Tr6NZGCHWtKRQJfxwOXQjjs",
+      "titulo": "What to wear snowboarding and skiing | Dope Magazine",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3o6LcEprbzZMPdadPyq4XqwvqOsjlcOVBVg&s",
+      "original": "https://www.dopesnow.com/images/wordpress-4582242/uploads/2024/05/what-to-wear-snowboarding-and-skiing-dope-magazine.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/snowboard/qu/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSyRo9Y9dxgkpEQPPTRggJPGRm5-szYSKGCQ&s",
+      "fuentePagina": "https://seerevelstoke.com/things-to-do/ski-snowboard",
+      "titulo": "Skiing & Snowboarding | Power Paradise | Tourism Revelstoke",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSyRo9Y9dxgkpEQPPTRggJPGRm5-szYSKGCQ&s",
+      "original": "https://a-ca.storyblok.com/f/2000158/4462x2975/295439751d/laura-szanto_-revelstoke-mountain-resort-spring-skiing.jpg/m/1080x1409"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/snowboard/qu/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRs5lvXxekMb44My0pN0-X5dqm2lBdmSSdN0A&s",
+      "fuentePagina": "https://www.klook.com/es/activity/138438-snowboard-lessons-in-winsport-calgary/",
+      "titulo": "Snowboard Lessons in Winsport Calgary - Klook España",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRs5lvXxekMb44My0pN0-X5dqm2lBdmSSdN0A&s",
+      "original": "https://res.klook.com/images/fl_lossy.progressive,q_65/c_fill,w_1295,h_864/w_80,x_15,y_15,g_south_west,l_Klook_water_br_trans_yhcmh3/activities/j1twhxxvwe3h9ft75zgw/CanadaSnowboardLessonsinAlbertaCalgary.jpg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/snowboard/qu/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbnjH6f3_AD5oQyhIXYgWjHDk0t7LTGhSWrg&s",
+      "fuentePagina": "https://borealis-snowboards.com/products/borealis-tundra?srsltid=AfmBOooUSv_19hkUb_1EwmV4ML5Q822OcLnpZYm_A0g99EdSJxUJc7Z_",
+      "titulo": "Borealis Tundra Snowboard: All-Mountain Backcountry ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbnjH6f3_AD5oQyhIXYgWjHDk0t7LTGhSWrg&s",
+      "original": "https://borealis-snowboards.com/cdn/shop/files/MorganBodet_-MB_09623.jpg?v=1755588433&width=3840"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/snowboard/qu/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwQE7IPdBoDTG_ZXyOBhQ7XZh3NkffOj3OEA&s",
+      "fuentePagina": "https://www.aspensnowmass.com/discover/experiences/stories/snowboard-pro-tips-for-riding-at-every-level",
+      "titulo": "Snowboard Pro Tips for Riding at Every Level – Aspen Snowmass",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwQE7IPdBoDTG_ZXyOBhQ7XZh3NkffOj3OEA&s",
+      "original": "https://www.aspensnowmass.com/-/media/aspen-snowmass/images/visual-story-row/winter/2024-25/snoprovs-3.jpg?mw=1920&mh=1000&hash=97B2ECDCF6A8ECC7FB559565748D5225"
+    }
+  ]
+}

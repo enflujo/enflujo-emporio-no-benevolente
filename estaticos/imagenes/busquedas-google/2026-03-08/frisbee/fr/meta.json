@@ -1,0 +1,71 @@
+{
+  "categoria": "frisbee",
+  "categoriaSlug": "frisbee",
+  "idioma": "fr",
+  "nombreIdioma": "Français",
+  "termino": "frisbee",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T20:59:34.641Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "fr",
+    "gl": "be"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=frisbee&hl=fr&gl=be",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/frisbee/fr/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6FuRw_y9sjxnMQV7tgc3n_n0kh0NdIipD5w&s",
+      "fuentePagina": "https://www.decathlon.be/fr/c/rules/les-regles-de-l-ultimate-frisbee_f5cce5d9-b15c-4108-a3d7-2a65b1078894",
+      "titulo": "Les règles de l'Ultimate Frisbee",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6FuRw_y9sjxnMQV7tgc3n_n0kh0NdIipD5w&s",
+      "original": "https://contents.mediadecathlon.com/p2140198/k$2ea2761bd0e2980f53adb5c7b4aa3fac/1800x0/3000pt2000/6000xcr4000/default.jpg?format=auto"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/frisbee/fr/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLPkHpXI5ipyRxQfpAraacBtsfpYgdxXXBEQ&s",
+      "fuentePagina": "https://www.bol.com/be/fr/p/wham-o-frisbee-pro-classic-junior-25-cm-blauw/9200000109155435/",
+      "titulo": "Wham-o Frisbee Pro-classic Junior 25 Cm Blauw | bol",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLPkHpXI5ipyRxQfpAraacBtsfpYgdxXXBEQ&s",
+      "original": "https://media.s-bol.com/jLL7Y0M0kXPY/XDpwBAV/1200x1183.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/frisbee/fr/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOPPeUYRXc0mWVFPbMztz_8WmpOi3qORN0Uw&s",
+      "fuentePagina": "https://en.wikipedia.org/wiki/Frisbee",
+      "titulo": "Frisbee - Wikipedia",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOPPeUYRXc0mWVFPbMztz_8WmpOi3qORN0Uw&s",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Frisbee_090719.jpg/500px-Frisbee_090719.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/frisbee/fr/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS--HEhij0TKL78qgkqH35e9zEN_BEmFFmq6A&s",
+      "fuentePagina": "https://zabcafe.com/products/frizbee-cafelimo?srsltid=AfmBOormjDQwo1LWvBtddqLMXEyXhKmsl01WZvipj5rYGD8MPy_SC0LZ",
+      "titulo": "Frisbee Cafélimo – Zab Café",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS--HEhij0TKL78qgkqH35e9zEN_BEmFFmq6A&s",
+      "original": "https://zabcafe.com/cdn/shop/files/frisbee-cafelimo-sky.jpg?v=1748348264&width=1200"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/frisbee/fr/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9KEUBjzGj_5R6bxOsTQC0BCrtEcU7YdOLdQ&s",
+      "fuentePagina": "https://www.netjuggler.net/acheter/frisbee-ultimate-scolaire.html",
+      "titulo": "Frisbee Ultimate scolaire - LMI [160g] - NetJuggler",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9KEUBjzGj_5R6bxOsTQC0BCrtEcU7YdOLdQ&s",
+      "original": "https://photos.netjuggler.net/Frisbee-Ultimate-Scolaire-LMI-160g/grande/frisbee-ultimate-scolaire-lmi-160g.65518.jpg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/frisbee/fr/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTf0kvbv6XNGifzyhbUDaXlOBgnSR9KNsVRZQ&s",
+      "fuentePagina": "https://www.amazon.com.be/Indy-Frisbee-Tranche-enfants-adultes/dp/B09P3PVMDC",
+      "titulo": "Indy - Dirty DISC (175 g) (bleu) Frisbee, Tranche de Frisbee ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTf0kvbv6XNGifzyhbUDaXlOBgnSR9KNsVRZQ&s",
+      "original": "https://m.media-amazon.com/images/I/71Gl1LtO+ZL.jpg"
+    }
+  ]
+}

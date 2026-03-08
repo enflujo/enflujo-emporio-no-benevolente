@@ -1,0 +1,71 @@
+{
+  "categoria": "tennis racket",
+  "categoriaSlug": "tennis-racket",
+  "idioma": "ar",
+  "nombreIdioma": "العربية",
+  "termino": "مضرب التنس",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:05:39.817Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "ar",
+    "gl": "eg"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=%D9%85%D8%B6%D8%B1%D8%A8%20%D8%A7%D9%84%D8%AA%D9%86%D8%B3&hl=ar&gl=eg",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/tennis-racket/ar/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_I0IaeOLdU95P0YdhOVpBk0GDlFOcxFPXJA&s",
+      "fuentePagina": "https://www.decathlon.eg/ar/p/330198-115109-%D9%85%D8%B6%D8%B1%D8%A8-%D8%AA%D9%86%D8%B3-tr990-power-%D9%84%D9%84%D8%A8%D8%A7%D9%84%D8%BA%D9%8A%D9%86-%D8%A3%D8%AD%D9%85%D8%B1-%D8%A3%D8%B3%D9%88%D8%AF.html?srsltid=AfmBOooP6XtqaqBGT98fRd41cDdqC5F0_2Vt-kHqJWXw2YZPrYJaf6cM",
+      "titulo": "مضرب تنس TR990 Power للبالغين - أحمر/أسود",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_I0IaeOLdU95P0YdhOVpBk0GDlFOcxFPXJA&s",
+      "original": "https://contents.mediadecathlon.com/p2486801/k$36ae9673a917eec6bc16dfd3e859684b/-tr990-power-slash.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/tennis-racket/ar/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSx8vU-nvPRxpmAD0_sFLy1eff_-jIWJsBCJQ&s",
+      "fuentePagina": "https://tennisatstore.com/ar/us-open-25-junior-tennis-racket/p1268590871?srsltid=AfmBOopJHp5EpIq7UFJTHMlt17hk1YpKyn_Qa0IRDg7tZOsZStUmsWfM",
+      "titulo": "US OPEN 25 Junior Tennis Racket - متجر تنسات - متجر رياضي ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSx8vU-nvPRxpmAD0_sFLy1eff_-jIWJsBCJQ&s",
+      "original": "https://cdn.salla.sa/RlqQq/ce0950bf-5c73-43fd-afca-df38ee314333-1000x1000-eoUDZjqNhp13jsF6m3fWPDFMNassqnpGHCDUQVuH.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/tennis-racket/ar/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8RU9fIrnJ2B2DBXfe5V4bhmpFBryj7NCrjg&s",
+      "fuentePagina": "https://wayupsports.com/ar/products/wr118710h",
+      "titulo": "مضرب تنس الترا باور جونيور 25",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8RU9fIrnJ2B2DBXfe5V4bhmpFBryj7NCrjg&s",
+      "original": "http://wayupsports.com/cdn/shop/files/WR118910H_5432a003-eb5c-4d6f-9f0c-733617b83a04.jpg?v=1702471985&width=2048"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/tennis-racket/ar/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjYKR_YtOV_7IpVYYykQUwng_oksL0lJPXUQ&s",
+      "fuentePagina": "https://www.intersport.com.eg/ar/products/ins-182398-babolat-china-unisex?srsltid=AfmBOoo6PczKsfdkpJjQ_pateu6y71tnXkWnUI24EOiNibDX4uSoDbQD",
+      "titulo": "مضرب تنس بابولات للجنسين",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjYKR_YtOV_7IpVYYykQUwng_oksL0lJPXUQ&s",
+      "original": "http://www.intersport.com.eg/cdn/shop/products/3324921823980a.png?v=1703027775&width=2048"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/tennis-racket/ar/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPTCPMpNdcK23nufd26QGXdnZSFbxESlmwbg&s",
+      "fuentePagina": "https://www.amazon.eg/%D9%85%D8%B6%D8%B1%D8%A8-%D8%AA%D9%86%D8%B3-%D9%88%D9%8A%D8%B4-%D9%84%D9%84%D8%A3%D9%88%D9%84%D8%A7%D8%AF-%D8%B3%D8%A8%D9%88%D8%B1%D8%AA/dp/B0CYM18SDK",
+      "titulo": "مضرب تنس ويش برو للأولاد من سبورت هوم : Amazon.eg: المستلزمات الرياضية",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPTCPMpNdcK23nufd26QGXdnZSFbxESlmwbg&s",
+      "original": "https://m.media-amazon.com/images/I/71wnfBFWueL.jpg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/tennis-racket/ar/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0-2LdjgrnzgavET2YIYAN2lYKnEEvfI-eSw&s",
+      "fuentePagina": "https://www.decathlon.eg/ar/p/300399-134049-%D9%85%D8%B6%D8%B1%D8%A8-%D8%AA%D9%86%D8%B3-tr500-%D9%84%D9%84%D8%A8%D8%A7%D9%84%D8%BA%D9%8A%D9%86-%D8%A3%D8%B2%D8%B1%D9%82.html?srsltid=AfmBOoqqbArNm28Ez37IFo5WElVCQSo6XrhrVI6l1Ph1Vg-63OzIFs7X",
+      "titulo": "مضرب تنس TR500 للبالغين - أزرق",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0-2LdjgrnzgavET2YIYAN2lYKnEEvfI-eSw&s",
+      "original": "https://contents.mediadecathlon.com/p2486925/k$04b378f68d8cd9acbbfcb04eb3c399c6/%D9%85%D8%B6%D8%B1%D8%A8-%D8%AA%D9%86%D8%B3-tr500-%D9%84%D9%84%D8%A8%D8%A7%D9%84%D8%BA%D9%8A%D9%86-%D8%A3%D8%B2%D8%B1%D9%82.jpg?format=auto&quality=40&f=800x800"
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "categoria": "train",
+  "categoriaSlug": "train",
+  "idioma": "yo",
+  "nombreIdioma": "Yorùbá",
+  "termino": "ọkọ̀ irin",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T20:44:25.166Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "yo",
+    "gl": "ng"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=%E1%BB%8Dk%E1%BB%8D%CC%80%20irin&hl=yo&gl=ng",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/train/yo/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdPLYaIJJe-UrtfVNVpJKwXToQyQX81S7eIQ&s",
+      "fuentePagina": "https://africaspirituality.com/view-product/irin-oko-%28hoe-blade%29-1666061077_82559-68",
+      "titulo": "Africa Spirituality - IRIN OKO (HOE BLADE)",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdPLYaIJJe-UrtfVNVpJKwXToQyQX81S7eIQ&s",
+      "original": "https://africaspirituality.com/uploads/166606295988001filename.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/train/yo/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR96AZ9obhEU0RSr2FC-ZS64bt6flIviWWBZQ&s",
+      "fuentePagina": "https://www.crawlerundercarriage.com/yo/steel-crawler-track-undercarriage-for-hydraulic-motor-construction-machinery-drilling-rig-excavator-crane-product/",
+      "titulo": "Abẹ́ ọkọ̀ ojú irin onírin China fún ọkọ̀ ojú irin onírin fún ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR96AZ9obhEU0RSr2FC-ZS64bt6flIviWWBZQ&s",
+      "original": "https://www.crawlerundercarriage.com/uploads/heavy-machine-steel-track-undercarriage-for-excavatordrill-mine-machinery2.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/train/yo/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLy9gzYEAy1y1al5jNQNb1h8aZ4dK7zYhQ1w&s",
+      "fuentePagina": "https://www.crawlerundercarriage.com/yo/steel-track-undercarriage/",
+      "titulo": "Àwọn olùpèsè ọkọ̀ abẹ́ irin - China Ilé iṣẹ́ àti àwọn ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLy9gzYEAy1y1al5jNQNb1h8aZ4dK7zYhQ1w&s",
+      "original": "https://cdn.globalso.com/crawlerundercarriage/SJ1200B-tunnel-machinery-undercarriage-11-300x300.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/train/yo/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmbm_DUlRChLh8kK8Wwt13lI0xxKRnjpeUwA&s",
+      "fuentePagina": "https://www.ehongsteel.com/yo/chinese-supplier-688-galvanized-steel-decking-1mm-thick-sheet-for-roof-floor-deck-water-resistant-durable-product/",
+      "titulo": "Olùpèsè àti olùpèsè ọkọ̀ ilẹ̀ China 688 Gíga Irin Gíga tí a ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmbm_DUlRChLh8kK8Wwt13lI0xxKRnjpeUwA&s",
+      "original": "https://cdn.globalso.com/ehongsteel/steel-deck-.jpg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/train/yo/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVMy5OQQS2bYZN_6Kk9yXDlAQ5iKsLPHLbsg&s",
+      "fuentePagina": "https://www.crawlerundercarriage.com/yo/news/new-product-drilling-rig-widened-steel-track-undercarriage/",
+      "titulo": "Ìròyìn - Ọjà Tuntun - Ọkọ̀ ìwakọ̀ mú kí ọkọ̀ abẹ́ irin fẹ̀ sí i",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVMy5OQQS2bYZN_6Kk9yXDlAQ5iKsLPHLbsg&s",
+      "original": "https://www.crawlerundercarriage.com/uploads/The-widened-track-rig-undercarriage1.jpg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/train/yo/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwEc5HS_aPdDHmHfqP9fEieUsQ7ZV1tgLk0g&s",
+      "fuentePagina": "https://www.bfbtransfercart.com/yo/metal-plant-20-ton-cable-power-rail-transfer-cart-product/",
+      "titulo": "Ilé Iṣẹ́ Irin China 20 Ton Okun Agbara Reluwe Gbigbe Kẹ̀kẹ́ ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwEc5HS_aPdDHmHfqP9fEieUsQ7ZV1tgLk0g&s",
+      "original": "https://ecdn6.globalso.com/upload/p/3198/image_product/2025-01/6784d92691ee473120.jpg"
+    }
+  ]
+}

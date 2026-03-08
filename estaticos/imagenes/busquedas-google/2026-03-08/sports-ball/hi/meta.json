@@ -1,0 +1,71 @@
+{
+  "categoria": "sports ball",
+  "categoriaSlug": "sports-ball",
+  "idioma": "hi",
+  "nombreIdioma": "हिन्दी",
+  "termino": "गेंद",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:01:42.633Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "hi",
+    "gl": "in"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=%E0%A4%97%E0%A5%87%E0%A4%82%E0%A4%A6&hl=hi&gl=in",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/sports-ball/hi/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRteEiVhAUolSBX4dafGZ7GPsq3EXytYZEiA&s",
+      "fuentePagina": "https://hi.pngtree.com/freepng/cricket-ball-in-red-colour_5988338.html",
+      "titulo": "लाल रंग में क्रिकेट की गेंद ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRteEiVhAUolSBX4dafGZ7GPsq3EXytYZEiA&s",
+      "original": "https://png.pngtree.com/png-clipart/20210311/original/pngtree-cricket-ball-in-red-colour-png-image_5988338.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/sports-ball/hi/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvuRywgvVz1JzHtGQZ9hjxbGUzz2ZEFiWW2Q&s",
+      "fuentePagina": "https://bharatdiscovery.org/india/%E0%A4%97%E0%A5%87%E0%A4%82%E0%A4%A6_(%E0%A4%95%E0%A5%8D%E0%A4%B0%E0%A4%BF%E0%A4%95%E0%A5%87%E0%A4%9F)",
+      "titulo": "गेंद (क्रिकेट) - भारतकोश, ज्ञान का ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvuRywgvVz1JzHtGQZ9hjxbGUzz2ZEFiWW2Q&s",
+      "original": "https://bharatdiscovery.org/w/images/thumb/9/92/Cricket-Ball.png/300px-Cricket-Ball.png"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/sports-ball/hi/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4o0fU1YA4HrjvloHHz8I5JqKUjYVDRtBPKQ&s",
+      "fuentePagina": "https://www.kdclick.com/hi/product/kookaburra-speed-white-leather-cricket-ball?srsltid=AfmBOooK2CkXrbb_dnbfmBU6OqYEO0ackWJdtwT7P3yRX53qGblTAGaR",
+      "titulo": "कूकाबुरा स्पीड सफेद चमड़े की ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4o0fU1YA4HrjvloHHz8I5JqKUjYVDRtBPKQ&s",
+      "original": "https://www.kdclick.com/s/637763a5ea78e200824eb640/6593aee301b2cfc94834bba6/13-640x640.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/sports-ball/hi/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTc021qyfC_2utI0vsU4qn7Mnip5Q8HAyCaGg&s",
+      "fuentePagina": "https://www.aajtak.in/sports/cricket/story/cricket-mcc-rule-book-4th-rule-the-ball-know-cricket-rules-tspo-1443737-2022-04-10",
+      "titulo": "क्रिकेट को जानें: कितना होता है ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTc021qyfC_2utI0vsU4qn7Mnip5Q8HAyCaGg&s",
+      "original": "https://akm-img-a-in.tosshub.com/aajtak/images/story/202204/gettyimages-1219345253-612x612-sixteen_nine.jpg?size=948:533"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/sports-ball/hi/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQteAuxpNadC7yv6FcO_XdhvpKi6KjHoGrMog&s",
+      "fuentePagina": "https://www.tradeindia.com/hi/manufacturers/white-leather-ball.html",
+      "titulo": "सफेद चमड़े की गेंद प्राइस ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQteAuxpNadC7yv6FcO_XdhvpKi6KjHoGrMog&s",
+      "original": "https://tiimg.tistatic.com/fp/1/006/989/easy-to-grip-tennis-ball-631.jpg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/sports-ball/hi/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4KyqnPqFr8obfUYykFi1Cz6CNNfIUdTt1RQ&s",
+      "fuentePagina": "https://www.rekhtadictionary.com/meaning-of-gend?lang=hi",
+      "titulo": "गेंद शब्द के अर्थ | ge.nd - Hindi meaning ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4KyqnPqFr8obfUYykFi1Cz6CNNfIUdTt1RQ&s",
+      "original": "https://www.rekhtadictionary.com/images/WordImages/e69e9122-3049-406e-9b7d-34a770c198e1.jpg"
+    }
+  ]
+}

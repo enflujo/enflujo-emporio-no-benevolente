@@ -1,0 +1,71 @@
+{
+  "categoria": "fork",
+  "categoriaSlug": "fork",
+  "idioma": "yo",
+  "nombreIdioma": "Yorùbá",
+  "termino": "ìdá oúnjẹ",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:08:06.532Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "yo",
+    "gl": "ng"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=%C3%ACd%C3%A1%20o%C3%BAnj%E1%BA%B9&hl=yo&gl=ng",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/fork/yo/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRB6eLJlR2sBZ05xcWVbp0tRgimPCegyzT2g&s",
+      "fuentePagina": "https://www.bbc.com/yoruba/articles/c20dl43kv1po",
+      "titulo": "Kí ni àdínkù ìdá mẹ́wàá tí NBS kéde pé ó bá ọ̀wọ́ngógó túmọ̀ ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRB6eLJlR2sBZ05xcWVbp0tRgimPCegyzT2g&s",
+      "original": "https://ichef.bbci.co.uk/news/1024/branded_yoruba/e780/live/b57dfb20-eead-11ef-9be4-a9769f540fd1.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/fork/yo/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrcuPyrnD0z-FfQeMGIqRpRmWEA38ofpyqfQ&s",
+      "fuentePagina": "https://www.ranbem.com/yo/nut-milk-maker-816k",
+      "titulo": "RANBEN Nut Milk Maker 816K - Ìdá Oúnjẹ Ewéko Olówó-Owó",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrcuPyrnD0z-FfQeMGIqRpRmWEA38ofpyqfQ&s",
+      "original": "https://shopcdnpro.grainajz.com/category/36691/1697/1b6585a7babc35b1b3a47a9a3e7215f2/3.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/fork/yo/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYthCGy6fbnBHIfBU7P_adEWBFPYSUKUoirg&s",
+      "fuentePagina": "https://www.ranbem.com/yo/nut-milk-maker-816k",
+      "titulo": "RANBEN Nut Milk Maker 816K - Ìdá Oúnjẹ Ewéko Olówó-Owó",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYthCGy6fbnBHIfBU7P_adEWBFPYSUKUoirg&s",
+      "original": "https://shopcdnpro.grainajz.com/category/36691/1697/3f84876aa08c1f24fac069ae8932d8b4/2.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/fork/yo/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQd74mZ5cPBqtYCSZS5auGEIx92MwraTeiBfg&s",
+      "fuentePagina": "https://www.bbc.com/yoruba/afrika-43735953",
+      "titulo": "Àjọ onísirò Nàíjíríà: Àdínkù bá owó ọjà si ìdá mẹ́tàlá - BBC ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQd74mZ5cPBqtYCSZS5auGEIx92MwraTeiBfg&s",
+      "original": "https://ichef.bbci.co.uk/ace/ws/640/cpsprodpb/74F6/production/_100824992_marke2t.jpg.webp"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/fork/yo/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrLNsb75cBJzGFIFUShqxkg45Du5KbShjoDQ&s",
+      "fuentePagina": "https://www.ranbem.com/yo/nut-milk-maker-816k",
+      "titulo": "RANBEN Nut Milk Maker 816K - Ìdá Oúnjẹ Ewéko Olówó-Owó",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrLNsb75cBJzGFIFUShqxkg45Du5KbShjoDQ&s",
+      "original": "https://shopcdnpro.grainajz.com/category/36691/1697/107495136c34a22c2d074a426aa5901e/4.jpg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/fork/yo/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwpNyIo5ZxXWHklPWGWs34TmIh_2PHdOyAug&s",
+      "fuentePagina": "https://nutritionsource.hsph.harvard.edu/healthy-eating-plate/translations/yoruba/",
+      "titulo": "Àwo Oúnjẹ Ìlera (Yoruba) • The Nutrition Source",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwpNyIo5ZxXWHklPWGWs34TmIh_2PHdOyAug&s",
+      "original": "https://nutritionsource.hsph.harvard.edu/wp-content/uploads/2015/08/Yoruba_Aug2015.jpg"
+    }
+  ]
+}

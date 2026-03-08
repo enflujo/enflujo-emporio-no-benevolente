@@ -1,0 +1,71 @@
+{
+  "categoria": "cake",
+  "categoriaSlug": "cake",
+  "idioma": "zu",
+  "nombreIdioma": "isiZulu",
+  "termino": "ikhekhe",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:16:31.181Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "zu",
+    "gl": "za"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=ikhekhe&hl=zu&gl=za",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/cake/zu/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgsiZ1CWlww4uyvSIdpgusmmDmMkHJsFxVYw&s",
+      "fuentePagina": "https://4akid.co.za/zu/blogs/recipes/healthy-chocolate-cake?srsltid=AfmBOop93Vv22bEIYBv5U085YIW7JrvoQNB5Us2zvEdf-SCmISqzKp5m",
+      "titulo": "Ikhekhe Likashokoledi Elinempilo {Awekho Amafutha Futhi ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgsiZ1CWlww4uyvSIdpgusmmDmMkHJsFxVYw&s",
+      "original": "http://4akid.co.za/cdn/shop/articles/healthy-chocolate-cake-no-oil-and-so-moist-4akid.jpg?v=1708168892"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/cake/zu/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPCVgtOiY1g3qosTzT4hS5tJYrfoQ8T8Pjsg&s",
+      "fuentePagina": "https://4akid.co.za/zu/blogs/recipes/coca-cola-cake?srsltid=AfmBOoo9RvEm9x4GoF4ZBO3U_ct2NZlRGXuVwgC1FTpxCz5o3a9yvWOy",
+      "titulo": "IKHEKHE LE-COCA COLA – 4aKid",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPCVgtOiY1g3qosTzT4hS5tJYrfoQ8T8Pjsg&s",
+      "original": "http://4akid.co.za/cdn/shop/articles/coca-cola-cake-4akid.png?v=1708169005"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/cake/zu/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHDfEuBGzn0kd5D95F71qsI16z8xtMikwCCA&s",
+      "fuentePagina": "https://www.tiktok.com/@mandycareswa/video/7413068782731660550",
+      "titulo": "Ikhekhe elimanzi: Honest Review by Lungi Zaca",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHDfEuBGzn0kd5D95F71qsI16z8xtMikwCCA&s",
+      "original": "https://www.tiktok.com/api/img/?itemId=7413068782731660550&location=0&aid=1988"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/cake/zu/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4OkpsmowLVdKaWadRDR64Wbtanx6nrc-7zQ&s",
+      "fuentePagina": "https://4akid.co.za/zu/blogs/recipes/indulge-your-sweet-tooth-with-the-ultimate-dessert-a-chocolate-cheesecake-cake?srsltid=AfmBOopaL-nAIY9mB0IF93B4pRzWB1eQFHf1Z8ybBUa7JLWfkLVEUWHL",
+      "titulo": "Jabulisa izinyo lakho elimnandi nge-dessert yokugcina ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4OkpsmowLVdKaWadRDR64Wbtanx6nrc-7zQ&s",
+      "original": "http://4akid.co.za/cdn/shop/articles/indulge-your-sweet-tooth-with-the-ultimate-dessert-a-chocolate-cheesecake-cake-4akid.jpg?v=1708168996"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/cake/zu/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCy9w3VfHLfeOtM0Ip_S8jm2mCxXnH_jwTnw&s",
+      "fuentePagina": "https://www.youtube.com/watch?v=5d9Ts8QQGWQ",
+      "titulo": "Madanon Feat. Niseni & The Elevatorz-Ikhekhe",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCy9w3VfHLfeOtM0Ip_S8jm2mCxXnH_jwTnw&s",
+      "original": "https://i.ytimg.com/vi/5d9Ts8QQGWQ/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGBEgZihyMA8=&rs=AOn4CLBAw25Ebn7oIBKB73DR_HZh0YYjAQ"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/cake/zu/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkWkS8sfI81yB6sl1UohlVp5D0hCmdBKTsmw&s",
+      "fuentePagina": "https://zu.thermorecetas.com/ikhekhe-likashokoledi-elihamba-phambili/",
+      "titulo": "Ikhekhe le-chocolate elihle kakhulu",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkWkS8sfI81yB6sl1UohlVp5D0hCmdBKTsmw&s",
+      "original": "https://www.thermorecetas.com/wp-content/uploads/2020/06/retox-min-1024x682.jpg"
+    }
+  ]
+}

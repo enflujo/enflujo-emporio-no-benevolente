@@ -1,0 +1,71 @@
+{
+  "categoria": "laptop",
+  "categoriaSlug": "laptop",
+  "idioma": "pt",
+  "nombreIdioma": "Português",
+  "termino": "notebook",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:22:08.938Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "pt",
+    "gl": "br"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=notebook&hl=pt&gl=br",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/laptop/pt/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScoEnZEjctOJ4l4_q8adfWfHYZItV6wsS-pg&s",
+      "fuentePagina": "https://www.ibyte.com.br/notebook-ultra-celeron-4gb-128gb-office/p?srsltid=AfmBOoocjGZRfiysBef8z-4-7J0LSs1m-8_m5Xauo5SwlYed6TR4WSJH",
+      "titulo": "Notebook Multi Ultra, Intel Celeron N4020c, 4GB, 128GB eMMC, Tela de 15.6",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScoEnZEjctOJ4l4_q8adfWfHYZItV6wsS-pg&s",
+      "original": "https://lojaibyte.vteximg.com.br/arquivos/ids/428375-1200-1200/notebook-ub261-multi-ultra-4gb-ddr4-128gb-emmc-15-6-cinza-001.jpg?v=638512050468700000"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/laptop/pt/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRu7JmB-Fcqjph1JktIMlll82RY3ZeK66Mjpg&s",
+      "fuentePagina": "https://www.brazilpc.com.br/notebook-com-intel-i5-8gb-ram-hd-500gb-tela-156-prata",
+      "titulo": "NOTEBOOK BRAZIL PC INTEL I5-4200U, 8GB RAM, HD 500GB , WIFI+ ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRu7JmB-Fcqjph1JktIMlll82RY3ZeK66Mjpg&s",
+      "original": "https://cdn.awsli.com.br/954/954868/produto/68626025/5d150286dc.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/laptop/pt/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQH-_FEd3jjw2VmdtcMqM0X0dCIh0Y0McWF5g&s",
+      "fuentePagina": "https://www.magazineluiza.com.br/notebook-samsung-galaxy-book4-intel-core-i3-8gb-ram-ssd-256gb-156-full-hd-windows-11-np750xgj-kg5br/p/238407300/in/nsbo/",
+      "titulo": "Magazine Luiza | Pra você é Magalu!",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQH-_FEd3jjw2VmdtcMqM0X0dCIh0Y0McWF5g&s",
+      "original": "https://m.magazineluiza.com.br/a-static/420x420/notebook-samsung-galaxy-book4-intel-core-i3-8gb-ram-ssd-256gb-156-full-hd-windows-11-np750xgj-kg5br/magazineluiza/238407300/b9351a5d8902e673e7ba45d4d13acc8d.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/laptop/pt/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYun2iiUyqhsaIvySsl99RzNQ2LFPpSXfIlw&s",
+      "fuentePagina": "https://www.pontofrio.com.br/notebook-samsung-galaxy-book4-windows-11-home-intel-core-i5-8gb-256gb-ssd-156-full-hd-led-155-kg/p/1568599429",
+      "titulo": "Notebook Samsung Galaxy Book4, Windows 11 | Ponto",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYun2iiUyqhsaIvySsl99RzNQ2LFPpSXfIlw&s",
+      "original": "https://imgs.pontofrio.com.br/1568599429/1xg.jpg?imwidth=500"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/laptop/pt/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMZ89OOEwNJz9iqgyjORVR54DnE_xpB4UMVQ&s",
+      "fuentePagina": "https://www.havan.com.br/notebook-lenovo-intel-core-i5-8gb-ram-512gb-tela-de-15-6-w11-bivolt/p",
+      "titulo": "Notebook Lenovo Intel Core I5 8Gb Ram 512Gb Tela De 15,6\" W11 - Bivolt",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMZ89OOEwNJz9iqgyjORVR54DnE_xpB4UMVQ&s",
+      "original": "https://www.havan.com.br/media/catalog/product/cache/73a52df140c4d19dbec2b6c485ea6a50/n/o/notebook-lenovo-intel-core-i5-8gb-ram-512gb-tela-de-15-6-w11_918801.jpg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/laptop/pt/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSC8d9pqXdBiudHjxYAvMuLf_Rx3nc6juCHcw&s",
+      "fuentePagina": "https://www.kabum.com.br/produto/728904/notebook-lenovo-loq-e-core-i5-12450hx-rtx-3050-16gb-512gb-ssd-15-6-fhd-ips-144hz-win-11-luna-cinza-83me0007br",
+      "titulo": "Notebook Lenovo LOQ-E Core i5-12450HX, RTX 3050, 16GB, 512GB SSD, 15.6\"  FHD, IPS, 144Hz, Win 11, Luna Cinza- 83ME0007BR",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSC8d9pqXdBiudHjxYAvMuLf_Rx3nc6juCHcw&s",
+      "original": "https://images4.kabum.com.br/produtos/fotos/728904/notebook-lenovo-loq-e-core-i5-12450hx-rtx-3050-16gb-512gb-ssd-15-6-fhd-ips-144hz-win-11-luna-cinza-83me0007br_1744042876_gg.jpg"
+    }
+  ]
+}

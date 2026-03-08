@@ -1,0 +1,71 @@
+{
+  "categoria": "bed",
+  "categoriaSlug": "bed",
+  "idioma": "nah",
+  "nombreIdioma": "Náhuatl",
+  "termino": "petlatl",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:19:25.190Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "es",
+    "gl": "mx"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=petlatl&hl=es&gl=mx",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bed/nah/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMX4HDwKFUIkA0961sQjlCSAdV1Md-CdNQtA&s",
+      "fuentePagina": "https://x.com/cronicabanqueta/status/1080891045129408512",
+      "titulo": "El petate (del vocablo náhuatl petlatl) es un tipo de ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMX4HDwKFUIkA0961sQjlCSAdV1Md-CdNQtA&s",
+      "original": "https://pbs.twimg.com/media/DwAYrSPVsAAd3Zz.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bed/nah/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRjt4uYG1KyuJH7p12Op5cKdigiCg3cr5ZtA&s",
+      "fuentePagina": "https://www.facebook.com/lospueblosdeMexico/posts/el-petate-m%C3%A1s-que-una-simple-alfombrael-petate-del-vocablo-n%C3%A1huatl-petlatl-es-un/1088530836751266/",
+      "titulo": "El Petate: Más que una Simple Alfombra El petate, del ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRjt4uYG1KyuJH7p12Op5cKdigiCg3cr5ZtA&s",
+      "original": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=1088529006751449"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bed/nah/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzJ5wdEBisQC9e4kVCohGbL7Vyth9wm9KTzg&s",
+      "fuentePagina": "https://www.instagram.com/p/DNjwthUNAW7/",
+      "titulo": "Petate del #náhuatl petlatl «estera», se usa para el ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzJ5wdEBisQC9e4kVCohGbL7Vyth9wm9KTzg&s",
+      "original": "https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3703017544504089280"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bed/nah/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRp_ZAHDr_pgES3-HsxWHhNYuBrmW6jRztOHA&s",
+      "fuentePagina": "https://nah.wikipedia.org/wiki/Petlatl",
+      "titulo": "Petlatl - Huiquipedia, in yōllōxoxouhqui cēntlamatilizāmoxtli",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRp_ZAHDr_pgES3-HsxWHhNYuBrmW6jRztOHA&s",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/1/10/Petate.gif"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bed/nah/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQposA2E_FnjFO8GlpE2JqhR_BW98Kd4Lah3g&s",
+      "fuentePagina": "http://www.udg.mx/es/noticia/el-petate-uno-de-los-muebles-mexicanos-mas-antiguos",
+      "titulo": "El petate, uno de los muebles mexicanos más antiguos ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQposA2E_FnjFO8GlpE2JqhR_BW98Kd4Lah3g&s",
+      "original": "https://www.udg.mx/sites/default/files/styles/noticia_nodo_550x450/public/img_noticias/221020_el_petate_uno_de_los_muebles_mexicanos_mas_antiguos_internet.jpeg?itok=R6veHOu9"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bed/nah/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvAs8jB9udwzPWZa-JWpdToYuFCA85lwNlcg&s",
+      "fuentePagina": "https://www.facebook.com/XalapaAntiguo/posts/frases-c%C3%A9lebres-el-petate-del-vocablo-n%C3%A1huatl-petlatl-es-un-tipo-de-alfombra-rec/2260863657517199/",
+      "titulo": "Frases célebres El petate -del vocablo náhuatl petlatl- es ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvAs8jB9udwzPWZa-JWpdToYuFCA85lwNlcg&s",
+      "original": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=2260855020851396"
+    }
+  ]
+}

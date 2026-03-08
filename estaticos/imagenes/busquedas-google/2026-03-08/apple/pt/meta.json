@@ -1,0 +1,71 @@
+{
+  "categoria": "apple",
+  "categoriaSlug": "apple",
+  "idioma": "pt",
+  "nombreIdioma": "Português",
+  "termino": "maçã",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:11:48.229Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "pt",
+    "gl": "br"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=ma%C3%A7%C3%A3&hl=pt&gl=br",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/apple/pt/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQ0nkHnPPE1ne6IWrpIpzkN-FVsTAMHR8hSw&s",
+      "fuentePagina": "https://viverbem.unimed.coop.br/mude-1-habito/alimentacao-saudavel/beneficios-da-maca/",
+      "titulo": "Maçã: tire dúvidas e aproveite os benefícios da fruta",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQ0nkHnPPE1ne6IWrpIpzkN-FVsTAMHR8hSw&s",
+      "original": "https://viverbem.unimed.coop.br/wp-content/uploads/2023/02/86-beneficios-da-maca.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/apple/pt/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQ519kT6AA9-2oDq1u-O3Nq5y-lDQsjjyaBA&s",
+      "fuentePagina": "https://www.hortifruti.com.br/maca-red-unidade/p?srsltid=AfmBOorS-8WWE-EPzQsSKn0EU0YMIdNIVZDwZ8U3gL5VcQcNpZcSlZuP",
+      "titulo": "Maçã Red Unidade",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQ519kT6AA9-2oDq1u-O3Nq5y-lDQsjjyaBA&s",
+      "original": "https://hortifrutibr.vtexassets.com/arquivos/ids/171239/Maca-Red-Unidade.jpg?v=639071209638270000"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/apple/pt/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_NyRZlisvVZ9BFbZm4r6ro_kzn-1m7N2O0Q&s",
+      "fuentePagina": "https://minhasaude.proteste.org.br/maca-6-beneficios-da-fruta-que-e-rica-em-vitaminas-e-minerais/",
+      "titulo": "Maçã: 6 benefícios da fruta que é rica em vitaminas e ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_NyRZlisvVZ9BFbZm4r6ro_kzn-1m7N2O0Q&s",
+      "original": "https://minhasaude.proteste.org.br/wp-content/webp-express/webp-images/uploads/2024/03/beneficios-da-maca-scaled.jpg.webp"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/apple/pt/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuoG3Smsuranx3OI8dofMvG6Nb9_u0_veCvQ&s",
+      "fuentePagina": "https://www.safarigarden.com.br/muda-de-maca-gala-climas-frios-ou-amenos-1m-enxertadas",
+      "titulo": "Muda de Maçã Gala - Safari Garden",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuoG3Smsuranx3OI8dofMvG6Nb9_u0_veCvQ&s",
+      "original": "https://images.tcdn.com.br/img/img_prod/450860/muda_de_maca_gala_climas_frios_ou_amenos_1m_enxertadas_566_1_20190611093558.jpg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/apple/pt/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSM2x4-pEl4w3qOiN6oxAjscNRftb9cFPe6oQ&s",
+      "fuentePagina": "https://fsp.usp.br/eccco/index.php/2022/11/02/maca-curiosidades-beneficios-usos-e-outras-informacoes/",
+      "titulo": "Maçã: curiosidades, benefícios, usos e outras informações ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSM2x4-pEl4w3qOiN6oxAjscNRftb9cFPe6oQ&s",
+      "original": "https://fsp.usp.br/eccco/wp-content/uploads/2022/11/matheus-cenali-wXuzS9xR49M-unsplash-1200x900.jpg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/apple/pt/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWvZnhGwiuPSNsCIiHkFAJkLhpvOwUE57q6A&s",
+      "fuentePagina": "https://pt.wikipedia.org/wiki/Ma%C3%A7%C3%A3",
+      "titulo": "Maçã – Wikipédia, a enciclopédia livre",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWvZnhGwiuPSNsCIiHkFAJkLhpvOwUE57q6A&s",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Red_Apple.jpg/330px-Red_Apple.jpg"
+    }
+  ]
+}

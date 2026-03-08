@@ -1,0 +1,71 @@
+{
+  "categoria": "person",
+  "categoriaSlug": "person",
+  "idioma": "sw",
+  "nombreIdioma": "Kiswahili",
+  "termino": "mtu",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T20:40:24.272Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "sw",
+    "gl": "tz"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=mtu&hl=sw&gl=tz",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/person/sw/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfjoMKW7fyx1nisr7owlHAi_0PTNDX9URViQ&s",
+      "fuentePagina": "https://en.wikipedia.org/wiki/MTU_Aero_Engines",
+      "titulo": "MTU Aero Engines - Wikipedia",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfjoMKW7fyx1nisr7owlHAi_0PTNDX9URViQ&s",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/a/ae/MTU_Aero_Engines_Logo.svg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/person/sw/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYFqVP8psv0qZykeVqPyYXbvwITYJBMQUCNQ&s",
+      "fuentePagina": "https://www.mtu-solutions.com/na/en/pressreleases/2024/energy-transition-rolls-royce-reaches-milestone-with-h2-ready-certificate-for-mtu-engines.html",
+      "titulo": "Energy transition: Rolls-Royce reaches milestone with H2 ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYFqVP8psv0qZykeVqPyYXbvwITYJBMQUCNQ&s",
+      "original": "https://www.mtu-solutions.com/content/dam/mtu/pressassets-uploaded/2024/energy-transition--rolls-royce-reaches-milestone-with-h2-ready-certificate-for-mtu-engines--/mtu_H2engine_test%20bench.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/person/sw/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmwYPjjh8z-SVGcXWi6Brx9LemmomloyPmLQ&s",
+      "fuentePagina": "https://generatorsource.com/brands/mtu/",
+      "titulo": "MTU - Generator Source",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmwYPjjh8z-SVGcXWi6Brx9LemmomloyPmLQ&s",
+      "original": "https://generatorsource.com/wp-content/uploads/2025/08/MTU_Friedrichshafen_logo.svg.png"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/person/sw/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRu15P2crcliikgrcA7hWGMYm1MeNWk048mxA&s",
+      "fuentePagina": "https://www.mtu-solutions.com/eu/en/applications/power-generation/power-generation-products.html",
+      "titulo": "Power Generation Products",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRu15P2crcliikgrcA7hWGMYm1MeNWk048mxA&s",
+      "original": "https://www.mtu-solutions.com/content/dam/mtu/application/power-generation/images/04A_OE_20V4000G04_B1_2019.jpg/_jcr_content/renditions/original./04A_OE_20V4000G04_B1_2019.jpg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/person/sw/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrWwgKpvn8D-WJWWPIDoKMIEC-5vAY5635HA&s",
+      "fuentePagina": "https://www.mtu.de/newsroom/press/press-archive/press-archive-detail/mtu-aero-engines-develops-and-operates-a-unique-engine-assembly-system/",
+      "titulo": "MTU Aero Engines develops and operates a unique engine ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrWwgKpvn8D-WJWWPIDoKMIEC-5vAY5635HA&s",
+      "original": "https://www.cf.mtu.bgm-hosting.de/fileadmin/EN/7_News_Media/1_Press/1_Latest_Press_Realeases/2019/19115_neo-Montage_1.jpg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/person/sw/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSz19WS_xmcC3AQjNRUqO-7UtXgFLAGWN_YHg&s",
+      "fuentePagina": "https://www.rolls-royce.com/media/press-releases/2025/27-05-2025-new-mtu-2000-engine-from-rolls-royce-with-more-power-for-fast-vessels-and-yachts.aspx",
+      "titulo": "New mtu 2000 engine from Rolls-Royce with more power for ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSz19WS_xmcC3AQjNRUqO-7UtXgFLAGWN_YHg&s",
+      "original": "https://www.rolls-royce.com/~/media/Images/R/Rolls-Royce/content-images/new-mtu-2000-engine-from-rolls-royce-with-more-power-for-fast-vessels-and-yachts-content-img.jpg?h=300&iar=0&w=480"
+    }
+  ]
+}

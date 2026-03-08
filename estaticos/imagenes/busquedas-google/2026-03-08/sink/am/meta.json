@@ -1,0 +1,71 @@
+{
+  "categoria": "sink",
+  "categoriaSlug": "sink",
+  "idioma": "am",
+  "nombreIdioma": "Amharic — አማርኛ",
+  "termino": "ሲንክ",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:27:00.104Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "am",
+    "gl": "et"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=%E1%88%B2%E1%8A%95%E1%8A%AD&hl=am&gl=et",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/sink/am/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSw8NrA2dVUPrKtFyZpE_qg4EYgV7hM_a_1LA&s",
+      "fuentePagina": "https://www.facebook.com/100083676997296/posts/%E1%8B%A8%E1%8A%A5%E1%89%83-%E1%88%9B%E1%8C%A0%E1%89%A2%E1%8B%AB-%E1%88%B2%E1%8A%95%E1%8A%AD-%E1%89%A0%E1%89%B0%E1%88%98%E1%8C%A3%E1%8C%A3%E1%8A%9D-%E1%8B%8B%E1%8C%8B/129908796475020/",
+      "titulo": "የእቃ ማጠቢያ ሲንክ በተመጣጣኝ ዋጋ",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSw8NrA2dVUPrKtFyZpE_qg4EYgV7hM_a_1LA&s",
+      "original": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=129908526475047"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/sink/am/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0a0sO7j9bqvsWeks1iuR4Y4xzVfQ0mPeoyw&s",
+      "fuentePagina": "https://www.facebook.com/100063698944406/videos/%E1%8B%A8%E1%8A%A5%E1%89%83-%E1%88%9B%E1%8C%A0%E1%89%A2%E1%8B%AB-%E1%88%B2%E1%8A%95%E1%8A%AD-%E1%88%BD%E1%89%B3-%E1%8A%AB%E1%88%98%E1%8C%A3-%E1%89%A0%E1%89%80%E1%88%8B%E1%88%8D-%E1%88%98%E1%8A%95%E1%8C%88%E1%8B%B5-%E1%88%9B%E1%8C%BD%E1%8C%83/2910000705925213/",
+      "titulo": "የእቃ ማጠቢያ ሲንክ ሽታ ካመጣ በቀላል መንገድ ማጽጃ | የፈረንሳይ ለጋሲዬን እና የቤላ ልጆች | Facebook",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0a0sO7j9bqvsWeks1iuR4Y4xzVfQ0mPeoyw&s",
+      "original": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=2910000705925213&get_thumbnail=1"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/sink/am/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyB7dIsxckc0VoDdWNGKKBxNLHC0i3DIDVVA&s",
+      "fuentePagina": "https://www.facebook.com/100085717908233/posts/golden-dragon-%E1%8C%8D%E1%88%AB%E1%8A%93%E1%8B%AD%E1%89%B5-%E1%88%B2%E1%8A%95%E1%8A%AD%E1%8B%A8%E1%8A%A5%E1%89%83-%E1%88%9B%E1%8C%A0%E1%89%A2%E1%8B%AB-%E1%88%B2%E1%8A%95%E1%8A%AD-%E1%89%A0%E1%8A%A6%E1%88%AD%E1%8C%85%E1%8A%93%E1%88%8D-%E1%88%9A%E1%8A%AD%E1%88%B0%E1%88%AD-%E1%8C%8D%E1%88%AB%E1%8A%93%E1%8B%AD%E1%89%B5-%E1%8A%A8%E1%88%99%E1%88%89-%E1%8A%A5%E1%8A%AD%E1%88%B0%E1%88%B0%E1%88%AA-%E1%8B%A8%E1%8A%A8%E1%88%88%E1%88%AD-%E1%8A%A0%E1%88%9B%E1%88%AB%E1%8C%AD-%E1%8A%A0%E1%88%89-bla/415254024675191/",
+      "titulo": "Golden dragon ግራናይት ሲንክ 👉የእቃ ማጠቢያ ሲንክ ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyB7dIsxckc0VoDdWNGKKBxNLHC0i3DIDVVA&s",
+      "original": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=415253821341878"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/sink/am/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3YwpfjlaBh8ojFIjlIe_QOritdx09-KPTKw&s",
+      "fuentePagina": "https://www.tallsen.com/am/t-what-is-kitchen-sink.html",
+      "titulo": "ወጥ ቤት ሲንክ ምንድን ነው? - ታልሰን",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3YwpfjlaBh8ojFIjlIe_QOritdx09-KPTKw&s",
+      "original": "https://www.tallsen.com/lifisher-m4719/16734945532c6/jpg70-t4-width720.webp"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/sink/am/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRoKKUrVNwtd32Q5xF0py8BnVKUay5NX_OGRQ&s",
+      "fuentePagina": "https://jiji.com.et/yeka/furniture/1-60cm-sineke-yaalawe-kicene-kaabeneete-xg9g3ivAQxyWdvG54W7lXhi3.html",
+      "titulo": "1,60cm ሲንክ ያለው ኪችን ካብኔት in Yeka - Furniture ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRoKKUrVNwtd32Q5xF0py8BnVKUay5NX_OGRQ&s",
+      "original": "https://pictures-ethiopia.jijistatic.com/5091404_NjIwLTg5MS0xMzM3NzE1NDQ1.webp"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/sink/am/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLvoKt0zRW9oiiVLhHzCdgUtksu2chEskNPA&s",
+      "fuentePagina": "https://www.facebook.com/100085717908233/posts/%E1%8B%A8%E1%8A%AA%E1%89%BD%E1%8A%95-%E1%8A%AB%E1%89%A5%E1%8A%94%E1%89%B5-%E1%8B%A8%E1%8A%A5%E1%89%83-%E1%88%9B%E1%8C%A0%E1%89%A2%E1%8B%AB-%E1%88%B2%E1%8A%95%E1%8A%AD-%E1%8A%A0%E1%8B%B5%E1%88%AB%E1%88%BB-%E1%89%B1%E1%88%89%E1%8B%B1%E1%88%9D%E1%89%B1-%E1%8A%A0%E1%8B%8B%E1%88%BD-%E1%89%A3%E1%8A%95%E1%8A%AD-%E1%8A%A0%E1%8C%A0%E1%8C%88%E1%89%A5/802451435955446/",
+      "titulo": "የኪችን ካብኔት የእቃ ማጠቢያ ሲንክ አድራሻ ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLvoKt0zRW9oiiVLhHzCdgUtksu2chEskNPA&s",
+      "original": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=802451385955451"
+    }
+  ]
+}

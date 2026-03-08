@@ -1,0 +1,71 @@
+{
+  "categoria": "car",
+  "categoriaSlug": "car",
+  "idioma": "kg",
+  "nombreIdioma": "Kikongo",
+  "termino": "mòtuka",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T20:41:47.282Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "fr",
+    "gl": "cd"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=m%C3%B2tuka&hl=fr&gl=cd",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/car/kg/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-wRB8dk2IIUVq4DwH-6lY0nc4zq8x86IEqg&s",
+      "fuentePagina": "https://www.youtube.com/watch?v=pxBf7iqXoMQ",
+      "titulo": "Motuka",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-wRB8dk2IIUVq4DwH-6lY0nc4zq8x86IEqg&s",
+      "original": "https://i.ytimg.com/vi/pxBf7iqXoMQ/sddefault.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/car/kg/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrQ_LBUqtib95hVAkWeoAlditv44ivUEy-Qg&s",
+      "fuentePagina": "https://www.facebook.com/motukapp/",
+      "titulo": "Motuka | Kinshasa",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrQ_LBUqtib95hVAkWeoAlditv44ivUEy-Qg&s",
+      "original": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=159482057097573"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/car/kg/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSusxJvrOrxQuYcFL6m3-mKN3-KAeLsGwegpA&s",
+      "fuentePagina": "https://www.facebook.com/motukapp/",
+      "titulo": "Motuka | Kinshasa",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSusxJvrOrxQuYcFL6m3-mKN3-KAeLsGwegpA&s",
+      "original": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=100091073385092"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/car/kg/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFqX_qXMxH4LS1VnJAcddVCEaEH-ugpLVrZA&s",
+      "fuentePagina": "https://www.facebook.com/motukapp/",
+      "titulo": "• Vous cherchez une voiture d'occasion fiable et abordable?, •  Souhaitez-vous trouver rapidement un acheteur pour votre voiture actuelle?,  MOTUKA est la solution idéale pour tous ceux qui veulent ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFqX_qXMxH4LS1VnJAcddVCEaEH-ugpLVrZA&s",
+      "original": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=759028796120298&get_thumbnail=1"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/car/kg/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRoflovdTdyTLYZMfyoDM-T_Ay16gITc3LPJw&s",
+      "fuentePagina": "https://www.facebook.com/motukapp/",
+      "titulo": "Motuka | Kinshasa",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRoflovdTdyTLYZMfyoDM-T_Ay16gITc3LPJw&s",
+      "original": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=552923387753436"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/car/kg/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_SHWdSKWqhYc_ZYEi7jwuRZ1DA_5lVlWkcA&s",
+      "fuentePagina": "https://www.facebook.com/motukapp/",
+      "titulo": "Motuka | Kinshasa",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_SHWdSKWqhYc_ZYEi7jwuRZ1DA_5lVlWkcA&s",
+      "original": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=231505386561906"
+    }
+  ]
+}

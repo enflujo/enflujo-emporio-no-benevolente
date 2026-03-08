@@ -1,0 +1,71 @@
+{
+  "categoria": "car",
+  "categoriaSlug": "car",
+  "idioma": "nah",
+  "nombreIdioma": "Náhuatl",
+  "termino": "automóvil",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T20:42:08.964Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "es",
+    "gl": "mx"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=autom%C3%B3vil&hl=es&gl=mx",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/car/nah/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBeOhi5XCFvGZ4CG60-UcgK8qCwiXKAXuaiQ&s",
+      "fuentePagina": "https://latamobility.com/uso-del-automovil-particular-en-mexico-aumento-un-11-desde-la-pandemia-segun-reporte-de-moovit/",
+      "titulo": "Uso del automóvil particular en México aumentó un 11% desde ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBeOhi5XCFvGZ4CG60-UcgK8qCwiXKAXuaiQ&s",
+      "original": "https://latamobility.com/wp-content/uploads/2021/05/Nissan_electrico_mexico.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/car/nah/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJlk1IrbxcSQWsIRnRfDKv21CU_jA46wQ-4g&s",
+      "fuentePagina": "https://noticias.autocosmos.com.mx/2020/04/14/los-7-automoviles-mas-confiables-a-la-venta-en-mexico",
+      "titulo": "Los 7 automóviles más confiables a la venta en México",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJlk1IrbxcSQWsIRnRfDKv21CU_jA46wQ-4g&s",
+      "original": "https://acnews.blob.core.windows.net/imgnews/paragraph/NPAZ_9325f8bd5d644f93b5aab46c23a59c15.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/car/nah/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQf3uJHS877ZPrd4tIQhzpmvsLfIpshSTCAow&s",
+      "fuentePagina": "https://www.marca.com/motor/salon-automovil-los-angeles/2018/11/28/5bfe84b2468aebc81f8b4705.html",
+      "titulo": "Salón del Automóvil de Los Ángeles 2018: el Toyota Prius ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQf3uJHS877ZPrd4tIQhzpmvsLfIpshSTCAow&s",
+      "original": "https://e00-marca.uecdn.es/assets/multimedia/imagenes/2018/11/28/15434043406558.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/car/nah/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUboW51RaylAciYZ0ELhAvXq1sg6YP3GeonA&s",
+      "fuentePagina": "https://www.altonivel.com.mx/del-vapor-a-la-fibra-carbono-la-evolucion-del-automovil/",
+      "titulo": "Del vapor a la fibra de carbono: la evolución del automóvil ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUboW51RaylAciYZ0ELhAvXq1sg6YP3GeonA&s",
+      "original": "https://www.altonivel.com.mx/wp-content/uploads/2017/06/fibra-de-carbono.jpg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/car/nah/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZ1SX-nR-yh6vVP4oa6QibREd7GOJMr_FajQ&s",
+      "fuentePagina": "https://www.bbc.com/mundo/noticias-38923000",
+      "titulo": "El largo y complejo proceso para producir a mano el auto más ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZ1SX-nR-yh6vVP4oa6QibREd7GOJMr_FajQ&s",
+      "original": "http://c.files.bbci.co.uk/11728/production/_94246417_9.jpg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/car/nah/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnbEtVF36LKuUTrcdqOc0ga304SUW6fLmpaQ&s",
+      "fuentePagina": "https://mexico.nissannews.com/es-MX/releases/nissan-presenta-el-concepto-sed-n-deportivo-en-el-sal-n-internacional-del-autom-vil-de-norteam-rica",
+      "titulo": "Nissan presenta el Concepto Sedán Deportivo en el Salón ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnbEtVF36LKuUTrcdqOc0ga304SUW6fLmpaQ&s",
+      "original": "https://wieck-nissanao-production.s3.amazonaws.com/photos/f04a0e814ce6986f6459f3245b2b8394dc0202ae/preview-928x522.jpg"
+    }
+  ]
+}

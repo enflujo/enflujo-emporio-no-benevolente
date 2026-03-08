@@ -1,0 +1,71 @@
+{
+  "categoria": "spoon",
+  "categoriaSlug": "spoon",
+  "idioma": "yo",
+  "nombreIdioma": "Yorùbá",
+  "termino": "sibi",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:09:23.708Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "yo",
+    "gl": "ng"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=sibi&hl=yo&gl=ng",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/spoon/yo/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCy4gjwrnwW2ltrGAn_jeWpBCnXeAnq2AIPg&s",
+      "fuentePagina": "https://www.researchgate.net/figure/ndonesian-Sign-Language-System-SIBI_fig1_379658582",
+      "titulo": "Indonesian Sign Language System (SIBI) | Download Scientific ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCy4gjwrnwW2ltrGAn_jeWpBCnXeAnq2AIPg&s",
+      "original": "https://www.researchgate.net/publication/379658582/figure/fig1/AS:11431281235014619@1712581612747/ndonesian-Sign-Language-System-SIBI.png"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/spoon/yo/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzBlk1oDLjlm3AA_6ZqstBY_Z5wxTwP30ZOg&s",
+      "fuentePagina": "https://play.google.com/store/apps/details?id=nl.sibi.journeyapp",
+      "titulo": "Sibi - Apps on Google Play",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzBlk1oDLjlm3AA_6ZqstBY_Z5wxTwP30ZOg&s",
+      "original": "https://play-lh.googleusercontent.com/KNv8FDEWwRBRjYzQtdkmvXop8fwNuL6EXCOZZ-SUVl2oafs1KBT3uC-95-ESmyToNt8"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/spoon/yo/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQegE5_ZpgqYqjXrDh_gOBwX1__AAO1Tv8vUA&s",
+      "fuentePagina": "https://www.researchgate.net/figure/Sign-Languange-Indonesia-SIBI_fig1_322792857",
+      "titulo": "Sign Languange Indonesia (SIBI) | Download Scientific Diagram",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQegE5_ZpgqYqjXrDh_gOBwX1__AAO1Tv8vUA&s",
+      "original": "https://www.researchgate.net/publication/322792857/figure/fig1/AS:621553322586114@1525201268942/Sign-Languange-Indonesia-SIBI.png"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/spoon/yo/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmnTecpCDOJuaAjxgNy8U9OLaEOVVBzxf1lw&s",
+      "fuentePagina": "https://en.wikipedia.org/wiki/Sibi_Fort",
+      "titulo": "Sibi Fort - Wikipedia",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmnTecpCDOJuaAjxgNy8U9OLaEOVVBzxf1lw&s",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/8/81/Sibi-fort-dehpal.jpg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/spoon/yo/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5luSPmaiIDHWdJeJxedSPuWO-4rh9yTR8uQ&s",
+      "fuentePagina": "https://innercircletrader.net/id/tutorial/sibi-and-bisi-the-ict-concepts/",
+      "titulo": "SIBI and BISI the ICT Concepts - All You Need to Know - ICT ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5luSPmaiIDHWdJeJxedSPuWO-4rh9yTR8uQ&s",
+      "original": "https://innercircletrader.net/wp-content/uploads/2024/03/ICT-SIBI-and-BISI.png"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/spoon/yo/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1JvYlgVRJYQ7XAGv8WE57aY4xPKkmkGtnwA&s",
+      "fuentePagina": "https://play.google.com/store/apps/dev?id=8445568564214798622",
+      "titulo": "Android Apps by Sibi B.V. on Google Play",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1JvYlgVRJYQ7XAGv8WE57aY4xPKkmkGtnwA&s",
+      "original": "https://play-lh.googleusercontent.com/kuiSGmJgOdopO-Oh7Pa9y6En2pO-nrY2wXgNe9mslFtYFLYuc0qXJ3pSm1Xf7v8B4EsA"
+    }
+  ]
+}

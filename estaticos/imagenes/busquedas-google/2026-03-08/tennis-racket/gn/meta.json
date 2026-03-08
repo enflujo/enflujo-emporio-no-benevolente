@@ -1,0 +1,71 @@
+{
+  "categoria": "tennis racket",
+  "categoriaSlug": "tennis-racket",
+  "idioma": "gn",
+  "nombreIdioma": "Guaraní",
+  "termino": "raqueta",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:05:45.770Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "es",
+    "gl": "py"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=raqueta&hl=es&gl=py",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/tennis-racket/gn/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHHUhfvKjzR1Bmdqrd4dK3GJKy5k0Ek4D2lQ&s",
+      "fuentePagina": "https://cellshop.com.py/3973042-wilson-raquete-tenis-federer-wr084110u-1-1",
+      "titulo": "Raqueta de Tenis Wilson WR084110U 1",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHHUhfvKjzR1Bmdqrd4dK3GJKy5k0Ek4D2lQ&s",
+      "original": "https://cellshop.com.py/media/catalog/product/3/9/3973042_1_1.jpg?optimize=medium&bg-color=255,255,255&fit=bounds&height=616&width=616&canvas=616:616"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/tennis-racket/gn/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRknWkB38Ol-h-T6_VdqO1GD_F7DS-C7HxwTw&s",
+      "fuentePagina": "https://www.tupi.com.py/producto/MKP036358/RAQUETA-DE-TENIS-HEAD-SPEED-PRO-2024-U-30-236004-?srsltid=AfmBOoqkFBgjnyuIvnw4fmiVCtIUia-wok3801mzgBpxI5oswqUvGIDK",
+      "titulo": "Raqueta de tenis head speed pro 2024 u-30 236004",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRknWkB38Ol-h-T6_VdqO1GD_F7DS-C7HxwTw&s",
+      "original": "https://www.tupi.com.py//public/1ea112-236004_2[1].jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/tennis-racket/gn/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSp4R3lov3DJgfHTtsfYV-OWXlkfoLn6W16VQ&s",
+      "fuentePagina": "https://www.soyvisual.org/fotos/raqueta-de-tenis",
+      "titulo": "Raqueta de tenis #Soyvisual",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSp4R3lov3DJgfHTtsfYV-OWXlkfoLn6W16VQ&s",
+      "original": "https://www.soyvisual.org/sites/default/files/styles/twitter_card/public/images/photos/dep_0004.jpg?itok=Ek8eIJA8"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/tennis-racket/gn/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTv0jOw_IxoXONQb_ziXZnyxyzIC9UWJ69ySA&s",
+      "fuentePagina": "https://decathlon.com.py/collections/tenis-raquetas?srsltid=AfmBOooZFUNZVslhOOAWVlEzys5RGHG56ztl3Y9aucQHtaqssIXrZXdY",
+      "titulo": "Tenis raquetas – Decathlon Paraguay",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTv0jOw_IxoXONQb_ziXZnyxyzIC9UWJ69ySA&s",
+      "original": "https://decathlon.com.py/cdn/shop/files/pic_91f1dc91-be05-45b4-9a62-8e35082c354c.jpg?v=1772635044&width=1100"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/tennis-racket/gn/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQ4LIW71ARbNGMkYcNjkUmCotJsZgG38iQfQ&s",
+      "fuentePagina": "https://www.decathlon.es/es/deportes/tenis/raquetas-adulto",
+      "titulo": "Raquetas de tenis adulto hasta -20% dto | Decathlon",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQ4LIW71ARbNGMkYcNjkUmCotJsZgG38iQfQ&s",
+      "original": "https://contents.mediadecathlon.com/s1223176/k$e0812d5403dcba2ef270dc45fb8334a9/ebd2a864-c542-4e21-aa08-962d560c3d0e.jpg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/tennis-racket/gn/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzp58TRAvzk5kaYdKsOO4X2NSwkfwnvbjIwQ&s",
+      "fuentePagina": "https://cellshop.com.py/4610212-wilson-raquete-tenis-federer-01-wr166811u3-1",
+      "titulo": "Raqueta de Tenis Wilson RF 01 Future FRM 3 WR166811U3",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzp58TRAvzk5kaYdKsOO4X2NSwkfwnvbjIwQ&s",
+      "original": "https://cellshop.com.py/media/catalog/product/4/6/4610212_2_2782_1.jpg?optimize=medium&bg-color=255,255,255&fit=bounds&height=616&width=616&canvas=616:616"
+    }
+  ]
+}

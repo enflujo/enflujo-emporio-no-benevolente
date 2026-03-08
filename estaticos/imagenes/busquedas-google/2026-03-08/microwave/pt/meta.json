@@ -1,0 +1,71 @@
+{
+  "categoria": "microwave",
+  "categoriaSlug": "microwave",
+  "idioma": "pt",
+  "nombreIdioma": "Português",
+  "termino": "micro-ondas",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:25:22.748Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "pt",
+    "gl": "br"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=micro-ondas&hl=pt&gl=br",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/microwave/pt/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHAZzSjH1KQamN-Wo141wE5VUxz3eJGsDLiA&s",
+      "fuentePagina": "https://www.dutramaquinas.com.br/p/micro-ondas-21-litros-1200w-10-niveis-de-potencia-mo-01-21-w-mo-01-21-w-110v?srsltid=AfmBOoo1M9zM0MjaRqMGkXiwsHeXV_589kzW-4iV8_aN_x9DBRPEDAcK",
+      "titulo": "Micro-ondas 21 litros 1200W 10 níveis de potência - MO-01-21-W 110V",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHAZzSjH1KQamN-Wo141wE5VUxz3eJGsDLiA&s",
+      "original": "https://www.dutramaquinas.com.br/shared/img/produto/zoom/422841_micro_ondas_21_litros_1200w_10_niveis_de_potencia_mo_01_21_w.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/microwave/pt/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYXqLTxMToqlTnU3wooonrq-9NHCDeoHeV5A&s",
+      "fuentePagina": "https://www.maquinbal.com.br/coccao/fornos/micro-ondas-profissionais/micro-ondas-profissional-34l-aco-inox-220v-1000w-finisher-pratica?srsltid=AfmBOorh7ddwvSNRX5YZrVMeX-tNuvBOH3GHQAIYDPVIDELH4hoDmocR",
+      "titulo": "Micro-Ondas Profissional 1000W 34L Aço Inox 220V Finisher ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYXqLTxMToqlTnU3wooonrq-9NHCDeoHeV5A&s",
+      "original": "https://images.tcdn.com.br/img/img_prod/1195814/micro_ondas_profissional_1000w_22l_aco_inox_220v_ne_1037ryk_panasonic_17845_1_e3a4cd8c6d7cbbb5d17e820e7c0cae3f.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/microwave/pt/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvCGPTICCdKg-sDIAYOanfMXbogAfwzNW-gA&s",
+      "fuentePagina": "https://www.gazin.com.br/produto/micro-ondas-electrolux-36l-efficient-com-descongelamento-assistido-me36s/6892/prata/220-volts?srsltid=AfmBOoox3yI5YBW-2t2laXxJSi6Ci6-EtidKEbB-yW2sQklqnkAcv1uF",
+      "titulo": "Micro-ondas Electrolux 36L Efficient com Descongelamento Assistido ME36S",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvCGPTICCdKg-sDIAYOanfMXbogAfwzNW-gA&s",
+      "original": "https://gazin-images.gazin.com.br/2wtW7_jIGbbUd9y-Yq2nxLA5SAI=/1920x/filters:format(webp):quality(75)/https://gazin-marketplace.s3.amazonaws.com/midias/imagens/2024/07/micro-ondas-de-bancada-electrolux-efficient-36l-1600w-espelhado-me36s-082407410422.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/microwave/pt/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8BainqDYLRvLPs_FwLqbcLWDDK-wgovil0g&s",
+      "fuentePagina": "https://www.centergarbin.com.br/forno-micro-ondas-combinado-tecno-velox-25-litros-inox-60cm-220v.html?srsltid=AfmBOoo6992hLy_O3suBw9vsmOOJ2sCz7Tfiii0XysefZxus7eV3av1O",
+      "titulo": "Forno Micro-ondas Combinado Tecno Original 25 Litros 60cm 220V",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8BainqDYLRvLPs_FwLqbcLWDDK-wgovil0g&s",
+      "original": "https://cdn.centergarbin.com.br/media/catalog/product/cache/1/image/1000x/9df78eab33525d08d6e5fb8d27136e95/f/o/forno_micro-ondas_combinado_tecno_velox_25_litros_inox_60cm_220v_8_.png"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/microwave/pt/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLlbfZWIaa-02CQESTZQAKsNoKUK3Ibv0E6A&s",
+      "fuentePagina": "https://www.benoit.com.br/microondas-electrolux-ms37r-27l-prata-1400w-10006804-p1041698",
+      "titulo": "Micro-ondas Electrolux MS37R 27L Prata 1400W - Benoit.com.br",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLlbfZWIaa-02CQESTZQAKsNoKUK3Ibv0E6A&s",
+      "original": "https://d296pbmv9m7g8v.cloudfront.net/Custom/Content/Products/10/41/1041698_microondas-electrolux-ms37r-27l-prata-1400w-10006804_m56_638717870873642020.webp"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/microwave/pt/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPpW2YQM3UDT3VgZB_v2FMdTMX_vPIKcPlXw&s",
+      "fuentePagina": "https://www.lojastopmoveis.com.br/forno-micro-ondas-34-litros-900w-dupla-refeicao-nn-st66nbru-panasonic/p?srsltid=AfmBOoraRpXS0DHCXBjQFwEUJ0jhI_2BWpgE57QC8-RC7gB-OXO7heio",
+      "titulo": "Microondas 34L Dupla Refeição - Panasonic | Lojas Top Móveis ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPpW2YQM3UDT3VgZB_v2FMdTMX_vPIKcPlXw&s",
+      "original": "https://topmoveis.vtexassets.com/arquivos/ids/169432/FORNO-MICRO-ONDAS-34L-900W-NN-ST66NBRUK-PRETO-PANASONIC.jpg?v=638504299455100000"
+    }
+  ]
+}

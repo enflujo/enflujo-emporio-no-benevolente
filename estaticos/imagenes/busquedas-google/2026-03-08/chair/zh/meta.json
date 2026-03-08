@@ -1,0 +1,16 @@
+{
+  "categoria": "chair",
+  "categoriaSlug": "chair",
+  "idioma": "zh",
+  "nombreIdioma": "中文",
+  "termino": "椅子",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:17:24.974Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "zh-CN",
+    "gl": "cn"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=%E6%A4%85%E5%AD%90&hl=zh-CN&gl=cn",
+  "imagenes": []
+}

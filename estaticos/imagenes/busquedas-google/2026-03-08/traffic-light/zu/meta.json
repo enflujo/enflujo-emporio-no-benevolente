@@ -1,0 +1,71 @@
+{
+  "categoria": "traffic light",
+  "categoriaSlug": "traffic-light",
+  "idioma": "zu",
+  "nombreIdioma": "isiZulu",
+  "termino": "uphawu lomgwaqo",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T20:46:34.087Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "zu",
+    "gl": "za"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=uphawu%20lomgwaqo&hl=zu&gl=za",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/traffic-light/zu/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSD0EdWpNPGI09-tn_g73DW3877WIAqTZ8lhw&s",
+      "fuentePagina": "https://play.google.com/store/apps/details?id=com.techsellance.drivingtest&hl=zu",
+      "titulo": "Driving Test:Road Safety Signs - Izinhlelo zokusebenza ku ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSD0EdWpNPGI09-tn_g73DW3877WIAqTZ8lhw&s",
+      "original": "https://play-lh.googleusercontent.com/z7-0N-I2mQoPfUxPdjjyyu7k_bJZnxhcaiCk-BGX3HTt1YaA_OYh3ioXPwGrP9zNySY=w526-h296-rw"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/traffic-light/zu/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXGWbTYtb9wfCWk8F0tvp_vo-QgRsLKOPCtg&s",
+      "fuentePagina": "https://zu.yzqxtraffic.com/news/traffic-light-colors/",
+      "titulo": "Izindaba - Imibala Yezibani Zethrafikhi-Qixiang",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXGWbTYtb9wfCWk8F0tvp_vo-QgRsLKOPCtg&s",
+      "original": "https://www.yzqxtraffic.com/uploads/Smart-Traffic-lights.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/traffic-light/zu/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTC5rz3hC6s1x3rj_XK-0YDFDnMqwNA22Fn8g&s",
+      "fuentePagina": "https://www.facebook.com/groups/1537552516525259/posts/4287750924838724/",
+      "titulo": "Anogcina amaSabatha [ami], ngokuba aluphawu phakathi kwami ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTC5rz3hC6s1x3rj_XK-0YDFDnMqwNA22Fn8g&s",
+      "original": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=122119493781082743"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/traffic-light/zu/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPQH6VopGZYPepMsKFRc8BHHut8O2vy1KAaw&s",
+      "fuentePagina": "https://www.scribd.com/doc/101015299/I-K53-Esemthethweni-Phasa-Ilenazi-Yakho-Kalula-Zulu-Extract",
+      "titulo": "I-K53 Esemthethweni Phasa Ilenazi Yakho Kalula (Zulu ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPQH6VopGZYPepMsKFRc8BHHut8O2vy1KAaw&s",
+      "original": "https://screenshots.scribd.com/Scribd/252_100_85/336/101015299/1.jpeg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/traffic-light/zu/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ77nBPYGfke2qFJubfQLSx3mvMUDX4TJa0MA&s",
+      "fuentePagina": "https://www.facebook.com/groups/1537552516525259/posts/4287750924838724/",
+      "titulo": "Anogcina amaSabatha [ami], ngokuba aluphawu phakathi kwami ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ77nBPYGfke2qFJubfQLSx3mvMUDX4TJa0MA&s",
+      "original": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=122240020748118223"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/traffic-light/zu/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6m_HasUQy3lF9hiaPz3DoFvfZM8CacyzPnA&s",
+      "fuentePagina": "https://www.facebook.com/groups/1537552516525259/posts/4287750924838724/",
+      "titulo": "Anogcina amaSabatha [ami], ngokuba aluphawu phakathi kwami ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6m_HasUQy3lF9hiaPz3DoFvfZM8CacyzPnA&s",
+      "original": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=3840591976243370"
+    }
+  ]
+}

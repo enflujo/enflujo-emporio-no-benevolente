@@ -1,0 +1,71 @@
+{
+  "categoria": "carrot",
+  "categoriaSlug": "carrot",
+  "idioma": "en",
+  "nombreIdioma": "English",
+  "termino": "carrot",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:13:45.109Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "en",
+    "gl": "us"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=carrot&hl=en&gl=us",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/carrot/en/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6pOY0MwJIpxdbAvXngvYAtFM_vb6DnQ14iw&s",
+      "fuentePagina": "https://en.wikipedia.org/wiki/Carrot",
+      "titulo": "Carrot - Wikipedia",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6pOY0MwJIpxdbAvXngvYAtFM_vb6DnQ14iw&s",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Vegetable-Carrot-Bundle-wStalks.jpg/1280px-Vegetable-Carrot-Bundle-wStalks.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/carrot/en/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTx9KINdpIinZFStMjH5eh6dzqNzy64iUCKQ&s",
+      "fuentePagina": "https://cooking.nytimes.com/recipes/4866-carrots-with-orange-and-cardamom",
+      "titulo": "Carrots With Orange and Cardamom",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTx9KINdpIinZFStMjH5eh6dzqNzy64iUCKQ&s",
+      "original": "https://static01.nyt.com/images/2014/05/22/dining/Carrots-With-Orange-And-Cardamom/Carrots-With-Orange-And-Cardamom-jumbo.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/carrot/en/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWp3Vx2S_zSSRoLboLpODBfF2QR-HOXcKFKg&s",
+      "fuentePagina": "https://www.lovefoodhatewaste.com/foods-and-recipes/carrots",
+      "titulo": "Carrots | Love Food Hate Waste",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWp3Vx2S_zSSRoLboLpODBfF2QR-HOXcKFKg&s",
+      "original": "https://www.lovefoodhatewaste.com/sites/default/files/styles/open_graph_image/public/2022-06/Carrots.jpg.webp?itok=aBgglla9"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/carrot/en/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSaWdjYwkTe1b2yGSzOHOYuMrUUcePoBF9MEg&s",
+      "fuentePagina": "https://my-first-encyclopedia.fandom.com/wiki/Carrot",
+      "titulo": "Carrot | My First Encyclopedia Wiki | Fandom",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSaWdjYwkTe1b2yGSzOHOYuMrUUcePoBF9MEg&s",
+      "original": "https://static.wikia.nocookie.net/my-first-encyclopedia/images/9/9a/Carrot-PNG-Clipart.png/revision/latest/scale-to-width-down/340?cb=20220711193537"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/carrot/en/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStL5RNQUBSIsu4dIr3lpIBVMwFX7I0Gn5H_Q&s",
+      "fuentePagina": "https://www.bhg.com/thick-carrots-vs-thin-carrots-11737981",
+      "titulo": "Should You Pick Thick or Thin Carrots?",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStL5RNQUBSIsu4dIr3lpIBVMwFX7I0Gn5H_Q&s",
+      "original": "https://www.bhg.com/thmb/zrLBAwULxd9juE6mMifb3OMUkAM=/4000x0/filters:no_upscale():strip_icc()/BHG-Carrots-A9a4gdEaaOn8nZUE3oLorH-456dbe2f518a4445a93d4183a11d8830.jpg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/carrot/en/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRydOke9zkoJit94ftGG9Bms9n7VL6tZvolw&s",
+      "fuentePagina": "https://capitalcityfruit.com/shop/carrots-table-1-lb/",
+      "titulo": "Standard Table Carrots | Capital City Fruit",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRydOke9zkoJit94ftGG9Bms9n7VL6tZvolw&s",
+      "original": "https://cdn11.bigcommerce.com/s-kc25pb94dz/images/stencil/1280w/products/197/954/Carrot__41894.1646667854.jpg"
+    }
+  ]
+}

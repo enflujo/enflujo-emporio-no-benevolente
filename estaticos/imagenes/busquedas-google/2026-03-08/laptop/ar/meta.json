@@ -1,0 +1,71 @@
+{
+  "categoria": "laptop",
+  "categoriaSlug": "laptop",
+  "idioma": "ar",
+  "nombreIdioma": "العربية",
+  "termino": "حاسوب محمول",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:21:53.137Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "ar",
+    "gl": "eg"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=%D8%AD%D8%A7%D8%B3%D9%88%D8%A8%20%D9%85%D8%AD%D9%85%D9%88%D9%84&hl=ar&gl=eg",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/laptop/ar/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3mcLcQbf6KJNozj0Pduy9EwPw21Pf-Qo12w&s",
+      "fuentePagina": "https://ar.wikipedia.org/wiki/%D8%AD%D8%A7%D8%B3%D9%88%D8%A8_%D9%85%D8%AD%D9%85%D9%88%D9%84",
+      "titulo": "حاسوب محمول - ويكيبيديا",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3mcLcQbf6KJNozj0Pduy9EwPw21Pf-Qo12w&s",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Macbook_Air.jpg/330px-Macbook_Air.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/laptop/ar/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGsMz9g3T9PfjNeDzAEoCqWCfjp53afA-f8Q&s",
+      "fuentePagina": "https://www.microsoft.com/ar-ae/surface/devices/surface-laptop",
+      "titulo": "تعرف على جهاز Surface Laptop (13 بوصة، 13.8 بوصة، 15 بوصة ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGsMz9g3T9PfjNeDzAEoCqWCfjp53afA-f8Q&s",
+      "original": "https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/13-laptop-platinum-right-render-fy25:VP4-1260x795?fmt=png-alpha"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/laptop/ar/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRiiVsE81iKIvXYLX07WnNUA6Yn-IveSjsHrw&s",
+      "fuentePagina": "https://www.emaratalyoum.com/technology/pc/2022-07-29-1.1654131",
+      "titulo": "لماذا نعتقد أن جهاز HUAWEI MateBook X Pro هو الحاسوب المحمول ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRiiVsE81iKIvXYLX07WnNUA6Yn-IveSjsHrw&s",
+      "original": "https://www.emaratalyoum.com/polopoly_fs/1.1654133.1659096631!/image/image.jpeg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/laptop/ar/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJm7m9lFM-supdb8T8ZGFsK1eiZI6eGaQXmQ&s",
+      "fuentePagina": "https://www.aljazeera.net/tech/2017/5/3/%D9%85%D8%A7%D9%8A%D9%83%D8%B1%D9%88%D8%B3%D9%88%D9%81%D8%AA-%D8%AA%D8%B9%D9%84%D9%86-%D8%B9%D9%86-%D8%A7%D9%84%D8%AD%D8%A7%D8%B3%D9%88%D8%A8-%D8%A7%D9%84%D9%85%D8%AD%D9%85%D9%88%D9%84",
+      "titulo": "مايكروسوفت تعلن عن الحاسوب المحمول \"سيرفس\" | أخبار تكنولوجيا ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJm7m9lFM-supdb8T8ZGFsK1eiZI6eGaQXmQ&s",
+      "original": "https://www.aljazeera.net/wp-content/uploads/2017/05/b3a8b31a-6ee4-4bdc-b9b5-89205d24add9.jpeg?resize=686%2C513&quality=80"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/laptop/ar/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6wzLq1n_kviAEV2L0rGaaVz2b4dAxUqt5OQ&s",
+      "fuentePagina": "https://ae.linkedin.com/pulse/%D8%A3%D8%AE%D8%B7%D8%A7%D8%A1-%D9%8A%D8%AC%D8%A8-%D8%AA%D8%AC%D9%86%D8%A8%D9%87%D8%A7-%D8%B9%D9%86%D8%AF-%D8%B4%D8%B1%D8%A7%D8%A1-%D8%AD%D8%A7%D8%B3%D9%88%D8%A8-%D9%85%D8%AD%D9%85%D9%88%D9%84-%D8%AC%D8%AF%D9%8A%D8%AF-ali-al-harbi",
+      "titulo": "أخطاء يجب تجنبها عند شراء حاسوب محمول جديد",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6wzLq1n_kviAEV2L0rGaaVz2b4dAxUqt5OQ&s",
+      "original": "https://media.licdn.com/dms/image/v2/D4E12AQFQI3G5kB_FHQ/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1686558461354?e=2147483647&v=beta&t=cCXklxtUPeBbasJuqChJnYIWWAXYWU1putsdsgGzh3s"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/laptop/ar/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAYGVR6PhCbTpjsW_YMtdLC9yESnvz5wP5CQ&s",
+      "fuentePagina": "https://sa.made-in-china.com/video-channel/cloverindustrial_iwlTOHxMJEYG_Eanovo-Slim-Cheap-14-Inch-Laptop-Win10-Notebook-PC-8g-512g-SSD.html",
+      "titulo": "إيانوو سليم رخيص 14 بوصة لابتوب Win10 حاسوب محمول 8g +512g SSD",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAYGVR6PhCbTpjsW_YMtdLC9yESnvz5wP5CQ&s",
+      "original": "http://image.made-in-china.com/318f0j00HaTftYqMBicU/5-24-mp4.webp"
+    }
+  ]
+}

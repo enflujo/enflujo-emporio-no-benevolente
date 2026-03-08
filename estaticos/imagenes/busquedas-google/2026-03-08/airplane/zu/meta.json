@@ -1,0 +1,71 @@
+{
+  "categoria": "airplane",
+  "categoriaSlug": "airplane",
+  "idioma": "zu",
+  "nombreIdioma": "isiZulu",
+  "termino": "indiza",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T20:43:14.930Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "zu",
+    "gl": "za"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=indiza&hl=zu&gl=za",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/airplane/zu/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUmBXsVLjulBuE9rQx_E_HTQTAoUaVrzl6Ug&s",
+      "fuentePagina": "http://www.airline-empires.com/index.php?/gallery/image/17862-a350-900-indiza/",
+      "titulo": "A350-900 Indiza - INDIZA (South Africa) - Gallery - Airline ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUmBXsVLjulBuE9rQx_E_HTQTAoUaVrzl6Ug&s",
+      "original": "http://www.airline-empires.com/uploads/gallery/album_1283/gallery_67165_1283_1100313.png"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/airplane/zu/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqXD1DF0FPcCIijMDLN0NtTQhgg1eXKMr5_w&s",
+      "fuentePagina": "https://zu.wikipedia.org/wiki/INdiza_eswelumuntu",
+      "titulo": "INdiza eswelumuntu - Wikipedia",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqXD1DF0FPcCIijMDLN0NtTQhgg1eXKMr5_w&s",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/a/a0/NGP_DSC_0364.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/airplane/zu/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrzuiyyCv8EzhkmO_6ehN6CUYsPuC85odTRQ&s",
+      "fuentePagina": "https://www.legendstour.com/player/player-profile-dismas-indiza-anyonyi",
+      "titulo": "Player Profile &#8211; Dismas Indiza Anyonyi",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrzuiyyCv8EzhkmO_6ehN6CUYsPuC85odTRQ&s",
+      "original": "https://d31nqelafffqa3.cloudfront.net/wp-content/uploads/2024/08/Dismas-Indiza-Anyonyi.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/airplane/zu/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQC7KXAy1X76Hy-FElhrA2rMjjvbhRdcCJOFA&s",
+      "fuentePagina": "https://defsec.csir.co.za/aeronautical-systems-as/the-indiza-uas",
+      "titulo": "The Indiza UAS | Defsec",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQC7KXAy1X76Hy-FElhrA2rMjjvbhRdcCJOFA&s",
+      "original": "http://defsec.csir.co.za/wp-content/uploads/2014/08/UAV-4_01.jpg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/airplane/zu/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWR2rwyg1cW7RTuxKoVvWjF3Hs9aQ1DzzQHw&s",
+      "fuentePagina": "https://kawowo.com/2018/07/12/how-kenyan-pro-golfer-indiza-won-the-road-to-karen-masters/",
+      "titulo": "How Kenyan Pro golfer Indiza won the Road to Karen masters",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWR2rwyg1cW7RTuxKoVvWjF3Hs9aQ1DzzQHw&s",
+      "original": "https://i0.wp.com/kawowo.com/wp-content/uploads/2018/07/Dismas-Indiza.jpg?fit=595%2C400&ssl=1"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/airplane/zu/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJJEmbaUXpPVyQ7GQeHiofxbY8J20BIGIjyA&s",
+      "fuentePagina": "https://www.youtube.com/watch?v=QZydEgr8W8A",
+      "titulo": "DJ Kasi Duchaz - INDIZA [Feat. Mmata Magic, SIKA and coachie vee] (Official  Audio)",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJJEmbaUXpPVyQ7GQeHiofxbY8J20BIGIjyA&s",
+      "original": "https://i.ytimg.com/vi/QZydEgr8W8A/hq720.jpg?sqp=-oaymwE7CK4FEIIDSFryq4qpAy0IARUAAAAAGAElAADIQj0AgKJD8AEB-AH-CYAC0AWKAgwIABABGE8gZChlMA8=&rs=AOn4CLCIvBnIDmqOoYr0HOcP7cqiqp5zsw"
+    }
+  ]
+}

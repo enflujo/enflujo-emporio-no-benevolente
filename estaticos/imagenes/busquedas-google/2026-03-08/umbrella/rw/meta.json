@@ -1,0 +1,71 @@
+{
+  "categoria": "umbrella",
+  "categoriaSlug": "umbrella",
+  "idioma": "rw",
+  "nombreIdioma": "Kinyarwanda",
+  "termino": "induduro",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T20:56:52.582Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "en",
+    "gl": "rw"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=induduro&hl=en&gl=rw",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/umbrella/rw/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEJeWoZNNFzKaoD3oL79eoBpvP5vqlq5V-6Q&s",
+      "fuentePagina": "https://app.isokko.com/shop-item/14090/indagara-indundi-1kg",
+      "titulo": "Indagara (indundi) 1kg on Isokko. Sold by Kimironko Market ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEJeWoZNNFzKaoD3oL79eoBpvP5vqlq5V-6Q&s",
+      "original": "https://isokko.com/m/media/upload/photos/2025/06/Screenshot_20250629-193519_1_68617feb682ca.png"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/umbrella/rw/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKzr4xusmRQh79PP9yDkodBlkhA3c3ktkGDA&s",
+      "fuentePagina": "https://www.bbc.com/gahuza/topics/cdr56r912z7t",
+      "titulo": "Ubukerarugendo n'Imyidagaduro - BBC News Gahuza",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKzr4xusmRQh79PP9yDkodBlkhA3c3ktkGDA&s",
+      "original": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/2a76/live/10f93240-9ddf-11f0-b741-177e3e2c2fc7.jpg.webp"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/umbrella/rw/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQf-Vo6EUHzWrJVeX649C9oMXChB5MKq64D7A&s",
+      "fuentePagina": "https://www.instagram.com/p/DQq3uFsDOIx/",
+      "titulo": "🔴 IMYIDAGADURO 🔴 Nana wo muri Citymaid yahishuye ko ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQf-Vo6EUHzWrJVeX649C9oMXChB5MKq64D7A&s",
+      "original": "https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3840265648014690212"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/umbrella/rw/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJuRMTU-fa2K0XoJHP4nkWSOcRflsY0FbZNQ&s",
+      "fuentePagina": "https://app.isokko.com/shop-item/14090/indagara-indundi-1kg",
+      "titulo": "Indagara (indundi) 1kg on Isokko. Sold by Kimironko Market ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJuRMTU-fa2K0XoJHP4nkWSOcRflsY0FbZNQ&s",
+      "original": "https://isokko.com/m/media/upload/photos/2025/06/Screenshot_20250629-193501_1_686180302a588_compressed_48kb_0.png"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/umbrella/rw/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQl3mw5-UvmnVgdFp_KDg0CNc7929mlxYLFA&s",
+      "fuentePagina": "https://www.isangostar.rw/imyidagaduro",
+      "titulo": "Imyidagaduro - Isango Star 91.5 Inyenyeri imurikira rubanda",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQl3mw5-UvmnVgdFp_KDg0CNc7929mlxYLFA&s",
+      "original": "https://www.isangostar.rw/uploads/images/2025/09/image_380x226_68bac1f0b67cc.jpg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/umbrella/rw/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTApqa5S4j7HogAFhjEptjimF7XMa9vPp8SdA&s",
+      "fuentePagina": "https://www.igihe.com/imyidagaduro?debut_gh_news=75",
+      "titulo": "Imyidagaduro | IGIHE",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTApqa5S4j7HogAFhjEptjimF7XMa9vPp8SdA&s",
+      "original": "https://www.igihe.com/local/cache-gd2/7f/a01a5ea3a05984b9d9fbc68e8f1d0e.jpg?1772874029"
+    }
+  ]
+}

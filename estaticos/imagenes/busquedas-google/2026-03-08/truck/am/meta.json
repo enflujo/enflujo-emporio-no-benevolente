@@ -1,0 +1,71 @@
+{
+  "categoria": "truck",
+  "categoriaSlug": "truck",
+  "idioma": "am",
+  "nombreIdioma": "Amharic — አማርኛ",
+  "termino": "ትልቅ መኪና",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T20:45:08.947Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "am",
+    "gl": "et"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=%E1%89%B5%E1%88%8D%E1%89%85%20%E1%88%98%E1%8A%AA%E1%8A%93&hl=am&gl=et",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/truck/am/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBHkbw0e8hCPrueQc-HOaY8APRY33RoheU3w&s",
+      "fuentePagina": "https://am.jcledtrailer.com/12m-long-super-large-mobile-led-truck-product/",
+      "titulo": "ቻይና 12 ሜትር ርዝመት ያለው እጅግ በጣም ትልቅ ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBHkbw0e8hCPrueQc-HOaY8APRY33RoheU3w&s",
+      "original": "https://cdn.globalso.com/jcledtrailer/EBL9600-2.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/truck/am/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRx4_azZ2j7TENmcKZrSDzreks05Jo7Dg6a4g&s",
+      "fuentePagina": "https://www.terafundchina.com/am/4-motors-big-power-kids-four-wheel-car-bf917-product/",
+      "titulo": "ቻይና 4 ሞተርስ ትልቅ ሃይል ልጆች ባለአራት ጎማ ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRx4_azZ2j7TENmcKZrSDzreks05Jo7Dg6a4g&s",
+      "original": "https://cdnus.globalso.com/terafundchina/FB917-171.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/truck/am/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHT56SlNmg3QRMyh2PdiZqmEWFsdaLrgGA4A&s",
+      "fuentePagina": "https://am.secrets-of-dream-interpretation.com/%E1%89%B5%E1%88%8D%E1%89%85-%E1%88%98%E1%8A%AA%E1%8A%93-%E1%89%A0%E1%88%95%E1%88%8D%E1%88%9D-%E1%8B%8D%E1%88%B5%E1%8C%A5/",
+      "titulo": "ኢብን ሲሪን እንደሚለው ስለ አንድ ትልቅ መኪና ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHT56SlNmg3QRMyh2PdiZqmEWFsdaLrgGA4A&s",
+      "original": "https://secrets-of-dream-interpretation.com/wp-content/uploads/2024/10/%D8%B4%D8%A7%D8%AD%D9%86%D8%A9.webp"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/truck/am/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgQ3UJTYi9lYotvEvhQIHoBQG71ad5u544YQ&s",
+      "fuentePagina": "https://www.terafundchina.com/am/4-motors-big-power-kids-four-wheel-car-bf917-product/",
+      "titulo": "ቻይና 4 ሞተርስ ትልቅ ሃይል ልጆች ባለአራት ጎማ ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgQ3UJTYi9lYotvEvhQIHoBQG71ad5u544YQ&s",
+      "original": "https://cdnus.globalso.com/terafundchina/%E5%B0%BA%E5%AF%B8109.jpg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/truck/am/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIb9diE8xRgENg3Q3OIYli4ciAE0lTZmZEzA&s",
+      "fuentePagina": "https://www.isuzujp.com/am/%E1%88%9D%E1%88%AD%E1%89%B5/isuzu-nqr-%E1%89%B5%E1%88%8D%E1%89%85-%E1%8B%A8%E1%8B%8D%E1%8C%AA-%E1%88%98%E1%88%AA-%E1%88%98%E1%8A%AA%E1%8A%93/",
+      "titulo": "ISUZU NQR ትልቅ የውጪ መሪ መኪና",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIb9diE8xRgENg3Q3OIYli4ciAE0lTZmZEzA&s",
+      "original": "https://www.isuzujp.com/wp-content/uploads/2021/12/ISUZU-NQR-Large-outdoor-led-truck.webp"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/truck/am/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSolisGBiOMNw8xLo33kFwFTUkv2C8dTXPJ6Q&s",
+      "fuentePagina": "https://www.terafundchina.com/am/4-motors-big-power-kids-four-wheel-car-bf917-product/",
+      "titulo": "ቻይና 4 ሞተርስ ትልቅ ሃይል ልጆች ባለአራት ጎማ ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSolisGBiOMNw8xLo33kFwFTUkv2C8dTXPJ6Q&s",
+      "original": "https://cdnus.globalso.com/terafundchina/FB917-13.jpg"
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "categoria": "bear",
+  "categoriaSlug": "bear",
+  "idioma": "am",
+  "nombreIdioma": "Amharic — አማርኛ",
+  "termino": "ድብ",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T20:54:23.388Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "am",
+    "gl": "et"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=%E1%8B%B5%E1%89%A5&hl=am&gl=et",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bear/am/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0QlSeQnM70Bc-XvuGQxtUPSz_QviHCHcbTg&s",
+      "fuentePagina": "https://am.wikipedia.org/wiki/%E1%8B%B5%E1%89%A5",
+      "titulo": "ውክፔዲያ - ድብ",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0QlSeQnM70Bc-XvuGQxtUPSz_QviHCHcbTg&s",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/0/08/01_Schwarzb%C3%A4r.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bear/am/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPBIESG-3FJTl7NbyE12l5Ji_asBC8yNrjwg&s",
+      "fuentePagina": "https://ethiopianreporter.com/51283/",
+      "titulo": "ድብ - ሪፖርተር - Ethiopian Reporter - #1 Reliable News ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPBIESG-3FJTl7NbyE12l5Ji_asBC8yNrjwg&s",
+      "original": "https://ethiopianreporter.com/files/2018/02/dibi.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bear/am/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThutetd7p14prFPMpXDsFy7xHNTsZUAjK0JA&s",
+      "fuentePagina": "https://am.wikipedia.org/wiki/%E1%89%A1%E1%8A%93%E1%88%9B_%E1%8B%B5%E1%89%A5",
+      "titulo": "ውክፔዲያ - ቡናማ ድብ",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThutetd7p14prFPMpXDsFy7xHNTsZUAjK0JA&s",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/6/63/Orso_bruno_marsicano.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bear/am/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvBMpgaJrd_-lbVMLY3snjsTkWkmWe_dPCxA&s",
+      "fuentePagina": "https://www.bbc.com/amharic/news-60481678",
+      "titulo": "በአሜሪካ መኖሪያ ቤቶችን እየሰበረ ምግብ የሚሰርቀው ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvBMpgaJrd_-lbVMLY3snjsTkWkmWe_dPCxA&s",
+      "original": "https://ichef.bbci.co.uk/ace/ws/640/cpsprodpb/14A4B/production/_123355548_273225536_5387239747969927_3174953441515970260_n.jpg.webp"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bear/am/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6F4pFRxK4e5YBacBau0ptyIubIWulMpPYMQ&s",
+      "fuentePagina": "https://play.google.com/store/apps/details?id=com.akadtech.bearsounds&hl=am",
+      "titulo": "ድብ ድምጾች - መተግባሪያዎች Google Play ላይ",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6F4pFRxK4e5YBacBau0ptyIubIWulMpPYMQ&s",
+      "original": "https://play-lh.googleusercontent.com/gzltHbI3Mfemwr8sD-wg1UrscjJQxzqtVxujSUPrCKPa0ZhlCtYgcw0Hj-CjcJb_ZQyo"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bear/am/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3GXfrrpRWfthb4rzWXL2D2v8lrLocs72N4g&s",
+      "fuentePagina": "https://amharicteacher.com/dictionary/english/%E1%8B%B5%E1%89%A5",
+      "titulo": "ድብ (dib) meaning in English - Amharic Dictionary",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3GXfrrpRWfthb4rzWXL2D2v8lrLocs72N4g&s",
+      "original": "https://d9seco0wfq8yu.cloudfront.net/dict/dib.png"
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "categoria": "dining table",
+  "categoriaSlug": "dining-table",
+  "idioma": "rw",
+  "nombreIdioma": "Kinyarwanda",
+  "termino": "imeza yo kurya",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:19:40.424Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "en",
+    "gl": "rw"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=imeza%20yo%20kurya&hl=en&gl=rw",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/dining-table/rw/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZ10W9RXZ_CpM7yqB6v1pU2bbBhLN_V21jSA&s",
+      "fuentePagina": "https://www.puyihome.com/rw/kana-dining-table-elegant-aluminum-dining-table-a-fusion-of-style-and-function-product/",
+      "titulo": "Imeza yo gufungura ya ODM Kana: Ameza meza ya Aluminium yo ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZ10W9RXZ_CpM7yqB6v1pU2bbBhLN_V21jSA&s",
+      "original": "https://ecdn6.globalso.com/upload/p/428/image_product/2023-11/655f38eec22f264277.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/dining-table/rw/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQj0uEdtJnl_HpN2VNIG1yirOj-DaZ-VvrsUQ&s",
+      "fuentePagina": "https://www.lumengfurniture.com/rw/mael-dining-table-modern-industrial-rectangle-kitchen-table-with-metal-frame-industrial-large-wood-dining-room-table-for-kitchen-living-room-product/",
+      "titulo": "Ameza yo Kurya Ibicuruzwa Byinshi Kumeza Inganda Zigezweho ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQj0uEdtJnl_HpN2VNIG1yirOj-DaZ-VvrsUQ&s",
+      "original": "https://cdnus.globalso.com/lumengfurniture/Mael-Dining-Table-Modern-Industrial-Rectangle-Kitchen-Table-with-Metal-Frame-Industrial-Large-Wood-Dining-Room-Table-for-Kitchen-Living-Room-1.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/dining-table/rw/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbUGWfFlSWS5fbhU1OBQUejcUmJcLPOX6ZZg&s",
+      "fuentePagina": "https://www.puyihome.com/rw/kana-dining-table-elegant-aluminum-dining-table-a-fusion-of-style-and-function-product/",
+      "titulo": "Imeza yo gufungura ya ODM Kana: Ameza meza ya Aluminium yo ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbUGWfFlSWS5fbhU1OBQUejcUmJcLPOX6ZZg&s",
+      "original": "https://ecdn6.globalso.com/upload/p/428/image_product/2023-11/655f38ee9dc9f84531.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/dining-table/rw/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTf-MryunqfyBvyalL0kJzPOojSrcy-z1docg&s",
+      "fuentePagina": "https://igihe.com/amakuru/utuntu-n-utundi/article/ibintu-icumi-wakora-mbere-cyangwa-nyuma-yo-kurya-ukarushaho-kumererwa-neza",
+      "titulo": "Ibintu icumi wakora mbere cyangwa nyuma yo kurya ukarushaho ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTf-MryunqfyBvyalL0kJzPOojSrcy-z1docg&s",
+      "original": "https://www.igihe.com/local/cache-vignettes/L600xH401/arton148050-f9be6.jpg?1713931804"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/dining-table/rw/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnKjXMeKjuFcA09l401fgmznM3uHHdJtL2SQ&s",
+      "fuentePagina": "https://www.lumengfurniture.com/rw/mael-dining-table-modern-industrial-rectangle-kitchen-table-with-metal-frame-industrial-large-wood-dining-room-table-for-kitchen-living-room-product/",
+      "titulo": "Ameza yo Kurya Ibicuruzwa Byinshi Kumeza Inganda Zigezweho ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnKjXMeKjuFcA09l401fgmznM3uHHdJtL2SQ&s",
+      "original": "https://cdnus.globalso.com/lumengfurniture/Mael-Dining-Table-Modern-Industrial-Rectangle-Kitchen-Table-with-Metal-Frame-Industrial-Large-Wood-Dining-Room-Table-for-Kitchen-Living-Room-2-300x214.jpg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/dining-table/rw/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQT3L3veG3OC9bXAq67znO275wxK1zxbca7KQ&s",
+      "fuentePagina": "https://umutihealth.com/nyuma-yo-kurya/",
+      "titulo": "Nyuma yo kurya ibintu 7 ugomba kwirinda gukora kugira ngo ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQT3L3veG3OC9bXAq67znO275wxK1zxbca7KQ&s",
+      "original": "https://umutihealth.com/wp-content/uploads/2017/07/Ibyo-ugomba-kwirinda-nyuma-yo-kurya-.jpg"
+    }
+  ]
+}

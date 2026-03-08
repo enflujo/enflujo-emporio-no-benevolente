@@ -1,0 +1,71 @@
+{
+  "categoria": "umbrella",
+  "categoriaSlug": "umbrella",
+  "idioma": "ha",
+  "nombreIdioma": "Hausa",
+  "termino": "laima",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T20:57:00.833Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "ha",
+    "gl": "ng"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=laima&hl=ha&gl=ng",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/umbrella/ha/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqKsXZ2NTTu4pO4hGWt4wqQkG8JNXPjCmTEw&s",
+      "fuentePagina": "https://en.wikipedia.org/wiki/Laima_(confectioner)",
+      "titulo": "Laima (confectioner) - Wikipedia",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqKsXZ2NTTu4pO4hGWt4wqQkG8JNXPjCmTEw&s",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/b/b7/Laima_logo.png"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/umbrella/ha/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjOXs_xUFimABrfzQKm5xCKr-QhEmUSLIGJQ&s",
+      "fuentePagina": "https://pood.orkla.ee/en/product/laima-maigums-chocolate-coated-vanilla-flavoured-zephyr-175g/",
+      "titulo": "Laima Maigums chocolate coated vanilla-flavoured zephyr 175g ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjOXs_xUFimABrfzQKm5xCKr-QhEmUSLIGJQ&s",
+      "original": "https://pood.orkla.ee/app/uploads/2025/02/4750011000587-product-image-front-laima-maigums-zefirs-vanilas-175g.png"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/umbrella/ha/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlBiz-Ka3HRy5OcbxwGfsgA5u2g5wlKCztmA&s",
+      "fuentePagina": "https://www.tasteatlas.com/laima",
+      "titulo": "Laima - Best Gourmet Brands | TasteAtlas",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlBiz-Ka3HRy5OcbxwGfsgA5u2g5wlKCztmA&s",
+      "original": "https://cdn.tasteatlas.com//images/productmakers/63c4a2cd5068409a91ba284549865ebe.png?w=700&h=656"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/umbrella/ha/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcuczWRU_yK93-e3Ra3EowbuHy7habBbufJA&s",
+      "fuentePagina": "https://www.ebay.com/itm/204256607612",
+      "titulo": "Laima Premium Chocolate Set – 4 Bars from Latvia 4x 90g(x4 3 ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcuczWRU_yK93-e3Ra3EowbuHy7habBbufJA&s",
+      "original": "https://i.ebayimg.com/images/g/VQYAAeSwNSpolcx1/s-l1200.jpg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/umbrella/ha/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJXpxPM-WWANN34pWLLw9GsX6l6H2SUhoiWw&s",
+      "fuentePagina": "https://www.u-buy.com.ng/product/6XIDQQWG-chocolate-candies-laima-truffles-serenade-vaverite-sarkana-magone-latvian-candy?srsltid=AfmBOop9l5QnE0dC4ExcqOSvwj11_ldkI_AvfJgq4H-a_uAXeq7K60mp",
+      "titulo": "Chocolate Candies Laima Truffles Serenade Vaverite Nigeria ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJXpxPM-WWANN34pWLLw9GsX6l6H2SUhoiWw&s",
+      "original": "https://images-cdn.ubuy.co.nl/6414fc0651188a283a4851c3-chocolate-candies-laima-truffles.jpg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/umbrella/ha/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNinL_l5X3lTagACvFLxrcMHrxkAudzgS1nA&s",
+      "fuentePagina": "https://www.balticfoodoxford.co.uk/product/laima-dark-chocolate-sweets-set-95g/?srsltid=AfmBOoq-uusoVZqsDKHJSbGoa7AmoIDEwLzzFWChEuqoIoovX-s2gtkS",
+      "titulo": "Laima Dark Chocolate Sweets Set 95g - Baltic Food Oxford",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNinL_l5X3lTagACvFLxrcMHrxkAudzgS1nA&s",
+      "original": "https://www.balticfoodoxford.co.uk/wp-content/uploads/2024/06/laima-dark-chocolate-sweets-set-95g-1-1.png"
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "categoria": "apple",
+  "categoriaSlug": "apple",
+  "idioma": "fr",
+  "nombreIdioma": "Français",
+  "termino": "pomme",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:11:22.307Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "fr",
+    "gl": "be"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=pomme&hl=fr&gl=be",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/apple/fr/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR06DMkJ1OJUQhZaCRfanoLGHRkA7W3shgnJA&s",
+      "fuentePagina": "https://conseilsport.decathlon.fr/quels-sont-les-bienfaits-de-la-pomme",
+      "titulo": "Quels sont les bienfaits de la pomme ?",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR06DMkJ1OJUQhZaCRfanoLGHRkA7W3shgnJA&s",
+      "original": "https://contents.mediadecathlon.com/s1057542/k$f8f7d14e0cf9acef164e5b965b6cf197/1920x0/1871pt1943/3732xcr3886/default.jpeg?format=auto"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/apple/fr/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUjLT8jRJMtIUQRZXxX-fS5vvrx14UiipbHA&s",
+      "fuentePagina": "https://www.academiedugout.fr/ingredients/pomme-verte_791",
+      "titulo": "Pomme verte (fruits) - Académie du Goût",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUjLT8jRJMtIUQRZXxX-fS5vvrx14UiipbHA&s",
+      "original": "https://www.academiedugout.fr/images/17159/1200-auto/fotolia_55372155_subscription_xxl-copy.jpg?poix=50&poiy=50"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/apple/fr/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMl7osFWhUV12I76_u8xWQtLaHZF1jwBqXOQ&s",
+      "fuentePagina": "https://lalignegourmande.fr/la-pomme-un-fruit-magique-et-un-snack-parfait/",
+      "titulo": "La pomme : un fruit magique et un snack parfait",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMl7osFWhUV12I76_u8xWQtLaHZF1jwBqXOQ&s",
+      "original": "https://i0.wp.com/lalignegourmande.fr/wp-content/uploads/2025/01/pomme-rouge-scaled.jpg?fit=2560%2C2560&ssl=1"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/apple/fr/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrPRC5ltCRnZPIj_EC0KXCnwfWVY-qMY9Gpg&s",
+      "fuentePagina": "https://www.nutriting.com/aliments/cuisiner-pomme-bienfaits",
+      "titulo": "Une pomme par jour éloigne le docteur ?",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrPRC5ltCRnZPIj_EC0KXCnwfWVY-qMY9Gpg&s",
+      "original": "https://www.nutriting.com/wp-content/uploads/2023/06/pomme-bienfaits-1024x1024.jpg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/apple/fr/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVrM4gkxtxmbkGKUYTSxE91JCW4OojLADgkA&s",
+      "fuentePagina": "https://saveurs-du-monde.fandom.com/fr/wiki/Pomme",
+      "titulo": "Pomme | Wikia Saveurs du monde | Fandom",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVrM4gkxtxmbkGKUYTSxE91JCW4OojLADgkA&s",
+      "original": "https://static.wikia.nocookie.net/saveurs-du-monde/images/a/a3/Montage_pomme.jpg/revision/latest/scale-to-width-down/1097?cb=20150621143148&path-prefix=fr"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/apple/fr/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpugE2LcDHuh3chK8mNfLN5I_3XFNzy0ojOw&s",
+      "fuentePagina": "https://www.passeportsante.net/fr/Nutrition/EncyclopedieAliments/Fiche.aspx?doc=pomme_nu",
+      "titulo": "La pomme : tout sur ce fruit polyvalent et coupe-faim",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpugE2LcDHuh3chK8mNfLN5I_3XFNzy0ojOw&s",
+      "original": "https://img.passeportsante.net/1200x675/2021-05-03/i102145-pomme-nu.jpg"
+    }
+  ]
+}

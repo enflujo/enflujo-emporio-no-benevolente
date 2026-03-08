@@ -1,0 +1,71 @@
+{
+  "categoria": "sandwich",
+  "categoriaSlug": "sandwich",
+  "idioma": "fr",
+  "nombreIdioma": "Français",
+  "termino": "sandwich",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:12:02.004Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "fr",
+    "gl": "be"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=sandwich&hl=fr&gl=be",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/sandwich/fr/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpePQpQsspVsk_qeCK7LkXUpmBhFJov2Nb8g&s",
+      "fuentePagina": "https://www.tasteofhome.com/recipes/turkey-club-sandwich/",
+      "titulo": "Turkey Club Sandwich",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpePQpQsspVsk_qeCK7LkXUpmBhFJov2Nb8g&s",
+      "original": "https://www.tasteofhome.com/wp-content/uploads/2025/04/Turkey-Club-Sandwich_EXPS_FT25_278726_EC_0408_5.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/sandwich/fr/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZYjO06J2alyy_bahlisJX3PyTt-RufMcL-Q&s",
+      "fuentePagina": "https://www.watermelon.org/recipes/watermelon-sandwich/",
+      "titulo": "Watermelon Sandwich",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZYjO06J2alyy_bahlisJX3PyTt-RufMcL-Q&s",
+      "original": "https://www.watermelon.org/wp-content/uploads/2023/02/Sandwich_2023-1000x1000.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/sandwich/fr/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSE2jUVThrHjKgTyJWdg8vRP9fo65mNU-uZIg&s",
+      "fuentePagina": "https://californiaavocado.com/recipe/avocado-bacon-grilled-cheese-sandwich/",
+      "titulo": "Avocado Bacon Grilled Cheese Sandwich",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSE2jUVThrHjKgTyJWdg8vRP9fo65mNU-uZIg&s",
+      "original": "https://californiaavocado.com/wp-content/uploads/2023/04/AvoBaconGrilledCheese_0011-scaled-e1682914545487.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/sandwich/fr/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-v-yguhGWLf5pkTXUv4FD3NR0tsMH67Qrmg&s",
+      "fuentePagina": "https://www.southernliving.com/ham-sandwich-7971753?srsltid=AfmBOoqv5cRLKcQSQ_tP_A1sBqOQ-H6NTST9I_7XU3EvveJu32EWsoXE",
+      "titulo": "Ham Sandwiches With Smoky Honey Mustard",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-v-yguhGWLf5pkTXUv4FD3NR0tsMH67Qrmg&s",
+      "original": "https://www.southernliving.com/thmb/UW4kKKL-_M3WgP7pkL6Pb6lwcgM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Ham_Sandwich_011-1-49227336bc074513aaf8fdbde440eafe.jpg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/sandwich/fr/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2zZ6UD3GvQPaiYQwP8jBgtw9MVFSpYBNDaA&s",
+      "fuentePagina": "https://www.comte.com/recettes/sandwich-dolce-vita-au-comte/",
+      "titulo": "Sandwich Dolce Vita au comté - Comté",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2zZ6UD3GvQPaiYQwP8jBgtw9MVFSpYBNDaA&s",
+      "original": "https://www.comte.com/wp-content/uploads/import/recette/sandwich-dolce-vita-au-comte-cigc-luk-thys-630x860.jpg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/sandwich/fr/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxdtia0H7GWdsmsf0FDmT91BtuIJbxSnXHmQ&s",
+      "fuentePagina": "https://www.tasteofhome.com/recipes/country-ham-sandwiches/",
+      "titulo": "Ham Sandwich",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxdtia0H7GWdsmsf0FDmT91BtuIJbxSnXHmQ&s",
+      "original": "https://www.tasteofhome.com/wp-content/uploads/2018/01/Country-Ham-Sandwiches_EXPS_FT23_25769_ST_1219_8.jpg"
+    }
+  ]
+}

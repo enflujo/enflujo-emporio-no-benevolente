@@ -1,0 +1,71 @@
+{
+  "categoria": "bowl",
+  "categoriaSlug": "bowl",
+  "idioma": "yo",
+  "nombreIdioma": "Yorùbá",
+  "termino": "ìkòkò",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:10:03.277Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "yo",
+    "gl": "ng"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=%C3%ACk%C3%B2k%C3%B2&hl=yo&gl=ng",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bowl/yo/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtIaAdpU-QQFAK4DlxUbgxJuECR--bjJSzVQ&s",
+      "fuentePagina": "https://www.instagram.com/reel/DRCCj3CDFUJ/",
+      "titulo": "📢 Day 222 of #YorubaWordADay, 🎤 Presented by: @lingoberryltd , 🗣️ Yoruba  Word: Ìkòkò, 📝 Meaning in English: Pot, 🔊 Listen, learn, and repeat! Try  using Ìkòkò in a sentence today. Drop your sentence in ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtIaAdpU-QQFAK4DlxUbgxJuECR--bjJSzVQ&s",
+      "original": "https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3765583498800026889"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bowl/yo/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFvidkTYoHCKsAr25URwgQOlir1XziWZC2FQ&s",
+      "fuentePagina": "https://www.facebook.com/Ikokoafrica/",
+      "titulo": "Ìkòkò | Sheffield",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFvidkTYoHCKsAr25URwgQOlir1XziWZC2FQ&s",
+      "original": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=100064403183351"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bowl/yo/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTdHnp7U4y3cOKJ2vdVfNnNGuM-uIGE9UlTg&s",
+      "fuentePagina": "https://www.facebook.com/groups/3780190418678055/posts/25994278620175917/",
+      "titulo": "Ìkòkò(Pot) E pa òwe tó ní 'Ìkòkò' ninú, tàbí sọ gbólóhùn tó ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTdHnp7U4y3cOKJ2vdVfNnNGuM-uIGE9UlTg&s",
+      "original": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=2380229232428654"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bowl/yo/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcwvHhsWI1_Ott_Z_aprEBzGCeCI-CuyxXrQ&s",
+      "fuentePagina": "https://commons.wikimedia.org/wiki/File:%C3%8Ck%C3%B2k%C3%B2.jpg",
+      "titulo": "File:Ìkòkò.jpg - Wikimedia Commons",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcwvHhsWI1_Ott_Z_aprEBzGCeCI-CuyxXrQ&s",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/d/d4/%C3%8Ck%C3%B2k%C3%B2.jpg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bowl/yo/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYEzHU3f6-xNbXI1MZm0DKCoG_w8yrsLdHlQ&s",
+      "fuentePagina": "https://www.facebook.com/groups/3780190418678055/posts/25850841917852922/",
+      "titulo": "Ìkòkò(Pot) E pa òwe tó ní 'Ìkòkò' ninú, tàbí sọ gbólóhùn tó ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYEzHU3f6-xNbXI1MZm0DKCoG_w8yrsLdHlQ&s",
+      "original": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=2366523443799233"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bowl/yo/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCyt_a5zCcBpfhmwnWf5kvNe4SlSe7zC7bmw&s",
+      "fuentePagina": "https://www.facebook.com/Ikokoafrica/",
+      "titulo": "Ìkòkò | Sheffield",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCyt_a5zCcBpfhmwnWf5kvNe4SlSe7zC7bmw&s",
+      "original": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=3206355819576244"
+    }
+  ]
+}

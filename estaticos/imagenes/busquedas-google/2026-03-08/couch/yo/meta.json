@@ -1,0 +1,71 @@
+{
+  "categoria": "couch",
+  "categoriaSlug": "couch",
+  "idioma": "yo",
+  "nombreIdioma": "Yorùbá",
+  "termino": "àga",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:17:44.715Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "yo",
+    "gl": "ng"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=%C3%A0ga&hl=yo&gl=ng",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/couch/yo/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJpr0wJYYXijMQYc9XqiBqwrKWHTZaiGRrWA&s",
+      "fuentePagina": "https://en.wikipedia.org/wiki/AGA_(singer)",
+      "titulo": "AGA (singer) - Wikipedia",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJpr0wJYYXijMQYc9XqiBqwrKWHTZaiGRrWA&s",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/AGA_%E6%B1%9F%E6%B5%B7%E8%BF%A6.jpg/250px-AGA_%E6%B1%9F%E6%B5%B7%E8%BF%A6.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/couch/yo/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSskvSb-yqdiR2PCi_5zmMyNBxGe1wttxaCKA&s",
+      "fuentePagina": "https://www.agacookshop.co.uk/about-aga",
+      "titulo": "AGA 100 Years",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSskvSb-yqdiR2PCi_5zmMyNBxGe1wttxaCKA&s",
+      "original": "https://www.agacookshop.co.uk/media/wysiwyg/V2_21203lpr_70db9e40c7c393a.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/couch/yo/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXT6R60c-HSln5nYMd_09htxf5HmE73lKrKg&s",
+      "fuentePagina": "https://www.agaliving.com/products/aga-era",
+      "titulo": "AGA ERA | AGA Living",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXT6R60c-HSln5nYMd_09htxf5HmE73lKrKg&s",
+      "original": "https://www.agaliving.com/sites/default/files/2023-06/AGA%20ERA%20Full%20B_0.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/couch/yo/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTY5JdazY14Mh4dt0SuYMycMO3r5hkuXoe79g&s",
+      "fuentePagina": "https://www.obuasimine.com/community/aga-school",
+      "titulo": "AGA School - Obuasi Mine",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTY5JdazY14Mh4dt0SuYMycMO3r5hkuXoe79g&s",
+      "original": "https://www.obuasimine.com/wp-content/uploads/2023/07/AGA-School-GES-4.jpg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/couch/yo/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMYUkbq3b1fDtSSC9lculGj_AN3AghPhdAvA&s",
+      "fuentePagina": "https://www.agaliving.com/why-aga/aga-difference",
+      "titulo": "The AGA Difference | AGA Living",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMYUkbq3b1fDtSSC9lculGj_AN3AghPhdAvA&s",
+      "original": "https://www.agaliving.com/sites/default/files/2025-08/AGA-Difference-2.gif"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/couch/yo/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1f75HRp-gZsYrtRBv_8hVBmrp8zGShjbPAA&s",
+      "fuentePagina": "https://www.imdb.com/title/tt7909444/",
+      "titulo": "Ága (2018) - IMDb",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1f75HRp-gZsYrtRBv_8hVBmrp8zGShjbPAA&s",
+      "original": "https://m.media-amazon.com/images/M/MV5BMDdjN2U2MjQtMWVjZi00MjllLWFhZDEtYjYyZTkxMGRjMDIyXkEyXkFqcGc@._V1_.jpg"
+    }
+  ]
+}

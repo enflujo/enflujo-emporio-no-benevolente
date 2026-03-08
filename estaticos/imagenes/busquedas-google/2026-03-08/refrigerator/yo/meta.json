@@ -1,0 +1,71 @@
+{
+  "categoria": "refrigerator",
+  "categoriaSlug": "refrigerator",
+  "idioma": "yo",
+  "nombreIdioma": "Yorùbá",
+  "termino": "ìtọ́jú oúnjẹ",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:27:33.395Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "yo",
+    "gl": "ng"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=%C3%ACt%E1%BB%8D%CC%81j%C3%BA%20o%C3%BAnj%E1%BA%B9&hl=yo&gl=ng",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/refrigerator/yo/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqYn2peT2Ef9NPk35hJ1aS0MsNKN0LXH7FeQ&s",
+      "fuentePagina": "https://www.cookwarecw.com/yo/%E1%BB%8Dja/Sise-ounj%E1%BA%B9-tit%E1%BA%B9-nla-fun-ounj%E1%BA%B9-idile-ati-sise-ni-ipele/",
+      "titulo": "Ohun èlò ìtọ́jú oúnjẹ tó tóbi fún oúnjẹ ìdílé àti sísè oúnjẹ ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqYn2peT2Ef9NPk35hJ1aS0MsNKN0LXH7FeQ&s",
+      "original": "http://www.cookwarecw.com/wp-content/uploads/2026/01/pro14-2.webp"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/refrigerator/yo/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXE7N2sYMsacNqRDtPy-yzoO1IvpviFEa-cg&s",
+      "fuentePagina": "http://yo.yawenkitchen.com/glass-food-storage-containers-with-bamboo-lids-product/",
+      "titulo": "Àwọn Àpótí Ìtọ́jú Oúnjẹ Gilasi Olópọ̀ Pẹ̀lú Àwọn Ìbòrí ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXE7N2sYMsacNqRDtPy-yzoO1IvpviFEa-cg&s",
+      "original": "https://www.yawenkitchen.com/uploads/Glass-Food-Storage-Containers-With-Bamboo-Lids1.png"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/refrigerator/yo/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRZT1dJskxjEpDMGZDSaDlxb2kAIjkubdXoQ&s",
+      "fuentePagina": "https://www.packagingch.com/yo/airtight-pe-ziplock-food-storage-bags-leakproof-freezer-safe-and-reusable-product/",
+      "titulo": "Àwọn Àpò Ìtọ́jú Oúnjẹ Ziplock tí a lè fi afẹ́fẹ́ PE ṣe tí kò ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRZT1dJskxjEpDMGZDSaDlxb2kAIjkubdXoQ&s",
+      "original": "https://www.packagingch.com/uploads/800x800.13.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/refrigerator/yo/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyiMhKW08xa3_KinN2BwoBDYyC3BOVJypDjg&s",
+      "fuentePagina": "https://www.cookwarecw.com/yo/%E1%BB%8Dja/ohun-%C3%A8l%C3%B2-%C3%ACd%C3%A1n%C3%A1-irin-alagbara-irin-pupa-cw-es1202/",
+      "titulo": "Ohun èlò ìtọ́jú oúnjẹ irin alagbara irin pupa tí a fi ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyiMhKW08xa3_KinN2BwoBDYyC3BOVJypDjg&s",
+      "original": "http://www.cookwarecw.com/wp-content/uploads/2025/12/pron24.webp"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/refrigerator/yo/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8ShfPEpF9Z87uKeEOCTHP9ay3HRuLaqZsng&s",
+      "fuentePagina": "https://www.shtangkefresh.com/yo/vacuum-pouches-for-food-storage-product/",
+      "titulo": "Àwọn Àpò Ìfọṣọ Dídára Gíga fún Àwọn Olùpèsè Ìtọ́jú Oúnjẹ ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8ShfPEpF9Z87uKeEOCTHP9ay3HRuLaqZsng&s",
+      "original": "https://ecdn6.globalso.com/upload/p/1502/image_other/2025-06/4723bb27b6a98b844901db3c9775d292b50ac534_original.jpeg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/refrigerator/yo/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTujYjPCR6X9JHU1N7OVu3afbDSYj5xIvzIpA&s",
+      "fuentePagina": "https://www.packagingch.com/yo/airtight-pe-ziplock-food-storage-bags-leakproof-freezer-safe-and-reusable-product/",
+      "titulo": "Àwọn Àpò Ìtọ́jú Oúnjẹ Ziplock tí a lè fi afẹ́fẹ́ PE ṣe tí kò ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTujYjPCR6X9JHU1N7OVu3afbDSYj5xIvzIpA&s",
+      "original": "https://cdn.globalso.com/packagingch/800x800.111.jpg"
+    }
+  ]
+}

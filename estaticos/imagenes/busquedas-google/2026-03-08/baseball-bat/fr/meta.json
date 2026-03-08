@@ -1,0 +1,71 @@
+{
+  "categoria": "baseball bat",
+  "categoriaSlug": "baseball-bat",
+  "idioma": "fr",
+  "nombreIdioma": "Français",
+  "termino": "batte de baseball",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:02:45.074Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "fr",
+    "gl": "be"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=batte%20de%20baseball&hl=fr&gl=be",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/baseball-bat/fr/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-vY6q_75KkTTXAcjNKkowO8Rsnq5iC4hFsA&s",
+      "fuentePagina": "https://fr.sport-thieme.be/Sports-d%C3%A9quipe/Baseball-softball/Battes-de-base-ball/art=2264149?srsltid=AfmBOoph4kgkgYEIZRfUO-c6DTGXCgiUkdXQDKykikAiqgOaBJL4FHFv",
+      "titulo": "Batte de baseball Sport-Thieme « Bois de hêtre »",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-vY6q_75KkTTXAcjNKkowO8Rsnq5iC4hFsA&s",
+      "original": "https://pimage.sport-thieme.be/P400/226-4149"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/baseball-bat/fr/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1t7c_HJN0dLAYMy_MLnEK0IfYCjBWWcO7Hw&s",
+      "fuentePagina": "https://www.amazon.com.be/BARNETT-BB-W-Batte-Baseball-Bois/dp/B002BZIVVC",
+      "titulo": "barnett BB-W Batte de baseball en bois pour débutant 7/10 : Amazon.com.be:  Sports et Loisirs",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1t7c_HJN0dLAYMy_MLnEK0IfYCjBWWcO7Hw&s",
+      "original": "https://m.media-amazon.com/images/I/51w0G+QbjXL.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/baseball-bat/fr/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSiOViNJ6kiTvNnvqsnCNt2Mgm1a0Yh4JmKHA&s",
+      "fuentePagina": "https://www.decathlon.be/fr/p/batte-de-baseball-en-bois-30-ou-33-ba180-noir/339002/c336c382m8737533",
+      "titulo": "Batte de Baseball en Bois 30\" ou 33\" BA180 - Noir | Decathlon",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSiOViNJ6kiTvNnvqsnCNt2Mgm1a0Yh4JmKHA&s",
+      "original": "https://contents.mediadecathlon.com/p2215882/k$a610d8f8d7fdb910015e9114654ef5c3/picture.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/baseball-bat/fr/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3Rkq4f-UP3ikxBcdy66B0xSIaWWJxdT2igg&s",
+      "fuentePagina": "https://fr.wikipedia.org/wiki/Batte_de_baseball",
+      "titulo": "Batte de baseball — Wikipédia",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3Rkq4f-UP3ikxBcdy66B0xSIaWWJxdT2igg&s",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/3/30/Fourbats.jpg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/baseball-bat/fr/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIsKrnZCGtDMPnY7r5ld0cUXcIgLBs_lBykQ&s",
+      "fuentePagina": "https://www.decathlon.be/fr/p/mp/batte-de-baseball-en-aluminium-bb-1/f75f748f-16cd-46ec-8039-ada778b3a67b/c248",
+      "titulo": "Batte de baseball en aluminium BB-1 28\" | Decathlon",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIsKrnZCGtDMPnY7r5ld0cUXcIgLBs_lBykQ&s",
+      "original": "https://contents.mediadecathlon.com/m4816860/k$1afdce10cc6856c1ae456910563a32fb/picture.jpg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/baseball-bat/fr/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSd6lWusEhg-avcTOfe5HSQ1ITWGMuCIZ_bLw&s",
+      "fuentePagina": "https://adecsport.be/products/batte-de-baseball-et-de-softball-en-aluminium",
+      "titulo": "Batte de baseball/softball en aluminium – 28 ou 30 pouces - 30pouces",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSd6lWusEhg-avcTOfe5HSQ1ITWGMuCIZ_bLw&s",
+      "original": "https://adecsport.be/cdn/shop/files/1622052_AASA_Baseball_30_inch_34770_1920x1920_445e3139-2f9f-46fc-a837-b77722e4ed52.jpg?v=1746727457"
+    }
+  ]
+}

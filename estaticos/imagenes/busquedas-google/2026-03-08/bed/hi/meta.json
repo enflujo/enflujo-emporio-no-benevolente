@@ -1,0 +1,71 @@
+{
+  "categoria": "bed",
+  "categoriaSlug": "bed",
+  "idioma": "hi",
+  "nombreIdioma": "हिन्दी",
+  "termino": "बिस्तर",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:19:18.167Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "hi",
+    "gl": "in"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=%E0%A4%AC%E0%A4%BF%E0%A4%B8%E0%A5%8D%E0%A4%A4%E0%A4%B0&hl=hi&gl=in",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bed/hi/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkW0UN0plyvQf3zRa3ZLov8yfFkjisy56mgw&s",
+      "fuentePagina": "https://www.amazon.in/-/hi/SIYARA-DESIGN-%E0%A4%85%E0%A4%B8%E0%A4%AC%E0%A4%BE%E0%A4%AC%E0%A4%B5%E0%A4%BE%E0%A4%B2%E0%A4%BE-%E0%A4%AC%E0%A4%BF%E0%A4%B8%E0%A5%8D%E0%A4%A4%E0%A4%B0-Uphostry/dp/B0CQHFYLYD",
+      "titulo": "SIYARA DESIGN असबाबवाला बिस्तर राजा ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkW0UN0plyvQf3zRa3ZLov8yfFkjisy56mgw&s",
+      "original": "https://m.media-amazon.com/images/I/611u6NfXNIL._AC_UF894,1000_QL80_.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bed/hi/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNY31kj6k9hgO0yeIitu9gjQmy9e8TWlTzMg&s",
+      "fuentePagina": "https://aarsunwoods.com/hi/product/latest-bed-design-in-teak/",
+      "titulo": "टीक YT-731 में नवीनतम बिस्तर डिजाइन",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNY31kj6k9hgO0yeIitu9gjQmy9e8TWlTzMg&s",
+      "original": "https://aarsunwoods.com/wp-content/uploads/2022/12/Latest-Bed-Design-in-Teak-B.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bed/hi/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdiqEmMQQm4pm3RBZAl8tIlwiDkOzwwPErwg&s",
+      "fuentePagina": "https://woodentwist.com/hi/products/afr7653?srsltid=AfmBOopOqlIsY1Cuv563KuAjqZyQIEjo4o4bOdiO_g09HPhOXWsnXaHF",
+      "titulo": "वुडनेटविस्ट पर स्टोरेज के साथ ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdiqEmMQQm4pm3RBZAl8tIlwiDkOzwwPErwg&s",
+      "original": "https://woodentwist.com/cdn/shop/files/LuxeModernDesignStorageQueenSizeBed_8.jpg?v=1743288855"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bed/hi/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlyk6Ht8uOWFVAJJaYCoYAcysDhYv2vMTWxg&s",
+      "fuentePagina": "https://www.amazon.in/-/hi/S-Modal-%E0%A4%8F%E0%A4%B8-%E0%A4%AE%E0%A5%89%E0%A4%A1%E0%A4%B2-%E0%A4%AC%E0%A4%BF%E0%A4%B8%E0%A5%8D%E0%A4%A4%E0%A4%B0/dp/B0C5593HCT",
+      "titulo": "एस मॉडल बिस्तर : Amazon.in: घर और किचन",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlyk6Ht8uOWFVAJJaYCoYAcysDhYv2vMTWxg&s",
+      "original": "https://m.media-amazon.com/images/I/71hU5yvkN2L._AC_UF894,1000_QL80_.jpg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bed/hi/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS140gHM1NlgrkDJjtcBzX31aBmZA__rk8jNA&s",
+      "fuentePagina": "https://aarsunwoods.com/hi/product/handmade-antique-style-wooden-bed/",
+      "titulo": "प्राचीन शैली का लकड़ी का बिस्तर ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS140gHM1NlgrkDJjtcBzX31aBmZA__rk8jNA&s",
+      "original": "https://aarsunwoods.com/wp-content/uploads/2020/03/Antique-Style-Wooden-Bed-UH-BED-0001-C-jpg.webp"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bed/hi/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMIbyznryzvLiVIsORjg0kcx27IzWnN3yZvA&s",
+      "fuentePagina": "https://woodentwist.com/hi/products/afr7650?srsltid=AfmBOopkHRB0z9zJ4T9YjONB_rSbnW94BEJlEz5gAfBrcxXjCB7dqxbN",
+      "titulo": "स्टोरेज के साथ बेडरूम के लिए ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMIbyznryzvLiVIsORjg0kcx27IzWnN3yZvA&s",
+      "original": "http://woodentwist.com/cdn/shop/products/untitled.1274.jpg?v=1743288748"
+    }
+  ]
+}

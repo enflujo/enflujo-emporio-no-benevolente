@@ -1,0 +1,71 @@
+{
+  "categoria": "bed",
+  "categoriaSlug": "bed",
+  "idioma": "en",
+  "nombreIdioma": "English",
+  "termino": "bed",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:18:53.159Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "en",
+    "gl": "us"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=bed&hl=en&gl=us",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bed/en/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqzeBvJQjUbRpMscK39wkj055BifCn_d9srw&s",
+      "fuentePagina": "https://www.amazon.com/Headboard-Platform-Compatible-Mattresses-Noise-Free/dp/B0D1FTN9HT",
+      "titulo": "Amazon.com: Acacia Emery Bed Frame with Headboard Solid Wood ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqzeBvJQjUbRpMscK39wkj055BifCn_d9srw&s",
+      "original": "https://m.media-amazon.com/images/I/81a-oJGw2-L.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bed/en/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQaNELrErbiu8M3RmLt8Wxa8PWoPWkZgdea4g&s",
+      "fuentePagina": "https://beautyandbreadwoodshop.com/product/bed-no-5/",
+      "titulo": "Bed No. 5 | Beauty and Bread",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQaNELrErbiu8M3RmLt8Wxa8PWoPWkZgdea4g&s",
+      "original": "https://beautyandbreadwoodshop.com/wp-content/uploads/DSC01872-3-scaled.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bed/en/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT04gD8Nm52ctcrFrr5sVzlFF41STe1obfBvQ&s",
+      "fuentePagina": "https://www.mcgeeandco.com/products/gilmore-canopy-bed?srsltid=AfmBOorpWSmepZHbo4NTgqXnLxHQ1L5yC-HiVzFsIXx-y8Spg0YVUUqE",
+      "titulo": "Gilmore Canopy Bed",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT04gD8Nm52ctcrFrr5sVzlFF41STe1obfBvQ&s",
+      "original": "https://www.mcgeeandco.com/cdn/shop/files/studiomcgee-Fall2024-20240522-0529-T_1028b105-b990-4695-baac-b527b888ae29.jpg?v=1761582966"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bed/en/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTj25ZAxa5Eqa56Xj6217HkDLyITKpXgR_QiA&s",
+      "fuentePagina": "https://www.dealbeds.com/baxton-studio-lexi-modern-and-contemporary-light-grey-fabric-upholstered-bed/?srsltid=AfmBOooKzbVgRLRPIFy5T25WzoYlGoaGGPN5JH2K_Tmw3OvwMP9t-AUu",
+      "titulo": "Baxton Studio Lexi Modern and Contemporary Light Grey Fabric Upholstered Bed",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTj25ZAxa5Eqa56Xj6217HkDLyITKpXgR_QiA&s",
+      "original": "https://cdn11.bigcommerce.com/s-rpzf45a/images/stencil/1280x1280/products/5764/33292/CF8747-F-Light%20Grey-Queen-6__80720.1531860841.jpg?c=2"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bed/en/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIJqEsZeI8X9x3t9HoGK42EfTDjQep6DZcwg&s",
+      "fuentePagina": "https://www.walmart.com/ip/Homfa-King-Floating-Bed-with-Lights-LED-Platform-Bed-Frame-with-Under-Bed-Storage-PU-Leather-Adjustable-Tufted-Upholstered-Bed-White/2171945009",
+      "titulo": "Homfa King Floating Bed with Lights, LED Platform Bed Frame ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIJqEsZeI8X9x3t9HoGK42EfTDjQep6DZcwg&s",
+      "original": "https://i5.walmartimages.com/seo/Homfa-King-Floating-Bed-with-Lights-LED-Platform-Bed-Frame-with-Under-Bed-Storage-PU-Leather-Adjustable-Tufted-Upholstered-Bed-White_32409c95-94f9-420e-b716-9630f25281d9.8f225689bab6fa357ad35035d6d7d4e3.jpeg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bed/en/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2SaCaAhMAcWYIwo9_GTfO2PjXUWl2Z4OecA&s",
+      "fuentePagina": "https://theluxurybedcompany.us/product/charlie-bed/?srsltid=AfmBOorSnXoc2pogUt7_wgnYFxwUw4lMOhvQC9H_krkQ4AECmdO15TYa",
+      "titulo": "Charlie Bed – TLBC-USA",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2SaCaAhMAcWYIwo9_GTfO2PjXUWl2Z4OecA&s",
+      "original": "https://theluxurybedcompany.us/wp-content/uploads/2024/11/Charlie-Bed.png"
+    }
+  ]
+}

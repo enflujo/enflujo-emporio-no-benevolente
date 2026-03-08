@@ -1,0 +1,71 @@
+{
+  "categoria": "skis",
+  "categoriaSlug": "skis",
+  "idioma": "fr",
+  "nombreIdioma": "Français",
+  "termino": "skis",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:00:11.270Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "fr",
+    "gl": "be"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=skis&hl=fr&gl=be",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/skis/fr/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5m0JkCoNN4FX0XhUc9t_5TlNol-hVrOFdow&s",
+      "fuentePagina": "https://desenio.be/fr-be/p/affiches/sports/cross-country-skis-affiche/",
+      "titulo": "Cross Country Skis Affiche 50x70 cm",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5m0JkCoNN4FX0XhUc9t_5TlNol-hVrOFdow&s",
+      "original": "https://media.desenio.com/site_images/685d9acf8b7ca77dcb8aee45_618108838_19346-5.jpg?auto=compress%2Cformat&fit=max&w=3840"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/skis/fr/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1aKdeOvp0JY1IIwOTVnXf8aDIlnb3cA90Ww&s",
+      "fuentePagina": "https://www.snowfeetstore.com/products/skiblades-120-cm-by-snowfeet-skiboards-snowblades-short-little-skis-47-inch?srsltid=AfmBOopGx9AARbmzdlmZV0-zq7tBGO7qrBk_ZISeK5hy21W4EpQmADCk",
+      "titulo": "Snowfeet* Short Skis | 120 CM | Skiblades Skiboards Snowblades",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1aKdeOvp0JY1IIwOTVnXf8aDIlnb3cA90Ww&s",
+      "original": "https://www.snowfeetstore.com/cdn/shop/files/Snowfeet120_black_pro_ski_binding_5_7508a736-a928-421e-ba5d-ff9f96f71889.jpg?v=1762502402"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/skis/fr/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsV0RALd2xf6Sok6-Ldntr7s5Gsn17LiKRNw&s",
+      "fuentePagina": "https://factionskis.com/fr/collections/freeride",
+      "titulo": "Skis Freeride | Skis Faction 2026 – Faction Skis",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsV0RALd2xf6Sok6-Ldntr7s5Gsn17LiKRNw&s",
+      "original": "https://factionskis.com/cdn/shop/files/Faction-Skis-2526-Studio-3-Lux3-1x1.jpg?v=1750262400&width=800"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/skis/fr/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZ4Fz79Y5SkWGefDric_yCEw8eCs1sKUxvYA&s",
+      "fuentePagina": "https://www.skatepro.be/fr/171-52827.htm",
+      "titulo": "Head WCR e-SG 175 Rebel Skis De Course Junior",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZ4Fz79Y5SkWGefDric_yCEw8eCs1sKUxvYA&s",
+      "original": "https://cdn.skatepro.com/product/520/head-wcr-e-sg-175-rebel-junior-race-skis-3o.webp"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/skis/fr/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsjSE91kttABxFjMayhAzg7NLZKwoyJjRCLw&s",
+      "fuentePagina": "https://www.voile.com/voile-ultravector-skis.html?srsltid=AfmBOor0BElXf0PwlC2mJBNocHUooDTosVK0WnrGolTQeyyJyTrMn67_",
+      "titulo": "Voile UltraVector Skis",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsjSE91kttABxFjMayhAzg7NLZKwoyJjRCLw&s",
+      "original": "https://www.voile.com/mm5/graphics/00000001/2/voile-ultravector-skis-2324.jpg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/skis/fr/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSesKZhM6xYf7k-SowNwuL3TDI8aQM03kp80g&s",
+      "fuentePagina": "https://www.dynastar-lange.com/be-fr/skis",
+      "titulo": "Skis Alpins, Freeride, Racing et Randonnée - Acheter des ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSesKZhM6xYf7k-SowNwuL3TDI8aQM03kp80g&s",
+      "original": "https://www.dynastar-lange.com/dw/image/v2/BJJZ_PRD/on/demandware.static/-/Sites-rossignol-catalog/default/dw1984563a/images/large/DAOZ401_000_72DPI_01.jpg?sw=800"
+    }
+  ]
+}

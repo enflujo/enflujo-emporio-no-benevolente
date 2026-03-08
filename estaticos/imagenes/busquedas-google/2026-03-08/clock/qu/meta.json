@@ -1,0 +1,71 @@
+{
+  "categoria": "clock",
+  "categoriaSlug": "clock",
+  "idioma": "qu",
+  "nombreIdioma": "Quechua",
+  "termino": "reloj",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:29:07.944Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "es",
+    "gl": "pe"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=reloj&hl=es&gl=pe",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/clock/qu/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRITJ8ZSChocskJx9yrJ72VbNLz2eSwEBG9jw&s",
+      "fuentePagina": "https://www.freepik.es/fotos-vectores-gratis/reloj-dibujo",
+      "titulo": "Imágenes de Reloj dibujo - Descarga gratuita en Freepik",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRITJ8ZSChocskJx9yrJ72VbNLz2eSwEBG9jw&s",
+      "original": "https://img.freepik.com/vector-gratis/reloj-pared-sobre-fondo-blanco_1308-81573.jpg?semt=ais_rp_50_assets&w=740&q=80"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/clock/qu/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ90ELYq830aTmh9sAkWC3MyRuKi5S9zY4BUg&s",
+      "fuentePagina": "https://www.woodenson.pe/producto/reloj-de-pulsera-de-madera-con-numeros-en-la-esfera-modelo-terral",
+      "titulo": "Reloj de pulsera de madera con números en la esfera modelo ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ90ELYq830aTmh9sAkWC3MyRuKi5S9zY4BUg&s",
+      "original": "https://www.woodenson.pe/wp-content/uploads/sites/6/2019/01/sotorincon-08.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/clock/qu/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQp0pBA8mMM0XBsrGe7WbnvtEXWsnE5aKm8_g&s",
+      "fuentePagina": "https://www.freepik.es/fotos-vectores-gratis/reloj",
+      "titulo": "Imágenes de Reloj - Descarga gratuita en Freepik",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQp0pBA8mMM0XBsrGe7WbnvtEXWsnE5aKm8_g&s",
+      "original": "https://img.freepik.com/vector-gratis/cuenta-atras-fecha-limite-reloj-moderno_24877-81802.jpg?semt=ais_rp_50_assets&w=740&q=80"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/clock/qu/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwOzM6Jk2mL7uGRKG3H2MaApH1a1G5Tstp_w&s",
+      "fuentePagina": "https://www.promart.pe/reloj-de-pared-vidrio-25-4cm-dia/p?srsltid=AfmBOoq-Tnid4ZAZFYca1OJ1CL2QyOBT_USTqTXlVw-DRkCcFuq0Jud8",
+      "titulo": "Reloj de pared Vidrio 25.4cm Día Orange | Promart.pe - Promart",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwOzM6Jk2mL7uGRKG3H2MaApH1a1G5Tstp_w&s",
+      "original": "https://promart.vteximg.com.br/arquivos/ids/7857428/137512.jpg?v=638446826297430000"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/clock/qu/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRs8n_kvlmscHkkD8TBpuUn2fwr1SMmuQ0ATw&s",
+      "fuentePagina": "https://www.woodenson.pe/producto/reloj-de-madera-kobe-onyx",
+      "titulo": "Reloj de madera Kobe Onyx - Woodenson Perú",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRs8n_kvlmscHkkD8TBpuUn2fwr1SMmuQ0ATw&s",
+      "original": "https://www.woodenson.pe/wp-content/uploads/sites/6/2019/05/DSC_0370.jpg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/clock/qu/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuvT-KOvnn_S_TRbgXuJta1hhqKx0Jl_esog&s",
+      "fuentePagina": "https://es.wikipedia.org/wiki/Reloj_anal%C3%B3gico",
+      "titulo": "Reloj analógico - Wikipedia, la enciclopedia libre",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuvT-KOvnn_S_TRbgXuJta1hhqKx0Jl_esog&s",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/AnalogClockAnimation1_still_frame.svg/330px-AnalogClockAnimation1_still_frame.svg.png"
+    }
+  ]
+}

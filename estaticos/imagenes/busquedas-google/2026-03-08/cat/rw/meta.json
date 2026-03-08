@@ -1,0 +1,71 @@
+{
+  "categoria": "cat",
+  "categoriaSlug": "cat",
+  "idioma": "rw",
+  "nombreIdioma": "Kinyarwanda",
+  "termino": "injangwe",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T20:50:20.479Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "en",
+    "gl": "rw"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=injangwe&hl=en&gl=rw",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/cat/rw/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFheU7zVcmQG6DUkJgqzmtHijE7PqQKl_vzg&s",
+      "fuentePagina": "https://rw.wikipedia.org/wiki/Injangwe",
+      "titulo": "Injangwe - Wikipedia",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFheU7zVcmQG6DUkJgqzmtHijE7PqQKl_vzg&s",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Domestic_Cat_Black.jpg/250px-Domestic_Cat_Black.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/cat/rw/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGmqyzF9de9GPSuRmShNrJTwwP2RU9q_IoXQ&s",
+      "fuentePagina": "https://rw.wikipedia.org/wiki/Injangwe",
+      "titulo": "Injangwe - Wikipedia",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGmqyzF9de9GPSuRmShNrJTwwP2RU9q_IoXQ&s",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/6/64/Collage_of_Six_Cats-02.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/cat/rw/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTADSE_x_Y0lQGny5Qp8A2ALg5hscNe-UHM3Q&s",
+      "fuentePagina": "https://rw.wikipedia.org/wiki/Injangwe",
+      "titulo": "Injangwe - Wikipedia",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTADSE_x_Y0lQGny5Qp8A2ALg5hscNe-UHM3Q&s",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Domestic_cat_felis_catus.jpg/250px-Domestic_cat_felis_catus.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/cat/rw/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqB5selCAgp-_8YaXF0dEN1hWpGwnGgBjNhQ&s",
+      "fuentePagina": "https://www.kigalitoday.com/uko-mbyumva/article/igitekerezo-nibaza-ahantu-abarokore-bahuriza-injangwe-na-shitani",
+      "titulo": "Igitekerezo: Nibaza ahantu abarokore bahuriza injangwe na ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqB5selCAgp-_8YaXF0dEN1hWpGwnGgBjNhQ&s",
+      "original": "https://www.kigalitoday.com/IMG/jpg/injangwe.jpg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/cat/rw/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-_YgHzOn3thzRAdkLQgl7Rx4pQUAbhEA0Dw&s",
+      "fuentePagina": "https://rw.wikipedia.org/wiki/Injangwe",
+      "titulo": "Injangwe - Wikipedia",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-_YgHzOn3thzRAdkLQgl7Rx4pQUAbhEA0Dw&s",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Felis_catus-cat_on_snow.jpg/250px-Felis_catus-cat_on_snow.jpg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/cat/rw/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqJ7uDQOjIENKJss4y95JA77rQjd6TaIMhsQ&s",
+      "fuentePagina": "https://dusabane.wordpress.com/2017/07/15/dore-indwara-ziterwa-n-injangwe/",
+      "titulo": "DORE INDWARA ZITERWA N' INJANGWE – Dusabane Magazine",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqJ7uDQOjIENKJss4y95JA77rQjd6TaIMhsQ&s",
+      "original": "https://dusabane.wordpress.com/wp-content/uploads/2017/07/img_0875.jpg"
+    }
+  ]
+}

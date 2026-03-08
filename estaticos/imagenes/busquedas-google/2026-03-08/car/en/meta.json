@@ -1,0 +1,71 @@
+{
+  "categoria": "car",
+  "categoriaSlug": "car",
+  "idioma": "en",
+  "nombreIdioma": "English",
+  "termino": "car",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T20:41:38.633Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "en",
+    "gl": "us"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=car&hl=en&gl=us",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/car/en/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYGFThOoXhSRsWEW-NbwqUY4yhlQ2UkHUzYw&s",
+      "fuentePagina": "https://www.wired.com/story/the-best-cars-rides-and-auto-tech-of-ces-2023/",
+      "titulo": "The Best Cars, Rides, and Auto Tech of CES 2023 | WIRED",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYGFThOoXhSRsWEW-NbwqUY4yhlQ2UkHUzYw&s",
+      "original": "http://media.wired.com/photos/63b8d0a771c6b526845f15a6/master/pass/CES-2023-PEUGEOT_INCEPTION_CONCEPT_2301CN202.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/car/en/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5OOdmroWDpWEbbytAew7LAkKvzUYhmZZx8Q&s",
+      "fuentePagina": "https://www.kbb.com/car-advice/sports-car-buying-guide/",
+      "titulo": "Sports Car Buying Guide: Everything You Need to Know ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5OOdmroWDpWEbbytAew7LAkKvzUYhmZZx8Q&s",
+      "original": "https://www.kbb.com/wp-content/uploads/2025/02/2025-chevrolet-corvette-zr1-coupe-front-right.jpg?w=300&crop=1&strip=all"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/car/en/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSw2dAVNmBhqVvNPAs7LJHnumSH3pHdoWP0bg&s",
+      "fuentePagina": "https://www.caranddriver.com/features/g28985154/future-cars/",
+      "titulo": "Future Cars Worth Waiting For: 2026–2030",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSw2dAVNmBhqVvNPAs7LJHnumSH3pHdoWP0bg&s",
+      "original": "https://hips.hearstapps.com/hmg-prod/images/ferrari-e-suv-2-copy-680287cac36b2.jpg?crop=1.00xw:0.838xh;0,0.0673xh"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/car/en/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRxYyDH2yPgNWCdBI0S9ypTNf15Mz-l38XHw&s",
+      "fuentePagina": "https://www.mbusa.com/en/vehicles/build",
+      "titulo": "Build Your Own Car - Luxury Custom Cars | Mercedes-Benz USA",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRxYyDH2yPgNWCdBI0S9ypTNf15Mz-l38XHw&s",
+      "original": "https://www.mbusa.com/content/dam/mb-nafta/us/myco/my24/eqe-class/sedan/all-vehicles/2024-EQE350-4M-SEDAN-AVP-DR.png"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/car/en/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcK8LuTRihbc5t5dlS6Lw6Q710u02oN80LJw&s",
+      "fuentePagina": "https://www.autoshippers.co.uk/blog/the-most-expensive-cars-of-2020",
+      "titulo": "The Most Expensive Cars of 2020 - Autoshippers Blog",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcK8LuTRihbc5t5dlS6Lw6Q710u02oN80LJw&s",
+      "original": "https://www.autoshippers.co.uk/blog/wp-content/uploads/bugatti-centodieci.jpg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/car/en/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkKoLwTbACR3bQXQySnQcHbnpsNEHZaiBdPA&s",
+      "fuentePagina": "https://www.gq-magazine.co.uk/lifestyle/article/12-cars-for-2021",
+      "titulo": "Twelve cars we are most excited about driving in 2021 ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkKoLwTbACR3bQXQySnQcHbnpsNEHZaiBdPA&s",
+      "original": "https://media.gq-magazine.co.uk/photos/5fdcb8470d9a429c2d245628/16:9/w_2560%2Cc_limit/2021CARS_AUDIEtron.jpg"
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "categoria": "boat",
+  "categoriaSlug": "boat",
+  "idioma": "kg",
+  "nombreIdioma": "Kikongo",
+  "termino": "bwatu",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T20:45:41.336Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "fr",
+    "gl": "cd"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=bwatu&hl=fr&gl=cd",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/boat/kg/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFtmHvGZa1KNIz9U4sdOiWoJk6x45lXqhHBw&s",
+      "fuentePagina": "https://fr.linkedin.com/in/fallon-bwatu-41420942",
+      "titulo": "Fallon Bwatu - World Health Organization | LinkedIn",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFtmHvGZa1KNIz9U4sdOiWoJk6x45lXqhHBw&s",
+      "original": "https://media.licdn.com/dms/image/v2/C4D03AQHaEoLdugQ_yg/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1647781515352?e=2147483647&v=beta&t=6AhZHAoHM5jdgPK-0Sge4GzF1wOs2X8K5a8nkGySTaI"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/boat/kg/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEO1BFrzC-YsgbT9ApYg0dCuupnZXtLmhhpQ&s",
+      "fuentePagina": "https://www.facebook.com/p/Abubakar-bwatu-100082216497498/",
+      "titulo": "Abubakar bwatu",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEO1BFrzC-YsgbT9ApYg0dCuupnZXtLmhhpQ&s",
+      "original": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=100082216497498"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/boat/kg/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBJAgPHokuGh5renBE50PYqoT63auU37Gozg&s",
+      "fuentePagina": "https://thisisbasketball.be/player/bwatu-fely/",
+      "titulo": "Bwatu, Fely - This Is Basketball",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBJAgPHokuGh5renBE50PYqoT63auU37Gozg&s",
+      "original": "https://thisisbasketball.be/wp-content/uploads/1980/06/Bwatu_Fely.png"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/boat/kg/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8DiiRUyB4RKyuVYHpdR6fDbybhkGnA-EWEQ&s",
+      "fuentePagina": "https://open.spotify.com/intl-fr/track/1O4TETPk32fowouSSsdGE9",
+      "titulo": "Kumba Bwatu - titre et paroles par Jackson Mpongo | Spotify",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8DiiRUyB4RKyuVYHpdR6fDbybhkGnA-EWEQ&s",
+      "original": "https://i.scdn.co/image/ab67616d00001e02c732d5d3d7e2e54f65db8eae"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/boat/kg/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRga-TESEVH3TZtQT1OYOvJm1ZUOkEkEe4ezg&s",
+      "fuentePagina": "https://blerilleshi.wordpress.com/2013/12/31/ted-bwatu-nous-eux-a/",
+      "titulo": "Ted Bwatu // Nous – Eux = A | Bleri Lleshi's Blog",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRga-TESEVH3TZtQT1OYOvJm1ZUOkEkEe4ezg&s",
+      "original": "https://blerilleshi.wordpress.com/wp-content/uploads/2013/12/ted-bwatu.jpg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/boat/kg/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQb-mLgTd23CoLOdqOpzrn9dFElG2nj_I5TUg&s",
+      "fuentePagina": "https://www.facebook.com/annie.bwatu/",
+      "titulo": "Annie Bwatu (@annie.bwatu) • Facebook",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQb-mLgTd23CoLOdqOpzrn9dFElG2nj_I5TUg&s",
+      "original": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=582885188"
+    }
+  ]
+}

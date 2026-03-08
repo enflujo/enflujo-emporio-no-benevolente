@@ -1,0 +1,71 @@
+{
+  "categoria": "bicycle",
+  "categoriaSlug": "bicycle",
+  "idioma": "zu",
+  "nombreIdioma": "isiZulu",
+  "termino": "ibhayisikili",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T20:41:17.836Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "zu",
+    "gl": "za"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=ibhayisikili&hl=zu&gl=za",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bicycle/zu/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2okffHzTMKXkPaM3ZtuXp0iGa1jSKRHs_OA&s",
+      "fuentePagina": "https://www.terafundchina.com/zu/26-inch-bike-for-adult-and-youth-bj26i3-product/",
+      "titulo": "Ibhayisikili lase-China elingu-26 Inch Labantu Abadala ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2okffHzTMKXkPaM3ZtuXp0iGa1jSKRHs_OA&s",
+      "original": "https://www.terafundchina.com/uploads/BJ26L1-2.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bicycle/zu/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYE-h_jFiXLaNDLKqK_Rcesw2Bu_ocoL9KpA&s",
+      "fuentePagina": "https://www.youtube.com/watch?v=h5sqnO2D8RQ",
+      "titulo": "Ukuphupha ugibele bicycle , isikhona incwadi yamaphupho R400",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYE-h_jFiXLaNDLKqK_Rcesw2Bu_ocoL9KpA&s",
+      "original": "https://i.ytimg.com/vi/h5sqnO2D8RQ/hqdefault.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bicycle/zu/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6bHxnWG3oNuvX5j6mNT-N3endQy0vbibrMw&s",
+      "fuentePagina": "http://zu.anb-gamma.com/23wn012-14-product/",
+      "titulo": "Isitolo esidayisa yonke impahla 14'' Boys freestyle bmx bike ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6bHxnWG3oNuvX5j6mNT-N3endQy0vbibrMw&s",
+      "original": "http://cdn.globalso.com/anb-gamma/23WN012-141.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bicycle/zu/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMOkmpm2FITVkCwdoakRfMwUh35aJ2PzbQXg&s",
+      "fuentePagina": "https://www.bhiyozapublishers.co.za/product/ibhayisikili-elibomvu/",
+      "titulo": "IBHAYISIKILI ELIBOMVU – Bhiyoza Publishers Pty(Ltd).",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMOkmpm2FITVkCwdoakRfMwUh35aJ2PzbQXg&s",
+      "original": "https://www.bhiyozapublishers.co.za/wp-content/uploads/2024/02/IBHAYISIKILI-ELIBOMVU-FRONT-COVER-IMAGE.png"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bicycle/zu/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSbwqI11eKX_3gpsqmJcsoxkBBdkGWgvTAmg&s",
+      "fuentePagina": "https://www.facebook.com/voandebele/posts/umeli-ndlovu-utshova-ibhayisikili-esuka-ejohannesburg-esiya-kobulawayo-usuke-ego/2822959738004042/",
+      "titulo": "UMeli Ndlovu utshova ibhayisikili esuka eJohannesburg esiya ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSbwqI11eKX_3gpsqmJcsoxkBBdkGWgvTAmg&s",
+      "original": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=2822959364670746"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bicycle/zu/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpV1BVUEEfbE07IddEcqu_M1kb_QCJWjuj8w&s",
+      "fuentePagina": "https://www.youtube.com/watch?v=NuCFz-TEJE0",
+      "titulo": "Ukuphupha ibhayisikili | ‪@pastorweningi‬ - YouTube",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpV1BVUEEfbE07IddEcqu_M1kb_QCJWjuj8w&s",
+      "original": "https://i.ytimg.com/vi/NuCFz-TEJE0/sddefault.jpg?v=6436df7c"
+    }
+  ]
+}

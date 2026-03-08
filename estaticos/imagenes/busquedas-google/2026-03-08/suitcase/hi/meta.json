@@ -1,0 +1,71 @@
+{
+  "categoria": "suitcase",
+  "categoriaSlug": "suitcase",
+  "idioma": "hi",
+  "nombreIdioma": "हिन्दी",
+  "termino": "सूटकेस",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T20:59:09.736Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "hi",
+    "gl": "in"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=%E0%A4%B8%E0%A5%82%E0%A4%9F%E0%A4%95%E0%A5%87%E0%A4%B8&hl=hi&gl=in",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/suitcase/hi/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSE0jkahRd3gR-5eama-0b46LeLNnEDZqsJ8A&s",
+      "fuentePagina": "https://www.amazon.in/-/hi/%E0%A4%B2%E0%A4%97%E0%A5%87%E0%A4%9C-%E0%A4%95%E0%A4%BE-%E0%A4%B8%E0%A5%89%E0%A4%AB%E0%A5%8D%E0%A4%9F-%E0%A4%AC%E0%A5%89%E0%A4%A1%E0%A5%80-%E0%A4%B8%E0%A5%87%E0%A4%9F/dp/B0C1G7J893",
+      "titulo": "3 लगेज का सॉफ्ट बॉडी सेट - |20+24+28 ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSE0jkahRd3gR-5eama-0b46LeLNnEDZqsJ8A&s",
+      "original": "https://m.media-amazon.com/images/I/71t8YtoON-L._AC_UY1100_.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/suitcase/hi/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ03Bo8WZFIrn6pEfBsIqzKX7QEY-HMRZDwdQ&s",
+      "fuentePagina": "https://www.amazon.in/-/hi/%E0%A4%9F%E0%A5%8D%E0%A4%B0%E0%A5%89%E0%A4%B2%E0%A5%80-%E0%A4%AE%E0%A4%B9%E0%A4%BF%E0%A4%B2%E0%A4%BE%E0%A4%93%E0%A4%82-%E0%A4%9F%E0%A5%8D%E0%A4%B0%E0%A5%88%E0%A4%B5%E0%A4%B2-%E0%A4%95%E0%A5%87%E0%A4%AC%E0%A4%BF%E0%A4%A8-%E0%A4%85%E0%A4%A8%E0%A5%81%E0%A4%95%E0%A5%82%E0%A4%B2-%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%A4%E0%A4%BF%E0%A4%B0%E0%A5%8B%E0%A4%A7%E0%A5%80/dp/B0DCSJBX2W",
+      "titulo": "ट्रॉली बैग छोटा आकार, महिलाओं के ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ03Bo8WZFIrn6pEfBsIqzKX7QEY-HMRZDwdQ&s",
+      "original": "https://m.media-amazon.com/images/I/611f4ibKoEL._AC_UY1100_.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/suitcase/hi/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHn_UhpTjRW0_Z0FwMOOCYQ8wOZyZAHA_0tA&s",
+      "fuentePagina": "https://www.flipkart.com/hi/city-bag-trolley-set-2-luggage-expandable-cabin-suitcase-24-inch/p/itmaad21d81de703",
+      "titulo": "CITY BAG TROLLEY BAG SET OF 2 LUGGAGE BAG Expandable Cabin ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHn_UhpTjRW0_Z0FwMOOCYQ8wOZyZAHA_0tA&s",
+      "original": "https://rukminim2.flixcart.com/image/480/640/xif0q/suitcase/m/q/g/-original-imah2c45hyp4c6hb.jpeg?q=90"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/suitcase/hi/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmoQNi0--M1U4ddl1iK9ixMUyxAdcuEhs-DA&s",
+      "fuentePagina": "https://www.flipkart.com/hi/krishiv-4-wheel-leather-trolley-bag-suitcase-men-women-unisex-cabin-check-in-set-18-inch/p/itm35a1d47537c3e",
+      "titulo": "Krishiv 4 Wheel Leather Trolley Bag Suitcase for Men Women ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmoQNi0--M1U4ddl1iK9ixMUyxAdcuEhs-DA&s",
+      "original": "https://rukminim2.flixcart.com/image/480/640/xif0q/suitcase/f/b/y/18-4-wheel-leather-trolley-bag-suitcase-for-men-women-unisex-1-original-imahbqprhhbgfz6e.jpeg?q=90"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/suitcase/hi/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6_TNPbmwV_ZQq5-YygxsdVdAjqaQwQ_mtQg&s",
+      "fuentePagina": "https://www.abplive.com/lifestyle/amazon-offer-on-travel-luggage-discount-on-trolley-bag-buy-branded-trolley-bag-discount-on-travel-suitcase-hardcase-luggage-bag-skybag-safari-vip-american-tourister-2023636",
+      "titulo": "Amazon Offer On Travel Luggage Discount On Trolley Bag Buy ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6_TNPbmwV_ZQq5-YygxsdVdAjqaQwQ_mtQg&s",
+      "original": "https://feeds.abplive.com/onecms/images/uploaded-images/2021/12/24/c54d0d9a159b23940833018626b8221e_original.jpg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/suitcase/hi/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQjYVjwbb7BKJSdirdKNO82xmw0nUXCgYOJg&s",
+      "fuentePagina": "https://www.tradeindia.com/hi/products/hard-shell-luggage-plastic-suitcase-for-kids-6419716.html",
+      "titulo": "बच्चों के लिए हार्ड शेल लगेज ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQjYVjwbb7BKJSdirdKNO82xmw0nUXCgYOJg&s",
+      "original": "https://tiimg.tistatic.com/fp/2/006/419/hard-shell-luggage-plastic-suitcase-for-kids-716.jpg"
+    }
+  ]
+}

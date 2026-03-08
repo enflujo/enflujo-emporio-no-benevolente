@@ -1,0 +1,71 @@
+{
+  "categoria": "baseball glove",
+  "categoriaSlug": "baseball-glove",
+  "idioma": "ln",
+  "nombreIdioma": "Lingala",
+  "termino": "gant ya baseball",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:03:19.892Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "fr",
+    "gl": "cd"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=gant%20ya%20baseball&hl=fr&gl=cd",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/baseball-glove/ln/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHO7mPqhXe1IuIQOBIGNjAcZsPDGtsYgHSfA&s",
+      "fuentePagina": "https://baseball360.com/fr/collections/outfield-baseball-gloves?srsltid=AfmBOopChcMZUYvvtPaoMlhSd2qtadltrlh8I9DAlqDolrKR6DZwv43c",
+      "titulo": "Gants de baseball pour le terrain extérieur - Trouvez le ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHO7mPqhXe1IuIQOBIGNjAcZsPDGtsYgHSfA&s",
+      "original": "https://baseball360.com/cdn/shop/files/79947197ed6b2252d8c3b9c6e9bf61e6.png?crop=center&height=645&v=1735336024&width=645"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/baseball-glove/ln/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTB_TF-gbvTZRXKmxg5cG3harhQ7pvQ-GI1Uw&s",
+      "fuentePagina": "https://baseball360.com/fr/collections/outfield-baseball-gloves?srsltid=AfmBOorTd0htjNFZP7KhIqwkMvDKdKyufUdvgp-gisvN7fQnfEDQ0aL9",
+      "titulo": "Gants de baseball pour le terrain extérieur - Trouvez le ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTB_TF-gbvTZRXKmxg5cG3harhQ7pvQ-GI1Uw&s",
+      "original": "https://baseball360.com/cdn/shop/files/WBW102521_0_A2000_Winter_2024_1786_IF_115_Black_FlamingoPink_Teal.webp?crop=center&height=645&v=1734655532&width=645"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/baseball-glove/ln/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbZ1HtEbBU3fDRNk0nFTbeeD_ZDThnUp4nkg&s",
+      "fuentePagina": "https://baseball-shop.online/fr/22-gants-d-exterieur",
+      "titulo": "Gants de champ extérieur pour le baseball et le softball",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbZ1HtEbBU3fDRNk0nFTbeeD_ZDThnUp4nkg&s",
+      "original": "https://baseball-shop.online/9762-home_default/gant-de-baseball-rawlings-sc105ccc-105.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/baseball-glove/ln/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAJRzBxbyicFdxvAGGqQzu7jUjyMSVCV29Jg&s",
+      "fuentePagina": "https://baseball360.com/fr/collections/outfield-baseball-gloves?srsltid=AfmBOor_AOVXesXuFKeaS_VBiZY_A4WiVD-WhrD4K2Enf_Atn_M23swS",
+      "titulo": "Gants de baseball pour le terrain extérieur - Trouvez le ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAJRzBxbyicFdxvAGGqQzu7jUjyMSVCV29Jg&s",
+      "original": "https://baseball360.com/cdn/shop/files/wbw1025271275_fr-bla_1.jpg?crop=center&height=645&v=1734656073&width=645"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/baseball-glove/ln/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWx4v5WJ9dPLFEjZ30CSBkp0bRVxHOOysBnw&s",
+      "fuentePagina": "https://www.grandchelem.ca/fr/boutique-specialisee/gants/gants-de-baseball-senior-adulte/?srsltid=AfmBOoo-nXWUCaEWOBsYTaxESLj9jgtt1PH7f3c0oX78qqSih42WxnXv",
+      "titulo": "Gants de baseball senior/adulte - Grand Chelem Centre de Balle",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWx4v5WJ9dPLFEjZ30CSBkp0bRVxHOOysBnw&s",
+      "original": "https://cdn.shoplightspeed.com/shops/620090/files/74343364/325x375x2/wilson-gant-de-baseball-a2000-bobby-witt-jr-1175.jpg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/baseball-glove/ln/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR67ymjBYjBgPHmRM_1FPsvmOkhtsUqi_izxA&s",
+      "fuentePagina": "https://www.grandchelem.ca/fr/boutique-specialisee/gants/gants-de-baseball-senior-adulte/?srsltid=AfmBOor4-eflLo9FHS4F1eO_184w_5uk0wKnScxA86AfGn9sm0wqxJ7m",
+      "titulo": "Gants de baseball senior/adulte - Grand Chelem Centre de Balle",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR67ymjBYjBgPHmRM_1FPsvmOkhtsUqi_izxA&s",
+      "original": "https://cdn.shoplightspeed.com/shops/620090/files/74092221/325x375x2/rawlings-gant-de-baseball-heart-of-the-hide-series.jpg"
+    }
+  ]
+}

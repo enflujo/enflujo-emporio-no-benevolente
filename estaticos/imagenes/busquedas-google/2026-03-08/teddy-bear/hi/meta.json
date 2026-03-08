@@ -1,0 +1,71 @@
+{
+  "categoria": "teddy bear",
+  "categoriaSlug": "teddy-bear",
+  "idioma": "hi",
+  "nombreIdioma": "हिन्दी",
+  "termino": "खिलौना भालू",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:31:13.203Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "hi",
+    "gl": "in"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=%E0%A4%96%E0%A4%BF%E0%A4%B2%E0%A5%8C%E0%A4%A8%E0%A4%BE%20%E0%A4%AD%E0%A4%BE%E0%A4%B2%E0%A5%82&hl=hi&gl=in",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/teddy-bear/hi/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSdC1E3mYvv1wKAd5fHTh8bWenl90ly5pE-g&s",
+      "fuentePagina": "https://www.amazon.in/-/hi/%E0%A4%AC%E0%A4%9A%E0%A5%8D%E0%A4%9A%E0%A5%8B%E0%A4%82-%E0%A4%96%E0%A4%BF%E0%A4%B2%E0%A5%8C%E0%A4%A8%E0%A4%BE-%E0%A4%AA%E0%A5%82%E0%A4%B0%E0%A5%8D%E0%A4%B5%E0%A4%B8%E0%A5%8D%E0%A4%95%E0%A5%82%E0%A4%B2%E0%A5%80-%E0%A4%97%E0%A5%81%E0%A4%A1%E0%A4%BC%E0%A4%BF%E0%A4%AF%E0%A4%BE-%E0%A4%AC%E0%A4%BE%E0%A4%B2%E0%A4%B5%E0%A4%BE%E0%A4%A1%E0%A4%BC%E0%A5%80/dp/B09CDQ14SL",
+      "titulo": "Bear भरवां पशु भालू बच्चों के लिए ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSdC1E3mYvv1wKAd5fHTh8bWenl90ly5pE-g&s",
+      "original": "https://m.media-amazon.com/images/I/71DDqKuNmbL._AC_UF1000,1000_QL80_.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/teddy-bear/hi/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWUssA5Da7VF0RWhzkS2BY12VcRL5YfH02Pg&s",
+      "fuentePagina": "https://m.hindi.sonny-toy.com/sale-44050346-walking-singing-plush-bear-toy-high-quality-material-safe-baby-toy.html",
+      "titulo": "चलने और गाने वाला पुष्प भालू ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWUssA5Da7VF0RWhzkS2BY12VcRL5YfH02Pg&s",
+      "original": "https://m.hindi.sonny-toy.com/photo/pd170373788-.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/teddy-bear/hi/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnDrB1_NeY8n-Tkm45EylE-TNWCBd51ds9kQ&s",
+      "fuentePagina": "https://www.amazon.in/LotFancy-Stuffed-Animals-Cuddly-inches/dp/B079BG1425",
+      "titulo": "LotFancy Big Teddy Bear Stuffed Animals Plush, Soft Cuddly ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnDrB1_NeY8n-Tkm45EylE-TNWCBd51ds9kQ&s",
+      "original": "https://m.media-amazon.com/images/I/91gbfULvW0L.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/teddy-bear/hi/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtyWBnh12JbzUycek0huxUBM3_Jv1PfulaoA&s",
+      "fuentePagina": "https://www.amazon.in/BLISS-BABEE-Plushies-Birthday-Occasions/dp/B0D5CY745L",
+      "titulo": "Buy BLISS BABEE 30 cm Teddy Bear Soft Toy for Kids | Cute Brown Stuffed  Animal for Girls & Boys | Plush Cuddly Toy for Baby Gifts,Birthday, Return  ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtyWBnh12JbzUycek0huxUBM3_Jv1PfulaoA&s",
+      "original": "https://m.media-amazon.com/images/I/81guwbuc4HL._AC_UF1000,1000_QL80_.jpg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/teddy-bear/hi/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzXGJcJP5ZY-D4aiSoDlsA3FW3UabWDaoBjA&s",
+      "fuentePagina": "https://duckduckbaby.in/products/just-bear-white-teddy-with-maroon-bow-soft-toy-ultra-soft-and-huggable-bear?srsltid=AfmBOorGLCMQrhrFxsBGI0sPC4UEVvSHUuT0gfMM-lP6uyahRwJh0TDZ",
+      "titulo": "Just Bear White Teddy With Maroon Bow Soft Toy-Ultra Soft & Huggable  Bear-36M+-Extra 5% Off",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzXGJcJP5ZY-D4aiSoDlsA3FW3UabWDaoBjA&s",
+      "original": "http://duckduckbaby.in/cdn/shop/files/DDB20308_1.jpg?v=1758027364"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/teddy-bear/hi/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4X4gt-1lr5LnFK3GcSevvNNTBq7aNOSQYMQ&s",
+      "fuentePagina": "https://www.flipkart.com/totsywotsy-7-feet-pink-teddy-bear-soft-toy-girls-birthday-gift-big-size-213-cm/p/itm0211af9515df5",
+      "titulo": "TotsyWotsy 7 Feet Pink Teddy Bear Soft Toy for Girls ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4X4gt-1lr5LnFK3GcSevvNNTBq7aNOSQYMQ&s",
+      "original": "https://rukminim2.flixcart.com/image/480/640/xif0q/shopsy-stuffed-toy/7/p/p/7-feet-pink-teddy-bear-soft-toy-for-girls-birthday-gift-big-size-original-imahepzfbg8rqdub.jpeg?q=90"
+    }
+  ]
+}

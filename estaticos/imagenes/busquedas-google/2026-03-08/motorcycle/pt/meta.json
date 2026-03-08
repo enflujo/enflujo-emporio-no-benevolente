@@ -1,0 +1,71 @@
+{
+  "categoria": "motorcycle",
+  "categoriaSlug": "motorcycle",
+  "idioma": "pt",
+  "nombreIdioma": "Português",
+  "termino": "moto",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T20:42:54.172Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "pt",
+    "gl": "br"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=moto&hl=pt&gl=br",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/motorcycle/pt/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYgQl-wIBrgy1K4URMb6tx2EdUyNCOl3w7JA&s",
+      "fuentePagina": "https://motolitoral.com.br/veiculos/cg-160-start/",
+      "titulo": "CG 160 Start - Moto Litoral",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYgQl-wIBrgy1K4URMb6tx2EdUyNCOl3w7JA&s",
+      "original": "https://motolitoral.com.br/wp-content/uploads/2018/09/cg-160-start-2026.png"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/motorcycle/pt/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQf29MBU_NYaQDpnnTd3Nh5mk_rr7iF9xLB9Q&s",
+      "fuentePagina": "https://www.minimundi.com.br/miniatura-moto-yamaha-yzf-r1-2021-c-base-1-12-maisto-31608-32723?srsltid=AfmBOopFae_06RZuxPINoiZ_wp0vqOAsBMdxgXk_VOXbNyIAaEBt7NK5",
+      "titulo": "Miniatura Moto Yamaha YZF-R1 (2021) - C/ base - Preto - 1:12 ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQf29MBU_NYaQDpnnTd3Nh5mk_rr7iF9xLB9Q&s",
+      "original": "http://www.minimundi.com.br/cdn/imagens/produtos/det/miniatura-moto-yamaha-yzf-r1-2021-c-base-1-12-maisto-31608-32723_a.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/motorcycle/pt/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRh8gjxTB271c30pCRCFy757WLDp0yUxxTgw&s",
+      "fuentePagina": "https://kymcomotos.com.br/",
+      "titulo": "Kymco Motos | Moto Scooter é na Kymco Motos do Brasil.",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRh8gjxTB271c30pCRCFy757WLDp0yUxxTgw&s",
+      "original": "https://kymcomotos.com.br/storage/images/uploads/modelos/2024-12-03-19-16-13-AMBIENTADA%20MOBILE.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/motorcycle/pt/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVSxAGwWaJQbgxlHaHHNGUoShnaIENL-cwLQ&s",
+      "fuentePagina": "https://www.motoremaza.com.br/motos/nc-750x",
+      "titulo": "Honda Moto Remaza - A Maior em Honda | Modelos - NC 750X",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVSxAGwWaJQbgxlHaHHNGUoShnaIENL-cwLQ&s",
+      "original": "https://www.motoremaza.com.br/Modelos/Imagens/NX_500X_03062025.png"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/motorcycle/pt/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3B2ewP8TwpSE7xXjoTA00_bMVCRwWkEJAyA&s",
+      "fuentePagina": "https://www.moto.com.br/",
+      "titulo": "Comprar, Vender, Financiar motos Usadas e Novas | Moto.com.br",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3B2ewP8TwpSE7xXjoTA00_bMVCRwWkEJAyA&s",
+      "original": "https://www.moto.com.br/assets/motos_mais_buscadas/CG150Titan.webp"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/motorcycle/pt/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTPAI01o5JmvulY6uq0MS6nbKcfIw5CZaBIg&s",
+      "fuentePagina": "https://www.macaverdebaby.com.br/moto-eletrica-infantil-zippy-toys-honda-cbr-1000rr-6v-branca?srsltid=AfmBOopBik4B12bVcJykirRk62t5QBk5B68izVNwsabXLTwrpLALbZP9",
+      "titulo": "Moto Eletrica Infantil Zippy Toys Honda CBR 1000RR 6V Branca ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTPAI01o5JmvulY6uq0MS6nbKcfIw5CZaBIg&s",
+      "original": "https://cdn.awsli.com.br/2500x2500/1312/1312517/produto/278447105/f1ff2c40fd55bbf57e881b63286980e2-o8fczpya78.jpg"
+    }
+  ]
+}

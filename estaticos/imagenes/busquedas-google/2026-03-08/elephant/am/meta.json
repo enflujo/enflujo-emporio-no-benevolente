@@ -1,0 +1,71 @@
+{
+  "categoria": "elephant",
+  "categoriaSlug": "elephant",
+  "idioma": "am",
+  "nombreIdioma": "Amharic — አማርኛ",
+  "termino": "ዝሆን",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T20:53:47.770Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "am",
+    "gl": "et"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=%E1%8B%9D%E1%88%86%E1%8A%95&hl=am&gl=et",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/elephant/am/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSf4MWGtMI3gVSbQoOOhiEMNa2yeG0-xwRztA&s",
+      "fuentePagina": "https://am.wikipedia.org/wiki/%E1%8B%9D%E1%88%86%E1%8A%95",
+      "titulo": "ውክፔዲያ - ዝሆን",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSf4MWGtMI3gVSbQoOOhiEMNa2yeG0-xwRztA&s",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/5/5c/African_Bush_Elephant_Mikumi.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/elephant/am/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-YAXauAaqA3oG4I225aeHNx8hRPzLZY52PA&s",
+      "fuentePagina": "https://www.facebook.com/gazettePlusAM/photos/a.504616456356374/1294620044022674/?id=484414308376589",
+      "titulo": "Ethiopian Press Agency /የኢትዮጵያ ፕሬስ ድርጅት ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-YAXauAaqA3oG4I225aeHNx8hRPzLZY52PA&s",
+      "original": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=1294620044022674"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/elephant/am/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBZmoCeq9bcZqsqiVa5HLdg0ImhqQdAmvfRA&s",
+      "fuentePagina": "https://www.facebook.com/TechinEthiopia/posts/%E1%88%B5%E1%88%88-%E1%8B%9D%E1%88%86%E1%8A%95-%E1%88%9D%E1%8A%95-%E1%8B%AB%E1%88%85%E1%88%8D-%E1%8B%AB%E1%8B%8D%E1%89%83%E1%88%89-%E1%89%A5%E1%8B%99%E1%8B%8E%E1%89%BB%E1%89%BD%E1%8A%95-%E1%8A%A8%E1%88%8D%E1%8C%85%E1%8A%90%E1%89%B5-%E1%8C%8A%E1%8B%9C%E1%8B%AB%E1%89%BD%E1%8A%95-%E1%8A%A0%E1%8A%95%E1%88%B5%E1%89%B6-%E1%88%B5%E1%88%88-%E1%8B%B1%E1%88%AD-%E1%88%B5%E1%8A%93%E1%88%B5%E1%89%A5-%E1%89%A0%E1%88%9D%E1%8B%95%E1%8A%93%E1%89%A3%E1%89%BD%E1%8A%95-%E1%8A%A8%E1%88%9A%E1%8A%A8%E1%88%B0%E1%89%B1%E1%89%B5-%E1%8A%A5%E1%8A%95%E1%88%B5%E1%88%B3%E1%89%B5-%E1%88%98%E1%8A%AB%E1%8A%A8%E1%88%8D-/3394676100640451/",
+      "titulo": "ስለ ዝሆን ምን ያህል ያውቃሉ ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBZmoCeq9bcZqsqiVa5HLdg0ImhqQdAmvfRA&s",
+      "original": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=3394654110642650"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/elephant/am/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7V1eh7kzkWvFrcACrIW78TOdUns3kdga29g&s",
+      "fuentePagina": "https://ethiopianreporter.com/57097/",
+      "titulo": "የአፍሪካ ዝሆን - ሪፖርተር - Ethiopian Reporter - #1 ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7V1eh7kzkWvFrcACrIW78TOdUns3kdga29g&s",
+      "original": "https://ethiopianreporter.com/files/2018/06/sine646.jpg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/elephant/am/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWB69OG8rQK_3UvmMHuVqOE6wPCKsmD-R6Tg&s",
+      "fuentePagina": "https://en.sewasew.com/p/elephant-(%E1%8B%9D%E1%88%86%E1%8A%95)",
+      "titulo": "Sewasew | Elephant (ዝሆን)",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWB69OG8rQK_3UvmMHuVqOE6wPCKsmD-R6Tg&s",
+      "original": "https://img.sewasew.com/definitions/8c0c96e3fdca404bb235c055bc2b645b_300_168"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/elephant/am/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSS9hVIMCuq81Cgyd42u_QxL0JTko-iIbKfpg&s",
+      "fuentePagina": "https://ethiopianreporter.com/60467/",
+      "titulo": "ኢንዲያን ዝሆን - ሪፖርተር - Ethiopian Reporter - #1 ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSS9hVIMCuq81Cgyd42u_QxL0JTko-iIbKfpg&s",
+      "original": "https://ethiopianreporter.com/files/2018/09/amharic-I_3.jpg"
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "categoria": "spoon",
+  "categoriaSlug": "spoon",
+  "idioma": "hi",
+  "nombreIdioma": "हिन्दी",
+  "termino": "चम्मच",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:09:34.315Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "hi",
+    "gl": "in"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=%E0%A4%9A%E0%A4%AE%E0%A5%8D%E0%A4%AE%E0%A4%9A&hl=hi&gl=in",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/spoon/hi/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyj1GwfD4a8kCfMALccKU71mu9inwjX9sfXg&s",
+      "fuentePagina": "https://www.amazon.in/-/hi/DecorRack-%E0%A4%9A%E0%A4%AE%E0%A5%8D%E0%A4%AE%E0%A4%9A-%E0%A4%B8%E0%A5%8D%E0%A4%9F%E0%A5%87%E0%A4%A8%E0%A4%B2%E0%A5%87%E0%A4%B8-%E0%A4%B8%E0%A5%8D%E0%A4%9F%E0%A5%80%E0%A4%B2-5-5-%E0%A4%87%E0%A4%82%E0%A4%9A/dp/B072KHLP5R",
+      "titulo": "DecorRack चाय चम्मच, स्टेनलेस स्टील 5.5-इंच, (12 का सेट) : Amazon.in: घर और  किचन",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyj1GwfD4a8kCfMALccKU71mu9inwjX9sfXg&s",
+      "original": "https://m.media-amazon.com/images/I/71mAL3R-hWL.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/spoon/hi/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_C3rU8UaNog6HGPfyIUzuq1qpTe2jIxZmRw&s",
+      "fuentePagina": "https://www.chakradhari.com/products/99-9-pure-silver-utensil-spoon?srsltid=AfmBOorsS0WZ7aOSiRgOVKkCvk9uBQZr0bzPjdXPY9n1rqUK9lwXiy85",
+      "titulo": "99.9% Pure Silver Utensil Spoon – Smooth Finish for Serving & Gifts",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_C3rU8UaNog6HGPfyIUzuq1qpTe2jIxZmRw&s",
+      "original": "https://cdn.shopaccino.com/chakradhari/products/img4059-561161_l.jpg?v=680"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/spoon/hi/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMWZ5GB8JBpzpGpjg5Q8Z6JpMAGtm5ISXT6g&s",
+      "fuentePagina": "https://www.rasoishop.com/hi/products/decent-dazzle-stainless-steel-tea-spoon-silver-set-of-6-pcs?srsltid=AfmBOooTsKMeK_UxFC1igbGM5mhn5o0uKpuIyG2UzrvgpsElm3v3AFcE",
+      "titulo": "सभ्य चमकदार स्टेनलेस स्टील चाय ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMWZ5GB8JBpzpGpjg5Q8Z6JpMAGtm5ISXT6g&s",
+      "original": "http://www.rasoishop.com/cdn/shop/files/8906111280879.jpg?v=1688220450"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/spoon/hi/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRck6sxfOz9tloec2M1LYTMAx9sRNJvasdqfw&s",
+      "fuentePagina": "https://www.amazon.in/-/hi/JAGMOOLYA-%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A5%8B%E0%A4%A1%E0%A4%95%E0%A5%8D%E0%A4%9F-%E0%A4%B8%E0%A5%8D%E0%A4%9F%E0%A5%87%E0%A4%A8%E0%A4%B2%E0%A5%87%E0%A4%B8-%E0%A4%A1%E0%A4%BF%E0%A4%9C%E0%A4%BC%E0%A4%BE%E0%A4%87%E0%A4%A8%E0%A4%B0-%E0%A4%B8%E0%A5%8D%E0%A4%9F%E0%A4%BE%E0%A4%87%E0%A4%B2%E0%A4%BF%E0%A4%B6/dp/B0C16X4RTJ",
+      "titulo": "JAGMOOLYA प्रोडक्ट स्टील गोल एज स्टेनलेस स्टील चम्मच डिज़ाइनर चंमच कटलरी  सेट डाइनिंग टेबल स्टाइलिश किचन के लिए (डिज़ाइन भिन्न हो सकता है) (24) : ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRck6sxfOz9tloec2M1LYTMAx9sRNJvasdqfw&s",
+      "original": "https://m.media-amazon.com/images/I/31ZEeLkfgVL._AC_UF894,1000_QL80_.jpg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/spoon/hi/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrX77FhyPMDbvQqRTPtWyXlQdLVd1F446_tQ&s",
+      "fuentePagina": "https://www.rasoishop.com/hi/products/nestwell-dessert-spoon-regular?srsltid=AfmBOor9GkD_aoYxQIF4xwHDIanDl_rwW8937jETn_5L4dGuYAROAQJ_",
+      "titulo": "नेस्टवेल मिठाई चम्मच (6 टुकड़े ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrX77FhyPMDbvQqRTPtWyXlQdLVd1F446_tQ&s",
+      "original": "https://www.rasoishop.com/cdn/shop/products/8906085881287-1_7fcd5f81-047c-456d-9ddc-2f63e994ce90.jpg?v=1612953564&width=1445"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/spoon/hi/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSu25bc3EsScXJXUuY4DbJfjzR299g3Cg5ImQ&s",
+      "fuentePagina": "https://shop.kamalastores.com/hi/products/heavy-duty-stainless-steel-metal-measuring-spoons-set-of-4?srsltid=AfmBOopHn2qwgEokbPj6PSyaydPUwu7KmWJj4aUPLTh3DEkqnXD5MLo1",
+      "titulo": "हैवी ड्यूटी स्टेनलेस स्टील मापने ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSu25bc3EsScXJXUuY4DbJfjzR299g3Cg5ImQ&s",
+      "original": "https://shop.kamalastores.com/cdn/shop/products/IMG_8104_1024x1024@2x.jpg?v=1619519857"
+    }
+  ]
+}

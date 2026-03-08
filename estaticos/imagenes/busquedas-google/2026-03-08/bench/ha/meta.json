@@ -1,0 +1,71 @@
+{
+  "categoria": "bench",
+  "categoriaSlug": "bench",
+  "idioma": "ha",
+  "nombreIdioma": "Hausa",
+  "termino": "benci",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T20:49:11.585Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "ha",
+    "gl": "ng"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=benci&hl=ha&gl=ng",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bench/ha/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWaayCeZymq32zpmDAFUwAz-XoqTd0dEcqmA&s",
+      "fuentePagina": "https://www.youtube.com/watch?v=VSYta7u1nEQ",
+      "titulo": "Benci",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWaayCeZymq32zpmDAFUwAz-XoqTd0dEcqmA&s",
+      "original": "https://i.ytimg.com/vi/VSYta7u1nEQ/maxresdefault.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bench/ha/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLoVtGVBLt0bLxRxMATuvJjc3RABgRBZNd0A&s",
+      "fuentePagina": "https://www.drlogy.com/baby-names/meaning-of-benci?srsltid=AfmBOoo9ohAY_dsoCsYbAwGUYrT-uNYnJLtPI-vQzsHYqXpvnLTsaMnQ",
+      "titulo": "Benci Name Meaning, Origin, Numerology & Popularity - Drlogy",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLoVtGVBLt0bLxRxMATuvJjc3RABgRBZNd0A&s",
+      "original": "https://images.drlogy.com/assets/uploads/img/user/baby-names/meaning/benci-name-meaning-16042.webp"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bench/ha/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9yWk_i0LFxpf3nOPi5ex5guffZDRcp122Fw&s",
+      "fuentePagina": "https://www.facebook.com/Benci.Socal/",
+      "titulo": "Benci (@Benci.Socal) • Facebook",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9yWk_i0LFxpf3nOPi5ex5guffZDRcp122Fw&s",
+      "original": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=100032190914033"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bench/ha/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8cxMTEzRJY-mATeYhcgVM-Iot9z1dp6KJfg&s",
+      "fuentePagina": "https://shopbenci.com/",
+      "titulo": "Benci",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8cxMTEzRJY-mATeYhcgVM-Iot9z1dp6KJfg&s",
+      "original": "https://shopbenci.com/cdn/shop/files/IMG_2079.png?v=1723279749&width=600"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bench/ha/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSiJwPY4ImN7b5WphyTzF8dCfmTV6bjrix1Bw&s",
+      "fuentePagina": "https://mypop.fandom.com/wiki/Benci_Buli_(Hot_FM)",
+      "titulo": "Benci Buli | Malaysian Pop Wiki | Fandom",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSiJwPY4ImN7b5WphyTzF8dCfmTV6bjrix1Bw&s",
+      "original": "https://static.wikia.nocookie.net/mypop/images/d/de/Hot_FM_Benci_Buli.jpg/revision/latest?cb=20250918062829"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bench/ha/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0gjVYR-HLR6Ue2BgpUHaRVFn0sDDHQAcr5Q&s",
+      "fuentePagina": "https://www.facebook.com/benci.brothers/",
+      "titulo": "Benci Brothers (@benci.brothers) • Facebook",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0gjVYR-HLR6Ue2BgpUHaRVFn0sDDHQAcr5Q&s",
+      "original": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=100065332905889"
+    }
+  ]
+}

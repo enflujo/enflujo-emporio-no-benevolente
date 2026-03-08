@@ -1,0 +1,71 @@
+{
+  "categoria": "couch",
+  "categoriaSlug": "couch",
+  "idioma": "sw",
+  "nombreIdioma": "Kiswahili",
+  "termino": "sofa",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:17:36.493Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "sw",
+    "gl": "tz"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=sofa&hl=sw&gl=tz",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/couch/sw/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSy9FShUJY3u4njMeXrfQrd7piAC42C-kogcw&s",
+      "fuentePagina": "https://www.ubuy.co.tz/en/product/46O7CT19W-2-piece-living-room-sofa-set-sectional-sofa-couches-for-living-room-modern-button-tufted-couch-furniture-loveseat-and-3-seat-sofa-for-living-room?srsltid=AfmBOoqE62_-8Rl7y8U6jnnw_xeitCUGewHAQgoOwLUVeROv7O6nZfwN",
+      "titulo": "2 Piece Living Room Sofa Set, Sectional Sofa Couches ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSy9FShUJY3u4njMeXrfQrd7piAC42C-kogcw&s",
+      "original": "https://i5.walmartimages.com/asr/f621c66a-42f3-44a0-b63b-9f1c27b8b7ca.1f78ffe3b7f9e7e4b4e65e272897fcc2.jpeg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/couch/sw/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcrf89aVC4Sjz9ABLcCVszyRE8EyrMGK1PnA&s",
+      "fuentePagina": "https://lusso-living.com/en/products/l-form-nebula",
+      "titulo": "L form Sofa NEBULA – LUSSO - my way of living",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcrf89aVC4Sjz9ABLcCVszyRE8EyrMGK1PnA&s",
+      "original": "https://lusso-living.com/cdn/shop/files/LSLGROLSNBA_6_1024x1024.jpg?v=1736857824"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/couch/sw/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDMfXVsXkv0Vzh6x0T_8xaj8Bzh8ycFk2_SQ&s",
+      "fuentePagina": "https://www.ubuy.co.tz/en/product/4QK58WLUW-3-seater-sofa-couch-modern-linen-tufed-upholstered-sofa-with-2-pillows-armrest-design-wooden-tapered-legs-accent-arm-sofas-for-living-room?srsltid=AfmBOorVt81wJKHFmGOx8RuHop6Xu9waXawes3iS9xmd9fAQKBSAl6k_",
+      "titulo": "Modern Grey Linen Sofa Couch with Armrest Design & Wooden Legs | 3 Seater  Upholstered Sofas for Living Room, Bedroom, Office",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDMfXVsXkv0Vzh6x0T_8xaj8Bzh8ycFk2_SQ&s",
+      "original": "https://i5.walmartimages.com/seo/3-Seater-Sofa-Couch-Modern-Linen-Tufed-Upholstered-2-Pillows-Armrest-Design-Wooden-Tapered-Legs-Accent-Arm-Sofas-Living-Room-Bedroom-Office-Grey_04ec8f14-062d-44d0-9aed-9dac7be853b9.5e2b287cd25bd91421fd9bb39412dbc8.jpeg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/couch/sw/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWrCmGrRc-lQra9UnYOMwFF2etnt6lr5wBQA&s",
+      "fuentePagina": "https://www.estre.in/products/salvador-sofa-set?srsltid=AfmBOoqwjqHA4L2dMUtszn7A7Gl2pLzv_5v5SmsktL9J8hJAqoMH_yiq",
+      "titulo": "Buy Now: Estre's Brasilia Sofa - Modern Designs & Customized ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWrCmGrRc-lQra9UnYOMwFF2etnt6lr5wBQA&s",
+      "original": "http://www.estre.in/cdn/shop/files/2-min_d2bc49bf-1893-4118-bab5-8d0848d4d3fb.jpg?v=1743762905"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/couch/sw/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqggNzEXd5o4eDVHazxPS9W7Q7ifkeTbNINg&s",
+      "fuentePagina": "https://www.duroflexworld.com/products/ease-grey-fabric-3-seater-sofa?srsltid=AfmBOooSFg_z_aDXOJN5mq7cEdX4LI7TS6tz1scNwKvE-qj1vI9uuJo8",
+      "titulo": "Buy Ease Grey Fabric 3 Seater Sofa Online and Get Upto 25 ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqggNzEXd5o4eDVHazxPS9W7Q7ifkeTbNINg&s",
+      "original": "http://www.duroflexworld.com/cdn/shop/files/1_6.jpg?v=1746564300"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/couch/sw/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQingYe5mgs5J0uVxhZnR1K7RcC0_z-7ZbJGA&s",
+      "fuentePagina": "https://iconx-studios.com/products/4-seater-cloud",
+      "titulo": "4 Seater Sofa CLOUD – iconX STUDIOS - Switzerland",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQingYe5mgs5J0uVxhZnR1K7RcC0_z-7ZbJGA&s",
+      "original": "https://iconx-studios.com/cdn/shop/files/CDS4AAOCS6.jpg"
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "categoria": "oven",
+  "categoriaSlug": "oven",
+  "idioma": "am",
+  "nombreIdioma": "Amharic — አማርኛ",
+  "termino": "ምድጃ",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:25:41.631Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "am",
+    "gl": "et"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=%E1%88%9D%E1%8B%B5%E1%8C%83&hl=am&gl=et",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/oven/am/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9_Rb2d3HkluN9-WsSroN6KbzZHwil9tgOKA&s",
+      "fuentePagina": "https://www.selamtausa.com/am_ET/shop/420-yakasale-medejaa-laaqace-1617",
+      "titulo": "የከሰል ምድጃ (ላቀች) | Selamta L.L.C",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9_Rb2d3HkluN9-WsSroN6KbzZHwil9tgOKA&s",
+      "original": "https://www.selamtausa.com/web/image/product.template/1617/image_1024?unique=4e9f4bb"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/oven/am/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkvEe0aE5gAkWzIfDZa6aPX3dHWymEUk0wqQ&s",
+      "fuentePagina": "https://www.selamtausa.com/am_ET/shop/400-yaeeleeketerike-medejaa-1624",
+      "titulo": "የኤሌክትሪክ ምድጃ | Selamta L.L.C",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkvEe0aE5gAkWzIfDZa6aPX3dHWymEUk0wqQ&s",
+      "original": "https://www.selamtausa.com/web/image/product.template/1624/image_1024?unique=4e9f4bb"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/oven/am/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxlsz3LXdrGa2cZhmh2avDKL2fT3U6Mqdthw&s",
+      "fuentePagina": "https://oxalinkstrading.com/product/azmera-stove-%E1%88%9D%E1%8B%B5%E1%8C%83/?add-to-cart=9189",
+      "titulo": "Azmera stove (ምድጃ) – OxaLinks Trading",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxlsz3LXdrGa2cZhmh2avDKL2fT3U6Mqdthw&s",
+      "original": "https://oxalinkstrading.com/wp-content/uploads/2022/09/AzmeraStove_oxlinks.webp"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/oven/am/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS60T6uNoDohsLDnVJUcv_DsW_2HWu-COKEBg&s",
+      "fuentePagina": "https://www.instagram.com/p/CTUF4dMI9WD/",
+      "titulo": "🌼🌼 የኤሌክትሪክ ምድጃ 🌼🌼 🌼 ዋጋ 2000 ብር ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS60T6uNoDohsLDnVJUcv_DsW_2HWu-COKEBg&s",
+      "original": "https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=2653771950293505411"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/oven/am/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT72eLv2HALO2l3VjzyehKNqYBiL7sqSl7scQ&s",
+      "fuentePagina": "https://awlala.com/home-kitchen/2310/hehouse",
+      "titulo": "HEHOUSE ባለ ሁለት የኤሌክትሪክ ምድጃ | Home & Kitchen ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT72eLv2HALO2l3VjzyehKNqYBiL7sqSl7scQ&s",
+      "original": "https://cdn.awlala.com/media/image/e2/33/8d/9zBwNX9KAgnGTAGHMSibijt4trDrCOpTggfjdCsP_600x600.jpg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/oven/am/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRH-pdKAKxDWtGTsWEzBW5tm0l9VnkgNqQVaw&s",
+      "fuentePagina": "https://www.facebook.com/100023827863300/posts/-%E1%8A%A4%E1%88%AD%E1%89%B3%E1%88%8C-%E1%88%83%E1%8B%AD%E1%88%8D-%E1%89%86%E1%8C%A3%E1%89%A2-%E1%88%9D%E1%8B%B5%E1%8C%83%EF%B8%8F-%E1%89%A0%E1%8B%B0%E1%8A%95%E1%89%A0%E1%8A%9E%E1%89%BB%E1%89%BD%E1%8A%95-%E1%8C%A5%E1%8B%AB%E1%89%84-%E1%88%98%E1%88%B0%E1%88%A8%E1%89%B5-%E1%8B%A8%E1%89%80%E1%88%A8%E1%89%A0-%E1%89%A0%E1%88%B5%E1%8B%8A%E1%89%BD-%E1%8B%A8%E1%88%9A%E1%88%B0%E1%88%AB-%E1%88%80%E1%8B%AD%E1%88%8D-%E1%89%86%E1%8C%A3%E1%89%A2-%E1%88%9D%E1%8B%B5%E1%8C%83-%EF%B8%8F-%E1%89%A0%E1%89%B1%E1%88%AD%E1%8A%AD-%E1%8A%A5%E1%89%83-%E1%88%80%E1%8C%88%E1%88%AD-%E1%8B%8D%E1%88%B5/100207825181567/",
+      "titulo": "🔥 ኤርታሌ ሃይል ቆጣቢ ምድጃ ⭐️ በደንበኞቻችን ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRH-pdKAKxDWtGTsWEzBW5tm0l9VnkgNqQVaw&s",
+      "original": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=100207778514905"
+    }
+  ]
+}

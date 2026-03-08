@@ -1,0 +1,71 @@
+{
+  "categoria": "surfboard",
+  "categoriaSlug": "surfboard",
+  "idioma": "en",
+  "nombreIdioma": "English",
+  "termino": "surfboard",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:04:37.666Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "en",
+    "gl": "us"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=surfboard&hl=en&gl=us",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/surfboard/en/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTege5BmBk_mHyzyCkhLvu_MSsSNADbV9Idsw&s",
+      "fuentePagina": "https://www.etsy.com/listing/1612766074/6-ocean-surfboard-with-resin-waves",
+      "titulo": "6' Ocean Surfboard With Resin Waves, Surfboard Wall Art - Etsy",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTege5BmBk_mHyzyCkhLvu_MSsSNADbV9Idsw&s",
+      "original": "https://i.etsystatic.com/44687569/r/il/1b32ef/5579451852/il_fullxfull.5579451852_hkql.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/surfboard/en/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBaVmmTJLgIhyQVmZI6BTuVbgu4KimJ_B-fA&s",
+      "fuentePagina": "https://www.oceanatlanticrentals.com/watersports/foam-surfboard/",
+      "titulo": "Outer Banks Foam Surfboards, OBX Surf Rental | OAR",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBaVmmTJLgIhyQVmZI6BTuVbgu4KimJ_B-fA&s",
+      "original": "https://www.oceanatlanticrentals.com/wp-content/uploads/soft-surfboard-new-obx.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/surfboard/en/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZ84eAQdh___MN9iZ24oEee2aAtWaGuEnFew&s",
+      "fuentePagina": "https://surftech.com/collections/surfboards?srsltid=AfmBOoqRVoTygHgtM9ruzWs8SVqdbMiIojQ5fX_FBrXaq4wK2z-7jxm9",
+      "titulo": "Surftech | Surfboards",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZ84eAQdh___MN9iZ24oEee2aAtWaGuEnFew&s",
+      "original": "http://surftech.com/cdn/shop/collections/DSCF5540.jpg?v=1698341289&width=2048"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/surfboard/en/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRllKEPPfKvalD-mEela8r3GhJXFZ_DPbdb3g&s",
+      "fuentePagina": "https://shop.sportsbasement.com/products/wavestorm-8ft-classic-surfboard?srsltid=AfmBOoqgDN_GOfH8jOAeTEE_sHRE1ydPrje5fSywerLOJYPkK1goiBKy",
+      "titulo": "Wavestorm 8'0 Classic Surfboard with Leash – Sports Basement",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRllKEPPfKvalD-mEela8r3GhJXFZ_DPbdb3g&s",
+      "original": "https://shop.sportsbasement.com/cdn/shop/files/100220545.TriColorSolid.2_4da2bbd1-c01d-4da2-aab0-fe31d2176840.png?crop=center&height=800&v=1750721264&width=800"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/surfboard/en/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHSVexdLD-5KAim51mq2oDmDYNS6z7OeQAFA&s",
+      "fuentePagina": "https://desenio.com/p/posters-prints/nature/beaches/surfboards-print/",
+      "titulo": "Surfboards Print 8\" x 12\" in",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHSVexdLD-5KAim51mq2oDmDYNS6z7OeQAFA&s",
+      "original": "https://media.desenio.com/site_images/685c3f77690d8af12d51ac63_1247587159_15989-4.jpg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/surfboard/en/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSaFMdaYzItX3rShkRVXx4RmIUnxcaiAYOGEg&s",
+      "fuentePagina": "https://www.amazon.com/THURSO-SURF-Surfboard-Package-Stainless/dp/B01M36754H",
+      "titulo": "Amazon.com : THURSO SURF Lancer 5'10'' Soft Top Foam ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSaFMdaYzItX3rShkRVXx4RmIUnxcaiAYOGEg&s",
+      "original": "https://m.media-amazon.com/images/I/71ngkBWlO1L.jpg"
+    }
+  ]
+}

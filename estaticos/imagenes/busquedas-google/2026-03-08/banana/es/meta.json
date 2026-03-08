@@ -1,0 +1,71 @@
+{
+  "categoria": "banana",
+  "categoriaSlug": "banana",
+  "idioma": "es",
+  "nombreIdioma": "Español",
+  "termino": "banano",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:11:06.802Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "es",
+    "gl": "es"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=banano&hl=es&gl=es",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/banana/es/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgJgd41Y_qfBNo0cda1uB2RHt534xEtautRg&s",
+      "fuentePagina": "https://es.wikipedia.org/wiki/Banana",
+      "titulo": "Banana - Wikipedia, la enciclopedia libre",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgJgd41Y_qfBNo0cda1uB2RHt534xEtautRg&s",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Bananas.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/banana/es/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8870LwFObmoRU0G9jdoWeZU2u5n8FBVyLNg&s",
+      "fuentePagina": "https://comida-y-bebidas.fandom.com/es/wiki/Banana",
+      "titulo": "Banana | Wiki Comida y Bebidas | Fandom",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8870LwFObmoRU0G9jdoWeZU2u5n8FBVyLNg&s",
+      "original": "https://static.wikia.nocookie.net/comida-y-bebidas/images/6/69/Banana.png/revision/latest/thumbnail/width/360/height/360?cb=20230223180356&path-prefix=es"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/banana/es/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhnnkKRi_nVXuXhMewEqcLVRNGODEkQZAE_Q&s",
+      "fuentePagina": "https://cultivodeplatano.com/2011/09/22/variedades-de-banano/",
+      "titulo": "VARIEDADES DE BANANO | cultivo de plátano",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhnnkKRi_nVXuXhMewEqcLVRNGODEkQZAE_Q&s",
+      "original": "http://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Banana.png/300px-Banana.png"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/banana/es/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4qp0rZmCQicg5huDlPktIFUW9w-urTHfKQg&s",
+      "fuentePagina": "https://es.pngtree.com/freepng/cartoon-banana-vector-art_15646997.html",
+      "titulo": "Arte Vectorial De Plátano De Dibujos Animados PNG ,dibujos ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4qp0rZmCQicg5huDlPktIFUW9w-urTHfKQg&s",
+      "original": "https://png.pngtree.com/png-clipart/20240727/original/pngtree-cartoon-banana-vector-art-png-image_15646997.png"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/banana/es/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGMHpfVx078fFTUEkpmMfCkDqIVGCFaxTDvg&s",
+      "fuentePagina": "https://www.koppert.es/cultivos/frutas/platano/",
+      "titulo": "Plátano | Koppert España",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGMHpfVx078fFTUEkpmMfCkDqIVGCFaxTDvg&s",
+      "original": "https://www.koppert.es/content/_processed_/3/9/csm_Banana_92b90745ae.jpg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/banana/es/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQKfS6RgrOuhd9WSz4_d8kVcHBRBH3G6pbXg&s",
+      "fuentePagina": "https://cnnespanol.cnn.com/2014/01/16/los-bananos-tambien-son-malos-para-la-salud",
+      "titulo": "Los bananos también son malos para la salud? | CNN",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQKfS6RgrOuhd9WSz4_d8kVcHBRBH3G6pbXg&s",
+      "original": "https://media.cnn.com/api/v1/images/stellar/prod/cnne-159403-120604032828-fresh-ripe-bananas-story-top.jpg?c=original"
+    }
+  ]
+}

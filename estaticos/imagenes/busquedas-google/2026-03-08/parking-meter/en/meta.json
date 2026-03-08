@@ -1,0 +1,71 @@
+{
+  "categoria": "parking meter",
+  "categoriaSlug": "parking-meter",
+  "idioma": "en",
+  "nombreIdioma": "English",
+  "termino": "parking meter",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T20:48:15.596Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "en",
+    "gl": "us"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=parking%20meter&hl=en&gl=us",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/parking-meter/en/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZXFsI8hHNoZuMgk8WWb41jgXVpayuhc1WoA&s",
+      "fuentePagina": "https://www.silive.com/news/2023/04/nyc-parking-meters-how-much-does-it-cost-to-park-across-the-city.html",
+      "titulo": "NYC parking meters: How much does it cost to park across the ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZXFsI8hHNoZuMgk8WWb41jgXVpayuhc1WoA&s",
+      "original": "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/GXHWW6MESBHJDJ5UTDYEUNLYHQ.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/parking-meter/en/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhXLDz4gzCSk9YSDUGD_JJUFaZ7LeQ6sbA6Q&s",
+      "fuentePagina": "https://www.nyc.gov/html/dot/html/motorist/parking-rates.shtml",
+      "titulo": "NYC DOT - Parking Meters",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhXLDz4gzCSk9YSDUGD_JJUFaZ7LeQ6sbA6Q&s",
+      "original": "https://www.nyc.gov/html/dot/images/motorist/meters-old-and-new.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/parking-meter/en/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXzVe4CZgkEU8-EcLveg5pgQKePOw90k7ieg&s",
+      "fuentePagina": "https://www.nyc.gov/html/dot/html/pr2024/nyc-dot-parking-meters.shtml",
+      "titulo": "NYC DOT Unveils Upgraded, Modern Parking Meters to Replace ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXzVe4CZgkEU8-EcLveg5pgQKePOw90k7ieg&s",
+      "original": "https://www.nyc.gov/html/dot/images/pr2024/nyc-dot-parking-meter.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/parking-meter/en/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdoLOF5ie8zkxygtg9y_OOm4dsH57avHkzXg&s",
+      "fuentePagina": "https://en.wikipedia.org/wiki/Parking_meter",
+      "titulo": "Parking meter - Wikipedia",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdoLOF5ie8zkxygtg9y_OOm4dsH57avHkzXg&s",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Parking_Meter_Front.JPG"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/parking-meter/en/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBtcbovn2ww9Z0nzSJi7z41aFOBtt43OYd0w&s",
+      "fuentePagina": "https://www.coloradoan.com/story/life/2023/05/02/old-town-fort-collins-last-parking-meter-gets-a-makeover/70170836007/",
+      "titulo": "Old Town Fort Collins' last parking meter gets a makeover",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBtcbovn2ww9Z0nzSJi7z41aFOBtt43OYd0w&s",
+      "original": "https://www.coloradoan.com/gcdn/presto/2023/05/01/PFTC/b0cf945f-ae99-4708-9d5d-c958fddddd2a-Parking_meter.jpg?width=1512&height=2016&fit=crop&format=pjpg&auto=webp"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/parking-meter/en/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsIVS514gA2o5qD-VtLbmY__-chxpTYvlU3A&s",
+      "fuentePagina": "https://www.arlingtonva.us/Government/Programs/Transportation/Parking/Paying-for-Parking",
+      "titulo": "Paying for Parking – Official Website of Arlington County ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsIVS514gA2o5qD-VtLbmY__-chxpTYvlU3A&s",
+      "original": "https://www.arlingtonva.us/files/sharedassets/public/v/1/transportation/images/meter-for-people-with-disabilities-e1598021807575.jpg?w=1080"
+    }
+  ]
+}

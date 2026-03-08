@@ -1,0 +1,71 @@
+{
+  "categoria": "refrigerator",
+  "categoriaSlug": "refrigerator",
+  "idioma": "rw",
+  "nombreIdioma": "Kinyarwanda",
+  "termino": "frigo",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:27:27.443Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "en",
+    "gl": "rw"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=frigo&hl=en&gl=rw",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/refrigerator/rw/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZLWRCjR9jWPb8YS_NO3NbEitxT4fJVLlymA&s",
+      "fuentePagina": "https://www.beldeko.com/refrigerateur-lave-linge/15877-refrigerateur-2-portes-posable-151-litres-3664184004413.html",
+      "titulo": "Réfrigérateur 2 portes posable 151 litres - 42 Db - Congélateur",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZLWRCjR9jWPb8YS_NO3NbEitxT4fJVLlymA&s",
+      "original": "https://www.beldeko.com/6535-superlarge_default/refrigerateur-2-portes-posable-151-litres.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/refrigerator/rw/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgAbfbjFYglQE6pZ4AmQOlHXdWWN4iCTC9Mg&s",
+      "fuentePagina": "https://www.electrodepot.fr/conseils/est-ce-qu-un-frigo-classe-f-consomme-beaucoup?srsltid=AfmBOopg0BkBBrNGJPhLVGzxCarlUqJ-Bl00bToYpXKPMppMr2MIZ52W",
+      "titulo": "Est-ce qu'un frigo classe F consomme beaucoup ? - Electro Dépôt",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgAbfbjFYglQE6pZ4AmQOlHXdWWN4iCTC9Mg&s",
+      "original": "https://www.electrodepot.fr/media/wysiwyg/page/conseils-seo/frigo_americain_1.jpeg?frz-v=4330"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/refrigerator/rw/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSD0p-gOqAm5WFiQ1pMTGlqzekr0cnOOgzCzg&s",
+      "fuentePagina": "https://www.sfpl.fr/produit/frigo-congelateur-blanc-2-portes-211-l.html",
+      "titulo": "FRIGO CONGELATEUR Blanc 2 Portes 211 L - SFPL Société de ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSD0p-gOqAm5WFiQ1pMTGlqzekr0cnOOgzCzg&s",
+      "original": "https://www.sfpl.fr/data/products/RFDP212Aplusplus_PF.png"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/refrigerator/rw/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAp-7DA1PFzK0ElAcfW76qImfbFAtLZM5jOw&s",
+      "fuentePagina": "https://www.domo-elektro.be/fr/do91705r-domo-combi-frigo-congelateur-retro-d-206-l-bleu",
+      "titulo": "DOMO Combi frigo-congélateur rétro - D - 206 L - bleu",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAp-7DA1PFzK0ElAcfW76qImfbFAtLZM5jOw&s",
+      "original": "https://www.domo-elektro.be/media/catalog/product/cache/f08d0db0d0699bca6b022829de5603d1/D/O/DO91705R_retro_koelkast_01.jpg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/refrigerator/rw/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmsKf8KWwkVvEJ4g7nojScUHtQtvbsAq7Eiw&s",
+      "fuentePagina": "https://www.satenco.com/fr/refrigerateur-double-porte/231463-refrigerateur-whirlpool-wt70i832x-3665476587973.html",
+      "titulo": "WHIRLPOOL Réfrigérateur Frigo Double Porte 423L Froid Statique",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmsKf8KWwkVvEJ4g7nojScUHtQtvbsAq7Eiw&s",
+      "original": "https://www.satenco.com/860765-large_default/refrigerateur-whirlpool-wt70i832x.jpg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/refrigerator/rw/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRn0BSbUEAtHnlGZYvPWrotx-JAMtweBSEKQ&s",
+      "fuentePagina": "https://fr.wikipedia.org/wiki/R%C3%A9frig%C3%A9rateur",
+      "titulo": "Réfrigérateur — Wikipédia",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRn0BSbUEAtHnlGZYvPWrotx-JAMtweBSEKQ&s",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/LG_refrigerator_interior.jpg/960px-LG_refrigerator_interior.jpg"
+    }
+  ]
+}

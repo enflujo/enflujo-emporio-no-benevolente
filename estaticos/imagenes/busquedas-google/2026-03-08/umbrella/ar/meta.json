@@ -1,0 +1,71 @@
+{
+  "categoria": "umbrella",
+  "categoriaSlug": "umbrella",
+  "idioma": "ar",
+  "nombreIdioma": "العربية",
+  "termino": "مظلة",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T20:57:08.862Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "ar",
+    "gl": "eg"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=%D9%85%D8%B8%D9%84%D8%A9&hl=ar&gl=eg",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/umbrella/ar/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRywDwTaD4fSy4qW7OZk3bCDarW95TDv_HRLQ&s",
+      "fuentePagina": "https://www.ikea.com/eg/ar/p/knalla-umbrella-black-60282332/",
+      "titulo": "KNALLA مظلة - أسود",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRywDwTaD4fSy4qW7OZk3bCDarW95TDv_HRLQ&s",
+      "original": "https://www.ikea.com/eg/ar/images/products/knalla-umbrella-black__0934105_pe792338_s5.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/umbrella/ar/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZFhcs0E5W0Mp2GRdl3vNjL3k9u_Sm7bul-Q&s",
+      "fuentePagina": "https://ajeeb.net/products/%D9%85%D8%B8%D9%84%D8%A9-%D8%A7%D9%84%D9%88%D8%A7%D9%86-%D9%82%D9%88%D8%B3-%D9%82%D8%B2%D8%AD?srsltid=AfmBOopTkWDf_yQN37tnn0Ud04W9xtYTJBPyNqx9imicg7cSvHY63KCR",
+      "titulo": "مظلة الوان قوس قزح | عجيب",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZFhcs0E5W0Mp2GRdl3vNjL3k9u_Sm7bul-Q&s",
+      "original": "https://ajeeb.net/cdn/shop/products/16900140_900x.jpg?v=1669105309"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/umbrella/ar/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtqspT_wjUN5zLGMdQOF4ChkB4WU0ZDTfPgw&s",
+      "fuentePagina": "https://www.amazon.eg/%D8%A7%D9%84%D8%A7%D9%85%D8%A7%D9%85%D9%8A-%D9%84%D9%84%D8%B3%D9%8A%D8%A7%D8%B1%D8%A9-%D8%A7%D9%86-%D8%A7%D9%84%D8%A8%D9%86%D9%81%D8%B3%D8%AC%D9%8A%D8%A9-%D8%A7%D9%84%D8%B3%D9%8A%D8%A7%D8%B1%D8%A7%D8%AA/dp/B09V27R871",
+      "titulo": "مظلة واقية من الشمس للزجاج الامامي للسيارة قابلة للطي من ان سي، تحجب الاشعة  فوق البنفسجية للسيارة [48 25.6 انش (122 × 65 سم)] تناسب معظم السيارات : ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtqspT_wjUN5zLGMdQOF4ChkB4WU0ZDTfPgw&s",
+      "original": "https://m.media-amazon.com/images/I/41gto9vM37L._AC_UF894,1000_QL80_.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/umbrella/ar/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxss4vail1TvhEzyx-pwjceLpoE3JVy0mgUw&s",
+      "fuentePagina": "http://ar.ovidaumbrella.com/news/the-basics-of-umbrella/",
+      "titulo": "أساسيات المظلة",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxss4vail1TvhEzyx-pwjceLpoE3JVy0mgUw&s",
+      "original": "https://www.ovidaumbrella.com/uploads/umbrella12.jpg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/umbrella/ar/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzwrFAUJBUTcC7YX3Hbc4aNp9ZHabNO1kN-w&s",
+      "fuentePagina": "https://umbrella-egypt.com/eg/product/car-windshield-sun-shade-foldable-car-sun-umbrellablocks-uv-rays-sun-visor-for-car48-256-inches-122-65-cm-fit-most-vehic?srsltid=AfmBOor7duzkZHnpq_bfMiXlDN4hUKO1soP1c4-ZX-0Iz5z-ppMhhoeA",
+      "titulo": "شماسة شكل مظلة قابلة للطي لحماية زجاج مقدمة السيارة من اشعة الشمس",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzwrFAUJBUTcC7YX3Hbc4aNp9ZHabNO1kN-w&s",
+      "original": "https://umbrella-egypt.com/storage/app/public/product/2024-05-28-6655ed217f793.png"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/umbrella/ar/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWjJQU6A_cgTqR94UHVOywDAYB9KPhLMHpEw&s",
+      "fuentePagina": "https://sa.made-in-china.com/co_king-umbrella/product_Auto-Open-Cantoon-Printing-Kid-Umbrella-Sk-55-_uougrreyhg.html",
+      "titulo": "مظلة أطفال قابلة للفتح التلقائي كانتون (55) - الصين مظلة ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWjJQU6A_cgTqR94UHVOywDAYB9KPhLMHpEw&s",
+      "original": "https://image.made-in-china.com/202f0j00moAphNwRQuke/Auto-Open-Cantoon-Printing-Kid-Umbrella-Sk-55-.webp"
+    }
+  ]
+}

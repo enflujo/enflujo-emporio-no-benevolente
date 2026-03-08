@@ -1,0 +1,71 @@
+{
+  "categoria": "hot dog",
+  "categoriaSlug": "hot-dog",
+  "idioma": "fr",
+  "nombreIdioma": "Français",
+  "termino": "hot dog",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:14:29.934Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "fr",
+    "gl": "be"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=hot%20dog&hl=fr&gl=be",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/hot-dog/fr/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdv1C2D9MGCOZl6gW55yqPXqFr7DgJJTK3PA&s",
+      "fuentePagina": "https://en.wikipedia.org/wiki/Hot_dog",
+      "titulo": "Hot Dog",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdv1C2D9MGCOZl6gW55yqPXqFr7DgJJTK3PA&s",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Hot_dog_with_mustard.png/1280px-Hot_dog_with_mustard.png"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/hot-dog/fr/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRb03xtsz6jbohWNcc-KJjSzlLA7UAXLEQuA&s",
+      "fuentePagina": "https://cookidoo.fr/recipes/recipe/fr-fr/r902949",
+      "titulo": "Chicago-Style Hot Dogs",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRb03xtsz6jbohWNcc-KJjSzlLA7UAXLEQuA&s",
+      "original": "https://assets.tmecosys.com/image/upload/t_web_rdp_recipe_584x480/img/recipe/ras/Assets/5cf6c117f5c41319d85be7490cbb0e47/Derivates/0fa2242bd92c2f55248c9d38bdbca4b5d543a220.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/hot-dog/fr/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcKffHYj8GNeC-Gn4lvvu0VWcGk3UVDQtZ7A&s",
+      "fuentePagina": "https://www.allrecipes.com/recipe/268494/basic-air-fryer-hot-dogs/",
+      "titulo": "Basic Air Fryer Hot Dogs",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcKffHYj8GNeC-Gn4lvvu0VWcGk3UVDQtZ7A&s",
+      "original": "https://www.allrecipes.com/thmb/hHB6wlw7KZQFB6jU5CEa2ACeKjg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/AR-268494-BasicAirFryerHotDogs-4x3-49aad2a82d284f8dab6d3c09243eeaea.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/hot-dog/fr/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlk8nW86iUm2iXjpA6u9eWWOT6CzGPAO6oVg&s",
+      "fuentePagina": "https://fr.wikipedia.org/wiki/Hot-dog",
+      "titulo": "Hot-dog — Wikipédia",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlk8nW86iUm2iXjpA6u9eWWOT6CzGPAO6oVg&s",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Hotdog_-_Evan_Swigart.jpg/1200px-Hotdog_-_Evan_Swigart.jpg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/hot-dog/fr/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5YgNQI3Z5vokGL_S0zkURu_c_X6y2k1iJQA&s",
+      "fuentePagina": "https://www.painsjacquet.com/recettes/hot-dog/",
+      "titulo": "Comment faire un Hot-Dog ?",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5YgNQI3Z5vokGL_S0zkURu_c_X6y2k1iJQA&s",
+      "original": "https://www.painsjacquet.com/wp-content/uploads/fly-images/237614/hotdog-576x728-c.jpg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/hot-dog/fr/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHeLkcqgOn3kYqsOfP0m7pfCNh2OOQXuL4hg&s",
+      "fuentePagina": "https://www.belbrandsfoodservice.com/recipes/cheese-hot-dawg/",
+      "titulo": "Cheese “HOT” Dawg",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHeLkcqgOn3kYqsOfP0m7pfCNh2OOQXuL4hg&s",
+      "original": "https://www.belbrandsfoodservice.com/wp-content/uploads/2018/05/recipe-desktop-merkts-cheesy-hot-dawg.jpg"
+    }
+  ]
+}

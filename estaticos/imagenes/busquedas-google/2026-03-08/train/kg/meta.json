@@ -1,0 +1,71 @@
+{
+  "categoria": "train",
+  "categoriaSlug": "train",
+  "idioma": "kg",
+  "nombreIdioma": "Kikongo",
+  "termino": "tere",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T20:44:21.843Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "fr",
+    "gl": "cd"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=tere&hl=fr&gl=cd",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/train/kg/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGjZQ1DOO7NsF63vvMiSYdtvEv-4lxeT9hBQ&s",
+      "fuentePagina": "https://www.youtube.com/watch?v=O9P1g9q1JtM",
+      "titulo": "Toofan - \"TERÉ TERÉ\" (Official Video)",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGjZQ1DOO7NsF63vvMiSYdtvEv-4lxeT9hBQ&s",
+      "original": "https://i.ytimg.com/vi/O9P1g9q1JtM/maxresdefault.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/train/kg/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSW-8GdUMGOiuXtX5VIhLW6SSki9kRbT2dgeA&s",
+      "fuentePagina": "https://tr.wikipedia.org/wiki/Tere",
+      "titulo": "Tere - Vikipedi",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSW-8GdUMGOiuXtX5VIhLW6SSki9kRbT2dgeA&s",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Tereler.JPG"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/train/kg/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8yCdNqJbtl2rYLldahaXW2SLrkEG4DUlelQ&s",
+      "fuentePagina": "https://www.youtube.com/watch?v=I90-RGZCUfw",
+      "titulo": "Toofan - \"TERÉ TERÉ\" (Official Audio)",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8yCdNqJbtl2rYLldahaXW2SLrkEG4DUlelQ&s",
+      "original": "https://i.ytimg.com/vi/I90-RGZCUfw/maxresdefault.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/train/kg/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7ZVOf8qC99IF0F2bcwJ6CLr1T6joQlON2sw&s",
+      "fuentePagina": "https://medipol.com.tr/saglik-rehberi/terenin-faydalari-nelerdir",
+      "titulo": "Terenin Faydaları Nelerdir? Tere Otu Neye İyi Gelir ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7ZVOf8qC99IF0F2bcwJ6CLr1T6joQlON2sw&s",
+      "original": "https://media.medipol.com.tr/assets/s3fs-public/styles/just_webp/public/2025-12/tere.jpg.webp?itok=dR6jhdHv"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/train/kg/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3gx1NHruWxktM3_yW-82ebKkJZAzv27n6pw&s",
+      "fuentePagina": "https://www.tere-tp.fr/",
+      "titulo": "TERE - Faisons Route Ensemble",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3gx1NHruWxktM3_yW-82ebKkJZAzv27n6pw&s",
+      "original": "https://www.tere-tp.fr/wp-content/uploads/2019/11/cropped-tere.png"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/train/kg/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQP2jKtNw99QFIQ1DiXXSw9IpNYkDiYoE1oEg&s",
+      "fuentePagina": "https://afriqueterecosmetics.com/collections/papaye?srsltid=AfmBOorC9NIWeYhJAXJ6IzNGfxquhpttwvrQRKqt_Lsczg45emUpjYQV",
+      "titulo": "Téré Yélétia – AFRIQUE TERE COSMETICS",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQP2jKtNw99QFIQ1DiXXSw9IpNYkDiYoE1oEg&s",
+      "original": "https://afriqueterecosmetics.com/cdn/shop/files/serum-eclatant-goyave-tere-goyayi-40ml.jpg?v=1753553078&width=1500"
+    }
+  ]
+}

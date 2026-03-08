@@ -1,0 +1,71 @@
+{
+  "categoria": "toothbrush",
+  "categoriaSlug": "toothbrush",
+  "idioma": "gn",
+  "nombreIdioma": "Guaraní",
+  "termino": "cepillo",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:32:39.571Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "es",
+    "gl": "py"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=cepillo&hl=es&gl=py",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/toothbrush/gn/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTj2TAczJCKE3lS1ROp8pm3TAmSBWCeYNBZ7g&s",
+      "fuentePagina": "https://professional.sunstargum.com/es-es/productos/cepillos-de-dientes/cepillo-de-dientes-gum-pro.html",
+      "titulo": "Cepillo de dientes GUM® PRO",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTj2TAczJCKE3lS1ROp8pm3TAmSBWCeYNBZ7g&s",
+      "original": "https://professional.sunstargum.com/adobe/dynamicmedia/deliver/dm-aid--c4262892-4a01-4926-9309-b31e2e801e6b/526-gum-pro-toothbrush-blue-n5.jpg?preferwebp=true&quality=85"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/toothbrush/gn/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOBwLU_2LtTpDc_Q7aVMn_8vYDpPGr1teO9w&s",
+      "fuentePagina": "https://phiten.com.mx/products/cepillo-para-cabello-yuko?srsltid=AfmBOopjj9wTKUrQXVkY7MiM1NMIVLspwcQOaitbjf6mUkFsNoxE9JSF",
+      "titulo": "Cepillo para Cabello Yuko — Phiten México",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOBwLU_2LtTpDc_Q7aVMn_8vYDpPGr1teO9w&s",
+      "original": "https://phiten.com.mx/cdn/shop/files/HDC80003_700x700.jpg?v=1683736787"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/toothbrush/gn/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3E_v9Z1JBxC-lYGq2Wtn__VXmh3q8DKfASQ&s",
+      "fuentePagina": "https://py.iherb.com/pr/conair-gel-grips-paddle-hair-brush-1-brush/90502",
+      "titulo": "Mangos de gel, Cepillo de paleta para el cabello, 1 cepillo",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3E_v9Z1JBxC-lYGq2Wtn__VXmh3q8DKfASQ&s",
+      "original": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cnr/cnr72604/y/28.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/toothbrush/gn/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSn0orlaSzjkwGHyH5j13lXvynmvLL2Sv3zJA&s",
+      "fuentePagina": "https://www.bringco.com.py/cepillo-para-ropa-de-plastico-generico-und-p1142",
+      "titulo": "Cepillo para Ropa de Plastico Generico und",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSn0orlaSzjkwGHyH5j13lXvynmvLL2Sv3zJA&s",
+      "original": "https://www.bringco.com.py/userfiles/images/productos/102391-cepillo-para-ropa-de-plastico.jpg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/toothbrush/gn/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7e3SVRgzGRIjO6u_NxVfzEpNnWY1plyT_Lw&s",
+      "fuentePagina": "https://ngosaeca.com.py/producto/EDRCAS15A/cepillo-secador-as15a-remington-3t-2v-1200w",
+      "titulo": "CEPILLO SECADOR AS15A REMINGTON 3T 2V 1200W | NGO SAECA ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7e3SVRgzGRIjO6u_NxVfzEpNnWY1plyT_Lw&s",
+      "original": "https://ngosaeca.com.py/storage/productos/EDRCAS15A.jpg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/toothbrush/gn/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzk0MUm0JECj4k_0vqRf8Vxmdecht4zbqeTQ&s",
+      "fuentePagina": "https://es.wikipedia.org/wiki/Cepillo_de_dientes",
+      "titulo": "Cepillo de dientes - Wikipedia, la enciclopedia libre",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzk0MUm0JECj4k_0vqRf8Vxmdecht4zbqeTQ&s",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/6/66/Toothbrush_x3_20050716_002.jpg"
+    }
+  ]
+}

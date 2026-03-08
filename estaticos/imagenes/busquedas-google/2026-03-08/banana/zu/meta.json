@@ -1,0 +1,71 @@
+{
+  "categoria": "banana",
+  "categoriaSlug": "banana",
+  "idioma": "zu",
+  "nombreIdioma": "isiZulu",
+  "termino": "ubhanana",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:10:50.336Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "zu",
+    "gl": "za"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=ubhanana&hl=zu&gl=za",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/banana/zu/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxQeuIOeANjIWBzaoy2ZMGYPWThEZmbpdgmA&s",
+      "fuentePagina": "https://zu.wikipedia.org/wiki/Ubhanana",
+      "titulo": "Ubhanana - Wikipedia",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxQeuIOeANjIWBzaoy2ZMGYPWThEZmbpdgmA&s",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/3/31/Cavendish_banana_from_Maracaibo.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/banana/zu/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlxCQFk0PlAsP6PeQCJOF4I_ynysoct8XdMA&s",
+      "fuentePagina": "https://zu.joellemena.com/ukuhunyushwa-kwamaphupho/Ukuhunyushwa-kukabhanana-ephusheni/",
+      "titulo": "Iyini incazelo yebhanana ephusheni ngu-Ibn Sirin ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlxCQFk0PlAsP6PeQCJOF4I_ynysoct8XdMA&s",
+      "original": "https://joellemena.com/wp-content/uploads/2021/11/%D8%AA%D9%81%D8%B3%D9%8A%D8%B1-%D8%A7%D9%84%D9%85%D9%88%D8%B2-%D9%81%D9%8A-%D8%A7%D9%84%D9%85%D9%86%D8%A7%D9%85.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/banana/zu/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgQ_JTv-1gPHlFnGjs2FX3djMDSQp1le2peQ&s",
+      "fuentePagina": "https://zu.interpret-dreams-online.com/Ubhanana-ephusheni-a/",
+      "titulo": "Funda mayelana nencazelo yokubona ubhanana ephusheni ngu-Ibn ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgQ_JTv-1gPHlFnGjs2FX3djMDSQp1le2peQ&s",
+      "original": "https://interpret-dreams-online.com/wp-content/uploads/2021/05/%D8%A7%D9%84%D9%85%D9%88%D8%B2-%D9%81%D9%8A-%D8%A7%D9%84%D8%AD%D9%84%D9%85.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/banana/zu/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2bVcAOnoLlBacef-xWzF1jtkVsAioTgGmiA&s",
+      "fuentePagina": "https://glosbe.com/zu/en/ubhanana",
+      "titulo": "ubhanana in English - Zulu-English Dictionary | Glosbe",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2bVcAOnoLlBacef-xWzF1jtkVsAioTgGmiA&s",
+      "original": "https://glosbe.com/fb_img/profilePageAvatar/X4257305_Banana.arp.750pix.jpg.cvrt.jpg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/banana/zu/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsjuzFzgzhigBOkuwWp1PeNewmglcZbpBBSw&s",
+      "fuentePagina": "https://zu.wikipedia.org/wiki/Ubhanana",
+      "titulo": "Ubhanana - Wikipedia",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsjuzFzgzhigBOkuwWp1PeNewmglcZbpBBSw&s",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Luxor%2C_Banana_Island%2C_Banana_Tree%2C_Egypt%2C_Oct_2004.jpg/250px-Luxor%2C_Banana_Island%2C_Banana_Tree%2C_Egypt%2C_Oct_2004.jpg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/banana/zu/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9dRFMDVlC-BLf6sF6ZBbM1GEw_1qAsCWplA&s",
+      "fuentePagina": "https://zu.secrets-of-dream-interpretation.com/Ukuphupha-uthenga-ubhanana/",
+      "titulo": "Iyini incazelo yokubona iphupho mayelana nokuthenga ubhanana ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9dRFMDVlC-BLf6sF6ZBbM1GEw_1qAsCWplA&s",
+      "original": "https://secrets-of-dream-interpretation.com/wp-content/uploads/2022/07/%D8%A7%D9%84%D9%85%D9%88%D8%B2-%D9%81%D9%8A-%D8%A7%D9%84%D9%85%D9%86%D8%A7%D9%85-%D8%A8%D8%B4%D8%A7%D8%B1%D8%A9-%D8%AE%D9%8A%D8%B1.jpg"
+    }
+  ]
+}

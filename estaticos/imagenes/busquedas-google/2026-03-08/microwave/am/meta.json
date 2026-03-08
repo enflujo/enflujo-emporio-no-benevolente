@@ -1,0 +1,71 @@
+{
+  "categoria": "microwave",
+  "categoriaSlug": "microwave",
+  "idioma": "am",
+  "nombreIdioma": "Amharic — አማርኛ",
+  "termino": "ማይክሮዌቭ",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:25:02.044Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "am",
+    "gl": "et"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=%E1%88%9B%E1%8B%AD%E1%8A%AD%E1%88%AE%E1%8B%8C%E1%89%AD&hl=am&gl=et",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/microwave/am/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrRbJjQn3h-FT7UCHCJFqZRPBhprVHtNq1mg&s",
+      "fuentePagina": "https://jiji.com.et/addis-ketema/kitchen-appliances/midea-microwave-23l-fast-easy-midiyaa-maayekeroweeve-23-litere-iMotNq2EnG4qCmMJOLDonXUb.html",
+      "titulo": "Midea Microwave 23l – Fast, Easy ሚዲያ ማይክሮዌቭ 23 ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrRbJjQn3h-FT7UCHCJFqZRPBhprVHtNq1mg&s",
+      "original": "https://pictures-ethiopia.jijistatic.com/9236607_NjIwLTQ1NS0zOTY2NzVmNjE1.webp"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/microwave/am/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHceU_gWmIw44BT5BKMWDSTAjpN0hPUkcauA&s",
+      "fuentePagina": "https://jiji.com.et/bole/kitchen-appliances/midea-maayekeroweeve-ovenoce-batalayaaya-saayeze-gabetawaale-tJz2f6EPXAAX4bznDVhz9vd8.html",
+      "titulo": "Midea ማይክሮዌቭ ኦቭኖች በተለያየ ሳይዝ ገብተዋል in ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHceU_gWmIw44BT5BKMWDSTAjpN0hPUkcauA&s",
+      "original": "https://pictures-ethiopia.jijistatic.com/9450774_NjIwLTYzMS05MzMwYWQ1Zjdl.webp"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/microwave/am/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpZwQSO4eCbhNUvmOdTwGuSopeUZVBS3LnjQ&s",
+      "fuentePagina": "https://am.leader-mw.com/rf-microwave-cable-assemblies-product/",
+      "titulo": "የቻይና አርኤፍ ማይክሮዌቭ ኬብል ስብስቦች አምራቾች ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpZwQSO4eCbhNUvmOdTwGuSopeUZVBS3LnjQ&s",
+      "original": "https://www.leader-mw.com/uploads/3g-flexible-cable-assemblies57379643744.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/microwave/am/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRiTH8a6hFy6fHzCyj3aXFetCa-muEp600jdA&s",
+      "fuentePagina": "https://am.ouaighome.com/20l-digital-control-microwave-oven-without-handle-product/",
+      "titulo": "የኦሪጂናል ዕቃ አምራች 20L ዲጂታል መቆጣጠሪያ ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRiTH8a6hFy6fHzCyj3aXFetCa-muEp600jdA&s",
+      "original": "https://ecdn6.globalso.com/upload/p/3564/image_other/2025-07/20l-digital-control-microwave-oven-without-handle-2.jpg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/microwave/am/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3KZWAoTNTvYRlye387o1Q62XL1ispRXBEmg&s",
+      "fuentePagina": "https://am.ouaighome.com/20l-digital-control-microwave-oven-without-handle-product/",
+      "titulo": "የኦሪጂናል ዕቃ አምራች 20L ዲጂታል መቆጣጠሪያ ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3KZWAoTNTvYRlye387o1Q62XL1ispRXBEmg&s",
+      "original": "https://ecdn6.globalso.com/upload/p/3564/image_other/2025-07/20l-digital-control-microwave-oven-without-handle-1.jpg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/microwave/am/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsiw431GXpRioWozXbnPauCNx4fKcxvrhgkg&s",
+      "fuentePagina": "https://www.yashodahospitals.com/am/blog/do-microwave-ovens-cause-cancer/",
+      "titulo": "ማይክሮዌቭ ምድጃዎች ካንሰር ያመጣሉ? - ያሾዳ ሆስፒታሎች",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsiw431GXpRioWozXbnPauCNx4fKcxvrhgkg&s",
+      "original": "https://d3upjtc0wh66ez.cloudfront.net/wp-content/uploads/2019/12/Do-microwave-ovens-cause-cancer-1.jpg"
+    }
+  ]
+}

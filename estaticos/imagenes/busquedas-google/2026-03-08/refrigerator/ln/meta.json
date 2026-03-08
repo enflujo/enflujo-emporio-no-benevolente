@@ -1,0 +1,71 @@
+{
+  "categoria": "refrigerator",
+  "categoriaSlug": "refrigerator",
+  "idioma": "ln",
+  "nombreIdioma": "Lingala",
+  "termino": "frigo",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:27:22.999Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "fr",
+    "gl": "cd"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=frigo&hl=fr&gl=cd",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/refrigerator/ln/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgAbfbjFYglQE6pZ4AmQOlHXdWWN4iCTC9Mg&s",
+      "fuentePagina": "https://www.electrodepot.fr/conseils/choisir-refrigerateur?srsltid=AfmBOoq_IKn191UnCNHVdkmNqML0Ze9uxysIm-W8E3eA7inVW3eQHrm3",
+      "titulo": "Choisir réfrigérateur - Electro Dépôt",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgAbfbjFYglQE6pZ4AmQOlHXdWWN4iCTC9Mg&s",
+      "original": "https://www.electrodepot.fr/media/wysiwyg/page/conseils-seo/frigo_americain_1.jpeg?frz-v=4330"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/refrigerator/ln/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRn0BSbUEAtHnlGZYvPWrotx-JAMtweBSEKQ&s",
+      "fuentePagina": "https://fr.wikipedia.org/wiki/R%C3%A9frig%C3%A9rateur",
+      "titulo": "Réfrigérateur — Wikipédia",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRn0BSbUEAtHnlGZYvPWrotx-JAMtweBSEKQ&s",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/LG_refrigerator_interior.jpg/960px-LG_refrigerator_interior.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/refrigerator/ln/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUBqtKABfeuFPAR-XVvR8RzLCDWL0yRMIgWw&s",
+      "fuentePagina": "https://www.loeters.be/fr/frigo-avec-congelateur-pose-libre/a542959675/143cm-55cm-large-169l-37l-blanc-combine-frigo-congelateur-pose-libre-domo-do-91402-c",
+      "titulo": "DO91402C Domo Frigo avec congélateur pose libre - Elektro ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUBqtKABfeuFPAR-XVvR8RzLCDWL0yRMIgWw&s",
+      "original": "https://www.loeters.be/s/picture/542959579/800/600/143cm-55cm-large-169l-37l-blanc-combine-frigo-congelateur-pose-libre-domo-do-91402-c.jpg?alt=143cm-55cm-large-169l-37l-blanc-combine-frigo-congelateur-pose-libre-domo-do-91402-c&language=fr"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/refrigerator/ln/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlkeeCFWBub97NZcNxAH3rRAH3U9jI9UVDcg&s",
+      "fuentePagina": "https://lacuisinedagnes.com/refrigerateur-ou-frigo-connaissez-vous-vraiment-la-difference/",
+      "titulo": "Réfrigérateur ou Frigo: Connaissez-vous vraiment la ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlkeeCFWBub97NZcNxAH3rRAH3U9jI9UVDcg&s",
+      "original": "https://lacuisinedagnes.com/wp-content/uploads/2025/07/Refrigerateur-ou-Frigo-Connaissez-vous-vraiment-la-difference.jpg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/refrigerator/ln/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSD0p-gOqAm5WFiQ1pMTGlqzekr0cnOOgzCzg&s",
+      "fuentePagina": "https://www.sfpl.fr/produit/frigo-congelateur-blanc-2-portes-211-l.html",
+      "titulo": "FRIGO CONGELATEUR Blanc 2 Portes 211 L - SFPL Société de ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSD0p-gOqAm5WFiQ1pMTGlqzekr0cnOOgzCzg&s",
+      "original": "https://www.sfpl.fr/data/products/RFDP212Aplusplus_PF.png"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/refrigerator/ln/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5TD3cISQJMQIR_Gm9qxtrayrcm8v7aS1DdQ&s",
+      "fuentePagina": "https://surain-electro.be/gros-electro/frigo-congelateur-combine-exquisit-kgc231-60-010ei/",
+      "titulo": "Frigo congélateur combiné Exquisit KGC231-60-010EI - Surain ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5TD3cISQJMQIR_Gm9qxtrayrcm8v7aS1DdQ&s",
+      "original": "https://i0.wp.com/surain-electro.be/wp-content/uploads/2024/08/811620304_KGC231-60-010Esilber_37070_Main.jpg?fit=700%2C800&ssl=1"
+    }
+  ]
+}

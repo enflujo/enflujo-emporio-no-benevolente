@@ -1,0 +1,71 @@
+{
+  "categoria": "skis",
+  "categoriaSlug": "skis",
+  "idioma": "ln",
+  "nombreIdioma": "Lingala",
+  "termino": "skis",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:00:02.800Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "fr",
+    "gl": "cd"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=skis&hl=fr&gl=cd",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/skis/ln/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsjSE91kttABxFjMayhAzg7NLZKwoyJjRCLw&s",
+      "fuentePagina": "https://www.voile.com/voile-ultravector-skis.html?srsltid=AfmBOooq3DRTF23FuAvbXwSIhUwRvfA_17P1hES6Qz8m3s55lnsAp5EI",
+      "titulo": "Voile UltraVector Skis",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsjSE91kttABxFjMayhAzg7NLZKwoyJjRCLw&s",
+      "original": "https://www.voile.com/mm5/graphics/00000001/2/voile-ultravector-skis-2324.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/skis/ln/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTL-i3FNVSQ1BelkYt0QMoeQZyJUiiBigf60A&s",
+      "fuentePagina": "https://www.valthorens.com/comment-choisir-ses-skis/",
+      "titulo": "Comment choisir ses skis ? - Val Thorens",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTL-i3FNVSQ1BelkYt0QMoeQZyJUiiBigf60A&s",
+      "original": "https://www.valthorens.com/app/uploads/2023/08/230407-ski-pistes-damees-l.brochot-ot-val-thorens-17-1024x620.webp"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/skis/ln/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_Dco6Qalh5f1hlPm9ryL_wy69vmvIrv8hYA&s",
+      "fuentePagina": "https://www.skiutah.com/blog/authors/courtney-hark/the-5-best-rossignol-women-s-skis-of/",
+      "titulo": "The 5 Best Rossignol Women's Skis of 2022 - Ski Utah",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_Dco6Qalh5f1hlPm9ryL_wy69vmvIrv8hYA&s",
+      "original": "https://www.skiutah.com/files/subblob/blog/images.listing/1647940606"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/skis/ln/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7_3FFxAA05ave7sfoU_IhdIOZDVGAX9Jjuw&s",
+      "fuentePagina": "https://us-store.altaiskis.com/product/altai-skis-adjustable-poles/",
+      "titulo": "Altai Skis Adjustable Poles | Altai Skis - US store",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7_3FFxAA05ave7sfoU_IhdIOZDVGAX9Jjuw&s",
+      "original": "https://us-store.altaiskis.com/wp-content/uploads/sites/3/2023/12/New-Xtrace-onHoks-snow.jpg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/skis/ln/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8NXTnTYWWj3BSXgfwPYg4Do2HgxV5mETBWg&s",
+      "fuentePagina": "https://www.voile.com/voile-objective-skis.html?srsltid=AfmBOoqkJ0Fw0ooWLNIFTsbyXD7Z5fvoZgknBj720gmP7RIMwWtsuGi4",
+      "titulo": "Voile: Voile Objective Skis",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8NXTnTYWWj3BSXgfwPYg4Do2HgxV5mETBWg&s",
+      "original": "https://www.voile.com/mm5/graphics/00000001/2/voile-objective-skis-2324.jpg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/skis/ln/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8_bpfDG18JRMHYiCvU_HMfOmwaKgvZaB2fw&s",
+      "fuentePagina": "https://www.coalitionsnow.com/products/la-nieve-backcountry-ski-for-goddess-sake?srsltid=AfmBOooUOM3_rJFOhcRfDftFUswuSQDqpSyLrhkDvNQRjD0pKSfapcU0",
+      "titulo": "Coalition Snow | La Nieve Backcountry Skis",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8_bpfDG18JRMHYiCvU_HMfOmwaKgvZaB2fw&s",
+      "original": "http://www.coalitionsnow.com/cdn/shop/files/2324lanieve3.jpg?v=1724169383"
+    }
+  ]
+}

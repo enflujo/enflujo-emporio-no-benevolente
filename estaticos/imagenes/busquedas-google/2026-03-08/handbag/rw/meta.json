@@ -1,0 +1,71 @@
+{
+  "categoria": "handbag",
+  "categoriaSlug": "handbag",
+  "idioma": "rw",
+  "nombreIdioma": "Kinyarwanda",
+  "termino": "isaho",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T20:57:31.902Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "en",
+    "gl": "rw"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=isaho&hl=en&gl=rw",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/handbag/rw/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHI3XcsqiHJ2JTIaGNWJ7O6_YE7A06JjRBEg&s",
+      "fuentePagina": "https://www.visitsouthwestidaho.org/city/boise/",
+      "titulo": "Boise, Idaho - Southwest Idaho Travel Association",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHI3XcsqiHJ2JTIaGNWJ7O6_YE7A06JjRBEg&s",
+      "original": "https://www.visitsouthwestidaho.org/wp-content/uploads/2023/03/Boise-Idaho-Photo-SWITA.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/handbag/rw/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcKYGdo07cBQfZFyT50DXUHQhYx3O8xrhE3A&s",
+      "fuentePagina": "https://en.wikipedia.org/wiki/Idaho",
+      "titulo": "Idaho - Wikipedia",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcKYGdo07cBQfZFyT50DXUHQhYx3O8xrhE3A&s",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Idaho_in_United_States.svg/330px-Idaho_in_United_States.svg.png"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/handbag/rw/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxqza_dzx22y63g96ZEFuogAQ-8To4x4RV0g&s",
+      "fuentePagina": "https://www.tripadvisor.com/Attractions-g28933-Activities-Idaho.html",
+      "titulo": "THE 15 BEST Things to Do in Idaho (2026) - Must-See Attractions",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxqza_dzx22y63g96ZEFuogAQ-8To4x4RV0g&s",
+      "original": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0c/8e/a2/c6/shoshone-falls-twin-falls.jpg?w=1200&h=700&s=1"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/handbag/rw/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnCXVjDVqHBOZsLB0JSIxj5GN5OC73ZsMsVg&s",
+      "fuentePagina": "https://www.britannica.com/place/Idaho",
+      "titulo": "Idaho | Geography, History, Economy, People, & Facts ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnCXVjDVqHBOZsLB0JSIxj5GN5OC73ZsMsVg&s",
+      "original": "https://cdn.britannica.com/48/195748-050-DC19C8E0/Idaho-united-states-locator-map.jpg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/handbag/rw/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSvxZioBQpYttSryi5ngrwfiVpg8ppArCqvg&s",
+      "fuentePagina": "https://boise.citycast.fm/urban-almanac/a-beginner-s-guide-to-idaho-s-visit-worthy-wilderness-parks-monuments-and-preserves",
+      "titulo": "A Beginner's Guide to Idaho's Visit-Worthy Wilderness Parks ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSvxZioBQpYttSryi5ngrwfiVpg8ppArCqvg&s",
+      "original": "https://cdn.sanity.io/images/9zm36frz/staging/6d8184148fe7e54a944433a3f799c70bbb985634-8660x5774.jpg?w=1920&q=75&fit=max&auto=format"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/handbag/rw/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWv_jzTqRMDQV5ERJ8RDNz7JfarTQP4u4SVw&s",
+      "fuentePagina": "https://www.worldatlas.com/maps/united-states/idaho",
+      "titulo": "Idaho Maps & Facts - World Atlas",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWv_jzTqRMDQV5ERJ8RDNz7JfarTQP4u4SVw&s",
+      "original": "https://www.worldatlas.com/r/w1200/upload/50/a8/b1/id-01.png"
+    }
+  ]
+}

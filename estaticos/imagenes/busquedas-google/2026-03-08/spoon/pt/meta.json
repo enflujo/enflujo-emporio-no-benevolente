@@ -1,0 +1,71 @@
+{
+  "categoria": "spoon",
+  "categoriaSlug": "spoon",
+  "idioma": "pt",
+  "nombreIdioma": "Português",
+  "termino": "colher",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:09:47.018Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "pt",
+    "gl": "br"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=colher&hl=pt&gl=br",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/spoon/pt/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyzokfJQrhfP5rdWWGZDjF62zQ_N5_OPiQTw&s",
+      "fuentePagina": "https://www.utifacil.com.br/colher-de-mesa-sopa-grande-aco-inox?srsltid=AfmBOoqn7wznpiojoJx9u84QlJUncnZ7k89zkbRGzfRTqmPiua2bk7Go",
+      "titulo": "Colher de Cozinha Mesa Sopa Inox é na Utifácil! Casa Cozinha ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyzokfJQrhfP5rdWWGZDjF62zQ_N5_OPiQTw&s",
+      "original": "https://cdn.awsli.com.br/2500x2500/19/19830/produto/7385095/colher-inox-1-dmxh46mubs.png"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/spoon/pt/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTiDu291cxqxNVtZl5Y4tzLTcc5iVvFvCFfUA&s",
+      "fuentePagina": "https://loja.mundial.com/colher-de-arroz-classique-hercules-aco-inox-493-312p?srsltid=AfmBOor2s_b4oBo9WOAldGQiUbcrwJ6eVUJHsfA3HJZcir3lBSdG1ElI",
+      "titulo": "Colher de Arroz Classique Hercules Aço Inox 493-312P",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTiDu291cxqxNVtZl5Y4tzLTcc5iVvFvCFfUA&s",
+      "original": "https://cdnv2.moovin.com.br/grupomundial/imagens/produtos/det/236a436233bd58f374bfca8a4ad1aeda.png"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/spoon/pt/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOyJ7ABKtU4ODASCkA0hLb6LKqU4lThTvCzw&s",
+      "fuentePagina": "https://www.multibar.com.br/5992_colher_de_mesa_leme_em_aco_inox_preta_tramontina/p?srsltid=AfmBOoqFbxvtG5MQvU5H1VRyK0WoXnuy4ROQWvQRkOyQIKi3I9w1ILRb",
+      "titulo": "Colher de Mesa Leme Tramontina em Aço Inox Preta",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOyJ7ABKtU4ODASCkA0hLb6LKqU4lThTvCzw&s",
+      "original": "https://multibar.vtexassets.com/arquivos/ids/556668-800-auto?v=638895920331030000&width=800&height=auto&aspect=true"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/spoon/pt/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAyzWFdlXs9ISj0Q5jBylyduhntx7Q23-qpQ&s",
+      "fuentePagina": "https://www.tousobalancas.com.br/colher-de-aluminio-fundido-n-4-industrial?srsltid=AfmBOorwFn02OL4EorrAdEeX10Q0rvCd30OkpvPdE2Y8_VNUifameAdt",
+      "titulo": "Colher de Aluminio fundido nº 4 Industrial 60cm",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAyzWFdlXs9ISj0Q5jBylyduhntx7Q23-qpQ&s",
+      "original": "https://cdn.awsli.com.br/600x450/2465/2465746/produto/264258852/colher-r6mk8m7m4j.PNG"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/spoon/pt/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJDEzPbxPAmfhB90xfHyh3nomHjPoCHmcTEw&s",
+      "fuentePagina": "https://www.connectionhome.com.br/produto/colher-de-sopa-de-aco-inox-com-cabo-de-plastico-rattan-preto-19cm.html?srsltid=AfmBOoqMKU2LJLZXqXgOItB-zDZiyIXR7w_RbJFi2KpAnj_5JUY06nMn",
+      "titulo": "Colher de Sopa de Aço Inox com Cabo de Plástico Rattan Preto 19cm",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJDEzPbxPAmfhB90xfHyh3nomHjPoCHmcTEw&s",
+      "original": "https://cdn.awsli.com.br/600x700/1179/1179664/produto/17799256590eb66bc60.jpg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/spoon/pt/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfYyNtXAL2_qJum1gLv6gR-kby4GOexQUedw&s",
+      "fuentePagina": "https://www.utifacil.com.br/colher-de-arroz-grande-servir-aco-inoxidavel-macico-32-cm?srsltid=AfmBOoomKovs8UseGAzk-zgVt_CFy36XYNzT3NtuRUt57UZMI7mXkBSS",
+      "titulo": "Colher de Arroz Grande Servir Aço Inoxidável Maciço 32 cm",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfYyNtXAL2_qJum1gLv6gR-kby4GOexQUedw&s",
+      "original": "https://cdn.awsli.com.br/800x800/19/19830/produto/215802187/612wfpphqol-_ac_sl1500__clipped_rev_4--1--0uzossmjdq.jpeg"
+    }
+  ]
+}

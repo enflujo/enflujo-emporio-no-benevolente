@@ -1,0 +1,71 @@
+{
+  "categoria": "car",
+  "categoriaSlug": "car",
+  "idioma": "hi",
+  "nombreIdioma": "हिन्दी",
+  "termino": "कार",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T20:42:02.567Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "hi",
+    "gl": "in"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=%E0%A4%95%E0%A4%BE%E0%A4%B0&hl=hi&gl=in",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/car/hi/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzZf16qiR_VXf6TvCc7pf1q9y33kaiitfOgg&s",
+      "fuentePagina": "https://www.aajtak.in/auto/news/photo/top-10-safest-cars-in-india-2020-as-per-global-ncap-ratings-tata-mahindra-cars-best-score-tuto-1186589-2021-01-03",
+      "titulo": "नए साल में कार खरीदने का प्लान? ये ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzZf16qiR_VXf6TvCc7pf1q9y33kaiitfOgg&s",
+      "original": "https://akm-img-a-in.tosshub.com/aajtak/images/photo_gallery/202101/xuv300_0.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/car/hi/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTt4Uo89PuijiX_2wavPhZBYUIQcwzZ-wvRGw&s",
+      "fuentePagina": "https://www.cardekho.com/hi/cars/Citroen",
+      "titulo": "सिट्रोएन कार प्राइस इन इंडिया, नई ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTt4Uo89PuijiX_2wavPhZBYUIQcwzZ-wvRGw&s",
+      "original": "https://stimg.cardekho.com/images/carexteriorimages/630x420/Citroen/C3/10946/1758802259604/front-left-side-47.jpg?impolicy=resize&imwidth=480"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/car/hi/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcReloMu4UezLd_-sKLnKsl0m0o1u3GdTcj7Ag&s",
+      "fuentePagina": "https://www.cardekho.com/hi/cars/Hyundai",
+      "titulo": "हुंडई कार प्राइस इन इंडिया, नई ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcReloMu4UezLd_-sKLnKsl0m0o1u3GdTcj7Ag&s",
+      "original": "https://stimg.cardekho.com/images/carexteriorimages/630x420/Hyundai/Creta/8667/1755765115423/front-left-side-47.jpg?impolicy=resize&imwidth=480"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/car/hi/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSC0PrTnKJ1hXgzvrtVst2GkMpe4GvN645_3g&s",
+      "fuentePagina": "https://www.amazon.in/-/hi/Centy-Toys-Brezza-%E0%A4%AE%E0%A4%B2%E0%A5%8D%E0%A4%9F%E0%A5%80%E0%A4%95%E0%A4%B2%E0%A4%B0-%E0%A4%AC%E0%A4%B9%E0%A5%81%E0%A4%B0%E0%A4%82%E0%A4%97/dp/B07JKGQTF4?s=bazaar",
+      "titulo": "Centy Toys Brezza पुल बैक कार (मल्टीकलर ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSC0PrTnKJ1hXgzvrtVst2GkMpe4GvN645_3g&s",
+      "original": "https://m.media-amazon.com/images/I/8160s5e-rPL._AC_UF1000,1000_QL80_.jpg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/car/hi/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGUHR46sQY3l3ZS7NmTCwv1PEqRyj6ilSgOA&s",
+      "fuentePagina": "https://www.zeebiz.com/hindi/auto/maruti-hits-fastest-2-lakh-sales-in-in-17-months-compact-suv-category-auto-sales-187813",
+      "titulo": "Maruti की इस कार पर टूट पड़े खरीदार ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGUHR46sQY3l3ZS7NmTCwv1PEqRyj6ilSgOA&s",
+      "original": "https://cdn.zeebiz.com/hindi/sites/default/files/2024/10/11/196316-fronx.png"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/car/hi/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvJ6GaProSc_11ukHK4BpNq82aGlF1N3XkZg&s",
+      "fuentePagina": "https://www.carwale.com/hi/tata-cars/sierra/",
+      "titulo": "टाटा सिएरा प्राइस - तस्वीरें, रंग ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvJ6GaProSc_11ukHK4BpNq82aGlF1N3XkZg&s",
+      "original": "https://imgd.aeplcdn.com/664x374/n/cw/ec/193017/sierra-exterior-right-front-three-quarter-61.png?isig=0&q=40"
+    }
+  ]
+}

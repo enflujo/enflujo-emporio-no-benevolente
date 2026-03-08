@@ -1,0 +1,71 @@
+{
+  "categoria": "baseball bat",
+  "categoriaSlug": "baseball-bat",
+  "idioma": "pt",
+  "nombreIdioma": "Português",
+  "termino": "taco de beisebol",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:03:14.205Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "pt",
+    "gl": "br"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=taco%20de%20beisebol&hl=pt&gl=br",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/baseball-bat/pt/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdpapHn1AxHNc9kINxXN9-1MZC_MDrt0Zvug&s",
+      "fuentePagina": "https://www.mercadao.com.br/produto/taco-basebal-em-madeira-macica-ax-espotes.html?srsltid=AfmBOopv013cjYgXIAMMycIi9YrTkfKLdl8N-sy7vWNKhjF5yckEOGpN",
+      "titulo": "Taco Beisebol em Madeira Maciça AX Espotes - Mercadão Dos ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdpapHn1AxHNc9kINxXN9-1MZC_MDrt0Zvug&s",
+      "original": "https://cdn.awsli.com.br/2500x2500/1537/1537255/produto/16377994930786435a1.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/baseball-bat/pt/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPdI0ID28Vwk-_de5ZWj15EVRUBmYM9gPlWg&s",
+      "fuentePagina": "https://www.badulakefestas.com.br/brinquedos/taco-baseball-de-plastico-liso-p?srsltid=AfmBOornHRuZqkmK8QPpGtaiGcBXlf1eNCRCnbhP4_Qdi5ZHkKeO7MDn",
+      "titulo": "Taco Baseball de Plástico Liso",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPdI0ID28Vwk-_de5ZWj15EVRUBmYM9gPlWg&s",
+      "original": "https://32966.cdn.simplo7.net/static/32966/sku/brinquedos-taco-baseball-de-plastico-liso--p-1682712050862.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/baseball-bat/pt/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQBINyD1NBECex4b8m2A82mnQUECw3oMlPKQ&s",
+      "fuentePagina": "https://www.mercadolivre.com.br/taco-de-madeira-baseball-beisebol-macico-resistente-68cm/up/MLBU3178106025",
+      "titulo": "Taco De Madeira Baseball Beisebol Maciço Resistente 68cm ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQBINyD1NBECex4b8m2A82mnQUECw3oMlPKQ&s",
+      "original": "https://http2.mlstatic.com/D_NQ_NP_818642-MLU73806845868_012024-O.webp"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/baseball-bat/pt/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSjBmVIFRNh0cZIWNHAldjzoD5tQ5owQ8RWA&s",
+      "fuentePagina": "https://www.magazineluiza.com.br/taco-bastao-de-baseball-beisebol-em-madeira-macica-bastao-jjveras/p/afcd47d9g1/es/tbsl/",
+      "titulo": "Magazine Luiza | Pra você é Magalu!",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSjBmVIFRNh0cZIWNHAldjzoD5tQ5owQ8RWA&s",
+      "original": "https://m.magazineluiza.com.br/a-static/420x420/taco-bastao-de-baseball-beisebol-em-madeira-macica-bastao-jjveras/oliststore/mglw8nqksnok92f7/0eaa72c6ec0551cecf4f708f62355a45.jpeg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/baseball-bat/pt/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTp-1HY_xW8R-NOoaYlH5I3SxPYOhnZSrNfoA&s",
+      "fuentePagina": "https://www.mercadao.com.br/taco-beisebal-aluminio-76cm-ax-30-648-exclusividade?srsltid=AfmBOoqoxrOX7OIvKODIWX8Prn29uIq8DBoUKKSiWVdBoBNpvMF0u-Ow",
+      "titulo": "Taco Beisebol Alumínio 76cm AX 30\" 648 - EXCLUSIVIDADE ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTp-1HY_xW8R-NOoaYlH5I3SxPYOhnZSrNfoA&s",
+      "original": "https://cdn.awsli.com.br/1537/1537255/produto/325877526/648-0-usf8zizufr.png"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/baseball-bat/pt/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYyGvrHZ0BR68RgZT4STLaBPec51mrxQKjfA&s",
+      "fuentePagina": "https://www.amazon.com.br/Baseball-Personalizado-Dialogo-Madeira-Maci%C3%A7a/dp/B0D55Q8QMN",
+      "titulo": "Taco de Baseball Personalizado Dialogo Madeira Maciça ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYyGvrHZ0BR68RgZT4STLaBPec51mrxQKjfA&s",
+      "original": "https://m.media-amazon.com/images/I/51kmuFbyQDL._AC_UF1000,1000_QL80_.jpg"
+    }
+  ]
+}

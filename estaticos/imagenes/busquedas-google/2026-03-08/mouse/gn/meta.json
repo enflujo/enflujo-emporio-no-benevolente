@@ -1,0 +1,71 @@
+{
+  "categoria": "mouse",
+  "categoriaSlug": "mouse",
+  "idioma": "gn",
+  "nombreIdioma": "Guaraní",
+  "termino": "mouse",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:22:38.908Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "es",
+    "gl": "py"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=mouse&hl=es&gl=py",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/mouse/gn/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjVZO-KM2R0pVQbm7E2dKtB2PVqcgLFir8SQ&s",
+      "fuentePagina": "https://en.wikipedia.org/wiki/Mouse",
+      "titulo": "Mouse - Wikipedia",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjVZO-KM2R0pVQbm7E2dKtB2PVqcgLFir8SQ&s",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/%D0%9C%D1%8B%D1%88%D1%8C_2.jpg/500px-%D0%9C%D1%8B%D1%88%D1%8C_2.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/mouse/gn/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzY1dCMeHBoSK3cwNLM_t_hXbWgO6TpfpUrg&s",
+      "fuentePagina": "https://www.ubuy.com.py/es/product/4K3H5IFFA-wired-optical-mouse-wired-usb-computer-mouse-with-rgb-backlight-1600-dpi-silent-usb-cord-led-mice-for-windows-pc-laptop-desktop-notebook?srsltid=AfmBOoq1W6hppKmaFLnVS5uR2wW-qCLfpKTCtyiS_YRzdaeyHQTnvcE3",
+      "titulo": "Ratón RGB con cable, mouse óptico para computadora Paraguay ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzY1dCMeHBoSK3cwNLM_t_hXbWgO6TpfpUrg&s",
+      "original": "https://m.media-amazon.com/images/I/61M9TBM9HaL._AC_SL1000__.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/mouse/gn/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-ywDvvOyxXkZnXS49Z5yZciWttgKAVd0OQA&s",
+      "fuentePagina": "https://www.sony.com.bo/gaming-gear/products/inzone-mouse-a",
+      "titulo": "INZONE Mouse-A | Mouse para juegos | Accesorios de juegos ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-ywDvvOyxXkZnXS49Z5yZciWttgKAVd0OQA&s",
+      "original": "https://sony.scene7.com/is/image/sonyglobalsolutions/GG25_MSE-G500_Primary_image?$categorypdpnav$&fmt=png-alpha"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/mouse/gn/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQx3qARXQdkyZYhkR35oeGLmLoIWjODSqbNbA&s",
+      "fuentePagina": "https://es.wikipedia.org/wiki/Rat%C3%B3n_(inform%C3%A1tica)",
+      "titulo": "Ratón (informática) - Wikipedia, la enciclopedia libre",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQx3qARXQdkyZYhkR35oeGLmLoIWjODSqbNbA&s",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/2/22/3-Tasten-Maus_Microsoft.jpg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/mouse/gn/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYnBHl7iVnjR5pshT2KKHOB8ZyqJxPjrZm0A&s",
+      "fuentePagina": "https://www.theguardian.com/environment/2025/mar/28/country-diary-driving-a-wood-mouse-to-a-new-home",
+      "titulo": "Country diary: Driving a wood mouse to a new home | Wildlife ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYnBHl7iVnjR5pshT2KKHOB8ZyqJxPjrZm0A&s",
+      "original": "https://i.guim.co.uk/img/media/794fddf7fec514427d16269133ff99e6ff26b81f/0_68_1559_936/master/1559.jpg?width=1200&height=1200&quality=85&auto=format&fit=crop&s=7a68c76464766b069de3a2a14629c07b"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/mouse/gn/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUtGg9LTzswwmwxnyrraagJ_vFKH92HS0l5g&s",
+      "fuentePagina": "https://www.dell.com/support/contents/es-py/article/product-support/self-support-knowledgebase/mouse-keyboard-touchpad/set-up-your-mouse",
+      "titulo": "Guía de configuración del mouse: Conecte un mouse USB ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUtGg9LTzswwmwxnyrraagJ_vFKH92HS0l5g&s",
+      "original": "https://i.dell.com/is/image/DellContent/content/dam/images/products/electronics-and-accessories/dell/pointing-devices/ms3220/ms3220-ckb-4050lb-gy.psd?fmt=png-alpha&pscan=auto&scl=1&qlt=100,1&resMode=sharp2&chrss=full"
+    }
+  ]
+}

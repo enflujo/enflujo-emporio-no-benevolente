@@ -1,0 +1,71 @@
+{
+  "categoria": "baseball glove",
+  "categoriaSlug": "baseball-glove",
+  "idioma": "pt",
+  "nombreIdioma": "Português",
+  "termino": "luva de beisebol",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:03:57.351Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "pt",
+    "gl": "br"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=luva%20de%20beisebol&hl=pt&gl=br",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/baseball-glove/pt/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOzaQwC4w4ysRYLYuDqWCUbKod8m1C4Kw47Q&s",
+      "fuentePagina": "https://www.mercadao.com.br/luva-basebal-ax-adulto-t12-12-pol-pc-582-exclusividade?srsltid=AfmBOorCs3mdsVU3y6_aMSrVoDHxmMwKcStwLqB_3AAvE1JOyQAvlyfg",
+      "titulo": "Luva Beisebol AX Adulto T12 1/2 Pol. (Pç) 582 - EXCLUSIVIDADE - Mercadão  Dos Esportes, loja de materiais esportivos",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOzaQwC4w4ysRYLYuDqWCUbKod8m1C4Kw47Q&s",
+      "original": "https://cdn.awsli.com.br/600x450/1537/1537255/produto/318773586/aef4660902cc943700478cc4e8c8476d-2alpkzhx2r.png"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/baseball-glove/pt/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRt_5A_dzGqoEJA-yXtkWE5YFJT9BMi86GFcQ&s",
+      "fuentePagina": "https://www.mercadolivre.com.br/luva-de-beisebol-ba100-mo-esquerda-cor-preta-tamanho-95/p/MLB36972225",
+      "titulo": "Luva De Beisebol BA100 (Mão Esquerda) Cor Preta Tamanho 9.5 | MercadoLivre",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRt_5A_dzGqoEJA-yXtkWE5YFJT9BMi86GFcQ&s",
+      "original": "https://http2.mlstatic.com/D_NQ_NP_977651-MLA79452581375_092024-O.webp"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/baseball-glove/pt/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6w7XBw4TwfqR8bJWuvjidWJPYN8p6OBMqVg&s",
+      "fuentePagina": "https://www.amazon.com.br/Luva-Beisebol-Vollo-Couro-Sint%C3%A9tico/dp/B07FKW46PQ",
+      "titulo": "Luva Beisebol Couro Sintetico Tamanho 12,5\" Cor Marrom Vollo Sports |  Amazon.com.br",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6w7XBw4TwfqR8bJWuvjidWJPYN8p6OBMqVg&s",
+      "original": "https://m.media-amazon.com/images/I/71x4jsaPhpL._AC_UF1000,1000_QL80_.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/baseball-glove/pt/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQoglKG8gh6iS4DZgTZIU5GjsX3STguf9bIGA&s",
+      "fuentePagina": "https://www.amazon.com.br/Luva-beisebol-softbol-Franklin-Sports/dp/B013LPRKQ2",
+      "titulo": "Luva De Beisebol E Softbol Franklin Sports Field Master, 30,5 cm, Marrom",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQoglKG8gh6iS4DZgTZIU5GjsX3STguf9bIGA&s",
+      "original": "https://m.media-amazon.com/images/I/91hrxclt9YL.jpg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/baseball-glove/pt/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0dioEKki2eNDVk0fOj3adSijwEKDxd4vd6A&s",
+      "fuentePagina": "https://www.rihappy.com.br/luva-de-beisebol-para-criancas-de-5-a-7-anos-franklin-sports-vermelha-1002983472/p?srsltid=AfmBOoqQRxjG3A6jBkZ6An7lRRw6ptB0wJ5_vl9Ss4Z0SMpTf_F9ypSP",
+      "titulo": "Luva de Beisebol para Crianças de 5 a 7 Anos, Franklin Sports, Vermelha -  Ri Happy",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0dioEKki2eNDVk0fOj3adSijwEKDxd4vd6A&s",
+      "original": "https://rihappy.vtexassets.com/arquivos/ids/6510154-800-auto?v=638622037055970000&width=800&height=auto&aspect=true"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/baseball-glove/pt/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRu1Z1GHwrkSiz73HQuR0ST20yT8PVJ7RsCeg&s",
+      "fuentePagina": "https://shopee.com.br/Luva-De-Beisebol-BOLONI-Para-Iniciantes-Acess%C3%B3rios-Couro-Crian%C3%A7as-Adultos-Homem-Mulher-Trem-i.242601293.25577296100",
+      "titulo": "Luva De Beisebol BOLONI Para Iniciantes Acessórios Couro Crianças/Adultos  Homem Mulher Trem | Shopee Brasil",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRu1Z1GHwrkSiz73HQuR0ST20yT8PVJ7RsCeg&s",
+      "original": "https://down-br.img.susercontent.com/file/sg-11134201-7rd65-luomsuqp2gw6b0"
+    }
+  ]
+}

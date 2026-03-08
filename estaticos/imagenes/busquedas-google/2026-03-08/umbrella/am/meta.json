@@ -1,0 +1,71 @@
+{
+  "categoria": "umbrella",
+  "categoriaSlug": "umbrella",
+  "idioma": "am",
+  "nombreIdioma": "Amharic — አማርኛ",
+  "termino": "ጃንጥላ",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T20:57:04.002Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "am",
+    "gl": "et"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=%E1%8C%83%E1%8A%95%E1%8C%A5%E1%88%8B&hl=am&gl=et",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/umbrella/am/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6BNGjVZOXf_TT2_VgbcnrcTu8qQ1JGmHNOA&s",
+      "fuentePagina": "http://am.hodaumbrella.com/25-straight-bone-automatic-umbrella-with-matching-color-sponge-eva-handle-product/",
+      "titulo": "በጅምላ 25″ ቀጥ ያለ አውቶማቲክ ጃንጥላ ፋብሪካ እና ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6BNGjVZOXf_TT2_VgbcnrcTu8qQ1JGmHNOA&s",
+      "original": "https://www.hodaumbrella.com/uploads/IMG_20231226_171208.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/umbrella/am/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYfJCRw-_XVuh0lxECJV_BRLoGt5NjmuMelA&s",
+      "fuentePagina": "http://am.hodaumbrella.com/21-inch-straight-umbrella-with-customized-logo-product/",
+      "titulo": "ብጁ አርማ ያለው የጅምላ 21 ኢንች ቀጥ ያለ ጃንጥላ ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYfJCRw-_XVuh0lxECJV_BRLoGt5NjmuMelA&s",
+      "original": "http://www.hodaumbrella.com/uploads/cheap-straight-umbrella.png"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/umbrella/am/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIBrHVw0109_iMlLr4RpUJdwUbbYjGlTXJEQ&s",
+      "fuentePagina": "https://hengyuncrafts.com/am/product/digital-printing-silk-parasol-umbrella-manufacturers/",
+      "titulo": "ዲጂታል ማተሚያ የሐር ፓራሶል ጃንጥላ አምራቾች",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIBrHVw0109_iMlLr4RpUJdwUbbYjGlTXJEQ&s",
+      "original": "https://hengyuncrafts.com/wp-content/uploads/2022/10/Digital-printing-silk-parasol-umbrella-manufacturers-13.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/umbrella/am/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTT79osRkAb-ii8Re7mVhIUoQQad3cS0huvzw&s",
+      "fuentePagina": "http://am.ovidaumbrella.com/3folding-umbrella/",
+      "titulo": "ባለ 3 ማጠፍያ ጃንጥላ አምራቾች ፣ አቅራቢዎች - ቻይና ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTT79osRkAb-ii8Re7mVhIUoQQad3cS0huvzw&s",
+      "original": "http://cdn.globalso.com/ovidaumbrella/OV33160-11.jpg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/umbrella/am/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRo0P9s6YDDo5x0ewYs9Rs6Nb7FUna8y-1mhw&s",
+      "fuentePagina": "https://am.hodaumbrella.com/straight-umbrella-black-umbrella-hook-handle-best-quality-cheap-sunny-and-rainy-umbrella-manual-outdoor-product/",
+      "titulo": "ለፀሐይ እና ዝናብ ፋብሪካ እና አቅራቢ የሚሆን ቀጥ ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRo0P9s6YDDo5x0ewYs9Rs6Nb7FUna8y-1mhw&s",
+      "original": "https://www.hodaumbrella.com/uploads/1-526.jpg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/umbrella/am/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZj95muMwTZIxT4p-bKsbRnj5FfD9Z9HdgEw&s",
+      "fuentePagina": "https://www.facebook.com/100064317566725/posts/%E1%8C%83%E1%8A%95%E1%8C%A5%E1%88%8B%E1%8C%83%E1%8A%95%E1%8C%A5%E1%88%8B-%E1%89%A0%E1%89%A4%E1%89%B0%E1%8A%AD%E1%88%AD%E1%88%B5%E1%89%B2%E1%8B%AB%E1%8A%95-%E1%89%A0%E1%89%85%E1%8B%B3%E1%88%B4-%E1%8C%8A%E1%8B%9C-%E1%8B%88%E1%8A%95%E1%8C%8C%E1%88%8D-%E1%88%B2%E1%8A%90%E1%89%A0%E1%89%A5-%E1%89%B3%E1%89%A6%E1%89%B5-%E1%88%B2%E1%8B%88%E1%8C%A3-%E1%89%A0%E1%88%8D%E1%8B%A9-%E1%88%8D%E1%8B%A9-%E1%8A%A0%E1%8C%88%E1%88%8D%E1%8C%8D%E1%88%8E%E1%89%B5-%E1%8C%8D%E1%8B%9C-%E1%8C%83%E1%8A%95%E1%8C%A5%E1%88%8B-%E1%8B%88%E1%8C%A5%E1%89%B6-%E1%8B%AD%E1%8B%98%E1%88%A8%E1%8C%8B%E1%88%8D%E1%8A%A8%E1%89%B0%E1%88%88%E1%8B%AB/2335767706702639/",
+      "titulo": "ጃንጥላ ።።።።።።።።። ጃንጥላ በቤተክርስቲያን ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZj95muMwTZIxT4p-bKsbRnj5FfD9Z9HdgEw&s",
+      "original": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=2335767706702639"
+    }
+  ]
+}

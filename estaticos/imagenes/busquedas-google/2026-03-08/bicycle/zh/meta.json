@@ -1,0 +1,71 @@
+{
+  "categoria": "bicycle",
+  "categoriaSlug": "bicycle",
+  "idioma": "zh",
+  "nombreIdioma": "中文",
+  "termino": "自行车",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T20:41:31.992Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "zh-CN",
+    "gl": "cn"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=%E8%87%AA%E8%A1%8C%E8%BD%A6&hl=zh-CN&gl=cn",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bicycle/zh/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwpVG6On_TdxqF5Na0aXIBxYAeQ-f4DpHrsw&s",
+      "fuentePagina": "https://www.raleigh-bikes.cn/product/ap1100/",
+      "titulo": "APEX BASE 碳纤维公路车- RALEIGH | 英国兰令",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwpVG6On_TdxqF5Na0aXIBxYAeQ-f4DpHrsw&s",
+      "original": "https://www.raleigh-bikes.cn/wp-content/uploads/2024/10/AP1100-%E6%98%9F%E7%A9%BA%E9%BB%91-800x600.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bicycle/zh/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8SYgIeqTw6yC44nMtKBjnSpYI0YVOXh-YPA&s",
+      "fuentePagina": "https://baike.baidu.com/item/%E8%87%AA%E8%A1%8C%E8%BD%A6/190564",
+      "titulo": "自行车_百度百科",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8SYgIeqTw6yC44nMtKBjnSpYI0YVOXh-YPA&s",
+      "original": "https://bkimg.cdn.bcebos.com/smart/1f178a82b9014a90f603785149262e12b31bb1514087-bkimg-process,v_1,rw_1,rh_1,pad_1,color_ffffff?x-bce-process=image/format,f_auto"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bicycle/zh/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0F0fc7IuNht8pulxeSFYpPKXQ2qvuSTWENw&s",
+      "fuentePagina": "https://zh.wikipedia.org/zh-cn/%E5%85%AC%E5%85%B1%E8%87%AA%E8%A1%8C%E8%BB%8A",
+      "titulo": "公共自行车- 维基百科，自由的百科全书",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0F0fc7IuNht8pulxeSFYpPKXQ2qvuSTWENw&s",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/7/7d/20180428%E4%B8%80%E9%83%A82018%E7%89%88%E6%9D%AD%E5%B7%9E%E5%85%AC%E5%85%B1%E8%87%AA%E8%A1%8C%E8%BD%A6.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bicycle/zh/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjPa2C8Bi2XacoHF_OOMORmXNS7Q0VbQxmMQ&s",
+      "fuentePagina": "https://www.raleigh-bikes.cn/product/apex-pro/",
+      "titulo": "APEX PRO 碳纤维公路车- RALEIGH | 英国兰令",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjPa2C8Bi2XacoHF_OOMORmXNS7Q0VbQxmMQ&s",
+      "original": "https://www.raleigh-bikes.cn/wp-content/uploads/2024/08/AP7000-%E7%8F%8D%E7%8F%A0%E7%99%BD-800x600.jpg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bicycle/zh/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRT61mP0ciD5-bs0yx_1L8L1jNNbZawmMiR6w&s",
+      "fuentePagina": "https://www.javabikes.com/Products/5.html",
+      "titulo": "JAVA 公路车",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRT61mP0ciD5-bs0yx_1L8L1jNNbZawmMiR6w&s",
+      "original": "https://www.javabikes.com/UserFiles/Article/Products/7ddbe00b-5ea2-41af-b30b-0a3678a384b4.jpg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bicycle/zh/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6jIMq5HAMmufGWS1OFL7jST2clpWiPK-nHQ&s",
+      "fuentePagina": "https://zh.wikipedia.org/zh-cn/%E8%87%AA%E8%A1%8C%E8%BB%8A",
+      "titulo": "自行车- 维基百科，自由的百科全书",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6jIMq5HAMmufGWS1OFL7jST2clpWiPK-nHQ&s",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/b/b7/Brosen_city_bicycle.jpg"
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "categoria": "hair drier",
+  "categoriaSlug": "hair-drier",
+  "idioma": "zh",
+  "nombreIdioma": "中文",
+  "termino": "吹风机",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:32:00.303Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "zh-CN",
+    "gl": "cn"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=%E5%90%B9%E9%A3%8E%E6%9C%BA&hl=zh-CN&gl=cn",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/hair-drier/zh/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSHnRp7mwTJAqXjSA5oNJriNy3TCbtkz1zKw&s",
+      "fuentePagina": "https://consumer.panasonic.cn/product/beauty-health/hair-care/hair-dryers/",
+      "titulo": "电吹风-松下家电",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSHnRp7mwTJAqXjSA5oNJriNy3TCbtkz1zKw&s",
+      "original": "https://consumer.panasonic.cn/static/upload/image/20230217/1676601882379446.png"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/hair-drier/zh/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6yruM9BWVb4alhrocSyzXg5rHccHgVlwLSw&s",
+      "fuentePagina": "https://www.archiexpo.cn/prod/jvd/product-11473-1973591.html",
+      "titulo": "酒店吹风机- LINEO - JVD",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6yruM9BWVb4alhrocSyzXg5rHccHgVlwLSw&s",
+      "original": "https://img.archiexpo.cn/images_ae/photo-mg/11473-12755883.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/hair-drier/zh/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQaZChzLbRWeidSqvJ6bPf-Tfv5Qrxf2qb2Sw&s",
+      "fuentePagina": "https://consumer.panasonic.cn/product/beauty-health/hair-care/hair-dryers/NE7H.html",
+      "titulo": "松下高速吹风机NE7H-松下家电",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQaZChzLbRWeidSqvJ6bPf-Tfv5Qrxf2qb2Sw&s",
+      "original": "https://consumer.panasonic.cn/static/upload/image/20230725/1690274794868413.png"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/hair-drier/zh/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRokGJ46J5zXVE7wVNsG-OXH7ZKX3f_msAi4w&s",
+      "fuentePagina": "https://www.biccamera.com.c.lj.hpcn.transer-cn.com/bc/item/14268607/",
+      "titulo": "吹风机nanocare(Nano Care)木炭黑色EHNA0KK Panasonic|松下 ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRokGJ46J5zXVE7wVNsG-OXH7ZKX3f_msAi4w&s",
+      "original": "https://image.biccamera.com/img/00000014268607_A01.jpg?sr.dw=600&sr.jqh=60&sr.dh=600&sr.mat=1"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/hair-drier/zh/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-HqFi-Sen1sRdA6RUlh1d-ttp1LUPPpYSPg&s",
+      "fuentePagina": "https://www.philips.com.cn/c-m-pe/haircare/latest",
+      "titulo": "飞利浦吹风机、卷发器– 沙龙级造型和护发| 飞利浦官网",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-HqFi-Sen1sRdA6RUlh1d-ttp1LUPPpYSPg&s",
+      "original": "https://images.philips.com/is/image/philipsconsumer/a9b4f96090884bb49dd6b07d008077e2?&wid=309&hei=309&$jpglarge$"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/hair-drier/zh/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTr4RV8Ty8jEf3XjRloBzhdcAooyvdmdRDoIA&s",
+      "fuentePagina": "https://www.archiexpo.cn/prod/bentley-europe/product-143746-2032875.html",
+      "titulo": "酒店吹风机- SIROCCO - Bentley Europe",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTr4RV8Ty8jEf3XjRloBzhdcAooyvdmdRDoIA&s",
+      "original": "https://img.archiexpo.cn/images_ae/photo-mg/143746-17961288.jpg"
+    }
+  ]
+}

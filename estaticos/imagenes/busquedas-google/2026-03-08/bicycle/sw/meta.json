@@ -1,0 +1,71 @@
+{
+  "categoria": "bicycle",
+  "categoriaSlug": "bicycle",
+  "idioma": "sw",
+  "nombreIdioma": "Kiswahili",
+  "termino": "baiskeli",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T20:41:02.869Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "sw",
+    "gl": "tz"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=baiskeli&hl=sw&gl=tz",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bicycle/sw/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSiCCVT6XsVSrdtsZwBLCwmnP4XJuaB5j6I-A&s",
+      "fuentePagina": "https://www.facebook.com/abcbicyclecompanylimited/posts/wauzaji-wa-baiskeli-nzuri-za-kisasa-zenye-ubora-wa-hali-ya-juu-tupo-0764-056791-/2209412032504682/",
+      "titulo": "Wauzaji wa Baiskeli nzuri za kisasa zenye ubora wa hali ya ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSiCCVT6XsVSrdtsZwBLCwmnP4XJuaB5j6I-A&s",
+      "original": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=2209409405838278"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bicycle/sw/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWOKOEzrwBYrJg70ttKeOWUmiAEMeWNIob9g&s",
+      "fuentePagina": "https://www.instagram.com/p/C2h5SxItiS3/",
+      "titulo": "Used Mtb Bike Brand: Black Diamond Price: 390,000 ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWOKOEzrwBYrJg70ttKeOWUmiAEMeWNIob9g&s",
+      "original": "https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3288161177593726339"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bicycle/sw/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_NYpU9wv1v2BIENGenGIv792ZM07n6koBbw&s",
+      "fuentePagina": "https://www.facebook.com/abcbicyclecompanylimited/posts/baiskeli-za-aina-mbalimbali-na-bei-tofauti-zinapatikana-karibu-tukuhudumiepiga-s/2972225862889958/",
+      "titulo": "Baiskeli za aina mbalimbali na bei tofauti zinapatikana ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_NYpU9wv1v2BIENGenGIv792ZM07n6koBbw&s",
+      "original": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=2972221722890372"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bicycle/sw/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpZ8U3nLLoH4Pl0yfUJ4z0n54G7HJhNqyggg&s",
+      "fuentePagina": "https://www.instagram.com/p/Cz-XMo6I2-9/",
+      "titulo": "Dealers Of Bicycle | Baiskeli Ya Mtoto Umri: Miaka 7 Hadi 15 ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpZ8U3nLLoH4Pl0yfUJ4z0n54G7HJhNqyggg&s",
+      "original": "https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3242130796884005592"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bicycle/sw/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSD-G1mmwjke_Bvr9e_pLL1bLXylaehWcdBKw&s",
+      "fuentePagina": "https://www.bbc.com/swahili/habari/2014/12/141211_baiskeli_dhahabu",
+      "titulo": "Baiskeli iliyotengezwa kwa dhahabu - BBC News Swahili",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSD-G1mmwjke_Bvr9e_pLL1bLXylaehWcdBKw&s",
+      "original": "https://ichef.bbci.co.uk/ace/ws/640/amz/worldservice/live/assets/images/2014/12/11/141211093358_bike_1.jpg.webp"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bicycle/sw/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEt-dbaszy2y8Iee41HrKj0Zp3htwjvo_7bg&s",
+      "fuentePagina": "https://news.un.org/sw/story/2019/06/1057761",
+      "titulo": "Usafiri wa baiskeli una faida za kiafya isitoshe kimazingira ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEt-dbaszy2y8Iee41HrKj0Zp3htwjvo_7bg&s",
+      "original": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/assets/2019/05/21-05-2019-one-girl-one-bike.JPG/image1024x768.jpg"
+    }
+  ]
+}
