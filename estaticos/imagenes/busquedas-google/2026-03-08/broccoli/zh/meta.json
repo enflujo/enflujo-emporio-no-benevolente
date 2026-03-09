@@ -1,0 +1,71 @@
+{
+  "categoria": "broccoli",
+  "categoriaSlug": "broccoli",
+  "idioma": "zh",
+  "nombreIdioma": "中文",
+  "termino": "西兰花",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:13:37.392Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "zh-CN",
+    "gl": "cn"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=%E8%A5%BF%E5%85%B0%E8%8A%B1&hl=zh-CN&gl=cn",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/broccoli/zh/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtmaQrd9QOvMfpiIpdOcHyFHkhdnTPHLDnew&s",
+      "fuentePagina": "https://wuu.wikipedia.org/wiki/%E8%A5%BF%E5%85%B0%E8%8A%B1",
+      "titulo": "西兰花- 维基百科",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtmaQrd9QOvMfpiIpdOcHyFHkhdnTPHLDnew&s",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/f/f1/Broccoli.png"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/broccoli/zh/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSz3k4mW6T6tnyVCf8ynOfuMJFIx3ImObLjvQ&s",
+      "fuentePagina": "https://xbyolive.com/shi-pu/qing-chao-xi-lan-hua/",
+      "titulo": "橄榄油清炒西兰花",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSz3k4mW6T6tnyVCf8ynOfuMJFIx3ImObLjvQ&s",
+      "original": "https://xbyolive.com/wp-content/uploads/2017/09/cooked-broccoli-on-the-plate-2023-11-27-05-33-55-utc-1.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/broccoli/zh/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSw-EBMt_GkT_GCAGZndV-udAyYFeSf0YwjgQ&s",
+      "fuentePagina": "https://www.epochtimes.com/gb/22/1/30/n13543120.htm",
+      "titulo": "护心脏稳血糖西兰花有7大好处2吃法营养超群| 花椰菜| 调节血糖 ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSw-EBMt_GkT_GCAGZndV-udAyYFeSf0YwjgQ&s",
+      "original": "https://i.epochtimes.com/assets/uploads/2022/01/id13543616-shutterstock_1590339154.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/broccoli/zh/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScTjxTGax4Nho5NPiS7oWYujaw56DVKpyZlA&s",
+      "fuentePagina": "https://jingyan.baidu.com/article/73c3ce28d263ada40243d937.html",
+      "titulo": "西兰花的营养价值及功效与作用-百度经验",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScTjxTGax4Nho5NPiS7oWYujaw56DVKpyZlA&s",
+      "original": "https://exp-picture.cdn.bcebos.com/8b3643dd884ce54a7356245aa3066b0193ddf7ca.jpg?x-bce-process=image%2Fresize%2Cm_lfit%2Cw_640%2Climit_1%2Fformat%2Cf_auto%2Fquality%2Cq_80"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/broccoli/zh/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBsDYMOS2NjlFmsaysRBLmR5D-JtsL2c7e5Q&s",
+      "fuentePagina": "https://www.kensanpin.org/zh-CN/product/crops/989/",
+      "titulo": "西兰花|爱赞岐山",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBsDYMOS2NjlFmsaysRBLmR5D-JtsL2c7e5Q&s",
+      "original": "https://www.kensanpin.org/wp-content/uploads/2019/09/bloccori.jpg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/broccoli/zh/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1Hk4cs0RHVHf8aqM1we5hkgXSd53u4k_DrQ&s",
+      "fuentePagina": "https://nature2u.com.my/%E5%95%86%E5%BA%97/%E8%94%AC%E8%8F%9C/%E8%8A%B1%E8%95%BE%E4%B8%8E%E5%BD%A9%E8%89%B2%E8%94%AC%E8%8F%9C/%E8%A5%BF%E5%85%B0%E8%8A%B1/?lang=zh-hans&srsltid=AfmBOoqOfoky-G4K52wSXBCrkmZycvyB99-1-OhUwZ9dnEbxe-WziItQ",
+      "titulo": "西兰花- Nature2U",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1Hk4cs0RHVHf8aqM1we5hkgXSd53u4k_DrQ&s",
+      "original": "https://nature2u.com.my/wp-content/uploads/Broccoli.png"
+    }
+  ]
+}

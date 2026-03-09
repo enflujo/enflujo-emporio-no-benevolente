@@ -1,0 +1,71 @@
+{
+  "categoria": "cup",
+  "categoriaSlug": "cup",
+  "idioma": "rw",
+  "nombreIdioma": "Kinyarwanda",
+  "termino": "igikombe",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:07:19.991Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "en",
+    "gl": "rw"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=igikombe&hl=en&gl=rw",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/cup/rw/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBtm0Pdqxzu-ymGspdCevMTDlY4MZ_HMy4BA&s",
+      "fuentePagina": "https://kigalitoday.com/imikino/football/article/igikombe-cy-isi-2022-menya-urugendo-rw-amakipe-icumi-ya-afurika-agiye-gukina-kamarampaka",
+      "titulo": "Igikombe cy'isi 2022: Menya urugendo rw'amakipe icumi ya ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBtm0Pdqxzu-ymGspdCevMTDlY4MZ_HMy4BA&s",
+      "original": "https://kigalitoday.com/IMG/jpg/world_cup_photo_.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/cup/rw/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMDadJ8-5FwuXW9MfNNl4J9bQKxPaK71w4Lg&s",
+      "fuentePagina": "https://imvahonshya.co.rw/igikombe-cyisi-cyamakipe-cyatangiye-kuzengurutswa-isi/",
+      "titulo": "Igikombe cy'Isi cy'Amakipe cyatangiye kuzengurutswa Isi ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMDadJ8-5FwuXW9MfNNl4J9bQKxPaK71w4Lg&s",
+      "original": "https://imvahonshya.co.rw/wp-content/uploads/2025/04/WhatsApp-Image-2025-04-17-at-17.01.30_001443b8.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/cup/rw/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJO8ajs9XuuSaE_HyWRy7IqpXzOmdCu2lLlQ&s",
+      "fuentePagina": "https://rw.wikipedia.org/wiki/Igikombe_cy%E2%80%99Amahoro",
+      "titulo": "Igikombe cy'Amahoro - Wikipedia",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJO8ajs9XuuSaE_HyWRy7IqpXzOmdCu2lLlQ&s",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Sesion_de_entrenamiento_del_Mukura_VS.jpg/330px-Sesion_de_entrenamiento_del_Mukura_VS.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/cup/rw/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5ChFQw6_22JxUnQaAddazREFWWkp9cV2yMg&s",
+      "fuentePagina": "https://imvahonshya.co.rw/igikombe-cyamahoro-ishimwe-yahawe-gusifura-umukino-wa-nyuma-wa-apr-fc-na-rayon-sports/",
+      "titulo": "Igikombe cy'Amahoro: Ishimwe yahawe gusifura umukino wa ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5ChFQw6_22JxUnQaAddazREFWWkp9cV2yMg&s",
+      "original": "https://imvahonshya.co.rw/wp-content/uploads/2025/05/Cover.jpg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/cup/rw/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmRfY9C2vHntp58FJWe0EoLJRdEAKkXhWaRg&s",
+      "fuentePagina": "https://imvahonshya.co.rw/igikombe-cyamahoro-apr-fc-yatsinze-gasogi-united-itera-intambwe-igana-muri-%C2%BD/",
+      "titulo": "Igikombe cy'Amahoro: APR FC yatsinze Gasogi United, itera ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmRfY9C2vHntp58FJWe0EoLJRdEAKkXhWaRg&s",
+      "original": "https://imvahonshya.co.rw/wp-content/uploads/2025/02/IMG-20250227-WA00631-1.jpg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/cup/rw/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbC6ctQyEudHkztHNeAySdFL1skXOKMTZNgw&s",
+      "fuentePagina": "https://commons.wikimedia.org/wiki/File:Igikombe_cya_kinyarwanda.jpg",
+      "titulo": "File:Igikombe cya kinyarwanda.jpg - Wikimedia Commons",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbC6ctQyEudHkztHNeAySdFL1skXOKMTZNgw&s",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Igikombe_cya_kinyarwanda.jpg"
+    }
+  ]
+}

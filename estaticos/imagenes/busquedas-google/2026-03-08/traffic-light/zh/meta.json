@@ -1,0 +1,71 @@
+{
+  "categoria": "traffic light",
+  "categoriaSlug": "traffic-light",
+  "idioma": "zh",
+  "nombreIdioma": "中文",
+  "termino": "交通灯",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T20:46:47.615Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "zh-CN",
+    "gl": "cn"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=%E4%BA%A4%E9%80%9A%E7%81%AF&hl=zh-CN&gl=cn",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/traffic-light/zh/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBFPKHBWVFnTTCMm74IhBk9iSzTKaQL9PUvA&s",
+      "fuentePagina": "https://616pic.com/tupian/honglvdeng.html",
+      "titulo": "红绿灯图片素材_免费红绿灯PNG设计图片大全_图精灵",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBFPKHBWVFnTTCMm74IhBk9iSzTKaQL9PUvA&s",
+      "original": "https://pic.616pic.com/ys_img/00/07/73/IqqGD3pxzK.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/traffic-light/zh/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSG1ksAh2h1GAfT3ZEjJjHBcZ45HAgZ-5IeVA&s",
+      "fuentePagina": "https://www.cdstm.cn/theme/kkxw/dyd/kxgs/201711/t20171101_624132.html",
+      "titulo": "交通信号灯为什么是红黄绿这三种颜色?--中国数字科技馆",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSG1ksAh2h1GAfT3ZEjJjHBcZ45HAgZ-5IeVA&s",
+      "original": "https://www.cdstm.cn/theme/kkxw/dyd/kxgs/201711/W020171101599214262441.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/traffic-light/zh/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvYGWtQL4ZFq8lX_s7r_Q5cN8Avr8nSeHmXw&s",
+      "fuentePagina": "https://616pic.com/sucai/14ni2w2yz.html",
+      "titulo": "红绿灯交通灯图片免费下载_PNG素材_编号14ni2w2yz_图精灵",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvYGWtQL4ZFq8lX_s7r_Q5cN8Avr8nSeHmXw&s",
+      "original": "https://pic.616pic.com/ys_bnew_img/00/30/98/oeRFAyY3Su.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/traffic-light/zh/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBH9VYoWHHQfdaPkZt1uIStpaFnqjQzF9lyQ&s",
+      "fuentePagina": "https://www.7zcode.com/12390.html",
+      "titulo": "基于Matlab图像处理的交通灯识别系统设计与实现-中猿创新-7zcode",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBH9VYoWHHQfdaPkZt1uIStpaFnqjQzF9lyQ&s",
+      "original": "https://www.7zcode.com/wp-content/uploads/2024/11/MCV66-J.jpg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/traffic-light/zh/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMJ_r9OYJ8fyg51wh4zIrHH8dkcOw0eFrSVQ&s",
+      "fuentePagina": "https://www.photophoto.cn/pic/08918982.html",
+      "titulo": "红绿灯交通灯信号灯图片_交通运输_金融科技-图行天下素材网",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMJ_r9OYJ8fyg51wh4zIrHH8dkcOw0eFrSVQ&s",
+      "original": "https://pic31.photophoto.cn/20140406/0014026759094916_b.jpg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/traffic-light/zh/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3T2CbeKASS7_i8_2Yn5np2LbXMsmvuGSXAw&s",
+      "fuentePagina": "https://www.epochtimes.com/gb/23/8/2/n14046185.htm",
+      "titulo": "交通灯怎样由红灯变绿灯？（上） | 大紀元",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3T2CbeKASS7_i8_2Yn5np2LbXMsmvuGSXAw&s",
+      "original": "https://www.epochtimes.com/_next/image?url=https%3A%2F%2Fi.epochtimes.com%2Fassets%2Fuploads%2F2023%2F08%2Fid14046186-db4c1a8c9bd6f5d46f0c847435f42056.jpg&w=1920&q=75"
+    }
+  ]
+}

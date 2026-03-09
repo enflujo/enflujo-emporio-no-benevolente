@@ -1,0 +1,71 @@
+{
+  "categoria": "stop sign",
+  "categoriaSlug": "stop-sign",
+  "idioma": "kg",
+  "nombreIdioma": "Kikongo",
+  "termino": "signe ya telema",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T20:47:44.233Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "fr",
+    "gl": "cd"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=signe%20ya%20telema&hl=fr&gl=cd",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/stop-sign/kg/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStGSRBPCZLvvIc3iKrzmxlgWuZ1vfdJ3Cz6w&s",
+      "fuentePagina": "https://arts.cd/litterature-deux-ouvrages-sur-le-congo-de-don-israel-mbuyi-bientot-presentes-a-kinshasa/",
+      "titulo": "Littérature : Deux ouvrages sur le Congo de Don Israël Mbuyi ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStGSRBPCZLvvIc3iKrzmxlgWuZ1vfdJ3Cz6w&s",
+      "original": "https://i0.wp.com/arts.cd/wp-content/uploads/2025/03/congolais-telema-2.jpg?resize=810%2C810&ssl=1"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/stop-sign/kg/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTs38l3C97WnD2khFFY7SQ0LHJtyDl6xnvvg&s",
+      "fuentePagina": "https://www.youtube.com/watch?v=3ypq841Gq4c",
+      "titulo": "SENSIBILISATION GENERALE CONGOLAISE TELEMA DU MARDI 02 SEPTEMBRE 2025",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTs38l3C97WnD2khFFY7SQ0LHJtyDl6xnvvg&s",
+      "original": "https://i.ytimg.com/vi/3ypq841Gq4c/hqdefault.jpg?v=68b6b469"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/stop-sign/kg/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOLmkpRwYHdl52kydObpDLA_dAJGpsLq-8BA&s",
+      "fuentePagina": "https://arts.cd/musique-sortie-du-single-ironie-pour-signer-le-come-back-de-lartiste-privato/",
+      "titulo": "Musique : Sortie du single « Ironie » pour signer le Come ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOLmkpRwYHdl52kydObpDLA_dAJGpsLq-8BA&s",
+      "original": "https://i0.wp.com/arts.cd/wp-content/uploads/2025/03/congolais-telema-1.jpg?resize=810%2C270&ssl=1"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/stop-sign/kg/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWr7OUyY7vcozbm4Ius9ii4hIDf3RlKTwjkA&s",
+      "fuentePagina": "https://www.facebook.com/telema.gamboma/",
+      "titulo": "Telema Gamboma (@telema.gamboma) • Facebook",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWr7OUyY7vcozbm4Ius9ii4hIDf3RlKTwjkA&s",
+      "original": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=100026590215596"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/stop-sign/kg/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvGS_Bb7TdPFPfNzGMVrIMiqWMRiK4O_ww-w&s",
+      "fuentePagina": "https://www.facebook.com/kikwiti/photos/a.478896112479138/1726312927737444/?type=3",
+      "titulo": "𝐊𝐖𝐈𝐋𝐔 - Bana ya Bulungu beno telema | Facebook",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvGS_Bb7TdPFPfNzGMVrIMiqWMRiK4O_ww-w&s",
+      "original": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=1726312927737444"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/stop-sign/kg/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSg2MqHDEWLukUy-B-0UESIsHhN40wz9xvftw&s",
+      "fuentePagina": "https://www.instagram.com/reel/DPOc0kOjAEK/",
+      "titulo": "✨ Ce matin, le groupe londonien Analog Society a eu le plaisir d’être  présenté dans Télématin sur France TV par Camille Dahan !, Un grand merci à  l’équipe pour ce beau coup de projecteur 🙌 , Une belle ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSg2MqHDEWLukUy-B-0UESIsHhN40wz9xvftw&s",
+      "original": "https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3733047898750583050"
+    }
+  ]
+}

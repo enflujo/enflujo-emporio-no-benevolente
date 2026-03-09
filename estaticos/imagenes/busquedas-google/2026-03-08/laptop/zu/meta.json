@@ -1,0 +1,71 @@
+{
+  "categoria": "laptop",
+  "categoriaSlug": "laptop",
+  "idioma": "zu",
+  "nombreIdioma": "isiZulu",
+  "termino": "ikhompyutha",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:21:50.651Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "zu",
+    "gl": "za"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=ikhompyutha&hl=zu&gl=za",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/laptop/zu/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQu_si-xurLlrhj1BrPTe6WZkDcIeM1Td7K1A&s",
+      "fuentePagina": "https://www.earlylearningresourcenetwork.org/yintoni-ikhompyutha",
+      "titulo": "Yintoni ikhompyutha?",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQu_si-xurLlrhj1BrPTe6WZkDcIeM1Td7K1A&s",
+      "original": "https://www.earlylearningresourcenetwork.org/sites/default/files/styles/webp/public/2025-06/yintoni-ikhompyutha-thumbnail.png.webp?itok=Lk0okHcg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/laptop/zu/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6lzpsV7IRQDlI4tti7hf-IFiuLme93SZXdQ&s",
+      "fuentePagina": "https://xh.wikipedia.org/wiki/Ikhompyutha",
+      "titulo": "Ikhompyutha - Wikipedia",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6lzpsV7IRQDlI4tti7hf-IFiuLme93SZXdQ&s",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Desktop_computer_clipart_-_Yellow_theme.svg/250px-Desktop_computer_clipart_-_Yellow_theme.svg.png"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/laptop/zu/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZMMGVG3_NJsO6MUdwYrF7gQ9P4LMIOZBUtg&s",
+      "fuentePagina": "https://www.sinsmarts.com/zu/101-inch-rugged-tablet-pc-8g-128g-dustproof-waterproof-industrial-computer/?srsltid=AfmBOoqO0GBjedRW6HMINlKiAMvRr4NSHdPAMAU7Nov9mbBvHQ4qfBs_",
+      "titulo": "Ikhompyutha Yethebhulethi Eqinile Engangeni Uthuli ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZMMGVG3_NJsO6MUdwYrF7gQ9P4LMIOZBUtg&s",
+      "original": "https://ecdn6.globalso.com/upload/p/1462/image_product/2024-07/white-background-3-1.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/laptop/zu/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkgJgGBQWsJVz02RL0BbKRWqnBpsI1s2GeZA&s",
+      "fuentePagina": "https://www.sinsmarts.com/zu/101-inch-rugged-tablet-pc-8g-128g-dustproof-waterproof-industrial-computer/?srsltid=AfmBOoqxUBLe3UZG2VlXJV4HK12WGK4kvlmgWE1RQbvoPpEFPkRsz_0q",
+      "titulo": "Ikhompyutha Yethebhulethi Eqinile Engangeni Uthuli ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkgJgGBQWsJVz02RL0BbKRWqnBpsI1s2GeZA&s",
+      "original": "https://ecdn6.globalso.com/upload/p/1462/image_product/2024-07/transparent-7.png"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/laptop/zu/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVmFKcfTWxH9BIfsIKv2wIo-b4_e3EhrulWA&s",
+      "fuentePagina": "https://techcabal.com/zu/2016/03/03/Ikhompyutha-encane-ingayishintsha-kanjani-indlela-ofunda-ngayo/",
+      "titulo": "Ikhompyutha encane ingayishintsha kanjani indlela ofunda ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVmFKcfTWxH9BIfsIKv2wIo-b4_e3EhrulWA&s",
+      "original": "http://c76c7bbc41.mjedge.net/wp-content/uploads/2016/03/unnamed-2-e1457007723681.jpg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/laptop/zu/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTT37A_y0DbRZ2Rv0zdMk2rn4bWCHtkei69nA&s",
+      "fuentePagina": "https://www.earlylearningresourcenetwork.org/yintoni-ikhompyutha",
+      "titulo": "Yintoni ikhompyutha?",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTT37A_y0DbRZ2Rv0zdMk2rn4bWCHtkei69nA&s",
+      "original": "https://www.earlylearningresourcenetwork.org/sites/default/files/styles/265_x_265_webp/public/2025-06/khomphiutha-ke-eng-thumbnail.png.webp?itok=H6QVbq2O"
+    }
+  ]
+}

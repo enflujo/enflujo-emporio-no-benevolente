@@ -1,0 +1,71 @@
+{
+  "categoria": "baseball bat",
+  "categoriaSlug": "baseball-bat",
+  "idioma": "qu",
+  "nombreIdioma": "Quechua",
+  "termino": "bate",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:03:03.074Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "es",
+    "gl": "pe"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=bate&hl=es&gl=pe",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/baseball-bat/qu/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0ZqbuncuuB3zxj0pqKtiGTRFv2VQ4bAAedg&s",
+      "fuentePagina": "https://www.amazon.com/-/es/b%C3%A9isbol-pulgadas-defensa-personal-entrenamiento/dp/B0FBFS2645",
+      "titulo": "Amazon.com: Bate de béisbol de madera, mini bates de béisbol ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0ZqbuncuuB3zxj0pqKtiGTRFv2VQ4bAAedg&s",
+      "original": "https://m.media-amazon.com/images/I/51uJ0ohn2bL._AC_UF1000,1000_QL80_.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/baseball-bat/qu/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTB1G-PHSJDQs9_mfv-rl18SZStYN42kwTIA&s",
+      "fuentePagina": "https://www.mideporte.pe/producto/bate-para-beisbol-baseball-madera-bat-importado/",
+      "titulo": "Bate Para Béisbol Baseball Madera Bat Importado - Mi Deporte",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTB1G-PHSJDQs9_mfv-rl18SZStYN42kwTIA&s",
+      "original": "https://cloud.mideporte.pe/wp-content/uploads/2020/07/bate-para-beisbol-baseball-madera-bat-importado-BT-90150.webp"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/baseball-bat/qu/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSL9AtIwRQjhd9LTCjq3MkNfz_BAJ8Eu34nQ&s",
+      "fuentePagina": "https://ficcion-sin-limites.fandom.com/es/wiki/Bate_de_B%C3%A9isbol",
+      "titulo": "Bate de Béisbol | Ficción Sin Límites Wiki | Fandom",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSL9AtIwRQjhd9LTCjq3MkNfz_BAJ8Eu34nQ&s",
+      "original": "https://static.wikia.nocookie.net/ficcion-sin-limites/images/a/ad/Bat.png/revision/latest?cb=20210326055538&path-prefix=es"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/baseball-bat/qu/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQftgbCRQLQFvRCLe2emhd_kXUsFCsXXqb_uQ&s",
+      "fuentePagina": "https://tecgo.com.pe/producto/bate-de-beisbol-de-madera-bat-basebal-seguridad/?srsltid=AfmBOoqULGTtwid_u4jn5WubFZkfVLNnq3fqh-eHYWwnct7qDy0Wj_e-",
+      "titulo": "Bate De Beisbol De Madera 82cm",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQftgbCRQLQFvRCLe2emhd_kXUsFCsXXqb_uQ&s",
+      "original": "https://tecgo.com.pe/wp-content/uploads/2019/10/11.png"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/baseball-bat/qu/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSesm33Y94Ya5z1OJt4lkKHNWPcbI2pODgITA&s",
+      "fuentePagina": "https://www.promart.pe/bate-para-beisbol-baseball-madera-bat-importado-84-cm-1001124853/p?srsltid=AfmBOor6a7GyW-M3n0mRGAfTQNIUU-E3pBRtN3cOYerAy4Xs4rtQZ4Qj",
+      "titulo": "Bate para Béisbol Baseball Madera Bat Importado 84 Cm ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSesm33Y94Ya5z1OJt4lkKHNWPcbI2pODgITA&s",
+      "original": "https://promart.vteximg.com.br/arquivos/ids/8927366/imageUrl_1.jpg?v=638857388494800000"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/baseball-bat/qu/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSaWgdzZu427OePcCutGIU8Vsv6M6xld6XWbg&s",
+      "fuentePagina": "https://www.mideporte.pe/producto/bate-de-aluminio-para-beisbol/",
+      "titulo": "Bate de Aluminio para Béisbol - 30 Pulgadas - Mi Deporte",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSaWgdzZu427OePcCutGIU8Vsv6M6xld6XWbg&s",
+      "original": "https://cloud.mideporte.pe/wp-content/uploads/2022/01/9.webp"
+    }
+  ]
+}

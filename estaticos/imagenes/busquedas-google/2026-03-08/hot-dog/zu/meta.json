@@ -1,0 +1,71 @@
+{
+  "categoria": "hot dog",
+  "categoriaSlug": "hot-dog",
+  "idioma": "zu",
+  "nombreIdioma": "isiZulu",
+  "termino": "ihotdogi",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:14:37.578Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "zu",
+    "gl": "za"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=ihotdogi&hl=zu&gl=za",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/hot-dog/zu/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQw0JCTtWcsXG_A1R--4GkUwK5ZNFtzW3NKbg&s",
+      "fuentePagina": "https://wusztzkarry-wuszt-z-grilla-frytki-belgijskie-i-hot.wheree.com/",
+      "titulo": "WusztzKarry - wuszt z grilla, frytki belgijskie i hot dogi ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQw0JCTtWcsXG_A1R--4GkUwK5ZNFtzW3NKbg&s",
+      "original": "https://static.where-e.com/Poland/Katowice/Katowice/Wusztzkarry-Wuszt-Z-Grilla-Frytki-Belgijskie-I-Hot-Dogi_c48c1b64e59aeb20fd61c63dffe1e23b.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/hot-dog/zu/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxaOKvSARWju79-Tncd-zQK1R2YmBSF3uPCA&s",
+      "fuentePagina": "https://www.tiktok.com/@niwkakebabsosnowi/video/7564161724023164182",
+      "titulo": "Wypasione Burgery i Hot Dogi w Nwkakebab | TikTok",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxaOKvSARWju79-Tncd-zQK1R2YmBSF3uPCA&s",
+      "original": "https://www.tiktok.com/api/img/?itemId=7564161724023164182&location=0&aid=1988"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/hot-dog/zu/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbhTSNByLdst-x1v8SXa9juqtAekHBOc-PjA&s",
+      "fuentePagina": "https://www.tiktok.com/@martinfknscott/video/7546155907822996758",
+      "titulo": "Ostrygi i hot dogi w Białym Nalewie w Poznaniu",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbhTSNByLdst-x1v8SXa9juqtAekHBOc-PjA&s",
+      "original": "https://www.tiktok.com/api/img/?itemId=7546155907822996758&location=0&aid=1988"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/hot-dog/zu/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNmNN_e8j1KI6Km1h7vHLiTb4PIce2Qq3VUQ&s",
+      "fuentePagina": "https://www.instagram.com/p/DVdxQJZCO6n/",
+      "titulo": "Zapraszamy na pyszne Zapiekanki i Hot dogi do naszego sklepu ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNmNN_e8j1KI6Km1h7vHLiTb4PIce2Qq3VUQ&s",
+      "original": "https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3845445889422838792"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/hot-dog/zu/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTh9N-izA0iW08JRF8XJFvjqa5evTE4o6KeXg&s",
+      "fuentePagina": "https://www.tripadvisor.com/LocationPhotoDirectLink-g675709-d7140456-i112572852-Green_Lemon_Bar-Nowy_Targ_Lesser_Poland_Province_Southern_Poland.html",
+      "titulo": "Burgery i hot dogi - Picture of Green Lemon Bar, Nowy Targ ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTh9N-izA0iW08JRF8XJFvjqa5evTE4o6KeXg&s",
+      "original": "https://media-cdn.tripadvisor.com/media/photo-s/27/f3/73/5b/caption.jpg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/hot-dog/zu/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUZv58EJtWuUAu-LQM51ahlDMs4JTX_QAXvQ&s",
+      "fuentePagina": "https://www.instagram.com/p/DVdxQJZCO6n/",
+      "titulo": "Zapraszamy na pyszne Zapiekanki i Hot dogi do naszego sklepu ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUZv58EJtWuUAu-LQM51ahlDMs4JTX_QAXvQ&s",
+      "original": "https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3845445896184063264"
+    }
+  ]
+}

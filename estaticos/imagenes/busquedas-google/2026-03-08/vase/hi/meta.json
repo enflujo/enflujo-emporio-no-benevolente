@@ -1,0 +1,71 @@
+{
+  "categoria": "vase",
+  "categoriaSlug": "vase",
+  "idioma": "hi",
+  "nombreIdioma": "हिन्दी",
+  "termino": "फूलदान",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:29:48.236Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "hi",
+    "gl": "in"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=%E0%A4%AB%E0%A5%82%E0%A4%B2%E0%A4%A6%E0%A4%BE%E0%A4%A8&hl=hi&gl=in",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/vase/hi/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSH9qUllj8T9_7FWfMov1GAIO9Esi5uWERug&s",
+      "fuentePagina": "https://www.italianflora.com/hi/%E0%A4%89%E0%A4%A4%E0%A5%8D%E0%A4%AA%E0%A4%BE%E0%A4%A6/%E0%A4%B0%E0%A4%82%E0%A4%97-%E0%A4%AC%E0%A4%BF%E0%A4%B0%E0%A4%82%E0%A4%97%E0%A5%87-%E0%A4%97%E0%A5%87%E0%A4%B0%E0%A4%AC%E0%A5%87%E0%A4%B0%E0%A4%BE-%E0%A4%AB%E0%A5%82%E0%A4%B2%E0%A5%8B%E0%A4%82-%E0%A4%95%E0%A5%80-%E0%A4%AB%E0%A5%82%E0%A4%B2%E0%A4%A6%E0%A4%BE%E0%A4%A8-%E0%A4%B5%E0%A5%8D%E0%A4%AF%E0%A4%B5%E0%A4%B8%E0%A5%8D%E0%A4%A5%E0%A4%BE/",
+      "titulo": "रंग-बिरंगे गेरबेरा फूलों की फूलदानी व्यवस्था",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSH9qUllj8T9_7FWfMov1GAIO9Esi5uWERug&s",
+      "original": "https://www.italianflora.com/wp-content/uploads/2021/06/vase-arrangement-of-colourful-gerberas-1.png"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/vase/hi/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShem5gYQBPXPZcZnwN3W0zvUO5ecWZPBTCDg&s",
+      "fuentePagina": "https://www.amazon.in/-/hi/Parradise-%E0%A4%AB%E0%A5%82%E0%A4%B2%E0%A4%A6%E0%A4%BE%E0%A4%A8-%E0%A4%AB%E0%A5%8D%E0%A4%B2%E0%A4%BE%E0%A4%B5%E0%A4%B0-%E0%A4%AE%E0%A4%B2%E0%A5%8D%E0%A4%9F%E0%A5%80%E0%A4%95%E0%A4%B2%E0%A4%B0-%E0%A4%97%E0%A5%8D%E0%A4%B0%E0%A5%87/dp/B08L9GD317",
+      "titulo": "Parradise घर के फूलदान के लिए फूलदान ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShem5gYQBPXPZcZnwN3W0zvUO5ecWZPBTCDg&s",
+      "original": "https://m.media-amazon.com/images/I/41f4PR5pMFL._AC_UF894,1000_QL80_.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/vase/hi/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSeh_tjeOGOGjRnhGuH6wCWd3WW9L3Q4sai_Q&s",
+      "fuentePagina": "https://fj.zgs-glass.com/glass-vase/personalised-flower-vase.html",
+      "titulo": "चीन अनुकूलित लालीक क्रिस्टल ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSeh_tjeOGOGjRnhGuH6wCWd3WW9L3Q4sai_Q&s",
+      "original": "https://fj.zgs-glass.com/uploads/202335771/personalised-flower-vase2f9f9fe5-ee2f-40c8-9f12-3075db5d5167.png"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/vase/hi/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_5QTyskQvgtFjj7UOb_tHbktusicRrc6n_Q&s",
+      "fuentePagina": "https://hi.theperfectgift.ae/%E0%A4%89%E0%A4%A4%E0%A5%8D%E0%A4%AA%E0%A4%BE%E0%A4%A6%E0%A5%8B%E0%A4%82/%E0%A4%A7%E0%A5%82%E0%A4%AA-%E0%A4%AA%E0%A5%80%E0%A4%B2%E0%A5%87-%E0%A4%AB%E0%A5%82%E0%A4%B2%E0%A5%8B%E0%A4%82-%E0%A4%95%E0%A4%BE-%E0%A4%97%E0%A5%81%E0%A4%B2%E0%A4%A6%E0%A4%B8%E0%A5%8D%E0%A4%A4%E0%A4%BE-%E0%A4%AB%E0%A5%82%E0%A4%B2%E0%A4%A6%E0%A4%BE%E0%A4%A8",
+      "titulo": "पीले फूल का फूलदान दुबई - उन्हें ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_5QTyskQvgtFjj7UOb_tHbktusicRrc6n_Q&s",
+      "original": "https://theperfectgift.ae/cdn/shop/files/yellow-flower-dubai.jpg?v=1690057306"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/vase/hi/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS95AcaTbrqFZ0fLeNY4nSeny3GUE65h_yAjQ&s",
+      "fuentePagina": "https://www.youtube.com/watch?v=Qu2uvXSuVIQ",
+      "titulo": "फूलदान बनाए | Make Kalash Phooldan at Home | Make Kalash Guldasta Easy |  #guldasta #ideas",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS95AcaTbrqFZ0fLeNY4nSeny3GUE65h_yAjQ&s",
+      "original": "https://i.ytimg.com/vi/Qu2uvXSuVIQ/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLB6MSH_t3B8HMfE5GazqHd5pYbLzg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/vase/hi/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvzgDHtb62YFiC0XASTYaKbUQ10nBs33smTg&s",
+      "fuentePagina": "https://hi.pngtree.com/freepng/flower-vase-bouquet_8685044.html",
+      "titulo": "फूलदान गुलदस्ता, फूलदान, ताज़ा ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvzgDHtb62YFiC0XASTYaKbUQ10nBs33smTg&s",
+      "original": "https://png.pngtree.com/png-clipart/20221014/original/pngtree-flower-vase-bouquet-png-image_8685044.png"
+    }
+  ]
+}

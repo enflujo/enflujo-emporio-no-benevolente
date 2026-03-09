@@ -1,0 +1,71 @@
+{
+  "categoria": "banana",
+  "categoriaSlug": "banana",
+  "idioma": "zh",
+  "nombreIdioma": "中文",
+  "termino": "香蕉",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:11:04.883Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "zh-CN",
+    "gl": "cn"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=%E9%A6%99%E8%95%89&hl=zh-CN&gl=cn",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/banana/zh/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcCT2ITPnMrunensn3QtOQzA8NgH_77af9hw&s",
+      "fuentePagina": "https://www.epochtimes.com/gb/17/5/16/n9147605.htm",
+      "titulo": "香蕉一身都是宝皮和花都可入药| 香蕉皮| 香蕉花| 香蕉功效| 大紀元",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcCT2ITPnMrunensn3QtOQzA8NgH_77af9hw&s",
+      "original": "https://i.epochtimes.com/assets/uploads/2017/05/Fotolia_81632784_Subscription_L.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/banana/zh/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSL3j1MlNWHL1d66ViZXZuOMUfSUsD7yd9I4A&s",
+      "fuentePagina": "https://blog.worldgymtaiwan.com/healthy-food-twelve-wonderful-benefits-of-banana",
+      "titulo": "天然能量棒必知！香蕉的12大好處",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSL3j1MlNWHL1d66ViZXZuOMUfSUsD7yd9I4A&s",
+      "original": "https://blog.worldgymtaiwan.com/hubfs/%E6%96%87%E7%AB%A0%E5%B0%88%E7%94%A8%E5%9C%96%E7%89%87/%E9%A6%99%E8%95%89.png"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/banana/zh/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBRGWrFAd4VPhTIhoTWyHVgchDnq67l_qhqQ&s",
+      "fuentePagina": "http://dghb.dg.gov.cn/zsjg/dzsjbyfkzzx/jkzt/wsjcjy/lhjy/content/post_4112033.html",
+      "titulo": "建议你吃点香蕉，理由都在这里了",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBRGWrFAd4VPhTIhoTWyHVgchDnq67l_qhqQ&s",
+      "original": "http://dghb.dg.gov.cn/img/0/466/466412/4112033.png"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/banana/zh/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDIqEYLXpNc8qHesrf3cCd7bUo85bCKyJeVg&s",
+      "fuentePagina": "https://www.shunfungfruits.com/products/phillipines-banana-del-monte-1-1",
+      "titulo": "Shun Fung Fruits 順豐果欄| 菲律賓· 「地捫」香蕉",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDIqEYLXpNc8qHesrf3cCd7bUo85bCKyJeVg&s",
+      "original": "https://shoplineimg.com/58c535c09a76f0a5960007f2/5bc58c69ede189000e0f8b20/800x.png?"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/banana/zh/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3700FKAYaoujTCUcWxx5JpYltOAhI_F6l1Q&s",
+      "fuentePagina": "https://health.udn.com/health/story/6037/8294611",
+      "titulo": "香蕉只能單獨吃，尤其不能打成果汁，不然會破壞其他蔬果防癌效果 ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3700FKAYaoujTCUcWxx5JpYltOAhI_F6l1Q&s",
+      "original": "https://pgw.udn.com.tw/gw/photo.php?u=/photo/2021/08/19/1/13407271.jpg&x=0&y=0&sw=0&sh=0&exp=3600"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/banana/zh/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9G7w5E3x6gBHS21sPgFRblMcd21bj2VTLWg&s",
+      "fuentePagina": "https://scitechvista.nat.gov.tw/Article/c000008/detail?ID=4e3b6d50-a5f7-4c70-baf9-f38c427589d5",
+      "titulo": "吃香蕉很健康？| - 科技大觀園",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9G7w5E3x6gBHS21sPgFRblMcd21bj2VTLWg&s",
+      "original": "https://scitechvista.nat.gov.tw/FileDownload/Article/20180306145901000000680.jpg"
+    }
+  ]
+}

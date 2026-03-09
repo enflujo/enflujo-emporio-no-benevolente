@@ -1,0 +1,71 @@
+{
+  "categoria": "suitcase",
+  "categoriaSlug": "suitcase",
+  "idioma": "ar",
+  "nombreIdioma": "العربية",
+  "termino": "حقيبة سفر",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T20:59:07.322Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "ar",
+    "gl": "eg"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=%D8%AD%D9%82%D9%8A%D8%A8%D8%A9%20%D8%B3%D9%81%D8%B1&hl=ar&gl=eg",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/suitcase/ar/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUx0-81YM1P2eBAZBHVExD3P8Y-KYqSvX7lQ&s",
+      "fuentePagina": "https://www.amazon.eg/%D8%B4%D9%86%D8%B7%D8%A9-%D8%A8%D8%B9%D8%AC%D9%84%D8%A7%D8%AA-%D8%AC%D9%8A%D9%87-%D8%A8%D9%8A-%D9%85%D9%82%D8%A7%D8%B3/dp/B097DZBJCR",
+      "titulo": "شنطة سفر بعجلات من جيه بي ال، مقاس 24 - لون اسود ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUx0-81YM1P2eBAZBHVExD3P8Y-KYqSvX7lQ&s",
+      "original": "https://m.media-amazon.com/images/I/41yGTJvnXkL._AC_SY1000_.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/suitcase/ar/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsL-brV-AWnVMWo6sTUjN6KjNGBdxoJKRwEw&s",
+      "fuentePagina": "https://www.glossybirdegypt.com/GB3965-24",
+      "titulo": "Glossybird Egypt | حقيبة سفر GB3965-24",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsL-brV-AWnVMWo6sTUjN6KjNGBdxoJKRwEw&s",
+      "original": "https://glossybirdegypt.com/public/source/%D8%AD%D9%82%D8%A7%D8%A6%D8%A8%20%D8%A7%D9%84%D8%B3%D9%81%D8%B1/PP+%20%D9%82%D9%85%D8%A7%D8%B4/GB3965-24/1%20(4).webp"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/suitcase/ar/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2VFSL3hoI_ajD3RshGtkrnV5EySBVDsYXAA&s",
+      "fuentePagina": "https://futurekwt.com/products/five-travel-bags-of-different-sizes-from-the-international-brand-sumo?srsltid=AfmBOopUWLyjeSjdawTBsYiyeLnDErqW-I4uQKPMQesA_cPHl2D6q8Fo",
+      "titulo": "خمس حقائب للسفر بأحجام مختلفة من الماركة العالمية سومو",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2VFSL3hoI_ajD3RshGtkrnV5EySBVDsYXAA&s",
+      "original": "https://futurekwt.com/cdn/shop/files/WhatsAppImage2023-06-17at10.31.21PM.jpg?v=1687103293&width=1445"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/suitcase/ar/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5RxJ02tf7ytzoCkTQwdJ7EQ-2Pb4hIYBtZA&s",
+      "fuentePagina": "https://www.glossybirdegypt.com/GB3962-20",
+      "titulo": "Glossybird Egypt | حقيبة سفرGB3962-20",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5RxJ02tf7ytzoCkTQwdJ7EQ-2Pb4hIYBtZA&s",
+      "original": "https://www.glossybirdegypt.com/public/source/%D8%AD%D9%82%D8%A7%D8%A6%D8%A8%20%D8%A7%D9%84%D8%B3%D9%81%D8%B1/PP+%20%D9%82%D9%85%D8%A7%D8%B4/GB3962-20/1%20(3).webp"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/suitcase/ar/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxNSv6BK40-dlFKX15xWBw1FGo8Y4FlraLaQ&s",
+      "fuentePagina": "https://www.noon.com/egypt-ar/28-inch-black-trolley-suitcase/Z01FD21724A56FDA83185Z/p/",
+      "titulo": "تسوق وشنطة سفر بعجلات مقاس 28 انش، لون اسود أونلاين في مصر",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxNSv6BK40-dlFKX15xWBw1FGo8Y4FlraLaQ&s",
+      "original": "https://f.nooncdn.com/p/pzsku/Z01FD21724A56FDA83185Z/45/_/1732710828/93093d04-fc30-4f2d-9a39-1f98a0e30258.jpg?width=480"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/suitcase/ar/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5qtwjVNiwwnwjyu50qr0fplIIoNji2Ui5BQ&s",
+      "fuentePagina": "https://elrobystore.com/product-cat/%D8%B4%D9%86%D8%B7-%D8%B3%D9%81%D8%B1/",
+      "titulo": "شنط سفر | الروبي ستور",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5qtwjVNiwwnwjyu50qr0fplIIoNji2Ui5BQ&s",
+      "original": "https://elrobystore.com//uploads/2025/02/5SWuExAjdamcr83nbVBi-232x300.png"
+    }
+  ]
+}

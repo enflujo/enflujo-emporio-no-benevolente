@@ -1,0 +1,71 @@
+{
+  "categoria": "skis",
+  "categoriaSlug": "skis",
+  "idioma": "ha",
+  "nombreIdioma": "Hausa",
+  "termino": "ski",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:00:14.623Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "ha",
+    "gl": "ng"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=ski&hl=ha&gl=ng",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/skis/ha/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTipKotzkm2I1MeI8nk9cPn8n3G7MJt5mLmiQ&s",
+      "fuentePagina": "https://www.kirkwood.com/",
+      "titulo": "Kirkwood Mountain Resort | Kirkwood Ski Resort",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTipKotzkm2I1MeI8nk9cPn8n3G7MJt5mLmiQ&s",
+      "original": "https://scene7.vailresorts.com/is/image/vailresorts/20230208_PC_Wright_173:Large-Hero?resMode=sharp2&w=2880&h=900&wid=412&fit=vfit,1&hei=309&dpr=on,2.625"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/skis/ha/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRq725kGNCAhGdksXurMmtxY65ExkjdHQr8lw&s",
+      "fuentePagina": "https://en.wikipedia.org/wiki/Skiing",
+      "titulo": "Skiing - Wikipedia",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRq725kGNCAhGdksXurMmtxY65ExkjdHQr8lw&s",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Ski_Famille_-_Family_Ski_Holidays.jpg/500px-Ski_Famille_-_Family_Ski_Holidays.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/skis/ha/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCuUPwvS9f7vuucWnhFh3CalbrMFd1kcaZaw&s",
+      "fuentePagina": "https://www.stowe.com/",
+      "titulo": "Vermont's Best Ski Resort | Stowe",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCuUPwvS9f7vuucWnhFh3CalbrMFd1kcaZaw&s",
+      "original": "https://scene7.vailresorts.com/is/image/vailresorts/20230208_PC_Wright_173:Epic-Pass-Home-Page-Hero-Mobile?resMode=sharp2&wid=412&fit=constrain,1&dpr=on,2.625"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/skis/ha/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwpgApzZchQutK47r9O-B0Pzc8R6U5bYtINA&s",
+      "fuentePagina": "https://www.valthorens.com/en/ski/forfaits/forfait-6-jours/",
+      "titulo": "6 Day Ski Package Val Thorens : A Week of Escape to the ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwpgApzZchQutK47r9O-B0Pzc8R6U5bYtINA&s",
+      "original": "https://www.valthorens.com/app/uploads/2023/09/230406-ski-salomon-l.brochot-ot-val-thorens-62.webp"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/skis/ha/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ83kpP50BgTRCXUqEi_gXFBRugXofKG_GyJQ&s",
+      "fuentePagina": "https://www.austria.info/en-gb/activities/resorts-for-beginners-and-returning-skiers/",
+      "titulo": "Ski Resorts for Beginners and Returning Skiers in Austria",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ83kpP50BgTRCXUqEi_gXFBRugXofKG_GyJQ&s",
+      "original": "https://fuutazbsb.filerobot.com/Freigegeben/Lebensgefuehl-Oesterreich-Skianfaenger-auf-der-Piste_Oesterreich-Werbung_Marko-Mestrovic.jpeg?gravity=auto&w=1728&h=740&func=crop&q=75"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/skis/ha/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEBz29LndG5igXuFGdQA2EKJH3CRxr1dIdlw&s",
+      "fuentePagina": "https://www.alta.com/",
+      "titulo": "Welcome to Alta Ski Area",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEBz29LndG5igXuFGdQA2EKJH3CRxr1dIdlw&s",
+      "original": "https://res.cloudinary.com/altaskiarea/image/upload/q_45/v1772918943/resources/photo-of-the-day/2026-03/PJ-3-7-26f-POD.jpg"
+    }
+  ]
+}

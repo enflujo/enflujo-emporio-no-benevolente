@@ -1,0 +1,71 @@
+{
+  "categoria": "bear",
+  "categoriaSlug": "bear",
+  "idioma": "pt",
+  "nombreIdioma": "Português",
+  "termino": "urso",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T20:54:42.439Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "pt",
+    "gl": "br"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=urso&hl=pt&gl=br",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bear/pt/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTA6448rxs8MiTdbqiZzRwDVrl2PpeG1Qcsow&s",
+      "fuentePagina": "https://www.infoescola.com/mamiferos/urso/",
+      "titulo": "Urso - espécies de ursos - Animais - mamíferos - InfoEscola",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTA6448rxs8MiTdbqiZzRwDVrl2PpeG1Qcsow&s",
+      "original": "https://www.infoescola.com/wp-content/uploads/2008/04/urso.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bear/pt/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyZi_cbdHRbKzUmCwi-bx8y9B4hjCciBqQig&s",
+      "fuentePagina": "https://www.facebook.com/fatosinteressantesfato/posts/-cat%C3%A1logo-das-9-esp%C3%A9cies-de-ursos-mais-famosas-do-mundo-1-urso-pardo-ursus-arcto/1344925800998941/",
+      "titulo": "🐾 Catálogo das 9 ESPÉCIES de Ursos Mais Famosas do Mundo ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyZi_cbdHRbKzUmCwi-bx8y9B4hjCciBqQig&s",
+      "original": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=1344925760998945"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bear/pt/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-DlGFXOCfquWp_UzEaQL-VK_SYluzKlQRUA&s",
+      "fuentePagina": "https://www.nationalgeographicbrasil.com/animais/2024/03/quantas-especies-de-ursos-existem-no-mundo",
+      "titulo": "Quantas espécies de ursos existem no mundo? | National ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-DlGFXOCfquWp_UzEaQL-VK_SYluzKlQRUA&s",
+      "original": "https://static.nationalgeographicbrasil.com/files/styles/image_3200/public/nationalgeographic2496782_0.webp?w=1600&h=900"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bear/pt/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnpw4OunAWhVQLuLqvaoYWQpi8uwhxICkQyA&s",
+      "fuentePagina": "https://www.dinoloja.com/papo/urso-grizzly-em-pe-papo?srsltid=AfmBOoouwy8q8fPwRF310mRQPFG_ZLxwQQWjNQHgjPH7PUnojvV9IUp1",
+      "titulo": "URSO GRIZZLY EM PÉ PAPO RÉPLICA DE MAMÍFERO ANIMAL SELVAGEM IMPORTADO",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnpw4OunAWhVQLuLqvaoYWQpi8uwhxICkQyA&s",
+      "original": "https://cdn.awsli.com.br/600x1000/78/78037/produto/241087344/papo-50153-grizzly-bear-2k7a2sfye4.jpg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bear/pt/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdbOTHgM4t5ioIzse8q0rE3H3F1hVkqus_Tw&s",
+      "fuentePagina": "https://www.facebook.com/100063525158719/posts/os-ursos-s%C3%A3o-grandes-mam%C3%ADferos-pertencentes-%C3%A0-fam%C3%ADlia-ursidae-conhecidos-por-sua/1451741546953337/",
+      "titulo": "Os ursos são grandes mamíferos pertencentes à família ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdbOTHgM4t5ioIzse8q0rE3H3F1hVkqus_Tw&s",
+      "original": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=1451741523620006"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bear/pt/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6ic5fmg6V9tan38J0f6bA0cyFphA_s7Fh5w&s",
+      "fuentePagina": "https://segredosdomundo.r7.com/ursos/",
+      "titulo": "Ursos: características, hábitos, espécies, habitat",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6ic5fmg6V9tan38J0f6bA0cyFphA_s7Fh5w&s",
+      "original": "https://segredosdomundo.r7.com/wp-content/uploads/2020/08/ursos-caracteristicas-habitos-especies-habitat-6.jpg"
+    }
+  ]
+}

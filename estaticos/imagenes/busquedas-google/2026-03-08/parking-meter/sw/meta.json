@@ -1,0 +1,71 @@
+{
+  "categoria": "parking meter",
+  "categoriaSlug": "parking-meter",
+  "idioma": "sw",
+  "nombreIdioma": "Kiswahili",
+  "termino": "mita ya maegesho",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T20:48:19.832Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "sw",
+    "gl": "tz"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=mita%20ya%20maegesho&hl=sw&gl=tz",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/parking-meter/sw/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQr9_mwwLHeIkIvVVkoemvcTycKInDO7jE4SA&s",
+      "fuentePagina": "https://www.golongpay.com/sw/parking-meter-machine/",
+      "titulo": "Watengenezaji wa mashine ya maegesho ya jumla - Wauzaji - Golong",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQr9_mwwLHeIkIvVVkoemvcTycKInDO7jE4SA&s",
+      "original": "https://www.golongpay.com/upload/image/20230705/7bbf2e07e9c60238a71d1a1a32dadd52.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/parking-meter/sw/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtEClLApFoshVJR63qSxu-tXM5ba_KEGqnTw&s",
+      "fuentePagina": "https://www.golongpay.com/sw/company-news/the-latest-parking-meter/",
+      "titulo": "Basi msikivu - Golong",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtEClLApFoshVJR63qSxu-tXM5ba_KEGqnTw&s",
+      "original": "https://www.golongpay.com/upload/image/20240929/4f91ddaf2f07b56cc7860a033d7e148c.png"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/parking-meter/sw/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7G4QTl5DlSqcf_jg58B3WtqIfOeBNg8fDZQ&s",
+      "fuentePagina": "https://www.golongpay.com/sw/parking-meter-machine/",
+      "titulo": "Watengenezaji wa mashine ya maegesho ya jumla - Wauzaji - Golong",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7G4QTl5DlSqcf_jg58B3WtqIfOeBNg8fDZQ&s",
+      "original": "https://www.golongpay.com/upload/image/20231117/a40a326561105fbff3372594ae299d7e.png"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/parking-meter/sw/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTROPeGJlhW1zc7grt5XZ1-kve1t7A6wKiQ8Q&s",
+      "fuentePagina": "https://www.golongpay.com/sw/featured/page/8/",
+      "titulo": "Udhibitishaji wa basi, mtengenezaji wa mita za maegesho ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTROPeGJlhW1zc7grt5XZ1-kve1t7A6wKiQ8Q&s",
+      "original": "https://www.golongpay.com/upload/image/20230705/5ef50b134086b98c9233fd3aec4bc9f6.jpg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/parking-meter/sw/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTKEQHSU7-Waq63J7TKtl1-diOdgOf4wo5Tw&s",
+      "fuentePagina": "https://www.golongpay.com/sw/featured/page/8/",
+      "titulo": "Udhibitishaji wa basi, mtengenezaji wa mita za maegesho ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTKEQHSU7-Waq63J7TKtl1-diOdgOf4wo5Tw&s",
+      "original": "https://www.golongpay.com/upload/image/20240923/5fabe51dfbbc752cb9b7929de4ff5cc6.png"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/parking-meter/sw/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXl7Ht_-If2Qm_003MYsnbGGik3h6YDhc6lg&s",
+      "fuentePagina": "https://www.golongpay.com/sw/parking-meter-ticket/",
+      "titulo": "Watengenezaji wa Tiketi ya Mita ya Uuzaji wa jumla - Wauzaji ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXl7Ht_-If2Qm_003MYsnbGGik3h6YDhc6lg&s",
+      "original": "https://www.golongpay.com/upload/image/20230705/1a37b13f183750c71ca1f5b3066f05f4.jpg"
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "categoria": "microwave",
+  "categoriaSlug": "microwave",
+  "idioma": "rw",
+  "nombreIdioma": "Kinyarwanda",
+  "termino": "microwave",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:24:51.129Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "en",
+    "gl": "rw"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=microwave&hl=en&gl=rw",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/microwave/rw/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIOjQw509BfmkRwjMmRotUvG9lrjUcCF9AMQ&s",
+      "fuentePagina": "https://www.sencor.com/microwave-oven/smw-2120ss",
+      "titulo": "Microwave Oven | SMW 2120SS | Sencor.com",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIOjQw509BfmkRwjMmRotUvG9lrjUcCF9AMQ&s",
+      "original": "https://www.sencor.com/Sencor/media/content/main%20picture/40046721-2.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/microwave/rw/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsEAQhWVMczilWu2aBqoGeey9RxQBOacCfdQ&s",
+      "fuentePagina": "https://en.wikipedia.org/wiki/Microwave_oven",
+      "titulo": "Microwave oven - Wikipedia",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsEAQhWVMczilWu2aBqoGeey9RxQBOacCfdQ&s",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Panasonic_NN-SD69LS_20220410.jpg/250px-Panasonic_NN-SD69LS_20220410.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/microwave/rw/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKv9an8gv1NevkQernL17mXd-YTgU4n3OBcw&s",
+      "fuentePagina": "https://shop.sharpusa.com/sharp-1-4-cu-ft-1100w-stainless-steel-countertop-microwave-oven-smc1450ks/?srsltid=AfmBOorHcpdYulLlv2_YEWlo2djfRbx2tMmrhXpph3lmUy76mQ0kNy1k",
+      "titulo": "1.4 cu. ft. 1100W Stainless Steel Countertop Microwave Oven",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKv9an8gv1NevkQernL17mXd-YTgU4n3OBcw&s",
+      "original": "https://cdn11.bigcommerce.com/s-8vy557m296/images/stencil/original/products/321/4715/20_SMC1450KS_3QL_WEB__49631.1744665203.JPG?c=2"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/microwave/rw/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsoLvYcVPRPXjyOxd51_EL5cDKhkvSQfoCLQ&s",
+      "fuentePagina": "https://www.electrolux.co.id/en-id/support/blog/how-to-use-microwave-oven/",
+      "titulo": "How to use a microwave oven | Electrolux Indonesia",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsoLvYcVPRPXjyOxd51_EL5cDKhkvSQfoCLQ&s",
+      "original": "https://www.electrolux.co.id/contentassets/fcd0f71208704878b36613ca7461ea9b/cara-menggunakan-microwave-thumbnail-750x730.jpg?width=464"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/microwave/rw/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGnuUrx5Qh0djza70XcnVioEOEPlZP05ZDng&s",
+      "fuentePagina": "https://www.healthyfood.com/advice/back-to-basics-microwave-cooking/",
+      "titulo": "Back to basics: Microwave cooking - Healthy Food Guide",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGnuUrx5Qh0djza70XcnVioEOEPlZP05ZDng&s",
+      "original": "https://www.healthyfood.com/wp-content/uploads/2017/03/Back-to-basics-Microwave-cooking-.jpg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/microwave/rw/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQY6MhESaB9stAZTMmpyifB9m0Es7Nqv4b0tg&s",
+      "fuentePagina": "https://www.target.com/p/kenmore-0-7-cu-ft-microwave-stainless-steel/-/A-88179643",
+      "titulo": "Kenmore 0.7 cu ft Microwave - Stainless Steel: Countertop ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQY6MhESaB9stAZTMmpyifB9m0Es7Nqv4b0tg&s",
+      "original": "https://target.scene7.com/is/image/Target/GUEST_820080f3-d3bb-4255-9d54-10844d5e8d09"
+    }
+  ]
+}

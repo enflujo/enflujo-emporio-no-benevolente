@@ -1,0 +1,71 @@
+{
+  "categoria": "chair",
+  "categoriaSlug": "chair",
+  "idioma": "ha",
+  "nombreIdioma": "Hausa",
+  "termino": "kujera",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:17:07.183Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "ha",
+    "gl": "ng"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=kujera&hl=ha&gl=ng",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/chair/ha/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrlaGXcMJvaDytHQSZFemCST87zu8shrTnjA&s",
+      "fuentePagina": "https://aarsunwoods.com/ha/product-tag/tufted-chair/",
+      "titulo": "kujera mai tufted - Aarsun",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrlaGXcMJvaDytHQSZFemCST87zu8shrTnjA&s",
+      "original": "https://aarsunwoods.com/wp-content/uploads/2023/01/Royal-Golden-Arm-Chair-jpg.webp"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/chair/ha/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQP7srQuhmNX8GNgJWpD34ELcdvr38x-S21-Q&s",
+      "fuentePagina": "https://ha.wiktionary.org/wiki/kujera",
+      "titulo": "kujera - Wiktionary",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQP7srQuhmNX8GNgJWpD34ELcdvr38x-S21-Q&s",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Brooklyn_Museum_22.187_Chief%27s_Chair.jpg/250px-Brooklyn_Museum_22.187_Chief%27s_Chair.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/chair/ha/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSf8RsV2vkYuun81UNmWGMPdVyMYmpE40EDtA&s",
+      "fuentePagina": "https://www.facebook.com/Alhajimeekujera/",
+      "titulo": "Alhaji Mee Kujera. (@Alhajimeekujera) • Facebook",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSf8RsV2vkYuun81UNmWGMPdVyMYmpE40EDtA&s",
+      "original": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=290600090173642"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/chair/ha/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_9w5q0WaZbV95OMmGuz4-u0oUzYXICS_Cgg&s",
+      "fuentePagina": "https://www.facebook.com/groups/775168889758020/posts/1901106173830947/",
+      "titulo": "kujera full set 400k location bauchi 09162282829",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_9w5q0WaZbV95OMmGuz4-u0oUzYXICS_Cgg&s",
+      "original": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=122114071515029521"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/chair/ha/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStG-knciaRUAuBU8X9mq8fb37y80sz_7pd2A&s",
+      "fuentePagina": "https://www.instagram.com/reel/CN9o746Bjyq/",
+      "titulo": "Domin siyan kujera masu inganci da juriya ku garzayo zuwa Hareem Dream  domin bazakuyi danasaniba., #northernhibiscus #arewapeople #arewaweddings  #arewabride #northernbride #northernwedding ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStG-knciaRUAuBU8X9mq8fb37y80sz_7pd2A&s",
+      "original": "https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=2557380200828910762"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/chair/ha/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwp0M-ehRcopTRbKombq5gpiPpf7hHf4F3jA&s",
+      "fuentePagina": "https://www.jkyliftchair.com/ha/recliner-sofa-set-nola-product/",
+      "titulo": "2 Babban kujera mai kujera",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwp0M-ehRcopTRbKombq5gpiPpf7hHf4F3jA&s",
+      "original": "https://cdnus.globalso.com/jky-liftchair/Recliner-Sofa-Set-Nola2.png"
+    }
+  ]
+}

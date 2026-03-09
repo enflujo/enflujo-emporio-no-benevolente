@@ -1,0 +1,71 @@
+{
+  "categoria": "microwave",
+  "categoriaSlug": "microwave",
+  "idioma": "fr",
+  "nombreIdioma": "Français",
+  "termino": "micro-ondes",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:24:55.054Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "fr",
+    "gl": "be"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=micro-ondes&hl=fr&gl=be",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/microwave/fr/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU_YyH5nIO40yFchRpfAiq3U00zvPab6sxYQ&s",
+      "fuentePagina": "https://www.electrodepot.be/fr/micro-ondes-hisense-edh23mobv-23l-mono-digit.html?srsltid=AfmBOorXC4wtTfAkMjrCMt0CtEBtFnjZWvjT_7TwhZ4-ZQnBBn8VdoKB",
+      "titulo": "Micro-ondes monofonction HISENSE EDH23MOBV",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU_YyH5nIO40yFchRpfAiq3U00zvPab6sxYQ&s",
+      "original": "https://www.electrodepot.be/media/catalog/product/P993619.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/microwave/fr/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSS7sMVtJWb_00ySNc3l_15clxAl84g8NAhrw&s",
+      "fuentePagina": "https://www.domo-elektro.be/fr/do3120-domo-microgolfoven-solo-20-l-800-w-wit",
+      "titulo": "DOMO Four à micro-ondes solo - 20 L - 800 W - blanc",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSS7sMVtJWb_00ySNc3l_15clxAl84g8NAhrw&s",
+      "original": "https://www.domo-elektro.be/media/catalog/product/cache/f08d0db0d0699bca6b022829de5603d1/D/O/DO3120_Microgolfoven_01.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/microwave/fr/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTunZNZZV-M0kJ0m_CLYQ9x_pwswYLoiGXXlQ&s",
+      "fuentePagina": "https://www.lesitedelapiece.com/blog/fours-micro-ondes-quelle-duree-de-vie--n57",
+      "titulo": "Durée de vie micro-ondes | Le site de la pièce",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTunZNZZV-M0kJ0m_CLYQ9x_pwswYLoiGXXlQ&s",
+      "original": "https://media1.lesitedelapiece.com/img/cms/images%20blog/micro-ondes-assiette.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/microwave/fr/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbMg5B6WUntUROWAoeJoEOswnrd0RF3Ntd-Q&s",
+      "fuentePagina": "https://www.domo-elektro.be/fr/do2520-domo-four-a-micro-ondes-solo-20-l-800-w",
+      "titulo": "DOMO Four à micro-ondes solo - 20 L - 800 W",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbMg5B6WUntUROWAoeJoEOswnrd0RF3Ntd-Q&s",
+      "original": "https://www.domo-elektro.be/media/catalog/product/cache/f08d0db0d0699bca6b022829de5603d1/D/O/DO2520_microgolfoven_03.jpg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/microwave/fr/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRf4Z4bJMUBMM7lQuW8PqUJCKsi-KOkI48ktg&s",
+      "fuentePagina": "https://www.mediamarkt.be/fr/product/_samsung-micro-ondes-ms23k3513ak-en-1554747.html",
+      "titulo": "SAMSUNG Micro-ondes (MS23K3513AK/EN)",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRf4Z4bJMUBMM7lQuW8PqUJCKsi-KOkI48ktg&s",
+      "original": "https://assets.mmsrg.com/isr/166325/c1/-/pixelboxx-mss-81644589"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/microwave/fr/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdKMDXBNKguWWKE2p8hZRLRPV8F8m-vVaCYg&s",
+      "fuentePagina": "https://www.electrodepot.be/fr/micro-ondes-valberg-mwo-25-e-k-343c-24-6l-digit-noir.html?srsltid=AfmBOorfjami-FwmEeDZmFZoIpl87YrmO_kxRretWhUUOdoXZCv3ZaHw",
+      "titulo": "Micro-ondes monofonction VALBERG MWO 23 E K 343C2 - ELECTRO ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdKMDXBNKguWWKE2p8hZRLRPV8F8m-vVaCYg&s",
+      "original": "https://www.electrodepot.be/media/catalog/product/P974949.jpg"
+    }
+  ]
+}

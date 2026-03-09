@@ -1,0 +1,71 @@
+{
+  "categoria": "refrigerator",
+  "categoriaSlug": "refrigerator",
+  "idioma": "hi",
+  "nombreIdioma": "हिन्दी",
+  "termino": "फ्रिज",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:27:45.519Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "hi",
+    "gl": "in"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=%E0%A4%AB%E0%A5%8D%E0%A4%B0%E0%A4%BF%E0%A4%9C&hl=hi&gl=in",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/refrigerator/hi/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQemhgg_soYvAkzWMXuQkExKDKQLNW6OLdeTA&s",
+      "fuentePagina": "https://www.amazon.in/-/hi/LEONARD-%E0%A4%87%E0%A4%A8%E0%A5%8D%E0%A4%B5%E0%A4%B0%E0%A5%8D%E0%A4%9F%E0%A4%B0-%E0%A4%B0%E0%A5%87%E0%A4%AB%E0%A5%8D%E0%A4%B0%E0%A4%BF%E0%A4%9C%E0%A4%B0%E0%A5%87%E0%A4%9F%E0%A4%B0-%E0%A4%95%E0%A4%AE%E0%A5%8D%E0%A4%AA%E0%A4%BE%E0%A4%B0%E0%A5%8D%E0%A4%9F%E0%A4%AE%E0%A5%87%E0%A4%82%E0%A4%9F-%E0%A4%9F%E0%A5%87%E0%A4%95%E0%A5%8D%E0%A4%A8%E0%A5%8B%E0%A4%B2%E0%A5%89%E0%A4%9C%E0%A5%80/dp/B0D1NW6QRC",
+      "titulo": "LEONARD USA 110 L इन्वर्टर डबल डोर छोटा ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQemhgg_soYvAkzWMXuQkExKDKQLNW6OLdeTA&s",
+      "original": "https://m.media-amazon.com/images/I/41GLGLtLbFL.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/refrigerator/hi/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-7Kk7C5WLjTORxppBa6TONGOMP3gooTbVRA&s",
+      "fuentePagina": "https://hi.made-in-china.com/co_nballway/product_New-Design-Household-Double-Door-Refrigerator-Home-Fridge-Refrigerator_uoroiehgiy.html",
+      "titulo": "नया डिज़ाइन घरेलू डबल डोर ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-7Kk7C5WLjTORxppBa6TONGOMP3gooTbVRA&s",
+      "original": "https://image.made-in-china.com/2f0j00gdflYwiBlyrF/New-Design-Household-Double-Door-Refrigerator-Home-Fridge-Refrigerator.webp"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/refrigerator/hi/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT03-PrIExY5oLQ4rkVTyoGpMAQE2B8ZflYvQ&s",
+      "fuentePagina": "https://www.moglix.com/hi/khaitan-orfin-ko222sf1s-215l-blue-1-star-direct-cool-single-door-refrigerator/mp/msn8580qnye492?srsltid=AfmBOopO5aTUFRxhk4b1RMlUR7Fn02wk6Gkijeo0sF_NN4N2lv9IgXw6",
+      "titulo": "खेतान ऑर्फिन KO222SF1S 215L ब्लू 1 स्टार डायरेक्ट कूल सिंगल डोर रेफ्रिजरेटर",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT03-PrIExY5oLQ4rkVTyoGpMAQE2B8ZflYvQ&s",
+      "original": "https://cdn.moglix.com/p/4oOq4ngPizohG.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/refrigerator/hi/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDIDlZDYonnZtpQBJ4DLPY3YyOnjrG9Zvglw&s",
+      "fuentePagina": "https://bh.wikipedia.org/wiki/%E0%A4%AB%E0%A5%8D%E0%A4%B0%E0%A4%BF%E0%A4%9C",
+      "titulo": "फ्रिज - विकिपीडिया",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDIDlZDYonnZtpQBJ4DLPY3YyOnjrG9Zvglw&s",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/A_Samsung_Refrigerator.jpg/250px-A_Samsung_Refrigerator.jpg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/refrigerator/hi/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUKrp4CmsjvL9ykZrdqTYOjJL2JAzuGpPiUA&s",
+      "fuentePagina": "https://www.amazon.in/-/hi/%E0%A4%95%E0%A5%89%E0%A4%AE%E0%A5%8D%E0%A4%AA%E0%A5%88%E0%A4%95%E0%A5%8D%E0%A4%9F-%E0%A4%B0%E0%A5%87%E0%A4%AB%E0%A5%8D%E0%A4%B0%E0%A4%BF%E0%A4%9C%E0%A4%B0%E0%A5%87%E0%A4%9F%E0%A4%B0-%E0%A4%88%E0%A4%AE%E0%A4%BE%E0%A4%A8%E0%A4%A6%E0%A4%BE%E0%A4%B0-%E0%A4%85%E0%A4%AA%E0%A4%BE%E0%A4%B0%E0%A5%8D%E0%A4%9F%E0%A4%AE%E0%A5%87%E0%A4%82%E0%A4%9F-%E0%A4%B8%E0%A5%8D%E0%A4%9F%E0%A5%8B%E0%A4%B0%E0%A5%87%E0%A4%9C/dp/B08TW55JV6",
+      "titulo": "फ्रीजर के साथ मिनी फ्रिज, फ्रीजर ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUKrp4CmsjvL9ykZrdqTYOjJL2JAzuGpPiUA&s",
+      "original": "https://m.media-amazon.com/images/I/61V2qqll6nL._AC_UF1000,1000_QL80_.jpg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/refrigerator/hi/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCQeIgf-HDt-WTZRodXZSYp2gISPnLIc0RzQ&s",
+      "fuentePagina": "https://www.tradeindia.com/hi/products/50-kg-capacity-250-liter-double-door-samsung-refrigerator-input-220v-7809284.html",
+      "titulo": "वजन 50 Kg क्षमता 250 लीटर डबल डोर Samsung ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCQeIgf-HDt-WTZRodXZSYp2gISPnLIc0RzQ&s",
+      "original": "https://tiimg.tistatic.com/fp/1/007/809/weight-50-kg-capacity-250-liter-double-door-samsung-refrigerator-input-220v--284.jpg"
+    }
+  ]
+}

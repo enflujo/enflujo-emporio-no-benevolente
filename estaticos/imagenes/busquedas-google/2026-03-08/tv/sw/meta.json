@@ -1,0 +1,71 @@
+{
+  "categoria": "tv",
+  "categoriaSlug": "tv",
+  "idioma": "sw",
+  "nombreIdioma": "Kiswahili",
+  "termino": "runinga",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:20:56.042Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "sw",
+    "gl": "tz"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=runinga&hl=sw&gl=tz",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/tv/sw/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1DxydEQX3sFbYvlh_2PwwlsgdNSegh7JGdw&s",
+      "fuentePagina": "https://www.teknolojia.co.tz/vitu-muhimu-vya-kuzingatia-kununua-runinga-tv-television/kununua-tv-runinga/",
+      "titulo": "kununua tv runinga - TeknoKona Teknolojia Tanzania",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1DxydEQX3sFbYvlh_2PwwlsgdNSegh7JGdw&s",
+      "original": "https://www.teknolojia.co.tz/wp-content/uploads/2022/11/kununua-tv-runinga.webp"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/tv/sw/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyNLD2YR2Cx1U6CtugAK1H2Y30dSQ6V2A3aA&s",
+      "fuentePagina": "https://www.facebook.com/groups/1407943966619756/",
+      "titulo": "Zimbabwe Sesame Seed Farmers Group - Runinga | Facebook",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyNLD2YR2Cx1U6CtugAK1H2Y30dSQ6V2A3aA&s",
+      "original": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=10160905806663856"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/tv/sw/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPNJM-aPWQYIZpMN9K7t9CL5MFlNWxYPc3EA&s",
+      "fuentePagina": "https://www.facebook.com/groups/1407943966619756/posts/1580843705996447/",
+      "titulo": "Wasvika mwaka we runinga. Shandai ne company ye vanhu ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPNJM-aPWQYIZpMN9K7t9CL5MFlNWxYPc3EA&s",
+      "original": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=380215511288871"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/tv/sw/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1zuDjvW4KhLdmvqUTra2AeyuUrz380lorxw&s",
+      "fuentePagina": "https://www.mwananchi.co.tz/mw/habari/kitaifa/runinga-kutumika-mapambano-ya-kipindupindu-4517594",
+      "titulo": "Runinga kutumika mapambano ya kipindupindu | Mwananchi",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1zuDjvW4KhLdmvqUTra2AeyuUrz380lorxw&s",
+      "original": "https://www.mwananchi.co.tz/resource/image/4517604/landscape_ratio2x1/320/160/603d3f08be6a27359172a9a7dbf18c4a/Sq/runingapic.jpg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/tv/sw/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNUWjHkN08Xr3PXdi_2WRdbhKSghhaGH3zuQ&s",
+      "fuentePagina": "https://www.jaridalakubuni.com/?D=29009&P=3",
+      "titulo": "XX265 Runinga Iliyoongozwa - Jarida la kubuni",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNUWjHkN08Xr3PXdi_2WRdbhKSghhaGH3zuQ&s",
+      "original": "https://competition.adesignaward.com/award-winner-design-1200.php?ID=29009"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/tv/sw/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbBifW4lAWQ5ODXU-0-UKhGMIiXZ2f1CL_9w&s",
+      "fuentePagina": "https://x.com/AgritexS/status/1277288062289014784",
+      "titulo": "ARDAS (AGRITEX)'s Video on X",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbBifW4lAWQ5ODXU-0-UKhGMIiXZ2f1CL_9w&s",
+      "original": "https://pbs.twimg.com/ext_tw_video_thumb/1277285744621481984/pu/img/Vb5j2bpEGVCDvZGs.jpg"
+    }
+  ]
+}

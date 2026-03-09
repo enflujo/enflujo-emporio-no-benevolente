@@ -1,0 +1,71 @@
+{
+  "categoria": "orange",
+  "categoriaSlug": "orange",
+  "idioma": "zh",
+  "nombreIdioma": "中文",
+  "termino": "橙子",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:12:59.609Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "zh-CN",
+    "gl": "cn"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=%E6%A9%99%E5%AD%90&hl=zh-CN&gl=cn",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/orange/zh/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrd_t5PpFX8Ml1mq4mEqh68KVDUll9mKXhLQ&s",
+      "fuentePagina": "https://www.pinterest.com/pin/838725130605985900/",
+      "titulo": "橙子叶子水果香橙png图片免费下载-素材m-lfpylyvvf-新图网",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrd_t5PpFX8Ml1mq4mEqh68KVDUll9mKXhLQ&s",
+      "original": "https://i.pinimg.com/736x/54/7b/43/547b439254d46d5ce0b864bcf7b67735.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/orange/zh/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlVCBTWuGSRPflXkmmH22S9jGxCncTF8G08A&s",
+      "fuentePagina": "https://www.pngsucai.com/png/42719.html",
+      "titulo": "新鲜橙子PNG图片素材下载_图片编号42719-PNG素材网",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlVCBTWuGSRPflXkmmH22S9jGxCncTF8G08A&s",
+      "original": "https://pic.pngsucai.com/00/00/42/712b8e8e3a8155e5.webp"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/orange/zh/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhgoGtuaEXSb_0Lfy1BknsTtPGIuV6Rg-x2w&s",
+      "fuentePagina": "https://www.epochtimes.com/gb/21/12/28/n13463983.htm",
+      "titulo": "柳橙有双重护眼营养！果皮也养生、还能做清洁剂| 叶黄素| 维生素 ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhgoGtuaEXSb_0Lfy1BknsTtPGIuV6Rg-x2w&s",
+      "original": "https://i.epochtimes.com/assets/uploads/2021/12/id13464905-shutterstock_1209540655.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/orange/zh/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRD60ndzUy99R2Orawtn19E6DwBzo20gE5CZg&s",
+      "fuentePagina": "https://www.sohu.com/a/449262538_433133",
+      "titulo": "买橙子怎么挑？老果农：教你5个挑选技巧，包你买的个个香甜多汁_ ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRD60ndzUy99R2Orawtn19E6DwBzo20gE5CZg&s",
+      "original": "https://p1.itc.cn/images01/20210207/ac302a420c144b7b8a78b4ff1cc989be.jpeg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/orange/zh/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcReEx53jeIrnM-OWbiiH-rQAh_o955QLGebtg&s",
+      "fuentePagina": "https://m.guojiguoshu.com/article/8828",
+      "titulo": "澳大利亚橙子产量将达53万吨，中国为最大海外市场| 国际果蔬报道",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcReEx53jeIrnM-OWbiiH-rQAh_o955QLGebtg&s",
+      "original": "https://m.guojiguoshu.com/sites/default/files/field/image/oranges-g0ed3cbb07_1920_5.jpg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/orange/zh/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRaoRpV5UMmSC9kn2j9oQFm2GgrkV3sivP-dA&s",
+      "fuentePagina": "https://www.sohu.com/a/455865602_120634623",
+      "titulo": "橙子的功效与作用有哪些？吃橙子会上火吗？_搜狐网",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRaoRpV5UMmSC9kn2j9oQFm2GgrkV3sivP-dA&s",
+      "original": "https://p4.itc.cn/images01/20210316/960eaf26e96d45e6a705357efdbfbdc0.png"
+    }
+  ]
+}

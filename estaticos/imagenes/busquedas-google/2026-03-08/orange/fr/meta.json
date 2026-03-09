@@ -1,0 +1,71 @@
+{
+  "categoria": "orange",
+  "categoriaSlug": "orange",
+  "idioma": "fr",
+  "nombreIdioma": "Français",
+  "termino": "orange",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:12:40.182Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "fr",
+    "gl": "be"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=orange&hl=fr&gl=be",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/orange/fr/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTct4QnA6zwU4tyn9vq_ADJ8Ey6RfIWK-6V6g&s",
+      "fuentePagina": "https://fr.wikipedia.org/wiki/Orange_(fruit)",
+      "titulo": "Orange (fruit) — Wikipédia",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTct4QnA6zwU4tyn9vq_ADJ8Ey6RfIWK-6V6g&s",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/e/e3/Oranges_-_whole-halved-segment.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/orange/fr/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQk3wCVjWEIJRGuLuoWfGPtM9-Y8upecK_37A&s",
+      "fuentePagina": "https://fr.wikipedia.org/wiki/Orange_(entreprise)",
+      "titulo": "Orange (entreprise) — Wikipédia",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQk3wCVjWEIJRGuLuoWfGPtM9-Y8upecK_37A&s",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Orange_logo.svg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/orange/fr/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShDZibBehmTA9pQayLFU2USSAPr8MBVIhBdQ&s",
+      "fuentePagina": "https://chemwatch.net/fr/blog/the-humble-orange/",
+      "titulo": "L'Humble Orange - Chemwatch",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShDZibBehmTA9pQayLFU2USSAPr8MBVIhBdQ&s",
+      "original": "https://chemwatch.net/wp-content/uploads/2021/11/image-6.jpeg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/orange/fr/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-6GoLpPXoOkT0lAuFcxXwJSQ7nxtRQqVJLg&s",
+      "fuentePagina": "https://www.dole.com/fr-ca/produce/oranges",
+      "titulo": "Valeur nutritive du jus d'orange | Dole",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-6GoLpPXoOkT0lAuFcxXwJSQ7nxtRQqVJLg&s",
+      "original": "https://www.dole.com/sites/default/files/media/2025-01/oranges.png"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/orange/fr/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZbB_doR9LVg_xVbDXOOZc3TNbgNCEIzLLKw&s",
+      "fuentePagina": "https://www.quanta.org/orange/",
+      "titulo": "Orange",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZbB_doR9LVg_xVbDXOOZc3TNbgNCEIzLLKw&s",
+      "original": "https://www.quanta.org/orange/orange.jpg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/orange/fr/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAhYSRRvsVqvFvTGgFs_GUMRON4WQSQH4mbw&s",
+      "fuentePagina": "https://www.futura-sciences.com/planete/definitions/botanique-orange-7611/",
+      "titulo": "Définition | Orange : qu'est-ce que c'est ? | Futura planète",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAhYSRRvsVqvFvTGgFs_GUMRON4WQSQH4mbw&s",
+      "original": "https://cdn8.futura-sciences.com/sources/images/glossaire/orange_DR.jpg"
+    }
+  ]
+}

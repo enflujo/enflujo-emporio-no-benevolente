@@ -1,0 +1,71 @@
+{
+  "categoria": "baseball glove",
+  "categoriaSlug": "baseball-glove",
+  "idioma": "qu",
+  "nombreIdioma": "Quechua",
+  "termino": "guante",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:03:45.745Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "es",
+    "gl": "pe"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=guante&hl=es&gl=pe",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/baseball-glove/qu/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRXXlZlW54ihiv8Cwl0vXd1En4eH042hmDxQ&s",
+      "fuentePagina": "https://www.treck.pe/guante-activex-multigrip-algodon-latex-gris-azul/p",
+      "titulo": "Guante Activex Multigrip Algodon/Latex Gris/Azul",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRXXlZlW54ihiv8Cwl0vXd1En4eH042hmDxQ&s",
+      "original": "https://b2btreckpe.vtexassets.com/arquivos/ids/169729-800-auto?v=638437451423530000&width=800&height=auto&aspect=true"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/baseball-glove/qu/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6S1WIcnfG9Pvdd7FZLtREhTYjdkxvcpsSCw&s",
+      "fuentePagina": "https://www.promart.pe/guante-de-polialgodon-con-latex-arenado-t-m/p?srsltid=AfmBOor5C3SiqTHJLc_92WL9Sk-9dDViBRIpBJ4ei2JYTN41k2wYCu6e",
+      "titulo": "Guante de Trabajo Clute Poly Algodón con Látex Arenado Talla ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6S1WIcnfG9Pvdd7FZLtREhTYjdkxvcpsSCw&s",
+      "original": "https://promart.vteximg.com.br/arquivos/ids/557897/65443.jpg?v=637381400789430000"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/baseball-glove/qu/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0JmS5rVMOQeJdPf1Uo7HM3ACUXFGkfLBcKw&s",
+      "fuentePagina": "https://www.promart.pe/guante-eternity-multiflex-palma-de-latex-rojo-talla-9-por-3-pares-1000377117/p?srsltid=AfmBOorb-u6CQtFcfYmLD57sCq0Bc1L8PFGteAuK1PQDedDP12l4wjb5",
+      "titulo": "Guante Eternity Multiflex Palma de Latex Rojo Talla 9 por 3 ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0JmS5rVMOQeJdPf1Uo7HM3ACUXFGkfLBcKw&s",
+      "original": "https://promart.vteximg.com.br/arquivos/ids/6919766-1000-1000/image-0017e5213a6342199c7d223c5fb547b2.jpg?v=638176124378000000"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/baseball-glove/qu/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEaRV7_dgY2Ym_4poj2W69XlvPbucj2_D9nQ&s",
+      "fuentePagina": "https://www.covema.pe/producto/guante-de-hilo-amarillo-maxlow/",
+      "titulo": "Guante de hilo amarillo maxlow",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEaRV7_dgY2Ym_4poj2W69XlvPbucj2_D9nQ&s",
+      "original": "https://www.covema.pe/wp-content/uploads/2023/07/AMARILLO.png"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/baseball-glove/qu/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlEuGGxT0aadRQVCm1aoLPywr6y682moQFRg&s",
+      "fuentePagina": "https://tiendaonline.soltrak.com.pe/guantes-de-seguridad-anticorte-saf-t-gard-gu-500.html?srsltid=AfmBOoqNunuqivcV6F-nVpUmSEtgzzqlq7KQZa3FezW7kqfPNtqskAP0",
+      "titulo": "Guante de malla de acero resistente al corte SAF T GARD GU-500",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlEuGGxT0aadRQVCm1aoLPywr6y682moQFRg&s",
+      "original": "https://tiendaonline.soltrak.com.pe/media/catalog/product/cache/24de4777e8d76fe4e67813c9010d7898/g/u/guante_g-500_1.png"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/baseball-glove/qu/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUYX7ySQaKTJUqqJOJRtz7wbsaGTc0X4wT4g&s",
+      "fuentePagina": "https://gpc.pe/products/guante-palma-superflex-gris-talla-7-par-clute?srsltid=AfmBOorvjps5__x59kQ2gHBDT6yObq3cr_0KUasmVH6o6X0nmIP5X7sw",
+      "titulo": "Guante Palma Superflex Gris Talla 7 Par Clute",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUYX7ySQaKTJUqqJOJRtz7wbsaGTc0X4wT4g&s",
+      "original": "http://gpc.pe/cdn/shop/files/29025.png?v=1710210873"
+    }
+  ]
+}

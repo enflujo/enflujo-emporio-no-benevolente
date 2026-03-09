@@ -1,0 +1,71 @@
+{
+  "categoria": "cake",
+  "categoriaSlug": "cake",
+  "idioma": "qu",
+  "nombreIdioma": "Quechua",
+  "termino": "torta",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:16:37.668Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "es",
+    "gl": "pe"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=torta&hl=es&gl=pe",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/cake/qu/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRw7mqDct4TphhG5zd92-Rv8xCtAXGZ731qUQ&s",
+      "fuentePagina": "https://www.tortasgaby.com.pe/p/torta-de-maracuya-020010010010008?srsltid=AfmBOooMYUG3K1wplkua7iaPtaFVSY_Do-52RBhynaAc1vxWw4QqCFzX",
+      "titulo": "Torta de Maracuyá",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRw7mqDct4TphhG5zd92-Rv8xCtAXGZ731qUQ&s",
+      "original": "https://res.cloudinary.com/riqra/image/upload/w_656,h_656,c_limit,q_auto,f_auto/v1660930895/sellers/tortas-gaby/products/nkuy2ippvoyyyphkvslx.png"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/cake/qu/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSB-TbSTxeUzTjrfSpaKoCVR9NV5GF3LbHpmA&s",
+      "fuentePagina": "https://gingerskitchenn.com/la-mejor-torta-de-cumpleanos/",
+      "titulo": "LA MEJOR TORTA DE CUMPLEAÑOS",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSB-TbSTxeUzTjrfSpaKoCVR9NV5GF3LbHpmA&s",
+      "original": "https://i0.wp.com/gingerskitchenn.com/wp-content/uploads/2023/01/9327B9D0-8338-4B4A-9D92-5BBF520A39E6.jpeg?fit=%2C&ssl=1"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/cake/qu/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWdg0g8LLBW7KmPSeOqgxktDuU5J-RvEwKfw&s",
+      "fuentePagina": "https://amoradulce.com/producto/chocolate/",
+      "titulo": "Torta de Chocolate - AmoraDulce",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWdg0g8LLBW7KmPSeOqgxktDuU5J-RvEwKfw&s",
+      "original": "https://amoradulce.com/wp-content/uploads/2019/12/Torta-chocolate-1_04_13_2024-scaled.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/cake/qu/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2sJnPYcdFNzx8QRx13eQaRLV-8MchIh7UpA&s",
+      "fuentePagina": "https://www.wong.pe/torta-de-chantilly-20-porciones-63133/p?srsltid=AfmBOoruTsoiOADlqQczkcwed2pmgFtl_VXHYPe7Xm4acA7L_gq5ttrA",
+      "titulo": "Torta de Chantilly 20 Porciones",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2sJnPYcdFNzx8QRx13eQaRLV-8MchIh7UpA&s",
+      "original": "https://wongfood.vtexassets.com/arquivos/ids/723549-800-auto?v=638611869783800000&width=800&height=auto&aspect=true"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/cake/qu/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwXG9Ou41kxLFEegW4brYkZu--2lxG48cclQ&s",
+      "fuentePagina": "https://www.petite.pe/products/torta-de-chocolate-full-fudge",
+      "titulo": "Torta de chocolate full fudge – Petite.Pe",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwXG9Ou41kxLFEegW4brYkZu--2lxG48cclQ&s",
+      "original": "https://www.petite.pe/cdn/shop/files/torta-full-chocolate-1.jpg?v=1720804036&width=1000"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/cake/qu/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ77w1jx_1htU8X7caqtRrAPDUr_0gAz_e9Hw&s",
+      "fuentePagina": "https://www.metro.pe/torta-regalo-de-chocolate-20-porciones-566359/p?srsltid=AfmBOopz7b8YXBsMW-Jxk81zxXgW71y6SA88LKE8bwmJxCrH4UqzQj1N",
+      "titulo": "Torta Regalo de Chocolate 20 Porciones - Metro.pe",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ77w1jx_1htU8X7caqtRrAPDUr_0gAz_e9Hw&s",
+      "original": "https://metroio.vtexassets.com/arquivos/ids/541634-800-auto?v=638603121876200000&width=800&height=auto&aspect=true"
+    }
+  ]
+}

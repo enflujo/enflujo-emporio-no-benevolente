@@ -1,0 +1,71 @@
+{
+  "categoria": "chair",
+  "categoriaSlug": "chair",
+  "idioma": "am",
+  "nombreIdioma": "Amharic — አማርኛ",
+  "termino": "ወንበር",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:17:09.288Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "am",
+    "gl": "et"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=%E1%8B%88%E1%8A%95%E1%89%A0%E1%88%AD&hl=am&gl=et",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/chair/am/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-MyBP0myjL-O5fEYnLPCupBaDb0s64RbNJw&s",
+      "fuentePagina": "https://amharicteacher.com/dictionary/english/%E1%8B%88%E1%8A%95%E1%89%A0%E1%88%AD",
+      "titulo": "ወንበር (wenber) meaning in English - Amharic Dictionary",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-MyBP0myjL-O5fEYnLPCupBaDb0s64RbNJw&s",
+      "original": "https://d9seco0wfq8yu.cloudfront.net/dict/wenber.png"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/chair/am/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjIregUKD4-ynZVBONE89Wvjp-Rzzi15_Ukg&s",
+      "fuentePagina": "http://am.liangmufurniture.com/solid-white-oak-natural-dining-chair-modern-product/",
+      "titulo": "ቻይና ድፍን ነጭ ኦክ የተፈጥሮ መመገቢያ ወንበር ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjIregUKD4-ynZVBONE89Wvjp-Rzzi15_Ukg&s",
+      "original": "http://cdn.globalso.com/liangmufurniture/solid-white-oak-natural-dining-chair-modern-3.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/chair/am/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRL7w7zik1IZfry-W1zOZiNckvWOcfdK6h5GQ&s",
+      "fuentePagina": "https://jiji.com.et/bole/furniture/office-furniture-yabiro-wanebare-4aIuClPGqxjZ9whMqNTBfTkM.html",
+      "titulo": "Office Furniture የቢሮ ወንበር in Bole - Furniture, Homex ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRL7w7zik1IZfry-W1zOZiNckvWOcfdK6h5GQ&s",
+      "original": "https://pictures-ethiopia.jijistatic.com/5708202_NjIwLTEwMTEtMjkzMjUyNDE2OQ.webp"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/chair/am/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzLylO_nkOzEr0ilmFoanIi3OT-RY6gR3K0A&s",
+      "fuentePagina": "https://aarsunwoods.com/am/product-tag/wooden-armchair/",
+      "titulo": "የእንጨት ወንበር - Aarsun",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzLylO_nkOzEr0ilmFoanIi3OT-RY6gR3K0A&s",
+      "original": "https://aarsunwoods.com/wp-content/uploads/2022/03/Solid-Wood-Arm-Chair-ARMCHR-0034C-jpg.webp"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/chair/am/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCI6VnsidmWC6ftZAIAMwkWFBkREV2Yig_Tw&s",
+      "fuentePagina": "https://www.facebook.com/berhanu121921/posts/%E1%8B%A8%E1%88%9D%E1%8C%8D%E1%89%A5-%E1%8B%88%E1%8A%95%E1%89%A0%E1%88%AD-%E1%8A%A5%E1%8A%93-%E1%8C%A0%E1%88%A8%E1%89%A4%E1%8B%9B%E1%8A%A84-%E1%8B%88%E1%8A%95%E1%89%A0%E1%88%AD-%E1%8C%80%E1%88%9D%E1%88%AE09209045380955024292/342101471391022/",
+      "titulo": "የምግብ ወንበር እና ጠረቤዛ ከ4 ወንበር ጀምሮ ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCI6VnsidmWC6ftZAIAMwkWFBkREV2Yig_Tw&s",
+      "original": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=342101228057713"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/chair/am/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbK5Mu7Q7_3kS7yvIQ2tEu7z1RgNyZI2zdBA&s",
+      "fuentePagina": "https://jiji.com.et/arada/furniture/yaadaaraashe-wanebare-kVNeG0u1gyLXdiKd2kYfFjcx.html",
+      "titulo": "የአዳራሽ ወንበር",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbK5Mu7Q7_3kS7yvIQ2tEu7z1RgNyZI2zdBA&s",
+      "original": "https://pictures-ethiopia.jijistatic.com/8074813_NjIwLTExOTQtMzVjNWY2N2MxNQ.webp"
+    }
+  ]
+}

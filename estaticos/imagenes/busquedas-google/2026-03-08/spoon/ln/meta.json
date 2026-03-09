@@ -1,0 +1,71 @@
+{
+  "categoria": "spoon",
+  "categoriaSlug": "spoon",
+  "idioma": "ln",
+  "nombreIdioma": "Lingala",
+  "termino": "cuillère",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:09:12.651Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "fr",
+    "gl": "cd"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=cuill%C3%A8re&hl=fr&gl=cd",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/spoon/ln/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQERNJab9FaPcQsmOMatNWW_Bqnlvfayz18gg&s",
+      "fuentePagina": "https://fr.knivesandtools.be/fr/pt/-global-gt003.htm",
+      "titulo": "Global GT003 petite cuillère à café | Achetez à prix ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQERNJab9FaPcQsmOMatNWW_Bqnlvfayz18gg&s",
+      "original": "https://assets.katogroup.eu/i/katogroup/GL-GT003_01_global-koffielepel-klein-gl-gt003-d1"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/spoon/ln/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgM5vpBLHGq0UkqiInea0DwxnJOYkTOxgIOQ&s",
+      "fuentePagina": "https://www.lejeune.tm.fr/cuillere-de-service-ou-a-ragout-inox.html",
+      "titulo": "Cuillère de service ou à ragout inox - 23,5cm",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgM5vpBLHGq0UkqiInea0DwxnJOYkTOxgIOQ&s",
+      "original": "https://www.lejeune.tm.fr/media/catalog/product/cache/f2f4f978024a18bdc8affcd708beb594/1/1/111700_cuillere_a_ragout_et_de_service_inox_23.5cm_maisonlejeune.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/spoon/ln/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDETDKw2DCJRUn4iaSLmpvcdQBQKOK43gdxA&s",
+      "fuentePagina": "https://www.couteaux-nontron.fr/nontron-table/243-cuillere-a-soupe-nontron-frene-densifie-a-l-unite.html",
+      "titulo": "Cuillère à soupe Nontron | frêne densifié - à l'unité",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDETDKw2DCJRUn4iaSLmpvcdQBQKOK43gdxA&s",
+      "original": "https://www.couteaux-nontron.fr/1294-large_default/cuillere-a-soupe-nontron-frene-densifie-a-l-unite.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/spoon/ln/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQeAPXHKbElJ2NK0Umbz4tcTXGBCIF_Lj7qkQ&s",
+      "fuentePagina": "https://www.amazon.fr/Cuillere-Cuill%C3%A8re-Inoxydable-Funnydin-Lave-vaisselle/dp/B0B3R35FLR",
+      "titulo": "Funnydin Cuillère à Café et Thé - Set de 36 Petites ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQeAPXHKbElJ2NK0Umbz4tcTXGBCIF_Lj7qkQ&s",
+      "original": "https://m.media-amazon.com/images/I/51pb0lSZrML._AC_UF1000,1000_QL80_.jpg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/spoon/ln/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStgsaqgncgPmrmAeH0AHkDAjvhpeRohj4mCQ&s",
+      "fuentePagina": "https://www.francisbatt.com/produits/cuillere-de-table-inox-baguette?srsltid=AfmBOoqTgS0ijsZpQWnvXxBY95gcLk_IS2uT7UVhsTHBpXNLrtggKP0q",
+      "titulo": "Cuillère de table inox Baguette - BAGCT90 - Sélection ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStgsaqgncgPmrmAeH0AHkDAjvhpeRohj4mCQ&s",
+      "original": "https://www.francisbatt.com/ressources/references/miniatures/zoom1_cuillere-de-table-inox-baguette-505003.jpg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/spoon/ln/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWBCb7ElQtkRLAYH27JwpcCTnFlh_wi9MWAg&s",
+      "fuentePagina": "https://fr.wikipedia.org/wiki/Cuill%C3%A8re_%C3%A0_soupe",
+      "titulo": "Cuillère à soupe — Wikipédia",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWBCb7ElQtkRLAYH27JwpcCTnFlh_wi9MWAg&s",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Soup_Spoon.jpg/1280px-Soup_Spoon.jpg"
+    }
+  ]
+}

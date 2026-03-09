@@ -1,0 +1,71 @@
+{
+  "categoria": "mouse",
+  "categoriaSlug": "mouse",
+  "idioma": "ar",
+  "nombreIdioma": "العربية",
+  "termino": "فأرة الحاسوب",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:22:32.184Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "ar",
+    "gl": "eg"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=%D9%81%D8%A3%D8%B1%D8%A9%20%D8%A7%D9%84%D8%AD%D8%A7%D8%B3%D9%88%D8%A8&hl=ar&gl=eg",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/mouse/ar/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGcvfoHuHIdTP5wry8OANBDwMq_H2-2-DlyA&s",
+      "fuentePagina": "https://ar.wikipedia.org/wiki/%D9%81%D8%A3%D8%B1%D8%A9_%D8%AD%D8%A7%D8%B3%D9%88%D8%A8",
+      "titulo": "فأرة حاسوب - ويكيبيديا",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGcvfoHuHIdTP5wry8OANBDwMq_H2-2-DlyA&s",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/f/f5/ComputerMouseCloseup3.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/mouse/ar/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnMVlaWJzajvG-YRE7UNuNGDVzKxr4lZ-huw&s",
+      "fuentePagina": "https://www.marefa.org/%D9%81%D8%A3%D8%B1%D8%A9",
+      "titulo": "فأرة - المعرفة",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnMVlaWJzajvG-YRE7UNuNGDVzKxr4lZ-huw&s",
+      "original": "https://www.marefa.org/w/images/thumb/a/aa/3-Tastenmaus_Microsoft.jpg/300px-3-Tastenmaus_Microsoft.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/mouse/ar/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTebbF1TcFaF1hgpfuSgMRdlJbxL2qGDT3Jjw&s",
+      "fuentePagina": "https://primos.ps/Shop?DepartmentId=2&CategoryId=26",
+      "titulo": "المتجر / منتجات التصنيف فأرة الحاسوب - بريموس",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTebbF1TcFaF1hgpfuSgMRdlJbxL2qGDT3Jjw&s",
+      "original": "https://primos.ps/images/product/f875eaaa-80ca-49fb-b815-ccb456c86d2b.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/mouse/ar/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRaHNS6CUgJHxLYPFSIcFVIXM-BqNQUoyiPbA&s",
+      "fuentePagina": "https://ar.pngtree.com/freebackground/computer-mouse-object-pc-mouse-photo_4007100.html",
+      "titulo": "فأرة الحاسوب فأرة الحاسوب صورة والصورة للتنزيل المجاني - Pngtree",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRaHNS6CUgJHxLYPFSIcFVIXM-BqNQUoyiPbA&s",
+      "original": "https://png.pngtree.com/background/20250205/original/pngtree-computer-mouse-object-pc-mouse-photo-picture-image_4007100.jpg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/mouse/ar/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS10cWnKpt8OjVeelyRxLypf4WucdtsxGoOGA&s",
+      "fuentePagina": "https://ar.pngtree.com/freepng/red-computer-mouse-on-transparent-background_15458301.html",
+      "titulo": "فأرة الكمبيوتر الحمراء على خلفية شفافة, الفأر الأحمر, فأرة ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS10cWnKpt8OjVeelyRxLypf4WucdtsxGoOGA&s",
+      "original": "https://png.pngtree.com/png-vector/20240528/ourlarge/pngtree-red-computer-mouse-on-transparent-background-png-image_12529253.png"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/mouse/ar/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4ugDlNv9CeksqZhfmPESRHxgyRGOp6753Rg&s",
+      "fuentePagina": "https://www.alqabas.com/article/411378/",
+      "titulo": "دراسة: حركة «ماوس» الكمبيوتر.. تكشف كذب مستخدمها",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4ugDlNv9CeksqZhfmPESRHxgyRGOp6753Rg&s",
+      "original": "https://s.alqabas.com/wp-content/uploads/2017/06/811computer_mouse.jpg"
+    }
+  ]
+}

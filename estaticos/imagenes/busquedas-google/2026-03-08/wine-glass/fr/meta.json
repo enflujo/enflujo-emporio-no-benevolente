@@ -1,0 +1,71 @@
+{
+  "categoria": "wine glass",
+  "categoriaSlug": "wine-glass",
+  "idioma": "fr",
+  "nombreIdioma": "Français",
+  "termino": "verre à vin",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:06:47.750Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "fr",
+    "gl": "be"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=verre%20%C3%A0%20vin&hl=fr&gl=be",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/wine-glass/fr/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFB09kNnJfOhEEBVJX4Syf66GpREkpJ55xJA&s",
+      "fuentePagina": "https://www.camilleandco.be/fr/2558-atelier-du-vin-verre-vin-rouge-2pcs",
+      "titulo": "Atelier du Vin verre vin rouge 2PCS",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFB09kNnJfOhEEBVJX4Syf66GpREkpJ55xJA&s",
+      "original": "https://www.camilleandco.be/media/catalog/product/cache/8f1a8c26acd006b98160e896908eba3f/f/o/fontignac-verre-longdrink-4pcs-p2558-i16460.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/wine-glass/fr/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4-hN1ecK29-f1HHp_Qpw0xusmsZcC2ZODUg&s",
+      "fuentePagina": "https://www.vessiere-cristaux.fr/verre-a-vin-rouge/",
+      "titulo": "Top 20 Des Verres à Vin Rouge | Vessière Cristaux",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4-hN1ecK29-f1HHp_Qpw0xusmsZcC2ZODUg&s",
+      "original": "https://5b83a776.delivery.rocketcdn.me/wp-content/uploads/2022/09/verre-vin-rouge.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/wine-glass/fr/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBgM5B9gZk54gYiVhku-_iMsHCeqm5tX0Cyw&s",
+      "fuentePagina": "https://www.amazon.com.be/KADAX-Lot-verres-rouge-cristal/dp/B07Y8D23YF",
+      "titulo": "KADAX Lot de 6 verres à vin rouge en cristal - 450 ml - Jolis verres à vin  à tige haute - Verres à vin rouge - Pour la maison, les fêtes - Qualité ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBgM5B9gZk54gYiVhku-_iMsHCeqm5tX0Cyw&s",
+      "original": "https://m.media-amazon.com/images/I/71ApWQWtcSL.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/wine-glass/fr/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrFPv98UdZ2csdO2y6E9W05ap25-KaA_Fpvw&s",
+      "fuentePagina": "https://www.camilleandco.be/fr/2557-atelier-du-vin-verre-vin-blanc-2pcs",
+      "titulo": "Atelier du Vin verre vin blanc 2PCS",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrFPv98UdZ2csdO2y6E9W05ap25-KaA_Fpvw&s",
+      "original": "https://www.camilleandco.be/media/catalog/product/cache/8f1a8c26acd006b98160e896908eba3f/f/o/fontignac-verre-longdrink-4pcs-p2557-i16457.jpg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/wine-glass/fr/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQN-abt1U3rnrV0FuijP6h3eSJuIipL9yb7bA&s",
+      "fuentePagina": "https://www.cadeauxfolies.be/verre-a-vin-personnalise-avec-nom-store-13?srsltid=AfmBOordLuhoiFVjILO7llV4YOvISGlBkzjn2_AZkEjtFD-9YOGfJH_Y",
+      "titulo": "Verre à vin personnalisé avec nom",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQN-abt1U3rnrV0FuijP6h3eSJuIipL9yb7bA&s",
+      "original": "https://www.cadeauxfolies.be/media/catalog/product/cache/062e45dbf31eec6e301505cbcbf442f4/w/w/wwnaxt_v1_fr_1000x1000px.jpg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/wine-glass/fr/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpsH-fWZ6MlF0EP-EFPdUpQoteEmc_rbtsVA&s",
+      "fuentePagina": "https://www.options.be/fr-be/verre-a-pied-a-vin-vintage-style-cristal-o6-9-cm-h12-15cm-15-20cl.html",
+      "titulo": "Location Verre à pied à vin Vintage style cristal - Options",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpsH-fWZ6MlF0EP-EFPdUpQoteEmc_rbtsVA&s",
+      "original": "https://www.options.be/media/catalog/product/cache/23a39abc451cd4fdcc5d36edc81a8436/0/0/0000026161_gd_2_1.png"
+    }
+  ]
+}

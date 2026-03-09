@@ -1,0 +1,71 @@
+{
+  "categoria": "elephant",
+  "categoriaSlug": "elephant",
+  "idioma": "pt",
+  "nombreIdioma": "Português",
+  "termino": "elefante",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T20:54:05.817Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "pt",
+    "gl": "br"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=elefante&hl=pt&gl=br",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/elephant/pt/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdz27KODNdLp9nvfPrhDXUrZxWsmbeEa_Yyg&s",
+      "fuentePagina": "https://pt.wikipedia.org/wiki/Elefante-africano",
+      "titulo": "Elefante-africano – Wikipédia, a enciclopédia livre",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdz27KODNdLp9nvfPrhDXUrZxWsmbeEa_Yyg&s",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Elephant_near_ndutu.jpg/330px-Elephant_near_ndutu.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/elephant/pt/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgASBykd3zZT6RNLEnVxHSqhu50ElXFjB1Tg&s",
+      "fuentePagina": "https://br.freepik.com/fotos-vetores-gratis/elefante-desenho",
+      "titulo": "Elefante desenho Imagens – Download Grátis no Freepik",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgASBykd3zZT6RNLEnVxHSqhu50ElXFjB1Tg&s",
+      "original": "https://img.freepik.com/vetores-gratis/personagem-de-desenho-animado-de-elefante-fofo_1308-146090.jpg?semt=ais_hybrid&w=740&q=80"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/elephant/pt/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQM9zAvkehav5tz2LmhlXhegYmBcD0xxPaJzQ&s",
+      "fuentePagina": "https://www.infoescola.com/mamiferos/elefante-asiatico/",
+      "titulo": "Elefante asiático - características, fotos, ameaças ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQM9zAvkehav5tz2LmhlXhegYmBcD0xxPaJzQ&s",
+      "original": "https://www.infoescola.com/wp-content/uploads/2016/12/elefante-asiatico-198685685.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/elephant/pt/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJ4gKbPflhZPWHrbG3To966R1D1E5RbyjBXg&s",
+      "fuentePagina": "https://pt.wikipedia.org/wiki/Elefante",
+      "titulo": "Elefante – Wikipédia, a enciclopédia livre",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJ4gKbPflhZPWHrbG3To966R1D1E5RbyjBXg&s",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/African_Bush_Elephant.jpg/250px-African_Bush_Elephant.jpg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/elephant/pt/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2RKCZMGwdiBLaTeSnnv9AmmTRPfnz668dWg&s",
+      "fuentePagina": "https://www.biologianet.com/biodiversidade/elefante.htm",
+      "titulo": "Elefante: características, espécies, curiosidades - Biologia Net",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2RKCZMGwdiBLaTeSnnv9AmmTRPfnz668dWg&s",
+      "original": "https://static.biologianet.com/2020/05/elefante-africano.jpg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/elephant/pt/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQb0pyQ5K6rL3EbuJJIM8CuX8Fl3t67-brN9A&s",
+      "fuentePagina": "https://jovempan.com.br/edicase/7-curiosidades-impressionantes-sobre-os-elefantes.html",
+      "titulo": "7 curiosidades impressionantes sobre os elefantes | Jovem Pan",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQb0pyQ5K6rL3EbuJJIM8CuX8Fl3t67-brN9A&s",
+      "original": "https://jpimg.com.br/uploads/2024/09/7-curiosidades-impressionantes-sobre-os-elefantes.jpg"
+    }
+  ]
+}

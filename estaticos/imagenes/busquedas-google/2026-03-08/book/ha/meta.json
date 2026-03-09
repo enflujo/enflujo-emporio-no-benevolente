@@ -1,0 +1,71 @@
+{
+  "categoria": "book",
+  "categoriaSlug": "book",
+  "idioma": "ha",
+  "nombreIdioma": "Hausa",
+  "termino": "littafi",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:28:15.580Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "ha",
+    "gl": "ng"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=littafi&hl=ha&gl=ng",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/book/ha/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKJQYmo8msMZ8Yva8uIofaeoPaKPPj07CRYQ&s",
+      "fuentePagina": "https://tv.arewa24.com/littafi",
+      "titulo": "Littafi - AREWA24 On Demand",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKJQYmo8msMZ8Yva8uIofaeoPaKPPj07CRYQ&s",
+      "original": "https://vhx.imgix.net/arewa24/assets/177bfb0e-43cf-468d-894d-96048430b479.jpg?auto=format%2Ccompress&fit=crop&h=360&q=70&w=640"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/book/ha/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLCo7xfa5KvwKyWMqeqHKMzC964Ad6yuJYQw&s",
+      "fuentePagina": "https://archive.org/details/marainiya",
+      "titulo": "Littafi na Daya - Marainiya : Bukar Usman OON : Free ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLCo7xfa5KvwKyWMqeqHKMzC964Ad6yuJYQw&s",
+      "original": "https://archive.org/services/img/marainiya/full/pct:500/0/default.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/book/ha/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAbd4fNWshjwkc2cHofbfjdAIYcTpnmLTxpQ&s",
+      "fuentePagina": "https://ha.wikipedia.org/wiki/Littafi",
+      "titulo": "Littafi - Wikipedia",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAbd4fNWshjwkc2cHofbfjdAIYcTpnmLTxpQ&s",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/c/c7/Americanstudbookvolume2open.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/book/ha/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRCGP_T_BDYuZDSfgFrwZFcc1vOSWoCuqCJA&s",
+      "fuentePagina": "https://www.facebook.com/groups/636096484518673/posts/1102325521229098/",
+      "titulo": "Hausa webseries Littafi available on Youtube",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRCGP_T_BDYuZDSfgFrwZFcc1vOSWoCuqCJA&s",
+      "original": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=24281606071448028"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/book/ha/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTw2FYCPKKf2ZVmmGZkyhTDmr2I-QQrD7L9cQ&s",
+      "fuentePagina": "https://hausanovel.com.ng/ciki-da-gaskiya-littafi-na-daya-complete-hausa-novels",
+      "titulo": "Ciki Da Gaskiya Littafi Na Daya Complete Hausa Novels ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTw2FYCPKKf2ZVmmGZkyhTDmr2I-QQrD7L9cQ&s",
+      "original": "https://hausanovel.com.ng/uploads/images/202602/image_870x_699e045daed60.jpg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/book/ha/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTb9u-m-E5RwVkcZcIYKRHRAepMiwc7Xgb8Hg&s",
+      "fuentePagina": "https://www.instagram.com/p/DMPQ4j1tx2b/",
+      "titulo": "Kasaitaccen shirin LITTAFI, labari ne mai cike da rikici ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTb9u-m-E5RwVkcZcIYKRHRAepMiwc7Xgb8Hg&s",
+      "original": "https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3679233676102016411"
+    }
+  ]
+}

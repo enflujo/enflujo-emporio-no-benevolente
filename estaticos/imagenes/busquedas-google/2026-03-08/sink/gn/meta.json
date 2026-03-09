@@ -1,0 +1,71 @@
+{
+  "categoria": "sink",
+  "categoriaSlug": "sink",
+  "idioma": "gn",
+  "nombreIdioma": "Guaraní",
+  "termino": "pileta",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:27:10.811Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "es",
+    "gl": "py"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=pileta&hl=es&gl=py",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/sink/gn/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRp8SRbrDi5rkAScD5VgDVN2u3cFo1DY1bZTQ&s",
+      "fuentePagina": "https://grutteronline.casagrutter.com.py/producto/pileta-400-lt-1-15x1-06x33-cm-ref1000/",
+      "titulo": "PILETA 400 LT 1.15X1.06X33 CM REF:1000",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRp8SRbrDi5rkAScD5VgDVN2u3cFo1DY1bZTQ&s",
+      "original": "https://grutteronline.casagrutter.com.py/wp-content/uploads/imagenes/7896020610007.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/sink/gn/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAiexthHPs9hGLeTOJDgxZATVubjksioYdqQ&s",
+      "fuentePagina": "https://www.osmgp.gov.ar/osse/osse-informo-sobre-la-declaracion-de-piletas-de-natacion/",
+      "titulo": "OSSE informó sobre la declaración de piletas de natación ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAiexthHPs9hGLeTOJDgxZATVubjksioYdqQ&s",
+      "original": "https://www.osmgp.gov.ar/osse/wp-content/uploads/2020/10/piscinas_7.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/sink/gn/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpSDnj5BNSaJtZlcFwWZN2xECE8y_Wf3cU2g&s",
+      "fuentePagina": "https://www.easy.com.ar/pileta-lona-445x225x80cm-pelopincho-107/p?srsltid=AfmBOopcp1j3xLis9Xji7KZwzfil35RwEIpBolWJsK1PpsfOERbpOQXQ",
+      "titulo": "Pileta de Lona 8000 Lts 80X225X445 Cm 1076 Pelopincho - Easy",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpSDnj5BNSaJtZlcFwWZN2xECE8y_Wf3cU2g&s",
+      "original": "https://arcencohogar.vtexassets.com/arquivos/ids/271950-800-800?v=637651565902100000&width=800&height=800&aspect=true"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/sink/gn/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7D5piEc4_XiNMShNKi2H1X5Bnr2w_B-lZYg&s",
+      "fuentePagina": "https://mardelnorte.com.py/products/pileta-inflable-rectangular?srsltid=AfmBOorPsjJgo0I9zz9MNCnD8Z2XWv-c7OXajJ0kmTPo5rS9paBcVLCu",
+      "titulo": "PILETA INFLABLE RECTANGULAR 228x148x47 CM",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7D5piEc4_XiNMShNKi2H1X5Bnr2w_B-lZYg&s",
+      "original": "https://mardelnorte.com.py/cdn/shop/files/IGPI51228-1.jpg?v=1735235760&width=1500"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/sink/gn/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1lUVZ-71E5gtEC4rmYNNbQWIgk8vlYikWbg&s",
+      "fuentePagina": "https://www.arquimaster.com.ar/web/como-preparar-tu-pileta-para-el-verano/",
+      "titulo": "Cómo preparar tu pileta para el verano - Arquimaster",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1lUVZ-71E5gtEC4rmYNNbQWIgk8vlYikWbg&s",
+      "original": "https://www.arquimaster.com.ar/web/wp-content/uploads/2018/10/preparar_pileta_sinteplast1.jpg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/sink/gn/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSC7VhBXmrqU54lJC7GZF2oy74axDr1nhzMJw&s",
+      "fuentePagina": "https://holapacman.com.ar/piletas/74-pileta-estructural-rectangular-de-4600-litros-3m-de-largo-x-22m-de-ancho-diseno-olas-sol-de-verano.html",
+      "titulo": "Viví un Verano Único con la Pileta Sol de Verano S300!\"",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSC7VhBXmrqU54lJC7GZF2oy74axDr1nhzMJw&s",
+      "original": "https://holapacman.com.ar/335-large_default/pileta-estructural-rectangular-de-4600-litros-3m-de-largo-x-22m-de-ancho-diseno-olas-sol-de-verano.jpg"
+    }
+  ]
+}

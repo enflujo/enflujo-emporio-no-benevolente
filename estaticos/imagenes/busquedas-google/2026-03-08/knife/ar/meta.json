@@ -1,0 +1,71 @@
+{
+  "categoria": "knife",
+  "categoriaSlug": "knife",
+  "idioma": "ar",
+  "nombreIdioma": "العربية",
+  "termino": "سكين",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:08:54.054Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "ar",
+    "gl": "eg"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=%D8%B3%D9%83%D9%8A%D9%86&hl=ar&gl=eg",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/knife/ar/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpJsFALaJpX70hPkyKM2GwEIo1evvAu9l7QA&s",
+      "fuentePagina": "https://www.amazon.eg/%D8%B1%D9%88%D9%8A%D8%A7%D9%84-%D9%81%D9%88%D8%B1%D8%AF-RF1801-CK-%D8%B3%D9%83%D9%8A%D9%86-%D8%A7%D9%84%D8%B4%D9%8A%D9%81%D8%8C/dp/B07PKD94LN",
+      "titulo": "سكين الشيف، 8 انش: اشتري اون لاين بأفضل الاسعار في مصر - سوق ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpJsFALaJpX70hPkyKM2GwEIo1evvAu9l7QA&s",
+      "original": "https://m.media-amazon.com/images/I/71EzgEDKd-L._AC_UF894,1000_QL80_.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/knife/ar/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ38d-VGT0DDaoZx_xPJdJ_qWgA0EzPHpyZDw&s",
+      "fuentePagina": "https://www.ikea.com/eg/ar/p/vardagen-cooks-knife-dark-grey-40294722/",
+      "titulo": "اشتر VARDAGEN سكين طبخ 20 سم اونلاين في مصر - IKEA",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ38d-VGT0DDaoZx_xPJdJ_qWgA0EzPHpyZDw&s",
+      "original": "https://www.ikea.com/eg/ar/images/products/vardagen-cooks-knife-dark-grey__0710384_pe727512_s5.jpg?f=s"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/knife/ar/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQU6rCbdsIeFNjMjUY7eX3Q3K8Azk4YdJ66jw&s",
+      "fuentePagina": "https://alsanidi.com.sa/ar/%D8%B3%D9%83%D9%8A%D9%86-%D8%B5%D9%8A%D8%AF-%D9%85%D8%B7%D9%88%D8%A7%D9%87-%D9%88%D8%B3%D8%B7-%D9%85%D8%AA%D9%8A%D9%86-%D9%88%D8%B7%D9%88%D9%8A%D9%84-%D8%A7%D9%84%D8%B9%D9%85%D8%B1%D8%8C-%D8%A2%D9%85%D9%86-%D9%88%D8%B3%D9%87%D9%84-%D8%A7%D9%84%D8%AD%D9%85%D9%84%D8%8C-%D9%82%D8%A8%D8%B6%D8%A9-%D9%85%D8%B1%D9%8A%D8%AD%D8%A9-%D9%88%D8%A3%D9%86%D9%8A%D9%82%D8%A9%D8%8C%D8%B6%D9%85%D8%A7%D9%86-%D8%B3%D9%86%D8%AA%D8%A7%D9%86/p1111669752?srsltid=AfmBOooeKLd1wxT6wC0aVxwz8hk80n1Z5H0GyKR_PA_qbW2Yx51mrHCf",
+      "titulo": "سكين صيد مطواه وسط- متين وطويل العمر، آمن وسهل الحمل، قبضة ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQU6rCbdsIeFNjMjUY7eX3Q3K8Azk4YdJ66jw&s",
+      "original": "https://cdn.salla.sa/pQXGDP/0db7dbe1-f9d4-4399-b72e-695bcd45048b-1000x1000-HHyrcY97CZLKOKj3eRGKIaL9XOyn0g9rrFDYLUkE.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/knife/ar/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCL2BB7ETK1wROTXz5OR95Gxzl2_D1rB29uQ&s",
+      "fuentePagina": "https://bbqhouse.shop/ar/product/%D8%B3%D9%83%D9%8A%D9%86-%D8%AD%D8%A7%D8%AF-%D9%83%D8%A8%D9%8A%D8%B1-%D8%A8%D9%85%D9%82%D8%A8%D8%B6-%D8%B3%D8%AA%D8%A7%D9%86%D9%84%D8%B3/",
+      "titulo": "سكين حاد كبير بمقبض ستانلس | باربيكيو هاوس",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCL2BB7ETK1wROTXz5OR95Gxzl2_D1rB29uQ&s",
+      "original": "https://bbqhouse.shop/wp-content/uploads/2023/09/NW1101.jpg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/knife/ar/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAN0O6MuARqPazC0kpMk113qJQuL0ra5t8Bw&s",
+      "fuentePagina": "https://www.ikea.com/eg/ar/p/vardagen-vegetable-knife-dark-grey-60294716/",
+      "titulo": "VARDAGEN سكين خضروات, رمادي غامق, 16 سم - IKEA",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAN0O6MuARqPazC0kpMk113qJQuL0ra5t8Bw&s",
+      "original": "https://www.ikea.com/eg/ar/images/products/vardagen-vegetable-knife-dark-grey__0710386_pe727514_s5.jpg?f=s"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/knife/ar/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8GpG8R_BOEnD37lKaqaTVDZQcfRq_Z_mhpw&s",
+      "fuentePagina": "https://almarbae.com/ar/raOmPz?srsltid=AfmBOortM16yiLzHlGH12caahuX0LXtsaIzI-Z5FeO8owZq-V32Zl8hJ",
+      "titulo": "سكين سويسري ابو طير - متجر المربعي لأجود أنواع الأواني ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8GpG8R_BOEnD37lKaqaTVDZQcfRq_Z_mhpw&s",
+      "original": "https://cdn.salla.sa/BlpDY/Gs2IAn6Jw3MnfMyqyUW7xKYckzeO5pvI83hvhZj6.png"
+    }
+  ]
+}

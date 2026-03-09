@@ -1,0 +1,71 @@
+{
+  "categoria": "carrot",
+  "categoriaSlug": "carrot",
+  "idioma": "kg",
+  "nombreIdioma": "Kikongo",
+  "termino": "karoti",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:13:53.143Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "fr",
+    "gl": "cd"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=karoti&hl=fr&gl=cd",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/carrot/kg/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsMqtkyufdhF7mgqIUmiCiQFvT11kG6MIsVA&s",
+      "fuentePagina": "https://en.wiktionary.org/wiki/karoti",
+      "titulo": "karoti - Wiktionary, the free dictionary",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsMqtkyufdhF7mgqIUmiCiQFvT11kG6MIsVA&s",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Carrots.JPG/1280px-Carrots.JPG"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/carrot/kg/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnQjaBqd_9pwCEhtdIpigU3w9UjbldG1uFzA&s",
+      "fuentePagina": "https://www.kigalitoday.com/amakuru/utuntu-n-utundi/article/karoti-ingirakamaro-ku-buzima-bwiza-bw-amaso-amenyo-umutima-n-amagufa",
+      "titulo": "Karoti: Ingirakamaro ku buzima bwiza bw'amaso, amenyo ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnQjaBqd_9pwCEhtdIpigU3w9UjbldG1uFzA&s",
+      "original": "https://www.kigalitoday.com/IMG/jpg/karoti_ok.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/carrot/kg/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSiWZSE7eiKmVKBPivbgl7qkVXbhBOmHFGkxg&s",
+      "fuentePagina": "https://expoka.com/product/karoti-carrot-kg-2",
+      "titulo": "Karoti, Carrot /Kg",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSiWZSE7eiKmVKBPivbgl7qkVXbhBOmHFGkxg&s",
+      "original": "https://expoka.com/public/uploads/all/a26UAoqsr8zoc60WosyMALr90LEgYgDRHe0X5wKz.webp"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/carrot/kg/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrODzjse_pGUkmcXfpUbPjBaS2icdZnS5TDA&s",
+      "fuentePagina": "https://rw.wikipedia.org/wiki/Ikaroti",
+      "titulo": "Ikaroti - Wikipedia",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrODzjse_pGUkmcXfpUbPjBaS2icdZnS5TDA&s",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Carrots_-_Carota_-_Wortels_-_Geze_-_%E8%83%A1%E8%90%9D%E5%8D%9C-_zanahoria_-_carotte_-_%E3%83%8B%E3%83%B3%E3%82%B8%E3%83%B3_-_Flickr_-_color_line.jpg/250px-Carrots_-_Carota_-_Wortels_-_Geze_-_%E8%83%A1%E8%90%9D%E5%8D%9C-_zanahoria_-_carotte_-_%E3%83%8B%E3%83%B3%E3%82%B8%E3%83%B3_-_Flickr_-_color_line.jpg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/carrot/kg/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfuyKexQTzAQtDARA8Nlwzh2lvLdFVTnvMTw&s",
+      "fuentePagina": "https://migro.co.rw/product/carrottes-carottes-karoti-1",
+      "titulo": "Carrottes/ Carottes/ Karoti | MIGRO Online Shop | in Kigali ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfuyKexQTzAQtDARA8Nlwzh2lvLdFVTnvMTw&s",
+      "original": "https://migro.co.rw/app/upload/images/1294-2021-03-23.jpg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/carrot/kg/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwkQPlF9oJeBajrtjaYeC5EHQzzQitQnjNtQ&s",
+      "fuentePagina": "https://umutihealth.com/akamaro-ka-karoti-ku-buzima/",
+      "titulo": "Karoti ibyiza, ibiyigize n' ibyo zimarira umubiri wacu",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwkQPlF9oJeBajrtjaYeC5EHQzzQitQnjNtQ&s",
+      "original": "https://umutihealth.com/wp-content/uploads/2016/09/karoti-.jpg"
+    }
+  ]
+}

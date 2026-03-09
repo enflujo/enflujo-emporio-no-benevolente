@@ -1,0 +1,71 @@
+{
+  "categoria": "boat",
+  "categoriaSlug": "boat",
+  "idioma": "am",
+  "nombreIdioma": "Amharic — አማርኛ",
+  "termino": "ጀልባ",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T20:45:51.250Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "am",
+    "gl": "et"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=%E1%8C%80%E1%88%8D%E1%89%A3&hl=am&gl=et",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/boat/am/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRoV-Z3TzOvUf-kRdUGnMH-9SF31AZT3Mjz6w&s",
+      "fuentePagina": "https://amharicteacher.com/dictionary/english/%E1%8C%80%E1%88%8D%E1%89%A3",
+      "titulo": "ጀልባ (jelba) meaning in English - Amharic Dictionary",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRoV-Z3TzOvUf-kRdUGnMH-9SF31AZT3Mjz6w&s",
+      "original": "https://d9seco0wfq8yu.cloudfront.net/dict/jelba.png"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/boat/am/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2j-XpZOYmQm15ZXAuDOsAyWvifoQ8wRV-OA&s",
+      "fuentePagina": "https://am.al-ain.com/article/many-feared-dead-after-a-boat-carrying-150-migrants-capsized-cost-of-yemen",
+      "titulo": "በየመን 150 ስደተኞችን የያዘ ጀልባ መስጠሙን ተከትሎ ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2j-XpZOYmQm15ZXAuDOsAyWvifoQ8wRV-OA&s",
+      "original": "https://cdn.al-ain.com/images/2021/6/15/243-160328-salonn_700x400.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/boat/am/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0KHvJgFJZFlfkprGKbcSWLVdmAHEQDC3P1g&s",
+      "fuentePagina": "https://www.bbc.com/amharic/articles/c93yzdy4ynko",
+      "titulo": "በጫሞ ሐይቅ ላይ ጀልባ ተገልብጦ 13 ሰዎች የደረሱበት ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0KHvJgFJZFlfkprGKbcSWLVdmAHEQDC3P1g&s",
+      "original": "https://ichef.bbci.co.uk/ace/ws/640/cpsprodpb/e518/live/e8f4d790-8d68-11ef-b8e0-4b19c1c6fcc7.jpg.webp"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/boat/am/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5XSr5-W0-Hvb1NhSYLW0u4hGF2SRkErO7Hg&s",
+      "fuentePagina": "https://www.gospelboat.com/am/products/Catamaran-Boat.html",
+      "titulo": "ቻይና ካታማራን ጀልባ አምራቾች፣ ካታማራን ጀልባ ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5XSr5-W0-Hvb1NhSYLW0u4hGF2SRkErO7Hg&s",
+      "original": "https://iirorwxhnkqplq5m-static.micyjz.com/cloud/lkBplKnilnSRkklpomjmip/1-480-360.jpg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/boat/am/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAJyGcGOZFoWPWVZkbdammLDXt74jRkrYuNA&s",
+      "fuentePagina": "https://www.bbc.com/tigrinya/news-57481084",
+      "titulo": "የመን፡ ስደተኛታት ዝጸዓነት ጀልባ ብምጥሓላ ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAJyGcGOZFoWPWVZkbdammLDXt74jRkrYuNA&s",
+      "original": "https://ichef.bbci.co.uk/ace/ws/640/cpsprodpb/16DA3/production/_118930639_gettyimages-610523476.jpg.webp"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/boat/am/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpXROwAM7fMN_AtW3C6rCCamPXFuUl8KJKxw&s",
+      "fuentePagina": "https://www.gospelboat.com/am/products/Luxury-Yacht-Boat.html",
+      "titulo": "የቻይና የቅንጦት ጀልባ ጀልባ አምራቾች፣ የቅንጦት ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpXROwAM7fMN_AtW3C6rCCamPXFuUl8KJKxw&s",
+      "original": "https://iirorwxhnkqplq5m-static.micyjz.com/cloud/lrBplKnilnSRkkipommjip/7-5m-easy-craft-1-fengmian-480-360.jpg"
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "categoria": "traffic light",
+  "categoriaSlug": "traffic-light",
+  "idioma": "am",
+  "nombreIdioma": "Amharic — አማርኛ",
+  "termino": "የትራፊክ መብራት",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T20:46:31.784Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "am",
+    "gl": "et"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=%E1%8B%A8%E1%89%B5%E1%88%AB%E1%8D%8A%E1%8A%AD%20%E1%88%98%E1%89%A5%E1%88%AB%E1%89%B5&hl=am&gl=et",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/traffic-light/am/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzDIsSfJAMVJkUKXgY8C-g_M-qYS_AZyWRLQ&s",
+      "fuentePagina": "https://www.facebook.com/TrafficSafetyProgramEthiopia/posts/%E1%8B%A8%E1%89%B5%E1%88%AB%E1%8D%8A%E1%8A%AD-%E1%88%98%E1%89%A5%E1%88%AB%E1%89%B5-%E1%88%9D%E1%88%8D%E1%8A%AD%E1%89%B6%E1%89%BD%E1%8A%95-%E1%8B%AB%E1%8B%8D%E1%89%83%E1%88%89%E1%89%80%E1%8B%A9-%E1%88%98%E1%89%A5%E1%88%AB%E1%89%B5-%E1%8A%A5%E1%88%9A%E1%8B%AB%E1%88%98%E1%88%8B%E1%8A%AD%E1%89%B0%E1%8B%8D-%E1%88%98%E1%8A%AA%E1%8A%93%E1%8B%8E%E1%89%BD-%E1%88%98%E1%89%86%E1%88%9D-%E1%8A%A5%E1%8A%95%E1%8B%B3%E1%88%88%E1%89%A3%E1%89%B8%E1%8B%8D-%E1%88%B2%E1%88%86%E1%8A%95-%E1%8A%A0%E1%88%A8%E1%8A%95%E1%8C%93%E1%8B%B4%E1%8B%8D-%E1%8B%B0%E1%8C%8D%E1%88%9E-%E1%8B%AD%E1%8C%93%E1%8B%99-%E1%8B%A8%E1%88%9A%E1%88%88%E1%8B%8D/2424875707532493/",
+      "titulo": "የትራፊክ መብራት ምልክቶችን ያውቃሉ። ቀዩ መብራት ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzDIsSfJAMVJkUKXgY8C-g_M-qYS_AZyWRLQ&s",
+      "original": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=2424875564199174"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/traffic-light/am/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSb_4XWaHO1OsXeDMnW3LXNo0S77aerJpgv2A&s",
+      "fuentePagina": "https://www.facebook.com/photo.php?fbid=662169641930948&set=a.515423334020520&id=100066585733430",
+      "titulo": "Safe - የትራፊክ መብራት እና ትርጉሙ | Facebook",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSb_4XWaHO1OsXeDMnW3LXNo0S77aerJpgv2A&s",
+      "original": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=662169641930948"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/traffic-light/am/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXv4fcI5bP8oZRJgBi2gJ5FdLlfWQvo0H4NQ&s",
+      "fuentePagina": "https://www.facebook.com/photo.php?fbid=770117016389499&set=a.776284517221367&id=100045194780504",
+      "titulo": "Sodere - አስቂኝ የትራፊክ መብራት ምልክቶች: ኢትዮጵያ ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXv4fcI5bP8oZRJgBi2gJ5FdLlfWQvo0H4NQ&s",
+      "original": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=770117016389499"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/traffic-light/am/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTV_RtLA39bTfOJNk4H8EsTESlO5P7gsyKkeQ&s",
+      "fuentePagina": "https://www.facebook.com/photo.php?fbid=1901755590134416&set=a.459302002905261&id=100064763946652",
+      "titulo": "ጉድ - ይህ የትራፊክ መብራት ነው ባንዲራ መስሏቹ ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTV_RtLA39bTfOJNk4H8EsTESlO5P7gsyKkeQ&s",
+      "original": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=1901755590134416"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/traffic-light/am/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-i7uQYYKmUyi_rf1_REXtQlrgk2OFFmB4Ag&s",
+      "fuentePagina": "https://am.yzqxtraffic.com/traffic-light-product/",
+      "titulo": "የጅምላ የትራፊክ መብራት አምራች እና አቅራቢ | Qixiang",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-i7uQYYKmUyi_rf1_REXtQlrgk2OFFmB4Ag&s",
+      "original": "https://www.yzqxtraffic.com/uploads/02RX300-3-ZGSM-2-RGD.jpg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/traffic-light/am/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNcffVaNEp8FbYKXn2JlMV0V2K44fKqoMsqg&s",
+      "fuentePagina": "https://am.yzqxtraffic.com/red-and-green-full-screen-lights-product/",
+      "titulo": "የጅምላ ከፍተኛ ኃይል ያለው ሙሉ ስክሪን የትራፊክ ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNcffVaNEp8FbYKXn2JlMV0V2K44fKqoMsqg&s",
+      "original": "https://cdn.globalso.com/yzqxtraffic/Red-And-Green-Full-Screen-Lights.jpg"
+    }
+  ]
+}

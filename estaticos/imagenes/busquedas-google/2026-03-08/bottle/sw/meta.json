@@ -1,0 +1,71 @@
+{
+  "categoria": "bottle",
+  "categoriaSlug": "bottle",
+  "idioma": "sw",
+  "nombreIdioma": "Kiswahili",
+  "termino": "chupa",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:06:01.756Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "sw",
+    "gl": "tz"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=chupa&hl=sw&gl=tz",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bottle/sw/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpY4SS_-z5fKM5LGnQpzg9IMI3gLb1SLUaSA&s",
+      "fuentePagina": "https://en.wikipedia.org/wiki/Chupa_(film)",
+      "titulo": "Chupa (film) - Wikipedia",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpY4SS_-z5fKM5LGnQpzg9IMI3gLb1SLUaSA&s",
+      "original": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a8/Chupa_movie_poster.jpg/250px-Chupa_movie_poster.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bottle/sw/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSLJOhH6LdsNCDklnhnjwBmRQAtGKGhOlK5A&s",
+      "fuentePagina": "https://en.wikipedia.org/wiki/Chupa_Chups",
+      "titulo": "Chupa Chups - Wikipedia",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSLJOhH6LdsNCDklnhnjwBmRQAtGKGhOlK5A&s",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/8/87/Chupa_Chups_logo.svg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bottle/sw/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZRfNIQb2SBi5hpfzxT2yiJM3IHikQz0RrlQ&s",
+      "fuentePagina": "https://media.netflix.com/en/only-on-netflix/80992263",
+      "titulo": "Chupa | Netflix Media Center",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZRfNIQb2SBi5hpfzxT2yiJM3IHikQz0RrlQ&s",
+      "original": "https://dnm.nflximg.net/api/v6/mAcAr9TxZIVbINe88xb3Teg5_OA/AAAABcOehoLG3_ooJGyV20t9hhTM7UkeLfcG5nWnA5FTj0do9XY4WrMf7rIwzFVVzrg9YhdmZDyfyvElPHtQW5nuG3SdyfhfC3HK6L6F.jpg?r=aae"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bottle/sw/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTu57CVjlqtDonFvIznL1Ps3BgkYTZuQ7qjNw&s",
+      "fuentePagina": "https://www.amazon.in/Chupa/dp/B09KY926LW",
+      "titulo": "Chupa [DVD] [Region Free]: Amazon.in: Movies & TV Shows",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTu57CVjlqtDonFvIznL1Ps3BgkYTZuQ7qjNw&s",
+      "original": "https://m.media-amazon.com/images/I/91vFiBaaHHL._AC_UF1000,1000_QL80_.jpg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bottle/sw/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwkzUlEna4VoXlpnNCb4Fx1f0D2wvt3qiviw&s",
+      "fuentePagina": "https://www.ebay.com/itm/293822012835",
+      "titulo": "Chupa Chups Lollipops strawberry, cherry, Orange, Raspberry, Cola 12g Treat",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwkzUlEna4VoXlpnNCb4Fx1f0D2wvt3qiviw&s",
+      "original": "https://i.ebayimg.com/images/g/rlcAAOSwaxJfqR53/s-l1200.jpg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bottle/sw/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-30HQrz-pfn2E3xQY8F0Y9ifPE_sT8bwWzQ&s",
+      "fuentePagina": "https://sweetz-united.de/en/products/chupa-chups-strawberry-lovers?srsltid=AfmBOopKf5guWtMCBeRp-cQdIEGbpltgYXSU9NuTiNBBnPfw62-J9w2i",
+      "titulo": "Chupa Chups Strawberry Lovers – Sweetz United",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-30HQrz-pfn2E3xQY8F0Y9ifPE_sT8bwWzQ&s",
+      "original": "https://sweetz-united.de/cdn/shop/files/chupaChupsStrawberryLovers.png?v=1730377982&width=1214"
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "categoria": "surfboard",
+  "categoriaSlug": "surfboard",
+  "idioma": "nah",
+  "nombreIdioma": "Náhuatl",
+  "termino": "surfboard",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:05:09.086Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "es",
+    "gl": "mx"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=surfboard&hl=es&gl=mx",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/surfboard/nah/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTege5BmBk_mHyzyCkhLvu_MSsSNADbV9Idsw&s",
+      "fuentePagina": "https://www.etsy.com/listing/1612766074/6-ocean-surfboard-with-resin-waves",
+      "titulo": "6' Ocean Surfboard With Resin Waves, Surfboard Wall Art - Etsy",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTege5BmBk_mHyzyCkhLvu_MSsSNADbV9Idsw&s",
+      "original": "https://i.etsystatic.com/44687569/r/il/1b32ef/5579451852/il_fullxfull.5579451852_hkql.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/surfboard/nah/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR31jkmvpMgX3i5cjejkaSGQEBVWrIlg0iMwg&s",
+      "fuentePagina": "https://www.amazon.com.mx/Surfboard-English-Ben-Marcus-ebook/dp/B004QGY07S",
+      "titulo": "The Surfboard: Art, Style, Stoke (English Edition) eBook ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR31jkmvpMgX3i5cjejkaSGQEBVWrIlg0iMwg&s",
+      "original": "https://m.media-amazon.com/images/I/81Rh6wSgifL._UF1000,1000_QL80_.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/surfboard/nah/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBaVmmTJLgIhyQVmZI6BTuVbgu4KimJ_B-fA&s",
+      "fuentePagina": "https://www.oceanatlanticrentals.com/watersports/foam-surfboard/",
+      "titulo": "Outer Banks Foam Surfboards, OBX Surf Rental | OAR",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBaVmmTJLgIhyQVmZI6BTuVbgu4KimJ_B-fA&s",
+      "original": "https://www.oceanatlanticrentals.com/wp-content/uploads/soft-surfboard-new-obx.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/surfboard/nah/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSaFMdaYzItX3rShkRVXx4RmIUnxcaiAYOGEg&s",
+      "fuentePagina": "https://www.amazon.com.mx/THURSO-SURF-Lancer-inoxidable-antideslizante/dp/B01M36754H",
+      "titulo": "THURSO SURF Lancer - Tabla de surf de espuma suave de 5 pies y 10 pulgadas,  tabla de surf para niños y adultos, incluye doble correa giratoria EPS ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSaFMdaYzItX3rShkRVXx4RmIUnxcaiAYOGEg&s",
+      "original": "https://m.media-amazon.com/images/I/71ngkBWlO1L.jpg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/surfboard/nah/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRoVUi7ogineNRCAAFJ_YzzP_Sq_sNtwyWhtA&s",
+      "fuentePagina": "https://www.degree33surfboards.com/products/64-weapon-shortboard-surfboard-poly?srsltid=AfmBOoo4ON8puvwapfQ6429WL4B2sVYctM_h89LYy8AARV6MWMDkKWFa",
+      "titulo": "6'4\" Rocket Fish Shortboard Surfboard (Poly) – Degree 33 ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRoVUi7ogineNRCAAFJ_YzzP_Sq_sNtwyWhtA&s",
+      "original": "http://www.degree33surfboards.com/cdn/shop/files/ROCKET-FISH-SHORTBOARD-SURFBOARD-WITH-CARBON-_NEXGEN-EPOXY_copy.jpg?v=1741205764"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/surfboard/nah/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJVn3jS6m5tuN15t-XPvtDUP2Pisei3TFNwg&s",
+      "fuentePagina": "http://www.islandsurfboards.com.au/surfboards/performance-softboard",
+      "titulo": "PERFORMANCE SOFTBOARD - FUN — Island Surfboards",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJVn3jS6m5tuN15t-XPvtDUP2Pisei3TFNwg&s",
+      "original": "http://images.squarespace-cdn.com/content/v1/56ce2d7acf80a11b2f1489c7/1644458926900-Y7KA2YDVE6CS2QENVNKJ/blue.jpg"
+    }
+  ]
+}

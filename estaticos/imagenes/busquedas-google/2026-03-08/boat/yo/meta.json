@@ -1,0 +1,71 @@
+{
+  "categoria": "boat",
+  "categoriaSlug": "boat",
+  "idioma": "yo",
+  "nombreIdioma": "Yorùbá",
+  "termino": "ọkọ̀ ojú omi",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T20:45:46.825Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "yo",
+    "gl": "ng"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=%E1%BB%8Dk%E1%BB%8D%CC%80%20oj%C3%BA%20omi&hl=yo&gl=ng",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/boat/yo/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2ST3btvIsZTdEstXnhRlWTbBSrLF-69nRag&s",
+      "fuentePagina": "https://yo.ships.trade/ships_for_sale/1842",
+      "titulo": "Oko oju omi - Awọn ọkọ oju omi fun tita",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2ST3btvIsZTdEstXnhRlWTbBSrLF-69nRag&s",
+      "original": "https://ships.trade/images/ships/large/7b0091855cda6c2376ad7f3eb1db6168.webp"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/boat/yo/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZ5p6PMCZiQlSxDHYcoyr-zdwf_HnPPOSnwA&s",
+      "fuentePagina": "https://yo.ships.trade/ships_for_sale/8758",
+      "titulo": "oko oju omi - Awọn ọkọ oju omi fun tita",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZ5p6PMCZiQlSxDHYcoyr-zdwf_HnPPOSnwA&s",
+      "original": "https://ships.trade/images/ships/large/3869ca9d4ad07e10203871d6ad73769f.webp"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/boat/yo/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPVjxXiteI-_QXXh8Fkm3HKonaRtIikYu5fA&s",
+      "fuentePagina": "https://www.facebook.com/ojutoleblog2/posts/o-ma-se-o-oko-oju-omi-to-n-lo-si-badore-lati-ikorodu-gbokiti/2366180050133630/",
+      "titulo": "O ma se o: Oko oju omi to n lo si Badore lati Ikorodu gbokiti",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPVjxXiteI-_QXXh8Fkm3HKonaRtIikYu5fA&s",
+      "original": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=2366179983466970"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/boat/yo/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRvmEemHPvqnvQU1x-PA0DZjatMzNKNdMt6w&s",
+      "fuentePagina": "https://www.facebook.com/Agberoalijana/videos/oko-oju-omi-loju-orun/1418986115833688/",
+      "titulo": "OKO OJU OMI LOJU ORUN | Agberoalijana | Facebook",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRvmEemHPvqnvQU1x-PA0DZjatMzNKNdMt6w&s",
+      "original": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=1418986115833688&get_thumbnail=1"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/boat/yo/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzjUq7za7IKcVV75Org4KEW41m42z8oiQaeQ&s",
+      "fuentePagina": "https://www.youtube.com/watch?v=wuXOI9fIgrA",
+      "titulo": "OKO OJU OMI - How To Pronounce and Write Yoruba Words | African Languages -  YouTube",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzjUq7za7IKcVV75Org4KEW41m42z8oiQaeQ&s",
+      "original": "https://i.ytimg.com/vi/wuXOI9fIgrA/maxresdefault.jpg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/boat/yo/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTc5MM6vV-CHNeQySvMqWZGW0fvJO5JmS8uew&s",
+      "fuentePagina": "https://www.youtube.com/watch?v=fgcGjTP2W7E",
+      "titulo": "VOP YORUBA: Oko Oju Omi to Danu S'omi Rin Lakoko Tijoba Fofinde Lasale Lo  Sokunfa Ijamba - YouTube",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTc5MM6vV-CHNeQySvMqWZGW0fvJO5JmS8uew&s",
+      "original": "https://i.ytimg.com/vi/fgcGjTP2W7E/maxresdefault.jpg"
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "categoria": "banana",
+  "categoriaSlug": "banana",
+  "idioma": "rw",
+  "nombreIdioma": "Kinyarwanda",
+  "termino": "igitoki",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:10:36.338Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "en",
+    "gl": "rw"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=igitoki&hl=en&gl=rw",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/banana/rw/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTJqwk9zH9I1OttF7z2uiffq510Wns9hNIFQ&s",
+      "fuentePagina": "https://rw.wikipedia.org/wiki/Igitoki",
+      "titulo": "Igitoki - Wikipedia",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTJqwk9zH9I1OttF7z2uiffq510Wns9hNIFQ&s",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Matoke.JPG/250px-Matoke.JPG"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/banana/rw/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRDVerVVAegI66IaxGlwWnty-I4fV3qm-lwQ&s",
+      "fuentePagina": "https://www.facebook.com/GardensforHealth/posts/igitoki-ee-jee-toh-jee-the-kinyarwanda-word-for-green-banana-if-they-come-in-a-b/10155822539378634/",
+      "titulo": "Igitoki (ee-jee-toh-jee) - the Kinyarwanda word for green ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRDVerVVAegI66IaxGlwWnty-I4fV3qm-lwQ&s",
+      "original": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=10155822538358634"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/banana/rw/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZyglrWk1oBrXoN0cM7gvm5oHnKh3f92Qq4A&s",
+      "fuentePagina": "https://migro.co.rw/product/grilled-banana-igitoki-1",
+      "titulo": "Grilled Banana (igitoki) | MIGRO Online Shop | in Kigali ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZyglrWk1oBrXoN0cM7gvm5oHnKh3f92Qq4A&s",
+      "original": "https://migro.co.rw/app/upload/images/7948-2021-05-11.jpeg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/banana/rw/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR76nbmQD58MWE9cBFo-M_bQZUrV9latL8rXA&s",
+      "fuentePagina": "https://amahaho.com/products/green-banana-banane-verte-igitoki-kg?srsltid=AfmBOor679ldgWjH_e7qeOISi3gbJy2Rf_kCTXLBRrChDHMFbsBXSIKg",
+      "titulo": "Green Banana - Igitoki - Banane Verte /Kg – Amahaho",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR76nbmQD58MWE9cBFo-M_bQZUrV9latL8rXA&s",
+      "original": "http://amahaho.com/cdn/shop/products/greenbanana_1024x.jpg?v=1668075398"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/banana/rw/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5E7ts4dEcOMSxmb5wNekOjKhSNCyIrlXvFQ&s",
+      "fuentePagina": "https://www.youtube.com/watch?v=51kyLdtLJAg",
+      "titulo": "GUTEKA\\ifiriti y' igitoki nuyiteka gutya ntabwo uzicuza😋😋/Menya guteka  igitoki kiryoshye nta birungo",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5E7ts4dEcOMSxmb5wNekOjKhSNCyIrlXvFQ&s",
+      "original": "https://i.ytimg.com/vi/51kyLdtLJAg/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLC0EOz_uno_fQ4a1JfAofqbI4Nzwg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/banana/rw/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMa0nZ_UpC5lGuPkf14R1Rprn1M8X-a43PTA&s",
+      "fuentePagina": "https://www.youtube.com/watch?v=Tb9jykZkteI",
+      "titulo": "MBEGA IGITOKI KIRYOSHYE KIRIMO ISAMBAZA 😍😍",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMa0nZ_UpC5lGuPkf14R1Rprn1M8X-a43PTA&s",
+      "original": "https://i.ytimg.com/vi/Tb9jykZkteI/maxresdefault.jpg"
+    }
+  ]
+}

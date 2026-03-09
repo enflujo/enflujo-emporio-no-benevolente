@@ -1,0 +1,71 @@
+{
+  "categoria": "bowl",
+  "categoriaSlug": "bowl",
+  "idioma": "hi",
+  "nombreIdioma": "हिन्दी",
+  "termino": "कटोरी",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:10:14.858Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "hi",
+    "gl": "in"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=%E0%A4%95%E0%A4%9F%E0%A5%8B%E0%A4%B0%E0%A5%80&hl=hi&gl=in",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bowl/hi/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSF5vriAwJO-icjDrqj0GBW_ETStDPOWURWYw&s",
+      "fuentePagina": "https://www.chakradhari.com/products/999_pure_silver_utensil_katori?srsltid=AfmBOoq--Z4vC2bVxZJW4Jyg6-4jvye7Yw6_7x_zFfUZBzL_x2xxKO6n",
+      "titulo": "Pure Silver Utensil Katori - 99.9% Pure Silver Serving Bowl",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSF5vriAwJO-icjDrqj0GBW_ETStDPOWURWYw&s",
+      "original": "https://cdn.shopaccino.com/chakradhari/products/1-701022_l.jpg?v=680"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bowl/hi/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGNAY0mAEIBmykCIxX46VEm_VP7H-qPr3VQQ&s",
+      "fuentePagina": "https://www.amazon.in/-/hi/Kraft-%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A5%80%E0%A4%AE%E0%A4%BF%E0%A4%AF%E0%A4%AE-%E0%A4%95%E0%A4%9F%E0%A5%8B%E0%A4%B0%E0%A5%80-%E0%A4%B8%E0%A5%8D%E0%A4%AE%E0%A5%89%E0%A4%B2-12-%E0%A4%AA%E0%A5%80%E0%A4%B8/dp/B00EYZU9A8",
+      "titulo": "Kraft प्रीमियम कटोरी स्मॉल, 12-पीस : Amazon.in: घर और किचन",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGNAY0mAEIBmykCIxX46VEm_VP7H-qPr3VQQ&s",
+      "original": "https://m.media-amazon.com/images/I/61h-0QhCKwL._AC_UF894,1000_QL80_.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bowl/hi/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREF2-LoE2CCpNSAPtqnqmbPYGq3ydzt12lwg&s",
+      "fuentePagina": "https://www.vishalmegamart.com/hi-in/%E0%A4%B9%E0%A5%8B%E0%A4%AE-%E0%A4%94%E0%A4%B0-%E0%A4%95%E0%A4%BF%E0%A4%9A%E0%A4%A8/%E0%A4%9F%E0%A5%87%E0%A4%AC%E0%A4%B2%E0%A4%B5%E0%A5%87%E0%A4%AF%E0%A4%B0-%E0%A4%94%E0%A4%B0-%E0%A4%A1%E0%A4%BF%E0%A4%A8%E0%A4%B0%E0%A4%B5%E0%A5%87%E0%A4%AF%E0%A4%B0/%E0%A4%AA%E0%A5%8D%E0%A4%B2%E0%A5%87%E0%A4%9F-%E0%A4%95%E0%A4%9F%E0%A5%8B%E0%A4%B0%E0%A4%BF%E0%A4%AF%E0%A4%BE%E0%A4%81-%E0%A4%94%E0%A4%B0-%E0%A4%95%E0%A4%9F%E0%A4%B2%E0%A4%B0%E0%A5%80/%E0%A4%B9%E0%A5%8B%E0%A4%AE-%E0%A4%B8%E0%A5%87%E0%A4%B2%E0%A5%87%E0%A4%95%E0%A5%8D%E0%A4%9F-%E0%A4%B8%E0%A5%8D%E0%A4%9F%E0%A5%87%E0%A4%A8%E0%A4%B2%E0%A5%87%E0%A4%B8-%E0%A4%B8%E0%A5%8D%E0%A4%9F%E0%A5%80%E0%A4%B2-%E0%A4%AC%E0%A4%BE%E0%A4%89%E0%A4%B2-%E0%A4%95%E0%A4%9F%E0%A5%8B%E0%A4%B0%E0%A5%80---5.5-inches/1210006273.html",
+      "titulo": "होम सेलेक्ट स्टेनलेस स्टील बाउल ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREF2-LoE2CCpNSAPtqnqmbPYGq3ydzt12lwg&s",
+      "original": "https://www.vishalmegamart.com/dw/image/v2/BGHT_PRD/on/demandware.static/-/Sites-vmm-gm-master-catalog/default/dwb558b811/images/large/1210006273.jpg?sw=900&sh=900"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bowl/hi/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9vpBbSMJSyFqKLkp9Iu-QWwXmuxLgcGqwiA&s",
+      "fuentePagina": "https://www.amazon.in/-/hi/ALODIE-%E0%A4%B6%E0%A5%81%E0%A4%A6%E0%A5%8D%E0%A4%A7-%E0%A4%95%E0%A4%BE%E0%A4%82%E0%A4%B8%E0%A5%8D%E0%A4%AF-%E0%A4%95%E0%A4%9F%E0%A5%8B%E0%A4%B0%E0%A5%80-%E0%A4%95%E0%A4%9F%E0%A5%8B%E0%A4%B0%E0%A5%87/dp/B09TPMNP9Q",
+      "titulo": "ALODIE - शुद्ध कांस्य बाती - कंसा ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9vpBbSMJSyFqKLkp9Iu-QWwXmuxLgcGqwiA&s",
+      "original": "https://m.media-amazon.com/images/I/51jwQMtfByL._AC_UF894,1000_QL80_.jpg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bowl/hi/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRgOkjowtqJpmcjJfTJQFphah1ou6_QL9rUg&s",
+      "fuentePagina": "https://www.amazon.in/-/hi/Bartan-Star-%E0%A4%B8%E0%A5%8D%E0%A4%9F%E0%A5%87%E0%A4%A8%E0%A4%B2%E0%A5%87%E0%A4%B8-%E0%A4%B8%E0%A5%8D%E0%A4%9F%E0%A5%80%E0%A4%B2-%E0%A4%95%E0%A4%9F%E0%A5%8B%E0%A4%B0%E0%A5%80/dp/B0818PBD21",
+      "titulo": "Bartan Star स्टेनलेस स्टील, गोल पूजा कटोरी (छोटा आकार) 6 का सेट :  Amazon.in: घर और किचन",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRgOkjowtqJpmcjJfTJQFphah1ou6_QL9rUg&s",
+      "original": "https://m.media-amazon.com/images/I/31Kh79-8dGL._AC_UF894,1000_QL80_.jpg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bowl/hi/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBP-Wcc5ExniS8B8Z75kHtIO3U3N7rL612Gw&s",
+      "fuentePagina": "https://www.vishalmegamart.com/hi-in/%E0%A4%B9%E0%A5%8B%E0%A4%AE-%E0%A4%94%E0%A4%B0-%E0%A4%95%E0%A4%BF%E0%A4%9A%E0%A4%A8/%E0%A4%9F%E0%A5%87%E0%A4%AC%E0%A4%B2%E0%A4%B5%E0%A5%87%E0%A4%AF%E0%A4%B0-%E0%A4%94%E0%A4%B0-%E0%A4%A1%E0%A4%BF%E0%A4%A8%E0%A4%B0%E0%A4%B5%E0%A5%87%E0%A4%AF%E0%A4%B0/%E0%A4%AA%E0%A5%8D%E0%A4%B2%E0%A5%87%E0%A4%9F-%E0%A4%95%E0%A4%9F%E0%A5%8B%E0%A4%B0%E0%A4%BF%E0%A4%AF%E0%A4%BE%E0%A4%81-%E0%A4%94%E0%A4%B0-%E0%A4%95%E0%A4%9F%E0%A4%B2%E0%A4%B0%E0%A5%80/%E0%A4%B9%E0%A5%8B%E0%A4%AE-%E0%A4%B8%E0%A5%87%E0%A4%B2%E0%A5%87%E0%A4%95%E0%A5%8D%E0%A4%9F-%E0%A4%B8%E0%A5%8D%E0%A4%9F%E0%A5%87%E0%A4%A8%E0%A4%B2%E0%A5%87%E0%A4%B8-%E0%A4%B8%E0%A5%8D%E0%A4%9F%E0%A5%80%E0%A4%B2-%E0%A4%AC%E0%A4%BE%E0%A4%89%E0%A4%B2-%E0%A4%95%E0%A4%9F%E0%A5%8B%E0%A4%B0%E0%A5%80---8.5cm/1210004912.html",
+      "titulo": "होम सेलेक्ट स्टेनलेस स्टील बाउल ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBP-Wcc5ExniS8B8Z75kHtIO3U3N7rL612Gw&s",
+      "original": "https://www.vishalmegamart.com/dw/image/v2/BGHT_PRD/on/demandware.static/-/Sites-vmm-gm-master-catalog/default/dw1f68127c/images/large/1210004912.jpg?sw=900&sh=900"
+    }
+  ]
+}

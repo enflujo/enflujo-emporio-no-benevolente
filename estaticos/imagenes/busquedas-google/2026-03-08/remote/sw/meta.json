@@ -1,0 +1,71 @@
+{
+  "categoria": "remote",
+  "categoriaSlug": "remote",
+  "idioma": "sw",
+  "nombreIdioma": "Kiswahili",
+  "termino": "remouto",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:22:52.960Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "sw",
+    "gl": "tz"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=remouto&hl=sw&gl=tz",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/remote/sw/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrA1dRxxfr0BNfQ8JIrjcsxbm6v5xbJCGfPQ&s",
+      "fuentePagina": "https://github.com/TNTest/remouto?search=1",
+      "titulo": "remouto/ at master · TNTest/remouto · GitHub",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrA1dRxxfr0BNfQ8JIrjcsxbm6v5xbJCGfPQ&s",
+      "original": "https://opengraph.githubassets.com/5f90b2a9ecddad1477cb465a4bc5500d75fc6dd8aa3b2f0162516ab179c756ce/TNTest/remouto"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/remote/sw/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbEKg5_1jH6k-NI0bj3pfTKr_eRqPB2pu_YA&s",
+      "fuentePagina": "https://riot-sa.com/remootio-doorbell-installation-guide/?srsltid=AfmBOoqjTInKsjBlHOQwfS0S_ceYFlscCgTb53nIBuueCetoTfRcM_vK",
+      "titulo": "Remootio Doorbell installation guide | Riot-SA",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbEKg5_1jH6k-NI0bj3pfTKr_eRqPB2pu_YA&s",
+      "original": "https://cdn.shopify.com/s/files/1/0090/2591/2887/files/RemootioButtonFeatures-01_600x600.png?v=1604497048"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/remote/sw/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcMnpUS2O2y3Fqlch80ePDYRh9Y0NpvwvD9w&s",
+      "fuentePagina": "https://www.hasznaltauto.hu/szemelyauto/renault/espace/renault_espace_1.6_dci_zen_edc6-22821351",
+      "titulo": "Eladó RENAULT ESPACE Egyterű (2018) | Használtauto.hu",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcMnpUS2O2y3Fqlch80ePDYRh9Y0NpvwvD9w&s",
+      "original": "https://img.hasznaltautocdn.com/2048x1536/22821351/22911519.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/remote/sw/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAbMtq6wyHsVvol5jHA7S09N0RK9pVgnXbzA&s",
+      "fuentePagina": "https://www.gunbuyer.com/ruger-security-380-380acp-3-42-barrel-10-1-15-1-03839.html",
+      "titulo": "Ruger Security-380 380ACP 3.42\" Barrel 10+1/15+1 - Gunbuyer",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAbMtq6wyHsVvol5jHA7S09N0RK9pVgnXbzA&s",
+      "original": "https://www.gunbuyer.com/media/catalog/product/cache/b04d66171d00fad12bf0465168dada64/_/s/_s_3_s3-1.jpg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/remote/sw/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtgeBkgwJFPq0G0dI0OE6XIffqlVAOmb9XNA&s",
+      "fuentePagina": "https://rubixdrums.com/products/remo-6-8-and-10-rototom-set-with-stand-ex-display?srsltid=AfmBOopsA27vTwVea-T41wWHG_TjpesowXNaTUTHhmoehPVEDnSGTDjd",
+      "titulo": "Remo 6'', 8'' and 10'' Rototom Set With Stand - Ex Display",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtgeBkgwJFPq0G0dI0OE6XIffqlVAOmb9XNA&s",
+      "original": "https://rubixdrums.com/cdn/shop/files/preview_3_afd7966c-6f34-4723-aaba-c8d8cfb2eba0.jpg?v=1756381618&width=1445"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/remote/sw/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSs4xm8nL_cLBj2Hwdf6ka2pVvvLWRkxaCM7Q&s",
+      "fuentePagina": "https://www.threads.com/@albumism/post/DGQZGKMMg3g",
+      "titulo": "R.E.M. released \"Losing My Religion\" as the lead single from ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSs4xm8nL_cLBj2Hwdf6ka2pVvvLWRkxaCM7Q&s",
+      "original": "https://lookaside.fbsbx.com/lookaside/crawler/threads/DGQZGKMMg3g/0/image.jpg"
+    }
+  ]
+}

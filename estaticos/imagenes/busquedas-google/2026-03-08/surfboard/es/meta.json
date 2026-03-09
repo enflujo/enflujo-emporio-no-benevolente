@@ -1,0 +1,71 @@
+{
+  "categoria": "surfboard",
+  "categoriaSlug": "surfboard",
+  "idioma": "es",
+  "nombreIdioma": "Español",
+  "termino": "tabla de surf",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:05:13.282Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "es",
+    "gl": "es"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=tabla%20de%20surf&hl=es&gl=es",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/surfboard/es/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3fHGTg5UJ3nYILq2i2FdlwVumJA_O8XJ5oA&s",
+      "fuentePagina": "https://www.frussurf.com/tabla-de-surf-frussurf-segura-blanco-rosa-futures-6-5.html?srsltid=AfmBOopeQBJRj0TiQ8PYTQsUTABw2AZAerj0cahZFycc95o1dGK4bRKS",
+      "titulo": "Tabla de surf FrusSurf Segura 6'5' x 19 13/16'' x 2 11/16'' Volumen: 34,9  litros Futures Blanco-Rosa",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3fHGTg5UJ3nYILq2i2FdlwVumJA_O8XJ5oA&s",
+      "original": "https://www.frussurf.com/media/catalog/product/cache/d2c0ac771243bccbfa68bb6516d000f0/t/a/tabla-de-surf-frussurf-segura-rosa-blanco-negro-1.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/surfboard/es/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBQsioNmOMM8DFQvFrTHdT6p9rBzkf5EUUzw&s",
+      "fuentePagina": "https://www.frussurf.com/tabla-de-surf-frussurf-bboy-blanco-azul-5-0.html?srsltid=AfmBOoqCYA5q9ydDj5KKdiAC6mgJm6aqf5aygDUOqEPZdopYtNu2I5t6",
+      "titulo": "Tabla de surf FrusSurf Bboy blanco-azul 5'0'' x 17 13/16'' x 2 1/3'' 20  litros.",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBQsioNmOMM8DFQvFrTHdT6p9rBzkf5EUUzw&s",
+      "original": "https://www.frussurf.com/media/catalog/product/cache/d2c0ac771243bccbfa68bb6516d000f0/t/a/tabla-de-surf-frussurf-bboy-blanca-linea-azul-5-0.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/surfboard/es/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQP-OCLlC5nzX-dxG-FN0zW-vbliW8RabCWCA&s",
+      "fuentePagina": "https://coresurfingshop.com/products/tabla-de-surf-core-drive-in-everyday-black-fcs-ii?srsltid=AfmBOopOtNEEERPU896b783MtIWOfUaPnIqiytgoTSPVaplyIdcXq-2m",
+      "titulo": "TABLA DE SURF CORE DRIVE IN EVERYDAY BLACK FCS II",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQP-OCLlC5nzX-dxG-FN0zW-vbliW8RabCWCA&s",
+      "original": "http://coresurfingshop.com/cdn/shop/files/65902.jpg?v=1718713046"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/surfboard/es/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrR7TLn0V0eXuY6RJRQAgAdzqDSgr5uw3-ig&s",
+      "fuentePagina": "https://ecosurfshop.eu/es/tablas-de-surf-de-madera/131-tabla-de-surf-de-madera-malibu-de-kuntiqi.html?srsltid=AfmBOooLw9FDEATd3O2j_nq5vZBgY_Vm-hPyrN6KPbOcDFYCbcBUeajq",
+      "titulo": "Tabla de surf de madera \"Malibu\" de Kun_tiqi",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrR7TLn0V0eXuY6RJRQAgAdzqDSgr5uw3-ig&s",
+      "original": "https://ecosurfshop.eu/3655-superlarge_default/tabla-de-surf-de-madera-malibu-de-kuntiqi.jpg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/surfboard/es/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDV2et0Q2kxT58JTpp2BXHEfxZThTUDMYuKA&s",
+      "fuentePagina": "https://www.frussurf.com/tabla-de-surf-frussurf-hutsa-6-6-rosa.html?srsltid=AfmBOoq2ejYTmUqhLA_GT1K-VVXKqatj6J5LJl7R4l6NZaeOE-YhR_ij",
+      "titulo": "Tabla de surf FrusSurf Hutsa - FrusSurf EXPERTOS en Surf",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDV2et0Q2kxT58JTpp2BXHEfxZThTUDMYuKA&s",
+      "original": "https://www.frussurf.com/media/catalog/product/cache/d2c0ac771243bccbfa68bb6516d000f0/t/a/tabla-de-surf-frussurf-hutsa-rosa_1_1.jpg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/surfboard/es/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYy1PnMv-v41UvfdvCyif8JZfzUqf3iTEkYA&s",
+      "fuentePagina": "https://soulsurfboard.com/tabla-de-surf/soul-big-fish/",
+      "titulo": "SOUL BIG FISH - 66",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYy1PnMv-v41UvfdvCyif8JZfzUqf3iTEkYA&s",
+      "original": "https://soulsurfboard.com/wp-content/uploads/2023/03/nuevos-modelos-soul_24fotos-1-600x750.png"
+    }
+  ]
+}

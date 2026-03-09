@@ -1,0 +1,71 @@
+{
+  "categoria": "toilet",
+  "categoriaSlug": "toilet",
+  "idioma": "zh",
+  "nombreIdioma": "中文",
+  "termino": "厕所",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:20:46.249Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "zh-CN",
+    "gl": "cn"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=%E5%8E%95%E6%89%80&hl=zh-CN&gl=cn",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/toilet/zh/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLM-u_t-dmYENpTBQfgVlU0eWpZcrUTqnaPg&s",
+      "fuentePagina": "https://reborntotoitems.toto.com.cn/cn/minisite/refit/kol6/index.html",
+      "titulo": "厕所大变身智能舒适度拉满- TOTO东陶中国",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLM-u_t-dmYENpTBQfgVlU0eWpZcrUTqnaPg&s",
+      "original": "https://reborntotoitems.toto.com.cn/global_common/common/images/refit/kol6/kv_sp.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/toilet/zh/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwkd9llF_dum1Zc4qmabT4N3TsJC5Q9APh_A&s",
+      "fuentePagina": "https://zh.wikipedia.org/zh-cn/%E5%BB%81%E6%89%80",
+      "titulo": "厕所- 维基百科，自由的百科全书",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwkd9llF_dum1Zc4qmabT4N3TsJC5Q9APh_A&s",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Toilet_1_2018-06-23.jpg/250px-Toilet_1_2018-06-23.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/toilet/zh/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSymXZw4j9d8-ZZqebhAwbzq3sMzf9crzy4FQ&s",
+      "fuentePagina": "https://web-japan.org/kidsweb/cn/hitech/toilet/index.html",
+      "titulo": "高科技厕所- 高新科技- 日本儿童网- Web Japan 中文首页",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSymXZw4j9d8-ZZqebhAwbzq3sMzf9crzy4FQ&s",
+      "original": "https://web-japan.org/kidsweb/cn/hitech/toilet/images/toilet1.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/toilet/zh/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTH-r0Uhrc7VYdqtIiUNLHWyd1aicifs_UQZg&s",
+      "fuentePagina": "https://zh.wikipedia.org/zh-cn/%E6%97%A5%E6%9C%AC%E5%8E%95%E6%89%80",
+      "titulo": "日本厕所- 维基百科，自由的百科全书",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTH-r0Uhrc7VYdqtIiUNLHWyd1aicifs_UQZg&s",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/C75MK76.jpg/250px-C75MK76.jpg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/toilet/zh/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUXQWjaOqhSMZgcZIHHqQ3D_0NUl4LQMXYPg&s",
+      "fuentePagina": "https://www.100.com.tw/article/9984",
+      "titulo": "廁所設錯位置破財又健康差？2025最新『廁所風水禁忌』5大宮位 ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUXQWjaOqhSMZgcZIHHqQ3D_0NUl4LQMXYPg&s",
+      "original": "https://cp4.100.com.tw/images/articles/202508/26/admin_1_1756196396614_6rv9q9qtkp.jpg!t1000.webp"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/toilet/zh/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSf3MBgdXou0cmf_zCBFwBbHmqVVegVqtT7pA&s",
+      "fuentePagina": "https://pixabay.com/zh/images/search/public%20bathroom/",
+      "titulo": "超过6000 张关于“Public Bathroom”和“厕所”的免费图片- Pixabay",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSf3MBgdXou0cmf_zCBFwBbHmqVVegVqtT7pA&s",
+      "original": "https://cdn.pixabay.com/photo/2014/02/13/11/56/wc-265278_1280.jpg"
+    }
+  ]
+}

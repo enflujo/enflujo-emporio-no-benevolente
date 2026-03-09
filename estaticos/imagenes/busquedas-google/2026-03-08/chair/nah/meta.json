@@ -1,0 +1,71 @@
+{
+  "categoria": "chair",
+  "categoriaSlug": "chair",
+  "idioma": "nah",
+  "nombreIdioma": "Náhuatl",
+  "termino": "icpalli",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:17:22.513Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "es",
+    "gl": "mx"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=icpalli&hl=es&gl=mx",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/chair/nah/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTpw5RdO9r_kQSJ__j8u6lm6VGfR4cVWyJwA&s",
+      "fuentePagina": "https://www.facebook.com/MNAinah/photos/a.216153481752621/3006804329354175/?id=216142901753679&locale=sl_SI",
+      "titulo": "Museo - La palabra equipal proviene del náhuatl icpalli, y ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTpw5RdO9r_kQSJ__j8u6lm6VGfR4cVWyJwA&s",
+      "original": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=3006804329354175"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/chair/nah/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmpu14QnmcpE2neFOs0gyhNVJNV_UsR3DRhg&s",
+      "fuentePagina": "https://www.facebook.com/colectivoeltinacal/posts/icpalli-es-una-palabra-de-origen-n%C3%A1huatl-que-significa-asiento-o-silla-se-traduc/1186730483486781/",
+      "titulo": "Icpalli es una palabra de origen náhuatl que significa ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmpu14QnmcpE2neFOs0gyhNVJNV_UsR3DRhg&s",
+      "original": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=1186730446820118"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/chair/nah/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOpRUn7Du40OFoLX7UbKtm-pvXmR3qZNv4MQ&s",
+      "fuentePagina": "https://x.com/CulturaCiudadMx/status/1467571140335964164",
+      "titulo": "AbrazaTuCultura ¿Qué es un EQUIPAL? Icpalli, asiento para ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOpRUn7Du40OFoLX7UbKtm-pvXmR3qZNv4MQ&s",
+      "original": "https://pbs.twimg.com/media/FF3cLDYXoAAhAw8.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/chair/nah/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUaOXSvPbsWwkShRc0xEuRPA6mEWOuzasu1A&s",
+      "fuentePagina": "http://www.gdn.unam.mx/diccionario/icpalli/10677",
+      "titulo": "icpalli - Gran Diccionario Náhuatl",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUaOXSvPbsWwkShRc0xEuRPA6mEWOuzasu1A&s",
+      "original": "https://tlachia.iib.unam.mx/archivos/telleriano/imagenes/05.02.01.jpg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/chair/nah/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlyznaKQNcEzU9fl-jDlvJNDntLoiySLeQ7g&s",
+      "fuentePagina": "https://unicuo.mx/producto/icpalli/",
+      "titulo": "Icpalli",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlyznaKQNcEzU9fl-jDlvJNDntLoiySLeQ7g&s",
+      "original": "https://unicuo.mx/wp-content/uploads/2025/09/icpalli-negra.jpg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/chair/nah/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOK_c0xTVYh5PJeH_ZfjH5cCHDcotYuZKdnA&s",
+      "fuentePagina": "https://joaquinhoms.com/icpalli/",
+      "titulo": "Silla Icpalli – Joaquín Homs",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOK_c0xTVYh5PJeH_ZfjH5cCHDcotYuZKdnA&s",
+      "original": "https://joaquinhoms.com/wp-content/uploads/2019/01/B_result.jpg"
+    }
+  ]
+}

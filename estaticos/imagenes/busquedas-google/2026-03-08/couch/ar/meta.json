@@ -1,0 +1,71 @@
+{
+  "categoria": "couch",
+  "categoriaSlug": "couch",
+  "idioma": "ar",
+  "nombreIdioma": "العربية",
+  "termino": "أريكة",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:17:52.802Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "ar",
+    "gl": "eg"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=%D8%A3%D8%B1%D9%8A%D9%83%D8%A9&hl=ar&gl=eg",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/couch/ar/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuWynVuoQJxpMJvTI6YGjCOa7tU26N_rSZjQ&s",
+      "fuentePagina": "https://dar-ezz.com/products/%D8%A7%D8%B1%D9%8A%D9%83%D8%A9-%D9%85%D9%88%D8%AF%D8%B1%D9%86?srsltid=AfmBOoqHGmXf55QznXzw6gMgvdqHJdJhEsm70SUeAVvzq27tGFRWq5bD",
+      "titulo": "أريكة مخملية مودرن",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuWynVuoQJxpMJvTI6YGjCOa7tU26N_rSZjQ&s",
+      "original": "https://dar-ezz.com/cdn/shop/files/1200x1200_5_99175ee7-095f-49ef-9620-646c9e2d8f62.jpg?v=1720076498&width=1445"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/couch/ar/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbnAU1Lg0BtmhS19gxJNvCWTvcE7vnI5mwTg&s",
+      "fuentePagina": "https://samahome.sa/products/%D9%83%D9%86%D8%A8-10?srsltid=AfmBOoqtM338hcPyGe2sKz4Mv4X5NxMPqpuLFq9Dr6NOJavPzx73on1-",
+      "titulo": "يمكنك إنشاء أريكة أحلامك المصممة وفقًا لتفضيلاتك وأسلوبك الفريد",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbnAU1Lg0BtmhS19gxJNvCWTvcE7vnI5mwTg&s",
+      "original": "https://media.zid.store/c4b1b97d-ff1c-451f-9f24-45dd39f5f4fb/50a67e66-ccd2-4865-97a6-2d8bf25121db.JPG"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/couch/ar/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJSVXn16HhcFnFAWPs2hALHoSY5pR_sw_kUw&s",
+      "fuentePagina": "https://www.panhomestores.com/uae_ar/blog/post/%D9%83%D9%8A%D9%81-%D8%AA%D8%B9%D8%B1%D9%81-%D9%85%D9%82%D8%A7%D8%B3%D8%A7%D8%AA-%D8%A7%D9%84%D8%A3%D8%B1%D9%8A%D9%83%D8%A9-%D8%A7%D9%84%D9%85%D9%86%D8%A7%D8%B3%D8%A8%D8%A9-%D9%84%D8%BA%D8%B1%D9%81%D8%A9-%D8%A7%D9%84%D9%85%D8%B9%D9%8A%D8%B4%D8%A9%D8%9F",
+      "titulo": "كيف تعرف مقاسات الأريكة المناسبة لغرفة المعيشة؟",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJSVXn16HhcFnFAWPs2hALHoSY5pR_sw_kUw&s",
+      "original": "https://cdn.panhomestores.com/media/magefan_blog/032BWF1000291_02.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/couch/ar/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYOFiN61u3QiczWc8gD_TgquOhpN_1appCnw&s",
+      "fuentePagina": "https://munirelegance.com/product/%D8%A3%D8%B1%D9%8A%D9%83%D8%A9-%D8%A3%D9%88%D8%B1%D8%A7/",
+      "titulo": "أريكة أورا - munirelegance",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYOFiN61u3QiczWc8gD_TgquOhpN_1appCnw&s",
+      "original": "https://munirelegance.com/wp-content/uploads/2024/08/%D8%A3%D8%B1%D9%8A%D9%83%D8%A9-%D8%A3%D9%88%D8%B1%D9%89-%D8%AB%D9%84%D8%A7%D8%AB%D9%8A%D8%A91-1-scaled.webp"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/couch/ar/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRy2b1hq-ilk8XB-2UKxoiuMoE50Ztj7QtDLA&s",
+      "fuentePagina": "https://www.youm7.com/story/2020/8/19/5-%D9%86%D8%B5%D8%A7%D8%A6%D8%AD-%D9%84%D8%A7%D8%AE%D8%AA%D9%8A%D8%A7%D8%B1-%D8%A3%D8%B1%D9%8A%D9%83%D8%A9-%D9%85%D9%86%D8%A7%D8%B3%D8%A8%D8%A9-%D9%84%D8%BA%D8%B1%D9%81%D8%A9-%D8%A7%D9%84%D9%85%D8%B9%D9%8A%D8%B4%D8%A9-%D8%A3%D9%86%D9%8A%D9%82%D8%A9-%D9%88%D9%85%D8%B1%D9%8A%D8%AD%D8%A9-%D9%88%D9%85%D8%AA%D9%8A%D9%86%D8%A9/4934193",
+      "titulo": "5 نصائح لاختيار أريكة مناسبة لغرفة المعيشة.. أنيقة ومريحة ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRy2b1hq-ilk8XB-2UKxoiuMoE50Ztj7QtDLA&s",
+      "original": "https://img.youm7.com/ArticleImgs/2020/8/18/323943-%D8%A3%D8%B1%D9%8A%D9%83%D8%A9-%D9%85%D9%86%D8%A7%D8%B3%D8%A8%D8%A9-%D9%84%D8%BA%D8%B1%D9%81%D8%A9-%D8%A7%D9%84%D9%85%D8%B9%D9%8A%D8%B4%D8%A9.PNG"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/couch/ar/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqT67gdfOXESfMMzpsZRWRKFQhyZLEe1QdRA&s",
+      "fuentePagina": "https://inhouse.sa/ar/romantic-chaise-longue-103020200099.html?srsltid=AfmBOorJvbJvC14nYKLd2ENhWT_-geIWEk9Vml2wgC3zCmAIoR-ulLgJ",
+      "titulo": "إن هاوس | أريكة استرخاء رومانسية شيزلونغ صغيرة سادة",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqT67gdfOXESfMMzpsZRWRKFQhyZLEe1QdRA&s",
+      "original": "https://inhouse.sa/media/catalog/product/cache/374449341643a9dc7b1eb5634b01a040/1/0/103020200099202625.jpg"
+    }
+  ]
+}

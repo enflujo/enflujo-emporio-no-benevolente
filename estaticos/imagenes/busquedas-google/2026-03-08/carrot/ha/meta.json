@@ -1,0 +1,71 @@
+{
+  "categoria": "carrot",
+  "categoriaSlug": "carrot",
+  "idioma": "ha",
+  "nombreIdioma": "Hausa",
+  "termino": "karas",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:13:58.706Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "ha",
+    "gl": "ng"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=karas&hl=ha&gl=ng",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/carrot/ha/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRV78f4yqc-DRVZW0crn5tclC4PMNIy2xM4xQ&s",
+      "fuentePagina": "https://en.wikipedia.org/wiki/Karas_(anime)",
+      "titulo": "Karas (anime) - Wikipedia",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRV78f4yqc-DRVZW0crn5tclC4PMNIy2xM4xQ&s",
+      "original": "https://upload.wikimedia.org/wikipedia/en/e/e9/Karas_box_cover.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/carrot/ha/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRut_eyW0LIJ6NQfo5odvhhdz0Hvgy9vBvw7A&s",
+      "fuentePagina": "https://www.imdb.com/title/tt6545722/",
+      "titulo": "Karas (TV Mini Series 2005–2007) - IMDb",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRut_eyW0LIJ6NQfo5odvhhdz0Hvgy9vBvw7A&s",
+      "original": "https://m.media-amazon.com/images/M/MV5BYjNlYzAyNjctZTg2My00ODdjLWI3MGItMjczNjc4ZjliM2I4XkEyXkFqcGc@._V1_.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/carrot/ha/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjwAWJNoQti0VxETxJMal9zpuBSTCWB8LLuA&s",
+      "fuentePagina": "https://tatsunokovscapcom.fandom.com/wiki/Karas",
+      "titulo": "Karas | Tatsunoko vs Capcom Wiki | Fandom",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjwAWJNoQti0VxETxJMal9zpuBSTCWB8LLuA&s",
+      "original": "https://static.wikia.nocookie.net/tatsunokovscapcom/images/1/13/Karas.jpg/revision/latest?cb=20100213212315"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/carrot/ha/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQa9ivw0ZgpTB83JHu6e1Zns09HlrXlbwLtRQ&s",
+      "fuentePagina": "https://hausa.legit.ng/1296007-lafiya-jari-amfani-10-da-karas-ke-yi-a-jikin-dan-adam.html",
+      "titulo": "Lafiya jari: Amfani 10 da karas ke yi a jikin dan adam ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQa9ivw0ZgpTB83JHu6e1Zns09HlrXlbwLtRQ&s",
+      "original": "https://cdn.legit.ng/images/1120/e01563f6e36fbf3b.jpeg?v=1"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/carrot/ha/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSagOEOPdLHvSqHjoDkB6PHUdOiK268FRNmAw&s",
+      "fuentePagina": "https://bakandamiya.com/karas/",
+      "titulo": "Karas | Bakandamiya",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSagOEOPdLHvSqHjoDkB6PHUdOiK268FRNmAw&s",
+      "original": "https://eejsccb469o.exactdn.com/wp-content/uploads/2025/01/ad2fb3c0-5e39-4e37-9189-b77942093687-119f71b.jpg?strip=all"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/carrot/ha/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6hU9kad2JuQ0e_Y1EXRGzV6quxei4wwq59Q&s",
+      "fuentePagina": "https://friedchillies.com/what-to-cook/malay-what-to-cook/kuih-karas/",
+      "titulo": "Kuih Karas - FriedChillies",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6hU9kad2JuQ0e_Y1EXRGzV6quxei4wwq59Q&s",
+      "original": "https://friedchillies.com/wp-content/uploads/2021/05/Karas_-_main.jpg"
+    }
+  ]
+}

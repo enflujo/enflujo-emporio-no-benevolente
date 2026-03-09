@@ -1,0 +1,71 @@
+{
+  "categoria": "baseball bat",
+  "categoriaSlug": "baseball-bat",
+  "idioma": "rw",
+  "nombreIdioma": "Kinyarwanda",
+  "termino": "inkoni ya beisiboli",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:02:39.641Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "en",
+    "gl": "rw"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=inkoni%20ya%20beisiboli&hl=en&gl=rw",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/baseball-bat/rw/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2E99yeowMgDOfk1SaliFeYstMnlk4a4pfTA&s",
+      "fuentePagina": "https://www.jw.org/rw/isomero/ibitabo/amateka-ya-bibiliya/3/aroni-inkoni/",
+      "titulo": "Inkoni ya Aroni irabya | Amateka ya Bibiliya",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2E99yeowMgDOfk1SaliFeYstMnlk4a4pfTA&s",
+      "original": "https://cms-imgp.jw-cdn.org/img/p/1101978093/univ/art/1101978093_univ_lsr_lg.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/baseball-bat/rw/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQD1mY8KwFhLQ9bse1ry8cSDQdL-QVuRsrXGg&s",
+      "fuentePagina": "http://rw.nhwheelchair.com/aluminum-alloy-lightweight-ergonomically-walking-stick-for-older-product/",
+      "titulo": "Ubushinwa Aluminiyumu Yoroheje Yoroheje Ergonomiya Kugenda ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQD1mY8KwFhLQ9bse1ry8cSDQdL-QVuRsrXGg&s",
+      "original": "https://www.nhwheelchair.com/uploads/%E6%8D%95%E8%8E%B7118.png"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/baseball-bat/rw/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTp6pfa29Sbc2VZHkg-iBu4ztknoko-4aZ8A&s",
+      "fuentePagina": "http://rw.royalsteelgroup.com/12m-iron-reinforced-reinforcing-rod-metal-concrete-steel-rebar-product/",
+      "titulo": "Inkoni yo kongera imbaraga mu byuma ya metero 12 ikoreshwa ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTp6pfa29Sbc2VZHkg-iBu4ztknoko-4aZ8A&s",
+      "original": "http://cdn.globalso.com/royalsteelgroup/steel-rebar1.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/baseball-bat/rw/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKLbQzfjqpI9Loo4YT7Oxi-qgcoqSCJTBSZQ&s",
+      "fuentePagina": "https://rw.wikipedia.org/wiki/Dosiye:Inkoni.jpg",
+      "titulo": "Dosiye:Inkoni.jpg - Wikipedia",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKLbQzfjqpI9Loo4YT7Oxi-qgcoqSCJTBSZQ&s",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/1/10/Inkoni.jpg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/baseball-bat/rw/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSt0DH89RlgHuSQ6-yYLu076Tums3N0pJ9ZlQ&s",
+      "fuentePagina": "https://www.facebook.com/www.somaumenyeukuri.org/posts/inkoni-imigozi-imyitwarire-imeze-nkiya-gisirikare-akarasisi-yewe-hatabuze-no-guh/1214226527387298/",
+      "titulo": "Inkoni, imigozi, imyitwarire imeze nk'iya gisirikare ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSt0DH89RlgHuSQ6-yYLu076Tums3N0pJ9ZlQ&s",
+      "original": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=1214226497387301"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/baseball-bat/rw/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0c154aaGDxACi9ZyG_A0FkJ1DqaNZqViFGg&s",
+      "fuentePagina": "https://www.facebook.com/igihesports/posts/u-rwanda-rwakiriye-inkoni-yumwami-wu-bwongereza-ku-nshuro-ya-kane-amafotohttpsig/1475088990711738/",
+      "titulo": "U Rwanda rwakiriye inkoni y'Umwami w'u Bwongereza ku nshuro ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0c154aaGDxACi9ZyG_A0FkJ1DqaNZqViFGg&s",
+      "original": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=1475048147382489"
+    }
+  ]
+}

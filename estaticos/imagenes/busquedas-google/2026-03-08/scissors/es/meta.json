@@ -1,0 +1,71 @@
+{
+  "categoria": "scissors",
+  "categoriaSlug": "scissors",
+  "idioma": "es",
+  "nombreIdioma": "Español",
+  "termino": "tijeras",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:30:44.171Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "es",
+    "gl": "es"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=tijeras&hl=es&gl=es",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/scissors/es/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS78PjAa61h4q_Np8ujMsehGD_DKmqduvl_IQ&s",
+      "fuentePagina": "https://www.cuchillalia.com/producto/3-claveles-103-tijera-costura-varios-usos/",
+      "titulo": "Tijera de Costura - Varios Usos - 3 Claveles 103 - Cuchillalia",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS78PjAa61h4q_Np8ujMsehGD_DKmqduvl_IQ&s",
+      "original": "https://www.cuchillalia.com/wordpress/wp-content/uploads/2016/04/3-claveles-00103-tijera-costura-varios-usos.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/scissors/es/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjyfjekWakNep24BNHz7yVO1W282fWZzY9mA&s",
+      "fuentePagina": "https://www.woodtoolsanddeco.com/es/cortadores-y-sierras/14806-tijeras-de-peluqueria-sencillas-18-cm-rojas-y-negras-8719762687573.html",
+      "titulo": "Tijeras de peluquería sencillas (18 cm, rojas y negras ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjyfjekWakNep24BNHz7yVO1W282fWZzY9mA&s",
+      "original": "https://www.woodtoolsanddeco.com/12356-large_default/tijeras-de-peluqueria-sencillas-18-cm-rojas-y-negras.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/scissors/es/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwqmAfqQic3Imx2L-VYqDZO2c9GUXQFwgSGA&s",
+      "fuentePagina": "https://www.bruneau.es/product/tijeras-punta-puntiaguda-21-cm-negro/27248",
+      "titulo": "Tijeras punta puntiaguda 21 cm negro en bruneau.es",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwqmAfqQic3Imx2L-VYqDZO2c9GUXQFwgSGA&s",
+      "original": "https://prod.isg.bruneau.media/asset/aHR0cHM6Ly9icnVuZWF1LnNpbXBsZXdvcmtzcGFjZS5uZXQvZmlsZS9wdWJBc3NldEJhc2UvS2doNV9jc0ZVWlhsTlZhcThtQUZwaDlucHFvU1ZxYjJ4a095OTRzY2tEM2FUZU9hTU9vLzE3MzgzMTk1OTMwMDAwL3MvMjcyNDhBLmpwZw==/?format=jpeg&height=477&quality=85&width=477"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/scissors/es/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIoGuBJgLeo8ROYITLq1rw6LPlXxqBKAg5Dg&s",
+      "fuentePagina": "https://kadusi.com/es/tijeras-y-cortahilos/766-tijeras-de-costura-kadusi-178mm-8436589183629.html?srsltid=AfmBOooTw2Ytmc61kqDLXS3WbOtELo0ZhKoDv58aE200x48oanwaC-Eo",
+      "titulo": "Tijeras para costura y otras manualidades",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIoGuBJgLeo8ROYITLq1rw6LPlXxqBKAg5Dg&s",
+      "original": "https://kadusi.com/3727-superlarge_default_2x/tijeras-de-costura-kadusi-178mm.jpg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/scissors/es/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9megZuK1vltABuKNw4tN93if_kDS6MVgHYg&s",
+      "fuentePagina": "https://www.lastijerasmagicas.com/es/tijeras/tijeras-premium-rainbow-21-cm-hemline-5618.html",
+      "titulo": "Tijeras Premium Rainbow 21 cm - Hemline",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9megZuK1vltABuKNw4tN93if_kDS6MVgHYg&s",
+      "original": "https://www.lastijerasmagicas.com/33779-large_default/tijeras-premium-rainbow-21-cm-hemline.jpg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/scissors/es/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDH-bZcXbAanBTetIWV5YVNS7tYWj6LHsizA&s",
+      "fuentePagina": "https://www.materialescolar.es/tijeras-y-cutters/tijera-escolar-liderpapel-acero-inoxidable-73101.html",
+      "titulo": "Tijera escolar Liderpapel Acero inoxidable punta redondeada 14cm",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDH-bZcXbAanBTetIWV5YVNS7tYWj6LHsizA&s",
+      "original": "https://cache3.materialescolar.es/3024559-large_default/tijera-escolar-liderpapel-acero-inoxidable-73101.jpg"
+    }
+  ]
+}

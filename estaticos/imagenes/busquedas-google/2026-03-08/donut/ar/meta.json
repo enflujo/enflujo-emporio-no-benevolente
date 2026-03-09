@@ -1,0 +1,71 @@
+{
+  "categoria": "donut",
+  "categoriaSlug": "donut",
+  "idioma": "ar",
+  "nombreIdioma": "العربية",
+  "termino": "دونات",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:15:53.407Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "ar",
+    "gl": "eg"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=%D8%AF%D9%88%D9%86%D8%A7%D8%AA&hl=ar&gl=eg",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/donut/ar/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRk6eeI4G22hqU8IvB7mrV310TJ3zHjNfhWcw&s",
+      "fuentePagina": "https://kitchen.sayidaty.net/node/12724/%D8%AF%D9%88%D9%86%D8%A7%D8%AA-%D8%A7%D9%84%D8%B4%D9%88%D9%83%D9%88%D9%84%D8%A7%D8%AA%D8%A9/%D8%AD%D9%84%D9%88%D9%8A%D8%A7%D8%AA/%D9%88%D8%B5%D9%81%D8%A7%D8%AA",
+      "titulo": "دونات الشوكولاتة",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRk6eeI4G22hqU8IvB7mrV310TJ3zHjNfhWcw&s",
+      "original": "https://kitchen.sayidaty.net/uploads/small/8c/8c7844f6e4a6e098ac34e84b1ad5a0b8_w750_h750.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/donut/ar/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfOGaSISOwnDRi0stRme75GHNkTJeQ_u4bSw&s",
+      "fuentePagina": "https://waffarha.com/ar/%D8%AF%D9%88%D9%86%D8%A7%D8%AA-%D9%85%D8%B9-%D9%82%D9%87%D9%88%D8%A9-%D8%A8%D8%AE%D8%B5%D9%85-o-8134",
+      "titulo": "وفرها | دونات مع قهوة بخصم حتى 33% من كرسبي كريم",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfOGaSISOwnDRi0stRme75GHNkTJeQ_u4bSw&s",
+      "original": "https://d26czciiy2b0rz.cloudfront.net/uploads/images/Krispy-Kream-1-1725462978.png"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/donut/ar/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWew2-XQ1Kpm8Pc6MJCLd4Qv9Y_ue1H90anw&s",
+      "fuentePagina": "https://www.zahratalkhaleej.ae/article/4346119/%D9%87%D9%84-%D8%AA%D8%B9%D8%B4%D9%82%D9%8A%D9%86--%D8%A7%D9%84%D8%AF%D9%88%D9%86%D8%A7%D8%AA-----%D8%AA%D8%B9%D8%B1%D9%81%D9%8A-%D8%A5%D9%84%D9%89-%D9%82%D8%B5%D8%AA%D9%87%D8%A7-%D9%88%D9%86%D8%B4%D8%A3%D8%AA%D9%87%D8%A7",
+      "titulo": "هل تعشقين «الدونات»؟.. تعرفي إلى قصتها ونشأتها - زهرة الخليج",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWew2-XQ1Kpm8Pc6MJCLd4Qv9Y_ue1H90anw&s",
+      "original": "https://cdn1-m.zahratalkhaleej.ae/store/archive/image/2023/1/19/ab005b84-5b4e-4d63-8d90-cbbf6de30015.jpg?format=jpg&preset=w1900"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/donut/ar/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTf97Vd3Fd6RzBL-SxvzkM7d2qWjq18o7VUAw&s",
+      "fuentePagina": "https://kitchen.sayidaty.net/node/9008/%D8%AF%D9%88%D9%86%D8%A7%D8%AA-%D8%A8%D8%A7%D9%84%D9%81%D8%B1%D9%86/%D8%AD%D9%84%D9%88%D9%8A%D8%A7%D8%AA",
+      "titulo": "دونات بالفرن",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTf97Vd3Fd6RzBL-SxvzkM7d2qWjq18o7VUAw&s",
+      "original": "https://kitchen.sayidaty.net/uploads/small/e2/e2158c7226a1db669760302e0fdbcad5_w750_h750.jpg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/donut/ar/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCyA9b-F_VjbwGU_Z6p_IrGqq5oF6IX4v9oQ&s",
+      "fuentePagina": "https://www.moulinex-me.com/ar/recipe/%D8%AD%D9%84%D9%89-%D8%A7%D9%84%D8%AF%D9%88%D9%86%D8%A7%D8%AA-%D8%A8%D9%86%D9%83%D9%87%D8%A9-%D8%A7%D9%84%D8%B4%D9%88%D9%83%D9%88%D9%84%D8%A7%D8%AA%D8%A9/r/124050",
+      "titulo": "حلى الدونات بنكهة الشوكولاتة",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCyA9b-F_VjbwGU_Z6p_IrGqq5oF6IX4v9oQ&s",
+      "original": "https://www.moulinex-me.com/medias/?context=bWFzdGVyfHJvb3R8ODc0NjF8aW1hZ2UvanBlZ3xhR1F5TDJnME5pOHhOVGsyT0RZMk1EazNPVGMwTWk1cWNHY3xjYjlkNWIwZjZiMzg4MDdkODlhN2IwMzYxZWVmZmMwZTc1MTQ3MWNkMTk3YjY4MWU5ZWFjMGQyM2MyOGEwMDE0"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/donut/ar/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFVaAPJuM17JyLAx_PbZCkUai8Xcm40nSU2A&s",
+      "fuentePagina": "https://www.zakibook.com/post/1347/%D8%B7%D8%B1%D9%8A%D9%82%D8%A9-%D8%B9%D9%85%D9%84-%D8%AF%D9%88%D9%86%D8%A7%D8%AA-donuts/comment-page-1/",
+      "titulo": "وصفة ميني دونات دانكن وصفات حلويات غربية لذيذة من زاكي - زاكي",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFVaAPJuM17JyLAx_PbZCkUai8Xcm40nSU2A&s",
+      "original": "https://www.zakibook.com/wp-content/uploads/2015/02/10305039_989613251052490_7394272739512742896_n.jpg"
+    }
+  ]
+}

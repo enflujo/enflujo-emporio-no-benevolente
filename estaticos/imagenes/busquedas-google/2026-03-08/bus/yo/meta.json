@@ -1,0 +1,71 @@
+{
+  "categoria": "bus",
+  "categoriaSlug": "bus",
+  "idioma": "yo",
+  "nombreIdioma": "Yorùbá",
+  "termino": "ọkọ̀ akérébiisi",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T20:43:48.574Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "yo",
+    "gl": "ng"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=%E1%BB%8Dk%E1%BB%8D%CC%80%20ak%C3%A9r%C3%A9biisi&hl=yo&gl=ng",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bus/yo/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSY2K_86oqvKB-FWbKYcPXTeOz4T3drzrm9ug&s",
+      "fuentePagina": "https://www.youtube.com/watch?v=aXoIbUsjqa4",
+      "titulo": "OKO EGBERE Showing Next On OoshaTv Starring Apa | Tosin | Anike Amin |  Kenny George",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSY2K_86oqvKB-FWbKYcPXTeOz4T3drzrm9ug&s",
+      "original": "https://i.ytimg.com/vi/aXoIbUsjqa4/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLDYFxnhz-O2QJ4QTJ8d0115Xh6UGw"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bus/yo/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRiRfupUICg-_FdimGZWnQs2-5fNC5YDSchlQ&s",
+      "fuentePagina": "https://www.aclsports.com/super-falcons-childbirth-is-a-blessing-okobi-okeoghene/",
+      "titulo": "Super Falcons: Childbirth is a blessing — Okobi-Okeoghene ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRiRfupUICg-_FdimGZWnQs2-5fNC5YDSchlQ&s",
+      "original": "https://www.aclsports.com/wp-content/uploads/2026/02/Ngozi-Okobi-Okeoghene-860x860.jpeg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bus/yo/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4cAYFSUc5bncOzHKjiTlV6FoA3HcFWkd11g&s",
+      "fuentePagina": "https://www.bbc.com/yoruba/articles/c88d0me2kreo",
+      "titulo": "Owo Church Attack: Akeredolu ń kọ́ ìbùdó ìgbafẹ́ ní ìrántí ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4cAYFSUc5bncOzHKjiTlV6FoA3HcFWkd11g&s",
+      "original": "https://ichef.bbci.co.uk/ace/ws/640/cpsprodpb/6720/live/19363580-bff1-11ed-91cb-df07e64e94df.jpg.webp"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bus/yo/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9WMgx9tgPv-eJRzQB1YUfIqeWA4Xij68A_w&s",
+      "fuentePagina": "https://thestreetjournal.org/okoye-beaten-twice-in-debut-game-as-watford-suffer-shock-defeat-against-league-one-side/",
+      "titulo": "Okoye Beaten Twice In Debut Game As Watford Suffer Shock ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9WMgx9tgPv-eJRzQB1YUfIqeWA4Xij68A_w&s",
+      "original": "https://thestreetjournal.org/wp-content/uploads/2022/08/1045730-okoye-beaten-twice-in-debut-game-as-watford-suffer-shock-defeat-against-league-one-side.jpeg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bus/yo/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_a-g5933LhZo9v946QTT9I0nOYnIOhNTmww&s",
+      "fuentePagina": "https://africanarbitrationatlas.org/arbitrator/mr-azubike-okoye/",
+      "titulo": "Mr. Azubike Okoye – African Arbitration Atlas",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_a-g5933LhZo9v946QTT9I0nOYnIOhNTmww&s",
+      "original": "https://africanarbitrationatlas.org/wp-content/uploads/2021/03/Azubike-Okoye-1.jpg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bus/yo/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT21VWQSusO01zIOZv_-bwOHRCLQK803aONBg&s",
+      "fuentePagina": "https://allnigeriasoccer.com/alex-iwobi-reveals-okocha-told-him-to-dump-england-for-nigeria",
+      "titulo": "Alex Iwobi Reveals Okocha Told Him To Dump England For ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT21VWQSusO01zIOZv_-bwOHRCLQK803aONBg&s",
+      "original": "https://allnigeriasoccer.com/football_pics/TeremMoffigoal.jpg"
+    }
+  ]
+}

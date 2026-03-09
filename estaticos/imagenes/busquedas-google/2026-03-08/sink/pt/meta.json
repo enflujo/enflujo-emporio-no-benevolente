@@ -1,0 +1,71 @@
+{
+  "categoria": "sink",
+  "categoriaSlug": "sink",
+  "idioma": "pt",
+  "nombreIdioma": "Português",
+  "termino": "pia",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:27:19.048Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "pt",
+    "gl": "br"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=pia&hl=pt&gl=br",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/sink/pt/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-UOWjhw4KCmhH-w_XKQIpatTfuFnJO4l7sA&s",
+      "fuentePagina": "https://www.leroymerlin.com.br/pia-de-cozinha-roralit-marmore-sintetico-120cm-com-cuba-em-inox-622-a-j--rorato_1567089300",
+      "titulo": "Pia De Cozinha Roralit Mármore Sintético 120cm Com Cuba Em ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-UOWjhw4KCmhH-w_XKQIpatTfuFnJO4l7sA&s",
+      "original": "https://cdn.leroymerlin.com.br/products/pia_de_cozinha_roralit_marmore_sintetico_120cm_com_cuba_em_in_1567089300_886f_600x600.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/sink/pt/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQt5pLLiPnlt962MbSVU-ozK3IjCnFT9WAc9w&s",
+      "fuentePagina": "https://lucamateriais.com.br/produtos/pia-de-cozinha-aco-inox-120cm-franke/",
+      "titulo": "PIA DE COZINHA AÇO INOX 120CM FRANKE - Luca Materiais",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQt5pLLiPnlt962MbSVU-ozK3IjCnFT9WAc9w&s",
+      "original": "http://acdn-us.mitiendanube.com/stores/002/204/188/products/pia-de-cozinha-aco-inox-120cm-franke-7c36a06b99c41892b017349576162409-640-0.webp"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/sink/pt/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdxoLHcDRFJvDypjPFFilTzqAQ5_VQb10Y3g&s",
+      "fuentePagina": "https://www.amazon.com.br/FVVJVV-inteligente-dispensador-inoxid%C3%A1vel-remov%C3%ADvel/dp/B0D1GKNG17",
+      "titulo": "FVVJVV Pia de cozinha dupla em cascata, pia de cozinha moderna com  dispensador de sabão, pia de cozinha digital inteligente de aço inoxidável  com ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdxoLHcDRFJvDypjPFFilTzqAQ5_VQb10Y3g&s",
+      "original": "https://m.media-amazon.com/images/I/81CWKSdpiYL._AC_UF894,1000_QL80_.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/sink/pt/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShm-hyygLWueOE2HKHawq5jNIhO89hxNPDTQ&s",
+      "fuentePagina": "https://www.lojadocelar.com.br/produto/cuba-pia-banheiro-sophia-torneira-dl04-valvula-inox-click-branco-73932?srsltid=AfmBOoqmB0Iuexe6GSzwxyQxb8BcOmrdKlULkKVNSd2vDAGKClgB8LNW",
+      "titulo": "Cuba Pia Banheiro Sophia Torneira DL04 Valvula Inox Click Branco",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShm-hyygLWueOE2HKHawq5jNIhO89hxNPDTQ&s",
+      "original": "https://lojadocelar.fbitsstatic.net/img/p/cuba-pia-banheiro-sophia-torneira-dl04-valvula-inox-click-branco-73932/266574-5.jpg?w=1000&h=1000&v=202501231556"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/sink/pt/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSrUyotgNLvUZZQOPTBmHrXP96EguVbs2mGg&s",
+      "fuentePagina": "https://www.centermega.com.br/gnx-pia-inox-1-20mt-3976-p9445?srsltid=AfmBOooUXOrV-ZdqE3rlPWXFp-X0J0UWH8oXkjlj4WHIBQy-r1gmJKLO",
+      "titulo": "Gnx Pia Inox 1,20MT - Pia Inox 1,20Mt -Gnx - GNX",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSrUyotgNLvUZZQOPTBmHrXP96EguVbs2mGg&s",
+      "original": "https://d31dtgi5yshghi.cloudfront.net/Custom/Content/Products/94/45/9445_gnx-pia-inox-1-20mt-3976_z2_638470605997575840.webp"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/sink/pt/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHo19TpwqHGfDrpsPLIq-VMtonuHBMpZNwDw&s",
+      "fuentePagina": "https://www.paimendonca.com.br/produto/pia-inox-escorredor-120-x-054cm-c3-a430-branox.html?srsltid=AfmBOorJJB4dWLM9Pa0BI8bt9-sW_8nK7bNLtniBZvdd5Meva2gitqGg",
+      "titulo": "Pia Inox Escorredor 1.20 x 0,54cm C3 A430 - BRANOX",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHo19TpwqHGfDrpsPLIq-VMtonuHBMpZNwDw&s",
+      "original": "https://cdn.awsli.com.br/600x1000/1679/1679670/produto/102236249/pia-inox-escorredor-1-20-x-054cm-c3-a430-branox-37d936f8.jpg"
+    }
+  ]
+}

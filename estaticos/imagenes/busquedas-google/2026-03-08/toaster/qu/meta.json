@@ -1,0 +1,71 @@
+{
+  "categoria": "toaster",
+  "categoriaSlug": "toaster",
+  "idioma": "qu",
+  "nombreIdioma": "Quechua",
+  "termino": "toaster",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:26:31.211Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "es",
+    "gl": "pe"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=toaster&hl=es&gl=pe",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/toaster/qu/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYUvqaIjoW9onTGTY2JGdf4otUAyHtiX-wfw&s",
+      "fuentePagina": "https://www.nytimes.com/wirecutter/reviews/best-toaster/",
+      "titulo": "The 2 Best Toasters of 2026 | Reviews by Wirecutter",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYUvqaIjoW9onTGTY2JGdf4otUAyHtiX-wfw&s",
+      "original": "https://cdn.thewirecutter.com/wp-content/media/2024/11/toasters-2048px-9002-3x2-1.jpg?auto=webp&quality=75&crop=3:2&width=1024"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/toaster/qu/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDmmo6TJCpaKQ-2Q24BobaeISqUL5-GY6zyw&s",
+      "fuentePagina": "https://www.morphyrichards.co.uk/products/accents-4-slice-toaster-blue?srsltid=AfmBOorp3JOpyoWPvnhDUvrSG_zcPk4i17fIgVYwtSZDUCecGZih4OcO",
+      "titulo": "Accents Gold 4-Slice Toaster Navy – Morphy Richards-UK",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDmmo6TJCpaKQ-2Q24BobaeISqUL5-GY6zyw&s",
+      "original": "https://www.morphyrichards.co.uk/cdn/shop/files/MorphyRichards_Accents_4SliceToaster_242045_Lifestyle_8.jpg?v=1756460628&width=1080"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/toaster/qu/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScuNzlDhyQKyshhgsN8f-sQwllHJSkSgZOqg&s",
+      "fuentePagina": "https://steba.com/produkte/toaster-to-20-inox/?lang=en&srsltid=AfmBOoq69iAeAuRftmGpSXc-zTfgOcwr4reqz8uGp_D2MgD2pgqXQUF8",
+      "titulo": "Steba Elektrogeräte |",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScuNzlDhyQKyshhgsN8f-sQwllHJSkSgZOqg&s",
+      "original": "https://steba.com/wp-content/uploads/2024/06/TO20_Toaster_Steba_emoI_4011833001191_1772x1772.png"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/toaster/qu/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1S1DrBuFQtpsdka0b2bgOgH2DGbNdIdEK8g&s",
+      "fuentePagina": "https://www.ubuy.pe/sp/product/7NT001Z8W-toasters-2-slice-best-rated-prime-whall-stainless-steel-bagel-toaster-6-bread-shade-settings-bageldefrostcancel-function-1-5in-wide-slots-removable?srsltid=AfmBOooL86nlSiu8GCSLu3gzObEORymJFSqHhDhvSyLDJH3zORRILG1E",
+      "titulo": "Toasters 2 Slice Best Rated Prime, whall Stainless Steel,Bagel Toaster - 6  Bread Shade Settings,BagelDefrostCancel Function,1.5in Wide",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1S1DrBuFQtpsdka0b2bgOgH2DGbNdIdEK8g&s",
+      "original": "https://m.media-amazon.com/images/I/712HZx6uPbL._AC_SL1500_.jpg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/toaster/qu/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRltLCrooBZgCTVAYy25T5mJQnY0onELBTsuw&s",
+      "fuentePagina": "https://www.amazon.com/-/es/Amazon-Basics-Tostadora-especiales-descongelar/dp/B072P11H8L",
+      "titulo": "Amazon.com: Amazon Basics Tostadora de 2 rebanadas, con 6 ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRltLCrooBZgCTVAYy25T5mJQnY0onELBTsuw&s",
+      "original": "https://m.media-amazon.com/images/I/81R4c7AOq5L._AC_UF350,350_QL80_.jpg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/toaster/qu/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMVT1Z43szS2q2V2XQBwtGwxRr5vh-V7OI8g&s",
+      "fuentePagina": "https://www.krupsusa.com/BREAKFAST-APPLIANCES/TOASTERS/2-Slice-Toaster/p/8000035967",
+      "titulo": "2 Slice Toaster",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMVT1Z43szS2q2V2XQBwtGwxRr5vh-V7OI8g&s",
+      "original": "https://www.krupsusa.com/medias/?context=bWFzdGVyfGltYWdlc3wxOTk2NDR8aW1hZ2UvanBlZ3xhVzFoWjJWekwyZ3pNaTlvWm1Ndk1qWTRPRGd5TlRneE9URXpPVEF8OGQzMjc4ODlmMzhmNDlhYzQwN2FiNmZiZjQ3MWE1NWU4MTJiZWUwNTE1OTJhYTAyZDg4OTNjN2UwZjM1NDJiMA"
+    }
+  ]
+}

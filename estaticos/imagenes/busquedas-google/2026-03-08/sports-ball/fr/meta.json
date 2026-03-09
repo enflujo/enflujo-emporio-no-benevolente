@@ -1,0 +1,71 @@
+{
+  "categoria": "sports ball",
+  "categoriaSlug": "sports-ball",
+  "idioma": "fr",
+  "nombreIdioma": "Français",
+  "termino": "ballon",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:01:26.612Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "fr",
+    "gl": "be"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=ballon&hl=fr&gl=be",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/sports-ball/fr/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2SitRYP-Lp36kYIbhVuBApXL-ZCczyAQmTQ&s",
+      "fuentePagina": "https://www.igopromo.be/fr/loisirs-plein-air/articles-de-sport/ballon-de-foot-en-pvc-21.5cm-soccer/p197771-master",
+      "titulo": "Ballon de foot en PVC 21.5cm- Soccer publicitaire dès 5 pcs. | IGO",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2SitRYP-Lp36kYIbhVuBApXL-ZCczyAQmTQ&s",
+      "original": "https://static.igopromo.com/ish/Images/IGO/490x490/mo9007-33.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/sports-ball/fr/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcSJ-IbCSJAy9q-ZT3sd91dwVxtBZ7m9WAXw&s",
+      "fuentePagina": "https://fr.wikipedia.org/wiki/Ballon_de_football",
+      "titulo": "Ballon de football — Wikipédia",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcSJ-IbCSJAy9q-ZT3sd91dwVxtBZ7m9WAXw&s",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Football_Pallo_valmiina-cropped.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/sports-ball/fr/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTntEw2Y8IacVvASHGXYztxJC8XdiIiHAP3Lg&s",
+      "fuentePagina": "https://www.provence-outillage.fr/ballon-de-foot-270g-taille-5",
+      "titulo": "Ballon de foot 270g taille 5 - Provence Outillage",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTntEw2Y8IacVvASHGXYztxJC8XdiIiHAP3Lg&s",
+      "original": "https://www.provence-outillage.fr/data/images/balllon-foot-t5-a-07298_800x800.webp"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/sports-ball/fr/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTnfDRALDLY5g9ZWWvO5FaYiEJGGmcVsmYFg&s",
+      "fuentePagina": "https://www.decathlon.be/fr/p/ballon-de-football-cousu-machine-training-ball-taille-5-blanc/331004/c227m8789910",
+      "titulo": "Ballon de football cousu machine training ball taille 5 ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTnfDRALDLY5g9ZWWvO5FaYiEJGGmcVsmYFg&s",
+      "original": "https://contents.mediadecathlon.com/p2571152/k$ba750c7e79515995e3f0de2ddd460aa9/picture.jpg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/sports-ball/fr/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmyBHyMNa6RTtmXrwDQehk5hPJZ8a_GJGDqA&s",
+      "fuentePagina": "https://www.wordans.be/soccer-ballon-de-foot-en-pvc-21-5cm-giftretail-mo9007-520528",
+      "titulo": "SOCCER Ballon de foot en PVC 21.5cm - Blanc/Noir - GiftRetail MO9007",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmyBHyMNa6RTtmXrwDQehk5hPJZ8a_GJGDqA&s",
+      "original": "https://assets.wordans.be/files/model_specifications/2022/10/26/1256228/1256228_print_big.jpg?1686219851"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/sports-ball/fr/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQL2QAG9YMZGdMptFFErPrUkhba2EJov-REEQ&s",
+      "fuentePagina": "https://fr.wesco-eshop.be/387002-gros-ballon-o-95-cm.html",
+      "titulo": "GROS BALLON Ø 95 cm",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQL2QAG9YMZGdMptFFErPrUkhba2EJov-REEQ&s",
+      "original": "https://static.wesco.fr/media/catalog/product/cache/7ccc10e5a8277e9f8854785247b9d41d/3/8/387_120627_pd.jpg"
+    }
+  ]
+}

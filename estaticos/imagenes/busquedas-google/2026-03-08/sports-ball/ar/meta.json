@@ -1,0 +1,71 @@
+{
+  "categoria": "sports ball",
+  "categoriaSlug": "sports-ball",
+  "idioma": "ar",
+  "nombreIdioma": "العربية",
+  "termino": "كرة",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:01:40.789Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "ar",
+    "gl": "eg"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=%D9%83%D8%B1%D8%A9&hl=ar&gl=eg",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/sports-ball/ar/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSf_RJZVDtrXttRV_eBmJkTUUH_qH6rheiLIw&s",
+      "fuentePagina": "https://ar.wikihow.com/%D8%B1%D8%B3%D9%85-%D9%83%D8%B1%D8%A9-%D9%82%D8%AF%D9%85",
+      "titulo": "رسم كرة قدم - wikiHow",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSf_RJZVDtrXttRV_eBmJkTUUH_qH6rheiLIw&s",
+      "original": "https://www.wikihow.com/images/2/2f/Draw-a-Soccer-Ball-Step-31-Version-3.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/sports-ball/ar/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcSJ-IbCSJAy9q-ZT3sd91dwVxtBZ7m9WAXw&s",
+      "fuentePagina": "https://ar.wikipedia.org/wiki/%D9%83%D8%B1%D8%A9_(%D9%83%D8%B1%D8%A9_%D8%A7%D9%84%D9%82%D8%AF%D9%85)",
+      "titulo": "كرة (كرة القدم) - ويكيبيديا",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcSJ-IbCSJAy9q-ZT3sd91dwVxtBZ7m9WAXw&s",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Football_Pallo_valmiina-cropped.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/sports-ball/ar/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFm3WIZJPE_A4tQjkK0Mf0mkzM_EKov_Bgug&s",
+      "fuentePagina": "https://www.decathlon.eg/ar/p/334351-36610-%D9%83%D8%B1%D8%A9-%D9%82%D8%AF%D9%85-first-kick-%D9%85%D9%82%D8%A7%D8%B3-4-%D9%84%D9%84%D8%A3%D8%B7%D9%81%D8%A7%D9%84-%D9%85%D9%86-%D8%B3%D9%86-9-%D8%A5%D9%84%D9%89-12-%D8%B3%D9%86%D8%A9-%D8%A3%D8%AD%D9%85%D8%B1.html?srsltid=AfmBOopMCbX2PeVaAdjyfcJrXqxl_ooO7YiQe_CrmUSIzYYpgZQefSzj",
+      "titulo": "كرة قدم First Kick مقاس 4 (للأطفال من سن 9 إلى 12 سنة ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFm3WIZJPE_A4tQjkK0Mf0mkzM_EKov_Bgug&s",
+      "original": "https://contents.mediadecathlon.com/p2606834/k$f7fd5a4266d528650a32dd3de43e7ffb/-first-kick-5-12-.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/sports-ball/ar/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTx52Opl60xSa7OOTxCkCJEkqRRmP4zsh0o6A&s",
+      "fuentePagina": "https://www.aljazeera.net/science/2022/11/22/%D8%A8%D8%B3%D8%B1%D8%B9%D8%A9-%D8%AA%D9%81%D9%88%D9%82-%D8%A3%D9%8A%D8%A9-%D9%83%D8%B1%D8%A9-%D8%B3%D8%A7%D8%A8%D9%82%D8%A9-%D8%AA%D8%B9%D8%B1%D9%81-%D8%B9%D9%84%D9%89",
+      "titulo": "بسرعة تفوق أية كرة سابقة.. تعرف على فيزياء كرة كأس العالم 2022 المقامة في  قطر",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTx52Opl60xSa7OOTxCkCJEkqRRmP4zsh0o6A&s",
+      "original": "https://www.aljazeera.net/wp-content/uploads/2022/11/Untit32323led-1.jpg?resize=1920%2C1280&quality=80"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/sports-ball/ar/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8CNBs5IUESXeohssTbz7-IMHInXOdhbjbng&s",
+      "fuentePagina": "https://ar.wikipedia.org/wiki/%D9%85%D9%84%D9%81:Soccer_ball.svg",
+      "titulo": "ملف:Soccer ball.svg - ويكيبيديا",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8CNBs5IUESXeohssTbz7-IMHInXOdhbjbng&s",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Soccer_ball.svg/960px-Soccer_ball.svg.png"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/sports-ball/ar/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTa4M6u4rXAKhSwtoT69-HjJ2XjOw40R8XOQ&s",
+      "fuentePagina": "https://www.gomhuriaonline.com/Gomhuria/1416130.html?srsltid=AfmBOorEDba8_MtvAhkYQq9jqigJhtznVM1QASkye_gMpdAId8Nv3u_e",
+      "titulo": "الوزن والحجم والمواصفات .. كل ما تريد معرفته عن كرة القدم",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTa4M6u4rXAKhSwtoT69-HjJ2XjOw40R8XOQ&s",
+      "original": "https://m.gomhuriaonline.com/Upload/News/22-2-2024_15_17_23_GomhuriaOnline_161708607843.jpg"
+    }
+  ]
+}

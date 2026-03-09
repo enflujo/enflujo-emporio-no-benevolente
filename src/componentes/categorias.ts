@@ -83,6 +83,8 @@ const categorias = [
   'toothbrush',
 ];
 
+export { categorias };
+
 const categoriasConColor: { [nombre: string]: string } = {};
 
 categorias.forEach((categoria, i) => {

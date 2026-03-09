@@ -1,0 +1,71 @@
+{
+  "categoria": "horse",
+  "categoriaSlug": "horse",
+  "idioma": "hi",
+  "nombreIdioma": "हिन्दी",
+  "termino": "घोड़ा",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T20:51:57.166Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "hi",
+    "gl": "in"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=%E0%A4%98%E0%A5%8B%E0%A4%A1%E0%A4%BC%E0%A4%BE&hl=hi&gl=in",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/horse/hi/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTaN1_kTE6A-2Q017_lcBLkp-_S3WB4Yk1jdg&s",
+      "fuentePagina": "https://hindi.news18.com/news/ajab-gajab/why-horse-sleep-standing-up-why-horse-never-sit-ghoda-kabhi-baithta-kyun-nahi-ajab-gajab-knowledge-7859455.html",
+      "titulo": "घोड़ा सोते वक्त क्यों नहीं लेटता ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTaN1_kTE6A-2Q017_lcBLkp-_S3WB4Yk1jdg&s",
+      "original": "https://images.news18.com/ibnkhabar/uploads/2023/11/why-horse-sleep-standing-1-2023-11-432de1ec1107e3b5cedc798ff5ed9629.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/horse/hi/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpZj49xC3tMykaXm2pM35VDbuywF_YQs2xHA&s",
+      "fuentePagina": "https://hindi.news18.com/news/dharm/auspicious-or-inauspicious-to-see-horse-in-dream-meaning-sapne-me-ghoda-dekhne-ka-matlab-sa-local18-9099032.html",
+      "titulo": "सपने में देखा घोड़ा या कर रहे थे ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpZj49xC3tMykaXm2pM35VDbuywF_YQs2xHA&s",
+      "original": "https://images.news18.com/ibnkhabar/uploads/2025/03/images-2025-03-13T125948.875-2025-03-40629282569d724ef42c554f89aa17ef.jpg?impolicy=website&width=640&height=480"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/horse/hi/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMe6v5E-OPPyi6j4cQUjHsAuXX0M5FFf1P9w&s",
+      "fuentePagina": "https://animalsss.com/Blog/48/%E0%A4%B8%E0%A4%A7-%E0%A4%98%E0%A4%A1-%E0%A4%A8%E0%A4%B8%E0%A4%B2",
+      "titulo": "सिंधी घोड़ा नस्ल | Animals Super Store",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMe6v5E-OPPyi6j4cQUjHsAuXX0M5FFf1P9w&s",
+      "original": "https://animalsss.com/media/Blog_XVZYYst"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/horse/hi/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBIoN2acHs7ytIuI4MW8LFxTH-wdqsrAlOWw&s",
+      "fuentePagina": "https://sahityapedia.com/post/146574/",
+      "titulo": "फुर्तीला घोड़ा – Buddha Prakash – Sahityapedia",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBIoN2acHs7ytIuI4MW8LFxTH-wdqsrAlOWw&s",
+      "original": "https://cdn.sahityapedia.com/images/post/95e3b87c2694655f80b3b25768aa1d6e_7ab2349074ba1ebc5978edd5f5b716b1_600.jpg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/horse/hi/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAM1wezrfG7p4-cgTKgw_D5q2MfOeYxDKtaA&s",
+      "fuentePagina": "https://www.aajtak.in/trending/photo/expensive-horse-price-10-cr-speed-80-km-equal-to-express-train-2-bentley-cars-tstr-997565-2019-12-23",
+      "titulo": "इस घोड़े की कीमत 10 करोड़, दौड़ता ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAM1wezrfG7p4-cgTKgw_D5q2MfOeYxDKtaA&s",
+      "original": "https://akm-img-a-in.tosshub.com/aajtak/images/photo_gallery/201912/shaan-2_122319081350.jpg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/horse/hi/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTXxQMvNSkgp7APnxZTHFsBqyDAu7Uw8GE8g&s",
+      "fuentePagina": "https://www.patrika.com/bikaner-news/white-horse-will-come-to-bikaner-5929978",
+      "titulo": "बीकानेर में आएगा नुकरा सफेद ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTXxQMvNSkgp7APnxZTHFsBqyDAu7Uw8GE8g&s",
+      "original": "https://cms.patrika.com/wp-content/uploads/2020/03/25/20200324_154610.jpg"
+    }
+  ]
+}

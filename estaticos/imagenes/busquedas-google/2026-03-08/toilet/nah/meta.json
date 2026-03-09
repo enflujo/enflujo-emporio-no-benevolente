@@ -1,0 +1,71 @@
+{
+  "categoria": "toilet",
+  "categoriaSlug": "toilet",
+  "idioma": "nah",
+  "nombreIdioma": "Náhuatl",
+  "termino": "cuitlatl",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:20:43.890Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "es",
+    "gl": "mx"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=cuitlatl&hl=es&gl=mx",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/toilet/nah/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5AXbS5akIxfTy2Kh3o1-lO0gN2YBGx7rtsQ&s",
+      "fuentePagina": "http://www.gdn.unam.mx/diccionario/cuitlatl/13092",
+      "titulo": "cuitlatl - Gran Diccionario Náhuatl",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5AXbS5akIxfTy2Kh3o1-lO0gN2YBGx7rtsQ&s",
+      "original": "https://tlachia.iib.unam.mx/archivos/20-mazorcas/imagenes/01.04.04.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/toilet/nah/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2_EgMd3TrYRR83UWJ1xUDFZkOkRldFGJVAQ&s",
+      "fuentePagina": "http://www.gdn.unam.mx/diccionario/cuitlatl/13092",
+      "titulo": "cuitlatl - Gran Diccionario Náhuatl",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2_EgMd3TrYRR83UWJ1xUDFZkOkRldFGJVAQ&s",
+      "original": "https://tlachia.iib.unam.mx/archivos/mh-tianquiztenco/imagenes/01.04.04.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/toilet/nah/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_YKhLB2rvO-5B-GxobxqSAgieXgd5y_vyKQ&s",
+      "fuentePagina": "https://aztecglyphs.wired-humanities.org/content/cuitlatl-mdz39r",
+      "titulo": "cuitlatl (Mdz39r) | Visual Lexicon of Aztec Hieroglyphs",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_YKhLB2rvO-5B-GxobxqSAgieXgd5y_vyKQ&s",
+      "original": "https://aztecglyphs.wired-humanities.org/sites/default/files/Cuitlatl2.svg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/toilet/nah/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKmKJ6XvePVXFILtpEPTaqTV4cuLRzJ9YOvA&s",
+      "fuentePagina": "https://www.facebook.com/Roldan37/photos/deriva-del-n%C3%A1huatl-cuitlatl-excremento-y-cochtli-dormido-es-decir-excremento-dor/2846587545386022/",
+      "titulo": "Roldán - Deriva del náhuatl cuitlatl, excremento, y cochtli ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKmKJ6XvePVXFILtpEPTaqTV4cuLRzJ9YOvA&s",
+      "original": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=2846587545386022"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/toilet/nah/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmGOi9Sxqa-nBa_hPLWQMdYPVlSNkxhta9ow&s",
+      "fuentePagina": "https://www.instagram.com/cuitlatl.mx/",
+      "titulo": "Artesanías Cuitlatl (@cuitlatl.mx) • Instagram photos and videos",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmGOi9Sxqa-nBa_hPLWQMdYPVlSNkxhta9ow&s",
+      "original": "https://lookaside.fbsbx.com/lookaside/crawler/instagram/cuitlatl.mx/profile_pic.jpg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/toilet/nah/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgwz1DNkvuDnEzlDScxvv1zuTQiMaeUrGqyA&s",
+      "fuentePagina": "https://arqueologiamexicana.mx/mexico-antiguo/el-cuitlacoche-el-hongo-domestico-de-la-milpa",
+      "titulo": "El cuitlacoche. El hongo doméstico de la milpa | Arqueología ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgwz1DNkvuDnEzlDScxvv1zuTQiMaeUrGqyA&s",
+      "original": "https://arqueologiamexicana.mx/sites/default/files/styles/arq1200x600/public/raul_valadez_1.png?itok=rAgmo3IX"
+    }
+  ]
+}

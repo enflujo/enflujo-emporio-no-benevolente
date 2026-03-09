@@ -1,0 +1,71 @@
+{
+  "categoria": "snowboard",
+  "categoriaSlug": "snowboard",
+  "idioma": "am",
+  "nombreIdioma": "Amharic — አማርኛ",
+  "termino": "ስኖቦርድ",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:00:52.355Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "am",
+    "gl": "et"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=%E1%88%B5%E1%8A%96%E1%89%A6%E1%88%AD%E1%8B%B5&hl=am&gl=et",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/snowboard/am/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRA_ZG3XRW9hz9__IpIVfuFesMbbwW8ZGZl-A&s",
+      "fuentePagina": "https://play.google.com/store/apps/details?id=com.trendsgamesproduction.snowboard.mountain.master.stunt3D.games2021&hl=am",
+      "titulo": "Snowboard Mountain Stunts 3D - መተግባሪያዎች Google Play ላይ",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRA_ZG3XRW9hz9__IpIVfuFesMbbwW8ZGZl-A&s",
+      "original": "https://play-lh.googleusercontent.com/NPARbIuf7lztis_kNlWftqKsV0eaD0vIBhjdyb42kv7xNC1-duIdcC0HSh8mOUPMU5Q"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/snowboard/am/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSa_UeIPPqCUkqvD6dBYOwlDh8VpVPDLVZYMQ&s",
+      "fuentePagina": "https://play.google.com/store/apps/details?id=com.ezone.Snowboard&hl=am",
+      "titulo": "Crazy Snowboard - መተግባሪያዎች Google Play ላይ",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSa_UeIPPqCUkqvD6dBYOwlDh8VpVPDLVZYMQ&s",
+      "original": "https://play-lh.googleusercontent.com/O6m6uFeObJ5duFfUhNd9ebxlygkPsFhu5eL3QpWMw29ygjkeLo9D8PgC1UiHiHU51w=w526-h296-rw"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/snowboard/am/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKfj-XRdxIzVd1HvslNuTtGJfwqdhFVa5WvA&s",
+      "fuentePagina": "https://play.google.com/store/apps/details?id=com.ezone.Snowboard&hl=am",
+      "titulo": "Crazy Snowboard - መተግባሪያዎች Google Play ላይ",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKfj-XRdxIzVd1HvslNuTtGJfwqdhFVa5WvA&s",
+      "original": "https://play-lh.googleusercontent.com/5erUzZhYZ7LjJvSYNDDl6-L_lHYuvsZti-gsn6YiGdBisFbg1U2YyRAQAGDyzXV_1d4=w526-h296-rw"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/snowboard/am/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrg-Q5WUa_5clu-4ZV8qo-VYwxamWoYH_FqQ&s",
+      "fuentePagina": "https://play.google.com/store/apps/details?id=com.ezone.Snowboard&hl=am",
+      "titulo": "Crazy Snowboard - መተግባሪያዎች Google Play ላይ",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrg-Q5WUa_5clu-4ZV8qo-VYwxamWoYH_FqQ&s",
+      "original": "https://play-lh.googleusercontent.com/r2umxCh99xo0y0ruIL1NnpSGKOF7dhDgP7A1eW2nTI91TYcq0LGvVOREQ3ds3BIo=w526-h296-rw"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/snowboard/am/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEV7rt_IBVRfrNYpMjQcbeBcoxpyQvptCbVg&s",
+      "fuentePagina": "https://www.instagram.com/p/CpwY2Lsof6z/",
+      "titulo": "ምድረ ከብድ አቦ እና ዝቋላ አቦ ጻድቁ አባት አቡነ ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEV7rt_IBVRfrNYpMjQcbeBcoxpyQvptCbVg&s",
+      "original": "https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3807873212730858949"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/snowboard/am/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5g6-UB0RxcDe7JlDBKSkOlznC6KHwa1ZTxQ&s",
+      "fuentePagina": "https://play.google.com/store/apps/details?id=com.ezone.Snowboard&hl=am",
+      "titulo": "Crazy Snowboard - መተግባሪያዎች Google Play ላይ",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5g6-UB0RxcDe7JlDBKSkOlznC6KHwa1ZTxQ&s",
+      "original": "https://play-lh.googleusercontent.com/W7_qXqgWUccovZdBXa4Ewxllt8dwlYRrs8JLhgeQOZSWkj0DeFTHQUOJTk1f6SQA2w=w526-h296-rw"
+    }
+  ]
+}

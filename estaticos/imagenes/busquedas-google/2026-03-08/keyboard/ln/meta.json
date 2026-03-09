@@ -1,0 +1,71 @@
+{
+  "categoria": "keyboard",
+  "categoriaSlug": "keyboard",
+  "idioma": "ln",
+  "nombreIdioma": "Lingala",
+  "termino": "clavier",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:23:30.109Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "fr",
+    "gl": "cd"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=clavier&hl=fr&gl=cd",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/keyboard/ln/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdHzUM7dhpySjvdXf6oM9CGqbU_4fCmKolfg&s",
+      "fuentePagina": "https://cours-informatique-gratuit.fr/cours/presentation-clavier/",
+      "titulo": "Présentation d'un clavier — Xyoos",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdHzUM7dhpySjvdXf6oM9CGqbU_4fCmKolfg&s",
+      "original": "https://cours-informatique-gratuit.fr/wp-content/uploads/2014/05/clavier-1-1200x485.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/keyboard/ln/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQC6GbipaCFoWDKZ7TeIRhScj_1VogqlOzBPQ&s",
+      "fuentePagina": "https://geemarc.com/fr/product/clavier-pc/",
+      "titulo": "Clavier PC - Noir - Geemarc France",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQC6GbipaCFoWDKZ7TeIRhScj_1VogqlOzBPQ&s",
+      "original": "https://geemarc.com/fr/wp-content/uploads/sites/3/2018/06/2019KBSV3_BLK_Fr01-1024x675.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/keyboard/ln/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTz0_elxJC3bEzFyNDEqfnWhlisY3GbjmfaQ&s",
+      "fuentePagina": "https://www.keyouest.fr/product/clavier-sans-fil-office-noir/",
+      "titulo": "Clavier sans fil OFFICE noir - KeyOuest",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTz0_elxJC3bEzFyNDEqfnWhlisY3GbjmfaQ&s",
+      "original": "https://www.keyouest.fr/wp-content/uploads/2020/10/clavier-circle-sans-fil.png"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/keyboard/ln/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGloChoBRMJJjtyNqBHsAQWH-HKxKvjzY3YA&s",
+      "fuentePagina": "https://microcable.fr/fr/claviers/482-clavier-compact-mecanique-azerty-87-touches-3700224757830.html",
+      "titulo": "Clavier compact mécanique Azerty 87 touches",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGloChoBRMJJjtyNqBHsAQWH-HKxKvjzY3YA&s",
+      "original": "https://microcable.fr/3601-large_default/clavier-compact-mecanique-azerty-87-touches.jpg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/keyboard/ln/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcinuSI5fZLOqCW2fCAhBl5ha1iaaFhpQ1yg&s",
+      "fuentePagina": "https://www.ubuy.cm/fr/productde/ICW7VEJE8-wired-keyboard-pc-keyboard-usb-business-slim-keyboard-with-cable-for-computer-laptop-mac-windows-macos-qwertz-german-layout-black?srsltid=AfmBOop4uZNAtha47uG6bzrDL0nQ5LTSOiLhb-9sCroYo8oCn8Vz1DNn",
+      "titulo": "Clavier filaire Rii Clavier PC USB pour ordinateur Cameroon ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcinuSI5fZLOqCW2fCAhBl5ha1iaaFhpQ1yg&s",
+      "original": "https://m.media-amazon.com/images/I/618ObUwH5gL._AC_SL1500_.jpg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/keyboard/ln/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHJyVY5eL76zVJVHgD11SgtaxtYnE2x7auaA&s",
+      "fuentePagina": "https://www.coursinfo.fr/decouverte/souris-et-clavier/touches-dun-clavier/",
+      "titulo": "Quelles sont les touches d'un clavier ? | Coursinfo.fr",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHJyVY5eL76zVJVHgD11SgtaxtYnE2x7auaA&s",
+      "original": "https://www.coursinfo.fr/wp-content/uploads/2017/10/barre-espace.png"
+    }
+  ]
+}

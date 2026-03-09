@@ -1,0 +1,71 @@
+{
+  "categoria": "surfboard",
+  "categoriaSlug": "surfboard",
+  "idioma": "qu",
+  "nombreIdioma": "Quechua",
+  "termino": "surfboard",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:05:05.476Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "es",
+    "gl": "pe"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=surfboard&hl=es&gl=pe",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/surfboard/qu/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBaVmmTJLgIhyQVmZI6BTuVbgu4KimJ_B-fA&s",
+      "fuentePagina": "https://www.oceanatlanticrentals.com/watersports/foam-surfboard/",
+      "titulo": "Outer Banks Foam Surfboards, OBX Surf Rental | OAR",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBaVmmTJLgIhyQVmZI6BTuVbgu4KimJ_B-fA&s",
+      "original": "https://www.oceanatlanticrentals.com/wp-content/uploads/soft-surfboard-new-obx.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/surfboard/qu/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJVn3jS6m5tuN15t-XPvtDUP2Pisei3TFNwg&s",
+      "fuentePagina": "http://www.islandsurfboards.com.au/surfboards/performance-softboard",
+      "titulo": "PERFORMANCE SOFTBOARD - FUN — Island Surfboards",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJVn3jS6m5tuN15t-XPvtDUP2Pisei3TFNwg&s",
+      "original": "http://images.squarespace-cdn.com/content/v1/56ce2d7acf80a11b2f1489c7/1644458926900-Y7KA2YDVE6CS2QENVNKJ/blue.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/surfboard/qu/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRoVUi7ogineNRCAAFJ_YzzP_Sq_sNtwyWhtA&s",
+      "fuentePagina": "https://www.degree33surfboards.com/products/64-weapon-shortboard-surfboard-poly?srsltid=AfmBOoqzCmdOkpFS4S0Ei4asQm28NWF6pSXrF282tsAdiNLMtmSzuBZY",
+      "titulo": "6'4\" Rocket Fish Shortboard Surfboard (Poly) – Degree 33 ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRoVUi7ogineNRCAAFJ_YzzP_Sq_sNtwyWhtA&s",
+      "original": "http://www.degree33surfboards.com/cdn/shop/files/ROCKET-FISH-SHORTBOARD-SURFBOARD-WITH-CARBON-_NEXGEN-EPOXY_copy.jpg?v=1741205764"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/surfboard/qu/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2R8Ebp4XL_hY052gKMtg9qoxC4aSR_m0_Kw&s",
+      "fuentePagina": "https://stewartsurfboards.com/products/retro-fish-128281?srsltid=AfmBOoprYg3mm1vw-Pw69sOZ5iIGINqir4fptmMaKUSjK0H4sw41WsLm",
+      "titulo": "RETRO ALTERNATIVE SHORTBOARD MID-LENGTH SURFBOARD | Stewart ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2R8Ebp4XL_hY052gKMtg9qoxC4aSR_m0_Kw&s",
+      "original": "https://stewartsurfboards.com/cdn/shop/files/RFS-128281-P_fe9d5db0-495f-4a26-8e6d-e2a6da77b253.jpg?v=1743979388&width=1200"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/surfboard/qu/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZ84eAQdh___MN9iZ24oEee2aAtWaGuEnFew&s",
+      "fuentePagina": "https://surftech.com/collections/surfboards?srsltid=AfmBOoreOc5TBbuflqfkKHOu3HEU10xbU__Lv3lQqzP11XiUJRyIlVeZ",
+      "titulo": "Surftech | Surfboards",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZ84eAQdh___MN9iZ24oEee2aAtWaGuEnFew&s",
+      "original": "http://surftech.com/cdn/shop/collections/DSCF5540.jpg?v=1698341289&width=2048"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/surfboard/qu/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjYbXQsipHX44FhW4GOJyEhueW_p2uJ0TrMg&s",
+      "fuentePagina": "https://surfshopsaustralia.com.au/surfboards/beginner-surfboards/funboards/fish-surfboard-protech-epoxy-construction/nsp-surfboards",
+      "titulo": "NSP Surfboards | Fish Surfboard | Protech Epoxy | Surf Shops ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjYbXQsipHX44FhW4GOJyEhueW_p2uJ0TrMg&s",
+      "original": "https://cdn11.bigcommerce.com/s-9rwti9g0ov/images/stencil/1280x1280/products/845/8605/Buy-NSP-Fish-Surfboard-Online-Australia-Surf-Shop-Protech-Sky-Blue__06345.1729575420.jpg?c=2"
+    }
+  ]
+}

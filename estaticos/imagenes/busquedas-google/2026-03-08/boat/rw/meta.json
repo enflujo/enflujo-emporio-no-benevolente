@@ -1,0 +1,71 @@
+{
+  "categoria": "boat",
+  "categoriaSlug": "boat",
+  "idioma": "rw",
+  "nombreIdioma": "Kinyarwanda",
+  "termino": "ubwato",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T20:45:39.052Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "en",
+    "gl": "rw"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=ubwato&hl=en&gl=rw",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/boat/rw/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmNWzpDjD0BJoOVKMmYlUhCIegvgilk4QdHw&s",
+      "fuentePagina": "https://kigalitoday.com/amakuru/mu-rwanda/article/ubwato-bwa-mantis-kivu-queen-bwari-bufite-ikoranabuhanga-rireba-mu-mazi-afrinest",
+      "titulo": "Ubwato bwa Mantis Kivu Queen bwari bufite ikoranabuhanga ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmNWzpDjD0BJoOVKMmYlUhCIegvgilk4QdHw&s",
+      "original": "https://kigalitoday.com/IMG/jpg/ubwato_bwa_mantis_kivu_queen_buherutse_kugonga_ibuye_mu_mazi.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/boat/rw/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8myJRCqk78d-u5KacF28lbI30nKlUQoiVVA&s",
+      "fuentePagina": "https://www.kigalitoday.com/Inkuru-Zicukumbuye/article/ubwato-bahawe-na-rdf-bwazamuye-imibereho-yabo",
+      "titulo": "Ubwato bahawe na RDF bwazamuye imibereho yabo - Kigali Today",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8myJRCqk78d-u5KacF28lbI30nKlUQoiVVA&s",
+      "original": "https://www.kigalitoday.com/IMG/jpg/ubwato_bwa_birwa_i_bufite_ubushobozi_bwo_gutwara_abantu_40.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/boat/rw/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwFVlD-NweoqBzS-iHyC-nMFc2RQpjqDIXXQ&s",
+      "fuentePagina": "https://www.youtube.com/watch?v=m6tb4QdPHJo",
+      "titulo": "Ubwato bwa hotel y’inyenyeri 5 bwari bumaze igihe bwubakwa bwashyizwe mu  Kivu",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwFVlD-NweoqBzS-iHyC-nMFc2RQpjqDIXXQ&s",
+      "original": "https://i.ytimg.com/vi/m6tb4QdPHJo/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLBjGlObapxEqwJZJPR9OydR6frQng"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/boat/rw/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJks-SrqMNeX-KrQUSvNxFaiApZus3EgM8jw&s",
+      "fuentePagina": "https://www.bbc.com/gahuza/articles/c035z0xn2y1o",
+      "titulo": "Watch: A look at world's largest cruise ship as it leaves Port of Miami",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJks-SrqMNeX-KrQUSvNxFaiApZus3EgM8jw&s",
+      "original": "https://ichef.bbci.co.uk/images/ic/1024x576/p0h7lbvx.jpg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/boat/rw/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgESraEnkYSD02XGnbHNXED5mHAc70zYDwIw&s",
+      "fuentePagina": "https://www.igihe.com/amakuru/muri-afurika/u-rwanda/article/ubwato-bwo-muri-rdc-bwaraye-mu-rwanda",
+      "titulo": "Ubwato bwo muri RDC bwari bwakoreye impanuka mu Rwanda ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgESraEnkYSD02XGnbHNXED5mHAc70zYDwIw&s",
+      "original": "https://igihe.com/IMG/logo/akonkw.jpg?1710227970"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/boat/rw/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUwfCdB8Uq6ucUIxrI5-w7NbkcAUceXyaMCw&s",
+      "fuentePagina": "https://www.bbc.com/gahuza/articles/cz7rl7k20dro",
+      "titulo": "Tanzania: Ubwato 'buruta ubundi bwose' mu karere k'ibiyaga ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUwfCdB8Uq6ucUIxrI5-w7NbkcAUceXyaMCw&s",
+      "original": "https://ichef.bbci.co.uk/ace/ws/640/cpsprodpb/8e2d/live/17f92f00-ac24-11ed-8f65-71bfa0525ce3.jpg.webp"
+    }
+  ]
+}

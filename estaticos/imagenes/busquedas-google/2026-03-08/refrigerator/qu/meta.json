@@ -1,0 +1,16 @@
+{
+  "categoria": "refrigerator",
+  "categoriaSlug": "refrigerator",
+  "idioma": "qu",
+  "nombreIdioma": "Quechua",
+  "termino": "refrigerador",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:27:47.694Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "es",
+    "gl": "pe"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=refrigerador&hl=es&gl=pe",
+  "imagenes": []
+}

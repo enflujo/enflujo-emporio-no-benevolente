@@ -1,0 +1,71 @@
+{
+  "categoria": "cake",
+  "categoriaSlug": "cake",
+  "idioma": "ln",
+  "nombreIdioma": "Lingala",
+  "termino": "gâteau",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:16:13.390Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "fr",
+    "gl": "cd"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=g%C3%A2teau&hl=fr&gl=cd",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/cake/ln/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQI_nWaI3VfLaSRAmhinNKpGPt3UP4lVI4Uow&s",
+      "fuentePagina": "https://www.recettesjecuisine.com/fr/recettes/desserts/gateau-tuxedo/",
+      "titulo": "Gâteau tuxedo",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQI_nWaI3VfLaSRAmhinNKpGPt3UP4lVI4Uow&s",
+      "original": "https://cdn.pratico-pratiques.com/app/uploads/sites/4/2024/04/12105406/Gateau-tuxedo.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/cake/ln/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRY5VH-Ip58It15sXNvVuhKifB9ll4tI94xLA&s",
+      "fuentePagina": "https://ici.radio-canada.ca/mordu/recettes/9329/gateau-classique-chocolat",
+      "titulo": "Gâteau classique au chocolat",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRY5VH-Ip58It15sXNvVuhKifB9ll4tI94xLA&s",
+      "original": "https://images.radio-canada.ca/v1/alimentation/recette/4x3/gateau-classique-chocolat.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/cake/ln/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWGx1TQwStSbob9LLOWYcEW-UR6y7TbO5V1w&s",
+      "fuentePagina": "https://www.oetker.ca/fr_CA/recettes/r/gateau-danniversaire",
+      "titulo": "Gâteau d'anniversaire",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWGx1TQwStSbob9LLOWYcEW-UR6y7TbO5V1w&s",
+      "original": "https://recipesblob.oetker.ca/assets/123b2075c7f84a8f9482ec5561a5e2d8/750x400/birthday-cake-fr.webp"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/cake/ln/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRlTZi5yiqw-xnDy60OjQeyqHNqMb7keYoEw&s",
+      "fuentePagina": "https://www.5ingredients15minutes.com/fr/recettes/desserts-fr/gateau-danniversaire-aux-confettis/",
+      "titulo": "Gâteau d’anniversaire aux confettis",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRlTZi5yiqw-xnDy60OjQeyqHNqMb7keYoEw&s",
+      "original": "https://cdn.pratico-pratiques.com/app/uploads/sites/2/2022/11/07120727/gateau-d-anniversaire-aux-confettis.jpg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/cake/ln/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNKIe7x5FCqm_4Rnefr82HuIP72K8YnYWWPQ&s",
+      "fuentePagina": "https://www.lesrecettesdecaty.com/fr/recettes/desserts/gateau-au-chocolat/",
+      "titulo": "Gâteau au chocolat",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNKIe7x5FCqm_4Rnefr82HuIP72K8YnYWWPQ&s",
+      "original": "https://cdn.pratico-pratiques.com/app/uploads/sites/3/2018/10/09152353/gateau-au-chocolat_pg.jpg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/cake/ln/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTiwjv45zX463y-eDY-PAF4Qlvex59i54fXw&s",
+      "fuentePagina": "https://www.lesdelicesdekarinette.fr/2023/02/24/gateau-tutti-frutti/",
+      "titulo": "TUTTI FRUTTI / PRINTANNIER",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTiwjv45zX463y-eDY-PAF4Qlvex59i54fXw&s",
+      "original": "https://www.lesdelicesdekarinette.fr/wp-content/uploads/2024/01/gateau-anniversaire-tutti-frutti-scaled.jpg"
+    }
+  ]
+}

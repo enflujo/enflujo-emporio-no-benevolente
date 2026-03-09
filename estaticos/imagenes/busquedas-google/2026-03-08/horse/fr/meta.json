@@ -1,0 +1,71 @@
+{
+  "categoria": "horse",
+  "categoriaSlug": "horse",
+  "idioma": "fr",
+  "nombreIdioma": "Français",
+  "termino": "cheval",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T20:51:45.164Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "fr",
+    "gl": "be"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=cheval&hl=fr&gl=be",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/horse/fr/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfgtHUd4pPfDiKArH4Mv8k6Qr1H4YX1Gj92Q&s",
+      "fuentePagina": "https://www.aquaportail.com/dictionnaire/definition/633/cheval",
+      "titulo": "Cheval : définition et explications",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfgtHUd4pPfDiKArH4Mv8k6Qr1H4YX1Gj92Q&s",
+      "original": "https://www.aquaportail.com/pictures2306/cheval.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/horse/fr/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFSWC6jAvPl_RpBREiamvg64shwzP0z4IHMQ&s",
+      "fuentePagina": "https://fr.wikipedia.org/wiki/Cheval",
+      "titulo": "Cheval — Wikipédia",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFSWC6jAvPl_RpBREiamvg64shwzP0z4IHMQ&s",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Mangalarga_Marchador_Conforma%C3%A7%C3%A3o.jpg/330px-Mangalarga_Marchador_Conforma%C3%A7%C3%A3o.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/horse/fr/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0JRCYwAXc9Le_Bz-tnzdHwxowTt1ij4wMUg&s",
+      "fuentePagina": "https://www.classequine.com/races-chevaux/westphalien/",
+      "titulo": "Westphalien( Cheval) - Classequine",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0JRCYwAXc9Le_Bz-tnzdHwxowTt1ij4wMUg&s",
+      "original": "https://www.classequine.com/wp-content/uploads/2021/06/Westphalien-cheval.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/horse/fr/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7dj8nZ8LU9HAT9YxSZ7uk1dGv7CZ83MWSdA&s",
+      "fuentePagina": "https://www.zooplus.be/magazine/cheval/races-cheval/cheval-arabe",
+      "titulo": "Cheval arabe : apparence, tempérament, espérance de vie",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7dj8nZ8LU9HAT9YxSZ7uk1dGv7CZ83MWSdA&s",
+      "original": "https://www.zooplus.be/magazine/wp-content/uploads/2024/09/cheval-arabe1-1.webp"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/horse/fr/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHZx9wlAkIUUWKAHh9qSY1CXeeRTdm65D9sw&s",
+      "fuentePagina": "https://www.cheval-energy.com/fr/cheval-energy-academy/post/cheval-au-pre.html",
+      "titulo": "Cheval au pré pour l'été : les bons gestes",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHZx9wlAkIUUWKAHh9qSY1CXeeRTdm65D9sw&s",
+      "original": "https://www.cheval-energy.com/fr/img/ybc_blog/post/1565961835.jpg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/horse/fr/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8PQPvYTmRwAB0UWYubqdQxeb_n4AdrUcQ6w&s",
+      "fuentePagina": "https://www.zoologiste.com/animaux/cheval.html",
+      "titulo": "Cheval | Zoologiste.com",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8PQPvYTmRwAB0UWYubqdQxeb_n4AdrUcQ6w&s",
+      "original": "https://www.zoologiste.com/images/medium/cheval-papa-bebe.jpg"
+    }
+  ]
+}

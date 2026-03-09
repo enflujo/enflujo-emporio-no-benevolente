@@ -1,0 +1,71 @@
+{
+  "categoria": "surfboard",
+  "categoriaSlug": "surfboard",
+  "idioma": "ln",
+  "nombreIdioma": "Lingala",
+  "termino": "planche ya mbalé",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:04:39.691Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "fr",
+    "gl": "cd"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=planche%20ya%20mbal%C3%A9&hl=fr&gl=cd",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/surfboard/ln/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6C49o6jEo1bWqb3j8ebdMu7HM3sk947O6Og&s",
+      "fuentePagina": "https://www.facebook.com/61576110537911/posts/-bois-en-gros-et-en-d%C3%A9tail-%C3%A0-kinshasa-besoin-de-bois-de-qualit%C3%A9-pour-vos-projets/122096437010870351/",
+      "titulo": "🚨 Bois en gros et en détail à Kinshasa ! 🚨 Besoin de bois ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6C49o6jEo1bWqb3j8ebdMu7HM3sk947O6Og&s",
+      "original": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=122093766897015350"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/surfboard/ln/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNrQ-DlOLDwW6tFAtqNTCRWAbjImvAKde5lg&s",
+      "fuentePagina": "https://ilicut.com/fr_FR/products-list/panneau-et-planche?srsltid=AfmBOopGkp-vALMzEleOqPykwMWSjKTyjSprxh6xKZNxO3jhdllRn8m7",
+      "titulo": "Tout savoir sur les planches et panneaux bois sur mesure",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNrQ-DlOLDwW6tFAtqNTCRWAbjImvAKde5lg&s",
+      "original": "https://ilicut.com/media/rich-editor/plancheboismassiflamescontinues-677fe3865efad.webp"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/surfboard/ln/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkF7I36PwJNeAJbjcc7GJGl5fJ_BUNZdSQjA&s",
+      "fuentePagina": "https://laiguisoir.com/products/planche-10-x-14-34-lamine-erable-labell?srsltid=AfmBOoo2ZxdpwOCq1TdofMtgeQm4sJYMNu6Czdl0NEQocRBhi_PLG5z8",
+      "titulo": "Planche 10 x 14 x 3/4 - Laminé - Érable - Labell - L ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkF7I36PwJNeAJbjcc7GJGl5fJ_BUNZdSQjA&s",
+      "original": "https://laiguisoir.com/cdn/shop/files/planche-10-x-14-x-3-4-lamine-erable-labell-laiguisoir-602.webp?v=1739902133&width=1946"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/surfboard/ln/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdYdOmHcTI4tsBLh3nPcj6HWsSjHLQNHIAAA&s",
+      "fuentePagina": "https://ilicut.com/fr_FR/products/panneau-multilignes-hetre?srsltid=AfmBOooExTZ3Y8tM45i3gRABGMtMUoqCKCc2xdqyE8o0_5dOy0gttEQV",
+      "titulo": "Panneau multilignes en hêtre découpé sur mesure | ilicut.com",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdYdOmHcTI4tsBLh3nPcj6HWsSjHLQNHIAAA&s",
+      "original": "https://ilicut.com/media/cache/app_products_grid_thumbnail/1f/44/69e732e8eeec5c4b5f0d30c82136.webp"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/surfboard/ln/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_-3Tr9-8Ex8T2GzZRFVO1ZYpI7YYppenhFw&s",
+      "fuentePagina": "https://www.setam.com/plateau-etabli-en-bois-hetre-1500x750-epaisseur-40-mm.html?srsltid=AfmBOopWwoYZZ5GmZABnDBUm2YHlgKz47avS9_G3Fc3XO5kTC4Bn1IbA",
+      "titulo": "Plateau d'établi en hêtre lamellé collé",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_-3Tr9-8Ex8T2GzZRFVO1ZYpI7YYppenhFw&s",
+      "original": "https://www.setam.com/media/catalog/product/cache/b0de6267e0ba0e49baa51179d30fd0a5/4/7/4704440-xHdVxTTP.jpg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/surfboard/ln/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdvrtfK-1c0urLCD8WKKTJQHfXqnYmRSRqBQ&s",
+      "fuentePagina": "https://www.instagram.com/p/DR_kDSFDKvV/",
+      "titulo": "🎙️ [𝑫𝒆𝒄𝒍𝒂𝒓𝒂𝒕𝒊𝒐𝒏] « 𝑱𝒆 𝒔𝒖𝒑𝒑𝒐𝒓𝒕𝒆 𝒎𝒐𝒏 ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdvrtfK-1c0urLCD8WKKTJQHfXqnYmRSRqBQ&s",
+      "original": "https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3782900758803650070"
+    }
+  ]
+}

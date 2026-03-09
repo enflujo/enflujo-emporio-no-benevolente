@@ -1,0 +1,71 @@
+{
+  "categoria": "fire hydrant",
+  "categoriaSlug": "fire-hydrant",
+  "idioma": "qu",
+  "nombreIdioma": "Quechua",
+  "termino": "nina yakuy",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T20:47:20.944Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "es",
+    "gl": "pe"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=nina%20yakuy&hl=es&gl=pe",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/fire-hydrant/qu/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXHktT7cSn5DKG5Xpik_-VTw-8N2Dk2KDK3w&s",
+      "fuentePagina": "https://www.facebook.com/ninayaku.pe/",
+      "titulo": "nina yaku (@ninayaku.pe) • Facebook",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXHktT7cSn5DKG5Xpik_-VTw-8N2Dk2KDK3w&s",
+      "original": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=100063507019096"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/fire-hydrant/qu/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRszPhjACb6hB1wbjBKc9sKHdkzydY0PBPGQ&s",
+      "fuentePagina": "https://www.facebook.com/Nina.Yaku.Aqp/",
+      "titulo": "Nina Yaku Arequipa | Arequipa",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRszPhjACb6hB1wbjBKc9sKHdkzydY0PBPGQ&s",
+      "original": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=100070010800958"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/fire-hydrant/qu/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOWDaMFr_JLs1TF__zUVFo_aYo1zTuAdmTnQ&s",
+      "fuentePagina": "https://www.facebook.com/nina.yakurestaurante/",
+      "titulo": "NINA YAKU Restaurante Arequipa | Arequipa",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOWDaMFr_JLs1TF__zUVFo_aYo1zTuAdmTnQ&s",
+      "original": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=100080904133431"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/fire-hydrant/qu/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQeRYC-WREdphoKW246obno6F9jsluSK4P3Zg&s",
+      "fuentePagina": "https://www.facebook.com/Nina.Yaku.Aqp/",
+      "titulo": "Nina Yaku Arequipa | Arequipa",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQeRYC-WREdphoKW246obno6F9jsluSK4P3Zg&s",
+      "original": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=206998776090438"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/fire-hydrant/qu/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1n40k748elBx40L_KKht_lGuGci0b8tuj2Q&s",
+      "fuentePagina": "https://www.facebook.com/ninayaku.pe/",
+      "titulo": "nina yaku (@ninayaku.pe) • Facebook",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1n40k748elBx40L_KKht_lGuGci0b8tuj2Q&s",
+      "original": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=587785935992593&get_thumbnail=1"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/fire-hydrant/qu/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQU3rfb6cuL0fv6WTpTlg5VAOY36jhFWK79aA&s",
+      "fuentePagina": "https://www.facebook.com/nina.yakurestaurante/",
+      "titulo": "NINA YAKU Restaurante Arequipa | Arequipa",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQU3rfb6cuL0fv6WTpTlg5VAOY36jhFWK79aA&s",
+      "original": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=160237073349763"
+    }
+  ]
+}

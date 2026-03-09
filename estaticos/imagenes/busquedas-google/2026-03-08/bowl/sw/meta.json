@@ -1,0 +1,71 @@
+{
+  "categoria": "bowl",
+  "categoriaSlug": "bowl",
+  "idioma": "sw",
+  "nombreIdioma": "Kiswahili",
+  "termino": "bakuli",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:09:54.074Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "sw",
+    "gl": "tz"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=bakuli&hl=sw&gl=tz",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bowl/sw/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOZcQe92b20G28Uy0bLRREgiuSFz3rhFSj_g&s",
+      "fuentePagina": "https://www.instagram.com/p/CfBRCNZt3sT/",
+      "titulo": "Bakuli za udongo nzuri sana 6pcs @18,000",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOZcQe92b20G28Uy0bLRREgiuSFz3rhFSj_g&s",
+      "original": "https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=2864645756604087059"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bowl/sw/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2yReizzUVUeR2H6MzgWImRKUYgNWyGLUbLw&s",
+      "fuentePagina": "https://www.kiafrika.shop/product/bowl-bakuli-udongo/?srsltid=AfmBOoq5_LFvzjGflQ0YhKJjFxQ1rJq4QJ4A7g1ChzMqtZzyvcdm0-_p",
+      "titulo": "Bowl- Bakuli Udongo - KiAfrika Market",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2yReizzUVUeR2H6MzgWImRKUYgNWyGLUbLw&s",
+      "original": "https://www.kiafrika.shop/wp-content/uploads/2024/04/WSHL8743.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bowl/sw/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRosKMwMPrnRIvX4kDK2Xx2TjQeYbOPnZqyWA&s",
+      "fuentePagina": "https://www.wayandfarer.com/sw/tableware/bakuli-za-kambi/bakuli-nyeupe-za-enamel-seti-ya-2/?srsltid=AfmBOorSXwUgy4kiZX7PC5T7VfZDzCWOaHRrP_x6zYa2NJEzOROUFnAN",
+      "titulo": "Seti ya bakuli nyeupe ya Enamel | Bakuli 2x Nyeupe za ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRosKMwMPrnRIvX4kDK2Xx2TjQeYbOPnZqyWA&s",
+      "original": "https://www.wayandfarer.com/wp-content/uploads/2021/01/White-Enamel-Bowl-3.jpeg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bowl/sw/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEM6kab0s4zK1OJ7qQ63PumpEeroeVrJ0zYQ&s",
+      "fuentePagina": "https://www.instagram.com/p/DN5eb5kDGak/",
+      "titulo": "Bakuli kubwa zur material udongo ujazo 3kg 20000 tyu",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEM6kab0s4zK1OJ7qQ63PumpEeroeVrJ0zYQ&s",
+      "original": "https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3709129626745595556"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bowl/sw/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4uVCLlj5VcSpNkgHTl4V7M9IypjIH0TDSCw&s",
+      "fuentePagina": "https://www.garbotableware.com/sw/ceramic-bowl/5.75-inch-color-glazed-cereal-bowl-stoneware-factory-in-china.html",
+      "titulo": "Kiwanda cha mawe cha bakuli cha nafaka cha rangi ya inchi ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4uVCLlj5VcSpNkgHTl4V7M9IypjIH0TDSCw&s",
+      "original": "https://www.garbotableware.com/data/watermark/20240307/65e964d5056e9.jpg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bowl/sw/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlDB-gdQ2cEc7JTN8ZtoqjfrhIeuQpgdxJiA&s",
+      "fuentePagina": "https://swahili.zzhcmy.com/Vikombe-vya-enamel-a/bakuli-za-enamel-za-kutumika-nyumbani-bakuli-zenye-miguu-ya-bakuli-hcfb16-24",
+      "titulo": "Vibakuli vya enameli vya kutumika nyumbani Bakuli la enamel ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlDB-gdQ2cEc7JTN8ZtoqjfrhIeuQpgdxJiA&s",
+      "original": "https://www.zzhcmy.com/upload/product/1680847922709191.jpg"
+    }
+  ]
+}

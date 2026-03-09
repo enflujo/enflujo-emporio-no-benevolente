@@ -1,0 +1,71 @@
+{
+  "categoria": "bowl",
+  "categoriaSlug": "bowl",
+  "idioma": "es",
+  "nombreIdioma": "Español",
+  "termino": "bol",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:10:25.987Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "es",
+    "gl": "es"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=bol&hl=es&gl=es",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bowl/es/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9454isFuc-N2oyFZSLlNINtk3fK95ZkDwWg&s",
+      "fuentePagina": "https://casajovenonline.com/boles-de-porcelana/23010-bol-porcelana-16cm-8430852837004.html?srsltid=AfmBOoprzJLLC5f02tBqzB9beOGY0WMJGQZce1KMSk6bBnrHWn8HS0I2",
+      "titulo": "Bol porcelana blanca 16cm",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9454isFuc-N2oyFZSLlNINtk3fK95ZkDwWg&s",
+      "original": "https://casajovenonline.com/95444-large_default/bol-porcelana-16cm.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bowl/es/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmIO820lP2NXubL4DLiGP6wIrDRiEaBKtVfw&s",
+      "fuentePagina": "https://www.monouso.es/bol-reutilizable-durable-pp-mineral-rojo-2l-o20cm-1-ud-18236.html?srsltid=AfmBOopwPNvpenl-bVf0YilMt3uH8HiRAz5tAFhF4xM5YHSIe7Zd4qHA",
+      "titulo": "Bol Reutilizable Durable PP Mineral Rojo 2.000ml Ø20cm (1 Ud)",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmIO820lP2NXubL4DLiGP6wIrDRiEaBKtVfw&s",
+      "original": "https://www.monouso.es/64022/bol-reutilizable-durable-pp-mineral-rojo-2l-o20cm-1-ud.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bowl/es/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVMFoINfcnO3tbE-DZOf02To0Rchi6wXITFg&s",
+      "fuentePagina": "https://www.elamasadero.com/314-bol-acero-mediano.html?srsltid=AfmBOoqTmsvtfijOGpkeZMbeN6qhYYzVFJfEMEmoPtlu9z4fINCRTIeC",
+      "titulo": "Bol acero inoxidable Lacor de 4,3 litros - 30 cm",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVMFoINfcnO3tbE-DZOf02To0Rchi6wXITFg&s",
+      "original": "https://productimages.etrusted.com/products/prt-03146264-dbfb-4896-9b01-58e2e3cd46fe/1/original.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bowl/es/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtR2r90jPo0BiD0Ak3B4yhkh4grSzamzQMiQ&s",
+      "fuentePagina": "https://montessoriparatodos.es/bol-de-acero-inox-o16.html",
+      "titulo": "Bol de acero INOX 16",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtR2r90jPo0BiD0Ak3B4yhkh4grSzamzQMiQ&s",
+      "original": "https://montessoriparatodos.es/15374-thickbox_default/bol-de-acero-inox-o16.jpg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bowl/es/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQ_FAcMdk28fGu8wVG1tcsd3ea4lU4SH2zmg&s",
+      "fuentePagina": "https://www.elamasadero.com/526-bol-acero-inoxidable-lacor-de-8-litros-34-cm.html?srsltid=AfmBOoqBcjxrl7zQiMBb7o4BWRbgRfQvuX69TPPbW6jc_eXrhLOgmGFI",
+      "titulo": "Bol de acero inoxidable para panadería y repostería casera ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQ_FAcMdk28fGu8wVG1tcsd3ea4lU4SH2zmg&s",
+      "original": "https://www.elamasadero.com/1003-large_default/bol-acero-inoxidable-lacor-de-8-litros-34-cm.jpg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bowl/es/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_Q6xe4VxBQKnh9wi1TBIJSSBR-xokW1RU6w&s",
+      "fuentePagina": "https://www.grupocrisol.com/catalogo/cocina/boles_y_escurridores/bol_cocina_plastico/5554.html?srsltid=AfmBOoqRqpH_UKvCDfytXLJP7bso3dVIAldMVDDeTP7AlHEwiKRECCVQ",
+      "titulo": "Bol cocina plástico de Araven. Catálogo Cocina Boles y ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_Q6xe4VxBQKnh9wi1TBIJSSBR-xokW1RU6w&s",
+      "original": "https://www.grupocrisol.com/recursos/bigs/5554_2.jpg"
+    }
+  ]
+}

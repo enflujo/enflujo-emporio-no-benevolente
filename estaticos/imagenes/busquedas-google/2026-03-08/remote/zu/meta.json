@@ -1,0 +1,71 @@
+{
+  "categoria": "remote",
+  "categoriaSlug": "remote",
+  "idioma": "zu",
+  "nombreIdioma": "isiZulu",
+  "termino": "irimote",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:23:09.356Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "zu",
+    "gl": "za"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=irimote&hl=zu&gl=za",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/remote/zu/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYbNjetSEBdeVojiyC31POr0ekkkDxraTUgg&s",
+      "fuentePagina": "https://m.facebook.com/SmallWildCatOrganisation/photos/irimote-catthe-iriomote-cat-is-a-subspecies-of-the-leopard-cat-that-lives-exclus/1327951703971258/",
+      "titulo": "FELIS - Irimote Cat: The Iriomote Cat is a subspecies of the ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYbNjetSEBdeVojiyC31POr0ekkkDxraTUgg&s",
+      "original": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=1327951703971258"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/remote/zu/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6MZIQKhD5UyCbDUweRVs91ZObh587vNeI3w&s",
+      "fuentePagina": "https://okinawahai.com/iriomote-island-yaeyama-islands/",
+      "titulo": "Iriomote Island (Yaeyama Islands) – Okinawa Hai",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6MZIQKhD5UyCbDUweRVs91ZObh587vNeI3w&s",
+      "original": "https://okinawahai.com/wp-content/old/6a00e54ee8a8ff8833014e890ebc61970d-800wi.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/remote/zu/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqKjzJuMx_WqhdvItcRjOKEY1_m1a58aVybA&s",
+      "fuentePagina": "https://www.facebook.com/groups/japantravel/posts/1148939942891251/",
+      "titulo": "Visiting Irimote Island in Japan for Beaches and Snorkeling",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqKjzJuMx_WqhdvItcRjOKEY1_m1a58aVybA&s",
+      "original": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=10168924594570106"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/remote/zu/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpaI1oA6K8bZYf1r9ooGUTQY2Zyxx4sQ_pSw&s",
+      "fuentePagina": "https://www.facebook.com/groups/524159228257285/posts/1660191054654091/",
+      "titulo": "Exploring Irimote Island's Urauchi River",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpaI1oA6K8bZYf1r9ooGUTQY2Zyxx4sQ_pSw&s",
+      "original": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=10162288542613717"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/remote/zu/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSew35qkUU60uFJ0FbKNGXNqaBxI0q1_MikFg&s",
+      "fuentePagina": "https://www.facebook.com/groups/524159228257285/posts/1660191054654091/",
+      "titulo": "Exploring Irimote Island's Urauchi River",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSew35qkUU60uFJ0FbKNGXNqaBxI0q1_MikFg&s",
+      "original": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=10162288542633717"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/remote/zu/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYmN0CKw6005rshZGyapovNW2FdbKphx1u0A&s",
+      "fuentePagina": "https://www.facebook.com/groups/japantravel/posts/1148939942891251/",
+      "titulo": "Visiting Irimote Island in Japan for Beaches and Snorkeling",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYmN0CKw6005rshZGyapovNW2FdbKphx1u0A&s",
+      "original": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=10168924595005106"
+    }
+  ]
+}

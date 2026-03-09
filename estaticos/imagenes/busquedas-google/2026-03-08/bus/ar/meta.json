@@ -1,0 +1,71 @@
+{
+  "categoria": "bus",
+  "categoriaSlug": "bus",
+  "idioma": "ar",
+  "nombreIdioma": "العربية",
+  "termino": "حافلة",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T20:43:58.607Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "ar",
+    "gl": "eg"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=%D8%AD%D8%A7%D9%81%D9%84%D8%A9&hl=ar&gl=eg",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bus/ar/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPUDMw1PJhiqYTFPNBduPOe1iFuDFi3Zg4sA&s",
+      "fuentePagina": "http://zhongtongbus.ae/1-4-3-6125h-coach/",
+      "titulo": "حافلة 6125H (Cruise) | حافلات | Zhongtong",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPUDMw1PJhiqYTFPNBduPOe1iFuDFi3Zg4sA&s",
+      "original": "http://zhongtongbus.ae/upload/3595/o/1-4-2-6115h-coach_01.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bus/ar/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBjAiObb-vDmikziRcPSs3cGXhiEc9vxz9TQ&s",
+      "fuentePagina": "http://www.huanghai-auto.asia/product-3-express-coach/220263/",
+      "titulo": "حافلة السفر | حافلات كبيرة | Huanghai",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBjAiObb-vDmikziRcPSs3cGXhiEc9vxz9TQ&s",
+      "original": "http://huanghai-auto.asia/upload/3358/o/13_3_5_express_coach_1.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bus/ar/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqRW3_qSFl2Z_ILrkVZWEa2YhzI8Br_Wqzag&s",
+      "fuentePagina": "http://www.zhongtongbus.ae/1-4-1-6129h-coach/",
+      "titulo": "حافلة 6129H (Navigator) | حافلات | Zhongtong",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqRW3_qSFl2Z_ILrkVZWEa2YhzI8Br_Wqzag&s",
+      "original": "http://zhongtongbus.ae/upload/3595/o/1-4-1-6129h-coach_01.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bus/ar/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRZUXsxslu9A9v95on_5f497Jqv9_O5_-_UA&s",
+      "fuentePagina": "https://sa.made-in-china.com/co_cssenquan/product_Customized-Luxury-Bus-Price-45-50-72-Seaters-City-Bus-Price_uohoonnneg.html",
+      "titulo": "سعر حافلة فاخرة حسب الطلب 45/50/72 سعر حافلة المدينة - الصين ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRZUXsxslu9A9v95on_5f497Jqv9_O5_-_UA&s",
+      "original": "https://image.made-in-china.com/202f0j00dFYVgOSMSKbT/Customized-Luxury-Bus-Price-45-50-72-Seaters-City-Bus-Price.webp"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bus/ar/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSd-4wjlF8vqXAaFQ_r3ZMJlax-arITZvCmmQ&s",
+      "fuentePagina": "https://ar.pngtree.com/freepng/yellow-travel-big-bus_4681258.html",
+      "titulo": "حافلة سفر صفراء كبيرة, حافلة, أصفر, ركوب متعدد الأشخاص PNG ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSd-4wjlF8vqXAaFQ_r3ZMJlax-arITZvCmmQ&s",
+      "original": "https://png.pngtree.com/element_our/20190602/ourlarge/pngtree-yellow-travel-big-bus-image_1419948.jpg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bus/ar/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkCEwj_8lxXJFNHADeFjDKQ4BKKEYVEU59Pg&s",
+      "fuentePagina": "http://zhongtongbus.ae/2-3-1-6105hgc-city-buses/",
+      "titulo": "حافلة 6105HGC (Magnate) | حافلات | Zhongtong",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkCEwj_8lxXJFNHADeFjDKQ4BKKEYVEU59Pg&s",
+      "original": "http://zhongtongbus.ae/upload/3595/o/2-1-1-6820hg-city-buses_01.jpg"
+    }
+  ]
+}

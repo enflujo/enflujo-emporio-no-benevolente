@@ -1,0 +1,71 @@
+{
+  "categoria": "knife",
+  "categoriaSlug": "knife",
+  "idioma": "nah",
+  "nombreIdioma": "Náhuatl",
+  "termino": "técpatl",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:09:02.200Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "es",
+    "gl": "mx"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=t%C3%A9cpatl&hl=es&gl=mx",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/knife/nah/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuzQH08S5z68sQwnKDo9e_TqQqtCvNY70gdg&s",
+      "fuentePagina": "https://es.wikipedia.org/wiki/T%C3%A9cpatl",
+      "titulo": "Técpatl - Wikipedia, la enciclopedia libre",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuzQH08S5z68sQwnKDo9e_TqQqtCvNY70gdg&s",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/2/26/Signo_T%C3%A9cpatl.png"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/knife/nah/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIMHKZ_nKbhIAZ6NfL2NnOPWrX79_kZAkj2g&s",
+      "fuentePagina": "https://es.wikipedia.org/wiki/T%C3%A9cpatl",
+      "titulo": "Técpatl - Wikipedia, la enciclopedia libre",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIMHKZ_nKbhIAZ6NfL2NnOPWrX79_kZAkj2g&s",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Flint_Mexican_sacrificial_knife_%28tecpatl%29.jpg/250px-Flint_Mexican_sacrificial_knife_%28tecpatl%29.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/knife/nah/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdQWa_nirFJ3Brg69tRVq4-9sncqB5qcoadQ&s",
+      "fuentePagina": "https://arqueologiamexicana.mx/mexico-antiguo/tecpatl-o-cuchillo-de-pedernal",
+      "titulo": "Técpatl o cuchillo de pedernal | Arqueología Mexicana",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdQWa_nirFJ3Brg69tRVq4-9sncqB5qcoadQ&s",
+      "original": "https://arqueologiamexicana.mx/sites/default/files/styles/arq1200x600/public/gonzalez_am27_1.jpg?itok=odcq0jWj"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/knife/nah/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlwse6kphmeay1FuHk1BUZ_F9k7Mtt2EMd3w&s",
+      "fuentePagina": "https://es.wikipedia.org/wiki/T%C3%A9cpatl",
+      "titulo": "Técpatl - Wikipedia, la enciclopedia libre",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlwse6kphmeay1FuHk1BUZ_F9k7Mtt2EMd3w&s",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Tecpatl.jpg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/knife/nah/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrjPYsEFpFQA1bsMHlMsaiaAnOctIH-NjfhQ&s",
+      "fuentePagina": "https://www.facebook.com/INAHmx/posts/ni%C3%B1osinah-t%C3%A9cpatlsabes-qu%C3%A9-era-el-t%C3%A9cpatl-el-t%C3%A9cpatl-era-el-cuchillo-sagrado-con/3692828910796714/",
+      "titulo": "NiñosINAH | Técpatl ¿Sabes qué era el técpatl? 🤔 El técpatl ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrjPYsEFpFQA1bsMHlMsaiaAnOctIH-NjfhQ&s",
+      "original": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=3692828094130129"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/knife/nah/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-MFfeoJB9N7QCAhYFKuhv7HJqwpcK-05nzg&s",
+      "fuentePagina": "https://www.facebook.com/culturaaztecaymayamexico/posts/el-t%C3%A9cpatl-era-tradicionalmente-un-cuchillo-para-sacrificios-humanos-utilizado-p/1087102516799567/",
+      "titulo": "El Técpatl era tradicionalmente un cuchillo para sacrificios ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-MFfeoJB9N7QCAhYFKuhv7HJqwpcK-05nzg&s",
+      "original": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=1087102496799569"
+    }
+  ]
+}

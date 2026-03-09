@@ -1,0 +1,71 @@
+{
+  "categoria": "potted plant",
+  "categoriaSlug": "potted-plant",
+  "idioma": "ln",
+  "nombreIdioma": "Lingala",
+  "termino": "nzete ya bonga",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:18:13.404Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "fr",
+    "gl": "cd"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=nzete%20ya%20bonga&hl=fr&gl=cd",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/potted-plant/ln/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCRtZWmmePeBNIxJlpumOdXbnbkZvQJy2O9g&s",
+      "fuentePagina": "https://music.apple.com/fr/album/nzete-ya-mbongo/1248905625",
+      "titulo": "Nzete ya m'bongo – Album par Bipoli – Apple Music",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCRtZWmmePeBNIxJlpumOdXbnbkZvQJy2O9g&s",
+      "original": "https://is1-ssl.mzstatic.com/image/thumb/Music3/v4/18/ea/07/18ea07a6-7bc9-3ced-348f-f2d01642ee7f/cover.jpg/1200x630bb.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/potted-plant/ln/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlK3tzpMc_kPYCwQxkjGMofPq9MHMdUJupsg&s",
+      "fuentePagina": "https://music.apple.com/us/album/nzete-ya-mbongo/1248905625",
+      "titulo": "Nzete ya m'bongo - Album by Bipoli - Apple Music",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlK3tzpMc_kPYCwQxkjGMofPq9MHMdUJupsg&s",
+      "original": "https://is1-ssl.mzstatic.com/image/thumb/Music127/v4/ed/c0/cd/edc0cd19-68ad-b1f8-6ab4-c3eb80827df0/cover.jpg/1200x630wp-60.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/potted-plant/ln/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsE0uaNPfdNjeWg0AMP33NU9bbuUWX14OL5Q&s",
+      "fuentePagina": "https://ln.wikipedia.org/wiki/Nzet%C3%A9_ya_s%C3%A1f%C3%BA",
+      "titulo": "Nzeté ya sáfú — Wikipedia",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsE0uaNPfdNjeWg0AMP33NU9bbuUWX14OL5Q&s",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Safoutier.jpg/250px-Safoutier.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/potted-plant/ln/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjA0JEOO9e_oOSvL135ncoF8RmGG5VNC3x3A&s",
+      "fuentePagina": "https://www.mbokamosika.com/article-le-palmier-a-huile-nzete-ya-mbila-en-lingala-89073186.html",
+      "titulo": "LE PALMIER A HUILE (NZETE YA MBILA EN LINGALA) - MBOKAMOSIKA",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjA0JEOO9e_oOSvL135ncoF8RmGG5VNC3x3A&s",
+      "original": "http://img.over-blog.com/300x300/1/15/09/26/Novembre-2011/Palmier.jpg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/potted-plant/ln/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAXsCspjEYZuhYyWdXQEZ1Q86QALz1YjCb7g&s",
+      "fuentePagina": "https://www.facebook.com/365786063923088/photos/nzete-oyo-na-lingala-mbuma-na-yango-tobengi-manda-send%C3%A9bongo-na-lifalas%C3%A9-ba-beng/928859430949079/",
+      "titulo": "Maison - NZETE OYO NA LINGALA MBUMA NA YANGO TOBENGI ; MANDA ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAXsCspjEYZuhYyWdXQEZ1Q86QALz1YjCb7g&s",
+      "original": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=928859430949079"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/potted-plant/ln/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7R0pFDZxRuCYEZaQBYYpZCyqOe7uzlfEHzQ&s",
+      "fuentePagina": "https://www.facebook.com/100082804534727/posts/nzete-ya-mbongo-d%C3%A9j%C3%A0-disponible/323045167132299/",
+      "titulo": "Nzete ya mbongo déjà disponible",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7R0pFDZxRuCYEZaQBYYpZCyqOe7uzlfEHzQ&s",
+      "original": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=375902268513255"
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "categoria": "potted plant",
+  "categoriaSlug": "potted-plant",
+  "idioma": "fr",
+  "nombreIdioma": "Français",
+  "termino": "plante en pot",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:18:21.870Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "fr",
+    "gl": "be"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=plante%20en%20pot&hl=fr&gl=be",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/potted-plant/fr/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsqhJxf9QTlbGfQbo6DKkgyrTb_XWr_Jegpg&s",
+      "fuentePagina": "https://fr-be.bakker.com/collections/plantes-vertes-d-interieur-avec-cache-pot?srsltid=AfmBOorquplBi7mDePSBF-GIj-0yFUeyW2onVWrl-byrRlZ68EZ_Ro2a",
+      "titulo": "Plantes vertes d'intérieur avec cache-pot | Achat en ligne ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsqhJxf9QTlbGfQbo6DKkgyrTb_XWr_Jegpg&s",
+      "original": "https://fr-be.bakker.com/cdn/shop/files/79918_1.jpg?v=1763558731"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/potted-plant/fr/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPyMX1yVsudpFY9W7t0IzFNhq7fcBWPFwaCA&s",
+      "fuentePagina": "https://www.silencecapousse-chezvous.fr/entretien-des-plantes/choisir-le-bon-pot-pour-vos-plantes",
+      "titulo": "Choisir le bon pot pour vos plantes | Silence, ça pousse !",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPyMX1yVsudpFY9W7t0IzFNhq7fcBWPFwaCA&s",
+      "original": "https://www.silencecapousse-chezvous.fr/media/images/27641/rectangle/w900/1689060719/bon_pot_pour_plantes.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/potted-plant/fr/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPO0BWwD-bLhtOBo41WXCBlVellvGK_vMTHw&s",
+      "fuentePagina": "https://fr-fr.bakker.com/collections/plantes-d-interieur?srsltid=AfmBOoptd5NSKj8uyxUBCLzWPT05LC9U4ZdoGLGpRW_d8gGrcvRiProB",
+      "titulo": "Plantes d'intérieur | Achat en ligne sur Bakker.com",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPO0BWwD-bLhtOBo41WXCBlVellvGK_vMTHw&s",
+      "original": "http://fr-fr.bakker.com/cdn/shop/collections/0ef688aa00792b10ea2bb45ccbc30fe5.jpg?v=1743495275"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/potted-plant/fr/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQW9ChrDVln_drcZYl0yFsOxP2uxg35Vx_ozg&s",
+      "fuentePagina": "https://www.bosch-diy.com/be/fr/all-about-diy/planter-en-pot",
+      "titulo": "Planter en pot : voici comment procéder | Bosch DIY",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQW9ChrDVln_drcZYl0yFsOxP2uxg35Vx_ozg&s",
+      "original": "https://www.bosch-diy.com/images/pflanzenkuebel-bepflanzen-03-bosch-diy--726ead340ac146eb8061fbf8af34211b.jpg?imgWidth=4608&imgHeight=2592&scale=1"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/potted-plant/fr/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOg2AOtwpDVnRd_e5FBoy4Q1u_VRnq7gzk2w&s",
+      "fuentePagina": "https://lagreentouch.fr/blogs/le-green-blog/faut-il-tout-de-suite-rempoter-une-plante-dun-pot-en-plastique?srsltid=AfmBOorxl3GpTYNfzrvOL3LRhn6dsBPkXH2eSF_ooULaEaJxDXe-wwKL",
+      "titulo": "Faut-il tout de suite rempoter sa plante ? – La Green Touch",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOg2AOtwpDVnRd_e5FBoy4Q1u_VRnq7gzk2w&s",
+      "original": "https://lagreentouch.fr/cdn/shop/articles/faut-il-tout-de-suite-rempoter-une-plante-dun-pot-en-plastique-270576.jpg?v=1718904328&width=1600"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/potted-plant/fr/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDplAfZuHRBlBXPj6sIG8GSQezeFPR2u8VgA&s",
+      "fuentePagina": "https://www.gammvert.fr/conseils-idees/plantes-en-pot-special-secheresse",
+      "titulo": "Plantes en pot : spécial sécheresse - Gamm vert",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDplAfZuHRBlBXPj6sIG8GSQezeFPR2u8VgA&s",
+      "original": "https://images.ctfassets.net/b85ozb2q358o/b421e085c5f009a4df561ebaa0e31b8c71bc49925e4208c1de49bb8e3b074cc3/259f010189402e52bc05026b74b1ccac/image.png"
+    }
+  ]
+}

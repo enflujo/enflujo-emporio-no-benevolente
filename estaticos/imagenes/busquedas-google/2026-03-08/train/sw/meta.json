@@ -1,0 +1,71 @@
+{
+  "categoria": "train",
+  "categoriaSlug": "train",
+  "idioma": "sw",
+  "nombreIdioma": "Kiswahili",
+  "termino": "treni",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T20:44:17.794Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "sw",
+    "gl": "tz"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=treni&hl=sw&gl=tz",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/train/sw/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRutQMiV1TAuD-HTQ7QNd8eMpXDgvv7BFlXw&s",
+      "fuentePagina": "https://www.trc.co.tz/news/treni-ya-mchongoko-yaanza-rasmi-safari-dar-es-salaam-dodoma",
+      "titulo": "Mwanzo | TRC",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRutQMiV1TAuD-HTQ7QNd8eMpXDgvv7BFlXw&s",
+      "original": "https://www.trc.co.tz/uploads/news/large-1730469492-IMG-20240829-WA0021.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/train/sw/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKds4dAGcNzBTF7kmoDEmQTarjsli2hOx_Dw&s",
+      "fuentePagina": "https://www.latra.go.tz/news/latra-yatangaza-nauli-za-abiria-wa-daraja-la-kawaida-treni-ya-sgr",
+      "titulo": "LATRA | LATRA YATANGAZA NAULI ZA ABIRIA WA DARAJA LA KAWAIDA ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKds4dAGcNzBTF7kmoDEmQTarjsli2hOx_Dw&s",
+      "original": "https://www.latra.go.tz/uploads/news/21f2fe1b27c66190b4ae343cea7bb3c7.jpeg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/train/sw/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQxX16fhw0wmhUZu6uYQbm9YD_31UdbiGL6w&s",
+      "fuentePagina": "https://www.youtube.com/watch?v=-bVIp223D1Y",
+      "titulo": "Top 10 TRENI Zenye Kasi Zaidi Duniani (2024)",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQxX16fhw0wmhUZu6uYQbm9YD_31UdbiGL6w&s",
+      "original": "https://i.ytimg.com/vi/-bVIp223D1Y/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLBXrwMw8mqreTxQWcVPiK9pGvFAKA"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/train/sw/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlVfdab8HCOO37-7D9_eAvpRlW68SbiglOmg&s",
+      "fuentePagina": "https://www.facebook.com/azamtvtz/posts/shirika-la-reli-tanzania-trc-linaandika-historia-ya-kwanza-afrika-mashariki-kwa-/944602023689476/",
+      "titulo": "Shirika la Reli Tanzania (TRC) linaandika historia ya kwanza ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlVfdab8HCOO37-7D9_eAvpRlW68SbiglOmg&s",
+      "original": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=944598427023169"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/train/sw/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1TCt1hFk3YAwBOrJOCFIzzc9E8inBVBL0fQ&s",
+      "fuentePagina": "https://ippmedia.co.tz/nipashe/habari/kitaifa/read/latra-yatoa-masharti-treni-za-umeme-2024-06-11-220943",
+      "titulo": "LATRA yatoa masharti treni za umeme | Nipashe",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1TCt1hFk3YAwBOrJOCFIzzc9E8inBVBL0fQ&s",
+      "original": "https://ippmedia.co.tz/storage/post-feature-images/01J04B9HS5WYYZ204J33N7ZQ94.webp"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/train/sw/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4kkPthiCtwijs8jEkC85hvFH2FT7FUacABQ&s",
+      "fuentePagina": "https://www.instagram.com/p/DTFK-iyDM_C/",
+      "titulo": "Shirika la Reli Tanzania (TRC) litaongeza safari za treni ya ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4kkPthiCtwijs8jEkC85hvFH2FT7FUacABQ&s",
+      "original": "https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3802493738803843010"
+    }
+  ]
+}

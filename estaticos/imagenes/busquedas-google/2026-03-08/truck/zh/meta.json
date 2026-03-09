@@ -1,0 +1,71 @@
+{
+  "categoria": "truck",
+  "categoriaSlug": "truck",
+  "idioma": "zh",
+  "nombreIdioma": "中文",
+  "termino": "卡车",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T20:45:25.518Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "zh-CN",
+    "gl": "cn"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=%E5%8D%A1%E8%BD%A6&hl=zh-CN&gl=cn",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/truck/zh/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSm8tCU23KSwtUpt4iSZ36yQvXSVTZ3iQ7H1A&s",
+      "fuentePagina": "https://www.sanyglobal.com/cn/product/truck/dump_truck/",
+      "titulo": "自卸车| 卡车| 三一集团",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSm8tCU23KSwtUpt4iSZ36yQvXSVTZ3iQ7H1A&s",
+      "original": "https://sanyglobal-img.sany.com.cn/prod/20250717/20250717-110908_110947.png?x-oss-process=image/format,webp"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/truck/zh/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTn4dJG3nDTrWOlbXazfNxJY1b4lUYS6zn7pg&s",
+      "fuentePagina": "https://www.360che.com/driver/190906/116995.html",
+      "titulo": "卡车就是货车吗？一起来看看它们区别在哪里？_手机卡车之家",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTn4dJG3nDTrWOlbXazfNxJY1b4lUYS6zn7pg&s",
+      "original": "https://img9.kcimg.cn/imga/0/677/677370.jpg!601"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/truck/zh/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQw-k8T2M7NIYQ-EQ0LywoQQ2bqdoWmlHlGig&s",
+      "fuentePagina": "https://portexlogistics.com/zh-hans/%E7%89%A9%E6%B5%81%E4%B8%AD%E7%9A%84%E5%8D%A1%E8%BD%A6%E7%B1%BB%E5%9E%8B%EF%BC%9A8-%E7%A7%8D%E6%9C%80%E5%B8%B8%E7%94%A8%E7%9A%84%E5%8D%A1%E8%BD%A6/",
+      "titulo": "卡车类型：物流中最常用的8种高效卡车型号",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQw-k8T2M7NIYQ-EQ0LywoQQ2bqdoWmlHlGig&s",
+      "original": "https://portexlogistics.com/wp-content/uploads/2024/11/huckepack_truck_text-chino-1-1024x558.webp"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/truck/zh/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdF6l9yN78Nd-9lWZyRTQg-tS7uMF490XCEw&s",
+      "fuentePagina": "https://www.volvotrucks.com.cn/zh-cn/",
+      "titulo": "沃尔沃卡车",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdF6l9yN78Nd-9lWZyRTQg-tS7uMF490XCEw&s",
+      "original": "https://assets.volvo.com/is/image/VolvoInformationTechnologyAB/market-landing-build-your-volvo-truck-exterior-fh-cgi-1?qlt=82&wid=1440&ts=1706327584837&dpr=off&fit=constrain&fmt=png-alpha"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/truck/zh/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSA0B7P0gLl_r0D9Ob74ZvZzLws0nKOgQpDuQ&s",
+      "fuentePagina": "https://www.cn357.com/product_cv1",
+      "titulo": "卡车报价】卡车价格_参数_图片_商车网",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSA0B7P0gLl_r0D9Ob74ZvZzLws0nKOgQpDuQ&s",
+      "original": "https://www.cn357.com/ud/batchimg/org/295/t53483900.jpg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/truck/zh/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRESropp8zitI7bmY8VMpyKA-IYO8-NGuja9A&s",
+      "fuentePagina": "https://m.baike.com/wikiid/7240622385539186747",
+      "titulo": "卡车- 抖音百科",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRESropp8zitI7bmY8VMpyKA-IYO8-NGuja9A&s",
+      "original": "https://p3-sdbk2-media.byteimg.com/tos-cn-i-xv4ileqgde/b9c49ae0c30d44caa347ba524faca142~tplv-xv4ileqgde-watermark-tuchong.image"
+    }
+  ]
+}

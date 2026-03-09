@@ -1,0 +1,71 @@
+{
+  "categoria": "motorcycle",
+  "categoriaSlug": "motorcycle",
+  "idioma": "nah",
+  "nombreIdioma": "Náhuatl",
+  "termino": "moto",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T20:42:46.885Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "es",
+    "gl": "mx"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=moto&hl=es&gl=mx",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/motorcycle/nah/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ05aizAPMYtIeGqa6L9Y2h2CWeLShgXiCnWQ&s",
+      "fuentePagina": "https://moto.suzuki.es/motos",
+      "titulo": "Suzuki Moto | Motos",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ05aizAPMYtIeGqa6L9Y2h2CWeLShgXiCnWQ&s",
+      "original": "https://moto.suzuki.es/assets/img/image-moto-slider-home-1.png"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/motorcycle/nah/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTS3jvffLvRnbYfp9HwmD9C0NOh5Bo0Co2_Qg&s",
+      "fuentePagina": "https://www.galgo.com/mx/motos/Deportiva",
+      "titulo": "Motos Deportivas 2026 | Galgo | México",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTS3jvffLvRnbYfp9HwmD9C0NOh5Bo0Co2_Qg&s",
+      "original": "https://images.ctfassets.net/8zlbnewncp6f/2fH3mKeHaSrfHQlEsm2xxt/c9c0202dc9333bd05422552a3a14e34b/Galeria2_Galgo_Chile.jpg?w=600&fm=webp&q=90"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/motorcycle/nah/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHEkuL2s9gqHsymTLVts4HL2ckApPDOosOVA&s",
+      "fuentePagina": "https://www.yamaha-motor.com.mx/motos",
+      "titulo": "Yamaha Motor de México",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHEkuL2s9gqHsymTLVts4HL2ckApPDOosOVA&s",
+      "original": "https://www.yamaha-motor.com.mx/assets/images/motorcycles/main.png"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/motorcycle/nah/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMs_MrHZkUY6_g9-ASiXszjBfJshlNmSeN0Q&s",
+      "fuentePagina": "https://www.bikeon.com.mx/motos-electricas/",
+      "titulo": "Motos Eléctricas México 2026 Tienda E-Bikes CDMX",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMs_MrHZkUY6_g9-ASiXszjBfJshlNmSeN0Q&s",
+      "original": "https://www.bikeon.com.mx/wp-content/uploads/2025/12/moto-electrica-latte-crema-1.jpg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/motorcycle/nah/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFjKruy1AU0S9eb4sKk2y35t05b5KwtO26Cw&s",
+      "fuentePagina": "https://www.yamahamotos.cl/producto/r7/",
+      "titulo": "R7 - Yamaha Motos",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFjKruy1AU0S9eb4sKk2y35t05b5KwtO26Cw&s",
+      "original": "https://www.yamahamotos.cl/wp-content/uploads/2022/06/r7_azul-7.jpg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/motorcycle/nah/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRP7qvYkMLY_u_rv6jKJd66Mdj-Bwf1n1k2RQ&s",
+      "fuentePagina": "https://www.galgo.com/mx/motos/CF%20Moto",
+      "titulo": "Motos CF moto 2026 | Galgo | México",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRP7qvYkMLY_u_rv6jKJd66Mdj-Bwf1n1k2RQ&s",
+      "original": "https://images.ctfassets.net/8zlbnewncp6f/7AhrKejSEiVLzCPKxMOPWT/80dc24d31a5f76a376b757a24d6d9c02/CF_Moto_275NK_Imagen_principal_Galgo_M%C3%A9xico.png?w=600&fm=webp&q=90"
+    }
+  ]
+}

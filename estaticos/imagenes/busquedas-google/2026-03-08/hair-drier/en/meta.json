@@ -1,0 +1,71 @@
+{
+  "categoria": "hair drier",
+  "categoriaSlug": "hair-drier",
+  "idioma": "en",
+  "nombreIdioma": "English",
+  "termino": "hair drier",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:31:28.268Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "en",
+    "gl": "us"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=hair%20drier&hl=en&gl=us",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/hair-drier/en/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHytzVafEx-b1Hw2ElFdX_R-AnQmr04g7Ryg&s",
+      "fuentePagina": "https://usmooth.com/accelerdry-professional-hair-dryer/?srsltid=AfmBOoqJqzWPqozzdMJuGNTJdTyXGEl8F8vfeuZICpk7RC_6Kq6fT633",
+      "titulo": "AccelerDry Professional Hair Dryer",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHytzVafEx-b1Hw2ElFdX_R-AnQmr04g7Ryg&s",
+      "original": "https://cdn11.bigcommerce.com/s-7d7c5glusa/images/stencil/1280x1280/products/417/1224/UADRY__23131.1724414275.jpg?c=1"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/hair-drier/en/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSi9Huc8E4gQ07qEPoaHyQxvTncjfKcEQGqug&s",
+      "fuentePagina": "https://eva-nyc.com/products/healthy-heat-pro-lite-dryer-lavender?srsltid=AfmBOopxLTiCx6G0N9ZTt7T-jtMQ-FNSo76Egg2wIojQZQl8iuvIO8yO",
+      "titulo": "Healthy Heat Pro-lite Dryer - Lavender",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSi9Huc8E4gQ07qEPoaHyQxvTncjfKcEQGqug&s",
+      "original": "https://eva-nyc.com/cdn/shop/files/EvaNYC-2025-PDPGraphics-Tools-ProLiteDryer-Lavender-2560x2560_3e803102-9c7c-4f66-9d3b-a5b9ca5b53ad.png?v=1736958015&width=1000"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/hair-drier/en/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTh7lQjfEahoSBHQDECm2pYQ9d_RUl3sjD9GA&s",
+      "fuentePagina": "https://www.amazon.com/Wavytalk-Concentractor-Smoothing-Professional-Lightweight/dp/B09CP8SSGP",
+      "titulo": "Amazon.com : Wavytalk Hair Dryer, Blown Away Ionic Hair ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTh7lQjfEahoSBHQDECm2pYQ9d_RUl3sjD9GA&s",
+      "original": "https://m.media-amazon.com/images/I/61UkKWDVGnL._AC_UF1000,1000_QL80_.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/hair-drier/en/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBcQ466Ibz4WFM2P3xNUuAk6Qh7VmuaKyBqQ&s",
+      "fuentePagina": "https://www.kissusa.com/products/kiss-ceramic-tourmaline-1875-pro-hair-dryer?srsltid=AfmBOoovz6Kof75Yz5nl_vPE18XrwduBYsYkgckjrVtjK4Dgfmk7cyIx",
+      "titulo": "1875 Pro Tourmaline Ceramic Dryer – KISS USA",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBcQ466Ibz4WFM2P3xNUuAk6Qh7VmuaKyBqQ&s",
+      "original": "http://www.kissusa.com/cdn/shop/files/mqpts9l1xyu60niw4qkx.png?v=1760559084"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/hair-drier/en/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwvyr22zhXR4uWnB8Xr3-BLK8Oi43VVgCrfQ&s",
+      "fuentePagina": "https://myrevair.com/products/revair?srsltid=AfmBOorTbn_hzRkjM6ahPFHkzD6-IJQasJjxU_X5KDMO4_D3Y2wEwVxr",
+      "titulo": "RevAir Reverse-Air Hair Dryer w/friction-free technology, 3 ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwvyr22zhXR4uWnB8Xr3-BLK8Oi43VVgCrfQ&s",
+      "original": "https://myrevair.com/cdn/shop/files/Frizz_Tia_Easy_to_Use.png?v=1772744026&width=1946"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/hair-drier/en/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtdojrJ226BhsGN3omAAH4L5TUQl5QTRGk9A&s",
+      "fuentePagina": "https://travelislife.org/best-compact-travel-hair-blowers/",
+      "titulo": "The 8 Best (And Smallest) Travel Hair Dryers For Light ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtdojrJ226BhsGN3omAAH4L5TUQl5QTRGk9A&s",
+      "original": "https://travelislife.org/wp-content/uploads/Best-Travel-Hair-Dryers-Featured-Image-2.jpg"
+    }
+  ]
+}

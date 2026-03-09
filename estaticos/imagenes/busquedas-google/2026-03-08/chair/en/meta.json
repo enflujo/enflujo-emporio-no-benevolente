@@ -1,0 +1,71 @@
+{
+  "categoria": "chair",
+  "categoriaSlug": "chair",
+  "idioma": "en",
+  "nombreIdioma": "English",
+  "termino": "chair",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:16:51.906Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "en",
+    "gl": "us"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=chair&hl=en&gl=us",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/chair/en/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShXCU7gvMEYA-tOoY_nYflTVkMy3DIuUMvFg&s",
+      "fuentePagina": "https://www.ikea.com/us/en/p/pinntorp-chair-light-brown-stained-00590480/",
+      "titulo": "PINNTORP chair, light brown stained - IKEA",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShXCU7gvMEYA-tOoY_nYflTVkMy3DIuUMvFg&s",
+      "original": "https://www.ikea.com/us/en/images/products/pinntorp-chair-light-brown-stained__1296225_pe935730_s5.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/chair/en/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqlB7kevqsnWYnj4lbh-iCs45ux1xAwS39OA&s",
+      "fuentePagina": "https://www.walmart.com/ip/Neo-Chair-MB-7-Ergonomic-Mid-Back-Adjustable-Mesh-Home-Office-Computer-Desk-Chair-Black/527648205",
+      "titulo": "Neo Chair Ergonomic Mid Back Mesh Office Chair, Adjustable ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqlB7kevqsnWYnj4lbh-iCs45ux1xAwS39OA&s",
+      "original": "https://i5.walmartimages.com/seo/Neo-Chair-MB-7-Ergonomic-Mid-Back-Adjustable-Mesh-Home-Office-Computer-Desk-Chair-Black_dea9c727-9663-41c7-aa0b-e3e64f3f8a7e.66280fce1b9220cad1314b8c2f9f2ba2.jpeg?odnHeight=768&odnWidth=768&odnBg=FFFFFF"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/chair/en/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQ_NRzB_xI7CDOm4HjWRt9KD7HGDjvf0Qa9w&s",
+      "fuentePagina": "https://www.lakeshorelearning.com/products/classroom-furniture/chairs-seating/solid-oak-classroom-chair/p/RH13/?srsltid=AfmBOopUlUAw3HB14E9rGaiCU4JtcCxHmOqSxZgiTR8QW3ugUIHCNQxp",
+      "titulo": "Solid Oak Classroom Chair at Lakeshore Learning",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQ_NRzB_xI7CDOm4HjWRt9KD7HGDjvf0Qa9w&s",
+      "original": "https://s7d9.scene7.com/is/image/OCProduction/rh13?wid=800&fmt=jpeg&qlt=85,1&pscan=auto&op_sharpen=0&resMode=sharp2&op_usm=1,0.65,6,0"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/chair/en/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0Vil4-wMxpjCJg3lzVs6UbXQm5K0hU9CDKg&s",
+      "fuentePagina": "https://www.ikea.com/us/en/p/nordviken-chair-antique-stain-30488546/",
+      "titulo": "NORDVIKEN chair, antique stain - IKEA",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0Vil4-wMxpjCJg3lzVs6UbXQm5K0hU9CDKg&s",
+      "original": "https://www.ikea.com/us/en/images/products/nordviken-chair-antique-stain__0832454_pe777681_s5.jpg?f=s"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/chair/en/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7hl0QBZ9QlCDm9Sj6CIqAm5YhGp-pXv246g&s",
+      "fuentePagina": "https://www.worthingtondirect.com/americana-solid-oak-chair-by-community?srsltid=AfmBOorFz4ms0H5quRsBqWalyOYRKRmnAEK5KsJ-rFa-Sye8K81GhtFu",
+      "titulo": "Americana Solid Oak Chair by Community",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7hl0QBZ9QlCDm9Sj6CIqAm5YhGp-pXv246g&s",
+      "original": "https://www.worthingtondirect.com/media/catalog/product/j/s/jsi-americana-wooden-chair_1_.jpg?quality=80&bg-color=255,255,255&fit=bounds&height=&width=&canvas=:"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/chair/en/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROQBfY01DEdnRLlPvaGaz66dUD3WArhJxwYw&s",
+      "fuentePagina": "https://vermontwoodsstudios.com/products/burke-modern-chair?srsltid=AfmBOoo7yG94nIF2r2ps6V2nQAhonWbvNaPc5btvWnX-v5gIZYmBriu5",
+      "titulo": "Burke Modern Chair",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROQBfY01DEdnRLlPvaGaz66dUD3WArhJxwYw&s",
+      "original": "https://vermontwoodsstudios.com/cdn/shop/files/Burke-Modern-Dining-Chair-with-Black-Seat.jpg?v=1740751716&width=1946"
+    }
+  ]
+}

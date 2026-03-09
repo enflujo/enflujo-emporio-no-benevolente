@@ -1,0 +1,71 @@
+{
+  "categoria": "couch",
+  "categoriaSlug": "couch",
+  "idioma": "en",
+  "nombreIdioma": "English",
+  "termino": "couch",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:17:31.708Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "en",
+    "gl": "us"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=couch&hl=en&gl=us",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/couch/en/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdXSJWke6XmuMBiFTGXPCEoGLma1zfR7xSbQ&s",
+      "fuentePagina": "https://www.amazon.com/Modern-Living-Pillows-Furniture-Apartment/dp/B0D6RTCHJR",
+      "titulo": "Amazon.com: 78.8'' Modern Couch for Living Room Sofa,Solid ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdXSJWke6XmuMBiFTGXPCEoGLma1zfR7xSbQ&s",
+      "original": "https://m.media-amazon.com/images/I/916wCEOYzhL.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/couch/en/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgNCIrfXiUVmr_fxMUPzqNXQ5u9cnZL2bdNg&s",
+      "fuentePagina": "https://www.amazon.com/POUUIN-Leather-Breathable-Upholstered-Apartment/dp/B0CZXK637K",
+      "titulo": "Amazon.com: POUUIN Faux Leather 3 Seater Sofa Couches for ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgNCIrfXiUVmr_fxMUPzqNXQ5u9cnZL2bdNg&s",
+      "original": "https://m.media-amazon.com/images/I/81TwbwfXYcL._AC_UF894,1000_QL80_.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/couch/en/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOcgtIAehJZ6DS7aoPGTY7EBWRt2-IXDV4uQ&s",
+      "fuentePagina": "https://www.lowes.com/pd/GZMR-Modern-Large-L-Shape-Feather-Filled-Sectional-Sofa-Convertible-Sofa-Couch-with-Reversible-Chaise-for-Living-Room/5015390589",
+      "titulo": "GZMR Convertible Sofa Couch 129.9-in Modern Dark Gray Linen ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOcgtIAehJZ6DS7aoPGTY7EBWRt2-IXDV4uQ&s",
+      "original": "https://mobileimages.lowes.com/productimages/3ce16157-bd31-4c59-9684-b4c025db5361/66547180.jpeg?size=pdhz"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/couch/en/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFHmUcLyUdQZYC-K2m5ul1ESCXdtN9SfMhSA&s",
+      "fuentePagina": "https://business.walmart.com/ip/Aukfa-78-Sofa-Couch-3-Seater-Living-Room-Sofa-Set-Boucle-Fabric-Wine-Red/10352206883",
+      "titulo": "Aukfa 78\" Sofa Couch, 3 Seater Living Room Sofa Set, Boucle Fabric, Wine Red",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFHmUcLyUdQZYC-K2m5ul1ESCXdtN9SfMhSA&s",
+      "original": "https://i5.walmartimages.com/seo/Aukfa-78-Sofa-Couch-3-Seater-Living-Room-Sofa-Set-Boucle-Fabric-Wine-Red_c6ce122a-e5f1-4c53-b786-5dbb47f1c0b2.3f44f743ada91ae4e579a4250d96a0aa.jpeg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/couch/en/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKu_L55C8pe-FcLez_gpSJ-IcfR7kHdWQmXg&s",
+      "fuentePagina": "https://dreamfurnitureco.com/products/feather-cloud-sectional-sofa?srsltid=AfmBOorhPv1v0xCEMyDRhzFuere7t7-9CVbEeJvyaMbaPnw3a9ck8j0l",
+      "titulo": "Belle Feather Cloud Couch Sectional",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKu_L55C8pe-FcLez_gpSJ-IcfR7kHdWQmXg&s",
+      "original": "http://dreamfurnitureco.com/cdn/shop/files/DreamFurnitureFeather_1.jpg?v=1736957534&width=2048"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/couch/en/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpLLhGuSLMisGcxUGD-Fd2pRJdl3o_VK18MA&s",
+      "fuentePagina": "https://www.lakeshorelearning.com/products/classroom-furniture/dramatic-play-furniture/easy-clean-comfy-couches/p/FF683/?srsltid=AfmBOoqSlzOLtZt4YLIAUa6jahzuAKNeNyxzBaR6oFkg6Crnt_ynYiHj",
+      "titulo": "Easy-Clean Comfy Couches at Lakeshore Learning",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpLLhGuSLMisGcxUGD-Fd2pRJdl3o_VK18MA&s",
+      "original": "https://s7d9.scene7.com/is/image/OCProduction/ff683bu?wid=800&fmt=jpeg&qlt=85,1&pscan=auto&op_sharpen=0&resMode=sharp2&op_usm=1,0.65,6,0"
+    }
+  ]
+}

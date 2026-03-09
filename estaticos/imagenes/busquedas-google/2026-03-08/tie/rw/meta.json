@@ -1,0 +1,71 @@
+{
+  "categoria": "tie",
+  "categoriaSlug": "tie",
+  "idioma": "rw",
+  "nombreIdioma": "Kinyarwanda",
+  "termino": "ikaravate",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T20:58:11.234Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "en",
+    "gl": "rw"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=ikaravate&hl=en&gl=rw",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/tie/rw/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ25PdvuP28xAU_yZgqcwcBZnX9tWOFGCqrEw&s",
+      "fuentePagina": "https://www.youtube.com/watch?v=rZKa_SS2yHg",
+      "titulo": "IMYATE: ibintu bikomeye utaruzi ku ndwara y'imyate,Indwara yakurura nibindi  bibazo",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ25PdvuP28xAU_yZgqcwcBZnX9tWOFGCqrEw&s",
+      "original": "https://i.ytimg.com/vi/rZKa_SS2yHg/maxresdefault.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/tie/rw/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmtFvTIM6QQtp2mdwQWnbuM11hee6rt4CTvw&s",
+      "fuentePagina": "https://www.kigalitoday.com/imikino/karate/article/karate-ni-umutekano-ikaba-n-umuti-w-indwara-ubuhamya-bw-abayikina",
+      "titulo": "Karate ni umutekano ikaba n'umuti w'indwara - Ubuhamya bw ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmtFvTIM6QQtp2mdwQWnbuM11hee6rt4CTvw&s",
+      "original": "https://www.kigalitoday.com/IMG/png/123-3.png"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/tie/rw/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYTFdjZRQOsnwQewk4Oekes1V3H_k4ZTAslg&s",
+      "fuentePagina": "https://umutihealth.com/ikawa/",
+      "titulo": "Ikawa: ikinyobwa gikunzwe cyane, ese gifitiye akamaro umubiri?",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYTFdjZRQOsnwQewk4Oekes1V3H_k4ZTAslg&s",
+      "original": "https://umutihealth.com/wp-content/uploads/2017/01/ikawa-yu-Rwanda-.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/tie/rw/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMZ0Ra-G8YECokM2HxRMhZnZ78UAdTVR7yGw&s",
+      "fuentePagina": "https://www.instagram.com/p/DLcYtUeIgX-/",
+      "titulo": "Akarere ka Rubavu gafite imipaka ine ikoreshwa, irimo Petite ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMZ0Ra-G8YECokM2HxRMhZnZ78UAdTVR7yGw&s",
+      "original": "https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3819254451635308453"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/tie/rw/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRy_9pVdWH-KM2KxFil7HlZa8FEYfWN7hRVVA&s",
+      "fuentePagina": "https://www.kigalitoday.com/imikino/indi-mikino/article/karate-abarimu-ba-shotokani-basabwe-gukoresha-ubumenyi-bafite-hazamurwa-urwego-rw-umukino",
+      "titulo": "Karate: Abarimu ba Shotokani basabwe gukoresha ubumenyi ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRy_9pVdWH-KM2KxFil7HlZa8FEYfWN7hRVVA&s",
+      "original": "https://www.kigalitoday.com/IMG/jpg/img-20241104-wa0011.jpg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/tie/rw/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEdhlu1P91jpkM4gGbKB1LkfIh5iE3bhs4Uw&s",
+      "fuentePagina": "https://www.kigalitoday.com/imikino/karate/",
+      "titulo": "Karate - Rwanda News",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEdhlu1P91jpkM4gGbKB1LkfIh5iE3bhs4Uw&s",
+      "original": "https://www.kigalitoday.com/IMG/jpg/karate_1-8.jpg"
+    }
+  ]
+}

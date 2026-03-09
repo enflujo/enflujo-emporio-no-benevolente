@@ -1,0 +1,71 @@
+{
+  "categoria": "toilet",
+  "categoriaSlug": "toilet",
+  "idioma": "zu",
+  "nombreIdioma": "isiZulu",
+  "termino": "ithoyilethi",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:20:32.187Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "zu",
+    "gl": "za"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=ithoyilethi&hl=zu&gl=za",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/toilet/zu/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZAPmp6vlA_uU31jBIjQW228aGvmDEOfRBsg&s",
+      "fuentePagina": "https://xh.wikipedia.org/wiki/Ithoyilethi_yomngxuma",
+      "titulo": "Ithoyilethi yomngxuma - Wikipedia",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZAPmp6vlA_uU31jBIjQW228aGvmDEOfRBsg&s",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/4/48/Defecating_into_a_pit_%28schematic%29_Xhosa.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/toilet/zu/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQK79lCiQ4jlGXyzWyICk6rclyFJqfETGKAA&s",
+      "fuentePagina": "https://zu.sunriseceramicgroup.com/ceramic-toilet-with-full-pedestal-basin-product/",
+      "titulo": "Ithoyilethi Yobumba Esitolo Esitolo Esigcwele Nezisekelo ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQK79lCiQ4jlGXyzWyICk6rclyFJqfETGKAA&s",
+      "original": "http://cdn.globalso.com/sunriseceramicgroup/2-piece-toilet.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/toilet/zu/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIDYUMKC0guFWCRwiDu8FqdtMXC0h5gyGX5Q&s",
+      "fuentePagina": "https://zu.sunriseceramicgroup.com/ceramic-toilet-with-full-pedestal-basin-product/",
+      "titulo": "Ithoyilethi Yobumba Esitolo Esitolo Esigcwele Nezisekelo ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIDYUMKC0guFWCRwiDu8FqdtMXC0h5gyGX5Q&s",
+      "original": "https://cdn.globalso.com/sunriseceramicgroup/toilet-two-piece.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/toilet/zu/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMWsMsCc4znAm7GqsXJrLOtCnBPbFGGSUKlA&s",
+      "fuentePagina": "https://zu.sunriseceramicgroup.com/ceramic-toilet-with-full-pedestal-basin-product/",
+      "titulo": "Ithoyilethi Yobumba Esitolo Esitolo Esigcwele Nezisekelo ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMWsMsCc4znAm7GqsXJrLOtCnBPbFGGSUKlA&s",
+      "original": "https://cdn.globalso.com/sunriseceramicgroup/wash-toilet.jpg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/toilet/zu/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShMmFGHFDq8uTtNwIibWWRcmw1S-aHG3ZFbw&s",
+      "fuentePagina": "https://zu.sunriseceramicgroup.com/ceramic-toilet-with-full-pedestal-basin-product/",
+      "titulo": "Ithoyilethi Yobumba Esitolo Esitolo Esigcwele Nezisekelo ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShMmFGHFDq8uTtNwIibWWRcmw1S-aHG3ZFbw&s",
+      "original": "https://cdn.globalso.com/sunriseceramicgroup/toilet-set-two-piece.jpg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/toilet/zu/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQfnMgiaWSB2K86NjwRfaoR5U2eGkA8veqhg&s",
+      "fuentePagina": "https://www.facebook.com/eThekwiniM/photos/masongeamanzi/1339352871565762/",
+      "titulo": "EThekwini - #MasongeAmanzi | Facebook",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQfnMgiaWSB2K86NjwRfaoR5U2eGkA8veqhg&s",
+      "original": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=1339352871565762"
+    }
+  ]
+}

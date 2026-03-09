@@ -1,0 +1,71 @@
+{
+  "categoria": "truck",
+  "categoriaSlug": "truck",
+  "idioma": "ha",
+  "nombreIdioma": "Hausa",
+  "termino": "manyan mota",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T20:45:06.871Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "ha",
+    "gl": "ng"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=manyan%20mota&hl=ha&gl=ng",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/truck/ha/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsyj48NyjueO5BLPueoC-RQivpx39yOkPriA&s",
+      "fuentePagina": "https://www.youtube.com/watch?v=NSk50l_-4dY",
+      "titulo": "Budurwa mai koyon aikin jarida da ke tallar manya-manyan motoci a Abuja -  BBC News Hausa",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsyj48NyjueO5BLPueoC-RQivpx39yOkPriA&s",
+      "original": "https://i.ytimg.com/vi/NSk50l_-4dY/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGEwgWyhlMA8=&rs=AOn4CLC1uzbTdJvjgQmvRTGambTbEGQBXw"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/truck/ha/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7My6tZeejb-uj4OYJuPTU8wH5kRb7iHUqlw&s",
+      "fuentePagina": "https://www.bbc.com/hausa/articles/c708ppd4p4wo",
+      "titulo": "Manyan hanyoyi biyar da aka fi samun hatsarin mota a ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7My6tZeejb-uj4OYJuPTU8wH5kRb7iHUqlw&s",
+      "original": "https://ichef.bbci.co.uk/ace/ws/640/cpsprodpb/8c5a/live/6a3a0da0-ccae-11ef-82f9-93c6a90790c5.jpg.webp"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/truck/ha/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXPgaofNX9iHN85MoD38g29YAI6Yehn4I5dA&s",
+      "fuentePagina": "https://www.bbc.com/hausa/articles/c3g8q1e5veeo",
+      "titulo": "Zaben Najeriya na 2023: 'Karbar na goro a hannun direbobin ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXPgaofNX9iHN85MoD38g29YAI6Yehn4I5dA&s",
+      "original": "https://ichef.bbci.co.uk/ace/ws/640/cpsprodpb/34b5/live/457bfa20-4969-11ed-9ae9-959994b8a64c.jpg.webp"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/truck/ha/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiHx08JfHXE6X3Tr2vQwOK7JcBL2fUAlb_cQ&s",
+      "fuentePagina": "https://www.facebook.com/100064082915234/photos/",
+      "titulo": "Dandalin Direbobin Manyan Mota",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiHx08JfHXE6X3Tr2vQwOK7JcBL2fUAlb_cQ&s",
+      "original": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=100064082915234"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/truck/ha/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUbvB4G1AD6lU-Cao9s6X2CK7sp3_iL1zVTA&s",
+      "fuentePagina": "https://www.bbc.com/hausa/articles/c708ppd4p4wo",
+      "titulo": "Manyan hanyoyi biyar da aka fi samun hatsarin mota a ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUbvB4G1AD6lU-Cao9s6X2CK7sp3_iL1zVTA&s",
+      "original": "https://ichef.bbci.co.uk/ace/ws/640/cpsprodpb/3b42/live/0ce63380-cc14-11ef-87df-d575b9a434a4.jpg.webp"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/truck/ha/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyfrwL8COEiS1S_hNEMVBcyjwyDI4gwaRHLw&s",
+      "fuentePagina": "https://www.facebook.com/MuryarYanciNG/posts/yanzu-yanzudirebobin-manyan-mota-sun-kulle-hanyar-zariya-zuwa-kano-saboda-wulaka/735020386904995/",
+      "titulo": "Yanzu Yanzu Direbobin Manyan Mota sun kulle hanyar zariya ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyfrwL8COEiS1S_hNEMVBcyjwyDI4gwaRHLw&s",
+      "original": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=735020306905003"
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "categoria": "scissors",
+  "categoriaSlug": "scissors",
+  "idioma": "am",
+  "nombreIdioma": "Amharic — አማርኛ",
+  "termino": "መቀስ",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:30:24.470Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "am",
+    "gl": "et"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=%E1%88%98%E1%89%80%E1%88%B5&hl=am&gl=et",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/scissors/am/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHW9Wt3XqXSwe1_uvdzTE1ewPIbnnCBgV0Sw&s",
+      "fuentePagina": "https://amharicteacher.com/dictionary/english/%E1%88%98%E1%89%80%E1%88%B5",
+      "titulo": "መቀስ (meqes) meaning in English - Amharic Dictionary",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHW9Wt3XqXSwe1_uvdzTE1ewPIbnnCBgV0Sw&s",
+      "original": "https://d9seco0wfq8yu.cloudfront.net/dict/meqes.png"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/scissors/am/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPiYOoL6Ap4xSZSf4IvSNCzPol4ggbcYkB2g&s",
+      "fuentePagina": "https://christianleadermag.com/am/marriage-is-like-a-scissors/",
+      "titulo": "ጋብቻ እንደ መቀስ ነው - የክርስቲያን መሪ",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPiYOoL6Ap4xSZSf4IvSNCzPol4ggbcYkB2g&s",
+      "original": "https://christianleadermag.com/wp-content/uploads/2022/04/scissors-e1651166242656.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/scissors/am/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8roEL7uy_Xqm7e-J0ubLYAlBzApoeuhRzPw&s",
+      "fuentePagina": "https://www.amharicpro.com/index.php?dr=101&searchkey=%E1%88%98%E1%89%80%E1%88%B5",
+      "titulo": "መቀስ | Translation in Amharic - English",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8roEL7uy_Xqm7e-J0ubLYAlBzApoeuhRzPw&s",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Standard_household_scissors.jpg/250px-Standard_household_scissors.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/scissors/am/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxIECpSgDV8YggLOP_ytxe1QtbgTAOam3iIA&s",
+      "fuentePagina": "https://www.medikal.com/am/%E1%8B%A8%E1%89%80%E1%8B%B6-%E1%8C%A5%E1%8C%88%E1%8A%93-%E1%88%98%E1%88%B3%E1%88%AA%E1%8B%AB%E1%8B%8E%E1%89%BD/%E1%8A%A0%E1%8B%AD%E1%88%AA%E1%88%B5-%E1%88%98%E1%89%80%E1%88%B5/",
+      "titulo": "አይሪስ መቀስ",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxIECpSgDV8YggLOP_ytxe1QtbgTAOam3iIA&s",
+      "original": "https://www.medikal.com/images/iris-makasi.jpg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/scissors/am/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_48BPRFlZmX0nXa7vwtzCIMZSrhy3yO-IGg&s",
+      "fuentePagina": "https://am.wonderful-po.com/medical-artificial-orthotics-and-prosthetics-tools-lace-scissors-product/",
+      "titulo": "የቻይና ሜዲካል አርቴፊሻል ኦርቶቲክስ እና የሰው ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_48BPRFlZmX0nXa7vwtzCIMZSrhy3yO-IGg&s",
+      "original": "https://cdn.globalso.com/wonderful-po/photobank-14.jpg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/scissors/am/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTASEb_bzoW2dviUF3TN-37H-AW3vDqqkDr4g&s",
+      "fuentePagina": "http://am.fiberopticcn.com/electricians-scissor-product/",
+      "titulo": "የቻይና ኤሌክትሪክ ባለሙያ መቀስ አምራች እና አቅራቢ ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTASEb_bzoW2dviUF3TN-37H-AW3vDqqkDr4g&s",
+      "original": "https://cdn.globalso.com/fiberopticcn/3rifqlbguhx.jpg"
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "categoria": "stop sign",
+  "categoriaSlug": "stop-sign",
+  "idioma": "yo",
+  "nombreIdioma": "Yorùbá",
+  "termino": "ìdámọ̀ dúró",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T20:47:48.445Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "yo",
+    "gl": "ng"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=%C3%ACd%C3%A1m%E1%BB%8D%CC%80%20d%C3%BAr%C3%B3&hl=yo&gl=ng",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/stop-sign/yo/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2a6cUJvBztL10scLT7VfE9ZJGQkow6GNK9w&s",
+      "fuentePagina": "https://www.idewod.com/yo/dewod-usb-barcode-scanner-xn7120hd-product/",
+      "titulo": "Ẹ̀rọ ìṣàyẹ̀wò àmì ìdámọ̀ USB DEWOD XN7120HD |",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2a6cUJvBztL10scLT7VfE9ZJGQkow6GNK9w&s",
+      "original": "https://ecdn6.globalso.com/upload/p/2796/image_product/2024-11/dewod-usb-barcode-scanner-xn7120hd-3.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/stop-sign/yo/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRa2lb4PDuF2XKL3CLQw9v_8hPJNIcGqggIsQ&s",
+      "fuentePagina": "https://www.idewod.com/yo/7-inch-face-recognition-device-for-smart-lockers-product/",
+      "titulo": "Ẹ̀rọ ìdámọ̀ ojú tó ní ìyẹ́ 7-inch fún àwọn ibi ìpamọ́ olóye ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRa2lb4PDuF2XKL3CLQw9v_8hPJNIcGqggIsQ&s",
+      "original": "https://ecdn6.globalso.com/upload/p/2796/image_product/2025-02/7-inch-face-recognition-device-for-smart-lockers-6.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/stop-sign/yo/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYBl-3ugVpjbLV8WRJbtppWOc77YGLEcztvA&s",
+      "fuentePagina": "https://www.idewod.com/yo/7-inch-face-recognition-device-for-smart-lockers-product/",
+      "titulo": "Ẹ̀rọ ìdámọ̀ ojú tó ní ìyẹ́ 7-inch fún àwọn ibi ìpamọ́ olóye ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYBl-3ugVpjbLV8WRJbtppWOc77YGLEcztvA&s",
+      "original": "https://ecdn6.globalso.com/upload/p/2796/image_product/2025-02/7-inch-face-recognition-device-for-smart-lockers-1.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/stop-sign/yo/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQn2z9BiMxsFTgLAW2J6oXuaH_XyiRXoSyOzg&s",
+      "fuentePagina": "https://www.idewod.com/yo/7-inch-face-recognition-device-for-smart-lockers-product/",
+      "titulo": "Ẹ̀rọ ìdámọ̀ ojú tó ní ìyẹ́ 7-inch fún àwọn ibi ìpamọ́ olóye ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQn2z9BiMxsFTgLAW2J6oXuaH_XyiRXoSyOzg&s",
+      "original": "https://ecdn6.globalso.com/upload/p/2796/image_product/2025-02/7-inch-face-recognition-device-for-smart-lockers-4.jpg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/stop-sign/yo/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5KHcAcdzhd-p_CKOr_IiqqwJ1LTh-rcAHmA&s",
+      "fuentePagina": "https://www.laboratorywasher.com/yo/freestanding-fully-automatic-glassware-washing-machine-with-basket-identification-and-in-situ-hot-air-drying-2-3-layers-202l-product/",
+      "titulo": "Ẹ̀rọ fifọ gilasi aládàáni tí ó dúró ṣinṣin pẹ̀lú ìdámọ̀ ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5KHcAcdzhd-p_CKOr_IiqqwJ1LTh-rcAHmA&s",
+      "original": "https://cdn.globalso.com/laboratorywasher/Aurora-F2-Door-Open13.png"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/stop-sign/yo/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQQ0wjly-dzFByzs3AMS2A5eYeU5WOMCn7HQ&s",
+      "fuentePagina": "https://www.idewod.com/yo/7-inch-face-recognition-device-for-smart-lockers-product/",
+      "titulo": "Ẹ̀rọ ìdámọ̀ ojú tó ní ìyẹ́ 7-inch fún àwọn ibi ìpamọ́ olóye ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQQ0wjly-dzFByzs3AMS2A5eYeU5WOMCn7HQ&s",
+      "original": "https://ecdn6.globalso.com/upload/p/2796/image_product/2025-02/7-inch-face-recognition-device-for-smart-lockers-3.jpg"
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "categoria": "cat",
+  "categoriaSlug": "cat",
+  "idioma": "pt",
+  "nombreIdioma": "Português",
+  "termino": "gato",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T20:50:50.123Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "pt",
+    "gl": "br"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=gato&hl=pt&gl=br",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/cat/pt/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSswwvA9WWb2e3ZfFOEMZHik4jQ9MgJGCEDbg&s",
+      "fuentePagina": "https://inovaveterinaria.com.br/comportamento-das-racas-de-gatos-parte-1/",
+      "titulo": "Comportamento das Raças de Gatos (Parte 1) - Inova Veterinária",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSswwvA9WWb2e3ZfFOEMZHik4jQ9MgJGCEDbg&s",
+      "original": "https://inovaveterinaria.com.br/wp-content/uploads/2015/04/gato-sem-raca-INOVA-scaled.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/cat/pt/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQala6Xlg2jirjn2Je0XT3K2rj-fXpGjLZQQ&s",
+      "fuentePagina": "https://purina.com.br/purina/racas-de-gatos",
+      "titulo": "Raças de gatos: as mais populares e suas características ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQala6Xlg2jirjn2Je0XT3K2rj-fXpGjLZQQ&s",
+      "original": "https://purina.com.br/sites/default/files/2025-09/racas-de-gato-mais-populares.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/cat/pt/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0SlWGpIU9Vw9vFQFf5j63JJLVjkgAd0BA8w&s",
+      "fuentePagina": "https://www.cnnbrasil.com.br/tecnologia/aberracao-cientistas-descobrem-a-origem-genetica-da-cor-do-gato-laranja/",
+      "titulo": "Aberração? Cientistas descobrem a origem genética da cor do ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0SlWGpIU9Vw9vFQFf5j63JJLVjkgAd0BA8w&s",
+      "original": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2025/05/gato-laranja-e1748043537291.jpg?w=1200&h=1200&crop=1"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/cat/pt/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAowaWEVRdppIjxA-EZYkQJF-XyMUaQFRNTw&s",
+      "fuentePagina": "https://chemitec.com.br/blog/como-cuidar-de-gatos-filhotes/",
+      "titulo": "Como cuidar de gatos filhotes: um guia completo - Chemitec®",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAowaWEVRdppIjxA-EZYkQJF-XyMUaQFRNTw&s",
+      "original": "https://chemitec.com.br/wp-content/uploads/2025/04/como-cuidar-de-gatos-filhotes.jpg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/cat/pt/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnPu8m_elJwMPlCQ1NqzK9gtGqFEh71FPNkw&s",
+      "fuentePagina": "https://pt.wikipedia.org/wiki/Gato_malhado",
+      "titulo": "Gato malhado – Wikipédia, a enciclopédia livre",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnPu8m_elJwMPlCQ1NqzK9gtGqFEh71FPNkw&s",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Cat_November_2010-1a.jpg/250px-Cat_November_2010-1a.jpg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/cat/pt/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRccJeOe7yDV7iMkojYkNexRmcXVIu4cXg3tw&s",
+      "fuentePagina": "https://adimax.com.br/alimentacao-para-gatos-filhotes-dicas-e-recomendacoes/",
+      "titulo": "Alimentação Para Gatos Filhotes — Dicas E Recomendações",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRccJeOe7yDV7iMkojYkNexRmcXVIu4cXg3tw&s",
+      "original": "https://adimax.com.br/wp-content/uploads/2025/01/shutterstock_2492403467-scaled.jpg"
+    }
+  ]
+}

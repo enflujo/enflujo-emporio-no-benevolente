@@ -1,0 +1,71 @@
+{
+  "categoria": "traffic light",
+  "categoriaSlug": "traffic-light",
+  "idioma": "rw",
+  "nombreIdioma": "Kinyarwanda",
+  "termino": "itara",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T20:46:19.662Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "en",
+    "gl": "rw"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=itara&hl=en&gl=rw",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/traffic-light/rw/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_qoG4T9A5V1OmAcNs9JySrxQNUEf_xhAJ6A&s",
+      "fuentePagina": "https://rw.wikipedia.org/wiki/Dosiye:Itara_ry%E2%80%99akiyarwanda.jpg",
+      "titulo": "Dosiye:Itara ry'akiyarwanda.jpg - Wikipedia",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_qoG4T9A5V1OmAcNs9JySrxQNUEf_xhAJ6A&s",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Itara_ry%E2%80%99akiyarwanda.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/traffic-light/rw/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnZsuQrIkNhXII-RK6RBUf5XvaiE84v6AVKg&s",
+      "fuentePagina": "https://www.itarastudio.org/",
+      "titulo": "Itara",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnZsuQrIkNhXII-RK6RBUf5XvaiE84v6AVKg&s",
+      "original": "https://cdn.shopify.com/s/files/1/0008/0799/3405/files/IMG_2618.jpg?height=628&pad_color=fff&v=1696729742&width=1200"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/traffic-light/rw/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKKZ5oYLPXATghQ1k8yajtZ2FeeTbeOxbv6Q&s",
+      "fuentePagina": "https://www.youtube.com/watch?v=6nxbUjkCH8A",
+      "titulo": "ITARA By DAVIS D Official Audio",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKKZ5oYLPXATghQ1k8yajtZ2FeeTbeOxbv6Q&s",
+      "original": "https://i.ytimg.com/vi/6nxbUjkCH8A/maxresdefault.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/traffic-light/rw/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-5pQjqteLEcYkzg4KXHQhfBM23Op2ta7Sjw&s",
+      "fuentePagina": "https://rw.linkedin.com/company/itara-media",
+      "titulo": "ITARA MEDIA LTD | LinkedIn",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-5pQjqteLEcYkzg4KXHQhfBM23Op2ta7Sjw&s",
+      "original": "https://media.licdn.com/dms/image/v2/C4D1BAQHZTRZ8lwddlA/company-background_10000/company-background_10000/0/1651414867992/itara_media_cover?e=2147483647&v=beta&t=P8grVSd17MV0sO7u62hUb0U8yjfvrXQiGXuFzdxHSGg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/traffic-light/rw/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsCU9_C3OY6kFDiYbyul3_gpvRdwUdEq9JVw&s",
+      "fuentePagina": "https://www.facebook.com/itarafilms/",
+      "titulo": "ITARA FILMS Ltd (@itarafilms) • Facebook",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsCU9_C3OY6kFDiYbyul3_gpvRdwUdEq9JVw&s",
+      "original": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=100063541233704"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/traffic-light/rw/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxGCUg2ZQpH1BkDXcI-6YpLLbiUXDAnCrumA&s",
+      "fuentePagina": "https://www.instagram.com/itara_studio/",
+      "titulo": "ITARA Studio (@itara_studio) • Instagram photos and videos",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxGCUg2ZQpH1BkDXcI-6YpLLbiUXDAnCrumA&s",
+      "original": "https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3297016223606227203"
+    }
+  ]
+}

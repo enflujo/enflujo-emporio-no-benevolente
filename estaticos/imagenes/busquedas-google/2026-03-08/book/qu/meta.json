@@ -1,0 +1,71 @@
+{
+  "categoria": "book",
+  "categoriaSlug": "book",
+  "idioma": "qu",
+  "nombreIdioma": "Quechua",
+  "termino": "liwru",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:28:27.011Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "es",
+    "gl": "pe"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=liwru&hl=es&gl=pe",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/book/qu/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpOKp6Hx6wB9t_XObEKukX8lYocJR1XH6O6w&s",
+      "fuentePagina": "https://www.instagram.com/liwru.libreriainfantil/",
+      "titulo": "LIWRU (@liwru.libreriainfantil) • Instagram photos and videos",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpOKp6Hx6wB9t_XObEKukX8lYocJR1XH6O6w&s",
+      "original": "https://lookaside.fbsbx.com/lookaside/crawler/instagram/liwru.libreriainfantil/profile_pic.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/book/qu/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvv6qifQa3a44cQbQ1tQ4BWZFhZL5-ZJj_Bg&s",
+      "fuentePagina": "https://www.facebook.com/p/Liwru-Per%C3%BA-100067803249043/",
+      "titulo": "Liwru Perú",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvv6qifQa3a44cQbQ1tQ4BWZFhZL5-ZJj_Bg&s",
+      "original": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=100067803249043"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/book/qu/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRw8m-KYBZ3XDb7bst_SVduUtpGbalVbJ4MiQ&s",
+      "fuentePagina": "https://www.facebook.com/librosinfantilesperu/",
+      "titulo": "Liwru Kullay | Lima",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRw8m-KYBZ3XDb7bst_SVduUtpGbalVbJ4MiQ&s",
+      "original": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=100054356688952"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/book/qu/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTaHmRpckBwPfyh9IhhoTDrYwcfhnSAsiJg6A&s",
+      "fuentePagina": "https://www.facebook.com/liwrup/",
+      "titulo": "Liwru Publicaciones | Lima",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTaHmRpckBwPfyh9IhhoTDrYwcfhnSAsiJg6A&s",
+      "original": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=100070325350111"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/book/qu/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStmuWTqs29rSZE-hnFXPOo-HRNqcS3gqDawQ&s",
+      "fuentePagina": "https://www.facebook.com/donaLiwru/",
+      "titulo": "LIWRU | Lince",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStmuWTqs29rSZE-hnFXPOo-HRNqcS3gqDawQ&s",
+      "original": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=100067612556002"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/book/qu/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQI16s0HttW8E-qgdpYqIpdbESUAde3E96ILw&s",
+      "fuentePagina": "https://www.instagram.com/liwru.libreriainfantil/",
+      "titulo": "Nachito es súper fan de los libros y ahora que estaba buscando estimularlo  en el habla en casa encontré este súper pack de libros en  @liwru.libreriainfantil que le encantaron 😍😍. Y si van de parte lo ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQI16s0HttW8E-qgdpYqIpdbESUAde3E96ILw&s",
+      "original": "https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3557302367713218003"
+    }
+  ]
+}

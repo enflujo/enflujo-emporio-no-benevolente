@@ -1,0 +1,71 @@
+{
+  "categoria": "cell phone",
+  "categoriaSlug": "cell-phone",
+  "idioma": "zh",
+  "nombreIdioma": "中文",
+  "termino": "手机",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:24:37.143Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "zh-CN",
+    "gl": "cn"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=%E6%89%8B%E6%9C%BA&hl=zh-CN&gl=cn",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/cell-phone/zh/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDJ9yfch7_Z9M9u-QzRyeyYhMhVD36TCIFnQ&s",
+      "fuentePagina": "https://m.36kr.com/p/3260948686235143",
+      "titulo": "超薄手机突然火了，手机厂商没活硬整，还是真有搞头？-36氪",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDJ9yfch7_Z9M9u-QzRyeyYhMhVD36TCIFnQ&s",
+      "original": "https://img.36krcdn.com/hsossms/20250422/v2_fe85a7cccd8740f882f7b90a436745eb@1547419282_oswg2003609oswg2048oswg1366_img_000?x-oss-process=image/format,jpg/interlace,1"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/cell-phone/zh/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6BqQxYVe7OSteg1is79G0GumwRyRE6DHYxw&s",
+      "fuentePagina": "https://post.m.smzdm.com/p/ag5lvn37/",
+      "titulo": "2025年最值得入手的2000-3000元手机推荐：谁才是你的理想之选？_ ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6BqQxYVe7OSteg1is79G0GumwRyRE6DHYxw&s",
+      "original": "https://am.zdmimg.com/202501/11/6781fa4b12c351262.png_e1080.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/cell-phone/zh/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRitr_-RfD9GOgFEoPTDJMxHIVjtV4UCHxfiA&s",
+      "fuentePagina": "https://zhuanlan.zhihu.com/p/213819607",
+      "titulo": "2026年哪一款手机值得买？华为、小米、苹果、OPPO 、vivo、荣耀 ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRitr_-RfD9GOgFEoPTDJMxHIVjtV4UCHxfiA&s",
+      "original": "https://pic3.zhimg.com/v2-b7e760e08253b968cdade41a70df85b2_1440w.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/cell-phone/zh/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUhdh21a7-8HlS5jiDuHWJHVIPKobBewv1GQ&s",
+      "fuentePagina": "https://news.qq.com/rain/a/20240907A07WGQ00",
+      "titulo": "目前“最值得买”的2款苹果手机，价格已经大跳水，一步到位用6年 ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUhdh21a7-8HlS5jiDuHWJHVIPKobBewv1GQ&s",
+      "original": "https://inews.gtimg.com/om_bt/OUkYal6qQQjDSGG4T_L6Jr02n0e4JqPZV5rhfQhs0_GloAA/641"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/cell-phone/zh/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTemwTxETuS1XtFwKpH6_KAoXeOEf6oeTiptA&s",
+      "fuentePagina": "https://baike.baidu.com/item/%E6%89%8B%E6%9C%BA/6342",
+      "titulo": "手机_百度百科",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTemwTxETuS1XtFwKpH6_KAoXeOEf6oeTiptA&s",
+      "original": "https://bkimg.cdn.bcebos.com/smart/b17eca8065380cd7912353682d1cba345982b3b72ba7-bkimg-process,v_1,rw_1,rh_1,pad_1,color_ffffff?x-bce-process=image/format,f_auto"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/cell-phone/zh/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNrpvtu3nio_NzACbWtlAELS8is3yWvvo7Gw&s",
+      "fuentePagina": "https://mp.m.ofweek.com/mobile/a456714622527",
+      "titulo": "国内最畅销的10大手机：苹果占3席，国产高档仅华为Mate70上榜 ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNrpvtu3nio_NzACbWtlAELS8is3yWvvo7Gw&s",
+      "original": "https://mp.m.ofweek.com/Upload/News/Img/member46034/202502/10113044922859.jpg"
+    }
+  ]
+}

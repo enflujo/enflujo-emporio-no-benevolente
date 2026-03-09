@@ -1,0 +1,71 @@
+{
+  "categoria": "traffic light",
+  "categoriaSlug": "traffic-light",
+  "idioma": "en",
+  "nombreIdioma": "English",
+  "termino": "traffic light",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T20:46:12.792Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "en",
+    "gl": "us"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=traffic%20light&hl=en&gl=us",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/traffic-light/en/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT66hCrRioE_uhpxLkyaRCJDvfHBJEoeAw3Gw&s",
+      "fuentePagina": "https://www.rd.com/article/traffic-lights/",
+      "titulo": "Stoplight Colors: Why Are Traffic Lights Red, Yellow and Green?",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT66hCrRioE_uhpxLkyaRCJDvfHBJEoeAw3Gw&s",
+      "original": "https://www.rd.com/wp-content/uploads/2020/02/traffic-light-colors-GettyImages-689407322-MLedit-e1743146123110.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/traffic-light/en/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgFMW5CyUi73QlmlJVLIvuMdvdJMFAa2oL0Q&s",
+      "fuentePagina": "https://www.youtube.com/watch?v=qRVjpdaHT74",
+      "titulo": "How to Draw Traffic Light / Traffic Signal Drawing / Road Safety Drawing /  Traffic Light Drawing",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgFMW5CyUi73QlmlJVLIvuMdvdJMFAa2oL0Q&s",
+      "original": "https://i.ytimg.com/vi/qRVjpdaHT74/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLCiwD-UaAtwiai1dpsim8VpckNl2g"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/traffic-light/en/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSIhrWr8i1IZQj1kgGwh10qlgtJ3f7KAV-iw&s",
+      "fuentePagina": "https://www.familyhandyman.com/article/traffic-light-signal-guide/",
+      "titulo": "What Does Each Traffic Light Signal Mean? Beyond Red Light ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSIhrWr8i1IZQj1kgGwh10qlgtJ3f7KAV-iw&s",
+      "original": "https://www.familyhandyman.com/wp-content/uploads/2025/07/What-Does-Each-Traffic-Light-Symbol-Mean_GettyImages-2168516574_FT.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/traffic-light/en/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSupyxxr-j40szrFFsCj6AC-_LWePjWlWnpQA&s",
+      "fuentePagina": "https://en.wikipedia.org/wiki/Traffic_light",
+      "titulo": "Traffic light - Wikipedia",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSupyxxr-j40szrFFsCj6AC-_LWePjWlWnpQA&s",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Modern_British_LED_Traffic_Light.jpg/250px-Modern_British_LED_Traffic_Light.jpg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/traffic-light/en/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1Gu4VZMprVBKgRl-wbY8GqLWBfKiGXEWulQ&s",
+      "fuentePagina": "https://www.vecteezy.com/free-vector/traffic-light",
+      "titulo": "Traffic Light Vector Art, Icons, and Graphics for Free Download",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1Gu4VZMprVBKgRl-wbY8GqLWBfKiGXEWulQ&s",
+      "original": "https://static.vecteezy.com/system/resources/thumbnails/000/550/395/small/traffic_light_006.jpg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/traffic-light/en/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJyCmDncvwXNkVLc36Lf-FD9ORWU4rV3CCQQ&s",
+      "fuentePagina": "https://www.centennialco.gov/Government/Departments/Public-Works/Traffic/Traffic-Signals",
+      "titulo": "Traffic Signals – City of Centennial",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJyCmDncvwXNkVLc36Lf-FD9ORWU4rV3CCQQ&s",
+      "original": "https://www.centennialco.gov/files/sharedassets/public/v/3/images/public-works/traffic-signals.png?w=1080"
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "categoria": "motorcycle",
+  "categoriaSlug": "motorcycle",
+  "idioma": "ln",
+  "nombreIdioma": "Lingala",
+  "termino": "moto",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T20:42:19.106Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "fr",
+    "gl": "cd"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=moto&hl=fr&gl=cd",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/motorcycle/ln/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMKWr9u0e74M2SQ16izvlJslCnoM85xUmIgA&s",
+      "fuentePagina": "https://www.cf-moto.fr/moto/",
+      "titulo": "Gamme moto | CFMOTO France",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMKWr9u0e74M2SQ16izvlJslCnoM85xUmIgA&s",
+      "original": "https://www.cf-moto.fr/moto/wp-content/uploads/sites/2/2025/05/CFMOTO-125NK-Bleu-34-avant.webp"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/motorcycle/ln/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRy1awoKgAkWCysM4SacKubfACvVyChs77cQQ&s",
+      "fuentePagina": "https://www.motoconduite.fr/conduire-une-moto-5-raisons/",
+      "titulo": "Conduire une moto : 5 raisons de s'y mettre dès maintenant",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRy1awoKgAkWCysM4SacKubfACvVyChs77cQQ&s",
+      "original": "https://www.motoconduite.fr/wp-content/uploads/2023/07/conduire-une-moto-768x768.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/motorcycle/ln/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHQOmnaTd3-Yf8irK9AYv1jTPoZC8U7RW4nQ&s",
+      "fuentePagina": "https://fr.wikipedia.org/wiki/Moto",
+      "titulo": "Moto — Wikipédia",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHQOmnaTd3-Yf8irK9AYv1jTPoZC8U7RW4nQ&s",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/4/45/Yamaha_MT-07_2025_EICMA_2024.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/motorcycle/ln/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLxcCEhAcOb7Kj3YMlDYbXzdrjgXWRcAX3fQ&s",
+      "fuentePagina": "https://lesbikeuses.fr/c/motos/sportive/",
+      "titulo": "Sportive - Les Bikeuses",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLxcCEhAcOb7Kj3YMlDYbXzdrjgXWRcAX3fQ&s",
+      "original": "https://lesbikeuses.fr/wp-content/uploads/2022/07/lxs-125-lexmoto.png"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/motorcycle/ln/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQD1aBsr-u1VS6h_X2GF79fqSDpMwjDOj1F2g&s",
+      "fuentePagina": "https://www.suzuki.ca/fr/motorcycles/",
+      "titulo": "Motos - Suzuki Canada Inc.",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQD1aBsr-u1VS6h_X2GF79fqSDpMwjDOj1F2g&s",
+      "original": "https://www.suzuki.ca/wp-content/uploads/GSX-R1000R_C6F_right-sans_winglet.jpg.png"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/motorcycle/ln/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSoFv7ZBexLtZ782RDPJyQD48Idc1TFWY-uw&s",
+      "fuentePagina": "https://www.futura-sciences.com/tech/actualites/technologie-tokyo-override-moto-tres-futuriste-revolutionnaire-yamaha-anime-existe-vraiment-118546/",
+      "titulo": "Tokyo Override : la moto très futuriste et révolutionnaire ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSoFv7ZBexLtZ782RDPJyQD48Idc1TFWY-uw&s",
+      "original": "https://cdn8.futura-sciences.com/a1280/images/Yamaha-Y-AI-concept.jpg"
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "categoria": "pizza",
+  "categoriaSlug": "pizza",
+  "idioma": "zh",
+  "nombreIdioma": "中文",
+  "termino": "披萨",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:15:25.511Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "zh-CN",
+    "gl": "cn"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=%E6%8A%AB%E8%90%A8&hl=zh-CN&gl=cn",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/pizza/zh/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyLCWEbWCyzRRiQoUBSLcY52FedzxjpJn2fA&s",
+      "fuentePagina": "https://cookidoo.international/recipes/recipe/en/r909605",
+      "titulo": "那不勒斯披萨",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyLCWEbWCyzRRiQoUBSLcY52FedzxjpJn2fA&s",
+      "original": "https://assets.tmecosys.com/image/upload/t_web_rdp_recipe_584x480_1_5x/img/recipe/ras/Assets/48a49653c8716457eb0b2f7eb3c7d74c/Derivates/8d83d9ed4567fa15456d8eec7557e60006a15576.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/pizza/zh/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLnIaTj6vhL6o4f5YDSYVTcSP1_fF1xXuvrQ&s",
+      "fuentePagina": "https://cookidoo.international/recipes/recipe/ru/r72947",
+      "titulo": "金枪鱼披萨",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLnIaTj6vhL6o4f5YDSYVTcSP1_fF1xXuvrQ&s",
+      "original": "https://assets.tmecosys.com/image/upload/t_web_rdp_recipe_584x480_1_5x/img/recipe/ras/Assets/07ac3f34-4007-48a7-867a-b21b40749c41/Derivates/0b4aadaf-5f82-49fc-ac07-b2ed87ac9b23.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/pizza/zh/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGIym5M4TyIEQGXKQ76XraTF_FAfBzCYoqSA&s",
+      "fuentePagina": "https://www.remitly.com/blog/zh/shenghuo-yuwenhua/pizza-italys-iconic-dish-unlocked/",
+      "titulo": "意大利比萨饼（Pizza）的文化与传统：一段美食的历史旅程- 超越 ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGIym5M4TyIEQGXKQ76XraTF_FAfBzCYoqSA&s",
+      "original": "https://www.remitly.com/blog/wp-content/uploads/2023/09/italy-pizza.jpg?wpId=23489"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/pizza/zh/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwLm1nV7pmaP3x-PouG7maMqjby53uAeWu5A&s",
+      "fuentePagina": "https://www.youtube.com/watch?v=QsOVefzYLj4",
+      "titulo": "披萨/披萨饼皮及番茄酱！一次教会你在家做完美的披萨，学会就再也不想买着吃了！Perfect PIZZA at HOME/Pizza Dough  /Tomato Sauce Recipe ▏佳宝妈美食",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwLm1nV7pmaP3x-PouG7maMqjby53uAeWu5A&s",
+      "original": "https://i.ytimg.com/vi/QsOVefzYLj4/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLAQXbmcrpcJHyJ7bCcPcaORL7XVkw"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/pizza/zh/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZgWU5irSL4RUVOyKm9yWQgqxm4UXyUEXD_A&s",
+      "fuentePagina": "https://www.missionfoods.com.cn/cn-cn/recipes/recipe-collections/%E6%AD%A3%E9%A4%90/%E6%B5%B7%E9%B2%9C%E6%80%BB%E6%B1%87%E6%8A%AB%E8%90%A8/",
+      "titulo": "海鲜总汇披萨",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZgWU5irSL4RUVOyKm9yWQgqxm4UXyUEXD_A&s",
+      "original": "https://www.missionfoods.com.cn/media/jtvj4ybo/recipe22-1.jpg?anchor=center&mode=crop&width=570&height=380&rnd=132979867066200000"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/pizza/zh/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkbjW_6fW_cpVFsXfpyNRVvatagauusCbvug&s",
+      "fuentePagina": "https://cookidoo.com.cn/recipes/recipe/zh-CN/r160032",
+      "titulo": "Pan Pizza",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkbjW_6fW_cpVFsXfpyNRVvatagauusCbvug&s",
+      "original": "https://assets.tmecosys.cn/image/upload/t_web_rdp_recipe_584x480_1_5x/img/recipe/ras/Assets/2230eee1-65c4-404d-ae64-7b38ff5b0ce7/Derivates/d0eb3b36-5500-4d67-b1d4-a12487f23c9c.jpg"
+    }
+  ]
+}

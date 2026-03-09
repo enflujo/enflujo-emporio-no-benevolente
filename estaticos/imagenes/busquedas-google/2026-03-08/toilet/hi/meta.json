@@ -1,0 +1,71 @@
+{
+  "categoria": "toilet",
+  "categoriaSlug": "toilet",
+  "idioma": "hi",
+  "nombreIdioma": "हिन्दी",
+  "termino": "शौचालय",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:20:36.928Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "hi",
+    "gl": "in"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=%E0%A4%B6%E0%A5%8C%E0%A4%9A%E0%A4%BE%E0%A4%B2%E0%A4%AF&hl=hi&gl=in",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/toilet/hi/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRaKI7fDlN-UqCHTSC_kDXKV3T5W91J5wz3vA&s",
+      "fuentePagina": "https://hindi.downtoearth.org.in/sanitation/experts-raises-questions-on-swachh-bharat-mission-64239",
+      "titulo": "स्वच्छ भारत में शौचालय बनें पर ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRaKI7fDlN-UqCHTSC_kDXKV3T5W91J5wz3vA&s",
+      "original": "https://gumlet.assettype.com/down-to-earth%2Fimport%2Flibrary%2Flarge%2F2019-04-29%2F0.50648000_1556549837_toilets.jpg?w=480&auto=format%2Ccompress&fit=max"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/toilet/hi/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7htssjqJtx-xKntfie1PbGYSAoWIJ_43ttQ&s",
+      "fuentePagina": "https://www.instagram.com/p/CLiuG2QHu4R/",
+      "titulo": "शौच के लिए शौचालय का प्रयोग जितना ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7htssjqJtx-xKntfie1PbGYSAoWIJ_43ttQ&s",
+      "original": "https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=2513774322735050257"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/toilet/hi/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThm7v8Qmh_SpEhNJYrNVokEVAM1-hshBkeSQ&s",
+      "fuentePagina": "https://www.bhaskar.com/local/uttar-pradesh/ayodhya/rudauli/news/the-condition-of-community-toilet-in-muzaffarpur-is-bad-135036589.html",
+      "titulo": "The condition of community toilet in Muzaffarpur is bad",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThm7v8Qmh_SpEhNJYrNVokEVAM1-hshBkeSQ&s",
+      "original": "https://images.bhaskarassets.com/web2images/521/2025/05/16/6e6a4774-1499-443d-b49c-e008c8a6dfea_1747330873031.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/toilet/hi/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStF8rPVqCZghUR-x7OWfIzb3nGbva-sKOkBg&s",
+      "fuentePagina": "https://www.instagram.com/p/DC7Elfbth_J/",
+      "titulo": "विश्व शौचालय दिवस: व्यक्तिगत ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStF8rPVqCZghUR-x7OWfIzb3nGbva-sKOkBg&s",
+      "original": "https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3511420497771639662"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/toilet/hi/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7Y8Ky1JLGWNbp-gcU2p9LuN_V6Q5-NXQ_iQ&s",
+      "fuentePagina": "https://khabarlahariya.org/bundelkhand-chitrakoot-banda-locks-on-community-toilets/",
+      "titulo": "सामुदायिक शौचालयों में लगा ताला ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7Y8Ky1JLGWNbp-gcU2p9LuN_V6Q5-NXQ_iQ&s",
+      "original": "https://khabarlahariya.org/wp-content/uploads/2022/04/%E0%A4%AE%E0%A4%B9%E0%A4%BE-%E0%A4%95%E0%A4%B5%E0%A4%B0%E0%A5%87%E0%A4%9C-57.png"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/toilet/hi/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSchCLHdF3RNB6ZfA6FubVlV0DohdTlI4QpXQ&s",
+      "fuentePagina": "https://janchowk.com/ground-report-the-goal-of-toilet-in-every-house-is-still-pending/",
+      "titulo": "ग्राउंड रिपोर्ट: अभी बाकी है 'हर ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSchCLHdF3RNB6ZfA6FubVlV0DohdTlI4QpXQ&s",
+      "original": "https://janchowk.com/wp-content/uploads/2024/11/Untitled-22.jpg"
+    }
+  ]
+}

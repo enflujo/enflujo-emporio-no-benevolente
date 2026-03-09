@@ -1,0 +1,71 @@
+{
+  "categoria": "cell phone",
+  "categoriaSlug": "cell-phone",
+  "idioma": "yo",
+  "nombreIdioma": "Yorùbá",
+  "termino": "fóònù",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:24:18.557Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "yo",
+    "gl": "ng"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=f%C3%B3%C3%B2n%C3%B9&hl=yo&gl=ng",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/cell-phone/yo/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdv6mImDKAVyjsWzfbKyuB3JgEN3JAPDttHg&s",
+      "fuentePagina": "https://www.bbc.com/yoruba/articles/cd7v2951er4o",
+      "titulo": "Wo àwọn fóònù tí WhatsApp kò ní bá ṣiṣẹ́ mọ́ láti oṣù tó ń ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdv6mImDKAVyjsWzfbKyuB3JgEN3JAPDttHg&s",
+      "original": "https://ichef.bbci.co.uk/ace/ws/640/cpsprodpb/0107/live/22cb37d0-1b5c-11f0-8f7b-f14ee83762cb.png.webp"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/cell-phone/yo/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRttZM6fXTKz9hk10Ocxfb0yGV6GflHD0DZTQ&s",
+      "fuentePagina": "https://www.bbc.com/yoruba/articles/c365gye92e7o",
+      "titulo": "Wo bí fóònù ṣe ń ṣokùnfà ikú àwọn obìnrin tó wà nílé ọkọ ní ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRttZM6fXTKz9hk10Ocxfb0yGV6GflHD0DZTQ&s",
+      "original": "https://ichef.bbci.co.uk/ace/ws/640/cpsprodpb/1edb/live/edadf470-4905-11f0-bbaa-4bc03e0665b7.jpg.webp"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/cell-phone/yo/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSpTdhcEx9I3b-pzlajNq8AuJrZXuzOUxIgA&s",
+      "fuentePagina": "https://www.instagram.com/p/DR8_0VWCLmE/",
+      "titulo": "Lára nǹkan tó ń sọnù jù làgbàáyé ni fóònù jẹ́, tó sí jẹ́ ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSpTdhcEx9I3b-pzlajNq8AuJrZXuzOUxIgA&s",
+      "original": "https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3782178427521005715"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/cell-phone/yo/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhSdC_3jspW77pObRG2OXviIcDypGJwbxPeg&s",
+      "fuentePagina": "https://www.facebook.com/faith.onatomiwa/posts/nj%E1%BA%B9-%E1%BA%B9-r%C3%A1nt%C3%AD-f%C3%B3%C3%B2n%C3%B9-yi/26473578379001885/",
+      "titulo": "Njẹ ẹ rántí fóònù yi",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhSdC_3jspW77pObRG2OXviIcDypGJwbxPeg&s",
+      "original": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=26473577995668590"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/cell-phone/yo/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREeVCS8A3wAuWZxefW4DswYEDUzH9gKz2X2Q&s",
+      "fuentePagina": "https://www.instagram.com/p/DIje_rKMevQ/",
+      "titulo": "WhatsApp kéde pé àwọn fóònù kan tó ti pẹ́ kò nílè ṣe àmúlò ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREeVCS8A3wAuWZxefW4DswYEDUzH9gKz2X2Q&s",
+      "original": "https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3612867643145579472"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/cell-phone/yo/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2uibPBHcdsX-bcdcjsa89TGkQTcWSpEKcrg&s",
+      "fuentePagina": "https://www.bbc.com/yoruba/articles/cz6l7zl9vn3o",
+      "titulo": "Ìmọ̀ ẹ̀rọ fóònù ti gba iṣẹ́ aago tí mo máa ń tún ṣe lọ́wọ́ ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2uibPBHcdsX-bcdcjsa89TGkQTcWSpEKcrg&s",
+      "original": "https://ichef.bbci.co.uk/ace/ws/640/cpsprodpb/b16c/live/5297ffb0-b15e-11ef-b8b4-6d288d209bd9.jpg.webp"
+    }
+  ]
+}

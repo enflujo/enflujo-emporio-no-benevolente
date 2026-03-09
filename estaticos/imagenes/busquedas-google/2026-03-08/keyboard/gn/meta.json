@@ -1,0 +1,71 @@
+{
+  "categoria": "keyboard",
+  "categoriaSlug": "keyboard",
+  "idioma": "gn",
+  "nombreIdioma": "Guaraní",
+  "termino": "teclado",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:23:56.296Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "es",
+    "gl": "py"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=teclado&hl=es&gl=py",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/keyboard/gn/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMdjq00JQRv7kvSU8qUeSZr9A8w72V6tIaoA&s",
+      "fuentePagina": "https://www.steren.cr/teclado-usb.html?srsltid=AfmBOopvztI3_-sex-nq7YrnTt_6yFMPh8Ws025w4tTk-NIsgn9svEH_",
+      "titulo": "Compre el Teclado USB Blanco-GrisTX hoy | Envío rápido",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMdjq00JQRv7kvSU8qUeSZr9A8w72V6tIaoA&s",
+      "original": "https://www.steren.cr/media/catalog/product/cache/0236bbabe616ddcff749ccbc14f38bf2/image/1693608bf/teclado-usb.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/keyboard/gn/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStqjgR8wWQ8KeHbFu_nwM1DTi8njzdduUv9Q&s",
+      "fuentePagina": "https://es.wikipedia.org/wiki/Teclado_(inform%C3%A1tica)",
+      "titulo": "Teclado (informática) - Wikipedia, la enciclopedia libre",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStqjgR8wWQ8KeHbFu_nwM1DTi8njzdduUv9Q&s",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/5/5a/Computer_keyboard_ES_layout.svg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/keyboard/gn/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRTgNF9_qMaygoYt6E58rZFxa-aHHwpU5OdA&s",
+      "fuentePagina": "https://www.quanta.com.py/produto/kit-teclado-y-mouse-inalambrico-easy-type-qtktm12-10835.html",
+      "titulo": "Kit Teclado y Mouse Inalámbrico Easy Type QTKTM12 | Quanta ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRTgNF9_qMaygoYt6E58rZFxa-aHHwpU5OdA&s",
+      "original": "https://www.quanta.com.py/img/10835/produtos/1200/49c253f97641de33a32a78a4c427b643.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/keyboard/gn/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRX0EJuSLLB-BZOn2KIm70JNrpret0W-ddIQ&s",
+      "fuentePagina": "https://cellshop.com.py/4123392-teclado-alambrico-sate-standard-ak-922-espanol-black-1",
+      "titulo": "Teclado Alámbrico Sate Standard AK-922 (Español) Black",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRX0EJuSLLB-BZOn2KIm70JNrpret0W-ddIQ&s",
+      "original": "https://cellshop.com.py/media/catalog/product/4/1/4123392_1_1.jpg?optimize=medium&bg-color=255,255,255&fit=bounds&height=616&width=616&canvas=616:616"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/keyboard/gn/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXCMYgpkkWxuTT7Rdm4i1uJZLPD08QUigZFQ&s",
+      "fuentePagina": "https://www.ubuy.com.py/es/product/7N4SW3LOC-arabic-english-computer-keyboard-arabic-bilingual-keyboard-usb-wired-arabic-keyboard-desktop-office-arabic-keyboard-suitable-for-pc-laptop?srsltid=AfmBOor147exSD0uunaypzsCI3jOO7cliCChoaaB7M629hYUMjt8oN4v",
+      "titulo": "Arabic Bilingual Keyboard - USB Wired Desktop Office Keyboard Suitable For  Pc Laptop",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXCMYgpkkWxuTT7Rdm4i1uJZLPD08QUigZFQ&s",
+      "original": "https://m.media-amazon.com/images/I/71SscvTzh+L._AC_SL1000__.jpg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/keyboard/gn/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbAOXxtO_E5u8MVthWNqFmbczICVA6fCogvg&s",
+      "fuentePagina": "https://www.compulandia.com.py/categoria-producto/teclados/",
+      "titulo": "Teclados - Compulandia",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbAOXxtO_E5u8MVthWNqFmbczICVA6fCogvg&s",
+      "original": "https://www.compulandia.com.py/wp-content/uploads/2025/10/phfx7RkplCMKUcTBCI3NobTcJBxZBoaXV4uezs0s-1.jpg"
+    }
+  ]
+}

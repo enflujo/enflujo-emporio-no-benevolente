@@ -1,0 +1,71 @@
+{
+  "categoria": "cup",
+  "categoriaSlug": "cup",
+  "idioma": "am",
+  "nombreIdioma": "Amharic — አማርኛ",
+  "termino": "ኩባያ",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:07:32.273Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "am",
+    "gl": "et"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=%E1%8A%A9%E1%89%A3%E1%8B%AB&hl=am&gl=et",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/cup/am/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwMIAUeBrDq2leNXwB0HulKCEVVxMQrFzR3A&s",
+      "fuentePagina": "https://www.selamtausa.com/am_ET/shop/7615-seeraamike-mathachaa-kubaayaa-500-ml-baabaa-gadaa-1804",
+      "titulo": "ሴራሚክ መጠጫ ኩባያ 500 ml (በአባ ገዳ) | Selamta L.L.C",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwMIAUeBrDq2leNXwB0HulKCEVVxMQrFzR3A&s",
+      "original": "https://www.selamtausa.com/web/image/product.template/1804/image_1024?unique=b60c62f"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/cup/am/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTikhei6ZH28R7KH2hcSAI0uvak68o_-WAsFw&s",
+      "fuentePagina": "https://amharic.zzhcmy.com/%E1%8B%A8%E1%8A%A2%E1%8A%93%E1%88%9C%E1%88%8D-%E1%8A%A9%E1%89%A3%E1%8B%AB%E1%8B%8E%E1%89%BD/%E1%89%A5%E1%8C%81-%E1%8B%A8%E1%8A%A2%E1%8A%93%E1%88%9C%E1%88%8D-%E1%8A%A9%E1%89%A3%E1%8B%AB-%E1%8B%A8%E1%8A%A2%E1%8A%93%E1%88%9C%E1%88%8D-%E1%89%A5%E1%88%AD%E1%8C%AD%E1%89%86%E1%8B%8E%E1%89%BD-%E1%8B%A8%E1%8A%A2%E1%8A%93%E1%88%9C%E1%88%8D-%E1%8A%A9%E1%89%A3%E1%8B%AB-%E1%8B%AB%E1%8C%8C%E1%8C%A0-%E1%8B%A8%E1%8A%A0%E1%8A%93%E1%88%9C%E1%88%8D-%E1%8A%A9%E1%89%A3%E1%8B%AB-hc-5612d",
+      "titulo": "ብጁ የኢናሜል ኩባያ / የኢናሜል ብርጭቆዎች የኢናሜል ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTikhei6ZH28R7KH2hcSAI0uvak68o_-WAsFw&s",
+      "original": "https://www.zzhcmy.com/upload/product/1680770665905520.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/cup/am/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbXjRwk3nW1kQ4-DlrPevpB-GE6r88tjEQeA&s",
+      "fuentePagina": "https://www.smallorders.com/am/product-custom-logo-porcelain-coffee-cups-white-coated-sublimation-blank-ceramic-mugs",
+      "titulo": "Custom Logo Porcelain ቡና ኩባያ ነጭ የተለበጠ ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbXjRwk3nW1kQ4-DlrPevpB-GE6r88tjEQeA&s",
+      "original": "https://sc01.alicdn.com/kf/H0f90acdd44ee43659e14bbd19fd6f06dm.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/cup/am/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxb8M_nfNRGKpPBc9JFqBNJkkW8Z8ResLpMA&s",
+      "fuentePagina": "https://amharicteacher.com/dictionary/english/%E1%8A%A9%E1%89%A3%E1%8B%AB",
+      "titulo": "ኩባያ (kubaya) meaning in English - Amharic Dictionary",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxb8M_nfNRGKpPBc9JFqBNJkkW8Z8ResLpMA&s",
+      "original": "https://d9seco0wfq8yu.cloudfront.net/dict/kubaya.png"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/cup/am/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrCpSzhPronCaP3eIwnZHUWziJTq5lOhbXPg&s",
+      "fuentePagina": "https://www.garbotableware.com/am/ceramic-mug/factory-wholesale-yellow-ceramic-mug-380ml-coffee-tea-cup-with-handle.html",
+      "titulo": "የሴራሚክ ማቀፊያዎች ቢጫ ቀለም ከ 380 ሚሊ ሜትር ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrCpSzhPronCaP3eIwnZHUWziJTq5lOhbXPg&s",
+      "original": "https://www.garbotableware.com/data/watermark/20230511/645cdb7b91d79.jpg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/cup/am/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1x5B5cXHHN9JFGK6ahmVQsJWdaNLuNZzbsQ&s",
+      "fuentePagina": "https://amharic.zzhcmy.com/%E1%8B%A8%E1%8A%A2%E1%8A%93%E1%88%9C%E1%88%8D-%E1%8A%A9%E1%89%A3%E1%8B%AB%E1%8B%8E%E1%89%BD/%E1%89%A5%E1%8C%81-%E1%8B%A8%E1%8A%A2%E1%8A%93%E1%88%9C%E1%88%8D-%E1%8A%A9%E1%89%A3%E1%8B%AB-%E1%8B%A8%E1%8A%A2%E1%8A%93%E1%88%9C%E1%88%8D-%E1%89%A5%E1%88%AD%E1%8C%AD%E1%89%86%E1%8B%8E%E1%89%BD-%E1%8B%A8%E1%8A%A2%E1%8A%93%E1%88%9C%E1%88%8D-%E1%88%99%E1%8C%8C%E1%8A%93%E1%88%9C%E1%88%8D-%E1%8A%A9%E1%89%A3%E1%8B%AB-%E1%89%A1%E1%8A%93-%E1%8A%A9%E1%89%A3%E1%8B%AB-hcmg-5612",
+      "titulo": "ብጁ የኢናሜል ኩባያ / የኢናሜል ኩባያ / የኢናሜል ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1x5B5cXHHN9JFGK6ahmVQsJWdaNLuNZzbsQ&s",
+      "original": "https://www.zzhcmy.com/upload/product/1680768598868475.jpg"
+    }
+  ]
+}

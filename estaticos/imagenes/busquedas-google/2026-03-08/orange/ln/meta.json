@@ -1,0 +1,71 @@
+{
+  "categoria": "orange",
+  "categoriaSlug": "orange",
+  "idioma": "ln",
+  "nombreIdioma": "Lingala",
+  "termino": "lilala",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:12:31.121Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "fr",
+    "gl": "cd"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=lilala&hl=fr&gl=cd",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/orange/ln/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1v9FB5z8pdf6MHr5MsHIeZSPMOvbvl7NVTw&s",
+      "fuentePagina": "https://www.facebook.com/photo.php?fbid=1120797114736671&set=a.950773131739071&id=100062693029555",
+      "titulo": "Let's - 🇨🇩 Bwaka Sima Jeudi!!! Lilala (orange), mugwa ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1v9FB5z8pdf6MHr5MsHIeZSPMOvbvl7NVTw&s",
+      "original": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=1120797114736671"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/orange/ln/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdDAE5jnKrTeParXOJHgJYwYLFueCAfO4lfQ&s",
+      "fuentePagina": "https://dic.lingala.be/fr/lilala",
+      "titulo": "dic.lingala.be",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdDAE5jnKrTeParXOJHgJYwYLFueCAfO4lfQ&s",
+      "original": "https://dic.lingala.be/illustrations/lilala001.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/orange/ln/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvqsTU4989EcOcddpc7lIoQLLLXi2Z7GTpuw&s",
+      "fuentePagina": "https://www.facebook.com/lilalastore/",
+      "titulo": "Lilala KIDS (@lilalastore) • Facebook",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvqsTU4989EcOcddpc7lIoQLLLXi2Z7GTpuw&s",
+      "original": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=100070136498645"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/orange/ln/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8I3AgB-xLeOpjLJpCvs4s6HWKhQqfSGlcsA&s",
+      "fuentePagina": "https://soundcloud.com/lilala-esmeralda",
+      "titulo": "Stream Lilala music | Listen to songs, albums, playlists for ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8I3AgB-xLeOpjLJpCvs4s6HWKhQqfSGlcsA&s",
+      "original": "https://i1.sndcdn.com/avatars-000361021460-i7ygcw-t240x240.jpg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/orange/ln/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhTJY3KO54aFPp5SBAvMb9-PypyI6zbC5NCg&s",
+      "fuentePagina": "https://music.apple.com/fr/album/lilala-single/1823581542",
+      "titulo": "Lilala - Single – Album par Tshilengi – Apple Music",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhTJY3KO54aFPp5SBAvMb9-PypyI6zbC5NCg&s",
+      "original": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f8/10/01/f8100158-f34d-2c7a-fc30-59767adc37cd/5063778183462_cover.jpg/1200x630bb.jpg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/orange/ln/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1_swokFpN25PnJtkuj88rOxUkBWjUY1sVIQ&s",
+      "fuentePagina": "https://audiomack.com/lilala-music-entertaiment",
+      "titulo": "Lilala Music Entertaiment - Listen Free on Audiomack",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1_swokFpN25PnJtkuj88rOxUkBWjUY1sVIQ&s",
+      "original": "https://i.audiomack.com/lilala-music-entertaiment/16817066-7.webp?width=456"
+    }
+  ]
+}

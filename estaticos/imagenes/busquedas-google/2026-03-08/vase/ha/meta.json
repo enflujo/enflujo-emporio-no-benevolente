@@ -1,0 +1,71 @@
+{
+  "categoria": "vase",
+  "categoriaSlug": "vase",
+  "idioma": "ha",
+  "nombreIdioma": "Hausa",
+  "termino": "tukunya",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:29:38.793Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "ha",
+    "gl": "ng"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=tukunya&hl=ha&gl=ng",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/vase/ha/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNEG5b_RJsU7im7uVSU2ta7BpTupijyuCdRw&s",
+      "fuentePagina": "https://ha.wikipedia.org/wiki/Tukunya",
+      "titulo": "Tukunya - Wikipedia",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNEG5b_RJsU7im7uVSU2ta7BpTupijyuCdRw&s",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/c/c0/Clay_pot_2.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/vase/ha/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMj5_0TlMPM1E-dfPcdeYgV2Eppf3JWwTmHA&s",
+      "fuentePagina": "https://cookpad.com/eng/recipes/16220546",
+      "titulo": "Tsiren Tukunya Recipe by Maryam Maikasuwa - Cookpad",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMj5_0TlMPM1E-dfPcdeYgV2Eppf3JWwTmHA&s",
+      "original": "https://img-global.cpcdn.com/recipes/6af63634081e7c6d/680x781cq80/tsiren-tukunya-recipe-main-photo.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/vase/ha/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYgkg5D_Yc_najUraCsLlvz7Iq5Muc0E3f7g&s",
+      "fuentePagina": "https://kitchen.bakandamiya.com/yadda-ake-tsiren-tukunya/",
+      "titulo": "Yadda ake tsiren tukunya | Bakandamiya Kitchen",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYgkg5D_Yc_najUraCsLlvz7Iq5Muc0E3f7g&s",
+      "original": "https://etgu27925eq.exactdn.com/wp-content/uploads/2022/06/Yadda-ake-tsiren-tukunya-c.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/vase/ha/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTATJVvw3-yrrsX3cbCMMzUIDVeQ-SZ2Qi25Q&s",
+      "fuentePagina": "https://www.castironmaria.com/ha/size-25-cast-iron-poitjie-pot.html",
+      "titulo": "Wholesale size 25 jefa baƙin ƙarfe poitjie tukunya factory ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTATJVvw3-yrrsX3cbCMMzUIDVeQ-SZ2Qi25Q&s",
+      "original": "https://cdnus.globalso.com/castironmaria/HTB1h9I7LpXXXXcWXXXXq6xXFXXXtsize-25-cast-iron-poitjie-pot.jpg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/vase/ha/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQW-Uetxh28haG7t8UC5AU4KlulB-qnaiiQng&s",
+      "fuentePagina": "https://cookpad.com/ng-ha/recipes/12879226",
+      "titulo": "Tsiren Tukunya girki daga Tata sisters - Cookpad",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQW-Uetxh28haG7t8UC5AU4KlulB-qnaiiQng&s",
+      "original": "https://img-global.cpcdn.com/recipes/ef75014e8530ddf7/680x781cq80/tsiren-tukunya-ainihin-hoton-girkin.jpg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/vase/ha/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2t_5AVW2PO8XWJrBCfS9K1tZVG9LvN1y7TA&s",
+      "fuentePagina": "https://www.instagram.com/p/DLcfPRiNLLv/",
+      "titulo": "Bakar tukunya Mai gida farin tuwo 📍shop no 2 opposite yan ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2t_5AVW2PO8XWJrBCfS9K1tZVG9LvN1y7TA&s",
+      "original": "https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3664941578838242000"
+    }
+  ]
+}

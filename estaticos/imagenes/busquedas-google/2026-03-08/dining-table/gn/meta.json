@@ -1,0 +1,71 @@
+{
+  "categoria": "dining table",
+  "categoriaSlug": "dining-table",
+  "idioma": "gn",
+  "nombreIdioma": "Guaraní",
+  "termino": "mesa",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:20:02.683Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "es",
+    "gl": "py"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=mesa&hl=es&gl=py",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/dining-table/gn/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMQWKWwq_Lmk7nl1Oljmx2LYR2o1v9UdJsKg&s",
+      "fuentePagina": "https://www.freepik.es/fotos-vectores-gratis/mesa-dibujo",
+      "titulo": "Imágenes de Mesa dibujo - Descarga gratuita en Freepik",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMQWKWwq_Lmk7nl1Oljmx2LYR2o1v9UdJsKg&s",
+      "original": "https://img.freepik.com/vector-premium/ilustracion-aislada-estilo-vectorial-plano-mesa-comedor-fondo-blanco_1284929-13330.jpg?semt=ais_rp_50_assets&w=740&q=80"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/dining-table/gn/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzq4IMz_fX3OkgWzKhy3SRugrxV96-ZEaF8g&s",
+      "fuentePagina": "https://www.istockphoto.com/es/ilustraciones/mesa-madera",
+      "titulo": "63.300+ Mesa Madera Ilustraciones de Stock, gráficos ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzq4IMz_fX3OkgWzKhy3SRugrxV96-ZEaF8g&s",
+      "original": "https://media.istockphoto.com/id/941224542/es/vector/tabla-de-madera-sobre-un-fondo-blanco.jpg?s=612x612&w=0&k=20&c=gIt6Smf-kdeDjyLe-2I6icvtBnpmy_wegJpxKmnqGmk="
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/dining-table/gn/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiINYszNp1SvEZOs77s5uzBhK9_WWw4qyryQ&s",
+      "fuentePagina": "https://www.olier.com.py/producto/2527/mesa-de-comedor-jmarcon-siena-160-cm",
+      "titulo": "Mesa de Comedor Jmarcon Siena 160 cm.",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiINYszNp1SvEZOs77s5uzBhK9_WWw4qyryQ&s",
+      "original": "https://www.olier.com.py/storage/sku/jmarcon-mesas-de-comedor-mesa-de-comedor-jmarcon-siena-160-cm-1-1-1730907444.png"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/dining-table/gn/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTg1iELCyA5wFAqQ86srwsURELyld9RdFTq5Q&s",
+      "fuentePagina": "https://www.suenolar.com.py/producto/293/mesa-comedor-mia-laqueado-blanco?srsltid=AfmBOooscu9slzjcsPChbEmJxsSg4klER9SHOM0Buswin0EB-kcU0u5C",
+      "titulo": "Mesa Comedor Mia - Laqueado Blanco",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTg1iELCyA5wFAqQ86srwsURELyld9RdFTq5Q&s",
+      "original": "https://www.suenolar.com.py/storage/sku/1zToW626OSZ3MW2XgwuuzfyTodeIBbJOL.jpeg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/dining-table/gn/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfYsl3ubY6XYpAlc4kDcSy_gVy9YIhrdZShQ&s",
+      "fuentePagina": "https://www.kube.com.py/tienda/mesa-funcional-concepts-life/?srsltid=AfmBOoqHFuiq-pDmJgA9tkvT5ta3qLoRL73a3Sfj8tdTatbW5rt9r5CH",
+      "titulo": "Mesa funcional Concepts Life",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfYsl3ubY6XYpAlc4kDcSy_gVy9YIhrdZShQ&s",
+      "original": "https://www.kube.com.py/wp-content/uploads/2025/01/555-4309.png"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/dining-table/gn/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJRfu6xW7kXW1MEQFOIrzx2uUUtrlA7wfCTw&s",
+      "fuentePagina": "https://openhogar.com/products/mesa-nordic-130?srsltid=AfmBOooEHzKDLf9Hlro5oVvBAccRIXTEzj8_AZjF--dMTk4_0eWk3w34",
+      "titulo": "Mesa NORDIC",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJRfu6xW7kXW1MEQFOIrzx2uUUtrlA7wfCTw&s",
+      "original": "http://openhogar.com/cdn/shop/files/mesa-nordic-9305458.webp?v=1770243860"
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "categoria": "toothbrush",
+  "categoriaSlug": "toothbrush",
+  "idioma": "pt",
+  "nombreIdioma": "Português",
+  "termino": "escova de dentes",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:32:48.083Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "pt",
+    "gl": "br"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=escova%20de%20dentes&hl=pt&gl=br",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/toothbrush/pt/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0bo2sf4nbpcaBtr-H4qK4ZI0BEVwtNBJ90Q&s",
+      "fuentePagina": "https://www.dentalcremer.com.br/escova-dental-indicator-plus-30-oral-b-571967.html?srsltid=AfmBOoo8otz_kA415ce3vRcKrzU1KVeIui7ekragRcCWiCYndJGQXGe3",
+      "titulo": "Escova Dental Indicator Plus 30 - Oral-B",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0bo2sf4nbpcaBtr-H4qK4ZI0BEVwtNBJ90Q&s",
+      "original": "https://cdn.dentalcremer.com.br/produtos/550/detalhes-certas-escova-dental-indicator-plus-30-oral-b-571967.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/toothbrush/pt/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEnjN3L3Ng-v9BJkYjQd0-xW6VijH8ERECnQ&s",
+      "fuentePagina": "https://www.lojakioka.com.br/perfumaria/bebe/escova-e-creme-dental/escova-de-dente-para-criancas-a-partir-de-7-anos-kess-rosa-?srsltid=AfmBOoo69NsMrdHSD3bv1oOXFyo4UJuhbjiLDKg4ivVwfeIRRY3sm2tX",
+      "titulo": "ESCOVA DE DENTE PARA CRIANÇAS A PARTIR DE 7 ANOS - KESS - ROSA",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEnjN3L3Ng-v9BJkYjQd0-xW6VijH8ERECnQ&s",
+      "original": "https://images.tcdn.com.br/img/img_prod/688913/escova_de_dente_para_criancas_a_partir_de_7_anos_kess_rosa_4571_1_20200212112410.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/toothbrush/pt/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTaGxXJHk72GNI8t_khElZIRmXWaywpZrhAkA&s",
+      "fuentePagina": "https://www.dentalparana.com.br/escova-dental-infantil-med-fio-pacote-c-100-pr-1393-181149.htm",
+      "titulo": "Escova Dental Infantil Med-Fio Pacote com 100 Unidades ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTaGxXJHk72GNI8t_khElZIRmXWaywpZrhAkA&s",
+      "original": "https://images.tcdn.com.br/img/img_prod/181149/escova_dental_infantil_med_fio_pacote_c_100_1393_1_279b8da6901a393da53c0312d4a4c76a.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/toothbrush/pt/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlIarsWOzPP31bRq-0uizN_48O0LGUH-TUNw&s",
+      "fuentePagina": "https://www.drogaraia.com.br/needs-escova-dental-sensitive-6240.html",
+      "titulo": "Escova de Dente Needs Sensitive 6240 Ultramacia 1 Unidade",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlIarsWOzPP31bRq-0uizN_48O0LGUH-TUNw&s",
+      "original": "https://product-data.raiadrogasil.io/images/3449363.webp"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/toothbrush/pt/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8L-od5oncOJwjvyCti2Z6LfJNd-04N8e-mw&s",
+      "fuentePagina": "https://www.oralb.com.br/pt-br/produtos/escova-dental-oral-b-123",
+      "titulo": "Escova de Dentes Oral-B 1-2-3 | Oral-B BR",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8L-od5oncOJwjvyCti2Z6LfJNd-04N8e-mw&s",
+      "original": "https://images.ctfassets.net/ynyrv8292f9c/6dDyZgag4ctH4bdROVYeQm/08d0a4f11f161c482c549a9fc6c41551/file.png?fm=webp&q=85"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/toothbrush/pt/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2YbBtBODA4WF4Ft1_FvtbJsTWyN-QuokMmA&s",
+      "fuentePagina": "https://www.drogariastamoio.com.br/esc-dent-jnj-reach-eco-essen-med/p?srsltid=AfmBOoq4JzhOd3s3tqy8cg7nTKI0y_298xHgD7qp_OIF31EO6lqISK0x",
+      "titulo": "Escova Dental Eco Essen Cerdas Médias Verde Reach ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2YbBtBODA4WF4Ft1_FvtbJsTWyN-QuokMmA&s",
+      "original": "https://dmvfarma.vtexassets.com/arquivos/ids/205326/escova-jej.png?v=638120188828730000"
+    }
+  ]
+}

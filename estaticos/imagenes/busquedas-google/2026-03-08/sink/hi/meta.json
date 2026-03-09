@@ -1,0 +1,71 @@
+{
+  "categoria": "sink",
+  "categoriaSlug": "sink",
+  "idioma": "hi",
+  "nombreIdioma": "हिन्दी",
+  "termino": "सिंक",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:27:06.983Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "hi",
+    "gl": "in"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=%E0%A4%B8%E0%A4%BF%E0%A4%82%E0%A4%95&hl=hi&gl=in",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/sink/hi/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTU71LVg4BP3pKC37x4JFwIbhTGhA_6CzQtwA&s",
+      "fuentePagina": "https://www.moglix.com/hi/happy-homes-37x18x10-inch-stainless-steel-304-black-anti-scratch-honeycomb-design-kitchen-sink/mp/msng9vnqor46kp?srsltid=AfmBOop4DOwYJUPOSFwFpfvoGMoGDX9opBZYcn2MIsuFDskkjH3MjznP",
+      "titulo": "हैप्पी होम्स स्टेनलेस स्टील 304 ग्रेड सिंगल बाउल किचन सिंक 37x18x10 इंच  ब्लैक वाटरफॉल वर्कस्टेशन पीयूल-डाउन नल के साथ",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTU71LVg4BP3pKC37x4JFwIbhTGhA_6CzQtwA&s",
+      "original": "https://cdn.moglix.com/p/fHPvpXeQkysjv-xxlarge.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/sink/hi/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6_aJb_yHLG-0iJybdjAiZCg93T7amLRe_RQ&s",
+      "fuentePagina": "https://hi.tileswale.com/product/kitchen-sink/steel-kitchen-sink-1",
+      "titulo": "Steel Kitchen Sink (1) - स्टेनलेस स्टील किचन सिंक",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6_aJb_yHLG-0iJybdjAiZCg93T7amLRe_RQ&s",
+      "original": "https://tileswale.com/uploads/products/165467182930_4556_352824.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/sink/hi/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgyjsZSC70_oq1jTNfmxldApe_zEklgp_4bg&s",
+      "fuentePagina": "https://www.amazon.in/-/hi/%E0%A4%B8%E0%A5%8D%E0%A4%9F%E0%A5%87%E0%A4%A8%E0%A4%B2%E0%A5%87%E0%A4%B8-%E0%A4%9F%E0%A5%89%E0%A4%AA%E0%A4%AE%E0%A4%BE%E0%A4%89%E0%A4%82%E0%A4%9F-%E0%A4%95%E0%A5%89%E0%A4%AE%E0%A5%8D%E0%A4%AC%E0%A5%8B-%E0%A4%B8%E0%A4%BF%E0%A4%82%E0%A4%95-%E0%A4%A1%E0%A4%BF%E0%A4%B8%E0%A5%8D%E0%A4%AA%E0%A5%87%E0%A4%82%E0%A4%B8%E0%A4%B0-%E0%A4%B8%E0%A5%8D%E0%A4%9F%E0%A5%8D%E0%A4%B0%E0%A5%87%E0%A4%A8%E0%A4%B0/dp/B0BRGQV1H5",
+      "titulo": "ब्लैक किचन सिंक, स्टेनलेस स्टील ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgyjsZSC70_oq1jTNfmxldApe_zEklgp_4bg&s",
+      "original": "https://m.media-amazon.com/images/I/61+z944DUHL.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/sink/hi/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStqa5ibWZUs4gas5-pzQ7RvBUMQ8INiCKtVw&s",
+      "fuentePagina": "https://www.inart.co.in/hi/products/nirali-ng-aisi-304-grade-stainless-steel-single-bowl-with-drainboard-kitchen-sink-elegance-ultra-ng-sks055?srsltid=AfmBOorGTzLoZihDqJB9kOaZVFbMt0qp11pCRyD9wErvweFV62ITtmw6",
+      "titulo": "निराली एनजी एआईएसआई 304 ग्रेड स्टेनलेस स्टील सिंगल बाउल ड्रेनबोर्ड किच",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStqa5ibWZUs4gas5-pzQ7RvBUMQ8INiCKtVw&s",
+      "original": "http://www.inart.co.in/cdn/shop/products/Elegance-Ultra-600x600.png?v=1665143059"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/sink/hi/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQayb-s7aeg7lZoDVauXR_LVy1F26UimQqGUw&s",
+      "fuentePagina": "https://www.moglix.com/hi/spazio-stainless-steel-kitchen-sink-b091sx9894/mp/msn2km1jle489v?srsltid=AfmBOooAOPWDl_Ma0MQOGHFC7r-8Iy1Xyd7U-fOglHa6-Ardcp9_9TRM",
+      "titulo": "स्पाज़ियो नियो टेक्नोलॉजी लक्ज़री स्टेनलेस स्टील सिंगल बाउल स्क्वायर  डिज़ाइन किचन सिंक, साइज 18x16x10 इंच",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQayb-s7aeg7lZoDVauXR_LVy1F26UimQqGUw&s",
+      "original": "https://cdn.moglix.com/p/61rL7t1HlUzwi-xxlarge.jpg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/sink/hi/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcSE5mzF49MGiDwdDIswQdVMSmh-c1SJScuA&s",
+      "fuentePagina": "https://www.amazon.in/-/hi/b?ie=UTF8&node=8628357031",
+      "titulo": "Amazon.in : होम इम्प्रूवमेंट स्टोर ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcSE5mzF49MGiDwdDIswQdVMSmh-c1SJScuA&s",
+      "original": "https://m.media-amazon.com/images/I/416ehPhEsZL._AC_SR290,290_.jpg"
+    }
+  ]
+}

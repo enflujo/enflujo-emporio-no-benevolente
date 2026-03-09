@@ -1,0 +1,71 @@
+{
+  "categoria": "remote",
+  "categoriaSlug": "remote",
+  "idioma": "am",
+  "nombreIdioma": "Amharic — አማርኛ",
+  "termino": "ሪሞት",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:23:07.136Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "am",
+    "gl": "et"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=%E1%88%AA%E1%88%9E%E1%89%B5&hl=am&gl=et",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/remote/am/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIkU2JJHCrUYh3H8C72xzf4Y_BK2tntbpLMw&s",
+      "fuentePagina": "https://www.youtube.com/watch?v=v9m8eZRh5hU",
+      "titulo": "ሪሞት እንዴት ይሰራል / how remote works",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIkU2JJHCrUYh3H8C72xzf4Y_BK2tntbpLMw&s",
+      "original": "https://i.ytimg.com/vi/v9m8eZRh5hU/sddefault.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/remote/am/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6C99Rk_V6EtltTLhooSyrLtlhLh2Pz1S1VQ&s",
+      "fuentePagina": "https://www.youtube.com/watch?v=EHwEq7VLRJQ",
+      "titulo": "የtv ሪሞት ተሰብሮ ላጣቹ መፍትሄ",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6C99Rk_V6EtltTLhooSyrLtlhLh2Pz1S1VQ&s",
+      "original": "https://i.ytimg.com/vi/EHwEq7VLRJQ/maxresdefault.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/remote/am/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQofID78ApACbBfFa4Mz6LND_5qJWb-HI1THQ&s",
+      "fuentePagina": "https://jiji.com.et/bole/accessories-and-supplies-for-electronics/original-classpro-netflix-youtube-lcd-tv-remote-control-rimote-4bVjF96viGxpTHKGd2p5DZUE.html",
+      "titulo": "Original Classpro Netflix Youtube LCD Tv Remote Control ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQofID78ApACbBfFa4Mz6LND_5qJWb-HI1THQ&s",
+      "original": "https://pictures-ethiopia.jijistatic.com/3786664_NjIwLTg3Ny04NjBhODNiY2RmLTE.webp"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/remote/am/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3V1H2ftLGdNuoxU7aYOGlkh8t-UpOWwHwNg&s",
+      "fuentePagina": "https://www.facebook.com/photo.php?fbid=401785830491240&set=a.603865101099742&id=100044287723496",
+      "titulo": "Remote - የአመቱ ምርጦች ሪሞት አዋርድ የአመቱ ምርጥ ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3V1H2ftLGdNuoxU7aYOGlkh8t-UpOWwHwNg&s",
+      "original": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=401785830491240"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/remote/am/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_JeFJoVpSR3xOFdxa0aketZQShlhLp5eoVQ&s",
+      "fuentePagina": "https://jiji.com.et/bole/accessories-and-supplies-for-electronics/yaraasu-kiborede-yaalawela-tivi-komepiwetare-zamanaawi-rimote-koneterole-air-mouse-remote-9RUeOKkCbEFgNAVJr2Aw6NOg.html",
+      "titulo": "የራሱ ኪቦርድ ያለውለ ቲቪ፣ኮምፒውተር ዘመናዊ ሪሞት ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_JeFJoVpSR3xOFdxa0aketZQShlhLp5eoVQ&s",
+      "original": "https://pictures-ethiopia.jijistatic.com/6461782_NjIwLTYyMC0xMDljZDNiOTQ5.webp"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/remote/am/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGLs85PQkzj9CHvr2Vk7RJ8n_a8FWanCIdjA&s",
+      "fuentePagina": "https://hulumarket.com.et/general/samsung-remote%E1%88%AA%E1%88%9E%E1%89%B5-279749",
+      "titulo": "Samsung Remote/ሪሞት",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGLs85PQkzj9CHvr2Vk7RJ8n_a8FWanCIdjA&s",
+      "original": "https://hulugram-prod.s3.eu-central-1.amazonaws.com/media/uploads/2025/10/22/055a9f48-21ad-4104-b156-484dcd550cca.jpg"
+    }
+  ]
+}

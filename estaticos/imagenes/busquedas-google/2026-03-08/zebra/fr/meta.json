@@ -1,0 +1,71 @@
+{
+  "categoria": "zebra",
+  "categoriaSlug": "zebra",
+  "idioma": "fr",
+  "nombreIdioma": "Français",
+  "termino": "zèbre",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T20:54:54.565Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "fr",
+    "gl": "be"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=z%C3%A8bre&hl=fr&gl=be",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/zebra/fr/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdsvPLwPemUzGdpkpDTIpHDZq82il5Ydst9Q&s",
+      "fuentePagina": "https://fr.wikipedia.org/wiki/Z%C3%A8bre",
+      "titulo": "Zèbre — Wikipédia",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdsvPLwPemUzGdpkpDTIpHDZq82il5Ydst9Q&s",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/9/96/Plains_Zebra_Equus_quagga_cropped.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/zebra/fr/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDsQ_AdgSu60nCg8GLZ7T5MOsJg2HBv6yS2A&s",
+      "fuentePagina": "https://fr.wikipedia.org/wiki/Z%C3%A8bre_de_Gr%C3%A9vy",
+      "titulo": "Zèbre de Grévy — Wikipédia",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDsQ_AdgSu60nCg8GLZ7T5MOsJg2HBv6yS2A&s",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/0/0a/Zebra_zoo-leipzig.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/zebra/fr/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSImLxty2hzbZdhQsVPJr6U3tljpPmad2Lizw&s",
+      "fuentePagina": "https://www.monde-animal.fr/fiches-animaux/equus-quagga/",
+      "titulo": "Zèbre des plaines (Equus quagga) - Monde Animal",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSImLxty2hzbZdhQsVPJr6U3tljpPmad2Lizw&s",
+      "original": "https://www.monde-animal.fr/wp-content/uploads/2021/04/zebre-des-plaines-carre.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/zebra/fr/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsBw15_NUiPU1-vHdQ4hPuRcj6g3VPm5yAzw&s",
+      "fuentePagina": "https://www.zoologiste.com/animaux/zebre.html",
+      "titulo": "Zèbre | Zoologiste.com",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsBw15_NUiPU1-vHdQ4hPuRcj6g3VPm5yAzw&s",
+      "original": "https://www.zoologiste.com/images/main/zebre.jpg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/zebra/fr/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMBmOtoIpQ4XyN9vyC6OFMOJ8zonSj_CNL_g&s",
+      "fuentePagina": "https://ici.exploratv.ca/blogue/zebre-rayures-animaux-pelage-camouflage/",
+      "titulo": "À quoi servent les rayures du zèbre? | ICI Explora",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMBmOtoIpQ4XyN9vyC6OFMOJ8zonSj_CNL_g&s",
+      "original": "https://ici.exploratv.ca/upload/site/post/picture/1911/652061ea5a026.1765222003.jpg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/zebra/fr/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0dE5beUOQn4Pe76Y_3KSIvDk1NCx8dkK_pQ&s",
+      "fuentePagina": "https://zoo-amneville.com/zebre/",
+      "titulo": "Zèbre des Plaines | Zoo d'Amnéville",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0dE5beUOQn4Pe76Y_3KSIvDk1NCx8dkK_pQ&s",
+      "original": "https://zoo-amneville.com/wp-content/uploads/2021/03/Zebre4.jpg"
+    }
+  ]
+}

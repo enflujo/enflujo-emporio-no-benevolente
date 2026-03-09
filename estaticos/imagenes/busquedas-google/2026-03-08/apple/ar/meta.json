@@ -1,0 +1,71 @@
+{
+  "categoria": "apple",
+  "categoriaSlug": "apple",
+  "idioma": "ar",
+  "nombreIdioma": "العربية",
+  "termino": "تفاحة",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:11:34.032Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "ar",
+    "gl": "eg"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=%D8%AA%D9%81%D8%A7%D8%AD%D8%A9&hl=ar&gl=eg",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/apple/ar/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTexBkJQFwimt-fiwLZmmhIeIqjzxu5UtvtA&s",
+      "fuentePagina": "https://ar.pngtree.com/freepng/big-apple_14291807.html",
+      "titulo": "تفاحة كبيرة, تفاحة, صورة التفاح الشفافة, إزالة الخلفية من ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTexBkJQFwimt-fiwLZmmhIeIqjzxu5UtvtA&s",
+      "original": "https://png.pngtree.com/png-clipart/20240212/original/pngtree-big-apple-png-image_14291807.png"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/apple/ar/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBNns5dTSVFKSlUu45uapbcPBrYv6yJsq5rA&s",
+      "fuentePagina": "https://ar.wikipedia.org/wiki/%D8%AA%D9%81%D8%A7%D8%AD",
+      "titulo": "تفاح - ويكيبيديا",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBNns5dTSVFKSlUu45uapbcPBrYv6yJsq5rA&s",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/1/15/Red_Apple.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/apple/ar/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQL5jxdvrVCcObba4ZYoEn9XLNxcUx_IIuMkA&s",
+      "fuentePagina": "https://ar.pikbest.com/png-images/qianku-big-red-apple_2309380.html",
+      "titulo": "تفاحة حمراء كبيرة | صور PNG C4D تحميل مجاني - Pikbest",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQL5jxdvrVCcObba4ZYoEn9XLNxcUx_IIuMkA&s",
+      "original": "https://img.pikbest.com/png-images/qianku/big-red-apple_2309380.png!w700wp"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/apple/ar/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4j6ui9pE9iNSWaShf0uPLHmS8xZAahaxQ0w&s",
+      "fuentePagina": "https://www.canva.com/ar_eg/graphics/s/apple-illustration/?continuation=50",
+      "titulo": "تصاميم رسم تفاحة للتصميم والتحميل - Canva",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4j6ui9pE9iNSWaShf0uPLHmS8xZAahaxQ0w&s",
+      "original": "https://marketplace.canva.com/HoA_8/MAGzWyHoA_8/1/tl/canva-illustration-of-an-apple-with-a-face-MAGzWyHoA_8.png"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/apple/ar/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ167qiUoS5oNcXpAylOkDGFTUyYeOzngVidg&s",
+      "fuentePagina": "https://waapple.org/ar/varieties/cosmic-crisp/",
+      "titulo": "Cosmic Crisp® - تفاح واشنطن",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ167qiUoS5oNcXpAylOkDGFTUyYeOzngVidg&s",
+      "original": "https://waapple.org/wp-content/uploads/2021/06/Variety_Cosmic-Crisp-transparent-550x550.png"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/apple/ar/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-wyok2Wt0SyAGAZLFkRL7jDGygHG2l_BC_Q&s",
+      "fuentePagina": "https://suartalwin.com/tufaahatan/tufaahat-lil-atfal/",
+      "titulo": "تفاحة للأطفال صورة تلوين. قم بالتنزيل أو الطباعة أو التلوين ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-wyok2Wt0SyAGAZLFkRL7jDGygHG2l_BC_Q&s",
+      "original": "https://suartalwin.com/wp-content/uploads/2023/01/tufaahat-lilatfal-talwin.jpg"
+    }
+  ]
+}

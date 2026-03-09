@@ -1,0 +1,71 @@
+{
+  "categoria": "horse",
+  "categoriaSlug": "horse",
+  "idioma": "sw",
+  "nombreIdioma": "Kiswahili",
+  "termino": "farasi",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T20:51:38.788Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "sw",
+    "gl": "tz"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=farasi&hl=sw&gl=tz",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/horse/sw/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsBu65TVxu8bDSFZDxmq470ldVkAhkUCFKxw&s",
+      "fuentePagina": "https://sw.wikipedia.org/wiki/Farasi",
+      "titulo": "Farasi - Wikipedia, kamusi elezo huru",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsBu65TVxu8bDSFZDxmq470ldVkAhkUCFKxw&s",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/f/fd/Mangalarga_Marchador.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/horse/sw/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLRAQ1IP2YJBgmdyvVZsgaRE7e_fztqZ-ggg&s",
+      "fuentePagina": "https://www.youtube.com/watch?v=IufXf8QAtbk",
+      "titulo": "UNAWEZA MILIKI GARI, LAKINI SIO FARASI NA HII NDIO SABABU",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLRAQ1IP2YJBgmdyvVZsgaRE7e_fztqZ-ggg&s",
+      "original": "https://i.ytimg.com/vi/IufXf8QAtbk/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLC8CRFt0D7qJAc59Ru0A7Aqj3zOZQ"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/horse/sw/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRORG0bkiIXsuWxcL3CtgIpShCkkh04r8mOxQ&s",
+      "fuentePagina": "https://wauzaji.com/wauzaji-wa-farasi-tanzania/",
+      "titulo": "Wauzaji wa Farasi Tanzania",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRORG0bkiIXsuWxcL3CtgIpShCkkh04r8mOxQ&s",
+      "original": "https://wauzaji.com/wp-content/uploads/2022/09/wauzaji-wa-farasi-scaled.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/horse/sw/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgLPPE3Fde5dDufstKH556soyp62l-GZXCmQ&s",
+      "fuentePagina": "https://www.genimal.com/sw/dna-tests/Farasi/scid-kali-pamoja-ukosefu-Faras/",
+      "titulo": "SCID kali pamoja ukosefu-Faras-Genimal",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgLPPE3Fde5dDufstKH556soyp62l-GZXCmQ&s",
+      "original": "https://www.genimal.com/wp-content/uploads/2019/01/SCID-1.jpg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/horse/sw/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4lztz1DTSrCJs_-N_okd_bJn6Mgr8ZDGPaQ&s",
+      "fuentePagina": "https://www.facebook.com/BN.Bongo.News/posts/mfahamu-farasi-farasi-ni-mnyama-anayefugwa-na-hutumia-majani-kama-chakula-chake-/2633740556699988/",
+      "titulo": "MFAHAMU FARASI ! Farasi ni mnyama anayefugwa na hutumia ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4lztz1DTSrCJs_-N_okd_bJn6Mgr8ZDGPaQ&s",
+      "original": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=2633739676700076"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/horse/sw/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQR3sfftCnxpwsRgMtP9MudbMWlcW6Cre_5hQ&s",
+      "fuentePagina": "https://www.youtube.com/watch?v=DcHxn3FBcvs",
+      "titulo": "MFAHAMU FARASI NA MAAJABU YAKE ANAUZWA BEI GANI,ANAKASI KULIKO DUMA NA  WANAPATIKANA NCHI GANI.",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQR3sfftCnxpwsRgMtP9MudbMWlcW6Cre_5hQ&s",
+      "original": "https://i.ytimg.com/vi/DcHxn3FBcvs/maxresdefault.jpg"
+    }
+  ]
+}

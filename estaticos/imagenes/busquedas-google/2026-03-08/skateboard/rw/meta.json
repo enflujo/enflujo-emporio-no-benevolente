@@ -1,0 +1,71 @@
+{
+  "categoria": "skateboard",
+  "categoriaSlug": "skateboard",
+  "idioma": "rw",
+  "nombreIdioma": "Kinyarwanda",
+  "termino": "skateboard",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:04:06.665Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "en",
+    "gl": "rw"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=skateboard&hl=en&gl=rw",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/skateboard/rw/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSaSO0DWJ8zbZE8NuB1KZGVC7tDL6SRd4msA&s",
+      "fuentePagina": "https://euroskateshop.uk/nkx-journey-skateboard.html",
+      "titulo": "NKX Journey Skateboard",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSaSO0DWJ8zbZE8NuB1KZGVC7tDL6SRd4msA&s",
+      "original": "https://cdn.euroskateshop.uk/media/catalog/product/_/s/_sk8ter.ben_NKX_journey_skateboard_black_skatepark_ramp_9f7b.jpg?width=1000&height=1000&store=uk&image-type=image"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/skateboard/rw/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpmlVue6yigvkZozlRCRUvsTJ3ltOHPOBhag&s",
+      "fuentePagina": "https://www.skatedeluxe.com/blog/en/skateboards-for-beginners-recommendations-checklists/",
+      "titulo": "Skateboards for Beginners - Recommendations | skatedeluxe Blog",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpmlVue6yigvkZozlRCRUvsTJ3ltOHPOBhag&s",
+      "original": "https://www.skatedeluxe.com/blog/wp-content/uploads/2023/11/skateboard-completes-at-skatedeluxe.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/skateboard/rw/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZd1nAauYB_RL5PMI5fzh2Jf8c2t1Iu3d18w&s",
+      "fuentePagina": "https://www.skatexs.com/?srsltid=AfmBOooHxON1AaPrhcZKvLz6BQrFrINioAFX21TenXItPiocbaWDog1T",
+      "titulo": "SkateXS Kids Skateboards for Boys and Girls Ages 5-12",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZd1nAauYB_RL5PMI5fzh2Jf8c2t1Iu3d18w&s",
+      "original": "https://www.skatexs.com/cdn/shop/files/violetair_skatexs99.jpg?v=1643817918&width=3200"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/skateboard/rw/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfh99jVlPcWKImNW4h_SNxDlon5VcIfNmp_w&s",
+      "fuentePagina": "https://www.walmart.com/ip/Barbie-Malibu-Beach-31-Complete-Skateboard-Pink-Checkered-Kids-Ages-6-Pink/509223130",
+      "titulo": "Barbie Malibu Beach 31\" Complete Skateboard, Pink Checkered ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfh99jVlPcWKImNW4h_SNxDlon5VcIfNmp_w&s",
+      "original": "https://i5.walmartimages.com/seo/Barbie-Malibu-Beach-31-Complete-Skateboard-Pink-Checkered-Kids-Ages-6-Pink_59633ba7-dcb3-4305-95a0-420f1a494057.faf40f139d190873cb7ae3565591da2f.jpeg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/skateboard/rw/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVBh315Ds2pHoDEM_e5FP4-iPPQvyvyyjY8Q&s",
+      "fuentePagina": "https://www.klook.com/en-CA/activity/116291-electric-skateboard-adventures-on-siargao-island/",
+      "titulo": "Electric Skateboard Adventures On Siargao Island - Klook Canada",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVBh315Ds2pHoDEM_e5FP4-iPPQvyvyyjY8Q&s",
+      "original": "https://res.klook.com/image/upload/w_750,h_469,c_fill,q_85/w_80,x_15,y_15,g_south_west,l_Klook_water_br_trans_yhcmh3/activities/hmkx6jt39j80ok7q3dpg.jpg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/skateboard/rw/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTVGb5acyWNkHbU7vDSYz8ZMSkgfY7HCMb8g&s",
+      "fuentePagina": "https://www.decathlon.co.za/p/357956-111976-cp100-fsc-complete-size-8-skateboard.html?srsltid=AfmBOop5y3WSJZM4F6u1J3Vvf5J4V6inkcuoAS8AkbKUKJmvTUEUwMx3",
+      "titulo": "CP100 FSC Complete Size 8\" Skateboard - Decathlon",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTVGb5acyWNkHbU7vDSYz8ZMSkgfY7HCMb8g&s",
+      "original": "https://contents.mediadecathlon.com/p2828811/k$8bdc94c63e5fc72eb0026c779e9b742b/cp100-fsc-complete-size-8-skateboard.jpg"
+    }
+  ]
+}

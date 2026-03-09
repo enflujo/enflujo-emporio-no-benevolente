@@ -1,0 +1,71 @@
+{
+  "categoria": "traffic light",
+  "categoriaSlug": "traffic-light",
+  "idioma": "ar",
+  "nombreIdioma": "العربية",
+  "termino": "إشارة المرور",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T20:46:36.660Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "ar",
+    "gl": "eg"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=%D8%A5%D8%B4%D8%A7%D8%B1%D8%A9%20%D8%A7%D9%84%D9%85%D8%B1%D9%88%D8%B1&hl=ar&gl=eg",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/traffic-light/ar/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWxNNK5i7fckwcbirksFGf7uP9l7n1ybJvBA&s",
+      "fuentePagina": "https://www.youm7.com/story/2019/5/12/%D8%A5%D8%B4%D8%A7%D8%B1%D8%A9-%D9%85%D8%B1%D9%88%D8%B1-%D8%AA%D8%B9%D8%B1%D9%81-%D8%B9%D9%84%D9%89-%D8%B9%D9%84%D8%A7%D9%85%D8%A7%D8%AA-%D8%AA%D9%86%D8%B0%D8%B1-%D8%A8%D9%88%D8%AC%D9%88%D8%AF-%D8%AF%D9%88%D8%B1%D8%A7%D9%86-%D9%88%D8%A3%D8%B9%D9%85%D8%A7%D9%84-%D8%AA%D8%B7%D9%88%D9%8A%D8%B1/4238049",
+      "titulo": "إشارة مرور.. تعرف على علامات تنذر بوجود دوران وأعمال تطوير ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWxNNK5i7fckwcbirksFGf7uP9l7n1ybJvBA&s",
+      "original": "https://img.youm7.com/ArticleImgs/2019/5/12/42084-%D8%B9%D9%84%D8%A7%D9%85%D8%A7%D8%AA-%D9%85%D8%B1%D9%88%D8%B1%D9%8A%D8%A9.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/traffic-light/ar/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTa1-CaSvh3DL6Ccu0XsyBMzOVGVBK9UV2nsg&s",
+      "fuentePagina": "https://ar.pikbest.com/png-images/qiantu-cute-cartoon-drawing-traffic-safety-traffic-light-warning-light-element_2733536.html",
+      "titulo": "لطيف الكرتون اليد مرسومة السلامة المرورية إشارة المرور تحذير ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTa1-CaSvh3DL6Ccu0XsyBMzOVGVBK9UV2nsg&s",
+      "original": "https://img.pikbest.com/png-images/qiantu/cute-cartoon-hand-drawn-traffic-safety-traffic-light-warning-light-element_2733536.png!w700wp"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/traffic-light/ar/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSH5yDLgk6L5ilo39Tciqii5CZSYkiIyZsfUQ&s",
+      "fuentePagina": "https://ar.pngtree.com/freepng/traffic-light-signals_15428735.html",
+      "titulo": "إشارات المرور, إشارة المرور, السلامة على الطرق, الضوء الأحمر ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSH5yDLgk6L5ilo39Tciqii5CZSYkiIyZsfUQ&s",
+      "original": "https://png.pngtree.com/png-vector/20240524/ourlarge/pngtree-traffic-light-signals-png-image_12508196.png"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/traffic-light/ar/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6mNueBUYFPxGJPYJLwejgvHQiUVGiIu1D4g&s",
+      "fuentePagina": "https://in.pinterest.com/pin/682717624736220429/",
+      "titulo": "إشارات المرور، بطاقات الكرتون, رسوم متحركة, تجسيد, العلامة ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6mNueBUYFPxGJPYJLwejgvHQiUVGiIu1D4g&s",
+      "original": "https://i.pinimg.com/736x/f7/09/02/f70902a7d433bbe3cf1f42ac32f3e1cd.jpg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/traffic-light/ar/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8cq8aCSH3984hA9dVMBq6F5e9TBS8SODBaQ&s",
+      "fuentePagina": "https://www.facebook.com/ahmedshiref74/posts/%D8%A7%D8%B4%D8%A7%D8%B1%D8%A7%D8%AA-%D8%A7%D9%84%D9%85%D8%B1%D9%88%D8%B1/8890272007700472/",
+      "titulo": "اشارات المرور",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8cq8aCSH3984hA9dVMBq6F5e9TBS8SODBaQ&s",
+      "original": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=8890271924367147"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/traffic-light/ar/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTW1rHAwSIK8C9bCqv24qzXmalJ5VE-mGoWGw&s",
+      "fuentePagina": "https://publicdomainvectors.org/ar/naqil-hurin/%D8%A5%D8%B4%D8%A7%D8%B1%D8%A7%D8%AA-%D8%A7%D9%84%D9%85%D8%B1%D9%88%D8%B1/37849.html",
+      "titulo": "إشارات المرور | Public domain vectors",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTW1rHAwSIK8C9bCqv24qzXmalJ5VE-mGoWGw&s",
+      "original": "https://publicdomainvectors.org/photos/traffic-light-yellow-dan-01.png"
+    }
+  ]
+}

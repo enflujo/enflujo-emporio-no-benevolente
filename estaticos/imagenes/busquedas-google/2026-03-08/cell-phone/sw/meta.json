@@ -1,0 +1,71 @@
+{
+  "categoria": "cell phone",
+  "categoriaSlug": "cell-phone",
+  "idioma": "sw",
+  "nombreIdioma": "Kiswahili",
+  "termino": "simu",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:24:10.747Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "sw",
+    "gl": "tz"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=simu&hl=sw&gl=tz",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/cell-phone/sw/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTq41bTnUcQQhsKzxdpyvn-_6E-nY25qXQcPA&s",
+      "fuentePagina": "https://www.bbc.com/swahili/habari-43196684",
+      "titulo": "Sirocco: Nokia yaunda simu imara zaidi duniani ya Android ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTq41bTnUcQQhsKzxdpyvn-_6E-nY25qXQcPA&s",
+      "original": "https://ichef.bbci.co.uk/ace/ws/640/cpsprodpb/BD20/production/_100161484_nokai3.jpg.webp"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/cell-phone/sw/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXE8dN_jH8GkJp00uJmNeeKz8eS35bzXX1eQ&s",
+      "fuentePagina": "https://simunzuri.com/simu-mpya-na-bei-zake-2024/",
+      "titulo": "Simu mpya kali 20 na bei zake kwa mwaka 2024 | SimuNzuri",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXE8dN_jH8GkJp00uJmNeeKz8eS35bzXX1eQ&s",
+      "original": "https://simunzuri.com/wp-content/uploads/2024/02/2-redmi-note-13-pro.png"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/cell-phone/sw/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDujhb8v5DtFue6Deph2QxhnwT3P3HAn5TVg&s",
+      "fuentePagina": "https://www.tanzaniatech.one/simu-mpya-aprili-2020/",
+      "titulo": "Hizi Hapa Simu Zote Mpya Zilizotoka Mwezi Aprili (2020 ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDujhb8v5DtFue6Deph2QxhnwT3P3HAn5TVg&s",
+      "original": "https://www.tanzaniatech.one/wp-content/uploads/2020/05/simu-mpya-2020-aprili-scaled.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/cell-phone/sw/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4MScxwcSeJVo2d_AVTjq6w16dQm-tqqWJhQ&s",
+      "fuentePagina": "https://wauzaji.com/wauzaji-wa-simu-za-button-tanzania/",
+      "titulo": "Wauzaji wa Simu za Button Tanzania",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4MScxwcSeJVo2d_AVTjq6w16dQm-tqqWJhQ&s",
+      "original": "https://wauzaji.com/wp-content/uploads/2023/05/wauzaji-wa-simu-za-button.jpg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/cell-phone/sw/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQizqNWoYvn1d2ql0QWhxwalYuyu85gZSH5nQ&s",
+      "fuentePagina": "https://habarileo.co.tz/tigo-samsung-wafanya-jambo-magulio-ya-simu/",
+      "titulo": "Tigo, Samsung wafanya jambo magulio ya simu - HabariLeo",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQizqNWoYvn1d2ql0QWhxwalYuyu85gZSH5nQ&s",
+      "original": "https://habarileo.co.tz/wp-content/uploads/2023/04/tangazo-pic-1-780x470.jpg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/cell-phone/sw/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFqgKYX6hGbZvrzM_Svw2ddCGzRIAMuBnccQ&s",
+      "fuentePagina": "https://www.youtube.com/watch?v=DE88B6mj7Vg",
+      "titulo": "SIMU 5 ZA BEI RAHISI CHINI YA LAKI TATU 2023",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFqgKYX6hGbZvrzM_Svw2ddCGzRIAMuBnccQ&s",
+      "original": "https://i.ytimg.com/vi/DE88B6mj7Vg/maxresdefault.jpg"
+    }
+  ]
+}

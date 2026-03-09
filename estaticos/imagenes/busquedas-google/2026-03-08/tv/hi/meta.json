@@ -1,0 +1,71 @@
+{
+  "categoria": "tv",
+  "categoriaSlug": "tv",
+  "idioma": "hi",
+  "nombreIdioma": "हिन्दी",
+  "termino": "टेलीविजन",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:21:15.781Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "hi",
+    "gl": "in"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=%E0%A4%9F%E0%A5%87%E0%A4%B2%E0%A5%80%E0%A4%B5%E0%A4%BF%E0%A4%9C%E0%A4%A8&hl=hi&gl=in",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/tv/hi/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR11qxckrNepEM20fO1EcQebt_H3fiPZUnqJg&s",
+      "fuentePagina": "https://www.isro.gov.in/ISRO_HINDI/Television.html",
+      "titulo": "टेलीविजन",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR11qxckrNepEM20fO1EcQebt_H3fiPZUnqJg&s",
+      "original": "https://www.isro.gov.in/media_isro/image/services/Television.jpg.webp"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/tv/hi/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQaplKzPYgpA6yQSMVjlUkk-bYDbwpvjOTEXA&s",
+      "fuentePagina": "https://thehindi.in/television-its-walk-from-world-to-india/",
+      "titulo": "टेलीविजन का दुनिया के चौराहों से ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQaplKzPYgpA6yQSMVjlUkk-bYDbwpvjOTEXA&s",
+      "original": "https://thehindi.in/wp-content/uploads/2023/11/HISTORY-OF-TELEVISION.webp"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/tv/hi/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-qLwT9Ig8D1ENNbgz-LtDqnJef-QKY0Jh_Q&s",
+      "fuentePagina": "https://www.bhaskar.com/tech-auto/news/happy-world-television-day-facts-journey-from-black-and-white-to-oled-screen-129139193.html",
+      "titulo": "Happy World Television Day Facts; journey from black and ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-qLwT9Ig8D1ENNbgz-LtDqnJef-QKY0Jh_Q&s",
+      "original": "https://images.bhaskarassets.com/web2images/521/2021/11/20/tv-2-1_1637399867.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/tv/hi/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgMjgG-pugJjLrGW2ZTe7oJO8DtiovsaKTiw&s",
+      "fuentePagina": "https://www.bhaskar.com/magazine/aha-zindagi/news/a-look-at-the-history-of-television-on-21-november-world-television-day-127923594.html",
+      "titulo": "A look at the history of television on 21 November, World ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgMjgG-pugJjLrGW2ZTe7oJO8DtiovsaKTiw&s",
+      "original": "https://images.bhaskarassets.com/thumb/1200x900/web2images/521/2020/11/18/old-teliviton_1605684851.jpg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/tv/hi/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSua7ZG-aMAOoO0tyAIIhj-20_UxVkFnBCStg&s",
+      "fuentePagina": "https://ddnews.gov.in/%E0%A4%A6%E0%A5%81%E0%A4%A8%E0%A4%BF%E0%A4%AF%E0%A4%BE%E0%A4%AD%E0%A4%B0-%E0%A4%AE%E0%A5%87%E0%A4%82%E0%A4%82-%E0%A4%86%E0%A4%9C-%E0%A4%AE%E0%A4%A8%E0%A4%BE%E0%A4%AF%E0%A4%BE-%E0%A4%9C%E0%A4%BE/",
+      "titulo": "दुनियाभर मेंं आज मनाया जा रहा है ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSua7ZG-aMAOoO0tyAIIhj-20_UxVkFnBCStg&s",
+      "original": "https://ddnews.gov.in/wp-content/uploads/2024/03/160.jpg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/tv/hi/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkVym7XLBKG4sFRnEmguQw4iriBrjMfVQ-Ow&s",
+      "fuentePagina": "https://www.india.com/hindi-news/technology/world-television-day-2023-history-significance-why-it-is-celebrated-6520002/",
+      "titulo": "World Television Day 2023: इतिहास और महत्व ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkVym7XLBKG4sFRnEmguQw4iriBrjMfVQ-Ow&s",
+      "original": "https://static.india.com/wp-content/uploads/2023/11/television.jpg?impolicy=Medium_Widthonly&w=400"
+    }
+  ]
+}

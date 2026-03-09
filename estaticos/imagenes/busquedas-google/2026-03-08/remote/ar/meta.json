@@ -1,0 +1,71 @@
+{
+  "categoria": "remote",
+  "categoriaSlug": "remote",
+  "idioma": "ar",
+  "nombreIdioma": "العربية",
+  "termino": "جهاز تحكم",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:23:11.474Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "ar",
+    "gl": "eg"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=%D8%AC%D9%87%D8%A7%D8%B2%20%D8%AA%D8%AD%D9%83%D9%85&hl=ar&gl=eg",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/remote/ar/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUZeivIK0lGHHMfncepiGH4VIZwQfVSQq3Kw&s",
+      "fuentePagina": "https://play.google.com/store/apps/details?id=tv.remote.control.tvremote.alltvremote&hl=ar",
+      "titulo": "تلفزيون التحكم عن بعد العالمي - التطبيقات على Google Play",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUZeivIK0lGHHMfncepiGH4VIZwQfVSQq3Kw&s",
+      "original": "https://play-lh.googleusercontent.com/MKLs8-Z9NdSs3ejAhBL47O6L5I_z9j5YFu9bqW9h1Wi5c-tyvfO59G-ACWu0R_3ZpkUt"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/remote/ar/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjDbezBPhoIic-WyXs144WsESeAc3omyDaag&s",
+      "fuentePagina": "https://www.lg.com/ae_ar/tv-video-accessories/lg-mr20gc",
+      "titulo": "ماجيك ريموت بتحكم صوتي وواجهة سهلة | إل جي الإمارات",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjDbezBPhoIic-WyXs144WsESeAc3omyDaag&s",
+      "original": "https://www.lg.com/ae_ar/images/tv-audio-video-accessories/md07534382/D-04.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/remote/ar/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWK5tc7kdSozlc_P9duRnFpWgVO-65uQdpMg&s",
+      "fuentePagina": "https://umbrella-egypt.com/eg/product/remote-control-for-1000-hd-receiver-black-CbCZj3?srsltid=AfmBOoo3YHCg7uyAJDTnXffEfVo7h4g890YhOkJuGxwSM8nM28XLUSIm",
+      "titulo": "جهاز تحكم عن بعد لجهاز استقبال 1000 HD أسود",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWK5tc7kdSozlc_P9duRnFpWgVO-65uQdpMg&s",
+      "original": "https://umbrella-egypt.com/storage/app/public/product/2024-05-22-664deb922d0f7.png"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/remote/ar/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOq3duNDfCCZAACb3-YTg1Iss4N6CaaLdtJQ&s",
+      "fuentePagina": "https://play.google.com/store/apps/details?id=com.kermed.remote&hl=ar",
+      "titulo": "جهاز التحكم سامسونج - التطبيقات على Google Play",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOq3duNDfCCZAACb3-YTg1Iss4N6CaaLdtJQ&s",
+      "original": "https://play-lh.googleusercontent.com/vNQ0VR03OMvYYfMQ9N9Q9Wy8mTddihHeT7G_H33-jZ4icvr9ur6Q-N_gN-scrhWP8g"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/remote/ar/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQeLAXZqlFYOPM9rww4Vui72-7qkRFuFL-yEw&s",
+      "fuentePagina": "http://ar.gddoty.com/smart-tv-ir-remote-control-customized-tv-box-voice-remote-control-for-smart-tv-44-button-or-48-keys-ble-voice-remote-control-product/",
+      "titulo": "جهاز تحكم عن بعد للتلفاز الذكي بالأشعة تحت الحمراء مخصص ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQeLAXZqlFYOPM9rww4Vui72-7qkRFuFL-yEw&s",
+      "original": "http://cdn.globalso.com/gddoty/jndnkm2.jpg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/remote/ar/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRoMSLNtBppmrVC6zq7_YwhJgTFX0dJLZlONQ&s",
+      "fuentePagina": "https://www.amazon.eg/%D9%84%D8%AA%D9%84%D9%81%D8%B2%D9%8A%D9%88%D9%86-%D8%A8%D8%B1%D9%88%D8%AA%D9%88%D9%83%D9%88%D9%84-%D8%A7%D9%84%D8%A5%D9%86%D8%AA%D8%B1%D9%86%D8%AA-%D9%88%D8%A7%D9%84%D8%A3%D9%82%D9%85%D8%A7%D8%B1-%D9%88%D8%A7%D9%84%D8%AA%D9%84%D9%81%D8%B2%D9%8A%D9%88%D9%86%D8%A7%D8%AA/dp/B0DVMTBM6Y",
+      "titulo": "جهاز تحكم عن بعد شامل مع بلوتوث لتلفزيون بروتوكول الإنترنت ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRoMSLNtBppmrVC6zq7_YwhJgTFX0dJLZlONQ&s",
+      "original": "https://m.media-amazon.com/images/I/612khYPJF+L._AC_UF894,1000_QL80_.jpg"
+    }
+  ]
+}

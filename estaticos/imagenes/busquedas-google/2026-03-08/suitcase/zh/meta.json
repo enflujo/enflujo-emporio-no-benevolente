@@ -1,0 +1,71 @@
+{
+  "categoria": "suitcase",
+  "categoriaSlug": "suitcase",
+  "idioma": "zh",
+  "nombreIdioma": "中文",
+  "termino": "行李箱",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T20:59:18.639Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "zh-CN",
+    "gl": "cn"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=%E8%A1%8C%E6%9D%8E%E7%AE%B1&hl=zh-CN&gl=cn",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/suitcase/zh/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRXUBzq8p3it_0RA6hZnwYmCx9oJEG7ZaXxg&s",
+      "fuentePagina": "https://www.elle.com/tw/fashion/hot-acc/g34117553/luggages/",
+      "titulo": "行李箱10大人氣品牌推薦總整理！Rimowa、Samsonite⋯登機箱尺寸 ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRXUBzq8p3it_0RA6hZnwYmCx9oJEG7ZaXxg&s",
+      "original": "https://hips.hearstapps.com/hmg-prod/images/83253564-2-1674730129.png?crop=0.8xw:1xh;center,top"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/suitcase/zh/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIuFoci9nPzbPJRPNpXXXC4trC_mHz2eVtgQ&s",
+      "fuentePagina": "https://www.harpersbazaar.com/tw/fashion/news/g60725095/suitcase-brands-recommendation/",
+      "titulo": "行李箱的盡頭是硬箱還軟箱？看懂行李箱特色擺脫品牌迷思",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIuFoci9nPzbPJRPNpXXXC4trC_mHz2eVtgQ&s",
+      "original": "https://hips.hearstapps.com/hmg-prod/images/gbfdh-6744534a021e0.jpg?crop=0.499xw:0.997xh;0.501xw,0&resize=1200:*"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/suitcase/zh/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFd2suJ6fIMnbDMIaYlLxhFW6tkZe_O2hilA&s",
+      "fuentePagina": "https://24h.pchome.com.tw/prod/DICY1B-A900H2OIN?srsltid=AfmBOooPgtspj4m5xds6b4-G-6QH5EQ3V7aD8HjGotOQzNjWRWw6VgeL",
+      "titulo": "departure 旅行趣前開式硬殼煞車箱22吋行李箱/旅行箱(多色可選 ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFd2suJ6fIMnbDMIaYlLxhFW6tkZe_O2hilA&s",
+      "original": "https://img.pchome.com.tw/cs/items/DICY1BA900H2OIN/000001_1712889255.jpg?width=640"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/suitcase/zh/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2zDm_MhISaPRS7dZlZUgk4h9IHAKyy2KPkw&s",
+      "fuentePagina": "https://tw.eminent.com/?route=product/product&product_id=364",
+      "titulo": "KJ52 HYGEA 抗菌行李箱- 萬國通路台灣購物網- 旅行箱行李箱登 ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2zDm_MhISaPRS7dZlZUgk4h9IHAKyy2KPkw&s",
+      "original": "https://tw.eminent.com/upload/%E5%95%86%E5%93%81%E5%9C%96%E7%89%87/%E8%A1%8C%E6%9D%8E%E7%AE%B1/%E6%96%B0%E7%AB%99/%E7%A1%AC%E7%AE%B1/KJ52/%E6%B8%A1%E9%B4%A8%E6%B7%B1%E7%81%B0/KJ52N-24-%E6%B8%A1%E9%B4%A8%E6%B7%B1%E7%81%B0-%E6%AD%A3.png"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/suitcase/zh/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjnYo0Hf-ILiucMRquKp4YXTZTplfAZsM3OQ&s",
+      "fuentePagina": "https://www.sogo.com.tw/product/011EB2M00000153",
+      "titulo": "輝葉輝葉箱神/28吋鋁框行李箱| SOGOplus 線上購物",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjnYo0Hf-ILiucMRquKp4YXTZTplfAZsM3OQ&s",
+      "original": "https://d2natqlvzq9fp5.cloudfront.net/App_Images/738/ChannelProduct/2024/0801/ad1e3a7a-5132-4eb4-baa0-25926aee13ed.JPG"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/suitcase/zh/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTp5wBaSTrArwz5MUAb_pRSeFobQiDESyUI_Q&s",
+      "fuentePagina": "https://www.aou.com.tw/zh-TW/products/920002?srsltid=AfmBOopuJlhuTiwyn6TJOBh6HwDs7SQxHzvvKTyHBvwBO58dAUVt5Kp1",
+      "titulo": "AOU微笑旅行前開式行李箱AOU微笑旅行行李箱",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTp5wBaSTrArwz5MUAb_pRSeFobQiDESyUI_Q&s",
+      "original": "https://cdn-next.cybassets.com/media/W1siZiIsIjI3NDE2L3Byb2R1Y3RzLzQzOTg5MDAyLzE3MjE3MDY1NTRfNWZlNzU0MTkzYWZkNTA1OTE1NTMuanBlZyJdLFsicCIsInRodW1iIiwiNjAweDYwMCJdXQ.jpeg?sha=bdf0fc9179314013"
+    }
+  ]
+}

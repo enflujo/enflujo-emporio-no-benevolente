@@ -1,0 +1,71 @@
+{
+  "categoria": "pizza",
+  "categoriaSlug": "pizza",
+  "idioma": "ar",
+  "nombreIdioma": "العربية",
+  "termino": "بيتزا",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:15:15.001Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "ar",
+    "gl": "eg"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=%D8%A8%D9%8A%D8%AA%D8%B2%D8%A7&hl=ar&gl=eg",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/pizza/ar/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYwdBCCgd662KRl74e-hU_1Mkvc5OTrU6kGA&s",
+      "fuentePagina": "https://www.zakibook.com/post/109461/%D8%A8%D9%8A%D8%AA%D8%B2%D8%A7-4/comment-page-1/",
+      "titulo": "قريوش على طريقة ام ازهار من الجزائر",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYwdBCCgd662KRl74e-hU_1Mkvc5OTrU6kGA&s",
+      "original": "https://www.zakibook.com/wp-content/uploads/2018/09/pp-1683.jpeg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/pizza/ar/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvrGJ5kAMvX0b0TVv6tkxlT89tnzzrnEYTiw&s",
+      "fuentePagina": "https://dominoskw.com/products/%D8%A7%D9%84%D8%AE%D8%B6%D8%B1%D8%A7%D9%88%D8%A7%D8%AA-%D8%A7%D9%84%D9%85%D9%83%D8%B3%D9%8A%D9%83%D9%8A%D8%A9-%D8%A7%D9%84%D8%AD%D8%A7%D8%B1%D8%A9",
+      "titulo": "المكسيكية مع الهالابينو – دومينوز بيتزا",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvrGJ5kAMvX0b0TVv6tkxlT89tnzzrnEYTiw&s",
+      "original": "https://dominoskw.com/cdn/shop/files/mexican_jalapeno_08062024.jpg?v=1719325270"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/pizza/ar/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHoML_RWrNhS3xbZNeWhpj9jjsyG7Ex-43aw&s",
+      "fuentePagina": "https://www.moulinex-me.com/ar/recipe/%D8%A7%D9%84%D8%A8%D9%8A%D8%AA%D8%B2%D8%A7-%D8%A7%D9%84%D9%85%D9%86%D8%B2%D9%84%D9%8A%D8%A9-%D8%A8%D8%A7%D9%84%D8%A8%D9%8A%D8%A8%D9%8A%D8%B1%D9%88%D9%86%D9%8A/r/124024",
+      "titulo": "البيتزا المنزلية بالبيبيروني",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHoML_RWrNhS3xbZNeWhpj9jjsyG7Ex-43aw&s",
+      "original": "https://www.moulinex-me.com/medias/?context=bWFzdGVyfHJvb3R8MTQzNTExfGltYWdlL2pwZWd8YUdabEwyZzBPUzh4TlRrMk9EWTFNell3TmprME1pNXFjR2N8ZDIzNDJkYTE1MmVlZTlhNjRhMmEyNzgwYTMxMzhlOThiOTMwOTc0NzMxODQwNjIyZGEzMTBhNDkzN2FiYjQ4Zg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/pizza/ar/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRaWfbP2P94sHxryxxY8I5iCm6iLDc2WFedqw&s",
+      "fuentePagina": "https://ar.wikipedia.org/wiki/%D8%A8%D9%8A%D8%AA%D8%B2%D8%A7",
+      "titulo": "بيتزا - ويكيبيديا",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRaWfbP2P94sHxryxxY8I5iCm6iLDc2WFedqw&s",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/b/b8/Pizza_Pizza%27s_Meditteranean_Vegetarian.jpg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/pizza/ar/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrc4Pcc_v6EZkOKmuhiqlLsHz-Q5_VtSbiGQ&s",
+      "fuentePagina": "https://mawdoo3.com/%D8%B7%D8%B1%D9%8A%D9%82%D8%A9_%D8%B9%D9%85%D9%84_%D8%A8%D9%8A%D8%AA%D8%B2%D8%A7_%D8%A5%D9%8A%D8%B7%D8%A7%D9%84%D9%8A%D8%A9",
+      "titulo": "طريقة عمل بيتزا إيطالية - موضوع",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrc4Pcc_v6EZkOKmuhiqlLsHz-Q5_VtSbiGQ&s",
+      "original": "https://modo3.com/thumbs/fit630x300/112191/1465375709/%D8%B7%D8%B1%D9%8A%D9%82%D8%A9_%D8%B9%D9%85%D9%84_%D8%A8%D9%8A%D8%AA%D8%B2%D8%A7_%D8%A5%D9%8A%D8%B7%D8%A7%D9%84%D9%8A%D8%A9.jpg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/pizza/ar/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQshBqbQ2A39W5HZ6cr7AkeIP-T5aAevno0tg&s",
+      "fuentePagina": "https://www.webteb.com/diet/recipes/%D8%A8%D9%8A%D8%AA%D8%B2%D8%A7-%D8%A7%D9%84%D8%AE%D8%B6%D8%A7%D8%B1_1284",
+      "titulo": "طريقة عمل بيتزا الخضار - ويب طب",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQshBqbQ2A39W5HZ6cr7AkeIP-T5aAevno0tg&s",
+      "original": "https://static.webteb.net/images/content/ramadanrecipe_recipe_1284_773ece53751-3e01-4836-a67f-685c85a83534.jpg"
+    }
+  ]
+}

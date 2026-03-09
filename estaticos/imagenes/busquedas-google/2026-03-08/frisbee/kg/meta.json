@@ -1,0 +1,71 @@
+{
+  "categoria": "frisbee",
+  "categoriaSlug": "frisbee",
+  "idioma": "kg",
+  "nombreIdioma": "Kikongo",
+  "termino": "frisbee",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T20:59:32.689Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "fr",
+    "gl": "cd"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=frisbee&hl=fr&gl=cd",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/frisbee/kg/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS--HEhij0TKL78qgkqH35e9zEN_BEmFFmq6A&s",
+      "fuentePagina": "https://zabcafe.com/products/frizbee-cafelimo?srsltid=AfmBOop3j8VrSMDogEEzU6tgmRD-1ZIm8GzlcEwE4LdpiuVtQMjGsvwA",
+      "titulo": "Frisbee Cafélimo – Zab Café",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS--HEhij0TKL78qgkqH35e9zEN_BEmFFmq6A&s",
+      "original": "https://zabcafe.com/cdn/shop/files/frisbee-cafelimo-sky.jpg?v=1748348264&width=1200"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/frisbee/kg/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdwodbmrVoOxkp0Pkjnbign4QYu1Jr16bi1w&s",
+      "fuentePagina": "https://www.decathlon.ph/p/ultimate-disc-original-175g-white-tribord-8590276.html",
+      "titulo": "Ultimate Disc Original 175g - White",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdwodbmrVoOxkp0Pkjnbign4QYu1Jr16bi1w&s",
+      "original": "https://contents.mediadecathlon.com/p2140421/k$2317974123b07ccd65c829aad67cefb9/ultimate-disc-original-175g-white-tribord-8590276.jpg?f=1920x0&format=auto"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/frisbee/kg/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOPPeUYRXc0mWVFPbMztz_8WmpOi3qORN0Uw&s",
+      "fuentePagina": "https://en.wikipedia.org/wiki/Frisbee",
+      "titulo": "Frisbee - Wikipedia",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOPPeUYRXc0mWVFPbMztz_8WmpOi3qORN0Uw&s",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Frisbee_090719.jpg/500px-Frisbee_090719.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/frisbee/kg/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHfgeluxAwql4gsa68EzcCKvkNeQNEBYrhzA&s",
+      "fuentePagina": "https://www.acefitness.org/continuing-education/prosource/june-2016/5914/ace-sponsored-research-can-you-get-fit-playing-ultimate-frisbee/?srsltid=AfmBOorA4gAPJTMHm8_7A35A5PbTGtDQ-9uUymjbfWp6QjwDiasC-DZC",
+      "titulo": "ACE - ProSource™: June 2016 - ACE-SPONSORED RESEARCH: Can ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHfgeluxAwql4gsa68EzcCKvkNeQNEBYrhzA&s",
+      "original": "https://ik.imagekit.io/02fmeo4exvw/June2016/Frisbee_main.jpg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/frisbee/kg/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0jJCnFPGRoqjeuGJEJWCntDqBbnWpandHDA&s",
+      "fuentePagina": "https://www.museumofplay.org/toys/frisbee/",
+      "titulo": "Frisbee - The Strong National Museum of Play",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0jJCnFPGRoqjeuGJEJWCntDqBbnWpandHDA&s",
+      "original": "https://www.museumofplay.org/app/uploads/2021/08/Frisbee-sq.jpg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/frisbee/kg/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgJ2B4YlMYy4MjNxqBJ0nk_JJ7S35E-cwMXg&s",
+      "fuentePagina": "https://www.firetoys.eu/products/discraft-ultrastar-frisbee?srsltid=AfmBOooUfGBddgyKAeumdBK8zBSRg14TYHKTLlBoQVCTKOYpvJ6QMjEG",
+      "titulo": "Discraft Ultrastar Frisbee – Firetoys EU",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgJ2B4YlMYy4MjNxqBJ0nk_JJ7S35E-cwMXg&s",
+      "original": "https://www.firetoys.eu/cdn/shop/files/UVOrange.jpg?v=1738248556&width=1024"
+    }
+  ]
+}

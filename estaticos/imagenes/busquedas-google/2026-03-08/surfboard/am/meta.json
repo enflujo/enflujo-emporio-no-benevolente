@@ -1,0 +1,71 @@
+{
+  "categoria": "surfboard",
+  "categoriaSlug": "surfboard",
+  "idioma": "am",
+  "nombreIdioma": "Amharic — አማርኛ",
+  "termino": "የሞገድ ሰሌዳ",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:04:53.922Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "am",
+    "gl": "et"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=%E1%8B%A8%E1%88%9E%E1%8C%88%E1%8B%B5%20%E1%88%B0%E1%88%8C%E1%8B%B3&hl=am&gl=et",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/surfboard/am/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGiAX-YglsNZnvayMUoofnj8MorwrEisCLDw&s",
+      "fuentePagina": "https://www.kaiyuanwood.net/am/wave-board-wooden-art-for-building-facades-product/",
+      "titulo": "የቻይና ሞገድ ቦርድ: የእንጨት ጥበብ ለግንባታ የፊት ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGiAX-YglsNZnvayMUoofnj8MorwrEisCLDw&s",
+      "original": "https://ecdn6.globalso.com/upload/p/3199/image_other/2025-05/wave-board-1-1.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/surfboard/am/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStvUtyaZCJBiRXN5bmbvZaqmSW3q4pmYzr6w&s",
+      "fuentePagina": "https://www.kaiyuanwood.net/am/wave-board-wooden-art-for-building-facades-product/",
+      "titulo": "የቻይና ሞገድ ቦርድ: የእንጨት ጥበብ ለግንባታ የፊት ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStvUtyaZCJBiRXN5bmbvZaqmSW3q4pmYzr6w&s",
+      "original": "https://ecdn6.globalso.com/upload/p/3199/image_other/2025-05/wave-board-2-1.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/surfboard/am/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwTftVXcgoBH-TfycrKZsXmw5pufUqwrDuuA&s",
+      "fuentePagina": "https://www.wavelength-oe.com/am/polarization-optics/waveplates/",
+      "titulo": "Archromatic Waveplate | እውነተኛ-ዜሮ/ባለብዙ ትዕዛዝ ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwTftVXcgoBH-TfycrKZsXmw5pufUqwrDuuA&s",
+      "original": "https://wavelength-oe.com/wp-content/uploads/Polarization-Optics-Polarizers-Waveplates.png"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/surfboard/am/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSk7nwlHkNUFv2uFNXQu4c5h6BiiMI6GrDL4g&s",
+      "fuentePagina": "https://www.chenhongwood.com/am/news/fluted-mdf-wave-wall-panel/",
+      "titulo": "ዜና - የተወዛወዘ የኤምዲኤፍ ሞገድ ግድግዳ ፓነል",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSk7nwlHkNUFv2uFNXQu4c5h6BiiMI6GrDL4g&s",
+      "original": "https://www.chenhongwood.com/uploads/wave-board-1.jpg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/surfboard/am/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlKvUYCNUDJ4mXvXBQZx7TJ95o-7Lq7y8img&s",
+      "fuentePagina": "https://am.linyidec.com/pvc-co-extruded-board-%EF%BC%8C-wall-cladding-wpc-wpc-laminated-wall-panel-wpc-product/",
+      "titulo": "ቻይና PVC በጋር የተዘረጋ ቦርድ ፣ ግድግዳ መሸፈኛ WPC ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlKvUYCNUDJ4mXvXBQZx7TJ95o-7Lq7y8img&s",
+      "original": "https://cdn.globalso.com/linyidec/%EF%BC%883%EF%BC%89WPC-Laminated-Wall-Panel-300x300.jpg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/surfboard/am/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRD3iqOZ_hj51iJWSOILYCgfIm0-YdK4fibYg&s",
+      "fuentePagina": "https://www.asphaltroofshingle.com/am/slate-hexagonal-asphalt-shingles.html",
+      "titulo": "የ25 ዓመት የዋስትና ሰሌዳ ባለ ስድስት ማዕዘን ቀለም ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRD3iqOZ_hj51iJWSOILYCgfIm0-YdK4fibYg&s",
+      "original": "https://cdnus.globalso.com/asphaltroofshingle/%E9%A9%AC%E8%B5%9B%E5%85%8B%E5%B2%A9%E7%89%87%E6%AD%A3%E5%8F%8D%E9%9D%A21.jpg"
+    }
+  ]
+}

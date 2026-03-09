@@ -1,0 +1,71 @@
+{
+  "categoria": "couch",
+  "categoriaSlug": "couch",
+  "idioma": "zu",
+  "nombreIdioma": "isiZulu",
+  "termino": "isofa",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:17:50.570Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "zu",
+    "gl": "za"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=isofa&hl=zu&gl=za",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/couch/zu/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrX5s8M9pm6y6pWpGQz8eJ9ofFgz7WCeljvw&s",
+      "fuentePagina": "https://www.facebook.com/isofasofa7/",
+      "titulo": "Isofa modern sofa makers | Nsangi",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrX5s8M9pm6y6pWpGQz8eJ9ofFgz7WCeljvw&s",
+      "original": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=100063214242324"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/couch/zu/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVQj-aklJ6dDypA2Esm0BgYW4j1Bq_SQLuXQ&s",
+      "fuentePagina": "https://www.amazon.in/IRIS-Berkeley-Shiatsu-Kneading-Tapping/dp/B09D76NQ9H",
+      "titulo": "IRIS iSofa Berkeley Shiatsu, Kneading, and Tapping Massage ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVQj-aklJ6dDypA2Esm0BgYW4j1Bq_SQLuXQ&s",
+      "original": "https://m.media-amazon.com/images/I/41w9gCOho7L._AC_UF894,1000_QL80_.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/couch/zu/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRS3IpMVjLNtqK4MXAHIlj3TQSJGf29g71b9g&s",
+      "fuentePagina": "https://www.facebook.com/iSofa.tv/",
+      "titulo": "iSofa.tv (@iSofa.tv) • Facebook",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRS3IpMVjLNtqK4MXAHIlj3TQSJGf29g71b9g&s",
+      "original": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=100063635980058"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/couch/zu/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbHsu9dFrid0dTcR3Jk9tdInCnZYcBOR3a7w&s",
+      "fuentePagina": "https://goodmassage.co.nz/product/isofa-pre-owned-massage-sofa/?srsltid=AfmBOopEMWdFeZNoR6h4Yx2FAWi7tane4npR0GICx2broBdOL40l7vDu",
+      "titulo": "iSofa (Pre-Owned) Massage Sofa - Good massage",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbHsu9dFrid0dTcR3Jk9tdInCnZYcBOR3a7w&s",
+      "original": "https://goodmassage.co.nz/wp-content/uploads/2023/10/b0c1dc6fe6aeb87fe3a091c6cb599fee.jpeg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/couch/zu/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBdWsnXv4IWk37WZiXwQKc5CqCOJn5tuH9mQ&s",
+      "fuentePagina": "https://isofa.vn/sofa-goc-sg29/",
+      "titulo": "Sofa góc SG29",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBdWsnXv4IWk37WZiXwQKc5CqCOJn5tuH9mQ&s",
+      "original": "https://isofa.vn/wp-content/uploads/2022/04/1_OK-5-e1650191886203.jpg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/couch/zu/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXChKhCrCfYemy1H7GNnLQI4U8FGApXrvhSA&s",
+      "fuentePagina": "https://xh.kanasfurniture.com/leather-sofa",
+      "titulo": "Isofa yesikhumba - KANAS CASA",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXChKhCrCfYemy1H7GNnLQI4U8FGApXrvhSA&s",
+      "original": "https://www.kanasfurniture.com/icms/upload/7396ed00240611f082ee7705e16b2204/pic/%E4%BA%A7%E5%93%81%E7%AE%A1%E7%90%86-%E4%BA%A7%E5%93%81%E5%9B%BE%E7%89%87/e07bfa50516a11f0ad855f0e8eb18a8e/Directory/L-513_1750817992309.webp"
+    }
+  ]
+}

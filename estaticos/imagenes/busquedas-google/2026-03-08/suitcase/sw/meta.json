@@ -1,0 +1,71 @@
+{
+  "categoria": "suitcase",
+  "categoriaSlug": "suitcase",
+  "idioma": "sw",
+  "nombreIdioma": "Kiswahili",
+  "termino": "mzigo",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T20:58:48.084Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "sw",
+    "gl": "tz"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=mzigo&hl=sw&gl=tz",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/suitcase/sw/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTI0N-UnWsWOVQI_oPtTjYEQCz-semerihBLQ&s",
+      "fuentePagina": "https://commons.wikimedia.org/wiki/File:Mzigo.jpg",
+      "titulo": "File:Mzigo.jpg - Wikimedia Commons",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTI0N-UnWsWOVQI_oPtTjYEQCz-semerihBLQ&s",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Mzigo.jpg/1280px-Mzigo.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/suitcase/sw/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTS71oPRoLGEtA9a5Cckl01CXH6zyGT_c9PZA&s",
+      "fuentePagina": "http://majira-hall.blogspot.com/2012/10/mzigo.html",
+      "titulo": "MAJIRA - GAZETI HURU LA KILA SIKU:: MZIGO",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTS71oPRoLGEtA9a5Cckl01CXH6zyGT_c9PZA&s",
+      "original": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjvKWhLbTLv51xOrVs20WtBaibtmv2cbQDxn04XOJ2dN44r5nu7Dn96BWAN_bndjY6Xficnnt580lJZTUV0JH2cTA74PdzAWqOQVxdPoGqPitydMBYF2mFmGvqXY5-cXu3TokjU9kB4RX6F/s1600/mzigo.JPG"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/suitcase/sw/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxQyHo06QwqqWv1U8FJebG00lbU6JhGvL_fw&s",
+      "fuentePagina": "https://www.youtube.com/playlist?list=PLJvHVEdmqKuSfvGa_nsNbVNGAAx_l6IZe",
+      "titulo": "MZIGO - YouTube",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxQyHo06QwqqWv1U8FJebG00lbU6JhGvL_fw&s",
+      "original": "https://i.ytimg.com/vi/V-U_E7VOjuM/hq720.jpg?sqp=-oaymwEXCK4FEIIDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLCUqjVcW1ozfbTtBjiJaBxkWlotpw"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/suitcase/sw/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4RC3bZcywhXe8F5bMblC16eLTZAUbjwkibg&s",
+      "fuentePagina": "https://www.facebook.com/mzigoproject/",
+      "titulo": "Mzigo Project | Nairobi",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4RC3bZcywhXe8F5bMblC16eLTZAUbjwkibg&s",
+      "original": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=100082201606330"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/suitcase/sw/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMkyI-v_yYFmkJaJGnfgCY2Ox3HVWgqOILPQ&s",
+      "fuentePagina": "https://www.youtube.com/watch?v=BtdPjxXI-OQ",
+      "titulo": "MZIGO wa JIMAMA ULIVYOWADATISHA MARAFIKI WAWILI, TAZAMA WALIVYOLITOLEA  MACHO..",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMkyI-v_yYFmkJaJGnfgCY2Ox3HVWgqOILPQ&s",
+      "original": "https://i.ytimg.com/vi/BtdPjxXI-OQ/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLBnhRVRdveaKW3-oToHBv4AVF1auA"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/suitcase/sw/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbXNlMUWTOwLhlJruDeAEIpzFaU3FJpbSUGw&s",
+      "fuentePagina": "https://www.facebook.com/100063963453765/posts/new-arrivalsmzigo-mpya-wajawhatspcall-2550687039389tunafanya-delivery-mikoa-yote/708810443393058/",
+      "titulo": "NEW ARRIVALS. MZIGO MPYA WAJA whatsp&call +255(0)687039389 ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbXNlMUWTOwLhlJruDeAEIpzFaU3FJpbSUGw&s",
+      "original": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=708810420059727"
+    }
+  ]
+}

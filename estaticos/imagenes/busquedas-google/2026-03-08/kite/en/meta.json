@@ -1,0 +1,71 @@
+{
+  "categoria": "kite",
+  "categoriaSlug": "kite",
+  "idioma": "en",
+  "nombreIdioma": "English",
+  "termino": "kite",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:01:56.217Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "en",
+    "gl": "us"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=kite&hl=en&gl=us",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/kite/en/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBHKH-bwJplGNtdHmyVMNTpDrtQDUcaPqZtg&s",
+      "fuentePagina": "https://jcswildlife.com/products/in-the-breeze-rainbow-arch-27-diamond-kite-1?srsltid=AfmBOophgIlZZJCSpNa1OGlVM6Ugo1XCvl8bp5eM1gxSK5r1Nh4l0V21",
+      "titulo": "In The Breeze Rainbow Arch 27\" Diamond Kite",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBHKH-bwJplGNtdHmyVMNTpDrtQDUcaPqZtg&s",
+      "original": "https://jcswildlife.com/cdn/shop/products/in-the-breeze-rainbow-arch-27-diamond-kite-365010.jpg?v=1709131844&width=1214"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/kite/en/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTA5zyXCLCl-m-NbXFDJwOakGEiQckL2-Va8g&s",
+      "fuentePagina": "https://ckfamilyservices.org/blog/benefits-flying-kites",
+      "titulo": "The Benefits of Flying Kites | CK Family Services",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTA5zyXCLCl-m-NbXFDJwOakGEiQckL2-Va8g&s",
+      "original": "https://ckfamilyservices.org/sites/default/files/inline-images/kites-colors-in-the-cloud-sky-SBI-301985478.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/kite/en/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXuEbE0BPLpgzUXq8t-M8Atcuui2J1sgG5hg&s",
+      "fuentePagina": "https://www.freepik.com/free-photos-vectors/kite",
+      "titulo": "Kite Images - Free Download on Freepik",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXuEbE0BPLpgzUXq8t-M8Atcuui2J1sgG5hg&s",
+      "original": "https://img.freepik.com/free-vector/colorful-kite-flying-blue-sky_1308-29925.jpg?semt=ais_rp_50_assets&w=740&q=80"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/kite/en/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9_O91TBmKPWCvQqhzMGTkGo-WhSKUZMQZxA&s",
+      "fuentePagina": "https://www.amazon.com/Breeze-Pink-Diamond-Kite-30-Inch/dp/B007E90IGQ",
+      "titulo": "Amazon.com: In the Breeze 2994 — Pink Diamond Kite, 30-inch ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9_O91TBmKPWCvQqhzMGTkGo-WhSKUZMQZxA&s",
+      "original": "https://m.media-amazon.com/images/I/71aGfelSe3L._AC_UF1000,1000_QL80_.jpg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/kite/en/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNVe_zVRQmcNRY1IYbmt_6uAmS5kKympHNHg&s",
+      "fuentePagina": "https://www.vecteezy.com/vector-art/70511476-cartoon-kite-flying-isolated-illustration-on-white-background",
+      "titulo": "Cartoon kite flying isolated illustration on white ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNVe_zVRQmcNRY1IYbmt_6uAmS5kKympHNHg&s",
+      "original": "https://static.vecteezy.com/system/resources/previews/070/511/476/non_2x/cartoon-kite-flying-isolated-illustration-on-white-background-vector.jpg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/kite/en/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSH5O1cvqt80R1gLDjGXbfDU0kl94cGABoupA&s",
+      "fuentePagina": "https://intothewind.com/shooting-star-kite.html?srsltid=AfmBOooHaC_q-un3xLC8uBC8qk_gul7kaSjHtG2M-aFQzWYRuzJ1qbC0",
+      "titulo": "Shooting Star Kite",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSH5O1cvqt80R1gLDjGXbfDU0kl94cGABoupA&s",
+      "original": "https://intothewind.com/media/catalog/product/cache/dc3560df08734d00f5064f375c421c32/s/t/star_kite_1.jpg"
+    }
+  ]
+}

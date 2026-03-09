@@ -1,0 +1,71 @@
+{
+  "categoria": "airplane",
+  "categoriaSlug": "airplane",
+  "idioma": "hi",
+  "nombreIdioma": "हिन्दी",
+  "termino": "हवाई जहाज",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T20:43:19.203Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "hi",
+    "gl": "in"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=%E0%A4%B9%E0%A4%B5%E0%A4%BE%E0%A4%88%20%E0%A4%9C%E0%A4%B9%E0%A4%BE%E0%A4%9C&hl=hi&gl=in",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/airplane/hi/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRiZz-8f4WxI6Vsu9cASff6KyKxgKVxgVKgKg&s",
+      "fuentePagina": "https://bh.wikipedia.org/wiki/%E0%A4%B9%E0%A4%B5%E0%A4%BE%E0%A4%88_%E0%A4%9C%E0%A4%B9%E0%A4%BE%E0%A4%9C",
+      "titulo": "हवाई जहाज - विकिपीडिया",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRiZz-8f4WxI6Vsu9cASff6KyKxgKVxgVKgKg&s",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/0/08/Airbus_A319-112%2C_Air_India_AN2225148.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/airplane/hi/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNV_RCevdKZ9YEo9PUXB37KBhTcOgvQJuELQ&s",
+      "fuentePagina": "https://www.indiatv.in/web-stories/paisa/what-is-the-top-speed-of-an-passenger-airplane-know-at-what-speed-passenger-planes-can-fly-2024-12-12-1097435",
+      "titulo": "हवाई जहाज की टॉप स्पीड क्या होती ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNV_RCevdKZ9YEo9PUXB37KBhTcOgvQJuELQ&s",
+      "original": "https://resize.indiatv.in/resize/newbucket/1080_1920/2024/12/3-1733992076.webp"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/airplane/hi/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDfWg5J86JE2tA2u9h2kzpoojwVvo9f7J2sg&s",
+      "fuentePagina": "https://www.aajtak.in/science/story/what-is-emergency-fuel-dumping-procedures-in-commercial-aircraft-dskc-2079560-2024-10-24",
+      "titulo": "हवाई जहाज से क्यों गिराया जाता है ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDfWg5J86JE2tA2u9h2kzpoojwVvo9f7J2sg&s",
+      "original": "https://akm-img-a-in.tosshub.com/aajtak/images/story/202410/6719d2dbaa2ad-what-is-fuel-dumping-245341973-16x9.jpg?size=948:533"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/airplane/hi/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTniXifUPuPWu19dqASMPUyWNC7QL-Yk4Vz3A&s",
+      "fuentePagina": "https://www.jansatta.com/editorial/airplane-travel-no-longer-safe-bomb-threats-many-times/3633700/",
+      "titulo": "संपादकीय: हवाई जहाज की यात्रा भी ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTniXifUPuPWu19dqASMPUyWNC7QL-Yk4Vz3A&s",
+      "original": "https://images.jansatta.com/2024/10/air-india-airlines.jpg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/airplane/hi/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnHjbmxgrZkb7KVeYqiM3q5GgSVkBxKpRo3A&s",
+      "fuentePagina": "https://www.aajtak.in/business/news/story/airbus-may-make-engines-for-hydrogen-fuelled-planes-with-zero-emission-environment-friendly-tutk-1406058-2022-02-05",
+      "titulo": "अब हाइड्रोजन से उड़ेंगे हवाई ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnHjbmxgrZkb7KVeYqiM3q5GgSVkBxKpRo3A&s",
+      "original": "https://akm-img-a-in.tosshub.com/aajtak/images/story/202202/air-bus-one-sixteen_nine_1.jpg?size=948:533"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/airplane/hi/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZJTvFpEtn-ppnieDXETqyGBgAXRJm9iXhNA&s",
+      "fuentePagina": "https://www.amazon.in/-/hi/%E0%A4%AC%E0%A4%9A%E0%A5%8D%E0%A4%9A%E0%A5%8B%E0%A4%82-%E0%A4%96%E0%A4%BF%E0%A4%B2%E0%A5%8C%E0%A4%A8%E0%A5%87-%E0%A4%96%E0%A4%BF%E0%A4%B2%E0%A5%8C%E0%A4%A8%E0%A4%BE-%E0%A4%A1%E0%A4%BF%E0%A4%97%E0%A5%8D%E0%A4%B0%E0%A5%80-%E0%A4%95%E0%A4%BF%E0%A4%82%E0%A4%97%E0%A4%AB%E0%A4%BF%E0%A4%B6%E0%A4%B0/dp/B0BRJKN6CM",
+      "titulo": "Kart In Box | बच्चों के लिए हवाई जहाज ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZJTvFpEtn-ppnieDXETqyGBgAXRJm9iXhNA&s",
+      "original": "https://m.media-amazon.com/images/I/61ExBtx7I0L.jpg"
+    }
+  ]
+}

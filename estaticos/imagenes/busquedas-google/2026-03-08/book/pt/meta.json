@@ -1,0 +1,71 @@
+{
+  "categoria": "book",
+  "categoriaSlug": "book",
+  "idioma": "pt",
+  "nombreIdioma": "Português",
+  "termino": "livro",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:28:40.252Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "pt",
+    "gl": "br"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=livro&hl=pt&gl=br",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/book/pt/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQo710Bp9YjNUK5BkKpAafLgaTR4bc4S_9icA&s",
+      "fuentePagina": "https://acervoutimura.com.br/item/ZDo2UPcBdzhr1CniYN8i",
+      "titulo": "Livro antigo capa dura preta | Aluguel Semanal em Sao Paulo ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQo710Bp9YjNUK5BkKpAafLgaTR4bc4S_9icA&s",
+      "original": "https://storage.googleapis.com/propcart-br.appspot.com/images%2Fitems%2FZDo2UPcBdzhr1CniYN8i_1684855933547.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/book/pt/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfYMyMmE8zmWugtTZ_j-JRXa4oEN-YmB2RZg&s",
+      "fuentePagina": "https://printstore.com.br/blog/o-que-e-preciso-pensar-na-hora-de-escolher-o-melhor-papel-para-livro/",
+      "titulo": "Qual o Melhor Papel para Livro? Veja e Evite os Principais Erros",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfYMyMmE8zmWugtTZ_j-JRXa4oEN-YmB2RZg&s",
+      "original": "https://res.cloudinary.com/printstore/image/upload/c_thumb,f_auto,g_auto,h_450,q_auto,w_800/composicao-da-literatura-criativ_1.jpg?_a=BAMADKTE0"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/book/pt/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0JNfggoROvjcpjCUKbHvGzuljAWoQ9Nh7DQ&s",
+      "fuentePagina": "https://viverdeblog.com/como-escrever-um-livro/",
+      "titulo": "Como escrever um livro bem sucedido em 7 simples etapas",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0JNfggoROvjcpjCUKbHvGzuljAWoQ9Nh7DQ&s",
+      "original": "https://viverdeblog.com/wp-content/uploads/2017/04/como-escrever-um-livro-topo.png"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/book/pt/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQp-KjAL4E5L-B3aU_Ex5S1kkyahjoJ-fXQaA&s",
+      "fuentePagina": "https://br.vexels.com/png-svg/previsualizar/211098/livro-aberto-desenhado-a-mao",
+      "titulo": "Design PNG E SVG De Livro Aberto Desenhado à Mão Para Camisetas",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQp-KjAL4E5L-B3aU_Ex5S1kkyahjoJ-fXQaA&s",
+      "original": "https://images.vexels.com/media/users/3/211098/isolated/preview/4deb66d28c41e0714ba11ebb1fef6c67-livro-aberto-desenhado-a-mao.png"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/book/pt/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStjD6mneLelk2Yo6B6fTajT8W_-Z_NVtukRw&s",
+      "fuentePagina": "https://br.freepik.com/fotos/livro-aberto",
+      "titulo": "Fotos de Livro aberto - Baixe fotos grátis de alta qualidade ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStjD6mneLelk2Yo6B6fTajT8W_-Z_NVtukRw&s",
+      "original": "https://img.freepik.com/fotos-gratis/composicao-de-livros-com-livro-aberto_23-2147690555.jpg?semt=ais_hybrid&w=740&q=80"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/book/pt/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIY9eBs1PhmDtgho6uHmvwW3cRGbfU-rLbpw&s",
+      "fuentePagina": "https://editorialpaco.com.br/quais-sao-as-partes-de-um-livro-impresso/",
+      "titulo": "Quais são as partes de um livro impresso? – Paco Editorial",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIY9eBs1PhmDtgho6uHmvwW3cRGbfU-rLbpw&s",
+      "original": "https://editorialpaco.com.br/wp-content/uploads/2019/07/c8c74d9bca132ddb5e608bb5b212b386.jpg"
+    }
+  ]
+}

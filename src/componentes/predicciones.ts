@@ -1,80 +1,69 @@
 import type { Aparicion, Cuadro } from '../tipos';
-import categoriasConColor from './categorias';
+import categoriasConColor, { categorias } from './categorias';
 
 const listaCategorias = document.getElementById('listaCategorias') as HTMLDivElement;
-let categorias: { [categoria: string]: { contador: HTMLSpanElement; apariciones: Aparicion[] } } = {};
+type DatosCategoria = {
+  elemento: HTMLDivElement;
+  contador: HTMLSpanElement;
+  apariciones: Aparicion[];
+};
 
-export default function utilidadPredicciones(
-  lienzoEspectros: HTMLCanvasElement,
-  lienzoEspectroCategoria: HTMLCanvasElement
-) {
-  const ctx3 = lienzoEspectroCategoria.getContext('2d');
+let registro: { [categoria: string]: DatosCategoria } = {};
+
+export default function utilidadPredicciones() {
+
+  function construirDiccionario() {
+    listaCategorias.innerHTML = '';
+    registro = {};
+
+    categorias.forEach((nombreCategoria) => {
+      const elemento = document.createElement('div');
+      const contador = document.createElement('span');
+      const barra = document.createElement('span');
+      const color = categoriasConColor[nombreCategoria];
+
+      elemento.className = 'categoria fantasma';
+      elemento.innerText = nombreCategoria;
+      contador.className = 'contadorCategoria';
+      contador.innerText = '0';
+      barra.className = 'barraColor';
+      barra.style.backgroundColor = color;
+
+      elemento.appendChild(barra);
+      elemento.appendChild(contador);
+      listaCategorias.appendChild(elemento);
+
+      registro[nombreCategoria] = { elemento, contador, apariciones: [] };
+    });
+  }
+
+  // Construir el diccionario desde el inicio
+  construirDiccionario();
 
   return {
     reiniciar: () => {
-      listaCategorias.innerHTML = '';
-      categorias = {};
+      // Reiniciar contadores pero mantener el diccionario visible
+      categorias.forEach((nombreCategoria) => {
+        const datos = registro[nombreCategoria];
+        datos.apariciones = [];
+        datos.contador.innerText = '0';
+        datos.elemento.classList.add('fantasma');
+        datos.elemento.classList.remove('detectada');
+      });
     },
 
     agregar: (nombreCategoria: string, confianza: number, area: Cuadro, tiempo: number) => {
-      const categoria = categorias[nombreCategoria];
+      const datos = registro[nombreCategoria];
+      if (!datos) return;
 
-      if (!categoria) {
-        const elemento = document.createElement('div');
-        const contador = document.createElement('span');
-        const barra = document.createElement('span');
-        const color = categoriasConColor[nombreCategoria];
-
-        elemento.className = 'categoria';
-        elemento.innerText = nombreCategoria;
-        contador.className = 'contadorCategoria';
-        contador.innerText = '1';
-        barra.className = 'barraColor';
-        barra.style.backgroundColor = color;
-
-        elemento.appendChild(barra);
-        elemento.appendChild(contador);
-        listaCategorias.appendChild(elemento);
-
-        elemento.onclick = () => {
-          console.log(`Apariciones de categoría ${nombreCategoria}`, categorias[nombreCategoria].apariciones);
-        };
-
-        elemento.onmouseenter = () => {
-          if (!ctx3) return;
-
-          lienzoEspectros.classList.remove('visible');
-          lienzoEspectroCategoria.classList.add('visible');
-
-          ctx3.clearRect(0, 0, lienzoEspectroCategoria.width, lienzoEspectroCategoria.height);
-
-          const { apariciones } = categorias[nombreCategoria];
-
-          if (apariciones && apariciones.length) {
-            ctx3.fillStyle = color;
-            ctx3.globalAlpha = 0.05;
-
-            apariciones.forEach(({ area }) => {
-              ctx3.fillRect(area.x, area.y, area.alto, area.alto);
-            });
-          }
-        };
-
-        elemento.onmouseleave = () => {
-          lienzoEspectros.classList.add('visible');
-          lienzoEspectroCategoria.classList.remove('visible');
-        };
-
-        categorias[nombreCategoria] = { contador, apariciones: [] };
-      } else {
-        categoria.contador.innerText = `${categoria.apariciones.length + 1}`;
+      // Despertar la categoría si es la primera vez
+      if (datos.apariciones.length === 0) {
+        datos.elemento.classList.remove('fantasma');
+        datos.elemento.classList.add('detectada');
       }
 
-      categorias[nombreCategoria].apariciones.push({ tiempo, area, confianza });
-    },
-
-    apariciones: () => {
-      return categorias.apariciones;
+      datos.apariciones.push({ tiempo, area, confianza });
+      datos.contador.innerText = `${datos.apariciones.length}`;
     },
   };
 }

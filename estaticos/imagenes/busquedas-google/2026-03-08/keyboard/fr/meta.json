@@ -1,0 +1,71 @@
+{
+  "categoria": "keyboard",
+  "categoriaSlug": "keyboard",
+  "idioma": "fr",
+  "nombreIdioma": "Français",
+  "termino": "clavier",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:23:38.324Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "fr",
+    "gl": "be"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=clavier&hl=fr&gl=be",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/keyboard/fr/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcinuSI5fZLOqCW2fCAhBl5ha1iaaFhpQ1yg&s",
+      "fuentePagina": "https://www.u-buy.be/fr/productde/ICW7VEJE8-wired-keyboard-pc-keyboard-usb-business-slim-keyboard-with-cable-for-computer-laptop-mac-windows-macos-qwertz-german-layout-black?srsltid=AfmBOoqQF8qRERVMEhjo3ddgPPO46o6wb_QzhiZnLga48nKfomAvW2tS",
+      "titulo": "Clavier filaire Rii Clavier PC USB pour ordinateur Belgium | Ubuy",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcinuSI5fZLOqCW2fCAhBl5ha1iaaFhpQ1yg&s",
+      "original": "https://m.media-amazon.com/images/I/618ObUwH5gL._AC_SL1500_.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/keyboard/fr/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQC6GbipaCFoWDKZ7TeIRhScj_1VogqlOzBPQ&s",
+      "fuentePagina": "https://geemarc.com/fr/product/clavier-pc/",
+      "titulo": "Clavier PC - Noir - Geemarc France",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQC6GbipaCFoWDKZ7TeIRhScj_1VogqlOzBPQ&s",
+      "original": "https://geemarc.com/fr/wp-content/uploads/sites/3/2018/06/2019KBSV3_BLK_Fr01-1024x675.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/keyboard/fr/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdHzUM7dhpySjvdXf6oM9CGqbU_4fCmKolfg&s",
+      "fuentePagina": "https://cours-informatique-gratuit.fr/cours/presentation-clavier/",
+      "titulo": "Présentation d'un clavier — Xyoos",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdHzUM7dhpySjvdXf6oM9CGqbU_4fCmKolfg&s",
+      "original": "https://cours-informatique-gratuit.fr/wp-content/uploads/2014/05/clavier-1-1200x485.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/keyboard/fr/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5QsiVoBxVBfTJbufmL1IplUG3MjRLkAl1Xg&s",
+      "fuentePagina": "https://www.pearl.be/article/KT8426/clavier-usb-azerty-avec-pave-numerique-ideal-pour-pc-mac-et-bureautique?srsltid=AfmBOoqqBecZyO5oAILT2h2smMk417K3xQZI8ScK_auOaYt0j6xLc0Z_",
+      "titulo": "Clavier USB AZERTY | Claviers filaires | Pearl.be",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5QsiVoBxVBfTJbufmL1IplUG3MjRLkAl1Xg&s",
+      "original": "https://content.pearl.be/media/cache/default/article_ultralarge_high_nocrop/shared/images/articles/K/KT8/clavier-usb-standard-avec-clavier-numerique-ref_KT8426_2.jpg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/keyboard/fr/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_WL8FrX2fyiVQwvyYF9jAyg48IEaCBj_AAg&s",
+      "fuentePagina": "https://www.ldlc.com/fr-be/fiche/PB00633285.html",
+      "titulo": "Spirit of Gamer Xpert-K50 Noir",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_WL8FrX2fyiVQwvyYF9jAyg48IEaCBj_AAg&s",
+      "original": "https://media.ldlc.com/r1600/ld/products/00/06/16/43/LD0006164388.jpg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/keyboard/fr/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTz0_elxJC3bEzFyNDEqfnWhlisY3GbjmfaQ&s",
+      "fuentePagina": "https://www.keyouest.fr/product/clavier-sans-fil-office-noir/",
+      "titulo": "Clavier sans fil OFFICE noir - KeyOuest",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTz0_elxJC3bEzFyNDEqfnWhlisY3GbjmfaQ&s",
+      "original": "https://www.keyouest.fr/wp-content/uploads/2020/10/clavier-circle-sans-fil.png"
+    }
+  ]
+}

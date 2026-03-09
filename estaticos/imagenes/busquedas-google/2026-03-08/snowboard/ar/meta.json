@@ -1,0 +1,71 @@
+{
+  "categoria": "snowboard",
+  "categoriaSlug": "snowboard",
+  "idioma": "ar",
+  "nombreIdioma": "العربية",
+  "termino": "لوح التزلج على الجليد",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:00:57.187Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "ar",
+    "gl": "eg"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=%D9%84%D9%88%D8%AD%20%D8%A7%D9%84%D8%AA%D8%B2%D9%84%D8%AC%20%D8%B9%D9%84%D9%89%20%D8%A7%D9%84%D8%AC%D9%84%D9%8A%D8%AF&hl=ar&gl=eg",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/snowboard/ar/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTC_lF4QpqrZvmR8lZ_OyzsgxnrQCckJ7KS-Q&s",
+      "fuentePagina": "https://ar.cheapsnowgear.com/products/dutrieux-snowboard-for-beginners",
+      "titulo": "لوح التزلج على الجليد للأطفال من DUTRIEUX للمبتدئين - معدات ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTC_lF4QpqrZvmR8lZ_OyzsgxnrQCckJ7KS-Q&s",
+      "original": "https://www.cheapsnowgear.com/cdn/shop/files/S3eb4a0dedc3b41ef8f7ce8b45ef85b848.webp?v=1734725649"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/snowboard/ar/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZxaH1NbENTzNEV-WdqbafokQXuX4PWtGrkQ&s",
+      "fuentePagina": "https://www.rrarabia.com/ar/%D8%A3%D9%81%D8%B6%D9%84-%D8%A3%D9%84%D9%88%D8%A7%D8%AD-%D8%A7%D9%84%D8%AA%D8%B2%D9%84%D8%AC-%D8%B9%D9%84%D9%89-%D8%A7%D9%84%D8%AC%D9%84%D9%8A%D8%AF",
+      "titulo": "Robb Report",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZxaH1NbENTzNEV-WdqbafokQXuX4PWtGrkQ&s",
+      "original": "https://www.rrarabia.com/sites/default/files/styles/landscape_inner_w800/public/2024-02/All-Mountain--%20TRS%20CS3%20-%20Credit%20Evo%20.png"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/snowboard/ar/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9qlUI90Sc3rXCSMDEwqUn4KYsX9zTKpiH9Q&s",
+      "fuentePagina": "https://www.amazon.eg/%D8%B1%D9%88%D9%85%D8%A7-%D9%84%D9%88%D8%AD-%D8%A7%D9%84%D8%AA%D8%B2%D9%84%D8%AC-%D8%A7%D9%84%D8%AC%D9%84%D9%8A%D8%AF-%D8%A7%D9%84%D9%88%D8%B7%D9%86%D9%8A/dp/B07SCG6NB4",
+      "titulo": "روما لوح التزلج على الجليد الوطني- 154 : Amazon.eg ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9qlUI90Sc3rXCSMDEwqUn4KYsX9zTKpiH9Q&s",
+      "original": "https://m.media-amazon.com/images/I/716OVI-AhxL._AC_UF894,1000_QL80_.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/snowboard/ar/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRH3EiQ1D90tC_0HJUhW0nLzf8fhr3eR6325A&s",
+      "fuentePagina": "https://www.amazon.eg/%D8%AA%D8%B2%D9%84%D8%AC-%D8%A7%D9%84%D8%AC%D9%84%D9%8A%D8%AF-%D9%85%D9%82%D8%A7%D8%B3-81-28-%D8%B4%D8%A7%D8%AD%D9%86%D8%A9/dp/B07KMX859X",
+      "titulo": "لوح تزلج على الجليد مقاس 81.28 سم مع شاحنة نحت من فلو ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRH3EiQ1D90tC_0HJUhW0nLzf8fhr3eR6325A&s",
+      "original": "https://m.media-amazon.com/images/I/61LArYfPvVL._AC_UF894,1000_QL80_.jpg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/snowboard/ar/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSV2-7TDi9ImT4dGDlTVmX-oYxrDcEIjrun2Q&s",
+      "fuentePagina": "https://www.albayan.ae/balsam/safety/2013-07-26-1.1930351",
+      "titulo": "نصائح للسلامة قبل التزلج على الجليد",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSV2-7TDi9ImT4dGDlTVmX-oYxrDcEIjrun2Q&s",
+      "original": "https://www.albayan.ae/assets/archives/images/2013/07/26/1930358.jpg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/snowboard/ar/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2DDGg4yF8u452U97BThSn9T7f_UQwd4NaMQ&s",
+      "fuentePagina": "https://www.youm7.com/story/2015/1/11/%D8%A8%D8%A7%D9%84%D9%81%D9%8A%D8%AF%D9%8A%D9%88-%D8%AC%D9%87%D8%A7%D8%B2-%D8%AC%D8%AF%D9%8A%D8%AF-%D9%84%D9%84%D8%AA%D8%B2%D9%84%D8%AC-%D8%B9%D9%84%D9%89-%D8%A7%D9%84%D8%AC%D9%84%D9%8A%D8%AF-%D9%83%D8%A7%D9%84%D9%85%D8%AD%D8%AA%D8%B1%D9%81%D9%8A%D9%86/2021995",
+      "titulo": "بالفيديو.. جهاز جديد للتزلج على الجليد كالمحترفين - اليوم السابع",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2DDGg4yF8u452U97BThSn9T7f_UQwd4NaMQ&s",
+      "original": "https://img.youm7.com/large/120151105225.jpg"
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "categoria": "apple",
+  "categoriaSlug": "apple",
+  "idioma": "rw",
+  "nombreIdioma": "Kinyarwanda",
+  "termino": "iaporo",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:11:18.357Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "en",
+    "gl": "rw"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=iaporo&hl=en&gl=rw",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/apple/rw/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRv1FMWdpsH9JTNI_YqownejWWGM2Q_nHrNZA&s",
+      "fuentePagina": "https://www.facebook.com/groups/851251745904151/posts/1622952185400766/",
+      "titulo": "NuwaraEliya Api",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRv1FMWdpsH9JTNI_YqownejWWGM2Q_nHrNZA&s",
+      "original": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=781525381639809"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/apple/rw/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCChlEoJ_DkNzp0LbTIpvoGoC_6npTB5AVIw&s",
+      "fuentePagina": "https://www.kigalitoday.com/imikino/football/article/rayon-sports-itsinze-apr-fc-yegukana-igikombe-cy-amahoro-amafoto",
+      "titulo": "Rayon Sports itsinze APR FC yegukana Igikombe cy'Amahoro ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCChlEoJ_DkNzp0LbTIpvoGoC_6npTB5AVIw&s",
+      "original": "https://www.kigalitoday.com/IMG/jpg/onana-13.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/apple/rw/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVCSVWqbdd2nnYSNfWqBKpPzz8QWaV9eMSBw&s",
+      "fuentePagina": "https://imvahonshya.co.rw/igikombe-cyamahoro-apr-fc-yatsinze-gasogi-united-itera-intambwe-igana-muri-%C2%BD/",
+      "titulo": "Igikombe cy'Amahoro: APR FC yatsinze Gasogi United, itera ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVCSVWqbdd2nnYSNfWqBKpPzz8QWaV9eMSBw&s",
+      "original": "https://imvahonshya.co.rw/wp-content/uploads/2025/02/WhatsApp-Image-2025-02-27-at-21.33.04_dc1fce85-1024x1024.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/apple/rw/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgyRVHDC5viZwvS4BjIBWtOphfoYdvauC8og&s",
+      "fuentePagina": "https://www.kalofagas.ca/2010/11/02/an-evening-with-stelios-boutaris-at-malena/",
+      "titulo": "An Evening With Stelios Boutaris at Malena | Kalofagas.ca",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgyRVHDC5viZwvS4BjIBWtOphfoYdvauC8og&s",
+      "original": "https://i0.wp.com/kalofagas.ca/wp-content/uploads/2010/11/20101102_img_0820_1.jpg?ssl=1"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/apple/rw/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuOPMWm2Fmf1ni-PPNPM3ES2WBYRQ9B3Devw&s",
+      "fuentePagina": "https://www.reb.gov.rw/news-detail/siporo-n-umuco-mu-mashuri-ni-igisubizo-cyo-kubona-impano-nshya-mu-mikino-itandukanye-mu-rwanda",
+      "titulo": "SIPORO N' UMUCO MU MASHURI NI IGISUBIZO CYO KUBONA IMPANO ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuOPMWm2Fmf1ni-PPNPM3ES2WBYRQ9B3Devw&s",
+      "original": "https://www.reb.gov.rw/fileadmin/_processed_/9/4/csm_siporo3_47ab1c6e35.jpg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/apple/rw/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTV6IYyYvBSyUTnFkfa6CkOk9FpUE5AXbG5Sg&s",
+      "fuentePagina": "https://www.reb.gov.rw/news-detail/siporo-n-umuco-mu-mashuri-ni-igisubizo-cyo-kubona-impano-nshya-mu-mikino-itandukanye-mu-rwanda",
+      "titulo": "SIPORO N' UMUCO MU MASHURI NI IGISUBIZO CYO KUBONA IMPANO ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTV6IYyYvBSyUTnFkfa6CkOk9FpUE5AXbG5Sg&s",
+      "original": "https://www.reb.gov.rw/fileadmin/_processed_/5/b/csm_siporo16_8060a2547c.jpg"
+    }
+  ]
+}

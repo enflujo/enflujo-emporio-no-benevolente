@@ -1,0 +1,71 @@
+{
+  "categoria": "sandwich",
+  "categoriaSlug": "sandwich",
+  "idioma": "zh",
+  "nombreIdioma": "中文",
+  "termino": "三明治",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:12:23.438Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "zh-CN",
+    "gl": "cn"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=%E4%B8%89%E6%98%8E%E6%B2%BB&hl=zh-CN&gl=cn",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/sandwich/zh/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGW2WdXW9RfQ4V4_bO1zAiHWsCL98geOyP_Q&s",
+      "fuentePagina": "https://www.gcores.com/articles/194501",
+      "titulo": "什么是三明治？美国版的甜咸之争，但更加魔幻| 机核GCORES",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGW2WdXW9RfQ4V4_bO1zAiHWsCL98geOyP_Q&s",
+      "original": "https://image.gcores.com/ddb965eb4e4dde9048c048ce6872b6b2-3000-2000.jpg?x-oss-process=image/resize,limit_1,m_lfit,w_3000,h_5250/quality,q_90/format,webp"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/sandwich/zh/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUYLjRV1TCoaiCLHqvhhkC2MDFbFTr9pfYNw&s",
+      "fuentePagina": "https://www.ytower.com.tw/recipe/iframe-recipe.asp?seq=C01-0708&srsltid=AfmBOooCzoyAyBLEdB7ozuuhQ0qPA-U7UOEpvO_Ym0WsHE-nUBdxHGJK",
+      "titulo": "【食譜】招牌火腿蛋三明治:www.ytower.com.tw",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUYLjRV1TCoaiCLHqvhhkC2MDFbFTr9pfYNw&s",
+      "original": "https://d3l76hx23vw40a.cloudfront.net/recipe/bk209-016.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/sandwich/zh/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRA-mrT-MRuvKtNaU531tIWVSMC9g2BYWyxaA&s",
+      "fuentePagina": "https://blog.cookpad.com/tw/world-sandwich/",
+      "titulo": "世界三明治大賞：12 款經典三明治你吃過幾種？",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRA-mrT-MRuvKtNaU531tIWVSMC9g2BYWyxaA&s",
+      "original": "https://global-blog.cpcdn.com/tw/2025/08/-----.jpeg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/sandwich/zh/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAs97Me2-EXFd-5GPjcPiKByWTP9EW6GiVLQ&s",
+      "fuentePagina": "https://www.ytower.com.tw/recipe/iframe-recipe.asp?seq=A02-1679&srsltid=AfmBOorAIyNmV-Fcla7jnjWL4AGffT3pcHHD5TMM698tk--tnVdgswP6",
+      "titulo": "【食譜】豬排三明治:www.ytower.com.tw",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAs97Me2-EXFd-5GPjcPiKByWTP9EW6GiVLQ&s",
+      "original": "https://d3l76hx23vw40a.cloudfront.net/recipe/bk144-044.jpg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/sandwich/zh/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGOgaTrr-5szndVpDfjcm2FKWXJ5hwrJOD9Q&s",
+      "fuentePagina": "https://www.ytower.com.tw/recipe/iframe-recipe.asp?seq=H02-1133&srsltid=AfmBOopF1o878ng74m6oqE9JwfeaLfvuFZZdBcME2eMGdRXoZQ74Wuvn",
+      "titulo": "【食譜】總匯三明治(5):www.ytower.com.tw",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGOgaTrr-5szndVpDfjcm2FKWXJ5hwrJOD9Q&s",
+      "original": "https://d3l76hx23vw40a.cloudfront.net/recipe/ck50-013.jpg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/sandwich/zh/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJQNPNAJ5UwErR0q1JA0xIoWOc0XER3LRT-A&s",
+      "fuentePagina": "https://xbyolive.com/shi-pu/san-ming-zhi-zuo-fa/",
+      "titulo": "办公室食谱：3种美味三明治做法",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJQNPNAJ5UwErR0q1JA0xIoWOc0XER3LRT-A&s",
+      "original": "https://xbyolive.com/sites/default/files/_zhongguo/shi-pu/img_062_10i.jpg"
+    }
+  ]
+}

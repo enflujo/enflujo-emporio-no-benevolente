@@ -1,0 +1,71 @@
+{
+  "categoria": "car",
+  "categoriaSlug": "car",
+  "idioma": "yo",
+  "nombreIdioma": "Yorùbá",
+  "termino": "ọkọ̀ ayọkẹlẹ",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T20:41:52.213Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "yo",
+    "gl": "ng"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=%E1%BB%8Dk%E1%BB%8D%CC%80%20ay%E1%BB%8Dk%E1%BA%B9l%E1%BA%B9&hl=yo&gl=ng",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/car/yo/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLDMRY4oX3-2dVO76v8lTzukafpbxQntVqew&s",
+      "fuentePagina": "https://www.ansixtech.com/yo/car-center-console-parts-mould-for-automotive-1/",
+      "titulo": "Ile-iṣẹ ọkọ ayọkẹlẹ China Awọn ẹya ara ẹrọ Mould fun ọkọ ayọkẹlẹ",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLDMRY4oX3-2dVO76v8lTzukafpbxQntVqew&s",
+      "original": "https://ecdn6.globalso.com/upload/p/936/image_other/2025-11/car-center-console-parts-mould-for-automotive-1-2.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/car/yo/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQURyzsgNsTeEeFciuvAxnZ-o23rCqGr9ZQUA&s",
+      "fuentePagina": "https://www.facebook.com/ewulayetv.yoruba/posts/%C3%ACy%C3%A1%C3%A0fin-yeyeluwa-khadijat-modup%E1%BA%B9%E1%BB%8Dla-sanni-adeleke-%E1%BA%B9%CC%80gb%E1%BB%8D%CC%81n-g%C3%B3m%C3%ACn%C3%A0-%C3%ACp%C3%ADnl%E1%BA%B9%CC%80-%E1%BB%8Dsun-f%C3%BA/4326053574383477/",
+      "titulo": "Ìyáàfin Yeyeluwa Khadijat Modupẹọla Sanni Adeleke, Ẹ̀gbọ́n ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQURyzsgNsTeEeFciuvAxnZ-o23rCqGr9ZQUA&s",
+      "original": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=4326053537716814"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/car/yo/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrxEB_VlNIbR5nn5KyrRSb03lc4XGbIavVqw&s",
+      "fuentePagina": "https://www.bbc.com/yoruba/articles/cjwn6edyq6lo",
+      "titulo": "Wo ọkọ̀ ayọ́kẹ́lẹ́ tó wa ara rẹ̀ lọ sílé olówó rẹ̀ lẹ́yìn tó ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrxEB_VlNIbR5nn5KyrRSb03lc4XGbIavVqw&s",
+      "original": "https://ichef.bbci.co.uk/ace/ws/640/cpsprodpb/d65f/live/309ba8b0-57ff-11f0-960d-e9f1088a89fe.png.webp"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/car/yo/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcgUmcsGL-N1kmqsc2tMCp09GUVDJotHa2CQ&s",
+      "fuentePagina": "https://www.crawlerundercarriage.com/yo/37-tons-transport-vehicle-customized-tracked-undercarriage-with-hydraulic-motor-product/",
+      "titulo": "Ọkọ̀ akẹ́rù ọkọ̀ ayọ́kẹ́lẹ́ China 37 tons tí a ṣe àtúnṣe sí ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcgUmcsGL-N1kmqsc2tMCp09GUVDJotHa2CQ&s",
+      "original": "https://www.crawlerundercarriage.com/uploads/SJ3700B-track-undercarriage-for-transport-vehicle-2.jpg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/car/yo/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCRDDiHeZv8bVwaAX8AQn9osBKR43DY0YkTg&s",
+      "fuentePagina": "https://www.facebook.com/ewulayetv.yoruba/posts/%C3%ACr%C3%B2y%C3%ACn-al%C3%A1%C3%A0fin-til%E1%BA%B9-%E1%BB%8Dy%E1%BB%8D-oba-abimbola-akeem-owoade-i-p%C3%ADn-%E1%BA%B9%CC%80b%C3%B9n-%E1%BB%8Dk%E1%BB%8D%CC%80-ay%E1%BB%8Dk%E1%BA%B9l%E1%BA%B9-f%C3%BAn-%C3%A0/4239976562991179/",
+      "titulo": "ÌRÒYÌN: Aláàfin tilẹ Ọyọ, Oba Abimbola Akeem Owoade I, pín ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCRDDiHeZv8bVwaAX8AQn9osBKR43DY0YkTg&s",
+      "original": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=4239976382991197"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/car/yo/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkMvxuqEtWDnXjm2gqaivEwmNAGAHEpXJqZQ&s",
+      "fuentePagina": "https://www.bbc.com/yoruba/articles/cz4pl8l9e0lo",
+      "titulo": "Àrabárà ọkọ̀ ayọ́kẹ́lẹ́ rèé tí wọn yóò fí gbé Ọba Charles kẹ́ta lásìkò  ìwúyè rẹ̀",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkMvxuqEtWDnXjm2gqaivEwmNAGAHEpXJqZQ&s",
+      "original": "https://ichef.bbci.co.uk/ace/ws/640/cpsprodpb/2c2d/live/14171ca0-eb0b-11ed-a142-ab0e42bfd9c3.jpg.webp"
+    }
+  ]
+}

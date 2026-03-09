@@ -1,0 +1,71 @@
+{
+  "categoria": "refrigerator",
+  "categoriaSlug": "refrigerator",
+  "idioma": "zu",
+  "nombreIdioma": "isiZulu",
+  "termino": "ifiriji",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:27:41.030Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "zu",
+    "gl": "za"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=ifiriji&hl=zu&gl=za",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/refrigerator/zu/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGGSTnF_aX6HWcX70SUydP_4mpcGOLQs19Rg&s",
+      "fuentePagina": "https://www.facebook.com/groups/marachikhusisi/posts/10161610553738305/",
+      "titulo": "Ifiriji ino niyisiri mungo mwenyewe Kinga mukhono akulu.",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGGSTnF_aX6HWcX70SUydP_4mpcGOLQs19Rg&s",
+      "original": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=1424019935645481"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/refrigerator/zu/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0y6VRoPSUfuA5MjRQYMLl76MeJEB1wVUDCg&s",
+      "fuentePagina": "https://x.com/bosskimhucci/status/1917992219807449452",
+      "titulo": "Mu Zimbabwe hamuna “baby lets netflix and chill”, boys ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0y6VRoPSUfuA5MjRQYMLl76MeJEB1wVUDCg&s",
+      "original": "https://pbs.twimg.com/media/Gp4TwnsXkAApC5o.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/refrigerator/zu/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzLGQW2okEM6fzQ0npbiSclSsw6jVU577p4g&s",
+      "fuentePagina": "https://www.colkuint.com/yo/high-reputation-portable-dc-1224v-auto-freezer-refrigerator-mini-car-fridge-26l-with-wheels-for-camping-product/",
+      "titulo": "OEM Original Factory Car firiji Compressor firiji ita ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzLGQW2okEM6fzQ0npbiSclSsw6jVU577p4g&s",
+      "original": "https://ecdn6.globalso.com/upload/p/622/source/2024-04/660bb30096d8292881.png"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/refrigerator/zu/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtLFHwO-RkC6aUtGMEzQUpYl7ftmJVywyc-w&s",
+      "fuentePagina": "https://www.facebook.com/tarirocleo.chirenje.9/photos/woti-washanyira-asahwira-vako-vokurarisa-pasingle-bed-yakaomarara-paunomuka-mang/3189061807900657/",
+      "titulo": "Mwana WaMoffat NaFlo - Woti washanyira asahwira vako ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtLFHwO-RkC6aUtGMEzQUpYl7ftmJVywyc-w&s",
+      "original": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=3189061807900657"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/refrigerator/zu/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlEE5aM-rqma86VTh8mVpUVnCePfqr3B7gdA&s",
+      "fuentePagina": "https://www.nenwell.com/yo/news/the-difference-between-pharmacy-refrigerator-and-household-refrigerator/",
+      "titulo": "Kini Iyatọ Laarin Ifiriji Ile elegbogi ati Firiji Ìdílé",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlEE5aM-rqma86VTh8mVpUVnCePfqr3B7gdA&s",
+      "original": "https://www.nenwell.com/uploads/difference-between-medical-refrigerator-and-household-refrigerator.jpg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/refrigerator/zu/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShmErK2EDewJSJo42g0DmIBlwFOa59KKz5HA&s",
+      "fuentePagina": "https://www.colkuint.com/yo/high-reputation-portable-dc-1224v-auto-freezer-refrigerator-mini-car-fridge-26l-with-wheels-for-camping-product/",
+      "titulo": "OEM Original Factory Car firiji Compressor firiji ita ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShmErK2EDewJSJo42g0DmIBlwFOa59KKz5HA&s",
+      "original": "https://ecdn6.globalso.com/upload/p/622/source/2024-04/660bb2eed5a7244973.png"
+    }
+  ]
+}

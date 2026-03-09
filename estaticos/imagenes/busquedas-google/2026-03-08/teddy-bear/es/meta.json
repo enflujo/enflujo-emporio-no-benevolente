@@ -1,0 +1,71 @@
+{
+  "categoria": "teddy bear",
+  "categoriaSlug": "teddy-bear",
+  "idioma": "es",
+  "nombreIdioma": "Español",
+  "termino": "oso de peluche",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:31:23.135Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "es",
+    "gl": "es"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=oso%20de%20peluche&hl=es&gl=es",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/teddy-bear/es/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjLHmAaLRJ9m4Aktba3-lna-hoEyYvR0Xlwg&s",
+      "fuentePagina": "https://www.deubaxxl.es/oso-de-peluche-gigante-suave-xxl-marron-150cm/101253/",
+      "titulo": "Oso de peluche gigante suave XXL marrón 150cm",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjLHmAaLRJ9m4Aktba3-lna-hoEyYvR0Xlwg&s",
+      "original": "https://www.deubaxxl.es/media/14/c4/7c/1762512272/01_1_101253_on_fs-m_amz_high_de.jpg?ts=1763388943"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/teddy-bear/es/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcReioJ-KxN5URotlJ_dbYUtbJftIG6a2Y9tDw&s",
+      "fuentePagina": "https://www.mipeluche.es/productos/oso-de-peluche-rosa-bebe-4329/",
+      "titulo": "Oso de Peluche Rosa Bebé",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcReioJ-KxN5URotlJ_dbYUtbJftIG6a2Y9tDw&s",
+      "original": "https://www.mipeluche.es/7221-home_default/oso-de-peluche-rosa-bebe.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/teddy-bear/es/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcSsx7XJq3KB49zUXNA35-Feym4Ps-bVmGkA&s",
+      "fuentePagina": "https://floresinternet.es/producto/oso-i-love-you/",
+      "titulo": "Oso I Love You - Flores internet",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcSsx7XJq3KB49zUXNA35-Feym4Ps-bVmGkA&s",
+      "original": "https://floresinternet.es/wp-content/uploads/2025/01/peluche-amor-love-osito-regalo-barcelona-floristeria-flors-floreria-florist.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/teddy-bear/es/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpNNXBCXEuGJZb00Ofe_wW_0dXT483xCVrww&s",
+      "fuentePagina": "https://bacidangelo-shop.com/producto/peluche-oso-blanco-extrasuave-22-cm/",
+      "titulo": "Peluche - Oso Blanco extrasuave 22 cm",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpNNXBCXEuGJZb00Ofe_wW_0dXT483xCVrww&s",
+      "original": "https://i0.wp.com/bacidangelo-shop.com/wp-content/uploads/2025/02/14-2.png?resize=800%2C1000&ssl=1"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/teddy-bear/es/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3vZTZ0y31kflrvSZKlDr4ocJTBpUzUWRyDg&s",
+      "fuentePagina": "https://www.theprestigerosesmadrid.es/products/oso-de-peluche-the-prestige-roses-espana?srsltid=AfmBOop-AlTKjqglc1ok6yGfZSQW3sbtawziNhi3dk6YJ5g13-wi92FK",
+      "titulo": "Comprar Oso de Peluche con rosas en madrid a domicilio en floristería lujo-  The Prestige Roses España",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3vZTZ0y31kflrvSZKlDr4ocJTBpUzUWRyDg&s",
+      "original": "http://www.theprestigerosesmadrid.es/cdn/shop/files/FEEBCBFA-A2CB-4F4B-8C7C-D0CE32154FD5.jpg?v=1696182724"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/teddy-bear/es/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3NR1bGsSVK-B9ywS7nhoZTZw1g_zKW4kj5w&s",
+      "fuentePagina": "https://www.regalooriginal.com/osito-peluche-gris-personalizado-corazon.html",
+      "titulo": "Osito de Peluche Personalizado con Corazón - Regalo Original",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3NR1bGsSVK-B9ywS7nhoZTZw1g_zKW4kj5w&s",
+      "original": "https://aicdn.speedsize.com/910565e2-7bde-4aef-b143-60a77dc084e5/https://regalooriginalfiles.blob.core.windows.net/frontend/urls/grande/osito-con-corazon-texto-g.jpg"
+    }
+  ]
+}

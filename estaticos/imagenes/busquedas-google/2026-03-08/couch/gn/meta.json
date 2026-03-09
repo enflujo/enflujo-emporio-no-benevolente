@@ -1,0 +1,71 @@
+{
+  "categoria": "couch",
+  "categoriaSlug": "couch",
+  "idioma": "gn",
+  "nombreIdioma": "Guaraní",
+  "termino": "sofá",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:18:00.541Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "es",
+    "gl": "py"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=sof%C3%A1&hl=es&gl=py",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/couch/gn/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJ9P7gcR5s7Z256zYR0y2SdcpgOjcDcr2OMA&s",
+      "fuentePagina": "https://gohome.com.py/products/sofa-gela-gris-claro?srsltid=AfmBOoq3A9G0_SET61zWYcCM4eyBQvdvGpZZmbni1R0nrm3riteg82um",
+      "titulo": "Sofá Gela Convertible - D05 Gris – Go Home - Tienda de ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJ9P7gcR5s7Z256zYR0y2SdcpgOjcDcr2OMA&s",
+      "original": "https://gohome.com.py/cdn/shop/files/IMG_3524.jpg?v=1763665823"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/couch/gn/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSMEo95tnIqs0rKGqksxcdn-gY4S_gOcNFdg&s",
+      "fuentePagina": "https://gohome.com.py/products/sofa-albana-beige-p-72?srsltid=AfmBOoq7CUDXvjDkSko9fNtjT3qXImuU1XI-mb4pS7iYh1s2VqfAm633",
+      "titulo": "Sofá Albana - D01 Beige – Go Home - Tienda de muebles en ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSMEo95tnIqs0rKGqksxcdn-gY4S_gOcNFdg&s",
+      "original": "https://gohome.com.py/cdn/shop/files/IMG_3505.jpg?v=1763661315"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/couch/gn/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7CM07vropLyrMAr-AQUgD-UqoydqgP5Wggg&s",
+      "fuentePagina": "https://sleepking.com.py/producto/sofa-3-lugares-mas-puff/?srsltid=AfmBOoqbiDJMEXhFabdftUToAP24hRT8SMeMN9-WCxkLWerlHWCUVqyO",
+      "titulo": "Sofá 3 lugares más puff",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7CM07vropLyrMAr-AQUgD-UqoydqgP5Wggg&s",
+      "original": "https://sleepking.com.py/wp-content/uploads/2024/01/sofa-mas-puff.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/couch/gn/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2QgdTXYc5Xs3X2qUzwP7x4CXNX5cvb4XYXA&s",
+      "fuentePagina": "https://areadesign.com.py/producto/sofa-petunia-4c-beige/",
+      "titulo": "Sofá Petunia 4c beige",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2QgdTXYc5Xs3X2qUzwP7x4CXNX5cvb4XYXA&s",
+      "original": "https://areadesign.com.py/wp-content/uploads/2024/11/MG_6861.jpg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/couch/gn/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSz10ERXx35qF-8Zn1FivjjxFI2yN1pgC549A&s",
+      "fuentePagina": "https://sleepking.com.py/producto/sofa-sofia/?srsltid=AfmBOoobPeL-mUcN1VJlTO-tDPCyytB_FPefNGTgYpdE-Iqf3M5FTg3Y",
+      "titulo": "Sofá Sofia",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSz10ERXx35qF-8Zn1FivjjxFI2yN1pgC549A&s",
+      "original": "https://sleepking.com.py/wp-content/uploads/2024/01/sofa-sofia-rosado.jpg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/couch/gn/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDMfXVsXkv0Vzh6x0T_8xaj8Bzh8ycFk2_SQ&s",
+      "fuentePagina": "https://www.ubuy.com.py/es/product/4QK58WLUW-3-seater-sofa-couch-modern-linen-tufed-upholstered-sofa-with-2-pillows-armrest-design-wooden-tapered-legs-accent-arm-sofas-for-living-room?srsltid=AfmBOooyV5xvlDa_fLUtvdt2VY-znfaIQbpMezG7zslrVzUrhbD0uAwn",
+      "titulo": "Sofá Moderno Sofá de Lino Gris con Diseño de Reposabrazos y Piernas de  Madera | Sofás Tapizados de 3 Plazas para Sala de Estar, Dormitorio, Oficina",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDMfXVsXkv0Vzh6x0T_8xaj8Bzh8ycFk2_SQ&s",
+      "original": "https://i5.walmartimages.com/seo/3-Seater-Sofa-Couch-Modern-Linen-Tufed-Upholstered-2-Pillows-Armrest-Design-Wooden-Tapered-Legs-Accent-Arm-Sofas-Living-Room-Bedroom-Office-Grey_04ec8f14-062d-44d0-9aed-9dac7be853b9.5e2b287cd25bd91421fd9bb39412dbc8.jpeg"
+    }
+  ]
+}

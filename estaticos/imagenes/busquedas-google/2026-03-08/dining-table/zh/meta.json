@@ -1,0 +1,71 @@
+{
+  "categoria": "dining table",
+  "categoriaSlug": "dining-table",
+  "idioma": "zh",
+  "nombreIdioma": "中文",
+  "termino": "餐桌",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:20:06.507Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "zh-CN",
+    "gl": "cn"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=%E9%A4%90%E6%A1%8C&hl=zh-CN&gl=cn",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/dining-table/zh/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTK2Lyk4GS1Blp5KDfm2eo3JQdO3mAmE4K_PA&s",
+      "fuentePagina": "https://www.mountainliving.com.tw/dining-table/o51495",
+      "titulo": "Bok 餐桌- Mountain Living 家具",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTK2Lyk4GS1Blp5KDfm2eo3JQdO3mAmE4K_PA&s",
+      "original": "https://www.mountainliving.com.tw/wp-content/uploads/2018/12/Bok-Dining-Table.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/dining-table/zh/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNezQOEsbso7PrtMpCVj0HKGjA6eA4E_o8vQ&s",
+      "fuentePagina": "https://www.twucm.com/products/full-item/dining-tables/ring-table",
+      "titulo": "好幸福餐桌-有情門設計家具",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNezQOEsbso7PrtMpCVj0HKGjA6eA4E_o8vQ&s",
+      "original": "https://www.twucm.com/uploads/products/64f8573007a02.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/dining-table/zh/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2EM2KCkArVsQjYMLlkDfOWMMwy1muJtdgEg&s",
+      "fuentePagina": "https://www.mugrang.com/products/fa-ta0101?srsltid=AfmBOoq1U58CM6oP7CrdmGQSHB1wH8NlO2HAvu_EdISGN9TfF-IBHw-9",
+      "titulo": "Finn北歐梣木全實木餐桌(可訂製)",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2EM2KCkArVsQjYMLlkDfOWMMwy1muJtdgEg&s",
+      "original": "https://shoplineimg.com/5be56c9e8916930001f4a869/622db3f7c3c5130023c22a2c/800x.jpg?"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/dining-table/zh/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8bVd8chzPElHjSU9sxlyw-vp4sb2K5yGdmQ&s",
+      "fuentePagina": "https://www.in2-home.com/beauty-table",
+      "titulo": "法式美腿餐桌｜純白陶板× 實木腳｜北歐輕奢風優雅設計| in2 home ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8bVd8chzPElHjSU9sxlyw-vp4sb2K5yGdmQ&s",
+      "original": "https://image-cdn-flare.qdm.cloud/q60952c01aebba/image/data/2023/11/09/7739f285a3502adea220429bb7bd8d72.jpg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/dining-table/zh/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtwBNV9TM075ldAxGHsQEpuwBFAFUEHIDSKA&s",
+      "fuentePagina": "https://www.mugrang.com/products/ma-ta0004?srsltid=AfmBOopFdTCmQdzIygbt88PmncBpkPrqKOnSYO4lLIkGYvd-haG_gd_5",
+      "titulo": "台灣製-北歐簡約俐落斜腳實木餐桌|可訂製",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtwBNV9TM075ldAxGHsQEpuwBFAFUEHIDSKA&s",
+      "original": "https://shoplineimg.com/5be56c9e8916930001f4a869/656306721b37140017854637/800x.jpg?"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/dining-table/zh/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3yIVZo1-NVKZc5hl-jX3p7iQZX9ihDXYWfg&s",
+      "fuentePagina": "https://www.momoshop.com.tw/goods/GoodsDetail.jsp?i_code=12348184&srsltid=AfmBOopiv_D9X_Yt4sqa_2BACxm568ZaBrxdYW2X9IvGde_Mal3tDzQe",
+      "titulo": "Taoshop 淘家舖】日式全實木餐桌現代簡約原木餐桌橡木小戶型 ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3yIVZo1-NVKZc5hl-jX3p7iQZX9ihDXYWfg&s",
+      "original": "https://i3.momoshop.com.tw/1715663038/goodsimg/0012/348/184/12348184_O_m.webp"
+    }
+  ]
+}

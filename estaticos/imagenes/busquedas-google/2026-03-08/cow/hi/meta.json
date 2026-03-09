@@ -1,0 +1,71 @@
+{
+  "categoria": "cow",
+  "categoriaSlug": "cow",
+  "idioma": "hi",
+  "nombreIdioma": "हिन्दी",
+  "termino": "गाय",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T20:53:13.662Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "hi",
+    "gl": "in"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=%E0%A4%97%E0%A4%BE%E0%A4%AF&hl=hi&gl=in",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/cow/hi/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXjhgBDzzGZpfE5A2wyuboziyFhiNd_Ne8HA&s",
+      "fuentePagina": "https://www.agriarbor.com/2021/08/gaay-ke-laabh-aur-upayog-ke-anusaar-best-gaay.html",
+      "titulo": "गाय के लाभ और उपयोग के अनुसार ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXjhgBDzzGZpfE5A2wyuboziyFhiNd_Ne8HA&s",
+      "original": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiwZI91VJ2EOR6NFVVZrc6X3EVv3M3QKuYjDk8LgS5o46eNIU4Acl-70DIBxMLJxoD0_UV3c2r0My7NbmLXoB-hKAjhinlSZM2q1ooBJFhkF3T3lHPVXs_VZIYRc-TlYPhU7KMcABnmycmkYxI4cvgLBZRIxsW8SXr6XAPF4RLM_A-zArgiXMR8mioXEw/s900/hf%20cow.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/cow/hi/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIu-x3H5PnMvqMo3Bs8CLnzFwjZ5c0_rw0rQ&s",
+      "fuentePagina": "https://www.amazon.in/-/hi/%E0%A4%A8%E0%A4%BE%E0%A4%AF%E0%A4%B2%E0%A5%89%E0%A4%A8-%E0%A4%B0%E0%A4%B8%E0%A5%8D%E0%A4%B8%E0%A5%80-%E0%A4%AA%E0%A4%9F%E0%A5%8D%E0%A4%9F%E0%A4%BE-%E0%A4%98%E0%A5%81%E0%A4%82%E0%A4%97%E0%A4%B0%E0%A5%82-%E0%A4%AE%E0%A4%BE%E0%A4%B0%E0%A5%8D%E0%A4%9F%E0%A4%BF%E0%A4%82%E0%A4%97%E0%A5%87%E0%A4%B2/dp/B0C3RDFG84?s=bazaar",
+      "titulo": "गाय/भैंस/बुल लगाम नायलॉन रस्सी ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIu-x3H5PnMvqMo3Bs8CLnzFwjZ5c0_rw0rQ&s",
+      "original": "https://m.media-amazon.com/images/I/71eV-rvPnIL._AC_UF1000,1000_QL80_.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/cow/hi/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDUldAmVSFSxXkAb-IydnaRaM9ucEaRM1Bhw&s",
+      "fuentePagina": "https://raghunandansureshgaushala.com/indian-breed/hariana/",
+      "titulo": "हरियाणवी प्रजाति",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDUldAmVSFSxXkAb-IydnaRaM9ucEaRM1Bhw&s",
+      "original": "https://raghunandansureshgaushala.com/wp-content/uploads/2021/11/Hariana.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/cow/hi/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvEqaTJ1v3YodSfqTSJBfwEibnbtM7AUHDrQ&s",
+      "fuentePagina": "https://hargauseva.gov.in/hi/gallery/%E0%A4%B8%E0%A4%BE%E0%A4%B9%E0%A4%BF%E0%A4%B5%E0%A4%BE%E0%A4%B2-%E0%A4%97%E0%A4%BE%E0%A4%AF/",
+      "titulo": "साहिवाल गाय | हरियाणा गौ सेवा ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvEqaTJ1v3YodSfqTSJBfwEibnbtM7AUHDrQ&s",
+      "original": "https://cdnbbsr.s3waas.gov.in/s3a5a61717dddc3501cfdf7a4e22d7dbaa/uploads/2020/09/2020091812-1024x680.jpg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/cow/hi/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUEjhsU4zEtHzfbNOQixUe5UZ_eMgazunumA&s",
+      "fuentePagina": "https://animalsss.com/Blog/88/%E0%A4%97%E0%A4%AF-%E0%A4%AE-%E0%A4%B9%E0%A4%A8-%E0%A4%B5%E0%A4%B2-%E0%A4%B0%E0%A4%97",
+      "titulo": "गाय मैं होने वाले रोग | Animals Super Store",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUEjhsU4zEtHzfbNOQixUe5UZ_eMgazunumA&s",
+      "original": "https://animalsss.com/media/Blog_NISGRPD"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/cow/hi/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrFvc7RuAccFkfxPMn3AD5nZ-XTQsIBiFkyA&s",
+      "fuentePagina": "https://refitanimalcare.com/blog/punganur-cow-chhota-size-bada-price/",
+      "titulo": "पुंगनूर गाय: छोटा साइज, बड़ा ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrFvc7RuAccFkfxPMn3AD5nZ-XTQsIBiFkyA&s",
+      "original": "https://refitanimalcare.com/wp-content/uploads/2024/11/punganur-cow.webp"
+    }
+  ]
+}

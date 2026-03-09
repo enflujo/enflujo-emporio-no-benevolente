@@ -1,0 +1,71 @@
+{
+  "categoria": "train",
+  "categoriaSlug": "train",
+  "idioma": "ha",
+  "nombreIdioma": "Hausa",
+  "termino": "jirgin ƙasa",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T20:44:27.658Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "ha",
+    "gl": "ng"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=jirgin%20%C6%99asa&hl=ha&gl=ng",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/train/ha/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7IDNP0Hxia6XttqcpbEOESbKyK9KeBI7USg&s",
+      "fuentePagina": "https://aminiya.ng/an-fara-jigilar-fasinjoji-a-jirgin-kasa-a-garin-bauchi/",
+      "titulo": "An fara jigilar fasinjoji a jirgin kasa a garin Bauchi - Aminiya",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7IDNP0Hxia6XttqcpbEOESbKyK9KeBI7USg&s",
+      "original": "https://aminiya.ng/wp-content/uploads/2021/10/246961341_1555067281520941_5176942400983316595_n.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/train/ha/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1Sd9I8gKXgdo9VVQnZzNMy5-GBLkzZd0oSQ&s",
+      "fuentePagina": "https://www.bbc.com/hausa/rahotanni-60918004",
+      "titulo": "Harin da aka kai wa jirgin ƙasa a hanyar Abuja-Kaduna ya ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1Sd9I8gKXgdo9VVQnZzNMy5-GBLkzZd0oSQ&s",
+      "original": "https://ichef.bbci.co.uk/ace/ws/640/cpsprodpb/11AE8/production/_123942427_b18dc0ec-b9d0-4ad8-80e6-eb531f37b0e7.jpg.webp"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/train/ha/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgzuML4DxJDpJufhReg-FQDvT9heI-fJhhKA&s",
+      "fuentePagina": "https://www.rfi.fr/ha/najeriya/20220329-an-kashe-tare-da-sace-mutane-yayin-harin-jirgin-%C6%99asa-a-hanyar-abuja-zuwa-kaduna",
+      "titulo": "An kashe tare da sace mutane yayin harin jirgin ƙasa a ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgzuML4DxJDpJufhReg-FQDvT9heI-fJhhKA&s",
+      "original": "https://s.rfi.fr/media/display/02fb006e-16d7-11ea-8115-005056bf7c53/w:1280/p:16x9/train-kaduna_0.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/train/ha/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_XPUPBYApPEpC_QkaGDOupMmRI8xcEYPumg&s",
+      "fuentePagina": "https://www.bbc.com/hausa/articles/cy8je45x1q4o",
+      "titulo": "Hotunan hatsarin jirgin ƙasan Abuja zuwa Kaduna - BBC News Hausa",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_XPUPBYApPEpC_QkaGDOupMmRI8xcEYPumg&s",
+      "original": "https://ichef.bbci.co.uk/ace/ws/640/cpsprodpb/eb83/live/8d7c33e0-82a4-11f0-a21f-a946aea0c353.jpg.webp"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/train/ha/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjmjUkvjlFlBiNOpAXhK8y_oCNNPUxgc4CRA&s",
+      "fuentePagina": "https://www.bbc.com/hausa/articles/cy8je45x1q4o",
+      "titulo": "Hotunan hatsarin jirgin ƙasan Abuja zuwa Kaduna - BBC News Hausa",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjmjUkvjlFlBiNOpAXhK8y_oCNNPUxgc4CRA&s",
+      "original": "https://ichef.bbci.co.uk/ace/ws/640/cpsprodpb/f219/live/bea61c10-82a4-11f0-a21f-a946aea0c353.jpg.webp"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/train/ha/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsqhkCjP_7DkxXNhxH2xtgJGo-v6bl-e1xhQ&s",
+      "fuentePagina": "https://www.rfi.fr/ha/najeriya/20250927-za-a-ci-gaba-da-jigilar-fasinjan-abuja-zuwa-kaduna-a-makon-gobe-hukumar-nrc",
+      "titulo": "Za a ci gaba da jigilar fasinjan Abuja zuwa Kaduna a makon ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsqhkCjP_7DkxXNhxH2xtgJGo-v6bl-e1xhQ&s",
+      "original": "https://s.rfi.fr/media/display/11aa93ba-8286-11f0-8c65-005056a97e36/w:1024/p:16x9/ABUJA-KADUNA-TRAIN-1.jpeg"
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "categoria": "chair",
+  "categoriaSlug": "chair",
+  "idioma": "yo",
+  "nombreIdioma": "Yorùbá",
+  "termino": "ìtẹ́lẹ̀",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:17:04.954Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "yo",
+    "gl": "ng"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=%C3%ACt%E1%BA%B9%CC%81l%E1%BA%B9%CC%80&hl=yo&gl=ng",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/chair/yo/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTABXMF81UJev-z5VkGEvfU1B_aclqKzFa8og&s",
+      "fuentePagina": "https://open.spotify.com/track/1zCNpo3Xlpwe0q6CgAckAh",
+      "titulo": "Ìtẹ́lẹ̀ Ọba - Live - song and lyrics by K1 De Ultimate | Spotify",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTABXMF81UJev-z5VkGEvfU1B_aclqKzFa8og&s",
+      "original": "https://i.scdn.co/image/ab67616d00001e02e0360d75eb44b90bb193f52b"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/chair/yo/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbeOpYNidwMzTxpB1EfJJfEJv6hWVB23C-UQ&s",
+      "fuentePagina": "https://www.facebook.com/onitpress/posts/t%C3%AD-yor%C3%B9b%C3%A1-b%C3%A1-pe-a%E1%B9%A3%E1%BB%8D-kan-n%C3%AD-%C3%ACt%C3%A9%CC%A3l%C3%A8%CC%A3-%C3%A0p%C3%B3t%C3%AD%E1%BA%B9-gb%C3%B3%CC%A3-k%C3%ADl%C3%B3-t%C3%BAm%C3%B2%CC%A3-s%C3%AC%C3%AD/122171377250390360/",
+      "titulo": "Tí Yorùbá bá pe aṣọ kan ní ìtẹ́lẹ̀ àpótí Ẹ gbọ́, kíló túmọ̀ sìí?",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbeOpYNidwMzTxpB1EfJJfEJv6hWVB23C-UQ&s",
+      "original": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=122171377190390360"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/chair/yo/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkOplFJpVJY8YNKpPTE2aa1HA8zROf7iyNwA&s",
+      "fuentePagina": "https://www.instagram.com/p/DSdXAFtkYAI/",
+      "titulo": "Ọmọ Ìsàlẹ̀ Èkó, ọmọ ilẹ̀ Ọba 👑 Ẹ̀gbá ọmọ alágbára, ọmọ ilẹ̀ ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkOplFJpVJY8YNKpPTE2aa1HA8zROf7iyNwA&s",
+      "original": "https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3791287612863530182"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/chair/yo/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGwyMo94EzLi842ssgmmVzRWHIVHpKrBAoew&s",
+      "fuentePagina": "https://www.facebook.com/100075945100451/posts/%E1%BB%8Dj%E1%BB%8D%CC%81-%C3%A0b%C3%A1m%E1%BA%B9%CC%81ta-%E1%BB%8Dj%E1%BB%8D%CC%81-31-o%E1%B9%A3%C3%B9-k%C3%AC%C3%ADn%C3%AD%C3%ACt%E1%BA%B9%CC%81l%E1%BA%B9%CC%80-filemonu-11725k%C3%B3k%C3%B3-i%E1%B9%A3%E1%BA%B9%CC%81-%C3%ACt%C3%BAnb%C3%A1%E1%B9%A3%E1%BA%B9%CC%80p%E1%BB%8D%CC%80-%C3%AClaj/913127581228737/",
+      "titulo": "ỌJỌ́ ÀBÁMẸ́TA, ỌJỌ́ 31 OṢÙ KÌÍNÍ ÌTẸ́LẸ̀: FILEMONU 1:17–25 ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGwyMo94EzLi842ssgmmVzRWHIVHpKrBAoew&s",
+      "original": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=913127541228741"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/chair/yo/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-x4OJbFeP4QtaOg4Y6EL5MkGqanMLHgbFeA&s",
+      "fuentePagina": "https://www.instagram.com/p/DSdXAFtkYAI/",
+      "titulo": "Ọmọ Ìsàlẹ̀ Èkó, ọmọ ilẹ̀ Ọba 👑 Ẹ̀gbá ọmọ alágbára, ọmọ ilẹ̀ ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-x4OJbFeP4QtaOg4Y6EL5MkGqanMLHgbFeA&s",
+      "original": "https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3791287612846718149"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/chair/yo/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZn2ZSl0L45RvxiJqZreDhkDMXL6UmdPeENw&s",
+      "fuentePagina": "https://nigeriatvinfo.com/yo/iroyin/3014-itele-sultan-salaye-pe-ojo-weside-ni-ojo-akoko-ramadan-ni-naijiria",
+      "titulo": "ÌTẸ́LẸ̀: Sultan Ṣàlàyé Pé Ọjọ́ Wẹ́sídẹ̀ Ní Ọjọ́ Àkọ́kọ́ ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZn2ZSl0L45RvxiJqZreDhkDMXL6UmdPeENw&s",
+      "original": "https://nigeriatvinfo.com/img_uploaded_news/3014_ngimage.jpg"
+    }
+  ]
+}

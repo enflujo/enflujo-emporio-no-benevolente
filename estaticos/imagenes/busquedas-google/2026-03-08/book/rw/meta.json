@@ -1,0 +1,71 @@
+{
+  "categoria": "book",
+  "categoriaSlug": "book",
+  "idioma": "rw",
+  "nombreIdioma": "Kinyarwanda",
+  "termino": "igitabo",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:28:05.704Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "en",
+    "gl": "rw"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=igitabo&hl=en&gl=rw",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/book/rw/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPDkDSCWx6G5tEN3_hgyA0Op0_fQr6zb4e2g&s",
+      "fuentePagina": "https://play.google.com/store/apps/details?id=igitabo.cyindirimboza350",
+      "titulo": "Igitabo cy'indirimbo za 500 - Apps on Google Play",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPDkDSCWx6G5tEN3_hgyA0Op0_fQr6zb4e2g&s",
+      "original": "https://play-lh.googleusercontent.com/AMYzwRbQe2NyfVDaYu7cR8wp49rP3bXZXemJeL9o0c1XIEXaADPTzrUZlmDJk6cvKUo"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/book/rw/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXm3myIkOMopFqRxXiQu-Z_hX-S_nNiCx7yg&s",
+      "fuentePagina": "https://murukali.com/products/igitabo-cyamasengesho?srsltid=AfmBOoompZMWwmX10dTE1N5YAaHCISTtX-jpQcWFJFbSPP5onrxOFm67",
+      "titulo": "IGITABO Cy'Amasengesho - Murukali.com",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXm3myIkOMopFqRxXiQu-Z_hX-S_nNiCx7yg&s",
+      "original": "https://murukali.com/cdn/shop/files/IGITABO-Cy_Amasengesho-Murukali.com-56184224_grande.jpg?v=1752690213"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/book/rw/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGs2OY9IN0_imNlX5JFyiV9yZmrxUuY-oqng&s",
+      "fuentePagina": "https://sgnyakinama1school.librarika.com/search/detail/5786840",
+      "titulo": "Librarika: Imibare: Igitabo cy'umunyeshuri, umwaka wa 2 w ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGs2OY9IN0_imNlX5JFyiV9yZmrxUuY-oqng&s",
+      "original": "https://ae85df921b92073b52e8-a126a45a4c59e90797d94cd877fbe744.ssl.cf3.rackcdn.com/books/cover/uc-5f92ae8a45310.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/book/rw/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMVwZJ-v5fYMWyEuRPmmmX8vriwj5LaQmP0Q&s",
+      "fuentePagina": "https://sgnyakinama1school.librarika.com/search/detail/5786798",
+      "titulo": "Librarika: Igitabo k'Imyitozo y'Imibare",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMVwZJ-v5fYMWyEuRPmmmX8vriwj5LaQmP0Q&s",
+      "original": "https://ae85df921b92073b52e8-a126a45a4c59e90797d94cd877fbe744.ssl.cf3.rackcdn.com/books/cover/uc-5f92a92dc3b92.jpg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/book/rw/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTM82cgzH0OMmtxHgktzhRCw8AC2wyGkK7XDw&s",
+      "fuentePagina": "https://igicumbi.com/ibitabo-10-abantu-bakuru-bakwiriye-gusoma-muri-uyu-mwaka-2024/",
+      "titulo": "Ibitabo 10 abantu bakuru bakwiriye gusoma muri uyu mwaka ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTM82cgzH0OMmtxHgktzhRCw8AC2wyGkK7XDw&s",
+      "original": "https://igicumbi.com/wp-content/uploads/2024/02/steven-igitabo.jpg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/book/rw/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1Lkagq5apVDUp4E3GCZhdMvLDuR5_8ep_VA&s",
+      "fuentePagina": "https://migro.co.rw/product/igitabo-cyumunyeshuri-cyi-ikinyarwanda",
+      "titulo": "igitabo cyumunyeshuri cyi ikinyarwanda | MIGRO Online Shop ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1Lkagq5apVDUp4E3GCZhdMvLDuR5_8ep_VA&s",
+      "original": "https://migro.co.rw/app/upload/images/3840-2024-09-08.jfif"
+    }
+  ]
+}

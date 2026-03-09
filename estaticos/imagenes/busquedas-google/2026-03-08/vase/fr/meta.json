@@ -1,0 +1,71 @@
+{
+  "categoria": "vase",
+  "categoriaSlug": "vase",
+  "idioma": "fr",
+  "nombreIdioma": "Français",
+  "termino": "vase",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:29:34.671Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "fr",
+    "gl": "be"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=vase&hl=fr&gl=be",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/vase/fr/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTD7y7ixt4wVv9aP_r53fXSpwHmlggsQthXDg&s",
+      "fuentePagina": "https://www.nextdirect.com/be/fr/style/st735056/732297",
+      "titulo": "Acheter Joli vase à fleurs en céramique à fleurs from Next ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTD7y7ixt4wVv9aP_r53fXSpwHmlggsQthXDg&s",
+      "original": "https://xcdn.next.co.uk/common/items/default/default/itemimages/3_4Ratio/product/lge/732297s.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/vase/fr/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQk9sjFIEij02VY-90QqsjHepqd_gc_qZNglQ&s",
+      "fuentePagina": "https://www.livingdesign.be/fr/vases-en-ceramique-hk-living.html?srsltid=AfmBOop-F61D6bf0z0PXxYy2bul_ZZaNNk_EEZ7MFTyFgRaX9cLZUl_S",
+      "titulo": "Vases en céramique HK Living - Livingdesign",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQk9sjFIEij02VY-90QqsjHepqd_gc_qZNglQ&s",
+      "original": "https://cdn.webshopapp.com/shops/244132/files/492081486/700x700x1/hkliving-vases-en-ceramique-hk-living.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/vase/fr/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-XQ_-0VeBQ14cZDek-0Yb8FqfpG4XzDSwAg&s",
+      "fuentePagina": "https://derutaitaly.com/ceramic-love-birds-flower-vase/?srsltid=AfmBOoq--iK5dx8dWG4MRlG_FOCe5blHS7nlHgo20vJqablr1SAkPp2Q",
+      "titulo": "Ceramic Flower Vase | Love Birds Pattern | Mod Ceramics",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-XQ_-0VeBQ14cZDek-0Yb8FqfpG4XzDSwAg&s",
+      "original": "https://cdn11.bigcommerce.com/s-ukqi7wk1fh/images/stencil/1280x1280/products/1311/6650/Original-Deruta-Pottery-Vase-Love-Birds__23403.1749810812.jpg?c=2"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/vase/fr/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1FoddhnCV8V0WMmDLXiOCI4sI8lkCzr7Mtg&s",
+      "fuentePagina": "https://www.pewabic.org/products/small-classic-vase?srsltid=AfmBOor4Vzf5wWz13zbiGJb83Nct68t8uxonxIl3rC6IgMccpIzXh9Jv",
+      "titulo": "Small Classic Vase – Pewabic Pottery",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1FoddhnCV8V0WMmDLXiOCI4sI8lkCzr7Mtg&s",
+      "original": "http://www.pewabic.org/cdn/shop/files/EEBerger_Pewabic_March25_209_small_classic_vase_pewabic_blue.jpg?v=1762374831"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/vase/fr/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyC-kjnvyJ497Kt8WsyQovkk0E-X0z5ZtuOg&s",
+      "fuentePagina": "https://www.nextdirect.com/be/fr/style/st472400/k94101",
+      "titulo": "Confetti Glass Flower Vase",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyC-kjnvyJ497Kt8WsyQovkk0E-X0z5ZtuOg&s",
+      "original": "https://xcdn.next.co.uk/common/items/default/default/itemimages/3_4Ratio/product/lge/K94101s.jpg?im=Resize,width=750"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/vase/fr/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSX2EVZT9dSiNn7_795laxeo03Fme1H03wsqw&s",
+      "fuentePagina": "https://www.amazon.com.be/PORCER-c%C3%A9ramique-rustique-d%C3%A9coration-dint%C3%A9rieur/dp/B0CKBQMFYF",
+      "titulo": "PORCER Vase en céramique rustique de 24 cm avec poignée pour décoration  d'intérieur de style bohème idéal pour le salon, l’entrée ou un mariage  Design ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSX2EVZT9dSiNn7_795laxeo03Fme1H03wsqw&s",
+      "original": "https://m.media-amazon.com/images/I/916jqCudJ7L.jpg"
+    }
+  ]
+}

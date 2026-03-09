@@ -1,0 +1,71 @@
+{
+  "categoria": "cat",
+  "categoriaSlug": "cat",
+  "idioma": "en",
+  "nombreIdioma": "English",
+  "termino": "cat",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T20:50:13.361Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "en",
+    "gl": "us"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=cat&hl=en&gl=us",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/cat/en/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzTojBf4VJCGR4Z-QxG-7GozKDuWjCst6z6Q&s",
+      "fuentePagina": "https://www.nationalgeographic.com/animals/mammals/facts/domestic-cat",
+      "titulo": "Domestic cat | National Geographic",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzTojBf4VJCGR4Z-QxG-7GozKDuWjCst6z6Q&s",
+      "original": "https://i.natgeofe.com/n/548467d8-c5f1-4551-9f58-6817a8d2c45e/NationalGeographic_2572187_16x9.jpg?w=1200"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/cat/en/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT74p0-GFNquBzzGLN9SazH22Wrus46aPPqYQ&s",
+      "fuentePagina": "https://en.wikipedia.org/wiki/Tabby_cat",
+      "titulo": "Tabby cat - Wikipedia",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT74p0-GFNquBzzGLN9SazH22Wrus46aPPqYQ&s",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Cat_November_2010-1a.jpg/960px-Cat_November_2010-1a.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/cat/en/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfW0rOyWkv0OqfwFuljuVldoXEj5VitoWK5w&s",
+      "fuentePagina": "https://www.britannica.com/animal/cat",
+      "titulo": "Cat | Breeds, Origins, History, Body Types, Senses, Behavior ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfW0rOyWkv0OqfwFuljuVldoXEj5VitoWK5w&s",
+      "original": "https://cdn.britannica.com/34/235834-050-C5843610/two-different-breeds-of-cats-side-by-side-outdoors-in-the-garden.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/cat/en/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSv6nO9fpuBsE9lD7bUwZnwrqmfADhPp06bg&s",
+      "fuentePagina": "https://www.lollypop.org/animals/cats/",
+      "titulo": "Lollypop Farm",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSv6nO9fpuBsE9lD7bUwZnwrqmfADhPp06bg&s",
+      "original": "https://new-s3.shelterluv.com/profile-pictures/85982e892a3d69a9df56c963971597b9/2bf4fffdb3ca1fffb4225d938e3c7843.jpeg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/cat/en/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxMMWd08C5AE2EXAyUKJ_5SLvDntWHayN0uA&s",
+      "fuentePagina": "https://www.hphhfoundation.org/blog/origin-of-cats",
+      "titulo": "The Origins of Cats | Cat History & Facts — HappyPawsHappyHearts",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxMMWd08C5AE2EXAyUKJ_5SLvDntWHayN0uA&s",
+      "original": "https://images.squarespace-cdn.com/content/v1/607f89e638219e13eee71b1e/1684821560422-SD5V37BAG28BURTLIXUQ/michael-sum-LEpfefQf4rU-unsplash.jpg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/cat/en/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5QfGgjjibb5W0NDluj-omHbMri5cG0DlmXA&s",
+      "fuentePagina": "https://www.omlet.us/guide/cats/what-is-a-cat/",
+      "titulo": "What Is A Cat? | Cats | Guide | Omlet US",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5QfGgjjibb5W0NDluj-omHbMri5cG0DlmXA&s",
+      "original": "https://cdn.omlet.com/images/originals/breed_abyssinian_cat.jpg"
+    }
+  ]
+}

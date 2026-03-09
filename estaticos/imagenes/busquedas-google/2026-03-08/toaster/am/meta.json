@@ -1,0 +1,71 @@
+{
+  "categoria": "toaster",
+  "categoriaSlug": "toaster",
+  "idioma": "am",
+  "nombreIdioma": "Amharic — አማርኛ",
+  "termino": "ቶስተር",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:26:22.950Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "am",
+    "gl": "et"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=%E1%89%B6%E1%88%B5%E1%89%B0%E1%88%AD&hl=am&gl=et",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/toaster/am/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0PE8BIcNEH89aOfvQV37_RZ7fStBfFqcTQw&s",
+      "fuentePagina": "http://am.3calves.com/toaster/",
+      "titulo": "ቶስተር አቅራቢ - የጅምላ ቶስተር ላኪ",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0PE8BIcNEH89aOfvQV37_RZ7fStBfFqcTQw&s",
+      "original": "http://cdn.globalso.com/3calves/2121-300x300.png"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/toaster/am/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUHDFTt87g5dTyKFw99AHiI139rFRD9hhInw&s",
+      "fuentePagina": "https://www.fresproequip.com/am/product/toaster-oven/",
+      "titulo": "ቶስተር ምድጃ",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUHDFTt87g5dTyKFw99AHiI139rFRD9hhInw&s",
+      "original": "https://www.fresproequip.com/wp-content/uploads/2023/04/ft-03a-1.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/toaster/am/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4-9axB6Aj95ukCDwVm0gjNQTuHRimtFsWgA&s",
+      "fuentePagina": "http://am.3calves.com/2-slice-toaster-2022-best-long-slot-toaster-t826-toaster-oven-manufacturers-product/",
+      "titulo": "የጅምላ 2 ቁራጭ ቶስተር 2022 ምርጥ ረጅም ማስገቢያ ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4-9axB6Aj95ukCDwVm0gjNQTuHRimtFsWgA&s",
+      "original": "http://cdn.globalso.com/3calves/img-13-300x300.png"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/toaster/am/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrLLPd5ToVs0D9m8WLB280omAUg9bcXLA-KA&s",
+      "fuentePagina": "https://www.zsqeelin.com/am/factory-price-automatic-bread-toasters-machine-product/",
+      "titulo": "ብጁ የፋብሪካ ዋጋ አውቶማቲክ የዳቦ ቶስተር ማሽን ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrLLPd5ToVs0D9m8WLB280omAUg9bcXLA-KA&s",
+      "original": "https://ecdn6.globalso.com/upload/p/2097/image_product/2024-07/electric-toaster-2.JPG"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/toaster/am/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTaEqG6tG8AnajMcLC05FAj0nC3_w5IchcXsg&s",
+      "fuentePagina": "https://manuals.plus/am/tag/toaster/page/48",
+      "titulo": "የቶስተር ማኑዋሎች / የመረጃ ቋቶች / መመሪያዎች ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTaEqG6tG8AnajMcLC05FAj0nC3_w5IchcXsg&s",
+      "original": "https://manuals.plus/wp-content/uploads/2023/07/H-Koenig-tos-7-2-Slice-Toaster-fig-1-1568x817.jpg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/toaster/am/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVwIAaUoinl2KyTsC6Z8toAa-6rtxSOu66Ug&s",
+      "fuentePagina": "https://am.manuals.plus/wilfa/to-1s-bread-toaster-manual",
+      "titulo": "wilfa TO-1S የዳቦ ቶስተር መመሪያ መመሪያ",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVwIAaUoinl2KyTsC6Z8toAa-6rtxSOu66Ug&s",
+      "original": "https://manuals.plus/wp-content/uploads/2022/03/wilfa-TO-1S-Bread-Toaster.png"
+    }
+  ]
+}

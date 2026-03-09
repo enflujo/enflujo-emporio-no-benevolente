@@ -1,0 +1,71 @@
+{
+  "categoria": "airplane",
+  "categoriaSlug": "airplane",
+  "idioma": "rw",
+  "nombreIdioma": "Kinyarwanda",
+  "termino": "indege",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T20:43:02.049Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "en",
+    "gl": "rw"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=indege&hl=en&gl=rw",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/airplane/rw/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQr_Bpt-N56zSo-ZH1XfIQT_QodeWJZeADBuQ&s",
+      "fuentePagina": "https://www.bbc.com/gahuza/50012332",
+      "titulo": "DR Congo: Indege ya girikare yari itwaye ibikoresho bya ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQr_Bpt-N56zSo-ZH1XfIQT_QodeWJZeADBuQ&s",
+      "original": "http://c.files.bbci.co.uk/B6E3/production/_109191864_antonov72.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/airplane/rw/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfYFZrD7YsznbTDnqXAkDamMBuvJx5cNFsKw&s",
+      "fuentePagina": "https://www.bbc.com/gahuza/articles/c80nkn5g1vlo",
+      "titulo": "Ukraine ivuga ko yakoroye indege ya maneko A-50 igira kabiri ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfYFZrD7YsznbTDnqXAkDamMBuvJx5cNFsKw&s",
+      "original": "https://ichef.bbci.co.uk/ace/ws/640/cpsprodpb/6c6d/live/33c50cd0-d2cb-11ee-8f28-259790e80bba.jpg.webp"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/airplane/rw/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcToYhqsh3BETVr-2JeLaaYfoK_VXUEw9nyEqg&s",
+      "fuentePagina": "https://www.kigalitoday.com/ubukungu/iterambere/RwandAir-igiye-kuzana-indege-za-A330-bwa-mbere-muri-Afurika-y-Uburasirazuba",
+      "titulo": "RwandAir igiye kuzana indege za A330 bwa mbere muri Afurika ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcToYhqsh3BETVr-2JeLaaYfoK_VXUEw9nyEqg&s",
+      "original": "https://www.kigalitoday.com/IMG/jpg/airbus.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/airplane/rw/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPi-0JuVmMqFelgIBhROIL1ZCHa22nP2XCeg&s",
+      "fuentePagina": "https://kigalitoday.com/amakuru/mu-rwanda/article/indege-ya-rwandair-itwara-imizigo-yatangiye-ingendo-i-dubai-na-djibouti",
+      "titulo": "Indege ya RwandAir itwara imizigo yatangiye ingendo i Dubai ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPi-0JuVmMqFelgIBhROIL1ZCHa22nP2XCeg&s",
+      "original": "https://kigalitoday.com/IMG/jpg/indege_ya_rwandair.jpg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/airplane/rw/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOe6VT2rhh5TizS1AIH2eLSKfxgaporOoHvA&s",
+      "fuentePagina": "https://www.facebook.com/igihe/posts/rwandair-ifite-indege-12-zikora-ingendo-mu-byerekezo-29-ku-isi-49-byimigabane-ya/10157975761672114/",
+      "titulo": "RwandAir ifite indege 12 zikora ingendo mu byerekezo 29 ku ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOe6VT2rhh5TizS1AIH2eLSKfxgaporOoHvA&s",
+      "original": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=10157975761672114"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/airplane/rw/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZOS9iFB00NBAy1yQqTcY8NSZdZD3jj3HsfQ&s",
+      "fuentePagina": "https://www.youtube.com/watch?v=X35aXiYvh_Y",
+      "titulo": "Indege ya DRC yo mu bwoko bwa Sukhoi-25 yavogereye u Rwanda ku nshuro ya  gatatu, iza kuraswaho",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZOS9iFB00NBAy1yQqTcY8NSZdZD3jj3HsfQ&s",
+      "original": "https://i.ytimg.com/vi/X35aXiYvh_Y/maxresdefault.jpg"
+    }
+  ]
+}

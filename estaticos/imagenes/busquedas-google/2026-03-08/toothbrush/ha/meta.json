@@ -1,0 +1,71 @@
+{
+  "categoria": "toothbrush",
+  "categoriaSlug": "toothbrush",
+  "idioma": "ha",
+  "nombreIdioma": "Hausa",
+  "termino": "buroshi na haƙori",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:32:24.717Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "ha",
+    "gl": "ng"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=buroshi%20na%20ha%C6%99ori&hl=ha&gl=ng",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/toothbrush/ha/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfKQwBCrO09--c6A2LREkHwMMJIA-iJpQx2g&s",
+      "fuentePagina": "https://www.facebook.com/61575142833647/posts/tambayadrance-wae-burush-%C9%97inma-koya-ake-yi-amsa-eh-tabbas-koya-ake-yi-idan-kuma-/122154608144838094/",
+      "titulo": "TAMBAYA: Dr.Ance Wae burush ɗinma koya ake yi 😂 AMSA: Eh ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfKQwBCrO09--c6A2LREkHwMMJIA-iJpQx2g&s",
+      "original": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=122154608108838094"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/toothbrush/ha/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTsr8sn1CAZ8P46VCw7ifssKe67U41-sGUww&s",
+      "fuentePagina": "https://www.facebook.com/abbas.dikko.binji.2025/posts/yawancin-mutane-suna-amfani-da-buroshin-ha%C6%99ori-mai-taurikarfi-domin-sun-yi-imani/866656616335842/",
+      "titulo": "Yawancin mutane suna amfani da buroshin haƙori mai tauri ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTsr8sn1CAZ8P46VCw7ifssKe67U41-sGUww&s",
+      "original": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=866653709669466"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/toothbrush/ha/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyoFXOiSMBeZyz09Ecz3qmwyVUGZb2xRdoCg&s",
+      "fuentePagina": "https://www.econaike.com/ha/latest-arrival-hot-sale-personalised-custom-pla-cup-100-biodegradable-tooth-brush-cup-product/",
+      "titulo": "China Sabbin shigowa zafi mai siyarwa na musamman pla cup ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyoFXOiSMBeZyz09Ecz3qmwyVUGZb2xRdoCg&s",
+      "original": "https://cdn.globalso.com/econaike/HTB1vAMbXND1gK0jSZFsq6zldVXaELatest-arrival-hot-sale-personalised-custom-pla.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/toothbrush/ha/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSakw0szOPRTHDADdBEZGy08Y_1Gf8VYXIbQ&s",
+      "fuentePagina": "https://ha.tafseer-dreams.com/Brush-goge-a-mafarki/",
+      "titulo": "Tafsirin buroshin hakori a mafarki na Ibn Sirin - Tafsirin ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSakw0szOPRTHDADdBEZGy08Y_1Gf8VYXIbQ&s",
+      "original": "https://tafseer-dreams.com/wp-content/uploads/2022/03/2159978811506352303.jpg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/toothbrush/ha/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROZYv4jU46L-nPYIUy7vKhLl8CxhJmiAW8Mg&s",
+      "fuentePagina": "https://www.facebook.com/100077429306766/posts/dental-plaque-amosanin-ha%C6%99orida-yawan-mutane-suna-fama-da-matsalar-jajayen-ha%C6%99or/867410619183240/",
+      "titulo": "Dental plaque) Amosanin haƙori Da yawan mutane suna fama da ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROZYv4jU46L-nPYIUy7vKhLl8CxhJmiAW8Mg&s",
+      "original": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=867386815852287"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/toothbrush/ha/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRP8QL_v6s2cLEy4Q-NJyO4nkjXiGijG05D9w&s",
+      "fuentePagina": "https://ha.interpret-dreams-online.com/Goga-hakora-a-mafarki-ga-mutum/",
+      "titulo": "Fassarar ganin hakora da aka goge a mafarki ga wani mutum by ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRP8QL_v6s2cLEy4Q-NJyO4nkjXiGijG05D9w&s",
+      "original": "https://interpret-dreams-online.com/wp-content/uploads/2023/04/necpwlhqqol19_article.webp"
+    }
+  ]
+}

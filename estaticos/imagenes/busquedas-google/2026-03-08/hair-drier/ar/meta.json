@@ -1,0 +1,71 @@
+{
+  "categoria": "hair drier",
+  "categoriaSlug": "hair-drier",
+  "idioma": "ar",
+  "nombreIdioma": "العربية",
+  "termino": "مجفف الشعر",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:31:49.248Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "ar",
+    "gl": "eg"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=%D9%85%D8%AC%D9%81%D9%81%20%D8%A7%D9%84%D8%B4%D8%B9%D8%B1&hl=ar&gl=eg",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/hair-drier/ar/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCtTgK28XRDaTUXw8rll2FL4Y4ak5cbLIi3Q&s",
+      "fuentePagina": "https://www.philips.com.eg/ar/c-p/BHD272_00/drycare-pro-hairdryer",
+      "titulo": "DryCare مجفف شعر احترافي BHD272/00 | Philips‎",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCtTgK28XRDaTUXw8rll2FL4Y4ak5cbLIi3Q&s",
+      "original": "https://images.philips.com/is/image/philipsconsumer/af3423720e3744b7870dae7800d85c75?$pnglarge$&wid=1250"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/hair-drier/ar/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRkeNXiHAyknGhS3VFforadYaTl6ChI2kDLA&s",
+      "fuentePagina": "https://www.rushbrush.com/eg-ar/product/d2-pro?srsltid=AfmBOooVeX4azlAhmMU8dS6AkUryda-exZKu-gBeJEm-u3uREsM1VX0g",
+      "titulo": "مجفف الشعر D2 PRO | أحدث سشوار حراري في مصر",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRkeNXiHAyknGhS3VFforadYaTl6ChI2kDLA&s",
+      "original": "https://pub-196088c582454754828181f768f4f8d2.r2.dev/options-images/01J5TFG4DB6C5263Z519V7ZJ5R.png"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/hair-drier/ar/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTPIGWDmxJDwA8frIy3Q_eWS6xQwwIumC8ug&s",
+      "fuentePagina": "https://www.amazon.eg/%D9%85%D8%AC%D9%81%D9%81-%D8%A7%D8%AD%D8%AA%D8%B1%D8%A7%D9%81%D9%8A-%D8%B9%D8%A7%D9%84%D9%8A-%D8%A7%D9%84%D9%82%D9%88%D8%A9-%D8%B3%D9%88%D9%83%D8%A7%D9%86%D9%8A/dp/B0992X7RJT",
+      "titulo": "مجفف شعر احترافي عالي القوة 2200 واط من سوكاني - سرعتان - درجتان تسخين مع  مكثف، أسود، 50 : Amazon.eg: الجمال والعناية الشخصية",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTPIGWDmxJDwA8frIy3Q_eWS6xQwwIumC8ug&s",
+      "original": "https://m.media-amazon.com/images/I/71De7W0U3qL.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/hair-drier/ar/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwnf-0yl35DmTBBasVqcH5CgnL24vnTgm-ag&s",
+      "fuentePagina": "https://www.amazon.eg/%D9%85%D8%AC%D9%81%D9%81-%D8%B4%D8%B9%D8%B1-709-%D9%85%D8%A7%D9%83%D8%B3%D8%8C-%D8%A3%D8%B3%D9%88%D8%AF%D8%8C/dp/B09988T9PR",
+      "titulo": "مجفف شعر 709 - 5000 من ماكس، أسود، 100 واط : Amazon.eg: الجمال والعناية  الشخصية",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwnf-0yl35DmTBBasVqcH5CgnL24vnTgm-ag&s",
+      "original": "https://m.media-amazon.com/images/I/718Gh9mtQrL.jpg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/hair-drier/ar/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQz4cTl8x4KEeHhiye3b_QKzlJ4_OF9QT3C-g&s",
+      "fuentePagina": "https://www.myhommer.com/ly_ar/hair-dryers/1800-watt-hair-dryer/011010017/",
+      "titulo": "مجفف شعر",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQz4cTl8x4KEeHhiye3b_QKzlJ4_OF9QT3C-g&s",
+      "original": "https://cf-cdn.myhommer.com/public/uploads/catalog/product/preview/0/1/011.010.017__1684229715.png"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/hair-drier/ar/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROGcxELfdMrwxysjKSMIWCW04u1y9tmnGIrg&s",
+      "fuentePagina": "https://www.vgrofficial-eg.com/products/vgr-v-462-2200-2600-w-powerful-electric-professional-hair-dryer-black?srsltid=AfmBOoo7C7CGhK-rX2Bg8PjpQEepn-vTtujugb2Fh7PcBZ9EXSLvz2do",
+      "titulo": "مجفف شعر كهربائي احترافي قوي (أسود) VGR V-462 2200–2600 W",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROGcxELfdMrwxysjKSMIWCW04u1y9tmnGIrg&s",
+      "original": "http://www.vgrofficial-eg.com/cdn/shop/files/vgr-v-462-hair-dryer.jpg?v=1755967030"
+    }
+  ]
+}

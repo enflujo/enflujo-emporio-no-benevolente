@@ -1,0 +1,71 @@
+{
+  "categoria": "skis",
+  "categoriaSlug": "skis",
+  "idioma": "ar",
+  "nombreIdioma": "العربية",
+  "termino": "تزلج",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:00:20.916Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "ar",
+    "gl": "eg"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=%D8%AA%D8%B2%D9%84%D8%AC&hl=ar&gl=eg",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/skis/ar/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTleXwRQ9fArs6BTGny0ZUwnQynY05tjjLjqw&s",
+      "fuentePagina": "https://www.snowfeetstore.com/ar/blogs/snowfeet_skiskates_skiboards_snowblades_skiblades_mini_skis_short_skis/skiboards-for-beginners-kickstarting-your-ski-journey?srsltid=AfmBOop7anOyiwiVaq7JzWhf5bw1I8g0qINSnKoKy2ao91KWOOMmPxf3",
+      "titulo": "ألواح التزلج للمبتدئين | بدء رحلتك في التزلج",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTleXwRQ9fArs6BTGny0ZUwnQynY05tjjLjqw&s",
+      "original": "https://www.snowfeetstore.com/cdn/shop/articles/skiboards-for-beginners-kickstarting-your-ski-journey-379045.jpg?v=1730362113&width=1500"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/skis/ar/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTazUVrMpKTIxZ-Lm4hjx8ZxCixtsgn3vzVZw&s",
+      "fuentePagina": "https://www.amazon.eg/%D8%AA%D8%B2%D9%84%D8%AC-%D8%B9%D8%AC%D9%84%D8%A7%D8%AA-%D8%A8%D8%A7%D8%B6%D8%A7%D8%A1%D8%A9-%D9%85%D9%84%D9%88%D9%86%D8%A9-%D9%84%D9%84%D9%85%D8%A8%D8%AA%D8%AF%D8%A6%D9%8A%D9%86/dp/B09NV3W7Y2",
+      "titulo": "لوح تزلج كامل مقاس 22 بوصة مع عجلات باضاءة ليد ملونة ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTazUVrMpKTIxZ-Lm4hjx8ZxCixtsgn3vzVZw&s",
+      "original": "https://m.media-amazon.com/images/I/61cvvdN-dJL.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/skis/ar/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1XaUjL4HNWnfN9SSGvJ3A4dM_rG6NHZmP7g&s",
+      "fuentePagina": "https://www.rrarabia.com/ar/%D8%A3%D9%81%D8%B6%D9%84-%D9%88%D8%AC%D9%87%D8%A7%D8%AA-%D9%84%D9%84%D8%AA%D8%B2%D9%84%D8%AC",
+      "titulo": "Robb Report",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1XaUjL4HNWnfN9SSGvJ3A4dM_rG6NHZmP7g&s",
+      "original": "https://www.rrarabia.com/sites/default/files/styles/main_image_1000_x_548/public/2023-12/main-photo.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/skis/ar/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQt2TL-K9iGUcQLo162hlB3Fri5bLBPs4mHRA&s",
+      "fuentePagina": "https://www.snowfeetstore.com/ar/blogs/snowfeet_skiskates_skiboards_snowblades_skiblades_mini_skis_short_skis/backcountry-and-cross-country-skiing-etiquette-and-rules-of-the-mountains?srsltid=AfmBOorH4u7UVoeBBkZG_cgUgJb__43QGy9a_UuZUkpMtTjwV94cWP5_",
+      "titulo": "دليل آداب التزلج الريفي",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQt2TL-K9iGUcQLo162hlB3Fri5bLBPs4mHRA&s",
+      "original": "https://cdn.shopify.com/s/files/1/0020/8991/0387/files/skiboards_snowblades_skiblades_by_Snowfeet_02-2_1024x1024.jpg?v=1719305827"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/skis/ar/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSphWAwJDCzIi0C4X9QIj5htYqJGglOrknIXg&s",
+      "fuentePagina": "https://www.safaraq.com/ar/turkey/blog/snowboarding-in-antalya",
+      "titulo": "أفضل منتجعات التزلج في أنطاليا | سفرك السياحية",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSphWAwJDCzIi0C4X9QIj5htYqJGglOrknIXg&s",
+      "original": "https://www.imtilakgroup.com/cdn-cgi/image/format=auto,fit=contain,width=1200,height=630/https://imt-assets.fra1.digitaloceanspaces.com/Safaraq/posts/cc0dfb5278da048aa9575aa6e6cd858dQbE_331WXY.jpg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/skis/ar/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTu9DIlRHKVz4iu5xLFd7-QCvx8eBnWw-XwBA&s",
+      "fuentePagina": "https://www.tripadvisor.com.eg/LocationPhotoDirectLink-g298064-d7204741-i193056558-Al_Shaab_Village-Sharjah_Emirate_of_Sharjah.html",
+      "titulo": "Tripadvisor - التزلج ممتع، هل تحب التزلج و ترغب أن تحلق ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTu9DIlRHKVz4iu5xLFd7-QCvx8eBnWw-XwBA&s",
+      "original": "https://media-cdn.tripadvisor.com/media/photo-s/0b/81/cf/2e/skating-is-fun-do-you.jpg"
+    }
+  ]
+}

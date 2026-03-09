@@ -1,0 +1,71 @@
+{
+  "categoria": "apple",
+  "categoriaSlug": "apple",
+  "idioma": "ha",
+  "nombreIdioma": "Hausa",
+  "termino": "apple",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:11:26.531Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "ha",
+    "gl": "ng"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=apple&hl=ha&gl=ng",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/apple/ha/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTS_Db0jJvWe6vYScLksI8qoM2WCeHfJnSBVw&s",
+      "fuentePagina": "https://health.clevelandclinic.org/benefits-of-apples",
+      "titulo": "Are Apples Good for You? 7 Health Benefits",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTS_Db0jJvWe6vYScLksI8qoM2WCeHfJnSBVw&s",
+      "original": "https://assets.clevelandclinic.org/transform/cd71f4bd-81d4-45d8-a450-74df78e4477a/Apples-184940975-770x533-1_jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/apple/ha/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAu2mZ830SD2185RCt26uImF95C7pXFhwXMQ&s",
+      "fuentePagina": "https://www.britannica.com/plant/apple-fruit-and-tree",
+      "titulo": "Apple | Fruit, Types, Nutrition, Cultivation, & Facts ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAu2mZ830SD2185RCt26uImF95C7pXFhwXMQ&s",
+      "original": "https://cdn.britannica.com/22/187222-050-07B17FB6/apples-on-a-tree-branch.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/apple/ha/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ868djAR5mIlAFnnjF---4paarCg48aQTr-g&s",
+      "fuentePagina": "https://afrofoods.com.ng/product/red-apple/",
+      "titulo": "Red Apple",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ868djAR5mIlAFnnjF---4paarCg48aQTr-g&s",
+      "original": "https://afrofoods.com.ng/wp-content/uploads/2024/09/Red-Apple.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/apple/ha/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlkKG0nAyY8F_jWnfYO3mKbyprP_jlMwpv_w&s",
+      "fuentePagina": "https://www.freepik.com/free-photos-vectors/apple-fruits",
+      "titulo": "Apple fruits Images - Free Download on Freepik",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlkKG0nAyY8F_jWnfYO3mKbyprP_jlMwpv_w&s",
+      "original": "https://img.freepik.com/free-psd/close-up-delicious-apple_23-2151868338.jpg?semt=ais_rp_progressive&w=740&q=80"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/apple/ha/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQVbcfX79YQsoUfd2GvfluBqo6PI7I7Ylrow&s",
+      "fuentePagina": "https://www.prevention.com/food-nutrition/g20481875/apple-varieties-and-recipes/",
+      "titulo": "25 Different Types of Apples — Apple Varieties and Their Tastes",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQVbcfX79YQsoUfd2GvfluBqo6PI7I7Ylrow&s",
+      "original": "https://hips.hearstapps.com/hmg-prod/images/apples-at-farmers-market-royalty-free-image-1627321463.jpg?crop=1xw:0.94466xh;center,top&resize=1200:*"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/apple/ha/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjTJaymSaQ5avhSISryJGGyLPF_euPJ4qtog&s",
+      "fuentePagina": "https://www.webmd.com/food-recipes/benefits-apples",
+      "titulo": "Apples: Nutrition and Health Benefits",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjTJaymSaQ5avhSISryJGGyLPF_euPJ4qtog&s",
+      "original": "https://img.lb.wbmdstatic.com/vim/live/webmd/consumer_assets/site_images/articles/health_tools/healing_foods_slideshow/1800ss_getty_rf_apples.jpg?resize=750px:*&output-quality=75"
+    }
+  ]
+}

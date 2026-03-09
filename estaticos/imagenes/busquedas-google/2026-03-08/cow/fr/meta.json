@@ -1,0 +1,71 @@
+{
+  "categoria": "cow",
+  "categoriaSlug": "cow",
+  "idioma": "fr",
+  "nombreIdioma": "Français",
+  "termino": "vache",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T20:53:00.480Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "fr",
+    "gl": "be"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=vache&hl=fr&gl=be",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/cow/fr/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRP1AGXGXMUM3pqGKnV7cf0nwYqfO-RCAmvGw&s",
+      "fuentePagina": "https://fr.wikipedia.org/wiki/Holstein_(race_bovine)",
+      "titulo": "Holstein (race bovine) — Wikipédia",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRP1AGXGXMUM3pqGKnV7cf0nwYqfO-RCAmvGw&s",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/b/b8/Holstein_Cow_in_Mont%C3%A9r%C3%A9gie%2C_Quebec.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/cow/fr/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7p8nMT5e6Ut3FCtkDFhNAiedRx-9kes_DbA&s",
+      "fuentePagina": "https://www.quatre-pattes.org/campagnes-themes/animaux/bovins/10-choses-a-savoir-sur-les-vaches-laitieres",
+      "titulo": "10 choses à savoir sur les vaches laitières - QUATRE PATTES ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7p8nMT5e6Ut3FCtkDFhNAiedRx-9kes_DbA&s",
+      "original": "https://media.4-paws.org/4/9/8/9/49896113ec1edb7553e53df93fec214bfba35e4d/VIER%20PFOTEN_2015-04-27_010-3369x2246-3246x2246-1920x1329.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/cow/fr/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjgo9o1xVLnMcMK1GuM5Xej9ZozY7LHFGKMg&s",
+      "fuentePagina": "https://cowgestion.fr/prenom-vache/",
+      "titulo": "400 idées de prénoms pour ses vaches | Cowgestion",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjgo9o1xVLnMcMK1GuM5Xej9ZozY7LHFGKMg&s",
+      "original": "https://cowgestion.fr/wp-content/uploads/2020/12/prenom-vache.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/cow/fr/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4ttyQqYGcDufxo_RIriByH3MIz0GSOsNjEg&s",
+      "fuentePagina": "https://www.produits-laitiers.com/portrait-de-vache-la-primholstein/",
+      "titulo": "Portrait de vache : la prim'holstein",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4ttyQqYGcDufxo_RIriByH3MIz0GSOsNjEg&s",
+      "original": "https://www.produits-laitiers.com/app/uploads/2019/04/7087_CH_19092010_108.jpg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/cow/fr/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTV_QUBDBlF0o69JCfVPllJQDCv_8JaAL-WMQ&s",
+      "fuentePagina": "https://www.prospecierara.ch/fr/animaux/portraits-de-races/bovins/vache-dhinterwald",
+      "titulo": "Vache d'Hinterwald | ProSpecieRara",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTV_QUBDBlF0o69JCfVPllJQDCv_8JaAL-WMQ&s",
+      "original": "https://cms.prospecierara.ch/assets/website/prospecierara.ch/Tiere/Rassenportraits/Rinder/Hinterwaelder/_1200x696_crop_center-center_none/3740/Hinterwaelder_Rind_ProSpecieRara_100.webp"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/cow/fr/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyM-tnycCGlWp8VN9lnCiduC8mCikWE22oZA&s",
+      "fuentePagina": "https://animaux.fandom.com/fr/wiki/Vache",
+      "titulo": "Vache | Wiki Animaux | Fandom",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyM-tnycCGlWp8VN9lnCiduC8mCikWE22oZA&s",
+      "original": "https://static.wikia.nocookie.net/animaux/images/a/ad/Vache_2.jpg/revision/latest?cb=20140717150637&path-prefix=fr"
+    }
+  ]
+}

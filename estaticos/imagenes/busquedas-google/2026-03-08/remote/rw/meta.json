@@ -1,0 +1,71 @@
+{
+  "categoria": "remote",
+  "categoriaSlug": "remote",
+  "idioma": "rw",
+  "nombreIdioma": "Kinyarwanda",
+  "termino": "telecomande",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:22:56.463Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "en",
+    "gl": "rw"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=telecomande&hl=en&gl=rw",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/remote/rw/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVpOV0gpGZTn7yBrMnp-0ODad54vo-TulVLg&s",
+      "fuentePagina": "https://geemarc.com/fr/product/tv1/",
+      "titulo": "TV1 - Geemarc France",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVpOV0gpGZTn7yBrMnp-0ODad54vo-TulVLg&s",
+      "original": "https://geemarc.com/fr/wp-content/uploads/sites/3/2022/06/TV1_1_bold-scaled.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/remote/rw/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuzFE2qM_EoRRbzEmCHlV4uGQy6fJFDxvwZQ&s",
+      "fuentePagina": "https://www.schneiderconsumer.com/fr/produit/telecommande-universelle-noire-3085/",
+      "titulo": "Télécommande universelle noire - 3085",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuzFE2qM_EoRRbzEmCHlV4uGQy6fJFDxvwZQ&s",
+      "original": "https://www.schneiderconsumer.com/app/uploads/2018/08/3085_FAHD.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/remote/rw/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGfVlEgKFxTwsteXQo8HP8DA9msyqUtdI4jg&s",
+      "fuentePagina": "https://fr.smarttech-tv.com/product/telecommande-non-connectee/",
+      "titulo": "Smart tech Télécommande de remplacement pour TV non ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGfVlEgKFxTwsteXQo8HP8DA9msyqUtdI4jg&s",
+      "original": "https://fr.smarttech-tv.com/wp-content/uploads/2024/01/Remote-control-for-non-smart-tv-509-scaled.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/remote/rw/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvSbhYiYJ0r7Pj7xVMPGFoJu_ONYTnfo51dQ&s",
+      "fuentePagina": "https://www.rueducommerce.fr/p/m24073874290.html",
+      "titulo": "Linq Télécommande universelle pour TV Samsung - Noir ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvSbhYiYJ0r7Pj7xVMPGFoJu_ONYTnfo51dQ&s",
+      "original": "https://media.rueducommerce.fr/mktp/product/productImage/3/179/c1c9e4f5f3cb487ebab2ce3081e0ce14.webp"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/remote/rw/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ167yJrgklPWObuUtyjJTVyFWfYAx-nbzQ9Q&s",
+      "fuentePagina": "https://www.meliconi.fr/produit/tlc07-pour-tv-grandin-et-saba/",
+      "titulo": "TLC07+ - (GRANDIN,SABA) - 808028 - Meliconi",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ167yJrgklPWObuUtyjJTVyFWfYAx-nbzQ9Q&s",
+      "original": "https://www.meliconi.fr/wp-content/uploads/2024/02/808028_1.png"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/remote/rw/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJPk1ePiTiHdm-OxzUyBGsY-f3g9MYCzsjPw&s",
+      "fuentePagina": "https://www.allotelecommande.com/samsung/telecommande-samsung-aa59-00741a/",
+      "titulo": "SAMSUNG AA59-00741A - Télécommande au Meilleur Prix",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJPk1ePiTiHdm-OxzUyBGsY-f3g9MYCzsjPw&s",
+      "original": "https://www.allotelecommande.com/wp-content/uploads/2016/10/telecommande-samsung-AA59-00741A.jpeg"
+    }
+  ]
+}

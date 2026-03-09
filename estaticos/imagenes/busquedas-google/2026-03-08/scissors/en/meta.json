@@ -1,0 +1,16 @@
+{
+  "categoria": "scissors",
+  "categoriaSlug": "scissors",
+  "idioma": "en",
+  "nombreIdioma": "English",
+  "termino": "scissors",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:30:07.419Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "en",
+    "gl": "us"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=scissors&hl=en&gl=us",
+  "imagenes": []
+}

@@ -1,0 +1,71 @@
+{
+  "categoria": "keyboard",
+  "categoriaSlug": "keyboard",
+  "idioma": "zu",
+  "nombreIdioma": "isiZulu",
+  "termino": "ikhhibhodi",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:23:45.559Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "zu",
+    "gl": "za"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=ikhhibhodi&hl=zu&gl=za",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/keyboard/zu/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnk0nj-LN-HiuDPmjGxzzk0NSfJIPHqXRWNA&s",
+      "fuentePagina": "https://www.expeditionsubsahara.com/blogs/news/the-khoikhoi-of-south-africa?srsltid=AfmBOooVJUs9zVgAzZaR8BftmM-bhKMPMBD7Q8rBbpXZ4mgFy5k6goZU",
+      "titulo": "The Khoikhoi of South Africa – Expedition Subsahara",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnk0nj-LN-HiuDPmjGxzzk0NSfJIPHqXRWNA&s",
+      "original": "https://www.expeditionsubsahara.com/cdn/shop/collections/ES_April_Product_24_1500x.jpg?v=1675127968"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/keyboard/zu/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQp4bGgCo4xTGGUnypRkDFjswk3ikYzGSjCKA&s",
+      "fuentePagina": "https://www.youtube.com/watch?v=vfQGUimdz78",
+      "titulo": "Brewing Tradition: Unveiling the Secrets of Isigodokhaya (Umqombothi)",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQp4bGgCo4xTGGUnypRkDFjswk3ikYzGSjCKA&s",
+      "original": "https://i.ytimg.com/vi/vfQGUimdz78/maxresdefault.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/keyboard/zu/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5evLaxupTF51YL7WJUEt8INnv7qjI2-nZYg&s",
+      "fuentePagina": "https://www.youtube.com/watch?v=H7_ibR1EHpA",
+      "titulo": "Oskido, KingTone SA & Scotts Maphuma - Iqhude [Official Audio]",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5evLaxupTF51YL7WJUEt8INnv7qjI2-nZYg&s",
+      "original": "https://i.ytimg.com/vi/H7_ibR1EHpA/maxresdefault.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/keyboard/zu/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0uLreGsX2sbFErTEgYisWafxr4M6K0CcFRw&s",
+      "fuentePagina": "https://www.expeditionsubsahara.com/blogs/news/the-khoikhoi-of-south-africa?srsltid=AfmBOordakcUkf1bCVS0A14Ae1bnFjcAfBRyKGTiRabPWjXNn-HCUesW",
+      "titulo": "The Khoikhoi of South Africa – Expedition Subsahara",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0uLreGsX2sbFErTEgYisWafxr4M6K0CcFRw&s",
+      "original": "https://www.expeditionsubsahara.com/cdn/shop/articles/africa-bushmen_jpg_600x600_crop_center.webp?v=1676672292"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/keyboard/zu/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgR0vV5aMQwAFtgCDIFBcL_yYBlcstvJWviw&s",
+      "fuentePagina": "https://www.youtube.com/watch?v=R5bhibvjKvA",
+      "titulo": "Mnqobi Yazo - iQhude (Official Audio) (feat. Olefied Khetha)",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgR0vV5aMQwAFtgCDIFBcL_yYBlcstvJWviw&s",
+      "original": "https://i.ytimg.com/vi/R5bhibvjKvA/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGGUgYCgyMA8=&rs=AOn4CLAk1Ghs-wdXZGiDiJHMCPcs4BKy3Q"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/keyboard/zu/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMxkKDOJKoHfTWwAssUkB3iW06PJu34t3PXA&s",
+      "fuentePagina": "https://isolezwe.co.za/ezemidlalo/ezinye-ezemidlalo/2024-06-19-unontshinga-ovikela-ibhande-akayesabi-nhlobo-imbangi-yakhe/",
+      "titulo": "UNontshinga ovikela ibhande akayesabi nhlobo imbangi yakhe",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMxkKDOJKoHfTWwAssUkB3iW06PJu34t3PXA&s",
+      "original": "https://iol-prod.appspot.com/image/c8689b42375a41fe29d30979a4162e2110457f5c"
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "categoria": "toaster",
+  "categoriaSlug": "toaster",
+  "idioma": "hi",
+  "nombreIdioma": "हिन्दी",
+  "termino": "टोस्टर",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:26:29.165Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "hi",
+    "gl": "in"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=%E0%A4%9F%E0%A5%8B%E0%A4%B8%E0%A5%8D%E0%A4%9F%E0%A4%B0&hl=hi&gl=in",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/toaster/hi/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCBHQfRNCWrcx0RjH6vBP1xNEvme2grEUiyQ&s",
+      "fuentePagina": "https://www.rasoishop.com/hi/products/prestige-slice-pop-up-toaster-750w-black-silver?srsltid=AfmBOor-boqdo1yyjlvWlQWIU-R22ymIYcsMUaUGyvlG6XgQeQMxMg2T",
+      "titulo": "Prestige Slice Pop-up Toaster 750W | Black & Silver – Rasoi Shop",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCBHQfRNCWrcx0RjH6vBP1xNEvme2grEUiyQ&s",
+      "original": "http://www.rasoishop.com/cdn/shop/files/890136541715.jpg?v=1727258690"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/toaster/hi/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxJzQ2CTQAxMx8i25-V6w5kuR2Z6LAWxuTUA&s",
+      "fuentePagina": "https://www.rasoishop.com/hi/products/prestige-psdp-01-sandwich-toaster-with-non-stick-heating-plates?srsltid=AfmBOor47uYbQKia_pzvgHsAGFflSweOj319F2NrwEmeUFP__g9kNh91",
+      "titulo": "प्रेस्टीज पीएसडीपी 01 सैंडविच ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxJzQ2CTQAxMx8i25-V6w5kuR2Z6LAWxuTUA&s",
+      "original": "https://www.rasoishop.com/cdn/shop/products/PSDP_MainwithFood_Mrg.jpg?v=1623502369&width=1946"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/toaster/hi/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdh_QOm_yM50KGQXPF3BdusWJjkSv5p5biUw&s",
+      "fuentePagina": "https://www.amazon.in/-/hi/Bajaj-750-%E0%A4%B5%E0%A5%89%E0%A4%9F-%E0%A4%AA%E0%A5%89%E0%A4%AA-%E0%A4%85%E0%A4%AA-%E0%A4%9F%E0%A5%8B%E0%A4%B8%E0%A5%8D%E0%A4%9F%E0%A4%B0-%E0%A4%B8%E0%A4%AB%E0%A4%BC%E0%A5%87%E0%A4%A6/dp/B0073QGKAS",
+      "titulo": "Bajaj ATX 4 750-वॉट पॉप-अप टोस्टर (सफ़ेद), सफ़ेद : Amazon.in: घर और किचन",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdh_QOm_yM50KGQXPF3BdusWJjkSv5p5biUw&s",
+      "original": "https://m.media-amazon.com/images/I/61fgJs4zIqL.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/toaster/hi/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRPe6Ll_LK-cBW8K_p_hOpBB2LwZsMMIE56A&s",
+      "fuentePagina": "https://www.amazon.in/-/hi/Hafele-%E0%A4%B8%E0%A5%8D%E0%A4%B2%E0%A4%BE%E0%A4%87%E0%A4%B8-%E0%A4%87%E0%A4%B2%E0%A5%87%E0%A4%95%E0%A5%8D%E0%A4%9F%E0%A5%8D%E0%A4%B0%E0%A4%BF%E0%A4%95-%E0%A4%9F%E0%A5%8B%E0%A4%B8%E0%A5%8D%E0%A4%9F%E0%A4%B0-%E0%A4%A1%E0%A5%80%E0%A4%AB%E0%A5%8D%E0%A4%B0%E0%A5%89%E0%A4%B8%E0%A5%8D%E0%A4%9F/dp/B07X124Q7S",
+      "titulo": "Hafele एम्बर 2 स्लाइस पॉप अप ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRPe6Ll_LK-cBW8K_p_hOpBB2LwZsMMIE56A&s",
+      "original": "https://m.media-amazon.com/images/I/61bX4w39zlL._AC_UF894,1000_QL80_.jpg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/toaster/hi/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQaiU79k1Sa7y5GWfqbFe9Pd7sVoHdVK2acvA&s",
+      "fuentePagina": "https://www.warmexhomeappliances.com/hi/products/toasty-open-toaster?srsltid=AfmBOorhB6Hot2wGOUA9tWnN0pJ9OCXYOiuCvbhzPE_TLSPvJFpizhvd",
+      "titulo": "Warmex 600 Watts Open Toaster Toasty is a sleek, simple open ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQaiU79k1Sa7y5GWfqbFe9Pd7sVoHdVK2acvA&s",
+      "original": "http://www.warmexhomeappliances.com/cdn/shop/products/1_65421567-3abf-4c16-82e0-344d2a810093.jpg?v=1644563475"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/toaster/hi/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6wwWttoXoxUsJt0hWU8wVSiBYFYj9uDxY_w&s",
+      "fuentePagina": "https://www.flipkart.com/hi/pigeon-pop-up-toaster/p/itmeazg4pfth4kuy",
+      "titulo": "Pigeon Pop-Up Toaster Price in India - Buy Pigeon Pop-Up ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6wwWttoXoxUsJt0hWU8wVSiBYFYj9uDxY_w&s",
+      "original": "https://rukminim2.flixcart.com/image/480/640/kziqvm80/pop-up-toaster/0/z/9/-original-imagbggk4sgcftpb.jpeg?q=90"
+    }
+  ]
+}

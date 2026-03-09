@@ -1,0 +1,71 @@
+{
+  "categoria": "hair drier",
+  "categoriaSlug": "hair-drier",
+  "idioma": "nah",
+  "nombreIdioma": "Náhuatl",
+  "termino": "secadora",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:31:58.149Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "es",
+    "gl": "mx"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=secadora&hl=es&gl=mx",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/hair-drier/nah/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTk1G_eO0R39G-3xx-j-x0e69EWyhxDfQiJMw&s",
+      "fuentePagina": "https://www.amazon.com.mx/ROVSUN-Secadora-port%C3%A1til-inoxidable-departamento/dp/B08X6ZJR6C",
+      "titulo": "ROVSUN Secadora portátil de 110V, secadora de carga frontal de alta gama  con tambor de acero inoxidable y perilla de control simple para  apartamento, ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTk1G_eO0R39G-3xx-j-x0e69EWyhxDfQiJMw&s",
+      "original": "https://m.media-amazon.com/images/I/71EbntwyjEL._AC_UF894,1000_QL80_.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/hair-drier/nah/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDBiJWxy1MGNFNcT1vg_61t9L8jJBl_io-bA&s",
+      "fuentePagina": "https://www.sears.com.mx/producto/179563/secadora-automatica-carga-frontal-22-kg-blanca-mabe/",
+      "titulo": "Secadora Automática Carga Frontal 22 Kg Blanca Mabe",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDBiJWxy1MGNFNcT1vg_61t9L8jJBl_io-bA&s",
+      "original": "https://resources.sears.com.mx/medios-plazavip/fotos/productos_sears1/original/2948643.jpg?scale=550"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/hair-drier/nah/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLvd5eJycGFbuPVbBMgcNi53Kwyd_7VwLjYg&s",
+      "fuentePagina": "https://es.uline.mx/Product/Detail/H-11359/Hospitality-Supplies/CONAIR-Hair-Dryer",
+      "titulo": "CONAIR® Secadora de Cabello",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLvd5eJycGFbuPVbBMgcNi53Kwyd_7VwLjYg&s",
+      "original": "https://img.uline.com/is/image/uline/H-11359_US?$Mobile_Zoom$"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/hair-drier/nah/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQwejtJ1NaFFW1X0TbKAdUkfHp_zh5l8irFg&s",
+      "fuentePagina": "https://www.maytag.mx/secadora-electrica-carga-superior-26kg-extra-power-7mmed5430pw-/p?srsltid=AfmBOorjweaXdi3xn8II9GTFO5IaAorjAJH8PMt1bvTJzx0AZTQtbFoy",
+      "titulo": "Secadora eléctrica 26kg carga superior Extra Power - Maytag ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQwejtJ1NaFFW1X0TbKAdUkfHp_zh5l8irFg&s",
+      "original": "https://maytagmex.vtexassets.com/arquivos/ids/155996/7MMED5430PW-01.jpg?v=638845608139600000"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/hair-drier/nah/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSiHK2CPHopKSLWKPLbmxhtiDNIkNijoTtHjA&s",
+      "fuentePagina": "https://www.amazon.com.mx/Tymyp-Secadora-el%C3%A9ctrica-compacta-inoxidable/dp/B0CMGF4YPY",
+      "titulo": "Tymyp - Secadora eléctrica compacta, 12 libras de carga ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSiHK2CPHopKSLWKPLbmxhtiDNIkNijoTtHjA&s",
+      "original": "https://m.media-amazon.com/images/I/61PHhAzUrRL._AC_UF350,350_QL80_.jpg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/hair-drier/nah/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXOHYSefzth1oapBqGkBHQMcxEJNuZvpoWvg&s",
+      "fuentePagina": "https://www.lg.com/cac/lavadoras-y-secadoras/lg-df22vv2sbe",
+      "titulo": "Secadora Eléctrica de Carga Frontal 22Kg DF22VV2SBE Plateado",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXOHYSefzth1oapBqGkBHQMcxEJNuZvpoWvg&s",
+      "original": "https://www.lg.com/cac/images/lavadoras-y-secadoras/md07505129/gallery/D-8.jpg"
+    }
+  ]
+}

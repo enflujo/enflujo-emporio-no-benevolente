@@ -1,0 +1,16 @@
+{
+  "categoria": "oven",
+  "categoriaSlug": "oven",
+  "idioma": "en",
+  "nombreIdioma": "English",
+  "termino": "oven",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:25:25.254Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "en",
+    "gl": "us"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=oven&hl=en&gl=us",
+  "imagenes": []
+}

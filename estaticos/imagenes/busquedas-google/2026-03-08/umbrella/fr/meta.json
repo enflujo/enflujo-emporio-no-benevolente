@@ -1,0 +1,71 @@
+{
+  "categoria": "umbrella",
+  "categoriaSlug": "umbrella",
+  "idioma": "fr",
+  "nombreIdioma": "Français",
+  "termino": "parapluie",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T20:56:56.809Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "fr",
+    "gl": "be"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=parapluie&hl=fr&gl=be",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/umbrella/fr/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVN6a1gH1sGa21qmYOzboD07ey2srpCSNTNA&s",
+      "fuentePagina": "https://www.hermes.com/be/fr/product/parapluie-canne-pluie-de-h-H310360Mv04/",
+      "titulo": "Parapluie canne Pluie de H",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVN6a1gH1sGa21qmYOzboD07ey2srpCSNTNA&s",
+      "original": "https://assets.hermes.com/is/image/hermesproduct/parapluie-canne-pluie-de-h--310360M%2004-worn-9-0-0-800-800_g.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/umbrella/fr/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDIIz8G6eC2HRHBgbXI-cD66NNtX5UH5x99g&s",
+      "fuentePagina": "https://www.maroquineriesimonart.be/fr/produit=parapluie-canne-deluxe-noir&id=104643",
+      "titulo": "Maroquinerie Simonart | Parapluie canne Deluxe Noir",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDIIz8G6eC2HRHBgbXI-cD66NNtX5UH5x99g&s",
+      "original": "https://www.maroquineriesimonart.be/images/ashx/parapluie-canne-deluxe-noir-1.jpeg?s_id=104643&imgfield=s_image1&imgwidth=700&imgheight=700"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/umbrella/fr/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgCWtKyHB7BF1ZBxe6RtPa0aOyVcyZXZ1ZQQ&s",
+      "fuentePagina": "https://www.ikea.com/be/fr/p/knalla-parapluie-noir-60282332/",
+      "titulo": "KNALLA Parapluie - noir",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgCWtKyHB7BF1ZBxe6RtPa0aOyVcyZXZ1ZQQ&s",
+      "original": "https://www.ikea.com/be/fr/images/products/knalla-parapluie-noir__0934105_pe792338_s5.jpg?f=s"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/umbrella/fr/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSv23YgoHibGP727AhaNVy60tPnmEckcAhOUg&s",
+      "fuentePagina": "https://www.parapluie-publicitaire-pro.com/parapluie-publicitaire/parapluies-publicitaires/parapluie-impression/parapluie-arc-en-ciel",
+      "titulo": "Parapluie Arc En Ciel | Parapluie manche canne | Parapluie ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSv23YgoHibGP727AhaNVy60tPnmEckcAhOUg&s",
+      "original": "https://www.parapluie-publicitaire-pro.com/images/parapluies-publicitaires/produit/large/parapluie-arc-en-ciel-all.jpg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/umbrella/fr/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5UuiUQXe7vhblRg4sCc7EQnWnIpmuW_qVYg&s",
+      "fuentePagina": "https://www.samsonite.be/fr/rain-pro-stick-parapluie-noir/56161-1041.html",
+      "titulo": "Rain Pro Parapluie",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5UuiUQXe7vhblRg4sCc7EQnWnIpmuW_qVYg&s",
+      "original": "https://www.samsonite.be/dw/image/v2/AATF_PRD/on/demandware.static/-/Sites-samsonite-product-catalog/default/dw41be8147/images/salsify/9bfc8424acc38136579ec1d39e3aeef544676109_s--WsG1dfkq--_fl_clip_pg_1_e_trim_c_fit_w_2000_h_3000_u_tcrttuyt8xafi2acibgb_fl_layer_apply_e_make_transparent.png?sw=600&sh=900"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/umbrella/fr/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3FNwR-9wc8ISyCYkaZ1RqoT5zYQKbjJs5qA&s",
+      "fuentePagina": "https://www.pylones.com/fr/parapluie-original-design/16300-parapluie-rainbeau-palette.html",
+      "titulo": "Parapluie - Rainbeau - Palette - Pylones",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3FNwR-9wc8ISyCYkaZ1RqoT5zYQKbjJs5qA&s",
+      "original": "https://www.pylones.com/62114-large_default/parapluie-rainbeau.jpg"
+    }
+  ]
+}

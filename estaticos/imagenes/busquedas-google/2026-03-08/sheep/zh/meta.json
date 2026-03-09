@@ -1,0 +1,71 @@
+{
+  "categoria": "sheep",
+  "categoriaSlug": "sheep",
+  "idioma": "zh",
+  "nombreIdioma": "中文",
+  "termino": "羊",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T20:52:44.523Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "zh-CN",
+    "gl": "cn"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=%E7%BE%8A&hl=zh-CN&gl=cn",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/sheep/zh/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSa3KVAuc1ja0lavk12G8Txx4o6jow65LX6KQ&s",
+      "fuentePagina": "https://zh.wikipedia.org/zh-cn/%E7%B6%BF%E7%BE%8A",
+      "titulo": "绵羊- 维基百科，自由的百科全书",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSa3KVAuc1ja0lavk12G8Txx4o6jow65LX6KQ&s",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Flock_of_sheep.jpg/250px-Flock_of_sheep.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/sheep/zh/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMHySCJGAJ6J18zTQFw3muA00Z_HF1qVkUAA&s",
+      "fuentePagina": "https://zh.wikipedia.org/zh-cn/%E7%BE%8A",
+      "titulo": "羊- 维基百科，自由的百科全书",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMHySCJGAJ6J18zTQFw3muA00Z_HF1qVkUAA&s",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Swaledale_Sheep%2C_Lake_District%2C_England_-_June_2009.jpg/330px-Swaledale_Sheep%2C_Lake_District%2C_England_-_June_2009.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/sheep/zh/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrJFJ-LBQNo3HJ6o_FIK5WpeLgRqHT7BA_Og&s",
+      "fuentePagina": "https://baike.baidu.com/item/%E7%BE%8A/1947",
+      "titulo": "羊_百度百科",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrJFJ-LBQNo3HJ6o_FIK5WpeLgRqHT7BA_Og&s",
+      "original": "https://bkimg.cdn.bcebos.com/smart/6609c93d70cf3bc79f3dfe357057ada1cd11738bfce9-bkimg-process,v_1,rw_1,rh_1,pad_1,color_ffffff?x-bce-process=image/format,f_auto"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/sheep/zh/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcReaNDJCKW7-QG6KnvZ98ntjfEKNX0uOtLa-g&s",
+      "fuentePagina": "https://www.bbc.com/ukchina/simp/vert-earth-39934965",
+      "titulo": "揭开绵羊软弱外表下的真面目- BBC 英伦网",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcReaNDJCKW7-QG6KnvZ98ntjfEKNX0uOtLa-g&s",
+      "original": "http://c.files.bbci.co.uk/1069B/production/_96072276_e074cd6f-90f2-4b0e-9bac-15ad3b616afa.jpg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/sheep/zh/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNnmdFlOLgpGxIIb5b_C2BnwYUOu-OWYwSlA&s",
+      "fuentePagina": "https://www.purinafeed.com.cn/news/20210914%E6%99%BA%E6%85%A7%E5%AE%9A%E4%B9%89%E5%85%BB%E7%BE%8A%E6%96%B0%E6%A6%82%E5%BF%B5",
+      "titulo": "羊| 智慧定义养羊新概念| Purina",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNnmdFlOLgpGxIIb5b_C2BnwYUOu-OWYwSlA&s",
+      "original": "https://www.purinafeed.com.cn/image/1432196626699/4%E4%BC%98-6%E6%AF%8D%E7%BE%8A.jpg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/sheep/zh/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYG9pZsxuzbTlFf304v8IUO9pYjqKuP62-LA&s",
+      "fuentePagina": "https://zh.wikipedia.org/zh-cn/%E9%AB%AF%E7%BE%8A",
+      "titulo": "髯羊- 维基百科，自由的百科全书",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYG9pZsxuzbTlFf304v8IUO9pYjqKuP62-LA&s",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Barbary_Sheep_Tennoji.jpg/250px-Barbary_Sheep_Tennoji.jpg"
+    }
+  ]
+}

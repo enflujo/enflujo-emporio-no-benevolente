@@ -1,0 +1,71 @@
+{
+  "categoria": "skateboard",
+  "categoriaSlug": "skateboard",
+  "idioma": "fr",
+  "nombreIdioma": "Français",
+  "termino": "skateboard",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:04:10.302Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "fr",
+    "gl": "be"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=skateboard&hl=fr&gl=be",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/skateboard/fr/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPiGkFS2aqXrgUWg0Bu3snHrL7-LyKZGDcsQ&s",
+      "fuentePagina": "https://www.skatepro.be/fr/84-32717.htm",
+      "titulo": "Enuff Skully Skateboard Complet",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPiGkFS2aqXrgUWg0Bu3snHrL7-LyKZGDcsQ&s",
+      "original": "https://cdn.skatepro.com/product/520/enuff-skully-complete-skateboard-rx.webp"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/skateboard/fr/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQloRvFLIqWt5j7XbKbVBbsTF9804e-Dm04fw&s",
+      "fuentePagina": "https://banwood.eu/fr/products/skateboard-nature?srsltid=AfmBOoqnu_jUVN-CEXJiQykGC22IQzUkmCeEw1bwi9JF6Kx7BTbcRAZt",
+      "titulo": "Skateboard - Nature",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQloRvFLIqWt5j7XbKbVBbsTF9804e-Dm04fw&s",
+      "original": "https://banwood.eu/cdn/shop/files/skateboard-banwood-nature_3324f634-3478-4138-b687-cf23e483a1f5.jpg?v=1757068798&width=1500"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/skateboard/fr/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTVGb5acyWNkHbU7vDSYz8ZMSkgfY7HCMb8g&s",
+      "fuentePagina": "https://www.decathlon.be/fr/p/skateboard-complet-fsc-cp100-retro-taille-8/357956/c426c382c349m8912344",
+      "titulo": "SKATEBOARD COMPLET FSC CP100 RETRO TAILLE 8\" | Decathlon",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTVGb5acyWNkHbU7vDSYz8ZMSkgfY7HCMb8g&s",
+      "original": "https://contents.mediadecathlon.com/p2828811/k$8bdc94c63e5fc72eb0026c779e9b742b/picture.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/skateboard/fr/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtvCsCLp0OGmkFsfPlIJpBegrWqb1Qq8Mgrw&s",
+      "fuentePagina": "https://www.skatepro.be/fr/84-40357.htm",
+      "titulo": "Santa Cruz Classic Dot Skateboard complet",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtvCsCLp0OGmkFsfPlIJpBegrWqb1Qq8Mgrw&s",
+      "original": "https://cdn.skatepro.com/product/520/santa-cruz-classic-dot-complete-skateboard-h0.webp"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/skateboard/fr/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpmlVue6yigvkZozlRCRUvsTJ3ltOHPOBhag&s",
+      "fuentePagina": "https://www.skatedeluxe.com/blog/fr/skateboards-pour-debutants-recommandations-checklists/",
+      "titulo": "Skateboards Pour Débutants - Nos Recommandations ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpmlVue6yigvkZozlRCRUvsTJ3ltOHPOBhag&s",
+      "original": "https://www.skatedeluxe.com/blog/wp-content/uploads/2023/11/skateboard-completes-at-skatedeluxe.jpg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/skateboard/fr/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUGvB8-1eqykOHiyQxXUsDhVklecQzgDocJA&s",
+      "fuentePagina": "https://www.amazon.com.be/Skateboard-roulettes-standard-adolescents-d%C3%A9butants/dp/B0CZNTH77L",
+      "titulo": "Skateboard complet de 78,7 x 20,3 cm, planche en bois d ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUGvB8-1eqykOHiyQxXUsDhVklecQzgDocJA&s",
+      "original": "https://m.media-amazon.com/images/I/71mFZdVyt2L.jpg"
+    }
+  ]
+}

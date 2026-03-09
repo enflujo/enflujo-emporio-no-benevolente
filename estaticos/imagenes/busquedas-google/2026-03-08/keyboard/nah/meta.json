@@ -1,0 +1,71 @@
+{
+  "categoria": "keyboard",
+  "categoriaSlug": "keyboard",
+  "idioma": "nah",
+  "nombreIdioma": "Náhuatl",
+  "termino": "teclado",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:23:58.148Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "es",
+    "gl": "mx"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=teclado&hl=es&gl=mx",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/keyboard/nah/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMdjq00JQRv7kvSU8qUeSZr9A8w72V6tIaoA&s",
+      "fuentePagina": "https://www.steren.com.mx/teclado-usb.html?srsltid=AfmBOop_eAExDRhJqfRYkJSx0REtGh-OWR6vWIlsTgNpzwmkVZvdllTx",
+      "titulo": "Teclado USB Blanco-GrisTX | Ergonómico con 105 Teclas |",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMdjq00JQRv7kvSU8qUeSZr9A8w72V6tIaoA&s",
+      "original": "https://www.steren.com.mx/media/catalog/product/cache/0236bbabe616ddcff749ccbc14f38bf2/image/1693608bf/teclado-usb.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/keyboard/nah/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROHR0dT6FwgB1wjul-Qfe30zcqIopo-2RJ7Q&s",
+      "fuentePagina": "https://www.liverpool.com.mx/tienda/pdp/teclado-gamer-ground-gaming/1143900181",
+      "titulo": "Teclado gamer Ground Gaming",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROHR0dT6FwgB1wjul-Qfe30zcqIopo-2RJ7Q&s",
+      "original": "https://ss637.liverpool.com.mx/xl/1143900181.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/keyboard/nah/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStqjgR8wWQ8KeHbFu_nwM1DTi8njzdduUv9Q&s",
+      "fuentePagina": "https://es.wikipedia.org/wiki/Teclado_(inform%C3%A1tica)",
+      "titulo": "Teclado (informática) - Wikipedia, la enciclopedia libre",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStqjgR8wWQ8KeHbFu_nwM1DTi8njzdduUv9Q&s",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/5/5a/Computer_keyboard_ES_layout.svg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/keyboard/nah/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdlJkP4gZzMwWbnNbQo19AeYZvs_ka_-ZhJg&s",
+      "fuentePagina": "https://selectsound.com.mx/products/teclado-gamer-mecanico-droagon-pro-sg-t1-luz-rgb?srsltid=AfmBOopkmAJUzLod4pZk6QU7yI662_898NK5jQxMzJML7d_bPU_WXwzR",
+      "titulo": "Teclado Gamer Mecánico Dragon Pro SG-T1 Luz Rgb",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdlJkP4gZzMwWbnNbQo19AeYZvs_ka_-ZhJg&s",
+      "original": "http://selectsound.com.mx/cdn/shop/products/teclado-gamer-mecanico-dragon-pro-sg-t1-luz-rgb-181762_1200x1200.jpg?v=1696023318"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/keyboard/nah/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsSrAZ7hpQp5QbMDxfSe8qw8w54S8jKDl9Zw&s",
+      "fuentePagina": "https://www.officedepot.com.mx/officedepot/en/Categor%C3%ADa/Todas/computo/teclados-mouse-y-camaras-web/teclados-alambricos-e-inalambricos/Teclado-Al%C3%A1mbrico-Trust-Primo-Negro/p/100182251?srsltid=AfmBOoofrSPi2aF8J0_sj_yNld5eAiKmjvoY7HJX5d0tsUEF32_UqCd6",
+      "titulo": "Teclado Alámbrico Trust Primo Negro",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsSrAZ7hpQp5QbMDxfSe8qw8w54S8jKDl9Zw&s",
+      "original": "https://www.officedepot.com.mx/medias/100182251.jpg-1200ftw?context=bWFzdGVyfHJvb3R8MjQzMTMxfGltYWdlL2pwZWd8YUdWaUwyZ3lPUzh4TWpFNU5Ea3dOall6TmpNeE9DOHhNREF4T0RJeU5URXVhbkJuWHpFeU1EQm1kSGN8NWFiMGYxYjc0YzgwMmNkMTFlZTQ3NTY2NmFmMzBlOGUyOWM4NjgwN2VjY2RlZDFhNWU3NzE3OGI0N2JjMDNhYw"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/keyboard/nah/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQqv3chXHEwuIXfWBQgj37mvPxYO_xQLp01A&s",
+      "fuentePagina": "https://www.amazon.com.mx/Perixx-PERIBOARD-106B-Teclado-USB-Espa%C3%B1ol/dp/B01BTZ8T0W",
+      "titulo": "Perixx PERIBOARD-106B ES Teclado USB Inglés - Alto Rendimiento - Teclas más  Altas - Tamaño Completo con Teclado Numérico - Negro - QWERTY Español.. :  ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQqv3chXHEwuIXfWBQgj37mvPxYO_xQLp01A&s",
+      "original": "https://m.media-amazon.com/images/I/612RsETDnzL._AC_UF894,1000_QL80_.jpg"
+    }
+  ]
+}

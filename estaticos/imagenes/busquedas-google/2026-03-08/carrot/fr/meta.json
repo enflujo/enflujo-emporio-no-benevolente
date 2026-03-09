@@ -1,0 +1,71 @@
+{
+  "categoria": "carrot",
+  "categoriaSlug": "carrot",
+  "idioma": "fr",
+  "nombreIdioma": "Français",
+  "termino": "carotte",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:13:54.868Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "fr",
+    "gl": "be"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=carotte&hl=fr&gl=be",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/carrot/fr/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkI_7AWd8g5pcWU7sGsQ8ZdWMXIWv01C6nAQ&s",
+      "fuentePagina": "https://fr.wikipedia.org/wiki/Carotte",
+      "titulo": "Carotte — Wikipédia",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkI_7AWd8g5pcWU7sGsQ8ZdWMXIWv01C6nAQ&s",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/b/b5/Carrots_on_Display.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/carrot/fr/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNDGIyIfzD7ib04E62EiowkzENLL-UNbqZqg&s",
+      "fuentePagina": "https://www.jaimefruitsetlegumes.ca/fr/aliments/carotte/",
+      "titulo": "Carotte - Mouvement J'aime les fruits et légumes",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNDGIyIfzD7ib04E62EiowkzENLL-UNbqZqg&s",
+      "original": "https://www.jaimefruitsetlegumes.ca/wp-content/uploads/2019/09/1-2-700x700.png"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/carrot/fr/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDauOyPTFpEnw2w4LP9qPV2ubkl-Eh1o9ADQ&s",
+      "fuentePagina": "https://www.fondation-louisbonduelle.org/legume/carotte/",
+      "titulo": "La carotte - Fiche légume, valeurs nutritionnelles, calories",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDauOyPTFpEnw2w4LP9qPV2ubkl-Eh1o9ADQ&s",
+      "original": "https://www.fondation-louisbonduelle.org/wp-content/uploads/2016/10/carotte_222805396.png"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/carrot/fr/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2ah-yDu956KHZKMyly_eJdWoc3DGCFDTJsA&s",
+      "fuentePagina": "https://cuisine.journaldesfemmes.fr/encyclopedie-produits/1954990-carotte/",
+      "titulo": "Carotte : crue, rôtie, cuisson, à quelle saison",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2ah-yDu956KHZKMyly_eJdWoc3DGCFDTJsA&s",
+      "original": "https://img-3.journaldesfemmes.fr/KcrwoKVyt9WyplVHiDLvXVjKN7k=/1500x/smart/4e81297bc0b94259b9c83b576873e28a/ccmcms-jdf/25936494.jpg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/carrot/fr/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgC0fgNPIt7RVCGN6MHVqkXzqsOgwJBjIC7w&s",
+      "fuentePagina": "https://www.alimentarium.org/fr/savoir/carotte",
+      "titulo": "Carotte | alimentarium",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgC0fgNPIt7RVCGN6MHVqkXzqsOgwJBjIC7w&s",
+      "original": "https://www.alimentarium.org/sites/default/files/media/image/2016-10/AL012-02%20carotte_0.jpg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/carrot/fr/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRneyernYbsL6GhZymyFnY-HZ5Hx53Wt5Jj3A&s",
+      "fuentePagina": "https://www.calories.fr/carotte",
+      "titulo": "Calories carotte : valeurs nutritionnelles, apports & bienfaits",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRneyernYbsL6GhZymyFnY-HZ5Hx53Wt5Jj3A&s",
+      "original": "https://www.calories.fr/images/fr/og/carotte.jpg"
+    }
+  ]
+}

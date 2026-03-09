@@ -1,0 +1,71 @@
+{
+  "categoria": "person",
+  "categoriaSlug": "person",
+  "idioma": "rw",
+  "nombreIdioma": "Kinyarwanda",
+  "termino": "umuntu",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T20:40:26.260Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "en",
+    "gl": "rw"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=umuntu&hl=en&gl=rw",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/person/rw/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlZWhsN0tYD83bBUbKtdDD5uuYbb6bry7Lkg&s",
+      "fuentePagina": "https://www.youtube.com/watch?v=SZV8xgL0fx8",
+      "titulo": "Umutare Gaby - Umuntu (Official Lyric Video) #Umuntu #Umutaregaby",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlZWhsN0tYD83bBUbKtdDD5uuYbb6bry7Lkg&s",
+      "original": "https://i.ytimg.com/vi/SZV8xgL0fx8/maxresdefault.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/person/rw/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSPk4mr0UFlLr4UAYw6Gh4gII6t9ucRCTVQg&s",
+      "fuentePagina": "https://www.youtube.com/watch?v=tIDSWLhBncU",
+      "titulo": "UMUNTU SERIES S3 EP05: Afashwe arongora umukazana we 😭",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSPk4mr0UFlLr4UAYw6Gh4gII6t9ucRCTVQg&s",
+      "original": "https://i.ytimg.com/vi/tIDSWLhBncU/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLCQPhcd8jq2nSHCk_lBqchWFmvHoQ"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/person/rw/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpjUbEIhXXZ_vOGWNDzOURhGwi8ThkvyTOlw&s",
+      "fuentePagina": "https://www.youtube.com/watch?v=Al0Rsf8hblM",
+      "titulo": "UMUNTU SERIES S1 EP15: Nyuma yogusanga yaratewe inda na SE umubyara  birangiye amubereye umugore 😱😭",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpjUbEIhXXZ_vOGWNDzOURhGwi8ThkvyTOlw&s",
+      "original": "https://i.ytimg.com/vi/Al0Rsf8hblM/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLA4FnrddzZ0Nz-xXvSMEdW4aCXrYg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/person/rw/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYnmYSmHU5jkawWbFoXHzouXAu-W94CKGC1w&s",
+      "fuentePagina": "https://soundcloud.com/capitalrec/umuntu_amag",
+      "titulo": "Stream Umuntu By Amag The Black by Capital Record$ Empire ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYnmYSmHU5jkawWbFoXHzouXAu-W94CKGC1w&s",
+      "original": "https://i1.sndcdn.com/artworks-000359295459-4hcaxs-t500x500.jpg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/person/rw/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBB_hoVj1OuGgqd3zzevB7JBdxBNIuqtrinw&s",
+      "fuentePagina": "https://www.youtube.com/watch?v=Gjd-8ik6xbo",
+      "titulo": "Fanzo ft. Andy Keys & Mavuthela - Umuntu (Extended Mix)",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBB_hoVj1OuGgqd3zzevB7JBdxBNIuqtrinw&s",
+      "original": "https://i.ytimg.com/vi/Gjd-8ik6xbo/maxresdefault.jpg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/person/rw/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRK3HAA2E-1384ptu76xT7CIFYRZ0wvCh1bRw&s",
+      "fuentePagina": "https://www.shazam.com/song/1806845671/umuntu",
+      "titulo": "Umuntu",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRK3HAA2E-1384ptu76xT7CIFYRZ0wvCh1bRw&s",
+      "original": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/58/71/67/5871671f-e6f1-ad5c-f853-209245c79d65/artwork.jpg/800x800cc.jpg"
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "categoria": "book",
+  "categoriaSlug": "book",
+  "idioma": "ln",
+  "nombreIdioma": "Lingala",
+  "termino": "buku",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:28:01.662Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "fr",
+    "gl": "cd"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=buku&hl=fr&gl=cd",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/book/ln/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRImCbYfPnW4ZHHiXqBb-GIVqeujvJbr3EvcQ&s",
+      "fuentePagina": "https://www.freepik.com/free-photos-vectors/buku",
+      "titulo": "Buku Images - Free Download on Freepik",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRImCbYfPnW4ZHHiXqBb-GIVqeujvJbr3EvcQ&s",
+      "original": "https://img.freepik.com/free-vector/text-books-library-isolated-icon_24877-83372.jpg?semt=ais_rp_50_assets&w=740&q=80"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/book/ln/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxwElnpBM8I2YGIdpQXoFsIO1vDws9nETtTA&s",
+      "fuentePagina": "https://edukasi.kompas.com/read/2019/07/26/13264341/menulis-naskah-buku-sesuai-kemauan-penerbit-begini-tipsnya",
+      "titulo": "Menulis Naskah Buku Sesuai Kemauan Penerbit? Begini Tipsnya",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxwElnpBM8I2YGIdpQXoFsIO1vDws9nETtTA&s",
+      "original": "https://asset.kompas.com/crops/MDKtGB-Qbs2L0FBC7bOlWcb5VeY=/65x65:865x599/1200x800/data/photo/2017/06/28/1265845835.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/book/ln/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwcCg5xJHNIoJbY5uaEdi_7U1Xo82T_WOk_A&s",
+      "fuentePagina": "https://dinkominfo.demakkab.go.id/berita/detail/buku-konvensional-memiliki-nilai-lebih-dibanding-buku-digital",
+      "titulo": "Buku Konvensional Memiliki Nilai Lebih Dibanding Buku Digital",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwcCg5xJHNIoJbY5uaEdi_7U1Xo82T_WOk_A&s",
+      "original": "https://dinkominfo.demakkab.go.id/asset/foto_berita/7aeb76f2-5669-46ec-9882-90552bef85ff_169.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/book/ln/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnZNqdiln_j3LfGYUhsy3R70bQF3x-TS4mPw&s",
+      "fuentePagina": "https://bangkitperkasa.com/produk/buku-tulis-campuss-50-lembar/",
+      "titulo": "Buku Tulis Campuss 50 Lembar - PT Bangkit Perkasa Sukses",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnZNqdiln_j3LfGYUhsy3R70bQF3x-TS4mPw&s",
+      "original": "https://bangkitperkasa.com/storage/2023/12/Buku-Tulis-Campuss-50-Lembar.jpeg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/book/ln/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbbaVJ79Dxf6BSS_EEorNjqscjm3bMhsDODA&s",
+      "fuentePagina": "https://commons.wikimedia.org/wiki/File:Book4543543543.jpg",
+      "titulo": "File:Book4543543543.jpg - Wikimedia Commons",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbbaVJ79Dxf6BSS_EEorNjqscjm3bMhsDODA&s",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Book4543543543.jpg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/book/ln/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTygYiWyB5g1wfidQhMhFXkODDDr0dIwRt9iw&s",
+      "fuentePagina": "https://commons.wikimedia.org/wiki/File:Gambar_Buku.png",
+      "titulo": "File:Gambar Buku.png - Wikimedia Commons",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTygYiWyB5g1wfidQhMhFXkODDDr0dIwRt9iw&s",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/4/49/Gambar_Buku.png"
+    }
+  ]
+}

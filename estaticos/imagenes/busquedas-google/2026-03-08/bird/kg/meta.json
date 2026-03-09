@@ -1,0 +1,71 @@
+{
+  "categoria": "bird",
+  "categoriaSlug": "bird",
+  "idioma": "kg",
+  "nombreIdioma": "Kikongo",
+  "termino": "nuni",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T20:49:42.860Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "fr",
+    "gl": "cd"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=nuni&hl=fr&gl=cd",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bird/kg/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfV-AHBkTzkIwR6dxT90qmjxFLmNe8lrrimw&s",
+      "fuentePagina": "https://www.youtube.com/channel/UCeIR_4Amu3ccuBJPiwQqAjQ",
+      "titulo": "NuNi - YouTube",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfV-AHBkTzkIwR6dxT90qmjxFLmNe8lrrimw&s",
+      "original": "https://yt3.googleusercontent.com/ytc/AIdro_lclb86ifcgZhFEloscsbNugqv3UJJKFhsa6VBb3bU7bWI=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bird/kg/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQh71SQ7L4gShYrhYqrSEbmwpys6zgX2SFGnw&s",
+      "fuentePagina": "https://www.youtube.com/watch?v=t5BJnj1gTeY",
+      "titulo": "NuNi ⭐Meet NuNi the Star of the show ⭐The best of NuNi Compilation",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQh71SQ7L4gShYrhYqrSEbmwpys6zgX2SFGnw&s",
+      "original": "https://i.ytimg.com/vi/t5BJnj1gTeY/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLCt6Pjy_0nFqCVS-NHaEt-t6acQFQ"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bird/kg/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXGXCYKplCHJNGvKosCkr0em_X2W9BBW4E1w&s",
+      "fuentePagina": "https://www.primevideo.com/-/fr/detail/NuNi/0TBKL3QE22SKG6J9D7WG1F5VZZ",
+      "titulo": "Prime Video: NuNi - Season 2",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXGXCYKplCHJNGvKosCkr0em_X2W9BBW4E1w&s",
+      "original": "https://m.media-amazon.com/images/S/pv-target-images/4ac51e6f7fd4126be8902cb15a005d7942f4cb02b979cbd2f8459c5c8ad25393.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bird/kg/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSH3jTG9E_UhA_BHqZ4De5gzc4TsVGReCk7mQ&s",
+      "fuentePagina": "https://www.youtube.com/watch?v=ytlbuRrbvdk",
+      "titulo": "NuNi Morning Routine | Waking up early",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSH3jTG9E_UhA_BHqZ4De5gzc4TsVGReCk7mQ&s",
+      "original": "https://i.ytimg.com/vi/ytlbuRrbvdk/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLBAJCveCRraSPZTjFJBVqqJn8weKA"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bird/kg/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgw3vKUckv_mCoVDYwseVtcNTBicdD-atzdA&s",
+      "fuentePagina": "https://www.youtube.com/channel/UCeIR_4Amu3ccuBJPiwQqAjQ",
+      "titulo": "NuNi - YouTube",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgw3vKUckv_mCoVDYwseVtcNTBicdD-atzdA&s",
+      "original": "https://i.ytimg.com/vi/uCnaTVkkjxI/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLAnf202P8owkKH8RIHDa3ouSAJHUg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bird/kg/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6TlYpM3dh-6EjmNbP6XcU7-Se2V6rPiw8uA&s",
+      "fuentePagina": "https://www.justwatch.com/uk/tv-series/nuni",
+      "titulo": "NuNi - watch tv series streaming online",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6TlYpM3dh-6EjmNbP6XcU7-Se2V6rPiw8uA&s",
+      "original": "https://images.justwatch.com/poster/307676829/s718/nuni.jpg"
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "categoria": "refrigerator",
+  "categoriaSlug": "refrigerator",
+  "idioma": "es",
+  "nombreIdioma": "Español",
+  "termino": "nevera",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:27:55.015Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "es",
+    "gl": "es"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=nevera&hl=es&gl=es",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/refrigerator/es/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRE5ODHzSX5kXcq00ldSilTK8Pp6itMn07NrQ&s",
+      "fuentePagina": "https://starcamper.es/producto/nevera-electrica-cz90x-90l-con-compresor-lg/?srsltid=AfmBOoqQwvMut5A5RexKzIxf99KdtWJGL747lIzjIwhK23nu4DIOdXXQ",
+      "titulo": "Nevera Eléctrica CZ90X 90L Con Compresor LG",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRE5ODHzSX5kXcq00ldSilTK8Pp6itMn07NrQ&s",
+      "original": "https://starcamper.es/wp-content/uploads/2023/05/Nevera-CZ90x-Star-Camper-Accesorios-Camper-05.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/refrigerator/es/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHwVuFkyKit2grixV7ENbpgcb1PYt8RprisA&s",
+      "fuentePagina": "https://www.leroymerlin.es/productos/nevera-retro-nevera-con-congelador-combinado-de-105-5-cm-de-altura-41-cm-de-ancho-91334489.html",
+      "titulo": "Nevera retro. Nevera con congelador combinado, de 105.5 cm ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHwVuFkyKit2grixV7ENbpgcb1PYt8RprisA&s",
+      "original": "https://media.adeo.com/mkp/70d5389b05385fafaf7aa15de4663e1a/media.jpeg?width=650&height=650&format=jpg&quality=80&fit=bounds"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/refrigerator/es/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmn5-Bo0tXKj6HmOY4la4Rv3MMijue-KaATg&s",
+      "fuentePagina": "https://www.klarstein.es/Electrodomesticos/Neveras-y-congeladores/Frigorificos-combi/Beercracker-91L-Nevera-7-litros-congelador-con-abrebotellas-ks.html?srsltid=AfmBOopTn0BQg5mPLo_IumN1zE3zyQiF9ZsMezSSj_KX-VIP75zq6kyq",
+      "titulo": "Beercracker 91L Nevera 7 litros congelador con abrebotellas",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmn5-Bo0tXKj6HmOY4la4Rv3MMijue-KaATg&s",
+      "original": "https://res.cloudinary.com/chal-tec/image/upload/w_750,q_auto,f_auto,dpr_2.0/bbg/10045922/Gallery/10045922_yy_0001_titel___"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/refrigerator/es/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGy2uLhSZdzYh6FyBb_EerKpUFzZ4Cu59dgQ&s",
+      "fuentePagina": "https://electrodomesticosdelsol.es/tienda/es/neveras-samsung/601-frigorifico-combi-samsung-rl38a776asreu-8806092253506.html",
+      "titulo": "Samsung RL38A776ASR nevera y congelador Independiente A Gris",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGy2uLhSZdzYh6FyBb_EerKpUFzZ4Cu59dgQ&s",
+      "original": "https://electrodomesticosdelsol.es/tienda/2616-large_default/frigorifico-combi-samsung-rl38a776asreu.jpg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/refrigerator/es/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9-tLRtjeGKI6EIUckA94gFnTn5LW-Q1Qu6g&s",
+      "fuentePagina": "https://www.amazon.es/Congelador-Peque%C3%B1a-Silenciosa-Bebidas-Habitaci%C3%B3n/dp/B0CFVKYVMN",
+      "titulo": "Nevera Congelador,Nevera Retro,Nevera Pequeña Silenciosa,Mini Nevera para  Bebidas,Mini Nevera para Habitación,Nevera de Camping,-27°C ~13°C,92L : ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9-tLRtjeGKI6EIUckA94gFnTn5LW-Q1Qu6g&s",
+      "original": "https://m.media-amazon.com/images/I/71USdpmxzBL._AC_UF894,1000_QL80_.jpg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/refrigerator/es/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_QTysOT2OOSYcLvXRzsz1lcf4yOMT2ViM4w&s",
+      "fuentePagina": "https://expertclima.es/frigorifico-samsung-rb31her2csa-185-60-cm-combi-inox.html",
+      "titulo": "Frigorífico Samsung RB31HER2CSA 185x60 cm Combi Inox | expertClima",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_QTysOT2OOSYcLvXRzsz1lcf4yOMT2ViM4w&s",
+      "original": "https://expertclima.es/7418-large_default/frigorifico-samsung-rb31her2csa-185-60-cm-combi-inox.jpg"
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "categoria": "microwave",
+  "categoriaSlug": "microwave",
+  "idioma": "es",
+  "nombreIdioma": "Español",
+  "termino": "microondas",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:25:20.873Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "es",
+    "gl": "es"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=microondas&hl=es&gl=es",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/microwave/es/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyJSQMCRMahmciTq-FfCPXRCQuQJZIsP0_OA&s",
+      "fuentePagina": "https://www.tmelectron.com/producto/cocina/hogar-hogar/microondas-con-grill-700w-2/",
+      "titulo": "Microondas con Grill 700W",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyJSQMCRMahmciTq-FfCPXRCQuQJZIsP0_OA&s",
+      "original": "https://www.tmelectron.com/media/TMPMW003BLK_09_MICROONDAS_GRILL-scaled.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/microwave/es/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1lY4uNRJcAuReryt4tf_4qrPZqPxeGrFsEg&s",
+      "fuentePagina": "https://www.thulos.com/es/th-mo52g-horno-microondas-con-grill-diseno-compacto-capacidad-20-l-thulos-th-mo52g?srsltid=AfmBOoqoCw9Dahm8pEI_q_2W1Pz38Di2ox-2AI1qi4c8ZkD7KQQYpJv_",
+      "titulo": "Horno microondas con grill, diseño compacto, capacidad 20 L ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1lY4uNRJcAuReryt4tf_4qrPZqPxeGrFsEg&s",
+      "original": "https://www.thulos.com/5188-large_default/th-mo52g-horno-microondas-con-grill-diseno-compacto-capacidad-20-l-thulos-th-mo52g.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/microwave/es/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTmJwUnuLbSms5vNhO82N5O4mNgqtyjt147g&s",
+      "fuentePagina": "https://www.create-store.com/es/comprar-microondas-con-grill/139144-microwave-retro-microondas-grill-digital-900w.html",
+      "titulo": "MICROWAVE RETRO - Microondas 20L grill digital 900W",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTmJwUnuLbSms5vNhO82N5O4mNgqtyjt147g&s",
+      "original": "https://cdn.create-store.com/es/3056350/microwave-retro-microondas-grill-digital-900w.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/microwave/es/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQ1jbBYmROyz7qpsfUsmS4LFxtPRJINVYcfA&s",
+      "fuentePagina": "https://www.corbero.es/producto/microondas-cmicg250gw/",
+      "titulo": "Microondas CMICG250GW - Corberó",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQ1jbBYmROyz7qpsfUsmS4LFxtPRJINVYcfA&s",
+      "original": "https://www.corbero.es/wp-content/uploads/2020/07/MICROONDAS_CORBERO_CMICG250GW.jpg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/microwave/es/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdsOpnkbAY7oQ0PaVaPCnLOu49J1ZmNCiHwQ&s",
+      "fuentePagina": "https://www.cbbhosteleria.com/microondas/horno-microondas-25lts-con-plato-giratoriogrill-4645.html?srsltid=AfmBOoqerbkhUzazqUrB6M7RG_twLs03v1ACmrsT5lkKMYaPiMNkC_LF",
+      "titulo": "HORNO MICROONDAS 25Lts CON PLATO GIRATORIO+GRILL",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdsOpnkbAY7oQ0PaVaPCnLOu49J1ZmNCiHwQ&s",
+      "original": "https://www.cbbhosteleria.com/2770-large_default/horno-microondas-25lts-con-plato-giratoriogrill.jpg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/microwave/es/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdOQQvQ2XW5-v0uqL-rlYrp4N642-h39EspA&s",
+      "fuentePagina": "https://www.amazon.es/microondas-Microondas-encimera-Compacto-Giratorio/dp/B0B93KHD57",
+      "titulo": "Horno microondas, 20L 700 W Horno microondas, Microondas de encimera,  Compacto, Control Giratorio, Horno microondas pequeño de encimera Little ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdOQQvQ2XW5-v0uqL-rlYrp4N642-h39EspA&s",
+      "original": "https://m.media-amazon.com/images/I/51PkrwYdzcL._AC_UF894,1000_QL80_.jpg"
+    }
+  ]
+}

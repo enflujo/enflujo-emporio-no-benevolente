@@ -1,0 +1,71 @@
+{
+  "categoria": "refrigerator",
+  "categoriaSlug": "refrigerator",
+  "idioma": "ar",
+  "nombreIdioma": "العربية",
+  "termino": "ثلاجة",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:27:43.131Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "ar",
+    "gl": "eg"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=%D8%AB%D9%84%D8%A7%D8%AC%D8%A9&hl=ar&gl=eg",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/refrigerator/ar/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlzAHKkdVO5LqH6ma-5rEZ77Fa-FNoReXKSQ&s",
+      "fuentePagina": "https://www.awadserag.com/shop/2002902-506-gn-h722hfhl-38451",
+      "titulo": "ثلاجه ال جي 506 لتر ديجيتال سلفر GN-H722HFHL | AwadSerag",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlzAHKkdVO5LqH6ma-5rEZ77Fa-FNoReXKSQ&s",
+      "original": "https://www.awadserag.com/web/image/product.image/2389/image_1024/%D8%AB%D9%84%D8%A7%D8%AC%D9%87%20%D8%A7%D9%84%20%D8%AC%D9%8A%20506%20%D9%84%D8%AA%D8%B1%20%D8%AF%D9%8A%D8%AC%D9%8A%D8%AA%D8%A7%D9%84%20%D8%B3%D9%84%D9%81%D8%B1%20GN-H722HFHL?unique=6768878"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/refrigerator/ar/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJ6N9SNFxW1BsGzVK_xgjPAQ14LuYXQA4WJA&s",
+      "fuentePagina": "https://www.elarabygroup.com/ar/sharp-refrigerator-no-frost-450-liter-2-doors-in-silver-color-sj-58c-sl?srsltid=AfmBOop911suvnRdP5SGJl1onKTAMIdTi06KSKzDezNKwfEODKXpf4cU",
+      "titulo": "ثلاجة شارب 450 لتر نوفروست سيلفر SJ-58C(SL) | العربى جروب",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJ6N9SNFxW1BsGzVK_xgjPAQ14LuYXQA4WJA&s",
+      "original": "https://elaraby-media-bucket.s3.eu-west-1.amazonaws.com/catalog/product/cache/34632140a06eef31e4c72368460b7d49/s/h/sharp-refrigerator-no-frost-450-liter-2-doors-in-silver-color-sj-58c-sl-open-food.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/refrigerator/ar/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjayG1uUPp4-U9yZ9Vv3pSmm82kpxDs-KdbQ&s",
+      "fuentePagina": "https://abo3omar-store.com/product/%D8%AB%D9%84%D8%A7%D8%AC%D9%87-%D8%AA%D9%88%D8%B4%D9%8A%D8%A8%D8%A7-535-%D9%84%D8%AA%D8%B1-%D8%B1%D9%85%D8%A7%D8%AF%D9%8A-%D8%A7%D9%86%D9%81%D8%B1%D8%AA%D8%B1-%D9%85%D9%8A%D8%AF%D9%8A%D8%A7-gr-rt702w/?srsltid=AfmBOorn9cKkiqJIsGIEWTj0UNeTWhGyp5eWNlrLKQx9wasxewewsYKm",
+      "titulo": "ثلاجه توشيبا 535 لتر رمادي انفرتر /ميديا GR-RT702WE-PMN(06) - متجر أبو عمر",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjayG1uUPp4-U9yZ9Vv3pSmm82kpxDs-KdbQ&s",
+      "original": "https://abo3omar-store.com/wp-content/uploads/2024/11/92031020Z09641-%D8%AB%D9%84%D8%A7%D8%AC%D9%87-%D8%AA%D9%88%D8%B4%D9%8A%D8%A8%D8%A7-535-%D9%84%D8%AA%D8%B1-%D8%B1%D9%85%D8%A7%D8%AF%D9%8A-%D8%A7%D9%86%D9%81%D8%B1%D8%AA%D8%B1-%D9%85%D9%8A%D8%AF%D9%8A%D8%A7-GR-RT702WE-PMN06-600x656.png"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/refrigerator/ar/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSndzXQQTqfr5Cxj9DxzrMntvgHWzxAkd5Sqg&s",
+      "fuentePagina": "https://www.toshiba-lifestyle.com/sa-ar/refrigerator/top-mount-freezer/toshiba-top-mount-freezer-608l-gr-a820",
+      "titulo": "ثلاجة توشيبا بسعة 21.8 قدم | توشيبا الشرق الأوسط",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSndzXQQTqfr5Cxj9DxzrMntvgHWzxAkd5Sqg&s",
+      "original": "https://web-res.midea.com/content/dam/toshiba-aem/me/refrigerator/top-mount-freezer/toshiba-top-mount-freezer-608l-gr-a820/ps-img-3.jpg/jcr:content/renditions/cq5dam.web.5000.5000.jpeg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/refrigerator/ar/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpqZK_QC4FoCtiHrbsP2-ELSK7pwGt6AMXUA&s",
+      "fuentePagina": "https://future-shops.com/product/sharp-refrigerator-no-frost-449-liter-2-doors-in-silver-color-sj-58csl/",
+      "titulo": "ثلاجة شارب نوفروست سعة 449 لتر ، 2 باب لون سيلفر SJ-58C(SL ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpqZK_QC4FoCtiHrbsP2-ELSK7pwGt6AMXUA&s",
+      "original": "https://future-shops.com/wp-content/uploads/2019/05/21Z1qKEZi9S._AC_-1-1-600x1463.jpg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/refrigerator/ar/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPnxCJXZhadSFSHKXReHA2LZOBy6ntkmByDg&s",
+      "fuentePagina": "https://menashopeg.com/product/%D8%AC%D9%88%D8%B1%D9%8A%D9%86%D9%8A%D8%A7-%D8%AB%D9%84%D8%A7%D8%AC%D8%A9-%D9%84%D9%88%D9%86-%D8%A3%D8%B3%D9%88%D8%AF-583-%D9%84%D8%AA%D8%B1-%D9%86%D9%88%D9%81%D8%B1%D9%88%D8%B3%D8%AA-%D8%A7%D9%86/?srsltid=AfmBOoqCiZaX4Ta5z7kpRvyG3Mddf6dflzABwyyUvf0E3_yRFW04clAx",
+      "titulo": "جورينيا ثلاجة لون أسود 541 لتر نوفروست انفرتر 4 باب تريبل زون NRM9181SBI",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPnxCJXZhadSFSHKXReHA2LZOBy6ntkmByDg&s",
+      "original": "https://menashopeg.com/wp-content/uploads/2024/12/4-8.webp"
+    }
+  ]
+}

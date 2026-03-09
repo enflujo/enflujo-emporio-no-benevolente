@@ -1,0 +1,71 @@
+{
+  "categoria": "backpack",
+  "categoriaSlug": "backpack",
+  "idioma": "ar",
+  "nombreIdioma": "العربية",
+  "termino": "حقيبة ظهر",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T20:56:28.473Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "ar",
+    "gl": "eg"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=%D8%AD%D9%82%D9%8A%D8%A8%D8%A9%20%D8%B8%D9%87%D8%B1&hl=ar&gl=eg",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/backpack/ar/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3zMWiarlqVOw66ZChF31eK_A59Ls5V87hgw&s",
+      "fuentePagina": "https://rojooshop.com/ar/product/a-large-capacity-womens-backpack-suitable-for-going-out-university-and-travel/?srsltid=AfmBOor_zI6xwCS3gObWCGxvqFUmdwbilsd4gfjYR07S-G7Fyinzl5ec",
+      "titulo": "حقيبة ظهر نسائية ذات سعه كبيره مناسبه للخروج والجامعه والسفر",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3zMWiarlqVOw66ZChF31eK_A59Ls5V87hgw&s",
+      "original": "https://rojooshop.com/wp-content/uploads/2024/07/IMG-20250811-WA0008.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/backpack/ar/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpKodEkTtZTL6G0afYSCOlS737psj6otkxPA&s",
+      "fuentePagina": "https://fashionpyramid.co/products/fashionpyramid-power-backpack-gray?srsltid=AfmBOop075T_TdXjUP61e_ROxzxwcJvBRTA2qjijTIbfXhC3p1zAcoIM",
+      "titulo": "شنطة الظهر باور - رمادى",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpKodEkTtZTL6G0afYSCOlS737psj6otkxPA&s",
+      "original": "https://fashionpyramid.co/cdn/shop/products/Powerbackpack-grey-fashionpyramid_grande.jpg?v=1680189147"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/backpack/ar/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSA5wlw_GW8CIzbUb1R3HQgX6n24woGfPz-eQ&s",
+      "fuentePagina": "https://tv-it.com/ar/products/rahala-2204-17-inch-three-compartment-laptop-travel-waterproof?srsltid=AfmBOoosBb1UAmECpYQDkQrMufcQ6xF7Svu9yNm3kNVmxON8Fq96rleq",
+      "titulo": "حقيبة ظهر Rahala 2204 مقاس 17 بوصة بثلاث جيوب كبيرة للاب توب مضادة للماء  مناسبة للسفر والعمل مع منفذ شحن USB - أسود",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSA5wlw_GW8CIzbUb1R3HQgX6n24woGfPz-eQ&s",
+      "original": "https://tv-it.com/storage/shada/bag/rahala-2204-backpack-p8.webp"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/backpack/ar/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjImuidRi5W8B4DnpP6-C7iNMQmi1Az0iNVg&s",
+      "fuentePagina": "https://naseeg.online/products/everyday-backpack",
+      "titulo": "أفضل شنطة ظهر للاستخدام اليومي في الدراسة أو العمل | نسيج ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjImuidRi5W8B4DnpP6-C7iNMQmi1Az0iNVg&s",
+      "original": "http://naseeg.online/cdn/shop/files/B0126-Black-1_4bff888a-15bc-4da0-ab75-f9d7dcb491f1.jpg?v=1728828382"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/backpack/ar/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrTxC74QOrYwtXiEJSx1vDY5Qg0LgOLSmMgA&s",
+      "fuentePagina": "https://umbrella-egypt.com/eg/product/shnt-thhr-mdrsy-llmrahkyn-shnt-kbyr-mn-kmash-llbnat-oalaolad-llmdrs-W5Htms?srsltid=AfmBOorFFoIy0q-h-l5SsqNUBX5DGZCwmytUqkeVBo__4lm9dFEBbIPy",
+      "titulo": "شنطة ظهر مدرسية للمراهقين، شنطة كبيرة من قماش للبنات والاولاد للمدرسة",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrTxC74QOrYwtXiEJSx1vDY5Qg0LgOLSmMgA&s",
+      "original": "https://umbrella-egypt.com/storage/app/public/product/2024-08-18-66c1a94da778f.png"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/backpack/ar/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUOgkYhzhV2SqJM4xmwzBVtVTBAwl1w4cl7A&s",
+      "fuentePagina": "https://fashionpyramid.co/products/backpack-pyramidback-gray?srsltid=AfmBOop6BZONOr4wXQIi7RXsEi2BKyixtlN08png-r2Bsx0jdPBkghiI",
+      "titulo": "شنطة الظهر بيراميد باك مع خامة ضد المياة - 22 لتر- رمادي",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUOgkYhzhV2SqJM4xmwzBVtVTBAwl1w4cl7A&s",
+      "original": "http://fashionpyramid.co/cdn/shop/products/Pyramid-Backpack-Fashionpyramid.webp?v=1677115471"
+    }
+  ]
+}

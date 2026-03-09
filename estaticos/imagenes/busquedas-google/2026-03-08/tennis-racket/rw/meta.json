@@ -1,0 +1,71 @@
+{
+  "categoria": "tennis racket",
+  "categoriaSlug": "tennis-racket",
+  "idioma": "rw",
+  "nombreIdioma": "Kinyarwanda",
+  "termino": "iraketi",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:05:24.170Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "en",
+    "gl": "rw"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=iraketi&hl=en&gl=rw",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/tennis-racket/rw/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRula0Xbz5f8-J6kWloeVxdiqgNKW9ROyngSQ&s",
+      "fuentePagina": "https://www.err.ee/1609706910/spacex-i-raketi-starship-uheksas-katselend-ebaonnestus",
+      "titulo": "SpaceX-i raketi Starship üheksas katselend ebaõnnestus ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRula0Xbz5f8-J6kWloeVxdiqgNKW9ROyngSQ&s",
+      "original": "https://i.err.ee/smartcrop?type=optimize&width=1472&aspectratio=16%3A10&url=https%3A%2F%2Fs.err.ee%2Fphoto%2Fcrop%2F2025%2F05%2F28%2F2880279hde07.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/tennis-racket/rw/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWYUB3yIhMM1_giohiXYkv3pJDknZFHj3jeg&s",
+      "fuentePagina": "https://eiti.org/countries/iraq",
+      "titulo": "Iraq | EITI",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWYUB3yIhMM1_giohiXYkv3pJDknZFHj3jeg&s",
+      "original": "https://eiti.org/sites/default/files/styles/full_height_hero_desktop/public/2022-03/Iraq_shutterstock_319901030.jpg?itok=Z_wZXne7"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/tennis-racket/rw/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkVjNx9OcFOcHaEx7GtaejV91GB1U3UTqs7A&s",
+      "fuentePagina": "https://www.bbc.com/gahuza/amakuru-40365301",
+      "titulo": "IS yasambuye umusigiti uranga kahise muri Irak - BBC News Gahuza",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkVjNx9OcFOcHaEx7GtaejV91GB1U3UTqs7A&s",
+      "original": "http://c.files.bbci.co.uk/131BC/production/_96586287_huo.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/tennis-racket/rw/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJAezSIHZ9tvG8HAIFA7TSBGxWq6QWMGfWGw&s",
+      "fuentePagina": "https://rw.wikipedia.org/wiki/Irake",
+      "titulo": "Irake - Wikipedia",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJAezSIHZ9tvG8HAIFA7TSBGxWq6QWMGfWGw&s",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Flag_of_Iraq.svg/330px-Flag_of_Iraq.svg.png"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/tennis-racket/rw/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQJ1JTeG9C8cLuJHugCMYkFLodrWS_UKMjDw&s",
+      "fuentePagina": "https://ia.wikipedia.org/wiki/Irak",
+      "titulo": "Irak - Wikipedia, le encyclopedia libere",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQJ1JTeG9C8cLuJHugCMYkFLodrWS_UKMjDw&s",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/View_of_Sulaymaniyah_%28Slemani%29_City_in_Winter_-_Snow_2015.JPG/1280px-View_of_Sulaymaniyah_%28Slemani%29_City_in_Winter_-_Snow_2015.JPG"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/tennis-racket/rw/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_VAXCKYfMguZeL4RgkxRJDaHjEHgrCzFZqQ&s",
+      "fuentePagina": "https://fakti.bg/en/world/933686-israel-strikes-sites-in-syria-over-chemical-weapons-and-missile-fears",
+      "titulo": "Israel strikes sites in Syria over chemical weapons and ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_VAXCKYfMguZeL4RgkxRJDaHjEHgrCzFZqQ&s",
+      "original": "https://cdn4.focus.bg/fakti/photos/16x9/05e/izrael-udari-obekti-v-siria-zaradi-opasenia-za-himicheski-orajia-i-raketi-1.webp"
+    }
+  ]
+}

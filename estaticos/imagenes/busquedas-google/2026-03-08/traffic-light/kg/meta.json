@@ -1,0 +1,71 @@
+{
+  "categoria": "traffic light",
+  "categoriaSlug": "traffic-light",
+  "idioma": "kg",
+  "nombreIdioma": "Kikongo",
+  "termino": "feu",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T20:46:23.387Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "fr",
+    "gl": "cd"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=feu&hl=fr&gl=cd",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/traffic-light/kg/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxgmdBeyWwdYLrZnglLoFF3yoLROxLJJKaMQ&s",
+      "fuentePagina": "https://unsplash.com/fr/photos/feu--98jVaVuGv0",
+      "titulo": "Feu photo – Image gratuite de Noir sur Unsplash",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxgmdBeyWwdYLrZnglLoFF3yoLROxLJJKaMQ&s",
+      "original": "https://images.unsplash.com/photo-1523861751938-121b5323b48b?fm=jpg&q=60&w=3000&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8ZmV1fGVufDB8fDB8fHww"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/traffic-light/kg/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRDDrLhPhHjCA4HKJ8iCbIe9urBArrH8UUdQ&s",
+      "fuentePagina": "https://fr.wikipedia.org/wiki/Feu",
+      "titulo": "Feu — Wikipédia",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRDDrLhPhHjCA4HKJ8iCbIe9urBArrH8UUdQ&s",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/2/2a/FIRE_01.JPG"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/traffic-light/kg/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTt0yJMtUuueejRCmjeiXgvgIr9Ezi6p45uSw&s",
+      "fuentePagina": "https://www.istockphoto.com/fr/illustrations/feu",
+      "titulo": "546 700+ Feu Stock Illustrations, graphiques vectoriels ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTt0yJMtUuueejRCmjeiXgvgIr9Ezi6p45uSw&s",
+      "original": "https://media.istockphoto.com/id/1375132290/fr/vectoriel/illustration-vectorielle-emoji-flamme-de-feu.jpg?s=612x612&w=0&k=20&c=2hLYTVrUgwls2zFI5jvKROGi_0I_0WjcsW3ZPMI-Eec="
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/traffic-light/kg/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTina1e8OUcVrUiIHd57lVBS70VbNCGbkr-bA&s",
+      "fuentePagina": "https://www.casayoga.tv/blog/ayurveda-yoga/yoga-ayurveda-element-feu-recherche",
+      "titulo": "L'élément Feu",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTina1e8OUcVrUiIHd57lVBS70VbNCGbkr-bA&s",
+      "original": "https://www.casayoga.tv/images/images-blog-2/92-casayogatv-blog-l-element-feu.jpg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/traffic-light/kg/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkJObAdX2qkb8pyBQHqQJqCiHPBnsUeLw-Gw&s",
+      "fuentePagina": "https://fr.freepik.com/photos-vecteurs-libre/feu-flamme",
+      "titulo": "Images de Feu flamme – Téléchargement gratuit sur Freepik",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkJObAdX2qkb8pyBQHqQJqCiHPBnsUeLw-Gw&s",
+      "original": "https://img.freepik.com/psd-gratuit/enfer-ardent-representation-numerique-flammes-ardentes_632498-25178.jpg?semt=ais_hybrid&w=740&q=80"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/traffic-light/kg/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTwbFqZmp70EBI9_oAQNa6nbetp3jm_-mB0g&s",
+      "fuentePagina": "https://www.techno-science.net/glossaire-definition/Feu.html",
+      "titulo": "Feu - Définition et Explications",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTwbFqZmp70EBI9_oAQNa6nbetp3jm_-mB0g&s",
+      "original": "https://static.techno-science.net/illustration/Definitions/1200px/f/fire-in-ranua_66362149844de83dd226fb66b8103ffd.jpg"
+    }
+  ]
+}

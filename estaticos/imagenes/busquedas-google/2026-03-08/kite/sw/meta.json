@@ -1,0 +1,71 @@
+{
+  "categoria": "kite",
+  "categoriaSlug": "kite",
+  "idioma": "sw",
+  "nombreIdioma": "Kiswahili",
+  "termino": "ndege ya karatasi",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:02:00.272Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "sw",
+    "gl": "tz"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=ndege%20ya%20karatasi&hl=sw&gl=tz",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/kite/sw/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVScX3reP5nlqbIP_9G_P1XbwK0ZeC_6n0hQ&s",
+      "fuentePagina": "https://www.youtube.com/watch?v=fP51cYId1qY",
+      "titulo": "Jinsi ya kutengeza ndege ya karatasi",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVScX3reP5nlqbIP_9G_P1XbwK0ZeC_6n0hQ&s",
+      "original": "https://i.ytimg.com/vi/fP51cYId1qY/maxresdefault.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/kite/sw/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGbLckkCS6RulaYOmZfDYqzwDiSNyjBcdKvA&s",
+      "fuentePagina": "https://www.youtube.com/watch?v=K8r9tzcW_dE",
+      "titulo": "Jinsi ya kufanya ndege nje ya karatasi",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGbLckkCS6RulaYOmZfDYqzwDiSNyjBcdKvA&s",
+      "original": "https://i.ytimg.com/vi/K8r9tzcW_dE/sddefault.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/kite/sw/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrjQ0dd5KzFbd_A53OCgQQqmKZ0jXrDqSglg&s",
+      "fuentePagina": "https://play.google.com/store/apps/details?id=ange.apps.origami.aircraft&hl=sw",
+      "titulo": "Ndege ya Origami, karatasi - Programu zilizo kwenye Google Play",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrjQ0dd5KzFbd_A53OCgQQqmKZ0jXrDqSglg&s",
+      "original": "https://play-lh.googleusercontent.com/nUUMsWgASJosM2pB575-q9pIbkysg7lprHLm-aXDugxsGN5-TF8GzK2PiRJ7gaAdOQ"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/kite/sw/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWf2_iTQ3rgZsOGdhzFmuRz_nlcFbLJXScAw&s",
+      "fuentePagina": "https://rcdrone.top/sw/products/1pc-random-color-airplane?srsltid=AfmBOoovy4q5E28ZyVd2uvTPaEGMJRzKLvqqzdLB0kG9n6LoA4A88krM",
+      "titulo": "Mfano wa Karatasi ya Kukunja ya Ndege ya Rangi ya Nasibu ya ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWf2_iTQ3rgZsOGdhzFmuRz_nlcFbLJXScAw&s",
+      "original": "https://rcdrone.top/cdn/shop/products/Hb4ce4e19395240ab819915fc4045faadG_d3349083-c1c9-414e-9fda-f400f42e14db.jpg?v=1684065161&width=1445"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/kite/sw/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7t4xMu5ViWeHqB8pVKAB8ULOvr-FDEnx8oQ&s",
+      "fuentePagina": "https://www.youtube.com/watch?v=ou5KHuk74a8",
+      "titulo": "Changamoto ya Ndege ya Karatasi Video za Kuchekesha za Watoto",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7t4xMu5ViWeHqB8pVKAB8ULOvr-FDEnx8oQ&s",
+      "original": "https://i.ytimg.com/vi/ou5KHuk74a8/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLCc-9mQHxOlLIlSDP--PLjUM1_xPQ"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/kite/sw/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6mmgffEHC-U5Rux3uZ6-6IlkfDNJ07WtQ4g&s",
+      "fuentePagina": "https://www.facebook.com/photo.php?fbid=863658631082581&set=a.579635074266068&id=100066587411128",
+      "titulo": "Aviation - NDEGE ZISIZO NA INJINI (Glider) Glider ni aina ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6mmgffEHC-U5Rux3uZ6-6IlkfDNJ07WtQ4g&s",
+      "original": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=863658631082581"
+    }
+  ]
+}

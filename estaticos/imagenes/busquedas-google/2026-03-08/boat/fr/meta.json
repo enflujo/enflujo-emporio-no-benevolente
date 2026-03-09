@@ -1,0 +1,71 @@
+{
+  "categoria": "boat",
+  "categoriaSlug": "boat",
+  "idioma": "fr",
+  "nombreIdioma": "Français",
+  "termino": "bateau",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T20:45:43.514Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "fr",
+    "gl": "be"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=bateau&hl=fr&gl=be",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/boat/fr/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdkqvHWfVik-4y_kmvXZ1a6oA38A--LLqbnQ&s",
+      "fuentePagina": "https://coursnautique.com/differentes-parties-un-bateau/",
+      "titulo": "Quelles sont les différentes parties d'un bateau: terminologie",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdkqvHWfVik-4y_kmvXZ1a6oA38A--LLqbnQ&s",
+      "original": "https://coursnautique.com/wp-content/uploads/2022/02/Les-diff%C3%A9rentes-parties-dun-bateau-scaled-800x500.jpeg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/boat/fr/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5SgKtlFeMzcpdkPzfGy37IRteK_7VeeYZtg&s",
+      "fuentePagina": "https://www.cgifinance.fr/bateau/fr/guide/types-de-bateaux/a-moteur/bateau-habitable/",
+      "titulo": "Bateau habitable : types, meilleurs modèles 2026, financement",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5SgKtlFeMzcpdkPzfGy37IRteK_7VeeYZtg&s",
+      "original": "https://www.cgifinance.fr/app/uploads/sites/3/2025/03/Nimbus-405-Coupe.webp"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/boat/fr/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZ2zxsD9QHmaxe7NiPGQC6JsvJyDllihs8aQ&s",
+      "fuentePagina": "https://cartebateau.com/types-de-bateaux",
+      "titulo": "Différents types de bateaux – Choisir le bon pour vos besoins!",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZ2zxsD9QHmaxe7NiPGQC6JsvJyDllihs8aQ&s",
+      "original": "https://cartebateau.com/hubfs/courses/ccep2021/images/tout-les-types-de-bateau.png"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/boat/fr/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsmQkTWnntF1O7LAgLgHsH7D3q8DKKduDO7Q&s",
+      "fuentePagina": "https://www.espacepower.fr/comment-choisir-son-premier-bateau-les-cles-pour-un-achat-reussi/",
+      "titulo": "Comment choisir son premier bateau : guide d'achat pour ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsmQkTWnntF1O7LAgLgHsH7D3q8DKKduDO7Q&s",
+      "original": "https://www.espacepower.fr/wp-content/uploads/2025/02/choisir-son-premier-bateau.png"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/boat/fr/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnr4B4dvE9Hc3XFlePKdi5fuVA5d4_ertCRA&s",
+      "fuentePagina": "https://www.shutterstock.com/fr/search/bateau",
+      "titulo": "9,9 millions Images et Photos de Bateau Libres de Droits ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnr4B4dvE9Hc3XFlePKdi5fuVA5d4_ertCRA&s",
+      "original": "https://www.shutterstock.com/image-vector/simple-toy-boat-clean-vector-600nw-2671653625.jpg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/boat/fr/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8l8aWuwqDXGGYYornrpOjGP8ISg9td7Y3aw&s",
+      "fuentePagina": "https://www.annoncesbateau.com/conseils/le-plus-grand-bateau-du-monde/?srsltid=AfmBOoroIX47OTP84s2ygjYwIdSAX8kieg2HNy-tkIf9_PU2T67noAlN",
+      "titulo": "Le plus grand bateau du monde",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8l8aWuwqDXGGYYornrpOjGP8ISg9td7Y3aw&s",
+      "original": "https://content.boats.com/files/Bateau-le-plus-cher-du-monde.png"
+    }
+  ]
+}

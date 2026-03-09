@@ -1,0 +1,71 @@
+{
+  "categoria": "airplane",
+  "categoriaSlug": "airplane",
+  "idioma": "es",
+  "nombreIdioma": "Español",
+  "termino": "avión",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T20:43:29.414Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "es",
+    "gl": "es"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=avi%C3%B3n&hl=es&gl=es",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/airplane/es/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIGOO5PWlW-Oxw2_oivdpQ904QkWmLwCq3zw&s",
+      "fuentePagina": "https://es.wikipedia.org/wiki/Avi%C3%B3n",
+      "titulo": "Avión - Wikipedia, la enciclopedia libre",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIGOO5PWlW-Oxw2_oivdpQ904QkWmLwCq3zw&s",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Air_india_b747-400_vt-esn_arp.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/airplane/es/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmP_ID9u7528hN6abFu-ZjC2w-hzmM3uqQUg&s",
+      "fuentePagina": "https://www.aviationgroup.es/actualidad/cuales-son-las-partes-mas-importantes-de-un-avion/",
+      "titulo": "Cuáles son las partes más importantes de un avión ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmP_ID9u7528hN6abFu-ZjC2w-hzmM3uqQUg&s",
+      "original": "https://www.aviationgroup.es/wp-content/uploads/2019/04/1132-e1591699339327.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/airplane/es/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_VT50y2l7WtHibei0J1SJqfRM5UX-GAlKUA&s",
+      "fuentePagina": "https://cnnespanol.cnn.com/2024/07/16/avion-totalmente-electrico-90-pasajeros-volar-800-km-trax",
+      "titulo": "Este avión totalmente 100% eléctrico para 90 pasajeros ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_VT50y2l7WtHibei0J1SJqfRM5UX-GAlKUA&s",
+      "original": "https://media.cnn.com/api/v1/images/stellar/prod/cnne-1721873-copia-de-foto-para-wp-2024-07-16t082810-699.jpg?c=original"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/airplane/es/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQre0tFh7oE4dFUNNfkokoog-DpJomhQ_g5Jw&s",
+      "fuentePagina": "https://www.youtube.com/watch?v=9XimutDsfsY",
+      "titulo": "AVIONES VOLANDO IMPRESIONANTE MENTE BAJO PARA ATERRIZAR EN EL AEROPUERTO  LAS AMERICAS SDQ | #plane",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQre0tFh7oE4dFUNNfkokoog-DpJomhQ_g5Jw&s",
+      "original": "https://i.ytimg.com/vi/9XimutDsfsY/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLBjRXBMA9bF_bCTy58ml1rUeVPFWg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/airplane/es/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR69S0VZ7mS3AijwxhUlho0bkjl6ie-KpPt0A&s",
+      "fuentePagina": "https://www.xataka.com/transporte/eeuu-prueba-su-nuevo-avion-juicio-final-su-papel-mantener-cadena-mando-incluso-escenario-nuclear",
+      "titulo": "EEUU ya prueba su nuevo “avión del juicio final”. Su papel ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR69S0VZ7mS3AijwxhUlho0bkjl6ie-KpPt0A&s",
+      "original": "https://i.blogs.es/79e35f/avion-juicio-final-concepto-portada/500_333.jpeg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/airplane/es/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIpo7AQ5_tXuCzauZwGZozlQj6dS0JmoIamw&s",
+      "fuentePagina": "https://www.iberia.com/es/flota/iberia/",
+      "titulo": "Detalle Flota Iberia - Iberia España",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIpo7AQ5_tXuCzauZwGZozlQj6dS0JmoIamw&s",
+      "original": "https://www.iberia.com/wcs/imagenes/noticias/2024/desarrollo_airbus_A321XLR.jpg"
+    }
+  ]
+}

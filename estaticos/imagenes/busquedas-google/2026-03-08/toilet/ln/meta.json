@@ -1,0 +1,71 @@
+{
+  "categoria": "toilet",
+  "categoriaSlug": "toilet",
+  "idioma": "ln",
+  "nombreIdioma": "Lingala",
+  "termino": "toilette",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:20:15.198Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "fr",
+    "gl": "cd"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=toilette&hl=fr&gl=cd",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/toilet/ln/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWmGOnm4yk-qJZGKsCwjseuGAauTq7wuixcg&s",
+      "fuentePagina": "https://www.reuter.com/fr-ch/marques/laufen/toilette.html",
+      "titulo": "WC et toilettes LAUFEN | REUTER Suisse",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWmGOnm4yk-qJZGKsCwjseuGAauTq7wuixcg&s",
+      "original": "https://img.reuter.com/products/la/640x640/laufen-cada-wc-suspendu-avec-silent-flush-l-53-l-36-cm-avec-abattant-wc-avec-cleancoat-lcc-blanc--la-h821cd10000001_1.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/toilet/ln/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9KlTR7-kcvXpbjyRkfq4WLCqcrwIFtpYkaA&s",
+      "fuentePagina": "https://www.banio.fr/pack-complet-wc-sur-pieds/3047766-toilette-compacte-c-clear-horizontale-avec-abattant-soft-close--5907548108845.html?srsltid=AfmBOoqd_n0cXQeR2pDWnJQOJrdQ0Dmby7ZdmKfTqfC45OhI4fcAhD79",
+      "titulo": "Toilette compacte C-Clear (horizontale) avec abattant soft-close",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9KlTR7-kcvXpbjyRkfq4WLCqcrwIFtpYkaA&s",
+      "original": "https://www.banio.fr/565594-large_default/toilette-compacte-c-clear-horizontale-avec-abattant-soft-close-.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/toilet/ln/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwDzAKGcywr_G32jv16aPFT3GOriO4F8OFOg&s",
+      "fuentePagina": "https://sfa.fr/fr/blog/quels-sont-les-differents-types-de-toilettes",
+      "titulo": "Quels sont les différents types de toilettes ? | SFA",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwDzAKGcywr_G32jv16aPFT3GOriO4F8OFOg&s",
+      "original": "https://sfa.backend.sfagroup.com/sites/default/files/blog/images/fr/148.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/toilet/ln/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTO_TxIo0KV2XGrcFmomj5DyxC9j7NCmzBxmg&s",
+      "fuentePagina": "https://fr.wikipedia.org/wiki/Toilettes",
+      "titulo": "Toilettes — Wikipédia",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTO_TxIo0KV2XGrcFmomj5DyxC9j7NCmzBxmg&s",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Flush_toilet_bowl.jpg/250px-Flush_toilet_bowl.jpg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/toilet/ln/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuQdImmfRrYHBKrP-FQxEVxmMHNAnA27dnmg&s",
+      "fuentePagina": "https://www.bmr.ca/fr/opaz-toilette-monobloc-ronde-napoli-4-8-l-002-2069.html",
+      "titulo": "Toilette, monobloc, ronde, Napoli, 4,8 l de OPAZ | BMR",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuQdImmfRrYHBKrP-FQxEVxmMHNAnA27dnmg&s",
+      "original": "https://www.bmr.ca/media/catalog/product/cache/4d338e88f705b4164ea551ad342bc06e/0/0/002-2069_001.jpg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/toilet/ln/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQl5plxiBiS6UGOpqiZVx75BJd68l95mmwCJw&s",
+      "fuentePagina": "https://vitrinelinguistique.oqlf.gouv.qc.ca/fiche-gdt/fiche/26511635/toilette",
+      "titulo": "toilette | GDT",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQl5plxiBiS6UGOpqiZVx75BJd68l95mmwCJw&s",
+      "original": "https://contenu.vitrinelinguistique.oqlf.gouv.qc.ca/illustrations/201094_121622195.jpg"
+    }
+  ]
+}

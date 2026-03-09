@@ -1,0 +1,71 @@
+{
+  "categoria": "skis",
+  "categoriaSlug": "skis",
+  "idioma": "am",
+  "nombreIdioma": "Amharic — አማርኛ",
+  "termino": "ስኪ",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:00:16.250Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "am",
+    "gl": "et"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=%E1%88%B5%E1%8A%AA&hl=am&gl=et",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/skis/am/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbvoyaMhPCUh3cqthiS2VhpTNCg1ZdykdJzA&s",
+      "fuentePagina": "https://www.lyfta.app/am/exercise/ski-ergometer-7rq",
+      "titulo": "ስኪ ኤርጎሜትር Video Guide",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbvoyaMhPCUh3cqthiS2VhpTNCg1ZdykdJzA&s",
+      "original": "https://www.lyfta.app/_next/image?url=%2Fthumbnails%2F21421201.jpg&w=3840&q=75"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/skis/am/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSF7C9pUgwsG6kymRJVUXhITKNuHEB4YeHpDA&s",
+      "fuentePagina": "http://am.stepkemp.com/step-kemp-winter-outdoor-warm-anti-ski-boots-product/",
+      "titulo": "የቻይና ስቴፕ ኬምፕ የክረምት የውጪ ሙቅ ፀረ-ስኪ ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSF7C9pUgwsG6kymRJVUXhITKNuHEB4YeHpDA&s",
+      "original": "https://www.stepkemp.com/uploads/Kids-Boots-224.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/skis/am/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBP7B_RQ_p_gk3SGxlbAg9kV5gd3vuSoP7UQ&s",
+      "fuentePagina": "https://am.passionouterwear.com/ladies-ski-mountaineering-mid-layer-hoodies-5-product/",
+      "titulo": "የቻይና ሴቶች ስኪ ተራራማ መካከለኛ ሽፋን ያላቸው ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBP7B_RQ_p_gk3SGxlbAg9kV5gd3vuSoP7UQ&s",
+      "original": "https://www.passionouterwear.com/uploads/L70_639634_1.webp_.png"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/skis/am/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuJ920LAH1vILAJA9lOHnwmmMBPp0KroXlQw&s",
+      "fuentePagina": "https://am.passionouterwear.com/ladies-ski-mountaineering-mid-layer-hoodies-4-product/",
+      "titulo": "የቻይና ሴቶች ስኪ ተራራማ መካከለኛ ሽፋን ያላቸው ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuJ920LAH1vILAJA9lOHnwmmMBPp0KroXlQw&s",
+      "original": "https://cdn.globalso.com/passionouterwear/L71_643614_01.webp_.png"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/skis/am/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkiJtIQ24N-Cii_rR9gRzoYSbyc13468aaxQ&s",
+      "fuentePagina": "https://am.hxwsports.com/ski-carrier-strap/57464567.html",
+      "titulo": "ቁልቁል ስኪ ማሰሪያዎች ስኪ እና ምሰሶ ተሸካሚ",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkiJtIQ24N-Cii_rR9gRzoYSbyc13468aaxQ&s",
+      "original": "https://bsg-i.nbxc.com/product/9f/ed/0b/1f0af676b3c57b4a6d586fe84b.jpg@4e_500w_500h.src%7C95Q.webp"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/skis/am/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbYkQS6-WFQYZ002r4HZRM--ZDRC-333bIYw&s",
+      "fuentePagina": "https://www.aidugarments.com/am/mens-and-womens-outdoor-jacket-windproof-soft-shell-hoodie-hiking-camping-jacket-coat-cargo-jacket-ski-ski-ski-product/",
+      "titulo": "የወንዶች እና የሴቶች የውጪ ጃኬት ንፋስ የማይገባ ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbYkQS6-WFQYZ002r4HZRM--ZDRC-333bIYw&s",
+      "original": "https://cdnus.globalso.com/aidugarments/114.png"
+    }
+  ]
+}

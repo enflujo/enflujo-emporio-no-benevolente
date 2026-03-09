@@ -1,0 +1,71 @@
+{
+  "categoria": "bicycle",
+  "categoriaSlug": "bicycle",
+  "idioma": "pt",
+  "nombreIdioma": "Português",
+  "termino": "bicicleta",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T20:41:36.656Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "pt",
+    "gl": "br"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=bicicleta&hl=pt&gl=br",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bicycle/pt/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwSxPHxw3T6X7v7Zt7UXnUZeDZKcqNGSQN3Q&s",
+      "fuentePagina": "https://www.trackbikes.com.br/mountain-bike-aro-26-e-29/bicicleta-tk3-track-trivo-adulto-aro-29?srsltid=AfmBOoq2WxIXkuBOS3BxgwtawVftY8AR68lz1u1EwzhmP-v6Wclzx9f0",
+      "titulo": "Bicicleta TK3 Track Trivo Adulto Aro 29 - TK3 Track",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwSxPHxw3T6X7v7Zt7UXnUZeDZKcqNGSQN3Q&s",
+      "original": "https://images.tcdn.com.br/img/img_prod/702034/bicicleta_tk3_track_trivo_adulto_aro_29_1_20251118143539_6258fc40303a.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bicycle/pt/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfwJOMuN_taouEKPh0tVS3Wt5ZmBSl7-qYcQ&s",
+      "fuentePagina": "https://www.tertaubike.com.br/bicicleta-aro-20-mtb-masculina-cores?srsltid=AfmBOorNtbQIxO9DL087I0P9WfpTHZzavQpjcEsJlFuGKaOYPNUxLOkk",
+      "titulo": "Bicicleta Aro 20 - MTB - Masculina - Cores - Tertau Bike ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfwJOMuN_taouEKPh0tVS3Wt5ZmBSl7-qYcQ&s",
+      "original": "https://cdn.awsli.com.br/1103/1103806/produto/43270863/400df830c6.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bicycle/pt/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAzSIMSrKpUprZA0_-nBJBttFz2lsyx5wjOw&s",
+      "fuentePagina": "https://www.lojagtsm1.com.br/bicicletas/aro-29/bicicleta-feminina-gts-aro-29-freio-a-disco-cambio-mx8-24-marchas-e-amortecedor-gts-m1-ride?srsltid=AfmBOopZXZkzoiIAbb8kmTqeRIe3IbXJ2KCXrghs0eD0oHmqV7H476_x",
+      "titulo": "Bicicleta Feminina 29 GTS M1 Freio a Disco 24v Mx8 Ride F",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAzSIMSrKpUprZA0_-nBJBttFz2lsyx5wjOw&s",
+      "original": "https://images.tcdn.com.br/img/img_prod/394779/bicicleta_feminina_gts_aro_29_freio_a_disco_cambio_gtsm1_mx8_24_marchas_e_amortecedor_gts_m1_ride_fe_1017_variacao_6300_2_cd285db44aaafcd4815fad90c5e746d4_20250701155200.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bicycle/pt/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJPfsdX4sKvb0JFys8uQb26ZKl3YsQPLDHNQ&s",
+      "fuentePagina": "https://www.bikeportella.com.br/bicicleta-agile-freestyle-aro-20.html?srsltid=AfmBOooCAs4bLpK1P9yjRS6REcRADOvPVqKFE1LfNERtuGTbiSAYu37R",
+      "titulo": "Bicicleta Agile Freestyle Aro 20 - Bike Portella",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJPfsdX4sKvb0JFys8uQb26ZKl3YsQPLDHNQ&s",
+      "original": "https://www.ecompletocdn.com.br/i/fp/1340/910727_3_1724960327.jpg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bicycle/pt/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHF-wUX1qdhq_pzjpH12CWIJIBRcnivPTrhg&s",
+      "fuentePagina": "https://www.entregabikes.com.br/produto/bicicleta-aco-carbono-ksvj-aro-29-freios-a-disco-21-vel?srsltid=AfmBOopEQtJTrxwyvdmf5iIIAcygdC9sXmX5kzDcMgcT5aPVFhnimXWw",
+      "titulo": "Bicicleta Aro 29 Aço Carbono KGT Freios A Disco 21 Marchas",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHF-wUX1qdhq_pzjpH12CWIJIBRcnivPTrhg&s",
+      "original": "https://cdn.awsli.com.br/600x1000/2647/2647048/produto/232171778/vde-2-8xl3wsqir9.jpg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bicycle/pt/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuHiJyejbdv2prsBMP7Y9aIQb9UTMXx7Ka9A&s",
+      "fuentePagina": "https://wallbike.com.br/produto/bicicleta-retro-aro-26/",
+      "titulo": "BICICLETA RETRÔ ARO 26 - Wallbike",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuHiJyejbdv2prsBMP7Y9aIQb9UTMXx7Ka9A&s",
+      "original": "https://wallbike.com.br/wp-content/uploads/2021/01/bikes-dia-15-2.png"
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "categoria": "train",
+  "categoriaSlug": "train",
+  "idioma": "pt",
+  "nombreIdioma": "Português",
+  "termino": "trem",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T20:44:50.151Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "pt",
+    "gl": "br"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=trem&hl=pt&gl=br",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/train/pt/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjOyyR2Yn7l7qkFAgSNb74ovozv9rmE0aWYA&s",
+      "fuentePagina": "https://mobilidade.estadao.com.br/mobilidade-para-que/se-divertir/conheca-o-trem-de-brinquedo-trajeto-muito-lento-que-atrai-turistas-de-todo-mundo/",
+      "titulo": "Trem de brinquedo' atrai turistas de por realizar trajeto ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjOyyR2Yn7l7qkFAgSNb74ovozv9rmE0aWYA&s",
+      "original": "https://mobilidade.estadao.com.br/wp-content/uploads/2025/02/take-a-ride-in-the-toy-train-trem-india.jpg.webp"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/train/pt/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRiEwwqhirwmBEoJibNIngjTgGu14TqLsrVCA&s",
+      "fuentePagina": "https://rotaserragaucha.com.br/blog/os-melhores-passeios-de-trem-do-brasil",
+      "titulo": "Os melhores Passeios de trem do Brasil | Rota Serra Gaúcha",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRiEwwqhirwmBEoJibNIngjTgGu14TqLsrVCA&s",
+      "original": "https://rota-serra-gaucha.s3.sa-east-1.amazonaws.com/blog_post/VS5t1e7BACIamL8rZyZLNrAeh8uAh5WBBemvlvAQ.png"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/train/pt/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS15ZZDrk3UHA_ks-WYoW6OUgxm6DvRt5BloQ&s",
+      "fuentePagina": "https://g1.globo.com/sp/sorocaba-jundiai/noticia/2026/02/06/sorocaba-tera-passeios-de-trem-tematicos-no-carnaval-veja-como-obter-ingressos-gratuitos.ghtml",
+      "titulo": "Sorocaba terá passeios de trem temáticos no Carnaval | G1",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS15ZZDrk3UHA_ks-WYoW6OUgxm6DvRt5BloQ&s",
+      "original": "https://s2-g1.glbimg.com/1T0lXuLby0NMJuYoarGDlXAoKVQ=/0x0:2048x1368/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2017/x/B/ODws1KQlA0XRpTrogAow/locomotiva-58-sorocaba.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/train/pt/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTog_gQws52bkxNo_U3YD-0Puj1ieyVqDt5pQ&s",
+      "fuentePagina": "https://all.accor.com/a/pt-br/limitless/thematics/outdoors/passeio-trem-brasil.html",
+      "titulo": "6 incríveis passeios de trem para fazer no Brasil | Accor",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTog_gQws52bkxNo_U3YD-0Puj1ieyVqDt5pQ&s",
+      "original": "https://aem-all.accor.com/content/dam/all/hubs/americas/latam/generic-images/all-magazine/passeio-trem-brasil-2024-1.jpg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/train/pt/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4-VE1jKx0PhsGqcQoMasM7p40x3MCOBmq0w&s",
+      "fuentePagina": "https://www.cbfa.com.br/quais-passeios-de-trem-existem-pelo-brasil/",
+      "titulo": "Quais passeios de trem existem pelo Brasil? » CBFA",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4-VE1jKx0PhsGqcQoMasM7p40x3MCOBmq0w&s",
+      "original": "https://cbfa.com.br/wp-content/uploads/2022/09/passeios-de-trem-pelo-brasil.jpg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/train/pt/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXxprRAhe3eS3_IbgNz_QYJGAoccU9xuMAKA&s",
+      "fuentePagina": "https://serraverdeexpress.com.br/news/trilhos-pelo-brasil-conheca-tres-viagens-de-trem-da-regiao-sul",
+      "titulo": "Trilhos pelo Brasil: conheça três viagens de trem da Região ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXxprRAhe3eS3_IbgNz_QYJGAoccU9xuMAKA&s",
+      "original": "https://serraverdeexpress.com.br/uploads/0000/1/2024/02/05/blog-trilhos-trem-brasil.jpg"
+    }
+  ]
+}

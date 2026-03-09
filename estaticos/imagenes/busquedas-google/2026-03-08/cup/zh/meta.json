@@ -1,0 +1,71 @@
+{
+  "categoria": "cup",
+  "categoriaSlug": "cup",
+  "idioma": "zh",
+  "nombreIdioma": "中文",
+  "termino": "杯子",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:07:47.355Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "zh-CN",
+    "gl": "cn"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=%E6%9D%AF%E5%AD%90&hl=zh-CN&gl=cn",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/cup/zh/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6hHCPu1ylKYlHzanteDf2aaZ9TTGNHaazlA&s",
+      "fuentePagina": "https://www.buccellati.com/cn_tw/double-rouche-florence-furnace-cobalt-blue-mug-hpobar022025xxx000.html?srsltid=AfmBOophKJxPxM3Pem4ue5lxfSWUjFeeiXiORSKT_uqRpYoRX0uS7loQ",
+      "titulo": "Rouche 藍色陶瓷杯| Buccellati",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6hHCPu1ylKYlHzanteDf2aaZ9TTGNHaazlA&s",
+      "original": "https://www.buccellati.com/media/catalog/product/cache/e30df37fe797367961e091f338eb1dfc/H/P/HPOBAR022025_V1xxl_2.png"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/cup/zh/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcToaVjOs3p6qynRNF7ok-JQBkC-k1c2FMt_gg&s",
+      "fuentePagina": "https://www.ikea.com.hk/zh/products/coffee-and-tea/mugs-and-cups/fargrik-art-80234806",
+      "titulo": "FÄRGRIK - 杯, 湖水綠色, 25 厘升| IKEA 香港及澳門",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcToaVjOs3p6qynRNF7ok-JQBkC-k1c2FMt_gg&s",
+      "original": "https://www.ikea.com.hk/dairyfarm/hk/images/110/0711066_PE727941_S5.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/cup/zh/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ36-uQvLV1muNHitxbHC9YCUjEdL7AoW25pw&s",
+      "fuentePagina": "https://www.muji.com.cn/cn/store/commodity/88770?ref=yesonfashion",
+      "titulo": "MUJI",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ36-uQvLV1muNHitxbHC9YCUjEdL7AoW25pw&s",
+      "original": "https://webimg.muji.com.cn/oms3930713072/c09c3b27-1cb9-4d30-8576-88b643fb2546.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/cup/zh/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSE18FYVFzQA9O5jPN5fQep4ZZw_keTFOidvw&s",
+      "fuentePagina": "https://www.muji.com.hk/zh/product/4550344341469",
+      "titulo": "透明釉杯子| 無印良品MUJI",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSE18FYVFzQA9O5jPN5fQep4ZZw_keTFOidvw&s",
+      "original": "https://img.muji.net/img/item/4550344341469_1260.jpg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/cup/zh/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGfQZ3bJt6N8ZvJTolZ9xBpNwkS3xMPp7RSQ&s",
+      "fuentePagina": "https://cn.dreamstime.com/%E5%85%8D%E7%89%88%E7%A8%8E%E5%9B%BE%E5%BA%93%E6%91%84%E5%BD%B1-%E5%8F%AF%E7%88%B1%E7%9A%84%E7%BA%A2%E8%89%B2%E6%9D%AF%E5%AD%90-image12335567",
+      "titulo": "可爱的红色马克杯库存图片. 图片包括有背包, 装饰, 花梢, 外出 ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGfQZ3bJt6N8ZvJTolZ9xBpNwkS3xMPp7RSQ&s",
+      "original": "https://thumbs.dreamstime.com/b/%E5%8F%AF%E7%88%B1%E7%9A%84%E7%BA%A2%E8%89%B2%E6%9D%AF%E5%AD%90-12335567.jpg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/cup/zh/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQf4tZ9G6CUaB1hqsytSrvyXWNffXTkP5vmg&s",
+      "fuentePagina": "https://www.pinkoi.com/product/NEqC7QYL",
+      "titulo": "為藍系列- 馬克杯| 禮品安達窯｜其他杯子人氣榜- Pinkoi",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQf4tZ9G6CUaB1hqsytSrvyXWNffXTkP5vmg&s",
+      "original": "https://cdn01.pinkoi.com/product/NEqC7QYL/0/2/640x530.jpg"
+    }
+  ]
+}

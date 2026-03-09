@@ -1,0 +1,71 @@
+{
+  "categoria": "fork",
+  "categoriaSlug": "fork",
+  "idioma": "hi",
+  "nombreIdioma": "हिन्दी",
+  "termino": "कांटा",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:08:17.125Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "hi",
+    "gl": "in"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=%E0%A4%95%E0%A4%BE%E0%A4%82%E0%A4%9F%E0%A4%BE&hl=hi&gl=in",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/fork/hi/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXUzNIaof5IkSIYMmy4ANY1TIjSOX6yDY_SQ&s",
+      "fuentePagina": "https://www.myupchar.com/first-aid/remove-splinter",
+      "titulo": "कांटा लगने (चुभने) पर क्या करें ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXUzNIaof5IkSIYMmy4ANY1TIjSOX6yDY_SQ&s",
+      "original": "https://image.myupchar.com/5445/webp/how-to-remove-splinter.webp"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/fork/hi/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgVG34xTNxOMiXzHlKtIcHPxgORxqj_d9NdA&s",
+      "fuentePagina": "https://www.shutterstock.com/hi/image-photo/babul-tree-kanta-full-hd-images-1443224237",
+      "titulo": "Babul Tree Kanta Full Hd Images स्टॉक फ़ोटो ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgVG34xTNxOMiXzHlKtIcHPxgORxqj_d9NdA&s",
+      "original": "https://www.shutterstock.com/image-photo/babul-tree-kanta-full-hd-260nw-1443224237.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/fork/hi/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLYeKmmPALeMtQrHUPFkTSHuGwtygCxZxA_Q&s",
+      "fuentePagina": "https://www.amazon.in/Stainless-Steel-Dinner-8-Inch-Dishwasher/dp/B08FHGQTRK",
+      "titulo": "Buy 18/10 Stainless Steel Dinner Fork, 8-Inch, Set of 12 ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLYeKmmPALeMtQrHUPFkTSHuGwtygCxZxA_Q&s",
+      "original": "https://m.media-amazon.com/images/I/61z0LVrrowL._AC_UF894,1000_QL80_.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/fork/hi/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJHh0ePoDwJ5B7lOSjOflQTz3vOeOY-W_fbQ&s",
+      "fuentePagina": "https://bhalaria.in/products/smooth-design-table-fork?srsltid=AfmBOoq8XWAcp1nTf3aQtGCxYsoFxvDE6aXg28xQph2FU0jepXiElMsF",
+      "titulo": "SMOOTH DESIGN TABLE FORK (6 Pcs Set)",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJHh0ePoDwJ5B7lOSjOflQTz3vOeOY-W_fbQ&s",
+      "original": "https://bhalaria.in/cdn/shop/files/SMOOTH-DESIGN-TABLE-FORK-_6-Pcs-Set_-1000-X-1000_1000x.jpg?v=1696570710"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/fork/hi/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGslC2EsmOe8qmB9zp5bVyJ7YNQIPLYFkWeA&s",
+      "fuentePagina": "https://www.hendi.eu/en/table-fork-6-pcs-6245.html",
+      "titulo": "Table fork - 6 pcs - HENDI Tools for Chefs",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGslC2EsmOe8qmB9zp5bVyJ7YNQIPLYFkWeA&s",
+      "original": "https://hendi.xcdn.nl/hendi/images/764411_2018_IMGP77501.jpg?xv=2&f=att:1/raw:1"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/fork/hi/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDhDBCZwuORDjmtPKQLBbDF0s_TUW0rzaiow&s",
+      "fuentePagina": "https://www.wmf-professional.com/table-fork-barock-silverplated.html",
+      "titulo": "Table fork Barock silverplated",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDhDBCZwuORDjmtPKQLBbDF0s_TUW0rzaiow&s",
+      "original": "https://www.wmf-professional.com/media/catalog/product/cache/2/image/508x/040ec09b1e35df139433887a97daa66f/5/4/54_3002_6040.jpg"
+    }
+  ]
+}

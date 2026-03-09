@@ -1,0 +1,71 @@
+{
+  "categoria": "hair drier",
+  "categoriaSlug": "hair-drier",
+  "idioma": "yo",
+  "nombreIdioma": "Yorùbá",
+  "termino": "àgò irun",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:31:40.327Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "yo",
+    "gl": "ng"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=%C3%A0g%C3%B2%20irun&hl=yo&gl=ng",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/hair-drier/yo/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR212sTuOPXxAJ48G5CiNnwLsCn0iYpysNToA&s",
+      "fuentePagina": "https://www.instagram.com/p/ChXxxB3s8v8/",
+      "titulo": "ÀGÓGÓ There are alot of signatures worthy of note in the ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR212sTuOPXxAJ48G5CiNnwLsCn0iYpysNToA&s",
+      "original": "https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=2907010954115061939"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/hair-drier/yo/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSR6czbqFDaUxWBcYUPYgk1C_wC-qFOHubYWA&s",
+      "fuentePagina": "https://www.instagram.com/p/ChXxxB3s8v8/",
+      "titulo": "ÀGÓGÓ There are alot of signatures worthy of note in the ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSR6czbqFDaUxWBcYUPYgk1C_wC-qFOHubYWA&s",
+      "original": "https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=2907010954106720874"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/hair-drier/yo/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkUzC4JVfUWIiJqKIwWSru5co_H6BT4Gza6w&s",
+      "fuentePagina": "https://www.facebook.com/groups/3780190418678055/posts/9426360797394294/",
+      "titulo": "Àwọn irun dídì àjogúnbá Yorùbá Àṣà oge ṣíṣe. Ẹ dárúkọ àwọn ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkUzC4JVfUWIiJqKIwWSru5co_H6BT4Gza6w&s",
+      "original": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=993581302796149"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/hair-drier/yo/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6EqHeFduhJNFNpj1PY1xrgMb9qxQLcXWktA&s",
+      "fuentePagina": "https://www.instagram.com/p/ChXxxB3s8v8/",
+      "titulo": "ÀGÓGÓ There are alot of signatures worthy of note in the ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6EqHeFduhJNFNpj1PY1xrgMb9qxQLcXWktA&s",
+      "original": "https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=2907010954114897443"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/hair-drier/yo/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhEJlKTMPJWrVwP6PJHh85PzA18_mZvj-qQw&s",
+      "fuentePagina": "https://www.instagram.com/p/ChXxxB3s8v8/",
+      "titulo": "ÀGÓGÓ There are alot of signatures worthy of note in the ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhEJlKTMPJWrVwP6PJHh85PzA18_mZvj-qQw&s",
+      "original": "https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=2907010954358408155"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/hair-drier/yo/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZYPRpGqVDu-LyuKqR4IfJ0rPUqarugCBwgA&s",
+      "fuentePagina": "https://www.facebook.com/omoyorubatata/photos/%C3%A0%C3%A1n%C3%BA-olorunawolakun-ati-fatunmbi-omo-r%C3%A8-pari-%C3%ACw%C3%BAre-%C3%A0%C3%A1r%C3%B2-ibi-w%C3%B3n-gb%C3%A9-nt%C3%A0kur%C3%B2so-ni/4284096941624593/",
+      "titulo": "Omo Yoruba atata - Iran Oduduwa - Àánú Olorun Awolakun ati ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZYPRpGqVDu-LyuKqR4IfJ0rPUqarugCBwgA&s",
+      "original": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=4284096941624593"
+    }
+  ]
+}

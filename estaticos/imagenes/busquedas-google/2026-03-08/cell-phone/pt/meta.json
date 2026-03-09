@@ -1,0 +1,71 @@
+{
+  "categoria": "cell phone",
+  "categoriaSlug": "cell-phone",
+  "idioma": "pt",
+  "nombreIdioma": "Português",
+  "termino": "celular",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:24:41.223Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "pt",
+    "gl": "br"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=celular&hl=pt&gl=br",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/cell-phone/pt/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1WJOMSVTKw8KlzwurxeIonMJIFyDaArkzAg&s",
+      "fuentePagina": "https://www.pontofrio.com.br/celular-samsung-galaxy-a06-128gb-4gb-ram-tela-67-quot-cam-traseira-50-2mp-frontal-8mp-branco/p/1568801427",
+      "titulo": "Celular Samsung Galaxy A06, 128GB, 4GB | Ponto",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1WJOMSVTKw8KlzwurxeIonMJIFyDaArkzAg&s",
+      "original": "https://imgs.pontofrio.com.br/1568801427/1xg.jpg?imwidth=500"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/cell-phone/pt/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPBGjSVY_1tnvf0Vy0QyMUvSaD659100zOBQ&s",
+      "fuentePagina": "https://br.celulares.com/apple/iphone-x",
+      "titulo": "Apple iPhone X (iPhone 10, iPhone Ten, A1865, A1901 ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPBGjSVY_1tnvf0Vy0QyMUvSaD659100zOBQ&s",
+      "original": "https://br.celulares.com/fotos/apple-iphone-x-59552-g-alt.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/cell-phone/pt/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7-6KAe844he33vSLsVGPmhqYSn2XpfmY4uw&s",
+      "fuentePagina": "https://www.havan.com.br/celular-smartphone-galaxy-a06-4g-octa-core-4gb-ram-128gb-branco/p",
+      "titulo": "Celular Smartphone Galaxy A06 4G Octa Core 4Gb Ram 128Gb - Branco",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7-6KAe844he33vSLsVGPmhqYSn2XpfmY4uw&s",
+      "original": "https://www.havan.com.br/media/catalog/product/cache/73a52df140c4d19dbec2b6c485ea6a50/c/e/celular-smartphone-galaxy-a06-4g-octa-core-4gb-ram-128gb_1046066.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/cell-phone/pt/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQc6Tgc2HCJs7iGrRl3BVVgOOCekDus1rpndw&s",
+      "fuentePagina": "https://pt.wikipedia.org/wiki/Telefone_celular",
+      "titulo": "Telefone celular – Wikipédia, a enciclopédia livre",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQc6Tgc2HCJs7iGrRl3BVVgOOCekDus1rpndw&s",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/5/5f/IPhone_15_pro_max.png"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/cell-phone/pt/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRskkdTBn7ofrQUyHEHKXsTH2PyiuQjogHy9Q&s",
+      "fuentePagina": "https://www.bbc.com/portuguese/internacional-41252123",
+      "titulo": "As novidades (e críticas) do iPhone X, aposta da Apple para ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRskkdTBn7ofrQUyHEHKXsTH2PyiuQjogHy9Q&s",
+      "original": "https://ichef.bbci.co.uk/ace/ws/640/cpsprodpb/1303F/production/_97778877_1ac3023c-0172-46bc-99f3-21c5438d26c7.jpg.webp"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/cell-phone/pt/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWH862TQKUAbdrhY-IUcCuE9RrqF8z7ViCLw&s",
+      "fuentePagina": "https://www.mercadolivre.com.br/celular-samsung-galaxy-s24-galaxy-ai-cmera-tripla-traseira-de-ate-50mp-selfie-de-12mp-tela-de-62-1-120hz-256gb-8gb-de-ram-esim-cinza/p/MLB34102203",
+      "titulo": "Celular Samsung Galaxy S24, Galaxy Ai, Câmera Tripla Traseira De Até 50mp,  Selfie De 12mp, Tela De 6.2 1-120hz, 256gb, 8gb De Ram, Esim Cinza",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWH862TQKUAbdrhY-IUcCuE9RrqF8z7ViCLw&s",
+      "original": "https://http2.mlstatic.com/D_NQ_NP_737205-MLA99559714040_122025-O.webp"
+    }
+  ]
+}

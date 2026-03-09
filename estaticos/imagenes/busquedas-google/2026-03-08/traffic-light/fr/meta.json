@@ -1,0 +1,71 @@
+{
+  "categoria": "traffic light",
+  "categoriaSlug": "traffic-light",
+  "idioma": "fr",
+  "nombreIdioma": "Français",
+  "termino": "feu de circulation",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T20:46:25.836Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "fr",
+    "gl": "be"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=feu%20de%20circulation&hl=fr&gl=be",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/traffic-light/fr/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKnecgY4RuZVm3GdJg9lgW3dqRlQxGq99phg&s",
+      "fuentePagina": "https://www.amv.fr/actualite-assurance/feux-de-signalisation-les-connaissez-vous-tous-parfaitement/",
+      "titulo": "Feux de signalisation : les connaissez-vous tous ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKnecgY4RuZVm3GdJg9lgW3dqRlQxGq99phg&s",
+      "original": "https://static.amv.fr/wp-content/uploads/2021/02/AdobeStock_318500949.jpeg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/traffic-light/fr/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQr6qU9GpU8lk-L7mgfSyN1IGYVA8u7hI97qQ&s",
+      "fuentePagina": "https://www.accor-solutions.com/produit/feux-de-signalisation-circulation-parking-100-mm/",
+      "titulo": "Feux de signalisation à LED ø 100 mm - parking, rampe ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQr6qU9GpU8lk-L7mgfSyN1IGYVA8u7hI97qQ&s",
+      "original": "https://www.accor-solutions.com/wp-content/uploads/feux-signalisation-circulation-parking-rouge-vert-orange-100mm.png"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/traffic-light/fr/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRjhlgKStW7nJnezZoKaeREfGqPn8_ITXecw&s",
+      "fuentePagina": "https://police.saguenay.ca/a-surveiller/que-faire-lorsquun-feu-de-circulation-est-inop%C3%A9rant",
+      "titulo": "Police | Que faire lorsqu'un feu de circulation est inopérant?",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRjhlgKStW7nJnezZoKaeREfGqPn8_ITXecw&s",
+      "original": "https://police.saguenay.ca/files/photos/A-surveiller/traffic_light_640x424.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/traffic-light/fr/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwaijlRBUXPkBBf2ocfFYDAUJdRLQkGMVw1A&s",
+      "fuentePagina": "https://www.radiocontact.be/actu/bientot-un-feu-de-circulation-a-quatre-couleurs-une-lumiere-blanche-pourrait-tout-changer/",
+      "titulo": "Bientôt un feu de circulation… à quatre couleurs ? Une ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwaijlRBUXPkBBf2ocfFYDAUJdRLQkGMVw1A&s",
+      "original": "https://www.radiocontact.be/app/uploads/2025/10/47250265668f89e5ce7d4f_feu1.jpeg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/traffic-light/fr/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMwm6MlUSOTNDhSIBrm0AQf0y9GRhRUvrsEQ&s",
+      "fuentePagina": "https://www.amazon.com.be/D%C3%A9coration-Circulation-Signalisation-Industriel-Davertissement/dp/B0CD7W4TDW",
+      "titulo": "Feu Tricolore, Décoration Murale de Feux de Circulation, Feu de  Signalisation Rouge Jaune Vert, Boîtier PC Étanche IP65 Feu D'arrêt de  Circulation à ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMwm6MlUSOTNDhSIBrm0AQf0y9GRhRUvrsEQ&s",
+      "original": "https://m.media-amazon.com/images/I/61ZxPq4r4kL.jpg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/traffic-light/fr/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTJ3CV-lPt1-P9BEzo7FiGeIrCqLnF34SevA&s",
+      "fuentePagina": "https://www.orangetraffic.com/fr/product/feux-de-circulation-verticaux-a-boitier-en-polycarbonate/",
+      "titulo": "Feux de circulation verticaux à boitier en polycarbonate ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTJ3CV-lPt1-P9BEzo7FiGeIrCqLnF34SevA&s",
+      "original": "https://www.orangetraffic.com/wp-content/uploads/images%20produits/led-vertical-polycarbonate-signal-fvp-33a1-1.png"
+    }
+  ]
+}

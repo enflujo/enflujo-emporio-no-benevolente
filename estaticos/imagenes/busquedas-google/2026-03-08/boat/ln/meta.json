@@ -1,0 +1,71 @@
+{
+  "categoria": "boat",
+  "categoriaSlug": "boat",
+  "idioma": "ln",
+  "nombreIdioma": "Lingala",
+  "termino": "bwato",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T20:45:33.900Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "fr",
+    "gl": "cd"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=bwato&hl=fr&gl=cd",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/boat/ln/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSl64Va4eZp9Zh_qgucL4dkR5FNiCDFGsZOIA&s",
+      "fuentePagina": "https://www.shutterstock.com/search/bwato",
+      "titulo": "10 Bwato Royalty-Free Images, Stock Photos & Pictures ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSl64Va4eZp9Zh_qgucL4dkR5FNiCDFGsZOIA&s",
+      "original": "https://www.shutterstock.com/shutterstock/photos/10821778/display_1500/stock-photo-a-young-boy-wearing-short-pants-paddles-a-traditional-bwato-or-dugout-canoe-hollowed-form-a-log-10821778.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/boat/ln/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpEapR0vp96u_S16-K9XQ_QNmNrRdIod8O_w&s",
+      "fuentePagina": "https://www.shutterstock.com/search/bwato",
+      "titulo": "10 Bwato Royalty-Free Images, Stock Photos & Pictures ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpEapR0vp96u_S16-K9XQ_QNmNrRdIod8O_w&s",
+      "original": "https://www.shutterstock.com/image-photo/traditional-dugout-canoe-bwato-lies-600nw-10921732.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/boat/ln/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1_tKfWNHVD_4ZvAstCVVILvuXfQUvrzezvw&s",
+      "fuentePagina": "https://karabanbike.org/en/producto/bwato/",
+      "titulo": "Bwato – Karaban bike",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1_tKfWNHVD_4ZvAstCVVILvuXfQUvrzezvw&s",
+      "original": "https://karabanbike.org/wp-content/uploads/2024/07/014_Bwato_KARABAN_VisualKorner_2024.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/boat/ln/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIWFBGTm-uL58IbnACZYzmPXeY5TzI1Q2l7w&s",
+      "fuentePagina": "https://www.researchgate.net/figure/Bwato-du-lac-Malawi-la-saignee-mediane-nest-pas-destinee-a-permettre-une-expansion-des_fig2_341623292",
+      "titulo": "Bwato du lac Malawi : la saignée médiane n'est pas destinée ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIWFBGTm-uL58IbnACZYzmPXeY5TzI1Q2l7w&s",
+      "original": "https://www.researchgate.net/profile/Beat-Arnold/publication/341623292/figure/fig2/AS:895120413036545@1590424745495/Bwato-du-lac-Malawi-la-saignee-mediane-nest-pas-destinee-a-permettre-une-expansion-des_Q320.jpg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/boat/ln/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSia773FEn_d8ixKWLeWfrvtFX0RsTGgcLGLQ&s",
+      "fuentePagina": "https://www.dreamstime.com/photos-images/bwato.html",
+      "titulo": "Bwato Stock Photos - Free & Royalty-Free Stock Photos from ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSia773FEn_d8ixKWLeWfrvtFX0RsTGgcLGLQ&s",
+      "original": "https://thumbs.dreamstime.com/b/dugout-canoe-lake-malawi-4542720.jpg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/boat/ln/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYRS9WS6weNRmyHhfF1DpiqYkEaQ-qm9w0Lw&s",
+      "fuentePagina": "https://www.shutterstock.com/image-photo/two-fishermen-paddling-traditional-bwato-dugout-11013592",
+      "titulo": "Two Fishermen Paddling Traditional Bwato Dugout Stock Photo ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYRS9WS6weNRmyHhfF1DpiqYkEaQ-qm9w0Lw&s",
+      "original": "https://www.shutterstock.com/image-photo/two-fishermen-paddling-traditional-bwato-260nw-11013592.jpg"
+    }
+  ]
+}

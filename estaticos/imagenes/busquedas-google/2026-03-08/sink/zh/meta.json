@@ -1,0 +1,16 @@
+{
+  "categoria": "sink",
+  "categoriaSlug": "sink",
+  "idioma": "zh",
+  "nombreIdioma": "中文",
+  "termino": "水槽",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:27:14.832Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "zh-CN",
+    "gl": "cn"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=%E6%B0%B4%E6%A7%BD&hl=zh-CN&gl=cn",
+  "imagenes": []
+}

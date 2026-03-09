@@ -1,0 +1,71 @@
+{
+  "categoria": "bird",
+  "categoriaSlug": "bird",
+  "idioma": "fr",
+  "nombreIdioma": "Français",
+  "termino": "oiseau",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T20:49:45.170Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "fr",
+    "gl": "be"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=oiseau&hl=fr&gl=be",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bird/fr/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxpufGBoxvS9NTz789VnenKe7vCn_lsGzQRQ&s",
+      "fuentePagina": "https://oiseaux.natagora.be/fr/reconnaitre-les-oiseaux",
+      "titulo": "Participez au recensement des oiseaux de jardin avec Natagora",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxpufGBoxvS9NTz789VnenKe7vCn_lsGzQRQ&s",
+      "original": "https://oiseaux.natagora.be/sites/dqo/files/styles/animal_tea/public/2023-01/mescha_m.JPG?itok=yRoTgDmj"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bird/fr/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7GFzdfLeg6tJ9TOmMgI3DcOPdYI0NNbmXEw&s",
+      "fuentePagina": "https://www.colonyandco.fr/blog/oiseaux-jardin/?srsltid=AfmBOopCOfzn5HNOT1ejJTG6q755sc37D34VYGoAvTtye7yqvPBIui_P",
+      "titulo": "Quels oiseaux dans votre jardin ? Les reconnaître et les ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7GFzdfLeg6tJ9TOmMgI3DcOPdYI0NNbmXEw&s",
+      "original": "https://www.colonyandco.fr/wp/wp-content/uploads/sites/3/2024/07/especes-oiseaux-communs-1024x683.png"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bird/fr/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTu-mCKPi44jhQvscxnwGp1y75qt24OjZmdzg&s",
+      "fuentePagina": "https://www.oisillon.net/apprendre-reconnaitre-oiseaux-de-jardin",
+      "titulo": "Reconnaitre les oiseaux : Apprenez à reconnaitre les oiseaux ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTu-mCKPi44jhQvscxnwGp1y75qt24OjZmdzg&s",
+      "original": "https://www.oisillon.net/img/oiseaux/photo1/10.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bird/fr/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3n3bG2dfAF6DNLtErj_3E0wlDqeEjU6oEfQ&s",
+      "fuentePagina": "https://www.oleomac.fr/blogs/blog/oiseaux-du-jardin-en-hiver?srsltid=AfmBOorqtoqkb_qzmkEA4oRGL8tqeHxvVu80CRsDt6tCI_sV34Wp15dv",
+      "titulo": "Les oiseaux du jardin en hiver – Oleo-Mac",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3n3bG2dfAF6DNLtErj_3E0wlDqeEjU6oEfQ&s",
+      "original": "https://cdn.shopify.com/s/files/1/0834/8808/0170/files/oiseau-mesange-bleue.jpg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bird/fr/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLzKrDW9lXlc7fHlRuSgRwgIKVpam7yar4qg&s",
+      "fuentePagina": "https://www.animal-valley.com/francais/guide-animaux/7-especes-oiseaux-chantent-printemps/",
+      "titulo": "7 espèces d'oiseaux qui chantent au printemps - Animal Valley",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLzKrDW9lXlc7fHlRuSgRwgIKVpam7yar4qg&s",
+      "original": "https://cdn2.animal-valley.com/media/wysiwyg/oiseaux-printemps-chants.jpg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bird/fr/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSv9K1mK75Bf_UT0CFYL92elANUd05QCzd59g&s",
+      "fuentePagina": "https://www.mnhn.fr/fr/actualites/comment-les-oiseaux-arrivent-ils-a-dormir-debout",
+      "titulo": "Comment les oiseaux tiennent-ils debout sur un fil ? Découverte",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSv9K1mK75Bf_UT0CFYL92elANUd05QCzd59g&s",
+      "original": "https://www.mnhn.fr/system/files/styles/16_10_highest/private/2023-11/oiseau-Tersina-viridis.jpg.webp?itok=iTR7QUrV"
+    }
+  ]
+}

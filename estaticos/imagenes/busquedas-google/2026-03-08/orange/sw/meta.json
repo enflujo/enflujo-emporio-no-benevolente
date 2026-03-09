@@ -1,0 +1,71 @@
+{
+  "categoria": "orange",
+  "categoriaSlug": "orange",
+  "idioma": "sw",
+  "nombreIdioma": "Kiswahili",
+  "termino": "chungwa",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:12:33.149Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "sw",
+    "gl": "tz"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=chungwa&hl=sw&gl=tz",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/orange/sw/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1IKNB4m0k8NjWVJeSlgna-j1tMh1fI_cMvQ&s",
+      "fuentePagina": "https://naturmedscientific.com/sw/bidhaa/dondoo-la-machungwa-machungu-aurantium/",
+      "titulo": "Dondoo la Chungwa Machungu (Citrus aurantium) - NaturMed ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1IKNB4m0k8NjWVJeSlgna-j1tMh1fI_cMvQ&s",
+      "original": "https://naturmedscientific.com/wp-content/uploads/2025/07/Bitter-Orange.webp"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/orange/sw/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWa5w63HWLXHfjV0AYUZIr9E655I6Xc4a3zA&s",
+      "fuentePagina": "https://sw.wikipedia.org/wiki/Chungwa",
+      "titulo": "Chungwa - Wikipedia, kamusi elezo huru",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWa5w63HWLXHfjV0AYUZIr9E655I6Xc4a3zA&s",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Oranges_-_whole-halved-segment.jpg/250px-Oranges_-_whole-halved-segment.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/orange/sw/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpvQUEEkhL7FOxttJjfIpaeGl8lqpLAopMYw&s",
+      "fuentePagina": "https://www.facebook.com/100057360223386/posts/faida-12-za-kula-chungwa-kila-sikukumbuka-kuwa-hata-chungwa-moja-tu-ukila-linaki/167650054810076/?locale=pt_BR",
+      "titulo": "Faida 12 Za Kula Chungwa Kila Siku. Kumbuka kuwa hata ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpvQUEEkhL7FOxttJjfIpaeGl8lqpLAopMYw&s",
+      "original": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=167650028143412"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/orange/sw/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0BZDN9nrAm6Htl4De3RMKudBNaU0zyH67HA&s",
+      "fuentePagina": "https://sw.wiktionary.org/wiki/chungwa",
+      "titulo": "Ufafanuzi kutoka Wiktionary, kamusi iliyo huru",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0BZDN9nrAm6Htl4De3RMKudBNaU0zyH67HA&s",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Ambersweet_oranges.jpg/250px-Ambersweet_oranges.jpg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/orange/sw/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWfyaFvijOxj0BszHP3LgfzZo5bPFpt_yT4w&s",
+      "fuentePagina": "https://www.facebook.com/100064268314647/posts/chungwa-je-wajua-kuwa-chungwa-moja-la-wastani-linaweza-kukupatia-hadi-80-ya-leng/255821362965791/",
+      "titulo": "CHUNGWA🍊: Je! Wajua kuwa chungwa moja la wastani linaweza ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWfyaFvijOxj0BszHP3LgfzZo5bPFpt_yT4w&s",
+      "original": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=255821336299127"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/orange/sw/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXapHsyccnB5xvutdyXeLTJWkkDmxQ9nhClw&s",
+      "fuentePagina": "https://afyamd.wordpress.com/2016/11/11/zijue-faida-za-machungwa/",
+      "titulo": "Zijue Faida Za Machungwa – afyaMD",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXapHsyccnB5xvutdyXeLTJWkkDmxQ9nhClw&s",
+      "original": "https://afyamd.wordpress.com/wp-content/uploads/2016/11/machungwa.jpg?w=800"
+    }
+  ]
+}

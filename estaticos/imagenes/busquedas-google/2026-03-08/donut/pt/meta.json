@@ -1,0 +1,71 @@
+{
+  "categoria": "donut",
+  "categoriaSlug": "donut",
+  "idioma": "pt",
+  "nombreIdioma": "Português",
+  "termino": "rosquinha",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:16:09.777Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "pt",
+    "gl": "br"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=rosquinha&hl=pt&gl=br",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/donut/pt/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWPHvtpGrl7Z912AUyXJ8UPllcPxQN3KABxg&s",
+      "fuentePagina": "https://guiadacozinha.com.br/receitas/rosquinha-frita/",
+      "titulo": "Rosquinha frita para um café da tarde divino",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWPHvtpGrl7Z912AUyXJ8UPllcPxQN3KABxg&s",
+      "original": "https://guiadacozinha.com.br/wp-content/uploads/2019/10/rosquinha-frita-768x619.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/donut/pt/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxBfBrF7xj4bTN4hn0isQM3GWMEJHN9e9fGA&s",
+      "fuentePagina": "https://www.prezunic.com.br/biscoito-rosquinha-mabel-leite-300g/p?srsltid=AfmBOooozi3khovKfnahVB1iwePdYDf4r7QDogPXY7NZVsr4sayLf79V",
+      "titulo": "Biscoito Rosquinha Mabel Leite 300g | Prezunic",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxBfBrF7xj4bTN4hn0isQM3GWMEJHN9e9fGA&s",
+      "original": "https://prezunic.vtexassets.com/arquivos/ids/209067-800-auto?v=638471519632870000&width=800&height=auto&aspect=true"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/donut/pt/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJGDfCML2j-qpqItXfOyIjj1mkuYUSQA7UxA&s",
+      "fuentePagina": "https://teamodoce.com.br/rosquinha-frita-simples/",
+      "titulo": "Receita de Rosquinha Frita Simples - Fofinha e Fácil de Fazer",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJGDfCML2j-qpqItXfOyIjj1mkuYUSQA7UxA&s",
+      "original": "https://teamodoce.com.br/wp-content/uploads/2025/05/rosquinha-frita-simples.webp"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/donut/pt/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTk5SCvqeTIJt60hjwiGf151xewWlO0DRZfMQ&s",
+      "fuentePagina": "https://receitas.globo.com/tipos-de-prato/doces-e-sobremesas/rosquinha-frita-52fd0be44d388532f9000040.ghtml",
+      "titulo": "Rosquinha frita",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTk5SCvqeTIJt60hjwiGf151xewWlO0DRZfMQ&s",
+      "original": "https://s2-receitas.glbimg.com/YotGh0Kfa0m0OfiR1oCJTYSp0Sg=/1280x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_1f540e0b94d8437dbbc39d567a1dee68/internal_photos/bs/2022/B/w/jbziGMQ2inLGmQwx6z8g/rosquinha-frita-receita.jpg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/donut/pt/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5BoBuHZiF8ahJftlA7wwk_5xDuvyhfQN8oA&s",
+      "fuentePagina": "https://vovopalmirinha.com.br/rosquinha-colorida/",
+      "titulo": "Rosquinha colorida",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5BoBuHZiF8ahJftlA7wwk_5xDuvyhfQN8oA&s",
+      "original": "https://vovopalmirinha.com.br/wp-content/uploads/2018/07/vovo-palmirinha-rosquinha-colorida-1.jpg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/donut/pt/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6ArYAMPPHdGsU5bF5tPtN7JGYg5_PLaiLUg&s",
+      "fuentePagina": "https://www.daninoce.com.br/receitas/rosquinha-de-leite-condensado/",
+      "titulo": "Rosquinha de Leite Condensado",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6ArYAMPPHdGsU5bF5tPtN7JGYg5_PLaiLUg&s",
+      "original": "https://www.daninoce.com.br/wp-content/uploads/2013/08/rosquinha3.jpg"
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "categoria": "dining table",
+  "categoriaSlug": "dining-table",
+  "idioma": "pt",
+  "nombreIdioma": "Português",
+  "termino": "mesa de jantar",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:20:10.973Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "pt",
+    "gl": "br"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=mesa%20de%20jantar&hl=pt&gl=br",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/dining-table/pt/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_wcI5DKmXVGvb74Swr7tQtJVPLHZSXARBSw&s",
+      "fuentePagina": "https://www.tothmoveis.com.br/products/mesa-de-jantar-verona-madeira-cor-jequitiba-bn-240x124cm?srsltid=AfmBOoocOl-anGPSM3WbJQFXEBkujMFEl5G0Ym6miUcrNWzmmbaIeI4J",
+      "titulo": "Mesa de Jantar Verona Madeira Jequitibá BN Tampo Formica TS Rochedo 24",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_wcI5DKmXVGvb74Swr7tQtJVPLHZSXARBSw&s",
+      "original": "http://www.tothmoveis.com.br/cdn/shop/files/VERONA_2.jpg?v=1737046263"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/dining-table/pt/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcicQ2JUfYdLUSLuFDXaOkh5A2GNyATIcE2A&s",
+      "fuentePagina": "https://www.designemais.com.br/mesa-de-jantar-laca-retangular.html",
+      "titulo": "Mesa de Jantar Laca Retangular",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcicQ2JUfYdLUSLuFDXaOkh5A2GNyATIcE2A&s",
+      "original": "https://www.designemais.com.br/media/tmp/webp/catalog/product/cache/1/image/800x/9df78eab33525d08d6e5fb8d27136e95/m/e/mesa-laca-retangular-luxo.webp"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/dining-table/pt/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbP6au9YS_4_zBwkWlUbGuuSkH96Ijkv56Mg&s",
+      "fuentePagina": "https://www.woodprime.com.br/sala-de-jantar/mesas-de-jantar/mesas-de-jantar-retangular/mesa-de-jantar-design-com-vidro-160x90-fendi-e-cappuccino?srsltid=AfmBOoqkrhOY8ZnhBXT7iWDaBOaWQcQgtSsFdUfDyVygonKMJUvD9iwd",
+      "titulo": "Mesa De Jantar Design com Vidro 160x90 Fendi e Cappuccino",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbP6au9YS_4_zBwkWlUbGuuSkH96Ijkv56Mg&s",
+      "original": "https://images.tcdn.com.br/img/img_prod/1301312/mesa_de_jantar_design_com_vidro_160x90_fendi_e_cappuccino_2779_2_b5d476ec06f64beef40309f48a7cdd04.jpeg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/dining-table/pt/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOtKcqjfLPSiMAQs0J7xMN3bTz89BJhRLdsQ&s",
+      "fuentePagina": "https://juliaarns.com.br/conjunto-mesa-de-jantar-quadrada-90x90cm-com-vidro-freijo-white-e-04-cadeiras",
+      "titulo": "Conjunto Mesa de Jantar Quadrada 90x90cm com Vidro Freijó ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOtKcqjfLPSiMAQs0J7xMN3bTz89BJhRLdsQ&s",
+      "original": "https://imageswscdn.wslojas.com.br/files/1537/MED_produto-conjunto-mesa-de-jantar-quadrada-90x90cm-com-vidro-freijo-white-e-04-cadeiras-1442.jpg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/dining-table/pt/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHELRMGDGYrxTcrfQqHAk4WAotNI9DytSREA&s",
+      "fuentePagina": "https://www.moveisdasgerais.com.br/mesa-de-jantar-retangular-8-lugares-com-gaveta-pe-sino-em-madeira-de-demolicao?srsltid=AfmBOorZgAQJ-FRNvMEpYGDBkFUMp7FsfWgpvdbM4pbj1XrzPYNBDb8_",
+      "titulo": "Mesa de Jantar Pé Sino em Madeira de Demolição - Moveis das ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHELRMGDGYrxTcrfQqHAk4WAotNI9DytSREA&s",
+      "original": "https://images.tcdn.com.br/img/img_prod/894644/mesa_de_jantar_retangular_carlos_iii_em_madeira_de_demolicao_96_6_c7f98f916134a89424989f1b3866ed14.jpg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/dining-table/pt/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSI3kd8O3EK0xSeJJcfnej8YBggw2hhUfyT-w&s",
+      "fuentePagina": "https://br.pinterest.com/moradamoveis/mesa-para-sala-de-jantar/",
+      "titulo": "70 ideias de Mesa para Sala de Jantar para salvar hoje ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSI3kd8O3EK0xSeJJcfnej8YBggw2hhUfyT-w&s",
+      "original": "https://i.pinimg.com/736x/1f/73/84/1f73841ec0df3ec0b178324fa4befec2.jpg"
+    }
+  ]
+}

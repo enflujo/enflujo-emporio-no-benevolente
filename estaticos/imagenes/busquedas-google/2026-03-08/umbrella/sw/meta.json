@@ -1,0 +1,71 @@
+{
+  "categoria": "umbrella",
+  "categoriaSlug": "umbrella",
+  "idioma": "sw",
+  "nombreIdioma": "Kiswahili",
+  "termino": "mwavuli",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T20:56:50.704Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "sw",
+    "gl": "tz"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=mwavuli&hl=sw&gl=tz",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/umbrella/sw/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRo0P9s6YDDo5x0ewYs9Rs6Nb7FUna8y-1mhw&s",
+      "fuentePagina": "http://sw.hodaumbrella.com/straight-umbrella-black-umbrella-hook-handle-best-quality-cheap-sunny-and-rainy-umbrella-manual-outdoor-product/",
+      "titulo": "Mwavuli wa Jumla Ulionyooka wenye mpini wa ndoano kwa ajili ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRo0P9s6YDDo5x0ewYs9Rs6Nb7FUna8y-1mhw&s",
+      "original": "https://www.hodaumbrella.com/uploads/1-526.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/umbrella/sw/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmhDAwXUMlt2GrGHGI6JMJVYRvwPJy1tfztg&s",
+      "fuentePagina": "https://sw.wiktionary.org/wiki/mwavuli",
+      "titulo": "Ufafanuzi kutoka Wiktionary, kamusi iliyo huru",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmhDAwXUMlt2GrGHGI6JMJVYRvwPJy1tfztg&s",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Regnhl%C3%ADf.jpg/250px-Regnhl%C3%ADf.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/umbrella/sw/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkx9R-0KyZxIT-ap47baMrZWg3T6AsNIrLBQ&s",
+      "fuentePagina": "http://sw.ovidaumbrella.com/ovida-wooden-handle-manual-open-customized-rainbow-stick-umbrella-product/",
+      "titulo": "Mwongozo wa Kishikio cha Mbao cha Ovida Fungua Mwavuli ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkx9R-0KyZxIT-ap47baMrZWg3T6AsNIrLBQ&s",
+      "original": "http://cdn.globalso.com/ovidaumbrella/Wooden-handle-customized-rainbow-stick-umbrella-1.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/umbrella/sw/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZ3wI7h5WtbnTuWpLVPq-Xln0cBA-xTr8IwQ&s",
+      "fuentePagina": "https://www.ubuy.co.tz/sw/product/55Y3GQ64G-repel-umbrella-windproof-travel-umbrella-wind-resistant-small-compact-light-automatic-strong-steel-shaft-mini-folding-and-portable?srsltid=AfmBOoqdT_gepH2Fmcm9xZ-Vjst3COL8jA0VEVi9MK2K484pOneolaUU",
+      "titulo": "Repel Umbrella Windproof Kusafiri Umbrella - Tanzania | Ubuy",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZ3wI7h5WtbnTuWpLVPq-Xln0cBA-xTr8IwQ&s",
+      "original": "https://m.media-amazon.com/images/I/61ypvjDvj3L._AC_SL1500_.jpg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/umbrella/sw/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2ytJDgpxOuZ63Kq0ErGO0tvHEqTNFE_xykg&s",
+      "fuentePagina": "https://sw.hodaumbrella.com/umbrella-wholesale-custom-logo-high-quality-large-double-canopy-vented-windproof-automatic-open-straight-golf-umbrella-product/",
+      "titulo": "Mwavuli wa Jumla Nembo Maalum ya Jumla ya Ubora wa Juu ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2ytJDgpxOuZ63Kq0ErGO0tvHEqTNFE_xykg&s",
+      "original": "https://www.hodaumbrella.com/uploads/1-125.jpg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/umbrella/sw/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkrpp-Qhq9r9q49GcbEf7OtkEXFrPifqKbTA&s",
+      "fuentePagina": "http://sw.ovidaumbrella.com/ovida-automatic-14k-straight-umbrella-with-customized-rainbow-lady-umbrellas-product/",
+      "titulo": "Mwavuli Moja kwa Moja ya Ovida ya 14K Yenye Miavuli ya ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkrpp-Qhq9r9q49GcbEf7OtkEXFrPifqKbTA&s",
+      "original": "http://cdn.globalso.com/ovidaumbrella/OV10044-5.jpg"
+    }
+  ]
+}

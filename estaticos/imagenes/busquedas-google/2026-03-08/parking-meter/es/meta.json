@@ -1,0 +1,71 @@
+{
+  "categoria": "parking meter",
+  "categoriaSlug": "parking-meter",
+  "idioma": "es",
+  "nombreIdioma": "Español",
+  "termino": "parquímetro",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T20:48:50.159Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "es",
+    "gl": "es"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=parqu%C3%ADmetro&hl=es&gl=es",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/parking-meter/es/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVSeijPkrW_GzdvKcJEewC12Psx1lqAUg0xA&s",
+      "fuentePagina": "https://seguropordias.com/motor/guias/parquimetro-espana",
+      "titulo": "Cómo Funciona un Parquímetro | Cuándo Aparcar en Zona Azul",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVSeijPkrW_GzdvKcJEewC12Psx1lqAUg0xA&s",
+      "original": "https://seguropordias.com/img/contenido/como-usar-parquimetro.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/parking-meter/es/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhukjPqIHGP8p9o8Z1khsHshh4Z4n83Csr_w&s",
+      "fuentePagina": "https://es.wikipedia.org/wiki/Parqu%C3%ADmetro",
+      "titulo": "Parquímetro - Wikipedia, la enciclopedia libre",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhukjPqIHGP8p9o8Z1khsHshh4Z4n83Csr_w&s",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/6/64/Parquimetro_de_la_Ciudad_de_Cordoba_Argentina.JPG"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/parking-meter/es/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJKujDixpswNFwZERYdgmS5BWKHwATjpwESg&s",
+      "fuentePagina": "https://www.oragruaalicante.es/ora/parquimetros/",
+      "titulo": "Parquímetros | Alicante estacionamiento regulado",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJKujDixpswNFwZERYdgmS5BWKHwATjpwESg&s",
+      "original": "https://www.oragruaalicante.es/ora/wp-content/uploads/2014/02/parquimetro.png"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/parking-meter/es/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlmH-brmO9fYQHrU9kAsqxt-G3h5lh8KRqqQ&s",
+      "fuentePagina": "https://www.mieres.es/entran-en-funcionamiento-los-siete-nuevos-parquimetros-de-la-zona-azul-gratuita-que-permiten-tambien-sacar-el-tique-a-traves-de-una-app/",
+      "titulo": "Entran en funcionamiento los siete nuevos parquímetros de la ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlmH-brmO9fYQHrU9kAsqxt-G3h5lh8KRqqQ&s",
+      "original": "https://www.mieres.es/wp-content/uploads/2020/11/PARQUIMETROS-768x1024.jpg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/parking-meter/es/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5xpHKsMFBh-C5SxH-4c6pf6G1Xo68YfEcIg&s",
+      "fuentePagina": "https://meypar.com/solucion/optima-360-parquimetro/",
+      "titulo": "Parquímetro Optima 360 | Meypar",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5xpHKsMFBh-C5SxH-4c6pf6G1Xo68YfEcIg&s",
+      "original": "https://meypar.com/wp-content/uploads/2024/11/blog-1.jpg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/parking-meter/es/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkOxPwBrwFruhksBDPHU7rJrjmKWsozeRBlg&s",
+      "fuentePagina": "https://propart.es/producto/parquimetro-americano/",
+      "titulo": "Parquimetro americano - Prop Art",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkOxPwBrwFruhksBDPHU7rJrjmKWsozeRBlg&s",
+      "original": "https://propart.es/wp-content/uploads/2021/06/IMG_20210601_122549-min-scaled.jpg"
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "categoria": "laptop",
+  "categoriaSlug": "laptop",
+  "idioma": "es",
+  "nombreIdioma": "Español",
+  "termino": "computador",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:22:06.890Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "es",
+    "gl": "es"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=computador&hl=es&gl=es",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/laptop/es/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGz5oK3KjcjM4DE1xtVrmXAE7gv8tGQcYDGA&s",
+      "fuentePagina": "https://mipge.com/el-computador-y-sus-partes/",
+      "titulo": "El computador y sus partes Mipge Educación",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGz5oK3KjcjM4DE1xtVrmXAE7gv8tGQcYDGA&s",
+      "original": "https://mipge.com/wp-content/uploads/2021/07/el-computador.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/laptop/es/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdzGF5rDTC63j0k4YOFSMjfxHy5uAlJCB6Fw&s",
+      "fuentePagina": "https://es.wikipedia.org/wiki/Computadora_de_escritorio",
+      "titulo": "Computadora de escritorio - Wikipedia, la enciclopedia libre",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdzGF5rDTC63j0k4YOFSMjfxHy5uAlJCB6Fw&s",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Desktop_computer_clipart_-_Yellow_theme.svg/1280px-Desktop_computer_clipart_-_Yellow_theme.svg.png"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/laptop/es/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdzqeyZVc0ln_z_h55zB_N63dYG3wFePzEPg&s",
+      "fuentePagina": "http://www.sublimesolutions.es/2018/11/14/computadoras-y-tecnologia/avances-en-computadoras/el-computador-con-una-pantalla-en-el-trackpad-review-del-asus-zenbook-pro-15/",
+      "titulo": "El computador con una pantalla en el trackpad: Review del ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdzqeyZVc0ln_z_h55zB_N63dYG3wFePzEPg&s",
+      "original": "http://www.sublimesolutions.es/imgs/articulos/_original_10144.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/laptop/es/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTu2tE0QQke6e3nkxS_4jP1fDCAzCKafrT-WQ&s",
+      "fuentePagina": "https://www.dell.com/support/contents/es-ag/article/product-support/self-support-knowledgebase/monitor-screen-video/monitors-and-screens",
+      "titulo": "La computadora se enciende, pero no hay imagen: pasos para ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTu2tE0QQke6e3nkxS_4jP1fDCAzCKafrT-WQ&s",
+      "original": "https://i.dell.com/is/image/DellContent/content/dam/ss2/product-images/esupport/esupport-pages/desktop-connected-to-monitor.png"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/laptop/es/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6JUbUv_uf6NaqbX9t98wtNlaFz4LrmAA4Zw&s",
+      "fuentePagina": "https://tecnologia-informatica.com/caracteristicas-de-una-computadora/",
+      "titulo": "Características de la computadora | Tecnología + Informática",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6JUbUv_uf6NaqbX9t98wtNlaFz4LrmAA4Zw&s",
+      "original": "https://tecnologia-informatica.com/wp-content/uploads/2018/08/caracteristicas-de-las-computadoras-1.jpeg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/laptop/es/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREAH6eVwmFf9yp-c_0dg4H9Rxe2GsxXGk-cQ&s",
+      "fuentePagina": "https://www.freepik.es/fotos-vectores-gratis/computador-dibujo",
+      "titulo": "Imágenes de Computador dibujo - Descarga gratuita en Freepik",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREAH6eVwmFf9yp-c_0dg4H9Rxe2GsxXGk-cQ&s",
+      "original": "https://img.freepik.com/vector-premium/computadora-dibujos-animados-teclado-monitor-fondo-blanco_949067-2263.jpg?semt=ais_rp_50_assets&w=740&q=80"
+    }
+  ]
+}

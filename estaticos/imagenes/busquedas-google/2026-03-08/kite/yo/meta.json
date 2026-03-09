@@ -1,0 +1,71 @@
+{
+  "categoria": "kite",
+  "categoriaSlug": "kite",
+  "idioma": "yo",
+  "nombreIdioma": "Yorùbá",
+  "termino": "àpáta afẹ́fẹ́",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:02:08.235Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "yo",
+    "gl": "ng"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=%C3%A0p%C3%A1ta%20af%E1%BA%B9%CC%81f%E1%BA%B9%CC%81&hl=yo&gl=ng",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/kite/yo/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxp9dXiJSn9asH4_idtpvkItHFh16LSV8Alg&s",
+      "fuentePagina": "https://1835galapagosinclusivetrip.com/yo/Aw%E1%BB%8Dn-irin-ajo-ay%E1%BB%8Dn%C3%A1y%C3%A8%C3%A9f%C3%ADn-galapagos/",
+      "titulo": "Àwọn Ìrìnàjò Òkè Afẹ́fẹ́ Galapagos - 1835 Galápagos Pẹ̀lú",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxp9dXiJSn9asH4_idtpvkItHFh16LSV8Alg&s",
+      "original": "https://1835galapagosinclusivetrip.com/wp-content/uploads/2026/02/volcan-chico-vulcano-galapagos-17.jpg.webp"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/kite/yo/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGWpY5tnZgv-57LLsDsDIeXeCZguzizT0stQ&s",
+      "fuentePagina": "https://www.facebook.com/prophecylink.idowu.salami/posts/%EF%B8%8F-al%C3%A1gb%C3%A1ra-%E1%BB%8Dk%C3%B9nrin-t%C3%B2%C5%84-f%E1%BA%B9-%C3%ACy%E1%BA%B9p%E1%BA%B9-s%C3%AC%C5%84%C3%B9-af%E1%BA%B9%CC%81f%E1%BA%B9%CC%81-l%C3%A1%C3%A1t%C3%AD-l%C3%A9-%C3%A0w%E1%BB%8Dn-%C3%A8n%C3%ACy%C3%A0n-g%C3%ACd%C3%AD-l%C3%A1r%C3%A1-r%E1%BA%B9-%C3%A8/904403971474169/",
+      "titulo": "✍️ Alágbára ọkùnrin tòń fẹ ìyẹpẹ sìńù afẹ́fẹ́ láátí lé ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGWpY5tnZgv-57LLsDsDIeXeCZguzizT0stQ&s",
+      "original": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=904403934807506"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/kite/yo/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRj4wQHetLZtjyMZzTXg0jxiNpFMCHjZJHuw&s",
+      "fuentePagina": "https://yo.erviguicoo.com/news/what-are-the-4-types-of-mechanical-ventilation/",
+      "titulo": "Ìròyìn - Àwọn Irú Ẹ̀rọ Afẹ́fẹ́ Mẹ́kínẹ́ẹ̀tì Mẹ́kínẹ́ẹ̀tì Wo ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRj4wQHetLZtjyMZzTXg0jxiNpFMCHjZJHuw&s",
+      "original": "https://www.erviguicoo.com/uploads/%E5%A3%81%E6%8C%82%E6%96%B0%E9%A3%8E%E6%9C%BA%E8%AF%A6%E6%83%85%E9%A1%B5.png"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/kite/yo/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlpHMeIomX6weDTWvebZQ9nJIbfaU6Lp-8Dw&s",
+      "fuentePagina": "https://www.bbc.com/yoruba/articles/clyxlqp2pz2o",
+      "titulo": "Àràmàndà Odò Ado Awaye l'Oyo, àdágún omi órí àpáta tí kò kún ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlpHMeIomX6weDTWvebZQ9nJIbfaU6Lp-8Dw&s",
+      "original": "https://ichef.bbci.co.uk/ace/ws/640/cpsprodpb/73f3/live/045ac4d0-04e7-11f1-b8f8-d167dab78416.png.webp"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/kite/yo/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6ROQgoMihBYR-wkuIuwVKq0wOshOtVACZbg&s",
+      "fuentePagina": "https://www.europeantimes.news/yo/2025/10/%C3%80w%E1%BB%8Dn-%C3%ACr%C3%B2y%C3%ACn-%C3%A0gb%C3%A1y%C3%A9-t%C3%AD-w%E1%BB%8D%CC%81n-%C5%84-k%C3%A9de-n%C3%ADpa-%C3%ACk%E1%BB%8Dl%C3%B9-n%C3%AD-Lebanon-n%C3%AD-%C3%ACr%C3%A8t%C3%AD-p%C3%A9-%E1%BB%8Dk%E1%BB%8D%CC%80-ay%E1%BB%8D%CC%81k%E1%BA%B9%CC%81l%E1%BA%B9%CC%81-y%C3%B3%C3%B2-f%C3%B2fin-de-k%C3%ADk%C3%B9n-%C3%B2d%C3%B2d%C3%B3./",
+      "titulo": "Àkótán ìròyìn àgbáyé: Àwọn ìkọlù afẹ́fẹ́ ní Lebanoni, ìrètí ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6ROQgoMihBYR-wkuIuwVKq0wOshOtVACZbg&s",
+      "original": "https://europeantimes.news/wp-content/smush-webp/2025/10/World-news-briefs-Airstrikes-in-Lebanon-hope-in-CAR-call.jpg.webp"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/kite/yo/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFcryLIoEP9s30hB4P90v7ou9yHa6YSiQdVQ&s",
+      "fuentePagina": "https://yo.erviguicoo.com/fresh-air-ventilation-system-for-air-handling-units-residential-wall-mounted-ductless-air-heat-exchanger-with-fresh-air-product/",
+      "titulo": "Ètò afẹ́fẹ́ tuntun fún àwọn ẹ̀rọ ìtọ́jú afẹ́fẹ́ Pàṣípààrọ̀ ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFcryLIoEP9s30hB4P90v7ou9yHa6YSiQdVQ&s",
+      "original": "https://cdn.globalso.com/erviguicoo/%E5%8D%95%E5%90%91%E6%B5%81%E5%A3%81%E6%8C%82_02-269x300.jpg"
+    }
+  ]
+}

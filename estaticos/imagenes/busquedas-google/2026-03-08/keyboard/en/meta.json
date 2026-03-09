@@ -1,0 +1,71 @@
+{
+  "categoria": "keyboard",
+  "categoriaSlug": "keyboard",
+  "idioma": "en",
+  "nombreIdioma": "English",
+  "termino": "keyboard",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:23:27.352Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "en",
+    "gl": "us"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=keyboard&hl=en&gl=us",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/keyboard/en/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2URmmUVyeBcbUGEATKn8lQR_L1rQundWEcQ&s",
+      "fuentePagina": "https://www.amazon.com/Manhattan-104-key-Keyboard-Built-Indicator/dp/B07RQVB3HQ",
+      "titulo": "Amazon.com: Manhattan Wired Computer Keyboard – Basic Black ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2URmmUVyeBcbUGEATKn8lQR_L1rQundWEcQ&s",
+      "original": "https://m.media-amazon.com/images/I/71zMsBPu3qL._AC_UF894,1000_QL80_.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/keyboard/en/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0OqKrl-qoSNTKd1froGd75vPh56_pue8vtw&s",
+      "fuentePagina": "https://www.ebay.com/itm/276474992976",
+      "titulo": "Mini USB Black UK Qwerty Layout Keyboard Suitable For Windows & Mac New",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0OqKrl-qoSNTKd1froGd75vPh56_pue8vtw&s",
+      "original": "https://i.ebayimg.com/images/g/FF4AAOSwSHBmS9L7/s-l1200.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/keyboard/en/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSENOX-_fz_7n8WZ3_dYEXzEjlhU6iv3ZQgRQ&s",
+      "fuentePagina": "https://plugable.com/products/usb-mech87rw?srsltid=AfmBOooA16VtCHIPoniaXEYyLxU3gWdQL7UcYVdPW30ht2LWZHqHYt1S",
+      "titulo": "Plugable Compact 87-Key Mechanical Keyboard With Red-Style ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSENOX-_fz_7n8WZ3_dYEXzEjlhU6iv3ZQgRQ&s",
+      "original": "http://plugable.com/cdn/shop/products/main_ori_a75270bf-0b1c-4635-a2ee-ba25c1339b80.jpg?v=1645482748"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/keyboard/en/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQD1e2FGI_Z5K085TLKbnuIcHkMHGxyvNjbXQ&s",
+      "fuentePagina": "https://matias.store/products/60-keyboard",
+      "titulo": "60% Keyboard",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQD1e2FGI_Z5K085TLKbnuIcHkMHGxyvNjbXQ&s",
+      "original": "https://matias.store/cdn/shop/products/FK602QPCSKU1960x1960.jpg?v=1648949478&width=1946"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/keyboard/en/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzvLFwpXPdAjI_v6hRzGyOCkG2Gk39WKvaBw&s",
+      "fuentePagina": "https://logickeyboard.com/shop/largeprint-white-on-black-astra-mac-backlit-keyboard-4619p.html",
+      "titulo": "Shortcut keyboard Backlit - Large Print - Available in ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzvLFwpXPdAjI_v6hRzGyOCkG2Gk39WKvaBw&s",
+      "original": "https://logickeyboard.com/images/LKB-LPWB-A2M-UK%200-p.webp"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/keyboard/en/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXIaLQEsmq8Q3mstKl9F1L0F41zwv1vWo3yQ&s",
+      "fuentePagina": "https://www.cdw.com/product/apple-magic-keyboard-keyboard-usb-c-qwerty-us-input-device/8129591",
+      "titulo": "Apple Magic Keyboard - Bluetooth Wireless - US English keypad",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXIaLQEsmq8Q3mstKl9F1L0F41zwv1vWo3yQ&s",
+      "original": "https://webobjects2.cdw.com/is/image/CDW/8129591?$product-main$"
+    }
+  ]
+}

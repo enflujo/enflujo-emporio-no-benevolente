@@ -1,0 +1,71 @@
+{
+  "categoria": "baseball bat",
+  "categoriaSlug": "baseball-bat",
+  "idioma": "es",
+  "nombreIdioma": "Español",
+  "termino": "bate de béisbol",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:03:10.366Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "es",
+    "gl": "es"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=bate%20de%20b%C3%A9isbol&hl=es&gl=es",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/baseball-bat/es/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQs-NIEYIVGEJrWllQrzH3ZdSCUjDxSdX-IXA&s",
+      "fuentePagina": "https://www.dondeporte.com/bate-beisbol-softee-aluminio-81cm",
+      "titulo": "Bate Béisbol Softee Aluminio 81cm",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQs-NIEYIVGEJrWllQrzH3ZdSCUjDxSdX-IXA&s",
+      "original": "https://www.dondeporte.com/3556290-large_default/bate-beisbol-softee-aluminio-81cm.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/baseball-bat/es/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQs1hHdG17K5ur5rRihhUbKvL4odyllmxYA4A&s",
+      "fuentePagina": "https://infanity.es/producto/bate-de-beisbol-de-madera/",
+      "titulo": "Bate de Beisbol de madera",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQs1hHdG17K5ur5rRihhUbKvL4odyllmxYA4A&s",
+      "original": "https://infanity.es/wp-content/uploads/2018/10/20-641055_Bate-de-beisbol-de-madera.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/baseball-bat/es/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2JFKlssEWljtqEIXrXweku43yeAqydN0oWQ&s",
+      "fuentePagina": "https://www.amazon.es/PSG-Pro-Maple-profesional-profesionales/dp/B0CRRXF2ZY",
+      "titulo": "Player Sports Goods LLC - Bate de béisbol y sóftbol plano de ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2JFKlssEWljtqEIXrXweku43yeAqydN0oWQ&s",
+      "original": "https://m.media-amazon.com/images/I/71NyB3VQlWL.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/baseball-bat/es/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQejs0fLZqXH_E96_mNVVjWerzAU6XVqs8F1g&s",
+      "fuentePagina": "https://mundofiestamallorca.com/Halloween/29665-bate-de-bEisbol--85-cm-.html",
+      "titulo": "BATE DE BÉISBOL (85 CM)",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQejs0fLZqXH_E96_mNVVjWerzAU6XVqs8F1g&s",
+      "original": "https://mundofiestamallorca.com/111219-large_default/bate-de-bEisbol--85-cm-.jpg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/baseball-bat/es/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhJsLhcNtfxi157UfWu5tIBk7B8f-0m7e4Qg&s",
+      "fuentePagina": "https://lanpez.es/productos/equipamiento-deportivo/bate-beisbol-softee-madera/?srsltid=AfmBOop_S4itYSplmBx4v7CIcY7dFgYs2CO8D7gBXPuOC8TQ1maGDVPr",
+      "titulo": "Bate béisbol softee madera",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhJsLhcNtfxi157UfWu5tIBk7B8f-0m7e4Qg&s",
+      "original": "https://lanpez.es/wp-content/uploads/2024/12/jimsports_bate_bisbol_softee_madera.jpg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/baseball-bat/es/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUY2gA4wllG4bscnI8Jl4jDEcOXoODlEXL2g&s",
+      "fuentePagina": "https://www.dragonsports.eu/es/51077-bate-de-beisbol-acero.html",
+      "titulo": "Bate de béisbol - Acero",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUY2gA4wllG4bscnI8Jl4jDEcOXoODlEXL2g&s",
+      "original": "https://www.dragonsports.eu/510771-verylarge_default/bate-de-beisbol-acero.jpg"
+    }
+  ]
+}

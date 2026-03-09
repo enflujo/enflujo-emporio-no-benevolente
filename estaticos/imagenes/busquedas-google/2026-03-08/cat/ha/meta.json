@@ -1,0 +1,71 @@
+{
+  "categoria": "cat",
+  "categoriaSlug": "cat",
+  "idioma": "ha",
+  "nombreIdioma": "Hausa",
+  "termino": "kyanwa",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T20:50:28.602Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "ha",
+    "gl": "ng"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=kyanwa&hl=ha&gl=ng",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/cat/ha/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPPjGjW-RCCM7fl2MUJFc3LiltUpssnrJZZg&s",
+      "fuentePagina": "https://www.youtube.com/watch?v=6QwtCHQ2ZOc",
+      "titulo": "Wanda Yayi Mafarkin Kyanwa",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPPjGjW-RCCM7fl2MUJFc3LiltUpssnrJZZg&s",
+      "original": "https://i.ytimg.com/vi/6QwtCHQ2ZOc/sddefault.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/cat/ha/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3TwAIQEnNUhu2G9fUuyRy-wpN-K2Z8WtO7w&s",
+      "fuentePagina": "https://www.facebook.com/aminiyatrust/photos/shin-kyanwa-za-ta-iya-yin-fasakwaurin-miyagun-kwayoyi-da-layukan-wayar-salulakar/3220983691324782/",
+      "titulo": "Aminiya - Shin kyanwa za ta iya yin fasakwaurin miyagun ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3TwAIQEnNUhu2G9fUuyRy-wpN-K2Z8WtO7w&s",
+      "original": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=3220983691324782"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/cat/ha/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfxJIQotrW9U0wl2kEZLAwpwyOlaRJyaBdXA&s",
+      "fuentePagina": "https://www.youtube.com/watch?v=yt_iVKtkrys",
+      "titulo": "FASSARAR MAFARKIN MAGE (KYANWA)",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfxJIQotrW9U0wl2kEZLAwpwyOlaRJyaBdXA&s",
+      "original": "https://i.ytimg.com/vi/yt_iVKtkrys/sddefault.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/cat/ha/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-GS4hyN9-gWUtKke5gInF5guMRHAf4p2-aQ&s",
+      "fuentePagina": "https://ha.wikipedia.org/wiki/Kyanwa",
+      "titulo": "Kyanwa - Wikipedia",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-GS4hyN9-gWUtKke5gInF5guMRHAf4p2-aQ&s",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Collage_of_Six_Cats-02.jpg/330px-Collage_of_Six_Cats-02.jpg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/cat/ha/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-_YgHzOn3thzRAdkLQgl7Rx4pQUAbhEA0Dw&s",
+      "fuentePagina": "https://ha.wikipedia.org/wiki/Kyanwa",
+      "titulo": "Kyanwa - Wikipedia",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-_YgHzOn3thzRAdkLQgl7Rx4pQUAbhEA0Dw&s",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Felis_catus-cat_on_snow.jpg/250px-Felis_catus-cat_on_snow.jpg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/cat/ha/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsYJgywSrOPpwKyvlcv3Y4ahckaBskPB2WoQ&s",
+      "fuentePagina": "https://aminiya.ng/rayuwar-dabbobi-shin-me-ya-sa-kyanwa-ke-binne-kashinta/",
+      "titulo": "Rayuwar Dabbobi: Shin me ya sa kyanwa ke binne kashinta ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsYJgywSrOPpwKyvlcv3Y4ahckaBskPB2WoQ&s",
+      "original": "https://aminiya.ng/wp-content/uploads/2022/10/Screenshot_20221012-092638.jpg"
+    }
+  ]
+}

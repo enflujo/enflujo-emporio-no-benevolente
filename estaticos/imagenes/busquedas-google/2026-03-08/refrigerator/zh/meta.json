@@ -1,0 +1,71 @@
+{
+  "categoria": "refrigerator",
+  "categoriaSlug": "refrigerator",
+  "idioma": "zh",
+  "nombreIdioma": "中文",
+  "termino": "冰箱",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:27:52.827Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "zh-CN",
+    "gl": "cn"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=%E5%86%B0%E7%AE%B1&hl=zh-CN&gl=cn",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/refrigerator/zh/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBzS6A4OuIgHP6kCNdNkruX4pM4zNJXZpUbg&s",
+      "fuentePagina": "https://consumer.panasonic.cn/product/ref/french/nr-p63tf3.html",
+      "titulo": "NR-P63TF3法式冰箱-松下家电",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBzS6A4OuIgHP6kCNdNkruX4pM4zNJXZpUbg&s",
+      "original": "https://consumer.panasonic.cn/static/upload/image/20221205/1670218547387115.png"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/refrigerator/zh/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSiMN4yc5P3V3Y7lilOV2bwIs3AK3yWmD-IiQ&s",
+      "fuentePagina": "https://www.lg.com/cn/french-door",
+      "titulo": "法式多门冰箱-敲一敲门中门制冰冰箱-门中门冰箱-LG中国官网",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSiMN4yc5P3V3Y7lilOV2bwIs3AK3yWmD-IiQ&s",
+      "original": "https://www.lg.com/cn/images/plp-b2c/b2c-5/%E6%B3%95%E5%BC%8F%E5%A4%9A%E9%97%A8_F532MMC71B_mobile.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/refrigerator/zh/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSwSwJjCgU9fvOfT-utbX21OL5XHzH9_W9SA&s",
+      "fuentePagina": "https://www.samsung.com.cn/refrigerators/french-door/rf8500-501l-vibe-dark-metal-rf50dg5131qqsc/",
+      "titulo": "501升60厘米超薄嵌入三系统AI节能模式干湿分储十字门冰箱石岩灰 ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSwSwJjCgU9fvOfT-utbX21OL5XHzH9_W9SA&s",
+      "original": "https://images.samsung.com.cn/is/image/samsung/p6pim/cn/rf50dg5131qqsc/gallery/cn-rf8500-500138-rf50dg5131qqsc-540428610?$Q90_1248_936_F_PNG$"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/refrigerator/zh/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9nZBBdeBibffY0Bkg1p-zLf4NvINdHvLr0w&s",
+      "fuentePagina": "https://consumer.panasonic.cn/product/ref/",
+      "titulo": "冰箱-松下家电",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9nZBBdeBibffY0Bkg1p-zLf4NvINdHvLr0w&s",
+      "original": "https://consumer.panasonic.cn/static/upload/image/20260115/1768456529946474.png"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/refrigerator/zh/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSpbkbdsotLx_lqIx2mdYFuIVp95WArIgUbA&s",
+      "fuentePagina": "https://www.electrolux.com.cn/appliances/refrigerators/",
+      "titulo": "高端进口家电_伊莱克斯冰箱怎么样_冰箱购买指南| 伊莱克斯",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSpbkbdsotLx_lqIx2mdYFuIVp95WArIgUbA&s",
+      "original": "https://www.electrolux.com.cn/globalassets/products/ebe5307c-s-l/cn-ebe5307c-s-l-frcl-1500x1500.png?width=225"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/refrigerator/zh/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTd1Yahnxf8R_jQ7XBUmr8IfufTzhAdEB6_hA&s",
+      "fuentePagina": "https://www.mi.com/shop/buy?product_id=15948",
+      "titulo": "米家冰箱对开门610L墨羽岩立即购买-小米商城",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTd1Yahnxf8R_jQ7XBUmr8IfufTzhAdEB6_hA&s",
+      "original": "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1667112472.92265090.jpg"
+    }
+  ]
+}

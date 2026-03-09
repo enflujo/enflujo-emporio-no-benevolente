@@ -1,0 +1,71 @@
+{
+  "categoria": "bed",
+  "categoriaSlug": "bed",
+  "idioma": "ha",
+  "nombreIdioma": "Hausa",
+  "termino": "gado",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:19:09.478Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "ha",
+    "gl": "ng"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=gado&hl=ha&gl=ng",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bed/ha/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLzix0JeTftgxdJCNqPm2Wk2ISTPsh5zYr3w&s",
+      "fuentePagina": "https://en.wikipedia.org/wiki/Gado-gado",
+      "titulo": "Gado-gado - Wikipedia",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLzix0JeTftgxdJCNqPm2Wk2ISTPsh5zYr3w&s",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/2/26/Gado_gado_jakarta.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bed/ha/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSy9lDKhQdWZqJaXwyjkv4mz6v8jHw1HkT_ww&s",
+      "fuentePagina": "https://www.recipetineats.com/gado-gado-indonesian-salad-with-peanut-sauce/",
+      "titulo": "Gado Gado (Indonesian Salad with Peanut Sauce)",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSy9lDKhQdWZqJaXwyjkv4mz6v8jHw1HkT_ww&s",
+      "original": "https://www.recipetineats.com/tachyon/2020/06/Indonesian-Gado-Gado-SQ.jpg?resize=500%2C375"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bed/ha/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6C1biFgM9bdNW79qVpEfL5brTCfyMyIM9pw&s",
+      "fuentePagina": "https://cooking.nytimes.com/recipes/1021341-gado-gado",
+      "titulo": "Gado-Gado",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6C1biFgM9bdNW79qVpEfL5brTCfyMyIM9pw&s",
+      "original": "https://static01.nyt.com/images/2020/08/21/dining/hm-gado-gado/merlin_175613193_0c311354-1fdc-4b7b-ab23-4bd54c83df01-threeByTwoLargeAt2X.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bed/ha/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwmJblgAu3pJfeZ7f8QKg-jZ4dMMzKuCR3NA&s",
+      "fuentePagina": "https://www.thekitchn.com/gado-gado-recipe-23649720",
+      "titulo": "Gado Gado (Indonesian Salad with Peanut Dressing)",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwmJblgAu3pJfeZ7f8QKg-jZ4dMMzKuCR3NA&s",
+      "original": "https://cdn.apartmenttherapy.info/image/upload/f_jpg,q_auto:eco,c_fill,g_auto,w_1500,ar_4:3/k%2FPhoto%2FRecipes%2F2024-03-gado-gado%2Fgado-gado-069_1"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bed/ha/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8y1_ohP3E-DJZ-K61i6PfqLaUFloIHrt9lA&s",
+      "fuentePagina": "https://stock.adobe.com/search?k=gado",
+      "titulo": "Gado Images – Browse 7,064 Stock Photos, Vectors, and Video ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8y1_ohP3E-DJZ-K61i6PfqLaUFloIHrt9lA&s",
+      "original": "https://t3.ftcdn.net/jpg/04/94/12/34/360_F_494123469_59CAk9U28YnvqpVG4jtPqYtWf3wCZh8C.jpg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bed/ha/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTe48PJCoxoG-lnGY38JYiKlCpnf-c_zqSbsA&s",
+      "fuentePagina": "https://www.bbcgoodfood.com/recipes/gado-gado-salad",
+      "titulo": "Gado Gado salad",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTe48PJCoxoG-lnGY38JYiKlCpnf-c_zqSbsA&s",
+      "original": "https://images.immediate.co.uk/production/volatile/sites/30/2020/08/gado-gado-salad-876c31a.jpg?quality=90&resize=440,400"
+    }
+  ]
+}

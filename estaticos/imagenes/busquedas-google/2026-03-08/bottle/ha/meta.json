@@ -1,0 +1,71 @@
+{
+  "categoria": "bottle",
+  "categoriaSlug": "bottle",
+  "idioma": "ha",
+  "nombreIdioma": "Hausa",
+  "termino": "kwalba",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:06:12.837Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "ha",
+    "gl": "ng"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=kwalba&hl=ha&gl=ng",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bottle/ha/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmUKU0IRw5ZuQ_yvjNsT1lH0m1B7d4bD3mYw&s",
+      "fuentePagina": "https://www.facebook.com/1008401245935267/photos/a.1484973181611402/2811956875579686/",
+      "titulo": "LIVINGTHINGS - HEALTH BENEFITS OF BAOBAB FRUITS (Kwalba in ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmUKU0IRw5ZuQ_yvjNsT1lH0m1B7d4bD3mYw&s",
+      "original": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=2811956875579686"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bottle/ha/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTu88NAkKwBzoIC9Qm_6t0vaMwtl3ZFCW2fJg&s",
+      "fuentePagina": "https://www.instagram.com/p/C6bYFXNoz6U/",
+      "titulo": "We call it “kwalbebe or kwalba da nono” in Hausa Baobab ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTu88NAkKwBzoIC9Qm_6t0vaMwtl3ZFCW2fJg&s",
+      "original": "https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3358383868773351060"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bottle/ha/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUhe6soyrJd5j6vdyonx8H1zCMlIckl9qbfw&s",
+      "fuentePagina": "https://businessday.ng/news/article/lawal-kwalba-notorious-terrorist-commander-surrenders-to-nigerian-troops-in-kaduna/",
+      "titulo": "Lawal Kwalba, notorious terrorist commander surrenders to ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUhe6soyrJd5j6vdyonx8H1zCMlIckl9qbfw&s",
+      "original": "https://cdn.businessday.ng/wp-content/uploads/2024/05/Lawal-Kwalba.png"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bottle/ha/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRn0cdqTofpQofd-WEtPOItnqYcvSJFjlPkwA&s",
+      "fuentePagina": "https://www.tiktok.com/@nabilaskitchentales/video/7466144636835302662",
+      "titulo": "KANKARAR KWAME/KWALBA INGREDIENTS Kwame/kwalba/baobab seeds Condensed milk  Warm water Soak your kwame in warm water for a few hours and then  strain.Add more water if very thick till it reaches your ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRn0cdqTofpQofd-WEtPOItnqYcvSJFjlPkwA&s",
+      "original": "https://www.tiktok.com/api/img/?itemId=7466144636835302662&location=0&aid=1988"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bottle/ha/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTj7zUHj2Lfo3eNPC0buPtduYB3lRcTwbDV5A&s",
+      "fuentePagina": "https://www.facebook.com/groups/357432811573280/posts/1663966667586548/",
+      "titulo": "Kayan marmarinmu na yau Ya'yan Itacen Kuka (Kwalba) Fa ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTj7zUHj2Lfo3eNPC0buPtduYB3lRcTwbDV5A&s",
+      "original": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=122148340820376067"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bottle/ha/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQC1V_xaxuahih9-ng8hH4t8U4lEDQKtGJcww&s",
+      "fuentePagina": "https://www.channelstv.com/2022/08/18/troops-clear-camp-of-notorious-bandit-lawal-kwalba-in-kaduna/",
+      "titulo": "Troops Clear Camp Of Notorious Bandit Lawal Kwalba In Kaduna ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQC1V_xaxuahih9-ng8hH4t8U4lEDQKtGJcww&s",
+      "original": "https://www.channelstv.com/wp-content/uploads/2022/08/Untitled-1-36.png"
+    }
+  ]
+}

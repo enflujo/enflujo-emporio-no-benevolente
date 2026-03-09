@@ -1,0 +1,71 @@
+{
+  "categoria": "tennis racket",
+  "categoriaSlug": "tennis-racket",
+  "idioma": "ln",
+  "nombreIdioma": "Lingala",
+  "termino": "raquette",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:05:19.043Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "fr",
+    "gl": "cd"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=raquette&hl=fr&gl=cd",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/tennis-racket/ln/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQoZ9CTazhfsYpAlSK42MbcYdwF7WhJ_lb0wQ&s",
+      "fuentePagina": "https://www.extreme-tennis.fr/fr/wilson-blade/19326-raquette-wilson-blade-98-pro-stock-18x20-v9-305g.html",
+      "titulo": "Raquette Wilson Blade 98 Pro Stock 18x20 V9 (305g) - Extreme ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQoZ9CTazhfsYpAlSK42MbcYdwF7WhJ_lb0wQ&s",
+      "original": "https://www.extreme-tennis.fr/modules/wkwebp/views/img/product/34860-large_default.webp"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/tennis-racket/ln/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9ZRkeTorfgVwXpjnvCF9exgTPBjRJVJ1XFQ&s",
+      "fuentePagina": "https://www.lequipe.fr/Guide-d-achat/Actualites/Comment-choisir-sa-premiere-raquette-de-tennis/1481556",
+      "titulo": "Comment choisir sa première raquette de tennis ?",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9ZRkeTorfgVwXpjnvCF9exgTPBjRJVJ1XFQ&s",
+      "original": "https://www.lequipe.fr/_medias/img-photo-jpg/comment-choisir-sa-premiere-raquette-de-tennis/1500000002001249/0:0,1000:667-828-552-75/715b4.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/tennis-racket/ln/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYrPV5jVyUqj1Jf1EY2MPh3lhPYZk6H_WxbQ&s",
+      "fuentePagina": "https://tennis-compagnie.fr/24487244-raquette-wilson-rf-01-pro-320g.html",
+      "titulo": "Raquette Wilson RF 01 Pro (320g) : Achat Wilson RF 01 Pro au ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYrPV5jVyUqj1Jf1EY2MPh3lhPYZk6H_WxbQ&s",
+      "original": "https://tennis-compagnie.fr/26119-large_default/raquette-wilson-rf-01-pro-320g.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/tennis-racket/ln/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCTjcF17mdRLLVOUS96YA2-JRX4wWKXOhxyA&s",
+      "fuentePagina": "https://fr.wikipedia.org/wiki/Raquette_(sport)",
+      "titulo": "Raquette (sport) — Wikipédia",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCTjcF17mdRLLVOUS96YA2-JRX4wWKXOhxyA&s",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/5/59/Tennis_racket_and_ball.JPG"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/tennis-racket/ln/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNov2lI7Mf0zp5RmBj8NWzGKvLdWjOD1N_Ig&s",
+      "fuentePagina": "https://www.protennis.fr/blog/raquette-de-tennis-wilson-ultra-100-l-cordee/",
+      "titulo": "Promo sur la Raquette de tennis Wilson Ultra - Protennis",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNov2lI7Mf0zp5RmBj8NWzGKvLdWjOD1N_Ig&s",
+      "original": "https://www.protennis.fr/blog/wp-content/uploads/2021/03/raquette-wilson-ultra-100-l-protennis.jpg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/tennis-racket/ln/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtjOs4qdFTbKaUsBKZcLqTqnPrkkCl5tdScg&s",
+      "fuentePagina": "https://www.protennis.fr/blog/taille-raquette-tennis/",
+      "titulo": "Taille raquette de tennis et manche : Comment choisir ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtjOs4qdFTbKaUsBKZcLqTqnPrkkCl5tdScg&s",
+      "original": "https://www.protennis.fr/blog/wp-content/uploads/2020/02/taille-raquette-tennis.png"
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "categoria": "apple",
+  "categoriaSlug": "apple",
+  "idioma": "sw",
+  "nombreIdioma": "Kiswahili",
+  "termino": "tofaa",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:11:16.047Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "sw",
+    "gl": "tz"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=tofaa&hl=sw&gl=tz",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/apple/sw/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpFZGNIhYOou0ShRffy-x_oWc-r1SqhQAe7w&s",
+      "fuentePagina": "https://sw.wikipedia.org/wiki/Tofaa",
+      "titulo": "Tofaa - Wikipedia, kamusi elezo huru",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpFZGNIhYOou0ShRffy-x_oWc-r1SqhQAe7w&s",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/0/0b/Apple_Scrumptious.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/apple/sw/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxifCe3m93tv6Qqhm9xGtCaTSRENqvByS-oQ&s",
+      "fuentePagina": "https://www.instagram.com/p/DDErsn6IZ-O/",
+      "titulo": "Karibu miche ya Tofaa za zanzibar na aina zingine zote za ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxifCe3m93tv6Qqhm9xGtCaTSRENqvByS-oQ&s",
+      "original": "https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3514125791763996558"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/apple/sw/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0pCAGG7CzaDQ45360yhzNE6b1yaXs7Pd9TA&s",
+      "fuentePagina": "https://x.com/JOHNHEBRON6/status/734817264214671360",
+      "titulo": "Hili tunda Lina faida gani mwilini maarufu Kama tofaa",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0pCAGG7CzaDQ45360yhzNE6b1yaXs7Pd9TA&s",
+      "original": "https://pbs.twimg.com/media/CjKYZ5MW0AAkpAq.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/apple/sw/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvWMsXsVh4V_kjDai6hP0zEKZiC4tS0faD5w&s",
+      "fuentePagina": "https://www.instagram.com/reel/DC60NHdgSaC/",
+      "titulo": "TUNAUZA MICHE YA TOFAA (APPLE 🍎🍏) | WE ARE SELLING APPLE PLANT | MITOFAA  = APPLE TREES, Call/Text/WhatsApp: 0714 636 375, @joackcompany @mifugo_tz  @kilimo_tz @afyakiganjani @joackagrovet, Apple ni ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvWMsXsVh4V_kjDai6hP0zEKZiC4tS0faD5w&s",
+      "original": "https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3511348459271693954"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/apple/sw/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBwrsmgaoPDnCXmbsfc4iKoUAeZBKb-oCkZQ&s",
+      "fuentePagina": "https://www.facebook.com/shashona.mboteseraphine.3/posts/talktosasha-in-swahili-it-is-called-tofaa-in-english-rose-apple-and-it-has-anoth/1563744661667197/",
+      "titulo": "TalkToSasha IN SWAHILI IT IS CALLED TOFAA, IN ENGLISH ROSE ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBwrsmgaoPDnCXmbsfc4iKoUAeZBKb-oCkZQ&s",
+      "original": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=1563744631667200"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/apple/sw/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQy_w2BaRxhqV3vKm8j8Yklmk1CFSPNaxe_aQ&s",
+      "fuentePagina": "https://sw.wikipedia.org/wiki/Mtofaa",
+      "titulo": "Mtofaa - Wikipedia, kamusi elezo huru",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQy_w2BaRxhqV3vKm8j8Yklmk1CFSPNaxe_aQ&s",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/0/04/Appletree_2.jpg"
+    }
+  ]
+}

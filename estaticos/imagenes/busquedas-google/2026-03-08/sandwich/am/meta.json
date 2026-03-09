@@ -1,0 +1,71 @@
+{
+  "categoria": "sandwich",
+  "categoriaSlug": "sandwich",
+  "idioma": "am",
+  "nombreIdioma": "Amharic — አማርኛ",
+  "termino": "ሳንድዊች",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:12:08.601Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "am",
+    "gl": "et"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=%E1%88%B3%E1%8A%95%E1%8B%B5%E1%8B%8A%E1%89%BD&hl=am&gl=et",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/sandwich/am/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAt2V8z4Cxa580FNXdmUhHYko1fk9R8YZatA&s",
+      "fuentePagina": "https://www.youtube.com/watch?v=Tt1Wl8E5L5I",
+      "titulo": "በቀላሉ የሚሰራ ሳንድዊች | Simple Sandwich",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAt2V8z4Cxa580FNXdmUhHYko1fk9R8YZatA&s",
+      "original": "https://i.ytimg.com/vi/Tt1Wl8E5L5I/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLC3tzF1FFI92HjwO8vxO5KnHQYSMQ"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/sandwich/am/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhjf50_xKeCZdfw7v_RiwASTSpw3wTG4hrng&s",
+      "fuentePagina": "https://www.facebook.com/photo.php?fbid=2885868068363620&set=a.548959180614354&id=100065008291129",
+      "titulo": "ሼፍ - ቀላል የክለብ ሳንድዊች አሰራር ( ለ 3 ስው ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhjf50_xKeCZdfw7v_RiwASTSpw3wTG4hrng&s",
+      "original": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=2885868068363620"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/sandwich/am/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYqQZWbjWpbRCF6iU8Ponsoia161G_Bgkeqw&s",
+      "fuentePagina": "https://www.youtube.com/watch?v=1nGVuW0wh10",
+      "titulo": "ክለብ ሳንድዊች |How to make Club sandwich |በስጋና ቱና|",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYqQZWbjWpbRCF6iU8Ponsoia161G_Bgkeqw&s",
+      "original": "https://i.ytimg.com/vi/1nGVuW0wh10/sddefault.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/sandwich/am/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiJDnTAVdMcI0DK-2HBp7Zw55Cvc1-_3_nWg&s",
+      "fuentePagina": "https://am.sewasew.com/p/%E1%8B%A8%E1%8B%B6%E1%88%AE-%E1%88%B3%E1%8A%95%E1%8B%B5%E1%8B%8A%E1%89%BD-%E1%8A%A0%E1%88%A0%E1%88%AB%E1%88%AD",
+      "titulo": "ሰዋስው | የዶሮ ሳንድዊች አሠራር",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiJDnTAVdMcI0DK-2HBp7Zw55Cvc1-_3_nWg&s",
+      "original": "https://img.sewasew.com/definitions/ad31946cd85d4a789bf353ed5c2bf927_246_205"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/sandwich/am/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXGCdzn9Rd3xqPceWa7qrcbvjWvqcrwXPzVw&s",
+      "fuentePagina": "https://www.facebook.com/agchcorner/posts/club_sandwich-70%E1%89%A0%E1%8C%A3%E1%88%9D-%E1%8C%A3%E1%8D%8B%E1%8C%AD-%E1%8A%AD%E1%88%88%E1%89%A5-%E1%88%B3%E1%8A%95%E1%8B%B5%E1%8B%8A%E1%89%BD-%E1%8B%AD%E1%88%9D%E1%89%B1%E1%8A%93-%E1%8B%AD%E1%89%85%E1%88%98%E1%88%B1special_fetira-50-birr%E1%89%A0%E1%8C%A3%E1%88%9D-%E1%8C%A3%E1%8D%8B%E1%8C%AD-%E1%8D%88%E1%8C%A2%E1%88%AB-%E1%8B%AD%E1%88%9D%E1%89%B1/2080465045617354/",
+      "titulo": "Club_sandwich $ 70 በጣም ጣፋጭ ክለብ ሳንድዊች ይምቱና ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXGCdzn9Rd3xqPceWa7qrcbvjWvqcrwXPzVw&s",
+      "original": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=2080464742284051"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/sandwich/am/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQR6CUndmb-1TWELhsfrEZrpkG0qxRWOaHcFQ&s",
+      "fuentePagina": "https://www.youtube.com/watch?v=VS41z_6gxVQ",
+      "titulo": "እንዴት ምርጥ እንቁላል ሳንድዊች መስራት እንችላለን-እንቁላል ሳንድዊች አሰራር-One Pan Egg toast  Recipe-Ethiopian Cooking",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQR6CUndmb-1TWELhsfrEZrpkG0qxRWOaHcFQ&s",
+      "original": "https://i.ytimg.com/vi/VS41z_6gxVQ/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLAK2YbO9N-7KMuGEoNQMCfNBBo9wQ"
+    }
+  ]
+}

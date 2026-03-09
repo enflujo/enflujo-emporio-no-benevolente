@@ -1,0 +1,71 @@
+{
+  "categoria": "cup",
+  "categoriaSlug": "cup",
+  "idioma": "es",
+  "nombreIdioma": "Español",
+  "termino": "taza",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:07:50.120Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "es",
+    "gl": "es"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=taza&hl=es&gl=es",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/cup/es/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSE8nTe-j1wXuKI2yXWzyc8gA1mJLLLr6t2pg&s",
+      "fuentePagina": "https://www.amazon.es/Smilatte-M007-cer%C3%A1mica-unidades-blanco/dp/B07V34SQQF",
+      "titulo": "Smilatte Taza de café grande de 20 oz, M016 Taza de cerámica lisa con asa  para papá y hombre, roja : Amazon.es: Hogar y cocina",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSE8nTe-j1wXuKI2yXWzyc8gA1mJLLLr6t2pg&s",
+      "original": "https://m.media-amazon.com/images/I/5120lqLs-dL._AC_UF894,1000_QL80_.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/cup/es/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCWO4LUuefPRcr5UmS4TuHF6b8eRbJrI8yQQ&s",
+      "fuentePagina": "https://hosteleria10.com/menaje/tazas/olympia-tazas-platillos-cafe-roja.html",
+      "titulo": "Tazas y Platillos Olympia Café Roja",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCWO4LUuefPRcr5UmS4TuHF6b8eRbJrI8yQQ&s",
+      "original": "https://hosteleria10.com/recursos/fotos/570x513/olympia-tazas-platillos-cafe-roja-01.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/cup/es/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTERumlsn8xFPW3lZ1pU_05vzBX_nz0C3WafQ&s",
+      "fuentePagina": "https://tienda.camofi.com/tienda/taza-de-sublimacion-blanco-11-oz/6725",
+      "titulo": "TAZA DE SUBLIMACION BLANCO 11 OZ",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTERumlsn8xFPW3lZ1pU_05vzBX_nz0C3WafQ&s",
+      "original": "https://tienda.camofi.com/axos/imagenes/rmd4000s101-taza-de-sublimacion-blanco-11-oz-1.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/cup/es/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNITaSto56p8k7GaChbXWyrXxZDZnOmWJ-lA&s",
+      "fuentePagina": "https://www.regalospublicitarios.com/taza-de-color-mate-300-ml-dublin-colour?srsltid=AfmBOooPSt6GkCmghoubnZGiY0RPKHmqOcwLyxR9fHpx_ibJg_e6dMW9",
+      "titulo": "Taza publicitaria de color mate 300ml Dublin colour",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNITaSto56p8k7GaChbXWyrXxZDZnOmWJ-lA&s",
+      "original": "https://cdn1.midocean.com/image/700X700/mo6849-05.jpg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/cup/es/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBaf91pksluqrO7jwNRYYqQPpR-iy2XM33zg&s",
+      "fuentePagina": "https://www.rossodecora.es/cocina/tazas-y-juegos-de-cafe/taza-mug-vintage-blanca-y-dorada-380ml?srsltid=AfmBOoqURBenpysY6JOnvACT5cS6W_Kk4Rxk-t4JSTAcAuxKVjKLh-zh",
+      "titulo": "Taza mug vintage blanca y dorada 380ml",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBaf91pksluqrO7jwNRYYqQPpR-iy2XM33zg&s",
+      "original": "https://www.rossodecora.es/33622-thickbox_default/taza-mug-vintage-blanca-y-dorada-380ml.jpg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/cup/es/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOuxBE_c4B8s_1FuwmF2Qh9Qa1qz9yhED33g&s",
+      "fuentePagina": "https://dajar.es/taza-380-ml-royal-rojo-dorado-ambition",
+      "titulo": "Taza 380 ml Royal rojo-dorado AMBITION",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOuxBE_c4B8s_1FuwmF2Qh9Qa1qz9yhED33g&s",
+      "original": "https://dajarmedia.dajarmedia.com/media/catalog/product/4/3/43632_z.jpg"
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "categoria": "tennis racket",
+  "categoriaSlug": "tennis-racket",
+  "idioma": "nah",
+  "nombreIdioma": "Náhuatl",
+  "termino": "raqueta",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:05:48.682Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "es",
+    "gl": "mx"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=raqueta&hl=es&gl=mx",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/tennis-racket/nah/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqHMlAvjikyjpBB3gVtE3KTPhrysX8SzJRfw&s",
+      "fuentePagina": "https://www.wilsonstore.mx/products/96707-raqueta-blade-98-16x19-v9?srsltid=AfmBOoo4Ublv8bNrNaM0jYAVINHFY0COdkCrt-LD7K7kCu9awbLup-be",
+      "titulo": "Raqueta wilson blade 98 16x19 v9",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqHMlAvjikyjpBB3gVtE3KTPhrysX8SzJRfw&s",
+      "original": "http://www.wilsonstore.mx/cdn/shop/files/e8cb5f2f44.webp?v=1762989920"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/tennis-racket/nah/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRO1gvl3Mg0H6qei3Y8_3OmHR_S_fQSAVblig&s",
+      "fuentePagina": "https://www.tennisboutiquemx.com/products/raqueta-wilson-rf-01",
+      "titulo": "Raqueta de Tenis Wilson RF 01 – Tennis Boutique México",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRO1gvl3Mg0H6qei3Y8_3OmHR_S_fQSAVblig&s",
+      "original": "https://www.tennisboutiquemx.com/cdn/shop/files/raqueta-wilson-rf-01-tennis-boutique-mexico-697843.jpg?v=1727287123&width=1080"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/tennis-racket/nah/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSG418mvb5Y5YFc8HoCzP8EHZJv3TEo-rmIg&s",
+      "fuentePagina": "https://www.decathlon.com.mx/p/300399-79901-raqueta-de-tenis-adulto-tr500-azul.html?srsltid=AfmBOoqqwU5Yl1Q-ZVnFWcgwwvBP3DnUAnD2jKL3mgWnlXs2VT7Sqody",
+      "titulo": "Raqueta de tenis adulto TR500 AZUL - Decathlon",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSG418mvb5Y5YFc8HoCzP8EHZJv3TEo-rmIg&s",
+      "original": "https://contents.mediadecathlon.com/p2486925/k$04b378f68d8cd9acbbfcb04eb3c399c6/raqueta-de-tenis-adulto-tr500-azul.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/tennis-racket/nah/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUTF6qeOSe8c4nKyJLVA30NRO5wt7GUvfecQ&s",
+      "fuentePagina": "https://www.amazon.com.mx/Dunlop-Sports-Pro-Raqueta-Tenis/dp/B08WMP16FJ",
+      "titulo": "Dunlop Sports Pro 255 - Raqueta de Tenis pre-encordada, Agarre 1/4 :  Amazon.com.mx: Deportes y Aire Libre",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUTF6qeOSe8c4nKyJLVA30NRO5wt7GUvfecQ&s",
+      "original": "https://m.media-amazon.com/images/I/71nIjBQXIAL.jpg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/tennis-racket/nah/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4fHOT1YMsMN3TzGOHGYc9AAFEjZqcGTBurg&s",
+      "fuentePagina": "https://www.liverpool.com.mx/tienda/pdp/raqueta-de-tennis-wr028310u-adulto/1038304310",
+      "titulo": "Raqueta de tennis Wilson WR028310U adulto | Liverpool",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4fHOT1YMsMN3TzGOHGYc9AAFEjZqcGTBurg&s",
+      "original": "https://ss201.liverpool.com.mx/lg/1038304310.jpg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/tennis-racket/nah/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCSr4K3pIp_3siEvtGnInJVv1kOl4gLqvqQg&s",
+      "fuentePagina": "https://racquetonline.com.mx/products/raqueta-de-tennis-babolat-pure-drive-98?srsltid=AfmBOoq6nROTejTIpMWVXvVtmePGDxLoQAWMrqR8MGKoRTZP2_cuvkGw",
+      "titulo": "Raqueta Babolat Pure Drive 98 | TennisExpress 1/4",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCSr4K3pIp_3siEvtGnInJVv1kOl4gLqvqQg&s",
+      "original": "http://racquetonline.com.mx/cdn/shop/products/raqueta-de-tennis-babolat-pure-drive-98-172634.jpg?v=1684382601"
+    }
+  ]
+}

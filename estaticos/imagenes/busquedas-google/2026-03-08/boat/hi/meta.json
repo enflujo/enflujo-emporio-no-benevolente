@@ -1,0 +1,71 @@
+{
+  "categoria": "boat",
+  "categoriaSlug": "boat",
+  "idioma": "hi",
+  "nombreIdioma": "हिन्दी",
+  "termino": "नाव",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T20:45:58.520Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "hi",
+    "gl": "in"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=%E0%A4%A8%E0%A4%BE%E0%A4%B5&hl=hi&gl=in",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/boat/hi/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvnobjwBZjzzzv_W9KCkI6hItMqjmRnZf0ug&s",
+      "fuentePagina": "https://hi.wikipedia.org/wiki/%E0%A4%A8%E0%A4%BE%E0%A4%B5",
+      "titulo": "नाव - विकिपीडिया",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvnobjwBZjzzzv_W9KCkI6hItMqjmRnZf0ug&s",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/1/14/Rodney_boat.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/boat/hi/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrh3PPqS5-hBD8qXDUzeraU_ri61ioiHfUsw&s",
+      "fuentePagina": "https://hi.wikipedia.org/wiki/%E0%A4%A8%E0%A4%BE%E0%A4%B5",
+      "titulo": "नाव - विकिपीडिया",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrh3PPqS5-hBD8qXDUzeraU_ri61ioiHfUsw&s",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Doni_aux_Maldives_cropped.jpg/330px-Doni_aux_Maldives_cropped.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/boat/hi/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQp3GKFOXU2WSYEN5naJREOj5hTznhQWWo9g&s",
+      "fuentePagina": "https://hi.pngtree.com/freepng/boat_7008638.html",
+      "titulo": "नाव, नौका, लकड़ी की नाव, बोट ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQp3GKFOXU2WSYEN5naJREOj5hTznhQWWo9g&s",
+      "original": "https://png.pngtree.com/png-vector/20211231/ourlarge/pngtree-boat-png-image_4113477.png"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/boat/hi/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwWF-WnQBnlmodx2O5ndWQ374wzP2kqfnszA&s",
+      "fuentePagina": "https://x.com/Hindi_panktiyan/status/1261480331770621955",
+      "titulo": "नाव इसलिये नही डूबती कि उसके ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwWF-WnQBnlmodx2O5ndWQ374wzP2kqfnszA&s",
+      "original": "https://pbs.twimg.com/media/EYGtrM1UMAAI1B5.jpg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/boat/hi/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNnqx_UFvLAoWvr9byOaT94JgV1Q9V47fGTw&s",
+      "fuentePagina": "https://hi.pngtree.com/photos/nav-ki-photo",
+      "titulo": "Nav Ki Photo तस्वीरें, चित्र मुफ्त में ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNnqx_UFvLAoWvr9byOaT94JgV1Q9V47fGTw&s",
+      "original": "https://png.pngtree.com/thumb_back/fh260/background/20230610/pngtree-wooden-boat-is-floating-in-the-water-image_2957870.jpg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/boat/hi/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSppMW5te8S_WzWwCztyzqYrEn0PQ7nN8aa6Q&s",
+      "fuentePagina": "https://www.bbc.com/hindi/media-56147979",
+      "titulo": "अगर आप समुद्र के बीच एक नाव पर हों तो क्या करेंगे?",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSppMW5te8S_WzWwCztyzqYrEn0PQ7nN8aa6Q&s",
+      "original": "https://ichef.bbci.co.uk/images/ic/1024x576/p097mtq1.jpg"
+    }
+  ]
+}

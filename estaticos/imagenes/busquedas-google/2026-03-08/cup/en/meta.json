@@ -1,0 +1,71 @@
+{
+  "categoria": "cup",
+  "categoriaSlug": "cup",
+  "idioma": "en",
+  "nombreIdioma": "English",
+  "termino": "cup",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:07:13.862Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "en",
+    "gl": "us"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=cup&hl=en&gl=us",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/cup/en/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkrPfWFjitZBZKsYhLdfqB9sESBF1Jtwirgw&s",
+      "fuentePagina": "https://www.forlifedesignusa.com/products/uni-tea-coffee-cup-with-handle-11-oz-4-pc-pack-brown-box",
+      "titulo": "Uni Tea/Coffee Cup with handle - 11 oz., 4 pc pack",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkrPfWFjitZBZKsYhLdfqB9sESBF1Jtwirgw&s",
+      "original": "http://www.forlifedesignusa.com/cdn/shop/products/550-CAR_1200x1200.jpg?v=1581640656"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/cup/en/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjTlZUL-ZQmqblORJs-hJAklD7pLae7JfmGg&s",
+      "fuentePagina": "https://www.amazon.com/Coffee-Harebe-Smooth-Ceramic-Capacity/dp/B08B8MPKYY",
+      "titulo": "Amazon.com | harebe 20 OZ Large Coffee Mug, Smooth Ceramic ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjTlZUL-ZQmqblORJs-hJAklD7pLae7JfmGg&s",
+      "original": "https://m.media-amazon.com/images/I/61-gPGG7umL._AC_UF894,1000_QL80_.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/cup/en/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROLiXfAlkoOaHzbkJr2P_ridcWJQW73fO5DA&s",
+      "fuentePagina": "https://www.forlifedesignusa.com/products/q-tea-cup-with-handle-10-oz-4-pc-pack",
+      "titulo": "Q Tea Cup with Handle - 10 oz., 4 pc pack – FORLIFE Design",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROLiXfAlkoOaHzbkJr2P_ridcWJQW73fO5DA&s",
+      "original": "https://www.forlifedesignusa.com/cdn/shop/products/521-MND.jpg?v=1582155776"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/cup/en/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9ptCBdMhvGee6RVJNRE7MmpyL-e00PKcWHg&s",
+      "fuentePagina": "https://www.ikea.com/us/en/p/vaerdera-coffee-cup-and-saucer-white-60277463/",
+      "titulo": "VÄRDERA coffee cup and saucer, white, 7 oz - IKEA",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9ptCBdMhvGee6RVJNRE7MmpyL-e00PKcWHg&s",
+      "original": "https://www.ikea.com/us/en/images/products/vaerdera-coffee-cup-and-saucer-white__0713419_pe729512_s5.jpg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/cup/en/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRttDIhg3QhEAxt6uZajGcrYNUvoiUVxOhgog&s",
+      "fuentePagina": "https://www.loveramics.com/products/egg-300ml-cafe-latte-cup-saucer-set-of-1",
+      "titulo": "WLAC official cups - Loveramics 300ml / 10oz Egg Coffee Cup",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRttDIhg3QhEAxt6uZajGcrYNUvoiUVxOhgog&s",
+      "original": "https://www.loveramics.com/cdn/shop/files/C088-B045B.png?v=1757473381&width=1800"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/cup/en/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiGiUObCYlNLxZOaYIbcuyiqgx0TibeW-PUA&s",
+      "fuentePagina": "https://www.webstaurantstore.com/choice-16-oz-red-plastic-cup-pack/999CC16R.html?srsltid=AfmBOoons4q0WOyQxvUgepY0WvO7bt6sWfowSglSZrOYoeVLG3rMt2Qt",
+      "titulo": "Choice 16 oz. Red Plastic Cup - 50/Pack",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiGiUObCYlNLxZOaYIbcuyiqgx0TibeW-PUA&s",
+      "original": "https://www.webstaurantstore.com/images/products/large/395754/2462976.jpg"
+    }
+  ]
+}

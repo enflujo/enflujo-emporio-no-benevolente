@@ -1,0 +1,71 @@
+{
+  "categoria": "clock",
+  "categoriaSlug": "clock",
+  "idioma": "hi",
+  "nombreIdioma": "हिन्दी",
+  "termino": "घड़ी",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:29:05.583Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "hi",
+    "gl": "in"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=%E0%A4%98%E0%A4%A1%E0%A4%BC%E0%A5%80&hl=hi&gl=in",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/clock/hi/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHURtBxXkXlqoRo8NISURWXQbbRRNPrFfW8Q&s",
+      "fuentePagina": "https://www.amazon.in/-/hi/President-%E0%A4%98%E0%A4%B0-%E0%A4%B2%E0%A4%BF%E0%A4%8F-%E0%A4%A6%E0%A5%80%E0%A4%B5%E0%A4%BE%E0%A4%B0-%E0%A4%98%E0%A4%A1%E0%A4%BC%E0%A5%80/dp/B09DLB5BS1",
+      "titulo": "President घर के लिए दीवार घड़ी : Amazon.in: घर और किचन",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHURtBxXkXlqoRo8NISURWXQbbRRNPrFfW8Q&s",
+      "original": "https://m.media-amazon.com/images/I/61Vqh59RduL.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/clock/hi/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRB5qLfoK3RAKMklOJZ-Owu5ZMCHFBDktrOuA&s",
+      "fuentePagina": "https://www.amazon.in/-/hi/GULABIART-Plastic-%E0%A4%B9%E0%A5%88%E0%A4%82%E0%A4%97%E0%A4%BF%E0%A4%82%E0%A4%97-%E0%A4%8F%E0%A4%A8%E0%A4%BE%E0%A4%B2%E0%A5%89%E0%A4%97-%E0%A4%AC%E0%A5%87%E0%A4%A1%E0%A4%B0%E0%A5%82%E0%A4%AE/dp/B0B5DKLCXP",
+      "titulo": "GULABIART Plastic गोल सजावट दिवार घडी वॉल हैंगिंग एनालॉग घड़ी बेडरूम लिविंग  रूम होम ऑफिस के लिए (8.5 X 11 इंच) : Amazon.in: घर और किचन",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRB5qLfoK3RAKMklOJZ-Owu5ZMCHFBDktrOuA&s",
+      "original": "https://m.media-amazon.com/images/I/61+a0N7oWmL.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/clock/hi/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_bwA3btHU7XHcyH-CNKXK3wcUpMcSS2RVPg&s",
+      "fuentePagina": "https://hindi.alibaba.com/product-detail/24-Hour-Analog-Wall-Clock-Hour-60276672189.html",
+      "titulo": "24 घंटे एनालॉग दीवार घड़ी घंटे डिजिटल घड़ी क्वार्ट्ज घर की सजावट के डिजिटल  आधुनिक सस्ते बड़े DIY 3D नई डिजाइन 24 कमरे में रहने वाले",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_bwA3btHU7XHcyH-CNKXK3wcUpMcSS2RVPg&s",
+      "original": "https://sc04.alicdn.com/kf/H53c0a628628146ba947e67d21f529bf4S.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/clock/hi/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJTVRmx8klTtZo4NTuTO31t6yQZwE92OP5Tw&s",
+      "fuentePagina": "https://hi.wikipedia.org/wiki/%E0%A4%98%E0%A4%A1%E0%A4%BC%E0%A5%80",
+      "titulo": "घड़ी - विकिपीडिया",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJTVRmx8klTtZo4NTuTO31t6yQZwE92OP5Tw&s",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/5/5b/The_Magma_-_21st_Century_Watch_Design.jpg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/clock/hi/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkjucU6ZG2zfO6mZ4cTDkczoWCB-THGHBj6w&s",
+      "fuentePagina": "https://www.cool-mania.in/spa-i/jasusi-kaimare/divara-ghari-va-ifa-i-kaimara-purna-hd-gati-ka-pata-lagane",
+      "titulo": "दीवार घड़ी वाईफ़ाई कैमरा पूर्ण HD ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkjucU6ZG2zfO6mZ4cTDkczoWCB-THGHBj6w&s",
+      "original": "https://www.cool-mania.net/mini/w-980/data/product/b5/cd8a1cab2f8ed2b0d7b472714d18c9.jpg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/clock/hi/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlEZqcuskJdwIdTnCOu8Qpb9PCFFALjCwnYA&s",
+      "fuentePagina": "https://play.google.com/store/apps/details?id=com.soloseal.ticktockpendulumclock&hl=hi",
+      "titulo": "पेंडुलम दीवार घड़ी - Google Play पर ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlEZqcuskJdwIdTnCOu8Qpb9PCFFALjCwnYA&s",
+      "original": "https://play-lh.googleusercontent.com/Ke9M6Tiyeq6MfPaY9GmzztQyCNersK1B8_vjw_pJJ2L-Pot4fuYiEbzICDuSApIEtfME"
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "categoria": "fork",
+  "categoriaSlug": "fork",
+  "idioma": "pt",
+  "nombreIdioma": "Português",
+  "termino": "garfo",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:08:29.838Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "pt",
+    "gl": "br"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=garfo&hl=pt&gl=br",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/fork/pt/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVK4hxctI6jYm-BU5O29CcZxVHtttfJ9tYmA&s",
+      "fuentePagina": "https://www.utifacil.com.br/garfo-de-mesa-grande-aco-inox?srsltid=AfmBOopHgl1MT495SbOgdASJlXyYQH5lt8EHHH5EVxFbIW_C35_ZvmMc",
+      "titulo": "Garfo de Cozinha Mesa Aço Inox é na Utifácil! Casa Cozinha ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVK4hxctI6jYm-BU5O29CcZxVHtttfJ9tYmA&s",
+      "original": "https://cdn.awsli.com.br/2500x2500/19/19830/produto/7401794/garfo-1-gu8glghsiz.png"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/fork/pt/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQk4BmKefNGO0YmrkujnkfFw5Y83clkAuDmag&s",
+      "fuentePagina": "https://www.balca.com.br/garfo-inox-de-mesa-20-cm?srsltid=AfmBOoo3WNCzTmedmsAoXhRBjMnU9fjftXEsYfgfiiV20oosYj_AQg77",
+      "titulo": "Garfo inox de Mesa 20 cm - Ind. BalCa - canecas ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQk4BmKefNGO0YmrkujnkfFw5Y83clkAuDmag&s",
+      "original": "https://cdn.awsli.com.br/2500x2500/1233/1233245/produto/47164397/c3ec76f57e.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/fork/pt/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkeH2LsGNanSDoYn0qZ6Ez7vSSempcIuxKOA&s",
+      "fuentePagina": "https://www.oxfordporcelanas.com.br/garfo-servir-25-5cm-noronha/p?srsltid=AfmBOoo4hOCwmTmPB0QNoEZCvjVfRSFIdwg3azLk-60SJFcgK8cXD0nC",
+      "titulo": "Garfo de Servir 25,5 Cm Em Aço Inox Noronha - Oxford Porcelanas",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkeH2LsGNanSDoYn0qZ6Ez7vSSempcIuxKOA&s",
+      "original": "https://oxfordporcelanas.vtexassets.com/arquivos/ids/183861-800-800?v=638442892197600000&width=800&height=800&aspect=true"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/fork/pt/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvAVOWsLJw8MKJKRhxf_FstKD16fbhqedQNA&s",
+      "fuentePagina": "https://www.frigo.com.br/garfo-de-mesa-estrela-do189-cx-com-12-pecas-peres?srsltid=AfmBOooaAHeaWVwqhbTcEo-tWWWuLWYTumEG0imCL7LTOQFuqdC6tAfn",
+      "titulo": "Garfo de Mesa Estrela DO189 Cx com 12 Peças Peres",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvAVOWsLJw8MKJKRhxf_FstKD16fbhqedQNA&s",
+      "original": "https://images.tcdn.com.br/img/img_prod/1292607/garfo_de_mesa_estrela_do189_cx_com_12_pecas_peres_4713_1_b90931130ff28c2c59151ef5f7066f13.jpeg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/fork/pt/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5wUgA4H5yUqVPAvnAbPpFcYHJT6_UuEY-vA&s",
+      "fuentePagina": "https://www.novamesa.com.br/mesa-posta/talheres-e-faqueiros/garfo-de-mesa-inox-linha-america-refsl0201-original-line?srsltid=AfmBOoolqlUaOntlNlX_0kWW8H9k0Z8UV9InlWRufhY7WixcUWy45V5e",
+      "titulo": "Garfo De Mesa Inox America | Nova Mesa",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5wUgA4H5yUqVPAvnAbPpFcYHJT6_UuEY-vA&s",
+      "original": "https://images.tcdn.com.br/img/img_prod/887624/garfo_de_mesa_inox_linha_america_ref_sl0201_original_line_23608_1_284b664a29d40b90ff202134cbf1577e.jpg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/fork/pt/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtwtLsJG4EZ9H_2ZpMBE1Jh9n4FuHxwcAlHQ&s",
+      "fuentePagina": "https://www.lojasdopedro.com.br/garfo-tramontina-leme-mesa-preto-23182400?srsltid=AfmBOooCht_thDK9FHbJr0FMX3A1zkl0BTXsLrsOHARjC0PlhYngLXfx",
+      "titulo": "GARFO TRAMONTINA LEME MESA PRETO 23182/400 - Lojas do Pedro",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtwtLsJG4EZ9H_2ZpMBE1Jh9n4FuHxwcAlHQ&s",
+      "original": "https://cdn.awsli.com.br/1209/1209299/produto/61281517/dd41780d99.jpg"
+    }
+  ]
+}

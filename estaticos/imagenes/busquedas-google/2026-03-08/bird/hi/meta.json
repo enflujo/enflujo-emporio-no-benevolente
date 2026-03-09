@@ -1,0 +1,71 @@
+{
+  "categoria": "bird",
+  "categoriaSlug": "bird",
+  "idioma": "hi",
+  "nombreIdioma": "हिन्दी",
+  "termino": "पक्षी",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T20:49:57.888Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "hi",
+    "gl": "in"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=%E0%A4%AA%E0%A4%95%E0%A5%8D%E0%A4%B7%E0%A5%80&hl=hi&gl=in",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bird/hi/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvVa_NCx-HJn1nUj2cduoLZKL7u9oBdJ8WYA&s",
+      "fuentePagina": "https://in.pinterest.com/jaijaishreeradhakrishnajoo/pakshi/",
+      "titulo": "8 Pakshi सुझाव | पक्षी, शिक्षा, कौआ",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvVa_NCx-HJn1nUj2cduoLZKL7u9oBdJ8WYA&s",
+      "original": "https://i.pinimg.com/736x/e3/3e/41/e33e41fded459f69efc5f57aaa13875d.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bird/hi/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNnKs_palKC1fiP9eYrC_o0Pi_zXoMKEfScQ&s",
+      "fuentePagina": "https://hi.wikipedia.org/?title=%E0%A4%AA%E0%A4%95%E0%A5%8D%E0%A4%B7%E0%A5%80",
+      "titulo": "पक्षी - विकिपीडिया",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNnKs_palKC1fiP9eYrC_o0Pi_zXoMKEfScQ&s",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Bird_Diversity_2013.png/960px-Bird_Diversity_2013.png"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bird/hi/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgOjLSqzyKvWxCYMV1Du230uUOGWBb3GWuSQ&s",
+      "fuentePagina": "https://classnotes.org.in/hindi/pakshiyon-ke-naam/",
+      "titulo": "पक्षियों के नाम - हिन्दी",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgOjLSqzyKvWxCYMV1Du230uUOGWBb3GWuSQ&s",
+      "original": "https://classnotes.org.in/wp-content/uploads/pakshiyon-ke-naam.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bird/hi/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWSpxPQRmMkhTLU3NeVbYnjFJmQ3KcD2wzbg&s",
+      "fuentePagina": "https://www.india.com/hindi-news/webstories/viral/pakistan-ka-national-bird-kya-hai-what-is-the-pakistan-national-bird-viral-trending-news-today-7288075/",
+      "titulo": "भारत का राष्ट्रीय पक्षी मोर तो ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWSpxPQRmMkhTLU3NeVbYnjFJmQ3KcD2wzbg&s",
+      "original": "https://static.india.com/wp-content/uploads/2024/09/GkGg2i7Sua.png?impolicy=Medium_Widthonly&w=400&h=800"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bird/hi/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTa2GsfBop-G0HXsehLGIjN4UBW9NFnI3m6eQ&s",
+      "fuentePagina": "https://in.pinterest.com/jaijaishreeradhakrishnajoo/pakshi/",
+      "titulo": "8 Pakshi सुझाव | पक्षी, शिक्षा, कौआ",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTa2GsfBop-G0HXsehLGIjN4UBW9NFnI3m6eQ&s",
+      "original": "https://i.pinimg.com/originals/d3/79/aa/d379aa0ed924f02bbbb320b5b3f3ea68.png"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bird/hi/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlU1pUKAx97w0YJi77opFKzJZIlUWO5QzfGg&s",
+      "fuentePagina": "https://www.india.com/hindi-news/webstories/viral/koun-sa-pakshi-ped-par-nahi-baithta-hai-which-bird-walks-and-flies-but-does-not-sit-on-trees-in-hindi-7361041/",
+      "titulo": "यह पक्षी चलता है और उड़ता भी है ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlU1pUKAx97w0YJi77opFKzJZIlUWO5QzfGg&s",
+      "original": "https://static.india.com/wp-content/uploads/2024/10/image-2024-10-30T144256.276.jpg?impolicy=Medium_Widthonly&w=400&h=800"
+    }
+  ]
+}

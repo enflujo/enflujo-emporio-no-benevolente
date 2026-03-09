@@ -1,0 +1,71 @@
+{
+  "categoria": "bench",
+  "categoriaSlug": "bench",
+  "idioma": "sw",
+  "nombreIdioma": "Kiswahili",
+  "termino": "benchi",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T20:49:00.000Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "sw",
+    "gl": "tz"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=benchi&hl=sw&gl=tz",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bench/sw/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSY-FJjvvZYsKn1tfgVj3BwhYVv4oFIrq48GQ&s",
+      "fuentePagina": "https://www.instagram.com/reel/CvWoh5fNa5Q/",
+      "titulo": "Pata benchi la mbao la kipekee linalolingana na bajeti yako. Ongeza mvuto  na varnish, rangi, au #sticker maalum za mbao. Karibu!, #interiordesign  #Fundirangi #furniture #ujenzi #mbao #interior",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSY-FJjvvZYsKn1tfgVj3BwhYVv4oFIrq48GQ&s",
+      "original": "https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3158890439977053776"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bench/sw/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3m9wYtFC2S-RN6J5oEd90Q_xS3s9Ivu96Ag&s",
+      "fuentePagina": "https://jiji.co.tz/kinondoni/furniture/benchi-zuri-8X9FWw2y7g5WiDKaZXvVyrxT.html",
+      "titulo": "Benchi Zuri in Kinondoni - Furniture, David Serafini Kimario ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3m9wYtFC2S-RN6J5oEd90Q_xS3s9Ivu96Ag&s",
+      "original": "https://pictures-tanzania.jijistatic.com/3307571_NjIwLTQ5NS1jNWZmZmZkZjhj.webp"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bench/sw/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTl7E6EkUrju2SwvfXGztfMga-35iYv49zfSg&s",
+      "fuentePagina": "https://www.amazon.ae/Benchi-Casual-Watch-Analog-Stainless/dp/B07MXLQ6N1",
+      "titulo": "Benchi Casual Watch For Men Analog Stainless Steel - BN031 ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTl7E6EkUrju2SwvfXGztfMga-35iYv49zfSg&s",
+      "original": "https://m.media-amazon.com/images/I/41kmsek-isL._AC_SY900_.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bench/sw/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkXtSXq2dZDXFKslAZtCZQ-NwLHPlEFSfGLA&s",
+      "fuentePagina": "https://www.instagram.com/p/DFnCpvds9ag/",
+      "titulo": "Bench Mbao kwa chuma Bei 60,000/= bench 1 Call ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkXtSXq2dZDXFKslAZtCZQ-NwLHPlEFSfGLA&s",
+      "original": "https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3559825695015425696"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bench/sw/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgHNXdTQw3roALTKt0kMsM2g0i1K6PJO9Uyw&s",
+      "fuentePagina": "https://zyplayground.com/sw/5496.html",
+      "titulo": "Benchi la mbao - {:sw}SPIRIT PLAY,Uwanja wa Michezo wa Nje ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgHNXdTQw3roALTKt0kMsM2g0i1K6PJO9Uyw&s",
+      "original": "https://zyplayground.com/wp-content/uploads/2021/04/2021061703082810.jpeg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bench/sw/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKx5GYrmhVqxq9X2rbHjKMq6FcbdaGEJ-jTg&s",
+      "fuentePagina": "https://jiji.co.tz/kinondoni/furniture/benchi-zuri-sana-la-kukalia-5BD4voFxj2Y0oWBE0YxDIbgq.html",
+      "titulo": "Benchi Zuri Sana La Kukalia in Kinondoni - Furniture, David ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKx5GYrmhVqxq9X2rbHjKMq6FcbdaGEJ-jTg&s",
+      "original": "https://pictures-tanzania.jijistatic.com/2669884_NjIwLTQ5Ni0zZmIyYmI2NWMz.webp"
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "categoria": "giraffe",
+  "categoriaSlug": "giraffe",
+  "idioma": "ar",
+  "nombreIdioma": "العربية",
+  "termino": "زرافة",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T20:55:43.929Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "ar",
+    "gl": "eg"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=%D8%B2%D8%B1%D8%A7%D9%81%D8%A9&hl=ar&gl=eg",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/giraffe/ar/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR84_YcEbi_CoFg4Zc0raeZtjvoxwTMNB4QEg&s",
+      "fuentePagina": "https://ar.wikipedia.org/wiki/%D8%B2%D8%B1%D8%A7%D9%81%D8%A9",
+      "titulo": "زرافة - ويكيبيديا",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR84_YcEbi_CoFg4Zc0raeZtjvoxwTMNB4QEg&s",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Giraffe_standing.jpg/960px-Giraffe_standing.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/giraffe/ar/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7QMNyJysZNiBGgC4DI9OjV2nxkvKaa7ThMQ&s",
+      "fuentePagina": "https://ar.wikipedia.org/wiki/%D8%A7%D9%84%D8%B2%D8%B1%D8%A7%D9%81%D8%A9_%D8%A7%D9%84%D8%B4%D8%A8%D9%83%D9%8A%D8%A9",
+      "titulo": "الزرافة الشبكية - ويكيبيديا",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7QMNyJysZNiBGgC4DI9OjV2nxkvKaa7ThMQ&s",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/6/67/Two_Giraffes.PNG"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/giraffe/ar/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfXXS-6YbvEpRYpcOSyBpsGXEfz91zrr1x_w&s",
+      "fuentePagina": "https://ar.pngtree.com/so/%D8%B2%D8%B1%D8%A7%D9%81%D8%A9-%D9%85%D9%81%D8%B9%D9%85%D8%A9-%D8%A8%D8%A7%D9%84%D8%AD%D9%8A%D9%88%D9%8A%D8%A9",
+      "titulo": "زرافة مفعمة بالحيوية PNG الصور | ناقل و PSD الملفات | تحميل ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfXXS-6YbvEpRYpcOSyBpsGXEfz91zrr1x_w&s",
+      "original": "https://png.pngtree.com/png-vector/20240208/ourmid/pngtree-giraffe-cartoon-animal-png-image_11721148.png"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/giraffe/ar/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxCt8EmoX9rWafY93GNr0AnYqkeOB-rNC9jQ&s",
+      "fuentePagina": "https://animal.geoarabic.com/animals/giraffa_camelopardalis",
+      "titulo": "زرافة | مملكة الحيوانات",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxCt8EmoX9rWafY93GNr0AnYqkeOB-rNC9jQ&s",
+      "original": "https://lh4.googleusercontent.com/u/0/d/12kbGAqltI8vh0yA5rDEZyt3KDepvTvIz=w1600-h1600-p"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/giraffe/ar/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqfQ0sSypoGM1zyQ6LgV24wmpXON9ZSEzrOQ&s",
+      "fuentePagina": "https://www.kanbkam.com/eg/ar/collecta-wildlife-reticulated-giraffe-toy-figure-authentic-hand-painted-model-B006RSCOEY",
+      "titulo": "سعر مجسم لزرافة بتصميم شبكي مستوحى من الحياة البرية، مجسم ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqfQ0sSypoGM1zyQ6LgV24wmpXON9ZSEzrOQ&s",
+      "original": "https://images-na.ssl-images-amazon.com/images/I/41gbI-ymdCL._SL500_._AC_SL500_.jpg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/giraffe/ar/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3das40NQtEJhgHwTFi4mNfmtm4HsO7tLl-Q&s",
+      "fuentePagina": "https://www.facebook.com/photo.php?fbid=1254334832727167&set=a.770055727821749&id=100044519855997",
+      "titulo": "National - صورة زرافة شبكيّة. الموقع: صندوق المراعي ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3das40NQtEJhgHwTFi4mNfmtm4HsO7tLl-Q&s",
+      "original": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=1254334832727167"
+    }
+  ]
+}

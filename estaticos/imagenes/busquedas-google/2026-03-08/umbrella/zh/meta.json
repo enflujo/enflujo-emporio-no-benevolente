@@ -1,0 +1,71 @@
+{
+  "categoria": "umbrella",
+  "categoriaSlug": "umbrella",
+  "idioma": "zh",
+  "nombreIdioma": "中文",
+  "termino": "雨伞",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T20:57:19.019Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "zh-CN",
+    "gl": "cn"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=%E9%9B%A8%E4%BC%9E&hl=zh-CN&gl=cn",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/umbrella/zh/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScYiTJT7hJoIUw2EQd0Pln4LY3rkjUTDZjgg&s",
+      "fuentePagina": "https://www.brioni.com/zh/sg/pr/black-and-grey-umbrella-OF1600O29191011",
+      "titulo": "黑色和灰色雨伞",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScYiTJT7hJoIUw2EQd0Pln4LY3rkjUTDZjgg&s",
+      "original": "https://www.brioni.com/_next/image?url=https%3A%2F%2Fimages.ctfassets.net%2Fw2dr5qwt1rrm%2F2JFniQp7wwQyF9MRxxeJzB%2F88f1382e9b7fb79ea414cdacf492566b%2FOriginal_ecom-OF1600O29191011R.jpg&w=3840&q=75"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/umbrella/zh/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCXjsVd4RFaV8KXzJenoOfW8WbbPrqwq3Meg&s",
+      "fuentePagina": "https://www.swarovskioptik.com/int/zh/outdoor/products/gear/branded-articles-all/branded-articles/umbrella",
+      "titulo": "雨伞- SWAROVSKI OPTIK",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCXjsVd4RFaV8KXzJenoOfW8WbbPrqwq3Meg&s",
+      "original": "https://images.ctfassets.net/pvkenuwtinkd/3FZw7RkGdfs8zTcsbPKNx1/b7f3e7b54dd536cfa6333ae6751a81a6/Umbrella_Transparent.png"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/umbrella/zh/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTF3Oskqo-9ZPggVMADETLW0OLsnTzXtM21hA&s",
+      "fuentePagina": "https://zh-cn.swaine.london/products/singin-in-the-rain-whangee-umbrella-for-women-black",
+      "titulo": "雨中曲女式黄皮雨伞",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTF3Oskqo-9ZPggVMADETLW0OLsnTzXtM21hA&s",
+      "original": "https://swaine.london/cdn/shop/files/Whangee_Womens_French_Navy_Open.png?v=1764621729&width=2000"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/umbrella/zh/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzO6UUqjkm8oOQJ7rkAV4FAyc24cXjY1Y7eg&s",
+      "fuentePagina": "https://hypebeast.cn/2015/11/visvim-atelier-umbrella",
+      "titulo": "visvim Atelier Umbrella 天价雨伞| Hypebeast",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzO6UUqjkm8oOQJ7rkAV4FAyc24cXjY1Y7eg&s",
+      "original": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fwp-content%2Fblogs.dir%2F4%2Ffiles%2F2015%2F11%2Fvisvim-atelier-umbrella-8000-dollars-11.jpg?q=75&w=800&cbr=1&fit=max"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/umbrella/zh/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjvceahH2nAKOGYWwt1JrfwO9o4jxsnObM5Q&s",
+      "fuentePagina": "https://www.bizay.com.cn/%E7%BB%84/raincoats-umbrellas?srsltid=AfmBOooGpOp1HHA52GzGXhNgT2MjdKE2-OA0eJHpkuSWAjX11KNX06H1",
+      "titulo": "雨衣和雨伞| 最低价格保证| BIZAY | BIZAY",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjvceahH2nAKOGYWwt1JrfwO9o4jxsnObM5Q&s",
+      "original": "https://cdnspecseu.bizay.com/cdn-cgi/image/format=webp,quality=80/product/migrated/umbrella-173-5-105212_h_f_en-gb.png?v=0"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/umbrella/zh/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPyWzxeNododugopS6nm2zESRn_vDNquyO7Q&s",
+      "fuentePagina": "https://www.bestsub.com/zh/other/10320-three-folding-umbrella-white-cloth.html",
+      "titulo": "三折雨伞（白色布） - 专业的数码印制产品供应商-BestSub(百赛)",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPyWzxeNododugopS6nm2zESRn_vDNquyO7Q&s",
+      "original": "https://www.bestsub.com/media/k2/galleries/10320/STUM21W.webp"
+    }
+  ]
+}

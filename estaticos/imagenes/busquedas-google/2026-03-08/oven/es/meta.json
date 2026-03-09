@@ -1,0 +1,71 @@
+{
+  "categoria": "oven",
+  "categoriaSlug": "oven",
+  "idioma": "es",
+  "nombreIdioma": "Español",
+  "termino": "horno",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:26:00.610Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "es",
+    "gl": "es"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=horno&hl=es&gl=es",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/oven/es/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlTUJxM2P_JAa52ZbVklzLCpUCS28wUt4EUA&s",
+      "fuentePagina": "https://easelectric.es/34-horno-8-funciones.html",
+      "titulo": "Horno 8 funciones",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlTUJxM2P_JAa52ZbVklzLCpUCS28wUt4EUA&s",
+      "original": "https://easelectric.es/8750-large_default/horno-8-funciones.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/oven/es/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOC48xA6fHslLkUBN57_yYSQrkr3gMbcCkew&s",
+      "fuentePagina": "https://www.amazon.es/Hornillo-Quemadores-Horno-El%C3%A9ctrico-Plug/dp/B0CNPSRMT7",
+      "titulo": "Hsivtns Hornillo A Gas 4 Quemadores 52 L Horno Eléctrico ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOC48xA6fHslLkUBN57_yYSQrkr3gMbcCkew&s",
+      "original": "https://m.media-amazon.com/images/I/71xc1HW9KSL._AC_UF894,1000_QL80_.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/oven/es/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQccA6zsTWQkumBCsstOQys0IoQb3gnZamfFA&s",
+      "fuentePagina": "https://elhostelero.com/hornos-industriales/horno-de-conveccion-industrial-4-bandejas-bartscher-at90-?srsltid=AfmBOop3ce2X9uh8NQjM51TWsP0vGzJIWO5xtDilFwsxNknCxQmfJAZ9",
+      "titulo": "HORNO DE CONVECCIÓN INDUSTRIAL 4 BANDEJAS BARTSCHER AT90",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQccA6zsTWQkumBCsstOQys0IoQb3gnZamfFA&s",
+      "original": "https://elhostelero.com/7442-large_default/horno-de-conveccion-industrial-4-bandejas-bartscher-at90-.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/oven/es/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgMj7B2YTlLPjX2eefgvDMKldWOjRmOJwfFw&s",
+      "fuentePagina": "https://expertclima.es/horno-teka-hbb605ss-inox.html",
+      "titulo": "Horno Teka HBB605SS Inox",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgMj7B2YTlLPjX2eefgvDMKldWOjRmOJwfFw&s",
+      "original": "https://expertclima.es/6997-large_default/horno-teka-hbb605ss-inox.jpg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/oven/es/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-vqd-OgBojwEWiDI1Oe6upmoJ25wzvok1aQ&s",
+      "fuentePagina": "https://www.corbero.es/producto/horno-de-sobremesa-chsg2020b/",
+      "titulo": "Horno de sobremesa CHSG2020B",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-vqd-OgBojwEWiDI1Oe6upmoJ25wzvok1aQ&s",
+      "original": "https://www.corbero.es/wp-content/uploads/2020/07/HORNO_SOBREM_CORBERO_CHSG2020B.jpg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/oven/es/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3LW486J7oPG66_RwOh5SJk8k6CFQYmbQHEw&s",
+      "fuentePagina": "https://www.elcorteingles.es/electrodomesticos/hornos-de-cocina/",
+      "titulo": "Hornos de cocina · Electrodomésticos · El Corte Inglés",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3LW486J7oPG66_RwOh5SJk8k6CFQYmbQHEw&s",
+      "original": "https://cdn.grupoelcorteingles.es/statics/manager/contents/images/uploads/2025/03/H1lFa8md2ke.jpeg?impolicy=Resize&width=800&height=800"
+    }
+  ]
+}

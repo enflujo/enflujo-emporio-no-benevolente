@@ -1,0 +1,71 @@
+{
+  "categoria": "sports ball",
+  "categoriaSlug": "sports-ball",
+  "idioma": "nah",
+  "nombreIdioma": "Náhuatl",
+  "termino": "ollamaitl",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:01:48.758Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "es",
+    "gl": "mx"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=ollamaitl&hl=es&gl=mx",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/sports-ball/nah/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTt3rNbXlnYO0iqnLzfhlRFwPzhYtJBU_Nf-g&s",
+      "fuentePagina": "https://arqueologiamexicana.mx/ullamaliztli",
+      "titulo": "ullamaliztli | Arqueología Mexicana",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTt3rNbXlnYO0iqnLzfhlRFwPzhYtJBU_Nf-g&s",
+      "original": "https://arqueologiamexicana.mx/sites/default/files/styles/arq750x375/public/manuel_aguilar_moreno_1.png?itok=aPD3JjWe"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/sports-ball/nah/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRP3Q1D1qgtw0J8CVhh2llVwA9kR67IxZ67_Q&s",
+      "fuentePagina": "https://www.amazon.com.mx/Inoxidable-Steamer-Vaporera-tamalera-tamales/dp/B01LGH63GU",
+      "titulo": "Olla Acero Inoxidable 32qt Steamer Bote Brew Vaporera ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRP3Q1D1qgtw0J8CVhh2llVwA9kR67IxZ67_Q&s",
+      "original": "https://m.media-amazon.com/images/I/614L5Lb60ZL._AC_UF894,1000_QL80_.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/sports-ball/nah/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5JE5G7_B9t5OHDd3cpIu33NAvfvAAnUVn1A&s",
+      "fuentePagina": "https://www.shutterstock.com/es/search/ollamaliztli",
+      "titulo": "8 resultados de imágenes, fotos de stock e ilustraciones ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5JE5G7_B9t5OHDd3cpIu33NAvfvAAnUVn1A&s",
+      "original": "https://www.shutterstock.com/shutterstock/photos/1441171847/display_1500/stock-photo-ancient-mayan-ruins-at-coba-mexico-1441171847.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/sports-ball/nah/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJZPNu3fiOii5kY7h4mfEzn5vMFdyx1TJjGg&s",
+      "fuentePagina": "https://www.gastrolabweb.com/especiales/2020/10/2/tamales-en-comitalli-la-olla-prehispanica-en-la-que-los-preparaban-los-mexicas-3365.html",
+      "titulo": "Tamales en comitalli, la olla prehispánica en la que los ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJZPNu3fiOii5kY7h4mfEzn5vMFdyx1TJjGg&s",
+      "original": "https://www.gastrolabweb.com/u/fotografias/m/2020/10/1/f638x638-3949_62116_5050.jpg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/sports-ball/nah/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHYYhrGDx5RzyLKUm2wXWtMI9AEaDkH1iFvw&s",
+      "fuentePagina": "https://maha.com.mx/products/olla-aluminio-simmer-20?srsltid=AfmBOoq2xprkFuZEhRtBKxIBLVPJIdE8ntsKwwWHSJcqOuxH14ZrAXov",
+      "titulo": "Olla de aluminio Simmer 20 L Se Envía Hoy | Compra en MAHA",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHYYhrGDx5RzyLKUm2wXWtMI9AEaDkH1iFvw&s",
+      "original": "https://maha.com.mx/cdn/shop/files/olla_aluminio_simmer_1.jpg?v=1761949533"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/sports-ball/nah/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQD3_erqT_R8nkOMAERd4_1QKM63wHvQzlM0w&s",
+      "fuentePagina": "https://www.cocinafacil.com.mx/recetas/mole-de-olla",
+      "titulo": "Aprende a preparar un tradicional mole de olla",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQD3_erqT_R8nkOMAERd4_1QKM63wHvQzlM0w&s",
+      "original": "https://editorialtelevisa.brightspotcdn.com/dims4/default/b6d2d8b/2147483647/strip/true/crop/600x338+0+31/resize/1000x563!/quality/90/?url=https%3A%2F%2Fk2-prod-editorial-televisa.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fwp-content%2Fuploads%2F2021%2F08%2Fmole-olla.jpg"
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "categoria": "zebra",
+  "categoriaSlug": "zebra",
+  "idioma": "ha",
+  "nombreIdioma": "Hausa",
+  "termino": "kuda ruwan daji",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T20:54:58.858Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "ha",
+    "gl": "ng"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=kuda%20ruwan%20daji&hl=ha&gl=ng",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/zebra/ha/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmXOpQMmu-9ox9KFer1Uv-Bmh9jRYYuupcwg&s",
+      "fuentePagina": "https://www.facebook.com/KazimiyyaIslamicCentre/posts/anaamfani-dashi-idan-yabushe-adakashi-ayigarinsa-aajiyeshi-idan-mutum-yanadaciwa/1110311821265143/",
+      "titulo": "Ana,amfani dashi idan yabushe adakashi ayigarinsa a,ajiyeshi ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmXOpQMmu-9ox9KFer1Uv-Bmh9jRYYuupcwg&s",
+      "original": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=1110311771265148"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/zebra/ha/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXy3VYxQBR_nxLl0BKPHckjyZQ0gB0pU9YwA&s",
+      "fuentePagina": "https://hausa.legit.ng/1345217-rundunar-hadarin-daji-ta-yi-wa-yan-daban-daji-ruwan-wuta-a-zamfara-da-katsina.html",
+      "titulo": "Rundunar 'Hadarin Daji' ta yi wa 'yan daban daji ruwan wuta ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXy3VYxQBR_nxLl0BKPHckjyZQ0gB0pU9YwA&s",
+      "original": "https://cdn.legit.ng/images/1200x675/3a5b0ef72b2b35e6.jpeg?v=1"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/zebra/ha/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRut3xgKScOAGnQ2XSi9iA9Pz3lrB_akb2q0w&s",
+      "fuentePagina": "https://www.facebook.com/photo.php?fbid=702097488373904&id=100057209779625&set=a.528449425738712",
+      "titulo": "Hausa - ARNAN DAJI Littafin Fareeda Abdullahi Da gudu aduke ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRut3xgKScOAGnQ2XSi9iA9Pz3lrB_akb2q0w&s",
+      "original": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=702097488373904"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/zebra/ha/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbuNxgb8tsFPd5nCnaemj626fjmvk0Qgq2JA&s",
+      "fuentePagina": "https://www.facebook.com/engrsaiduba99/posts/amfanin-ruwan-tumatirtumatir-yana-dauke-da-sinadirrai-daban-daban-masu-dimbin-am/2106671909430665/",
+      "titulo": "AMFANIN RUWAN TUMATIR. Tumatir yana dauke da sinadirrai ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbuNxgb8tsFPd5nCnaemj626fjmvk0Qgq2JA&s",
+      "original": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=1476571333831165"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/zebra/ha/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS94QB702IqzhwwUghITSCu4AEJK-czhgNDeQ&s",
+      "fuentePagina": "https://www.bbc.com/hausa/live/67155227",
+      "titulo": "Abubuwan da ke faruwa a Najeriya da sauran sassan duniya ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS94QB702IqzhwwUghITSCu4AEJK-czhgNDeQ&s",
+      "original": "https://ichef.bbci.co.uk/ace/ws/480/cpsprodpb/A22D/production/_131471514_mediaitem131471512.jpg.webp"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/zebra/ha/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScUL9F12-WomR1MqsFNGDksKJv64kU9OS-9g&s",
+      "fuentePagina": "https://www.instagram.com/p/DLhf3bKOP1L/",
+      "titulo": "Da Dumi-Dumi: 'Yan sa kai a jihar Zamfara sun yi nasarar ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScUL9F12-WomR1MqsFNGDksKJv64kU9OS-9g&s",
+      "original": "https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3666351719831895371"
+    }
+  ]
+}

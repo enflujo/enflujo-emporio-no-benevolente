@@ -1,0 +1,71 @@
+{
+  "categoria": "traffic light",
+  "categoriaSlug": "traffic-light",
+  "idioma": "yo",
+  "nombreIdioma": "Yorùbá",
+  "termino": "ìmọ̀lẹ̀ ojúpọ̀",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T20:46:27.665Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "yo",
+    "gl": "ng"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=%C3%ACm%E1%BB%8D%CC%80l%E1%BA%B9%CC%80%20oj%C3%BAp%E1%BB%8D%CC%80&hl=yo&gl=ng",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/traffic-light/yo/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJVilAh4o_w9r0Zx8GIKa2G0yN5XtyxhDkhQ&s",
+      "fuentePagina": "https://www.youtube.com/watch?v=yoiEX2uz7n0",
+      "titulo": "(One Hour Loop) IMOLE DE | Dunsin Oyekan #DunsinOyekan #PrayerSong #Worship  #GospelMusic #viralvideo",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJVilAh4o_w9r0Zx8GIKa2G0yN5XtyxhDkhQ&s",
+      "original": "https://i.ytimg.com/vi/yoiEX2uz7n0/maxresdefault.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/traffic-light/yo/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMKOW7r60ZEXFt9Uw7QLfZQaZ-0mdF-qGk2g&s",
+      "fuentePagina": "https://open.spotify.com/track/0WV7hRPws25lzqPyvgTWvq",
+      "titulo": "Imole Ikorodu - song and lyrics by Usmanial Vibez, Y Dollar ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMKOW7r60ZEXFt9Uw7QLfZQaZ-0mdF-qGk2g&s",
+      "original": "https://i.scdn.co/image/ab67616d0000b27382f3134e3f2df1bc8999b284"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/traffic-light/yo/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTR8ArJh8HFicB_DIY_PMHmTv_HSrhaMxZQsA&s",
+      "fuentePagina": "https://www.facebook.com/osogboupdates/posts/osun-sports-community-mourns-as-rave-fm-contributor-imoleayo-imolesport-passes-o/894488269586508/",
+      "titulo": "Osun Sports Community Mourns as Rave FM Contributor Imoleayo ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTR8ArJh8HFicB_DIY_PMHmTv_HSrhaMxZQsA&s",
+      "original": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=894488229586512"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/traffic-light/yo/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZyJGkLxpa3JXgjsMpjOZCkLGUdBrwBZ_gNw&s",
+      "fuentePagina": "https://music.apple.com/ng/album/imole-ikorodu-feat-ydollar-single/1727930592",
+      "titulo": "Imole Ikorodu (feat. Ydollar) - Single - Album by Usmanial ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZyJGkLxpa3JXgjsMpjOZCkLGUdBrwBZ_gNw&s",
+      "original": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/38/66/ac/3866ac8c-333c-f64d-4526-32a226c7fd98/artwork.jpg/1200x630bb.jpg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/traffic-light/yo/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIis4Qnh6bW2jIYU7jp-eS6k4dHwNQmqbSkQ&s",
+      "fuentePagina": "https://x.com/joduwole/status/2020572280087101586",
+      "titulo": "Dr Jumoke Oduwole's Video on X",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIis4Qnh6bW2jIYU7jp-eS6k4dHwNQmqbSkQ&s",
+      "original": "https://pbs.twimg.com/amplify_video_thumb/2020568881170153472/img/0-sayJ-tVs4kAbnF.jpg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/traffic-light/yo/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4k1nVQsH28xNy5HMCmQ-1mjC3kMcRMeZK6Q&s",
+      "fuentePagina": "https://www.instagram.com/p/DL2xE7YI-Fl/",
+      "titulo": "Earlier today, I was joined by the Minister of Water ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4k1nVQsH28xNy5HMCmQ-1mjC3kMcRMeZK6Q&s",
+      "original": "https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3672338365692442858"
+    }
+  ]
+}

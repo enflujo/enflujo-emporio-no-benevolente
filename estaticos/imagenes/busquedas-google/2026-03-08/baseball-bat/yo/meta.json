@@ -1,0 +1,71 @@
+{
+  "categoria": "baseball bat",
+  "categoriaSlug": "baseball-bat",
+  "idioma": "yo",
+  "nombreIdioma": "Yorùbá",
+  "termino": "ọpá baseball",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:02:47.110Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "yo",
+    "gl": "ng"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=%E1%BB%8Dp%C3%A1%20baseball&hl=yo&gl=ng",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/baseball-bat/yo/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYDNx_1DOIyvhSROgcV9U9FZE2mwUcsoUftQ&s",
+      "fuentePagina": "https://www.opajaysbaseball.com/",
+      "titulo": "Baseball Academy | Opa Jays Baseball | Cypress",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYDNx_1DOIyvhSROgcV9U9FZE2mwUcsoUftQ&s",
+      "original": "https://static.wixstatic.com/media/a1f800_dc24e488bf314622bfeabaf8fe3be881~mv2.jpeg/v1/fill/w_640,h_566,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/a1f800_dc24e488bf314622bfeabaf8fe3be881~mv2.jpeg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/baseball-bat/yo/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRMQh6rDSiTYyZiCoa9oC3abn7vT34ZlPVlw&s",
+      "fuentePagina": "https://www.opajaysbaseball.com/",
+      "titulo": "Baseball Academy | Opa Jays Baseball | Cypress",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRMQh6rDSiTYyZiCoa9oC3abn7vT34ZlPVlw&s",
+      "original": "https://static.wixstatic.com/media/a1f800_e12a0816a3ad45cd82f094282baee108~mv2.jpeg/v1/crop/x_0,y_0,w_1006,h_814/fill/w_280,h_227,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/AfterlightImage%205.jpeg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/baseball-bat/yo/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZyJ52c2wwuLJmNvLqsZ0zg62G0NSmJyYITQ&s",
+      "fuentePagina": "https://www.opajaysbaseball.com/",
+      "titulo": "Baseball Academy | Opa Jays Baseball | Cypress",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZyJ52c2wwuLJmNvLqsZ0zg62G0NSmJyYITQ&s",
+      "original": "https://static.wixstatic.com/media/b74c87_24837f9d7859453d848c584423bd03f7~mv2.png"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/baseball-bat/yo/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQf4TT6BnWzfKC6uymymK-NLfK6L2n04bctZQ&s",
+      "fuentePagina": "https://www.youtube.com/watch?v=1VSCYefRqzs",
+      "titulo": "MY PLAYERS PLAYING IN A MLB STADIUM! | DAY 2 | OPA JAYS ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQf4TT6BnWzfKC6uymymK-NLfK6L2n04bctZQ&s",
+      "original": "https://i.ytimg.com/vi/1VSCYefRqzs/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLDvgNAJhplt4R9Ygl_314HIVQE21g"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/baseball-bat/yo/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1fnmf70HONx6RvhH6_K7lX7nSQbdryhIekA&s",
+      "fuentePagina": "https://www.opajaysbaseball.com/",
+      "titulo": "Baseball Academy | Opa Jays Baseball | Cypress",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1fnmf70HONx6RvhH6_K7lX7nSQbdryhIekA&s",
+      "original": "https://static.wixstatic.com/media/a1f800_979e75b5dd50402c905384d515397855~mv2.jpg/v1/fill/w_640,h_640,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/a1f800_979e75b5dd50402c905384d515397855~mv2.jpg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/baseball-bat/yo/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTgp7pQW-8YKA4Ef63YPELmBWfILLGoP43EQ&s",
+      "fuentePagina": "https://www.thegiftio.com/products/opa-baseball-red-sewing-thread-happy-fathers-day-t-shirt-gllEmVq4TodX",
+      "titulo": "Opa Baseball With Red Sewing Thread Happy Fathers Day T ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTgp7pQW-8YKA4Ef63YPELmBWfILLGoP43EQ&s",
+      "original": "https://i4.cloudfable.net/styles/550x550/8.51/Black/opa-baseball-red-sewing-thread-happy-fathers-day-t-shirt-20240516125457-0ibn2s45-s2.jpg"
+    }
+  ]
+}

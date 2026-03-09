@@ -1,0 +1,71 @@
+{
+  "categoria": "orange",
+  "categoriaSlug": "orange",
+  "idioma": "zu",
+  "nombreIdioma": "isiZulu",
+  "termino": "iolintshi",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:12:48.107Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "zu",
+    "gl": "za"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=iolintshi&hl=zu&gl=za",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/orange/zu/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0Wlr3q8nQ3LpHZjAEln78iTJZpa9Yeb4MVQ&s",
+      "fuentePagina": "https://southafrica.co.za/xh/ilitshi.html",
+      "titulo": "I-Litshi",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0Wlr3q8nQ3LpHZjAEln78iTJZpa9Yeb4MVQ&s",
+      "original": "https://southafrica.co.za/images/litchi-chinensis-luc-viatour-786x591.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/orange/zu/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRX0bLNSUeeKwnuXjJ455e-KjrQJ0bYAA5oGw&s",
+      "fuentePagina": "https://www.facebook.com/mandlabrilliant.mgenge/posts/inkinga-enkulu-kulento-ka-olintshi-ukuthi-baphethe-izikhali-eziyingoziuma-ufuna-/26390789830559020/",
+      "titulo": "Inkinga enkulu kulento ka olintshi ukuthi baphethe izikhali ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRX0bLNSUeeKwnuXjJ455e-KjrQJ0bYAA5oGw&s",
+      "original": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=927369389677036&get_thumbnail=1"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/orange/zu/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvDcHhlrk571Jzgv43ckoktpvmwCIFBm5Jvw&s",
+      "fuentePagina": "https://thestar.co.za/news/south-africa/2026-02-17-minister-tolashe-takes-a-stand-against-illegal-sassa-grant-recipients/",
+      "titulo": "Minister Tolashe takes a stand against illegal SASSA grant ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvDcHhlrk571Jzgv43ckoktpvmwCIFBm5Jvw&s",
+      "original": "https://iol-prod.appspot.com/image/988f6c12a158e915792e41178fb040796a42a50f/1000/jpeg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/orange/zu/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgS4iDb4vkVAR0qzJcTtnPBDktecG57lc4pQ&s",
+      "fuentePagina": "https://www.facebook.com/groups/113454183441778/posts/345504553570072/",
+      "titulo": "Ukubamba iqanda🥚 lenjelwane Yini injelwane ngabe uhlobo ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgS4iDb4vkVAR0qzJcTtnPBDktecG57lc4pQ&s",
+      "original": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=100002887451934"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/orange/zu/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLTKRuBHMQVlVNyIRc92_R1K-OXnhU0Ar_nA&s",
+      "fuentePagina": "https://www.facebook.com/groups/113454183441778/posts/345504553570072/",
+      "titulo": "Ukubamba iqanda🥚 lenjelwane Yini injelwane ngabe uhlobo ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLTKRuBHMQVlVNyIRc92_R1K-OXnhU0Ar_nA&s",
+      "original": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=100036503152738"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/orange/zu/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSY8BDEq6cmYKFuR1mdeThWCfl2hcFwsn-LTQ&s",
+      "fuentePagina": "https://www.sundaytimes.timeslive.co.za/news/2026-01-10-its-minister-versus-ex-minister-in-internet-tv-war/",
+      "titulo": "It's minister versus ex-minister in internet TV war",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSY8BDEq6cmYKFuR1mdeThWCfl2hcFwsn-LTQ&s",
+      "original": "https://www.sundaytimes.timeslive.co.za/resizer/v2/UANA46U575LP5GZCMMASPY5KJQ.jpg?smart=true&auth=560bb98d573541883907ec929fc76075e47b47ca89dd48500de465d0c46944c6&width=1200&height=630"
+    }
+  ]
+}

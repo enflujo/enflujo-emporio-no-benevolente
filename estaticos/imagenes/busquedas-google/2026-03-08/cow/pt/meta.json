@@ -1,0 +1,71 @@
+{
+  "categoria": "cow",
+  "categoriaSlug": "cow",
+  "idioma": "pt",
+  "nombreIdioma": "Português",
+  "termino": "vaca",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T20:53:28.252Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "pt",
+    "gl": "br"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=vaca&hl=pt&gl=br",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/cow/pt/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcD3_ye6A4k9a4VFgK9ESRNXGhfOh12h6eSQ&s",
+      "fuentePagina": "https://blog.agroline.com.br/vaca-periodo-de-gestacao/",
+      "titulo": "Período de gestação da vaca: entenda o ciclo completo",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcD3_ye6A4k9a4VFgK9ESRNXGhfOh12h6eSQ&s",
+      "original": "https://blog.agroline.com.br/wp-content/uploads/2025/01/vacagir-1200x900.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/cow/pt/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkhv-0OBiKX3quyGqLmBkdUnuYSGVLN1js5g&s",
+      "fuentePagina": "https://pt.wikipedia.org/wiki/Bos_taurus",
+      "titulo": "Bos taurus – Wikipédia, a enciclopédia livre",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkhv-0OBiKX3quyGqLmBkdUnuYSGVLN1js5g&s",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Cow_female_black_white.jpg/330px-Cow_female_black_white.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/cow/pt/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOEk_C8N_n7X0vkUdEIT6ONc94-Uld3IbUYg&s",
+      "fuentePagina": "https://laticiniosholandes.com.br/a-relacao-entre-o-bem-estar-da-vaca-e-a-qualidade-do-leite/",
+      "titulo": "Laticínios Holandês - A relação entre o bem-estar da vaca e ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOEk_C8N_n7X0vkUdEIT6ONc94-Uld3IbUYg&s",
+      "original": "https://laticiniosholandes.com.br/wp-content/uploads/2024/04/BLOG_03_QualidadeDoLeite.png"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/cow/pt/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkWFFxkxrykE5fC3h2are2B8OToLIC9OSEIQ&s",
+      "fuentePagina": "https://www.cpt.com.br/dicas-cursos-cpt/vaca-leiteira-principais-caracteristicas",
+      "titulo": "Vaca leiteira: principais características | Dicas Cursos CPT ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkWFFxkxrykE5fC3h2are2B8OToLIC9OSEIQ&s",
+      "original": "https://cptstatic.s3.amazonaws.com/imagens/enviadas/materias/materia13696/vaca-leiteira-principais-caracteristicas-cpt2.jpg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/cow/pt/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTe7UQstFKm3iAEyVzW4GH2b2G0LwR9Wvd7DA&s",
+      "fuentePagina": "https://br.freepik.com/fotos-vetores-gratis/vaca-desenho",
+      "titulo": "Vaca desenho Imagens – Download Grátis no Freepik",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTe7UQstFKm3iAEyVzW4GH2b2G0LwR9Wvd7DA&s",
+      "original": "https://img.freepik.com/vetores-gratis/vaca-sorrindo-ilustracao-vetorial-de-desenhos-animados_96037-417.jpg?semt=ais_hybrid&w=740&q=80"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/cow/pt/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3dBDaNHR4m0mY3r23V51owATn3gYZovX_cg&s",
+      "fuentePagina": "https://nutricaoesaudeanimal.com.br/vaca-holandesa/",
+      "titulo": "Vaca Holandesa: quais são as características e as práticas ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3dBDaNHR4m0mY3r23V51owATn3gYZovX_cg&s",
+      "original": "https://nutricaoesaudeanimal.com.br/wp-content/uploads/2021/10/VACA-HOLANDESA-QUAIS-SAO-AS-CARACTERISTICAS-E-AS-PRATICAS-DE-CRIACAO.jpeg"
+    }
+  ]
+}

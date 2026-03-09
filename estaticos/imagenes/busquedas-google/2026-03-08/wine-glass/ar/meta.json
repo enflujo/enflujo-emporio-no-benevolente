@@ -1,0 +1,71 @@
+{
+  "categoria": "wine glass",
+  "categoriaSlug": "wine-glass",
+  "idioma": "ar",
+  "nombreIdioma": "العربية",
+  "termino": "كأس نبيذ",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:06:58.138Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "ar",
+    "gl": "eg"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=%D9%83%D8%A3%D8%B3%20%D9%86%D8%A8%D9%8A%D8%B0&hl=ar&gl=eg",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/wine-glass/ar/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOlW0KacAeBDHfBi_jQ_OFPEWdhL7629iU0w&s",
+      "fuentePagina": "https://www.beitzone.com/ar/product/pasabahce-allegra-white-wine-glass-300ml-colorclear/",
+      "titulo": "كأس نبيذ أبيض من باشابتشي أليجرا - 300 مل اللون: شفاف",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOlW0KacAeBDHfBi_jQ_OFPEWdhL7629iU0w&s",
+      "original": "https://www.beitzone.com/wp-content/uploads/2024/08/61Ybsj-0K2L._AC_SL1500_.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/wine-glass/ar/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR78wDqJUjjBLoNPILABOsGg7js-tBDgqCAYQ&s",
+      "fuentePagina": "https://www.beitzone.com/ar/product/zwiesel-classico-burgundy-red-wine-glass-814ml/",
+      "titulo": "كأس نبيذ أحمر نبيذي كلاسيكو من زويسيل - 814 مل",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR78wDqJUjjBLoNPILABOsGg7js-tBDgqCAYQ&s",
+      "original": "https://www.beitzone.com/wp-content/uploads/2024/08/SZ-106227-1_314x.progressive.webp"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/wine-glass/ar/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTi49AswUzrJthAgJ6kL9A6phMKompXjTkfxA&s",
+      "fuentePagina": "https://ar.intowalk.com/black-tie-crystal-glass-red-wine-goblet.html",
+      "titulo": "الصين الأسود التعادل كريستال زجاج النبيذ الأحمر كأس الموردين ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTi49AswUzrJthAgJ6kL9A6phMKompXjTkfxA&s",
+      "original": "https://ar.intowalk.com/upload/7403/black-tie-crystal-glass-red-wine-goblet_877652.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/wine-glass/ar/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcb2Q4E_f-iWqzU2Yz9jUUu2NrdY9dgjbO5A&s",
+      "fuentePagina": "https://dearhome.me/products/x699-wine-glass-cup?srsltid=AfmBOorw67PyC87oL4payDQfajtnaXhpP1re4my5aIagbcpffbSQPQ3M",
+      "titulo": "DELI Red Wine Glass Cup 435ml 6pcs X699 — Dear Home",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcb2Q4E_f-iWqzU2Yz9jUUu2NrdY9dgjbO5A&s",
+      "original": "https://dearhome.me/cdn/shop/files/X699-WINE-GLASS-CUP-2_4f30c8ba-1e3c-4a88-9619-f1e1788dddf8_679x679.jpg?v=1723166769"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/wine-glass/ar/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcReviIjDVRnfHzGJ-2J4OkABvLPfno-m0viEw&s",
+      "fuentePagina": "https://sa.made-in-china.com/co_shinered-group1688/product_Crystal-Wine-Glass-Cup-Customize-Wine-Drinking-Cup-Wine-Goblet-Glass_eisgnniny.html",
+      "titulo": "كأس نبيذ زجاجي مخصص لكأس شرب النبيذ كأس جوبليه زجاجي - الصين ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcReviIjDVRnfHzGJ-2J4OkABvLPfno-m0viEw&s",
+      "original": "https://image.made-in-china.com/202f0j00DnBQbjfzaorY/Crystal-Wine-Glass-Cup-Customize-Wine-Drinking-Cup-Wine-Goblet-Glass.webp"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/wine-glass/ar/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSE0OT4_KfOxBXDJgTp7cIkjCjhhyRLwORfMQ&s",
+      "fuentePagina": "https://www.amazon.ae/-/ar/%D9%82%D8%B7%D8%B9%D8%AA%D8%A7%D9%86-%D8%A5%D8%A8%D8%AF%D8%A7%D8%B9%D9%8A%D8%A9-%D9%84%D9%84%D8%AD%D9%81%D9%84%D8%A7%D8%AA-%D8%A7%D9%84%D9%85%D9%8A%D9%84%D8%A7%D8%AF-%D8%A7%D9%84%D9%83%D8%B1%D9%8A%D8%B3%D8%AA%D8%A7%D9%84%D9%8A/dp/B08L4DXK51",
+      "titulo": "كأس نبيذ قطعتان مع لون ساق ذهبي قاعدة إبداعية من الزجاج ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSE0OT4_KfOxBXDJgTp7cIkjCjhhyRLwORfMQ&s",
+      "original": "https://m.media-amazon.com/images/I/61vrCfU3AlL._AC_UF1000,1000_QL80_.jpg"
+    }
+  ]
+}

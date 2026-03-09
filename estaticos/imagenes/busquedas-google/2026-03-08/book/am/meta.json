@@ -1,0 +1,71 @@
+{
+  "categoria": "book",
+  "categoriaSlug": "book",
+  "idioma": "am",
+  "nombreIdioma": "Amharic — አማርኛ",
+  "termino": "መጽሐፍ",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:28:17.784Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "am",
+    "gl": "et"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=%E1%88%98%E1%8C%BD%E1%88%90%E1%8D%8D&hl=am&gl=et",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/book/am/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHvZ87K54YJGlZ1P_iiufFRw5BOyLwn1sORA&s",
+      "fuentePagina": "https://www.betesamuel.com/products/amharic-bible-1?srsltid=AfmBOoqtS5XGYC7Da0o6mB3uo-q9rrk4Z7QfIWQ0yLTvGcf4j2gcfqhw",
+      "titulo": "Amharic Bible 81 books – Betesamuel",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHvZ87K54YJGlZ1P_iiufFRw5BOyLwn1sORA&s",
+      "original": "https://www.betesamuel.com/cdn/shop/products/8a_5a5bc025-d57f-478e-8482-cb7017bc1827.jpg?v=1680368967"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/book/am/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvQ1zN8zd35w38lrqH0gisnohc-pSjzGPTFA&s",
+      "fuentePagina": "https://www.vaticannews.va/am/church/news/2024-03/ethiopian-bible-society-bible-week.html",
+      "titulo": "የኢትዮጵያ መጽሐፍ ቅዱስ ማህበር ያዘጋጀው 'የመጽሐፍ ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvQ1zN8zd35w38lrqH0gisnohc-pSjzGPTFA&s",
+      "original": "https://www.vaticannews.va/content/dam/vaticannews/multimedia/2024/gennaio/25/bible-4258533_1280aem.jpg/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/book/am/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_MHcgkPN14KFMkcSCdWHJbcpE7GZtz-DbfA&s",
+      "fuentePagina": "https://play.google.com/store/apps/details?id=com.andromo.dev137436.app343905",
+      "titulo": "Amharic Bible - የአማርኛ መጽሐፍ ቅዱስ - Apps on Google Play",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_MHcgkPN14KFMkcSCdWHJbcpE7GZtz-DbfA&s",
+      "original": "https://play-lh.googleusercontent.com/J2K6x0eqpihLzNpQLwEzbh6TBlhcAcqRSIBgZNdX6yBpjZvZQoORuH5geJdgelijAQ"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/book/am/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2dRdx0wLCKgYpLRgogWas7-ugX8PeKgJAlQ&s",
+      "fuentePagina": "https://us.amazon.com/Amharic-Bible-New-Translation-Revised/dp/3945779103",
+      "titulo": "Amazon.com: Amharic Bible New Translation (Revised ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2dRdx0wLCKgYpLRgogWas7-ugX8PeKgJAlQ&s",
+      "original": "https://m.media-amazon.com/images/I/61W4Wx3-N3L._AC_UF1000,1000_QL80_.jpg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/book/am/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFqiNSjPZ1C1GZSr3PDXObX5G1_58Rw0rlXg&s",
+      "fuentePagina": "https://www.bbc.com/amharic/articles/cekdp3nmzdeo",
+      "titulo": "ዕድሜ ጠገቡ በእብራይስጥ ቋንቋ የተዘጋጀ መጽሐፍ ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFqiNSjPZ1C1GZSr3PDXObX5G1_58Rw0rlXg&s",
+      "original": "https://ichef.bbci.co.uk/ace/ws/640/cpsprodpb/ac0b/live/73d1bc90-f574-11ed-92cc-b3a9bf1f67e9.jpg.webp"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/book/am/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJDy2veZnIWHYpiMC5qjY8wzl_mDCta39nKw&s",
+      "fuentePagina": "https://play.google.com/store/apps/details?id=com.fynsystem.amharic_bible&hl=am",
+      "titulo": "Amharic Bible - መጽሐፍ ቅዱስ - መተግባሪያዎች Google ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJDy2veZnIWHYpiMC5qjY8wzl_mDCta39nKw&s",
+      "original": "https://play-lh.googleusercontent.com/uW-3HtZI9MN_X_GPWC0Y86An60ku5D9VYg8jZy87c9adcNg8kz4QHgSbLZ52e3QWYQ"
+    }
+  ]
+}

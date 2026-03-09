@@ -1,0 +1,71 @@
+{
+  "categoria": "person",
+  "categoriaSlug": "person",
+  "idioma": "am",
+  "nombreIdioma": "Amharic — አማርኛ",
+  "termino": "ሰው",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T20:40:37.924Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "am",
+    "gl": "et"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=%E1%88%B0%E1%8B%8D&hl=am&gl=et",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/person/am/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT63mhkQibk96hIGI-vkC9QwKg1kuDZVZ1Vzg&s",
+      "fuentePagina": "https://www.facebook.com/100044297476270/posts/728174611280013/",
+      "titulo": "ሰው ማለት .",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT63mhkQibk96hIGI-vkC9QwKg1kuDZVZ1Vzg&s",
+      "original": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=728174554613352"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/person/am/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTp4cUQvC82MbJ-n3fInszHE8j_2BPbFWDOVw&s",
+      "fuentePagina": "https://www.facebook.com/100064412270614/posts/%E1%88%B0%E1%8B%8D-%E1%88%9B%E1%88%88%E1%89%B5-%E1%8A%90%E1%8D%8B%E1%88%B3%E1%8B%8A%E1%8A%90%E1%89%B5-%E1%8A%A5%E1%88%B3%E1%89%B3%E1%8B%8A%E1%8A%90%E1%89%B5-%E1%8B%8D%E1%8A%83%E1%8B%8A%E1%8A%90%E1%89%B5-%E1%88%98%E1%88%AC%E1%89%B3%E1%8B%8A%E1%8A%90%E1%89%B5-%E1%89%A3%E1%88%95%E1%88%AD%E1%8B%AB%E1%89%B5-%E1%8B%AB%E1%88%89%E1%89%B5%E1%89%A0%E1%8A%90%E1%8D%8D%E1%88%B5-%E1%89%B0%E1%8D%88%E1%8C%A5%E1%88%AE%E1%8B%8D%E1%88%9D-%E1%8A%90%E1%89%A3%E1%89%A2%E1%89%B5-%E1%88%88%E1%89%A3%E1%8B%8A%E1%89%B5%E1%8A%93-%E1%88%95%E1%8B%AB%E1%8B%8A%E1%89%B5-%E1%8B%A8%E1%88%86%E1%8A%90%E1%89%BD-%E1%8A%90%E1%8D%8D%E1%88%B5-/3373336386080027/",
+      "titulo": "ሰው ማለት ነፋሳዊነት፣ እሳታዊነት፣ ውኃዊነት ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTp4cUQvC82MbJ-n3fInszHE8j_2BPbFWDOVw&s",
+      "original": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=3373336239413375"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/person/am/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIYKhN_5h_oD1fIqa-U9DmuGHrnNVrbr49_w&s",
+      "fuentePagina": "https://www.facebook.com/100044297476270/posts/464440124320131/",
+      "titulo": "ሰው ማለት .",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIYKhN_5h_oD1fIqa-U9DmuGHrnNVrbr49_w&s",
+      "original": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=464440094320134"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/person/am/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmMa31-9V0wjHZDDXzbkcIJ6UUo8A019cZ9Q&s",
+      "fuentePagina": "https://www.facebook.com/100044297476270/posts/877383283025811/",
+      "titulo": "ሰው ማለት .",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmMa31-9V0wjHZDDXzbkcIJ6UUo8A019cZ9Q&s",
+      "original": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=877383246359148"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/person/am/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIUPGh3_Hh1jKyVO9Y4udDcrhn0-2hw82B6g&s",
+      "fuentePagina": "https://www.facebook.com/100044297476270/posts/728216007942540/",
+      "titulo": "ሰው ማለት .",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIUPGh3_Hh1jKyVO9Y4udDcrhn0-2hw82B6g&s",
+      "original": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=728215964609211"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/person/am/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuKZzCMN23hunOh8_gmbX8rVqUrSL9Y79kIg&s",
+      "fuentePagina": "https://www.youtube.com/watch?v=taEUAvBn2Yw",
+      "titulo": "አስመሣይ ሰው ማለት ምን ማለት ነው❓ እንደትስ ማወቅ እንችላለን❓",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuKZzCMN23hunOh8_gmbX8rVqUrSL9Y79kIg&s",
+      "original": "https://i.ytimg.com/vi/taEUAvBn2Yw/maxresdefault.jpg"
+    }
+  ]
+}

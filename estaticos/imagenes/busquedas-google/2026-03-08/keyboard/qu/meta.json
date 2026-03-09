@@ -1,0 +1,71 @@
+{
+  "categoria": "keyboard",
+  "categoriaSlug": "keyboard",
+  "idioma": "qu",
+  "nombreIdioma": "Quechua",
+  "termino": "teclado",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:23:54.581Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "es",
+    "gl": "pe"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=teclado&hl=es&gl=pe",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/keyboard/qu/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStqjgR8wWQ8KeHbFu_nwM1DTi8njzdduUv9Q&s",
+      "fuentePagina": "https://es.wikipedia.org/wiki/Teclado_(inform%C3%A1tica)",
+      "titulo": "Teclado (informática) - Wikipedia, la enciclopedia libre",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStqjgR8wWQ8KeHbFu_nwM1DTi8njzdduUv9Q&s",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/5/5a/Computer_keyboard_ES_layout.svg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/keyboard/qu/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS29YW00naj9cMwnrrAm2CIUKg4XV9nWHpJfg&s",
+      "fuentePagina": "https://rymportatiles.com.pe/products/teclado-mecanico-gaming-logitech-g413-tkl-se?srsltid=AfmBOor053cmfpVtHFUZ7MEsbT5QAVxlclqRvPBieDUv61Vg_E1Autq-",
+      "titulo": "Teclado Mecánico Gaming Logitech G413 TKL SE",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS29YW00naj9cMwnrrAm2CIUKg4XV9nWHpJfg&s",
+      "original": "https://rymportatiles.com.pe/cdn/shop/files/Logitech-TKL-SE.png?v=1700091854"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/keyboard/qu/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfbzYKGAYP09rG766tJEiJDw3rV0L3Us072w&s",
+      "fuentePagina": "https://www.coolbox.pe/kit-alambrico-teraware-teclado-mouse-m128-kpt100/p",
+      "titulo": "Kit alámbrico Coolbox Teraware teclado y mouse usb - Coolbox",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfbzYKGAYP09rG766tJEiJDw3rV0L3Us072w&s",
+      "original": "https://coolboxpe.vtexassets.com/arquivos/ids/244417-800-800?v=638769850212270000&width=800&height=800&aspect=true"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/keyboard/qu/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxna0KGEsGSh4i9R40U8-o1EO2jxeS5AbIKA&s",
+      "fuentePagina": "https://dasmitec.pe/producto/teclado-teros-te4065-ipx7/?srsltid=AfmBOoraQYrjyyaE_F0RlJ79v1BqhVKiUzzogeqiGmDUo1HX9BroJlFm",
+      "titulo": "Teclado teros TE4065 IPx7",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxna0KGEsGSh4i9R40U8-o1EO2jxeS5AbIKA&s",
+      "original": "https://dasmitec.pe/wp-content/uploads/2024/01/TE4065-jpg.webp"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/keyboard/qu/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_ZDTrlV_zUHcJjnmwNLMjkX1Tj2emeQQUTQ&s",
+      "fuentePagina": "https://www.oechsle.pe/teclado-logitech-k120-usb-negro-1000696642/p?srsltid=AfmBOopaA53tNUz_D7vifBHWK-4nlVSB-Da8yFBs61uvU6HMUI6_G5cb",
+      "titulo": "Teclado Logitech K120 USB Negro I Oechsle - Oechsle",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_ZDTrlV_zUHcJjnmwNLMjkX1Tj2emeQQUTQ&s",
+      "original": "https://oechsle.vteximg.com.br/arquivos/ids/16667727-1000-1000/image-3faaa5c2abd445e794072325699d75c6.jpg?v=638343959565630000"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/keyboard/qu/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuYS4BE5JmQAyIYAfZty6U53JV1x519LN8hg&s",
+      "fuentePagina": "https://www.xataka.com/seleccion/que-teclado-gaming-comprar-ocho-teclados-para-jugar-para-diferentes-usuarios-presupuestos",
+      "titulo": "Qué teclado gaming comprar en 2024 | ¿Cuál es mejor?",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuYS4BE5JmQAyIYAfZty6U53JV1x519LN8hg&s",
+      "original": "https://i.blogs.es/afcf1f/comprar-teclado-mars-gaming-al-mejor-precio/650_1200.jpg"
+    }
+  ]
+}

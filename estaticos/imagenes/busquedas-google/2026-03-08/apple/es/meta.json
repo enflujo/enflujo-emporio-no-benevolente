@@ -1,0 +1,71 @@
+{
+  "categoria": "apple",
+  "categoriaSlug": "apple",
+  "idioma": "es",
+  "nombreIdioma": "Español",
+  "termino": "manzana",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:11:46.435Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "es",
+    "gl": "es"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=manzana&hl=es&gl=es",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/apple/es/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVELVV_Jx3X7b4ueoiXLkWuD5tDGca7udx_w&s",
+      "fuentePagina": "https://www.istockphoto.com/es/fotos/manzana-dibujo",
+      "titulo": "194.700+ Manzana Dibujo Fotografías de stock, fotos e ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVELVV_Jx3X7b4ueoiXLkWuD5tDGca7udx_w&s",
+      "original": "https://media.istockphoto.com/id/1045495508/es/vector/manzana-roja-ilustraci%C3%B3n-icono-vector.jpg?s=612x612&w=0&k=20&c=AMbEbpRpkJxzx0cYGmdTFqg112EbAZZHG1qG9n12g24="
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/apple/es/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSl98RpM4bh2eq-ffnV2yGpaAdbMkk7ecPepw&s",
+      "fuentePagina": "https://orchard.es/nuestras-frutas/manzana/",
+      "titulo": "Manzana | Orchard Fruit | La fruta original",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSl98RpM4bh2eq-ffnV2yGpaAdbMkk7ecPepw&s",
+      "original": "https://orchard.es/wp-content/uploads/2016/01/manzana-royal.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/apple/es/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSt3BYKhvN25LR0kGHZuXd_TTJGWS4Jo8Ceog&s",
+      "fuentePagina": "https://comefruta.es/comprar/manzana-golden",
+      "titulo": "Manzana Golden - ComeFruta",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSt3BYKhvN25LR0kGHZuXd_TTJGWS4Jo8Ceog&s",
+      "original": "https://comefruta.es/wp-content/uploads/Manzana-golden-1-scaled.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/apple/es/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDgVZwE-dGq3SsxNgqZj8zVILVsZuR0hHhug&s",
+      "fuentePagina": "https://es.pinterest.com/pin/1196337388907347/",
+      "titulo": "Wikichicos/Las frutas/La manzana/Color - Wikilibros",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDgVZwE-dGq3SsxNgqZj8zVILVsZuR0hHhug&s",
+      "original": "https://i.pinimg.com/736x/9f/bf/c8/9fbfc85accfb61ec44a01d5924084498.jpg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/apple/es/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTefUHgejxyLcdttT_ovpNnkWpHNzXHDsN9RQ&s",
+      "fuentePagina": "https://frutastardaguila.es/product/manzana-royal-gala/",
+      "titulo": "MANZANA ROYAL GALA – FRUTAS TARDÁGUILA",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTefUHgejxyLcdttT_ovpNnkWpHNzXHDsN9RQ&s",
+      "original": "https://frutastardaguila.es/wp-content/uploads/2025/05/manzana.jpg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/apple/es/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTM0oUEesN1hFvecJ-xYY8hnLpQO0nkcym_g&s",
+      "fuentePagina": "https://delahuertacasa.com/frutas/manzana-verde/",
+      "titulo": "Manzana verde (kg)",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTM0oUEesN1hFvecJ-xYY8hnLpQO0nkcym_g&s",
+      "original": "https://delahuertacasa.com/wp-content/uploads/2022/01/manzana-verde-product.jpg"
+    }
+  ]
+}

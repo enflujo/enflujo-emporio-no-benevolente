@@ -1,0 +1,71 @@
+{
+  "categoria": "stop sign",
+  "categoriaSlug": "stop-sign",
+  "idioma": "es",
+  "nombreIdioma": "Español",
+  "termino": "señal de pare",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T20:48:11.533Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "es",
+    "gl": "es"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=se%C3%B1al%20de%20pare&hl=es&gl=es",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/stop-sign/es/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuxavjDa5pLux0sCt7GhyLwclnl80638r4Fg&s",
+      "fuentePagina": "https://es.wikipedia.org/wiki/Se%C3%B1ales_de_tr%C3%A1fico",
+      "titulo": "Señales de tráfico - Wikipedia, la enciclopedia libre",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuxavjDa5pLux0sCt7GhyLwclnl80638r4Fg&s",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Se%C3%B1al_%22Pare%22.png/250px-Se%C3%B1al_%22Pare%22.png"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/stop-sign/es/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkIY8-whEHxAI4urPbEigVLee4oNaD-mai1w&s",
+      "fuentePagina": "https://www.instagram.com/p/CC12VpgjTke/",
+      "titulo": "Cuál es la diferencia entre las señales de tránsito PARE y ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkIY8-whEHxAI4urPbEigVLee4oNaD-mai1w&s",
+      "original": "https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=2357028962188474654"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/stop-sign/es/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJ8lxT6zVzT4awv0ItjeyAJ2pVTLoqqPf8Lg&s",
+      "fuentePagina": "https://www.freepik.es/fotos-vectores-gratis/senal-pare",
+      "titulo": "Imágenes de Senal pare - Descarga gratuita en Freepik",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJ8lxT6zVzT4awv0ItjeyAJ2pVTLoqqPf8Lg&s",
+      "original": "https://img.freepik.com/psd-gratis/senales-transito-brasil-senales-senalizacion-vehiculos-psd-editable_314999-3550.jpg?semt=ais_hybrid&w=740&q=80"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/stop-sign/es/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcOBy7i0DkTr7S3BoXpdJVoYEVLkLREGRYBQ&s",
+      "fuentePagina": "https://www.serviasistenciaexpress.com/senal-de-transito-pare-forma-octagonal/",
+      "titulo": "Señal de tránsito PARE: ¿Por qué es la única de forma octagonal?",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcOBy7i0DkTr7S3BoXpdJVoYEVLkLREGRYBQ&s",
+      "original": "https://www.serviasistenciaexpress.com/wp-content/uploads/2018/01/senal-de-transito-pare.jpg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/stop-sign/es/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBj-SUsaxBLCjRuNtJG7irbUwNz_40Jy6iUw&s",
+      "fuentePagina": "https://www.istockphoto.com/es/fotos/pare",
+      "titulo": "428.700+ Pare Fotografías de stock, fotos e imágenes libres ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBj-SUsaxBLCjRuNtJG7irbUwNz_40Jy6iUw&s",
+      "original": "https://media.istockphoto.com/id/486744506/es/vector/se%C3%B1al-de-pare-vector.jpg?s=612x612&w=0&k=20&c=oNvL8fOAzydMLwBF3xOxBgNPKjG4VJXraPlIK7Ga32g="
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/stop-sign/es/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTw07OTkmoZoyZCQUeY1OUSOm2xVMWBf4mh8g&s",
+      "fuentePagina": "https://carteles.com.uy/producto/cartel-pare/",
+      "titulo": "Cartel Pare | Carteles y Más |Cartel Pare | Carteles Viales",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTw07OTkmoZoyZCQUeY1OUSOm2xVMWBf4mh8g&s",
+      "original": "https://carteles.com.uy/wp-content/uploads/2020/06/se%C3%B1al-de-tr%C3%A1nsito-pare-compressor.png"
+    }
+  ]
+}

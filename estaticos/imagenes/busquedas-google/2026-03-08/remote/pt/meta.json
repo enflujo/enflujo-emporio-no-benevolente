@@ -1,0 +1,71 @@
+{
+  "categoria": "remote",
+  "categoriaSlug": "remote",
+  "idioma": "pt",
+  "nombreIdioma": "Português",
+  "termino": "controle remoto",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:23:25.574Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "pt",
+    "gl": "br"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=controle%20remoto&hl=pt&gl=br",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/remote/pt/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNFf2-DJjATR-UkcdfKZDFqRpqdF7J3MJPww&s",
+      "fuentePagina": "https://www.capas25atacado.com.br/controle-remoto-universal-para-tv-compativel-com-samsung-lg-sony-e-outras-a-gold",
+      "titulo": "Controle Remoto Universal para TV Compátivel com Samsung, LG ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNFf2-DJjATR-UkcdfKZDFqRpqdF7J3MJPww&s",
+      "original": "https://images.tcdn.com.br/img/img_prod/1056253/controle_remoto_universal_para_tv_compativel_com_samsung_lg_sony_e_outras_a_gold_807_1_65f154a6a9246b92e050a24fddd71266.png"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/remote/pt/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSiqkymmjzathVAC_Z5DYSlWZ5gDpiflMSfeg&s",
+      "fuentePagina": "https://www.lojadoscontroles.com.br/controle-remoto-para-receptor-cinebox-fantasia-le7550-fbg7500-sky7500?srsltid=AfmBOor4s187dfW1i2UtdojmubJuKjjB7ZUGbhpUCtQ4hX7XvletF6T6",
+      "titulo": "Controle Remoto Para Receptor Cinebox Fantasia LE7550 FBG7500 SKY7500",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSiqkymmjzathVAC_Z5DYSlWZ5gDpiflMSfeg&s",
+      "original": "https://cdn.awsli.com.br/600x700/2026/2026914/produto/117611899/84e5634c12.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/remote/pt/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGp7FKivlDES1Yd1uGBI-h2FZervzvTM-I3Q&s",
+      "fuentePagina": "https://www.willeletro.com.br/controle-remoto-smart-tv-box-9006?srsltid=AfmBOor3CeB_WFey-rc6RFGRWiWI4_-_AsSd19BLl5IIoKeQ6gqGPaBq",
+      "titulo": "Controle Remoto Receptor Compatível TV Box Smart FBG 9006",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGp7FKivlDES1Yd1uGBI-h2FZervzvTM-I3Q&s",
+      "original": "https://cdn.awsli.com.br/600x1000/2599/2599904/produto/2436008230f3d1c15c2.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/remote/pt/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQy9YL8Nzqg3pJjMX58p8zPSQxR3By0AwKZiA&s",
+      "fuentePagina": "https://www.amazon.com.br/Controle-Remoto-Compat%C3%ADvel-Marcas-Autom%C3%A1tico/dp/B0D365D15S",
+      "titulo": "Controle Remoto Compatível com Todas as Marcas de TV LED LCD ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQy9YL8Nzqg3pJjMX58p8zPSQxR3By0AwKZiA&s",
+      "original": "https://m.media-amazon.com/images/I/51k4JR9vFNL._AC_UF1000,1000_QL80_.jpg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/remote/pt/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSv-5p0W-rj7TeilYD08fzWAhLKscJBpR6FwQ&s",
+      "fuentePagina": "https://www.mundodocontrole.com.br/controle-remoto-para-smart-tv-multilaser-tl042-tl045-tl046?srsltid=AfmBOorLQXN4Cfk8jOlOyHz4SJtLlBw7KoSN5OPnruqnX0ScHxQSdwkX",
+      "titulo": "Controle Remoto Para Smart Tv Multilaser Tl042 Tl045 Tl046",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSv-5p0W-rj7TeilYD08fzWAhLKscJBpR6FwQ&s",
+      "original": "https://cdn.awsli.com.br/600x450/210/210919/produto/263053235/teste02-7mc4kyszt8.jpg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/remote/pt/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQe7e2cA8DW9kV_I1PEd0hVuOInf6j79SGsjQ&s",
+      "fuentePagina": "https://www.barateza.com/controle-remoto-universal-samsung-le-7028?srsltid=AfmBOooy09if49WerbNq4Lxr-uQKZX6hrtdPNYf3QgpZhQVYf_zfes6V",
+      "titulo": "Controle Remoto Universal Samsung - LE-7028",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQe7e2cA8DW9kV_I1PEd0hVuOInf6j79SGsjQ&s",
+      "original": "https://cdn.awsli.com.br/600x700/2696/2696665/produto/282033032/41481c1e956e61de67763912935db2de-t29nb8m6u5.jpg"
+    }
+  ]
+}

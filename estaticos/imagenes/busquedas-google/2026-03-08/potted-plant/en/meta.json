@@ -1,0 +1,71 @@
+{
+  "categoria": "potted plant",
+  "categoriaSlug": "potted-plant",
+  "idioma": "en",
+  "nombreIdioma": "English",
+  "termino": "potted plant",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:18:11.339Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "en",
+    "gl": "us"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=potted%20plant&hl=en&gl=us",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/potted-plant/en/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRD9GkoP6R0n-EIf5NhWWYzbvwAzkrLDFaIdg&s",
+      "fuentePagina": "https://www.ikea.com/us/en/p/tropisk-potted-plant-tropical-plant-assorted-species-plants-70219137/",
+      "titulo": "TROPISK potted plant, tropical plant/assorted species plants ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRD9GkoP6R0n-EIf5NhWWYzbvwAzkrLDFaIdg&s",
+      "original": "https://www.ikea.com/us/en/images/products/tropisk-potted-plant-tropical-plant-assorted-species-plants__1471171_pe997113_s5.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/potted-plant/en/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnGT08XuaOWIDhbnAKLHXRvTWXUqsFG5UKDQ&s",
+      "fuentePagina": "https://www.citymarket.com/p/large-boho-potted-plant-assorted/0081247103733?srsltid=AfmBOopXAFpTFrD6mU0PvgLa6ztVIgXoC5RrYboUy4ALPVNbmjJQhLQX",
+      "titulo": "Large Boho Potted Plant - Assorted, 24-inch pot - City Market",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnGT08XuaOWIDhbnAKLHXRvTWXUqsFG5UKDQ&s",
+      "original": "https://www.kroger.com/product/images/large/front/0081247103733"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/potted-plant/en/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT62a5J7v3vjHgHGLN0AAJRSBNYJwxti8Trlg&s",
+      "fuentePagina": "https://www.paper-acorn.com/paper-plants/potted-plant-small",
+      "titulo": "Paper Acorn - Potted Plant (small)",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT62a5J7v3vjHgHGLN0AAJRSBNYJwxti8Trlg&s",
+      "original": "http://static1.squarespace.com/static/54fa1cbde4b0152d9ffac6c9/58dd47d915d5db2576903962/58dd4b9d414fb5674d22d45d/1519441672090/?format=1500w"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/potted-plant/en/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOQKoHrSnLKlnh4Vgamk7O3KWpF_4ZKbWEug&s",
+      "fuentePagina": "https://www.amazon.com/Meneco-Small-Fake-Plant-Potted/dp/B08MZFXDMK",
+      "titulo": "Amazon.com: Meneco Small Fake Plant Potted - Faux Plant ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOQKoHrSnLKlnh4Vgamk7O3KWpF_4ZKbWEug&s",
+      "original": "https://m.media-amazon.com/images/I/71YW6tCrv5L.jpg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/potted-plant/en/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTK3xeSzoXrgmhwbZcWcpFX1FWZxWWKo5T7Zw&s",
+      "fuentePagina": "https://www.midwestliving.com/garden/container/super-easy-house-plants/",
+      "titulo": "20 Super-Easy Houseplants You'll Love",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTK3xeSzoXrgmhwbZcWcpFX1FWZxWWKo5T7Zw&s",
+      "original": "https://www.midwestliving.com/thmb/Ui-TzyvnRZdpp5Pxn7inxj45Vas=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/201912MB_17289_preview-2000-a61541123fce495381708bacfc915b8f.jpg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/potted-plant/en/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRo4hWOoXEaTz4d8JqjhCdCuqvYBfaob60eaA&s",
+      "fuentePagina": "https://www.bhg.com/gardening/houseplants/projects/easiest-houseplants-you-can-grow/",
+      "titulo": "25 Easy-Care Houseplants for Beginners",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRo4hWOoXEaTz4d8JqjhCdCuqvYBfaob60eaA&s",
+      "original": "https://www.bhg.com/thmb/SfvVALaQxFyi4vYdbhBR11S41S8=/1280x0/filters:no_upscale():strip_icc()/indoor-potted-houseplants-703b321a-81cf8e1f9aee48a28e1be3bbc45e4386.jpg"
+    }
+  ]
+}

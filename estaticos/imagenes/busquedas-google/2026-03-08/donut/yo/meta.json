@@ -1,0 +1,71 @@
+{
+  "categoria": "donut",
+  "categoriaSlug": "donut",
+  "idioma": "yo",
+  "nombreIdioma": "Yorùbá",
+  "termino": "àkàrà",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:15:44.144Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "yo",
+    "gl": "ng"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=%C3%A0k%C3%A0r%C3%A0&hl=yo&gl=ng",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/donut/yo/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQoraPH2OMOpeROrSrVuPqrXdmjni24vnWvlQ&s",
+      "fuentePagina": "https://en.wikipedia.org/wiki/Akara",
+      "titulo": "Akara - Wikipedia",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQoraPH2OMOpeROrSrVuPqrXdmjni24vnWvlQ&s",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Beans_Ball-Akara.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/donut/yo/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQE_TOyzdK04XhNFbwyT8jPLQFbhERE3cXwmQ&s",
+      "fuentePagina": "https://www.foodnetwork.com/recipes/crispy-akara-with-savory-smoky-sesame-sauce-13508636",
+      "titulo": "Crispy Àkàrà with Savory Smoky Sesame Sauce ",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQE_TOyzdK04XhNFbwyT8jPLQFbhERE3cXwmQ&s",
+      "original": "https://www.foodnetwork.com/content/dam/images/food/fullset/2022/11/30/FN_crispy_akara_s4x3.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/donut/yo/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJV3QiDQUF6FLyVn3WEg3xYV7oewdIum36fg&s",
+      "fuentePagina": "https://farmingfarmersfarms.com/2023/08/10-benefits-of-eating-akara/",
+      "titulo": "10 benefits of eating Àkàrà - FarmingFarmersFarms",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJV3QiDQUF6FLyVn3WEg3xYV7oewdIum36fg&s",
+      "original": "https://farmingfarmersfarms.com/wp-content/uploads/2023/08/akara-e1506724484724.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/donut/yo/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYHxYXzqjPRT2c3If8fT2lyvJmL8ytKJsmOw&s",
+      "fuentePagina": "https://allnigerianfoods.com/akara-beans-cake/",
+      "titulo": "Akara (beans Cake) Recipe | How to fry Akara",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYHxYXzqjPRT2c3If8fT2lyvJmL8ytKJsmOw&s",
+      "original": "https://allnigerianfoods.com/wp-content/uploads/akara-beans-cake.jpg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/donut/yo/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlt6mvmDxSHWI6i_8BkENy3u2W6Rzunbjo8w&s",
+      "fuentePagina": "https://africa.com/a-simple-way-to-make-the-famous-west-african-fried-pastry-akara/",
+      "titulo": "A Simple Way to Make the Famous West African Fried Pastry ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlt6mvmDxSHWI6i_8BkENy3u2W6Rzunbjo8w&s",
+      "original": "https://africa.com/wp-content/uploads/2023/05/5-2.jpg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/donut/yo/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRntzCRy4SQ6aJYo55LOeDSulBo9fYwnNJwuA&s",
+      "fuentePagina": "https://kikifoodies.com/recipes/akara/",
+      "titulo": "Akara",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRntzCRy4SQ6aJYo55LOeDSulBo9fYwnNJwuA&s",
+      "original": "https://kikifoodies.com/wp-content/uploads/2024/11/E685E539-B688-4131-BFFE-2288C9899A61-scaled.jpeg"
+    }
+  ]
+}

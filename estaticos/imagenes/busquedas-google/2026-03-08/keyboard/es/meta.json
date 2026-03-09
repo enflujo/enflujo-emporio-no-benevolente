@@ -1,0 +1,71 @@
+{
+  "categoria": "keyboard",
+  "categoriaSlug": "keyboard",
+  "idioma": "es",
+  "nombreIdioma": "Español",
+  "termino": "teclado",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:24:01.947Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "es",
+    "gl": "es"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=teclado&hl=es&gl=es",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/keyboard/es/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRChDKvajYqblJ-WUQ8UF9qymzQ3FByOsXfgQ&s",
+      "fuentePagina": "https://www.carlin.es/product/172011-teclado-kensington-kb100-eq-con-cable-2400-dpi-usba-color-negro.html?srsltid=AfmBOooVF7A2TyhSgp-Zj19cROGeW81pu7M6rdWUzZ-D1ULB4aJBEW0a",
+      "titulo": "Carlin | TECLADO KENSINGTON KB100 EQ CON CABLE 2400 DPI USB ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRChDKvajYqblJ-WUQ8UF9qymzQ3FByOsXfgQ&s",
+      "original": "https://www.carlin.es/resources/img/products/172011g.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/keyboard/es/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStqjgR8wWQ8KeHbFu_nwM1DTi8njzdduUv9Q&s",
+      "fuentePagina": "https://es.wikipedia.org/wiki/Teclado_(inform%C3%A1tica)",
+      "titulo": "Teclado (informática) - Wikipedia, la enciclopedia libre",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStqjgR8wWQ8KeHbFu_nwM1DTi8njzdduUv9Q&s",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/5/5a/Computer_keyboard_ES_layout.svg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/keyboard/es/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnAmrPP5GqMrCDmSlSGaXsGDJdOkPllnFWvw&s",
+      "fuentePagina": "https://www.amazon.es/Perixx-PERIBOARD-106-Teclado-USB-Espa%C3%B1ol/dp/B01BTZ8T0W",
+      "titulo": "Perixx PERIBOARD-106 Teclado USB - Alto Rendimiento - Teclas ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnAmrPP5GqMrCDmSlSGaXsGDJdOkPllnFWvw&s",
+      "original": "https://m.media-amazon.com/images/I/612RsETDnzL._AC_UF1000,1000_QL80_.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/keyboard/es/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRh36YY6hli6-UG7KT8rqG-ilZBuryABUUcYg&s",
+      "fuentePagina": "https://www.pccomponentes.com/logitech-g413-se-teclado-mecanico-gaming-retroiluminado?srsltid=AfmBOoonne-vuZR7tQFZypx1gw6Wbp_SPskk4sN023E4e-nl1vCn4gMr",
+      "titulo": "Logitech G413 SE Teclado Mecánico Gaming Retroiluminado | PcComponentes.com",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRh36YY6hli6-UG7KT8rqG-ilZBuryABUUcYg&s",
+      "original": "https://thumb.pccomponentes.com/w-530-530/articles/1046/10467406/1647-logitech-g413-se-teclado-mecanico-gaming-retroiluminado-caracteristicas.jpg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/keyboard/es/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScx0WrN4A6_JyYR9JdifwvjiSXdrWzC5WFLA&s",
+      "fuentePagina": "https://www.materialescolar.es/teclados-y-ratones/teclado-hp-225-inalambrico-qwerty-color-negro-170367.html",
+      "titulo": "TECLADO HP 225 INALAMBRICO QWERTY COLOR NEGRO",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScx0WrN4A6_JyYR9JdifwvjiSXdrWzC5WFLA&s",
+      "original": "https://cache1.materialescolar.es/4236251-large_default/teclado-hp-225-inalambrico-qwerty-color-negro-170367.jpg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/keyboard/es/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYiQyXrlzsE6XrGRdWKSiQUtDV1dQ9SVwcxA&s",
+      "fuentePagina": "https://deepgaming.es/teclados-gaming/teclado-mini-tm065/?srsltid=AfmBOoq-7Y4zK2nwhRhi-U1mRstuZsIlsglA9IP8ZRJLvnU4-mWjlCrX",
+      "titulo": "Teclado mini TM065 » Deep Gaming",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYiQyXrlzsE6XrGRdWKSiQUtDV1dQ9SVwcxA&s",
+      "original": "https://deepgaming.es/wp-content/uploads/2022/11/IMG_7883-3.jpg"
+    }
+  ]
+}

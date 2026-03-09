@@ -1,0 +1,71 @@
+{
+  "categoria": "toothbrush",
+  "categoriaSlug": "toothbrush",
+  "idioma": "zu",
+  "nombreIdioma": "isiZulu",
+  "termino": "isikhuphu amazinyo",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:32:28.747Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "zu",
+    "gl": "za"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=isikhuphu%20amazinyo&hl=zu&gl=za",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/toothbrush/zu/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9QrtrCj1UUfSR54eRe7xybYXyehFClvro2g&s",
+      "fuentePagina": "https://www.youtube.com/watch?v=NFaSk0H2UIU",
+      "titulo": "Ukuphupha amazinyo | @pastorweningi",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9QrtrCj1UUfSR54eRe7xybYXyehFClvro2g&s",
+      "original": "https://i.ytimg.com/vi/NFaSk0H2UIU/sddefault.jpg?v=641fd68e"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/toothbrush/zu/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5OSUPhJ2hKrg0dheiNkDWs5AUp3lgkuQHbQ&s",
+      "fuentePagina": "https://www.youtube.com/watch?v=yJIBZp05RII",
+      "titulo": "Ukuphupha amazinyo abuhlungu | @pastorweningi",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5OSUPhJ2hKrg0dheiNkDWs5AUp3lgkuQHbQ&s",
+      "original": "https://i.ytimg.com/vi/yJIBZp05RII/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLA9nhPITNOCTZPKL-LRHXM4BH7ARg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/toothbrush/zu/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS39KBbhHr3xSB6f7jdCife3kQIw0pBK27-Sg&s",
+      "fuentePagina": "https://www.youtube.com/watch?v=4QGGRKhdK4k",
+      "titulo": "Ukuphupha uphuma amazinyo | @pastorweningi",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS39KBbhHr3xSB6f7jdCife3kQIw0pBK27-Sg&s",
+      "original": "https://i.ytimg.com/vi/4QGGRKhdK4k/maxresdefault.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/toothbrush/zu/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShRoXRVaCdpWnP3XsyH-4xNCj1uoeR24Nm9A&s",
+      "fuentePagina": "https://www.youtube.com/watch?v=uklF6z3_gcc",
+      "titulo": "Ukuphupha inkomo isemanzini | ‪@pastorweningi‬ - YouTube",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShRoXRVaCdpWnP3XsyH-4xNCj1uoeR24Nm9A&s",
+      "original": "https://i.ytimg.com/vi/uklF6z3_gcc/hqdefault.jpg?v=653e8919"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/toothbrush/zu/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8rIpP53lWHVuT-PUepFi5gxHgXdkTUvTz9A&s",
+      "fuentePagina": "https://www.facebook.com/groups/932653357244178/posts/1296392727536904/",
+      "titulo": "Kuchazani ukuphupha ukhumuka amazinyo ?",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8rIpP53lWHVuT-PUepFi5gxHgXdkTUvTz9A&s",
+      "original": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=213414897389017"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/toothbrush/zu/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTklP1qmsYqYa0WS47M47_u7TdK83CBYE3Dnw&s",
+      "fuentePagina": "https://www.instagram.com/p/CpFj5dqNXvJ/",
+      "titulo": "Amakhosi ajabulile Win Or Lose😊😊✌️✌️ 📸 @voodur_nuz",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTklP1qmsYqYa0WS47M47_u7TdK83CBYE3Dnw&s",
+      "original": "https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3045998599041707303"
+    }
+  ]
+}

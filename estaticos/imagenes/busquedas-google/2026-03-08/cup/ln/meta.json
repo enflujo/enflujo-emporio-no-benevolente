@@ -1,0 +1,71 @@
+{
+  "categoria": "cup",
+  "categoriaSlug": "cup",
+  "idioma": "ln",
+  "nombreIdioma": "Lingala",
+  "termino": "tasse",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:07:15.793Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "fr",
+    "gl": "cd"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=tasse&hl=fr&gl=cd",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/cup/ln/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLIo0hKALWLNj1OLrUebsFwD7Xh31umMSPdg&s",
+      "fuentePagina": "https://www.dille-kamille.fr/tasse-porcelaine-hauteur-8-cm-00002300.html",
+      "titulo": "Tasse, porcelaine, hauteur 8 cm | Vaisselle, porcelaine chez ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLIo0hKALWLNj1OLrUebsFwD7Xh31umMSPdg&s",
+      "original": "https://dilka.xcdn.nl/dilka/images/catalog/product/00002300_1.jpg?f=rs:fit:600:600/g:ce&s=2d2d"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/cup/ln/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRa4XBqOg5XOZfbvfSTHw7oI6y_wNsPydJhtA&s",
+      "fuentePagina": "https://www.cosmodesign.fr/objets-design-cadeaux/mugs/tasse-expresso-emotion-tassen.html",
+      "titulo": "TASSE expresso EMOTION - Vaisselle Visage Tassen - COSMO design",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRa4XBqOg5XOZfbvfSTHw7oI6y_wNsPydJhtA&s",
+      "original": "https://media.cdnws.com/_i/209313/1158/979/59/expresso-mug-visage-grognon-et-joyeux-tassen-porcelaine.png"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/cup/ln/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGTllpqDXLdafe9ysjJAJzQaOtb3sC4unkKw&s",
+      "fuentePagina": "https://www.villeroy-boch.ch/fr/p/afina-tasse-a-cafe-1042931300/",
+      "titulo": "Afina tasse à café 150 ml - Villeroy & Boch",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGTllpqDXLdafe9ysjJAJzQaOtb3sC4unkKw&s",
+      "original": "https://www.villeroy-boch.ch/dw/image/v2/BLGB_PRD/on/demandware.static/-/Sites-master-dl/default/dwba049cea/images/1042931290_1042931310_1042931300_1042931290_on_mil-1.jpg?q=60&sw=1310&sh=1310&sm=fit"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/cup/ln/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqRXGavAh-cg-gqJ-ioFCgEqMS3Mqx3tvz6A&s",
+      "fuentePagina": "https://www.istockphoto.com/fr/photos/tasse-%C3%A0-caf%C3%A9",
+      "titulo": "1 739 000+ Tasse à Café Photos, taleaux et images libre de ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqRXGavAh-cg-gqJ-ioFCgEqMS3Mqx3tvz6A&s",
+      "original": "https://media.istockphoto.com/id/821282266/fr/photo/mug-blanc-isol%C3%A9.jpg?s=612x612&w=0&k=20&c=BBlMI7Bgig8mxxXaG0ELNHX2r9CmzaedjloViCkq680="
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/cup/ln/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrCaD9qwcCra2Q8kfg1NZ1Bi2m7UnzwSDN8A&s",
+      "fuentePagina": "https://www.objetpubdesign.com/mug-personnalise-en-plastique/25759-tasse-plastique-publicitaire-et-reutilisable-300-ml-monday.html",
+      "titulo": "Tasse plastique publicitaire et réutilisable 300 ml MONDAY ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrCaD9qwcCra2Q8kfg1NZ1Bi2m7UnzwSDN8A&s",
+      "original": "https://www.objetpubdesign.com/147442-thickbox_default/tasse-plastique-publicitaire-et-reutilisable-300-ml-monday.jpg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/cup/ln/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ03HIU5mMQ_JhazT83-_c3OOJTXvSkJtlzgQ&s",
+      "fuentePagina": "https://lamaisondumug.fr/mug-personnalise-mug-publicitaire/tasse-personnalisee-soucoupe/",
+      "titulo": "Tasse Personnalisée avec Soucoupe 20 cl • La Maison du Mug",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ03HIU5mMQ_JhazT83-_c3OOJTXvSkJtlzgQ&s",
+      "original": "https://lamaisondumug.fr/wp-content/uploads/2019/04/Tasse-personnalis%C3%A9.jpg"
+    }
+  ]
+}

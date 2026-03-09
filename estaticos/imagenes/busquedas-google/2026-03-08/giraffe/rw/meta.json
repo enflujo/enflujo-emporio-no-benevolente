@@ -1,0 +1,71 @@
+{
+  "categoria": "giraffe",
+  "categoriaSlug": "giraffe",
+  "idioma": "rw",
+  "nombreIdioma": "Kinyarwanda",
+  "termino": "indiri",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T20:55:28.890Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "en",
+    "gl": "rw"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=indiri&hl=en&gl=rw",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/giraffe/rw/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRo1E551_oIWQ2JY5U55NmTuVHeeb4_QdpRKA&s",
+      "fuentePagina": "https://www.gettyimages.com/detail/news-photo/indiri-in-madagascar-news-photo/120390285",
+      "titulo": "Indiri in Madagascar. News Photo - Getty Images",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRo1E551_oIWQ2JY5U55NmTuVHeeb4_QdpRKA&s",
+      "original": "https://media.gettyimages.com/id/120390285/photo/indiri-in-madagascar.jpg?s=1024x1024&w=gi&k=20&c=78-lgoh7gJgZdLp6kLvOiR6e9zmQm55_0PMVPXMVGe8="
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/giraffe/rw/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQoyIZ25yKg9_HVIXY5rQdqbuaty23AMkedtg&s",
+      "fuentePagina": "https://www.instagram.com/reel/CyfhY03t3Wg/",
+      "titulo": "INDIRI SINGLE MALT INDIAN WHISKY 🥃 , #IndriWhisky #SingleMalt  #WhiskyLovers #WhiskyLife #IndianSingleMalt #WhiskyTasting  #WhiskyCollection #WhiskyConnoisseur #WhiskyAppreciation #WhiskyExperience  ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQoyIZ25yKg9_HVIXY5rQdqbuaty23AMkedtg&s",
+      "original": "https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3215435500537476512"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/giraffe/rw/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwtYW_7fJrey0CIG-6QRzfqc3lb02MWu-2kA&s",
+      "fuentePagina": "https://www.facebook.com/biographic.magazine/posts/featuring-nearly-opposable-thumbs-this-indiri-lemurs-dexterous-hand-is-a-feat-of/3090999477586641/",
+      "titulo": "Featuring nearly opposable thumbs, this indiri lemur's ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwtYW_7fJrey0CIG-6QRzfqc3lb02MWu-2kA&s",
+      "original": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=3090999000920022"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/giraffe/rw/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbkHvw49n-nvs3p7HrawinuSV5pYEaFjytdw&s",
+      "fuentePagina": "https://www.warrenphotographic.co.uk/19381-indiri-portrait",
+      "titulo": "Indiri portrait photo WP19381",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbkHvw49n-nvs3p7HrawinuSV5pYEaFjytdw&s",
+      "original": "https://www.warrenphotographic.co.uk/photography/bigs/19381-Indiri-portrait.jpg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/giraffe/rw/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQA8cAAcdDLTfBQ3BFhZGJwTL8Z7WgW3QcI7A&s",
+      "fuentePagina": "https://www.warrenphotographic.co.uk/19377-indiri",
+      "titulo": "Indiri photo WP19377",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQA8cAAcdDLTfBQ3BFhZGJwTL8Z7WgW3QcI7A&s",
+      "original": "https://www.warrenphotographic.co.uk/photography/bigs/19377-Indiri.jpg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/giraffe/rw/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkjntEYLIZWj-vzHNmLDj5896LrsXcpixPkw&s",
+      "fuentePagina": "https://www.indri.in/",
+      "titulo": "Indri - Trini Single Malt Whisky in India | Top Malt ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkjntEYLIZWj-vzHNmLDj5896LrsXcpixPkw&s",
+      "original": "https://www.indri.in/images/indri-single-malt-whiskey.webp"
+    }
+  ]
+}

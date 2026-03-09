@@ -1,0 +1,71 @@
+{
+  "categoria": "carrot",
+  "categoriaSlug": "carrot",
+  "idioma": "zu",
+  "nombreIdioma": "isiZulu",
+  "termino": "ikharikhisi",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:14:02.691Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "zu",
+    "gl": "za"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=ikharikhisi&hl=zu&gl=za",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/carrot/zu/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTm4WoJQBFogo53lhr3bcdXkMSQx7JEHTrdcw&s",
+      "fuentePagina": "https://www.ubereats.com/za/store/ikhitshini-featherbrook/4pfqvU86V6q5GjSQi44UZQ?srsltid=AfmBOopzRSa2m9bET4OOQ_xjpCt7iS4u_jyMG9GezqVNEeeUq7aWzLCT",
+      "titulo": "Order Ikhitshini, Featherbrook | Menu & prices ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTm4WoJQBFogo53lhr3bcdXkMSQx7JEHTrdcw&s",
+      "original": "https://tb-static.uber.com/prod/image-proc/processed_images/93c6483f25e66b76ff4b554e313217fe/5283d81c664b43c5f57a3a186d273063.jpeg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/carrot/zu/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShU5q3X5bFpy44SbVJz5Q6qjUZcE8lUMSkog&s",
+      "fuentePagina": "https://foodlikeammausedtomakeit.info/2020/04/khitchri-recipe/",
+      "titulo": "Khitchri Recipe",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShU5q3X5bFpy44SbVJz5Q6qjUZcE8lUMSkog&s",
+      "original": "https://1.bp.blogspot.com/-0Cla5TGLiV8/Xpl1i40q13I/AAAAAAAAGdc/LglharAIX7U4CfR8Upk08ytS06PVMo1NwCLcBGAsYHQ/s640/Kicheree%2BRecipe2.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/carrot/zu/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNvocKotVTJTl3WMrM60kBqX8aX8A29z-1vQ&s",
+      "fuentePagina": "https://www.ubereats.com/za/store/ikhitshini-celtis-ridge/ZXLNwJwnTUWfaiJtPVIoag?srsltid=AfmBOor9eXUcJ4awyUC4g8nU4Y79_2kCrlyMRwOKihot6XfJVYuTFD7c",
+      "titulo": "Order Ikhitshini, Celtis Ridge | Menu & prices | City of Tshwane ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNvocKotVTJTl3WMrM60kBqX8aX8A29z-1vQ&s",
+      "original": "https://tb-static.uber.com/prod/image-proc/processed_images/7c2c67c4b102826f5a28b54de04a64db/fb86662148be855d931b37d6c1e5fcbe.jpeg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/carrot/zu/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwQgvxs7PkIdelKxJa6DWJKEBJzMBobMjD2g&s",
+      "fuentePagina": "https://www.instagram.com/p/CY81tQaA2lO/",
+      "titulo": "adidas and South African contemporary fashion designer, Rich ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwQgvxs7PkIdelKxJa6DWJKEBJzMBobMjD2g&s",
+      "original": "https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=2755313273426427570"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/carrot/zu/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzlCDGziebE8SrMAce4qeP5R1QhSzaVQmnJA&s",
+      "fuentePagina": "https://www.ubereats.com/za/store/ikhitshini-ruimsig/KeNEN3DeWFS1-hP58zgoQA?srsltid=AfmBOooNkxT1w4SaL8cM1q2HBqfAytpM4AIYs10ffii5vkgiFlXR7B95",
+      "titulo": "Order Ikhitshini, Ruimsig | Menu & prices | Johannesburg ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzlCDGziebE8SrMAce4qeP5R1QhSzaVQmnJA&s",
+      "original": "https://tb-static.uber.com/prod/image-proc/processed_images/e443cb11a34d1935def41b2e4d6f9953/8b3912aeb4ddaf35be933b04d2d337ad.jpeg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/carrot/zu/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSI-qv-QXszDvzfihhyXjJoIrgicOTnlMv4SQ&s",
+      "fuentePagina": "https://www.instagram.com/p/CY81tQaA2lO/",
+      "titulo": "adidas and South African contemporary fashion designer, Rich ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSI-qv-QXszDvzfihhyXjJoIrgicOTnlMv4SQ&s",
+      "original": "https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3846700075053508558"
+    }
+  ]
+}

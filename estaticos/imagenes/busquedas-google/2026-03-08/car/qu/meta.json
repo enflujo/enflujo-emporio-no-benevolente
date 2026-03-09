@@ -1,0 +1,71 @@
+{
+  "categoria": "car",
+  "categoriaSlug": "car",
+  "idioma": "qu",
+  "nombreIdioma": "Quechua",
+  "termino": "awtu",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T20:42:04.711Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "es",
+    "gl": "pe"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=awtu&hl=es&gl=pe",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/car/qu/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU-13peYZQ4cu7hmTUZk0d0lbB0Fejezm3-g&s",
+      "fuentePagina": "https://www.dgualdo.it/regs18/iawtu.htm",
+      "titulo": "I-AWTU Data Sheet © by dgualdo.it",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU-13peYZQ4cu7hmTUZk0d0lbB0Fejezm3-g&s",
+      "original": "https://www.dgualdo.it/regs18/iawtu-afu-2202-wall-p.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/car/qu/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDZt6CJLRsMtilaUVUCfeLnIuHiRq0JmNXKQ&s",
+      "fuentePagina": "https://www.facebook.com/61586589939941",
+      "titulo": "Awtu",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDZt6CJLRsMtilaUVUCfeLnIuHiRq0JmNXKQ&s",
+      "original": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=122111873529219664"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/car/qu/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTic7ghTt72_PtTAHfTuZa6akWAhKQZjCb1BQ&s",
+      "fuentePagina": "https://www.helis.com/database/cn/41872/",
+      "titulo": "I-AWTU AW109SP HoverFly (C/N 22340) – Flight History & Last ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTic7ghTt72_PtTAHfTuZa6akWAhKQZjCb1BQ&s",
+      "original": "https://www.helis.com/spotters/andrea_rizzioli/aw109sp_f-hmpb.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/car/qu/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_gyZneQqganYWMrYCov3ZoHTZfWbslOLT9g&s",
+      "fuentePagina": "https://www.helis.com/database/cn/41872/",
+      "titulo": "I-AWTU AW109SP HoverFly (C/N 22340) – Flight History & Last ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_gyZneQqganYWMrYCov3ZoHTZfWbslOLT9g&s",
+      "original": "https://www.helis.com/spotters/marcello_montagna/aw109sp-i-awtu_738.jpg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/car/qu/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQE1CqN-j3tKWd1hAUk1kbp3P5vFBDgLpWm-g&s",
+      "fuentePagina": "https://commons.wikimedia.org/wiki/File:I-AWTU.jpg",
+      "titulo": "File:I-AWTU.jpg - Wikimedia Commons",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQE1CqN-j3tKWd1hAUk1kbp3P5vFBDgLpWm-g&s",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/I-AWTU.jpg/1280px-I-AWTU.jpg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/car/qu/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJ_40BnflOMV_789jR1bumzxpSVR0pdeyn0A&s",
+      "fuentePagina": "https://www.jetphotos.com/registration/I-AWTU",
+      "titulo": "I-AWTU/IAWTU aviation photos on JetPhotos",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJ_40BnflOMV_789jR1bumzxpSVR0pdeyn0A&s",
+      "original": "https://cdn.jetphotos.com/400/5/2523545_1749932639.jpg"
+    }
+  ]
+}

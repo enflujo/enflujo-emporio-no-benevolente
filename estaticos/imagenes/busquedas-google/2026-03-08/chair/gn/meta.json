@@ -1,0 +1,71 @@
+{
+  "categoria": "chair",
+  "categoriaSlug": "chair",
+  "idioma": "gn",
+  "nombreIdioma": "Guaraní",
+  "termino": "silla",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:17:20.640Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "es",
+    "gl": "py"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=silla&hl=es&gl=py",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/chair/gn/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKbjGba0ym-mZAD3n9EIBe0GNBATSwVnAGgg&s",
+      "fuentePagina": "https://www.consumer.com.py/producto/158/silla-oficina-ch-3001",
+      "titulo": "Silla oficina CH-3001.",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKbjGba0ym-mZAD3n9EIBe0GNBATSwVnAGgg&s",
+      "original": "https://admin.consumer.com.py/storage/products/202.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/chair/gn/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSiMWApHCYVOa3S2vlRqwboJaPOtTkdYLR12g&s",
+      "fuentePagina": "https://www.mecalmuebles.com.py/producto/378/silla-director-eco-cuero-blanco-90881b",
+      "titulo": "SILLA DIRECTOR ECO CUERO BLANCO 90881B",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSiMWApHCYVOa3S2vlRqwboJaPOtTkdYLR12g&s",
+      "original": "https://www.mecalmuebles.com.py/storage/sku/hneglin-giratorias-silla-director-eco-cuero-blanco-90881b-1-1-1750189703.png"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/chair/gn/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEw4oE96IgzN9B3Pu0EH9tkXm-_IXMIKGw1Q&s",
+      "fuentePagina": "https://www.consumer.com.py/producto/161/silla-oficina-y-2733",
+      "titulo": "Silla oficina Y-2733",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEw4oE96IgzN9B3Pu0EH9tkXm-_IXMIKGw1Q&s",
+      "original": "https://admin.consumer.com.py/storage/products/205.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/chair/gn/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmGAmrv8b4TGDNA-bp1UkBVvV-HZydpzJ5-A&s",
+      "fuentePagina": "https://www.potterybarn.com.mx/tienda/pdp/silla-cline-de-madera-de-caucho/1105660053?srsltid=AfmBOopsp7A5urNPcoy6WocnGXjqkkwMaIzPCyo_VQIjSaKaeyfwaOqU",
+      "titulo": "Silla Cline de madera | Pottery Barn México",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmGAmrv8b4TGDNA-bp1UkBVvV-HZydpzJ5-A&s",
+      "original": "https://ss104.potterybarn.com.mx/xl/1105660053.jpg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/chair/gn/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRaoJ2anXoMbx_I9QEHtJT6w3uX49DgT_PIwQ&s",
+      "fuentePagina": "https://arsymaalfaro.es/producto/silla-ref-711/",
+      "titulo": "Silla Ref. 711 - Arsyma Alfaro",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRaoJ2anXoMbx_I9QEHtJT6w3uX49DgT_PIwQ&s",
+      "original": "https://arsymaalfaro.es/wp-content/uploads/2022/10/arsyma-silla-pino-ref701-lateral.png"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/chair/gn/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQG4tveDnnaaB7BR4j8yXExvIAOyuYkSROdAg&s",
+      "fuentePagina": "https://www.suenolar.com.py/producto/190/silla-serra-con-respaldo-tapizado-beige-229-boy?srsltid=AfmBOopTUSqkcjaRNmVYBk4m_cLwwKLN21tk0KJgtPx6Su6_UIcS91Qa",
+      "titulo": "Silla Serra Con Respaldo Tapizado Beige 229 Boy",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQG4tveDnnaaB7BR4j8yXExvIAOyuYkSROdAg&s",
+      "original": "https://suenolar.com.py/storage/sku/1jJX2g_peUAEHdu2Jyoa8MWX2m8eAQaIw.png"
+    }
+  ]
+}

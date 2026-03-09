@@ -1,0 +1,71 @@
+{
+  "categoria": "elephant",
+  "categoriaSlug": "elephant",
+  "idioma": "yo",
+  "nombreIdioma": "Yorùbá",
+  "termino": "erin",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T20:53:43.477Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "yo",
+    "gl": "ng"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=erin&hl=yo&gl=ng",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/elephant/yo/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1hq_jfg7BUsP4xQJlCPMbdHTx3QI_5b_HYA&s",
+      "fuentePagina": "https://en.wikipedia.org/wiki/Erin_Kellyman",
+      "titulo": "Erin Kellyman - Wikipedia",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1hq_jfg7BUsP4xQJlCPMbdHTx3QI_5b_HYA&s",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/6/60/Erin_Kellyman-8441%2C_edit_%28cropped%29.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/elephant/yo/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEvmP_mK1B06iRfMTJHOmjeiPnXcoPfUPm7Q&s",
+      "fuentePagina": "https://en.wikipedia.org/wiki/Erin_Brockovich",
+      "titulo": "Erin Brockovich - Wikipedia",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEvmP_mK1B06iRfMTJHOmjeiPnXcoPfUPm7Q&s",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/9/98/Erin_Brockovich_%2830109127682%29.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/elephant/yo/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTChSv65QQO_fNmPCfBkjgVrZQuLZUdFdezBg&s",
+      "fuentePagina": "https://en.wikipedia.org/wiki/Erin_Darke",
+      "titulo": "Erin Darke - Wikipedia",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTChSv65QQO_fNmPCfBkjgVrZQuLZUdFdezBg&s",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/d/d4/ErinDarke-byPhilipRomano2.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/elephant/yo/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHI0ZT3FAos1yYRCGnR8TqvuLElRe_GgfD9Q&s",
+      "fuentePagina": "https://www.youtube.com/watch?v=iXPLU9QlTC0",
+      "titulo": "\"Corporate Erin\" stops by for a very special morning meeting",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHI0ZT3FAos1yYRCGnR8TqvuLElRe_GgfD9Q&s",
+      "original": "https://i.ytimg.com/vi/iXPLU9QlTC0/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLCueeN7WsAgY6qD2OjWayAKOXdAwA"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/elephant/yo/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxzAJmTVxKdYSN6qI7yxn2exXfgirwAKT1XA&s",
+      "fuentePagina": "https://time.com/collections/closers-2026/7353446/erin-jackson/",
+      "titulo": "Erin Jackson Made Olympic History. Now She Wants to Make Her ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxzAJmTVxKdYSN6qI7yxn2exXfgirwAKT1XA&s",
+      "original": "https://time.com/redesign/_next/image/?url=https%3A%2F%2Fapi.time.com%2Fwp-content%2Fuploads%2F2026%2F01%2Ftime-closers-2026-erin-jackson-01.jpg%3Fquality%3D85%26w%3D958&w=3840&q=75"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/elephant/yo/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsDwb-zmbgR0rJEtkBCp_knUbIn-WJWDrEEw&s",
+      "fuentePagina": "https://history.columbian.gwu.edu/erin-chapman",
+      "titulo": "Chapman, Erin D. | Department of History | Columbian College ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsDwb-zmbgR0rJEtkBCp_knUbIn-WJWDrEEw&s",
+      "original": "https://history.columbian.gwu.edu/sites/g/files/zaxdzs4856/files/styles/d07/public/2025-10/l1260395-edit2.jpg?itok=nfrPjw_Y"
+    }
+  ]
+}

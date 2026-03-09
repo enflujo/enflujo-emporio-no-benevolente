@@ -1,0 +1,71 @@
+{
+  "categoria": "truck",
+  "categoriaSlug": "truck",
+  "idioma": "yo",
+  "nombreIdioma": "Yorùbá",
+  "termino": "lọ́lọ́",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T20:45:04.877Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "yo",
+    "gl": "ng"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=l%E1%BB%8D%CC%81l%E1%BB%8D%CC%81&hl=yo&gl=ng",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/truck/yo/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4jdrV8SqUdanTmuF63HzsNLnwgSer1TMrgA&s",
+      "fuentePagina": "https://www.facebook.com/ILEKAAROOOJIIRE/posts/l%C3%A1y%C3%A9-%E1%BB%8Dj%E1%BB%8D%CC%81s%C3%AD-%E1%BB%8Dm%E1%BB%8Dd%C3%A9-k%C3%AC%C3%AD-gb%C3%B3j%C3%BA-s%C3%B3k%C3%A8-wo-%C3%A0gb%C3%A0-b%C3%AD-%C3%A0gb%C3%A0-b%C3%A1-%C5%84-roj%E1%BB%8D%CC%81-%E1%BB%8Dm%E1%BB%8Dd%C3%A9-%C3%A1-pa-l%E1%BB%8D%CC%81l%E1%BB%8D%CC%81-ni/1245468430949823/",
+      "titulo": "Láyé ọjọ́sí, ọmọdé kìí gbójú sókè wo àgbà. Bí àgbà bá ń ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4jdrV8SqUdanTmuF63HzsNLnwgSer1TMrgA&s",
+      "original": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=1245468394283160"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/truck/yo/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRy1AH56AiO1xWPbCcQNF-tszl75GSgTZrDZQ&s",
+      "fuentePagina": "https://www.facebook.com/groups/1492499144321992/posts/4521842461387630/",
+      "titulo": "Láyé ọjọ́sí, ọmọdé kìí gbójú sókè wo àgbà. Bí àgbà bá ń ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRy1AH56AiO1xWPbCcQNF-tszl75GSgTZrDZQ&s",
+      "original": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=122216881172053366"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/truck/yo/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5Up5CNPPBx1YIKZHsxnM86Pb6IXPFKxgOIA&s",
+      "fuentePagina": "https://www.instagram.com/reel/DTcekDpjGQj/",
+      "titulo": "An evening of love and celebration in honor of Ẹrelu Omotunde Towobola  Johnson and Lọ́lọ́ Mrs. Kika Blessing Ike., Cc: @motlaj.ent , #citypeopletv",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5Up5CNPPBx1YIKZHsxnM86Pb6IXPFKxgOIA&s",
+      "original": "https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3809053804063384611"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/truck/yo/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIEEiHD09xWpwm7IHPWEIAAMbchsEY9m-W2w&s",
+      "fuentePagina": "https://www.instagram.com/p/DTcZYrgDNCg/",
+      "titulo": "An evening of love and celebration in honor of Ẹrelu ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIEEiHD09xWpwm7IHPWEIAAMbchsEY9m-W2w&s",
+      "original": "https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3809031031987425440"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/truck/yo/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOJPlJ3JwnGpINpLv8QPH0QJ2mrUiG3SdJdQ&s",
+      "fuentePagina": "https://www.facebook.com/bababunmi.boluwatife/posts/b%C3%AD-erin-b%C3%A1-f%E1%BB%8Dn-n%C3%ADj%C3%B9-%E1%BA%B9ranko-gbogbo-%C3%A1-pa-l%E1%BB%8D%CC%81l%E1%BB%8D%CC%81%C3%A0f%C3%A0%C3%ACl%C3%A0-%E1%BB%8Dj%E1%BB%8D%CC%81-b%E1%BB%8D%CC%81j%E1%BB%8D%CC%81-b%C3%A1-l%C3%A0-dandan-ni-/2032151190559494/",
+      "titulo": "Bí Erin bá fọn níjù, ẹranko gbogbo á pa lọ́lọ́, Àfàìlà ọjọ́ ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOJPlJ3JwnGpINpLv8QPH0QJ2mrUiG3SdJdQ&s",
+      "original": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=2032151170559496"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/truck/yo/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRro_3Sf-2QN4XfstnPstx8vW42wI1NbAQEtA&s",
+      "fuentePagina": "https://www.instagram.com/reel/DTceD1WDHes/",
+      "titulo": "An evening of love and celebration in honor of Ẹrelu Omotunde Towobola  Johnson and Lọ́lọ́ Mrs. Kika Blessing Ike., Cc: @motlaj.ent , #citypeopletv",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRro_3Sf-2QN4XfstnPstx8vW42wI1NbAQEtA&s",
+      "original": "https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3809051589680592812"
+    }
+  ]
+}

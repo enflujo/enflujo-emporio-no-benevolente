@@ -1,0 +1,71 @@
+{
+  "categoria": "laptop",
+  "categoriaSlug": "laptop",
+  "idioma": "hi",
+  "nombreIdioma": "हिन्दी",
+  "termino": "लैपटॉप",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:21:55.710Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "hi",
+    "gl": "in"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=%E0%A4%B2%E0%A5%88%E0%A4%AA%E0%A4%9F%E0%A5%89%E0%A4%AA&hl=hi&gl=in",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/laptop/hi/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5SMSVGli5L19G1JKlBSGSv9kPsnCndkhuxA&s",
+      "fuentePagina": "https://www.amazon.in/HP-i3-1115G4-Graphics-Speakers-15s-fq2738TU/dp/B0C3D6NMJ3",
+      "titulo": "HP Laptop 15s, Intel Core i3-1115G4, 15.6 inch(39.6cm) HD ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5SMSVGli5L19G1JKlBSGSv9kPsnCndkhuxA&s",
+      "original": "https://m.media-amazon.com/images/I/71KTcJnSy8L._AC_UF1000,1000_QL80_.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/laptop/hi/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrr6w4dozaN9jk3kLra96oa-AzruiQSlezYg&s",
+      "fuentePagina": "https://www.livehindustan.com/gadgets/best-laptop-deals-under-30000-rupees-on-amazon-list-includes-acer-and-dell-too-201736140627067.html",
+      "titulo": "लैपटॉप पर तगड़ा डिस्काउंट, अब 30 ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrr6w4dozaN9jk3kLra96oa-AzruiQSlezYg&s",
+      "original": "https://www.livehindustan.com/lh-img/smart/img/2025/01/06/1200x900/maxrlt_1736141443320_1736141450595.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/laptop/hi/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsrpFS0ZZ3nSLi3jNcAZALUVkbmiIbdFtwBQ&s",
+      "fuentePagina": "https://www.amazon.in/-/hi/Microsoft-%E0%A4%B2%E0%A5%88%E0%A4%AA%E0%A4%9F%E0%A5%89%E0%A4%AA-%E0%A4%B8%E0%A5%8D%E0%A4%95%E0%A5%8D%E0%A4%B0%E0%A5%80%E0%A4%A8-Windows-%E0%A4%AA%E0%A5%8D%E0%A4%B2%E0%A5%88%E0%A4%9F%E0%A4%BF%E0%A4%A8%E0%A4%AE/dp/B0B1DTJ9GX",
+      "titulo": "Microsoft लैपटॉप 4-15\" इंच स्क्रीन, AMD R7/Windows 10 Home/8GB RAM/256 GB  SSD/प्लैटिनम - (5UI-00049) : Amazon.in: इलेक्ट्रॉनिक्स",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsrpFS0ZZ3nSLi3jNcAZALUVkbmiIbdFtwBQ&s",
+      "original": "https://m.media-amazon.com/images/I/61Qe0euJJZL.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/laptop/hi/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNPr94L57Gm-j2NTCTgtwrRpvwVlXwa2rTuQ&s",
+      "fuentePagina": "https://hindi.gadgets360.com/pc-laptop/hp-stream-14-budget-windows-10-laptop-launched-hindi-news-1443301",
+      "titulo": "एचपी ने लॉन्च किया 15,000 रुपये से ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNPr94L57Gm-j2NTCTgtwrRpvwVlXwa2rTuQ&s",
+      "original": "https://cdn.ndtv.com/tech/images/hp_stream_14.jpg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/laptop/hi/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVuPoZc8VOpCNmp-5NLln2sXTwZMvweERD7w&s",
+      "fuentePagina": "https://hi.wikipedia.org/wiki/%E0%A4%B2%E0%A5%88%E0%A4%AA%E0%A4%9F%E0%A5%89%E0%A4%AA",
+      "titulo": "लैपटॉप - विकिपीडिया",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVuPoZc8VOpCNmp-5NLln2sXTwZMvweERD7w&s",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/b/b7/Lenovo_G500s_laptop-2903.jpg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/laptop/hi/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9AfyTCQLQMmZhL4Ic5zPQzmD7F7-zTT1Z0A&s",
+      "fuentePagina": "https://www.tradeindia.com/hi/products/apple-laptop-c5400000.html",
+      "titulo": "Apple लैपटॉप सबसे अच्छी कीमत पर ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9AfyTCQLQMmZhL4Ic5zPQzmD7F7-zTT1Z0A&s",
+      "original": "https://cpimg.tistatic.com/5400000/b/4/apple-laptop.jpg"
+    }
+  ]
+}

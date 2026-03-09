@@ -1,0 +1,71 @@
+{
+  "categoria": "suitcase",
+  "categoriaSlug": "suitcase",
+  "idioma": "kg",
+  "nombreIdioma": "Kikongo",
+  "termino": "valisi",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T20:58:52.564Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "fr",
+    "gl": "cd"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=valisi&hl=fr&gl=cd",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/suitcase/kg/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrKHq-iISrCDHBxe0OvgtM4lWTba1KFPTfgw&s",
+      "fuentePagina": "https://valisimakesense.com/en-in/pages/about?srsltid=AfmBOordVtykit_zPkFb1iJAv7dfPgrIQfRdeypBYhXnpxB46n8IPiOJ",
+      "titulo": "About – VALISI",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrKHq-iISrCDHBxe0OvgtM4lWTba1KFPTfgw&s",
+      "original": "http://valisimakesense.com/cdn/shop/files/valisi-makes-sense.jpg?v=1669430733"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/suitcase/kg/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9r_wztaMU6FaOoiOGIzKNyqbajvsTparf_A&s",
+      "fuentePagina": "https://valisimakesense.com/en-ca/products/vibrancy-parfum?srsltid=AfmBOoqjt1kleBBiHIqYgiiAsymlShJyJGXqctUZYYFAp0qHz4WntNNT",
+      "titulo": "Vibrancy Parfum – VALISI",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9r_wztaMU6FaOoiOGIzKNyqbajvsTparf_A&s",
+      "original": "https://valisimakesense.com/cdn/shop/products/vibrancy-valisi.jpg?v=1670703067&width=1445"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/suitcase/kg/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQY_Bs_4YQmzmK3hdv4o0NqQV-QWMnGPzyxAA&s",
+      "fuentePagina": "https://valisimakesense.com/en-us/products/amulet-parfum?srsltid=AfmBOorxdP1bpBakHulfhrg-gMpjAvvVJIKJs8i0SLsX8NeyuUOFHSbo",
+      "titulo": "Amulet Parfum – VALISI",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQY_Bs_4YQmzmK3hdv4o0NqQV-QWMnGPzyxAA&s",
+      "original": "https://valisimakesense.com/cdn/shop/products/amulet-valisi-parfum-100ml.jpg?v=1671070036&width=1445"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/suitcase/kg/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5jwFC3BN-n-fJ11lrUorbIFwfuUD2e1OwBQ&s",
+      "fuentePagina": "https://valisimakesense.com/en-in/products/old-soul-parfum?srsltid=AfmBOopdcrVJsqzAkk3yxSuVZx91x0GyJFu_yTvixI2ksIcgofvEJtIo",
+      "titulo": "Old Soul Parfum – VALISI",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5jwFC3BN-n-fJ11lrUorbIFwfuUD2e1OwBQ&s",
+      "original": "http://valisimakesense.com/cdn/shop/products/old-soul.jpg?v=1659996799"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/suitcase/kg/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtWp-neGhMlv5-VISNzWnSg2MFNd4WhhP0gA&s",
+      "fuentePagina": "https://www.valisipumps.com/",
+      "titulo": "VALISI Pumps – Excellence in Fluid Handling",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtWp-neGhMlv5-VISNzWnSg2MFNd4WhhP0gA&s",
+      "original": "https://www.valisipumps.com/wp-content/uploads/2023/03/VALISILogo450gif.gif"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/suitcase/kg/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRULrYuo-9HtiG4CI-v_8owjeFNTJJHTybvSQ&s",
+      "fuentePagina": "https://valisimakesense.com/en-us/products/amulet-parfum?srsltid=AfmBOoq5aAP82_eBz1m1P0nEwwbp-IyI73XbRCSEvz3aB0FsjZzJ5Hnv",
+      "titulo": "Amulet Parfum – VALISI",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRULrYuo-9HtiG4CI-v_8owjeFNTJJHTybvSQ&s",
+      "original": "http://valisimakesense.com/cdn/shop/products/parfum-amulet-valisi.jpg?v=1660007093"
+    }
+  ]
+}

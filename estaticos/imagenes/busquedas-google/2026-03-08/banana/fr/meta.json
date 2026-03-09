@@ -1,0 +1,71 @@
+{
+  "categoria": "banana",
+  "categoriaSlug": "banana",
+  "idioma": "fr",
+  "nombreIdioma": "Français",
+  "termino": "banane",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:10:40.450Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "fr",
+    "gl": "be"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=banane&hl=fr&gl=be",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/banana/fr/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRfxv5XzoWIBiWrxwhYbs0Ua2NWB5yCG0Zpg&s",
+      "fuentePagina": "https://www.leparisien.fr/sciences/la-banane-la-plus-repandue-menacee-de-disparition-par-un-champignon-24-10-2023-LLCYMHHUIFBULPVYQWMGR4SZ7Q.php",
+      "titulo": "La banane la plus répandue menacée de disparition par un ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRfxv5XzoWIBiWrxwhYbs0Ua2NWB5yCG0Zpg&s",
+      "original": "https://cloudfront-eu-central-1.images.arcpublishing.com/leparisien/6D4MFEIKGBCSFA66NJ6ULCGZYE.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/banana/fr/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfX7U4KHonFubcDYyeP5tkkEYu9iZrQK_mqw&s",
+      "fuentePagina": "https://www.cuisinelangelique.com/infotheque/la-banane-un-fruit-vraiment-unique/",
+      "titulo": "La banane, un fruit vraiment unique! - Infothèque Cuisine l ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfX7U4KHonFubcDYyeP5tkkEYu9iZrQK_mqw&s",
+      "original": "https://www.cuisinelangelique.com/infotheque/wp-content/uploads/2023/03/banane-1a-1200x838.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/banana/fr/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRduSfD9tOtlz4G_xw1LpLKF2n82TyVOlBHtw&s",
+      "fuentePagina": "https://fr.wikipedia.org/wiki/Banane",
+      "titulo": "Banane — Wikipédia",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRduSfD9tOtlz4G_xw1LpLKF2n82TyVOlBHtw&s",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Banana_on_black_background.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/banana/fr/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-9vu-XK3ztGi22Z-VEyjUsdsTw6bZK33j7g&s",
+      "fuentePagina": "https://www.jaimefruitsetlegumes.ca/fr/aliments/banane/",
+      "titulo": "Banane - Mouvement J'aime les fruits et légumes",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-9vu-XK3ztGi22Z-VEyjUsdsTw6bZK33j7g&s",
+      "original": "https://www.jaimefruitsetlegumes.ca/wp-content/uploads/2019/08/iStock_000007671231Large-e1565725651658.jpg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/banana/fr/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMZw3NVvQB7ew-0I7zWlJw5b6iaU9TrcGY4Q&s",
+      "fuentePagina": "https://nutriscan.app/fr/calories-nutrition/banana",
+      "titulo": "Banane : calories, nutrition et bienfaits santé | NutriScan App",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMZw3NVvQB7ew-0I7zWlJw5b6iaU9TrcGY4Q&s",
+      "original": "https://nutriscan.app/calories-nutrition/images/banana-7h4m9.webp"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/banana/fr/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpEW462v-toYoyMVel2BYa-uEUe9den3ohQw&s",
+      "fuentePagina": "https://mapetiteassiette.com/aliments/la-banane-le-fruit-adore-des-enfants-ont-ils-raison/",
+      "titulo": "La banane : le fruit adoré des enfants. Ont-ils raison ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpEW462v-toYoyMVel2BYa-uEUe9den3ohQw&s",
+      "original": "https://mapetiteassiette.com/wp-content/uploads/2019/05/shutterstock_553887610-e1557046359887.jpg"
+    }
+  ]
+}

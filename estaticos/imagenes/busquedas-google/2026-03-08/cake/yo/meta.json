@@ -1,0 +1,71 @@
+{
+  "categoria": "cake",
+  "categoriaSlug": "cake",
+  "idioma": "yo",
+  "nombreIdioma": "Yorùbá",
+  "termino": "kéèkì",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:16:24.737Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "yo",
+    "gl": "ng"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=k%C3%A9%C3%A8k%C3%AC&hl=yo&gl=ng",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/cake/yo/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNPQtaiO1q9pZxGGshTWRR5EwOjgGYZz9ZRQ&s",
+      "fuentePagina": "https://italianflora.com/yo/%E1%BB%8Dja/ew%C3%A9ko-al%C3%A1w%E1%BB%8D%CC%80-ew%C3%A9-p%E1%BA%B9%CC%80l%C3%BA-k%C3%A9%C3%A8k%C3%AC-%C3%A0ti-w%C3%A1%C3%ACn%C3%AC-d%C3%ADd%C3%B9n/",
+      "titulo": "Igi aláwọ̀ ewé pẹ̀lú kéèkì àti wáìnì tó ń tàn yanran ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNPQtaiO1q9pZxGGshTWRR5EwOjgGYZz9ZRQ&s",
+      "original": "https://www.italianflora.com/wp-content/uploads/2026/01/Green-plant-with-cake-and-sparkling-wine.jpeg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/cake/yo/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXjSG0X1ecnOZXqQTNhNHqdGOmVtWc9ah40g&s",
+      "fuentePagina": "http://yo.pyrotechnic-manufacture.com/row-cake/",
+      "titulo": "Àwọn Olùpèsè Kéèkì Kẹ́ẹ̀kì | Ilé iṣẹ́ àti àwọn olùpèsè Kéèkì ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXjSG0X1ecnOZXqQTNhNHqdGOmVtWc9ah40g&s",
+      "original": "https://cdn.globalso.com/pyrotechnic-manufacture/24.1.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/cake/yo/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzWryYVH9EacIKPg20aghNi3UBhu-kqlDrLA&s",
+      "fuentePagina": "https://www.customstuffedtoy.com/yo/custom-acrylic-keychains-product/",
+      "titulo": "Àwọn Kéèkì Àṣà Àṣà | Ohun ìṣeré Gaopeng",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzWryYVH9EacIKPg20aghNi3UBhu-kqlDrLA&s",
+      "original": "https://ecdn6.globalso.com/upload/p/604/image_other/2025-10/123-main-picture.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/cake/yo/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYU0AAdHiIUKKdQdgTfLWkfUmo6xf9kNdm6A&s",
+      "fuentePagina": "http://yo.pyrotechnic-manufacture.com/25s-straight-cake-products/",
+      "titulo": "Ṣáínà 25S Ṣíṣe àti Ilé-iṣẹ́ Kéèkì Gíga | JinPing",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYU0AAdHiIUKKdQdgTfLWkfUmo6xf9kNdm6A&s",
+      "original": "https://www.pyrotechnic-manufacture.com/uploads/020.jpg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/cake/yo/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKWBlhojJ5rfYPY4QkmUbh0cAUcWQ7NMJcMQ&s",
+      "fuentePagina": "https://www.italflora.it/yo/prodotto/bouquet-misto-arancio-con-torta-alla-frutta/",
+      "titulo": "Àdàpọ̀ Òróró pẹ̀lú Kéèkì Èso - Italflora",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKWBlhojJ5rfYPY4QkmUbh0cAUcWQ7NMJcMQ&s",
+      "original": "https://www.italflora.it/wp-content/uploads/2026/01/95.png"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/cake/yo/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyylzbyJBH3zsQcEgdu524Jk-3oz1FJP3LWA&s",
+      "fuentePagina": "http://yo.pyrotechnic-manufacture.com/20s-straight-cake-products/",
+      "titulo": "Ṣáínà 20S Ṣíṣe àti Ilé-iṣẹ́ Kéèkì Gíga | JinPing",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyylzbyJBH3zsQcEgdu524Jk-3oz1FJP3LWA&s",
+      "original": "https://www.pyrotechnic-manufacture.com/uploads/019.jpg"
+    }
+  ]
+}

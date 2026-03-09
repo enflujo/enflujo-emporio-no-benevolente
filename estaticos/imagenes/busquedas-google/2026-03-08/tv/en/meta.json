@@ -1,0 +1,71 @@
+{
+  "categoria": "tv",
+  "categoriaSlug": "tv",
+  "idioma": "en",
+  "nombreIdioma": "English",
+  "termino": "tv",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:20:52.214Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "en",
+    "gl": "us"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=tv&hl=en&gl=us",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/tv/en/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUs-Ae8WOix_w7ABGTrlAaFaL9PGARKXbhAQ&s",
+      "fuentePagina": "https://www.amazon.com/Atyme-320GM5HD-ATYME-LED-HDTV/dp/B07FYYYHNP",
+      "titulo": "Amazon.com: ATYME 32-inch Class 60Hz 720p HD LED TV Flat ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUs-Ae8WOix_w7ABGTrlAaFaL9PGARKXbhAQ&s",
+      "original": "https://m.media-amazon.com/images/I/81pieXC63IL._AC_UF1000,1000_QL80_.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/tv/en/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTk2GAEv2BeZxDOAVaJZ2KF-YKarCTdaaZAyw&s",
+      "fuentePagina": "https://www.sharpconsumer.com/tv/55gm6141e/",
+      "titulo": "55″ 4K Ultra HD Smart TV | 55GM6141E - Sharp Consumer",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTk2GAEv2BeZxDOAVaJZ2KF-YKarCTdaaZAyw&s",
+      "original": "https://s3.infra.brandquad.io/accounts-media/SHRP/DAM/origin/5ed1ddf8-4e73-11ef-a427-bea7e36404f4.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/tv/en/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcmlzBx72AJV3yxeGscsWUvzrKSaNRBO_QMA&s",
+      "fuentePagina": "https://www.nytimes.com/wirecutter/reviews/best-tv/",
+      "titulo": "The Best TVs of 2026 | Reviews by Wirecutter",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcmlzBx72AJV3yxeGscsWUvzrKSaNRBO_QMA&s",
+      "original": "https://cdn.thewirecutter.com/wp-content/media/2025/07/BEST-BUDGET-4K-TV-2048px-3185-2x1-1.jpg?width=2048&quality=75&crop=2:1&auto=webp"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/tv/en/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTmZwE4z1eDEx3tJlp6VfhG28mWVTXTFHt1Q&s",
+      "fuentePagina": "https://www.teslasmart.com/tesla-smart-uhd-tv-55",
+      "titulo": "TESLA Smart UHD TV 55″ | TESLA",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTmZwE4z1eDEx3tJlp6VfhG28mWVTXTFHt1Q&s",
+      "original": "https://www.teslasmart.com/data/images-xl/1870-TS-UHD-TV-55-1920x1920-02.png"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/tv/en/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFa1Srf-yEBWZnu_mA-J8ycObdjyFxZFbRqg&s",
+      "fuentePagina": "https://www.lg.com/uk/lg-experience/lg-lab/what-is-a-smart-tv/?srsltid=AfmBOopVtaSbDGMFKzUBms8WYhAS8_bkFrmTq5O_X7L9Fqcs1GoqwCvm",
+      "titulo": "What is a Smart TV? Smart TV Features & Technology Explained ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFa1Srf-yEBWZnu_mA-J8ycObdjyFxZFbRqg&s",
+      "original": "https://www.lg.com/content/dam/channel/wcms/global/lg-experience/tech-hub/what-is-a-smart-tv/desktop/desktop-aem-what-is-a-smartv.jpg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/tv/en/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8rllFV79VUrl7g--D2KrDGlF1o8fH5tZkpg&s",
+      "fuentePagina": "https://me.pcmag.com/en/tvs/28965/amazon-fire-tv-4-series-55-inch",
+      "titulo": "Amazon Fire TV 4-Series (55-Inch) - Review 2025 - PCMag ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8rllFV79VUrl7g--D2KrDGlF1o8fH5tZkpg&s",
+      "original": "https://sm.pcmag.com/t/pcmag_me/review/a/amazon-fir/amazon-fire-tv-4-series-55-inch_kgq8.1920.jpg"
+    }
+  ]
+}

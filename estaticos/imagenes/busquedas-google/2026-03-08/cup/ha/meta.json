@@ -1,0 +1,71 @@
+{
+  "categoria": "cup",
+  "categoriaSlug": "cup",
+  "idioma": "ha",
+  "nombreIdioma": "Hausa",
+  "termino": "kwaf",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:07:30.089Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "ha",
+    "gl": "ng"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=kwaf&hl=ha&gl=ng",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/cup/ha/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzOx4-j8v_KCk6CEUuivw8y5OXcQntnbqnvg&s",
+      "fuentePagina": "https://www.facebook.com/Haarsker/videos/nice-tip-for-a-bun-kwaf/5114194052041534/",
+      "titulo": "Nice tip for a bun/ kwaf | Haarsker | Facebook",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzOx4-j8v_KCk6CEUuivw8y5OXcQntnbqnvg&s",
+      "original": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=5114194052041534&get_thumbnail=1"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/cup/ha/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYRKIkZ7KK3mnzNQw1qQ58lB-Zj6GI5ZGRvw&s",
+      "fuentePagina": "https://www.pinterest.com/madebutterfly/kwaf-maki/",
+      "titulo": "53 Kwaf Maki ideas | long hair styles, hair styles, hair cuts",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYRKIkZ7KK3mnzNQw1qQ58lB-Zj6GI5ZGRvw&s",
+      "original": "https://i.pinimg.com/236x/17/7c/a3/177ca3b90c62cf25352357203b898ea5.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/cup/ha/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRbe0gfSKx5upAhf3qrH308ZvKLYz4U5mzgQ&s",
+      "fuentePagina": "https://www.instagram.com/p/DTTi_8BCFRK/",
+      "titulo": "Photos by Kwaf Beauty (@kwaf_beauty) · January 9, 2026",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRbe0gfSKx5upAhf3qrH308ZvKLYz4U5mzgQ&s",
+      "original": "https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3806540020404755802"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/cup/ha/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQklfCm0BL9TTjaSvfAao80bnsivECyGsapvQ&s",
+      "fuentePagina": "https://www.instagram.com/p/DTTi_8BCFRK/",
+      "titulo": "Photos by Kwaf Beauty (@kwaf_beauty) · January 9, 2026",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQklfCm0BL9TTjaSvfAao80bnsivECyGsapvQ&s",
+      "original": "https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3806540020404731919"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/cup/ha/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUKAl0hlnZhwCDEqJI-F-xISdTXHdlKAsOMg&s",
+      "fuentePagina": "https://www.behance.net/gallery/81104213/KWAF",
+      "titulo": "KWAF :: Behance",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUKAl0hlnZhwCDEqJI-F-xISdTXHdlKAsOMg&s",
+      "original": "https://mir-s3-cdn-cf.behance.net/project_modules/max_632_webp/c95d4081104213.5cf54f0595532.jpg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/cup/ha/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1bVx3Y-gzmnGRdUJHw6M6Ge0-nTfGIpNtHA&s",
+      "fuentePagina": "https://www.facebook.com/ismaeel.jadeed/posts/shugaban-binciken-kwaf-kwaf-na-duniya-baki-daya-a-cikin-shirin-wata-shidadirecto/1561058564880501/",
+      "titulo": "Shugaban binciken kwaf kwaf na duniya baki daya, a cikin ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1bVx3Y-gzmnGRdUJHw6M6Ge0-nTfGIpNtHA&s",
+      "original": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=1561058528213838"
+    }
+  ]
+}

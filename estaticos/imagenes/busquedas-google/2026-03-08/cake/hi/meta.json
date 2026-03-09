@@ -1,0 +1,71 @@
+{
+  "categoria": "cake",
+  "categoriaSlug": "cake",
+  "idioma": "hi",
+  "nombreIdioma": "हिन्दी",
+  "termino": "केक",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:16:35.564Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "hi",
+    "gl": "in"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=%E0%A4%95%E0%A5%87%E0%A4%95&hl=hi&gl=in",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/cake/hi/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1oOtnb0FMHoH5hl3vwDx7TvDM0da4WBHbrg&s",
+      "fuentePagina": "https://hindi.news18.com/news/lifestyle/recipe-new-year-2023-cake-recipe-how-to-make-best-easy-homemade-cakes-chocolate-cake-in-hindi-5089661.html",
+      "titulo": "चॉकलेट केक",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1oOtnb0FMHoH5hl3vwDx7TvDM0da4WBHbrg&s",
+      "original": "https://images.news18.com/ibnkhabar/uploads/2022/12/chocolate-cake.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/cake/hi/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShg3Ex2v5VhG6LXXhb91EU6PpkNF0Ed-4VOQ&s",
+      "fuentePagina": "https://hi.theperfectgift.ae/%E0%A4%89%E0%A4%A4%E0%A5%8D%E0%A4%AA%E0%A4%BE%E0%A4%A6%E0%A5%8B%E0%A4%82/%E0%A4%B2%E0%A4%BE%E0%A4%B2-%E0%A4%A6%E0%A4%BF%E0%A4%B2-%E0%A4%95%E0%A5%87%E0%A4%95-%E0%A4%A6%E0%A5%81%E0%A4%AC%E0%A4%88",
+      "titulo": "वैलेंटाइन रेड हार्ट केक - दुबई ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShg3Ex2v5VhG6LXXhb91EU6PpkNF0Ed-4VOQ&s",
+      "original": "https://theperfectgift.ae/cdn/shop/files/IMG_5986.jpg?v=1749480366"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/cake/hi/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiZeSZiJKngKQ8rwza699yOXpUZgeDXDp_Yg&s",
+      "fuentePagina": "https://www.youtube.com/watch?v=5tOWEzezu5o",
+      "titulo": "Easy & Quick Birthday Cake | मिनटों में बनाये बर्थडे केक वो भी ब्रेड से |  Eggless Instant Cake",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiZeSZiJKngKQ8rwza699yOXpUZgeDXDp_Yg&s",
+      "original": "https://i.ytimg.com/vi/5tOWEzezu5o/maxresdefault.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/cake/hi/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2Ouq09UTRau7cLRaiJZO6NgghAjmVw2yHzQ&s",
+      "fuentePagina": "https://hi.theperfectcake.ae/products/pretty-in-pink-princess-design-cake",
+      "titulo": "प्रिंसेस 3डी केक - यूएई में ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2Ouq09UTRau7cLRaiJZO6NgghAjmVw2yHzQ&s",
+      "original": "https://theperfectcake.ae/cdn/shop/products/princess-cake-birthday-uae.jpg?v=1650526832"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/cake/hi/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8KlcOJ7mXDrcnpUnNJ9A3CFUfZbDxFsEUZQ&s",
+      "fuentePagina": "https://hi.theperfectcake.ae/products/pink-pastel-design-cake",
+      "titulo": "गुलाबी चॉकलेट केक - उसके लिए ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8KlcOJ7mXDrcnpUnNJ9A3CFUfZbDxFsEUZQ&s",
+      "original": "https://theperfectcake.ae/cdn/shop/products/design-cakes-uae.jpg?v=1650526844"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/cake/hi/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTPs4V5KnIpjEJGjvdcgVK28yxpC_NCVnlUg&s",
+      "fuentePagina": "https://www.tradeindia.com/hi/products/3-tier-strawberry-cake-5751561.html",
+      "titulo": "3 टियर स्ट्राबेरी केक सबसे अच्छी ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTPs4V5KnIpjEJGjvdcgVK28yxpC_NCVnlUg&s",
+      "original": "https://tiimg.tistatic.com/fp/1/005/751/3-tier-strawberry-cake-561.jpg"
+    }
+  ]
+}

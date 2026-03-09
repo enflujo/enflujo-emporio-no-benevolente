@@ -1,0 +1,71 @@
+{
+  "categoria": "refrigerator",
+  "categoriaSlug": "refrigerator",
+  "idioma": "en",
+  "nombreIdioma": "English",
+  "termino": "refrigerator",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:27:20.853Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "en",
+    "gl": "us"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=refrigerator&hl=en&gl=us",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/refrigerator/en/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNmERuiy8SD_L3WiOwO4eOINrKGYyUemb4VA&s",
+      "fuentePagina": "https://www.walmart.com/ip/SMAD-22-5-Cu-ft-French-Door-Refrigerator-Freezer-Automatic-Ice-Maker-Food-Storage-Stainless-Steel/760043155",
+      "titulo": "SMAD 22.5 Cu ft French Door Refrigerator/Freezer, Automatic ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNmERuiy8SD_L3WiOwO4eOINrKGYyUemb4VA&s",
+      "original": "https://i5.walmartimages.com/seo/SMAD-22-5-Cu-ft-French-Door-Refrigerator-Freezer-Automatic-Ice-Maker-Food-Storage-Stainless-Steel_c2143962-bf46-4d75-b56b-24fcc2687a0d.3f9f82a84875470941e12f15620cad45.jpeg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/refrigerator/en/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6P-KoYprF35_yHqCHacx9ZquKuprdRCAsvA&s",
+      "fuentePagina": "https://www.warnersstellian.com/product/10002/kitchenaid-krbl102ess?srsltid=AfmBOooU60aQj-w1QxEGhQyTh0IKnnPZ_D6bEw_ReD-IuywEqDcpCOIS",
+      "titulo": "KitchenAid KRBL102ESS 33\" Stainless Steel Bottom Freezer ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6P-KoYprF35_yHqCHacx9ZquKuprdRCAsvA&s",
+      "original": "https://images.webfronts.com/cache/mebcjfpxhrlq.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/refrigerator/en/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9i8yIBsQypjNzexk0ofIC2-zSiMybew5dkQ&s",
+      "fuentePagina": "https://www.nytimes.com/wirecutter/reviews/the-best-refrigerator/",
+      "titulo": "14 Best Refrigerators of 2026 | Reviews by Wirecutter",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9i8yIBsQypjNzexk0ofIC2-zSiMybew5dkQ&s",
+      "original": "https://cdn.thewirecutter.com/wp-content/media/2024/09/BEST-REFRIGERATOR-2048px-3x2-1.jpg?auto=webp&quality=75&crop=4:3,smart&width=1024"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/refrigerator/en/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6ARvRPcRk-NtFR906N9WB7KgQf_KydMr2qQ&s",
+      "fuentePagina": "https://www.homedepot.com/p/GE-27-cu-ft-French-Door-Refrigerator-in-Fingerprint-Resistant-Stainless-with-Internal-Dispenser-ENERGY-STAR-GNE27JYMFS/320243591",
+      "titulo": "GE 27 cu. ft. French Door Refrigerator in Fingerprint ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6ARvRPcRk-NtFR906N9WB7KgQf_KydMr2qQ&s",
+      "original": "https://images.thdstatic.com/productImages/78bbf8b5-4754-4c64-9fee-a7083058d696/svn/fingerprint-resistant-stainless-steel-ge-french-door-refrigerators-gwe22jymfs-64_600.jpg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/refrigerator/en/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBG1iJjWqgDUAc1_L8_GYtzEq1O9YaLMFjjA&s",
+      "fuentePagina": "https://www.brandsmartusa.com/whirlpool/231134/18-cuft-top-freezer-refrigerator.htm?srsltid=AfmBOoqub9-zXtLqpg7T4ZdGFJSU2TU9iNfzaUEIvBHneoHLVs-Wz_Nt",
+      "titulo": "Whirlpool WRT318FMDM 18 CuFt Top Freezer Refrigerator in ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBG1iJjWqgDUAc1_L8_GYtzEq1O9YaLMFjjA&s",
+      "original": "https://www.brandsmartusa.com/syndigo/images/product/large/26f69d81-574e-455b-ab18-616f6082734b.webp"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/refrigerator/en/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1Y0wogoo7OLD3uXniiVN6MILp_Vn7VPCocw&s",
+      "fuentePagina": "https://www.lowes.com/pd/Whirlpool-36-Inch-Wide-French-Door-Refrigerator/5015438105",
+      "titulo": "Whirlpool 24.5-cu ft 4-Door French Door Refrigerator with ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1Y0wogoo7OLD3uXniiVN6MILp_Vn7VPCocw&s",
+      "original": "https://mobileimages.lowes.com/productimages/1391dbfb-618d-4268-9cd6-a4cc9cfc5440/67594705.jpeg?size=pdhism"
+    }
+  ]
+}

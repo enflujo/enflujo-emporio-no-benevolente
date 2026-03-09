@@ -1,0 +1,71 @@
+{
+  "categoria": "backpack",
+  "categoriaSlug": "backpack",
+  "idioma": "zu",
+  "nombreIdioma": "isiZulu",
+  "termino": "umgwembe",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T20:56:25.878Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "zu",
+    "gl": "za"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=umgwembe&hl=zu&gl=za",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/backpack/zu/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcxgzMGrYmbQLBYsUw-laEGCMbIScEdTntQw&s",
+      "fuentePagina": "https://www.alamy.com/stock-photo/umgcwembe.html",
+      "titulo": "Umgcwembe hi-res stock photography and images - Alamy",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcxgzMGrYmbQLBYsUw-laEGCMbIScEdTntQw&s",
+      "original": "https://l450v.alamy.com/450v/2an9pw8/delicious-food-from-eswatini-called-umgcwembe-africa-2an9pw8.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/backpack/zu/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRR8102kA7QY72CWiZogXRqYSB5ZKWKZhIM_A&s",
+      "fuentePagina": "https://www.rrtraders.com/Carvings/umcwembe.htm",
+      "titulo": "Handcarved Dishes",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRR8102kA7QY72CWiZogXRqYSB5ZKWKZhIM_A&s",
+      "original": "https://www.rrtraders.com/Carvings/platter1.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/backpack/zu/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQedgM96tN4kIJq-Ife1V1wp6RcImv9YNhnEA&s",
+      "fuentePagina": "https://www.instagram.com/umcwembe_braai/",
+      "titulo": "Umcwembe Braai (@umcwembe_braai) • Instagram photos and videos",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQedgM96tN4kIJq-Ife1V1wp6RcImv9YNhnEA&s",
+      "original": "https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=2920564863052214158"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/backpack/zu/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDVpXqQxdTvgFl3ghCYY6Gs5k90uNXA4_tFA&s",
+      "fuentePagina": "https://www.tiktok.com/@mahlahlakamtikitwa/video/7552914981847600396",
+      "titulo": "ugqokozn #umgwembe #ugqoko #ThinkingOutLoud | TikTok",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDVpXqQxdTvgFl3ghCYY6Gs5k90uNXA4_tFA&s",
+      "original": "https://www.tiktok.com/api/img/?itemId=7552914981847600396&location=0&aid=1988"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/backpack/zu/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSm3twNzkADY8mOiFpJbYxrbm4SmkjlqZDjmg&s",
+      "fuentePagina": "https://www.facebook.com/gogoeswatini/posts/if-food-be-the-music-of-love-play-ontijolojolo-kutawube-kubusaphasapha-e-manteng/1412619150655257/",
+      "titulo": "If food be the music of love, play on!!!” Tijolojolo ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSm3twNzkADY8mOiFpJbYxrbm4SmkjlqZDjmg&s",
+      "original": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=1412617763988729"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/backpack/zu/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqSYapiBpkwzBZWfQ8V2soJDEaIhPC2dlBOQ&s",
+      "fuentePagina": "https://www.tiktok.com/@brookside.lodge.e/video/7524680007143214344",
+      "titulo": "Delicious Lunch at Brookside Lodge in Malkerns",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqSYapiBpkwzBZWfQ8V2soJDEaIhPC2dlBOQ&s",
+      "original": "https://www.tiktok.com/api/img/?itemId=7524680007143214344&location=0&aid=1988"
+    }
+  ]
+}

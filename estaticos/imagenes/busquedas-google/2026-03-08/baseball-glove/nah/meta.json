@@ -1,0 +1,71 @@
+{
+  "categoria": "baseball glove",
+  "categoriaSlug": "baseball-glove",
+  "idioma": "nah",
+  "nombreIdioma": "Náhuatl",
+  "termino": "guante",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:03:50.221Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "es",
+    "gl": "mx"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=guante&hl=es&gl=mx",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/baseball-glove/nah/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPWp1dS1Ad30o_cMM_KRDSG7UIlUwiQOLbNw&s",
+      "fuentePagina": "https://safetydepot.com.mx/products/b183rg-l?srsltid=AfmBOoqxaAMlW3vYC3pU2i2cQjWhy5VdHeb-TZsr-s_sNnRbZOGjORVi",
+      "titulo": "Guante de piel con resorte modelo B183RGL marca LICA",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPWp1dS1Ad30o_cMM_KRDSG7UIlUwiQOLbNw&s",
+      "original": "http://safetydepot.com.mx/cdn/shop/products/7500462422301_L_1200x1200.jpg?v=1616025266"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/baseball-glove/nah/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQuDRh8C8zOhG36hi0XJHJ9_-vwo1syIenrg&s",
+      "fuentePagina": "https://www.safetystore.mx/guante-latex-rojo-c-f/p",
+      "titulo": "Guantes de látex DermaCare 56-131 uso doméstico 18mm rojos Talla 7",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQuDRh8C8zOhG36hi0XJHJ9_-vwo1syIenrg&s",
+      "original": "https://safetystoremx.vtexassets.com/arquivos/ids/177380/56-131-1.jpg?v=638905501655730000"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/baseball-glove/nah/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRp2QMBtTHxvZU_hZYIDXxU05T5uV5k0mPZcw&s",
+      "fuentePagina": "https://surpesa.com.mx/products/guantes-p-jardineria-medianos-truper-15266-gu-jar-m",
+      "titulo": "GUANTES P/JARDINERIA MEDIANOS TRUPER (15266) GU-JAR-M",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRp2QMBtTHxvZU_hZYIDXxU05T5uV5k0mPZcw&s",
+      "original": "http://surpesa.com.mx/cdn/shop/files/surpesa-17300c9b.jpg?v=1719356962"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/baseball-glove/nah/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmxgP5tIDjbknNg5xLxMxOOXcOYOYZ3SvQ7g&s",
+      "fuentePagina": "https://sersa.mx/proteccion-de-manos/-153/?srsltid=AfmBOorZYs-6HdIo6kF2Md2jiTGEkK39U62_h1_AaWpCpqH1ZgJhyLC1",
+      "titulo": "Guante de Poliéster con Recubrimiento de Nitrilo Gris PIP GT ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmxgP5tIDjbknNg5xLxMxOOXcOYOYZ3SvQ7g&s",
+      "original": "https://cdn11.bigcommerce.com/s-lirzegtuuj/images/stencil/1280x1280/products/5721/9840/PIPC225NBPXS__98983.1660599201.png?c=1"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/baseball-glove/nah/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRh9q_-lJ6lTBmwvE2MDaYH_YyFjMO3XzdFmA&s",
+      "fuentePagina": "https://www.byp.com.mx/products/guantes-nylon-nitrilo-negros?srsltid=AfmBOopMqf_o16gxlydNCbovIL1P_2BodmvtDkZj5Fc_b2clhisVZlUJ",
+      "titulo": "GUANTES NYLON NITRILO NEGROS",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRh9q_-lJ6lTBmwvE2MDaYH_YyFjMO3XzdFmA&s",
+      "original": "http://www.byp.com.mx/cdn/shop/files/GNB08_GUANTE-DE-NYLON-NITRILO-NEGRO-M.jpg?v=1698183631&width=2048"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/baseball-glove/nah/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6yC1Wd58S_7jaQw8tmuyFGZgr1uMfOojLEw&s",
+      "fuentePagina": "https://forticlean.mx/products/guante-nitrilo?srsltid=AfmBOooqgBHGSsEWvrB1GAfRONhBgCajlNRF5qzx38uorssqdDtQ7MGn",
+      "titulo": "GUANTE DE NITRILO - CAJA",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6yC1Wd58S_7jaQw8tmuyFGZgr1uMfOojLEw&s",
+      "original": "http://forticlean.mx/cdn/shop/files/0101_5148e7d0-69dd-445c-9a41-3efa4371f90f.png?v=1714434127"
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "categoria": "bottle",
+  "categoriaSlug": "bottle",
+  "idioma": "yo",
+  "nombreIdioma": "Yorùbá",
+  "termino": "ìgò",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:06:10.897Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "yo",
+    "gl": "ng"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=%C3%ACg%C3%B2&hl=yo&gl=ng",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bottle/yo/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDpsQARCwV6WFWnXr9JYvZawqmGmjOGKT1Cw&s",
+      "fuentePagina": "https://www.choebe.com/yo/serum-bottle-cream-jar-eye-cream-pot-set-product/",
+      "titulo": "Igo omi ara China + Igo ipara + Ikoko ipara oju | Choebe",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDpsQARCwV6WFWnXr9JYvZawqmGmjOGKT1Cw&s",
+      "original": "https://ecdn6.globalso.com/upload/p/112/image_other/2026-01/serum-bottle-cream-jar-eye-cream-pot-set.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bottle/yo/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpyPnqCnAncAVW842qJjAv5QnV17LH5KqpVw&s",
+      "fuentePagina": "https://www.instagram.com/reel/DSLoA7_jNu1/",
+      "titulo": "📢 Day 296 of 365 One Yoruba Word A Day, 🎤 Presented by: @lingoberryltd,  🗣️ Yoruba Word: ÌGÒ, 📝 Meaning in English: Bottle/glass bottle , 🔊  Listen, learn, and repeat! Try using ÌGÒ in a sentence today. ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpyPnqCnAncAVW842qJjAv5QnV17LH5KqpVw&s",
+      "original": "https://lookaside.fbsbx.com/lookaside/crawler/instagram/DSLoA7_jNu1/0/image.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bottle/yo/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRoSNUTmuh95e1cf6OxiwG9SeGxrW9PpVBJqA&s",
+      "fuentePagina": "https://www.ansixtech.com/yo/news/cold-water-jug-mold/",
+      "titulo": "Mọ́dì ìgò omi tútù - Ansix",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRoSNUTmuh95e1cf6OxiwG9SeGxrW9PpVBJqA&s",
+      "original": "https://ecdn6.globalso.com/upload/p/936/image_other/2026-01/9-67.png"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bottle/yo/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSluK9Z7miEdZoTRASHN9SGr8N51xOdCyKjfg&s",
+      "fuentePagina": "https://www.choebe.com/yo/serum-bottle-cream-jar-eye-cream-pot-set-product/",
+      "titulo": "Igo omi ara China + Igo ipara + Ikoko ipara oju | Choebe",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSluK9Z7miEdZoTRASHN9SGr8N51xOdCyKjfg&s",
+      "original": "https://ecdn6.globalso.com/upload/p/112/image_other/2026-01/c096a1-wide-mouth-cream-jar.jpg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bottle/yo/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7Z8Kw7ZzwktL6RCywQYHsSwBiGBmikfLruQ&s",
+      "fuentePagina": "https://www.topfeelpack.com/yo/airless-pump-bottle-for-skincare-product/",
+      "titulo": "Igo Pump Afẹfẹ 30ml 50ml fun awọn olupese ati awọn olupese ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7Z8Kw7ZzwktL6RCywQYHsSwBiGBmikfLruQ&s",
+      "original": "https://cdnus.globalso.com/topfeelpack/PA164-Airless-pump-bottle-1.jpg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bottle/yo/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNjP6Rieo13lq9LNxJ9zPWgUiseF6ZLPcBVQ&s",
+      "fuentePagina": "https://www.kandacork.com/yo/aw%E1%BB%8Dn-igo-%E1%BA%B9mi/tequila-igo-jara/",
+      "titulo": "Olùpèsè ìgò Tequila & Mezcal fún àwọn ọjà Agave | Kandacork",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNjP6Rieo13lq9LNxJ9zPWgUiseF6ZLPcBVQ&s",
+      "original": "https://www.kandacork.com/wp-content/uploads/2026/01/Tequila-Mezcal-Packaging-That-Works-as-a-System.jpg"
+    }
+  ]
+}

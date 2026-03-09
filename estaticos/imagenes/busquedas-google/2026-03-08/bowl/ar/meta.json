@@ -1,0 +1,71 @@
+{
+  "categoria": "bowl",
+  "categoriaSlug": "bowl",
+  "idioma": "ar",
+  "nombreIdioma": "العربية",
+  "termino": "وعاء",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:10:12.316Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "ar",
+    "gl": "eg"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=%D9%88%D8%B9%D8%A7%D8%A1&hl=ar&gl=eg",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bowl/ar/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJWZwxjxj8nS40q1id_7zR0N-09BOWqmW5PA&s",
+      "fuentePagina": "https://www.mdesignegy.com/ar/products/%D9%88%D8%B9%D8%A7%D8%A1-%D8%AE%D9%84%D8%B7-%D9%83%D8%A8%D9%8A%D8%B1-3-4-%D9%84%D8%AA%D8%B1?srsltid=AfmBOore2RQid5Mf48pfhM7TGo4GKiPxJjgDOHU0N51GJaGZvRWiYefl",
+      "titulo": "وعاء خلط - كبير - 3.4 لتر – M-Design Egypt",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJWZwxjxj8nS40q1id_7zR0N-09BOWqmW5PA&s",
+      "original": "https://www.mdesignegy.com/cdn/shop/products/m-design-202278995_0003_m-design-202278996.png?v=1764582281&width=1946"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bowl/ar/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZEtTcJuzCQHzMJ3vaC4Pi_wQjbHbhUDCL0Q&s",
+      "fuentePagina": "https://www.amazon.eg/%D9%88%D8%B9%D8%A7%D8%A1-%D8%B2%D8%AC%D8%A7%D8%AC%D9%8A-%D8%AF%D8%A7%D8%A6%D8%B1%D9%8A-%D8%B9%D9%85%D9%8A%D9%82-%D9%85%D9%82%D8%A7%D8%B3/dp/B005GUCTKS",
+      "titulo": "وعاء زجاجي دائري عميق مقاس 24 سم - شفاف من بورجونوفو ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZEtTcJuzCQHzMJ3vaC4Pi_wQjbHbhUDCL0Q&s",
+      "original": "https://m.media-amazon.com/images/I/61JNdCOh4mL.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bowl/ar/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8izQqaqPJu1pjOt5YRv3W-iG-bC0-AxytLw&s",
+      "fuentePagina": "https://kenzz.com/product/89WL3K2TPZKS/%D9%88%D8%B9%D8%A7%D8%A1-%D8%AA%D9%82%D8%AF%D9%8A%D9%85-%D8%B3%D8%AA%D8%A7%D9%86%D9%84%D8%B3-%D8%B3%D8%AA%D9%8A%D9%84-2-%D9%84%D8%AA%D8%B1-%D9%81%D8%B6%D9%8A?srsltid=AfmBOopLI5gN74eOEvMYCLBnkghGcQkTtOMrw9_EdTM9KZipnNKFw8J3",
+      "titulo": "وعاء تقديم ستانلس ستيل - 2 لتر - فضي",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8izQqaqPJu1pjOt5YRv3W-iG-bC0-AxytLw&s",
+      "original": "https://assets.kenzz.com/products/462578/001_IKEA1-145.jpeg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bowl/ar/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQc4yIoNAfxDHkbQl1Y_7L7nHuvNCuTnbL29w&s",
+      "fuentePagina": "https://www.amazon.eg/%D9%88%D8%B9%D8%A7%D8%A1-%D8%B3%D8%AA%D8%A7%D9%86%D9%84%D8%B3-%D8%B3%D8%AA%D9%8A%D9%84-%D8%A7%D9%85-%D8%AA%D9%8A/dp/B08YY2R32Q",
+      "titulo": "وعاء ستانلس ستيل من ام تي - 30 سم، فضي، عدد القطع: 1 : Amazon.eg: المنزل  والمطبخ",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQc4yIoNAfxDHkbQl1Y_7L7nHuvNCuTnbL29w&s",
+      "original": "https://m.media-amazon.com/images/I/51DQLATzMaL._AC_UF894,1000_QL80_.jpg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bowl/ar/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgGHz17ddgrFVZIuea1ojjpimqyv4lUT0Odg&s",
+      "fuentePagina": "https://www.jumia.com.eg/ar/generic-large-soup-bowls-white-ramen-bowls-for-noodles-2-pcs-104728714.html?srsltid=AfmBOoo-GxPFaCHiHLOV4OjN6krI6qTtb0CmYuei2sn7eeS3fYZRemAW",
+      "titulo": "مجموعة من 2 وعاء كبير وعاء تقديم أبيض للحساء والرامين ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgGHz17ddgrFVZIuea1ojjpimqyv4lUT0Odg&s",
+      "original": "https://eg.jumia.is/unsafe/fit-in/500x500/filters:fill(white)/product/41/7827401/1.jpg?4472"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bowl/ar/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJi7QOlqOvX2CG4cAhSin-Iq5WpVR5RPfxGQ&s",
+      "fuentePagina": "https://sfaqat.com/ar/%D9%88%D8%B9%D8%A7%D8%A1-%D8%B3%D8%AA%D9%8A%D9%84%D9%86%D8%B3/p527284747?srsltid=AfmBOoqyCptDjGznFLHqrT5eMQg_ronScWstvoRQwD74Da4m2oNAyyhk",
+      "titulo": "وعاء فضي ستانلس ستيل مقاوم للصدأ فاخر | صفقات - صفقات ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJi7QOlqOvX2CG4cAhSin-Iq5WpVR5RPfxGQ&s",
+      "original": "https://cdn.salla.sa/WpooW/fda6add1-45fb-4bc0-93f5-2d2a46e6709a-1000x1000-nPkZZo0SmTjjkmyap8o4vMQ4banfm825acZ4BWWd.jpg"
+    }
+  ]
+}

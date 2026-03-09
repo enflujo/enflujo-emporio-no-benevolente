@@ -1,0 +1,71 @@
+{
+  "categoria": "bird",
+  "categoriaSlug": "bird",
+  "idioma": "ar",
+  "nombreIdioma": "العربية",
+  "termino": "طائر",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T20:49:55.793Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "ar",
+    "gl": "eg"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=%D8%B7%D8%A7%D8%A6%D8%B1&hl=ar&gl=eg",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bird/ar/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3Iga_1RtTVpYnejDiOf8JAcYaLQN0LZIJPg&s",
+      "fuentePagina": "https://ar.wikipedia.org/wiki/%D8%B7%D8%A7%D8%A6%D8%B1",
+      "titulo": "طائر - ويكيبيديا",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3Iga_1RtTVpYnejDiOf8JAcYaLQN0LZIJPg&s",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Bird_Diversity_2013.png/330px-Bird_Diversity_2013.png"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bird/ar/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_ifmH8e_QZzcljkHg2JW3uZKmuYiNzLVnUQ&s",
+      "fuentePagina": "https://www.aljazeera.net/science/2024/8/5/%D8%A7%D9%84%D9%85%D9%8A%D9%86%D8%A7-%D8%A7%D9%84%D9%87%D9%86%D8%AF%D9%8A-%D8%B7%D8%A7%D8%A6%D8%B1-%D8%B9%D8%AF%D9%88%D8%A7%D9%86%D9%8A-%D8%B4%D8%B1%D8%B3-%D9%8A%D8%BA%D8%B2%D9%88",
+      "titulo": "المينا الهندي.. طائر عدواني شرس يغزو العالم العربي | علوم ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_ifmH8e_QZzcljkHg2JW3uZKmuYiNzLVnUQ&s",
+      "original": "https://www.aljazeera.net/wp-content/uploads/2024/08/Acridotheres_tristis-1722780822.jpg?resize=770%2C513&quality=80"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bird/ar/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9I02ef1UizXJWlyLy9fzk1G0yQJB0fe9tNA&s",
+      "fuentePagina": "https://www.youm7.com/story/2020/4/15/%D8%A8%D9%8A%D8%A7%D9%83%D9%84-%D9%88%D9%8A%D8%B4%D8%B1%D8%A8-%D9%88%D9%8A%D9%86%D8%A7%D9%85-%D9%88%D9%8A%D8%AA%D8%AC%D9%88%D8%B2-%D9%81%D9%89-%D8%A7%D9%84%D9%87%D9%88%D8%A7-%D8%B7%D8%A7%D8%A6%D8%B1-%D9%8A%D9%82%D8%B6%D9%89-10-%D8%B4%D9%87%D9%88%D8%B1/4723105",
+      "titulo": "بياكل ويشرب وينام ويتجوز فى الهوا.. طائر يقضى 10 شهور طائرا خلال العام",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9I02ef1UizXJWlyLy9fzk1G0yQJB0fe9tNA&s",
+      "original": "https://img.youm7.com/ArticleImgs/2020/4/13/24746-%D8%A7%D9%84%D8%B7%D8%A7%D8%A6%D8%B1.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bird/ar/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSowNwzKmVBb-5R6k_QMfrARDbSCEJltC7w_A&s",
+      "fuentePagina": "https://ar.wikipedia.org/wiki/%D8%AD%D8%A8%D8%A7%D9%83",
+      "titulo": "حباك - ويكيبيديا",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSowNwzKmVBb-5R6k_QMfrARDbSCEJltC7w_A&s",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Lesser_Masked_Weaver_%28Ploceus_intermedius%29_%286035844600%29.jpg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bird/ar/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQp3aUuDP2Y9_dnxuR_77vBMeXq7yaI-7cgdA&s",
+      "fuentePagina": "https://birdsforarabs.com/%D8%B7%D8%A7%D8%A6%D8%B1-%D8%A7%D9%84%D8%B1%D8%A7%D9%8A%D8%A9-%D8%A7%D9%84%D9%85%D9%84%D9%88%D9%86%D8%A9/",
+      "titulo": "طائر الراية الملونة من اكثر العصافير جمالا حول الارض كل ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQp3aUuDP2Y9_dnxuR_77vBMeXq7yaI-7cgdA&s",
+      "original": "https://birdsforarabs.com/wp-content/uploads/2017/10/Painted-Bunting-bird.jpg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bird/ar/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRapglLuHJ1QcKT89-7K6dhZxTYOeppCCvk0g&s",
+      "fuentePagina": "https://www.aljazeera.net/science/2019/3/15/%D8%B7%D9%8A%D9%88%D8%B1-%D8%A7%D9%84%D8%B3%D9%85%D8%A7%D9%85-%D9%81%D9%8A-%D8%A7%D9%84%D8%AC%D9%88-%D8%AA%D8%A3%D9%83%D9%84-%D9%88%D8%AA%D9%86%D8%A7%D9%85",
+      "titulo": "هذا الطائر لا يهبط على الأرض إلا للتزاوج | أخبار علوم ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRapglLuHJ1QcKT89-7K6dhZxTYOeppCCvk0g&s",
+      "original": "https://www.aljazeera.net/wp-content/uploads/2019/03/dc8313a8-95f1-43d1-80ed-53252cd2d64c.jpeg?resize=770%2C513&quality=80"
+    }
+  ]
+}

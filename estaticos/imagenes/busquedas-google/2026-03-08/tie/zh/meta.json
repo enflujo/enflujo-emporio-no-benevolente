@@ -1,0 +1,71 @@
+{
+  "categoria": "tie",
+  "categoriaSlug": "tie",
+  "idioma": "zh",
+  "nombreIdioma": "中文",
+  "termino": "领带",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T20:58:36.823Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "zh-CN",
+    "gl": "cn"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=%E9%A2%86%E5%B8%A6&hl=zh-CN&gl=cn",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/tie/zh/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXWJicwXfYjuFRXJLAgomz6QYsAvghmv0bmw&s",
+      "fuentePagina": "https://aoki-global.com/zh/blogs/topics-men/2310041130",
+      "titulo": "初学者必看！4种超实用领带打法| AOKI GLOBAL官网商店",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXWJicwXfYjuFRXJLAgomz6QYsAvghmv0bmw&s",
+      "original": "https://cdn.shopify.com/s/files/1/0790/7501/7011/files/241122_pickup_image-02.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/tie/zh/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHPvG0lOM36u91Etu5UfAqX4eHnwQoE64TAw&s",
+      "fuentePagina": "https://aoki-global.com/zh/blogs/topics-men/2310041130",
+      "titulo": "初学者必看！4种超实用领带打法| AOKI GLOBAL官网商店",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHPvG0lOM36u91Etu5UfAqX4eHnwQoE64TAw&s",
+      "original": "https://cdn.shopify.com/s/files/1/0790/7501/7011/files/241122_pickup_simple_knot-01.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/tie/zh/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZnNd3dpe5gVKrmGXtnAE_83G_t86kIClPjg&s",
+      "fuentePagina": "https://zhuanlan.zhihu.com/p/34889123",
+      "titulo": "男士怎样打领带？5种打法让你帅出新高度- 知乎",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZnNd3dpe5gVKrmGXtnAE_83G_t86kIClPjg&s",
+      "original": "https://picx.zhimg.com/v2-41f47d4afc4d8785aed1a4dfa8632b81_720w.jpg?source=172ae18b"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/tie/zh/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTeK0lGCf594-uJQKOovinaw8kAxCt6iew5g&s",
+      "fuentePagina": "https://aoki-global.com/zh/blogs/topics-men/2310041130",
+      "titulo": "初学者必看！4种超实用领带打法| AOKI GLOBAL官网商店",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTeK0lGCf594-uJQKOovinaw8kAxCt6iew5g&s",
+      "original": "https://cdn.shopify.com/s/files/1/0790/7501/7011/files/241122_pickup_image-03.jpg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/tie/zh/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMY5zIXxVSrkHdZCyNpzlLKrzjMiKi4cQa8Q&s",
+      "fuentePagina": "https://www.luxurywatcher.com/zh-Hans/article/27286",
+      "titulo": "盘点世界最贵的五条领带- 世界高级品LuxuryWatcher",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMY5zIXxVSrkHdZCyNpzlLKrzjMiKi4cQa8Q&s",
+      "original": "https://luxurywatcher.com/uploads/article/2/7/27286/catalogImg27286.png"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/tie/zh/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3IssRTBAqvZy_dBFDGBvEANNL7LfVT8AzOw&s",
+      "fuentePagina": "https://www.dior.cn/zh_cn/fashion/products/03C1047A0330_C522",
+      "titulo": "Dior 印花领带蓝色桑蚕丝面料Oblique 印花| DIOR",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3IssRTBAqvZy_dBFDGBvEANNL7LfVT8AzOw&s",
+      "original": "https://assets.christiandior.cn/is/image/diorprod/03C1047A0330C522_SBG_E01-1?$r9x10_raw$&crop=0,0,4000,5000&wid=1850&hei=2000&scale=1&bfc=on&qlt=85"
+    }
+  ]
+}

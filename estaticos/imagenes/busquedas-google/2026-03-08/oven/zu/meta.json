@@ -1,0 +1,71 @@
+{
+  "categoria": "oven",
+  "categoriaSlug": "oven",
+  "idioma": "zu",
+  "nombreIdioma": "isiZulu",
+  "termino": "ioveni",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:25:44.101Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "zu",
+    "gl": "za"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=ioveni&hl=zu&gl=za",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/oven/zu/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIap1meJNrN9vC9S6A8z8DdN48Urlx0hqnTQ&s",
+      "fuentePagina": "http://xh.jhdsonic.com/industrial-electric-oven-hot-air-circulation-oven-double-door-drying-temperature-control-electric-oven-2-product/",
+      "titulo": "I-oveni yombane yoShishino lwaseTshayina I-oveni ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIap1meJNrN9vC9S6A8z8DdN48Urlx0hqnTQ&s",
+      "original": "http://www.jhdsonic.com/uploads/Industrial-electric-oven-Hot-air-circulation-oven-Double-door-drying-temperature-control-electric-oven-51.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/oven/zu/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkPgpu7lD7kDwumokprY29tbDsHEtTAtCYiw&s",
+      "fuentePagina": "https://xhosa.rtkkitchen.com/Baking-oven/commercial-industrial-bakery-electric-bread-baking-ovens-pizza-oven-1-deck-2-trays-baking-oven",
+      "titulo": "Ishishini lezoRhwebo lokubhaka izonka zokubhaka ii-oveni ze ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkPgpu7lD7kDwumokprY29tbDsHEtTAtCYiw&s",
+      "original": "https://www.rtkkitchen.com/upload/product/1715756966446163.png"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/oven/zu/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmk4UKftMk-Zq6zpWwgF8DC9qqPtZxf7av3w&s",
+      "fuentePagina": "https://www.dippingmaster.com/xh/drying-oven-equipment-with-double-door",
+      "titulo": "TSAUTOP i-oveni yokumisa enocango oluphindwe kabini ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmk4UKftMk-Zq6zpWwgF8DC9qqPtZxf7av3w&s",
+      "original": "https://imgbd.weyesimg.com/prod/moving/img/f8ad99ecfcca3e12bae444d8a4b97531/a21f89f552cbaf910f529929684943fc.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/oven/zu/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpmonEOW705aNamnXVfP7JdvH3sO7E7LYVWQ&s",
+      "fuentePagina": "http://xh.jhdsonic.com/industrial-electric-oven-hot-air-circulation-oven-double-door-drying-temperature-control-electric-oven-2-product/",
+      "titulo": "I-oveni yombane yoShishino lwaseTshayina I-oveni ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpmonEOW705aNamnXVfP7JdvH3sO7E7LYVWQ&s",
+      "original": "http://www.jhdsonic.com/uploads/Industrial-electric-oven-Hot-air-circulation-oven-Double-door-drying-temperature-control-electric-oven-41.jpg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/oven/zu/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4nNh0znJaANU66gu3_hzo6R-Ppn4XKnOeZA&s",
+      "fuentePagina": "http://xh.jhdsonic.com/industrial-electric-oven-hot-air-circulation-oven-double-door-drying-temperature-control-electric-oven-2-product/",
+      "titulo": "I-oveni yombane yoShishino lwaseTshayina I-oveni ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4nNh0znJaANU66gu3_hzo6R-Ppn4XKnOeZA&s",
+      "original": "http://www.jhdsonic.com/uploads/Industrial-electric-oven-Hot-air-circulation-oven-Double-door-drying-temperature-control-electric-oven-71.jpg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/oven/zu/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXsl5UJYlYiMHhq2hTg1m8zsSUEMavmdk5FA&s",
+      "fuentePagina": "http://xh.xingweicooker.com/oem-freestanding-gas-oven-automatic-pizza-oven-stainless-steel-painted-90x60cm-5-burners-product/",
+      "titulo": "China OEM steel stainless 90x60cm i-oven yegesi ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXsl5UJYlYiMHhq2hTg1m8zsSUEMavmdk5FA&s",
+      "original": "https://cdn.globalso.com/xingweicooker/P911-300x300.png"
+    }
+  ]
+}

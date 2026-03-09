@@ -1,0 +1,71 @@
+{
+  "categoria": "carrot",
+  "categoriaSlug": "carrot",
+  "idioma": "qu",
+  "nombreIdioma": "Quechua",
+  "termino": "zanahoria",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:14:09.068Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "es",
+    "gl": "pe"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=zanahoria&hl=es&gl=pe",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/carrot/qu/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFx80SQw3zIjlxuOEk9s9wP-EHGWGkyjGMDg&s",
+      "fuentePagina": "https://www.freepik.es/fotos-vectores-gratis/zanahoria",
+      "titulo": "Imágenes de Zanahoria - Descarga gratuita en Freepik",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFx80SQw3zIjlxuOEk9s9wP-EHGWGkyjGMDg&s",
+      "original": "https://img.freepik.com/vector-gratis/ilustracion-vector-zanahoria-vibrante_1308-178384.jpg?w=360"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/carrot/qu/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDH74leA8h3ufNgIkjOCJJPzWFEvKcEAy2cQ&s",
+      "fuentePagina": "https://verduras.consumer.es/zanahoria/introduccion",
+      "titulo": "Zanahoria | Introducción | Verduras y hortalizas | EROSKI ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDH74leA8h3ufNgIkjOCJJPzWFEvKcEAy2cQ&s",
+      "original": "https://verduras.consumer.es/sites/verduras/files/styles/pagina_cabecera_desktop/public/2025-05/zanahoria_0.webp?h=1e66e246&itok=ekbnPp6C"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/carrot/qu/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvw4HRYoFnIeNKqjJe0kXKd_gZdMKzurOVRg&s",
+      "fuentePagina": "https://www.trevijano.com/ingredientes/zanahoria/",
+      "titulo": "Zanahoria - Trevijano",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvw4HRYoFnIeNKqjJe0kXKd_gZdMKzurOVRg&s",
+      "original": "https://www.trevijano.com/wp-content/uploads/Zanahoria.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/carrot/qu/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGJF888yyE492i4A8sq-bPWL-V4qs9lhffmw&s",
+      "fuentePagina": "https://www.shutterstock.com/es/search/zanahoria?image_type=illustration",
+      "titulo": "Zanahoria: Más de 386 mil ilustraciones y dibujos de stock ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGJF888yyE492i4A8sq-bPWL-V4qs9lhffmw&s",
+      "original": "https://www.shutterstock.com/image-vector/fresh-vibrant-illustration-three-orange-260nw-2598098513.jpg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/carrot/qu/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTj7cHZflHkwq7iwpaDgPiTOFQLTDV1CEfjxw&s",
+      "fuentePagina": "https://elpoderdelconsumidor.org/2021/05/el-poder-de-la-zanahoria/",
+      "titulo": "El poder de... La zanahoria - El Poder del Consumidor",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTj7cHZflHkwq7iwpaDgPiTOFQLTDV1CEfjxw&s",
+      "original": "https://elpoderdelconsumidor.org/wp-content/uploads/2021/05/zanahorias.png"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/carrot/qu/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2EYp4lg3r_mz7A_K21PwO5seZNZNxM-uKLQ&s",
+      "fuentePagina": "https://www.cocinatis.com/como-cocinar/consejos-trucos/propiedades-de-la-zanahoria.html",
+      "titulo": "Beneficios derivados del consumo de la zanahoria",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2EYp4lg3r_mz7A_K21PwO5seZNZNxM-uKLQ&s",
+      "original": "https://static.bainet.es/clip/0630cf8c-6aab-4d07-a5fd-0006af81940c_source-aspect-ratio_1600w_0.jpg"
+    }
+  ]
+}

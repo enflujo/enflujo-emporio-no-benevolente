@@ -1,0 +1,71 @@
+{
+  "categoria": "teddy bear",
+  "categoriaSlug": "teddy-bear",
+  "idioma": "en",
+  "nombreIdioma": "English",
+  "termino": "teddy bear",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:30:48.824Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "en",
+    "gl": "us"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=teddy%20bear&hl=en&gl=us",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/teddy-bear/en/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQJON4Qrpqh_ZnCpUgcc_xeYfFP7T-lcAFbQ&s",
+      "fuentePagina": "https://www.amazon.com/SHAFISH-Plush-Stuffed-Animal-Children/dp/B09G2RK8VW",
+      "titulo": "Amazon.com: SHAFISH Cute Plush Teddy Bear Stuffed Animal ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQJON4Qrpqh_ZnCpUgcc_xeYfFP7T-lcAFbQ&s",
+      "original": "https://m.media-amazon.com/images/I/61-qJABL20L._AC_UF894,1000_QL80_.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/teddy-bear/en/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSadrPYZ76PC7UloNhpw36-sz0wfLlbQXLRbQ&s",
+      "fuentePagina": "https://www.buildabear.com/bearlieve-teddy-bear/032069.html",
+      "titulo": "Bearlieve Teddy Bear",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSadrPYZ76PC7UloNhpw36-sz0wfLlbQXLRbQ&s",
+      "original": "https://www.buildabear.com/on/demandware.static/-/Sites-buildabear-master/default/dw68b2d509/34230700232069x20042065.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/teddy-bear/en/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSV_3D15cxZPWt5hkUrJkIp05CaCvv970AcMg&s",
+      "fuentePagina": "https://plushthis.com/products/cute-bear-stuffed-animals-with-wings?srsltid=AfmBOoqOosgCYl7SGn2dEuq1SvyxwSqOEYNlSNxhHjSfPeLFds7db9RE",
+      "titulo": "Warm Brown Creamy Beige Teddy Bears",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSV_3D15cxZPWt5hkUrJkIp05CaCvv970AcMg&s",
+      "original": "http://plushthis.com/cdn/shop/files/Warm-Brown_Creamy-Beige-Teddy-Bears_1.jpg?v=1743134691"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/teddy-bear/en/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSy-jy7ABZ1fY9kpq7IHO8O_M0qvXw05SRjqg&s",
+      "fuentePagina": "https://miamiflowerstore.com/products/pink-stuffed-teddy-bear-10-inch?srsltid=AfmBOopatn6n3v7oSCxjd_PjpmFUNmArG_Wa6fkUPQrMWcLamzlwdTIk",
+      "titulo": "11\" Pink Stuffed Teddy Bear",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSy-jy7ABZ1fY9kpq7IHO8O_M0qvXw05SRjqg&s",
+      "original": "https://miamiflowerstore.com/cdn/shop/files/1_93036ff9-6b75-4eb9-9b63-7da861b7c63e.webp?v=1771731884&width=1946"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/teddy-bear/en/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbb8Byor5sk_8CTX8STElzOndDcN8Xqv4X_g&s",
+      "fuentePagina": "https://www.walmart.com/ip/MorisMos-Giant-Teddy-Bear-4ft-Stuffed-Animal-Plush-Toy/1556395361",
+      "titulo": "MorisMos Giant Teddy Bear 4ft Stuffed Animal Plush Toy ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbb8Byor5sk_8CTX8STElzOndDcN8Xqv4X_g&s",
+      "original": "https://i5.walmartimages.com/seo/MorisMos-Giant-Teddy-Bear-4ft-Stuffed-Animal-Plush-Toy_6574c25e-a9b5-457c-9913-f138151ba325.4f8411bfb30e2254ca80fccf7e8b7923.jpeg?odnHeight=768&odnWidth=768&odnBg=FFFFFF"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/teddy-bear/en/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGgntD37oxvB6aLDGFe4QGd49Lt2hFBR5fGg&s",
+      "fuentePagina": "https://www.ebay.com/itm/195289989479",
+      "titulo": "10'' Plush Teddy Bear Stuffed Animal Doll Soft Plushies Toy Valentine's Day  Gift",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGgntD37oxvB6aLDGFe4QGd49Lt2hFBR5fGg&s",
+      "original": "https://i.ebayimg.com/images/g/-hkAAOSw4ohi4OJT/s-l1200.jpg"
+    }
+  ]
+}

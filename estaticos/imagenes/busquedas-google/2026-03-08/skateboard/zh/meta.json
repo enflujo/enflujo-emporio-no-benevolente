@@ -1,0 +1,71 @@
+{
+  "categoria": "skateboard",
+  "categoriaSlug": "skateboard",
+  "idioma": "zh",
+  "nombreIdioma": "中文",
+  "termino": "滑板",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:04:31.369Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "zh-CN",
+    "gl": "cn"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=%E6%BB%91%E6%9D%BF&hl=zh-CN&gl=cn",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/skateboard/zh/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIVzRiuhLWTlPiowfsb0EqWbFJY-3eYBkuQA&s",
+      "fuentePagina": "https://zh.wikipedia.org/zh-cn/%E6%BB%91%E6%9D%BF",
+      "titulo": "滑板- 维基百科，自由的百科全书",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIVzRiuhLWTlPiowfsb0EqWbFJY-3eYBkuQA&s",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/7/73/Skateboard_upside.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/skateboard/zh/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKQr1lv-qZ969UbnnvBTwWgWD6uRZdvgp3CQ&s",
+      "fuentePagina": "https://nanazero70.tw/pages/surfskate-complete-guide?srsltid=AfmBOooPwQQf8ig76KgS8zZxXAJxjCaArot8enSTllK_4eC-g_Zjjxm5",
+      "titulo": "2025】衝浪滑板完全指南：從新手到達人都適用的選購方法與技巧 ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKQr1lv-qZ969UbnnvBTwWgWD6uRZdvgp3CQ&s",
+      "original": "https://cdn.shopify.com/s/files/1/0612/7389/9162/files/surfskate_forblog_34_bamboo_brown_riding_00023_480x480.jpg?v=1730232182"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/skateboard/zh/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfakJfN_Fks8yCIlx6mb6npTisqDAoeduzWg&s",
+      "fuentePagina": "https://www.dayousport.com.tw/blog/posts/skateboard?srsltid=AfmBOooh8QTjF7RnB9gpQcgmC5pFZ_brimHWjrM4xKu7ZPNrePx_9Hbu",
+      "titulo": "初學必讀!! 滑板種類(技術板、長板、舞板、交通板)",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfakJfN_Fks8yCIlx6mb6npTisqDAoeduzWg&s",
+      "original": "https://img.shoplineapp.com/media/image_clips/5e76d762b9952800153c63e7/original.jpg?1584846689"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/skateboard/zh/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRoo6dww3jNs7jHM_aK8DOcpQRWxir4ODfjxA&s",
+      "fuentePagina": "https://www.womenshealthmag.com/tw/fitness/work-outs/g40926301/skateboard/",
+      "titulo": "玩滑板前先認識滑板本人！構造、種類介紹，新手如何組一張屬於 ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRoo6dww3jNs7jHM_aK8DOcpQRWxir4ODfjxA&s",
+      "original": "https://hips.hearstapps.com/hmg-prod/images/%E6%BB%91%E6%9D%BF-1660805090.png?crop=0.490xw:0.981xh;0,0.0192xh&resize=640:*"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/skateboard/zh/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdcym1tiI7i26rWcAsTrMV_qhBre_kpAaJ8g&s",
+      "fuentePagina": "https://www.esquirehk.com/health/lifestyle-skatboard-beginner-boards",
+      "titulo": "滑板新手入門必學﹗長板、魚仔板、 雙翹板點揀好？3款抵買網購 ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdcym1tiI7i26rWcAsTrMV_qhBre_kpAaJ8g&s",
+      "original": "https://api.esquirehk.com/var/site/storage/images/_aliases/img_804_w_only/lifestyle/lifestyle-skatboard-beginner-boards/3/4627058-1-chi-HK/3.jpg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/skateboard/zh/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRV_BKBM4gQl37_4uOp3H3AxZYoESpIonE6Fw&s",
+      "fuentePagina": "https://www.dayousport.com.tw/blog/posts/technical-skateboard?srsltid=AfmBOoocyVcnLr711dwt2epU0834BQWiRUS29YbpdaK2rJ9PETM6a-ee",
+      "titulo": "練技術新手必讀-中/高階技術滑板",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRV_BKBM4gQl37_4uOp3H3AxZYoESpIonE6Fw&s",
+      "original": "https://img.shoplineapp.com/media/image_clips/5e7b2905223c067aed47a6c4/original.jpg?1585129731"
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "categoria": "skateboard",
+  "categoriaSlug": "skateboard",
+  "idioma": "ar",
+  "nombreIdioma": "العربية",
+  "termino": "لوح التزلج",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:04:21.043Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "ar",
+    "gl": "eg"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=%D9%84%D9%88%D8%AD%20%D8%A7%D9%84%D8%AA%D8%B2%D9%84%D8%AC&hl=ar&gl=eg",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/skateboard/ar/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTZJgKT8e3un8uEeblpjF2pkbgfdcmVAXJbw&s",
+      "fuentePagina": "https://www.amazon.eg/%D8%A7%D8%AE%D8%B1%D9%89-%D9%84%D9%88%D8%AD-%D8%A7%D9%84%D8%AA%D8%B2%D9%84%D8%AC-%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6%D9%8A/dp/B091BTNP5Y",
+      "titulo": "لوح التزلج الرياضي : Amazon.eg",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTZJgKT8e3un8uEeblpjF2pkbgfdcmVAXJbw&s",
+      "original": "https://m.media-amazon.com/images/I/71yVAqD2qhL.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/skateboard/ar/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOHDnjRHiyRRMZhAcEbOxDyHS7V7HKon49RA&s",
+      "fuentePagina": "https://www.decathlon.eg/ar/p/5912-21925-%D9%84%D9%88%D8%AD-%D8%AA%D8%B2%D9%84%D8%AC-complete-100-%D8%A3%D9%84%D9%88%D8%A7%D9%86-%D9%85%D8%AA%D8%B9%D8%AF%D8%AF%D8%A9.html?srsltid=AfmBOorPDZo2JspW_EdJU73-BLiavHJ6jfx9E7MNqc6XTHxmp3GCBCO1",
+      "titulo": "لوح تزلج Complete 100 - ألوان متعددة",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOHDnjRHiyRRMZhAcEbOxDyHS7V7HKon49RA&s",
+      "original": "https://contents.mediadecathlon.com/p1726514/k$7147a4189f78774d93d20eb4566e3d32/%D9%84%D9%88%D8%AD-%D8%AA%D8%B2%D9%84%D8%AC-complete-100-%D8%A3%D9%84%D9%88%D8%A7%D9%86-%D9%85%D8%AA%D8%B9%D8%AF%D8%AF%D8%A9.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/skateboard/ar/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQmynGlwMSv_R3Qtz9sHbj38BuxgpM9E_kLA&s",
+      "fuentePagina": "https://www.decathlon.eg/ar/p/15282-9028-%D9%84%D9%88%D8%AD-%D8%A7%D9%84%D8%AA%D8%B2%D9%84%D8%AC-oxelo-cruiser-yamba-%D9%84%D9%88%D9%86-%D8%A3%D8%B2%D8%B1%D9%82.html?srsltid=AfmBOopwM7RmJf56e9-nLz3qzrduebsLhErDq6u7lRP1Jr4Ies6Kl2cI",
+      "titulo": "لوح التزلج OXELO CRUISER YAMBA - لون أزرق",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQmynGlwMSv_R3Qtz9sHbj38BuxgpM9E_kLA&s",
+      "original": "https://contents.mediadecathlon.com/p1134029/k$913c69b71d60c11a41bb71c1d64421b8/-oxelo-cruiser-yamba-.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/skateboard/ar/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPlM0PCNXB-6u-O0qrY1794Ks5Yg0NF9OPig&s",
+      "fuentePagina": "https://umbrella-egypt.com/eg/product/childrens-double-short-wooden-skateboard-4rB8xK?srsltid=AfmBOorIL8Y98SQkUFEhDj6XBAYaaKk7QYEtS3OEl6YtUBL4WSBjw59C",
+      "titulo": "لوح تزلج خشبي للأطفال مزدوج قصير الحجم",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPlM0PCNXB-6u-O0qrY1794Ks5Yg0NF9OPig&s",
+      "original": "https://umbrella-egypt.com/storage/app/public/product/2024-05-29-665719dcbdcca.png"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/skateboard/ar/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuypssrKLfvOBvfJDvCG0p3FerLG5JjNKjYg&s",
+      "fuentePagina": "https://www.amazon.eg/%D8%AA%D8%B2%D9%84%D8%AC-%D8%AE%D8%B4%D8%A8%D9%8A-%D9%85%D9%82%D8%A7%D8%B3-%D9%85%D8%AA%D9%88%D8%B3%D8%B7-%D8%A8%D9%88%D8%B5%D8%A9/dp/B09P7PWK9S",
+      "titulo": "لوح تزلج خشبي مقاس متوسط 20 بوصة - اشكال بنات : Amazon.eg",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuypssrKLfvOBvfJDvCG0p3FerLG5JjNKjYg&s",
+      "original": "https://m.media-amazon.com/images/I/51gvjYGSrXL.jpg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/skateboard/ar/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqi5T06neOeXNYEYfPZd35CSKNrH8HLQ1J-g&s",
+      "fuentePagina": "https://kenzz.com/product/8Z73A299638G/%D8%AA%D8%B5%D9%85%D9%8A%D9%85-%D9%84%D9%88%D8%AD-%D8%A7%D9%84%D8%AA%D8%B2%D9%84%D8%AC-%D8%A8%D8%A7%D9%84%D9%84%D9%88%D9%86-%D8%A7%D9%84%D8%A3%D8%B2%D8%B1%D9%82-212-B?srsltid=AfmBOoppyA6hX3vI6o84_RP6eawcvOO5YUzVLhIK6zN2psCU4SKmEvdB",
+      "titulo": "تصميم لوح التزلج باللون الأزرق - 212-B",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqi5T06neOeXNYEYfPZd35CSKNrH8HLQ1J-g&s",
+      "original": "https://assets.kenzz.com/products/576043/6223017293690.jpeg"
+    }
+  ]
+}

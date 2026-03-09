@@ -1,0 +1,71 @@
+{
+  "categoria": "dining table",
+  "categoriaSlug": "dining-table",
+  "idioma": "fr",
+  "nombreIdioma": "Français",
+  "termino": "table à manger",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:19:44.726Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "fr",
+    "gl": "be"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=table%20%C3%A0%20manger&hl=fr&gl=be",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/dining-table/fr/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQP2eGeDNi-6KyQiuZZdYzEHZoFjYlP8NyZg&s",
+      "fuentePagina": "https://www.emob.be/fr/table-de-salle-a-manger-extensible-hennie-plateau-en-ceramique-gris",
+      "titulo": "Table de salle à manger extensible Hennie - plateau en ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQP2eGeDNi-6KyQiuZZdYzEHZoFjYlP8NyZg&s",
+      "original": "https://www.emob.be/media/catalog/product/cache/53a094445c57bdfaede61de2441adbf7/O/n/Ontwerp_zonder_titel___2024_06_17T144059.011_30b4.png"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/dining-table/fr/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTo87aiMca9_0RpKtOquno-gtrF7o3pe6a8lA&s",
+      "fuentePagina": "https://fr.vente-unique.be/p/table-a-manger-extensible-noami-ii-6-a-8-couverts-mdf-laque-gris-et-blanc",
+      "titulo": "Table à manger extensible NOAMI II - 6 à 8 personnes - MDF laqué gris et  blanc",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTo87aiMca9_0RpKtOquno-gtrF7o3pe6a8lA&s",
+      "original": "https://cdn1.vente-unique.com/thumbnails/product/122/122541/large/0/48182153.webp"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/dining-table/fr/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRXKMi4PMShJhkndQPcpZ12xymgSGHZaXxKg&s",
+      "fuentePagina": "https://fr.vente-unique.be/p/table-a-manger-extensible-4-a-8-couverts-en-mdf-et-acier-naturel-et-noir-komoni",
+      "titulo": "Table à manger extensible 4 à 8 personnes en MDF et acier - Naturel clair  et noir - KOMONI",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRXKMi4PMShJhkndQPcpZ12xymgSGHZaXxKg&s",
+      "original": "https://cdn1.vente-unique.com/thumbnails/product/137/137117/large/0/10736723.webp"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/dining-table/fr/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQaaYmjtZk9NYgsWoO26iHaRyzZGdxes9lDqA&s",
+      "fuentePagina": "https://www.tikamoon.be/fr/art-eden-table-en-chene-massif-a-rallonge-6-8-pers-6774.htm",
+      "titulo": "Meuble en bois et mobilier en bois massif - Tikamoon",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQaaYmjtZk9NYgsWoO26iHaRyzZGdxes9lDqA&s",
+      "original": "https://media.tikamoon.com/images/f_auto/t_product-picture-774/website/product/6774_A_HD_020_2/eden-table-en-chene-massif-a-rallonge-6-8-pers-6774"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/dining-table/fr/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVGk_M4-P-6CXS2pBy8Xg7I1FF1Gox5U8njA&s",
+      "fuentePagina": "https://idmarket.be/fr/6682-table-a-manger-extensible-rectangle-phoenix-10-12-personnes-bois-et-noir-200-300-cm-3662897062928.html",
+      "titulo": "Table à manger extensible rectangle PHOENIX 6-12 personnes bois et noir  200-300 cm",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVGk_M4-P-6CXS2pBy8Xg7I1FF1Gox5U8njA&s",
+      "original": "https://www.idmarket.com/28302-product_main_2x/table-a-manger-extensible-rectangle-phoenix-10-12-personnes-bois-et-noir-200-300-cm.jpg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/dining-table/fr/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTM36qfRTOSO7IOqEdMooekxdyKrWVkX__hZw&s",
+      "fuentePagina": "https://www.emob.be/fr/table-a-manger-extensible-irwine-200-240cm-plateau-ceramique-gris",
+      "titulo": "Table à manger extensible Irwine - 200 - Moderne Emob | Emob",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTM36qfRTOSO7IOqEdMooekxdyKrWVkX__hZw&s",
+      "original": "https://www.emob.be/media/catalog/product/cache/53a094445c57bdfaede61de2441adbf7/O/n/Ontwerp_zonder_titel___2024_06_19T143135.993_851e.png"
+    }
+  ]
+}

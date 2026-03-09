@@ -1,0 +1,71 @@
+{
+  "categoria": "cat",
+  "categoriaSlug": "cat",
+  "idioma": "ar",
+  "nombreIdioma": "العربية",
+  "termino": "قطة",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T20:50:35.209Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "ar",
+    "gl": "eg"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=%D9%82%D8%B7%D8%A9&hl=ar&gl=eg",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/cat/ar/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT74p0-GFNquBzzGLN9SazH22Wrus46aPPqYQ&s",
+      "fuentePagina": "https://ar.wikipedia.org/wiki/%D9%82%D8%B7_%D8%B9%D8%AA%D8%A7%D8%A8%D9%8A",
+      "titulo": "قط عتابي - ويكيبيديا",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT74p0-GFNquBzzGLN9SazH22Wrus46aPPqYQ&s",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Cat_November_2010-1a.jpg/960px-Cat_November_2010-1a.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/cat/ar/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLH3ctaaL_WS9QmR6Gptw6eZ0VzT5ftY15mw&s",
+      "fuentePagina": "https://kittenszone.com/%D9%82%D8%B7%D8%A9-%D9%84%D9%84%D8%A8%D9%8A%D8%B9-%D8%A7%D9%84%D8%A7%D8%AD%D8%B3%D8%A7%D8%A1/p1172621366",
+      "titulo": "قطه شيرازي للبيع | ابيض | ذكر - أكبر متجر لبيع و شراء القطط ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLH3ctaaL_WS9QmR6Gptw6eZ0VzT5ftY15mw&s",
+      "original": "https://cdn.salla.sa/QldlR/08978462-42c1-4705-a80b-a006ebca40a5-1000x1000-rhezjnnYfKnF7v6k0gLFFYZFQprR1SRcKY6fjGff.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/cat/ar/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXS81N1mvi4D8m1igm6hsSYq2vl1dV1ClLXA&s",
+      "fuentePagina": "https://www.pinterest.com/pin/730638739532884985/",
+      "titulo": "أجمل صور قطط حلوين , صورة قطة جميلة 2024",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXS81N1mvi4D8m1igm6hsSYq2vl1dV1ClLXA&s",
+      "original": "https://i.pinimg.com/564x/a6/da/8e/a6da8e63e4e4189bbbe40e0f2d8ed7b6.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/cat/ar/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1r0efrMKkoOq235LqQK8QgtL1t8Rcamipfg&s",
+      "fuentePagina": "https://ar.pngtree.com/freepng/cute-little-cat_14660251.html",
+      "titulo": "قطة صغيرة لطيفة, قصاصات فنية للقطط, قطة, حيوان أليف PNG صورة ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1r0efrMKkoOq235LqQK8QgtL1t8Rcamipfg&s",
+      "original": "https://png.pngtree.com/png-clipart/20240323/original/pngtree-cute-little-cat-png-image_14660251.png"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/cat/ar/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdIq0SLaiM5YoUFYcGEjRgWxWAuNI2CRGmQg&s",
+      "fuentePagina": "https://kittenszone.com/%D9%82%D8%B7%D8%A9-%D9%84%D9%84%D8%A8%D9%8A%D8%B9-%D8%AC%D8%AF%D8%A9/p2048166966",
+      "titulo": "قطه سكوتش فولد للبيع | قولد | انثى - أكبر متجر لبيع و شراء ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdIq0SLaiM5YoUFYcGEjRgWxWAuNI2CRGmQg&s",
+      "original": "https://cdn.salla.sa/QldlR/ZBA8LsctyeJGdQGhYKAJh9VFlthA1m8rSHIyllls.jpg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/cat/ar/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2RoPSSv8C7II9HtglUUWEM8EtOcsGU-6Reg&s",
+      "fuentePagina": "https://animals.fandom.com/ar/wiki/%D9%82%D8%B7",
+      "titulo": "قط | ويكي الحيوانات | Fandom",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2RoPSSv8C7II9HtglUUWEM8EtOcsGU-6Reg&s",
+      "original": "https://static.wikia.nocookie.net/animals/images/4/44/Inquisitive-cat300.png/revision/latest?cb=20160616140827&path-prefix=ar"
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "categoria": "car",
+  "categoriaSlug": "car",
+  "idioma": "rw",
+  "nombreIdioma": "Kinyarwanda",
+  "termino": "imodoka",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T20:41:44.684Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "en",
+    "gl": "rw"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=imodoka&hl=en&gl=rw",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/car/rw/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwuZOdnwcgwQVkR-RsA3sx4luQl4IirI_TJg&s",
+      "fuentePagina": "https://www.youtube.com/watch?v=q6BYg7Xddl4",
+      "titulo": "VIGO - IMODOKA YA MBERE ITINYITSE MU RWANDA| IKORESHWA N'INZEGO  Z'UMUTEKANO| MENYA TOYOTA HILUX VIGO",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwuZOdnwcgwQVkR-RsA3sx4luQl4IirI_TJg&s",
+      "original": "https://i.ytimg.com/vi/q6BYg7Xddl4/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLDUsDBY9bZu5Vj5RXGeECRJIEtTMQ"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/car/rw/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDlJ70JPYaf1pPC66ryZ3dlrYjDZ69XZZDYQ&s",
+      "fuentePagina": "https://rw.wikipedia.org/wiki/Imodoka_150_z%E2%80%99amashanyarazi_zimaze_kwinjira_mu_Rwanda",
+      "titulo": "Imodoka 150 z'amashanyarazi zimaze kwinjira mu Rwanda ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDlJ70JPYaf1pPC66ryZ3dlrYjDZ69XZZDYQ&s",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/BYD_S1_EV_CRI_04_2021_8261.jpg/250px-BYD_S1_EV_CRI_04_2021_8261.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/car/rw/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTzv_4O_KoKIjqsYCOjyQPqBtOF5XlxQTICQ&s",
+      "fuentePagina": "https://www.youtube.com/watch?v=rUfSQdCwrtA",
+      "titulo": "IYI NIYO MODOKA YA MBERE IKANGANYE KU ISI| Reba Ubwoko bw'Imodoka  kabuhariwe zidasanzwe mu isi",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTzv_4O_KoKIjqsYCOjyQPqBtOF5XlxQTICQ&s",
+      "original": "https://i.ytimg.com/vi/rUfSQdCwrtA/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLDv6fxG0T8dyjIjIVMrSaBG2uJZyA"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/car/rw/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRL0paOmkc5PqKI7NSE21awLFo1UbSnFDPcUA&s",
+      "fuentePagina": "https://rw.wikipedia.org/wiki/Imodoka",
+      "titulo": "Imodoka - Wikipedia",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRL0paOmkc5PqKI7NSE21awLFo1UbSnFDPcUA&s",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Imodoka_zikoreaha_amashanyarazi.jpg/250px-Imodoka_zikoreaha_amashanyarazi.jpg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/car/rw/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNxS3oOjUogQKTVdDhyN-omYyBkh1RmVT_4g&s",
+      "fuentePagina": "https://www.bbc.com/gahuza/amakuru-57691808",
+      "titulo": "Imdoka ya mbere kw'isi iguruka yarageragejwe",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNxS3oOjUogQKTVdDhyN-omYyBkh1RmVT_4g&s",
+      "original": "https://ichef.bbci.co.uk/images/ic/1024x576/p09n6qyh.jpg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/car/rw/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-OrvJxaq-HJo6_JhyW806Hft04hO217fjTw&s",
+      "fuentePagina": "https://www.igihe.com/amakuru/muri-afurika/u-rwanda/article/abagura-imodoka-za-hybrid-baciye-leta-mu-rihumye",
+      "titulo": "Abagura imodoka za Hybrid baciye leta mu rihumye? | IGIHE",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-OrvJxaq-HJo6_JhyW806Hft04hO217fjTw&s",
+      "original": "https://www.igihe.com/local/cache-vignettes/L600xH393/ec1a3530-2-6be40.jpg?1748416031"
+    }
+  ]
+}

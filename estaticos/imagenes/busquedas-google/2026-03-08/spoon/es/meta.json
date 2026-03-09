@@ -1,0 +1,71 @@
+{
+  "categoria": "spoon",
+  "categoriaSlug": "spoon",
+  "idioma": "es",
+  "nombreIdioma": "Español",
+  "termino": "cuchara",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:09:45.310Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "es",
+    "gl": "es"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=cuchara&hl=es&gl=es",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/spoon/es/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyX6B9fQb24gmf65-DwmHmK5hWOdAYiHfqpQ&s",
+      "fuentePagina": "https://www.fumisan.es/cuchara-mesa-acero-inox-comas-1001-2799.html",
+      "titulo": "Comprar Cuchara Mesa Comas 1001 (12 uds) Online",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyX6B9fQb24gmf65-DwmHmK5hWOdAYiHfqpQ&s",
+      "original": "https://www.fumisan.es/14287-large_default/cuchara-mesa-acero-inox-comas-1001.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/spoon/es/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmz3QjXXI-Nq8ksd9z5yeXTEZ09Wy-KXIqJw&s",
+      "fuentePagina": "https://es.wikipedia.org/wiki/Cuchara",
+      "titulo": "Cuchara - Wikipedia, la enciclopedia libre",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmz3QjXXI-Nq8ksd9z5yeXTEZ09Wy-KXIqJw&s",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/9/92/Soup_Spoon.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/spoon/es/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrrLET1O9dPqCMJK8iYBMIBayhdmvpYeraMQ&s",
+      "fuentePagina": "https://www.fumisan.es/cuchara-mesa-acero-inox-cristema-stuttgart-2983.html",
+      "titulo": "Cuchara Mesa Acero Inox Cristema Stuttgart (12 uds)",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrrLET1O9dPqCMJK8iYBMIBayhdmvpYeraMQ&s",
+      "original": "https://www.fumisan.es/14910-large_default/cuchara-mesa-acero-inox-cristema-stuttgart.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/spoon/es/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgnieBRaDOvsUhFDTOkVSeF7HEMTFR59QzJw&s",
+      "fuentePagina": "https://www.freepik.es/fotos-vectores-gratis/cuchara-sopera",
+      "titulo": "Imágenes de Cuchara sopera - Descarga gratuita en Freepik",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgnieBRaDOvsUhFDTOkVSeF7HEMTFR59QzJw&s",
+      "original": "https://img.freepik.com/vector-gratis/utensilios-cocina-cuchara-pegatina-sobre-fondo-blanco_1308-67037.jpg?semt=ais_rp_50_assets&w=740&q=80"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/spoon/es/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPb0VV3wbrsCjdwjOewhxPrkuuyChPTgZcNw&s",
+      "fuentePagina": "https://www.amazon.es/Amazon-Basics-Cucharas-inoxidable-Tenedores/dp/B08JH77SZZ",
+      "titulo": "Amazon Basics - Cucharas de sopa de acero inoxidable, con punta redonda,  juego de 12 + Tenedores de mesa de acero inoxidable, con punta redonda,  juego ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPb0VV3wbrsCjdwjOewhxPrkuuyChPTgZcNw&s",
+      "original": "https://m.media-amazon.com/images/I/61Y-85Ei4-L._AC_UF894,1000_QL80_.jpg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/spoon/es/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3N32DBfqYS2uT0XO1Ejoy4hSNT4cQh86z5A&s",
+      "fuentePagina": "https://www.gastronomiavasca.net/es/gastro/glossary/cuchara-sopera",
+      "titulo": "Cuchara sopera - Gastronomía Vasca: Escuela de Hostelería Leioa",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3N32DBfqYS2uT0XO1Ejoy4hSNT4cQh86z5A&s",
+      "original": "https://www.gastronomiavasca.net/uploads/image/file/6345/cuchara_sopera.jpg"
+    }
+  ]
+}

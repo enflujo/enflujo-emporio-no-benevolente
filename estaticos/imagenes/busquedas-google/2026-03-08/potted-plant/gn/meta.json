@@ -1,0 +1,71 @@
+{
+  "categoria": "potted plant",
+  "categoriaSlug": "potted-plant",
+  "idioma": "gn",
+  "nombreIdioma": "Guaraní",
+  "termino": "ka'aguy",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:18:41.311Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "es",
+    "gl": "py"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=ka'aguy&hl=es&gl=py",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/potted-plant/gn/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnVNGXfbQ5sEsiWPjB0T30eEZh3DiY8_GgqQ&s",
+      "fuentePagina": "https://www.portalguarani.com/967_ramon_elias__/8964_kaaguy_pora__escultura_del_museo_mitologico_ramon_elias.html",
+      "titulo": "Portal Guaraní - KA'AGUY PÓRA - Escultura del MUSEO ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnVNGXfbQ5sEsiWPjB0T30eEZh3DiY8_GgqQ&s",
+      "original": "https://www.portalguarani.com/obras/museo-mitologico-ramon-elias-capiata-ka-aguy-pora-t-escultura-portalguarani.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/potted-plant/gn/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzyBCF--lwAXqn-Y4zSrdugD_zs0tTkqGBDw&s",
+      "fuentePagina": "https://www.facebook.com/KAAGUYPIROY/",
+      "titulo": "Complejo Recreativo Ka'aguy Piro'y | Santa Rosa",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzyBCF--lwAXqn-Y4zSrdugD_zs0tTkqGBDw&s",
+      "original": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=923258616584598"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/potted-plant/gn/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpxwmsfmz040Ncer6QaNLSrJkX_W154IF5Bg&s",
+      "fuentePagina": "https://www.facebook.com/KAAGUYPIROY/",
+      "titulo": "Complejo Recreativo Ka'aguy Piro'y | Santa Rosa",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpxwmsfmz040Ncer6QaNLSrJkX_W154IF5Bg&s",
+      "original": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=100067014057085"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/potted-plant/gn/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmf7U2tqAyv46i00BzlhFdNolk32T_V5SpuA&s",
+      "fuentePagina": "https://www.abc.com.py/viajes/2022/02/04/kaaguy-piroy-un-lugar-para-descansar-en-santa-rosa-misiones/",
+      "titulo": "Ka'aguy Piro'y, un lugar para descansar en Santa Rosa ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmf7U2tqAyv46i00BzlhFdNolk32T_V5SpuA&s",
+      "original": "https://cloudfront-us-east-1.images.arcpublishing.com/abccolor/JFV5NBRWYBEUBEH2QXU4BHDOKA.jpeg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/potted-plant/gn/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTeiSy2hij6fHZ-ujGieSSHXGREQadZHbH4lQ&s",
+      "fuentePagina": "https://www.portalguarani.com/detalles_museos_otras_obras.php?PqwoiflUYTeslk=MjM2MQ==",
+      "titulo": "Portal Guaraní - EL HADA DEL MONTE / KA'AGUY PÓRA - Versión ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTeiSy2hij6fHZ-ujGieSSHXGREQadZHbH4lQ&s",
+      "original": "https://www.portalguarani.com/userfiles/images/Any%20Ughelli/any%20ughelli%20hada%20del%20monte%20kaaguy%20pora%20portalguarani.jpg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/potted-plant/gn/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQt1Ecg6Ec_MbZbcEtysU1DuTpkNh8caGc5DA&s",
+      "fuentePagina": "https://www.instagram.com/p/CjZYxAkjSVb/",
+      "titulo": "Complejo Recreativo Ka´aguy Piro'y ubicado en Santa Rosa ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQt1Ecg6Ec_MbZbcEtysU1DuTpkNh8caGc5DA&s",
+      "original": "https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=2943492745291802009"
+    }
+  ]
+}

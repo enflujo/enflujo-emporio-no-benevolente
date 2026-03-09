@@ -1,0 +1,71 @@
+{
+  "categoria": "scissors",
+  "categoriaSlug": "scissors",
+  "idioma": "rw",
+  "nombreIdioma": "Kinyarwanda",
+  "termino": "imikasi",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:30:13.576Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "en",
+    "gl": "rw"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=imikasi&hl=en&gl=rw",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/scissors/rw/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLbUzsJjD6Za44fvey1tPAXfwRPGNROSj-Fg&s",
+      "fuentePagina": "https://rw.hexontools.com/knives-and-scissors-electrical-tools/",
+      "titulo": "Imikasi hamwe nicyuma Ababikora - Ubushinwa Imikasi hamwe ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLbUzsJjD6Za44fvey1tPAXfwRPGNROSj-Fg&s",
+      "original": "https://cdn.globalso.com/hexontools/2022032804-%E4%B8%BB%E5%9B%BE3.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/scissors/rw/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5a4OEAP8KZM_TUfIsbMGQUDSeqpwsrprIgg&s",
+      "fuentePagina": "https://rw.hexontools.com/knives-and-scissors-electrical-tools/",
+      "titulo": "Imikasi hamwe nicyuma Ababikora - Ubushinwa Imikasi hamwe ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5a4OEAP8KZM_TUfIsbMGQUDSeqpwsrprIgg&s",
+      "original": "https://cdn.globalso.com/hexontools/2021010401.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/scissors/rw/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRC_XGSmc3BKI1ZloMM1WrQibBWQSrnYGm--w&s",
+      "fuentePagina": "https://rw.hexontools.com/knives-and-scissors-electrical-tools/",
+      "titulo": "Imikasi hamwe nicyuma Ababikora - Ubushinwa Imikasi hamwe ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRC_XGSmc3BKI1ZloMM1WrQibBWQSrnYGm--w&s",
+      "original": "https://cdn.globalso.com/hexontools/182307-zt.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/scissors/rw/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTF8gqDAhT9gzM-8tl-fiAx34OwslE1xGHqhw&s",
+      "fuentePagina": "http://rw.mainpaperglobalsales.com/scissors-manufacturing-wholesale-all-plastic-scissors-designed-for-children-product/",
+      "titulo": "Imikasi yo kugurisha ku bwinshi Imikasi ya pulasitiki yose ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTF8gqDAhT9gzM-8tl-fiAx34OwslE1xGHqhw&s",
+      "original": "https://www.mainpaperglobalsales.com/uploads/PT119-Scissors-Supply.jpg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/scissors/rw/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvMHsuQi5HXJQFiq1i8QE8CeZHHH7POwn-hQ&s",
+      "fuentePagina": "http://rw.mainpaperglobalsales.com/scissors-manufacturing-wholesale-all-plastic-scissors-designed-for-children-product/",
+      "titulo": "Imikasi yo kugurisha ku bwinshi Imikasi ya pulasitiki yose ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvMHsuQi5HXJQFiq1i8QE8CeZHHH7POwn-hQ&s",
+      "original": "https://cdn.globalso.com/mainpaperglobalsales/PT142-2-Childrens-Scissors.jpg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/scissors/rw/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5OgeSxHRHF4oVzud9PlQf2SxfjdLSGDYwAg&s",
+      "fuentePagina": "https://www.hotsionsports.com/rw/the-factory-directly-supplies-garden-scissors-greening-lawn-vigorous-scissors-household-garden-fence-gardening-tools-wholesale-product/",
+      "titulo": "Ibicuruzwa byinshi Uruganda rutanga mu buryo butaziguye ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5OgeSxHRHF4oVzud9PlQf2SxfjdLSGDYwAg&s",
+      "original": "https://cdnus.globalso.com/hotsionsports/223229a343c37b99f03aa5b98fa2f8e.png"
+    }
+  ]
+}

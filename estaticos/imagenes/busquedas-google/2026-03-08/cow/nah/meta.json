@@ -1,0 +1,71 @@
+{
+  "categoria": "cow",
+  "categoriaSlug": "cow",
+  "idioma": "nah",
+  "nombreIdioma": "Náhuatl",
+  "termino": "vacatl",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T20:53:21.353Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "es",
+    "gl": "mx"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=vacatl&hl=es&gl=mx",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/cow/nah/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmit9zgN-PJA-EAvMbJQWkQttCw1l9LkTZmg&s",
+      "fuentePagina": "https://www.mercadolibre.com.mx/valcatil-max-x-30-capsulas-anticaida-del-cabello-panalab/p/MLM19909536",
+      "titulo": "Valcatil Max X 30 Capsulas - Anticaida Del Cabello - Panalab ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmit9zgN-PJA-EAvMbJQWkQttCw1l9LkTZmg&s",
+      "original": "https://http2.mlstatic.com/D_NQ_NP_819151-MLA92435570260_092025-O.webp"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/cow/nah/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQa1SAlDbYjD4ylmb8lzrOa1PsnNnhYd2P6xA&s",
+      "fuentePagina": "https://www.mercadolibre.com.mx/valcatil-complex-d3-nutricion-piel-cabellos-unas-lata-260g-sabor-frutos-del-bosque/p/MLM19601332",
+      "titulo": "Panalab Valcatil Complex D3 polvo lata nutrición para peil ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQa1SAlDbYjD4ylmb8lzrOa1PsnNnhYd2P6xA&s",
+      "original": "https://http2.mlstatic.com/D_Q_NP_2X_605069-MLM106897963709_022026-P.webp"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/cow/nah/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_EsoFo10-kQjkvj81-hIX6U_GVk3GrfXYOQ&s",
+      "fuentePagina": "https://www.facebook.com/SidraSanRafael/posts/2579273398988680/",
+      "titulo": "Sidrera San Rafael",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_EsoFo10-kQjkvj81-hIX6U_GVk3GrfXYOQ&s",
+      "original": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=2976063625807947"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/cow/nah/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0OkUkFObqbCOp-n9MYy-adPMx5kBVLO1ksA&s",
+      "fuentePagina": "https://www.mercadolibre.com.mx/valcatil-complex-d3-nutricion-piel-cabellos-unas-lata-260g-sabor-frutos-del-bosque/p/MLM19601332",
+      "titulo": "Panalab Valcatil Complex D3 polvo lata nutrición para peil ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0OkUkFObqbCOp-n9MYy-adPMx5kBVLO1ksA&s",
+      "original": "https://http2.mlstatic.com/D_Q_NP_916286-MLU78848174294_092024-O.webp"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/cow/nah/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIYual_mDQIdPbtnbnO9w653arZ8QMUhTYnA&s",
+      "fuentePagina": "https://www.mercadolibre.com.mx/valcatil-max-x-90-capsulas-anticaida-del-cabello-panalab/p/MLM19808581",
+      "titulo": "Valcatil Max X 90 Capsulas - Anticaida Del Cabello - Panalab ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIYual_mDQIdPbtnbnO9w653arZ8QMUhTYnA&s",
+      "original": "https://http2.mlstatic.com/D_NQ_NP_655996-MLA51061816078_082022-O.webp"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/cow/nah/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5nc08xYnpsHx3xju8eyqNSYVoYCNysBr24A&s",
+      "fuentePagina": "https://www.mercadolibre.com.mx/valcatil-max-d3-capsulas-blandas-x60/p/MLM20009328",
+      "titulo": "Valcatil Max D3 Capsulas Blandas X60 | MercadoLibre",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5nc08xYnpsHx3xju8eyqNSYVoYCNysBr24A&s",
+      "original": "https://http2.mlstatic.com/D_NQ_NP_887003-MLA50209356855_062022-O.webp"
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "categoria": "remote",
+  "categoriaSlug": "remote",
+  "idioma": "en",
+  "nombreIdioma": "English",
+  "termino": "remote",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:22:48.894Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "en",
+    "gl": "us"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=remote&hl=en&gl=us",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/remote/en/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2jrTclWDIObtInro8oRAIbpKDLG8EUAb02A&s",
+      "fuentePagina": "https://www.amazon.com/Samsung-LT24E310ND-UN65FH6001F-UN40H5003AFXZA-UN40H5003BF/dp/B07DSDZMKY",
+      "titulo": "Amazon.com: OEM Samsung Remote Control for LT24E310ND ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2jrTclWDIObtInro8oRAIbpKDLG8EUAb02A&s",
+      "original": "https://m.media-amazon.com/images/I/61RaIi+3UqL.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/remote/en/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZk_xjD8U5D8qFZ3A462JtooU-QRh84173mQ&s",
+      "fuentePagina": "https://en.wikipedia.org/wiki/Remote_control",
+      "titulo": "Remote control - Wikipedia",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZk_xjD8U5D8qFZ3A462JtooU-QRh84173mQ&s",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Nuon-N2000-Remote-Control.jpg/250px-Nuon-N2000-Remote-Control.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/remote/en/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQupom9e9H5fP1AHEja5_w2AOC5Gb4-ScMWYQ&s",
+      "fuentePagina": "https://me.pcmag.com/en/universal-remotes/17734/amazon-alexa-voice-remote-pro",
+      "titulo": "Amazon Alexa Voice Remote Pro - Review 2025 - PCMag Middle East",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQupom9e9H5fP1AHEja5_w2AOC5Gb4-ScMWYQ&s",
+      "original": "https://sm.pcmag.com/pcmag_me/review/a/amazon-ale/amazon-alexa-voice-remote-pro_aa9r.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/remote/en/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSudHf7nTPoaKmqno_K9w9ts6dJtBYkAUKheQ&s",
+      "fuentePagina": "https://www.lowes.com/pd/Utilitech-Replacement-Remote-Control-One-Touch-Classic-Black/5015201681",
+      "titulo": "Utilitech 2-Device Universal Remote Control 83693 at Lowes.com",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSudHf7nTPoaKmqno_K9w9ts6dJtBYkAUKheQ&s",
+      "original": "https://mobileimages.lowes.com/productimages/da9d9af2-2e1a-474b-8545-b8b9f019c31c/69333792.jpeg?size=pdhism"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/remote/en/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjdJu3TMnMRuMwzNTfGgQcKLU-Z90NgzcGig&s",
+      "fuentePagina": "https://www.sencor.com/learning-remote-controller/sdb-learning-rcu",
+      "titulo": "Learning Remote Controller | SDB LEARNING RCU | Sencor.com",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjdJu3TMnMRuMwzNTfGgQcKLU-Z90NgzcGig&s",
+      "original": "https://www.sencor.com/getmedia/191d9815-056d-489e-bfb6-9651621f7b30/SDBRCU.jpg.aspx?width=2100&height=2100&ext=.jpg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/remote/en/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuy076XKbUt-n20pztXyo8bCNgCb9rzqAs6w&s",
+      "fuentePagina": "https://www.homedepot.com/p/Yichuhaoxi-Universal-TV-Remote-Control-Replacement-with-Shortcut-Button-for-Netflix-Prime-Disney-and-Hulu-in-Black-1-Pack-16927FPH005/334875688",
+      "titulo": "Yichuhaoxi Universal TV Remote Control Replacement with ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuy076XKbUt-n20pztXyo8bCNgCb9rzqAs6w&s",
+      "original": "https://images.thdstatic.com/productImages/fb43456c-4f91-4574-b62d-bc578ddf1e1c/svn/yichuhaoxi-universal-remotes-16927fph005-64_600.jpg"
+    }
+  ]
+}

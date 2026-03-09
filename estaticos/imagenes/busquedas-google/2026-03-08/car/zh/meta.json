@@ -1,0 +1,71 @@
+{
+  "categoria": "car",
+  "categoriaSlug": "car",
+  "idioma": "zh",
+  "nombreIdioma": "中文",
+  "termino": "汽车",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T20:42:10.629Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "zh-CN",
+    "gl": "cn"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=%E6%B1%BD%E8%BD%A6&hl=zh-CN&gl=cn",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/car/zh/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrPpXfAZGdF-U04amMsIn1xqvLuUV0PeYSRg&s",
+      "fuentePagina": "https://www.bentleymotors.com/cn/zh.html",
+      "titulo": "宾利",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrPpXfAZGdF-U04amMsIn1xqvLuUV0PeYSRg&s",
+      "original": "https://www.bentleymotors.com/content/dam/bm/websites/bmcom/bentleymotors-com/homepage/26my-azure/GT%20Azure%20Dynamic%20Desktop.jpg/_jcr_content/renditions/original.image_file.1286.643.file/GT%20Azure%20Dynamic%20Desktop.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/car/zh/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7soYcnQ8AFBLuubUBRYLgR25sPI3e4WORzw&s",
+      "fuentePagina": "https://www.chery.cn/",
+      "titulo": "奇瑞汽车官方网站",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7soYcnQ8AFBLuubUBRYLgR25sPI3e4WORzw&s",
+      "original": "https://material.chery.cn/media/43jnrzfb/chery-car.png"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/car/zh/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSifP_y4zstT7X4ybvI6p2qPlfEUn7Bogd_NA&s",
+      "fuentePagina": "https://www.jetour.com.cn/",
+      "titulo": "捷途汽车官方网站",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSifP_y4zstT7X4ybvI6p2qPlfEUn7Bogd_NA&s",
+      "original": "https://shopimg.jetour.com.cn/newweb/vehicles/x70honour/960440.png"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/car/zh/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSz4Vo8Kf56WTv2Iu60SsHsIShgv7FbaXgVWw&s",
+      "fuentePagina": "https://info.xcar.com.cn/",
+      "titulo": "新车资讯_2026新车发布新闻_最新汽车资讯-爱卡汽车",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSz4Vo8Kf56WTv2Iu60SsHsIShgv7FbaXgVWw&s",
+      "original": "https://pic.xcar.com.cn/strategy/cos/image/2023/2/27/strategy_20230227092314012726924506097.jpg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/car/zh/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmQOFiDBGG2x_Qd8vxkSn5RNTlpszbpxow2w&s",
+      "fuentePagina": "https://www.gwm.com.cn/globalBusiness.html",
+      "titulo": "全球业务- 长城汽车官网",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmQOFiDBGG2x_Qd8vxkSn5RNTlpszbpxow2w&s",
+      "original": "https://www.gwm.com.cn/dist/images/globalBusiness/car.png"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/car/zh/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLjpBUu1paCElnjSS2wGFCQh5lbEFrnTzZRA&s",
+      "fuentePagina": "https://www.hozonauto.com/",
+      "titulo": "哪吒汽车官方网站",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLjpBUu1paCElnjSS2wGFCQh5lbEFrnTzZRA&s",
+      "original": "https://new-official-website-prod.oss-cn-hangzhou.aliyuncs.com/cmsstatic/static/images/index-banner02%401x.webp"
+    }
+  ]
+}

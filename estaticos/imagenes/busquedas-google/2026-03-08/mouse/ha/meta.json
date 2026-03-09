@@ -1,0 +1,71 @@
+{
+  "categoria": "mouse",
+  "categoriaSlug": "mouse",
+  "idioma": "ha",
+  "nombreIdioma": "Hausa",
+  "termino": "ɓera",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:22:25.448Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "ha",
+    "gl": "ng"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=%C9%93era&hl=ha&gl=ng",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/mouse/ha/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkKZ8EaLR3u10IhR8IFThhEtXlmHrll2Cwfw&s",
+      "fuentePagina": "https://ha.wikipedia.org/wiki/%C6%81era",
+      "titulo": "Ɓera - Wikipedia",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkKZ8EaLR3u10IhR8IFThhEtXlmHrll2Cwfw&s",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/CrycetomysGambianus_Apsilia.JPG/1280px-CrycetomysGambianus_Apsilia.JPG"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/mouse/ha/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyy86eXj8SXLglNROw5QAi6sly8x_F1khWSg&s",
+      "fuentePagina": "https://www.bbc.com/hausa/labarai-39252122",
+      "titulo": "Paris: Za a kashe maƙudan kuɗi don sayo tarkunan ɓera - BBC ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyy86eXj8SXLglNROw5QAi6sly8x_F1khWSg&s",
+      "original": "http://c.files.bbci.co.uk/4F80/production/_95125302_dc00cbde-a297-46af-9765-65a0583100e6.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/mouse/ha/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSq4G4oEIU6D2PSY-yuciOQtehFCcmTe2qmg&s",
+      "fuentePagina": "https://www.bbc.com/hausa/labarai-39421048",
+      "titulo": "Kun san yadda ɓera ya fara rayuwa da mutane? - BBC News Hausa",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSq4G4oEIU6D2PSY-yuciOQtehFCcmTe2qmg&s",
+      "original": "http://c.files.bbci.co.uk/58ED/production/_95356722_d64436bd-e791-42e4-a051-f437623b01ce.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/mouse/ha/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6fY0PBy59rIFMwaVsmZ2-G3vmjLXM34UQzw&s",
+      "fuentePagina": "https://ha.wikipedia.org/wiki/%C6%81era",
+      "titulo": "Ɓera - Wikipedia",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6fY0PBy59rIFMwaVsmZ2-G3vmjLXM34UQzw&s",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Rattus_norvegicus_1.jpg/250px-Rattus_norvegicus_1.jpg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/mouse/ha/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOT-yPllFo1B5L-bHG2siBPiq0k-pq0gobHw&s",
+      "fuentePagina": "https://ha.wikipedia.org/wiki/%C6%81era",
+      "titulo": "Ɓera - Wikipedia",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOT-yPllFo1B5L-bHG2siBPiq0k-pq0gobHw&s",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Rats_young.jpg/250px-Rats_young.jpg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/mouse/ha/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqbEW-Asm6h19g8NLi2z70O7GeTam6iO2A5w&s",
+      "fuentePagina": "https://hausadictionary.com/%C9%93era",
+      "titulo": "ɓera - HausaDictionary.com | Hausa English Translations",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqbEW-Asm6h19g8NLi2z70O7GeTam6iO2A5w&s",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Rattus_rattus03.jpg/314px-Rattus_rattus03.jpg"
+    }
+  ]
+}

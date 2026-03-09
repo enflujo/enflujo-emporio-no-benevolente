@@ -1,0 +1,71 @@
+{
+  "categoria": "dog",
+  "categoriaSlug": "dog",
+  "idioma": "kg",
+  "nombreIdioma": "Kikongo",
+  "termino": "mbwa",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T20:51:00.657Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "fr",
+    "gl": "cd"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=mbwa&hl=fr&gl=cd",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/dog/kg/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9oEYwn0zBjRbbtS_rKRCQsELKTP7j_kcMJg&s",
+      "fuentePagina": "https://www.youtube.com/watch?v=QNRejlzMQS0",
+      "titulo": "VIDEO YA MBWA TOP 3 HATARI DUNIANI !! UKIFUGA MBWA HAWA WEKA ROHO MKONONI  Ni Noooma!!",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9oEYwn0zBjRbbtS_rKRCQsELKTP7j_kcMJg&s",
+      "original": "https://i.ytimg.com/vi/QNRejlzMQS0/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLAnoF6jrxtUZNmKokezk2rzt4VDeQ"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/dog/kg/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRoCC32BTOJ7p8Ye84zLLZ3wCBf6DhAADX7bA&s",
+      "fuentePagina": "https://music.apple.com/ci/song/mbwa/1807075346",
+      "titulo": "Mbwa - Morceau par D Voice - Apple Music",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRoCC32BTOJ7p8Ye84zLLZ3wCBf6DhAADX7bA&s",
+      "original": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/c1/41/ef/c141efe3-f257-d561-a6d3-b34270882989/859704015526_cover.jpg/600x600bf-60.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/dog/kg/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCzJLFUXPRpTFY48B_4oF5JKtsSMzgBwmG9A&s",
+      "fuentePagina": "https://www.youtube.com/watch?v=mb1FwpNVT0s",
+      "titulo": "MBWA HATARI ZAIDI DUNIANI, MASHINE YA MAUAJI, HATARI KWA BINADAMU, REKODI  ZA KUTISHA",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCzJLFUXPRpTFY48B_4oF5JKtsSMzgBwmG9A&s",
+      "original": "https://i.ytimg.com/vi/mb1FwpNVT0s/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLCqRtCtTroWgVtI6aYV-tGA02MdRg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/dog/kg/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfegNfrOFZlCB--IlZUMaVxP8ev1g6rlmk2g&s",
+      "fuentePagina": "https://habarileo.co.tz/namna-ya-kufanya-mbwa-asile-chakula-cha-adui/",
+      "titulo": "Namna ya kufanya mbwa asile chakula cha adui - HabariLeo",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfegNfrOFZlCB--IlZUMaVxP8ev1g6rlmk2g&s",
+      "original": "https://habarileo.co.tz/wp-content/uploads/2022/12/images.jpg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/dog/kg/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXxoOde7bwCw5FpzO-CXBVN7F6tNrHUKOFFA&s",
+      "fuentePagina": "https://www.alamyimages.fr/photos-images/mbwa-mwitu.html",
+      "titulo": "Mbwa mwitu Banque de photographies et d'images à haute ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXxoOde7bwCw5FpzO-CXBVN7F6tNrHUKOFFA&s",
+      "original": "https://c8.alamy.com/compfr/2hf8480/chien-sauvage-africain-lycaon-pictus-reposant-au-bord-du-lac-ndutu-parc-national-du-serengeti-tanzanie-afrique-swahili-nom-mbwa-mwitu-red-list-categorie-endans-2hf8480.jpg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/dog/kg/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnNPG_Qh6zQuOYuoXmUhQeZ1uJz9sNl1J0UA&s",
+      "fuentePagina": "https://www.youtube.com/watch?v=YTdiF6D7AEs",
+      "titulo": "#TOP5 Mbwa hatari zaidi duniani",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnNPG_Qh6zQuOYuoXmUhQeZ1uJz9sNl1J0UA&s",
+      "original": "https://i.ytimg.com/vi/YTdiF6D7AEs/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLBue-CUNXi6KqC0f60WsXDnP6Leww"
+    }
+  ]
+}

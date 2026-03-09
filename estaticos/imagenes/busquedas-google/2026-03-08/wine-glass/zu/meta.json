@@ -1,0 +1,71 @@
+{
+  "categoria": "wine glass",
+  "categoriaSlug": "wine-glass",
+  "idioma": "zu",
+  "nombreIdioma": "isiZulu",
+  "termino": "ingilazi yaywayini",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:06:55.687Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "zu",
+    "gl": "za"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=ingilazi%20yaywayini&hl=zu&gl=za",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/wine-glass/zu/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOiSKhumYwQhBuzLUqsRSV4TWsnuC_OJR1bw&s",
+      "fuentePagina": "https://www.cars.co.za/for-sale/used/2020-Golden-Journey-Ibhubezi-KL-2.2i-Gauteng-Bedfordview/8819745/",
+      "titulo": "Used Golden Journey Ibhubezi KL 2.2i for sale in Gauteng ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOiSKhumYwQhBuzLUqsRSV4TWsnuC_OJR1bw&s",
+      "original": "https://img-ik.cars.co.za/ik-seo/carsimages/tr:n-stock_med/8819745_2/2020-Golden-Journey-Ibhubezi-KL-22i.jpg?v=3896743136"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/wine-glass/zu/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7yBvoPSZeBTGHORsG8deFBl4bku1QBxIn_A&s",
+      "fuentePagina": "https://www.ingwaziproducts.co.za/custom/ingwazi/ingwaziproducts.asp",
+      "titulo": "INGWAZI HEALTH PRODUCTS",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7yBvoPSZeBTGHORsG8deFBl4bku1QBxIn_A&s",
+      "original": "https://www.sales.ingwaziproducts.co.za/images/Image%20Isiqwayi%203%20in%201-%201.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/wine-glass/zu/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVDUpbxaLra2FqYIMYV13O6uUlQmAu1kc-cg&s",
+      "fuentePagina": "https://www.instagram.com/p/CxLR0vOtKNr/",
+      "titulo": "We had an honour of having Monwabisi Dinwayo, the Educator ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVDUpbxaLra2FqYIMYV13O6uUlQmAu1kc-cg&s",
+      "original": "https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3191723144959697480"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/wine-glass/zu/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_rQXAaS_gx5qdj70GaRULfKHdwmI26YS9_Q&s",
+      "fuentePagina": "https://www.ingwaziproducts.co.za/pages/20012/our-team",
+      "titulo": "The INGWAZI Team",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_rQXAaS_gx5qdj70GaRULfKHdwmI26YS9_Q&s",
+      "original": "https://www.ingwaziproducts.co.za/files/1196/images/pretty.jpg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/wine-glass/zu/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRq_iLdJ2l2Bg55DndbYdQz6ccZ4b1Y4RBkdg&s",
+      "fuentePagina": "https://www.cars.co.za/for-sale/used/2019-Golden-Journey-Ibhubezi-2.2i-Gauteng-Randburg/10446008/",
+      "titulo": "Used Golden Journey Ibhubezi 2.2i for sale in Gauteng - Cars ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRq_iLdJ2l2Bg55DndbYdQz6ccZ4b1Y4RBkdg&s",
+      "original": "https://img-ik.cars.co.za/ik-seo/carsimages/tr:n-vehicle_gallery_thumbnails/10446008/2019-Golden-Journey-Ibhubezi-22i.jpg?v=3828795144"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/wine-glass/zu/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYH6gE11hc4LJ9ujORJ7zxfpepK4_eVgs4eg&s",
+      "fuentePagina": "https://www.cars.co.za/for-sale/used/2020-Golden-Journey-Ibhubezi-2.2i-Gauteng-Randburg/10171486/",
+      "titulo": "Used Golden Journey Ibhubezi 2.2i for sale in Gauteng - Cars ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYH6gE11hc4LJ9ujORJ7zxfpepK4_eVgs4eg&s",
+      "original": "https://img-ik.cars.co.za/ik-seo/carsimages/tr:n-stock_med/10171486_2/2020-Golden-Journey-Ibhubezi-22i.jpg?v=2799639494"
+    }
+  ]
+}

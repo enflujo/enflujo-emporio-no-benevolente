@@ -1,0 +1,71 @@
+{
+  "categoria": "sink",
+  "categoriaSlug": "sink",
+  "idioma": "en",
+  "nombreIdioma": "English",
+  "termino": "sink",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:26:44.037Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "en",
+    "gl": "us"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=sink&hl=en&gl=us",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/sink/en/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRY1XOdUmJwCHqsnCgoFm-I3_kG0A0DE_pbNg&s",
+      "fuentePagina": "https://www.ebay.com/itm/192575227104",
+      "titulo": "Modern Bathroom Square Basin Sink Full Pedestal Single Tap ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRY1XOdUmJwCHqsnCgoFm-I3_kG0A0DE_pbNg&s",
+      "original": "https://ohrmarketplaceimages.blob.core.windows.net/linnworks-images/PWBK0001/PWBK0001__EBY_LS.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/sink/en/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1PzKPywBYNHdaVpzqwR9bcDgebAbvFo2FcA&s",
+      "fuentePagina": "https://www.ruvati.com/products/ruvati-36-inch-slope-bottom-offset-drain-reversible-kitchen-sink-undermount-16-gauge-stainless-steel-rvh7497/",
+      "titulo": "Ruvati 36-inch Slope Bottom Offset Drain Reversible Kitchen ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1PzKPywBYNHdaVpzqwR9bcDgebAbvFo2FcA&s",
+      "original": "https://www.ruvati.com/wp-content/uploads/RVH7497-1.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/sink/en/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpA8Dp3c3g6mz7t79vMaSMbdDn6H7QJJHW-A&s",
+      "fuentePagina": "https://articture.com/products/luxury-sink?srsltid=AfmBOooVy8eWQul3h5P5rV_9_XHzDu10iQG_RGOSm6gLXciobhcHZukZ",
+      "titulo": "Articture Signature Luxury Sink",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpA8Dp3c3g6mz7t79vMaSMbdDn6H7QJJHW-A&s",
+      "original": "http://articture.com/cdn/shop/files/image_2_6b85e401-e421-4a33-b1c0-79d14ef6e08c.jpg?v=1691270810"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/sink/en/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSI4zIq9dU_NvoCQnhQGXGT1QDQd21JE8MDSA&s",
+      "fuentePagina": "https://www.thehardscapeexchange.com/products/elements-outdoor-drop-in-sink?srsltid=AfmBOoq_f2Yxhc-dgYAnqqCh_y7oEuGvvN1uw9rXeIqNKivrm0ylSkgY",
+      "titulo": "Elements Outdoor Drop-In Sink",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSI4zIq9dU_NvoCQnhQGXGT1QDQd21JE8MDSA&s",
+      "original": "http://www.thehardscapeexchange.com/cdn/shop/products/slideshow-elements-outdoor-drop-Insink-image-1_1200x1200.jpg?v=1670894903"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/sink/en/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUJdkJjaYVP66M1itv42rMc2kDpDwqxOJsBw&s",
+      "fuentePagina": "https://horow.com/products/horow-farmhouse-kitchen-sink-reversible-single-bowl-model-hr-s0185w?srsltid=AfmBOoq125wwwZ8PiCgSJ2O6-A19uemM9QevBZNAXDHHxSjfIc-LBMao",
+      "titulo": "HOROW Farmhouse Kitchen Sink Reversible Single Bowl Model HR-S0185W",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUJdkJjaYVP66M1itv42rMc2kDpDwqxOJsBw&s",
+      "original": "https://horow.com/cdn/shop/files/S0185W.webp?v=1712657770"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/sink/en/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQztmJkT-99RDMAYiW3wwfKns1a0QaGsdZD8A&s",
+      "fuentePagina": "https://www.amerisink.com/product/as1372-33-x-22-x-8-20g-single-bowl-topmount-economy-stainless-steel-kitchen-sink/",
+      "titulo": "AS1372 33\" x 22\" x 8\" 20G Single Bowl Topmount Economy Stainless Steel  Kitchen Sink",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQztmJkT-99RDMAYiW3wwfKns1a0QaGsdZD8A&s",
+      "original": "https://www.amerisink.com/wp-content/uploads/2016/05/AS137_Kitchen.jpg"
+    }
+  ]
+}

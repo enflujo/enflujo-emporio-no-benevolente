@@ -1,0 +1,71 @@
+{
+  "categoria": "potted plant",
+  "categoriaSlug": "potted-plant",
+  "idioma": "zh",
+  "nombreIdioma": "中文",
+  "termino": "盆栽植物",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:18:46.738Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "zh-CN",
+    "gl": "cn"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=%E7%9B%86%E6%A0%BD%E6%A4%8D%E7%89%A9&hl=zh-CN&gl=cn",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/potted-plant/zh/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHs8U2qFs3ouEq2KgVfU9RKr5RTFgx1oLvow&s",
+      "fuentePagina": "https://www.epochtimes.com/gb/20/10/22/n12494344.htm",
+      "titulo": "美化厨房窗台9种生命力旺盛的室内盆栽| 室内植物| 芦荟| 大紀元",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHs8U2qFs3ouEq2KgVfU9RKr5RTFgx1oLvow&s",
+      "original": "https://i.epochtimes.com/assets/uploads/2020/10/shutterstock_1683433207.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/potted-plant/zh/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBxSdx3mm1exsIDCBlVyUEuNnBITOw7bk_bA&s",
+      "fuentePagina": "https://www.nethm.com/penzai/4572.html",
+      "titulo": "盆栽植物大全（100种室内盆栽花草）_花卉网",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBxSdx3mm1exsIDCBlVyUEuNnBITOw7bk_bA&s",
+      "original": "https://www.nethm.com/wp-content/uploads/2022/12/53bbe777e408441ba82d06794549c9c9.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/potted-plant/zh/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPFguMdmDOo0bYTdcbilKNZq9IaJlhYb4x-A&s",
+      "fuentePagina": "https://www.florahouses.com/tc/Floor-Plant?srsltid=AfmBOoq2Bl-dLy_-nKG-sl2eUfwwQ7PZy5xjV7IyHcleQb_5mUiAX9mV",
+      "titulo": "Flora Houses 芳序園藝- 網上盆栽店",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPFguMdmDOo0bYTdcbilKNZq9IaJlhYb4x-A&s",
+      "original": "https://www.florahouses.com/assets/files/product_img/img/06c036ca3abe55e1db059cb2c875b73e.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/potted-plant/zh/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWvzZacHce2Zp-3w9AteOxWA0tz0hZA1vlWA&s",
+      "fuentePagina": "https://plant.sayit.com.tw/product/platinum-vines-waterless-potted-plants-indoor-plants-foliage-plants-gifts-potted-plants-office-gifts-lazy-plants/",
+      "titulo": "鉑金蔓綠絨免澆水盆栽室內植物觀葉植物禮物盆栽辦公室小物懶人 ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWvzZacHce2Zp-3w9AteOxWA0tz0hZA1vlWA&s",
+      "original": "https://plant.sayit.com.tw/wp-content/uploads/2023/12/250521_5.jpg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/potted-plant/zh/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-jNW8mSN9-_kdOPqtepbH_nd5XQtYCSw11Q&s",
+      "fuentePagina": "https://moon-florist.com/%E7%9B%86%E6%A0%BD?srsltid=AfmBOopEREtOoOR2ls5pxfFMaj4vMSrnCFgIckMABOJfCIUftLG12s6x",
+      "titulo": "盆栽】 | 室內盆栽| Moon Florist 植物盆栽",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-jNW8mSN9-_kdOPqtepbH_nd5XQtYCSw11Q&s",
+      "original": "https://moon-florist.com/wp-content/uploads/2023/08/%E7%9B%86%E6%A0%BD%EF%BC%8C%E5%AE%A4%E5%85%A7%E7%9B%86%E6%A0%BD%EF%BC%8C%E6%A4%8D%E7%89%A9%E7%9B%86%E6%A0%BD-02.jpg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/potted-plant/zh/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnwiCMptaasUbOIZLbjDWV4u4HLrbYPThwtQ&s",
+      "fuentePagina": "https://m.hua.com/huayu/22797.html",
+      "titulo": "盆栽植物落叶的原因是什么？-中国花礼网(鲜花礼品网)",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnwiCMptaasUbOIZLbjDWV4u4HLrbYPThwtQ&s",
+      "original": "https://img01.hua.com/uploadpic/images/by_20181019181619510.jpg"
+    }
+  ]
+}

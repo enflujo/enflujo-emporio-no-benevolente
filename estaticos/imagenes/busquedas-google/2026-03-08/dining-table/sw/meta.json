@@ -1,0 +1,71 @@
+{
+  "categoria": "dining table",
+  "categoriaSlug": "dining-table",
+  "idioma": "sw",
+  "nombreIdioma": "Kiswahili",
+  "termino": "meza ya chakula",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:19:38.199Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "sw",
+    "gl": "tz"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=meza%20ya%20chakula&hl=sw&gl=tz",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/dining-table/sw/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEGTfR9IiPXdn2e3TC0OF1wTmp8iXGuvtkpg&s",
+      "fuentePagina": "https://www.facebook.com/loftInc/posts/ninga-dining-table-meza-ya-chakula-ya-mningakwanini-wengine-walie-chakula-kwenye/450046525740932/",
+      "titulo": "NINGA Dining Table || Meza ya Chakula ya MNINGA. Kwanini ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEGTfR9IiPXdn2e3TC0OF1wTmp8iXGuvtkpg&s",
+      "original": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=450046525740932"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/dining-table/sw/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEqLmjDbVxZ3FRYkKcxGAx6E85eMJx93kPzQ&s",
+      "fuentePagina": "https://www.instagram.com/p/DJZDR0kNFlT/",
+      "titulo": "ROUND DINING TABLE/MEZA YA CHAKULA YA DUARA 📌Mbao ni mninga ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEqLmjDbVxZ3FRYkKcxGAx6E85eMJx93kPzQ&s",
+      "original": "https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3627945387722499528"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/dining-table/sw/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRziDokaJsrTzzLkYjkniyFZSsOoRBNaaWQJQ&s",
+      "fuentePagina": "https://x.com/furniture_ah/status/1453247745465200647",
+      "titulo": "Meza ya chakula viti vinne kwa laki 8",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRziDokaJsrTzzLkYjkniyFZSsOoRBNaaWQJQ&s",
+      "original": "https://pbs.twimg.com/media/FCr5G4gXsAYUJIm.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/dining-table/sw/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzy1HHeLZ6UyhyZuLuQ_mvujCb08mdXHxKtA&s",
+      "fuentePagina": "https://www.instagram.com/p/C0L1JTjKfdh/",
+      "titulo": "Meza ya chakula bei Tsh 260,000/= mbao ngumu viti vi nne ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzy1HHeLZ6UyhyZuLuQ_mvujCb08mdXHxKtA&s",
+      "original": "https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3245921685956445904"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/dining-table/sw/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvVo7RdBUiZOBmo8icCdo8AI2XqGaJXRdLeA&s",
+      "fuentePagina": "https://jiji.co.tz/temeke/furniture/meza-ya-chakula-viti-6-4amuOY3e39ub0nye5dDFiC26.html",
+      "titulo": "Meza Ya Chakula Viti 6 in Temeke - Furniture, Joy ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvVo7RdBUiZOBmo8icCdo8AI2XqGaJXRdLeA&s",
+      "original": "https://pictures-tanzania.jijistatic.com/1718688_NjIwLTYyMC0zYTc4Yjg5OTM5.webp"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/dining-table/sw/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAqVxFrUSTQyPNxpCaO4jB13mPrRjUJAIkFw&s",
+      "fuentePagina": "https://kupatana.com/tz/listings/p/meza-za-chakula/6297fa669cf5310001930434319099",
+      "titulo": "Meza za Chakula | Kupatana",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAqVxFrUSTQyPNxpCaO4jB13mPrRjUJAIkFw&s",
+      "original": "https://kupatana.com/api/v1/filestorage/image/medium/42bac5026ebf20d963b2ef77f375aea1.jpg"
+    }
+  ]
+}

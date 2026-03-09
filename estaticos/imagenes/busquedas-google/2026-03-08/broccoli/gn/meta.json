@@ -1,0 +1,71 @@
+{
+  "categoria": "broccoli",
+  "categoriaSlug": "broccoli",
+  "idioma": "gn",
+  "nombreIdioma": "Guaraní",
+  "termino": "brokoli",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:13:34.056Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "es",
+    "gl": "py"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=brokoli&hl=es&gl=py",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/broccoli/gn/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZ37T_XU37JvUYKuoFMrwHSNwMuV393UxU6w&s",
+      "fuentePagina": "https://en.wikipedia.org/wiki/Broccoli",
+      "titulo": "Broccoli - Wikipedia",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZ37T_XU37JvUYKuoFMrwHSNwMuV393UxU6w&s",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/0/03/Broccoli_and_cross_section_edit.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/broccoli/gn/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSaUXX52sXh6z1JrPutVhqMCzQfPUZ2FjgThw&s",
+      "fuentePagina": "https://www.cheongvege.com/showproducts/productid/4995796/cid/518645/broccoli-brokoli/",
+      "titulo": "Broccoli / Brokoli Import Vegetables Ipoh, Perak, Malaysia ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSaUXX52sXh6z1JrPutVhqMCzQfPUZ2FjgThw&s",
+      "original": "https://cdn1.npcdn.net/images/42a48e682c6ed0960e2168e2660b6bc6_1716725291.webp?md5id=3df9f63b70bff498764b4daa10ce8f6a&new_width=1000&new_height=1000&size=max&w=1739776175&from=jpeg&type=9"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/broccoli/gn/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0KAWHFJnNd5trTL1TST7g3QrOSG6RZo-QWA&s",
+      "fuentePagina": "https://pasarrakyatbali.com/products/brokoli-organik-organic-broccoli-500g",
+      "titulo": "Brokoli Organik - Organic Broccoli / 500g | Pasar Rakyat Bali",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0KAWHFJnNd5trTL1TST7g3QrOSG6RZo-QWA&s",
+      "original": "http://pasarrakyatbali.com/cdn/shop/products/say-016_6d6849ab-8389-47a8-bdac-d5c7f10719a3_1200x1200.png?v=1595727414"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/broccoli/gn/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQoZibA23ib5SuJNRALc1XaRwYcGhLMWASI-Q&s",
+      "fuentePagina": "https://es.pngtree.com/freepng/fresh-green-broccoli_20934934.html",
+      "titulo": "Brócoli Verde Fresco PNG ,dibujos Brócoli, Verdura, Verde ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQoZibA23ib5SuJNRALc1XaRwYcGhLMWASI-Q&s",
+      "original": "https://png.pngtree.com/png-clipart/20250504/original/pngtree-fresh-green-broccoli-png-image_20934934.png"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/broccoli/gn/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUtLzRfRRLgvDgBSQlWc-xohVNynB8n3t7ow&s",
+      "fuentePagina": "https://www.etineniyisi.com/en/organik-brokoli",
+      "titulo": "Organik Brokoli| İyisi Organik",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUtLzRfRRLgvDgBSQlWc-xohVNynB8n3t7ow&s",
+      "original": "https://static.ticimax.cloud/43437/uploads/urunresimleri/organik-brokoli-6f6141.jpg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/broccoli/gn/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWVvoRuL33UdczzJFhGN8fuFxJftZjaXssjw&s",
+      "fuentePagina": "https://www.halodoc.com/artikel/ini-9-manfaat-brokoli-untuk-kesehatan-yang-perlu-diketahui?srsltid=AfmBOoq_fwQZTnz22j3cPfKaix-Cyp2B0yGmpI9ZP6maY9abslXIjsI7",
+      "titulo": "Ini 9 Manfaat Brokoli untuk Kesehatan yang Perlu Diketahui",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWVvoRuL33UdczzJFhGN8fuFxJftZjaXssjw&s",
+      "original": "https://d1vbn70lmn1nqe.cloudfront.net/prod/wp-content/uploads/2023/06/27044615/Ini-13-Manfaat-Brokoli-untuk-Kesehatan-yang-Perlu-Diketahui-.jpg"
+    }
+  ]
+}

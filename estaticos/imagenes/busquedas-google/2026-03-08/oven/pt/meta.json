@@ -1,0 +1,71 @@
+{
+  "categoria": "oven",
+  "categoriaSlug": "oven",
+  "idioma": "pt",
+  "nombreIdioma": "Português",
+  "termino": "forno",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:26:02.851Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "pt",
+    "gl": "br"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=forno&hl=pt&gl=br",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/oven/pt/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSh9Qlppl9PSUkRLwK-RX3OB_ZJRr3qT0tb4A&s",
+      "fuentePagina": "https://www.benoit.com.br/forno-eletrico-philco-pfe52p-dupla-resistencia-50l-com-bandeja-coletora-de-residuos-timer-60-minutos-10010326-p1070409",
+      "titulo": "Forno Elétrico Philco PFE52P Dupla Resistência 50L Com Bandeja Coletora de  Resíduos Timer 60 Minutos - Benoit.com.br",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSh9Qlppl9PSUkRLwK-RX3OB_ZJRr3qT0tb4A&s",
+      "original": "https://d296pbmv9m7g8v.cloudfront.net/Custom/Content/Products/10/70/1070409_forno-eletrico-philco-pfe52p-dupla-resistencia-50l-com-bandeja-coletora-de-residuos-timer-60-minutos-10010326_m48_638979603355771036.webp"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/oven/pt/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ24BTSbgP5VwwgZCnSd7wwjVgWz2l8fJ6IAQ&s",
+      "fuentePagina": "https://www.amazon.com.br/El%C3%A9trico-BFE50P-Fun%C3%A7%C3%A3o-Dourar-Brit%C3%A2nia/dp/B07C5XF1SK",
+      "titulo": "Forno Elétrico, Bfe50p, 50L, Preto, 110v, Britânia | Amazon.com.br",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ24BTSbgP5VwwgZCnSd7wwjVgWz2l8fJ6IAQ&s",
+      "original": "https://m.media-amazon.com/images/I/61Q0At48-GL._AC_UF894,1000_QL80_.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/oven/pt/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4D_Elrg7zrp5FS5wtQkjYzfYEV7cwKSPHQA&s",
+      "fuentePagina": "https://www.novalar.com.br/forno-eletrico-philco-pfe44p-44l/p?srsltid=AfmBOoqO4yZYPBROxelYRti4NnLjcLLUpNrenyP79ua3SUTI-AScforC",
+      "titulo": "Forno Elétrico Philco PFE44P Dupla Resistência 44L - Preto 127V",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4D_Elrg7zrp5FS5wtQkjYzfYEV7cwKSPHQA&s",
+      "original": "https://t62533.vteximg.com.br/arquivos/ids/944470-1000-1000/Forno-ElEtrico-Philco-PFE44P-frente.jpg?v=638467398057670000"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/oven/pt/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6K-3CI1eDyYkvQEpCJ5-B8DQoxxDLS9k9cg&s",
+      "fuentePagina": "https://www.fischer.com.br/forno-eletrico-fischer-gourmet-grill-bancada-44l/p?srsltid=AfmBOopmv6eAwuAKRQ5N9ZVz4OQ6zrxgNMz8Xi38sl0vV7TVsxmbxbnB",
+      "titulo": "Forno Elétrico de Bancada Fischer Gourmet Grill 44 litros",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6K-3CI1eDyYkvQEpCJ5-B8DQoxxDLS9k9cg&s",
+      "original": "https://www.fischer.com.br/media/catalog/product/cache/1a57bae80e9fc366f375d1c874ef620b/g/o/gourmet_100.png"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/oven/pt/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSMXVnFRM1JJ8tNVU_lHHcXcjNMjFCwpKIvw&s",
+      "fuentePagina": "https://www.gazin.com.br/produto/forno-eletrico-de-embutir-80l-electrolux-efficient-com-perfectcook-360-oe8eh/6465/preto/220-volts?srsltid=AfmBOopQFlCii3qe5PbrxDe4zTcrzm5W1_4oupvlRk3Zqmz-wupp8IPD",
+      "titulo": "Forno Elétrico de Embutir 80L Electrolux Efficient com PerfectCook 360 OE8EH",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSMXVnFRM1JJ8tNVU_lHHcXcjNMjFCwpKIvw&s",
+      "original": "https://gazin-images.gazin.com.br/jm9p89B8nqTIKxbvvwbYawzRBsg=/1920x/filters:format(webp):quality(75)/https://gazin-marketplace.s3.amazonaws.com/midias/imagens/2024/07/forno-eletrico-de-embutir-80l-electrolux-efficient-com-perfectcook-oe8eh-122407330633.jpg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/oven/pt/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLS_JLJHx36YFN_EAMfaKbKqUl1pj2NNl07w&s",
+      "fuentePagina": "https://www.amazon.com.br/Forno-El%C3%A9trico-Grand-Family-Mondial/dp/B09X1NXKZ2",
+      "titulo": "Forno Elétrico 52L Grand Family II, Mondial, Preto/Inox ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLS_JLJHx36YFN_EAMfaKbKqUl1pj2NNl07w&s",
+      "original": "https://m.media-amazon.com/images/I/81464FGspfL._AC_UF894,1000_QL80_.jpg"
+    }
+  ]
+}

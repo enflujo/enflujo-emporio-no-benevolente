@@ -1,0 +1,71 @@
+{
+  "categoria": "frisbee",
+  "categoriaSlug": "frisbee",
+  "idioma": "ar",
+  "nombreIdioma": "العربية",
+  "termino": "فريسبي",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T20:59:44.161Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "ar",
+    "gl": "eg"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=%D9%81%D8%B1%D9%8A%D8%B3%D8%A8%D9%8A&hl=ar&gl=eg",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/frisbee/ar/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFxvDJV2Z91BsdBr0l7TB7OI7v1xMlUqDt1A&s",
+      "fuentePagina": "https://www.amazon.eg/%D8%A3%D9%84%D8%AA%D9%85%D9%8A%D8%AA-%D9%81%D8%B1%D9%8A%D8%B3%D8%A8%D9%8A-%D8%A3%D9%84%D8%AA%D8%B1%D8%A7-%D8%B3%D8%AA%D8%A7%D8%B1-%D8%AF%D9%8A%D8%B3%D9%83%D8%B1%D8%A7%D9%81%D8%AA/dp/B002UR45A2",
+      "titulo": "قرص ألتميت فريسبي ألترا ستار من ديسكرافت 175 جم : Amazon.eg ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFxvDJV2Z91BsdBr0l7TB7OI7v1xMlUqDt1A&s",
+      "original": "https://m.media-amazon.com/images/I/81dYU65A5hL.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/frisbee/ar/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStLgstUIpMpgelMQOC2gH2Oy8gYPi-i6aQFA&s",
+      "fuentePagina": "https://athletehome-eg.com/products/athlete-home-flying-disc-soft-frisbee-multi-colour?srsltid=AfmBOooe6GvnILi4uLD9lL_CGqiCyzQDl9Bny0rk2tycSjyq5jdA8xdl",
+      "titulo": "قرص فريسبي احترافي للطيران من Athlete Home | تصميم ديناميكي هوائي لرمي",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStLgstUIpMpgelMQOC2gH2Oy8gYPi-i6aQFA&s",
+      "original": "http://athletehome-eg.com/cdn/shop/files/28557-6806.jpg?v=1711272644"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/frisbee/ar/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEWUbJKKhCjL7KInkpU4nQMaSNi3LLEkxwyQ&s",
+      "fuentePagina": "https://en.wikipedia.org/wiki/Frisbee",
+      "titulo": "Frisbee - Wikipedia",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEWUbJKKhCjL7KInkpU4nQMaSNi3LLEkxwyQ&s",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Frisbee_090719.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/frisbee/ar/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMK6a_cTvZ75gd12iNga80V96n5Tp2-STwDg&s",
+      "fuentePagina": "https://sa.made-in-china.com/co_zimmergifts/product_Professional-Ultimate-Frisbee-PP-Material-Frisbee-Tournament-Team-Outdoor-Sports-Frisbee_yusiirgrrg.html",
+      "titulo": "محترف [فريسبي] نهائيّة [بي] مادة [فريسبي] مباراة فريق رياضات ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMK6a_cTvZ75gd12iNga80V96n5Tp2-STwDg&s",
+      "original": "https://image.made-in-china.com/202f0j00yshkZnbccrod/Professional-Ultimate-Frisbee-PP-Material-Frisbee-Tournament-Team-Outdoor-Sports-Frisbee.webp"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/frisbee/ar/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTX7SEkJ1_Z4SqBx5re3VWzSz0jWz5Xb0XDag&s",
+      "fuentePagina": "https://www.decathlon.eg/ar/p/334931-103891-%D9%81%D8%B1%D9%8A%D8%B3%D8%A8%D9%8A-d145-%D9%84%D9%84%D8%A3%D8%B7%D9%81%D8%A7%D9%84.html?srsltid=AfmBOoo6z_YwBv1dE889wTrG93YZmT85ul-uoeXUlWQ3xgtttY4NsHGN",
+      "titulo": "فريسبي D145 للأطفال - Decathlon",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTX7SEkJ1_Z4SqBx5re3VWzSz0jWz5Xb0XDag&s",
+      "original": "https://contents.mediadecathlon.com/p2378932/k$bdea5fedea82dbd4ca1622c1ca109eb1/%D9%81%D8%B1%D9%8A%D8%B3%D8%A8%D9%8A-d145-%D9%84%D9%84%D8%A3%D8%B7%D9%81%D8%A7%D9%84.jpg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/frisbee/ar/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGIrlofZVZWNYOqhFqaGAzV1mKryqgrtEvcQ&s",
+      "fuentePagina": "https://www.facebook.com/p/Frisby-Fried-Chicken-61565414709774/",
+      "titulo": "Frisby Fried Chicken",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGIrlofZVZWNYOqhFqaGAzV1mKryqgrtEvcQ&s",
+      "original": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=61565414709774"
+    }
+  ]
+}

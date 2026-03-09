@@ -1,0 +1,71 @@
+{
+  "categoria": "boat",
+  "categoriaSlug": "boat",
+  "idioma": "pt",
+  "nombreIdioma": "Português",
+  "termino": "barco",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T20:46:11.029Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "pt",
+    "gl": "br"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=barco&hl=pt&gl=br",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/boat/pt/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHZYg-scf3yIL9Kdclapc-JL5_aHpYAqDKUQ&s",
+      "fuentePagina": "https://www.paratypasseiosonline.com.br/barco-privativo?srsltid=AfmBOoqe77OLaCi1TTeKexfHL2vjQBqD8CTEl4PZ8UtGJeTvNvYD5UkM",
+      "titulo": "Barco privativo Santana - PARATY PASSEIOS ON LINE",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHZYg-scf3yIL9Kdclapc-JL5_aHpYAqDKUQ&s",
+      "original": "https://cdn.awsli.com.br/600x700/379/379321/produto/119635886/a6f178bac0.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/boat/pt/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtEq0M4aA5cu3K6R2GXPQ8DvUdWOFGe1frKA&s",
+      "fuentePagina": "https://www.barcopirata.com.br/embarcacoes",
+      "titulo": "Embarcações - Barco Pirata - Balneário Camboriú",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtEq0M4aA5cu3K6R2GXPQ8DvUdWOFGe1frKA&s",
+      "original": "https://www.barcopirata.com.br/assets/img-sample-to-board-galeao-galeao-photo-one.webp?h=fd70bbd184e71d4daafa7ee7c4f1d766"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/boat/pt/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSX9vd87-V77l5WBgkkD4jE_pN29pOIQ8aZZA&s",
+      "fuentePagina": "https://www.tripadvisor.com.br/Attraction_Review-g303576-d11747481-Reviews-Barco_Barba_Negra-Florianopolis_State_of_Santa_Catarina.html",
+      "titulo": "Barco Barba Negra - O que saber antes de ir (ATUALIZADO 2026)",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSX9vd87-V77l5WBgkkD4jE_pN29pOIQ8aZZA&s",
+      "original": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0d/74/a2/da/barco-barba-negra-floripa.jpg?w=1200&h=-1&s=1"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/boat/pt/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5J_FgLsWAHS8BNSjsnBB-3jCbI_HPNLML1w&s",
+      "fuentePagina": "https://noronhapasseios.com.br/product/passeio-de-barco-tradicional/",
+      "titulo": "NP06 - PASSEIO DE BARCO TRADICIONAL - Noronha Passeios",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5J_FgLsWAHS8BNSjsnBB-3jCbI_HPNLML1w&s",
+      "original": "https://noronhapasseios.com.br/wp-content/uploads/2023/04/WhatsApp-Image-2023-04-12-at-15.09.15.jpeg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/boat/pt/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS39r8EkvAJEjt3-DlHT04fpOsrX1DhszBRew&s",
+      "fuentePagina": "https://www.manaosnautica.com.br/barco-correa-filho",
+      "titulo": "Barco Correa Filho (100 Pessoas) - Passeios, Aluguel de ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS39r8EkvAJEjt3-DlHT04fpOsrX1DhszBRew&s",
+      "original": "https://cdn.awsli.com.br/600x1000/1687/1687561/produto/80567868/74d7b4d813.jpg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/boat/pt/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVBb4Gd-NFEfWZXWv2jMz_uL-t5RzsfT8ibg&s",
+      "fuentePagina": "https://www.zarpou.com.br/santa-catarina/atracoes/ingresso-barco-pirata-balneario-camboriu",
+      "titulo": "Ingresso Barco Pirata - Balneário Camboriú - Zarpou Ingressos",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVBb4Gd-NFEfWZXWv2jMz_uL-t5RzsfT8ibg&s",
+      "original": "https://cdn.zarpou.com.br/zarpou/servicos/ingresso-barco-pirata-balneario-camboriu-6502586cac534-large.jpg?quality=75"
+    }
+  ]
+}

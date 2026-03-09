@@ -1,0 +1,71 @@
+{
+  "categoria": "baseball glove",
+  "categoriaSlug": "baseball-glove",
+  "idioma": "zh",
+  "nombreIdioma": "中文",
+  "termino": "棒球手套",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:03:51.939Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "zh-CN",
+    "gl": "cn"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=%E6%A3%92%E7%90%83%E6%89%8B%E5%A5%97&hl=zh-CN&gl=cn",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/baseball-glove/zh/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRyZgSJ7KDsvBgE2EhS0g1r5MkMVP54qr6Qw&s",
+      "fuentePagina": "https://www.mizuno.com.cn/sort/shoutao",
+      "titulo": "手套- 美津浓官网",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRyZgSJ7KDsvBgE2EhS0g1r5MkMVP54qr6Qw&s",
+      "original": "https://www.mizuno.com.cn/content/uploadfile/202503/a7031741081057.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/baseball-glove/zh/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRq6byZggwZ5JKLO1xE_gxnULbTW2AzZGcNxQ&s",
+      "fuentePagina": "https://twn.mizuno.com/products/1atgh25303",
+      "titulo": "MVP 棒球手套_ 1ATGH25303 台灣美津濃官方購物網站",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRq6byZggwZ5JKLO1xE_gxnULbTW2AzZGcNxQ&s",
+      "original": "https://cdn-next.cybassets.com/media/W1siZiIsIjI2ODkyL3Byb2R1Y3RzLzUyNTU2MjY4LzI2ODkyLXByb2R1Y3QtcGhvdG8tMjAyNDEyMjYtNTMtbGZ2NTAwX2Q0ZTc2MTg1OTM4ZjRmMzZjMzc4LmpwZWciXSxbInAiLCJ0aHVtYiIsIjYwMHg2MDAiXV0.jpeg?sha=48dba741a7f17d77"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/baseball-glove/zh/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9sS7qyFVJbUlewxvbCE9bxW8epcguYiQYQQ&s",
+      "fuentePagina": "https://www.momoshop.com.tw/goods/GoodsDetail.jsp?i_code=12181059&srsltid=AfmBOor0C7YotQWrpHQLPgpc786iwjU0Ml22H-ekQjAW0YEo9R_pDmhq",
+      "titulo": "ZETT】少年軟式十字檔棒球手套焦糖色(BJGB70330) - momo購物網 ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9sS7qyFVJbUlewxvbCE9bxW8epcguYiQYQQ&s",
+      "original": "https://i1.momoshop.com.tw/1701853312/goodsimg/0012/181/059/12181059_R5_m.webp"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/baseball-glove/zh/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbTpgioD3VeK8MXXi-RjTmpnMxFlXHpEvBbA&s",
+      "fuentePagina": "https://24h.pchome.com.tw/prod/DEAQ0Q-A9005P88J?srsltid=AfmBOorQ9WxvL6LGXJSifX-JgX55XcnUvvMsJ0-CEnPGLuvcLV5ErVYm",
+      "titulo": "高質感成人棒球手套組(大手套+棒球) - PChome 24h購物",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbTpgioD3VeK8MXXi-RjTmpnMxFlXHpEvBbA&s",
+      "original": "https://img.pchome.com.tw/cs/items/DEAQ0QA9005P88J/000001_1478373611.jpg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/baseball-glove/zh/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQy_-VR2EpTdev9USRVm_TLej0qsaCD-IODzQ&s",
+      "fuentePagina": "https://prorent.com.tw/product/%E6%A3%92%E5%A3%98%E7%90%83%E6%89%8B%E5%A5%97/",
+      "titulo": "棒球手套– ProRent 專業比賽器材租借",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQy_-VR2EpTdev9USRVm_TLej0qsaCD-IODzQ&s",
+      "original": "https://prorent.com.tw/wp-content/uploads/2024/02/%E6%A3%92%E5%A3%98%E7%90%83%E6%89%8B%E5%A5%973.jpg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/baseball-glove/zh/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcReQFjYMXsplzhX5ReH4AnXn5u3cNdox1vr5Q&s",
+      "fuentePagina": "https://tw.buy.yahoo.com/gdsale/MIZUNO-%E6%A3%92%E7%90%83%E6%89%8B%E5%A5%97-%E5%A4%96%E9%87%8E%E6%89%8B%E7%94%A8-%E6%A3%92%E5%A3%98%E7%90%83-%E5%8F%B3%E6%8A%95-%E7%BE%8E-10226704.html",
+      "titulo": "MIZUNO 棒球手套-外野手用-棒壘球右投美津濃1ATGH22760-47 黃黑 ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcReQFjYMXsplzhX5ReH4AnXn5u3cNdox1vr5Q&s",
+      "original": "https://img.yec.tw/zp/MerchandiseImages/B14E8DF0DF-SP-12174181.jpg"
+    }
+  ]
+}

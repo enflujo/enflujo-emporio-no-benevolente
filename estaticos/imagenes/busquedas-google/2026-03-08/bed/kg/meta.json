@@ -1,0 +1,71 @@
+{
+  "categoria": "bed",
+  "categoriaSlug": "bed",
+  "idioma": "kg",
+  "nombreIdioma": "Kikongo",
+  "termino": "kibanda",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:19:02.537Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "fr",
+    "gl": "cd"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=kibanda&hl=fr&gl=cd",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bed/kg/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsTEfVP4DIJtGfYLl1aodjkZ_UTlkBc1aBYA&s",
+      "fuentePagina": "https://www.instagram.com/p/CvNDoy3Kub0/",
+      "titulo": "Kibanda are the essence of Kenyan local food.” Meet Judy ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsTEfVP4DIJtGfYLl1aodjkZ_UTlkBc1aBYA&s",
+      "original": "https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3156194899761160003"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bed/kg/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmbwSGxc9vXjSSg03ipqmhvPb7WzPa-jkuVQ&s",
+      "fuentePagina": "https://www.tripadvisor.fr/Hotel_Review-g616016-d12915163-Reviews-Kibanda_Lodge_And_Restaurant-Nungwi_Zanzibar_Island_Zanzibar_Archipelago.html",
+      "titulo": "KIBANDA LODGE AND RESTAURANT : tarifs 2026 et avis",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmbwSGxc9vXjSSg03ipqmhvPb7WzPa-jkuVQ&s",
+      "original": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/18/a4/ed/ec/kibanda-lodge.jpg?w=500&h=-1&s=1"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bed/kg/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJjAS3rRrDjH-uAR7rrFmeKRLN-SG0DshiiA&s",
+      "fuentePagina": "https://www.booking.com/hotel/tz/l-39-ombelico-del-mondo.fr.html",
+      "titulo": "Kibanda Lodge and Beach Club, Nungwi (tarifs actualisés, 2026)",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJjAS3rRrDjH-uAR7rrFmeKRLN-SG0DshiiA&s",
+      "original": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/614850445.jpg?k=148b0f034298741fef4e2da57a0b611b99a4662f2f59926f10b305601cba6179&o="
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bed/kg/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPiMoYcEO5Dou73ptt0t6CP_wg2_upF4ECSQ&s",
+      "fuentePagina": "https://www.kibandalodge.com/fr/kibanda-beach-club-2/",
+      "titulo": "Kibanda Beach Club – Kibanda Lodge & Restaurant",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPiMoYcEO5Dou73ptt0t6CP_wg2_upF4ECSQ&s",
+      "original": "https://www.kibandalodge.com/wp-content/uploads/photo-gallery/imported_from_media_libray/KIBANDA-BEACH-CLUB-28-1.jpg?bwg=1697549872"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bed/kg/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsVnczFzCgUFB2VNt9p3kRr6RDuim0F0m9pA&s",
+      "fuentePagina": "https://www.facebook.com/mobilekibanda/",
+      "titulo": "M-KIBANDA (@mobilekibanda) • Facebook",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsVnczFzCgUFB2VNt9p3kRr6RDuim0F0m9pA&s",
+      "original": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=457886403060332"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bed/kg/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4dOHRZTacRdA_eMacd9Zvl5Uoe1CzWL95Jw&s",
+      "fuentePagina": "https://www.kibandalodge.com/fr/kibanda-beach-club-2/",
+      "titulo": "Kibanda Beach Club – Kibanda Lodge & Restaurant",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4dOHRZTacRdA_eMacd9Zvl5Uoe1CzWL95Jw&s",
+      "original": "https://www.kibandalodge.com/wp-content/uploads/photo-gallery/imported_from_media_libray/KIBANDA-BEACH-CLUB-8-1-1.jpg?bwg=1697549872"
+    }
+  ]
+}

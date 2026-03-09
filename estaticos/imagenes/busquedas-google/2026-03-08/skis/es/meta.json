@@ -1,0 +1,71 @@
+{
+  "categoria": "skis",
+  "categoriaSlug": "skis",
+  "idioma": "es",
+  "nombreIdioma": "Español",
+  "termino": "esquís",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:00:33.463Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "es",
+    "gl": "es"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=esqu%C3%ADs&hl=es&gl=es",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/skis/es/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-G8AcWsZHDbgd3N0oBKDbsa0DQkkd89aQsw&s",
+      "fuentePagina": "https://www.estiber.com/blog/esquis-de-pista-o-alpino/",
+      "titulo": "Esquís alpinos o esquís de pista: cómo elegirlos | Estiber.com",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-G8AcWsZHDbgd3N0oBKDbsa0DQkkd89aQsw&s",
+      "original": "https://www.estiber.com/blog/wp-content/uploads/2024/11/caracteristicas-esqui-alpino.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/skis/es/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfmQlaYKP5NmXiuyBNIlusjzXaHjvre9zvbw&s",
+      "fuentePagina": "https://sierranevadaadventureski.com/producto/gama-esqui-premium/",
+      "titulo": "Alquiler de Esquís + Bastones Premium | Sierra Nevada",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfmQlaYKP5NmXiuyBNIlusjzXaHjvre9zvbw&s",
+      "original": "https://sierranevadaadventureski.com/wp-content/uploads/2021/11/Gama-Premium-Esqui.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/skis/es/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnIXJaEW1PP4-rq5MXeDgZZdgdShCG9ows7g&s",
+      "fuentePagina": "https://intersportjorri.com/tienda/esquis-ninos/esquis-de-nino/",
+      "titulo": "Esquís de niño - Intersport Jorri Jaca",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnIXJaEW1PP4-rq5MXeDgZZdgdShCG9ows7g&s",
+      "original": "https://intersportjorri.com/wp-content/uploads/2017/12/Captura-de-pantalla-2024-03-24-a-las-12.54.45.png"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/skis/es/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJuy_65jsZDIk4vhPgxGH6cMHzCUBFmObWhw&s",
+      "fuentePagina": "https://support.decathlon.es/esquis-alpino-esquis-de-freeride-esquis-travesia-manual-y-reparacion",
+      "titulo": "ESQUÍS ALPINO, ESQUÍS DE FREERIDE, ESQUIS TRAVESÍA manual y ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJuy_65jsZDIk4vhPgxGH6cMHzCUBFmObWhw&s",
+      "original": "https://contents.mediadecathlon.com/s959904/k$9af7f29a8509693bc9a1b0e19b31ac58/1000x0/465pt500/986xcr986/Entretenir-et-reparer-ses-skis.png?format=auto"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/skis/es/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTorbZ--k5hixL8wnYkfxwyotEsI4o9txCzKg&s",
+      "fuentePagina": "https://www.skatepro.es/a806.htm",
+      "titulo": "Como comprar esquís para principiante - Guía de Compra",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTorbZ--k5hixL8wnYkfxwyotEsI4o9txCzKg&s",
+      "original": "https://cdn.skatepro.com/upload/2020/11/piste_4512.jpg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/skis/es/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbm7bC7CwhbP1ID0UK4eainzZZahcaqERqPQ&s",
+      "fuentePagina": "https://www.esqui.com/es_ES/blog-esqui/411/como-elegir-esquis-de-segunda-mano",
+      "titulo": "Cómo elegir esquís de segunda mano",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbm7bC7CwhbP1ID0UK4eainzZZahcaqERqPQ&s",
+      "original": "https://www.esqui.com/assets/images/blog/posts/TBlog/1904_esquisdesegundamano.JPG"
+    }
+  ]
+}

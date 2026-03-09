@@ -1,0 +1,71 @@
+{
+  "categoria": "wine glass",
+  "categoriaSlug": "wine-glass",
+  "idioma": "sw",
+  "nombreIdioma": "Kiswahili",
+  "termino": "glasi ya divai",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:06:41.432Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "sw",
+    "gl": "tz"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=glasi%20ya%20divai&hl=sw&gl=tz",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/wine-glass/sw/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBX8gQ3nbGCzcOucI5_eQgzPSa7pNJkuzgNA&s",
+      "fuentePagina": "https://sw.ato2008.com/wine-glass-set-wine-glass/63156841.html",
+      "titulo": "Glasi ya divai ya divai ya mvinyo ya ato Mtengenezaji wa China",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBX8gQ3nbGCzcOucI5_eQgzPSa7pNJkuzgNA&s",
+      "original": "https://bsg-i.nbxc.com/product/dc/23/50/84e25cc9db941b531d66b3fda7.jpg@95Q.webp"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/wine-glass/sw/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYx3CqI3JsBbqp-qlrOqtoBnmD3ceV81Fuow&s",
+      "fuentePagina": "https://sw.ato2008.com/red-white-wine-glass/59292465.html",
+      "titulo": "Glasi ya divai ya rangi ya dhahabu Mtengenezaji wa China",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYx3CqI3JsBbqp-qlrOqtoBnmD3ceV81Fuow&s",
+      "original": "https://bsg-i.nbxc.com/product/63/93/07/76224123355907e4dc896f9bf1.png@1200w_1l%7Cwatermark=2&color=I0ZGRkZGRg%3D%3D&type=ZHJvaWRzYW5zZmFsbGJhY2s%3D&size=85&p=5&t=80&s=20&text=c3cuYXRvMjAwOC5jb20%3D"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/wine-glass/sw/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2YLVU9_A-xwUF_PhbLE2DNlHGUXxrc7njOw&s",
+      "fuentePagina": "http://sw.sublivagroup.com/ribbed-wine-glass-600ml-product/",
+      "titulo": "Glasi ya Mvinyo ya Mvinyo ya jumla ya Ribbed 600ml na Mtoaji ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2YLVU9_A-xwUF_PhbLE2DNlHGUXxrc7njOw&s",
+      "original": "http://www.sublivagroup.com/uploads/Ribbed-Wine-Glass-600ml.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/wine-glass/sw/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqW2Lbi-9Z5DtjGrLpYCdFfOU_kgCuCD9fJw&s",
+      "fuentePagina": "https://sw.ato2008.com/red-white-wine-glass/62563238.html",
+      "titulo": "Glasi ya glasi ya divai ya glasi ya glasi l seti ya divai ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqW2Lbi-9Z5DtjGrLpYCdFfOU_kgCuCD9fJw&s",
+      "original": "https://bsg-i.nbxc.com/product/d2/1e/9f/e0b0af2268f5895ac57da078c7.jpg@4e_500w_500h.src%7C95Q.webp"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/wine-glass/sw/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjIOUfvEZBm3Bt3rtZLhkBU1EbDGoiocWrMA&s",
+      "fuentePagina": "http://sw.cnglassbottle.com/bordeaux-wine-glass-bottle-2-product/",
+      "titulo": "Uchina Bordeaux divai ya glasi ya glasi na kiwanda | Rukia",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjIOUfvEZBm3Bt3rtZLhkBU1EbDGoiocWrMA&s",
+      "original": "https://cdn.globalso.com/cnglassbottle/HTB1uZeCal1D3KVjSZFyq6zuFpXaQ.jpg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/wine-glass/sw/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQe-gcJdJtWYcQtioVsxFWwLS3JBAIyULsYPQ&s",
+      "fuentePagina": "http://sw.langxuhb.com/colored-wine-glass-goblet-product/",
+      "titulo": "Kiwanda cha rangi ya glasi ya divai ya wazalishaji wa China ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQe-gcJdJtWYcQtioVsxFWwLS3JBAIyULsYPQ&s",
+      "original": "http://cdncn.goodao.net/langxuhb/HTB10E5haDjxK1Rjy0Fnq6yBaFXaU.jpg"
+    }
+  ]
+}

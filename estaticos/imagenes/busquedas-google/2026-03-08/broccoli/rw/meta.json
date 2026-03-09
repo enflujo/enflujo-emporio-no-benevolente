@@ -1,0 +1,71 @@
+{
+  "categoria": "broccoli",
+  "categoriaSlug": "broccoli",
+  "idioma": "rw",
+  "nombreIdioma": "Kinyarwanda",
+  "termino": "brokoli",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:13:11.251Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "en",
+    "gl": "rw"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=brokoli&hl=en&gl=rw",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/broccoli/rw/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMgAhVCsH87thgaRgn3MbxA2ER5eno5YKG4g&s",
+      "fuentePagina": "https://www.antaranews.com/berita/3829149/manfaat-brokoli-bagi-penderita-diabetes-dan-cara-mengolahnya",
+      "titulo": "Manfaat brokoli bagi penderita diabetes dan cara mengolahnya ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMgAhVCsH87thgaRgn3MbxA2ER5eno5YKG4g&s",
+      "original": "https://cdn.antaranews.com/cache/1200x800/2020/01/07/broccoli-1238250_960_720.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/broccoli/rw/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAy_YV-qjcKqyKAIJGf8jJhvfJZnF6--Y1zQ&s",
+      "fuentePagina": "https://www.birunihastanesi.com.tr/saglik-rehberi/brokolinin-faydalari-nelerdir",
+      "titulo": "Brokolinin Faydaları Nelerdir? - Biruni Hastanesi",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAy_YV-qjcKqyKAIJGf8jJhvfJZnF6--Y1zQ&s",
+      "original": "https://www.birunihastanesi.com.tr/storage/media/posts/793/Brokolinin-Faydalari-Nelerdir-large.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/broccoli/rw/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZ37T_XU37JvUYKuoFMrwHSNwMuV393UxU6w&s",
+      "fuentePagina": "https://en.wikipedia.org/wiki/Broccoli",
+      "titulo": "Broccoli - Wikipedia",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZ37T_XU37JvUYKuoFMrwHSNwMuV393UxU6w&s",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/0/03/Broccoli_and_cross_section_edit.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/broccoli/rw/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0KAWHFJnNd5trTL1TST7g3QrOSG6RZo-QWA&s",
+      "fuentePagina": "https://pasarrakyatbali.com/products/brokoli-organik-organic-broccoli-500g",
+      "titulo": "Brokoli Organik - Organic Broccoli / 500g | Pasar Rakyat Bali",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0KAWHFJnNd5trTL1TST7g3QrOSG6RZo-QWA&s",
+      "original": "http://pasarrakyatbali.com/cdn/shop/products/say-016_6d6849ab-8389-47a8-bdac-d5c7f10719a3_1200x1200.png?v=1595727414"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/broccoli/rw/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKI5Wq5-19ZoAhbIUoD5IvKU_wg_S590Y4VA&s",
+      "fuentePagina": "https://balifoodstore.com/en/vegetables/1-broccoli-.html",
+      "titulo": "Broccoli - Bali Food Store",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKI5Wq5-19ZoAhbIUoD5IvKU_wg_S590Y4VA&s",
+      "original": "https://balifoodstore.com/18-large_default/broccoli-.jpg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/broccoli/rw/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUtLzRfRRLgvDgBSQlWc-xohVNynB8n3t7ow&s",
+      "fuentePagina": "https://www.etineniyisi.com/en/organik-brokoli",
+      "titulo": "Organik Brokoli| İyisi Organik",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUtLzRfRRLgvDgBSQlWc-xohVNynB8n3t7ow&s",
+      "original": "https://static.ticimax.cloud/43437/uploads/urunresimleri/organik-brokoli-6f6141.jpg"
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "categoria": "hot dog",
+  "categoriaSlug": "hot-dog",
+  "idioma": "es",
+  "nombreIdioma": "Español",
+  "termino": "perro caliente",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:14:52.369Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "es",
+    "gl": "es"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=perro%20caliente&hl=es&gl=es",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/hot-dog/es/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJM3AX1apwh97uPXKCnl4WV4tJiDlrq02EaQ&s",
+      "fuentePagina": "https://comedera.com/receta-pan-de-perro-caliente/",
+      "titulo": "Cómo hacer pan de perro caliente en casa",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJM3AX1apwh97uPXKCnl4WV4tJiDlrq02EaQ&s",
+      "original": "https://comedera.com/wp-content/uploads/sites/9/2022/03/Pan-de-perro-caliente-shutterstock_1472131574.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/hot-dog/es/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtkYIcvLjIU9l-Dn_yirneOcsx6405VFMVAQ&s",
+      "fuentePagina": "https://enrilemoine.com/2023/07/04/receta-perros-calientes-estilo-venezolano/",
+      "titulo": "Perros calientes estilo venezolano",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtkYIcvLjIU9l-Dn_yirneOcsx6405VFMVAQ&s",
+      "original": "https://enrilemoine.com/wp-content/uploads/2023/07/venezuelan-hot-dogs-by-enrilemoine-4-1.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/hot-dog/es/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVNcHgFTJjXxWelitA44iFYEECBj_3vbIUMw&s",
+      "fuentePagina": "https://www.mycolombianrecipes.com/es/perros-calientes-colombianos/",
+      "titulo": "Receta Perros Calientes Colombianos",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVNcHgFTJjXxWelitA44iFYEECBj_3vbIUMw&s",
+      "original": "https://www.mycolombianrecipes.com/wp-content/uploads/2009/07/perritos-colombianos.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/hot-dog/es/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEPctb_wlaMQW25x56LaWO2OQ71cv3Hgz9FQ&s",
+      "fuentePagina": "https://cookpad.com/co/buscar/perros%20calientes",
+      "titulo": "Recetas de perros calientes: Estilo colombiano auténtico ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEPctb_wlaMQW25x56LaWO2OQ71cv3Hgz9FQ&s",
+      "original": "https://img-global.cpcdn.com/recipes/828cb984980894fa/400x400cq80/photo.jpg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/hot-dog/es/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEL9tRHqxfdkteQej8aUC7rmpeLDYHvZYfKw&s",
+      "fuentePagina": "https://resuelveconbimbo.com/co/recetas/perro-caliente-con-ensalada-de-repollo",
+      "titulo": "Perro caliente con ensalada de repollo",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEL9tRHqxfdkteQej8aUC7rmpeLDYHvZYfKw&s",
+      "original": "https://resuelveconbimbo-com-v2-assets.s3.amazonaws.com/s3fs-public/2024-01/Banner%20Desktop_Perro%20con%20Ensalada%20de%20Repollo.webp?VersionId=eKnszNAXmiLWeJFM7QH2Svr9SVywfjLt"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/hot-dog/es/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTk-2iYWT3THPe-8RU44wLDNTiP8b9n4mN91g&s",
+      "fuentePagina": "https://www.istockphoto.com/es/fotos/perrito-caliente",
+      "titulo": "110.600+ Perrito Caliente Fotografías de stock, fotos e ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTk-2iYWT3THPe-8RU44wLDNTiP8b9n4mN91g&s",
+      "original": "https://media.istockphoto.com/id/1625455283/es/foto/perrito-caliente-con-mostaza-y-ketchup-en-un-bollo-de-semillas-de-s%C3%A9samo-aislado-sobre-blanco.jpg?s=612x612&w=0&k=20&c=4OvVQrtJwAAJYmvUGjhy2xQ3Rq6lwFksE8Kr0iIf8zM="
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "categoria": "book",
+  "categoriaSlug": "book",
+  "idioma": "hi",
+  "nombreIdioma": "हिन्दी",
+  "termino": "किताब",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:28:24.732Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "hi",
+    "gl": "in"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=%E0%A4%95%E0%A4%BF%E0%A4%A4%E0%A4%BE%E0%A4%AC&hl=hi&gl=in",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/book/hi/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmYYpFQdF6PJu7HQPxQfbpt2048LCgPbKmLg&s",
+      "fuentePagina": "https://www.amazon.in/Zindagi-Ek-Kitab-Sanjeev-Singh/dp/8194678390",
+      "titulo": "Buy Zindagi Ek Kitab Book Online at Low Prices in India | Zindagi Ek Kitab  Reviews & Ratings - Amazon.in",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmYYpFQdF6PJu7HQPxQfbpt2048LCgPbKmLg&s",
+      "original": "https://m.media-amazon.com/images/I/71FYTd9tovL._AC_UF1000,1000_QL80_.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/book/hi/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRb5AcGOjblYYjp4aTO-KnyOVzQ48mFkaX45A&s",
+      "fuentePagina": "https://www.maplepress.co.in/products/%E0%A4%AE%E0%A5%87%E0%A4%B0%E0%A5%80-%E0%A4%95%E0%A4%BF%E0%A4%A4%E0%A4%BE%E0%A4%AC-%E0%A4%AE%E0%A5%87%E0%A4%B0%E0%A5%80-%E0%A4%A6%E0%A5%8B%E0%A4%B8%E0%A5%8D%E0%A4%A4?srsltid=AfmBOooyELysuGb6agnkajTz7bVEqg7bKiUmfIVDqa5OhZ3uz3cfRFRj",
+      "titulo": "Meri Kitab Meri Dost (Hindi) — Maple Press",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRb5AcGOjblYYjp4aTO-KnyOVzQ48mFkaX45A&s",
+      "original": "https://www.maplepress.co.in/cdn/shop/products/9788193324868_700x700.jpg?v=1625231617"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/book/hi/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrZd0yWWFsXomXms-0OU7KzrlbLKtvMCMPxQ&s",
+      "fuentePagina": "https://shwetwarna.com/shop/books/kitab-ke-bahane-harinarayan-singh-hari/",
+      "titulo": "किताब के बहाने (Kitab Ke Bahane / Harinarayan Singh Hari)",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrZd0yWWFsXomXms-0OU7KzrlbLKtvMCMPxQ&s",
+      "original": "https://shwetwarna.com/wp-content/uploads/2022/12/Front-cover-image-of-kitab-ke-bahane-by-harinarayan-singh-hari.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/book/hi/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPX3jTxuMT8_FfYn2uwKj19USrUYFyZpTp8w&s",
+      "fuentePagina": "https://www.amazon.in/Aradhay-%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%BE%E0%A4%9A%E0%A5%80%E0%A4%A8-%E0%A4%AA%E0%A5%81%E0%A4%B0%E0%A4%BE%E0%A4%A8%E0%A5%80-%E0%A4%9C%E0%A5%8D%E0%A4%AF%E0%A5%8B%E0%A4%A4%E0%A4%BF%E0%A4%B7-%E0%A4%97%E0%A4%BF%E0%A4%B0%E0%A4%A7%E0%A4%BE%E0%A4%B0%E0%A5%80/dp/B0CPVS6SZ8",
+      "titulo": "Buy Aradhay Asli Lal kitab book in Hindi old Lal kitab ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPX3jTxuMT8_FfYn2uwKj19USrUYFyZpTp8w&s",
+      "original": "https://m.media-amazon.com/images/I/719F1HwkEQL._AC_UF1000,1000_QL80_.jpg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/book/hi/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAnH3_H6YU3HgVclyjrK_VOJDGb1UJTI0fDw&s",
+      "fuentePagina": "https://www.exoticindiaart.com/book/details/kuch-yun-rachti-hai-hamein-kitab-collection-of-stories-hca399/?srsltid=AfmBOoogbeegqb3hvf2LF51c0h9r3wm7lnunxml35lyY-ykBs0gxk8ng",
+      "titulo": "कुछ यूँ रचती है हमें किताब- Kuch Yun Rachti Hai Hamein Kitab (Collection of  Stories)",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAnH3_H6YU3HgVclyjrK_VOJDGb1UJTI0fDw&s",
+      "original": "https://cdn.exoticindia.com/images/products/original/book-12-2025/hca399.jpg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/book/hi/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTV5h-jcgHco6Y9wOswoEbAM9zxcGf58kUx4Q&s",
+      "fuentePagina": "https://bh.wikipedia.org/wiki/%E0%A4%95%E0%A4%BF%E0%A4%A4%E0%A4%BE%E0%A4%AC",
+      "titulo": "किताब - विकिपीडिया",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTV5h-jcgHco6Y9wOswoEbAM9zxcGf58kUx4Q&s",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Book_Collage.png"
+    }
+  ]
+}

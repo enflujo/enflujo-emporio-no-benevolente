@@ -1,0 +1,71 @@
+{
+  "categoria": "fork",
+  "categoriaSlug": "fork",
+  "idioma": "ha",
+  "nombreIdioma": "Hausa",
+  "termino": "cokali",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:08:08.568Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "ha",
+    "gl": "ng"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=cokali&hl=ha&gl=ng",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/fork/ha/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRns_lQRypq1J-bxw1ztAFNwtuU_lfdVYDbKQ&s",
+      "fuentePagina": "https://www.infullcutlery.com/ha/news-detail-4022879",
+      "titulo": "Tarihin wukake, cokali da cokali",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRns_lQRypq1J-bxw1ztAFNwtuU_lfdVYDbKQ&s",
+      "original": "https://img001.video2b.com/1287/file_01697159924072.jpg?x-oss-process=image/resize,m_lfit,w_768/format,webp/quality,88"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/fork/ha/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRly2BDC8bNcrwtO9okhb55iqCGMUPLsGMSMA&s",
+      "fuentePagina": "https://www.garboflatware.com/ha/silver-spoon/410ss-high-quality-dinner-spoon-with-electroplating-handle.html",
+      "titulo": "410SS Babban cokali na abincin dare tare da kamfanonin ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRly2BDC8bNcrwtO9okhb55iqCGMUPLsGMSMA&s",
+      "original": "https://www.garboflatware.com/data/watermark/20240111/659f89d415b69.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/fork/ha/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxML_Qik4mGpgR0FqFL-PgR8iEbfeesrXDdA&s",
+      "fuentePagina": "https://www.infullcutlery.com/ha/news-detail-4675591",
+      "titulo": "Yadda Ake Amfani da Auna Cokali da Kofuna | Cikakkun Cutlery",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxML_Qik4mGpgR0FqFL-PgR8iEbfeesrXDdA&s",
+      "original": "https://img001.video2b.com/1287/file_01706665485103.jpg?x-oss-process=image/resize,m_lfit,w_768/format,webp/quality,88"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/fork/ha/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPmhiXRjSw6P8l9DiERyVDCJeS_nIphQiWMA&s",
+      "fuentePagina": "https://www.garboflatware.com/ha/colored-spoon/gold-dessert-spoon-set-8inch-stainless-steel-shiny-gold-teaspoon-espresso-coffee-spoon-with-color-painted-handle.html",
+      "titulo": "Cokali Kayan Kayan Wuta na Zinare Saita Bakin Karfe 8inch ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPmhiXRjSw6P8l9DiERyVDCJeS_nIphQiWMA&s",
+      "original": "https://www.garboflatware.com/data/watermark/20230129/63d63a87b11a3.jpg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/fork/ha/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkXcIhEHMRoxSZ33aADEkKxS7SjJGCvCZaLw&s",
+      "fuentePagina": "https://ha.wikipedia.org/wiki/Cokali",
+      "titulo": "Cokali - Wikipedia",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkXcIhEHMRoxSZ33aADEkKxS7SjJGCvCZaLw&s",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/SpoonCollection.jpg/330px-SpoonCollection.jpg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/fork/ha/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxFyivn5BPeihTlMc6UWJ1QqzILwEzC7ywiw&s",
+      "fuentePagina": "https://hausa.old-carpenter.com/Spoon",
+      "titulo": "Cokali, Dillali Cokali Masu Kaya da Masana'antu -Hunan Old ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxFyivn5BPeihTlMc6UWJ1QqzILwEzC7ywiw&s",
+      "original": "https://www.old-carpenter.com/upload/product/1665545620152465.jpg"
+    }
+  ]
+}

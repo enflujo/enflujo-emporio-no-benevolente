@@ -1,0 +1,71 @@
+{
+  "categoria": "refrigerator",
+  "categoriaSlug": "refrigerator",
+  "idioma": "fr",
+  "nombreIdioma": "Français",
+  "termino": "réfrigérateur",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:27:31.402Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "fr",
+    "gl": "be"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=r%C3%A9frig%C3%A9rateur&hl=fr&gl=be",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/refrigerator/fr/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRD1ptPjj6FRQSOQck3Cf8XLHEmwLHHgRyMLQ&s",
+      "fuentePagina": "https://zincq.be/blogs/infos/les-differents-types-de-refrigerateurs",
+      "titulo": "Les différents types de réfrigérateurs – Ets Zincq ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRD1ptPjj6FRQSOQck3Cf8XLHEmwLHHgRyMLQ&s",
+      "original": "https://zincq.be/cdn/shop/articles/Les-differents-types-de-refrigerateurs-Ets-Zincq-Electromenagers-SAV-situe-entre-Mons-et-Saint-Ghislain-730_1200x.jpg?v=1683679070"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/refrigerator/fr/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHLcN9o7lrMDDC8LDx3ocAZlveTataYzn8Lw&s",
+      "fuentePagina": "https://www.materiel-horeca.com/guide/comment-choisir-son-refrigerateur-combine/",
+      "titulo": "Comment choisir son réfrigérateur combiné ?",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHLcN9o7lrMDDC8LDx3ocAZlveTataYzn8Lw&s",
+      "original": "https://www.materiel-horeca.com/guide/wp-content/uploads/2022/06/refrigerateur-combine-758x505.jpeg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/refrigerator/fr/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkL6ZJ9Gan7R595nMY7zJZeLwOOpOrd8s3zQ&s",
+      "fuentePagina": "https://www.ice-shop.be/fr/341-refrigerateur-avec-compartiment-congelateur-domestique-263litres-skf307w-0686082003711.html",
+      "titulo": "Réfrigérateur avec compartiment congélateur, domestique, 263Litres - SKF307W",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkL6ZJ9Gan7R595nMY7zJZeLwOOpOrd8s3zQ&s",
+      "original": "https://static.ice-shop.be/5738-large_default/refrigerateur-avec-compartiment-congelateur-domestique-263litres-skf307w.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/refrigerator/fr/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHLCTF2NkRJHjDU0iDy57Uhu159xOXyjHWtg&s",
+      "fuentePagina": "https://www.bosch-home.be/fr/qui-sommes-nous/innovation/refrigerateur-surgelateur-xxl",
+      "titulo": "Réfrigérateurs-congélateurs grande capacité | Bosch",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHLCTF2NkRJHjDU0iDy57Uhu159xOXyjHWtg&s",
+      "original": "https://media3.bosch-home.com/Images/600x/25293198_Bo_FrenchDoor_OpenDoors_2400x1352.jpg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/refrigerator/fr/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSiHjYSD7LEjnMNVQdyc_cPcsLQky-ZfBawIg&s",
+      "fuentePagina": "https://www.ikea.com/be/fr/p/rakall-refrigerateur-congelateur-ikea-500-integre-80572868/",
+      "titulo": "RÅKALL réfrigérateur/congélateur, IKEA 500 intégré, 153/79 l ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSiHjYSD7LEjnMNVQdyc_cPcsLQky-ZfBawIg&s",
+      "original": "https://www.ikea.com/be/fr/images/products/rakall-refrigerateur-congelateur-ikea-500-integre__1337536_pe947882_s5.jpg?f=s"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/refrigerator/fr/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRP8jvGxM4i-hQhdUbhnseQ2sSKLpZ4pe3xrQ&s",
+      "fuentePagina": "https://fr.wikipedia.org/wiki/R%C3%A9frig%C3%A9rateur",
+      "titulo": "Réfrigérateur — Wikipédia",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRP8jvGxM4i-hQhdUbhnseQ2sSKLpZ4pe3xrQ&s",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/8/85/LG_refrigerator_interior.jpg"
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "categoria": "zebra",
+  "categoriaSlug": "zebra",
+  "idioma": "am",
+  "nombreIdioma": "Amharic — አማርኛ",
+  "termino": "ዝብራ",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T20:55:01.191Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "am",
+    "gl": "et"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=%E1%8B%9D%E1%89%A5%E1%88%AB&hl=am&gl=et",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/zebra/am/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFT58_0nfoQtBgmMHmb4FNL_uKE3hP0q8sdw&s",
+      "fuentePagina": "https://www.youtube.com/watch?v=5XZS9qZGajo",
+      "titulo": "ዝብራ ማርብል ኬክ አሰራር",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFT58_0nfoQtBgmMHmb4FNL_uKE3hP0q8sdw&s",
+      "original": "https://i.ytimg.com/vi/5XZS9qZGajo/sddefault.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/zebra/am/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6XMaCbfyqCwg3g62NEAYJqIb2uscBfIgP5g&s",
+      "fuentePagina": "https://www.tiktok.com/@gechbarbershop1/video/7560368294503451960",
+      "titulo": "ዝብራ ሹኩር ታኩር በደሴ ኢትዮጵያ",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6XMaCbfyqCwg3g62NEAYJqIb2uscBfIgP5g&s",
+      "original": "https://www.tiktok.com/api/img/?itemId=7560368294503451960&location=0&aid=1988"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/zebra/am/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQljYZ466oMXGc-cHDBv7YW98yV89HWyXQXg&s",
+      "fuentePagina": "https://am.tafseer-dreams.com/%E1%8B%A8%E1%88%9C%E1%8B%B3-%E1%8A%A0%E1%88%85%E1%8B%AB-%E1%89%A0%E1%88%95%E1%88%8D%E1%88%9D/",
+      "titulo": "የሜዳ አህያ በሕልም ውስጥ ስለ ማየት ትርጓሜ በኢብን ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQljYZ466oMXGc-cHDBv7YW98yV89HWyXQXg&s",
+      "original": "https://tafseer-dreams.com/wp-content/uploads/2023/04/%D8%AA%D9%81%D8%B3%D9%8A%D8%B1-%D8%A7%D9%84%D8%AD%D9%85%D8%A7%D8%B1-%D8%A7%D9%84%D9%88%D8%AD%D8%B4%D9%8A-%D9%81%D9%8A-%D8%A7%D9%84%D9%85%D9%86%D8%A7%D9%85-.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/zebra/am/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAOKwC3vA7Tb_z-8JMIxBGCAzoZlWmujtmZA&s",
+      "fuentePagina": "https://www.facebook.com/AwiZoneCommunicationAffairsOffice/photos/d41d8cd9/1284789050360099/",
+      "titulo": "Awi communication added a new photo. - Awi communication",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAOKwC3vA7Tb_z-8JMIxBGCAzoZlWmujtmZA&s",
+      "original": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=1284789050360099"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/zebra/am/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT340BIGqEo45iF4gMz7-BmGOGeCwjzmuV84Q&s",
+      "fuentePagina": "https://www.facebook.com/groups/1647386172345097/posts/2497330277350678/",
+      "titulo": "VAROTRA REHETRA",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT340BIGqEo45iF4gMz7-BmGOGeCwjzmuV84Q&s",
+      "original": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=122198129012579283"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/zebra/am/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrb0DQHCuUbqcN_PEfjSrkVPdzkJ9u_c0owA&s",
+      "fuentePagina": "https://adarashmarket.com/products/yedereke_zingibil_15",
+      "titulo": "Yedereke Zingibil | የደረቀ ዝንጅብል - Dried Ginger/Long ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrb0DQHCuUbqcN_PEfjSrkVPdzkJ9u_c0owA&s",
+      "original": "https://cdn.shopify.com/s/files/1/0098/9564/1139/products/1_fe67c774-8823-4e45-92e4-eab76b3ff768.jpg?v=1565191390"
+    }
+  ]
+}

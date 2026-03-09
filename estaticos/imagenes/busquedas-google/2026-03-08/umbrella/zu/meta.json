@@ -1,0 +1,71 @@
+{
+  "categoria": "umbrella",
+  "categoriaSlug": "umbrella",
+  "idioma": "zu",
+  "nombreIdioma": "isiZulu",
+  "termino": "isembrela",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T20:57:06.246Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "zu",
+    "gl": "za"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=isembrela&hl=zu&gl=za",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/umbrella/zu/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTclVY1zKsQaJwCpHWpnjH9POjlHOhto6szUA&s",
+      "fuentePagina": "https://www.facebook.com/zolanenechef/posts/isinkwa-sommbila-how-much-do-i-love-this-bread-well-its-actually-the-very-first-/2808442462565244/",
+      "titulo": "ISINKWA SOMMBILA 🌽🍞 . How much do I love this bread ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTclVY1zKsQaJwCpHWpnjH9POjlHOhto6szUA&s",
+      "original": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=647869104774757"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/umbrella/zu/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUYBscNgQxsyC8RmoZzmcHlqjy7g0jy5MMoA&s",
+      "fuentePagina": "https://www.facebook.com/zolanenechef/posts/isinkwa-sommbila-steamed-mealie-breadthe-very-first-recipe-in-my-very-first-cook/3666713080071507/",
+      "titulo": "ISINKWA SOMMBILA [Steamed Mealie Bread] . The very first ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUYBscNgQxsyC8RmoZzmcHlqjy7g0jy5MMoA&s",
+      "original": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=3666713003404848"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/umbrella/zu/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTH73_JuflIchPh4inu0EMGeZQNWkq61NEJA&s",
+      "fuentePagina": "https://www.facebook.com/zolanenechef/posts/isinkwa-sommbila-steamed-mealie-breadthe-very-first-recipe-in-my-very-first-cook/3666713080071507/",
+      "titulo": "ISINKWA SOMMBILA [Steamed Mealie Bread] . The very first ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTH73_JuflIchPh4inu0EMGeZQNWkq61NEJA&s",
+      "original": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=1139684247745710"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/umbrella/zu/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-wIzpJXR_QSxjSyghFvn2UGedvdU5E_c7Iw&s",
+      "fuentePagina": "https://www.facebook.com/zolanenechef/posts/isinkwa-sommbila-steamed-mealie-breadthe-very-first-recipe-in-my-very-first-cook/3666713080071507/",
+      "titulo": "ISINKWA SOMMBILA [Steamed Mealie Bread] . The very first ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-wIzpJXR_QSxjSyghFvn2UGedvdU5E_c7Iw&s",
+      "original": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=641188102244387"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/umbrella/zu/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrGLvH_4oGsR6u-UD34TTs9Wiouh-fwAvyAA&s",
+      "fuentePagina": "https://www.facebook.com/zolanenechef/posts/isinkwa-sommbila-steamed-mealie-breadthe-very-first-recipe-in-my-very-first-cook/3666713080071507/",
+      "titulo": "ISINKWA SOMMBILA [Steamed Mealie Bread] . The very first ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrGLvH_4oGsR6u-UD34TTs9Wiouh-fwAvyAA&s",
+      "original": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=1081378653798077"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/umbrella/zu/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKjiCDIn1Sm41parMA7nWnSSCbM3wsjvp7ng&s",
+      "fuentePagina": "https://www.news24.com/truelove/exclusive/isibayas-sphelele-mzimela-speaks-on-her-acting-career-20180522",
+      "titulo": "Isibaya's Sphelele Mzimela speaks on her acting career | News24",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKjiCDIn1Sm41parMA7nWnSSCbM3wsjvp7ng&s",
+      "original": "https://cdn.24.co.za/files/Cms/General/d/7429/56b5d5ab868c40e2aafc789dbafda110.png"
+    }
+  ]
+}

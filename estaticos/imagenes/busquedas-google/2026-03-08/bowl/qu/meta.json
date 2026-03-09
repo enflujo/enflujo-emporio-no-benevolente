@@ -1,0 +1,71 @@
+{
+  "categoria": "bowl",
+  "categoriaSlug": "bowl",
+  "idioma": "qu",
+  "nombreIdioma": "Quechua",
+  "termino": "manka",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:10:16.843Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "es",
+    "gl": "pe"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=manka&hl=es&gl=pe",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bowl/qu/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTo9kH42k8Ycz7Kaa8ik1M_QL1bqP7H1QOJZg&s",
+      "fuentePagina": "https://www.facebook.com/Manka.fusion.artesanal/",
+      "titulo": "Manka Fusión Artesanal | Huaraz",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTo9kH42k8Ycz7Kaa8ik1M_QL1bqP7H1QOJZg&s",
+      "original": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=100063529871967"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bowl/qu/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZtwqV_tDh2DnjH2bcU63qp5nyd9rrx8DClA&s",
+      "fuentePagina": "https://www.facebook.com/Manka.peru/",
+      "titulo": "MANKA | Lima",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZtwqV_tDh2DnjH2bcU63qp5nyd9rrx8DClA&s",
+      "original": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=100057255767517"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bowl/qu/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQCCDYJSM2zPGOB7ZxGfkNq07U_VUBRtU_1Q&s",
+      "fuentePagina": "https://www.instagram.com/mankaperuana/",
+      "titulo": "Manka Peruana (@mankaperuana) • Instagram photos and videos",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQCCDYJSM2zPGOB7ZxGfkNq07U_VUBRtU_1Q&s",
+      "original": "https://lookaside.fbsbx.com/lookaside/crawler/instagram/mankaperuana/profile_pic.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bowl/qu/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwQE-EgRxrTG-hD_XyCQCW9M8DWMQ5RGNEaA&s",
+      "fuentePagina": "https://enhuaraz.com/empresa/manka-fusion-artesanal/",
+      "titulo": "🔥✓ Manka Fusión Artesanal 💥🥇",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwQE-EgRxrTG-hD_XyCQCW9M8DWMQ5RGNEaA&s",
+      "original": "https://enhuaraz.com/wp-content/uploads/manka.jpg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bowl/qu/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1ntb1_GEL_UdbfpDf6QVENXz_rVjNeKgXmw&s",
+      "fuentePagina": "https://www.getfairplay.com/casos-exito/manka-foods",
+      "titulo": "Manka Foods, de la adversidad a la innovación | Casos de ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1ntb1_GEL_UdbfpDf6QVENXz_rVjNeKgXmw&s",
+      "original": "https://cdn.prod.website-files.com/666734dd3f27a1760ceb0bba/668c3eeb3fdb19bfe9820082_Logo-Manka-amarillo-1024x576.webp"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bowl/qu/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1h91eM81loyawcJ7LEQwTDxqcwRNvB2kdPw&s",
+      "fuentePagina": "https://www.tripadvisor.com.pe/Restaurant_Review-g294314-d6924228-Reviews-Manka-Cusco_Cusco_Region.html",
+      "titulo": "MANKA, Cuzco - Restaurante Opiniones, Carta y Fotos ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1h91eM81loyawcJ7LEQwTDxqcwRNvB2kdPw&s",
+      "original": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/07/83/53/78/sumaq-manka.jpg?w=900&h=500&s=1"
+    }
+  ]
+}

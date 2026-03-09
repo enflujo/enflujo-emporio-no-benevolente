@@ -1,0 +1,71 @@
+{
+  "categoria": "fire hydrant",
+  "categoriaSlug": "fire-hydrant",
+  "idioma": "rw",
+  "nombreIdioma": "Kinyarwanda",
+  "termino": "umuyoboro w'amazi",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T20:47:00.434Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "en",
+    "gl": "rw"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=umuyoboro%20w'amazi&hl=en&gl=rw",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/fire-hydrant/rw/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCx_kaIp0vmKA5jMRmn2mKjrqbFQ7JiR7klA&s",
+      "fuentePagina": "https://rw.wikipedia.org/wiki/Dosiye:Umuyoboro_w'amazi.jpg",
+      "titulo": "Dosiye:Umuyoboro w'amazi.jpg - Wikipedia",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCx_kaIp0vmKA5jMRmn2mKjrqbFQ7JiR7klA&s",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/f/f5/Umuyoboro_w%27amazi.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/fire-hydrant/rw/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6nVwf5PPnRH-7rVy9NHFRBHFK4oRi9lfAog&s",
+      "fuentePagina": "https://imvahonshya.co.rw/nyaruguru-abangirijwe-imitungo-numuyoboro-wamazi-basaba-ingurane/",
+      "titulo": "Nyaruguru: Abangirijwe imitungo n'umuyoboro w'amazi basaba ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6nVwf5PPnRH-7rVy9NHFRBHFK4oRi9lfAog&s",
+      "original": "https://imvahonshya.co.rw/wp-content/uploads/2024/03/IMG-20240312-WA0009-3.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/fire-hydrant/rw/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzrU90wayD3XcFV48l3iKODyhrf0IFujZpFQ&s",
+      "fuentePagina": "https://www.kigalitoday.com/amakuru/mu-rwanda/article/kirehe-huzuye-umuyoboro-w-amazi-uzayageza-ku-baturage-8-621",
+      "titulo": "Kirehe: Huzuye umuyoboro w'amazi uzayageza ku baturage 8,621 ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzrU90wayD3XcFV48l3iKODyhrf0IFujZpFQ&s",
+      "original": "https://www.kigalitoday.com/IMG/jpg/dsc05828.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/fire-hydrant/rw/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwo5SqCgtfhgP1FYV0z_l5Zcuqr0HbKVJucw&s",
+      "fuentePagina": "https://www.instagram.com/p/DRxG_6QkZkJ/",
+      "titulo": "AMAFOTO:Umuyoboro w'amazi wa Sake wamaze kuzura, aho kuri ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwo5SqCgtfhgP1FYV0z_l5Zcuqr0HbKVJucw&s",
+      "original": "https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3778771269928362727"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/fire-hydrant/rw/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStK7tFWaeQei5iPmK4DnjN68Dswk1Y5dmUJA&s",
+      "fuentePagina": "https://kigalitoday.com/amakuru/mu-rwanda/article/bugesera-hatashywe-umuyoboro-w-amazi-ugaburira-utugari-tune-tutayagiraga",
+      "titulo": "Bugesera: Hatashywe umuyoboro w'amazi ugaburira utugari tune ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStK7tFWaeQei5iPmK4DnjN68Dswk1Y5dmUJA&s",
+      "original": "https://kigalitoday.com/IMG/jpg/amazi_1-28.jpg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/fire-hydrant/rw/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFKjwzxJkS3k5MVBDHXpuP8cZHXhX8GqUTmw&s",
+      "fuentePagina": "https://www.nyamasheke.gov.rw/news-detail-1/hatangijwe-umuyoboro-w-amazi-gatare-nyamirundi-uzakemura-ikibazo-cy-amazi-meza-mu-mirenge-3",
+      "titulo": "Hatangijwe umuyoboro w'Amazi Gatare-Nyamirundi uzakemura ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFKjwzxJkS3k5MVBDHXpuP8cZHXhX8GqUTmw&s",
+      "original": "https://www.nyamasheke.gov.rw/fileadmin/_processed_/2/6/csm_0001AMAZI_5460ab2684.jpeg"
+    }
+  ]
+}

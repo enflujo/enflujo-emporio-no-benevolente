@@ -1,0 +1,71 @@
+{
+  "categoria": "potted plant",
+  "categoriaSlug": "potted-plant",
+  "idioma": "kg",
+  "nombreIdioma": "Kikongo",
+  "termino": "nti ya bonga",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:18:19.601Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "fr",
+    "gl": "cd"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=nti%20ya%20bonga&hl=fr&gl=cd",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/potted-plant/kg/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHoe0kOYV7Q3NluDqd1vRqEYaGvaEB3-jMyQ&s",
+      "fuentePagina": "https://www.afrisson.com/walaghai-bonge-la-nyau-feat-bob-junior/",
+      "titulo": "WALAGHAI - Bonge La Nyau feat. Bob Junior - Afrisson",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHoe0kOYV7Q3NluDqd1vRqEYaGvaEB3-jMyQ&s",
+      "original": "https://www.afrisson.com/wp-content/uploads/2025/09/cd_bonge.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/potted-plant/kg/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTts9BfiWdgDpl8uCfZDQ-rFZ3-VEbYrSwqfw&s",
+      "fuentePagina": "https://open.spotify.com/album/6ORZ0mQT9z8mXYenOSCqbe",
+      "titulo": "Noba Yintoni - Single by NAAK | Spotify",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTts9BfiWdgDpl8uCfZDQ-rFZ3-VEbYrSwqfw&s",
+      "original": "https://i.scdn.co/image/ab67616d0000b273b2cc0b17b9a9e4adedd4cd3e"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/potted-plant/kg/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSY7vDrtdpFT5myLsrnsG9HMmn_ciEqU2RSTg&s",
+      "fuentePagina": "https://www.youtube.com/watch?v=UDoWgyH73rw",
+      "titulo": "Cantique Kintwadi 176 | Kedika Ba bonga | Cover By AdorateurJean  🥰🎹🎼🥁🇨🇩🇨🇬🇨🇬🇨🇬🇨🇬",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSY7vDrtdpFT5myLsrnsG9HMmn_ciEqU2RSTg&s",
+      "original": "https://i.ytimg.com/vi/UDoWgyH73rw/hqdefault.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/potted-plant/kg/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6wEQoETLUESs4aF189VQKojC1FzkgSVayfg&s",
+      "fuentePagina": "https://www.shazam.com/artist/ntombhi-ya-nwagaza/1801175964",
+      "titulo": "Ntombhi ya NwaGaza - Shazam",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6wEQoETLUESs4aF189VQKojC1FzkgSVayfg&s",
+      "original": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a1/0d/12/a10d1232-3660-3be5-85ef-c24568fe9720/artwork.jpg/3000x3000bb.jpg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/potted-plant/kg/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHVHxi_Lv9fD-cKKjoVyeoOwEhulrpvRjb5Q&s",
+      "fuentePagina": "https://wol.jw.org/ldi/wol/d/r916/lp-lr/2025242",
+      "titulo": "Bonga nzengolo zitâka Yehova nsayi — Watchtower BIBLIOTEKE ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHVHxi_Lv9fD-cKKjoVyeoOwEhulrpvRjb5Q&s",
+      "original": "https://wol.jw.org/ldi/wol/mp/r916/lp-lr/w25/2025/29"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/potted-plant/kg/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTu3eJrS2vz7DaTZ8JgSsM13gqLwAQKhZ73Sg&s",
+      "fuentePagina": "https://open.spotify.com/album/0AXIGpHB78T25pxAIrYMH5",
+      "titulo": "Ntombhi ya NwaGaza - Album by Ntombhi ya NwaGaza | Spotify",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTu3eJrS2vz7DaTZ8JgSsM13gqLwAQKhZ73Sg&s",
+      "original": "https://i.scdn.co/image/ab67616d0000b273abc30533a6ba0f97ee9e6d2d"
+    }
+  ]
+}

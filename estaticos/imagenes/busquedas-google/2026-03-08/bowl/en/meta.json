@@ -1,0 +1,71 @@
+{
+  "categoria": "bowl",
+  "categoriaSlug": "bowl",
+  "idioma": "en",
+  "nombreIdioma": "English",
+  "termino": "bowl",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:09:48.945Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "en",
+    "gl": "us"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=bowl&hl=en&gl=us",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bowl/en/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnILt8DTeif-XW-AnIOKd7awJpzO8Djj-KvA&s",
+      "fuentePagina": "https://www.ikea.com/us/en/p/blanda-blank-serving-bowl-stainless-steel-00637265/",
+      "titulo": "BLANDA BLANK serving bowl, stainless steel, 11\" - IKEA",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnILt8DTeif-XW-AnIOKd7awJpzO8Djj-KvA&s",
+      "original": "https://www.ikea.com/us/en/images/products/blanda-blank-serving-bowl-stainless-steel__1245291_pe921567_s5.jpg?f=s"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bowl/en/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSs_v0hdCu34s5p5qAS-WcxqsVQ-wq3bY9lmg&s",
+      "fuentePagina": "https://jenggala.com/product/color/varied-blue/large-classic-round-soup-bowl-varied-blue/?srsltid=AfmBOopw60qMQUdMru9rsrpWl86YYfzTvD7bGZf0rxhXuoJ5eHwjAO4Y",
+      "titulo": "Large Classic Round Soup Bowl Varied Blue - Handmade Ceramic ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSs_v0hdCu34s5p5qAS-WcxqsVQ-wq3bY9lmg&s",
+      "original": "https://jenggala.com/wp-content/uploads/2018/07/A08HB0989-1004.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bowl/en/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXyp_kpScW0UWxp3BCWSYR-NR9hMAMzrp2cw&s",
+      "fuentePagina": "https://www.walmart.com/ip/Mainstays-38-Ounce-Round-Plastic-Cereal-Bowl-Dark-Blue/518710280",
+      "titulo": "Mainstays Plastic Cereal Bowl 38 Ounce Dark Blue Microwave ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXyp_kpScW0UWxp3BCWSYR-NR9hMAMzrp2cw&s",
+      "original": "https://i5.walmartimages.com/seo/Mainstays-38-Ounce-Round-Plastic-Cereal-Bowl-Dark-Blue_26ad8aa4-fc74-4999-a0ac-acd83098cf3e.f690367277be2a1b40b456349a0ddb25.jpeg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bowl/en/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtkhbz4jf3TynugZsTP9hr7T-ZPdSB9M8QAQ&s",
+      "fuentePagina": "https://www.walmart.com/ip/Mainstays-Glazed-White-Stoneware-Round-Dinner-Bowl-6-1/212468608",
+      "titulo": "Mainstays Glazed White Stoneware Dinner Bowl 6.1-inch Round ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtkhbz4jf3TynugZsTP9hr7T-ZPdSB9M8QAQ&s",
+      "original": "https://i5.walmartimages.com/seo/Mainstays-Glazed-White-Stoneware-Round-Dinner-Bowl-6-1_426bdffc-2c09-4a2a-ba97-69ee2ce36dbe.f9b7d72ccea163aa0ef1ddb7af24f3f8.jpeg?odnHeight=768&odnWidth=768&odnBg=FFFFFF"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bowl/en/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQikQ7hzAEcRCxAgU-UoBJTipgw_FaWVwXY2Q&s",
+      "fuentePagina": "https://andrewpearcebowls.com/products/extra-large-champlain-round-wooden-bowl?srsltid=AfmBOooDOA5GaOrRahKsXWNxHymLht_aICfgoFsHCJM_dW-MvsQ33Seh",
+      "titulo": "X-Large Champlain (classic) Wooden Bowl",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQikQ7hzAEcRCxAgU-UoBJTipgw_FaWVwXY2Q&s",
+      "original": "https://andrewpearcebowls.com/cdn/shop/files/Extra-Large-Champlain-classic-Wooden-Bowl-in-Cherry_grande.jpg?v=1762459109"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bowl/en/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUKF7dmMr_WRE-nVcVRuAjF0bc0GJFGdHNuA&s",
+      "fuentePagina": "https://www.ikea.com/us/en/p/oftast-bowl-white-80258915/",
+      "titulo": "OFTAST bowl, white, 6\" - IKEA",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUKF7dmMr_WRE-nVcVRuAjF0bc0GJFGdHNuA&s",
+      "original": "https://www.ikea.com/us/en/images/products/oftast-bowl-white__0712208_pe728639_s5.jpg?f=s"
+    }
+  ]
+}

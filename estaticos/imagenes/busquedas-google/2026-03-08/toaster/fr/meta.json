@@ -1,0 +1,71 @@
+{
+  "categoria": "toaster",
+  "categoriaSlug": "toaster",
+  "idioma": "fr",
+  "nombreIdioma": "Français",
+  "termino": "grille-pain",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:26:16.477Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "fr",
+    "gl": "be"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=grille-pain&hl=fr&gl=be",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/toaster/fr/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAvjW6JE83gj3KKUODm6UaZk8BrsL4dTmr6g&s",
+      "fuentePagina": "https://www.fr.fnac.be/Moulinex-Grille-pain-Subito-LS5S08E0-1560-W-Inox-noir/a21404550",
+      "titulo": "Moulinex Grille-pain Subito LS5S08E0 1560 W Inox noir",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAvjW6JE83gj3KKUODm6UaZk8BrsL4dTmr6g&s",
+      "original": "https://static.fnac-static.com/multimedia/Images/FR/MDM/36/c9/aa/27969846/1520-4/tsp20260219154224/Moulinex-Grille-pain-longue-fente-Subito-Inox-noir-LS5S08E0.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/toaster/fr/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpI5jG173ZAjtyWpX27Zvrt-gd78VDrHhjdg&s",
+      "fuentePagina": "https://www.amazon.com.be/BESTRON-Grille-Copper-Collection-ATS1000CO/dp/B07ZZ57GDS",
+      "titulo": "BESTRON Grille pain Copper Collection ATS1000CO : Amazon.com.be: Cuisine et  maison",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpI5jG173ZAjtyWpX27Zvrt-gd78VDrHhjdg&s",
+      "original": "https://m.media-amazon.com/images/I/71xMw-vQ5-L._AC_UF350,350_QL80_.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/toaster/fr/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUyFLMaXejr10U0gJ6zJrsqm8mJc29Z_NUgw&s",
+      "fuentePagina": "https://www.domo-elektro.be/fr/do966t-domo-broodrooster-voor-2-toasts-incl-ingebouwd-broodjesrek",
+      "titulo": "DOMO Grille-pain - pour 2 toasts - avec support petits pains intégré",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUyFLMaXejr10U0gJ6zJrsqm8mJc29Z_NUgw&s",
+      "original": "https://www.domo-elektro.be/media/catalog/product/cache/f08d0db0d0699bca6b022829de5603d1/D/O/DO966T_Toaster_01.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/toaster/fr/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtG0WsbSNjf10DW69DCHPzWOTbsKuQqUz0VA&s",
+      "fuentePagina": "https://www.pearl.be/article/NC2766/grille-pain-4-tranches-1300-w?srsltid=AfmBOooSMYBLTEZ6GKsb4QFkHtAHUt2FZCZ1TyWTugSRy1NFZRu_CRWh",
+      "titulo": "Achat Grille-Pain 4 Tranches 1300 W | Grille-pains | Pearl.be",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtG0WsbSNjf10DW69DCHPzWOTbsKuQqUz0VA&s",
+      "original": "https://content.pearl.be/media/cache/default/article_ultralarge_high_nocrop/shared/images/articles/N/NC2/grille-pain-4-tranches-1300-w-ref_NC2766_1.jpg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/toaster/fr/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQa6qs8qSlvU7V61iih5iIDaTOjKpOSoViIgQ&s",
+      "fuentePagina": "https://www.domo-elektro.be/en/do961t-domo-toaster-b-smart-for-4-toasts",
+      "titulo": "DOMO Toaster 'B-Smart' - for 4 toasts",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQa6qs8qSlvU7V61iih5iIDaTOjKpOSoViIgQ&s",
+      "original": "https://www.domo-elektro.be/media/catalog/product/cache/bdbe5f5c18df065ef799716ce11e7711/D/O/DO961T_broodrooster_01.jpg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/toaster/fr/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-FabEQvdG1mLabUYCnkT-fjTyhCDq4Jfm7g&s",
+      "fuentePagina": "https://www.lumimania.be/fr/tefal-grille-pain-a-deux-compartiments-morning-850w-230v-bleu/",
+      "titulo": "Tefal - Grille-pain à deux compartiments MORNING 850W/230V ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-FabEQvdG1mLabUYCnkT-fjTyhCDq4Jfm7g&s",
+      "original": "https://www.lumimania.be/tefal-grille-pain-a-deux-compartiments-morning-850w-230v-bleu-img-gs0355_03-fd-11.jpg"
+    }
+  ]
+}

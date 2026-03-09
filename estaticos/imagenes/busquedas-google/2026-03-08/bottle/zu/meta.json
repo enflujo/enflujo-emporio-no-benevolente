@@ -1,0 +1,71 @@
+{
+  "categoria": "bottle",
+  "categoriaSlug": "bottle",
+  "idioma": "zu",
+  "nombreIdioma": "isiZulu",
+  "termino": "ibhodlela",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:06:17.450Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "zu",
+    "gl": "za"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=ibhodlela&hl=zu&gl=za",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bottle/zu/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMyga-OriZJmdyG-iKmkXzv8wnHVz3jqZRIw&s",
+      "fuentePagina": "https://www.youtube.com/watch?v=r_Une0xzrms",
+      "titulo": "Pushkin RSA & Eltee - IBHODLELA (Official Audio) feat ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMyga-OriZJmdyG-iKmkXzv8wnHVz3jqZRIw&s",
+      "original": "https://i.ytimg.com/vi/WcL8SQEMY_I/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLCf3I0UnWdQMCNHSoQh450zIH8jCg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bottle/zu/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsudNYHiY_GXQ_qSJqK_qVOCr_DSNj-1dkKg&s",
+      "fuentePagina": "https://open.spotify.com/track/7xreQpOehPDGLFF2Lumwle",
+      "titulo": "Ibhodlela - song and lyrics by Siphesihle Skhakhane, The ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsudNYHiY_GXQ_qSJqK_qVOCr_DSNj-1dkKg&s",
+      "original": "https://i.scdn.co/image/ab67616d0000b273083db698e5f5083e7d866968"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bottle/zu/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVQpda9CNODSr4gGRCJEwivgy-cVIc4z4utw&s",
+      "fuentePagina": "https://www.youtube.com/watch?v=r_Une0xzrms",
+      "titulo": "Pushkin RSA & Eltee - IBHODLELA (Official Audio) feat ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVQpda9CNODSr4gGRCJEwivgy-cVIc4z4utw&s",
+      "original": "https://i.ytimg.com/vi/r_Une0xzrms/hqdefault.jpg?v=6928fc77"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bottle/zu/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWL9FPX7gDFDVIq2uIOTuS79jU2-TwODtcLQ&s",
+      "fuentePagina": "https://www.facebook.com/100064261772051/posts/ibhodlela-lemali-elibiza-abathengi-ku-business-lakho-r600-liyicombo-uthola-isbun/672694313524438/",
+      "titulo": "Ibhodlela lemali elibiza abathengi ku-business lakho: R600 ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWL9FPX7gDFDVIq2uIOTuS79jU2-TwODtcLQ&s",
+      "original": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=672693670191169"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bottle/zu/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2ihfvSxfBzVmPKp5HEo_ah8_4-dhf9xea0g&s",
+      "fuentePagina": "https://www.deezer.com/en/album/581522222",
+      "titulo": "Dj Mlungstar - Ibhodlela | Deezer",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2ihfvSxfBzVmPKp5HEo_ah8_4-dhf9xea0g&s",
+      "original": "https://cdn-images.dzcdn.net/images/cover/8c8015d51982ab280baad34ffd999918/1900x1900-000000-80-0-0.jpg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bottle/zu/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQthm_HyvnBz5dRMYA6cIvXAzCrWUnswHroRA&s",
+      "fuentePagina": "https://www.facebook.com/Amapianocpt/posts/pushkin-ibhodlela-is-out-now-/873994618556358/",
+      "titulo": "Pushkin Ibhodlela is Out Now 🔥🔥🔥🍾",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQthm_HyvnBz5dRMYA6cIvXAzCrWUnswHroRA&s",
+      "original": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=873993785223108"
+    }
+  ]
+}

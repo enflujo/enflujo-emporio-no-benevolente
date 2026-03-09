@@ -1,0 +1,71 @@
+{
+  "categoria": "bird",
+  "categoriaSlug": "bird",
+  "idioma": "yo",
+  "nombreIdioma": "Yorùbá",
+  "termino": "ẹyẹ",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T20:49:47.345Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "yo",
+    "gl": "ng"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=%E1%BA%B9y%E1%BA%B9&hl=yo&gl=ng",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bird/yo/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPczsedAReLTWki2w2kz51TtGaZut8c4ffsg&s",
+      "fuentePagina": "https://yo.wikipedia.org/wiki/%E1%BA%B8y%E1%BA%B9",
+      "titulo": "Ẹyẹ - Wikipedia, ìwé-ìmọ̀ ọ̀fẹ́",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPczsedAReLTWki2w2kz51TtGaZut8c4ffsg&s",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Petroica_boodang_Meehan_Range_1_crop.jpg/250px-Petroica_boodang_Meehan_Range_1_crop.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bird/yo/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsfUuu9e7hn3YMucJjsHhAHhv9aKmaZS4zgQ&s",
+      "fuentePagina": "https://www.facebook.com/wasanthaweliange420/posts/birds-in-nigeria-%C3%B2b%C3%A0-%E1%BA%B9y%E1%BA%B9-king-of-birds-%EF%B8%8Facross-yoruba-speaking-regions-of-nigeri/1301178105355649/",
+      "titulo": "Birds in Nigeria 🌿 Òbà-ẹyẹ – “King of Birds” 👑🕊️ Across ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsfUuu9e7hn3YMucJjsHhAHhv9aKmaZS4zgQ&s",
+      "original": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=1301177655355694"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bird/yo/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8Wey9qFRuq29Fi3qpyodAZynvGT-LcMDAbA&s",
+      "fuentePagina": "https://en.wiktionary.org/wiki/%E1%BA%B9y%E1%BA%B9-%E1%BB%8Dba",
+      "titulo": "ẹyẹ-ọba - Wiktionary, the free dictionary",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8Wey9qFRuq29Fi3qpyodAZynvGT-LcMDAbA&s",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Flickr_-_Rainbirder_-_Yellow-crowned_Gonolek_%28Laniarius_barbarus%29_%281%29.jpg/250px-Flickr_-_Rainbirder_-_Yellow-crowned_Gonolek_%28Laniarius_barbarus%29_%281%29.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bird/yo/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTm_DPhJ6JBO8B3CE5e_y9wUy7SN6IQitOGDQ&s",
+      "fuentePagina": "https://wol.jw.org/yo/wol/d/r36/lp-yr/102017126",
+      "titulo": "Ẹyẹ Arctic Tern — ÀKÁ ÌWÉ ORÍ ÍŃTÁNẸ́Ẹ̀TÌ ti Watchtower",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTm_DPhJ6JBO8B3CE5e_y9wUy7SN6IQitOGDQ&s",
+      "original": "https://wol.jw.org/yo/wol/mp/r36/lp-yr/g17/2017/264"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bird/yo/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScooOC2ymWAKnSICwhxtHZnO8CYmJ55yuFUQ&s",
+      "fuentePagina": "https://yo.wikipedia.org/wiki/%E1%BA%B8y%E1%BA%B9_p%E1%BA%B9%CC%81ng%C3%BA%C3%ACn%C3%AC",
+      "titulo": "Ẹyẹ pẹ́ngúìnì - Wikipedia, ìwé-ìmọ̀ ọ̀fẹ́",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScooOC2ymWAKnSICwhxtHZnO8CYmJ55yuFUQ&s",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Yellow-eyed_Penguin_crying_MC.jpg/250px-Yellow-eyed_Penguin_crying_MC.jpg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bird/yo/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQa6uISJ9CWtzym8K7mi2h3l2ExODbSQjmUbQ&s",
+      "fuentePagina": "https://www.instagram.com/p/DMHUk3UIaB7/",
+      "titulo": "Ẹ bá wa pa Òwe Yorùbá kan nípa ẹyẹ Ọ̀kín #OweNinuAworan ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQa6uISJ9CWtzym8K7mi2h3l2ExODbSQjmUbQ&s",
+      "original": "https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3676998114996232315"
+    }
+  ]
+}

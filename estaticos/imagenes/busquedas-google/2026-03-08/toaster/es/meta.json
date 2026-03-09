@@ -1,0 +1,71 @@
+{
+  "categoria": "toaster",
+  "categoriaSlug": "toaster",
+  "idioma": "es",
+  "nombreIdioma": "Español",
+  "termino": "tostadora",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:26:39.781Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "es",
+    "gl": "es"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=tostadora&hl=es&gl=es",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/toaster/es/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHsH34PAm0bgUIg7j1T8LH8AzRay6nXtNrhw&s",
+      "fuentePagina": "https://www.amazon.es/Taurus-Todopan-Tostadora-para-todo/dp/B00BQXNY2Q",
+      "titulo": "Taurus Todopan - Tostadora para Todo Tipo de Pan, 700W ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHsH34PAm0bgUIg7j1T8LH8AzRay6nXtNrhw&s",
+      "original": "https://m.media-amazon.com/images/I/71Z8QEDXswL._AC_UF350,350_QL80_.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/toaster/es/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4pl9P9JZ91LeKpV1aV7UvzKFwio5K-diwSw&s",
+      "fuentePagina": "https://www.elle.com/es/gourmet/gastronomia/a62664219/tostadora-estilo-vintage/",
+      "titulo": "Una tostadora vintage muy buena, eficaz, rápida y decorativa",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4pl9P9JZ91LeKpV1aV7UvzKFwio5K-diwSw&s",
+      "original": "https://hips.hearstapps.com/hmg-prod/images/81xviygxmgl-ac-sl1500-6715f9327d0f6.jpg?crop=0.668xw:1.00xh;0.276xw,0&resize=640:*"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/toaster/es/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThWX_lhuOVUwYgZlAUi-b2GiHDGJPZVKnUHQ&s",
+      "fuentePagina": "https://www.carrefour.es/tostadora-pan-2-rebanadas-7-niveles-tostado-3-funciones-calienta-panecillos-acero-inoxidable-acero-inoxidable-1000w-adler-ad3222/5903887802178/p",
+      "titulo": "Tostadora Pan 2 Rebanadas, 7 Niveles Tostado 3 Funciones, Calienta  Panecillos, Acero Inoxidable Acero Inoxidable 1000w Adler Ad3222",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThWX_lhuOVUwYgZlAUi-b2GiHDGJPZVKnUHQ&s",
+      "original": "https://storage.googleapis.com/catalog-pictures-carrefour-es/catalog/pictures/hd_510x_/5903887802178_1.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/toaster/es/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwTcGyj1oiOtsIqRTGSNIvoiWaQToR_UNz0w&s",
+      "fuentePagina": "https://www.jata.es/tostadoras/tostadora-tt631-822.html?srsltid=AfmBOooBUGRijEmGEq8Atj5_iWY70kgYaQ7dXhV58yiQbAgzm5sJpiYe",
+      "titulo": "Tostadora TT631",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwTcGyj1oiOtsIqRTGSNIvoiWaQToR_UNz0w&s",
+      "original": "https://www.jata.es/54988-large_default/tostadora.jpg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/toaster/es/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0qfuW-Df-aEtFYtRxdRxYDZfiYARQKdf5wA&s",
+      "fuentePagina": "https://www.lacasadeloutlet.es/tostadora-cecotec-toasttaste-1600-retro-double-blue/?srsltid=AfmBOorBmFTEw0zIXyt44b049xEevASvRkDcXV2LmReiBy-crPWtzMbs",
+      "titulo": "Tostadora Cecotec Toast&Taste 1600 Retro Double Blue",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0qfuW-Df-aEtFYtRxdRxYDZfiYARQKdf5wA&s",
+      "original": "https://www.lacasadeloutlet.es/wp-content/uploads/2023/10/toasttaste-1600-retro-double-blue_13qr3y_8.jpg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/toaster/es/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ24WxuYcYBpbsbdMkQ7LTML34Ie4-M5tHHkQ&s",
+      "fuentePagina": "https://www.tmelectron.com/producto/cocina/tostadores/tostador-ranuras-xxl-tmpts005/",
+      "titulo": "Tostador Ranuras XXL",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ24WxuYcYBpbsbdMkQ7LTML34Ie4-M5tHHkQ&s",
+      "original": "https://www.tmelectron.com/media/TMPTS005_01_TOSTADOR-XXL-scaled.jpg"
+    }
+  ]
+}

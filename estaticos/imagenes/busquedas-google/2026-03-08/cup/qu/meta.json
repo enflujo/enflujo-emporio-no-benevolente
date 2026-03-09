@@ -1,0 +1,71 @@
+{
+  "categoria": "cup",
+  "categoriaSlug": "cup",
+  "idioma": "qu",
+  "nombreIdioma": "Quechua",
+  "termino": "puñu",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:07:41.046Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "es",
+    "gl": "pe"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=pu%C3%B1u&hl=es&gl=pe",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/cup/qu/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTD2_BzettUYZt06swZd9RHu4eHTyiN9mjqQw&s",
+      "fuentePagina": "https://www.randafricanart.com/Punu_mask.html",
+      "titulo": "Punu mask - RAND AFRICAN ART",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTD2_BzettUYZt06swZd9RHu4eHTyiN9mjqQw&s",
+      "original": "https://www.randafricanart.com/files/RT_Punu_mask_1_ADC_01.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/cup/qu/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0FBG_mKI2e4rNBBc6xyWxoelSxsCGcrd2BQ&s",
+      "fuentePagina": "https://www.galeria-arte-africano.es/arte-africano/M%C3%A1scaras/Punu-m%C3%A1scara/23198",
+      "titulo": "Punu máscara (23198) - Máscaras Punu - Arte Africano gabon",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0FBG_mKI2e4rNBBc6xyWxoelSxsCGcrd2BQ&s",
+      "original": "http://www.galeria-arte-africano.es/fotos-arte-africano/23198/f9192649-17a8-4331-919f-c9da81a56fa1/Masque-Punu-Art-Africain_img.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/cup/qu/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSP94JOWAALefq3QpgldRrVWS891OF9clTNmg&s",
+      "fuentePagina": "https://www.metmuseum.org/art/collection/search/318667",
+      "titulo": "Punu artist - Mukudj (mask) - Punu peoples - The ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSP94JOWAALefq3QpgldRrVWS891OF9clTNmg&s",
+      "original": "https://collectionapi.metmuseum.org/api/collection/v1/iiif/318667/666928/restricted"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/cup/qu/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtW9X5kvi2F3FOYLlHn52u55CyTBJ7XeGwZg&s",
+      "fuentePagina": "https://en.wikipedia.org/wiki/Punu-Lumbo_mask",
+      "titulo": "Punu-Lumbo mask - Wikipedia",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtW9X5kvi2F3FOYLlHn52u55CyTBJ7XeGwZg&s",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/1/18/Punu-Lumbo_mask.jpg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/cup/qu/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYwIFNHhUJraw9tcB6cMYaYnU6vMm8SWXTqQ&s",
+      "fuentePagina": "https://africadirect.com/blogs/news/the-punu-maiden-spirit-mask?srsltid=AfmBOoo8WzNivSzdb5bA4189R-MUVNwxwQZaXpLjNXIpLRepg2ZCM8tp",
+      "titulo": "The Punu Maiden Spirit Mask: A Masterpiece of African ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYwIFNHhUJraw9tcB6cMYaYnU6vMm8SWXTqQ&s",
+      "original": "https://cdn.shopify.com/s/files/1/0826/1015/9911/files/DSC_0422_f5c2b639-9b9a-4361-b719-0175eca041a5_480x480.jpg?v=1729699039"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/cup/qu/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREx9TANRK1-NLp25FeNgznnfmD1L0Tn4dFeA&s",
+      "fuentePagina": "https://www.african-arts-gallery.com/african-art/African-mask/Punu-Mask/25693",
+      "titulo": "Punu Mask",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREx9TANRK1-NLp25FeNgznnfmD1L0Tn4dFeA&s",
+      "original": "https://www.african-arts-gallery.com/african-art-picture/25693/82a18afb-de66-400c-8f85-20b247992a2a/Masque-Punu-Art-Africain_img.jpg"
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "categoria": "wine glass",
+  "categoriaSlug": "wine-glass",
+  "idioma": "zh",
+  "nombreIdioma": "中文",
+  "termino": "酒杯",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:07:08.188Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "zh-CN",
+    "gl": "cn"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=%E9%85%92%E6%9D%AF&hl=zh-CN&gl=cn",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/wine-glass/zh/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDNSo-77rg5pGfJqITLDz4MySh54UlYP_Kzg&s",
+      "fuentePagina": "https://www.christies.com.cn/zh-cn/stories/guide-to-wine-glasses-05b881dd930c4d58933422a5b3d0d525",
+      "titulo": "完美酒杯︰为葡萄酒挑选酒杯的七大要诀| Christie's",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDNSo-77rg5pGfJqITLDz4MySh54UlYP_Kzg&s",
+      "original": "https://www.christies.com/-/jssmedia/images/features/articles/2017/07/31/wine-glasses-guide/veritas_cabernet_merlot_grey.jpg?h=3595&iar=0&w=2400&rev=6ca7b78205924049a9f6db2125303495&hash=d78ccc5416e570b27fffb9fbe561a9a500640f33"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/wine-glass/zh/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOdpKveeCIZ1D2jeDqIC-q9AF9LI9vZk248Q&s",
+      "fuentePagina": "https://www.ikea.cn/cn/zh/p/storsint-red-wine-glass-clear-glass-00396299/",
+      "titulo": "STORSINT 斯图辛特红酒酒杯透明玻璃- IKEA",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOdpKveeCIZ1D2jeDqIC-q9AF9LI9vZk248Q&s",
+      "original": "https://file.app.ikea.cn/cn/zh/images/products/storsint-si-tu-xin-te-hong-jiu-jiu-bei-tou-ming-bo-li__0640896_pe700140_s5.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/wine-glass/zh/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSORAoEplhHJ3X2n5GB1BN5s3esT7GWMBGH-A&s",
+      "fuentePagina": "https://winepassions.com/blogs/news-accessories/news-topwineglass?srsltid=AfmBOorqPyTvGk-8H_ExvyPzKDZVBWmJ5gHluvAIX9EMPiUEb0y2LfU6",
+      "titulo": "為你細數四大酒杯- Wine Passions 意酒會| 意大利紅酒",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSORAoEplhHJ3X2n5GB1BN5s3esT7GWMBGH-A&s",
+      "original": "http://cdn.shopify.com/s/files/1/0283/5166/0077/files/760wineglass1.jpg?v=1580896840"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/wine-glass/zh/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTtxUCIJD5VfGfc9tQuUVteRH8y0yVa_8mKg&s",
+      "fuentePagina": "https://www.winentaste.com/magazine/special_uksaywine_glassessec",
+      "titulo": "葡萄酒杯該選哪一種？從酒杯形狀找尋屬於你的葡萄酒杯！（下）",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTtxUCIJD5VfGfc9tQuUVteRH8y0yVa_8mKg&s",
+      "original": "https://storage.googleapis.com/winentaste-alcohol-quick-howl-assets/images/article/special/special_uksaywine_glasses_01.jpg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/wine-glass/zh/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQde4s_VlqA72A91Ac7Jenf9piprY1fsMwKdw&s",
+      "fuentePagina": "https://www.christies.com.cn/zh-cn/stories/guide-to-wine-glasses-05b881dd930c4d58933422a5b3d0d525",
+      "titulo": "完美酒杯︰为葡萄酒挑选酒杯的七大要诀| Christie's",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQde4s_VlqA72A91Ac7Jenf9piprY1fsMwKdw&s",
+      "original": "https://www.christies.com/-/media/images/features/articles/2017/07/31/wine-glasses-guide/1veritas_tasting-set-new2.jpg?h=550&iar=0&w=880&rev=fc734b44886f4f3daaa5692f97ea9f17&hash=e920e5d907d0aefa1922314d0ecd32c07ee68ae8"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/wine-glass/zh/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAdzTgUMZPgxBY0M_S8nPetNr-aV6FyI4WCw&s",
+      "fuentePagina": "https://rogaska-crystal.com/taiwan/wine-tasting-glassware/?srsltid=AfmBOoqMpvLY6ilnjdC0l0HAEWVSoQKYWN-fpAw8ASyXMbAHMa1MOKuL",
+      "titulo": "品酒杯有哪幾種？紅酒杯、白酒杯、香檳杯，8種酒杯種類報你知 ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAdzTgUMZPgxBY0M_S8nPetNr-aV6FyI4WCw&s",
+      "original": "https://rogaska-crystal.com/taiwan/wp-content/uploads/2020/04/1_118380-Cabernet-EXPERT-1.jpg"
+    }
+  ]
+}

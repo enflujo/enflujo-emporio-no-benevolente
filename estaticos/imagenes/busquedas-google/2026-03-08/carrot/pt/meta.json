@@ -1,0 +1,71 @@
+{
+  "categoria": "carrot",
+  "categoriaSlug": "carrot",
+  "idioma": "pt",
+  "nombreIdioma": "Português",
+  "termino": "cenoura",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:14:18.710Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "pt",
+    "gl": "br"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=cenoura&hl=pt&gl=br",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/carrot/pt/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvhGaDaTCNDT8w4tApoz-Q-M6H7ls00-7hTw&s",
+      "fuentePagina": "https://www.quitandatomio.com.br/produto/7-beneficios-da-cenoura-para-saude",
+      "titulo": "Cenoura | Quitanda Tomio",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvhGaDaTCNDT8w4tApoz-Q-M6H7ls00-7hTw&s",
+      "original": "https://www.quitandatomio.com.br/upload/408933518-7-beneficios-da-cenoura-para-saude.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/carrot/pt/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQLE4FKnJwoRNOSgBKT_0mH9S6ksO1BNsbfw&s",
+      "fuentePagina": "https://www.infoescola.com/plantas/cenoura/",
+      "titulo": "Cenoura - Nutrientes e benefícios da Cenoura - InfoEscola",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQLE4FKnJwoRNOSgBKT_0mH9S6ksO1BNsbfw&s",
+      "original": "https://www.infoescola.com/wp-content/uploads/2010/08/cenoura_250834906.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/carrot/pt/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTfMFfAXyS9nmPUhLGqV3cpFzAYuH0IVd05w&s",
+      "fuentePagina": "https://www.naturaldaterra.com.br/cenoura-unidade/p",
+      "titulo": "Cenoura Unidade",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTfMFfAXyS9nmPUhLGqV3cpFzAYuH0IVd05w&s",
+      "original": "https://www.naturaldaterra.com.br/_next/image?url=https%3A%2F%2Fnaturalterra.vtexassets.com%2Farquivos%2Fids%2F159718%2FCenoura-Unidade.jpg%3Fv%3D638887927645600000%26format%3Dwebp&w=1440&q=75"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/carrot/pt/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbWwCmrpgOBkTD0EUN3CcfuOFor4axI5sCRw&s",
+      "fuentePagina": "https://www.goldplant.com.br/semente-cenoura",
+      "titulo": "Semente Cenoura - Gold Plant",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbWwCmrpgOBkTD0EUN3CcfuOFor4axI5sCRw&s",
+      "original": "https://cdn.awsli.com.br/300x300/2283/2283132/produto/273214079/bffac282bd2d4c0bd7d9ae4bfb1c21c8-mg2d7de0qz.jpeg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/carrot/pt/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqPU6pF6quRpe_ZnyA8nJ47YGkAJVzbPB8Zw&s",
+      "fuentePagina": "https://campoenegocios.com/aprenda-a-plantar-cenoura-2/",
+      "titulo": "Aprenda a plantar cenoura",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqPU6pF6quRpe_ZnyA8nJ47YGkAJVzbPB8Zw&s",
+      "original": "https://revistacampoenegocios.com.br/wp-content/uploads/2021/11/Cenoura-1.jpg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/carrot/pt/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdgG_78m0_ohjQT7khHl2F6pJF6ldIg7lIFg&s",
+      "fuentePagina": "https://boxfruti.com.br/produtos/cenoura/",
+      "titulo": "Cenoura",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdgG_78m0_ohjQT7khHl2F6pJF6ldIg7lIFg&s",
+      "original": "https://boxfruti.com.br/wp-content/uploads/2025/03/CEnoura.png.webp"
+    }
+  ]
+}

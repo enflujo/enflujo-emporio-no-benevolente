@@ -1,0 +1,71 @@
+{
+  "categoria": "couch",
+  "categoriaSlug": "couch",
+  "idioma": "hi",
+  "nombreIdioma": "हिन्दी",
+  "termino": "सोफा",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:17:55.603Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "hi",
+    "gl": "in"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=%E0%A4%B8%E0%A5%8B%E0%A4%AB%E0%A4%BE&hl=hi&gl=in",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/couch/hi/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDUlqinCkIzB7BOtQDSjOYdPRG2iaNL13IKQ&s",
+      "fuentePagina": "https://woodentwist.com/hi/products/afr7746?srsltid=AfmBOooJnvExA6xF9TVTnYhXSIWrTPM9IIpamQHHPtInlx8K6bninRIO",
+      "titulo": "वुडनट्विस्ट पर रॉयल ब्लू मॉडर्न ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDUlqinCkIzB7BOtQDSjOYdPRG2iaNL13IKQ&s",
+      "original": "http://woodentwist.com/cdn/shop/files/WoodenTwist_43.png?v=1756301036"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/couch/hi/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1UoY06hCTV55T_d_rIhIcr68Duxt7RWQ0HQ&s",
+      "fuentePagina": "https://www.amazon.in/-/hi/WOODEN-%E0%A4%AE%E0%A5%88%E0%A4%97%E0%A4%9C%E0%A4%BC%E0%A5%80%E0%A4%A8-%E0%A4%B0%E0%A5%8B%E0%A4%9C%E0%A4%BC%E0%A4%B5%E0%A5%81%E0%A4%A1-%E0%A4%A1%E0%A5%87%E0%A4%82%E0%A4%B8%E0%A4%BF%E0%A4%9F%E0%A5%80-%E0%A4%95%E0%A5%81%E0%A4%B6%E0%A4%A8-5Str/dp/B0CK4LWNTL",
+      "titulo": "WOODEN WORK सॉलिड शीशम वुड सोफा सेट 5 ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1UoY06hCTV55T_d_rIhIcr68Duxt7RWQ0HQ&s",
+      "original": "https://m.media-amazon.com/images/I/510oWogop+L._AC_UF894,1000_QL80_.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/couch/hi/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTErT_5w2XcEjOL0fXRTehhKyzT8XcRraH1ww&s",
+      "fuentePagina": "https://aarsunwoods.com/hi/product/wooden-chesterfield-sofa-set-royal-sofa-set-uh-cht-003/",
+      "titulo": "चेस्टरफ़ील्ड स्टाइल CHT-003 में रॉयल सोफा",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTErT_5w2XcEjOL0fXRTehhKyzT8XcRraH1ww&s",
+      "original": "https://aarsunwoods.com/wp-content/uploads/2022/03/Aarsun-Wooden-Royal-Chesterfield-Sofa-Set-jpg.webp"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/couch/hi/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0aBJo1S5-EJsoHb5Bu-v6D74vfnmtdVM8uA&s",
+      "fuentePagina": "https://woodentwist.com/hi/products/afr3761?srsltid=AfmBOoomPxWqrgM1OUHnodhgntBsXTONOaEXwhQTzni0zsmpFhSUEi8g",
+      "titulo": "भारत में विक्टोरियन स्टाइल सोफा ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0aBJo1S5-EJsoHb5Bu-v6D74vfnmtdVM8uA&s",
+      "original": "http://woodentwist.com/cdn/shop/products/IMG_1331.jpg?v=1743252621"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/couch/hi/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlxO8r0IZsCr1cOFqovCoKVzGDvBNHLjYL-g&s",
+      "fuentePagina": "https://www.amazon.in/-/hi/FURNESHO-%E0%A4%B2%E0%A4%BF%E0%A4%B5%E0%A4%BF%E0%A4%82%E0%A4%97-%E0%A4%B2%E0%A4%95%E0%A4%A1%E0%A4%BC%E0%A5%80-3-%E0%A4%B5%E0%A5%8D%E0%A4%AF%E0%A4%95%E0%A5%8D%E0%A4%A4%E0%A4%BF-%E0%A4%AB%E0%A4%BC%E0%A4%BF%E0%A4%A8%E0%A4%BF%E0%A4%B6/dp/B0BX6L88RN",
+      "titulo": "FURNESHO लिविंग रूम के लिए लकड़ी का 3 ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlxO8r0IZsCr1cOFqovCoKVzGDvBNHLjYL-g&s",
+      "original": "https://m.media-amazon.com/images/I/71KZUbcSLtL.jpg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/couch/hi/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPTYqDjXUyAYeQNxWBiX2oEFJp8LtPe4IvjQ&s",
+      "fuentePagina": "https://fedisa.co.in/product/zuari-wooden-sofa-set-tata-furniture-sofa-set-l-type-sofa-set-price-leather-corner-sofa-set/",
+      "titulo": "सागौन की लकड़ी का फर्नीचर सोफा सेट एल आकार का सोफा 3 सीटर जुआरी सोफा सेट 4  सीटर सोफा सेट की कीमत",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPTYqDjXUyAYeQNxWBiX2oEFJp8LtPe4IvjQ&s",
+      "original": "https://fedisa.co.in/wp-content/uploads/2023/11/Wooden-Sofa-Set-2141.jpg"
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "categoria": "spoon",
+  "categoriaSlug": "spoon",
+  "idioma": "sw",
+  "nombreIdioma": "Kiswahili",
+  "termino": "kijiko",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:09:15.312Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "sw",
+    "gl": "tz"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=kijiko&hl=sw&gl=tz",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/spoon/sw/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmz3QjXXI-Nq8ksd9z5yeXTEZ09Wy-KXIqJw&s",
+      "fuentePagina": "https://sw.wikipedia.org/wiki/Kijiko",
+      "titulo": "Kijiko - Wikipedia, kamusi elezo huru",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmz3QjXXI-Nq8ksd9z5yeXTEZ09Wy-KXIqJw&s",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/9/92/Soup_Spoon.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/spoon/sw/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbjuuD1sZwv9LPhron15lT6c0RG5bR7HgRvg&s",
+      "fuentePagina": "https://www.facebook.com/NRGRadioKe/posts/a-spoon-is-kijiko-in-swahili-what-do-you-call-a-spoon-in-your-local-language-nrg/375628306363435/",
+      "titulo": "A spoon is 'Kijiko' in Swahili. What do you call a spoon in ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbjuuD1sZwv9LPhron15lT6c0RG5bR7HgRvg&s",
+      "original": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=375628289696770"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/spoon/sw/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTruPuCTLIa_MmPbsbKf7j5zXYZesg2hRyoJg&s",
+      "fuentePagina": "https://sw.wiktionary.org/wiki/kijiko",
+      "titulo": "Ufafanuzi kutoka Wiktionary, kamusi iliyo huru",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTruPuCTLIa_MmPbsbKf7j5zXYZesg2hRyoJg&s",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/9/91/Tablespoon6234.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/spoon/sw/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTk2TOlJ3K-RP0eSZQKzJn6QVg9XpA9WhMORQ&s",
+      "fuentePagina": "https://www.instagram.com/p/CiIAaumo0c5/",
+      "titulo": "Set 24pcs 6/6/6/6 Kijiko kikubwa 6 Uma 6 Kisu 6 Kijiko cha ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTk2TOlJ3K-RP0eSZQKzJn6QVg9XpA9WhMORQ&s",
+      "original": "https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=2920586195096520505"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/spoon/sw/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9EGHW9S9X-Ny8epxIsiXDuimgH7tqbVPk8w&s",
+      "fuentePagina": "https://www.facebook.com/mashaproducts/posts/unaambiwaukichukua-kile-kijiko-cha-chai-ukakijaza-chumvi-hiyo-inakuwa-ni-sawa-na/4461775240595943/",
+      "titulo": "UNAAMBIWA Ukichukua kile kijiko cha chai ukakijaza chumvi ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9EGHW9S9X-Ny8epxIsiXDuimgH7tqbVPk8w&s",
+      "original": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=4461775210595946"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/spoon/sw/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxBCTZhVVbz3GAYxsEkSsGlTSnhu8wfjQGuQ&s",
+      "fuentePagina": "https://www.instagram.com/p/DHNamu4Al1M/",
+      "titulo": "Set ya vijiko available Vijiko 6 Uma sita Kisu 6 Kijiko cha ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxBCTZhVVbz3GAYxsEkSsGlTSnhu8wfjQGuQ&s",
+      "original": "https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3588641488965360972"
+    }
+  ]
+}

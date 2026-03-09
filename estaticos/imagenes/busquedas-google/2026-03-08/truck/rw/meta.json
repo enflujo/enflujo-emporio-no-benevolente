@@ -1,0 +1,71 @@
+{
+  "categoria": "truck",
+  "categoriaSlug": "truck",
+  "idioma": "rw",
+  "nombreIdioma": "Kinyarwanda",
+  "termino": "imodoka nkuru",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T20:44:58.652Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "en",
+    "gl": "rw"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=imodoka%20nkuru&hl=en&gl=rw",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/truck/rw/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRx1_8KM57kbKW2ajGYdEVRl_K9piAeVk2oBA&s",
+      "fuentePagina": "https://imvahonshya.co.rw/u-rwanda-rubarurwamo-imodoka-zirenga-360-000-handitswe-30-000-mu-2024/",
+      "titulo": "U Rwanda rubarurwamo imodoka zirenga 360.000, handitswe ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRx1_8KM57kbKW2ajGYdEVRl_K9piAeVk2oBA&s",
+      "original": "https://imvahonshya.co.rw/wp-content/uploads/2025/01/Imodoka.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/truck/rw/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfNHoCGND9iYNa81MWczbQB1NKhq559P1Uaw&s",
+      "fuentePagina": "https://mobile.igihe.com/amakuru/muri-afurika/u-rwanda/article/rwanda-motors-yagejeje-imodoka-za-changan-ku-isoko-ry-u-rwanda-amafoto",
+      "titulo": "Rwanda Motors yagejeje imodoka za Changan ku isoko ry'u ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfNHoCGND9iYNa81MWczbQB1NKhq559P1Uaw&s",
+      "original": "https://igihe.com/IMG/logo/suv_cs95_ni_nshya_ku_isoko_ry_u_rwanda.jpg?1707591786"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/truck/rw/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTA-WFekeSx2OPxtIZs6siIBF06uoF_3ykNeQ&s",
+      "fuentePagina": "https://mobile.igihe.com/amakuru/muri-afurika/u-rwanda/abategera-imodoka-kuri-gereza-nkuru-ya-kigali-bakomeje-kwibwa-umusubirizo",
+      "titulo": "Abategera imodoka kuri Gereza nkuru ya Kigali bakomeje ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTA-WFekeSx2OPxtIZs6siIBF06uoF_3ykNeQ&s",
+      "original": "https://igihe.com/IMG/arton32385.jpg?1360413977"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/truck/rw/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPVg2W03U3QKSHyilRRnzBTPSYFRdV8dZ6VQ&s",
+      "fuentePagina": "https://igihe.com/amakuru/rwanda/article/abacurizi-b-imodoka-za-hybrid-bashatse-kunyura-mu-rihumye-itegeko-bagonze",
+      "titulo": "Abacuruzi b'imodoka za Hybrid bashatse kunyura mu rihumye ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPVg2W03U3QKSHyilRRnzBTPSYFRdV8dZ6VQ&s",
+      "original": "https://www.igihe.com/local/cache-vignettes/L600xH393/abashaka_kugurisha_imodoka_za_hybrid_zikwepye_umusoro_batambamiwe_n_ikigo_cy_igihugu_cy_imisoro_n_amahoro-7f280.jpg?1760006891"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/truck/rw/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_2II4CNU3E7zzjcA2rdjALWP5RM3EaK-dlg&s",
+      "fuentePagina": "https://umusarenews.com/2025/05/30/imodoka-za-hybrid-mu-rwanda-inyungu-imbogamizi-nimpinduka-mu-mategeko-yimisoro/",
+      "titulo": "Imodoka za Hybrid mu Rwanda: Inyungu, imbogamizi n'impinduka ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_2II4CNU3E7zzjcA2rdjALWP5RM3EaK-dlg&s",
+      "original": "https://umusarenews.com/wp-content/uploads/2025/05/collage-6-scaled.jpg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/truck/rw/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWwKQFqV493Cnh6deW6GoEOraqvDlNOQTNow&s",
+      "fuentePagina": "https://www.facebook.com/100063764472598/posts/-hakugonga-abantu-ahisemwo-kuryamika-imodoka-inkuru-ya-agasumo-news-iyo-nkuru-du/1534227948712673/",
+      "titulo": "Hakugonga abantu ahisemwo kuryamika Imodoka \" ,Inkuru ya ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWwKQFqV493Cnh6deW6GoEOraqvDlNOQTNow&s",
+      "original": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=1534227905379344"
+    }
+  ]
+}

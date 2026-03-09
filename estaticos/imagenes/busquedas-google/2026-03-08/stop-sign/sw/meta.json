@@ -1,0 +1,71 @@
+{
+  "categoria": "stop sign",
+  "categoriaSlug": "stop-sign",
+  "idioma": "sw",
+  "nombreIdioma": "Kiswahili",
+  "termino": "ishara ya simama",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T20:47:39.082Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "sw",
+    "gl": "tz"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=ishara%20ya%20simama&hl=sw&gl=tz",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/stop-sign/sw/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTN4GNjoo9Qe_wS5SkDG02dei0p60LH5m3Htw&s",
+      "fuentePagina": "https://www.facebook.com/100093583062454/posts/771724052623690/",
+      "titulo": "🚫 Simama! Simama! Simama! Ikiwa Mungu amekuwa akikulinda ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTN4GNjoo9Qe_wS5SkDG02dei0p60LH5m3Htw&s",
+      "original": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=771723975957031"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/stop-sign/sw/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQHl8BI3xclJ0t6l-vQN4JiThyADDL4rTwTw&s",
+      "fuentePagina": "https://www.facebook.com/100068049952919/posts/%EF%B8%8F%EF%B8%8F%EF%B8%8F-hamna-kukata-tamaa-mpaka-tunafanikiwamachozi-unayoyamwaga-leo-si-ishara-ya-k/1182027527408901/",
+      "titulo": "✍️✍️✍️ HAMNA KUKATA TAMAA MPAKA TUNAFANIKIWA Machozi ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQHl8BI3xclJ0t6l-vQN4JiThyADDL4rTwTw&s",
+      "original": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=1182027507408903"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/stop-sign/sw/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdNOtm_WrOs79OaO8Y8jga-ohCEQG1dpo53g&s",
+      "fuentePagina": "https://x.com/UsalamaB/status/1668526874991927297",
+      "titulo": "Uwapo barabarani Lazima pia ufuate ishara zinazotolewa na ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdNOtm_WrOs79OaO8Y8jga-ohCEQG1dpo53g&s",
+      "original": "https://pbs.twimg.com/media/FyfMWXsXsAIFuF9.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/stop-sign/sw/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfWQS33-r1Qg5IHY8qeLM4ZTCJ2eWmNDdgyQ&s",
+      "fuentePagina": "https://www.facebook.com/itsmrhealth/posts/wanaume-wengi-wanadhani-tatizo-la-kuto-simama-asubuhi-ni-upungufu-wa-nguvu-za-ki/122150610794874735/",
+      "titulo": "Wanaume wengi wanadhani tatizo la kuto simama asubuhi, Ni ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfWQS33-r1Qg5IHY8qeLM4ZTCJ2eWmNDdgyQ&s",
+      "original": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=122150610752874735"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/stop-sign/sw/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSso9NcUofr2tA_P8F-mX0SBP9Fn1lGUwSYvA&s",
+      "fuentePagina": "https://www.instagram.com/p/DUqsmU-DUuA/",
+      "titulo": "Itikadi kali zenye misingi ya vurugu ni tishio kwa ubinadamu ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSso9NcUofr2tA_P8F-mX0SBP9Fn1lGUwSYvA&s",
+      "original": "https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3832969889946877283"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/stop-sign/sw/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgfR0oqyPy61gzb-ydqInaWTustZKQSXWlqg&s",
+      "fuentePagina": "https://www.youtube.com/watch?v=Nog0hUTj2fU",
+      "titulo": "Bahati Deus _ Simama na MUNGU_ officiall audio track",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgfR0oqyPy61gzb-ydqInaWTustZKQSXWlqg&s",
+      "original": "https://i.ytimg.com/vi/Nog0hUTj2fU/hq720.jpg?sqp=-oaymwE7CK4FEIIDSFryq4qpAy0IARUAAAAAGAElAADIQj0AgKJD8AEB-AG2CIAC0AWKAgwIABABGH8gSCghMA8=&rs=AOn4CLCG6TIwAlgzl0B6HHVscQsd5qf0hQ"
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "categoria": "dog",
+  "categoriaSlug": "dog",
+  "idioma": "hi",
+  "nombreIdioma": "हिन्दी",
+  "termino": "कुत्ता",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T20:51:17.063Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "hi",
+    "gl": "in"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=%E0%A4%95%E0%A5%81%E0%A4%A4%E0%A5%8D%E0%A4%A4%E0%A4%BE&hl=hi&gl=in",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/dog/hi/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsEmKCNMKM3yi-pwW5YySI7h9R5weu7SMemg&s",
+      "fuentePagina": "https://ga-petfoodpartners.co.uk/hi/%E0%A4%86%E0%A4%AA%E0%A4%95%E0%A5%8B-%E0%A4%85%E0%A4%AA%E0%A4%A8%E0%A5%87-%E0%A4%95%E0%A5%81%E0%A4%A4%E0%A5%8D%E0%A4%A4%E0%A5%87-%E0%A4%95%E0%A5%8B-%E0%A4%95%E0%A5%8D%E0%A4%AF%E0%A4%BE-%E0%A4%96%E0%A4%BE%E0%A4%A8%E0%A4%BE-%E0%A4%96%E0%A4%BF%E0%A4%B2%E0%A4%BE%E0%A4%A8%E0%A4%BE-%E0%A4%9A%E0%A4%BE%E0%A4%B9%E0%A4%BF%E0%A4%8F/%E0%A4%AA%E0%A5%83%E0%A4%B7%E0%A5%8D%E0%A4%A0/8/?dynamic",
+      "titulo": "मुझे अपने कुत्ते को क्या खाना ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsEmKCNMKM3yi-pwW5YySI7h9R5weu7SMemg&s",
+      "original": "https://ga-petfoodpartners.co.uk/content/uploads/2021/03/knowledge-centre-mobile.png"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/dog/hi/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlHBhytC86yt--Nc9TK5ycry4kbIMh0o1bYw&s",
+      "fuentePagina": "https://housing.com/news/hi/cute-dog-breeds-hi/",
+      "titulo": "प्यारे कुत्तों की नस्लें जो सबसे ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlHBhytC86yt--Nc9TK5ycry4kbIMh0o1bYw&s",
+      "original": "https://housing.com/news/wp-content/uploads/2023/07/Cute-dog-breeds-that-make-the-best-pets-01.png"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/dog/hi/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSx11gFtcDqfiJNbbXG4N0rjWKBARDH755PDQ&s",
+      "fuentePagina": "https://hi.pngtree.com/free-animals-png/dog",
+      "titulo": "कुत्ता PNG चित्र, पारदर्शी ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSx11gFtcDqfiJNbbXG4N0rjWKBARDH755PDQ&s",
+      "original": "https://png.pngtree.com/png-vector/20250111/ourmid/pngtree-golden-retriever-dog-pictures-png-image_15147078.png"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/dog/hi/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoYjU2g-e2Cfo3FosPa3SdD8kMybz1yVQLYA&s",
+      "fuentePagina": "https://www.petaindia.com/hi/blog/these-popular-breeds-in-india-have-medical-issues-adopt-desi-dogs-instead/",
+      "titulo": "भारत में लोकप्रिय कुत्तों की इन ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoYjU2g-e2Cfo3FosPa3SdD8kMybz1yVQLYA&s",
+      "original": "https://www.petaindia.com/wp-content/uploads/2021/08/pug-2035675_1920.jpg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/dog/hi/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTPI2RjkQoa6Ft5CAbDgkru1OA5q83QsiUUg&s",
+      "fuentePagina": "https://www.tradeindia.com/hi/products/white-trained-good-labrador-breed-pet-dog-for-home-7857255.html",
+      "titulo": "घर के लिए सफेद प्रशिक्षित अच्छा ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTPI2RjkQoa6Ft5CAbDgkru1OA5q83QsiUUg&s",
+      "original": "https://tiimg.tistatic.com/fp/2/007/857/white-trained-good-labrador-breed-male-pet-dog-for-home-255.jpg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/dog/hi/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUu4V3byJF29dyAz46xW3VzvO24z9dTlzNfQ&s",
+      "fuentePagina": "https://www.india.com/hindi-news/explainer/kyon-katate-hain-kutte-dog-bite-cases-why-dogs-became-more-aggressive-and-dangerous-in-rainy-season-5640661/",
+      "titulo": "क्या आप जानते हैं-बारिश के मौसम ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUu4V3byJF29dyAz46xW3VzvO24z9dTlzNfQ&s",
+      "original": "https://static.india.com/wp-content/uploads/2022/09/Most-Dangerous-Dogs.jpg?impolicy=Medium_Resize&w=1200&h=800"
+    }
+  ]
+}

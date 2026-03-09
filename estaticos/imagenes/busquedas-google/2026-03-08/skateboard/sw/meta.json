@@ -1,0 +1,71 @@
+{
+  "categoria": "skateboard",
+  "categoriaSlug": "skateboard",
+  "idioma": "sw",
+  "nombreIdioma": "Kiswahili",
+  "termino": "bodi ya magurudumu",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:04:04.028Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "sw",
+    "gl": "tz"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=bodi%20ya%20magurudumu&hl=sw&gl=tz",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/skateboard/sw/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAmht_Fzrln8d1xfV6TO23tkA5bvv0BlEkpQ&s",
+      "fuentePagina": "https://sw.newgaopin.com/golf-trolley/61295090.html",
+      "titulo": "Troli mpya ya Gofu ya Magurudumu 4 ya Kusukuma Gofu ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAmht_Fzrln8d1xfV6TO23tkA5bvv0BlEkpQ&s",
+      "original": "http://bsg-i.nbxc.com/product/85/59/5e/241cf6442a0dd7c604b7bc59bd.jpg@95Q.webp"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/skateboard/sw/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvqeYVNtSLnxyLrPIFe-k-6jIF_07SflLxaA&s",
+      "fuentePagina": "http://sw.nhwheelchair.com/news/can-wheelchairs-be-brought-on-board/",
+      "titulo": "Habari - Je, viti vya magurudumu vinaweza kuletwa kwenye bodi",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvqeYVNtSLnxyLrPIFe-k-6jIF_07SflLxaA&s",
+      "original": "https://www.nhwheelchair.com/uploads/lightweight-wheelchair-2.png"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/skateboard/sw/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQB2-4o6peMiYgBABWa10LVjie9ZCj5mzSj6A&s",
+      "fuentePagina": "https://www.instagram.com/reel/DUkXyuQiJ4_/",
+      "titulo": "Bodi, magurudumu, vioo vya nyuma, na vifaa vingine vya lori! 🚛💨, Tunauza  vyote kwa bei nafuu!, Elimu: Bei poa, ubora juu!, 📍 Tupo Dar es Salaam, 📞  Piga sasa: 0698575712, #VifaaVyaLori #BeiNafuuDar ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQB2-4o6peMiYgBABWa10LVjie9ZCj5mzSj6A&s",
+      "original": "https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3829290223884869183"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/skateboard/sw/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlWuqxIl42gcH_VyRvjE6zt07T_aZXJsF_gw&s",
+      "fuentePagina": "http://sw.fulike-ebike.com/m11-product/",
+      "titulo": "Umeme wa Jumla Fulike Umeme wa Chopa ya Magurudumu Matatu ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlWuqxIl42gcH_VyRvjE6zt07T_aZXJsF_gw&s",
+      "original": "http://cdn.globalso.com/fulike-ebike/M11-4.jpg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/skateboard/sw/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBEDXBQD2a2gxwNkfl4Go5Wt46hq0vo4oG7Q&s",
+      "fuentePagina": "https://sw.fjegf.com/customizable-single-side-back-hole-board-four-layers-with-metal-wire-shelf-supermarket-display-shelves-with-wheels-product/",
+      "titulo": "Bodi ya Shimo Moja la Nyuma Inayobinafsishwa Tabaka Nne ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBEDXBQD2a2gxwNkfl4Go5Wt46hq0vo4oG7Q&s",
+      "original": "https://www.fjegf.com/uploads/WechatIMG4149-1.jpg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/skateboard/sw/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCDn6VoKJ4_aGv44qSiv2caTRAdmYJJ92Fwg&s",
+      "fuentePagina": "http://sw.yulinmedical.com/hospital-dental-clinic-medical-2-floor-2-drawer-trolley-rotating-wheels-heavy-medical-practical-trolley-2-product/",
+      "titulo": "China Hospitali ya meno Kliniki ya matibabu 2 sakafu 2 droo ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCDn6VoKJ4_aGv44qSiv2caTRAdmYJJ92Fwg&s",
+      "original": "https://www.yulinmedical.com/uploads/%E5%A1%91%E6%96%99%E5%8C%BB%E7%94%A8%E6%89%8B%E6%8E%A8%E8%BD%A60.jpg1.png"
+    }
+  ]
+}

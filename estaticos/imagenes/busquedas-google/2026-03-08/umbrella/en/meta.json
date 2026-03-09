@@ -1,0 +1,71 @@
+{
+  "categoria": "umbrella",
+  "categoriaSlug": "umbrella",
+  "idioma": "en",
+  "nombreIdioma": "English",
+  "termino": "umbrella",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T20:56:46.274Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "en",
+    "gl": "us"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=umbrella&hl=en&gl=us",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/umbrella/en/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2QVcm6gULMFD4SPTodaCi63fKKKSdFRP1oA&s",
+      "fuentePagina": "https://bluntumbrellas.com/products/blunt-sport?srsltid=AfmBOopyRsIhDUFwuKomK0fDYlrBv8T0xvLjLJfxK7W45-53MTqPA2DF",
+      "titulo": "BLUNT Sport Umbrellas | 2 Year Global Warranty – BLUNT ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2QVcm6gULMFD4SPTodaCi63fKKKSdFRP1oA&s",
+      "original": "https://bluntumbrellas.com/cdn/shop/files/Hero_ClearCut_Template_Sport_0003_Sport_NEW_hero_navy_31a0449b-0f87-4065-b8d5-a71707afe3cb.png?v=1715127319&width=2600"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/umbrella/en/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIPv1SDoM7YEM4UIHfhM4PhCeW0aYWcQVkSQ&s",
+      "fuentePagina": "https://www.ebay.com/itm/393882311774",
+      "titulo": "Big Size Rainbow Super Strength, Extra Strong, Straight Canopy Umbrella",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIPv1SDoM7YEM4UIHfhM4PhCeW0aYWcQVkSQ&s",
+      "original": "https://i.ebayimg.com/images/g/4gYAAOSwFfph5vRT/s-l1200.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/umbrella/en/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTl0A_8CU2ehU6Y-W9zk4l5OIxrvvI3yD32Sg&s",
+      "fuentePagina": "https://www.amazon.com/RUMBRELLA-Umbrella-Windproof-Umbrellas-Connector/dp/B07BJYSG6B",
+      "titulo": "Amazon.com: RUMBRELLA Royal Blue Hook Handle Umbrella ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTl0A_8CU2ehU6Y-W9zk4l5OIxrvvI3yD32Sg&s",
+      "original": "https://m.media-amazon.com/images/I/51kro+d3NPL.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/umbrella/en/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlr61UlY-QwxrZ7LLv_eXla7Pu_ufPLszHyw&s",
+      "fuentePagina": "https://www.walmart.com/ip/ShedRain-52-Inch-Golf-Umbrella-Black-Sport-Umbrella/552834522",
+      "titulo": "Rain Essentials 52-inch Golf Umbrella, Black, Sport Umbrella ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlr61UlY-QwxrZ7LLv_eXla7Pu_ufPLszHyw&s",
+      "original": "https://i5.walmartimages.com/seo/ShedRain-52-Inch-Golf-Umbrella-Black-Sport-Umbrella_6351f905-536c-42df-89e6-bb3bca3d6812.c1999daf4289844d309713fb9b5db0fd.jpeg?odnHeight=768&odnWidth=768&odnBg=FFFFFF"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/umbrella/en/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7F07j3WiXt62b69YnNYbkpp_mf4_BX1SQLg&s",
+      "fuentePagina": "https://www.nytimes.com/wirecutter/reviews/best-umbrella/",
+      "titulo": "The 7 Best Umbrellas of 2026 | Reviews by Wirecutter",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7F07j3WiXt62b69YnNYbkpp_mf4_BX1SQLg&s",
+      "original": "https://cdn.thewirecutter.com/wp-content/media/2025/05/BEST-UMBRELLAS-WIND-RAIN-0373.jpg?auto=webp&quality=75&width=1024"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/umbrella/en/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQR6vXUKB6o0m4hi19kqyaeoHExR537sZcOdQ&s",
+      "fuentePagina": "https://galleriaumbrellasandgifts.com/products/24071rc",
+      "titulo": "Galleria Umbrellas and Gifts · Black / Red Stick Umbrella ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQR6vXUKB6o0m4hi19kqyaeoHExR537sZcOdQ&s",
+      "original": "https://galleriaumbrellasandgifts.com/cdn/shop/products/24071RC_open_large.jpg?v=1531423720"
+    }
+  ]
+}

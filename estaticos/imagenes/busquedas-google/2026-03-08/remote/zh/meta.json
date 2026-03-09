@@ -1,0 +1,71 @@
+{
+  "categoria": "remote",
+  "categoriaSlug": "remote",
+  "idioma": "zh",
+  "nombreIdioma": "中文",
+  "termino": "遥控器",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:23:21.612Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "zh-CN",
+    "gl": "cn"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=%E9%81%A5%E6%8E%A7%E5%99%A8&hl=zh-CN&gl=cn",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/remote/zh/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUZeivIK0lGHHMfncepiGH4VIZwQfVSQq3Kw&s",
+      "fuentePagina": "https://play.google.com/store/apps/details?id=tv.remote.control.tvremote.alltvremote&hl=zh",
+      "titulo": "万能电视遥控器- TV Remote Control - Google Play 上的应用",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUZeivIK0lGHHMfncepiGH4VIZwQfVSQq3Kw&s",
+      "original": "https://play-lh.googleusercontent.com/MKLs8-Z9NdSs3ejAhBL47O6L5I_z9j5YFu9bqW9h1Wi5c-tyvfO59G-ACWu0R_3ZpkUt"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/remote/zh/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHD8_B0p9F51Gw_35ZiKdEtgoG0seu_K9EGA&s",
+      "fuentePagina": "https://www.sony.com/zh-cn/electronics/support/articles/00275858",
+      "titulo": "电视机遥控器的型号及常用按键的介绍| Sony China",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHD8_B0p9F51Gw_35ZiKdEtgoG0seu_K9EGA&s",
+      "original": "https://www.sony.com/articleimage/servlet/servlet.FileDownload?file=0155F000009B97KQAS"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/remote/zh/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoEnCfGD7fGFYZSbv-vE-4KX8vZRvLCpLscA&s",
+      "fuentePagina": "https://www.hkyongnuo.com/productinfo/1340696.html",
+      "titulo": "永诺BR-G1蓝牙相机遥控器-深圳市永诺电器有限公司",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoEnCfGD7fGFYZSbv-vE-4KX8vZRvLCpLscA&s",
+      "original": "https://img.website.xin/contents/sitefiles3602/18013329/images/10095701.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/remote/zh/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRXCbBtI96yTZ37NAUTBFnM1--EQwq9H_S0A&s",
+      "fuentePagina": "https://m.cifnews.com/article/79409",
+      "titulo": "双设备(TV、STB)万能电视机遥控器-雨果网",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRXCbBtI96yTZ37NAUTBFnM1--EQwq9H_S0A&s",
+      "original": "https://pic.cifnews.com/upload/202010/10/202010101804125659.jpg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/remote/zh/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZ3P27os3OoTJ5iPA4cHId81Lryno41tyAwQ&s",
+      "fuentePagina": "https://www.mi.com/shop/buy?product_id=1182700039&cfrom=search",
+      "titulo": "小米腕部心电血压记录仪充电底座立即购买-小米商城",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZ3P27os3OoTJ5iPA4cHId81Lryno41tyAwQ&s",
+      "original": "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1531991398.10913701.jpg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/remote/zh/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRn2wXWNjJdpN1suQCjWi8ycIhzIX44WRME6Q&s",
+      "fuentePagina": "https://kr.world.taobao.com/item/811316426334.htm",
+      "titulo": "适用小米空调遥控器万能通用全部型号米家智能变频云米挂机柜机立 ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRn2wXWNjJdpN1suQCjWi8ycIhzIX44WRME6Q&s",
+      "original": "https://gw.alicdn.com/imgextra/i2/2090170274/O1CN01xtmrQf1DtXL1Zx4ZY_!!2-item_pic.png_.webp"
+    }
+  ]
+}

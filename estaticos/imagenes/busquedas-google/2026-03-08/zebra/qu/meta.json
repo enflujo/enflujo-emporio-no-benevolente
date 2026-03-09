@@ -1,0 +1,71 @@
+{
+  "categoria": "zebra",
+  "categoriaSlug": "zebra",
+  "idioma": "qu",
+  "nombreIdioma": "Quechua",
+  "termino": "cebra",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T20:55:11.303Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "es",
+    "gl": "pe"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=cebra&hl=es&gl=pe",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/zebra/qu/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1TwQitpmj-v0jwtiTqvF0258AXs6QuvqrSA&s",
+      "fuentePagina": "https://es.wikipedia.org/wiki/Cebra",
+      "titulo": "Cebra - Wikipedia, la enciclopedia libre",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1TwQitpmj-v0jwtiTqvF0258AXs6QuvqrSA&s",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/f/f2/Beautiful_Zebra_in_South_Africa.JPG"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/zebra/qu/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyoe1DsVEAFb5ver4gzS6s8S87ycUobxnMNg&s",
+      "fuentePagina": "https://es.wikipedia.org/wiki/Equus_zebra",
+      "titulo": "Equus zebra - Wikipedia, la enciclopedia libre",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyoe1DsVEAFb5ver4gzS6s8S87ycUobxnMNg&s",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/6/69/Equus_zebra_-_Disney%27s_Animal_Kingdom_Lodge%2C_Orlando%2C_Florida%2C_USA_-_20100119.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/zebra/qu/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRM80W8db44iMvQ39qkmdS99IJgbXskgwkkdg&s",
+      "fuentePagina": "https://ecologiaverde.elperiodico.com/cebra-5773.html",
+      "titulo": "Cebra - Características, dónde vive, qué come y reproducción",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRM80W8db44iMvQ39qkmdS99IJgbXskgwkkdg&s",
+      "original": "https://cdn0.ecologiaverde.com/es/posts/3/7/7/cebra_5773_orig.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/zebra/qu/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7PDJ6N7wSIqNeAJZFeZyl7SRjoh0LWRM1VA&s",
+      "fuentePagina": "http://svdb.minec.gob.ve/fauna/cebra",
+      "titulo": "Cebra – SVDB",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7PDJ6N7wSIqNeAJZFeZyl7SRjoh0LWRM1VA&s",
+      "original": "http://svdb.minec.gob.ve/wp-content/uploads/2023/09/cebra-1.jpg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/zebra/qu/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTk67nB23sYwnvmDo9Zp68Ie7UYRbAnwurqqA&s",
+      "fuentePagina": "https://www.nationalgeographicla.com/animales/2023/01/los-5-datos-curiosos-de-la-cebra-que-seguro-no-conocias",
+      "titulo": "Los 5 datos curiosos de la cebra que seguro no conocías ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTk67nB23sYwnvmDo9Zp68Ie7UYRbAnwurqqA&s",
+      "original": "https://static.nationalgeographicla.com/files/styles/image_3200/public/nationalgeographic2788699.webp?w=760&h=507"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/zebra/qu/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLH9QJgkb9ZI_7QcT5TwX61A19aNBhkCOPcQ&s",
+      "fuentePagina": "https://pixabay.com/es/vectors/cebra-cebra-de-dibujos-animados-9868376/",
+      "titulo": "Cebra De Dibujos Animados - Gráficos vectoriales gratis en ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLH9QJgkb9ZI_7QcT5TwX61A19aNBhkCOPcQ&s",
+      "original": "https://cdn.pixabay.com/photo/2025/10/02/13/05/zebra-9868376_1280.png"
+    }
+  ]
+}

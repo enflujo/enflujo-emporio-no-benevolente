@@ -1,0 +1,71 @@
+{
+  "categoria": "horse",
+  "categoriaSlug": "horse",
+  "idioma": "ha",
+  "nombreIdioma": "Hausa",
+  "termino": "doki",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T20:51:49.370Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "ha",
+    "gl": "ng"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=doki&hl=ha&gl=ng",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/horse/ha/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQL13zfpXN-OybxjGXORtVFN27disQ-t4259w&s",
+      "fuentePagina": "https://doki.fandom.com/wiki/Team_Doki",
+      "titulo": "Team Doki | Dokipedia in English | Fandom",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQL13zfpXN-OybxjGXORtVFN27disQ-t4259w&s",
+      "original": "https://static.wikia.nocookie.net/doki/images/d/df/Team_Doki_Infobox.png/revision/latest/thumbnail/width/360/height/360?cb=20250619091807"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/horse/ha/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFZ7yNXE71gWDHNtmPWK62_ToLRTEvy5J0DA&s",
+      "fuentePagina": "https://en.wikipedia.org/wiki/Doki_(TV_series)",
+      "titulo": "Doki (TV series) - Wikipedia",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFZ7yNXE71gWDHNtmPWK62_ToLRTEvy5J0DA&s",
+      "original": "https://upload.wikimedia.org/wikipedia/en/7/73/Doki_%28TV_series%29_logo.png"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/horse/ha/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpOeNwAUmkOlloEf2FqnMaQayKA8-EkIVHtw&s",
+      "fuentePagina": "https://www.bookdelivery.com/ph-en/book-doki-descubre-mi-mundo/9789584239365/p/42743899?srsltid=AfmBOopi_KqOrwpOeZC1WF99V8CQPMQkoAF3G5Gn7cHfIHUj1xFONBce",
+      "titulo": "Book Doki - Descubre mi Mundo Discovery Networks ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpOeNwAUmkOlloEf2FqnMaQayKA8-EkIVHtw&s",
+      "original": "https://images.cdn1.buscalibre.com/fit-in/360x360/be/8a/be8a4a193f6d35eaa73cf1e1326b0238.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/horse/ha/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwJ0coKsRBlBocAyw7XCRe3WN7-7nFwFaxHQ&s",
+      "fuentePagina": "https://doki.fandom.com/wiki/Doki_(character)",
+      "titulo": "Doki (character) | Dokipedia in English | Fandom",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwJ0coKsRBlBocAyw7XCRe3WN7-7nFwFaxHQ&s",
+      "original": "https://static.wikia.nocookie.net/doki/images/e/ed/HD_Doki.png/revision/latest/scale-to-width/360?cb=20230204234053"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/horse/ha/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgARw2rMBpodg-mYBpFPwnf4Fn0buo6OcIrQ&s",
+      "fuentePagina": "https://open.spotify.com/track/0km9XgW8R4xXc6cXwzfeCs",
+      "titulo": "Oki Doki - song and lyrics by Doki | Spotify",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgARw2rMBpodg-mYBpFPwnf4Fn0buo6OcIrQ&s",
+      "original": "https://i.scdn.co/image/ab67616d0000b273091b16f580103377bccf0c10"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/horse/ha/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0_ganmZFpofiNM88sO-2W8Hsj7um6aXYnXQ&s",
+      "fuentePagina": "https://www.commonsensemedia.org/tv-reviews/doki",
+      "titulo": "Doki TV Review | Common Sense Media",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0_ganmZFpofiNM88sO-2W8Hsj7um6aXYnXQ&s",
+      "original": "https://www.commonsensemedia.org/sites/default/files/styles/social_share_image/public/screenshots/csm-tv/doki-ss01.jpg"
+    }
+  ]
+}

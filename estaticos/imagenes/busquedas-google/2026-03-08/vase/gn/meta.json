@@ -1,0 +1,71 @@
+{
+  "categoria": "vase",
+  "categoriaSlug": "vase",
+  "idioma": "gn",
+  "nombreIdioma": "Guaraní",
+  "termino": "vaso",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:29:54.959Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "es",
+    "gl": "py"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=vaso&hl=es&gl=py",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/vase/gn/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOSjC97L79ya6ANWjxjxN0ejxqh6sPrRPNpQ&s",
+      "fuentePagina": "https://jopco.net/producto/vaso-de-vidrio-11-25oz-lexington-libbey-36/",
+      "titulo": "Vaso de vidrio Lexington | Libbey - Jopco Equipos y ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOSjC97L79ya6ANWjxjxN0ejxqh6sPrRPNpQ&s",
+      "original": "https://jopco.net/wp-content/uploads/2022/11/LI-2359.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/vase/gn/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBkKNEvRKlruyA3VGz5DgvK31u384tAOwf4A&s",
+      "fuentePagina": "https://sansei.com.py/producto/10693/vaso-plast-ppt-330-transp-liso-300ml-c50",
+      "titulo": "VASO PLAST. PPT-330 TRANSP LISO 300ML C50 - Sansei",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBkKNEvRKlruyA3VGz5DgvK31u384tAOwf4A&s",
+      "original": "https://sansei.com.py/uploads/products/10693_tims2-vaso-plast-ppt-330-transp-liso-300ml-c50.png"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/vase/gn/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8-vq_-FR1aAYY156EVGd7mkwqVIT89SnwyA&s",
+      "fuentePagina": "https://plastienvasesrl.com.py/producto/vaso-cristal-bar-1800-nadir/",
+      "titulo": "VASO BAR WHISKY 265ML NADIR 1800",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8-vq_-FR1aAYY156EVGd7mkwqVIT89SnwyA&s",
+      "original": "https://plastienvasesrl.com.py/wp-content/uploads/2024/07/7891155002437.png"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/vase/gn/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUDBch--gAFgWPweWzReHju0H83U8gg_IV9Q&s",
+      "fuentePagina": "https://www.stock.com.py/products/299492-vaso-dvid-quiero-mas-350ml-dayo-bj147.aspx",
+      "titulo": "VASO D/VID QUIERO MAS 350ML DAYO BJ147 . Supermercados Stock",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUDBch--gAFgWPweWzReHju0H83U8gg_IV9Q&s",
+      "original": "https://www.stock.com.py/images/thumbs/0208266.jpeg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/vase/gn/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1qgkVBgNFGXIEW3ci56bxM-inhxiNJby9sA&s",
+      "fuentePagina": "https://www.feriaasuncion.com.py/catalogo/vaso-de-vidrio-azul-410ml_7453127863967_7453127863967",
+      "titulo": "VASO DE VIDRIO AZUL 410ML",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1qgkVBgNFGXIEW3ci56bxM-inhxiNJby9sA&s",
+      "original": "https://f.fcdn.app/imgs/4c4563/www.feriaasuncion.com.py/feripy/29f0/original/catalogo/7453127863967_7453127863967_1/2000-2000/vaso-de-vidrio-azul-410ml-unica.jpg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/vase/gn/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREtKQwQMDl0TlLaqH_gaJh3FMcJd6Ax1mrXA&s",
+      "fuentePagina": "https://www.arete.com.py/vaso-bar-agua-refresco-390-ml-p188316",
+      "titulo": "VASO BAR/AGUA/REFRESCO 390 ML",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREtKQwQMDl0TlLaqH_gaJh3FMcJd6Ax1mrXA&s",
+      "original": "https://www.arete.com.py/userfiles/images/productos/448/7891155002529.jpg"
+    }
+  ]
+}

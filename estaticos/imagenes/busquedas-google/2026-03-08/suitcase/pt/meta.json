@@ -1,0 +1,71 @@
+{
+  "categoria": "suitcase",
+  "categoriaSlug": "suitcase",
+  "idioma": "pt",
+  "nombreIdioma": "Português",
+  "termino": "mala",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T20:59:23.213Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "pt",
+    "gl": "br"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=mala&hl=pt&gl=br",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/suitcase/pt/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlFq4CBzEFY57JkeU4ajZO_Jhfi6Hya0mQOw&s",
+      "fuentePagina": "https://www.delsey.com.br/products/mala-bordo-lagos-55cm-preta-4-rodas-delsey?srsltid=AfmBOorz-2tvXpYjJflmPOlwsZkAHmwzmPzoaWpoEbkJrWFYGqUvPv-9",
+      "titulo": "Mala de Bordo Lagos 55cm Preta | Bagagem de Cabine DELSEY ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlFq4CBzEFY57JkeU4ajZO_Jhfi6Hya0mQOw&s",
+      "original": "https://www.delsey.com.br/cdn/shop/files/mala-de-viagem-pequena-bordo-preta-delsey-lagos-387080100-01.jpg?v=1739283781&width=1946"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/suitcase/pt/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREd5WWfI4VXZ1c-OUM6rUJPCO4XnF_TK7GNw&s",
+      "fuentePagina": "https://www.lojaseagle.com.br/pequenas/mala-de-viagem-bordo-pequena-em-abs-c-rodinhas-360o-eagle-as52?srsltid=AfmBOoqSKTH55OjW5vZfqsDRbXzrbqfoKraCJYOYPAK1RbUG-cblixv0",
+      "titulo": "Mala de Viagem Bordo Pequena Em ABS C/ Rodinhas 360º - Eagle - AS52",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREd5WWfI4VXZ1c-OUM6rUJPCO4XnF_TK7GNw&s",
+      "original": "https://images.tcdn.com.br/img/img_prod/1153753/mala_de_viagem_bordo_pequena_em_abs_c_rodinhas_360o_eagle_as52_95_1_f9787cef345b6929427e59e739cae30f.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/suitcase/pt/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4mRWHwsGyiqWuSAI74Mav61m_OjdEZ2pGRw&s",
+      "fuentePagina": "https://www.seanite.com/malas/malas/mala-grande/mala-grande-28-bari-roxa-seanite?srsltid=AfmBOortHELAFNaOB2aKFy99Nlb4RaElr_PHRu3O_xjVz7ExglYYf7D_",
+      "titulo": "MALA GRANDE 28\" BARI ROXA - SEANITE - Seanite | Mochilas ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4mRWHwsGyiqWuSAI74Mav61m_OjdEZ2pGRw&s",
+      "original": "https://images.tcdn.com.br/img/img_prod/886231/mala_grande_28_bari_roxa_seanite_3655_1_c506d68c2ab422c179fa6b13b121de0a_20231002114945.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/suitcase/pt/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxJXWDbDFAcTvVy5mKiggVvmFOayGVerlmdg&s",
+      "fuentePagina": "https://www.maloa.com.br/mala-de-viagem-pequena-de-bordo-10-kg-em-policarbonato-porto-maloa-lilas?srsltid=AfmBOopuh9frGJsmWAqdfJHC8yN_IavYEdCNnkc-rJWRUC2JJVjbQI9G",
+      "titulo": "Mala de Viagem Pequena de Bordo 10 kg em Policarbonato Porto ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxJXWDbDFAcTvVy5mKiggVvmFOayGVerlmdg&s",
+      "original": "https://adaptive-images.uooucdn.com.br/ik-seo/tr:w-1100,h-1594,c-at_max,pr-true,q-80/a22434-ogxytnpxrt0/pv/d8/a0/aa/3257294fbe8f0f1a32d2948737/mala-de-viagem-pequena-de-bordo-10-kg-em-policarbonato-porto-maloa-lilas-large-8.jpg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/suitcase/pt/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhvlqtSLrJOCtnav5oS-iywHaNj6TRW_glxQ&s",
+      "fuentePagina": "https://www.bagaggio.com.br/mala-media-23-kg-abs-4-rodas-detroit-preta-ii/p?srsltid=AfmBOordEmwEWTukwCfwPwOCj_3VoXmPCYO48wsZpW3OZCHa7gsysSye",
+      "titulo": "Mala Média ABS 4 Rodas Detroit Preta II | Bagaggio",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhvlqtSLrJOCtnav5oS-iywHaNj6TRW_glxQ&s",
+      "original": "https://lojabagaggio.vteximg.com.br/arquivos/ids/2362529/0018594454005---MALA-DETROIT-GDE-PRETA-G--1-.jpg?v=638828301250630000"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/suitcase/pt/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7H0U9anBU8gCiZwpc48Rl63726A4KOzr91Q&s",
+      "fuentePagina": "https://www.maloa.com.br/mala-de-viagem-grande-32kg-abs-policarbonato-com-expasor-brasil-maloa-preto?srsltid=AfmBOooyey_yzzdop4RrmxEi3aVO6koyZ7W_CCi3sXVZfi1ETp6M4DOM",
+      "titulo": "Mala de Viagem Grande 32kg ABS Policarbonato com Expasor Brasil Maloa Preto",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7H0U9anBU8gCiZwpc48Rl63726A4KOzr91Q&s",
+      "original": "https://adaptive-images.uooucdn.com.br/ik-seo/tr:w-1100,h-1594,c-at_max,pr-true,q-80/a22434-ogxytnpxrt0/pv/cb/ff/18/d54cd32c4ceee7f72d854654a8/mala-de-viagem-grande-32kg-abs-policarbonato-com-expasor-brasil-maloa-preto-large-3.jpg"
+    }
+  ]
+}

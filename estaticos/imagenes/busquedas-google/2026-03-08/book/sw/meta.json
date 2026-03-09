@@ -1,0 +1,71 @@
+{
+  "categoria": "book",
+  "categoriaSlug": "book",
+  "idioma": "sw",
+  "nombreIdioma": "Kiswahili",
+  "termino": "kitabu",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:28:03.674Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "sw",
+    "gl": "tz"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=kitabu&hl=sw&gl=tz",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/book/sw/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStIaCMm1nloIkqeh5XUbbaWdXuEZ8DvFrEjg&s",
+      "fuentePagina": "https://apologeticspress.org/kuzaliwa-kwa-kitabu-sehemu-ya-1/",
+      "titulo": "Kuzaliwa kwa Kitabu (Sehemu ya 1) - Apologetics Press",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStIaCMm1nloIkqeh5XUbbaWdXuEZ8DvFrEjg&s",
+      "original": "https://apologeticspress.org/wp-content/uploads/2022/01/Integrity-of-the-Biblical-Text-Birth-of-the-Book-Part-1-JR-02.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/book/sw/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyubnybDAxmrbZd7iBt6uvZcG9JE6Er_VQuQ&s",
+      "fuentePagina": "https://www.facebook.com/p/Biblia-Kitabu-Cha-Kuaminika-100063857451728/",
+      "titulo": "Biblia: Kitabu Cha Kuaminika",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyubnybDAxmrbZd7iBt6uvZcG9JE6Er_VQuQ&s",
+      "original": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=506837604788150"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/book/sw/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwphcGBttWF1TgILSzngftAvzuUwfmb3Xw9w&s",
+      "fuentePagina": "https://sw.wikipedia.org/wiki/Kitabu",
+      "titulo": "Kitabu - Wikipedia, kamusi elezo huru",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwphcGBttWF1TgILSzngftAvzuUwfmb3Xw9w&s",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/b/b0/Gutenberg_Bible.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/book/sw/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGdCWy2i0G_qL6waC1YaXk6tWAt-yEkbUb2g&s",
+      "fuentePagina": "https://amkamtanzania.com/2018/01/17/hivi-ndivyo-unavyoweza-kutafiti-kuandika-na-kuuza-kitabu-bora-kabisa-ndani-ya-mwaka-mmoja-hatua-sita-muhimu-kwa-kila-anayetaka-kuandika-kitabu-kuzijua/?srsltid=AfmBOops8v2JOz0fD3YaaJjv6lK8RYirlE9inh5rSE6KXvdM1xKbJdR5",
+      "titulo": "Hivi Ndivyo Unavyoweza Kutafiti, Kuandika Na Kuuza Kitabu ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGdCWy2i0G_qL6waC1YaXk6tWAt-yEkbUb2g&s",
+      "original": "https://amkamtanzania.com/wp-content/uploads/2018/01/andika-kitabu.jpg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/book/sw/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYSexkpclMlSa3uw13P5D9DXwnrZ-OzQzVjw&s",
+      "fuentePagina": "https://biblianijibulako.wordpress.com/2017/12/21/%E2%80%8Bje-wewe-jina-lako-limeandikwa-kwenye-kitabu-cha-uzima/",
+      "titulo": "JE WEWE JINA LAKO LIMEANDIKWA KWENYE KITABU CHA UZIMA ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYSexkpclMlSa3uw13P5D9DXwnrZ-OzQzVjw&s",
+      "original": "https://biblianijibulako.wordpress.com/wp-content/uploads/2017/12/thebookoflife-1055785739.jpg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/book/sw/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuXYQUqvdxkRdt5-T6VaCTUzK0XRGGJAbt1g&s",
+      "fuentePagina": "https://sw.wikipedia.org/wiki/Kitabu",
+      "titulo": "Kitabu - Wikipedia, kamusi elezo huru",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuXYQUqvdxkRdt5-T6VaCTUzK0XRGGJAbt1g&s",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Latin_dictionary.jpg/250px-Latin_dictionary.jpg"
+    }
+  ]
+}

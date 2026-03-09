@@ -1,0 +1,71 @@
+{
+  "categoria": "refrigerator",
+  "categoriaSlug": "refrigerator",
+  "idioma": "kg",
+  "nombreIdioma": "Kikongo",
+  "termino": "frigo",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:27:29.121Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "fr",
+    "gl": "cd"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=frigo&hl=fr&gl=cd",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/refrigerator/kg/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgAbfbjFYglQE6pZ4AmQOlHXdWWN4iCTC9Mg&s",
+      "fuentePagina": "https://www.electrodepot.fr/conseils/choisir-refrigerateur?srsltid=AfmBOooVPbNm-Eq9GWN790CONzJKcjPE8k1xtSADmUbHGQbgLKOz2YC0",
+      "titulo": "Choisir réfrigérateur - Electro Dépôt",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgAbfbjFYglQE6pZ4AmQOlHXdWWN4iCTC9Mg&s",
+      "original": "https://www.electrodepot.fr/media/wysiwyg/page/conseils-seo/frigo_americain_1.jpeg?frz-v=4330"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/refrigerator/kg/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRn0BSbUEAtHnlGZYvPWrotx-JAMtweBSEKQ&s",
+      "fuentePagina": "https://fr.wikipedia.org/wiki/R%C3%A9frig%C3%A9rateur",
+      "titulo": "Réfrigérateur — Wikipédia",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRn0BSbUEAtHnlGZYvPWrotx-JAMtweBSEKQ&s",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/LG_refrigerator_interior.jpg/960px-LG_refrigerator_interior.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/refrigerator/kg/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSD0p-gOqAm5WFiQ1pMTGlqzekr0cnOOgzCzg&s",
+      "fuentePagina": "https://www.sfpl.fr/produit/frigo-congelateur-blanc-2-portes-211-l.html",
+      "titulo": "FRIGO CONGELATEUR Blanc 2 Portes 211 L - SFPL Société de ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSD0p-gOqAm5WFiQ1pMTGlqzekr0cnOOgzCzg&s",
+      "original": "https://www.sfpl.fr/data/products/RFDP212Aplusplus_PF.png"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/refrigerator/kg/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5TD3cISQJMQIR_Gm9qxtrayrcm8v7aS1DdQ&s",
+      "fuentePagina": "https://surain-electro.be/gros-electro/frigo-congelateur-combine-exquisit-kgc231-60-010ei/",
+      "titulo": "Frigo congélateur combiné Exquisit KGC231-60-010EI - Surain ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5TD3cISQJMQIR_Gm9qxtrayrcm8v7aS1DdQ&s",
+      "original": "https://i0.wp.com/surain-electro.be/wp-content/uploads/2024/08/811620304_KGC231-60-010Esilber_37070_Main.jpg?fit=700%2C800&ssl=1"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/refrigerator/kg/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYNa1fXyDFp13dO0Rc873yI4k9kZDLjJKdOw&s",
+      "fuentePagina": "https://www.electrodepot.fr/gros-electromenager/refrigerateur/refrigerateur-americain.html?srsltid=AfmBOorg3giWlqYmJUD1v6uDPbvCSb0XSJxtOUMODHRGEV_4JhSRBrZ9",
+      "titulo": "Frigo américain pas cher - Prix bas et qualité - Electro Dépôt",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYNa1fXyDFp13dO0Rc873yI4k9kZDLjJKdOw&s",
+      "original": "https://www.electrodepot.fr/media/catalog/product/P982910.jpg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/refrigerator/kg/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAp-7DA1PFzK0ElAcfW76qImfbFAtLZM5jOw&s",
+      "fuentePagina": "https://www.domo-elektro.be/fr/do91705r-domo-combi-frigo-congelateur-retro-d-206-l-bleu",
+      "titulo": "DOMO Combi frigo-congélateur rétro - D - 206 L - bleu",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAp-7DA1PFzK0ElAcfW76qImfbFAtLZM5jOw&s",
+      "original": "https://www.domo-elektro.be/media/catalog/product/cache/f08d0db0d0699bca6b022829de5603d1/D/O/DO91705R_retro_koelkast_01.jpg"
+    }
+  ]
+}

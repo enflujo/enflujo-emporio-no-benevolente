@@ -1,0 +1,71 @@
+{
+  "categoria": "suitcase",
+  "categoriaSlug": "suitcase",
+  "idioma": "es",
+  "nombreIdioma": "Español",
+  "termino": "maleta",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T20:59:21.282Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "es",
+    "gl": "es"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=maleta&hl=es&gl=es",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/suitcase/es/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5CCDZP8W__abKcwlKxfmXTDoWxvVw04WiwA&s",
+      "fuentePagina": "https://numadabrand.com/producto/maleta-mediana-numada-upfly-24-m-negro/?srsltid=AfmBOoq0RY2AMn9Mg6YsoDfv5oHOHI4osjGZ6BWVZVosyTnYZifPZPYb",
+      "titulo": "Maleta 18Kg mediana 63x39,5x26,8cm Numada Upfly 24'' (M) Negro",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5CCDZP8W__abKcwlKxfmXTDoWxvVw04WiwA&s",
+      "original": "https://numadabrand.com/wp-content/uploads/2023/10/upfly_24_m_negro-optimized.png"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/suitcase/es/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRip3EFahD7D6H5UfbQ39ZQMED1CRULRtkSbw&s",
+      "fuentePagina": "https://www.amazon.es/Maletas-Pulgadas-Duradera-Giratorias-Equipaje/dp/B0CHQLH8X4",
+      "titulo": "MOBAAK Maletas De Viaje Maleta De Viaje De 20/24/28 Pulgadas ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRip3EFahD7D6H5UfbQ39ZQMED1CRULRtkSbw&s",
+      "original": "https://m.media-amazon.com/images/I/51S4RYqrd4L.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/suitcase/es/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQo8O3SIGNl4r1IoOFDwYog9Pyx4j1pP8HmrA&s",
+      "fuentePagina": "https://www.misako.com/products/luisa-maleta-pequena?srsltid=AfmBOopo-rWoUxU9rs_V2zGipm01w-rKTy0ggOUZqDhj5bpJ9h7Pu9Nz",
+      "titulo": "Luisa maleta pequeña rígida",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQo8O3SIGNl4r1IoOFDwYog9Pyx4j1pP8HmrA&s",
+      "original": "https://www.misako.com/cdn/shop/files/3700001003_pt02_fe36dfcc-e60c-46a2-ac71-33a1a6be88f9_375x469_crop_center.jpg?v=1746618500"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/suitcase/es/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvmdybxaNjQMBlHzf-0hqcKagGcX2iOsdWlQ&s",
+      "fuentePagina": "https://www.carrefour.es/maleta-de-viaje-mediana-abs-trolley-60cm-4-ruedas-dobles-candado-tsa-175060-turquesa/8435583505710/p",
+      "titulo": "Maleta De Viaje Mediana Abs Trolley 60cm 4 Ruedas Dobles Candado Tsa 175060  Turquesa",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvmdybxaNjQMBlHzf-0hqcKagGcX2iOsdWlQ&s",
+      "original": "https://storage.googleapis.com/catalog-pictures-carrefour-es/catalog/pictures/hd_510x_/8435583505710_1.jpg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/suitcase/es/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYqjj-YDdBmgcsWKRQ4iI8PWzAZ6EECgLTSg&s",
+      "fuentePagina": "https://www.caloriol.com/p11415872-maleta-grande-a-t-rejoy-rosa-153178-8198.html?srsltid=AfmBOoorvlb6MaSgIvhq4pjuf0b4Rr-a0ByoarQIusTCaX-Ah-vnDXIz",
+      "titulo": "Maleta grande A T rejoy rosa 153178 8198",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYqjj-YDdBmgcsWKRQ4iI8PWzAZ6EECgLTSg&s",
+      "original": "https://cdn.palbincdn.com/users/9531/images/Maleta-grande-A-T-rejoy-rosa-1-1729008875.jpg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/suitcase/es/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3Ma0FsUm0vLyAqooiaBLrZB5Lp3SuE_8Vlw&s",
+      "fuentePagina": "https://www.tiendaeurasia.com/ropa/26972-maletas-de-viaje-cabina-pl%C3%A1stico-abs-r%C3%ADgida-ruedas-360%C2%BA-cierre-con-c%C3%B3digo-57x38x23-cm-gris-claro-8445194113747.html",
+      "titulo": "Maletas de Viaje Cabina, Plástico ABS Rígida, Ruedas 360º ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3Ma0FsUm0vLyAqooiaBLrZB5Lp3SuE_8Vlw&s",
+      "original": "https://www.tiendaeurasia.com/57445-superlarge_default/maletas-de-viaje-cabina-pl%C3%A1stico-abs-r%C3%ADgida-ruedas-360%C2%BA-cierre-con-c%C3%B3digo-57x38x23-cm-gris-claro.jpg"
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "categoria": "fork",
+  "categoriaSlug": "fork",
+  "idioma": "qu",
+  "nombreIdioma": "Quechua",
+  "termino": "tenedor",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:08:19.100Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "es",
+    "gl": "pe"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=tenedor&hl=es&gl=pe",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/fork/qu/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJO0kDhciNtwQdvBK1DJpoRyFCAIkm78ZzjQ&s",
+      "fuentePagina": "https://unomasuno.pe/producto/tenedor-10-negro-descartable-darnel/?srsltid=AfmBOop1elEOHZUfu0M0ZxWdjGC0JYvbVL7_mVRLK3n6RyTCkCUrvK9R",
+      "titulo": "Tenedor 10 Negro Descartable x 100 - Darnel",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJO0kDhciNtwQdvBK1DJpoRyFCAIkm78ZzjQ&s",
+      "original": "https://unomasuno.pe/wp-content/uploads/2020/12/tenedor-10-darnel-scaled.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/fork/qu/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLYeKmmPALeMtQrHUPFkTSHuGwtygCxZxA_Q&s",
+      "fuentePagina": "https://www.amazon.com/-/es/Tenedor-inoxidable-pulgadas-resistente-lavavajillas/dp/B08FHGQTRK",
+      "titulo": "Amazon.com: Tenedor de cena de acero inoxidable 18/10, 8 ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLYeKmmPALeMtQrHUPFkTSHuGwtygCxZxA_Q&s",
+      "original": "https://m.media-amazon.com/images/I/61z0LVrrowL._AC_UF894,1000_QL80_.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/fork/qu/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUajAUXUqrJZMAJ_f_1t-yd23GIAFv8yefeA&s",
+      "fuentePagina": "https://grillcorp.com.pe/products/tenedor-polywood-rojo?srsltid=AfmBOootaqi4fuwHl32YSXz7q7DIorDLPFfTaYqtj1Rk9nizZkLbRtDh",
+      "titulo": "Tenedor Polywood Rojo",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUajAUXUqrJZMAJ_f_1t-yd23GIAFv8yefeA&s",
+      "original": "http://grillcorp.com.pe/cdn/shop/files/tenedorpolywood.png?v=1754084594"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/fork/qu/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCNMkVmXgtt_8ARQjxT4ArLBsRc4ca9ayDyw&s",
+      "fuentePagina": "https://www.freepik.es/fotos-vectores-gratis/tenedor",
+      "titulo": "Imágenes de Tenedor - Descarga gratuita en Freepik",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCNMkVmXgtt_8ARQjxT4ArLBsRc4ca9ayDyw&s",
+      "original": "https://img.freepik.com/psd-gratis/tenedor-plata-brillante-listo-deliciosa-comida-elegante-utensilio-comedor_191095-87603.jpg?semt=ais_rp_50_assets&w=740&q=80"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/fork/qu/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0GQiHoC2VAiN5AeODIG8h80LIw4A3QXQZuQ&s",
+      "fuentePagina": "https://anforama.com/products/tenedor-mesa-4-acero-inoxidable?srsltid=AfmBOoqoHPvQ4B35cmyiBQkyCLckbKzE6-NPEe6sAS8YEA1eW8li4jqI",
+      "titulo": "Tenedor para Mesa de 18.3 cm a 4 dientes de Acero Inoxidable ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0GQiHoC2VAiN5AeODIG8h80LIw4A3QXQZuQ&s",
+      "original": "https://anforama.com/cdn/shop/files/TenedorparaMesaa4dientesdeAceroInoxidableEleganteToledoMovenM00120033.png?crop=center&height=1497&v=1756940560&width=1361"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/fork/qu/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3mU-vF6f5lB-XaZjLFGUrernFjcKhK2O2tA&s",
+      "fuentePagina": "https://www.promart.pe/tenedor-de-mesa-facusa-de-acero-inoxidable-x-12-und-1000220999/p?srsltid=AfmBOorc4JypxlbXdTngdKySUesiMKe8_-P_WS6tcvjDJ4TgXJ9HGvIh",
+      "titulo": "Tenedor de Mesa Facusa de Acero Inoxidable x 12 Und",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3mU-vF6f5lB-XaZjLFGUrernFjcKhK2O2tA&s",
+      "original": "https://promart.vteximg.com.br/arquivos/ids/5548372-1000-1000/image-b07428834ab24f88ba8e125186747827.jpg?v=637865856908900000"
+    }
+  ]
+}

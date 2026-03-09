@@ -1,0 +1,71 @@
+{
+  "categoria": "potted plant",
+  "categoriaSlug": "potted-plant",
+  "idioma": "sw",
+  "nombreIdioma": "Kiswahili",
+  "termino": "mmea wa chungu",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:18:15.358Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "sw",
+    "gl": "tz"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=mmea%20wa%20chungu&hl=sw&gl=tz",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/potted-plant/sw/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdA5iDxsWNpItm5q2TB13HteExQt61Q3G8Gw&s",
+      "fuentePagina": "https://www.instagram.com/p/CGH4kuIjcLS/",
+      "titulo": "Huo ni mche wa nyanya chungu Kama tunavyouona . Mche huu wa ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdA5iDxsWNpItm5q2TB13HteExQt61Q3G8Gw&s",
+      "original": "https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=2416148539148976850"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/potted-plant/sw/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSecFt_228paLYYc3sX9amLossqSlf0-7Wirg&s",
+      "fuentePagina": "https://www.instagram.com/p/CFXlqXqj-3C/",
+      "titulo": "Tumeanza rasmi kung'oa Miche ya nyanya chungu Leo. Na ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSecFt_228paLYYc3sX9amLossqSlf0-7Wirg&s",
+      "original": "https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=2402554565574520258"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/potted-plant/sw/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiuCOocCfXVxl_RQRHqJFgtFaB4Runqlew2Q&s",
+      "fuentePagina": "https://www.instagram.com/p/DMGKLL7xle2/",
+      "titulo": "Kwa wasiojua mmea wa JANI chungu Kigoma wanaitwa UMUBHIRIZI ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiuCOocCfXVxl_RQRHqJFgtFaB4Runqlew2Q&s",
+      "original": "https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3676670894987958198"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/potted-plant/sw/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPa4-e187KN_qQJY1BH4OEOY_fJp64bu0P-g&s",
+      "fuentePagina": "https://www.instagram.com/p/C_n73U3M3XZ/",
+      "titulo": "Nyanya chungu/ Ngogwe aina ya mbegu ni Munira f1 kutoka ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPa4-e187KN_qQJY1BH4OEOY_fJp64bu0P-g&s",
+      "original": "https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3451990919290769721"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/potted-plant/sw/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNz-ifOZuz8hTKzVX6j6ArSyUsDEaht-Vo_A&s",
+      "fuentePagina": "https://www.facebook.com/photo.php?fbid=122155620722872897&set=a.122095027556872897&type=3",
+      "titulo": "James - MMEA WA JANI CHUNGU AU UMUBHIRIZI □ Tatizo la ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNz-ifOZuz8hTKzVX6j6ArSyUsDEaht-Vo_A&s",
+      "original": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=122155620722872897"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/potted-plant/sw/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxYEkevCFHfQbyokKMNrXoMLATAtOAagEHBQ&s",
+      "fuentePagina": "https://www.instagram.com/p/DSUgiz6igxq/",
+      "titulo": "Scientific name:Momordica charantiaL. Common name;Bitter ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxYEkevCFHfQbyokKMNrXoMLATAtOAagEHBQ&s",
+      "original": "https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3788796316218952810"
+    }
+  ]
+}

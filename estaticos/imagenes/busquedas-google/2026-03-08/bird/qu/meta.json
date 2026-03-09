@@ -1,0 +1,71 @@
+{
+  "categoria": "bird",
+  "categoriaSlug": "bird",
+  "idioma": "qu",
+  "nombreIdioma": "Quechua",
+  "termino": "pisqu",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T20:50:00.280Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "es",
+    "gl": "pe"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=pisqu&hl=es&gl=pe",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bird/qu/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtLk2lzWqgvQOo_RmczWiMyWXEHJJrJblMPg&s",
+      "fuentePagina": "https://www.facebook.com/pisquperu/",
+      "titulo": "PISQU (@pisquperu) • Facebook",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtLk2lzWqgvQOo_RmczWiMyWXEHJJrJblMPg&s",
+      "original": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=100054636362311"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bird/qu/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzf5812Lb7uo0rHIZvHNK_whuyjpUFG4dBXQ&s",
+      "fuentePagina": "https://www.facebook.com/pisqup/?locale=es_LA",
+      "titulo": "PISQU PERÚ (@pisqup) • Facebook",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzf5812Lb7uo0rHIZvHNK_whuyjpUFG4dBXQ&s",
+      "original": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=100063798660271"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bird/qu/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxZ82EegxJ2ez8cyelc2QWLHI2-c5LznbgSA&s",
+      "fuentePagina": "https://qu.wikipedia.org/wiki/Palanta_pisqu",
+      "titulo": "Palanta pisqu - Wikipidiya",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxZ82EegxJ2ez8cyelc2QWLHI2-c5LznbgSA&s",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/8/83/Thraupis_episcopus_cropped.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bird/qu/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0J33i4NKXg2qh78D757Ag6hEiC7J2imS6Hg&s",
+      "fuentePagina": "https://www.facebook.com/PisquTourismPeru/",
+      "titulo": "PISQU - Tourism & Culture | Lima",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0J33i4NKXg2qh78D757Ag6hEiC7J2imS6Hg&s",
+      "original": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=100057595022905"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bird/qu/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRS20SqXspfinFlqMO4yiDoDbPPWp6U11dyNQ&s",
+      "fuentePagina": "https://www.facebook.com/pisquperu/",
+      "titulo": "PISQU (@pisquperu) • Facebook",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRS20SqXspfinFlqMO4yiDoDbPPWp6U11dyNQ&s",
+      "original": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=5960611337362535"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bird/qu/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnbebXL9HYoSULTS3wR7K-doSTvtqxfJB8fQ&s",
+      "fuentePagina": "https://www.facebook.com/PisquMacerados/",
+      "titulo": "Pisqu - Macerados de Pisco | Piura",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnbebXL9HYoSULTS3wR7K-doSTvtqxfJB8fQ&s",
+      "original": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=100052700843747"
+    }
+  ]
+}

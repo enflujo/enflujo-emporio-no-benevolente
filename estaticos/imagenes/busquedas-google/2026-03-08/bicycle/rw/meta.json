@@ -1,0 +1,71 @@
+{
+  "categoria": "bicycle",
+  "categoriaSlug": "bicycle",
+  "idioma": "rw",
+  "nombreIdioma": "Kinyarwanda",
+  "termino": "igare",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T20:41:04.930Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "en",
+    "gl": "rw"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=igare&hl=en&gl=rw",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bicycle/rw/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTj4ueVN1slUx35dEzV-gJey994aGzbUBK97Q&s",
+      "fuentePagina": "https://rw.wikipedia.org/wiki/Igare",
+      "titulo": "Igare - Wikipedia",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTj4ueVN1slUx35dEzV-gJey994aGzbUBK97Q&s",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/15-07-12-Ciclistas-en-Mexico-RalfR-N3S_8973.jpg/250px-15-07-12-Ciclistas-en-Mexico-RalfR-N3S_8973.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bicycle/rw/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRt61-do4dO4kWIhcyDfgODW9EeLeJKpjAcA&s",
+      "fuentePagina": "https://www.youtube.com/watch?v=VoAOqccgweQ",
+      "titulo": "IGARE - MICO The Best ( Official Video )",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRt61-do4dO4kWIhcyDfgODW9EeLeJKpjAcA&s",
+      "original": "https://i.ytimg.com/vi/VoAOqccgweQ/maxresdefault.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bicycle/rw/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGsUQUaAq1Y4TGV1QLmFV2vO-tuya37t_xvw&s",
+      "fuentePagina": "https://www.kigalitoday.com/umuco/ikinyarwanda/article/bugesera-umugeni-utajyanye-igare-mu-bishyingiranwa-baramusenda",
+      "titulo": "Bugesera: Umugeni utajyanye igare mu bishyingiranwa ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGsUQUaAq1Y4TGV1QLmFV2vO-tuya37t_xvw&s",
+      "original": "https://www.kigalitoday.com/IMG/jpg/Igare_rifatwa_nk_ikintu_cy_agaciro_mu_Bugesera_copy_copy.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bicycle/rw/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtrpjNF78uiDbajKH5mJAF-E2PbNwVJhi-hg&s",
+      "fuentePagina": "https://rw.wikipedia.org/wiki/Igare",
+      "titulo": "Igare - Wikipedia",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtrpjNF78uiDbajKH5mJAF-E2PbNwVJhi-hg&s",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Bicycle_riding12.jpg/250px-Bicycle_riding12.jpg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bicycle/rw/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBxGKAsRescoHvJIyCeiPjqO4hI1e6eekxeg&s",
+      "fuentePagina": "https://www.youtube.com/watch?v=X3Jpu5Z1qJw",
+      "titulo": "IREBERO COMEDY 118||Nsabii igare arihinganyije indaya!🤔🙄🤣🤣😂😂",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBxGKAsRescoHvJIyCeiPjqO4hI1e6eekxeg&s",
+      "original": "https://i.ytimg.com/vi/X3Jpu5Z1qJw/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLCDv0nFWXu5Q_rAt9USM2eC1gKwWg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bicycle/rw/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuyLvcznTFp9B7_WS25K8Pjpo11ejWCnAVGQ&s",
+      "fuentePagina": "https://www.kigalitoday.com/amakuru/mu-rwanda/article/aba-bagore-igare-ribafitiye-akamaro-kanini-amafoto",
+      "titulo": "Aba bagore igare ribafitiye akamaro kanini (Amafoto ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuyLvcznTFp9B7_WS25K8Pjpo11ejWCnAVGQ&s",
+      "original": "https://www.kigalitoday.com/IMG/jpg/igare_23_.jpg"
+    }
+  ]
+}

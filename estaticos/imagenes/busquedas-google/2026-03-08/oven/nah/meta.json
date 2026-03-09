@@ -1,0 +1,71 @@
+{
+  "categoria": "oven",
+  "categoriaSlug": "oven",
+  "idioma": "nah",
+  "nombreIdioma": "Náhuatl",
+  "termino": "tletl",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:25:56.185Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "es",
+    "gl": "mx"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=tletl&hl=es&gl=mx",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/oven/nah/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmlDeHG7ys9_gralLxCqA2apDxcovaVY6hOw&s",
+      "fuentePagina": "http://www.gdn.unam.mx/diccionario/tletl/11841",
+      "titulo": "tletl - Gran Diccionario Náhuatl",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmlDeHG7ys9_gralLxCqA2apDxcovaVY6hOw&s",
+      "original": "https://tlachia.iib.unam.mx/archivos/telleriano/imagenes/04.02.01.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/oven/nah/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2wGonCynFexI7YFhHoHpXQjp7soF3CYgCSA&s",
+      "fuentePagina": "http://www.gdn.unam.mx/diccionario/tletl/11841",
+      "titulo": "tletl - Gran Diccionario Náhuatl",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2wGonCynFexI7YFhHoHpXQjp7soF3CYgCSA&s",
+      "original": "https://tlachia.iib.unam.mx/archivos/mh-acxotlan/imagenes/04.02.01.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/oven/nah/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRccjcXf0xiKA3cZ0qRBQ2T_mz7_Nl8SSGzxw&s",
+      "fuentePagina": "https://aztecglyphs.wired-humanities.org/content/tletl-mglb71r",
+      "titulo": "tletl (Mglb71r) | Visual Lexicon of Aztec Hieroglyphs",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRccjcXf0xiKA3cZ0qRBQ2T_mz7_Nl8SSGzxw&s",
+      "original": "https://aztecglyphs.wired-humanities.org/sites/default/files/styles/large/public/tletl_Mgb71r_ICONnoun.jpg?itok=t5959U0R"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/oven/nah/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWIU7GwSX58cYuOcb9YPgShF5TYw5hVVEHkw&s",
+      "fuentePagina": "https://aztecglyphs.wired-humanities.org/content/tletl-mh503v",
+      "titulo": "tletl (MH503v) | Visual Lexicon of Aztec Hieroglyphs",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWIU7GwSX58cYuOcb9YPgShF5TYw5hVVEHkw&s",
+      "original": "https://aztecglyphs.wired-humanities.org/sites/default/files/styles/large/public/TLETLM~1.JPG?itok=jtHPVLnX"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/oven/nah/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvhzm7w9hMJYy01mbGge_VklIWxO86zOZv-A&s",
+      "fuentePagina": "https://www.facebook.com/photo.php?fbid=2647031528695371&set=a.558390226321738&id=100064522968847",
+      "titulo": "Identidades: - Fuego, en nahuatl, se escribe Tletl y se ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvhzm7w9hMJYy01mbGge_VklIWxO86zOZv-A&s",
+      "original": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=2647031528695371"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/oven/nah/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSutbsMrTJevGDnwgWlVr7mzKAmJB3wKQVzg&s",
+      "fuentePagina": "http://www.gdn.unam.mx/diccionario/tletl/11841",
+      "titulo": "tletl - Gran Diccionario Náhuatl",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSutbsMrTJevGDnwgWlVr7mzKAmJB3wKQVzg&s",
+      "original": "https://tlachia.iib.unam.mx/archivos/tepetlaoztoc/imagenes/04.02.01.jpg"
+    }
+  ]
+}

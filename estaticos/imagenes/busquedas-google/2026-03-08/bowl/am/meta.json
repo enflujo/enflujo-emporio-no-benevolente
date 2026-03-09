@@ -1,0 +1,71 @@
+{
+  "categoria": "bowl",
+  "categoriaSlug": "bowl",
+  "idioma": "am",
+  "nombreIdioma": "Amharic — አማርኛ",
+  "termino": "ጥልቅ ሰሃን",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:10:07.839Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "am",
+    "gl": "et"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=%E1%8C%A5%E1%88%8D%E1%89%85%20%E1%88%B0%E1%88%83%E1%8A%95&hl=am&gl=et",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bowl/am/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpFDCHarjsO0a-heRJC99kJZPvf-0oROwiCQ&s",
+      "fuentePagina": "https://amharic.old-carpenter.com/Dinnerware/gift-deep-table-serving-tray-unbreakable-living-room-tea-coffee-breakfast-plate",
+      "titulo": "የስጦታ ጥልቅ ጠረጴዛ ማገልገል ትሪ የማይበጠስ ሳሎን ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpFDCHarjsO0a-heRJC99kJZPvf-0oROwiCQ&s",
+      "original": "https://www.old-carpenter.com/upload/product/1665544964872816.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bowl/am/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQ6R6rD5O-5KPbafsXyMcAg9kofllp1Qu7Tw&s",
+      "fuentePagina": "https://amharic.old-carpenter.com/Dinnerware/gift-deep-table-serving-tray-unbreakable-living-room-tea-coffee-breakfast-plate",
+      "titulo": "የስጦታ ጥልቅ ጠረጴዛ ማገልገል ትሪ የማይበጠስ ሳሎን ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQ6R6rD5O-5KPbafsXyMcAg9kofllp1Qu7Tw&s",
+      "original": "https://www.old-carpenter.com/upload/product/1665544964731384.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bowl/am/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRq744IXq6SeFDXQGGkM8pOeeIx3iqffugJew&s",
+      "fuentePagina": "https://amharic.old-carpenter.com/Dinnerware/gift-deep-table-serving-tray-unbreakable-living-room-tea-coffee-breakfast-plate",
+      "titulo": "የስጦታ ጥልቅ ጠረጴዛ ማገልገል ትሪ የማይበጠስ ሳሎን ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRq744IXq6SeFDXQGGkM8pOeeIx3iqffugJew&s",
+      "original": "https://www.old-carpenter.com/upload/product/1665544965825178.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bowl/am/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlAiMXnVhqBUBdqW59mXUNu4Q0eR6vFFEfng&s",
+      "fuentePagina": "https://amharic.old-carpenter.com/Dinnerware/gift-deep-table-serving-tray-unbreakable-living-room-tea-coffee-breakfast-plate",
+      "titulo": "የስጦታ ጥልቅ ጠረጴዛ ማገልገል ትሪ የማይበጠስ ሳሎን ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlAiMXnVhqBUBdqW59mXUNu4Q0eR6vFFEfng&s",
+      "original": "https://www.old-carpenter.com/upload/product/1665544965580810.jpg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bowl/am/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfp8flzWxhBl-linIbZ1TQPClzHCFULzunZQ&s",
+      "fuentePagina": "https://amharic.old-carpenter.com/Dinnerware/gift-deep-table-serving-tray-unbreakable-living-room-tea-coffee-breakfast-plate",
+      "titulo": "የስጦታ ጥልቅ ጠረጴዛ ማገልገል ትሪ የማይበጠስ ሳሎን ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfp8flzWxhBl-linIbZ1TQPClzHCFULzunZQ&s",
+      "original": "https://www.old-carpenter.com/upload/product/1665544964330529.jpg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bowl/am/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbb3P06zhwVt83OrBRtP39C7ADe_t810xbeQ&s",
+      "fuentePagina": "https://www.garbotableware.com/am/ceramic-plate/round-household-use-9-inch-flower-design-deep-ceramic-plate.html",
+      "titulo": "ክብ የቤት አጠቃቀም 9 ኢንች የአበባ ንድፍ ጥልቅ ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbb3P06zhwVt83OrBRtP39C7ADe_t810xbeQ&s",
+      "original": "https://www.garbotableware.com/data/watermark/20241108/672dc9024e39f.jpg"
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "categoria": "cell phone",
+  "categoriaSlug": "cell-phone",
+  "idioma": "zu",
+  "nombreIdioma": "isiZulu",
+  "termino": "iselula",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:24:24.869Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "zu",
+    "gl": "za"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=iselula&hl=zu&gl=za",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/cell-phone/zu/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWltgDmWWz3TxZvghHF4oGekE44RIunxLhRQ&s",
+      "fuentePagina": "https://greencape.co.za/library/case-study-iselula-saves-r2-4-million-through-the-reuse-of-builders-rubble/",
+      "titulo": "Case Study: Iselula saves R2.4 million through the reuse of ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWltgDmWWz3TxZvghHF4oGekE44RIunxLhRQ&s",
+      "original": "https://greencape.co.za/wp-content/uploads/2018/11/Iselula-Crushing.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/cell-phone/zu/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuOpOarxufDLbYbICEZG5GpwvzR0PDOJY-mg&s",
+      "fuentePagina": "https://open.spotify.com/track/4HcJViKIz5BTZFBH6sQGij",
+      "titulo": "Iselula - song and lyrics by Sipho Mchunu | Spotify",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuOpOarxufDLbYbICEZG5GpwvzR0PDOJY-mg&s",
+      "original": "https://i.scdn.co/image/ab67616d0000b2738ece19214c0d40fd7426aef3"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/cell-phone/zu/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTby-rcHLI089J6vUNe38MNOhVwwnxXQzFnkA&s",
+      "fuentePagina": "https://www.yiikoo.com/zu/new-mobile-phone-3-in-1wireless-charger-vertical-wireless-charging-for-mobile-phone-headset-watch-wireless-fast-charging-product/",
+      "titulo": "Iselula Entsha Engcono Kakhulu 3 koku-1 ishaja engenantambo ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTby-rcHLI089J6vUNe38MNOhVwwnxXQzFnkA&s",
+      "original": "https://www.yiikoo.com/uploads/e2ef3208.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/cell-phone/zu/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSyMInU0SVUQ9cvv1Hyso2QfjpB4IUTqPdPA&s",
+      "fuentePagina": "https://open.spotify.com/track/7MIc36s3vCVBnABXyVQqas",
+      "titulo": "Iselula phone - song and lyrics by uMkhathazi | Spotify",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSyMInU0SVUQ9cvv1Hyso2QfjpB4IUTqPdPA&s",
+      "original": "https://i.scdn.co/image/ab67616d00001e0278abfae557bd88617d44811f"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/cell-phone/zu/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBatknRbZYCVqAysmXIUrXaYaZOm940tgUfQ&s",
+      "fuentePagina": "https://open.spotify.com/track/1H6h6Ml4u2Bm9bTbrRZgEC",
+      "titulo": "Iselula Yami - song and lyrics by Ithwasa Lekhansela | Spotify",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBatknRbZYCVqAysmXIUrXaYaZOm940tgUfQ&s",
+      "original": "https://i.scdn.co/image/ab67616d0000b273a2346962da63b52a51beaa7d"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/cell-phone/zu/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSld6z4yvATJMtn3HpZkACiHsg7n7s1YctgQ&s",
+      "fuentePagina": "https://www.facebook.com/p/Iselula-Crushing-100048962472723/",
+      "titulo": "Iselula Crushing | Cape Town",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSld6z4yvATJMtn3HpZkACiHsg7n7s1YctgQ&s",
+      "original": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=100048962472723"
+    }
+  ]
+}

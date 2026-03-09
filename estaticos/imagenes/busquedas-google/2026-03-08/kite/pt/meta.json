@@ -1,0 +1,71 @@
+{
+  "categoria": "kite",
+  "categoriaSlug": "kite",
+  "idioma": "pt",
+  "nombreIdioma": "Português",
+  "termino": "pipa",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:02:31.485Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "pt",
+    "gl": "br"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=pipa&hl=pt&gl=br",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/kite/pt/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHVhjHoJrGBKhqA-znFdlEav3Jsb9gQ6A3yQ&s",
+      "fuentePagina": "https://www.magazinevoce.com.br/magazinepinceidigital/pipa-kit-completo-50-pipas-50-rabiolas-25-linha-dezinho-blook/p/bjfkh6k9b7/am/lppa/",
+      "titulo": "Pipa Kit Completo 50 Pipas + 50 Rabiolas + 25 Linha dezinho ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHVhjHoJrGBKhqA-znFdlEav3Jsb9gQ6A3yQ&s",
+      "original": "https://a-static.mlcdn.com.br/800x600/pipa-kit-completo-50-pipas-50-rabiolas-25-linha-dezinho-blook/snoopecommerce/000023719e/b0b3f0cfd8a2d9e51619423f7e3ddf0d.jpeg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/kite/pt/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvwLG7XIRBr1746EI_F2FmnUOfuPASKxV7Ww&s",
+      "fuentePagina": "https://www.mercadolivre.com.br/kit-20-pipa-papagaio-lapis-pequeno-de-50cm-sortidos/p/MLB38055837",
+      "titulo": "Kit 20 Pipa Papagaio Lapis Pequeno De 50cm Sortidos",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvwLG7XIRBr1746EI_F2FmnUOfuPASKxV7Ww&s",
+      "original": "https://http2.mlstatic.com/D_Q_NP_807991-MLA79769326645_102024-O.webp"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/kite/pt/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWAxSbYh-yvbbf0dg8yrPJF5eHCAVHH-gBlw&s",
+      "fuentePagina": "https://www.magazineluiza.com.br/pipa-reta-55-cm-c-50-pipas/p/ba5ajgf333/br/ppia/",
+      "titulo": "Magazine Luiza | Pra você é Magalu!",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWAxSbYh-yvbbf0dg8yrPJF5eHCAVHH-gBlw&s",
+      "original": "https://m.magazineluiza.com.br/a-static/420x420/pipa-reta-55-cm-c-50-pipas/olistsp/ospb1hoz08tw5v38/87a03823a8dd3bf9698a277e69e49661.jpeg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/kite/pt/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZ5JY9qrjk4szdqiaXNBBc1CKA-Zt7UZyNWQ&s",
+      "fuentePagina": "https://www.alemaopipas.com.br/kit-pacote-50-pipa-murcha-estampas-mistas-45cm-bambu-x-fibra?srsltid=AfmBOopDQgzCio5jqnEszvJZgebx822F1DxLdxwxNsw9FP-E5WLHS0ze",
+      "titulo": "Kit Pacote 25 Pipa Murcha Estampas Mistas 45cm Bambu X Fibra ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZ5JY9qrjk4szdqiaXNBBc1CKA-Zt7UZyNWQ&s",
+      "original": "https://cdn.awsli.com.br/2500x2500/2245/2245680/produto/363354417/img_2881-photoroom-hlih0gerav.jpg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/kite/pt/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNmvdzB0rUo7QML-ZuJ7TkE35ip4xczCoCkg&s",
+      "fuentePagina": "https://pt.vecteezy.com/arte-vetorial/5624007-colorido-pipa-voar-no-ceu-isolado-em-fundo-branco-verao-primavera-brinquedo-para-crianca-vetor-plano-design",
+      "titulo": "pipa colorida voar no céu isolado no fundo branco. verão ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNmvdzB0rUo7QML-ZuJ7TkE35ip4xczCoCkg&s",
+      "original": "https://static.vecteezy.com/ti/vetor-gratis/p1/5624007-colorido-pipa-voar-no-ceu-isolado-em-fundo-branco-verao-primavera-brinquedo-para-crianca-plano-design-vetor.jpg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/kite/pt/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6hwaWFT0y2UV0dR2u3zN04v49pZmuxN2mJg&s",
+      "fuentePagina": "https://www.douglaspipas.com/20-pipa-latao-60cm-bambu-x-bambu-corte-recorte/prod-10558265/",
+      "titulo": "Douglas Pipas - 20 Pipa Latão 60cm Bambu x Bambu Corte Recorte",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6hwaWFT0y2UV0dR2u3zN04v49pZmuxN2mJg&s",
+      "original": "https://d5gag3xtge2og.cloudfront.net/producao/35345544/G/1734661348288.png"
+    }
+  ]
+}

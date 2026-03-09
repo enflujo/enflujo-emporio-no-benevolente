@@ -1,0 +1,71 @@
+{
+  "categoria": "bottle",
+  "categoriaSlug": "bottle",
+  "idioma": "zh",
+  "nombreIdioma": "中文",
+  "termino": "瓶子",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:06:31.398Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "zh-CN",
+    "gl": "cn"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=%E7%93%B6%E5%AD%90&hl=zh-CN&gl=cn",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bottle/zh/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8NCaXZtHD_rsA5x9GZ0d8XvaEkBPU055rpw&s",
+      "fuentePagina": "https://zh.wikipedia.org/zh-cn/%E7%93%B6",
+      "titulo": "瓶- 维基百科，自由的百科全书",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8NCaXZtHD_rsA5x9GZ0d8XvaEkBPU055rpw&s",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Bouteille.jpg/960px-Bouteille.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bottle/zh/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPRPuHnJiqIakph5uWBpX3mPiZrI3IO7K9LA&s",
+      "fuentePagina": "http://www.sccnn.com/shiliangtuku/shenghuobaike/shiliangshenghuoyongpin/20150428-134153.html",
+      "titulo": "瓶子包装设计_素材中国sccnn.com",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPRPuHnJiqIakph5uWBpX3mPiZrI3IO7K9LA&s",
+      "original": "http://img.sccnn.com/bimg/338/19204.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bottle/zh/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpwJkIZKdUJ72h5LMee_E6LybjgLuabBFP9A&s",
+      "fuentePagina": "https://pixabay.com/zh/illustrations/bottles-glass-empty-containers-5746292/",
+      "titulo": "瓶子玻璃- Pixabay上的免费图片",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpwJkIZKdUJ72h5LMee_E6LybjgLuabBFP9A&s",
+      "original": "https://cdn.pixabay.com/photo/2020/11/15/16/15/bottles-5746292_960_720.png"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bottle/zh/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_lswwx_ZlePOjSsHqBlkl8eqvWqfkdaNsDg&s",
+      "fuentePagina": "https://www.shutterstock.com/zh/search/%E7%93%B6%E5%AD%90",
+      "titulo": "647万瓶子免版税图片、库存照片和图像| Shutterstock",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_lswwx_ZlePOjSsHqBlkl8eqvWqfkdaNsDg&s",
+      "original": "https://www.shutterstock.com/image-photo/water-bottles-different-sizes-on-260nw-2738736275.jpg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bottle/zh/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTS3xez9evOMWNTXjeU2w8jN8wdU6P9bdluBA&s",
+      "fuentePagina": "https://pixabay.com/zh/photos/bottle-green-bottle-wine-bottle-3796564/",
+      "titulo": "瓶子绿瓶酒瓶- Pixabay上的免费照片",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTS3xez9evOMWNTXjeU2w8jN8wdU6P9bdluBA&s",
+      "original": "https://cdn.pixabay.com/photo/2018/11/05/17/49/bottle-3796564_1280.jpg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bottle/zh/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBHpsAIZbx0p4CmdaCqfn8ulEKhT78WPj9pg&s",
+      "fuentePagina": "https://616pic.com/tupian/pingzi.html",
+      "titulo": "瓶子图片素材_免费瓶子PNG设计图片大全_图精灵",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBHpsAIZbx0p4CmdaCqfn8ulEKhT78WPj9pg&s",
+      "original": "https://pic.616pic.com/ys_img/00/17/23/HCrJ3oDwNN.jpg"
+    }
+  ]
+}

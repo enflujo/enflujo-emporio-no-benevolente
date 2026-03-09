@@ -1,0 +1,71 @@
+{
+  "categoria": "book",
+  "categoriaSlug": "book",
+  "idioma": "zh",
+  "nombreIdioma": "中文",
+  "termino": "书",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:28:34.916Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "zh-CN",
+    "gl": "cn"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=%E4%B9%A6&hl=zh-CN&gl=cn",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/book/zh/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMzkIBtHsmeCHiRJvkPL8_TAI2JJC5ChLOew&s",
+      "fuentePagina": "https://www.peopleapp.com/column/30036832479-500001883338",
+      "titulo": "书要怎样写，才会有人读_人民日报",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMzkIBtHsmeCHiRJvkPL8_TAI2JJC5ChLOew&s",
+      "original": "https://rmrbcmsonline.peopleapp.com/upload/image/202001/202001121632217651.png?x-oss-process=image/resize,m_fill,h_500,w_750,limit_0/quality,q_90"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/book/zh/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQU4HfXWyFtPe0hLifVGz4zekCmLI2RAkUM1Q&s",
+      "fuentePagina": "https://cn.dreamstime.com/%E5%BA%93%E5%AD%98%E7%85%A7%E7%89%87-%E4%B9%A6%E5%A0%86-image12557430",
+      "titulo": "一堆书库存照片. 图片包括有图书馆, 宗教, 文本, 文字, 背包 ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQU4HfXWyFtPe0hLifVGz4zekCmLI2RAkUM1Q&s",
+      "original": "https://thumbs.dreamstime.com/b/%E4%B9%A6%E5%A0%86-12557430.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/book/zh/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNcYBToTXrMmYNnQ0nUqD36oTB0NWwfFTQ2g&s",
+      "fuentePagina": "https://m.36kr.com/p/1187561021489417",
+      "titulo": "这30 本书，每个人这辈子都应该看一遍-36氪",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNcYBToTXrMmYNnQ0nUqD36oTB0NWwfFTQ2g&s",
+      "original": "https://img.36krcdn.com/20210418/v2_0e509ace2e084375bc4cfd129790c91b_img_jpg?x-oss-process=image/format,jpg/interlace,1"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/book/zh/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSytjz6QU4yP9TxggeYBPj7X-8GEgJ1aB45Bg&s",
+      "fuentePagina": "https://pic.5tu.cn/vector/201201/xuexi-55699.html",
+      "titulo": "一本厚书矢量图魔法书图片-学习用品-百图汇素材网",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSytjz6QU4yP9TxggeYBPj7X-8GEgJ1aB45Bg&s",
+      "original": "http://pic.5tu.cn/uploads/allimg/1204/221020323030.jpg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/book/zh/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgu9LnlrYhqSEYgHsfbJ0Uja7zyLVBS0pGag&s",
+      "fuentePagina": "https://616pic.com/sucai/192ixp9pg.html",
+      "titulo": "打开的书图片免费下载_PNG素材_编号192ixp9pg_图精灵",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgu9LnlrYhqSEYgHsfbJ0Uja7zyLVBS0pGag&s",
+      "original": "https://pic.616pic.com/ys_bnew_img/00/45/52/httg98dLBv.jpg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/book/zh/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSScJTkqc564BgVA6Oso0b9Zpx-wIZ4ZejH9w&s",
+      "fuentePagina": "https://www.dataapplab.com/another-10-free-must-read-books-for-machine-learning-and-data-science/",
+      "titulo": "这10本改变数据生涯的书，你看了么？ - Data Application Lab",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSScJTkqc564BgVA6Oso0b9Zpx-wIZ4ZejH9w&s",
+      "original": "https://www.dataapplab.com/wp-content/uploads/2019/04/pexels-artem-beliaikin-2765617-scaled.jpg"
+    }
+  ]
+}

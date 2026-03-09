@@ -1,0 +1,71 @@
+{
+  "categoria": "bed",
+  "categoriaSlug": "bed",
+  "idioma": "ln",
+  "nombreIdioma": "Lingala",
+  "termino": "kitanda",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:18:55.690Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "fr",
+    "gl": "cd"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=kitanda&hl=fr&gl=cd",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bed/ln/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmFxz2BMoDzbHexuUJwpn_SCxWSer3eDJ1Aw&s",
+      "fuentePagina": "https://www.instagram.com/p/CLHyau1nBgX/",
+      "titulo": "Kitanda cha mbao Very classic For order 0679545484",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmFxz2BMoDzbHexuUJwpn_SCxWSer3eDJ1Aw&s",
+      "original": "https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=2506193456978466839"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bed/ln/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyL6F3KBHl_n0D_RpY_YqkPY6IC70YrMEXAw&s",
+      "fuentePagina": "https://en.wikipedia.org/wiki/Kitanda",
+      "titulo": "Kitanda - Wikipedia",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyL6F3KBHl_n0D_RpY_YqkPY6IC70YrMEXAw&s",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/5/54/Seattle%2C_WA%2C_in_December_2023_-_24.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bed/ln/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkLJZpzHR7X5jHyiCIqGIIgs8rMPzLJaCv0w&s",
+      "fuentePagina": "https://kupatana.com/tz/household-furniture/p/kitanda/63a4b2733e678c000110be05747263",
+      "titulo": "KITANDA | Kupatana",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkLJZpzHR7X5jHyiCIqGIIgs8rMPzLJaCv0w&s",
+      "original": "https://kupatana.com/api/v1/filestorage/image/large/a3cf8c978072cc184a3741c17eed9ccd.jpeg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bed/ln/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXuxALv-qQCXvOkqyz6oyEB-l1hZHaSwtcsg&s",
+      "fuentePagina": "https://www.instagram.com/p/Cxcqhl1KZvQ/",
+      "titulo": "Kitanda cha mbao 5 kwa 6 bei 180k Mabibo NIT ☎️0683017902",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXuxALv-qQCXvOkqyz6oyEB-l1hZHaSwtcsg&s",
+      "original": "https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3196616861842774992"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bed/ln/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3Huc2VxKvI-4Rc3MpZEpuRZ4fm1e2gr3VOQ&s",
+      "fuentePagina": "https://www.facebook.com/100063483956499/posts/kitanda-6x61ml/830584354079391/",
+      "titulo": "kitanda 6x6 1ml",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3Huc2VxKvI-4Rc3MpZEpuRZ4fm1e2gr3VOQ&s",
+      "original": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=830584354079391"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bed/ln/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYYrFtoNpbQRMuloNw7SMDq0qz7qZ-6x4NZw&s",
+      "fuentePagina": "https://ca.pinterest.com/pin/kitanda-cha-sofa-bed-sofa--1266706140249538/",
+      "titulo": "Kitanda Cha Sofa / Bed Sofa🇹🇿",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYYrFtoNpbQRMuloNw7SMDq0qz7qZ-6x4NZw&s",
+      "original": "https://i.pinimg.com/564x/a2/15/c9/a215c9d34a603bb78526af7b269db93f.jpg"
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "categoria": "stop sign",
+  "categoriaSlug": "stop-sign",
+  "idioma": "zh",
+  "nombreIdioma": "中文",
+  "termino": "停止标志",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T20:48:09.327Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "zh-CN",
+    "gl": "cn"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=%E5%81%9C%E6%AD%A2%E6%A0%87%E5%BF%97&hl=zh-CN&gl=cn",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/stop-sign/zh/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMrm2K3blxGqvoHVrxjmen-X3mXTQzmYPgWQ&s",
+      "fuentePagina": "https://pixabay.com/zh/vectors/search/stop%20sign/",
+      "titulo": "4000 多张免费的“Stop Sign”和“停止”矢量图- Pixabay",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMrm2K3blxGqvoHVrxjmen-X3mXTQzmYPgWQ&s",
+      "original": "https://cdn.pixabay.com/photo/2015/06/14/18/44/stop-809319_1280.png"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/stop-sign/zh/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoiV6q_9WJoBMUAfGHoV9nGsri47klNcBSxg&s",
+      "fuentePagina": "https://www.shutterstock.com/zh/image-vector/stop-sign-icon-vector-illustration-red-1066043348",
+      "titulo": "停止标志，停止图标-矢量停止插图。红色警告符号库存矢量图（免 ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoiV6q_9WJoBMUAfGHoV9nGsri47klNcBSxg&s",
+      "original": "https://www.shutterstock.com/image-vector/stop-sign-icon-vector-illustration-260nw-1066043348.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/stop-sign/zh/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSS36vobHVZiKNU-j9CmKCCUGKILQW-HTpBAg&s",
+      "fuentePagina": "https://www.freeimages.com/cn/photo/traffic-sign-2-1166509",
+      "titulo": "用于交通监管的警示停车标志免费图库照片| FreeImages",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSS36vobHVZiKNU-j9CmKCCUGKILQW-HTpBAg&s",
+      "original": "https://images.freeimages.com/images/large-previews/592/stop-sign-1420987.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/stop-sign/zh/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTS7Zcmz4nivRkl-W7qjQW-zhXGfRNG-Jopcw&s",
+      "fuentePagina": "https://xsj.699pic.com/tupian/05j8xu.html",
+      "titulo": "停止标志矢量图插画-正版商用图片05j8xu-摄图新视界",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTS7Zcmz4nivRkl-W7qjQW-zhXGfRNG-Jopcw&s",
+      "original": "https://img95.699pic.com/xsj/05/j8/xu.jpg!/fw/700/watermark/url/L3hzai93YXRlcl9kZXRhaWwyLnBuZw/align/southeast"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/stop-sign/zh/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzG8s7dtaf3KnNFIwkuQR241SMfF2IsOFyzA&s",
+      "fuentePagina": "https://616pic.com/sucai/ve9i5lx4e.html",
+      "titulo": "停止标志牌图片免费下载_PNG素材_编号ve9i5lx4e_图精灵",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzG8s7dtaf3KnNFIwkuQR241SMfF2IsOFyzA&s",
+      "original": "https://pic.616pic.com/ys_b_img/00/65/84/sTso6N7U7t.jpg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/stop-sign/zh/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTr3llTXW3bJEXOtV9Kd1TB8b0evDn99Tkm1g&s",
+      "fuentePagina": "https://depositphotos.com/cn/vector/stop-sign-cartoon-illustration-stop-sign-270747286.html",
+      "titulo": "停止标志停止标志的卡通插图图库矢量图©larryrains 270747286",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTr3llTXW3bJEXOtV9Kd1TB8b0evDn99Tkm1g&s",
+      "original": "https://st4.depositphotos.com/24038622/27074/v/1600/depositphotos_270747286-stock-illustration-stop-sign-cartoon-illustration-stop.jpg"
+    }
+  ]
+}

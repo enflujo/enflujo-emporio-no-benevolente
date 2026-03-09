@@ -1,0 +1,71 @@
+{
+  "categoria": "mouse",
+  "categoriaSlug": "mouse",
+  "idioma": "sw",
+  "nombreIdioma": "Kiswahili",
+  "termino": "kipanya",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:22:15.129Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "sw",
+    "gl": "tz"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=kipanya&hl=sw&gl=tz",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/mouse/sw/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuk_KAmVs3uTGc1ZRsOexeec0cDvudFE0ybw&s",
+      "fuentePagina": "https://www.instagram.com/p/C49cN7oqkf0/",
+      "titulo": "Photo by Masoud Kipanya (@masoudkipanya) · March 26, 2024",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuk_KAmVs3uTGc1ZRsOexeec0cDvudFE0ybw&s",
+      "original": "https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3331943402012559348"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/mouse/sw/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfkjWLJ7C9jqGS093JmpI_R2BHrrTMQOQnZQ&s",
+      "fuentePagina": "https://www.thecitizen.co.tz/tanzania/magazines/the-creative-world-of-ally-masoud-kipanya--4346148",
+      "titulo": "The creative world of Ally Masoud 'Kipanya' | The Citizen",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfkjWLJ7C9jqGS093JmpI_R2BHrrTMQOQnZQ&s",
+      "original": "https://www.thecitizen.co.tz/resource/image/4346150/portrait_ratio1x1/1600/1600/aa491d0da1f89ebe8eb1fc58fd5af341/Vs/kipanya-pic.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/mouse/sw/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjwv-pJ_teE6bpRdhX_ZWIcMfxE8ABV8erUA&s",
+      "fuentePagina": "https://www.michuzi.co.tz/2011/08/upuuzi-wa-masoud-kipanya-ni-wake-au.html",
+      "titulo": "UPUUZI WA MASOUD KIPANYA”: NI WAKE AU MATATIZO YETU ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjwv-pJ_teE6bpRdhX_ZWIcMfxE8ABV8erUA&s",
+      "original": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhcTHt68fqNEXq7AUWygc4_SJKs-PO-S2T2vrJheJX-0zzdFHbogRMQTwKlGDn_dL4NBIdiMWAkOTbFGlNdNvBVvzHUafsu-baX1REszzttxVJG1QJuhMd1VAkxU9qwHX1qTMfL/s1600/kp.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/mouse/sw/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQm6SPRrCEJensiyHDC6OvVfky5xMRdMHc4Ow&s",
+      "fuentePagina": "https://www.instagram.com/p/C6p1OP9NjKg/",
+      "titulo": "Photo by Masoud Kipanya (@masoudkipanya) · May 7, 2024",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQm6SPRrCEJensiyHDC6OvVfky5xMRdMHc4Ow&s",
+      "original": "https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3362452672479638176"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/mouse/sw/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyOzJXmGvuinjEoM3cga3OF0H9m91-V7YrlQ&s",
+      "fuentePagina": "https://www.facebook.com/KipanyaMasoud/photos/a.338387462934641/2556017684504930/",
+      "titulo": "Masoud Kipanya - Masoud Kipanya added a new photo.",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyOzJXmGvuinjEoM3cga3OF0H9m91-V7YrlQ&s",
+      "original": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=2556017684504930"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/mouse/sw/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjwWaMJjkyMPGyZLkfg9EVHICB6MIxQY4lFw&s",
+      "fuentePagina": "https://sw.wikipedia.org/wiki/Kipanya_(kompyuta)",
+      "titulo": "Kipanya (kompyuta) - Wikipedia, kamusi elezo huru",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjwWaMJjkyMPGyZLkfg9EVHICB6MIxQY4lFw&s",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/f/fd/2-buttons_mouse.jpg"
+    }
+  ]
+}

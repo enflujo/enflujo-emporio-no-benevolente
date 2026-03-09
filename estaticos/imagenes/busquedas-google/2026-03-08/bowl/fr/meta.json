@@ -1,0 +1,71 @@
+{
+  "categoria": "bowl",
+  "categoriaSlug": "bowl",
+  "idioma": "fr",
+  "nombreIdioma": "Français",
+  "termino": "bol",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:10:00.670Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "fr",
+    "gl": "be"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=bol&hl=fr&gl=be",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bowl/fr/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnl-314rvaT0FcTb8-fO1tlfFbSAZLsRbeDw&s",
+      "fuentePagina": "https://www.ikea.com/be/fr/p/ikea-365-bol-bords-arrondis-blanc-20278351/",
+      "titulo": "IKEA 365+ Bol, bords arrondis blanc, 16 cm - IKEA Belgique",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnl-314rvaT0FcTb8-fO1tlfFbSAZLsRbeDw&s",
+      "original": "https://www.ikea.com/be/fr/images/products/ikea-365-bol-bords-arrondis-blanc__0712930_pe729142_s5.jpg?f=s"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bowl/fr/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmIO820lP2NXubL4DLiGP6wIrDRiEaBKtVfw&s",
+      "fuentePagina": "https://www.monouso.be/bol-reutilisable-durable-pp-mineral-rouge-2l-o20cm-36-utes-18237.html?srsltid=AfmBOoqh9YQAYBpZHoLTJ-1BUrlg6-mKEvyQiwzXn6ZrVE3saODTJTRV",
+      "titulo": "Bol Réutilisable Durable PP Minéral Rouge 2.000ml Ø20cm (36 ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmIO820lP2NXubL4DLiGP6wIrDRiEaBKtVfw&s",
+      "original": "https://www.monouso.be/64019/bol-reutilisable-durable-pp-mineral-rouge-2l-o20cm-36-utes.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bowl/fr/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZEo8ZdTd0wSjs8vM0n43wuMeHFnyW5hbAOQ&s",
+      "fuentePagina": "https://www.dille-kamille.be/fr/bol-hetre-o-14-x-6-cm-00031703.html",
+      "titulo": "Bol, hêtre, Ø 14 x 6 cm",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZEo8ZdTd0wSjs8vM0n43wuMeHFnyW5hbAOQ&s",
+      "original": "https://dilka.xcdn.nl/dilka/images/catalog/product/00031703_1.jpg?f=rs:fit:600:600/g:ce&s=2d2d"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bowl/fr/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStsMI5l3u-WPldIfLLWpwel9GXPG5GN3CENw&s",
+      "fuentePagina": "https://www.amazon.com.be/Service-D%C3%A9coratif-Alimentaire-Naturel-Rustique/dp/B00H2061OA",
+      "titulo": "Bol de Service en Bois Bol à Fruits Décoratif Bol à Salade Alimentaire Bol  à Snack en Bois Naturel Bol en Bois Rustique élégant - Taille 24cm : ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStsMI5l3u-WPldIfLLWpwel9GXPG5GN3CENw&s",
+      "original": "https://m.media-amazon.com/images/I/81mRW8fbfHS.jpg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bowl/fr/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRi9UHWrLJ_SZADTm_aTK6x90-maQu1qEVWOQ&s",
+      "fuentePagina": "https://www.ikea.com/be/fr/p/faergklar-bol-bleu-clair-10600426/",
+      "titulo": "FÄRGKLAR bol, bleu clair, 16 cm - IKEA Belgique",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRi9UHWrLJ_SZADTm_aTK6x90-maQu1qEVWOQ&s",
+      "original": "https://www.ikea.com/be/fr/images/products/faergklar-bol-bleu-clair__1358950_pe953998_s5.jpg?f=s"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bowl/fr/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYG_Y_I0sfIhEXukuA5WnTPZKJV_AINPJbLA&s",
+      "fuentePagina": "https://www.dille-kamille.be/fr/bol-email-reactif-gres-vert-o-18-cm-00016612.html",
+      "titulo": "Bol, email réactif, grès, vert, Ø 18 cm",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYG_Y_I0sfIhEXukuA5WnTPZKJV_AINPJbLA&s",
+      "original": "https://dilka.xcdn.nl/dilka/images/catalog/product/00016612_1.jpg?f=rs:fit:600:600/g:ce&s=2d2d"
+    }
+  ]
+}

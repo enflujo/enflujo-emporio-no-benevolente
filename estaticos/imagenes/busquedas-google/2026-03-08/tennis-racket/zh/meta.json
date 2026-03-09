@@ -1,0 +1,71 @@
+{
+  "categoria": "tennis racket",
+  "categoriaSlug": "tennis-racket",
+  "idioma": "zh",
+  "nombreIdioma": "中文",
+  "termino": "网球拍",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:05:50.610Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "zh-CN",
+    "gl": "cn"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=%E7%BD%91%E7%90%83%E6%8B%8D&hl=zh-CN&gl=cn",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/tennis-racket/zh/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyZwihtH5mhTNJnLDZRFL6kYiMiwHKqRvRAw&s",
+      "fuentePagina": "https://sportadvice-zh.decathlon.com.hk/wang-qiu-ru-he-xuan-ze-zui-shi-he-ni-de-wang-qiu-pai",
+      "titulo": "網球｜選擇網球拍必讀攻略！教你按握把尺寸大小挑選專屬網球拍",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyZwihtH5mhTNJnLDZRFL6kYiMiwHKqRvRAw&s",
+      "original": "https://contents.mediadecathlon.com/p1876728/k$a63bfb8e19bfa0acd81d54b5d2218553/1920x0/1000pt1000/1818xcr2000/default.jpg?format=auto"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/tennis-racket/zh/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRy4T55r425mev0UgjnxCnIAgb3RJqux8ei3Q&s",
+      "fuentePagina": "https://www.sohu.com/a/207988716_820339",
+      "titulo": "网球拍的灵魂之谜——如何挑选球线？ | 杂志赏析_搜狐网",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRy4T55r425mev0UgjnxCnIAgb3RJqux8ei3Q&s",
+      "original": "https://5b0988e595225.cdn.sohucs.com/q_70,c_zoom,w_640/images/20171202/167a072021cf42f1afab171898ed5496.jpeg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/tennis-racket/zh/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXavEOfW0ETf_Igj02Fk3oiLUIp2AGEbeAoQ&s",
+      "fuentePagina": "http://www.bbeshop.com/tennis/wilson/racket_k61_tour90.htm",
+      "titulo": "Wilson K Factor KSix One Tour 90网球拍--维尔胜T4475网拍 ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXavEOfW0ETf_Igj02Fk3oiLUIp2AGEbeAoQ&s",
+      "original": "http://www.bbeshop.com/tennis/wilson/racket_k61_tour90.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/tennis-racket/zh/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGQfdf_LivQxWKil5x9dZFTaMGJkaD_EWc5Q&s",
+      "fuentePagina": "http://www.joinbond.com.cn/index.php?m=content&c=index&a=show&catid=3&id=374",
+      "titulo": "石墨网球拍和碳纤维网球拍：哪种球拍才是最好？ - 新闻资讯 ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGQfdf_LivQxWKil5x9dZFTaMGJkaD_EWc5Q&s",
+      "original": "http://www.joinbond.com.cn/uploadfile/2021/1122/20211122015015447.jpg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/tennis-racket/zh/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTl86VfaVGCl3VRbPdZlCFRA1_Er3PBmBWpDg&s",
+      "fuentePagina": "https://www.dealmoon.com.au/4-6-3-35-wilson-2023/747852.html",
+      "titulo": "Wilson 威尔胜澳洲官网- 2023网球拍选购攻略系列及型号推荐4折起 ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTl86VfaVGCl3VRbPdZlCFRA1_Er3PBmBWpDg&s",
+      "original": "https://imgcache.dealmoon.com/thumbimg.dealmoon.com/dealmoon/d11/a30/b64/3fbb504939aab730799f3cb.jpg_1080_0_3_d4a5.jpg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/tennis-racket/zh/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2IAF_pFVAZ4sZ20IwOefGeTO8SELFgL_3fg&s",
+      "fuentePagina": "https://zh.wikipedia.org/zh-cn/%E7%B6%B2%E7%90%83%E6%8B%8D",
+      "titulo": "网球拍- 维基百科，自由的百科全书",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2IAF_pFVAZ4sZ20IwOefGeTO8SELFgL_3fg&s",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/1/1e/Tennisschlaeger.jpg"
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "categoria": "motorcycle",
+  "categoriaSlug": "motorcycle",
+  "idioma": "gn",
+  "nombreIdioma": "Guaraní",
+  "termino": "moto",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T20:42:44.871Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "es",
+    "gl": "py"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=moto&hl=es&gl=py",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/motorcycle/gn/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtlUVT2O4nw-HGQAjErPsh3UL0gVCYj-8ORg&s",
+      "fuentePagina": "https://corrientesmotos.com.ar/producto/32136/?srsltid=AfmBOoqJoofylexaX68eF1qSTt5u0xM0YWNtJePkn8yrfqNj5zhrLZXn",
+      "titulo": "Moto Yamaha MT 03 - Corrientes Motos",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtlUVT2O4nw-HGQAjErPsh3UL0gVCYj-8ORg&s",
+      "original": "https://corrientesmotos.com.ar/wp-content/uploads/2022/06/Moto-Yamaha-MT-03.png"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/motorcycle/gn/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFjKruy1AU0S9eb4sKk2y35t05b5KwtO26Cw&s",
+      "fuentePagina": "https://www.yamahamotos.cl/producto/r7/",
+      "titulo": "R7 - Yamaha Motos",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFjKruy1AU0S9eb4sKk2y35t05b5KwtO26Cw&s",
+      "original": "https://www.yamahamotos.cl/wp-content/uploads/2022/06/r7_azul-7.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/motorcycle/gn/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ07sCehSS4RqxX2WE5RATBlMS7fPDbS1AUnA&s",
+      "fuentePagina": "https://kenton.com.py/moto/gl-150/",
+      "titulo": "GL 150 - Kenton",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ07sCehSS4RqxX2WE5RATBlMS7fPDbS1AUnA&s",
+      "original": "https://kenton.com.py/wp-content/uploads/2018/11/5901233nefa_motocicleta_kenton_gl_150_negro_2a_resultado.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/motorcycle/gn/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ05aizAPMYtIeGqa6L9Y2h2CWeLShgXiCnWQ&s",
+      "fuentePagina": "https://moto.suzuki.es/motos",
+      "titulo": "Suzuki Moto | Motos",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ05aizAPMYtIeGqa6L9Y2h2CWeLShgXiCnWQ&s",
+      "original": "https://moto.suzuki.es/assets/img/image-moto-slider-home-1.png"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/motorcycle/gn/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_2hjT9CDGCUjjZnm7PE7f--ZUFMPFFcNzuA&s",
+      "fuentePagina": "https://kenton.com.py/familia/trail/",
+      "titulo": "Trail - Kenton",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_2hjT9CDGCUjjZnm7PE7f--ZUFMPFFcNzuA&s",
+      "original": "https://kenton.com.py/wp-content/uploads/2025/01/5901295grfa_moto_kenton_shark_200_gris_1a-2.jpg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/motorcycle/gn/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzirJ4HSG-C9HgkYpiNPnvyNmwXykN73zf4w&s",
+      "fuentePagina": "https://www.galgo.com/co/motos/Touring",
+      "titulo": "Motos Touring y Adventure 2026 | Galgo | Colombia",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzirJ4HSG-C9HgkYpiNPnvyNmwXykN73zf4w&s",
+      "original": "https://images.ctfassets.net/8zlbnewncp6f/VhXrKS4h6MMqSTKG4ibaX/35149d3526c618d198693869cffdc3fd/CF_Moto_800MT-X_Imagen_principal_Galgo_M%C3%A9xico.png?w=600&fm=webp&q=90"
+    }
+  ]
+}

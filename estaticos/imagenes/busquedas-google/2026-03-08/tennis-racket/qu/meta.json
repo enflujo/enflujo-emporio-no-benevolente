@@ -1,0 +1,71 @@
+{
+  "categoria": "tennis racket",
+  "categoriaSlug": "tennis-racket",
+  "idioma": "qu",
+  "nombreIdioma": "Quechua",
+  "termino": "raqueta",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:05:43.831Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "es",
+    "gl": "pe"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=raqueta&hl=es&gl=pe",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/tennis-racket/qu/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLlxoP0ZwkokE8D_tp8Uq8Z3FgWfhTs582mQ&s",
+      "fuentePagina": "https://www.freepik.es/fotos-vectores-gratis/raqueta-tenis-dibujo",
+      "titulo": "Imágenes de Raqueta tenis dibujo - Descarga gratuita en Freepik",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLlxoP0ZwkokE8D_tp8Uq8Z3FgWfhTs582mQ&s",
+      "original": "https://img.freepik.com/vector-gratis/icono-deporte-raqueta-tenis-aislado_18591-82247.jpg?semt=ais_rp_50_assets&w=740&q=80"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/tennis-racket/qu/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHbyq59Ah3ivNqFzyswxnHiI8R5gEhIh8g8g&s",
+      "fuentePagina": "https://wilsonstore.com.pe/products/raqueta-de-tenis-blade-104-v9?srsltid=AfmBOopMqPtBalk6Jl2huGpgErVw_77VDwZAP8sI3OFrNChs4ygcdeIo",
+      "titulo": "Raqueta de Tenis Blade 104 v9 - 4 1/4",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHbyq59Ah3ivNqFzyswxnHiI8R5gEhIh8g8g&s",
+      "original": "https://wilsonstore.com.pe/cdn/shop/files/7_d0a54ee6-5526-44f5-bce5-9b8fd136af73.png?v=1752252614&width=1200"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/tennis-racket/qu/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSp4R3lov3DJgfHTtsfYV-OWXlkfoLn6W16VQ&s",
+      "fuentePagina": "https://www.soyvisual.org/fotos/raqueta-de-tenis",
+      "titulo": "Raqueta de tenis #Soyvisual",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSp4R3lov3DJgfHTtsfYV-OWXlkfoLn6W16VQ&s",
+      "original": "https://www.soyvisual.org/sites/default/files/styles/twitter_card/public/images/photos/dep_0004.jpg?itok=Ek8eIJA8"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/tennis-racket/qu/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXQfkWW-HdXSUzXt4nPtzT-bwQhN0DE0VS9w&s",
+      "fuentePagina": "https://wilsonstore.com.pe/products/raqueta-pro-staff-97-v14?srsltid=AfmBOopp0dtA52iKSAGkW5i8NTT-AdKq8Z5ySqrUxpOJb4sIV7eVqtze",
+      "titulo": "Raqueta de Tenis Pro Staff 97 V14 - 4 1/4",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXQfkWW-HdXSUzXt4nPtzT-bwQhN0DE0VS9w&s",
+      "original": "https://wilsonstore.com.pe/cdn/shop/files/6_32fa92a6-ae76-43cd-929a-7fb2521b5ae3.png?v=1752248966&width=1200"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/tennis-racket/qu/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTs5JQS7KqLTtC6U92fJlEDlRVSoiMqGPCSQ&s",
+      "fuentePagina": "https://www.mideporte.pe/producto/set-de-raquetas-de-tenis-junior/",
+      "titulo": "Set de Raquetas de Tenis Junior - Mi Deporte",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTs5JQS7KqLTtC6U92fJlEDlRVSoiMqGPCSQ&s",
+      "original": "https://cloud.mideporte.pe/wp-content/uploads/2022/04/raqueta-tenis-azul.webp"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/tennis-racket/qu/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXJa5gEtbArhA3EgleSgRQnww7C5jaOCOALQ&s",
+      "fuentePagina": "https://centralsport.pe/products/raqueta-para-badminton-w30-winstar?srsltid=AfmBOopIG3XSyBs2DGAGNLpLH8gD77bDlbGlclqgkjK6cv81uuVUR3Ze",
+      "titulo": "Raqueta Para Bádminton W30 Winstar - Rosado/Azul",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXJa5gEtbArhA3EgleSgRQnww7C5jaOCOALQ&s",
+      "original": "https://centralsport.pe/cdn/shop/files/WIN-620-3_1c1de59f-20da-45cc-8594-4148db752972.jpg?v=1758227394&width=1214"
+    }
+  ]
+}

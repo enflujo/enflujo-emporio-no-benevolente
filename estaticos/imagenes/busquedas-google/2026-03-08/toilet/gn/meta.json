@@ -1,0 +1,71 @@
+{
+  "categoria": "toilet",
+  "categoriaSlug": "toilet",
+  "idioma": "gn",
+  "nombreIdioma": "Guaraní",
+  "termino": "toilet",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:20:41.898Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "es",
+    "gl": "py"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=toilet&hl=es&gl=py",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/toilet/gn/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRi4KybzxLQn4g54a8Zjieu0tBNVobZaeXK0w&s",
+      "fuentePagina": "https://horow.com/products/2-piece-toilet-with-elongated-bowl-and-single-flush-model-hwtt-e02s?srsltid=AfmBOopXVku6ACq16MZkE7Ct8KA9aqEI7LUrDeYvw7LK3wQZkdCuWqrN",
+      "titulo": "2 Piece Toilet with Elongated Bowl and Single Flush Model HWTT - E02S",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRi4KybzxLQn4g54a8Zjieu0tBNVobZaeXK0w&s",
+      "original": "https://horow.com/cdn/shop/files/E02S-1.webp?v=1732064435"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/toilet/gn/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhElKcf41LhV-lEP1cxpaImY4OZj5DBpjQBA&s",
+      "fuentePagina": "https://www.sinkwarehouse.com.au/products/madrid-rimless-whirlpool-hygienic-glaze-toilet.html?srsltid=AfmBOooJi5rZtEjweR78Lu360Um0HF1vaLN1w3bpgXV5tNFsnojCBSq9",
+      "titulo": "Buy Madrid - Rimless & Whirlpool Hygienic Glaze toilet",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhElKcf41LhV-lEP1cxpaImY4OZj5DBpjQBA&s",
+      "original": "https://cdn11.bigcommerce.com/s-e8hbhudqv3/images/stencil/1280x1280/products/3625/28012/madrid-rimless-and-whirlpool-hygienic-glaze-toilet__96558.1760674539.jpg?c=2"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/toilet/gn/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2B5kKpGW9UKCatkW13q1hBc77XqfJ730f7Q&s",
+      "fuentePagina": "https://www.gustavsberg.com/en/products/toilet",
+      "titulo": "Toilet - quality, function and design for your bathroom ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2B5kKpGW9UKCatkW13q1hBc77XqfJ730f7Q&s",
+      "original": "https://www.gustavsberg.com/fileadmin/_processed_/2/1/csm_Badrum1_vy2_Product_Images_1300x1620_6a3133bd62.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/toilet/gn/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPVtteHB2qmkWDPCjhYAACaX74iWBXMGPKHQ&s",
+      "fuentePagina": "https://www.consumerreports.org/home-garden/toilets/best-toilets-of-the-year-a5565220264/",
+      "titulo": "9 Best Toilets of 2026, Lab-Tested and Reviewed - Consumer ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPVtteHB2qmkWDPCjhYAACaX74iWBXMGPKHQ&s",
+      "original": "https://article.images.consumerreports.org/image/upload/t_article_tout/v1749666505/prod/content/dam/CRO-Images-2025/Home/CR-Home-Inlinehero-Best-Toilets-of-2025-0625"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/toilet/gn/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKRY_QT-B-LM5x59y-XdSqNv7C5vmCLfGvmA&s",
+      "fuentePagina": "https://www.victorianplumbing.co.uk/roxbury-rimless-toilet-pan-with-push-button-cistern-and-soft-close-seat",
+      "titulo": "Roxbury Rimless Toilet Pan with Push Button Cistern and Soft ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKRY_QT-B-LM5x59y-XdSqNv7C5vmCLfGvmA&s",
+      "original": "https://images.victorianplumbing.co.uk/products/roxbury-rimless-toilet-pan-with-push-button-cistern-and-soft-close-seat/mainimages/ncs750-1.jpg?origin=ncs750-1.png&w=675"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/toilet/gn/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcMVjD3iBERPrwgpZOasbsL8k9BeUQO_4RMQ&s",
+      "fuentePagina": "https://www.homedepot.com/p/Simple-Project-21-in-Toilet-2-Piece-1-28-GPF-Single-Flush-Elongated-and-Heightened-Toilet-in-White-High-Toilets-for-Seniors-HD-US-HT-140-03/327483700",
+      "titulo": "Simple Project 21 in. Toilet 2-Piece 1.28 GPF Single Flush ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcMVjD3iBERPrwgpZOasbsL8k9BeUQO_4RMQ&s",
+      "original": "https://images.thdstatic.com/productImages/0fcb961c-acfd-4230-8bba-63a20e21ec87/svn/white-simple-project-two-piece-toilets-hd-us-ht-140-03-64_600.jpg"
+    }
+  ]
+}

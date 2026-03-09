@@ -1,0 +1,71 @@
+{
+  "categoria": "broccoli",
+  "categoriaSlug": "broccoli",
+  "idioma": "en",
+  "nombreIdioma": "English",
+  "termino": "broccoli",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:13:05.294Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "en",
+    "gl": "us"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=broccoli&hl=en&gl=us",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/broccoli/en/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZ37T_XU37JvUYKuoFMrwHSNwMuV393UxU6w&s",
+      "fuentePagina": "https://en.wikipedia.org/wiki/Broccoli",
+      "titulo": "Broccoli - Wikipedia",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZ37T_XU37JvUYKuoFMrwHSNwMuV393UxU6w&s",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/0/03/Broccoli_and_cross_section_edit.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/broccoli/en/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnmsTqc4RhMDFWD3kmkwhJX-zzKAAx-mdnjw&s",
+      "fuentePagina": "https://www.healthyfood.com/advice/what-to-do-with-broccoli/",
+      "titulo": "What to do with broccoli - Healthy Food Guide",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnmsTqc4RhMDFWD3kmkwhJX-zzKAAx-mdnjw&s",
+      "original": "https://www.healthyfood.com/wp-content/uploads/2017/03/What_to_do_with_broccoli-1-500x375.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/broccoli/en/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCF-tHnjvbNbE-4F74XT4JrRaxY6-C_SGPGg&s",
+      "fuentePagina": "https://snaped.fns.usda.gov/resources/nutrition-education-materials/seasonal-produce-guide/broccoli",
+      "titulo": "Broccoli | SNAP-Ed",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCF-tHnjvbNbE-4F74XT4JrRaxY6-C_SGPGg&s",
+      "original": "https://snaped.fns.usda.gov/sites/default/files/seasonal-produce/2018-05/broccoli.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/broccoli/en/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuSGUiw5HnKvw9McvPBRjZhSo1gu22f_9hqg&s",
+      "fuentePagina": "https://www.veggipedia.nl/en/fruits-and-vegetables/broccoli",
+      "titulo": "Veggipedia - Broccoli",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuSGUiw5HnKvw9McvPBRjZhSo1gu22f_9hqg&s",
+      "original": "https://veggipedia-cms.production.taks.zooma.cloud/assets/Uploads/Products/Broccoli-groenten-veggipedia.png"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/broccoli/en/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkDQ3pa0DruYFktiMY6RkV32H_mdfj6xgeUA&s",
+      "fuentePagina": "https://greatist.com/health/superfood-broccoli",
+      "titulo": "Broccoli Benefits: Nutrition, Heart Health, and More",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkDQ3pa0DruYFktiMY6RkV32H_mdfj6xgeUA&s",
+      "original": "https://media.post.rvohealth.io/wp-content/uploads/sites/2/2021/07/383439-grt-Broccoli-Benefits-1296x728-header_body.jpg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/broccoli/en/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2_o1NIiT4-Wi9TR9a-H_AbezP41G0kGht6Q&s",
+      "fuentePagina": "https://www.britannica.com/plant/broccoli",
+      "titulo": "Broccoli | Description, Nutrition, & Facts | Britannica",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2_o1NIiT4-Wi9TR9a-H_AbezP41G0kGht6Q&s",
+      "original": "https://cdn.britannica.com/25/78225-050-1781F6B7/broccoli-florets.jpg"
+    }
+  ]
+}

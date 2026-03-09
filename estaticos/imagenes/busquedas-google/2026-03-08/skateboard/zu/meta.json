@@ -1,0 +1,71 @@
+{
+  "categoria": "skateboard",
+  "categoriaSlug": "skateboard",
+  "idioma": "zu",
+  "nombreIdioma": "isiZulu",
+  "termino": "isikhethibhodi",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:04:18.690Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "zu",
+    "gl": "za"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=isikhethibhodi&hl=zu&gl=za",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/skateboard/zu/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyJibSlLjEO91BqgCErLsjQ0zqUZl0mlaY0Q&s",
+      "fuentePagina": "https://www.facebook.com/africanbirdnames/photos/a.3887610067948527/5014411455268377/?id=1201045606605000",
+      "titulo": "Bird - Picidae: woodpecker #isiZulu: isigqobhamithi ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyJibSlLjEO91BqgCErLsjQ0zqUZl0mlaY0Q&s",
+      "original": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=1361629432674853"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/skateboard/zu/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSa5PdA6DhmoIY5e04GDjLgVby15h24Qay8CA&s",
+      "fuentePagina": "https://www.etv.co.za/press-releases/bheki-sibiya-joins-isitha-enemy",
+      "titulo": "Bheki Sibiya joins Isitha The Enemy | e.tv",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSa5PdA6DhmoIY5e04GDjLgVby15h24Qay8CA&s",
+      "original": "https://www.etv.co.za/sites/default/files/styles/hero/public/media/images/2023-08/Bheki%20Sibiya%20Image.png?h=c673cd1c&itok=c_bIfv7i"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/skateboard/zu/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3ykX6RmpLd2jjItSV6QBFUz4JQ-ClndawJA&s",
+      "fuentePagina": "https://www.youtube.com/watch?v=ramWakiA8M0",
+      "titulo": "iSkhathi",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3ykX6RmpLd2jjItSV6QBFUz4JQ-ClndawJA&s",
+      "original": "https://i.ytimg.com/vi/ramWakiA8M0/maxresdefault.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/skateboard/zu/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDX2PLOWfHi9LlCRiiqQfs-XszfO2789fu_w&s",
+      "fuentePagina": "https://www.ikwekwezifm.co.za/ikwekwezifm/shows/sithini-isindebele/",
+      "titulo": "Sithini IsiNdebele - Ikwekwezi FM",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDX2PLOWfHi9LlCRiiqQfs-XszfO2789fu_w&s",
+      "original": "https://www.ikwekwezifm.co.za/ikwekwezifm/wp-content/uploads/2025/05/Branco.jpg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/skateboard/zu/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTISZPw14kPD3br8WKTzfN5Lxeja91ffysozQ&s",
+      "fuentePagina": "https://www.instagram.com/p/DUSQ4CWjHMj/",
+      "titulo": "Sanibonani! Ni right angithi?",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTISZPw14kPD3br8WKTzfN5Lxeja91ffysozQ&s",
+      "original": "https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3838421478018313555"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/skateboard/zu/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_Wpaptlyo7DSmzHpKVaZ8Oc62e4PUi18OGw&s",
+      "fuentePagina": "https://www.instagram.com/p/C8_doKDM-xO/",
+      "titulo": "Happy Birthday Nkele @shibu_molomo. Masego le matlhogonolo ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_Wpaptlyo7DSmzHpKVaZ8Oc62e4PUi18OGw&s",
+      "original": "https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3404570146234428494"
+    }
+  ]
+}

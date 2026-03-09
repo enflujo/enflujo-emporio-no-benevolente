@@ -1,0 +1,71 @@
+{
+  "categoria": "teddy bear",
+  "categoriaSlug": "teddy-bear",
+  "idioma": "yo",
+  "nombreIdioma": "Yorùbá",
+  "termino": "ẹranko àṣà",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:31:01.413Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "yo",
+    "gl": "ng"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=%E1%BA%B9ranko%20%C3%A0%E1%B9%A3%C3%A0&hl=yo&gl=ng",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/teddy-bear/yo/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSw0F1JeLrMMe7JCstCsg9hwPMDsyU3A6PejQ&s",
+      "fuentePagina": "https://www.customstuffedtoy.com/yo/blogs/custom-pet-squeaky-plush-toys-unveiling-their-design-secrets-and-pet-appeal/",
+      "titulo": "Àwọn Ohun Ìṣeré Ẹranko Àṣà: Ṣíṣí Àṣírí Apẹẹrẹ Wọn àti Ẹranko ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSw0F1JeLrMMe7JCstCsg9hwPMDsyU3A6PejQ&s",
+      "original": "https://ecdn6.globalso.com/upload/p/604/image_other/2025-08/picture-1-19.png"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/teddy-bear/yo/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6Iq_XqoBImUGw23w-ulvxnDy9eClvKXcarg&s",
+      "fuentePagina": "https://www.customstuffedtoy.com/yo/custom-pet-bib-personalized-style-product/",
+      "titulo": "Àṣà Ẹranko Onírun: Àṣà Àdáni | Ohun ìṣeré Gaopeng",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6Iq_XqoBImUGw23w-ulvxnDy9eClvKXcarg&s",
+      "original": "https://ecdn6.globalso.com/upload/p/604/image_other/2026-01/untitled-1.png"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/teddy-bear/yo/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQo4VAKN6Tu-kExM6ziwyqcOICQfC4YYZ_-qg&s",
+      "fuentePagina": "https://www.designcrafts4u.com/yo/custom-animal-figure-flower-pot-product/",
+      "titulo": "Ikoko ododo ẹranko ti a ṣe ni onigbowo, Olupese ati Olupese ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQo4VAKN6Tu-kExM6ziwyqcOICQfC4YYZ_-qg&s",
+      "original": "https://www.designcrafts4u.com/uploads/03.png"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/teddy-bear/yo/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3A1uNR_CGxDHgxVNfRnF9wyZ9oP-PGX4Xwg&s",
+      "fuentePagina": "https://yo.gdokpackaging.com/custom-1kg-2kg-3kg-5kg-10kg-15kg-pet-food-packaging-bag-pet-food-pouch-product/",
+      "titulo": "Àṣà 1KG 2KG 3KG 5KG 10KG 15KG Àpò Ìkójọ Oúnjẹ Ẹranko Àpò ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3A1uNR_CGxDHgxVNfRnF9wyZ9oP-PGX4Xwg&s",
+      "original": "https://cdn.globalso.com/gdokpackaging/35-300x300.jpg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/teddy-bear/yo/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-wNSDHR6IRhUq_whmHNaU39AxnJIRG4uAVA&s",
+      "fuentePagina": "https://www.facebook.com/groups/2639125589480056/posts/8893730010686218/",
+      "titulo": "Turuku Ẹranko asangbila Agbera tayo àṣà Abaniworan ti a dé ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-wNSDHR6IRhUq_whmHNaU39AxnJIRG4uAVA&s",
+      "original": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=528341633281407"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/teddy-bear/yo/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcroumdlHwd68ObavocLI7wIpLirm3Ktrqmg&s",
+      "fuentePagina": "https://yo.gdokpackaging.com/custom-1kg-2kg-3kg-5kg-10kg-15kg-pet-food-packaging-bag-pet-food-pouch-product/",
+      "titulo": "Àṣà 1KG 2KG 3KG 5KG 10KG 15KG Àpò Ìkójọ Oúnjẹ Ẹranko Àpò ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcroumdlHwd68ObavocLI7wIpLirm3Ktrqmg&s",
+      "original": "https://cdn.globalso.com/gdokpackaging/48-300x300.jpg"
+    }
+  ]
+}

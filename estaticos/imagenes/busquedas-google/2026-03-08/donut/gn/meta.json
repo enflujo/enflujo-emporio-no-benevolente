@@ -1,0 +1,71 @@
+{
+  "categoria": "donut",
+  "categoriaSlug": "donut",
+  "idioma": "gn",
+  "nombreIdioma": "Guaraní",
+  "termino": "rosquilla",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:16:00.820Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "es",
+    "gl": "py"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=rosquilla&hl=es&gl=py",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/donut/gn/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMxEcfEHV34X0mAC-Fz2ZlAx6dDmLLtTnVcg&s",
+      "fuentePagina": "https://www.oetker.es/recetas/r/rosquillas",
+      "titulo": "Rosquillas",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMxEcfEHV34X0mAC-Fz2ZlAx6dDmLLtTnVcg&s",
+      "original": "https://recipesblob.oetker.es/assets/6bda9f6e6bd5465397769887a46a7155/360x400/rosquillas.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/donut/gn/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDkmldile6ttkgBxShGEdfPm5Qn01F9S8m6g&s",
+      "fuentePagina": "https://www.cocinafacil.com.mx/recetas/prepara-la-famosa-rosquilla-de-homero-de-los-simpson",
+      "titulo": "Así es como puedes preparar la famosa rosquilla de Homero de los Simpson",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDkmldile6ttkgBxShGEdfPm5Qn01F9S8m6g&s",
+      "original": "https://editorialtelevisa.brightspotcdn.com/2e/15/ddbe59064eee83ac3c5f21fa0822/rosquilla-homero.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/donut/gn/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnkPeMLTfkm_3cL7StrM8_PFwO-njj5NwynQ&s",
+      "fuentePagina": "https://www.marialunarillos.com/blog/como-hacer-rosquillas-fritas.html",
+      "titulo": "Cómo hacer rosquillas fritas",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnkPeMLTfkm_3cL7StrM8_PFwO-njj5NwynQ&s",
+      "original": "https://marialunarillos.com/blog/wp-content/uploads/2014/02/Rosquillas_1.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/donut/gn/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4qmKM0yHhpe_Bkk6U7Vps0QSjHEP0Iv-ENQ&s",
+      "fuentePagina": "https://www.abc.es/recetasderechupete/rosquillas-caseras-fritas-y-faciles-receta-de-mi-madre-rosa/5814/",
+      "titulo": "Rosquillas fritas",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4qmKM0yHhpe_Bkk6U7Vps0QSjHEP0Iv-ENQ&s",
+      "original": "https://cdn.recetasderechupete.com/wp-content/uploads/2017/10/Rosquillas-caseras-fritas.jpg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/donut/gn/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzrFgrdAAzOZ8144lM1NgXNiE4rpiWe9pHbQ&s",
+      "fuentePagina": "https://claudiaandjulia.com/blogs/general/rosquillas-de-vainilla-en-microondas-donutsr-express?srsltid=AfmBOoqUM9LJPe161ogJ5XHFSBq3G8eUDoC5_64Xax1w_ytI9uqlb0Yl",
+      "titulo": "Rosquillas de Vainilla en Microondas (Donuts®︎ express)",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzrFgrdAAzOZ8144lM1NgXNiE4rpiWe9pHbQ&s",
+      "original": "https://images.getrecipekit.com/20240330170138-rosquillas-al-microo.jpg?aspect_ratio=4:3&quality=90&"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/donut/gn/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmszpH9NVSnO7v33sdunASSo9y7Qj7p7YtnQ&s",
+      "fuentePagina": "https://bonviveur.com/es/recetas/rosquillas-fritas",
+      "titulo": "Rosquillas fritas",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmszpH9NVSnO7v33sdunASSo9y7Qj7p7YtnQ&s",
+      "original": "https://imag.bonviveur.com/rosquillas-fritas.jpg"
+    }
+  ]
+}

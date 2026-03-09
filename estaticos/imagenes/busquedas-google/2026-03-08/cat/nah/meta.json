@@ -1,0 +1,71 @@
+{
+  "categoria": "cat",
+  "categoriaSlug": "cat",
+  "idioma": "nah",
+  "nombreIdioma": "Náhuatl",
+  "termino": "mizton",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T20:50:43.272Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "es",
+    "gl": "mx"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=mizton&hl=es&gl=mx",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/cat/nah/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRM6oN75kaVhfesXkZtWcaJHVUtAGAP6xrvA&s",
+      "fuentePagina": "https://mizton.com.mx/",
+      "titulo": "MIZTON Construcciones",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRM6oN75kaVhfesXkZtWcaJHVUtAGAP6xrvA&s",
+      "original": "https://mizton.com.mx/wp-content/uploads/2019/07/logo-mizton-WEB-1.png"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/cat/nah/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8wa9fN187ANdbXgvcP5TI73DNdRIzJEp2fA&s",
+      "fuentePagina": "https://mizton.com.mx/nosotros/",
+      "titulo": "Nosotros | MIZTON Construcciones",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8wa9fN187ANdbXgvcP5TI73DNdRIzJEp2fA&s",
+      "original": "https://mizton.com.mx/wp-content/uploads/2019/07/UNADJUSTEDNONRAW_thumb_88f8-1-e1563215853259.png"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/cat/nah/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPcenqrTlOU7LxfUxZPOBmNoIIFdB06eb9pQ&s",
+      "fuentePagina": "https://www.construex.com.mx/exhibidores/mizton_construcciones_s_a/donde-estamos",
+      "titulo": "Mizton Construcciones S.A. - Construex México",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPcenqrTlOU7LxfUxZPOBmNoIIFdB06eb9pQ&s",
+      "original": "https://d2sapt5dytmohl.cloudfront.net/images/upload/106642/sml/6650d55a138d86.90544387.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/cat/nah/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrR8GKdFmKeQL4lHn-Ru-gtg4GbSokY7ChFA&s",
+      "fuentePagina": "https://energiaadebate.com/petroleo-instala-eni-plataforma-mizton-en-el-golfo-de-mexico/",
+      "titulo": "Energía A Debate",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrR8GKdFmKeQL4lHn-Ru-gtg4GbSokY7ChFA&s",
+      "original": "https://energiaadebate.com/wp-content/uploads/2021/09/icon-53.png"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/cat/nah/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTz3O5EXQXYwgW_uVA909dGAlJzeLDxU2-b8w&s",
+      "fuentePagina": "https://mizton.com.mx/",
+      "titulo": "MIZTON Construcciones",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTz3O5EXQXYwgW_uVA909dGAlJzeLDxU2-b8w&s",
+      "original": "https://mizton.com.mx/wp-content/uploads/2019/07/ventasss.png"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/cat/nah/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTs2kiHbjcid-RLUNh26qDTkpEadEho4solUg&s",
+      "fuentePagina": "https://mizton.com.mx/",
+      "titulo": "MIZTON Construcciones",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTs2kiHbjcid-RLUNh26qDTkpEadEho4solUg&s",
+      "original": "https://mizton.com.mx/wp-content/uploads/2019/07/miztonPICS.png"
+    }
+  ]
+}

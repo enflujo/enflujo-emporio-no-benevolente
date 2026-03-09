@@ -1,0 +1,71 @@
+{
+  "categoria": "broccoli",
+  "categoriaSlug": "broccoli",
+  "idioma": "yo",
+  "nombreIdioma": "Yorùbá",
+  "termino": "brokoli",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:13:16.625Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "yo",
+    "gl": "ng"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=brokoli&hl=yo&gl=ng",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/broccoli/yo/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNnkd1fGEtl8-X1NwGpVT9vjMVWZ0kSqhYhw&s",
+      "fuentePagina": "https://www.cagri.com/brokoli-kg?srsltid=AfmBOopbZKqGHspWELJ2F0gfDJVx_qNx9vpe-GBO2rzHbivzWvWF3kmt",
+      "titulo": "Brokoli kg | Çağrı Online Market",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNnkd1fGEtl8-X1NwGpVT9vjMVWZ0kSqhYhw&s",
+      "original": "https://images.cagri.com/product/12910/1735268357291-3199-2911048.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/broccoli/yo/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAy_YV-qjcKqyKAIJGf8jJhvfJZnF6--Y1zQ&s",
+      "fuentePagina": "https://www.birunihastanesi.com.tr/saglik-rehberi/brokolinin-faydalari-nelerdir",
+      "titulo": "Brokolinin Faydaları Nelerdir? - Biruni Hastanesi",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAy_YV-qjcKqyKAIJGf8jJhvfJZnF6--Y1zQ&s",
+      "original": "https://www.birunihastanesi.com.tr/storage/media/posts/793/Brokolinin-Faydalari-Nelerdir-large.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/broccoli/yo/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZ37T_XU37JvUYKuoFMrwHSNwMuV393UxU6w&s",
+      "fuentePagina": "https://en.wikipedia.org/wiki/Broccoli",
+      "titulo": "Broccoli - Wikipedia",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZ37T_XU37JvUYKuoFMrwHSNwMuV393UxU6w&s",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/0/03/Broccoli_and_cross_section_edit.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/broccoli/yo/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTr5Xto9EDJYJ8kQMUUwXSurXeijJKk_7PnEg&s",
+      "fuentePagina": "https://www.healthifyme.com/recipes/brokoli",
+      "titulo": "Brokoli",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTr5Xto9EDJYJ8kQMUUwXSurXeijJKk_7PnEg&s",
+      "original": "https://dww3ueizok6z0.cloudfront.net/food/banner/4031-b52842e16737cbf6a27914e419131863ac6b03f5"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/broccoli/yo/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0KAWHFJnNd5trTL1TST7g3QrOSG6RZo-QWA&s",
+      "fuentePagina": "https://pasarrakyatbali.com/products/brokoli-organik-organic-broccoli-500g",
+      "titulo": "Brokoli Organik - Organic Broccoli / 500g | Pasar Rakyat Bali",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0KAWHFJnNd5trTL1TST7g3QrOSG6RZo-QWA&s",
+      "original": "http://pasarrakyatbali.com/cdn/shop/products/say-016_6d6849ab-8389-47a8-bdac-d5c7f10719a3_1200x1200.png?v=1595727414"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/broccoli/yo/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUtLzRfRRLgvDgBSQlWc-xohVNynB8n3t7ow&s",
+      "fuentePagina": "https://www.etineniyisi.com/en/organik-brokoli",
+      "titulo": "Organik Brokoli| İyisi Organik",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUtLzRfRRLgvDgBSQlWc-xohVNynB8n3t7ow&s",
+      "original": "https://static.ticimax.cloud/43437/uploads/urunresimleri/organik-brokoli-6f6141.jpg"
+    }
+  ]
+}

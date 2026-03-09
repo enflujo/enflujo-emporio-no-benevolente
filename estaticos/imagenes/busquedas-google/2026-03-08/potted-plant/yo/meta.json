@@ -1,0 +1,71 @@
+{
+  "categoria": "potted plant",
+  "categoriaSlug": "potted-plant",
+  "idioma": "yo",
+  "nombreIdioma": "Yorùbá",
+  "termino": "ewé àgbàdo",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:18:24.471Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "yo",
+    "gl": "ng"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=ew%C3%A9%20%C3%A0gb%C3%A0do&hl=yo&gl=ng",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/potted-plant/yo/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmW1bhW9M-BR3nCx9F-qEPYmPRrRBoyI9yIQ&s",
+      "fuentePagina": "https://yo.wikipedia.org/wiki/%C3%80gb%C3%A0do",
+      "titulo": "Àgbàdo - Wikipedia, ìwé-ìmọ̀ ọ̀fẹ́",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmW1bhW9M-BR3nCx9F-qEPYmPRrRBoyI9yIQ&s",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/e/e3/Zea_mays_-_K%C3%B6hler%E2%80%93s_Medizinal-Pflanzen-283.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/potted-plant/yo/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLaaRDJ9ujIPM6Sgkhl7BRS4nd4FgaCfXzfw&s",
+      "fuentePagina": "https://www.yorubalibrary.com/forum/plants_and_herbs/2025/12/ewe_agbado.html",
+      "titulo": "Ewe Agbado (or Ewe Yangan) – List of Trado-Medicine Uses ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLaaRDJ9ujIPM6Sgkhl7BRS4nd4FgaCfXzfw&s",
+      "original": "https://www.yorubalibrary.com/assets/img/ewe_agbado.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/potted-plant/yo/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRANgHwuCaZpZXUCd3vO7Q_tENPtID6JtyHvQ&s",
+      "fuentePagina": "https://www.instagram.com/p/CddW0KQLyF1/",
+      "titulo": "Àgbàdo (Maize/Corn; botanical name: Zea mays) Maize is a ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRANgHwuCaZpZXUCd3vO7Q_tENPtID6JtyHvQ&s",
+      "original": "https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=2836523681758257525"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/potted-plant/yo/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSYJTwc27tMmuPFbEgsfb0Pq-3WJwzWot2Vw&s",
+      "fuentePagina": "https://www.facebook.com/100063675229000/posts/o-dabi-%E1%BA%B9ni-pe-%C3%A0w%E1%BB%8Dn-to-ra-%C3%A0gb%C3%A0do-lo-n-jere-lori-agbado-oookin-wa-ni-ere-%C3%A0gb%E1%BA%B9agbad/1338886278243867/",
+      "titulo": "O DABI ẸNI PE ÀWỌN TO RA ÀGBÀDO LO N JERE LORI AGBADO OOO ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSYJTwc27tMmuPFbEgsfb0Pq-3WJwzWot2Vw&s",
+      "original": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=1338886211577207"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/potted-plant/yo/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRX68sJAm6GCou2FOqvOlmPPWjsu31FZbJD4A&s",
+      "fuentePagina": "https://dubawa.org/%C7%B9je-agbado-ni-kokoro-to-n-fa-arun-jejere/",
+      "titulo": "Ǹjé àgbàdo ní kòkòrò tó ń fa àrun jẹjẹrẹ? - Dubawa",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRX68sJAm6GCou2FOqvOlmPPWjsu31FZbJD4A&s",
+      "original": "https://i0.wp.com/dubawa.org/wp-content/uploads/2024/11/agbado.png"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/potted-plant/yo/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTS_gs444LxN0h-3gWSGxIjzIptJvcu-9seCg&s",
+      "fuentePagina": "https://en.wiktionary.org/wiki/agbado",
+      "titulo": "agbado - Wiktionary, the free dictionary",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTS_gs444LxN0h-3gWSGxIjzIptJvcu-9seCg&s",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Corn_6268.jpg/1280px-Corn_6268.jpg"
+    }
+  ]
+}

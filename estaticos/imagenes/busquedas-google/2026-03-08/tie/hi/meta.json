@@ -1,0 +1,71 @@
+{
+  "categoria": "tie",
+  "categoriaSlug": "tie",
+  "idioma": "hi",
+  "nombreIdioma": "हिन्दी",
+  "termino": "टाई",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T20:58:29.433Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "hi",
+    "gl": "in"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=%E0%A4%9F%E0%A4%BE%E0%A4%88&hl=hi&gl=in",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/tie/hi/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTiLppdrpGIvBujOz0Kc7wlHrXWU0ISkkdurA&s",
+      "fuentePagina": "https://www.amazon.in/-/hi/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A5%80-%E0%A4%9F%E0%A4%BE%E0%A4%88%E0%A4%A1-%E0%A4%8F%E0%A4%A1%E0%A4%9C%E0%A4%B8%E0%A5%8D%E0%A4%9F%E0%A5%87%E0%A4%AC%E0%A4%B2-%E0%A4%B8%E0%A5%8D%E0%A4%9F%E0%A5%8D%E0%A4%B0%E0%A4%BE%E0%A4%87%E0%A4%AA-%E0%A4%97%E0%A5%8D%E0%A4%B0%E0%A5%87%E0%A4%9C%E0%A5%81%E0%A4%8F%E0%A4%B6%E0%A4%A8-%E0%A4%95%E0%A5%89%E0%A4%B8%E0%A5%8D%E0%A4%AA%E0%A5%8D%E0%A4%B2%E0%A5%87/dp/B09WV5Z8V7",
+      "titulo": "Coume लड़कों के लिए 8 पीस टाई ज़िपर ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTiLppdrpGIvBujOz0Kc7wlHrXWU0ISkkdurA&s",
+      "original": "https://m.media-amazon.com/images/I/81R4YTcZa4L._AC_UY1100_.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/tie/hi/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS61KtBjCFPaouiH5AthcKY5I4cpSmq2Y97Jg&s",
+      "fuentePagina": "https://www.amazon.in/-/hi/%E0%A4%AA%E0%A5%81%E0%A4%B0%E0%A5%81%E0%A4%B7%E0%A5%8B%E0%A4%82-%E0%A4%B9%E0%A5%88%E0%A4%82%E0%A4%A1%E0%A4%AE%E0%A5%87%E0%A4%A1-%E0%A4%B8%E0%A5%8D%E0%A4%95%E0%A4%BF%E0%A4%A8%E0%A5%80-%E0%A4%B8%E0%A5%8D%E0%A4%B2%E0%A4%BF%E0%A4%AE-%E0%A4%B8%E0%A4%82%E0%A4%AC%E0%A4%82%E0%A4%A7/dp/B07F3Z82RN",
+      "titulo": "पुरुषों के लिए हैंडमेड नेवी ब्लू ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS61KtBjCFPaouiH5AthcKY5I4cpSmq2Y97Jg&s",
+      "original": "https://m.media-amazon.com/images/I/91zzvWGxEDS._AC_UY1100_.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/tie/hi/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGqfa5cEBvTT1N4aksCQBFPULxzC2gdh3F6A&s",
+      "fuentePagina": "https://www.youtube.com/watch?v=I2M4KRPZsIE",
+      "titulo": "टाई बांधने का आसान तरीका / टाई कैसे बांधे | How to Tie a Tie on table | Tie  knot bandhna sikhen |",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGqfa5cEBvTT1N4aksCQBFPULxzC2gdh3F6A&s",
+      "original": "https://i.ytimg.com/vi/I2M4KRPZsIE/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLDR-qLOFe6eeKpg3G6t8fTs2stx7w"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/tie/hi/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTevNRzFeEKwk5Voe65ZP9EArhkz0QozAcD7w&s",
+      "fuentePagina": "https://www.youtube.com/watch?v=nSTfVXouwPY",
+      "titulo": "how to tie a tie | टाइ बांधने का तरीका",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTevNRzFeEKwk5Voe65ZP9EArhkz0QozAcD7w&s",
+      "original": "https://i.ytimg.com/vi/nSTfVXouwPY/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLBFM15e8SbFql0u23ipmReGw2sOcQ"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/tie/hi/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZc43DDJHnnUyvkjo3U1_ftEq8uSLqDWfDQg&s",
+      "fuentePagina": "https://www.abplive.com/gk/when-and-why-humans-started-wearing-ties-it-is-related-to-a-religious-war-2428674",
+      "titulo": "When and why humans started wearing ties it is related to a ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZc43DDJHnnUyvkjo3U1_ftEq8uSLqDWfDQg&s",
+      "original": "https://feeds.abplive.com/onecms/images/uploaded-images/2023/06/10/9eced3dc9b8878985e3df8d3a6527c9c1686409708127617_original.jpg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/tie/hi/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2XBJ9V0Bc5DbA0k2oHEH-DfUQJTsnHQPoRw&s",
+      "fuentePagina": "https://www.collinsdictionary.com/hi/dictionary/english/tie",
+      "titulo": "TIE परिभाषा और अर्थ | कोलिन्स ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2XBJ9V0Bc5DbA0k2oHEH-DfUQJTsnHQPoRw&s",
+      "original": "https://www.collinsdictionary.com/images/full/tie_171498722_1000.jpg"
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "categoria": "train",
+  "categoriaSlug": "train",
+  "idioma": "zu",
+  "nombreIdioma": "isiZulu",
+  "termino": "uloliwe",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T20:44:31.820Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "zu",
+    "gl": "za"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=uloliwe&hl=zu&gl=za",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/train/zu/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTT4h9YqGxvXNEvkCyDNy2lY0LjEzKY-8FyDw&s",
+      "fuentePagina": "https://xh.wikipedia.org/wiki/Uloliwe",
+      "titulo": "Uloliwe - Wikipedia",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTT4h9YqGxvXNEvkCyDNy2lY0LjEzKY-8FyDw&s",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/3/32/London_Bridge_station_MMB_08_465188.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/train/zu/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwRpeQXG-spSKRtNH4rULw-5tGsRQqDvZXKQ&s",
+      "fuentePagina": "https://xh.wikipedia.org/wiki/Uloliwe",
+      "titulo": "Uloliwe - Wikipedia",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwRpeQXG-spSKRtNH4rULw-5tGsRQqDvZXKQ&s",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/BNSF_5350_20040808_Prairie_du_Chien_WI.jpg/250px-BNSF_5350_20040808_Prairie_du_Chien_WI.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/train/zu/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPZX7MdLGYK-2OwzkikrY9Z16cJbdy7iH4Vw&s",
+      "fuentePagina": "https://xh.wikipedia.org/wiki/Uloliwe",
+      "titulo": "Uloliwe - Wikipedia",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPZX7MdLGYK-2OwzkikrY9Z16cJbdy7iH4Vw&s",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Tren_a_las_nubes_cruzando_Viaducto_la_Polvorilla.jpg/250px-Tren_a_las_nubes_cruzando_Viaducto_la_Polvorilla.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/train/zu/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRg7CnyBtFLPKm5sZMNDfFpcm5NsNjzmJ8Ccw&s",
+      "fuentePagina": "https://www.facebook.com/groups/289793242808086/posts/1349698026817597/",
+      "titulo": "Haven't seen Uloliwe in this livery for a while now. Last ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRg7CnyBtFLPKm5sZMNDfFpcm5NsNjzmJ8Ccw&s",
+      "original": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=24871918889133919"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/train/zu/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-Xb1RDSIFaKE9e9mQUsXB6vDqgIWbTOU5Nw&s",
+      "fuentePagina": "https://www.nongqai.org/uloliwe-sas-sar-railway-magazine-2/",
+      "titulo": "ULOLIWE SAS-SAR Railway Magazine For The Enthusiast",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-Xb1RDSIFaKE9e9mQUsXB6vDqgIWbTOU5Nw&s",
+      "original": "https://nongqai-bpfkfybrbtd7bacm.southafricanorth-01.azurewebsites.net/wp-content/uploads/2023/12/35-Uloliwe-Vol-4-no-2.png"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/train/zu/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNkoi-G5-R-a2ZSzU6mxH3kSrzwvLKE8DdZw&s",
+      "fuentePagina": "https://xh.wikipedia.org/wiki/Uloliwe",
+      "titulo": "Uloliwe - Wikipedia",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNkoi-G5-R-a2ZSzU6mxH3kSrzwvLKE8DdZw&s",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/FEMRR_Lima_2-8-0_No._607.jpg/250px-FEMRR_Lima_2-8-0_No._607.jpg"
+    }
+  ]
+}

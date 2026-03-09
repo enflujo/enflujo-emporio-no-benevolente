@@ -1,0 +1,71 @@
+{
+  "categoria": "cat",
+  "categoriaSlug": "cat",
+  "idioma": "ln",
+  "nombreIdioma": "Lingala",
+  "termino": "nyau",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T20:50:15.659Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "fr",
+    "gl": "cd"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=nyau&hl=fr&gl=cd",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/cat/ln/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1f3prM_4OW09fl4yiqLSkXeCExUM3BLuV3g&s",
+      "fuentePagina": "https://fr.wikipedia.org/wiki/Nyau",
+      "titulo": "Nyau — Wikipédia",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1f3prM_4OW09fl4yiqLSkXeCExUM3BLuV3g&s",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/7/7f/Chewa_mask_-_Malawi.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/cat/ln/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2kiMmpI2QA9OmyMikVU6yN83fYKl4J630hQ&s",
+      "fuentePagina": "https://www.facebook.com/Wearethetribe1/posts/nyau-is-a-secret-society-of-indigenous-chewa-people-of-malawi-mozambique-and-zam/1781883342156926/",
+      "titulo": "Nyau is a secret society of indigenous Chewa people of ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2kiMmpI2QA9OmyMikVU6yN83fYKl4J630hQ&s",
+      "original": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=2277532569054790"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/cat/ln/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbdHqhsRyvU0tRXo989XgE4m8CaxqKk0kiPA&s",
+      "fuentePagina": "https://www.vladsokhin.com/work/nyau/",
+      "titulo": "The secret brotherhood of Nyau - Vlad Sokhin",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbdHqhsRyvU0tRXo989XgE4m8CaxqKk0kiPA&s",
+      "original": "https://www.vladsokhin.com/wp-content/uploads/2014/09/nyau_01-500x333.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/cat/ln/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSj4RkIh8_PIA-wH8iVI-OxdOpnJTiI-EoEUQ&s",
+      "fuentePagina": "https://soundcloud.com/thenyauofficial/nyau-session-e2",
+      "titulo": "Stream Nyau Session E2 by The Nyau Official | Listen online ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSj4RkIh8_PIA-wH8iVI-OxdOpnJTiI-EoEUQ&s",
+      "original": "https://i1.sndcdn.com/artworks-000648865576-kldzy9-t500x500.jpg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/cat/ln/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRaxhPU_kGxCdSL2tV-lQDDm-v9Bg2_SMvbqg&s",
+      "fuentePagina": "https://www.youtube.com/watch?v=G3zNpaxYemk",
+      "titulo": "African Spiritual Dances Explained | Nyau Dance of the Gule Wamkulu Secret  Society",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRaxhPU_kGxCdSL2tV-lQDDm-v9Bg2_SMvbqg&s",
+      "original": "https://i.ytimg.com/vi/G3zNpaxYemk/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLBkDgOzNGFjfpAvSdXv3gEbEFJ85A"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/cat/ln/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShO_U9QewJO39tSvWFvIFfYeNWx6_p_Waspw&s",
+      "fuentePagina": "https://www.instagram.com/reel/CGasTqbFKQq/",
+      "titulo": "A traditional Nyau dancer performs in Lilongwe, Malawi. Nyau evoke spirits  through ceremonial dances, the most well-known being The Gule Wamkulu,  which is performed by Nyau across Malawi, Mozambique ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShO_U9QewJO39tSvWFvIFfYeNWx6_p_Waspw&s",
+      "original": "https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=2421442614933103658"
+    }
+  ]
+}

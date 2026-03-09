@@ -1,0 +1,71 @@
+{
+  "categoria": "sink",
+  "categoriaSlug": "sink",
+  "idioma": "ha",
+  "nombreIdioma": "Hausa",
+  "termino": "famfon wanka",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:26:58.117Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "ha",
+    "gl": "ng"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=famfon%20wanka&hl=ha&gl=ng",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/sink/ha/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5OrOlVOhBcvWYcixHUMh6xm1oBYxFLU651w&s",
+      "fuentePagina": "https://ha.momali.com/m31387-162-4-product/",
+      "titulo": "Famfon Wanka na Momali na China Tsarin zamani Mai Hannu Guda ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5OrOlVOhBcvWYcixHUMh6xm1oBYxFLU651w&s",
+      "original": "https://cdn.globalso.com/momali/3149.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/sink/ha/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTY6x0CNt1qUpnNzOUNgCdSRrCDujSezoImow&s",
+      "fuentePagina": "https://ha.momali.com/m31387-162-4-product/",
+      "titulo": "Famfon Wanka na Momali na China Tsarin zamani Mai Hannu Guda ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTY6x0CNt1qUpnNzOUNgCdSRrCDujSezoImow&s",
+      "original": "https://cdn.globalso.com/momali/655.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/sink/ha/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2Mr5Qae41P52jyPQ53I4NHl8zzvEIoKaRww&s",
+      "fuentePagina": "https://ha.momali.com/bathshower-faucet/",
+      "titulo": "Masu samar da famfon wanka da shawa da masana'anta - China ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2Mr5Qae41P52jyPQ53I4NHl8zzvEIoKaRww&s",
+      "original": "https://cdn.globalso.com/momali/1368.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/sink/ha/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQzSZZh6jVyo0HVG9FSzYC7yDedVOBzNkjkg&s",
+      "fuentePagina": "https://www.easohome.com/ha/840931-single-handle-modern-bathroom-faucet-new-style-metal-basin-faucet-product/",
+      "titulo": "Wholesale Beyond series Single rike na zamani famfo na wanka ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQzSZZh6jVyo0HVG9FSzYC7yDedVOBzNkjkg&s",
+      "original": "https://www.easohome.com/uploads/840931-1.png"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/sink/ha/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbA27jSza9Fx8EYjwq_KAE-AFCyn8CvfTL7w&s",
+      "fuentePagina": "https://ha.momali.com/m11296-6-product/",
+      "titulo": "Mai kera da mai samar da kayan wanka na zamani mai launin ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbA27jSza9Fx8EYjwq_KAE-AFCyn8CvfTL7w&s",
+      "original": "https://cdn.globalso.com/momali/1359.jpg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/sink/ha/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQc9EhKSfrAMVKhDI0IQ5daKBp1-Hn2Bb3E4A&s",
+      "fuentePagina": "https://ha.momali.com/m11569-234c-2-product/",
+      "titulo": "Mai kera da mai samar da famfon wanka na Momali 59-A mai ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQc9EhKSfrAMVKhDI0IQ5daKBp1-Hn2Bb3E4A&s",
+      "original": "https://cdn.globalso.com/momali/1157.jpg"
+    }
+  ]
+}

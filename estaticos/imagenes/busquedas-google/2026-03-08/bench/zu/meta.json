@@ -1,0 +1,71 @@
+{
+  "categoria": "bench",
+  "categoriaSlug": "bench",
+  "idioma": "zu",
+  "nombreIdioma": "isiZulu",
+  "termino": "ibhentshi",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T20:49:16.086Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "zu",
+    "gl": "za"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=ibhentshi&hl=zu&gl=za",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bench/zu/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNyk5c4fyQpj87yj8BKMaePSochx82PfUR9A&s",
+      "fuentePagina": "https://xh.cnhaoyida.com/factory-custom-stainless-steel-solid-wood-bench-outdoor-park-bench-product/",
+      "titulo": "Ibhentshi yeSinyithi esingenasici esenziwe ngokwezifiso ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNyk5c4fyQpj87yj8BKMaePSochx82PfUR9A&s",
+      "original": "https://cdn.globalso.com/cnhaoyida/%E8%89%B2%E7%9B%B8_%E9%A5%B1%E5%92%8C%E5%BA%A6-12-300x300.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bench/zu/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxXObVMQ21Kxci5kJOXdeMbnNvoCakum_I6g&s",
+      "fuentePagina": "https://xh.wikipedia.org/wiki/Ibhentshi",
+      "titulo": "Ibhentshi - Wikipedia",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxXObVMQ21Kxci5kJOXdeMbnNvoCakum_I6g&s",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/d/d9/LaGranja_park_bench.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bench/zu/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_tGwSKQJCxMveCdsjOo_PW4MGsNGhTBRchw&s",
+      "fuentePagina": "https://xh.cnhaoyida.com/factory-custom-outdoor-bench-garden-seating-outdoor-patio-park-benches-product/",
+      "titulo": "Ibhentshi yangaphandle eyenziwe ngokwezifiso efektri ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_tGwSKQJCxMveCdsjOo_PW4MGsNGhTBRchw&s",
+      "original": "https://www.cnhaoyida.com/uploads/%E6%9B%B2%E7%BA%BF-22.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bench/zu/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHiTrmCTPb41_SLt3T2cXblrv5NMLT3oC2CQ&s",
+      "fuentePagina": "https://manuals.plus/zu/weltevree/easily-movable-wheelbarrow-bench-manual",
+      "titulo": "I-Weltevree Imanuwali Yomsebenzisi Yebhentshi Amasondo ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHiTrmCTPb41_SLt3T2cXblrv5NMLT3oC2CQ&s",
+      "original": "https://manuals.plus/wp-content/uploads/2023/01/0000000-Copy-53.jpg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bench/zu/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMKoA0_K7steQlFs93Y6cAwGTJoHLqKsobig&s",
+      "fuentePagina": "https://xh.cnhaoyida.com/factory-custom-stainless-steel-solid-wood-bench-outdoor-park-bench-product/",
+      "titulo": "Ibhentshi yeSinyithi esingenasici esenziwe ngokwezifiso ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMKoA0_K7steQlFs93Y6cAwGTJoHLqKsobig&s",
+      "original": "https://cdn.globalso.com/cnhaoyida/%E6%9B%B2%E7%BA%BF-1-3.png"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bench/zu/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8xZMvJY-ll3T1YioHfrohExFP7zf3Kk7M1Q&s",
+      "fuentePagina": "https://xh.cnhaoyida.com/factory-custom-outdoor-bench-garden-seating-outdoor-patio-park-benches-product/",
+      "titulo": "Ibhentshi yangaphandle eyenziwe ngokwezifiso efektri ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8xZMvJY-ll3T1YioHfrohExFP7zf3Kk7M1Q&s",
+      "original": "https://cdn.globalso.com/cnhaoyida/%E6%9B%B2%E7%BA%BF-1-10-300x300.png"
+    }
+  ]
+}

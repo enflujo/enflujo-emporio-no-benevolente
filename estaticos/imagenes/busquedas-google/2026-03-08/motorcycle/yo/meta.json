@@ -1,0 +1,71 @@
+{
+  "categoria": "motorcycle",
+  "categoriaSlug": "motorcycle",
+  "idioma": "yo",
+  "nombreIdioma": "Yorùbá",
+  "termino": "àyọ̀kẹlẹ",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T20:42:29.254Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "yo",
+    "gl": "ng"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=%C3%A0y%E1%BB%8D%CC%80k%E1%BA%B9l%E1%BA%B9&hl=yo&gl=ng",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/motorcycle/yo/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfdtC3hxZJi41jY7HYkWGg96CfSRQ57TF3Mg&s",
+      "fuentePagina": "https://en.wikipedia.org/wiki/Ayo_Akinola",
+      "titulo": "Ayo Akinola - Wikipedia",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfdtC3hxZJi41jY7HYkWGg96CfSRQ57TF3Mg&s",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/3/39/Francia-usa-28.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/motorcycle/yo/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIx5J81EODmXKuDiGdPC7K5vNBWrK58G4afw&s",
+      "fuentePagina": "https://en.wikipedia.org/wiki/Ayo_Bankole",
+      "titulo": "Ayo Bankole - Wikipedia",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIx5J81EODmXKuDiGdPC7K5vNBWrK58G4afw&s",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/e/e8/AyoBankole2.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/motorcycle/yo/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdBO6lZdedyCWFRlztHUvGtj30wGQ94Q3CqQ&s",
+      "fuentePagina": "https://www.instagram.com/p/DJgE-muNiaR/",
+      "titulo": "That time Ayo was comin through and causin problems... Shout ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdBO6lZdedyCWFRlztHUvGtj30wGQ94Q3CqQ&s",
+      "original": "https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3629923177371926974"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/motorcycle/yo/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRnu8VOQEsuGHFEbfCA1z_lBWqpqlx5LTIaQ&s",
+      "fuentePagina": "https://www.instagram.com/p/DLp03zlo_67/",
+      "titulo": "Ayo Solanke is the 22-year-old Nigerian-British actor ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRnu8VOQEsuGHFEbfCA1z_lBWqpqlx5LTIaQ&s",
+      "original": "https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3668695891547769019"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/motorcycle/yo/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwoYwWxga7mS8ENtt3yDAn8FuqJNkP_fRxpg&s",
+      "fuentePagina": "https://www.instagram.com/p/Cx1I4JUrk_a/",
+      "titulo": "Alakowe to the world 🌎",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwoYwWxga7mS8ENtt3yDAn8FuqJNkP_fRxpg&s",
+      "original": "https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3840636175799483747"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/motorcycle/yo/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0lDQ4H4T6MZiDpNu7WDePxZBODTZmi1bXjA&s",
+      "fuentePagina": "https://www.instagram.com/p/DJgE-muNiaR/",
+      "titulo": "That time Ayo was comin through and causin problems... Shout ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0lDQ4H4T6MZiDpNu7WDePxZBODTZmi1bXjA&s",
+      "original": "https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3629923177254615468"
+    }
+  ]
+}

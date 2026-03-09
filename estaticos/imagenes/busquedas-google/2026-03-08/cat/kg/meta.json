@@ -1,0 +1,71 @@
+{
+  "categoria": "cat",
+  "categoriaSlug": "cat",
+  "idioma": "kg",
+  "nombreIdioma": "Kikongo",
+  "termino": "nkau",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T20:50:22.491Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "fr",
+    "gl": "cd"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=nkau&hl=fr&gl=cd",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/cat/kg/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAtDbOhaFEY7PQ3BQHC8D0uyZr0eD6mOk8DQ&s",
+      "fuentePagina": "https://afternoonexpress.co.za/guests/rose-nkau/4866",
+      "titulo": "Rose Nkau",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAtDbOhaFEY7PQ3BQHC8D0uyZr0eD6mOk8DQ&s",
+      "original": "https://afternoonexpress.co.za/website/admin/UserFiles/Image/Guests/Musicians/2019/Rose%20Nkau.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/cat/kg/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1qSnA8dLp1Y7rvkloxRexUmH7VPwZ4yJ6Ew&s",
+      "fuentePagina": "https://www.afrik.com/afrique-du-sud-rose-nkau-raconte-son-histoire-a-travers-la-chanson",
+      "titulo": "Afrique du Sud : Rose Nkau raconte son histoire à travers la ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1qSnA8dLp1Y7rvkloxRexUmH7VPwZ4yJ6Ew&s",
+      "original": "https://www.afrik.com/wp-content/uploads/2020/08/rose-696x392.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/cat/kg/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLa7g7VKt5Tzuz4a-AdFG-yOsbXYIfFN2eFw&s",
+      "fuentePagina": "https://lesothoflyingpastors.wordpress.com/category/nkau/",
+      "titulo": "Nkau | Lesotho Flying Pastors",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLa7g7VKt5Tzuz4a-AdFG-yOsbXYIfFN2eFw&s",
+      "original": "https://lesothoflyingpastors.wordpress.com/wp-content/uploads/2015/05/village-mom-and-kid-nkau.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/cat/kg/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRs7MPnrnOnFmjhHCwBi8zvROjwEpYaRb8Tg&s",
+      "fuentePagina": "https://www.thejournalistdj.com/2020/07/03/rose-nkau-is-set-to-drop-theend-with-prince-kaybee/",
+      "titulo": "Rose Nkau is set to drop #TheEnd with Prince Kaybee - the ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRs7MPnrnOnFmjhHCwBi8zvROjwEpYaRb8Tg&s",
+      "original": "https://www.thejournalistdj.com/wp-content/uploads/2020/07/Rose-Nkau-is-set-to-drop-TheEnd-with-Prince-Kaybee-6.jpg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/cat/kg/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQu1RsIr4NBFlMqPfyl8oSLXkPpfz9dQ5HdZw&s",
+      "fuentePagina": "https://www.youtube.com/watch?v=CI-QwrId2_A",
+      "titulo": "PERFORMANCE: Take It All – Rose Nkau | Afternoon Express | 12 December 2019",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQu1RsIr4NBFlMqPfyl8oSLXkPpfz9dQ5HdZw&s",
+      "original": "https://i.ytimg.com/vi/CI-QwrId2_A/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLCWsyFGCdeekeDfb-dlPFWzHGY8Eg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/cat/kg/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEYjW0ZvhTwLNVGmVXvZyyj9WHguEB5M13GA&s",
+      "fuentePagina": "https://www.facebook.com/RoseNkau/",
+      "titulo": "Rose Nkau (@RoseNkau) • Facebook",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEYjW0ZvhTwLNVGmVXvZyyj9WHguEB5M13GA&s",
+      "original": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=100063726991110"
+    }
+  ]
+}

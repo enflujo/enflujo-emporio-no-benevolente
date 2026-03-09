@@ -1,0 +1,71 @@
+{
+  "categoria": "tie",
+  "categoriaSlug": "tie",
+  "idioma": "ha",
+  "nombreIdioma": "Hausa",
+  "termino": "tai",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T20:58:20.044Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "ha",
+    "gl": "ng"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=tai&hl=ha&gl=ng",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/tie/ha/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQos3y6F91qE5Dke0di2zF45hV6Z1j9d2bliw&s",
+      "fuentePagina": "https://www.amazon.in/Generic-tai-Blue/dp/B0CHFVLWDV",
+      "titulo": "tai Blue : Amazon.in: Pet Supplies",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQos3y6F91qE5Dke0di2zF45hV6Z1j9d2bliw&s",
+      "original": "https://m.media-amazon.com/images/I/3106gyQxI4L._AC_UY1100_.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/tie/ha/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0e-FjSpSHxvSQGLAMWQG_z2m5SwGklNoKFg&s",
+      "fuentePagina": "https://www.facebook.com/100071135342800/posts/211340874580423/",
+      "titulo": "Kumpulan Tai Tai updated their profile picture.",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0e-FjSpSHxvSQGLAMWQG_z2m5SwGklNoKFg&s",
+      "original": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=100071135342800"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/tie/ha/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAfuJGczQ8UHs515LeycHzltSEKcBHTNNJpg&s",
+      "fuentePagina": "https://en.wikipedia.org/wiki/Tai_languages",
+      "titulo": "Tai languages - Wikipedia",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAfuJGczQ8UHs515LeycHzltSEKcBHTNNJpg&s",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/5/55/Taikadai-en1.png"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/tie/ha/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRYIVSavuaNwDDjAQHsAS2A6U6SYZRy-6MfA&s",
+      "fuentePagina": "https://health.clevelandclinic.org/the-health-benefits-of-tai-chi",
+      "titulo": "What Is Tai Chi? 6 Health Benefits",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRYIVSavuaNwDDjAQHsAS2A6U6SYZRy-6MfA&s",
+      "original": "https://assets.clevelandclinic.org/transform/a9d6798e-54e7-4843-a318-f20438d83c50/tai-chi-class-elders-187701599"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/tie/ha/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNg__u0OygD7F42Z5UM7vxzk9DbGwCO46qSg&s",
+      "fuentePagina": "https://www.tai.inc/",
+      "titulo": "Home - TAI Engineering",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNg__u0OygD7F42Z5UM7vxzk9DbGwCO46qSg&s",
+      "original": "https://www.tai.inc/wp-content/uploads/2023/12/TAI-New-Logo-with-Service-Groups-v5-FINAL.svg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/tie/ha/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHwQT8YOF3RZ7GSCW4tg0jbh4bI0W2oCP7YA&s",
+      "fuentePagina": "https://www.sushi-pedia.com/en/sushi/tai",
+      "titulo": "Japanese chef makes a Sea-bream sushi",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHwQT8YOF3RZ7GSCW4tg0jbh4bI0W2oCP7YA&s",
+      "original": "https://www.sushi-pedia.com/_astro/tai-sea-bream-sushi-nigiri-opener_Zzx2as.jpeg"
+    }
+  ]
+}

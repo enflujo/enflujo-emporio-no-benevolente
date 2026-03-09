@@ -1,0 +1,71 @@
+{
+  "categoria": "orange",
+  "categoriaSlug": "orange",
+  "idioma": "am",
+  "nombreIdioma": "Amharic — አማርኛ",
+  "termino": "ብርቱካን",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:12:46.155Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "am",
+    "gl": "et"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=%E1%89%A5%E1%88%AD%E1%89%B1%E1%8A%AB%E1%8A%95&hl=am&gl=et",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/orange/am/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSiIwc3cD1KTjTM5PcQ5W-9GTflulHMZ7vH2A&s",
+      "fuentePagina": "https://am.wikipedia.org/wiki/%E1%89%A5%E1%88%AD%E1%89%B1%E1%8A%AB%E1%8A%95_(%E1%8D%8D%E1%88%AC)",
+      "titulo": "ውክፔዲያ - ብርቱካን (ፍሬ)",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSiIwc3cD1KTjTM5PcQ5W-9GTflulHMZ7vH2A&s",
+      "original": "https://upload.wikimedia.org/wikipedia/am/d/d0/250px-Oranges_in_basket.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/orange/am/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWa5w63HWLXHfjV0AYUZIr9E655I6Xc4a3zA&s",
+      "fuentePagina": "https://am.wikipedia.org/wiki/%E1%89%A5%E1%88%AD%E1%89%B1%E1%8A%AB%E1%8A%95_(%E1%8D%8D%E1%88%AC)",
+      "titulo": "ውክፔዲያ - ብርቱካን (ፍሬ)",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWa5w63HWLXHfjV0AYUZIr9E655I6Xc4a3zA&s",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Oranges_-_whole-halved-segment.jpg/250px-Oranges_-_whole-halved-segment.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/orange/am/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-_c-RSQncItDeJRUYj8fAIUNHYhsMFZh9ZA&s",
+      "fuentePagina": "https://addismaleda.com/archives/1048",
+      "titulo": "ብርቱካን ገበያ ላይ እስከ 75 ብር እየተሸጠ ነው ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-_c-RSQncItDeJRUYj8fAIUNHYhsMFZh9ZA&s",
+      "original": "https://addismaleda.com/wp-content/uploads/2022/05/15-birtukan.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/orange/am/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0BZDN9nrAm6Htl4De3RMKudBNaU0zyH67HA&s",
+      "fuentePagina": "https://en.wiktionary.org/wiki/%E1%89%A5%E1%88%AD%E1%89%B1%E1%8A%AB%E1%8A%95",
+      "titulo": "ብርቱካን - Wiktionary, the free dictionary",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0BZDN9nrAm6Htl4De3RMKudBNaU0zyH67HA&s",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Ambersweet_oranges.jpg/250px-Ambersweet_oranges.jpg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/orange/am/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1IKNB4m0k8NjWVJeSlgna-j1tMh1fI_cMvQ&s",
+      "fuentePagina": "https://naturmedscientific.com/am/%E1%88%9D%E1%88%AD%E1%89%B5/%E1%88%98%E1%88%AB%E1%88%AB-%E1%89%A5%E1%88%AD%E1%89%B1%E1%8A%AB%E1%8A%95-%E1%8B%A8%E1%88%9B%E1%8B%8D%E1%8C%A3%E1%89%B5-citrus-aurantium/",
+      "titulo": "መራራ ብርቱካናማ ማውጫ (Citrus aurantium) - NaturMed ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1IKNB4m0k8NjWVJeSlgna-j1tMh1fI_cMvQ&s",
+      "original": "https://naturmedscientific.com/wp-content/uploads/2025/07/Bitter-Orange.webp"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/orange/am/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRs4m-Fl-ypZ_pt8thnuTuVbsQiMe07kvybjw&s",
+      "fuentePagina": "https://www.facebook.com/getu26/posts/%E1%8B%AD%E1%88%84%E1%8A%95-%E1%8C%89%E1%8B%B5-%E1%8A%AB%E1%8B%88%E1%89%83%E1%89%BD%E1%88%81-%E1%89%A0%E1%8A%83%E1%88%8B-%E1%89%A5%E1%88%AD%E1%89%B1%E1%8A%AB%E1%8A%95-%E1%88%8D%E1%8C%A3%E1%8C%AD-%E1%8A%A0%E1%89%B5%E1%8C%A5%E1%88%89%E1%88%9D%E1%8B%A8%E1%89%A5%E1%88%AD%E1%89%B1%E1%8A%AB%E1%8A%95-%E1%88%8D%E1%8C%A3%E1%8C%AD-%E1%89%A0%E1%88%B0%E1%8B%8D%E1%8A%90%E1%89%B5-%E1%8B%8D%E1%88%B5%E1%8C%A5-%E1%8B%AB%E1%88%88%E1%8A%95-%E1%8B%A8%E1%88%9B%E1%8B%AD%E1%8D%88%E1%88%88%E1%8C%8D-%E1%8A%AE%E1%88%8C%E1%88%B5%E1%89%B5%E1%88%AE%E1%88%8D-%E1%8B%AB%E1%88%B5%E1%8B%88%E1%8C%8D%E1%8B%B3%E1%88%8D-%E1%89%A0%E1%88%8D/1238047468367252/",
+      "titulo": "ይሄን ጉድ ካወቃችሁ በኃላ ብርቱካን ልጣጭ አትጥሉም ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRs4m-Fl-ypZ_pt8thnuTuVbsQiMe07kvybjw&s",
+      "original": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=1238047298367269"
+    }
+  ]
+}

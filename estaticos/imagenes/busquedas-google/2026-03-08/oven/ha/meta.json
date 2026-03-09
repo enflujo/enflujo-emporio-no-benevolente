@@ -1,0 +1,71 @@
+{
+  "categoria": "oven",
+  "categoriaSlug": "oven",
+  "idioma": "ha",
+  "nombreIdioma": "Hausa",
+  "termino": "murƙusar burodi",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:25:39.548Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "ha",
+    "gl": "ng"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=mur%C6%99usar%20burodi&hl=ha&gl=ng",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/oven/ha/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuKj9p2RaQT2L7tRfGcWrObrSOBEN-wFRt-g&s",
+      "fuentePagina": "https://aminiya.ng/yadda-mai-burodi-ke-sauya-rayuwar-dubban-mutane/",
+      "titulo": "Yadda mai burodi ke sauya rayuwar dubban mutane - Aminiya",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuKj9p2RaQT2L7tRfGcWrObrSOBEN-wFRt-g&s",
+      "original": "https://i0.wp.com/aminiya.ng/wp-content/uploads/2020/08/Burodi.jpg?fit=792%2C472&ssl=1"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/oven/ha/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQr4Ppcfxx5VQMJioaCvB1kPyMM7soFRnfWkQ&s",
+      "fuentePagina": "https://aminiya.ng/yadda-tsadar-burodi-ke-jefa-mutane-cikin-damuwa/",
+      "titulo": "Yadda tsadar burodi ke jefa mutane cikin damuwa - Aminiya",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQr4Ppcfxx5VQMJioaCvB1kPyMM7soFRnfWkQ&s",
+      "original": "https://i0.wp.com/aminiya.ng/wp-content/uploads/2020/08/images-1-1.jpeg?fit=678%2C452&ssl=1&resize=350%2C200"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/oven/ha/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVNFNz9_GyT76hdnanbyRaUKtITHxEI9wxdg&s",
+      "fuentePagina": "https://www.instagram.com/p/DP1eERNirpN/",
+      "titulo": "Senator Ben Murray-Bruce has declared his support for ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVNFNz9_GyT76hdnanbyRaUKtITHxEI9wxdg&s",
+      "original": "https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3744030899982481997"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/oven/ha/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQx2hQ4abnD6MjFGG31wElFICqDXFZkW08Yaw&s",
+      "fuentePagina": "https://defence.gov.ng/2025/12/01/defence-minister-badaru-attends-north-west-security-summit-in-kaduna/",
+      "titulo": "DEFENCE MINISTER BADARU ATTENDS NORTH-WEST SECURITY SUMMIT ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQx2hQ4abnD6MjFGG31wElFICqDXFZkW08Yaw&s",
+      "original": "https://defence.gov.ng/wp-content/uploads/2025/12/WhatsApp-Image-2025-11-29-at-21.32.03.jpeg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/oven/ha/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0HBSkBqFWPSeWub9t7WbdEY-9H8sjOEvYNg&s",
+      "fuentePagina": "https://www.instagram.com/p/DMLE9f6oTcI/",
+      "titulo": "Murigayi Baba Buhari tare da 'yansa Mata da Mazajen su na ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0HBSkBqFWPSeWub9t7WbdEY-9H8sjOEvYNg&s",
+      "original": "https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3678055324769630785"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/oven/ha/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsXUWN1YkDaPjm0cCXXZvnm2WB5pMNgRdf-g&s",
+      "fuentePagina": "https://www.youtube.com/watch?v=R2OXjrKpbpg",
+      "titulo": "Hamisu breaker - So Dadi (official video) 2024",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsXUWN1YkDaPjm0cCXXZvnm2WB5pMNgRdf-g&s",
+      "original": "https://i.ytimg.com/vi/R2OXjrKpbpg/maxresdefault.jpg"
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "categoria": "bowl",
+  "categoriaSlug": "bowl",
+  "idioma": "zu",
+  "nombreIdioma": "isiZulu",
+  "termino": "isitsha",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:10:10.016Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "zu",
+    "gl": "za"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=isitsha&hl=zu&gl=za",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bowl/zu/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFiP2uFTTxZ3mgJ77KSDTw99-4hjwUReELxA&s",
+      "fuentePagina": "https://x.com/LupaneS/status/1050401931909304331",
+      "titulo": "isitsha #ndebeleuniqueness #ndebelebaskets ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFiP2uFTTxZ3mgJ77KSDTw99-4hjwUReELxA&s",
+      "original": "https://pbs.twimg.com/media/DpPGzhcXcAErHjj.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bowl/zu/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmIeG-bnKqnNin-BwC0E-pmSfCvYoJfxhMyg&s",
+      "fuentePagina": "https://www.esterer.co.za/product/isitsha-acrylic-perspex-print/",
+      "titulo": "ISITSHA / Acrylic/Perspex Print",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmIeG-bnKqnNin-BwC0E-pmSfCvYoJfxhMyg&s",
+      "original": "https://www.esterer.co.za/wp-content/uploads/2023/02/EmptyName-9.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bowl/zu/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIma74l2JVKg__Qb_-bRl7_o3S4F1UvY6ctg&s",
+      "fuentePagina": "https://zulu.old-carpenter.com/Bowl/natural-jujubewood-salad-bowl-kids-snack-fruit-large-jujube-wood-serving-bowl-with-lid",
+      "titulo": "I-Jujubewood Isitsha Sesaladi Semvelo Izingane Eziyisiphuzo ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIma74l2JVKg__Qb_-bRl7_o3S4F1UvY6ctg&s",
+      "original": "https://www.old-carpenter.com/upload/product/1665474135345075.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bowl/zu/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQB7iGBB0HNYGcg9XA8R1mgSWgBgOqO7S3AQ&s",
+      "fuentePagina": "https://www.thelife.digital/tl/articles/isitsha/",
+      "titulo": "ISITSHA ENVIRONMENTAL AFRICA",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQB7iGBB0HNYGcg9XA8R1mgSWgBgOqO7S3AQ&s",
+      "original": "https://www.thelife.digital/tl/wp-content/uploads/2024/08/Isitsha.jpg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bowl/zu/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSF7qNCT6dtpoVyoqYPnXmrehO4qA-gJbx7dw&s",
+      "fuentePagina": "https://isitsha.co.za/2025/05/29/isitsha-environmental-africa-award-winning-fssc-22000-certified/?srsltid=AfmBOooKj2dMxJOp0bawqnWoY92901Em_PaxyKKkM3SPPQrYA0megnw1",
+      "titulo": "Isitsha Environmental Africa — Award-Winning & FSSC 22000 ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSF7qNCT6dtpoVyoqYPnXmrehO4qA-gJbx7dw&s",
+      "original": "https://isitsha.co.za/wp-content/uploads/2025/05/Isitsha-1.jpeg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bowl/zu/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwkkP2QOx10YuuDAcdo1yQIhVWhrx2KTE0iA&s",
+      "fuentePagina": "https://bookdash.org/books/isitsha-samakhekhe-masiwe/",
+      "titulo": "Isitsha samakhekhe masiwe - Book Dash",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwkkP2QOx10YuuDAcdo1yQIhVWhrx2KTE0iA&s",
+      "original": "https://bookdash.org/wp-content/uploads/2021/02/the-biscuit-jar-must-fall_zu_20180122_cover.jpg"
+    }
+  ]
+}

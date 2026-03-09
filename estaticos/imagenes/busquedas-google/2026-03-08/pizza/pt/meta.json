@@ -1,0 +1,71 @@
+{
+  "categoria": "pizza",
+  "categoriaSlug": "pizza",
+  "idioma": "pt",
+  "nombreIdioma": "Português",
+  "termino": "pizza",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:15:30.312Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "pt",
+    "gl": "br"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=pizza&hl=pt&gl=br",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/pizza/pt/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDJKJPlaalwOKPpT-IChF_JIU4S8ZMGOiyGQ&s",
+      "fuentePagina": "https://explore.typhur.com/pt/homemade-pizza",
+      "titulo": "Pizza caseira na Air Fryer",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDJKJPlaalwOKPpT-IChF_JIU4S8ZMGOiyGQ&s",
+      "original": "https://wp-cdn.typhur.com/wp-content/uploads/2025/01/homemade-pizza-in-air-fryer.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/pizza/pt/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScKVKx7ubpteJA3tU5pxAvQuuH-ADy32PL6Q&s",
+      "fuentePagina": "https://www.oetker.com.br/receitas/r/pizza-caseira",
+      "titulo": "Pizza Caseira",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScKVKx7ubpteJA3tU5pxAvQuuH-ADy32PL6Q&s",
+      "original": "https://recipesblob.oetker.com.br/assets/fa238f6f683d4e8aa6260db042e82f73/1272x764/pizza-caseira-lucas-alencar.webp"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/pizza/pt/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIibPbOeDQQscm9g-fDNdCvROokQJukg8nYQ&s",
+      "fuentePagina": "https://pt.wikipedia.org/wiki/Pizza",
+      "titulo": "Pizza – Wikipédia, a enciclopédia livre",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIibPbOeDQQscm9g-fDNdCvROokQJukg8nYQ&s",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/9/91/Pizza-3007395.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/pizza/pt/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkSMiKaN6KCRR0PVCV-zjtIYToLPuFEN1_Gw&s",
+      "fuentePagina": "https://www.receitasnestle.com.br/receitas/receita-de-pizza-estilo-margherita",
+      "titulo": "Receita de Pizza Estilo Margherita",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkSMiKaN6KCRR0PVCV-zjtIYToLPuFEN1_Gw&s",
+      "original": "https://images.aws.nestle.recipes/original/1821a30a8a8acec9f74a1372be582610_sem_t%C3%ADtulo_(18).jpg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/pizza/pt/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTmdDgwZMXkXzHiU_mN0ayDSWMnNlJQj994A&s",
+      "fuentePagina": "https://br.freepik.com/fotos-vetores-gratis/pizza-png",
+      "titulo": "Pizza png Imagens – Download Grátis no Freepik",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTmdDgwZMXkXzHiU_mN0ayDSWMnNlJQj994A&s",
+      "original": "https://img.freepik.com/psd-gratuitas/deliciosa-pizza-de-pepperoni-uma-delicia-culinaria_632498-24206.jpg?semt=ais_hybrid&w=740&q=80"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/pizza/pt/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRaGf8j5b6f3oCZAuRJatxPnDKigqBqLEAXow&s",
+      "fuentePagina": "https://www.receiteria.com.br/receita/pizza-de-liquidificador/",
+      "titulo": "Pizza de liquidificador fácil",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRaGf8j5b6f3oCZAuRJatxPnDKigqBqLEAXow&s",
+      "original": "https://www.receiteria.com.br/wp-content/uploads/pizza-de-liquidificador-capa.jpeg"
+    }
+  ]
+}

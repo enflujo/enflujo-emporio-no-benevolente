@@ -1,0 +1,71 @@
+{
+  "categoria": "mouse",
+  "categoriaSlug": "mouse",
+  "idioma": "am",
+  "nombreIdioma": "Amharic — አማርኛ",
+  "termino": "አይጥ",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:22:27.531Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "am",
+    "gl": "et"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=%E1%8A%A0%E1%8B%AD%E1%8C%A5&hl=am&gl=et",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/mouse/am/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6fY0PBy59rIFMwaVsmZ2-G3vmjLXM34UQzw&s",
+      "fuentePagina": "https://am.wikipedia.org/wiki/%E1%8A%A0%E1%8B%AD%E1%8C%A5",
+      "titulo": "ውክፔዲያ - አይጥ",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6fY0PBy59rIFMwaVsmZ2-G3vmjLXM34UQzw&s",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Rattus_norvegicus_1.jpg/250px-Rattus_norvegicus_1.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/mouse/am/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0aurWc4_2j-A94tfz_bcxsdu1Wbg6rRn12A&s",
+      "fuentePagina": "https://am.wikipedia.org/wiki/%E1%89%B5%E1%8A%95%E1%88%BD_%E1%8A%A0%E1%8B%AD%E1%8C%A5",
+      "titulo": "ውክፔዲያ - ትንሽ አይጥ",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0aurWc4_2j-A94tfz_bcxsdu1Wbg6rRn12A&s",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/0/0d/%D0%9C%D1%8B%D1%88%D1%8C_2.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/mouse/am/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTaDu3DzN8AUC1PzqmTLV6LRbXle67C9y2rVw&s",
+      "fuentePagina": "https://amharicteacher.com/dictionary/english/%E1%8A%A0%E1%8B%AD%E1%8C%A5",
+      "titulo": "አይጥ (ayT) meaning in English - Amharic Dictionary",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTaDu3DzN8AUC1PzqmTLV6LRbXle67C9y2rVw&s",
+      "original": "https://d9seco0wfq8yu.cloudfront.net/dict/ayt.png"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/mouse/am/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHMoZN1EfV1lduuAfCSqaPiPIFVcAeUmFiWQ&s",
+      "fuentePagina": "https://amharic.voanews.com/a/tb-sniffing-rat-12-20-2016/3644269.html",
+      "titulo": "አይጥ ለሰው ጤና አገልጋይ ሆኖ ተገኘ",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHMoZN1EfV1lduuAfCSqaPiPIFVcAeUmFiWQ&s",
+      "original": "https://gdb.voanews.com/adf033ad-bd0a-4c5a-b708-b2ae07ccf41e_w1080_h608.png"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/mouse/am/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0n7xk1LxEG2LEtQdvMRpGa1qAENju14oiUQ&s",
+      "fuentePagina": "https://www.facebook.com/photo.php?fbid=123394965975527&set=a.121472962834394&id=100064063834417",
+      "titulo": "ከ - #አይጥ - አይጥ ያለ ምግብ 14 ቀን መቆየት ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0n7xk1LxEG2LEtQdvMRpGa1qAENju14oiUQ&s",
+      "original": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=123394965975527"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/mouse/am/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8Fw8VFwCnzN0wpCbGcR8vJVSfiHvo-eLsNQ&s",
+      "fuentePagina": "https://publichealthinsider.com/am/category/rodents/",
+      "titulo": "የአይጥ መዛግብት - የህዝብ ጤና ኢንሳይደር",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8Fw8VFwCnzN0wpCbGcR8vJVSfiHvo-eLsNQ&s",
+      "original": "https://i0.wp.com/publichealthinsider.com/wp-content/uploads/2023/08/deer-mouse-indoors.webp?fit=418%2C272&ssl=1"
+    }
+  ]
+}

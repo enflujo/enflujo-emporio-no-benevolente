@@ -1,0 +1,71 @@
+{
+  "categoria": "bottle",
+  "categoriaSlug": "bottle",
+  "idioma": "am",
+  "nombreIdioma": "Amharic — አማርኛ",
+  "termino": "ጠርሙስ",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:06:15.270Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "am",
+    "gl": "et"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=%E1%8C%A0%E1%88%AD%E1%88%99%E1%88%B5&hl=am&gl=et",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bottle/am/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS24yAGZVhd-jNo8CDNJ9-5g_R71wvpCq2GzA&s",
+      "fuentePagina": "http://am.cnglassbottle.com/nice-price-amber-beer-glass-bottle-product/",
+      "titulo": "የቻይና ጥሩ ዋጋ አምድ ቢራ ጠርሙስ ጠርሙስ አምራች ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS24yAGZVhd-jNo8CDNJ9-5g_R71wvpCq2GzA&s",
+      "original": "https://cdn.globalso.com/cnglassbottle/Beer-bottle-041.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bottle/am/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmMl_fMpDIASXG5OqsfdQsz2jaeFYhgl9DlQ&s",
+      "fuentePagina": "http://am.cnglassbottle.com/spirit-liquor-glass-bottle-liquor-glass-bottle-product/",
+      "titulo": "የቻይና መንፈሳዊ መጠጥ መስታወት ጠርሙስ ጠርሙስ ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmMl_fMpDIASXG5OqsfdQsz2jaeFYhgl9DlQ&s",
+      "original": "https://www.cnglassbottle.com/uploads/AY5A3016.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bottle/am/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvbX9rtNYtPYOQy6w5DCRqC3HqKk01M3DDvg&s",
+      "fuentePagina": "http://am.cnglassbottle.com/customized-various-high-beer-bottle-different-color-beer-glass-bottle-product/",
+      "titulo": "ቻይና የተለያዩ ከፍተኛ የቢራ ጠርሙስ የተለያዩ ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvbX9rtNYtPYOQy6w5DCRqC3HqKk01M3DDvg&s",
+      "original": "https://cdn.globalso.com/cnglassbottle/HTB1EiUSPXXXXXajXpXXq6xXFXXXO.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bottle/am/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRaLeehhHqPqUEC4rkQQfvrgQHww0W82RBqbg&s",
+      "fuentePagina": "http://am.cnglassbottle.com/beverage-bottle-product/",
+      "titulo": "የቻይና መጠጥ ጠርሙስ አምራች እና ፋብሪካ | ዝለል",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRaLeehhHqPqUEC4rkQQfvrgQHww0W82RBqbg&s",
+      "original": "https://cdn.globalso.com/cnglassbottle/juice-glass-bottle-6.jpg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bottle/am/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzRdgiBDjUwjmZb-vZjDhRMy-i4j4oqMJqXA&s",
+      "fuentePagina": "http://am.cnglassbottle.com/burgundy-red-wine-glass-bottles-grape-wine-bottle-product/",
+      "titulo": "ቻይና ኦም ኦርኪፕ የወይን ጠጅ መስታወት የሻምፓግ ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzRdgiBDjUwjmZb-vZjDhRMy-i4j4oqMJqXA&s",
+      "original": "https://cdn.globalso.com/cnglassbottle/HTB1dRHnJ1SSBuNjy0Flq6zBpVXah.jpg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bottle/am/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYhF_18cyDIEIoRxpllCMSwPul0hcMyePLAg&s",
+      "fuentePagina": "https://ruisenbottle.com/am/product/dark-green-glass-bottle-olive-green-wine-bottle-750ml",
+      "titulo": "ጥቁር አረንጓዴ ብርጭቆ ጠርሙስ የወይራ አረንጓዴ ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYhF_18cyDIEIoRxpllCMSwPul0hcMyePLAg&s",
+      "original": "https://ruisenbottle.com/wp-content/uploads/2023/11/DD6A3745-800x800.jpg"
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "categoria": "frisbee",
+  "categoriaSlug": "frisbee",
+  "idioma": "qu",
+  "nombreIdioma": "Quechua",
+  "termino": "frisbee",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T20:59:48.430Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "es",
+    "gl": "pe"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=frisbee&hl=es&gl=pe",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/frisbee/qu/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQA-YXGnqNUeUxbrMnSBbVLV7l6Bc-HuWTjRA&s",
+      "fuentePagina": "https://util.com.pe/products/frisbee-plato-volador-rojo-arti-creativo-activity?srsltid=AfmBOoqkhICUwp8bvDPoOxjtz7VrffET7oif9jzb9RyPlzW-WWUXayB2",
+      "titulo": "FRISBEE \"PLATO VOLADOR\" ROJO - ARTI CREATIVO ACTIVITY",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQA-YXGnqNUeUxbrMnSBbVLV7l6Bc-HuWTjRA&s",
+      "original": "http://util.com.pe/cdn/shop/files/TACTIV_H-203.png?v=1753117562"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/frisbee/qu/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS--HEhij0TKL78qgkqH35e9zEN_BEmFFmq6A&s",
+      "fuentePagina": "https://zabcafe.com/en/products/frizbee-cafelimo?srsltid=AfmBOopBr8bA1W2L8l2-nacrzVq7V5ToTcrKN0AI1PUjFba9qCrWyjLO",
+      "titulo": "Cafélimo Frisbee – Zab Café",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS--HEhij0TKL78qgkqH35e9zEN_BEmFFmq6A&s",
+      "original": "https://zabcafe.com/cdn/shop/files/frisbee-cafelimo-sky.jpg?v=1748348264&width=1200"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/frisbee/qu/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOPPeUYRXc0mWVFPbMztz_8WmpOi3qORN0Uw&s",
+      "fuentePagina": "https://en.wikipedia.org/wiki/Frisbee",
+      "titulo": "Frisbee - Wikipedia",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOPPeUYRXc0mWVFPbMztz_8WmpOi3qORN0Uw&s",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Frisbee_090719.jpg/500px-Frisbee_090719.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/frisbee/qu/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBLcYdumXmOnpFydr1maklTQgszzlvy0pNEA&s",
+      "fuentePagina": "https://www.falabella.com.pe/falabella-pe/product/883535367/frisbee-doo-australia/883535369",
+      "titulo": "Frisbee Doo Australia",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBLcYdumXmOnpFydr1maklTQgszzlvy0pNEA&s",
+      "original": "https://media.falabella.com/falabellaPE/883535369_1/w=1004,h=1500,fit=pad"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/frisbee/qu/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdwodbmrVoOxkp0Pkjnbign4QYu1Jr16bi1w&s",
+      "fuentePagina": "https://www.decathlon.ph/p/ultimate-disc-original-175g-white-tribord-8590276.html",
+      "titulo": "Ultimate Disc Original 175g - White",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdwodbmrVoOxkp0Pkjnbign4QYu1Jr16bi1w&s",
+      "original": "https://contents.mediadecathlon.com/p2140421/k$2317974123b07ccd65c829aad67cefb9/ultimate-disc-original-175g-white-tribord-8590276.jpg?f=1920x0&format=auto"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/frisbee/qu/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrH-_OnG5N_d6UNxOpH5kT1yo3Ng3dk7jtcA&s",
+      "fuentePagina": "https://www.mercha-peru.com/merchandising/frisbee-plastico-nacional/",
+      "titulo": "Frisbee Plastico Nacional",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrH-_OnG5N_d6UNxOpH5kT1yo3Ng3dk7jtcA&s",
+      "original": "https://www.mercha-peru.com/wp-content/uploads/2024/11/frisbee-nacional-plastico.jpg"
+    }
+  ]
+}

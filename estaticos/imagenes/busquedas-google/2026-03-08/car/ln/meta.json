@@ -1,0 +1,71 @@
+{
+  "categoria": "car",
+  "categoriaSlug": "car",
+  "idioma": "ln",
+  "nombreIdioma": "Lingala",
+  "termino": "mótuka",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T20:41:40.381Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "fr",
+    "gl": "cd"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=m%C3%B3tuka&hl=fr&gl=cd",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/car/ln/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRss9MkR0n4x-YKyMniBybew58Yw2oAfM4o-Q&s",
+      "fuentePagina": "https://ln.wikipedia.org/wiki/M%C3%B3tuka",
+      "titulo": "Mótuka — Wikipedia",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRss9MkR0n4x-YKyMniBybew58Yw2oAfM4o-Q&s",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/2/28/Benz_auto.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/car/ln/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZDz4FYvm8oBDMLLIfPZGzmwGgwjc-n0QFqA&s",
+      "fuentePagina": "https://www.deezer.com/fr/artist/13591449",
+      "titulo": "Motuka : albums, chansons, concerts | Deezer",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZDz4FYvm8oBDMLLIfPZGzmwGgwjc-n0QFqA&s",
+      "original": "https://cdn-images.dzcdn.net/images/cover/626e7dc1b88a7da6d78d9316a9fbaa5b/1900x1900-000000-80-0-0.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/car/ln/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3V1EDFvkiAJ_3bvPMQEkwXTJhxcSV6jNq3Q&s",
+      "fuentePagina": "https://www.facebook.com/MotukaMusicaPopolareDellaContea/",
+      "titulo": "Mótuka (@MotukaMusicaPopolareDellaContea) • Facebook",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3V1EDFvkiAJ_3bvPMQEkwXTJhxcSV6jNq3Q&s",
+      "original": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=126177773499980"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/car/ln/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-SDxzv-7S7fNwhT4tUdMYf1DswF7h4J7PgQ&s",
+      "fuentePagina": "https://play.google.com/store/apps/details?id=com.motukapp&hl=ln",
+      "titulo": "Motuka – Applications sur Google Play",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-SDxzv-7S7fNwhT4tUdMYf1DswF7h4J7PgQ&s",
+      "original": "https://play-lh.googleusercontent.com/SY8PkJolDoy7UIUDo8XQz8DPMR02LVKtOmsz3TRkhNLzP_3Tg2uPAILJsdOGKwaFyZmD=w600-h300-pc0xffffff-pd"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/car/ln/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQoYer07hJ4aCjqRT1KLYRLslqkkBdJb4O0nA&s",
+      "fuentePagina": "https://www.instagram.com/motukapp/",
+      "titulo": "MOTUKA (@motukapp) • Instagram photos and videos",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQoYer07hJ4aCjqRT1KLYRLslqkkBdJb4O0nA&s",
+      "original": "https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3565721310101383304"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/car/ln/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRTw7UHbWRzpTz-68Q3tZ25nCecrDsxoqrNA&s",
+      "fuentePagina": "https://www.facebook.com/MotukaMusicaPopolareDellaContea/",
+      "titulo": "Mótuka (@MotukaMusicaPopolareDellaContea) • Facebook",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRTw7UHbWRzpTz-68Q3tZ25nCecrDsxoqrNA&s",
+      "original": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=121104897299039"
+    }
+  ]
+}

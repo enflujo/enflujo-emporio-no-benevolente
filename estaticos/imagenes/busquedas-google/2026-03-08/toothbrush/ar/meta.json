@@ -1,0 +1,71 @@
+{
+  "categoria": "toothbrush",
+  "categoriaSlug": "toothbrush",
+  "idioma": "ar",
+  "nombreIdioma": "العربية",
+  "termino": "فرشاة أسنان",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:32:31.860Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "ar",
+    "gl": "eg"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=%D9%81%D8%B1%D8%B4%D8%A7%D8%A9%20%D8%A3%D8%B3%D9%86%D8%A7%D9%86&hl=ar&gl=eg",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/toothbrush/ar/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWdPWEAO5YFBmZcVQ6px2OhX3KiZSzbDHL9w&s",
+      "fuentePagina": "https://www.jumia.com.eg/ar/pink-blue-baby-teething-toothbrush-for-infants-teether-healthy-for-babies-121623590.html?srsltid=AfmBOorkflS5n7HzplLOyENykmP1FDG66pMWd9wHFo8qi_AFTr_xHM_a",
+      "titulo": "فرشاة أسنان للأطفال من بينك بلو - صحية وآمنة للرضع - Pink ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWdPWEAO5YFBmZcVQ6px2OhX3KiZSzbDHL9w&s",
+      "original": "https://eg.jumia.is/unsafe/fit-in/500x500/filters:fill(white)/product/09/5326121/1.jpg?9607"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/toothbrush/ar/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxClmew_2RZ6T27sAXEoiV3aQLvcSIjh_-EA&s",
+      "fuentePagina": "https://www.philips.ae/ar/c-p/HX9042_96/c3-premium-plaque-defense-standard-sonic-toothbrush-heads",
+      "titulo": "C3 Premium Plaque Defense رأسا فرشاة أسنان قياسيان مع تقنية ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxClmew_2RZ6T27sAXEoiV3aQLvcSIjh_-EA&s",
+      "original": "https://images.philips.com/is/image/philipsconsumer/89a165fa4aec415a8a36ac5e00f0de4b?$pnglarge$&wid=960"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/toothbrush/ar/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4joi7YIIo92po9E8Ydl7_LCao1r55-3ey2Q&s",
+      "fuentePagina": "https://www.turkeydentalclinic.com/%D9%83%D9%8A%D9%81-%D8%AA%D8%AE%D8%AA%D8%A7%D8%B1-%D9%81%D8%B1%D8%B4%D8%A7%D8%A9-%D8%A3%D8%B3%D9%86%D8%A7%D9%86%D8%9F/",
+      "titulo": "كيف تختار فرشاة أسنان؟ -Turkey Dental Clinic",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4joi7YIIo92po9E8Ydl7_LCao1r55-3ey2Q&s",
+      "original": "https://www.turkeydentalclinic.com/wp-content/uploads/2023/06/dis-fircasi-secimi.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/toothbrush/ar/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFb1FoULDY2QUVurStQncVZQQk4yF3S5jGVg&s",
+      "fuentePagina": "https://medimixegypt.com/product/medimix-tongue-toothbrush/?srsltid=AfmBOoqytKQTfnXL6bdExaX3bMz_eSuvkpOf7jCrhPqoqC7d1fE2rM7g",
+      "titulo": "فرشاة أسنان ميدي مكس تونج",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFb1FoULDY2QUVurStQncVZQQk4yF3S5jGVg&s",
+      "original": "https://medimixegypt.com/wp-content/uploads/2023/10/100003-1-scaled-scaled.jpg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/toothbrush/ar/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzk0MUm0JECj4k_0vqRf8Vxmdecht4zbqeTQ&s",
+      "fuentePagina": "https://ar.wikipedia.org/wiki/%D9%81%D8%B1%D8%B4%D8%A7%D8%A9_%D8%A3%D8%B3%D9%86%D8%A7%D9%86",
+      "titulo": "فرشاة أسنان - ويكيبيديا",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzk0MUm0JECj4k_0vqRf8Vxmdecht4zbqeTQ&s",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/6/66/Toothbrush_x3_20050716_002.jpg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/toothbrush/ar/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHMG4wya9oxz3ML02TYMY8e-ucaDge8v3Hyw&s",
+      "fuentePagina": "https://eg.iherb.com/pr/oral-b-vibrating-pulsar-battery-powered-toothbrush-medium-2-pack/93134",
+      "titulo": "Vibrating Pulsar ™ ، فرشاة أسنان تعمل بالبطارية ، متوسطة ، عبوتان",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHMG4wya9oxz3ML02TYMY8e-ucaDge8v3Hyw&s",
+      "original": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/orl/orl68302/l/15.jpg"
+    }
+  ]
+}

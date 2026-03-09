@@ -1,0 +1,71 @@
+{
+  "categoria": "bottle",
+  "categoriaSlug": "bottle",
+  "idioma": "qu",
+  "nombreIdioma": "Quechua",
+  "termino": "chupa",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:06:24.749Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "es",
+    "gl": "pe"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=chupa&hl=es&gl=pe",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bottle/qu/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYhk-VFyyHEzPQU6S3x_sHp42tGrA5iTem-w&s",
+      "fuentePagina": "https://www.diezminutos.es/teleprograma/series-tv/a43550032/chupa-pelicula-netflix/",
+      "titulo": "Chupa': la película de Netflix que te hará llorar",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYhk-VFyyHEzPQU6S3x_sHp42tGrA5iTem-w&s",
+      "original": "https://hips.hearstapps.com/hmg-prod/images/chupa-native-00-46-18-13r-6433c49d249a2.jpg?crop=0.539xw:1.00xh;0.337xw,0&resize=1200:*"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bottle/qu/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpY4SS_-z5fKM5LGnQpzg9IMI3gLb1SLUaSA&s",
+      "fuentePagina": "https://en.wikipedia.org/wiki/Chupa_(film)",
+      "titulo": "Chupa (film) - Wikipedia",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpY4SS_-z5fKM5LGnQpzg9IMI3gLb1SLUaSA&s",
+      "original": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a8/Chupa_movie_poster.jpg/250px-Chupa_movie_poster.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bottle/qu/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmjTWA2by60u666hv4ijc3at3oF_YtTtif0Q&s",
+      "fuentePagina": "https://www.reddit.com/r/shittymoviedetails/comments/12gmv44/in_netflixs_new_movie_chupa_2023_the_creators/?tl=es-419",
+      "titulo": "En la nueva película de Netflix, Chupa (2023), los creadores ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmjTWA2by60u666hv4ijc3at3oF_YtTtif0Q&s",
+      "original": "https://preview.redd.it/in-netflixs-new-movie-chupa-2023-the-creators-thought-the-v0-3ozu0krh7xsa1.jpg?auto=webp&s=88a625ace8f7670038030b829b6de07158d21816"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bottle/qu/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZRfNIQb2SBi5hpfzxT2yiJM3IHikQz0RrlQ&s",
+      "fuentePagina": "https://media.netflix.com/en/only-on-netflix/80992263",
+      "titulo": "Chupa | Netflix Media Center",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZRfNIQb2SBi5hpfzxT2yiJM3IHikQz0RrlQ&s",
+      "original": "https://dnm.nflximg.net/api/v6/mAcAr9TxZIVbINe88xb3Teg5_OA/AAAABcOehoLG3_ooJGyV20t9hhTM7UkeLfcG5nWnA5FTj0do9XY4WrMf7rIwzFVVzrg9YhdmZDyfyvElPHtQW5nuG3SdyfhfC3HK6L6F.jpg?r=aae"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bottle/qu/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSLJOhH6LdsNCDklnhnjwBmRQAtGKGhOlK5A&s",
+      "fuentePagina": "https://es.wikipedia.org/wiki/Chupa_Chups",
+      "titulo": "Chupa Chups - Wikipedia, la enciclopedia libre",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSLJOhH6LdsNCDklnhnjwBmRQAtGKGhOlK5A&s",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/8/87/Chupa_Chups_logo.svg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bottle/qu/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMKPqg0bFLw2Un4j8BkUmUlguDBS8BeMtxeg&s",
+      "fuentePagina": "https://www.imdb.com/es/title/tt21229186/",
+      "titulo": "Chupa (2000) - IMDb",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMKPqg0bFLw2Un4j8BkUmUlguDBS8BeMtxeg&s",
+      "original": "https://m.media-amazon.com/images/M/MV5BYjM2ODgyY2QtMzUxNS00ZjNjLTk0MmUtYTlhYzc2NmY5YzhkXkEyXkFqcGc@._V1_.jpg"
+    }
+  ]
+}

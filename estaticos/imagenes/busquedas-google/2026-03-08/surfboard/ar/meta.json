@@ -1,0 +1,71 @@
+{
+  "categoria": "surfboard",
+  "categoriaSlug": "surfboard",
+  "idioma": "ar",
+  "nombreIdioma": "العربية",
+  "termino": "لوح ركوب الأمواج",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:04:58.366Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "ar",
+    "gl": "eg"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=%D9%84%D9%88%D8%AD%20%D8%B1%D9%83%D9%88%D8%A8%20%D8%A7%D9%84%D8%A3%D9%85%D9%88%D8%A7%D8%AC&hl=ar&gl=eg",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/surfboard/ar/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZqAuuMEf8mYcYH6jZY4dOyVuPvJfPoe0rNA&s",
+      "fuentePagina": "https://www.decathlon.eg/ar/content/82-surfing?srsltid=AfmBOorrXj5YnQCCSMS4r1YCIZJwJN1IhcpzQ1SZpekzL4UJ5Imjg5k7",
+      "titulo": "تسوق معدات ركوب الأمواج في مصر | ديكاتلون",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZqAuuMEf8mYcYH6jZY4dOyVuPvJfPoe0rNA&s",
+      "original": "https://contents.mediadecathlon.com/s1155331/k$3670ce55e38ab02ac0dd7b8cf51d5374/defaut.jpg?format=auto"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/surfboard/ar/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSZgPhdHwCfBegmRoZpW91D3fffd7G8RuK3g&s",
+      "fuentePagina": "https://www.youtube.com/watch?v=Xu_wlp5NHj8",
+      "titulo": "لوح الركمجة لركوب الأمواج ( surfboard )",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSZgPhdHwCfBegmRoZpW91D3fffd7G8RuK3g&s",
+      "original": "https://i.ytimg.com/vi/Xu_wlp5NHj8/maxresdefault.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/surfboard/ar/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSibNZWBpr2D3wF0VOnieZRMKedKyyznU33g&s",
+      "fuentePagina": "https://ar.wikipedia.org/wiki/%D8%B1%D9%83%D9%85%D8%AC%D8%A9",
+      "titulo": "ركمجة - ويكيبيديا",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSibNZWBpr2D3wF0VOnieZRMKedKyyznU33g&s",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/0/03/Surfer_at_the_Cayucos_Pier%2C_Cayucos%2C_CA.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/surfboard/ar/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9S3FRcs9EMYht4z4W2xkQrS_6hhvBUSIJWw&s",
+      "fuentePagina": "https://www.amazon.eg/%D9%84%D9%88%D8%AD-%D8%B1%D9%83%D9%88%D8%A8-%D8%A7%D9%84%D8%A3%D9%85%D9%88%D8%A7%D8%AC-%D8%B3%D8%A8%D9%88%D8%B1%D8%AA-%D8%AF%D9%88%D8%B1%D8%A7/dp/B078YHT2M3",
+      "titulo": "لوح ركوب الأمواج سبورت دورا تيك من بي آي سي : Amazon.eg ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9S3FRcs9EMYht4z4W2xkQrS_6hhvBUSIJWw&s",
+      "original": "https://m.media-amazon.com/images/I/719UmoX0EgL._AC_UF894,1000_QL80_.jpg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/surfboard/ar/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBD-z9TeKLAcwlZ8e1Lo-BquRydAQWUYSC3A&s",
+      "fuentePagina": "https://www.decathlon.eg/ar/p/309235-120559-%D9%84%D9%88%D8%AD-%D8%B1%D9%83%D9%88%D8%A8-%D8%A3%D9%85%D9%88%D8%A7%D8%AC-%D9%85%D9%86-%D8%A7%D9%84%D9%81%D9%88%D9%85-7-8-%D8%A3%D8%B2%D8%B1%D9%82.html?srsltid=AfmBOoplWXJtXepXR-K22N1Le4zzYzYSCR62lPHf7OhGmPX2lSSXw_Xw",
+      "titulo": "لوح ركوب أمواج من الفوم 7'8\" -أزرق",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBD-z9TeKLAcwlZ8e1Lo-BquRydAQWUYSC3A&s",
+      "original": "https://contents.mediadecathlon.com/p2574582/k$a8272a4c4b7026a40d690298cc9a3026/%D9%84%D9%88%D8%AD-%D8%B1%D9%83%D9%88%D8%A8-%D8%A3%D9%85%D9%88%D8%A7%D8%AC-%D9%85%D9%86-%D8%A7%D9%84%D9%81%D9%88%D9%85-7-8-%D8%A3%D8%B2%D8%B1%D9%82.jpg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/surfboard/ar/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSksG6-_jOsl0s8IcPrFtxJeprp7-Tw3Ni84Q&s",
+      "fuentePagina": "https://sa.made-in-china.com/co_jsbaizhou/product_Inflatable-Board-Paddle-Stand-up-Paddleboarding-Surf-Board-Waterplay-Surfing-Yoga-Surfboard_uorerueeeg.html",
+      "titulo": "لوح قابل للنفخ للتجديف والركوب على الأمواج ولعب الماء وركوب ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSksG6-_jOsl0s8IcPrFtxJeprp7-Tw3Ni84Q&s",
+      "original": "https://image.made-in-china.com/202f0j00nJmldziWiNou/Inflatable-Board-Paddle-Stand-up-Paddleboarding-Surf-Board-Waterplay-Surfing-Yoga-Surfboard.webp"
+    }
+  ]
+}

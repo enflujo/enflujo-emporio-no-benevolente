@@ -1,0 +1,71 @@
+{
+  "categoria": "chair",
+  "categoriaSlug": "chair",
+  "idioma": "fr",
+  "nombreIdioma": "Français",
+  "termino": "chaise",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:17:02.770Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "fr",
+    "gl": "be"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=chaise&hl=fr&gl=be",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/chair/fr/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlapdu31bfa03dKvIwCm0O880zjHVYK72qDA&s",
+      "fuentePagina": "https://dimehouse.be/fr/products/chaise-de-salle-a-manger-elle-taupe",
+      "titulo": "Chaise de salle à manger moderne Elle Taupe | Dimehouse",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlapdu31bfa03dKvIwCm0O880zjHVYK72qDA&s",
+      "original": "https://dimehouse.be/cdn/shop/files/eetkamerstoel-elle-taupe_2ed06a4f-7ddf-49aa-b41e-537b2f9b5a9c-289786-463357.jpg?v=1744621614"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/chair/fr/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR59t_fmrKO8MxAVzFF6NSRnAbrzclymgQfjw&s",
+      "fuentePagina": "https://www.tikamoon.be/fr/art-chaise-en-teck-massif-jonak-1625.htm",
+      "titulo": "Chaise de séjour en teck - Mobilier pour la salle à manger ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR59t_fmrKO8MxAVzFF6NSRnAbrzclymgQfjw&s",
+      "original": "https://media.tikamoon.com/images/f_auto/t_product-picture-774/website/product/1625_A_HD_012/chaise-en-teck-massif-jonak-1625"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/chair/fr/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3LXnnQkZ5tR_AOEISc1mp_g7icqBkjUGjGg&s",
+      "fuentePagina": "https://fr.sweeek.be/product/lot-de-4-chaises-scandinaves-grises-pieds-bois?srsltid=AfmBOop8RBY7yAl_-oDcVuhw8yGPJuodJWYjnRDBiEPpAWuK6jZfHT_5",
+      "titulo": "Lot de 6 chaises scandinaves, pieds bois de hêtre, fauteuils 1 place, blancs",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3LXnnQkZ5tR_AOEISc1mp_g7icqBkjUGjGg&s",
+      "original": "https://sweeek.twic.pics/products/56684/original/ichairscax6gy-e41cdfd8157d5e03cd07c62f3f2fdb7d.jpg?twic=v1/resize=600x600"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/chair/fr/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbCsOc9Dr4MGNG79hY6zGxiG6xD9QxaQTGkA&s",
+      "fuentePagina": "https://www.sklum.com/fr/acheter-chaises-salle-a-manger/3608-chaise-brich-scand-nordic.html",
+      "titulo": "Chaise de salle à manger en polypropylène et bois de hêtre ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbCsOc9Dr4MGNG79hY6zGxiG6xD9QxaQTGkA&s",
+      "original": "https://cdn.sklum.com/fr/4320940/chaise-brich-scand-nordic.jpg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/chair/fr/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYAQU6ZFmYZpcw0tyLCaC0iqmi_bgA8RB7Nw&s",
+      "fuentePagina": "https://www.emob.be/fr/chaise-de-salle-a-manger-pivotante-lola-gris-fonce",
+      "titulo": "Chaise de salle à manger pivotante Lola - gris foncé",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYAQU6ZFmYZpcw0tyLCaC0iqmi_bgA8RB7Nw&s",
+      "original": "https://www.emob.be/media/catalog/product/cache/53a094445c57bdfaede61de2441adbf7/e/4/e4c97fd1_a733_475c_9b08_d1766466df1c_65c7.jpg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/chair/fr/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRt-5JHpT0-XXX_Dp0ADIGVzOFUDvpL5Qo_bQ&s",
+      "fuentePagina": "https://fr.mobistoxx.be/chaise-paola-gris-fonce.html",
+      "titulo": "Chaise PAOLA gris foncé",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRt-5JHpT0-XXX_Dp0ADIGVzOFUDvpL5Qo_bQ&s",
+      "original": "https://fr.mobistoxx.be/media/catalog/product/cache/bc193bc2011572ed6eff0edb724429d4/9/1/9105_8_0807.webp"
+    }
+  ]
+}

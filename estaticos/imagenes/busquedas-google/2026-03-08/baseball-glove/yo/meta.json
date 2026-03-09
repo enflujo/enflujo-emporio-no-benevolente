@@ -1,0 +1,71 @@
+{
+  "categoria": "baseball glove",
+  "categoriaSlug": "baseball-glove",
+  "idioma": "yo",
+  "nombreIdioma": "Yorùbá",
+  "termino": "ìbọ̀wọ́ baseball",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:03:31.438Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "yo",
+    "gl": "ng"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=%C3%ACb%E1%BB%8D%CC%80w%E1%BB%8D%CC%81%20baseball&hl=yo&gl=ng",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/baseball-glove/yo/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFXoeUa2G1WD0s6YAJQdTuYmmlP43A6yQ9lg&s",
+      "fuentePagina": "https://www.voaafrica.com/a/sports-lovers-grow-baseball-in-nigeria/7148485.html",
+      "titulo": "Sports Lovers Grow Baseball in Nigeria",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFXoeUa2G1WD0s6YAJQdTuYmmlP43A6yQ9lg&s",
+      "original": "https://gdb.voanews.com/01000000-0aff-0242-8360-08db733c7a92_tv_w1080_h608.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/baseball-glove/yo/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqjWBF7SDnXgmUqipG44MW5f_NcGdEhs3F7g&s",
+      "fuentePagina": "https://von.gov.ng/nigeria-set-to-become-hub-for-baseball-softball-in-africa/",
+      "titulo": "Nigeria Set To Become Hub For Baseball, Softball In Africa ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqjWBF7SDnXgmUqipG44MW5f_NcGdEhs3F7g&s",
+      "original": "https://von.gov.ng/wp-content/uploads/2025/10/images-32-2.jpeg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/baseball-glove/yo/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRB5jYXgigcIBYkXW8LVJHLknG6pHGJ7j7cMw&s",
+      "fuentePagina": "https://cciw.org/news/2025/2/7/iwu-tabbed-preseason-cciw-baseball-favorite-for-first-time-since-2013.aspx",
+      "titulo": "IWU Tabbed Preseason CCIW Baseball Favorite For First ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRB5jYXgigcIBYkXW8LVJHLknG6pHGJ7j7cMw&s",
+      "original": "https://cciw.org/images/2025/2/7/convert_2025_02_06T202013_374.jpg?preset=large.storyimage"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/baseball-glove/yo/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFzrqcdHtVIKF2f7dbgmWqARYWFdxltdhmWQ&s",
+      "fuentePagina": "https://www.premiumtimesng.com/sports/322152-baseball-nigeria-qualify-for-second-stage-of-olympic-africa-qualifiers.html",
+      "titulo": "Baseball: Nigeria qualify for second stage of Olympic Africa ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFzrqcdHtVIKF2f7dbgmWqARYWFdxltdhmWQ&s",
+      "original": "https://media.premiumtimesng.com/wp-content/files/2019/03/Baseball-2-1.jpeg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/baseball-glove/yo/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_69Bqb6zzj5R1xfOyX2teKGfMpq8v9iz6-g&s",
+      "fuentePagina": "https://www.wbsc.org/en/news/japan-africa-baseball-softball-foundation-to-launch-national-baseball-tournament-in-ghana",
+      "titulo": "Japan-Africa Baseball & Softball Foundation to launch ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_69Bqb6zzj5R1xfOyX2teKGfMpq8v9iz6-g&s",
+      "original": "https://static.wbsc.org/uploads/federations/0/cms/photos/659965ca-4f98-29dd-bfd9-975611cf2adc.jpg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/baseball-glove/yo/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5I3wGOYrum94kjT9tTV1MhTo5vWChdm10gA&s",
+      "fuentePagina": "https://www.wbsc.org/en/news/burkina-faso-nigeria-advance-baseball-africa-cup",
+      "titulo": "Burkina Faso, Nigeria advance to Baseball Africa Cup - World ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5I3wGOYrum94kjT9tTV1MhTo5vWChdm10gA&s",
+      "original": "https://static.wbsc.org/wp-content/uploads/20190322-Burkina-Faso-wins-768x432.jpg"
+    }
+  ]
+}

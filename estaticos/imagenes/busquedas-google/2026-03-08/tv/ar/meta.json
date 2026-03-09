@@ -1,0 +1,71 @@
+{
+  "categoria": "tv",
+  "categoriaSlug": "tv",
+  "idioma": "ar",
+  "nombreIdioma": "العربية",
+  "termino": "تلفاز",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:21:13.671Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "ar",
+    "gl": "eg"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=%D8%AA%D9%84%D9%81%D8%A7%D8%B2&hl=ar&gl=eg",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/tv/ar/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJvw0Xyxogw-uQkzPz5cuKlpiazBaUeZbamQ&s",
+      "fuentePagina": "https://ar.wikipedia.org/wiki/%D8%AA%D9%84%D9%81%D8%A7%D8%B2",
+      "titulo": "تلفاز - ويكيبيديا",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJvw0Xyxogw-uQkzPz5cuKlpiazBaUeZbamQ&s",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/f/f4/Tv3.png"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/tv/ar/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQH_kH6rVfWyB4-IPZxW6jFoyFwU3sVgfvsjg&s",
+      "fuentePagina": "https://www.lg.com/ae_ar/tvs-soundbars/lg-49LH548V-TA-full-hd-tv",
+      "titulo": "تلفاز FULL HD من إل جي",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQH_kH6rVfWyB4-IPZxW6jFoyFwU3sVgfvsjg&s",
+      "original": "https://www.lg.com/ae_ar/images/tvs/MD05756048/gallery/medium02.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/tv/ar/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbIHriRyNFKThcbPXsuZkglYKJ-WS_pffF4A&s",
+      "fuentePagina": "https://sa.made-in-china.com/co_kuaicomputer/product_Kuai-TV-Factory-OEM-ODM-LCD-LED-Smart-Android-Television-TV-43-55-65-70-85-100-Large-Size-Flat-Screnn-4K-Ultra-HD-TV_uoriyygrng.html",
+      "titulo": "مصنع كواي للتلفزيون تلفاز ذكي أندرويد بشاشة LCD LED 43 55 65 ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbIHriRyNFKThcbPXsuZkglYKJ-WS_pffF4A&s",
+      "original": "https://image.made-in-china.com/202f0j00cFzbODwJMgka/Kuai-TV-Factory-OEM-ODM-LCD-LED-Smart-Android-Television-TV-43-55-65-70-85-100-Large-Size-Flat-Screnn-4K-Ultra-HD-TV.webp"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/tv/ar/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWPjq6UfozQcm_fKKrq4_vxC-L_P0kX0dSag&s",
+      "fuentePagina": "https://soum.sa/blog/%D9%86%D8%B5%D8%A7%D8%A6%D8%AD-%D9%84%D8%B4%D8%B1%D8%A7%D8%A1-%D8%A3%D8%AC%D9%87%D8%B2%D8%A9-%D8%A7%D9%84%D8%AA%D9%84%D9%81%D8%B2%D9%8A%D9%88%D9%86/?srsltid=AfmBOoo42SKQPx31xovCDVU4zDoq_iYMMZxkdHqTC_27HRoaXKodO3Iw",
+      "titulo": "نصائح لشراء أجهزة التلفزيون: كيف تختار الأفضل لك؟",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWPjq6UfozQcm_fKKrq4_vxC-L_P0kX0dSag&s",
+      "original": "https://soum.sa/blog/wp-content/uploads/2025/02/%D8%A3%D9%86%D9%88%D8%A7%D8%B9-%D8%A7%D9%84%D8%AA%D9%82%D9%86%D9%8A%D8%A7%D8%AA-%D8%A7%D9%84%D9%85%D8%AA%D8%A7%D8%AD%D8%A9-%D9%81%D9%8A-%D8%B4%D8%A7%D8%B4%D8%A7%D8%AA-%D8%A7%D9%84%D8%AA%D9%84%D9%81%D8%B2%D9%8A%D9%88%D9%86.webp"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/tv/ar/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUhwZPhthUjQNYEyHKby72GHxcGgqfHRTE1Q&s",
+      "fuentePagina": "https://simply4physics.wordpress.com/1970/01/01/%D8%A5%D8%AE%D8%AA%D8%B1%D8%A7%D8%B9-%D8%A7%D9%84%D8%AA%D9%84%D9%81%D8%A7%D8%B2/",
+      "titulo": "إختراع التلفاز – الفيزياء ببساطة",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUhwZPhthUjQNYEyHKby72GHxcGgqfHRTE1Q&s",
+      "original": "https://simply4physics.wordpress.com/wp-content/uploads/2015/10/wpid-television.gif?w=680"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/tv/ar/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSeK00XviA7mvm_i0j5dm8tEw6jbnLKv-gO8w&s",
+      "fuentePagina": "https://www.lg.com/ae_ar/tvs-soundbars/lg-32LM6410",
+      "titulo": "LG 32LM6410 - أجهزة تلفاز ذكية - أجهزة تلفاز - LG (LG ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSeK00XviA7mvm_i0j5dm8tEw6jbnLKv-gO8w&s",
+      "original": "https://www.lg.com/ae_ar/images/tvs/32lm6410/gallery/medium02.jpg"
+    }
+  ]
+}

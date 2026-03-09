@@ -1,0 +1,71 @@
+{
+  "categoria": "fire hydrant",
+  "categoriaSlug": "fire-hydrant",
+  "idioma": "kg",
+  "nombreIdioma": "Kikongo",
+  "termino": "prise ya maza",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T20:47:02.924Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "fr",
+    "gl": "cd"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=prise%20ya%20maza&hl=fr&gl=cd",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/fire-hydrant/kg/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRC4T8J2qD2eSJE36oAdEe25BrTfcFrBRbMbg&s",
+      "fuentePagina": "https://www.footmercato.net/a8710429983379382268-ibrahim-maza-la-nouvelle-pepite-qui-fait-chavirer-lalgerie",
+      "titulo": "Ibrahim Maza, la nouvelle pépite qui fait chavirer l'Algérie",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRC4T8J2qD2eSJE36oAdEe25BrTfcFrBRbMbg&s",
+      "original": "https://assets-fr.imgfoot.com/media/cache/1200x900/ibrahim-maza.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/fire-hydrant/kg/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRs8-ZYtNrEmcXfTRc86RVCfK7cM7VdZHYEDA&s",
+      "fuentePagina": "https://lagazettedufennec.com/can-2025-algerie-ibrahim-maza-sur-le-banc-est-un-blaspheme-foot/",
+      "titulo": "Maza a fait une entrée remarquable qui donne tort à Petkovic",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRs8-ZYtNrEmcXfTRc86RVCfK7cM7VdZHYEDA&s",
+      "original": "https://lagazettedufennec.com/wp-content/uploads/2025/12/Maza-7-1024x576.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/fire-hydrant/kg/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTid2ZXNkyYG6lkn-IezvN9kPHOowCdccshVA&s",
+      "fuentePagina": "https://www.flashscore.fr/actualites/football-can-ibrahim-maza-la-nouvelle-etincelle-des-fennecs-a-l-assaut-des-leopards/I9nMvec2/",
+      "titulo": "CAN 2025 : Ibrahim Maza, la nouvelle étincelle des Fennecs ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTid2ZXNkyYG6lkn-IezvN9kPHOowCdccshVA&s",
+      "original": "https://livesport-ott-images.ssl.cdn.cra.cz/r900xfq60/ae7dcfe1-b5da-41cd-851c-c577a4f07d0c.jpeg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/fire-hydrant/kg/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwyyjfvbQfgLpYW-afabAu-UGnqCGEKNtMJQ&s",
+      "fuentePagina": "https://www.sofoot.com/articles/le-choix-de-lalgerie-et-de-la-can-2025-plutot-que-lallemagne-ibrahim-maza-le-mur-de-berlin",
+      "titulo": "Ibrahim Maza, le mûr de Berlin - CAN 2025 - Gr. E - Guinée ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwyyjfvbQfgLpYW-afabAu-UGnqCGEKNtMJQ&s",
+      "original": "https://www.sofoot.com/convert/LzIwMjUvMTIvMzAxOTE5MDgvSUNPTlNQT1JUXzI4MDkwOV8wMTE0LXNjYWxlZC5qcGc/grande/iconsport_280909_0114-scaled.jpg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/fire-hydrant/kg/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ46E9tan0XrAFBMFRuyAcjIA3nSJC5c-OdtQ&s",
+      "fuentePagina": "https://dzballon.com/2025/08/08/maza-cest-confirme-2/",
+      "titulo": "Maza, c'est confirmé",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ46E9tan0XrAFBMFRuyAcjIA3nSJC5c-OdtQ&s",
+      "original": "https://dzballon.com/wp-content/uploads/2025/08/kovic-2025-08-08T174307.165-1520x912.jpg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/fire-hydrant/kg/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdGkocp830HFmNvL_RofFrv3D9Y_8ijz0tow&s",
+      "fuentePagina": "https://dzballon.com/2025/05/14/maza-le-terrible-coup-de-pression/",
+      "titulo": "Maza, le terrible coup de pression",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdGkocp830HFmNvL_RofFrv3D9Y_8ijz0tow&s",
+      "original": "https://dzballon.com/wp-content/uploads/2025/04/kovic-17.jpg"
+    }
+  ]
+}

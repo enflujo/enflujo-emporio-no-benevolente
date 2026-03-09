@@ -1,0 +1,71 @@
+{
+  "categoria": "backpack",
+  "categoriaSlug": "backpack",
+  "idioma": "yo",
+  "nombreIdioma": "Yorùbá",
+  "termino": "àpo ẹ̀yìn",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T20:56:18.867Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "yo",
+    "gl": "ng"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=%C3%A0po%20%E1%BA%B9%CC%80y%C3%ACn&hl=yo&gl=ng",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/backpack/yo/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpe3l5Z_bVaMggmUBWbWdp7Y5x8JFj-xLFsw&s",
+      "fuentePagina": "https://www.facebook.com/bbcnewsyoruba/posts/%E1%BA%B9%CC%80y%C3%ACn-ti-%C3%A0nf%C3%A0n%C3%AD-%C3%A0d%C3%BAgbo-oyaaa/951258610363074/",
+      "titulo": "Ẹ̀yìn ti Ànfàní Àdúgbo, Oyaaa",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpe3l5Z_bVaMggmUBWbWdp7Y5x8JFj-xLFsw&s",
+      "original": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=951256423696626"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/backpack/yo/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxK0VgsSmRiMpgtCbRqXklhH0TTffzIEd5mA&s",
+      "fuentePagina": "https://www.bbc.com/yoruba/articles/cg330jz0xe0o",
+      "titulo": "'Ọkùnrin tó fipá bá mi lòpọ̀ gbàgbọ́ pé kíkọlu àfín yóò gbà á ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxK0VgsSmRiMpgtCbRqXklhH0TTffzIEd5mA&s",
+      "original": "https://ichef.bbci.co.uk/news/1024/branded_yoruba/3b2f/live/365add00-28b9-11ef-80aa-699d54c46324.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/backpack/yo/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZgNymtYAypxQ8wOytcNucgPsd1_zbe0KpBQ&s",
+      "fuentePagina": "https://www.literaturepadi.com.ng/2023/03/05/atunyewo-fiimu-iyigba/",
+      "titulo": "Àtúnyẹwò fíìmù “Ìyí'gbà” | Literature PADI",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZgNymtYAypxQ8wOytcNucgPsd1_zbe0KpBQ&s",
+      "original": "https://www.literaturepadi.com.ng/wp-content/uploads/2023/03/1677983972268.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/backpack/yo/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3SSPORQ5muL8nDE074W4iGoP_Y3zeguUV7Q&s",
+      "fuentePagina": "https://www.bbc.com/yoruba/articles/cz55e7p2me7o",
+      "titulo": "Òde kò dára fún ikọ̀ adigunjalè tó ń ṣòwò ẹ̀gbà ọrun ọlọ́pọ̀ ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3SSPORQ5muL8nDE074W4iGoP_Y3zeguUV7Q&s",
+      "original": "https://ichef.bbci.co.uk/ace/ws/640/cpsprodpb/69a0/live/0264c620-2961-11ef-8cea-990a1e8a0c9f.jpg.webp"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/backpack/yo/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJEerjzqiwTwmPo_h-DvPD3pqar8XtquRgcA&s",
+      "fuentePagina": "https://www.bbc.com/yoruba/articles/cg330jz0xe0o",
+      "titulo": "Ọkùnrin tó fipá bá mi lòpọ̀ gbàgbọ́ pé kíkọlu àfín yóò gbà á ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJEerjzqiwTwmPo_h-DvPD3pqar8XtquRgcA&s",
+      "original": "https://ichef.bbci.co.uk/ace/ws/660/cpsprodpb/69f0/live/d8d86920-1977-11f1-9120-a910fc22c6ac.png.webp"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/backpack/yo/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRK-yF7yz3fr4j8JR3mevQnxxNWLAvxKd-7tA&s",
+      "fuentePagina": "https://www.bbc.com/yoruba/articles/c0kkxg9vw40o",
+      "titulo": "'$1,600 ni mo san fún àwọn tó lù mí ní jìbìtì owó Hajj, mi ò rí ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRK-yF7yz3fr4j8JR3mevQnxxNWLAvxKd-7tA&s",
+      "original": "https://ichef.bbci.co.uk/news/1024/branded_yoruba/136a/live/3f3027f0-2850-11ef-b985-29259887dcb6.jpg"
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "categoria": "vase",
+  "categoriaSlug": "vase",
+  "idioma": "en",
+  "nombreIdioma": "English",
+  "termino": "vase",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:29:23.463Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "en",
+    "gl": "us"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=vase&hl=en&gl=us",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/vase/en/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-XQ_-0VeBQ14cZDek-0Yb8FqfpG4XzDSwAg&s",
+      "fuentePagina": "https://derutaitaly.com/ceramic-love-birds-flower-vase/?srsltid=AfmBOoosHhRgCmPy1hZuuG8hnK-4K3azVuvLmmPY3esdVlhSpI2V0_WP",
+      "titulo": "Ceramic Flower Vase | Love Birds Pattern | Mod Ceramics",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-XQ_-0VeBQ14cZDek-0Yb8FqfpG4XzDSwAg&s",
+      "original": "https://cdn11.bigcommerce.com/s-ukqi7wk1fh/images/stencil/1280x1280/products/1311/6650/Original-Deruta-Pottery-Vase-Love-Birds__23403.1749810812.jpg?c=2"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/vase/en/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSm0wCKfVV1HOwK96rFoNRzWfdZr31O9jD-KA&s",
+      "fuentePagina": "https://www.amazon.com/Magcolor-Creative-Sophisticated-Decorative-16-5x6-7x8-7/dp/B09W8FXJ9H",
+      "titulo": "Amazon.com: Magcolor Tall Table Modern Vase,Large Ceramic ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSm0wCKfVV1HOwK96rFoNRzWfdZr31O9jD-KA&s",
+      "original": "https://m.media-amazon.com/images/I/61KvH-iybDL._AC_UF894,1000_QL80_.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/vase/en/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1FoddhnCV8V0WMmDLXiOCI4sI8lkCzr7Mtg&s",
+      "fuentePagina": "https://www.pewabic.org/products/small-classic-vase?srsltid=AfmBOoou-6hWrLYhIivP7wSsk8Jc5_wxSdPNLdzSpmvNWrAy22MY6Ru2",
+      "titulo": "Small Classic Vase – Pewabic Pottery",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1FoddhnCV8V0WMmDLXiOCI4sI8lkCzr7Mtg&s",
+      "original": "http://www.pewabic.org/cdn/shop/files/EEBerger_Pewabic_March25_209_small_classic_vase_pewabic_blue.jpg?v=1762374831"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/vase/en/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTD7y7ixt4wVv9aP_r53fXSpwHmlggsQthXDg&s",
+      "fuentePagina": "https://www.next.us/en/style/st735056/732297",
+      "titulo": "Buy Multi Pretty Floral Print Ceramic Flower Vase from Next USA",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTD7y7ixt4wVv9aP_r53fXSpwHmlggsQthXDg&s",
+      "original": "https://xcdn.next.co.uk/common/items/default/default/itemimages/3_4Ratio/product/lge/732297s.jpg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/vase/en/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTr0TBANhRbCTeiDt1uv9GiWNN7vOuG-LDglA&s",
+      "fuentePagina": "https://forpetessakepottery.com/products/blue-floral-chinoiserie-vase?srsltid=AfmBOoqVXu4DYAajWeA0xGny7zyQ84e2L669dePdAPQntHkwrEYPlvhP",
+      "titulo": "8\" Blue Floral and Gingham Chinoiserie Vase",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTr0TBANhRbCTeiDt1uv9GiWNN7vOuG-LDglA&s",
+      "original": "http://forpetessakepottery.com/cdn/shop/products/Blue-White-Vase-Gingham-Top.jpg?v=1618010553"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/vase/en/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSNUCna-XZjJA80je7doyDcXfWUBYui4MkBw&s",
+      "fuentePagina": "https://www.etsy.com/listing/1005034077/retro-eclectic-colorful-bud-vase-cute",
+      "titulo": "Retro Eclectic Colorful Bud Vase/ Cute Ceramic Vase/ Rainbow Pot Planter/  Modern Ceramic Vase/ Pastel Color Ceramics/ Boho Home Decor - Etsy",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSNUCna-XZjJA80je7doyDcXfWUBYui4MkBw&s",
+      "original": "https://i.etsystatic.com/19596701/r/il/9ea49a/3029243300/il_1080xN.3029243300_3u5t.jpg"
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "categoria": "microwave",
+  "categoriaSlug": "microwave",
+  "idioma": "sw",
+  "nombreIdioma": "Kiswahili",
+  "termino": "microwave",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:24:48.260Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "sw",
+    "gl": "tz"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=microwave&hl=sw&gl=tz",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/microwave/sw/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIOjQw509BfmkRwjMmRotUvG9lrjUcCF9AMQ&s",
+      "fuentePagina": "https://www.sencor.com/microwave-oven/smw-2120ss",
+      "titulo": "Microwave Oven | SMW 2120SS | Sencor.com",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIOjQw509BfmkRwjMmRotUvG9lrjUcCF9AMQ&s",
+      "original": "https://www.sencor.com/Sencor/media/content/main%20picture/40046721-2.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/microwave/sw/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtAGljTOe4X9wMIuSuKw7grlmJQzSp7OWXtA&s",
+      "fuentePagina": "https://hisenseshowroom.co.tz/products/hisense-36l-automatic-microwave-oven-h36mommi?srsltid=AfmBOopZeDypHsm_XNnoi2ZMGRm1-G0SpWQFXokEmxHO4UyO3JZwvyTK",
+      "titulo": "Hisense 36L Automatic Microwave Oven | H36MOMMI – Hisense ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtAGljTOe4X9wMIuSuKw7grlmJQzSp7OWXtA&s",
+      "original": "http://hisenseshowroom.co.tz/cdn/shop/files/hisense-36l-automatic-microwave-oven-h36mommi-295.webp?v=1756351268"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/microwave/sw/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStY3azo2Wg6X1-GVShwQMD8Cdf7QlAEUO1DA&s",
+      "fuentePagina": "https://mykariakoo.co.tz/products/microwave-uk-70h",
+      "titulo": "Microwave UK 70H",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStY3azo2Wg6X1-GVShwQMD8Cdf7QlAEUO1DA&s",
+      "original": "https://mykariakoo.co.tz/cdn/shop/files/IMG-20230919-WA0012_800x.jpg?v=1695114041"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/microwave/sw/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKv9an8gv1NevkQernL17mXd-YTgU4n3OBcw&s",
+      "fuentePagina": "https://shop.sharpusa.com/sharp-1-4-cu-ft-1100w-stainless-steel-countertop-microwave-oven-smc1450ks/?srsltid=AfmBOoqoPDEaPaR8jU44dBzWNInszDBl7xiTLmjtAakPqxkQNJ_BI5qV",
+      "titulo": "1.4 cu. ft. 1100W Stainless Steel Countertop Microwave Oven",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKv9an8gv1NevkQernL17mXd-YTgU4n3OBcw&s",
+      "original": "https://cdn11.bigcommerce.com/s-8vy557m296/images/stencil/original/products/321/4715/20_SMC1450KS_3QL_WEB__49631.1744665203.JPG?c=2"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/microwave/sw/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsEAQhWVMczilWu2aBqoGeey9RxQBOacCfdQ&s",
+      "fuentePagina": "https://en.wikipedia.org/wiki/Microwave_oven",
+      "titulo": "Microwave oven - Wikipedia",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsEAQhWVMczilWu2aBqoGeey9RxQBOacCfdQ&s",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Panasonic_NN-SD69LS_20220410.jpg/250px-Panasonic_NN-SD69LS_20220410.jpg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/microwave/sw/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGnuUrx5Qh0djza70XcnVioEOEPlZP05ZDng&s",
+      "fuentePagina": "https://www.healthyfood.com/advice/back-to-basics-microwave-cooking/",
+      "titulo": "Back to basics: Microwave cooking - Healthy Food Guide",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGnuUrx5Qh0djza70XcnVioEOEPlZP05ZDng&s",
+      "original": "https://www.healthyfood.com/wp-content/uploads/2017/03/Back-to-basics-Microwave-cooking-.jpg"
+    }
+  ]
+}

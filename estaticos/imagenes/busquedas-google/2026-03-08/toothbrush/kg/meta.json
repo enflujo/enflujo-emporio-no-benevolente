@@ -1,0 +1,71 @@
+{
+  "categoria": "toothbrush",
+  "categoriaSlug": "toothbrush",
+  "idioma": "kg",
+  "nombreIdioma": "Kikongo",
+  "termino": "brosse ya minu",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:32:18.048Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "fr",
+    "gl": "cd"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=brosse%20ya%20minu&hl=fr&gl=cd",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/toothbrush/kg/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9sqForeTOg4QsDZde_qU3DIxo9tSEbmGYQg&s",
+      "fuentePagina": "https://www.instagram.com/p/Cy3MYb7NpB8/",
+      "titulo": "NZETE YA MINO🦷 l'ancêtre de la brosse à dent 🪥 Nzete ya ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9sqForeTOg4QsDZde_qU3DIxo9tSEbmGYQg&s",
+      "original": "https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3222098514216915068"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/toothbrush/kg/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIc2neJW-9aAprcY9KjOhLWoeQrqgxJ0bVkg&s",
+      "fuentePagina": "https://www.facebook.com/TeamTCHENDJEproductions/posts/nzete-ya-mino-lanc%C3%AAtre-de-la-brosse-%C3%A0-dents-lingala-nzete-ya-mino-lari-mouti-lou/4273365036060363/",
+      "titulo": "NZETE YA MINO , l'ancêtre de la brosse à dents Lingala ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIc2neJW-9aAprcY9KjOhLWoeQrqgxJ0bVkg&s",
+      "original": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=4273364842727049"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/toothbrush/kg/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZhC96KkXHMOgt37Eo-gw7ccrwqDDTeetsfg&s",
+      "fuentePagina": "https://palomabeauties.com/products/mini-brosse-a-cheveux",
+      "titulo": "Mini Brosse A Cheveux | Paloma Beauties",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZhC96KkXHMOgt37Eo-gw7ccrwqDDTeetsfg&s",
+      "original": "https://palomabeauties.com/cdn/shop/products/mini-brosse-a-cheveux-1.jpg?v=1652108404"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/toothbrush/kg/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQn9VSTMXCvf2mrGxz6xR8MWB2wJAcuqUtwNA&s",
+      "fuentePagina": "https://www.aveda.fr/product/mini-brosse-plate-en-bois-aveda",
+      "titulo": "mini brosse plate en bois Aveda | Aveda",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQn9VSTMXCvf2mrGxz6xR8MWB2wJAcuqUtwNA&s",
+      "original": "https://sdcdn.io/av/av_sku_ATL301_2000x2000_0.jpg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/toothbrush/kg/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5Cc19dxsMZDAPpIUDwzQrdg2xbfPJ7fXzLg&s",
+      "fuentePagina": "https://www.color-mania.fr/boutique/brosse-demelante-bambou-bleu-ocean-breeze-carre-mini-ilu-bamboom/",
+      "titulo": "Brosse Démêlante Bambou Bleu Ocean Breeze Carré Mini ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5Cc19dxsMZDAPpIUDwzQrdg2xbfPJ7fXzLg&s",
+      "original": "https://www.color-mania.fr/wp-content/uploads/2024/02/brosse-bamboo-bleu-color-mania-1.jpeg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/toothbrush/kg/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlf8a6FgtZ2zYll-1ngJmRAP1beXUVwQqAuw&s",
+      "fuentePagina": "https://www.parashop.tn/titania-mini-brosse-cheveux-14cm-2890?srsltid=AfmBOooJ_VB1AXJJpYqYtG_a8mbq5CC3dL4M_fzTOz4D2kmb9801-dqI",
+      "titulo": "TITANIA Mini Brosse Cheveux 14CM - 2890",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlf8a6FgtZ2zYll-1ngJmRAP1beXUVwQqAuw&s",
+      "original": "https://www.parashop.tn/image/cache/catalog/produits/titania/titania-mini-brosse-cheveux-14cm-2890-320x320.jpg.webp"
+    }
+  ]
+}

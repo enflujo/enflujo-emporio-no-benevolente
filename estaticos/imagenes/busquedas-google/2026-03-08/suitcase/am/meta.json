@@ -1,0 +1,71 @@
+{
+  "categoria": "suitcase",
+  "categoriaSlug": "suitcase",
+  "idioma": "am",
+  "nombreIdioma": "Amharic — አማርኛ",
+  "termino": "ሻንጣ",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T20:59:03.119Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "am",
+    "gl": "et"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=%E1%88%BB%E1%8A%95%E1%8C%A3&hl=am&gl=et",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/suitcase/am/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPC5LhobhTCofoxgVSYQKO61RymvDO57gf5g&s",
+      "fuentePagina": "https://hulumarket.com.et/general/%E1%88%BB%E1%8A%95%E1%8C%A3-57403",
+      "titulo": "ሻንጣ",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPC5LhobhTCofoxgVSYQKO61RymvDO57gf5g&s",
+      "original": "https://hulugram-prod.s3.eu-central-1.amazonaws.com/media/uploads/2025/10/22/2422cce1-3bc8-41bd-bdac-413ea059e362.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/suitcase/am/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNqWJnFDetX6c-XDPC4r_fhHlWj6_YZ01ExQ&s",
+      "fuentePagina": "https://www.tsxluggage.com/am/omaska-suitcase-luggage-2020-new-3pcs-set-soft-nylon-spinner-suitcase-set.html",
+      "titulo": "ቻይና 3 ፒሲኤስ አዘጋጅ ሻንጣ አዘጋጅ እና አቅራቢ ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNqWJnFDetX6c-XDPC4r_fhHlWj6_YZ01ExQ&s",
+      "original": "https://cdnus.globalso.com/tsxluggage/suitcase-set-1.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/suitcase/am/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRimXWuXW7BHTrbcBWypTOND3Kl32xD3VsyaA&s",
+      "fuentePagina": "http://am.tiger-bags.com/the-red-abs-suitcase-is-durable-and-has-rolling-suitcase-with-wheels-product/",
+      "titulo": "ሰርቫይቫል ቀይ የኤቢኤስ ሻንጣ ረጅም ጊዜ የሚቆይ ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRimXWuXW7BHTrbcBWypTOND3Kl32xD3VsyaA&s",
+      "original": "https://www.tiger-bags.com/uploads/Red-016.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/suitcase/am/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJUdUqfFUwUtX5uk0ff8150-s1Pla4QA30eg&s",
+      "fuentePagina": "https://www.tsxluggage.com/am/hard-luggage/",
+      "titulo": "ጠንካራ ሻንጣ",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJUdUqfFUwUtX5uk0ff8150-s1Pla4QA30eg&s",
+      "original": "https://cdnus.globalso.com/tsxluggage/%E4%B8%BB%E5%9B%BE_00129.jpg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/suitcase/am/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5UEvPGHuXabeoINfEmUew9YDdJY-vFlqHbQ&s",
+      "fuentePagina": "http://am.hunterbags.com/news/how-to-choose-a-better-luggage-two/",
+      "titulo": "ዜና - የተሻለ ሻንጣ እንዴት እንደሚመረጥ? (ሁለት)",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5UEvPGHuXabeoINfEmUew9YDdJY-vFlqHbQ&s",
+      "original": "http://www.hunterbags.com/uploads/How-to-choose-a-better-luggage11.png"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/suitcase/am/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJGm28DnN34PXCYpXtvC1JZCIOBrxl1YNl_w&s",
+      "fuentePagina": "https://www.facebook.com/boleinternationalcargo/posts/%E1%88%BB%E1%8A%95%E1%8C%A3-%E1%8A%A5%E1%88%B5%E1%8A%A8-25-kg-%E1%89%80%E1%8C%A5%E1%89%B3-%E1%8B%B4%E1%88%8A%E1%89%A8%E1%88%AA%E1%8B%AD%E1%8B%B0%E1%8B%8D%E1%88%89-0598110903/954528810178176/",
+      "titulo": "ሻንጣ እስከ 25 kg ቀጥታ ዴሊቨሪ ይደውሉ 0598110903",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJGm28DnN34PXCYpXtvC1JZCIOBrxl1YNl_w&s",
+      "original": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=954528776844846"
+    }
+  ]
+}

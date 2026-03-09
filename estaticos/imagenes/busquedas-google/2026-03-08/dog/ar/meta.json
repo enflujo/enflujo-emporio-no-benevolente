@@ -1,0 +1,71 @@
+{
+  "categoria": "dog",
+  "categoriaSlug": "dog",
+  "idioma": "ar",
+  "nombreIdioma": "العربية",
+  "termino": "كلب",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T20:51:14.742Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "ar",
+    "gl": "eg"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=%D9%83%D9%84%D8%A8&hl=ar&gl=eg",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/dog/ar/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRip9a2bab3G3oKHSKN95BSTuP8irAnzGsEEQ&s",
+      "fuentePagina": "https://www.canva.com/ar_eg/photos/s/dogs/",
+      "titulo": "صور كلاب للتصميم والتحميل - Canva",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRip9a2bab3G3oKHSKN95BSTuP8irAnzGsEEQ&s",
+      "original": "https://marketplace.canva.com/MACyjPLo0-I/2/thumbnail_large-1/canva-beautiful-golden-retriever-dog-breed-MACyjPLo0-I.png"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/dog/ar/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHujFjMtxVFVcZiU_jgLl0_oAFP3bUdMMVFQ&s",
+      "fuentePagina": "https://www.aljazeera.net/health/2025/9/11/%D9%85%D8%A7-%D9%87%D9%88-%D8%AF%D8%A7%D8%A1-%D8%A7%D9%84%D9%83%D9%84%D8%A8",
+      "titulo": "ما داء الكلب؟ | صحة | الجزيرة نت",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHujFjMtxVFVcZiU_jgLl0_oAFP3bUdMMVFQ&s",
+      "original": "https://www.aljazeera.net/wp-content/uploads/2025/09/shutterstock_2077639216-1757527679.jpg?resize=1800%2C1280"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/dog/ar/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZEkyftqpBON1TqJQDiLiQdubUfRLaitLr-g&s",
+      "fuentePagina": "https://www.elzmannews.com/526997",
+      "titulo": "غضب واسع بعد واقعة “كلب السويس”.. تفاصيل صادمة وروايات ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZEkyftqpBON1TqJQDiLiQdubUfRLaitLr-g&s",
+      "original": "https://img.elzmannews.com/img/26/03/08/526997.webp"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/dog/ar/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-Vj1KpEP1euT9CdIpwApgw--x0SyEs_baFQ&s",
+      "fuentePagina": "https://noblevetclinic.com/ar/dog-breeds/siberian-husky",
+      "titulo": "هاسكي سيبيري: الدليل النهائي لهذه السلالة النشيطة والمرحة",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-Vj1KpEP1euT9CdIpwApgw--x0SyEs_baFQ&s",
+      "original": "https://noble-vet.b-cdn.net/dog-breeds/CZXNFUcodt9YrQcdMQb2JTMrk.jpg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/dog/ar/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPwCWmpnTsNjDGi6pY3mMmGZvqTJeUOBQ6Iw&s",
+      "fuentePagina": "https://www.facebook.com/burakozcii/",
+      "titulo": "معلومات عن الكلاب | Tangier",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPwCWmpnTsNjDGi6pY3mMmGZvqTJeUOBQ6Iw&s",
+      "original": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=100066779271137"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/dog/ar/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpTuUi7fmgykWOCGu21GhxY8ARWyt5L-aqeA&s",
+      "fuentePagina": "https://ar.wikipedia.org/wiki/%D9%83%D9%84%D8%A8_%D8%B4%D8%B1%D8%B7%D8%A9",
+      "titulo": "كلب شرطة - ويكيبيديا",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpTuUi7fmgykWOCGu21GhxY8ARWyt5L-aqeA&s",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Declassified_image_of_Conan%2C_the_dog_who_chased_al-Baghdadi.jpg"
+    }
+  ]
+}

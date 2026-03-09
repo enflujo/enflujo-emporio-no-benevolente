@@ -1,0 +1,71 @@
+{
+  "categoria": "couch",
+  "categoriaSlug": "couch",
+  "idioma": "pt",
+  "nombreIdioma": "Português",
+  "termino": "sofá",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:18:08.827Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "pt",
+    "gl": "br"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=sof%C3%A1&hl=pt&gl=br",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/couch/pt/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTL5KKk3_mQgh-S4FzRdIi3it6JTGkJU81UNA&s",
+      "fuentePagina": "https://www.pontofrio.com.br/sofa-4-lugares-cama-inbox-belem-retratil-e-reclinavel-revestido-em-suede-velusoft-230cm-de-largura/p/55062675",
+      "titulo": "Sofá 4 Lugares Cama inBox Belém Retrátil e Reclinável Revestido em Suede  Velusoft - 230cm de largura - SOFA 4L 230 RET/RECL CAMAINBOX BELEM  SUEVELSOFT ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTL5KKk3_mQgh-S4FzRdIi3it6JTGkJU81UNA&s",
+      "original": "https://imgs.ponto.com.br/55062675/1g.jpg?imwidth=500"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/couch/pt/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0yTz_unmg4Wu8lbYbP3Zkbfaux27T-C3epQ&s",
+      "fuentePagina": "https://www.fabrispuma.com.br/sofa-retratil-e-reclinavel-suica-veludo-bege-180cm?srsltid=AfmBOooSfTYZr8IdYinolSTqPEFIFB76idiqlaZPi9vF22586NOZsHUW",
+      "titulo": "Sofá 2 Lugares Suíça Retrátil e Reclinável Veludo Bege 180cm",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0yTz_unmg4Wu8lbYbP3Zkbfaux27T-C3epQ&s",
+      "original": "https://images.tcdn.com.br/img/img_prod/1083165/sofa_2_lugares_suica_retratil_e_reclinavel_veludo_bege_180cm_5959_3_6e4df71ea653acf1f33912eda56ba77e.png"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/couch/pt/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwS9nqjWEfTAZ3rp0MLRVj76YYdOOEQqkr3A&s",
+      "fuentePagina": "https://lojamoveisbrasil.com.br/sala-de-estar/sofa/sofa-milano-retratil-2-50m--p?srsltid=AfmBOoo5ep78yDUK3P4kxL41moQ9kz-08mQv8MNHL63ttDZUMzlLXASv",
+      "titulo": "Sofá Milano Retrátil 2.50m",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwS9nqjWEfTAZ3rp0MLRVj76YYdOOEQqkr3A&s",
+      "original": "https://79424.cdn.lojaquevende.com.br/static/79424/sku/sala-de-estar-sofa-sofa-milano-retratil-2-50m--p-1660668887405.png"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/couch/pt/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRV2_tSs_QcDgMSJ7_x6JaNjbMy7Lyo8dlsg&s",
+      "fuentePagina": "https://www.sofisticatoestofados.com.br/sofa-magno-retratil-e-reclinavel-332-397.html?srsltid=AfmBOoq5R43kESRtfewoYVbsSO7KEEyxcMfPYnwI2T_2LFjDJhwGAI4b",
+      "titulo": "Sofá Magno 3,32x3,97m de Canto, Retrátil e Reclinável",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRV2_tSs_QcDgMSJ7_x6JaNjbMy7Lyo8dlsg&s",
+      "original": "https://www.sofisticatoestofados.com.br/media/tmp/webp/catalog/product/cache/1/image/800x/9df78eab33525d08d6e5fb8d27136e95/c/a/canto_magno_332x332_rose_modelo_2_jpg.webp"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/couch/pt/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiolgHeYxYIWTS8xM5GrGjQ6sbGnvfiv2tgg&s",
+      "fuentePagina": "https://www.fabrispuma.com.br/sofa-retratil-com-diva-esquerdo-merlot-saturno-cinza-310cm?srsltid=AfmBOopUlyxryDLkoJ12QEnESR4p1wQibphfemudcILYZUrvYGH4Pzpt",
+      "titulo": "Sofá Retrátil Merlot Cinza|Conforto e Elegncia",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiolgHeYxYIWTS8xM5GrGjQ6sbGnvfiv2tgg&s",
+      "original": "https://images.tcdn.com.br/img/img_prod/1083165/sofa_5_lugares_merlot_retratil_c_diva_esquerdo_cinza_310cm_5983_2_d80b9c26f77e790c5e1117a663de44ac.png"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/couch/pt/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuvAfQlK0Jj_wiPWLFDgo_zbWjw3iUx74bUA&s",
+      "fuentePagina": "https://www.sofainbox.com.br/sofa-retratil-e-reclinavel-3-52m-molas-ensacadas-tronnus-espuma-viscoelastico-cafe/p?srsltid=AfmBOoqGWZbEQkAC6nh6uau1mXTmA5-Ys6vhxRlhLLZ14ZPQc7pHMSij",
+      "titulo": "Sofa Retratil Reclinavel com molas Tronnus 3,52m Café",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuvAfQlK0Jj_wiPWLFDgo_zbWjw3iUx74bUA&s",
+      "original": "https://sofainbox.vtexassets.com/arquivos/ids/178696/1_sofa_retratil_reclinavel_tronnus__ambiente_vinho.jpg?v=638950035209200000"
+    }
+  ]
+}

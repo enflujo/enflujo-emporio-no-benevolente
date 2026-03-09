@@ -1,0 +1,71 @@
+{
+  "categoria": "elephant",
+  "categoriaSlug": "elephant",
+  "idioma": "nah",
+  "nombreIdioma": "Náhuatl",
+  "termino": "elefante",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T20:54:00.152Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "es",
+    "gl": "mx"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=elefante&hl=es&gl=mx",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/elephant/nah/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQx5CI6k07QjdF2SgcqfzMWnP9vK2MqdNp66w&s",
+      "fuentePagina": "https://www.worldwildlife.org/descubre-wwf/historias/9-datos-sorprendentes-sobre-los-elefantes",
+      "titulo": "9 datos sorprendentes sobre los elefantes | Historias ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQx5CI6k07QjdF2SgcqfzMWnP9vK2MqdNp66w&s",
+      "original": "https://files.worldwildlife.org/wwfcmsprod/images/elephants_at_water_hole_WW2122503_Anup_Shah/hero_small/52dp251ljx_Medium_WW2122503.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/elephant/nah/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgASBykd3zZT6RNLEnVxHSqhu50ElXFjB1Tg&s",
+      "fuentePagina": "https://www.freepik.es/fotos-vectores-gratis/elefante",
+      "titulo": "Imágenes de Elefante - Descarga gratuita en Freepik",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgASBykd3zZT6RNLEnVxHSqhu50ElXFjB1Tg&s",
+      "original": "https://img.freepik.com/vector-gratis/lindo-personaje-dibujos-animados-elefante_1308-146090.jpg?semt=ais_rp_50_assets&w=740&q=80"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/elephant/nah/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtCEdmau3RbpkTMGdxsysYQTMSOLU4G7FXSQ&s",
+      "fuentePagina": "https://safariavventura.com/es/elefante-africano-caracteristicas-tipos-y-que-comen-los-elefantes/",
+      "titulo": "Elefante africano: características, tipos y qué comen los ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtCEdmau3RbpkTMGdxsysYQTMSOLU4G7FXSQ&s",
+      "original": "https://safariavventura.com/wp-content/uploads/2017/10/pachiderma-africano-1-1024x682.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/elephant/nah/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0s66HVxByNjZkpeSzRMskYvj0Whingn5y9A&s",
+      "fuentePagina": "https://ecologiaverde.elperiodico.com/elefante-5702.html",
+      "titulo": "Elefante - Características, hábitat, alimentación y reproducción",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0s66HVxByNjZkpeSzRMskYvj0Whingn5y9A&s",
+      "original": "https://cdn0.ecologiaverde.com/es/posts/2/0/7/elefante_5702_600.jpg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/elephant/nah/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpL4ARi3AdF1XfzbjFRvpkQCe9BHRa5Sx5lg&s",
+      "fuentePagina": "https://www.worldwildlife.org/descubre-wwf/historias/9-datos-sorprendentes-sobre-los-elefantes",
+      "titulo": "9 datos sorprendentes sobre los elefantes | Historias ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpL4ARi3AdF1XfzbjFRvpkQCe9BHRa5Sx5lg&s",
+      "original": "https://files.worldwildlife.org/wwfcmsprod/images/African_Elephant_Walking/story_carousel/3arzfzjsw0_Medium_WW1113482.jpg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/elephant/nah/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOGbasxq2Z7eiuGtz0BL_SF58lAVZz7XTaMQ&s",
+      "fuentePagina": "https://cl.pinterest.com/pin/507077239317557856/",
+      "titulo": "Caricatura De Elefante PNG ,dibujos Imágenes Prediseñadas De ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOGbasxq2Z7eiuGtz0BL_SF58lAVZz7XTaMQ&s",
+      "original": "https://i.pinimg.com/736x/05/d5/7c/05d57c57d95bcb09546a734df6dd429c.jpg"
+    }
+  ]
+}

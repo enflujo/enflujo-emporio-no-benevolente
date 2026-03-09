@@ -1,0 +1,71 @@
+{
+  "categoria": "parking meter",
+  "categoriaSlug": "parking-meter",
+  "idioma": "kg",
+  "nombreIdioma": "Kikongo",
+  "termino": "compteur",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T20:48:24.435Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "fr",
+    "gl": "cd"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=compteur&hl=fr&gl=cd",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/parking-meter/kg/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkcM3JDQd1SOqgbdY_8nxsOoIHM-Jt39ykjg&s",
+      "fuentePagina": "https://www.ismartmeters.com/fr/produit/compteur-denergie-intelligent/bs-type-de-compteur-electronique/",
+      "titulo": "Compteur électronique",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkcM3JDQd1SOqgbdY_8nxsOoIHM-Jt39ykjg&s",
+      "original": "https://www.ismartmeters.com/wp-content/uploads/2017/10/DDSY1598-Three-Phase-Smart-Meter.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/parking-meter/kg/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPtzKzISGF8utU64cGmCi3qPhlaEWp0vxsKw&s",
+      "fuentePagina": "https://www.batiproduits.com/fiche/produits/compteur-d-energie-communicant-serie-7e-p188227115.html",
+      "titulo": "Compteur d'énergie communicant | Série 7E - Finder",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPtzKzISGF8utU64cGmCi3qPhlaEWp0vxsKw&s",
+      "original": "https://www.batiproduits.com/img/compteur-d-energie-communicant-serie-7e-008903700-product_maxi.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/parking-meter/kg/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQW76LPVcXGj1bgKquP31ezNmMd8pR3zsyjxA&s",
+      "fuentePagina": "https://www.ismartmeters.com/fr/products/compteur-prepaye-monophase-monobloc-deux-fils-ddsy1598/",
+      "titulo": "Compteur prépayé monophasé STS DDSY1598 pour EDM Mali",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQW76LPVcXGj1bgKquP31ezNmMd8pR3zsyjxA&s",
+      "original": "https://www.ismartmeters.com/wp-content/uploads/2018/07/Compteur-prepaye-monophase-monobloc-deux-fils-DDSY1598.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/parking-meter/kg/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9uW68x44M2iBjKFW3oBzi8iedpCxqk3W-vw&s",
+      "fuentePagina": "https://www.ismartmeters.com/fr/products/compteur-electronique-monophase-dds1598/",
+      "titulo": "Compteur électronique monophasé DDS1598 pour africain",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9uW68x44M2iBjKFW3oBzi8iedpCxqk3W-vw&s",
+      "original": "https://www.ismartmeters.com/wp-content/uploads/2018/07/Compteur-electronique-monophase-DDS1598-1.jpg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/parking-meter/kg/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3lGG3yu8i1e9fwNfEnYoSLh3LdP53oEUhfQ&s",
+      "fuentePagina": "https://www.adgeau.com/compteurs-d-eau/1643-compteurs-a-jets-multiples.html",
+      "titulo": "Compteur d'eau à jets multiples - ADG",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3lGG3yu8i1e9fwNfEnYoSLh3LdP53oEUhfQ&s",
+      "original": "https://www.adgeau.com/1177-thickbox_default/compteurs-a-jets-multiples.jpg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/parking-meter/kg/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTabNFPnbEEUNXAFo1XTh8Xy59v7y5ol0gW1A&s",
+      "fuentePagina": "https://fr.made-in-china.com/co_shanghailingrui/product_Dd28-Dd862-Kilo-Watt-Hour-Meter_uignyh.html",
+      "titulo": "Dd862 Compteur d'énergie électrique électromécanique ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTabNFPnbEEUNXAFo1XTh8Xy59v7y5ol0gW1A&s",
+      "original": "https://image.made-in-china.com/202f0j00ZyIkVLdPbtpU/Dd862-Compteur-d-nergie-lectrique-lectrom-canique-monophas-Kwh.webp"
+    }
+  ]
+}

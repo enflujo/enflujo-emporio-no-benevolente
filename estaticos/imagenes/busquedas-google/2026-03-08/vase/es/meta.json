@@ -1,0 +1,71 @@
+{
+  "categoria": "vase",
+  "categoriaSlug": "vase",
+  "idioma": "es",
+  "nombreIdioma": "Español",
+  "termino": "jarrón",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:30:01.061Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "es",
+    "gl": "es"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=jarr%C3%B3n&hl=es&gl=es",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/vase/es/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsjWaOVfO7vy4z_yCCVjEGQmWRwqmQ6cEYoA&s",
+      "fuentePagina": "https://www.amazon.es/SIDUCAL-terracota-blanqueada-decorativo-decoraci%C3%B3n/dp/B0CJ6N26VT",
+      "titulo": "SIDUCAL Jarrón rústico de cerámica con 2 Asas, jarrón de ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsjWaOVfO7vy4z_yCCVjEGQmWRwqmQ6cEYoA&s",
+      "original": "https://m.media-amazon.com/images/I/81nnEV80s7L._AC_UF894,1000_QL80_.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/vase/es/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuudIQ7WxsPQywzv8IXGlBmHfi5iWSwHq9CQ&s",
+      "fuentePagina": "https://www.ceramicfromspain.com/de/inicio/1035-jarron-de-ceramica-51cm.html",
+      "titulo": "Jarrón de cerámica 51cm.",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuudIQ7WxsPQywzv8IXGlBmHfi5iWSwHq9CQ&s",
+      "original": "https://www.ceramicfromspain.com/14732-large_default/jarron-de-ceramica-51cm.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/vase/es/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBvH2OUwj__Y69_YoEAGLDe9ZlDCCO3bVQ1g&s",
+      "fuentePagina": "https://www.arrelart.com/es/jarrones/jarron-ceramico-grecia.html",
+      "titulo": "Jarrón Cerámico Envejecido Grecia - Arrelart",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBvH2OUwj__Y69_YoEAGLDe9ZlDCCO3bVQ1g&s",
+      "original": "https://www.arrelart.com/18760-large_default/jarron-ceramico-grecia.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/vase/es/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZK9SP7OcY40IodjCC6VomHaPiPP4GPRCQOA&s",
+      "fuentePagina": "https://es.wikipedia.org/wiki/Jarr%C3%B3n",
+      "titulo": "Jarrón - Wikipedia, la enciclopedia libre",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZK9SP7OcY40IodjCC6VomHaPiPP4GPRCQOA&s",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/b/b8/Chinese_vase.jpg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/vase/es/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_XVFMQsTmf8Sy6eeVQRfk0teO7vt0CtjiCA&s",
+      "fuentePagina": "https://www.conely.es/jarron-ceramica-pintado-floral-ultimo",
+      "titulo": "Jarrón cerámica dibujo artesanal floral",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_XVFMQsTmf8Sy6eeVQRfk0teO7vt0CtjiCA&s",
+      "original": "https://www.conely.es/25717-large_default/jarron-ceramica-pintado-floral-ultimo.jpg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/vase/es/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTky8XU65aNw5PblYI2D0yLkbnCYlwaUdZYSA&s",
+      "fuentePagina": "https://www.amazon.es/PORCER-cer%C3%A1mica-terracota-decorativo-decoraci%C3%B3n/dp/B0CKBQMFYF",
+      "titulo": "PORCER Jarrón de cerámica antigua de 9.3 pulgadas, jarrón de ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTky8XU65aNw5PblYI2D0yLkbnCYlwaUdZYSA&s",
+      "original": "https://m.media-amazon.com/images/I/916jqCudJ7L._AC_UF894,1000_QL80_.jpg"
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "categoria": "cow",
+  "categoriaSlug": "cow",
+  "idioma": "sw",
+  "nombreIdioma": "Kiswahili",
+  "termino": "ng'ombe",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T20:52:54.726Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "sw",
+    "gl": "tz"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=ng'ombe&hl=sw&gl=tz",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/cow/sw/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyKDmJn3_YWvE0UpQjSW0ydV02TvGNtFWeNQ&s",
+      "fuentePagina": "http://agricareenterprises.blogspot.com/2017/01/kanuni-za-ufugaji-bora-wa-ngombe.html",
+      "titulo": "AGRICARE ENTERPRISES: KANUNI ZA UFUGAJI BORA WA NG'OMBE",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyKDmJn3_YWvE0UpQjSW0ydV02TvGNtFWeNQ&s",
+      "original": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEih0I2GNx8h-UMk15Jevx3alZQMC-sfLq8KP1Fkn0reo3XMZfvoe1cPSiR0xBD-40cqbocdx9jpu9N4MFJdMwXdvSReFx7H_SyA0HBuyq9tXm1t7vfEI4b7DV0I8pfqcnUyTCBZ4vHFy7k/s1600/Ngombe.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/cow/sw/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgN2l6I4xdez8o4ibeIC_-p1BorDFtRK1trg&s",
+      "fuentePagina": "https://sw.wikipedia.org/wiki/Ng%27ombe",
+      "titulo": "Ng'ombe - Wikipedia, kamusi elezo huru",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgN2l6I4xdez8o4ibeIC_-p1BorDFtRK1trg&s",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/8/8a/Nguni_cattle.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/cow/sw/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThNuVf8Q0bnk5y-X705uYwl47kcHCKsKx68g&s",
+      "fuentePagina": "https://www.youtube.com/watch?v=jkmutfQ617I",
+      "titulo": "UFUGAJI BORA WA NG'OMBE WA NYAMA",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThNuVf8Q0bnk5y-X705uYwl47kcHCKsKx68g&s",
+      "original": "https://i.ytimg.com/vi/jkmutfQ617I/maxresdefault.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/cow/sw/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-LNMUoFwVEaA0F5KmpBWOwTY6be90Fj5s7g&s",
+      "fuentePagina": "https://www.taliri.go.tz/highlights/malya-bucks",
+      "titulo": "TALIRI | Ng'ombe wa Nyama",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-LNMUoFwVEaA0F5KmpBWOwTY6be90Fj5s7g&s",
+      "original": "https://www.taliri.go.tz/uploads/highlights/7e26061c67e72567d30e63e148c62815.jpeg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/cow/sw/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMNli4N_EDJNPcJcN7_rV68df4Fqdxc0eMFQ&s",
+      "fuentePagina": "https://sukumalegacy.org/2017/06/05/nzagamba-ya-ngombe-na-ngi/",
+      "titulo": "48. Nzagamba Ya Ng'ombe Na Ngi | Sukuma Legacy Project",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMNli4N_EDJNPcJcN7_rV68df4Fqdxc0eMFQ&s",
+      "original": "https://sukumalegacy.org/wp-content/uploads/2017/06/watusi-cattle.jpg?w=640"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/cow/sw/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmjQmjr5a0STVQAwuae1lHeCYaGeTqL15siQ&s",
+      "fuentePagina": "https://www.instagram.com/p/Cg9SXLPDIra/",
+      "titulo": "JE, UNATAKA UWE NA NG'OMBE MWENYE KIWELE BORA?? •skia ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmjQmjr5a0STVQAwuae1lHeCYaGeTqL15siQ&s",
+      "original": "https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=2899554492545272538"
+    }
+  ]
+}

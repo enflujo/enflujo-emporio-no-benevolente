@@ -1,0 +1,71 @@
+{
+  "categoria": "teddy bear",
+  "categoriaSlug": "teddy-bear",
+  "idioma": "kg",
+  "nombreIdioma": "Kikongo",
+  "termino": "nounours",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:30:57.507Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "fr",
+    "gl": "cd"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=nounours&hl=fr&gl=cd",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/teddy-bear/kg/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRF-6N8vDwklgremUpREwDqT7X3duQ29NtZ9w&s",
+      "fuentePagina": "https://www.amazon.fr/BRUBAKER-Peluche-g%C3%A9ante-XXL-Nounours/dp/B089DJLX5M",
+      "titulo": "BRUBAKER - Peluche géante XXL - Ours/Nounours - 100 cm ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRF-6N8vDwklgremUpREwDqT7X3duQ29NtZ9w&s",
+      "original": "https://m.media-amazon.com/images/I/81BOE2qaGPL._AC_UF1000,1000_QL80_.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/teddy-bear/kg/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSj2b_wuY4CWO3uF2rIXYBdgx-e0lkzGPn1yw&s",
+      "fuentePagina": "https://www.unecuillerepourdoudou.com/peluche-ours-nounours/4117-love-you-plush-company.html?srsltid=AfmBOopvOSoOoudA3QhPrqIOC0A4ToRfDh1wlmtzOx9HVk4f6FXtKxow",
+      "titulo": "Nounours I Love You Miel Plush and Company (30cm)",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSj2b_wuY4CWO3uF2rIXYBdgx-e0lkzGPn1yw&s",
+      "original": "https://www.unecuillerepourdoudou.com/19211-medium_default/love-you-plush-company.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/teddy-bear/kg/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTjmThFHOdQEsl3w8oBc2jIlBVLWKktMS0ig&s",
+      "fuentePagina": "https://peluche-geante.com/blogs/infos/que-signifie-nounours?srsltid=AfmBOopFZcL1iBeSrUeTQ4NEIVYKmgJvBEwwXj5EEMda_9P6Nj0mpEQo",
+      "titulo": "Que Signifie Nounours - Tout Savoir sur le Symbole de l ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTjmThFHOdQEsl3w8oBc2jIlBVLWKktMS0ig&s",
+      "original": "http://peluche-geante.com/cdn/shop/articles/que-signifie-nounours.jpg?v=1719573496"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/teddy-bear/kg/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcToLl_IEerdSH7utUGMhdqTNKTWXiRprvwXEA&s",
+      "fuentePagina": "https://in.pinterest.com/pin/932526666646904016/",
+      "titulo": "Bella - Gros Nounours Blanc",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcToLl_IEerdSH7utUGMhdqTNKTWXiRprvwXEA&s",
+      "original": "https://i.pinimg.com/736x/0d/95/0b/0d950bb4dd2161762569ac85d897fbb8.jpg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/teddy-bear/kg/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQVtPmhKDEK92ubx5eLi0OsJC1hQCRRUvEPg&s",
+      "fuentePagina": "https://www.patoutatis.com/peluche-ours-nounours-60658-beige.htm",
+      "titulo": "Peluche ours - nounours",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQVtPmhKDEK92ubx5eLi0OsJC1hQCRRUvEPg&s",
+      "original": "https://cdn.store-factory.com/www.patoutatis.com/content/product_11125402b.jpg?v=1595591872"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/teddy-bear/kg/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYKr7bkGK-Xipbkg97dPOIYRsq3rrJp51agw&s",
+      "fuentePagina": "https://peluche-avenue.com/products/nounours-en-peluche?srsltid=AfmBOoqB6xN4x0C7LQPi1jMyV4loRlfYRTWgJmuZAkTeigIAuRmzza5p",
+      "titulo": "Nounours en Peluche | Peluche Avenue",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYKr7bkGK-Xipbkg97dPOIYRsq3rrJp51agw&s",
+      "original": "http://peluche-avenue.com/cdn/shop/files/nounours-en-peluche-936.webp?v=1719266274"
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "categoria": "knife",
+  "categoriaSlug": "knife",
+  "idioma": "rw",
+  "nombreIdioma": "Kinyarwanda",
+  "termino": "imbugita",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:08:37.763Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "en",
+    "gl": "rw"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=imbugita&hl=en&gl=rw",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/knife/rw/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRu-UTXlj_UirrDl3ufk_0VvvU_8ck6_ev0Hg&s",
+      "fuentePagina": "https://www.facebook.com/Isanganiro/posts/umuhungu-wimyaka-15-yarishwe-asogoswe-imbugita-mwizosi-ku-mutumba-cabara-muri-ko/3612256675509629/",
+      "titulo": "Umuhungu w'imyaka 15 yarishwe asogoswe imbugita mw'izosi ku ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRu-UTXlj_UirrDl3ufk_0VvvU_8ck6_ev0Hg&s",
+      "original": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=3612278968840733"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/knife/rw/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQphp0cnyXsLeWX-8fP5QpIMIADz7dDQRim7w&s",
+      "fuentePagina": "https://murukali.com/products/kitchen-knife-1?srsltid=AfmBOoqkkhrc3sNtJe38oQZmLA_h87HI26qlPuCUvEEevKLdpEuXc5In",
+      "titulo": "Kitchen Knife | Best Price in 2024 at murukali.com ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQphp0cnyXsLeWX-8fP5QpIMIADz7dDQRim7w&s",
+      "original": "https://murukali.com/cdn/shop/files/Kitchen-Knife-murukali-com-2556_467x700.jpg?v=1744978153"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/knife/rw/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTGmehDy-8Llm38k-HXDyqHvKCJ3HssClLmg&s",
+      "fuentePagina": "https://www.facebook.com/professormaurice/posts/iyi-si-umunyeshuri-wimyaka-17-i-karongi-mu-rwanda-yasohowemu-ishuri-kubera-gusak/1526594719470442/",
+      "titulo": "Iyi si|| Umunyeshuri w'imyaka 17 i Karongi mu Rwanda ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTGmehDy-8Llm38k-HXDyqHvKCJ3HssClLmg&s",
+      "original": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=1526594699470444"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/knife/rw/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRo4Bf7BitNOQ8nZq5d4vJbvgfg3Zc9OtPRuw&s",
+      "fuentePagina": "https://www.bbc.com/gahuza/amakuru-58126356",
+      "titulo": "Tokyo: igitero c'imbugita muri gari ya moshi cakomerekeje ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRo4Bf7BitNOQ8nZq5d4vJbvgfg3Zc9OtPRuw&s",
+      "original": "https://ichef.bbci.co.uk/ace/ws/640/cpsprodpb/A926/production/_119820334_bd5dec48-dccc-4801-b82c-f99010a7b546.jpg.webp"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/knife/rw/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTml7jfbXez4nIXbAgQtI6iXPos8Ip3pX55LQ&s",
+      "fuentePagina": "https://www.youtube.com/watch?v=dDxJ-romrho",
+      "titulo": "BUKEYENEZA EPISODE 11// ANITHA ACUMISE IMBUGITA BAKAME YOHOO AMARIRA  NIMENSHI KURI BUKEYENEZA",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTml7jfbXez4nIXbAgQtI6iXPos8Ip3pX55LQ&s",
+      "original": "https://i.ytimg.com/vi/dDxJ-romrho/hq720.jpg?sqp=-oaymwE7CK4FEIIDSFryq4qpAy0IARUAAAAAGAElAADIQj0AgKJD8AEB-AH-CYAC0AWKAgwIABABGDQgZSgqMA8=&rs=AOn4CLAcQaZ44j8bB2tqyXt56ps4c2Gg8Q"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/knife/rw/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxHulzD4GokBMxM-F61xcGKVzC6lXGOR7b7Q&s",
+      "fuentePagina": "https://www.youtube.com/watch?v=gVLPT6XxzQU",
+      "titulo": "LEILLA ACUMISE IMBUGITA PRINCIA AMWISHUZA IMPUZU YAMWIVYE",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxHulzD4GokBMxM-F61xcGKVzC6lXGOR7b7Q&s",
+      "original": "https://i.ytimg.com/vi/gVLPT6XxzQU/maxresdefault.jpg"
+    }
+  ]
+}

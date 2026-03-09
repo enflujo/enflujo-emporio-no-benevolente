@@ -1,0 +1,71 @@
+{
+  "categoria": "mouse",
+  "categoriaSlug": "mouse",
+  "idioma": "es",
+  "nombreIdioma": "Español",
+  "termino": "ratón",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:22:44.734Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "es",
+    "gl": "es"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=rat%C3%B3n&hl=es&gl=es",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/mouse/es/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0aurWc4_2j-A94tfz_bcxsdu1Wbg6rRn12A&s",
+      "fuentePagina": "https://es.wikipedia.org/wiki/Mus_(animal)",
+      "titulo": "Mus (animal) - Wikipedia, la enciclopedia libre",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0aurWc4_2j-A94tfz_bcxsdu1Wbg6rRn12A&s",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/0/0d/%D0%9C%D1%8B%D1%88%D1%8C_2.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/mouse/es/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTSbfeV0O7THLf2aOhxVBdJOrLZhmYDJqzHQ&s",
+      "fuentePagina": "https://desinfecciones-cimax.es/raton-domestico-mus-musculus/",
+      "titulo": "Ratón doméstico (Mus Musculus - Cimax-Desinfecciones",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTSbfeV0O7THLf2aOhxVBdJOrLZhmYDJqzHQ&s",
+      "original": "https://desinfecciones-cimax.es/wp-content/uploads/2019/04/Control-de-plagas-Barcelona-raton-domestico-musculus.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/mouse/es/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8otr-dhowyNZt2-cZ7p8IAFqzcCNBvYWqZw&s",
+      "fuentePagina": "https://www.rentokil.com/es/blog/ratones/rata-o-raton-como-diferenciarlos",
+      "titulo": "Sabrías diferenciar una rata de un ratón? | Rentokil España",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8otr-dhowyNZt2-cZ7p8IAFqzcCNBvYWqZw&s",
+      "original": "https://www.rentokil.com/dam/jcr:802e842c-8ee2-4732-9d4a-995cbba3b191/rentokil-rata-versus-raton-es.webp"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/mouse/es/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbta10WZ7oTm3k3jLsGzRYQHH-Cy2JxyVCVA&s",
+      "fuentePagina": "https://www.swissinno.com/es/centro-de-conocimiento/biblioteca-de-plagas/raton-de-madera",
+      "titulo": "SWISSINNO | Ratón de madera (Mulot) | Identificar y ahuyentar",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbta10WZ7oTm3k3jLsGzRYQHH-Cy2JxyVCVA&s",
+      "original": "https://www.swissinno.com/files/user_upload/Waldmaus_Mobile.jpg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/mouse/es/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7Imde5pfq__dPzKaZMGUgPN5lRCwpmi-Gww&s",
+      "fuentePagina": "https://bioseguridad.net/rodenticida/ratones-caracteristicas-pautas-gestion-integrada-eficaz/",
+      "titulo": "Ratones-Características y pautas para una gestión integrada ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7Imde5pfq__dPzKaZMGUgPN5lRCwpmi-Gww&s",
+      "original": "https://bioseguridad.net/wp-content/uploads/2025/05/raton1.png"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/mouse/es/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdPgTD5SJNWUrNae9ywos8cx_VY7IULaW5nQ&s",
+      "fuentePagina": "https://www.freepik.es/fotos-vectores-gratis/raton-dibujo",
+      "titulo": "Imágenes de Raton dibujo - Descarga gratuita en Freepik",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdPgTD5SJNWUrNae9ywos8cx_VY7IULaW5nQ&s",
+      "original": "https://img.freepik.com/vector-gratis/diseno-etiqueta-lindo-raton-aislado_1308-59360.jpg?semt=ais_rp_50_assets&w=740&q=80"
+    }
+  ]
+}

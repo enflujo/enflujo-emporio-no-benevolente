@@ -1,0 +1,71 @@
+{
+  "categoria": "banana",
+  "categoriaSlug": "banana",
+  "idioma": "pt",
+  "nombreIdioma": "Português",
+  "termino": "banana",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:11:08.475Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "pt",
+    "gl": "br"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=banana&hl=pt&gl=br",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/banana/pt/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRE1b4KUlYWO_WHIej_4An7VOoaMV0imJYgA&s",
+      "fuentePagina": "https://www.drogaraia.com.br/blog/alimentacao/receitas/beneficios-da-banana",
+      "titulo": "10 benefícios da banana que provavelmente você não conhece ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRE1b4KUlYWO_WHIej_4An7VOoaMV0imJYgA&s",
+      "original": "https://www.drogaraia.com.br/_next/image?url=https%3A%2F%2Fimg.drogaraia.com.br%2Fuploads%2F2024%2F04%2Fadobestock_215784483_easy-resize.jpg&w=3840&q=75"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/banana/pt/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHlL6yoi89pGz-08CupN6qSa8NYH1CV5qxvA&s",
+      "fuentePagina": "https://www.hortifrutiorganico.com.br/inicio/44-banana-organica-prata-1-kg.html?srsltid=AfmBOop4c3j7mWACIOLBEOqjJmgciuJ1kt8-I0YjI8pmZYBRaQFZkyh_",
+      "titulo": "Banana Orgânica Prata 1 KG",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHlL6yoi89pGz-08CupN6qSa8NYH1CV5qxvA&s",
+      "original": "https://www.hortifrutiorganico.com.br/121-large_default/banana-organica-prata-1-kg.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/banana/pt/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyOnpln-YaRi-maL_UHOgcUYXrnr6RZPMMlw&s",
+      "fuentePagina": "https://pt.wikipedia.org/wiki/Banana",
+      "titulo": "Banana – Wikipédia, a enciclopédia livre",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyOnpln-YaRi-maL_UHOgcUYXrnr6RZPMMlw&s",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/a/af/Bananas_%28Alabama_Extension%29.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/banana/pt/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxgU5RnaCl8Y1bspOZ5HkxlOSa1iKQc9G5vw&s",
+      "fuentePagina": "https://www.proativaalimentos.com.br/banana",
+      "titulo": "BANANA",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxgU5RnaCl8Y1bspOZ5HkxlOSa1iKQc9G5vw&s",
+      "original": "https://www.proativaalimentos.com.br/image/cache/catalog/img_prod/blog_tetrapak_banana-atleta[1]-1000x1000.png"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/banana/pt/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbruUvKiPC0I5JXa98jcPEhiXpgDnadYio2g&s",
+      "fuentePagina": "https://www.instagram.com/p/DVlikHHDi9k/",
+      "titulo": "A temporada mais doce do ano está aberta. As Bananas lideram ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbruUvKiPC0I5JXa98jcPEhiXpgDnadYio2g&s",
+      "original": "https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3847633456868509142"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/banana/pt/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTEYcd39TEwyi9f4LgKLfv71xR2n6O36pxDg&s",
+      "fuentePagina": "https://www.infoescola.com/frutas/banana/",
+      "titulo": "Banana - Nutrientes e Benefícios para a saúde - Frutas ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTEYcd39TEwyi9f4LgKLfv71xR2n6O36pxDg&s",
+      "original": "https://www.infoescola.com/wp-content/uploads/2010/04/banana_600797891.jpg"
+    }
+  ]
+}

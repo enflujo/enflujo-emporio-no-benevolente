@@ -1,0 +1,71 @@
+{
+  "categoria": "bowl",
+  "categoriaSlug": "bowl",
+  "idioma": "ha",
+  "nombreIdioma": "Hausa",
+  "termino": "kwano",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:10:05.454Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "ha",
+    "gl": "ng"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=kwano&hl=ha&gl=ng",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bowl/ha/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7wVtoXUxpGl5oKJH4N8Q2LaEADYDEItdeyQ&s",
+      "fuentePagina": "https://www.instagram.com/p/C16aiK_oYgI/",
+      "titulo": "N4,500. 3pcs kwano set. If you're buying 5 sets and above ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7wVtoXUxpGl5oKJH4N8Q2LaEADYDEItdeyQ&s",
+      "original": "https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3277048376341923848"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bowl/ha/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIsWVVIol-RUfH8R3xtJb2yk4mMcSpCGi3JA&s",
+      "fuentePagina": "https://www.gettyimages.com/detail/photo/kwano-on-sale-at-market-royalty-free-image/1282125506",
+      "titulo": "Kwano On Sale At Market High-Res Stock Photo - Getty Images",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIsWVVIol-RUfH8R3xtJb2yk4mMcSpCGi3JA&s",
+      "original": "https://media.gettyimages.com/id/1282125506/photo/kwano-on-sale-at-market.jpg?s=1024x1024&w=gi&k=20&c=8JKRu6OUwWA4iLz9PU6A2pq_FLbP5KMgnPpOgyiI1kY="
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bowl/ha/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRd3MXDaoSdIYag1XnYjNNWNLC5J2UhdUD6nw&s",
+      "fuentePagina": "https://ha.wikipedia.org/wiki/Kwano",
+      "titulo": "Kwano - Wikipedia",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRd3MXDaoSdIYag1XnYjNNWNLC5J2UhdUD6nw&s",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Samira_%28kwano%29.jpg/1280px-Samira_%28kwano%29.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bowl/ha/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrlMVowC99Kfxcjpb312vKa9HQfeunmQz11w&s",
+      "fuentePagina": "https://www.facebook.com/dokinkarfetv/posts/ranar-hausakwabetkwaba-kwano-langa-tasa-fanteka-kwalla-kumbo-tangaran-mai-ros-sa/1674460249352150/",
+      "titulo": "RANAR HAUSA Kwabet/kwaba, kwano, langa, tasa, fanteka ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrlMVowC99Kfxcjpb312vKa9HQfeunmQz11w&s",
+      "original": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=1674460066018835"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bowl/ha/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-pLmYF-ULGsmKlPHQHvxeHfm0NbqysCvPFw&s",
+      "fuentePagina": "https://www.facebook.com/dokinkarfetv/posts/ranar-hausakwabetkwaba-kwano-langa-tasa-fanteka-kwalla-kumbo-tangaran-mai-ros-sa/1674460249352150/",
+      "titulo": "RANAR HAUSA Kwabet/kwaba, kwano, langa, tasa, fanteka ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-pLmYF-ULGsmKlPHQHvxeHfm0NbqysCvPFw&s",
+      "original": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=1674460189352156"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bowl/ha/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSB1tOtysIa7tBJsW66rdZlK_tIYDDsSc0WQQ&s",
+      "fuentePagina": "https://www.garbotableware.com/ha/ceramic-bowl/9.76-inch-round-ceramic-bowl-with-electroplated-gold-rim-directly-supplied-from-factory.html",
+      "titulo": "China 9.76 inch zagaye yumbu tasa tare da electroplated ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSB1tOtysIa7tBJsW66rdZlK_tIYDDsSc0WQQ&s",
+      "original": "https://www.garbotableware.com/data/watermark/20240725/66a2044db6520.jpg"
+    }
+  ]
+}

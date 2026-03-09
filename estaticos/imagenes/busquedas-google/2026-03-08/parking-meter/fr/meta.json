@@ -1,0 +1,71 @@
+{
+  "categoria": "parking meter",
+  "categoriaSlug": "parking-meter",
+  "idioma": "fr",
+  "nombreIdioma": "Français",
+  "termino": "parcmètre",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T20:48:26.373Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "fr",
+    "gl": "be"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=parcm%C3%A8tre&hl=fr&gl=be",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/parking-meter/fr/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrLp8l4-hhXepB9Eum5rvvdaUjV7VH3DBKDA&s",
+      "fuentePagina": "https://fr.wikipedia.org/wiki/Parcm%C3%A8tre",
+      "titulo": "Parcmètre — Wikipédia",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrLp8l4-hhXepB9Eum5rvvdaUjV7VH3DBKDA&s",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Parking_meter_pd_med.jpg/250px-Parking_meter_pd_med.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/parking-meter/fr/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_NkqvwPteGcAIZi3GKquJUc0sg_QfSsFYSA&s",
+      "fuentePagina": "https://codedelaroute.io/blog/horodateur-et-parcmetre/",
+      "titulo": "Horodateur et Parcmètre | Fonctionnement et Différence",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_NkqvwPteGcAIZi3GKquJUc0sg_QfSsFYSA&s",
+      "original": "https://codedelaroute.io/blog/content/images/2022/12/Parcmetre.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/parking-meter/fr/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqub9O3LEkXTuelio7r1qdi7i3PTCgNHSMkw&s",
+      "fuentePagina": "https://fr.wiktionary.org/wiki/parcm%C3%A8tre",
+      "titulo": "parcmètre — Wiktionnaire, le dictionnaire libre",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqub9O3LEkXTuelio7r1qdi7i3PTCgNHSMkw&s",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/b/b1/ParkuhrBiberach060408_P1040517.JPG"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/parking-meter/fr/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnHq1J0gkNygLFnljsHSTxrdDI0sPQ08I6jQ&s",
+      "fuentePagina": "https://www.homedesignaviation.com/eshop/yy0jnobmuc8iy6oim663xfp1ggkb1k",
+      "titulo": "Authentique Parcmètre Horodateur Américain 1950 Industriel ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnHq1J0gkNygLFnljsHSTxrdDI0sPQ08I6jQ&s",
+      "original": "https://images.squarespace-cdn.com/content/v1/5d4d289c02c9a300015f46bd/1587476166828-H6WCDXLJRN8PGFP6ZHMQ/parcmetre+usa+lampe+luminaire+home+design+aviation+POLI+MIROIR.jpg?format=2500w"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/parking-meter/fr/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZdYyrZ1Qz5eaNUDyXJVqOagV8LW0rc1gWew&s",
+      "fuentePagina": "https://www.istockphoto.com/fr/photos/parcm%C3%A8tre",
+      "titulo": "6 500+ Parcmètre Photos, taleaux et images libre de droits ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZdYyrZ1Qz5eaNUDyXJVqOagV8LW0rc1gWew&s",
+      "original": "https://media.istockphoto.com/id/863843126/fr/photo/machine-pour-payer-le-stationnement-gros-plan-machine-pour-payer-le-stationnement-sur-fond-de.jpg?s=612x612&w=0&k=20&c=XXTsM7R6Cmczbs_WMC2USxifvSTqQ_zmsy6P2dvj4FE="
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/parking-meter/fr/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThoxLeK5Y5e6UujeERFrWGjGQUPgejkoHd7A&s",
+      "fuentePagina": "https://fr.wikipedia.org/wiki/Parcm%C3%A8tre",
+      "titulo": "Parcmètre — Wikipédia",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThoxLeK5Y5e6UujeERFrWGjGQUPgejkoHd7A&s",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Cars_parked_diagonally%2C_Omaha%2C_Nebraska_ppmsca.10438u.jpg"
+    }
+  ]
+}

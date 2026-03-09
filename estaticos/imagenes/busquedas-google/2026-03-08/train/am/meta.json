@@ -1,0 +1,71 @@
+{
+  "categoria": "train",
+  "categoriaSlug": "train",
+  "idioma": "am",
+  "nombreIdioma": "Amharic — አማርኛ",
+  "termino": "ባቡር",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T20:44:29.809Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "am",
+    "gl": "et"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=%E1%89%A3%E1%89%A1%E1%88%AD&hl=am&gl=et",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/train/am/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxa3tal_-lIWm73FQ6odk7L6tCZjx--34fSA&s",
+      "fuentePagina": "https://www.facebook.com/photo.php?fbid=628693237281545&set=a.234923658813520&id=100068876633464",
+      "titulo": "Ministry - የኢትዮጵያ ምድር ባቡር ኮርፖሬሽን ከአዲስ ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxa3tal_-lIWm73FQ6odk7L6tCZjx--34fSA&s",
+      "original": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=628693237281545"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/train/am/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxD-Gj3eXS_UvMwbA5FD18HKlVTELelZDfAw&s",
+      "fuentePagina": "https://am.wikipedia.org/wiki/%E1%89%A3%E1%89%A1%E1%88%AD",
+      "titulo": "ውክፔዲያ - ባቡር",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxD-Gj3eXS_UvMwbA5FD18HKlVTELelZDfAw&s",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/0/0a/Tren_a_las_nubes_cruzando_Viaducto_la_Polvorilla.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/train/am/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbzeQ__ffO7uyuGiLvT0JLX91-7EjFoNpS4w&s",
+      "fuentePagina": "https://www.facebook.com/RealEstate40.60HousingProjectsAddisAbaba20.80/posts/%E1%8B%A8%E1%8A%A0%E1%8A%A0-%E1%89%80%E1%88%8B%E1%88%8D-%E1%89%A3%E1%89%A1%E1%88%AD-%E1%8A%A0%E1%8C%88%E1%88%8D%E1%8C%8D%E1%88%8E%E1%89%B5-%E1%89%A0%E1%88%B5%E1%8B%B5%E1%88%B5%E1%89%B5-%E1%8B%88%E1%88%AD-96-%E1%88%BA%E1%88%85-250-%E1%89%A5%E1%88%AD-%E1%8B%A8%E1%88%9A%E1%8C%88%E1%88%98%E1%89%B5-%E1%8A%A0%E1%8B%B0%E1%8C%8B-60-%E1%88%BA%E1%88%85-%E1%89%A5%E1%88%AD-%E1%8B%A8%E1%88%9A%E1%8C%88%E1%88%98%E1%89%B5-%E1%8B%A8%E1%8A%AC%E1%89%A5%E1%88%8D-%E1%88%B5%E1%88%AD%E1%89%86%E1%89%B5-%E1%8B%B0%E1%88%AD%E1%88%B6%E1%89%A0/2575454199233142/",
+      "titulo": "የአ/አ ቀላል ባቡር አገልግሎት በስድስት ወር፦ - 96 ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbzeQ__ffO7uyuGiLvT0JLX91-7EjFoNpS4w&s",
+      "original": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=2575454115899817"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/train/am/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZeopVd0GdD5cenDg13eYSw_R8ajsqhcLIZg&s",
+      "fuentePagina": "https://www.ena.et/web/amh/w/am_30091",
+      "titulo": "በኢትዮ-ጅቡቲ ምድር ባቡር መስመር በእንስሳት ላይ ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZeopVd0GdD5cenDg13eYSw_R8ajsqhcLIZg&s",
+      "original": "https://www.ena.et/documents/42135/0/2018_12_Untitled-9-1_jpg.jpg/4fd07386-c1db-615f-b432-0bf51e7aa175?version=1.0&t=1674398639579&download=true"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/train/am/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7GWjNSitCyPVkoUvDCR0g5ycALb2Vu_E-Gw&s",
+      "fuentePagina": "https://www.goolgule.com/light-rail-and-its-future/",
+      "titulo": "ባቡር",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7GWjNSitCyPVkoUvDCR0g5ycALb2Vu_E-Gw&s",
+      "original": "https://www.goolgule.com/wp-content/uploads/2015/02/train.jpg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/train/am/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHI_e8EMfIpqfP4EzV-5AKz5Er4Ou0e2vd9g&s",
+      "fuentePagina": "https://ethiopianreporter.com/50595/",
+      "titulo": "የምድር ባቡር ኮርፖሬሽን የባቡር ማሠልጠኛ ሊገነባ ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHI_e8EMfIpqfP4EzV-5AKz5Er4Ou0e2vd9g&s",
+      "original": "https://ethiopianreporter.com/files/2018/01/Railway-Amharic.jpg"
+    }
+  ]
+}

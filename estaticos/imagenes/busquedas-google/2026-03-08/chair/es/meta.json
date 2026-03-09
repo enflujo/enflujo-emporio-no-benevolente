@@ -1,0 +1,71 @@
+{
+  "categoria": "chair",
+  "categoriaSlug": "chair",
+  "idioma": "es",
+  "nombreIdioma": "Español",
+  "termino": "silla",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:17:26.724Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "es",
+    "gl": "es"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=silla&hl=es&gl=es",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/chair/es/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRaoJ2anXoMbx_I9QEHtJT6w3uX49DgT_PIwQ&s",
+      "fuentePagina": "https://arsymaalfaro.es/producto/silla-ref-720/",
+      "titulo": "Silla Ref. 720 - Arsyma Alfaro",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRaoJ2anXoMbx_I9QEHtJT6w3uX49DgT_PIwQ&s",
+      "original": "https://arsymaalfaro.es/wp-content/uploads/2022/10/arsyma-silla-pino-ref701-lateral.png"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/chair/es/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIPQW3RkEEm6pBQFpoqoj7qxZDPVDHIzJIQA&s",
+      "fuentePagina": "https://www.regalosmiguel.com/sillas-comedor/348672-silla-golden-teok-polipiel-vintage",
+      "titulo": "Silla Golden Teok Polipiel Marrón Vintage - Una Silla de Diseño sensacional",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIPQW3RkEEm6pBQFpoqoj7qxZDPVDHIzJIQA&s",
+      "original": "https://www.regalosmiguel.com/85979-large_default/silla-golden-teok-polipiel-vintage.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/chair/es/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQr0WfExxdp2RGig9rT73S40gDcTDiF2NrEhA&s",
+      "fuentePagina": "https://www.tifon.es/sillas-comedor/silla-salon-valera/?srsltid=AfmBOorCkD4K7VuhHnHmjluUlKid6z-NgML3pgqam7gCaaHADR5GVHeH",
+      "titulo": "Silla comedor VALERA",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQr0WfExxdp2RGig9rT73S40gDcTDiF2NrEhA&s",
+      "original": "https://ima.europamuebles.com/tifonima/pi/56095/silla-comedor-valera_101_3_nJQA.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/chair/es/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThyQ8JuPAk7sZkGmiPFTAzrFixfUVUayez_Q&s",
+      "fuentePagina": "https://puntogar.com/487-compra-silla-madera-pino-macizo-modelo-jara.html",
+      "titulo": "Compra - Silla Madera Pino Macizo - Modelo Jara",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThyQ8JuPAk7sZkGmiPFTAzrFixfUVUayez_Q&s",
+      "original": "https://puntogar.com/1216-thickbox_default/compra-silla-madera-pino-macizo-modelo-jara.jpg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/chair/es/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3CCYGW2ilDhmAFtWEWkvkV5zxolo2-RLrIg&s",
+      "fuentePagina": "https://www.keideamuebles.es/sillas-de-escritorio/7424-silla-confidente-azul.html?srsltid=AfmBOopdzcrePLTbOqO4HM4vWJLYoG45e7WQ1gIt9XZQwvv8afSz6zeC",
+      "titulo": "Silla CONFIDENTE azul",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3CCYGW2ilDhmAFtWEWkvkV5zxolo2-RLrIg&s",
+      "original": "https://www.keideamuebles.es/25006-large_default/silla-confidente-azul.jpg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/chair/es/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0oAkOaz4heKfQ5BGmYrTi5ApaW2D4tbIrxw&s",
+      "fuentePagina": "https://www.rbdesenos.es/producto/silla-roble-y-lino/",
+      "titulo": "SILLA ROBLE Y LINO - RB DESEÑOS | INTERIORISMO Y REFORMAS EN ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0oAkOaz4heKfQ5BGmYrTi5ApaW2D4tbIrxw&s",
+      "original": "https://www.rbdesenos.es/wp-content/uploads/2022/09/BEC1307.jpg"
+    }
+  ]
+}

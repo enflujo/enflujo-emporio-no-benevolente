@@ -1,0 +1,71 @@
+{
+  "categoria": "laptop",
+  "categoriaSlug": "laptop",
+  "idioma": "kg",
+  "nombreIdioma": "Kikongo",
+  "termino": "ordinateur",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:21:39.420Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "fr",
+    "gl": "cd"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=ordinateur&hl=fr&gl=cd",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/laptop/kg/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgqD810r9ZrXa83uImZD4nztSJMXMoqLINdA&s",
+      "fuentePagina": "https://www.quechoisir.org/decryptage-pc-de-bureau-ordinateur-portable-ou-tablette-quel-ordinateur-pour-tous-les-jours-n2189/",
+      "titulo": "PC de bureau, ordinateur portable ou tablette - Quel ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgqD810r9ZrXa83uImZD4nztSJMXMoqLINdA&s",
+      "original": "https://im.qccdn.fr/node/decryptage-pc-de-bureau-ordinateur-portable-ou-tablette-quel-ordinateur-pour-tous-les-jours-2189/thumbnail_800x480px-124338.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/laptop/kg/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQ4qo1bIACwDGQioumcbxODJvnPmyaEmzMIw&s",
+      "fuentePagina": "https://www.protegez-vous.ca/technologie/test-ordinateurs-portables",
+      "titulo": "Les meilleurs ordinateurs portables | Protégez-Vous.ca",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQ4qo1bIACwDGQioumcbxODJvnPmyaEmzMIw&s",
+      "original": "https://www.protegez-vous.ca/var/protegez_vous/storage/images/_aliases/social_network_image/8/4/5/0/4890548-6-fre-CA/f2c64e620541-ordinateurs-portables.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/laptop/kg/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4pUgVWXLmkla1dXNo8pB53k-xrQ0NUxwolQ&s",
+      "fuentePagina": "https://www.burostockguyane.com/ordinateurs-tablettes/9253-ordinateur-portable-lenovo.html",
+      "titulo": "ORDINATEUR PORTABLE LENOVO - BuroStock Guyane",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4pUgVWXLmkla1dXNo8pB53k-xrQ0NUxwolQ&s",
+      "original": "https://www.burostockguyane.com/102114-thickbox_default/ordinateur-portable-lenovo.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/laptop/kg/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9kgKs8t-lPGWFOVtun0oOdFysKRQBTFqrvg&s",
+      "fuentePagina": "https://amdunet.wordpress.com/2014/09/05/quelques-types-dordinateurs-aujourdhui/",
+      "titulo": "ORDINATEURS : Quelques types d'ordinateurs aujourd'hui ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9kgKs8t-lPGWFOVtun0oOdFysKRQBTFqrvg&s",
+      "original": "https://amdunet.wordpress.com/wp-content/uploads/2014/09/pc-fixe.jpg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/laptop/kg/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTiMTWlqkZ34K9rxj2HPA59qHW_CaiU1a8Vlg&s",
+      "fuentePagina": "https://www.larousse.fr/encyclopedie/divers/ordinateur/75206",
+      "titulo": "ordinateur - LAROUSSE",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTiMTWlqkZ34K9rxj2HPA59qHW_CaiU1a8Vlg&s",
+      "original": "https://www.larousse.fr/encyclopedie/data/images/1012211-micro-ordinateur.jpg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/laptop/kg/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjjyPfJAr3L0l8ZW3-5aPaGIobTQJGD2Ew5A&s",
+      "fuentePagina": "https://www.techno-science.net/glossaire-definition/Ordinateur.html",
+      "titulo": "Ordinateur - Définition et Explications",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjjyPfJAr3L0l8ZW3-5aPaGIobTQJGD2Ew5A&s",
+      "original": "https://static.techno-science.net/illustration/Definitions/1200px/i/ibm-pc-5150_0e4810a44f7236ba702149e5b86185fb.jpg"
+    }
+  ]
+}

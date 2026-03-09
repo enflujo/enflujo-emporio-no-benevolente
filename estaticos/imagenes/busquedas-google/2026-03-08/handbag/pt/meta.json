@@ -1,0 +1,71 @@
+{
+  "categoria": "handbag",
+  "categoriaSlug": "handbag",
+  "idioma": "pt",
+  "nombreIdioma": "Português",
+  "termino": "bolsa",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T20:58:02.831Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "pt",
+    "gl": "br"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=bolsa&hl=pt&gl=br",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/handbag/pt/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRppFimT1gx_jQHhG7A5f3zB8b4lW99wAkWYQ&s",
+      "fuentePagina": "https://www.magazineluiza.com.br/bolsa-feminina-luxo-off-white-alca-em-corrente-e-matelasse-sempre-linda/p/fe00919jcc/md/blsa/",
+      "titulo": "Magazine Luiza | Pra você é Magalu!",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRppFimT1gx_jQHhG7A5f3zB8b4lW99wAkWYQ&s",
+      "original": "https://m.magazineluiza.com.br/a-static/420x420/bolsa-feminina-luxo-off-white-alca-em-corrente-e-matelasse-sempre-linda/semprelindabolsas/975021818/cbb80783edf2f45c9f7cfa0cabfbcc19.jpeg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/handbag/pt/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSU_StARUWHQ1izLw7m0QkxlaMtn1jP8ZX2Ng&s",
+      "fuentePagina": "https://www.dhaffy.com.br/kit-bolsa-feminina-bau-e-rasteira-slide-antiderrapante-rosa-dhaffy-7908255905237?srsltid=AfmBOopmN5S7yEdIDs8JRUuISCTK5Oh1e0fjQPoO5XbggHySLRFQuJaa",
+      "titulo": "Kit Bolsa Feminina Báu e Rasteira Slide Antiderrapante Rosa Dhaffy",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSU_StARUWHQ1izLw7m0QkxlaMtn1jP8ZX2Ng&s",
+      "original": "https://img.irroba.com.br/fit-in/600x600/filters:fill(fff):quality(80)/dhaffyco/catalog/lorena-rosa-frente.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/handbag/pt/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwLNgUuVAWTwp8x79INHArLrGG27DKVTYAlg&s",
+      "fuentePagina": "https://couropremium.com/products/bolsa-feminina-em-couro-saint-desar",
+      "titulo": "Bolsa Feminina em Couro - Saint Desar",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwLNgUuVAWTwp8x79INHArLrGG27DKVTYAlg&s",
+      "original": "https://couropremium.com/cdn/shop/files/bolsa-de-couro-maldivas-bolsa-de-couro-maldivas-gamborini-marrom-elegante-530687_1800x.webp?v=1723609035"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/handbag/pt/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMdMYVhnyqUIxnzGvXHmHN3-dJFu4330JwAg&s",
+      "fuentePagina": "https://sifrabolsas.com.br/products/bolsa-feminina-transversal-tote-de-couro-caramelo-mia",
+      "titulo": "Bolsa Feminina de Couro Caramelo Mia | Sifra",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMdMYVhnyqUIxnzGvXHmHN3-dJFu4330JwAg&s",
+      "original": "http://sifrabolsas.com.br/cdn/shop/files/Bolsa_Feminina_Transversal_Tote_Matelasse_de_Couro_Caramelo_Mia_Sifra_01.jpg?v=1738679138"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/handbag/pt/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQO0ysVzjNbgZnpB358s_CX6NV38LwDgFnW1A&s",
+      "fuentePagina": "https://www.arzon.com.br/bolsa-de-couro-legitimo-media-auto-bordeaux?srsltid=AfmBOookvHcF4NmWhyi9LMmMfuBtBXUxfz1Ke38-AXhHwWzy4v5JgPcB",
+      "titulo": "Bolsa em Couro Legítimo Média Bordeaux",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQO0ysVzjNbgZnpB358s_CX6NV38LwDgFnW1A&s",
+      "original": "https://images.tcdn.com.br/img/img_prod/464874/bolsa_de_couro_legitimo_media_bordeaux_9367_1_c1a134f6f09454c8825d0f5de753f3cb.jpg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/handbag/pt/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSMzJOrfgtYJY4zZ79mwiXtRqG7-x2R80zIw&s",
+      "fuentePagina": "https://www.donnaguerriera.com.br/bolsa-de-ombro-em-couro-marrom-daniela?srsltid=AfmBOoqPPTJWRSogaFsLcT-S60RvpX1xH26sJcWRJCo2ZU0xiF3TiMcY",
+      "titulo": "Bolsa Feminina de Couro Marrom | Ref. Daniela | Donna Guerriera",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSMzJOrfgtYJY4zZ79mwiXtRqG7-x2R80zIw&s",
+      "original": "https://cdn.dooca.store/117/products/bolsa-marrom-tendencia-2024.png?v=1718851561"
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "categoria": "sheep",
+  "categoriaSlug": "sheep",
+  "idioma": "yo",
+  "nombreIdioma": "Yorùbá",
+  "termino": "àgùntàn",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T20:52:24.839Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "yo",
+    "gl": "ng"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=%C3%A0g%C3%B9nt%C3%A0n&hl=yo&gl=ng",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/sheep/yo/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-PbNy1hl5gtpqE7nGwO59raZdyW9gRSAn7g&s",
+      "fuentePagina": "https://www.instagram.com/p/DPTG03KEQKR/",
+      "titulo": "Ewúrẹ́ kò rí ìwo kàn bí àgbò, àgùntàn náà kò rí ìwo kàn bí ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-PbNy1hl5gtpqE7nGwO59raZdyW9gRSAn7g&s",
+      "original": "https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3734358536936817297"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/sheep/yo/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3vQqjPLPTsbekfH8bjvOFX1luNLM2Rm9t_w&s",
+      "fuentePagina": "https://www.facebook.com/groups/3780190418678055/posts/25621780854092364/",
+      "titulo": "Sheep(Àgùntàn) Ẹ pa òwe tó ní 'Àgùntàn' nínú, tàbí sọ ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3vQqjPLPTsbekfH8bjvOFX1luNLM2Rm9t_w&s",
+      "original": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=2344606729324238"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/sheep/yo/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ14g7PNN3KAmxVzpj6gT0mMQigydE7CPlnGg&s",
+      "fuentePagina": "https://www.facebook.com/groups/3780190418678055/posts/25680054164931699/",
+      "titulo": "Sheep(Àgùntàn) Ẹ pa òwe tó ní 'Àgùntàn' nínú, tàbí sọ ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ14g7PNN3KAmxVzpj6gT0mMQigydE7CPlnGg&s",
+      "original": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=1229697799016047"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/sheep/yo/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQr6jhoNFhwKraW2mlPJHVpt610S84k6PYhZA&s",
+      "fuentePagina": "https://wol.jw.org/yo/wol/d/r36/lp-yr/1102014680",
+      "titulo": "Olùṣọ́ Àgùntàn Àtàtà àti Agbo Àgùntàn — ÀKÁ ÌWÉ ORÍ ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQr6jhoNFhwKraW2mlPJHVpt610S84k6PYhZA&s",
+      "original": "https://wol.jw.org/yo/wol/mp/r36/lp-yr/jy/2020/784"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/sheep/yo/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKubgIA6F5lDOisnVhkXUmLXAjdY3jR8PWQQ&s",
+      "fuentePagina": "https://www.jw.org/yo/Ohun-T%C3%A1-A-N%C3%AD/iwe-iroyin/w20131115/%C3%A0p%E1%BA%B9%E1%BA%B9r%E1%BA%B9-ol%C3%B9%E1%B9%A3%C3%B3%CC%A3-%C3%A0gunt%C3%A0n-%C5%84l%C3%A1/",
+      "titulo": "Olùṣọ́ Àgùntàn, Tẹ̀ Lé Àpẹẹrẹ Olùṣọ́ Àgùntàn Ńlá | Ìkẹ́kọ̀ọ́",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKubgIA6F5lDOisnVhkXUmLXAjdY3jR8PWQQ&s",
+      "original": "https://cms-imgp.jw-cdn.org/img/p/2013848/univ/art/2013848_univ_lsr_lg.jpg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/sheep/yo/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTe0Nh5TUsrTK4GJ2Ez7-WSTffQCJrifEXmpg&s",
+      "fuentePagina": "https://www.facebook.com/groups/letakanako/posts/26264219013202726/",
+      "titulo": "Àgùntàn t'ọ́mọ rẹ̀ ...., ó ní \"nǹkan ń bẹ ẹ̀\"✌️",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTe0Nh5TUsrTK4GJ2Ez7-WSTffQCJrifEXmpg&s",
+      "original": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=1499496102177123"
+    }
+  ]
+}

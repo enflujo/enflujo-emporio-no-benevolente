@@ -1,0 +1,71 @@
+{
+  "categoria": "apple",
+  "categoriaSlug": "apple",
+  "idioma": "zh",
+  "nombreIdioma": "中文",
+  "termino": "苹果",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:11:44.451Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "zh-CN",
+    "gl": "cn"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=%E8%8B%B9%E6%9E%9C&hl=zh-CN&gl=cn",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/apple/zh/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRu-xl-K6XnJmsUiX1DjLtp_lsUlWwAz0P27A&s",
+      "fuentePagina": "https://waapple.org/zh-CN/varieties/",
+      "titulo": "苹果品种- 华盛顿苹果",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRu-xl-K6XnJmsUiX1DjLtp_lsUlWwAz0P27A&s",
+      "original": "https://waapple.org/wp-content/uploads/2021/06/Untitled-design-20-e1745534545813-658x677.png"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/apple/zh/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8Tc2DXdOkJHCtd_cTrTH2bvUEwJRauRmWjA&s",
+      "fuentePagina": "https://waapple.org/zh-CN/varieties/",
+      "titulo": "苹果品种- 华盛顿苹果",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8Tc2DXdOkJHCtd_cTrTH2bvUEwJRauRmWjA&s",
+      "original": "https://waapple.org/wp-content/uploads/2021/06/Variety_Cosmic-Crisp-transparent-658x677.png"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/apple/zh/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1qvLA25CI0qU_h3X5e9yk8cvOQwEOn43-PQ&s",
+      "fuentePagina": "https://www.epochtimes.com/gb/19/12/2/n11694223.htm",
+      "titulo": "美新品种苹果上市甜脆多汁可放冰箱1年| Cosmic Crisp | 华盛顿 ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1qvLA25CI0qU_h3X5e9yk8cvOQwEOn43-PQ&s",
+      "original": "https://i.epochtimes.com/assets/uploads/2019/12/Fotolia_84273812_Subscription_L.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/apple/zh/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRj6GZiULDhoxSk8Zo5dnAljM7tLjxyawCbig&s",
+      "fuentePagina": "https://zh.wikipedia.org/zh-cn/%E8%8B%B9%E6%9E%9C",
+      "titulo": "苹果- 维基百科，自由的百科全书",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRj6GZiULDhoxSk8Zo5dnAljM7tLjxyawCbig&s",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/9/99/Apples_in_basket_2018_G2.jpg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/apple/zh/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSopT7hZKesaFwyGqnpIl6YGuU5sNL9kjxIMQ&s",
+      "fuentePagina": "https://cn.dreamstime.com/%E5%85%8D%E7%89%88%E7%A8%8E%E5%BA%93%E5%AD%98%E7%85%A7%E7%89%87-%E8%8B%B9%E6%9E%9C%E8%8B%B9%E6%9E%9C%E5%8D%8A%E7%BA%A2%E8%89%B2%E6%88%90%E7%86%9F%E4%BA%8C-image16536568",
+      "titulo": "两个成熟的红苹果和半个苹果。 库存照片. 图片包括有片式, 申请 ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSopT7hZKesaFwyGqnpIl6YGuU5sNL9kjxIMQ&s",
+      "original": "https://thumbs.dreamstime.com/b/%E8%8B%B9%E6%9E%9C%E8%8B%B9%E6%9E%9C%E5%8D%8A%E7%BA%A2%E8%89%B2%E6%88%90%E7%86%9F%E4%BA%8C-16536568.jpg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/apple/zh/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvj4nsQmutJ_5G6iqW3MZkqYxyu-FZhB4rfQ&s",
+      "fuentePagina": "https://waapple.org/zh-CN/varieties/",
+      "titulo": "苹果品种- 华盛顿苹果",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvj4nsQmutJ_5G6iqW3MZkqYxyu-FZhB4rfQ&s",
+      "original": "https://waapple.org/wp-content/uploads/2021/06/Variety_Gala-transparent-658x677.png"
+    }
+  ]
+}

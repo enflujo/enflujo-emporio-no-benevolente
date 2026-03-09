@@ -1,0 +1,71 @@
+{
+  "categoria": "parking meter",
+  "categoriaSlug": "parking-meter",
+  "idioma": "qu",
+  "nombreIdioma": "Quechua",
+  "termino": "sayay contadur",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T20:48:42.303Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "es",
+    "gl": "pe"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=sayay%20contadur&hl=es&gl=pe",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/parking-meter/qu/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKmhivKCMUQ8A5kGaRjeGKvf7TPkvMnsSAsg&s",
+      "fuentePagina": "https://www.tiktok.com/@sir.pingo/video/7239024036800384261",
+      "titulo": "Los Sayayin es de Puno fútbol #futbolperuano #viral #sayayines #puno #humor",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKmhivKCMUQ8A5kGaRjeGKvf7TPkvMnsSAsg&s",
+      "original": "https://www.tiktok.com/api/img/?itemId=7239024036800384261&location=0&aid=1988"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/parking-meter/qu/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsuKY5FgbDbDl1qnaeuUZ-iiVB_CYPGGDJiQ&s",
+      "fuentePagina": "https://www.tiktok.com/discover/y-su-corte-sayayin",
+      "titulo": "Corte Sayayin: Técnicas, Tips y Estilos para Barberos",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsuKY5FgbDbDl1qnaeuUZ-iiVB_CYPGGDJiQ&s",
+      "original": "https://www.tiktok.com/api/img/?itemId=7557129316048440587&location=0&aid=1988"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/parking-meter/qu/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfL03GyvYOEiUih3dx4hvNKoxSI7be58ReXA&s",
+      "fuentePagina": "https://www.llicllas.com/comasi-sayariy",
+      "titulo": "SAYARI - caj x 30 sachets - Pote 300gr",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfL03GyvYOEiUih3dx4hvNKoxSI7be58ReXA&s",
+      "original": "https://cdnx.jumpseller.com/llicllas/image/62195265/resize/2000/2000?1743867487"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/parking-meter/qu/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNyVj8RMglWnumrIxIKPn2ZFe-YyEwcxuo4w&s",
+      "fuentePagina": "https://www.llicllas.com/comasi-sayariy",
+      "titulo": "SAYARI - caj x 30 sachets - Pote 300gr",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNyVj8RMglWnumrIxIKPn2ZFe-YyEwcxuo4w&s",
+      "original": "https://cdnx.jumpseller.com/llicllas/image/62195266/COMASI_SAYARIY_1_.png?1743867487"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/parking-meter/qu/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLStBW6Wv657WSaoOFcpWBdJ4O-ZNpz6GnSg&s",
+      "fuentePagina": "https://www.tiktok.com/discover/y-su-corte-sayayin",
+      "titulo": "Recuerda el Corte de Cabello Sayayin",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLStBW6Wv657WSaoOFcpWBdJ4O-ZNpz6GnSg&s",
+      "original": "https://www.tiktok.com/api/img/?itemId=7556039632601763128&location=0&aid=1988"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/parking-meter/qu/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1RrXVcWaeG1AYvtrTMRsH03xARUeNb5YbJQ&s",
+      "fuentePagina": "https://www.facebook.com/qyvconsultores/videos/tipos-de-contador/481118466914208/",
+      "titulo": "Hola queridos colegas 🤓 Hoy traemos para ustedes algo muy divertido,  esperamos se logren identificar 🤭., •, Se trata de #instagramruleta una  Divertida Ruleta que te identificará con un tipo de ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1RrXVcWaeG1AYvtrTMRsH03xARUeNb5YbJQ&s",
+      "original": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=481118466914208&get_thumbnail=1"
+    }
+  ]
+}

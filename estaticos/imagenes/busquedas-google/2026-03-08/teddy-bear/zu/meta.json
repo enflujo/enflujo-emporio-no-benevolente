@@ -1,0 +1,71 @@
+{
+  "categoria": "teddy bear",
+  "categoriaSlug": "teddy-bear",
+  "idioma": "zu",
+  "nombreIdioma": "isiZulu",
+  "termino": "ibhere lezitsha",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:31:07.851Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "zu",
+    "gl": "za"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=ibhere%20lezitsha&hl=zu&gl=za",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/teddy-bear/zu/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdOBcTgYvWgjYV2R0nUu0Kk3fv097z4jlyXw&s",
+      "fuentePagina": "https://hdsentertainment.co.za/lizha-james/",
+      "titulo": "Lizha James - HDS Entertainment",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdOBcTgYvWgjYV2R0nUu0Kk3fv097z4jlyXw&s",
+      "original": "https://hdsentertainment.co.za/wp-content/uploads/2014/06/LIZHA-JAMES.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/teddy-bear/zu/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMomj8b1SI3qXygOZUumglQud-TOlea5_F4g&s",
+      "fuentePagina": "https://www.news24.com/life/arts-and-entertainment/celebrities/pride-month-lasizwe-cites-limited-knowledge-for-anti-queer-sentiment-in-africa-20231012-2",
+      "titulo": "Pride Month: Lasizwe cites 'limited knowledge' for anti ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMomj8b1SI3qXygOZUumglQud-TOlea5_F4g&s",
+      "original": "https://cdn.24.co.za/files/Cms/General/d/9559/22ce55a670644e84b72b448b924c1960.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/teddy-bear/zu/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQPM7JAoksgKkn0SPdcYdZOT0akDPwLbToWw&s",
+      "fuentePagina": "https://www.timeslive.co.za/tshisa-live/tshisa-live/2017-07-03-isibayas-thuli-thabethe-fears-being-typecast/",
+      "titulo": "Isibaya's Thuli Thabethe fears being 'typecast'",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQPM7JAoksgKkn0SPdcYdZOT0akDPwLbToWw&s",
+      "original": "https://www.timeslive.co.za/resizer/v2/KDWQPKWVEFMJVM2UXYTN5OW3QA.jpg?auth=f1714a979bdec936f1f19055d6dc85e2739948389b5de7fa2e7af7940336ff85"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/teddy-bear/zu/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfrE7xBmHLNaBB9d1qXUHenap_aRpE7qXBIQ&s",
+      "fuentePagina": "https://www.instagram.com/p/DAkcfz_JS_l/",
+      "titulo": "lEzEttE 🍓 | buh bye september 🧸🌷💘 | Instagram",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfrE7xBmHLNaBB9d1qXUHenap_aRpE7qXBIQ&s",
+      "original": "https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3469022938226120879"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/teddy-bear/zu/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkD27eKgZGRkQ8a7SfBDCFQkhNalSfuUqLjQ&s",
+      "fuentePagina": "https://iol.co.za/entertainment/tv/2016-08-01-limitless-horizon-for-isidingos-sisa/",
+      "titulo": "Limitless Horizon for Isidingo's Sisa",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkD27eKgZGRkQ8a7SfBDCFQkhNalSfuUqLjQ&s",
+      "original": "https://iol-prod.appspot.com/image/acce2252da22868af467767c1a9be6d52edb9a82=w700"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/teddy-bear/zu/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRahKPf26iY06FGx6yWVweBs8pPRiFsR9QeVQ&s",
+      "fuentePagina": "https://www.instagram.com/p/DAkcfz_JS_l/",
+      "titulo": "lEzEttE 🍓 | buh bye september 🧸🌷💘 | Instagram",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRahKPf26iY06FGx6yWVweBs8pPRiFsR9QeVQ&s",
+      "original": "https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3812491541546843862"
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "categoria": "snowboard",
+  "categoriaSlug": "snowboard",
+  "idioma": "rw",
+  "nombreIdioma": "Kinyarwanda",
+  "termino": "snowboard",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:00:43.912Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "en",
+    "gl": "rw"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=snowboard&hl=en&gl=rw",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/snowboard/rw/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpxyhD7ZGykea6fPtB6Oo3AaVRhZo6AnUSUg&s",
+      "fuentePagina": "https://www.dopesnow.com/mag/is-snowboarding-a-good-workout/?srsltid=AfmBOoog2Qwnq_F8JTDpfhhBAsGvLUYJVDs7WngcSdFqnUGxq2WBe6Bh",
+      "titulo": "Is snowboarding a good workout? - Top 5 benefits | Dope Magazine",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpxyhD7ZGykea6fPtB6Oo3AaVRhZo6AnUSUg&s",
+      "original": "https://www.dopesnow.com/images/wordpress-4582242/uploads/2023/01/top-5-health-benefits-of-skiing-and-snowboarding-dope-magazine.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/snowboard/rw/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnqna3K-NxswFwUA_qyZMQA8_Iii1hpTJQsQ&s",
+      "fuentePagina": "https://www.photowall.com/us/snowboard-big-air-jump-canvas-print",
+      "titulo": "Snowboard Big Air Jump – affordable canvas prints online ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnqna3K-NxswFwUA_qyZMQA8_Iii1hpTJQsQ&s",
+      "original": "https://images.photowall.com/products/48546/snowboard-big-air-jump.jpg?h=699&q=85"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/snowboard/rw/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3o6LcEprbzZMPdadPyq4XqwvqOsjlcOVBVg&s",
+      "fuentePagina": "https://www.dopesnow.com/mag/what-to-wear-snowboarding-skiing/?srsltid=AfmBOoq-E316vL_H-8_d1tjtjI2bBSH8P2zW6wC1Yv3Clcs9PjZW4yMe",
+      "titulo": "What to wear snowboarding and skiing | Dope Magazine",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3o6LcEprbzZMPdadPyq4XqwvqOsjlcOVBVg&s",
+      "original": "https://www.dopesnow.com/images/wordpress-4582242/uploads/2024/05/what-to-wear-snowboarding-and-skiing-dope-magazine.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/snowboard/rw/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbnjH6f3_AD5oQyhIXYgWjHDk0t7LTGhSWrg&s",
+      "fuentePagina": "https://borealis-snowboards.com/products/borealis-tundra?srsltid=AfmBOooVo69tu4UStnQyJM3n1_KGSeJOiPXxNaJ61TmT6usnKR-j2WGm",
+      "titulo": "Borealis Tundra Snowboard: All-Mountain Backcountry ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbnjH6f3_AD5oQyhIXYgWjHDk0t7LTGhSWrg&s",
+      "original": "https://borealis-snowboards.com/cdn/shop/files/MorganBodet_-MB_09623.jpg?v=1755588433&width=3840"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/snowboard/rw/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcToBHjcaeBIWwRmUVpnLQ15woRK3a-ycKu1qA&s",
+      "fuentePagina": "https://www.magicmurals.com/snowboard-jump.html?srsltid=AfmBOoqZyaHxWcg0m1kUhmpOeQpuDsQilmgT3Rhb7VAPGk9wA8Q80V8j",
+      "titulo": "Snowboard Jump Wallpaper Wall Mural by Magic Murals",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcToBHjcaeBIWwRmUVpnLQ15woRK3a-ycKu1qA&s",
+      "original": "https://www.magicmurals.com/media/catalog/product/cache/af1e2a1566fa2dbb552605e8822354b7/F/O/FOT-0010862976_1.jpg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/snowboard/rw/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSyRo9Y9dxgkpEQPPTRggJPGRm5-szYSKGCQ&s",
+      "fuentePagina": "https://seerevelstoke.com/things-to-do/ski-snowboard",
+      "titulo": "Skiing & Snowboarding | Power Paradise | Tourism Revelstoke",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSyRo9Y9dxgkpEQPPTRggJPGRm5-szYSKGCQ&s",
+      "original": "https://a-ca.storyblok.com/f/2000158/4462x2975/295439751d/laura-szanto_-revelstoke-mountain-resort-spring-skiing.jpg/m/1080x1409"
+    }
+  ]
+}

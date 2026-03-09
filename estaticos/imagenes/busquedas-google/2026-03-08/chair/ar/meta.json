@@ -1,0 +1,71 @@
+{
+  "categoria": "chair",
+  "categoriaSlug": "chair",
+  "idioma": "ar",
+  "nombreIdioma": "العربية",
+  "termino": "كرسي",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:17:14.259Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "ar",
+    "gl": "eg"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=%D9%83%D8%B1%D8%B3%D9%8A&hl=ar&gl=eg",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/chair/ar/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVb9vo0pFI8GY9CWcbHwQiXvHrj2zReQdpng&s",
+      "fuentePagina": "https://godranstore.com/p/54435/?srsltid=AfmBOoqEMPUrXicCM1sXK2IKUYowMyVys0Cu2Y1-vG4Ezc-_23YbUjH5",
+      "titulo": "كرسي خشب زان كلاسيك منجد - جدران ستور",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVb9vo0pFI8GY9CWcbHwQiXvHrj2zReQdpng&s",
+      "original": "https://godranstore.com/wp-content/uploads/2024/04/%D9%83%D8%B1%D8%B3%D9%89-%D8%AE%D8%B4%D8%A8-%D8%B2%D8%A7%D9%86-%E2%80%93-%D9%85%D9%86%D8%AC%D8%AF-6-%D8%B1%D9%8A%D8%B4%D8%A9.webp"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/chair/ar/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShXCU7gvMEYA-tOoY_nYflTVkMy3DIuUMvFg&s",
+      "fuentePagina": "https://www.ikea.com/eg/ar/p/pinntorp-chair-light-brown-stained-00590480/",
+      "titulo": "PINNTORP كرسي, بني فاتح - IKEA",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShXCU7gvMEYA-tOoY_nYflTVkMy3DIuUMvFg&s",
+      "original": "https://www.ikea.com/eg/ar/images/products/pinntorp-chair-light-brown-stained__1296225_pe935730_s5.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/chair/ar/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6dnLAxILC1jxzqizzcVvMsvzZryY2HnO4pg&s",
+      "fuentePagina": "https://www.ikea.com/eg/ar/p/stefan-chair-brown-black-00211088/",
+      "titulo": "STEFAN كرسي, بني-أسود - IKEA",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6dnLAxILC1jxzqizzcVvMsvzZryY2HnO4pg&s",
+      "original": "https://www.ikea.com/eg/ar/images/products/stefan-chair-brown-black__0727320_pe735593_s5.jpg?f=s"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/chair/ar/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRG0KjrwUsO6WggJavASmojZTc68cWHmyaklw&s",
+      "fuentePagina": "https://www.furnitureofegypt.com/ar/%D9%83%D8%B1%D8%A7%D8%B3%D9%8A-%D9%85%D9%83%D8%AA%D8%A8/1133/%D9%83%D8%B1%D8%B3%D9%8A-%D9%85%D9%83%D8%AA%D8%A8-%D8%AC%D8%A7%D8%A8%D9%83%D9%88?srsltid=AfmBOooeO9tzvRD-yQi0c5zc9OzyxbtEX2tK2ND2kJ8fZClLhDLT6igi",
+      "titulo": "Furniture Of Egypt | كرسي مكتب جابكو",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRG0KjrwUsO6WggJavASmojZTc68cWHmyaklw&s",
+      "original": "https://backend.furnitureofegypt.com/8x-e-commerce-v3-backend/storage/22942/google_drive_Krqfqy.jpg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/chair/ar/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCBVLntRReVbbTb_20Y_JCru9vR3I5I4mJEA&s",
+      "fuentePagina": "https://woplek.com/product/%D9%83%D8%B1%D8%B3%D9%8A-%D9%85%D9%83%D8%AA%D8%A8-%D9%85%D8%B1%D9%8A%D8%AD-%D9%84%D9%84%D8%AC%D9%84%D9%88%D8%B3-%D8%A7%D9%84%D8%B7%D9%88%D9%8A%D9%84/",
+      "titulo": "كرسي مكتب مريح للجلوس الطويل| من ووبليك للأثاث الحديث",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCBVLntRReVbbTb_20Y_JCru9vR3I5I4mJEA&s",
+      "original": "https://woplek.com/wp-content/uploads/2024/02/%D9%83%D8%B1%D8%B3%D9%8A-%D9%85%D9%83%D8%AA%D8%A8-%D9%85%D8%B1%D9%8A%D8%AD-%D9%84%D9%84%D8%AC%D9%84%D9%88%D8%B3-%D8%A7%D9%84%D8%B7%D9%88%D9%8A%D9%84.jpg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/chair/ar/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRp2SHOkSW98r0CFi09wsIdSCxGFk-ma3yeiw&s",
+      "fuentePagina": "https://chichomz.com/products/krsy-27?srsltid=AfmBOorIzkBu-Pr1krBhOGzk6N3EtF_lcDtE_mGKE3nV_roDFZNLbPsa",
+      "titulo": "كرسي مودرن 75×75سم - FUD84",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRp2SHOkSW98r0CFi09wsIdSCxGFk-ma3yeiw&s",
+      "original": "http://chichomz.com/cdn/shop/products/Villa.84_82c633c2-092c-4605-9f88-82f0f5a11f1e.jpg?v=1718024290"
+    }
+  ]
+}

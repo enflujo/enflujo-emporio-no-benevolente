@@ -1,0 +1,71 @@
+{
+  "categoria": "kite",
+  "categoriaSlug": "kite",
+  "idioma": "ar",
+  "nombreIdioma": "العربية",
+  "termino": "طائرة ورقية",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:02:16.861Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "ar",
+    "gl": "eg"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=%D8%B7%D8%A7%D8%A6%D8%B1%D8%A9%20%D9%88%D8%B1%D9%82%D9%8A%D8%A9&hl=ar&gl=eg",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/kite/ar/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfYsTFpzYwvytwRqfe1Lymbr8g0Q-cF7iTZg&s",
+      "fuentePagina": "https://www.amazon.ae/-/ar/%D9%84%D9%84%D8%A7%D8%B7%D9%81%D8%A7%D9%84%D8%8C-%D8%A7%D9%84%D8%B7%D9%8A%D8%B1%D8%A7%D9%86-%D9%84%D9%84%D8%A7%D8%B7%D9%81%D8%A7%D9%84-%D9%88%D8%A7%D9%84%D9%83%D8%A8%D8%A7%D8%B1%D8%8C-%D8%A7%D9%84%D8%AE%D9%81%D9%8A%D9%81%D8%A9/dp/B09GXWBQVK",
+      "titulo": "طائرة ورقية كبيرة ملونة بالوان قوس قزح للاطفال، طائرة ورقية ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfYsTFpzYwvytwRqfe1Lymbr8g0Q-cF7iTZg&s",
+      "original": "https://m.media-amazon.com/images/I/61WULYTLTpL.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/kite/ar/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTza8hNliEreOp_4kGkyGzXbWSVqbbuOGd_hw&s",
+      "fuentePagina": "https://www.youtube.com/watch?v=8rqUpN4T_Fo",
+      "titulo": "طائرة ورقية سهلة جداً وتطير بسرعة تعلم كيف تصنعها - YouTube",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTza8hNliEreOp_4kGkyGzXbWSVqbbuOGd_hw&s",
+      "original": "https://i.ytimg.com/vi/8rqUpN4T_Fo/sddefault.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/kite/ar/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTE2lFEwg108Y3jwFA49yzx8ql0lhxpiZlC7w&s",
+      "fuentePagina": "https://ar.wikipedia.org/wiki/%D8%B7%D8%A7%D8%A6%D8%B1%D8%A9_%D9%88%D8%B1%D9%82%D9%8A%D8%A9",
+      "titulo": "طائرة ورقية - ويكيبيديا",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTE2lFEwg108Y3jwFA49yzx8ql0lhxpiZlC7w&s",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Paper_Airplane.png/330px-Paper_Airplane.png"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/kite/ar/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmWzwDPeXd9E8qs-icOhMaoXh09UdAL5YJMw&s",
+      "fuentePagina": "http://www.asdaapress.com/?ID=53798",
+      "titulo": "طريقة صنع طائرة ورقية - أصداء",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmWzwDPeXd9E8qs-icOhMaoXh09UdAL5YJMw&s",
+      "original": "http://www.asdaapress.com/Uploads/Image/25420201831291.jpg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/kite/ar/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVAdSkbumAdr11pciywzGa3MMIK83w88Flgw&s",
+      "fuentePagina": "https://www.youtube.com/watch?v=mGdXdwqWLQw",
+      "titulo": "طائرة ورقية سهلة جداً تطير بعيداً || كيفية صنع طائرة ورقية في المنزل",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVAdSkbumAdr11pciywzGa3MMIK83w88Flgw&s",
+      "original": "https://i.ytimg.com/vi/mGdXdwqWLQw/maxresdefault.jpg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/kite/ar/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWNunh3snvK38bLmZfaIa1x2RZNQQBHR2OGg&s",
+      "fuentePagina": "https://www.drawing123.com/ar/tayirat-waraqia/",
+      "titulo": "طائرة ورقية رسم سهل - Drawing123.com",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWNunh3snvK38bLmZfaIa1x2RZNQQBHR2OGg&s",
+      "original": "http://www.drawing123.com/wp-content/uploads/2022/01/Kite-drawing-step-7.png"
+    }
+  ]
+}

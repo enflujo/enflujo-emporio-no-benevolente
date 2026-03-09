@@ -1,0 +1,71 @@
+{
+  "categoria": "zebra",
+  "categoriaSlug": "zebra",
+  "idioma": "yo",
+  "nombreIdioma": "Yorùbá",
+  "termino": "ẹṣin àlábàárà",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T20:54:56.463Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "yo",
+    "gl": "ng"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=%E1%BA%B9%E1%B9%A3in%20%C3%A0l%C3%A1b%C3%A0%C3%A1r%C3%A0&hl=yo&gl=ng",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/zebra/yo/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMowwhAR7u3WbQsdWb5erk1FXNShy6TYZthw&s",
+      "fuentePagina": "https://www.youtube.com/watch?v=_FefeuoeQlg",
+      "titulo": "ESIN BABA NEW YORUBA MOVIE |KUNLE AFOD |NIYI JOHNSON| MUYIWA ADEMOLA|AISHAT  LAWAL",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMowwhAR7u3WbQsdWb5erk1FXNShy6TYZthw&s",
+      "original": "https://i.ytimg.com/vi/_FefeuoeQlg/maxresdefault.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/zebra/yo/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQGxozH4EIhOeI5-B11B27DkoOU5ELVFcsDQ&s",
+      "fuentePagina": "https://www.youtube.com/watch?v=gvzEezDPbRY",
+      "titulo": "Esi Awon Alfa to sepe fun alaga lamba bi ose lo ka eleha mole",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQGxozH4EIhOeI5-B11B27DkoOU5ELVFcsDQ&s",
+      "original": "https://i.ytimg.com/vi/gvzEezDPbRY/hqdefault.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/zebra/yo/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQylRvsgCXrNRdHfwLc1MZ5pO7mXCBx74IgIw&s",
+      "fuentePagina": "https://www.youtube.com/watch?v=AwvJ2am4Rk4",
+      "titulo": "ESI- ADEYINKA ALASEYORI",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQylRvsgCXrNRdHfwLc1MZ5pO7mXCBx74IgIw&s",
+      "original": "https://i.ytimg.com/vi/AwvJ2am4Rk4/mqdefault.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/zebra/yo/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUPWebPslTKvCgJw4LGFvM1sqqtMTNC4bI5g&s",
+      "fuentePagina": "https://www.bbc.com/yoruba/49996816",
+      "titulo": "Yoruba Culture: Ìran Yorùbá: Àṣà ju àṣà lọ! - BBC News Yorùbá",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUPWebPslTKvCgJw4LGFvM1sqqtMTNC4bI5g&s",
+      "original": "https://ichef.bbci.co.uk/ace/ws/640/cpsprodpb/12E87/production/_109174477_engagementpics.jpg.webp"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/zebra/yo/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQ1w_XL-HPkdUuIzyxqK2GSUkqQFYFzRNzJw&s",
+      "fuentePagina": "https://www.youtube.com/watch?v=DDpH4hIrSXM",
+      "titulo": "ASIRI WON TU O!! ALEBIOSU BINUTAN LORI ORO AWON ALAKATAKITI ESIN MUSULUMI  ATI KRISTENI NILE YORUBA",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQ1w_XL-HPkdUuIzyxqK2GSUkqQFYFzRNzJw&s",
+      "original": "https://i.ytimg.com/vi/DDpH4hIrSXM/mqdefault.jpg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/zebra/yo/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZp9700W5c2diFYqqbIClwhkMeDE9R0V81pw&s",
+      "fuentePagina": "https://www.bbc.com/yoruba/49996816",
+      "titulo": "Yoruba Culture: Ìran Yorùbá: Àṣà ju àṣà lọ! - BBC News Yorùbá",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZp9700W5c2diFYqqbIClwhkMeDE9R0V81pw&s",
+      "original": "https://ichef.bbci.co.uk/ace/ws/640/cpsprodpb/480F/production/_109174481_engage2.jpg.webp"
+    }
+  ]
+}

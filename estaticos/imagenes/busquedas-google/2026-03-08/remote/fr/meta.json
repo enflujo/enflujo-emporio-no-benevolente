@@ -1,0 +1,71 @@
+{
+  "categoria": "remote",
+  "categoriaSlug": "remote",
+  "idioma": "fr",
+  "nombreIdioma": "Français",
+  "termino": "télécommande",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:23:00.848Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "fr",
+    "gl": "be"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=t%C3%A9l%C3%A9commande&hl=fr&gl=be",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/remote/fr/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTn4nelS3ALsBAb4CH1-bFA-EI_Dzq98-qwiw&s",
+      "fuentePagina": "https://www.ldlc.com/fr-be/fiche/PB00662534.html",
+      "titulo": "LinQ Télécommande Universelle Téléviseur Sharp LCD PLASMA LED 4K Portée 8m  Noir - Télécommande - LDLC",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTn4nelS3ALsBAb4CH1-bFA-EI_Dzq98-qwiw&s",
+      "original": "https://media.ldlc.com/r1600/mktp/product/productImage/250117/107/c1c9e4f5f3cb487ebab2ce3081e0ce14.webp"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/remote/fr/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuzFE2qM_EoRRbzEmCHlV4uGQy6fJFDxvwZQ&s",
+      "fuentePagina": "https://www.schneiderconsumer.com/fr/produit/telecommande-universelle-noire-3085/",
+      "titulo": "Télécommande universelle noire - 3085",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuzFE2qM_EoRRbzEmCHlV4uGQy6fJFDxvwZQ&s",
+      "original": "https://www.schneiderconsumer.com/app/uploads/2018/08/3085_FAHD.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/remote/fr/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgyroFyXTF7Xmdznmv2vV0A0w-_Vaz0cSxDw&s",
+      "fuentePagina": "https://www.mr-bricolage.be/tv-video-hifi/29604-telecommande-universelle-programmable-par-usb-3420744953276.html?srsltid=AfmBOoq27vlapczfkde_ypPIBpBZ_6bzf-mAza9qJZ7sjZJweiHn5um_",
+      "titulo": "Télécommande universelle programmable par USB",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgyroFyXTF7Xmdznmv2vV0A0w-_Vaz0cSxDw&s",
+      "original": "https://www.mr-bricolage.be/80292-large_default/telecommande-universelle-programmable-par-usb.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/remote/fr/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVpOV0gpGZTn7yBrMnp-0ODad54vo-TulVLg&s",
+      "fuentePagina": "https://geemarc.com/fr/product/tv1/",
+      "titulo": "TV1 - Geemarc France",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVpOV0gpGZTn7yBrMnp-0ODad54vo-TulVLg&s",
+      "original": "https://geemarc.com/fr/wp-content/uploads/sites/3/2022/06/TV1_1_bold-scaled.jpg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/remote/fr/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRaVa92cTJiflUdyvfKNrhwH1mCSNTGozcsWA&s",
+      "fuentePagina": "https://www.amazon.com.be/T%C3%A9l%C3%A9commande-universelle-rechange-TCL-TV-TV-Android/dp/B0DDPVPBJD",
+      "titulo": "Télécommande vocale universelle de rechange pour TCL-TV-TV pour TCL  Google/Android TV : Amazon.com.be: High-tech",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRaVa92cTJiflUdyvfKNrhwH1mCSNTGozcsWA&s",
+      "original": "https://m.media-amazon.com/images/I/61gObUs3mVL.jpg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/remote/fr/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRazeTjZWbYTmTL773yZgq1lDUN9rmJTTgd-g&s",
+      "fuentePagina": "https://www.electrodepot.be/fr/telecommande-tnb-universelle-senior.html?srsltid=AfmBOorsMLg2_B7-iy0I93AKBh-BbrYBT9JWv3_NXrql5Kyu03STdY7H",
+      "titulo": "Télécommande TNB universelle senior pour 1 appareil ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRazeTjZWbYTmTL773yZgq1lDUN9rmJTTgd-g&s",
+      "original": "https://www.electrodepot.be/media/catalog/product/P980928.jpg"
+    }
+  ]
+}

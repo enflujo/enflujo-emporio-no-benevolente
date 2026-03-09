@@ -1,0 +1,71 @@
+{
+  "categoria": "skateboard",
+  "categoriaSlug": "skateboard",
+  "idioma": "en",
+  "nombreIdioma": "English",
+  "termino": "skateboard",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:03:59.425Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "en",
+    "gl": "us"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=skateboard&hl=en&gl=us",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/skateboard/en/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpmlVue6yigvkZozlRCRUvsTJ3ltOHPOBhag&s",
+      "fuentePagina": "https://www.skatedeluxe.com/blog/en/skateboards-for-beginners-recommendations-checklists/",
+      "titulo": "Skateboards for Beginners - Recommendations | skatedeluxe Blog",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpmlVue6yigvkZozlRCRUvsTJ3ltOHPOBhag&s",
+      "original": "https://www.skatedeluxe.com/blog/wp-content/uploads/2023/11/skateboard-completes-at-skatedeluxe.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/skateboard/en/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmluM774fWGvBB0OYdTmh8jf4JB37-siYnAA&s",
+      "fuentePagina": "https://www.amazon.com/ChromeWheels-Skateboard-Longboard-Skateboards-Beginners/dp/B09XWYQL79",
+      "titulo": "Amazon.com : ChromeWheels 31 inch Skateboard Double Kick ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmluM774fWGvBB0OYdTmh8jf4JB37-siYnAA&s",
+      "original": "https://m.media-amazon.com/images/I/71PfGyStYmL._AC_UF1000,1000_QL80_.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/skateboard/en/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPiGkFS2aqXrgUWg0Bu3snHrL7-LyKZGDcsQ&s",
+      "fuentePagina": "https://www.skatepro.com/en-us/84-32717.htm?srsltid=AfmBOoo8YYUHZT07OfnWuDOJvu2eNPfyEwqAxDRfGGZw12xr8AwR8aSR",
+      "titulo": "Enuff Skully Complete Skateboard",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPiGkFS2aqXrgUWg0Bu3snHrL7-LyKZGDcsQ&s",
+      "original": "https://cdn.skatepro.com/product/520/enuff-skully-complete-skateboard-rx.webp"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/skateboard/en/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUSMcAgnw4oucDhv4_SseHI06cnnFMJro68w&s",
+      "fuentePagina": "https://nhsskatedirect.com/products/7-75in-x-30-00in-screaming-hand-mini-santa-cruz-skateboard-complete",
+      "titulo": "Screaming Hand Mini 7.75 | Complete Skateboard | Santa Cruz",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUSMcAgnw4oucDhv4_SseHI06cnnFMJro68w&s",
+      "original": "https://nhsskatedirect.com/cdn/shop/products/67773_200x.jpg?v=1749189621"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/skateboard/en/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLVPREHiZrk6nH1HQg50JZGtFJ5oESRJAMIQ&s",
+      "fuentePagina": "https://rollerderby.com/products/roller-derby-learn-with-lutzka-astronaut-skateboard?srsltid=AfmBOoowCWWlfH6RwTCYHo8AdcFFEl_eUP27hWPNhV2FXMFS3zwQmU5v",
+      "titulo": "Roller Derby Learn with Lutzka Astronaut Skateboard",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLVPREHiZrk6nH1HQg50JZGtFJ5oESRJAMIQ&s",
+      "original": "http://rollerderby.com/cdn/shop/files/47_007c3a40-5a29-4b2f-bd90-e7462162897d.png?v=1725038341"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/skateboard/en/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-GNx1-BaMmIJrCUvLBop0ABHwR4Rg_n_eSw&s",
+      "fuentePagina": "https://shop.yocaher.com/blank-complete-skateboard-black/?srsltid=AfmBOoqkLPJzS3x2XzBts_Fz8GKTIotkLEh8P_cCawq_0-JeaMsD_cvR",
+      "titulo": "Woodie Blank Skateboard Complete",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-GNx1-BaMmIJrCUvLBop0ABHwR4Rg_n_eSw&s",
+      "original": "https://cdn11.bigcommerce.com/s-6hzem4akng/images/stencil/1280x1280/products/434/8749/Black_White-Wheels__35289.1752173223.jpg?c=2"
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "categoria": "bottle",
+  "categoriaSlug": "bottle",
+  "idioma": "gn",
+  "nombreIdioma": "Guaraní",
+  "termino": "botella",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:06:26.673Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "es",
+    "gl": "py"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=botella&hl=es&gl=py",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bottle/gn/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCpnvU3kl6NpnkXF-n7XL9_1mn2GFBb8GDRg&s",
+      "fuentePagina": "https://www.freepik.es/fotos-vectores-gratis/botella-de-plastico",
+      "titulo": "Imágenes de Botella de plastico - Descarga gratuita en Freepik",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCpnvU3kl6NpnkXF-n7XL9_1mn2GFBb8GDRg&s",
+      "original": "https://img.freepik.com/vector-gratis/icono-bebida-plastico-botella-agua_18591-82523.jpg?semt=ais_rp_50_assets&w=740&q=80"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bottle/gn/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvTG8wGHf4sNUK2YwS-Poe9H5o2kKLgxEXJA&s",
+      "fuentePagina": "https://avanceytec.com.mx/descripcion/17790/1140-2850-2551/botella-de-1-litro?srsltid=AfmBOopiIKXqBPEkUms2KkpBBxQ902ku-IIfAY9esBV2-LSLBo6MfURR",
+      "titulo": "Botella de 1 Litro | Avance Ecommerce | Avance y Tecnología ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvTG8wGHf4sNUK2YwS-Poe9H5o2kKLgxEXJA&s",
+      "original": "https://avanceytec.com.mx/_next/image?url=https%3A%2F%2Fnew.avanceytec.com.mx%2Fimg%2Fp%2F1%2F5%2F2%2F9%2F0%2F15290.jpg&w=2048&q=75"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bottle/gn/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbZDzx9Mm5nJCbtnVnkCq1rfmL483-cMUiIg&s",
+      "fuentePagina": "https://es.uline.mx/Product/Detail/S-24386G/Bottles/Wine-Bottles-750-mL-Green",
+      "titulo": "Botellas para Vino - 750 mL, Verdes S-24386G - ULINE",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbZDzx9Mm5nJCbtnVnkCq1rfmL483-cMUiIg&s",
+      "original": "https://img.uline.com/is/image/uline/S-24386G?$Mobile_Zoom$"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bottle/gn/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNQylGHyty00Y-7Q4LMt_PeQPd3dF2TSITsA&s",
+      "fuentePagina": "https://plastienvasesrl.com.py/producto/botella-plastica-1000-ml-berta/",
+      "titulo": "BOTELLA PLASTICA 1000 ML (BERTA)",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNQylGHyty00Y-7Q4LMt_PeQPd3dF2TSITsA&s",
+      "original": "https://plastienvasesrl.com.py/wp-content/uploads/2023/05/berta-1lts.jpg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bottle/gn/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTL7QY96Ir01cY0_R_w7burzA3lWoB8VnAe1A&s",
+      "fuentePagina": "https://distincomer.com.gt/producto/botella-375-ml-c-2611/",
+      "titulo": "Botella 375 ml. C-2611 – Distincomer",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTL7QY96Ir01cY0_R_w7burzA3lWoB8VnAe1A&s",
+      "original": "https://distincomer.com.gt/wp-content/uploads/2021/08/C-2611_60066405.jpg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bottle/gn/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAjYD9aFCn7NM-t98G1qdwALCJb2d9LSCtXQ&s",
+      "fuentePagina": "https://sansei.com.py/producto/26191/botella-plast-cristal-pet-500ml-c-tapa",
+      "titulo": "BOTELLA PLAST CRISTAL PET 500ML C/ TAPA - Sansei",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAjYD9aFCn7NM-t98G1qdwALCJb2d9LSCtXQ&s",
+      "original": "https://sansei.com.py/uploads/products/24182_tims2-botella-2.png"
+    }
+  ]
+}

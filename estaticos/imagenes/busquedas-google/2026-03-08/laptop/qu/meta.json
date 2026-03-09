@@ -1,0 +1,71 @@
+{
+  "categoria": "laptop",
+  "categoriaSlug": "laptop",
+  "idioma": "qu",
+  "nombreIdioma": "Quechua",
+  "termino": "computadur",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:21:58.006Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "es",
+    "gl": "pe"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=computadur&hl=es&gl=pe",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/laptop/qu/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTL32D9G1A4onHp2J89rgW03A0Bkfe09ezUCQ&s",
+      "fuentePagina": "https://www.falabella.com.pe/falabella-pe/product/121808348/computadura-basica-intel-core-i3-9100-16gb-500gb-windows11pro-22-pulgadas/121808350",
+      "titulo": "Computadura Básica Intel Core i3-9100 16GB 500GB ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTL32D9G1A4onHp2J89rgW03A0Bkfe09ezUCQ&s",
+      "original": "https://media.falabella.com/falabellaPE/121808350_01/w=800,h=800,fit=pad"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/laptop/qu/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9zPIv_rLZz97jV75ARhkbnQ-mO7huPE73cg&s",
+      "fuentePagina": "https://www.facebook.com/LaCasadelComputadorambato/posts/estamos-felices-de-haberte-brindado-una-experiencia-de-compra-excepcional-hasta-/926796769456072/",
+      "titulo": "Estamos felices de haberte brindado una experiencia de ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9zPIv_rLZz97jV75ARhkbnQ-mO7huPE73cg&s",
+      "original": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=926796716122744"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/laptop/qu/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9E6ZSxt-nJ0VOECdWYVh9sNHAcCqSN1NxPg&s",
+      "fuentePagina": "https://simple.ripley.com.pe/tecnologia/computacion/computadoras-de-escritorio?srsltid=AfmBOoqV-94oRN7drY_QQC2W_G8Fla9lWFGgIwfkCFd2ZUue2sUUT58a",
+      "titulo": "Computadoras de Escritorio & PC All In One | Ripley Perú",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9E6ZSxt-nJ0VOECdWYVh9sNHAcCqSN1NxPg&s",
+      "original": "https://rimage.ripley.com.pe/home.ripley/Attachment/MKP/5625/PMP20000852237/full_image-1.jpeg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/laptop/qu/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSesFT3YgOZtVHaptvdDCTDFKs_og458pJnWw&s",
+      "fuentePagina": "https://www.promart.pe/computadora-pc-intel-core-i5-16gb-ram-500gb-ssd-monitor-led-24-pulg-1001173755/p?srsltid=AfmBOoq3P3_3MCoaCflSmNT8AnbzUhsUZoI4ND8aJzgHHvZj5LmgYqID",
+      "titulo": "Computadora PC Intel Core i5 - 16GB RAM - 500GB SSD + Monitor LED 24 pulg",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSesFT3YgOZtVHaptvdDCTDFKs_og458pJnWw&s",
+      "original": "https://promart.vteximg.com.br/arquivos/ids/9162149-444-444/image-0.jpg?v=638895792376570000"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/laptop/qu/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPAPX8aIskQF1LuPJc_szRoJhjEZQplEaW_w&s",
+      "fuentePagina": "https://www.radiodelmar.cl/2015/05/nombre-mapuche-de-leftraru-tiene-la-computadura-mas-poderosa-de-chile/",
+      "titulo": "Nombre Mapuche de Leftraru tiene la computadura más poderosa ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPAPX8aIskQF1LuPJc_szRoJhjEZQplEaW_w&s",
+      "original": "http://www.radiodelmar.cl/wp-content/uploads/2015/05/computadora-leftraru.jpeg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/laptop/qu/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShW-ipZK5nmBegRx_o3d0xzsV4zgB4ZNXjfQ&s",
+      "fuentePagina": "https://simple.ripley.com.pe/tecnologia/computacion/computadoras-de-escritorio?srsltid=AfmBOor--j9hJJeN5-g3r3BZd6Sq5Hgu3renIyL1RIESi8bDh0b_84TG",
+      "titulo": "Computadoras de Escritorio & PC All In One | Ripley Perú",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShW-ipZK5nmBegRx_o3d0xzsV4zgB4ZNXjfQ&s",
+      "original": "https://rimage.ripley.com.pe/home.ripley/Attachment/MKP/5625/PMP20000852138/full_image-1.jpeg"
+    }
+  ]
+}

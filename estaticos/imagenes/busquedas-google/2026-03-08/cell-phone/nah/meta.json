@@ -1,0 +1,71 @@
+{
+  "categoria": "cell phone",
+  "categoriaSlug": "cell-phone",
+  "idioma": "nah",
+  "nombreIdioma": "Náhuatl",
+  "termino": "celular",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:24:35.577Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "es",
+    "gl": "mx"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=celular&hl=es&gl=mx",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/cell-phone/nah/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkGWR4lKxjXGzttDrMK4-yl34RSrHkoSR9mA&s",
+      "fuentePagina": "https://www.segurilatam.com/actualidad/celular-desactualizado-riesgos-seguridad_20240126.html",
+      "titulo": "Cuáles son los riesgos de usar un celular desactualizado?",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkGWR4lKxjXGzttDrMK4-yl34RSrHkoSR9mA&s",
+      "original": "https://www.segurilatam.com/wp-content/uploads/sites/5/2024/01/smartphone-blanco.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/cell-phone/nah/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxySDi3xQ2KNrrO5dPvdFugXFHENjh5oVVaQ&s",
+      "fuentePagina": "https://www.amazon.com.mx/Celulares-Android-Smartphone-Inteligente-Tel%C3%A9fonos/dp/B0F6XV24DC",
+      "titulo": "CAILESER Celulares Android 14, 256GB+8GB RAM Smartphone, 6.6 ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxySDi3xQ2KNrrO5dPvdFugXFHENjh5oVVaQ&s",
+      "original": "https://m.media-amazon.com/images/I/61W2Lw0KHCL.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/cell-phone/nah/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThTT5g-94cbuBZ7jqvlZs5LKvSiexbGwuCsg&s",
+      "fuentePagina": "https://www.rac.mx/producto/samsung-galaxy-a05s-6-7-4gb-128gb-plata/",
+      "titulo": "Samsung Galaxy A05S 6.7\" 4GB 128GB Plata | RAC",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThTT5g-94cbuBZ7jqvlZs5LKvSiexbGwuCsg&s",
+      "original": "https://www.rac.mx/wp-content/uploads/2024/05/Celulares-Celular-Samsung-Galaxy-A05S-6.722-4GB-128GB-Negro-modelo-SM-A057MBLK-C-1.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/cell-phone/nah/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdkkubGN_N4M8NUgRG5I05X7Ga3Htf7uiIrw&s",
+      "fuentePagina": "https://www.mueblesamerica.mx/celular-xiaomi-redmi-15c-256-gb-azul-telcel-telc03420.html?srsltid=AfmBOopeoJkbACLsDizZHFGTxDXSFDLLcLuezjEOucZsfHUWoWeabcmS",
+      "titulo": "Celular Xiaomi REDMI 15C 256 Gb Azul Telcel",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdkkubGN_N4M8NUgRG5I05X7Ga3Htf7uiIrw&s",
+      "original": "https://www.mueblesamerica.mx/img/1024/1024/resize/t/e/telc03420_a.jpg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/cell-phone/nah/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQ0LuwIE5gwlLDC_YeszM1em8V2mVzfUjX3w&s",
+      "fuentePagina": "https://www.walmart.com.mx/ip/celular-smartphone-samsung-galaxy-a16-5g-8gb-256gb-light-gray-nuevo-liberado/00880609550083",
+      "titulo": "Celular Smartphone Samsung Galaxy A16 5G 8GB + 256GB Light ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQ0LuwIE5gwlLDC_YeszM1em8V2mVzfUjX3w&s",
+      "original": "https://i5.walmartimages.com/asr/1591a1ab-3b20-42b0-895d-419449e68016.da226e9ab1b5d852bb937805f4b8f496.jpeg?odnHeight=612&odnWidth=612&odnBg=FFFFFF"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/cell-phone/nah/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPBGjSVY_1tnvf0Vy0QyMUvSaD659100zOBQ&s",
+      "fuentePagina": "https://mx.celulares.com/apple/iphone-x",
+      "titulo": "Apple iPhone X (iPhone 10, iPhone Ten, A1865, A1901 ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPBGjSVY_1tnvf0Vy0QyMUvSaD659100zOBQ&s",
+      "original": "https://mx.celulares.com/fotos/apple-iphone-x-59552-g-alt.jpg"
+    }
+  ]
+}

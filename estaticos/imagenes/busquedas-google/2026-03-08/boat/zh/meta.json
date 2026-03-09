@@ -1,0 +1,71 @@
+{
+  "categoria": "boat",
+  "categoriaSlug": "boat",
+  "idioma": "zh",
+  "nombreIdioma": "中文",
+  "termino": "船",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T20:46:06.847Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "zh-CN",
+    "gl": "cn"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=%E8%88%B9&hl=zh-CN&gl=cn",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/boat/zh/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTiDo-INPjUrY8pj3yMxh6D1ip6LK6yCYyiWA&s",
+      "fuentePagina": "https://www.xindemarinenews.com/china/16784.html",
+      "titulo": "最丰富！最专业！的船舶类型介绍，建议收藏_信德海事网-专业海事 ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTiDo-INPjUrY8pj3yMxh6D1ip6LK6yCYyiWA&s",
+      "original": "http://5b0988e595225.cdn.sohucs.com/images/20191209/99c791e8d9364124962a5d90debebf52.jpeg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/boat/zh/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnzdXDkKPWnqyqA_WXwR3nbDp8v5FBJWsLMQ&s",
+      "fuentePagina": "https://zh.wikipedia.org/zh-cn/%E8%88%B9%E4%BD%93",
+      "titulo": "船体- 维基百科，自由的百科全书",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnzdXDkKPWnqyqA_WXwR3nbDp8v5FBJWsLMQ&s",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/8/88/Ship_diagram-numbers.svg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/boat/zh/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRV8PVFpOunsPG_3-84HQIU6dOWzjXHSytGZQ&s",
+      "fuentePagina": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60256325/%E4%B8%AD%E5%9C%8B%E8%87%AA%E4%B8%BB%E8%A8%AD%E8%A8%88%E5%BB%BA%E9%80%A0-%E5%90%8C%E6%BF%9F-%E8%99%9F%E4%BA%A4%E4%BB%98-%E7%82%BA%E9%A6%96%E8%89%98%E6%B5%B7%E6%B4%8B%E7%B4%9A%E6%99%BA%E8%83%BD%E7%B6%9C%E5%90%88%E7%A7%91%E8%80%83%E8%88%B9",
+      "titulo": "中國自主設計建造「同濟」號交付為首艘海洋級智能綜合科考船",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRV8PVFpOunsPG_3-84HQIU6dOWzjXHSytGZQ&s",
+      "original": "https://cdn.hk01.com/di/media/images/dw/20250713/1021120113291563008867219.jpeg/s8_PubfgayIYWOPwO7OQJdaSubnSyA6qNjI0xzYyNMc?v=w1280r16_9"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/boat/zh/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQhEj2Amf53ZGQwgTWvs6jRrY9j_sVfz1TgQ&s",
+      "fuentePagina": "https://jtyst.fujian.gov.cn/zwgk/jtyw/mtsy/201808/t20180820_4082237.htm",
+      "titulo": "舟楫传奇里的福船_ 媒体视点_ 福建省交通运输厅",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQhEj2Amf53ZGQwgTWvs6jRrY9j_sVfz1TgQ&s",
+      "original": "https://jtyst.fujian.gov.cn/zwgk/jtyw/mtsy/201808/W020180820600205559533.jpg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/boat/zh/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQda4TuDsUNHlSaPp5XRJrm-C1Xe8J0jvMatw&s",
+      "fuentePagina": "https://www.ccs.org.cn/ccswz/field?columnid=202001161029241687&index=0",
+      "titulo": "中国船级社",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQda4TuDsUNHlSaPp5XRJrm-C1Xe8J0jvMatw&s",
+      "original": "https://www.ccs.org.cn/ccswz/upload/article/attach/%E8%88%B9%E8%88%B6%E9%A2%86%E5%9F%9F.jpg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/boat/zh/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTU2kfGhgA5GleoXg1U9u6pvIa6fYtMohwZDA&s",
+      "fuentePagina": "https://www.xindemarinenews.com/china/16784.html",
+      "titulo": "最丰富！最专业！的船舶类型介绍，建议收藏_信德海事网-专业海事 ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTU2kfGhgA5GleoXg1U9u6pvIa6fYtMohwZDA&s",
+      "original": "http://5b0988e595225.cdn.sohucs.com/images/20191209/d82ec802c9be4f82acbd2e01108d5555.jpeg"
+    }
+  ]
+}

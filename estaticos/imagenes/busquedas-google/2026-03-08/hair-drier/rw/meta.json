@@ -1,0 +1,71 @@
+{
+  "categoria": "hair drier",
+  "categoriaSlug": "hair-drier",
+  "idioma": "rw",
+  "nombreIdioma": "Kinyarwanda",
+  "termino": "seche-cheveux",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:31:35.077Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "en",
+    "gl": "rw"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=seche-cheveux&hl=en&gl=rw",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/hair-drier/rw/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGTulc9kOdMcNRzrS2UDyYJY2RE69YFM2PLg&s",
+      "fuentePagina": "https://corioliss.fr/arc/287-seche-cheveux-arc.html",
+      "titulo": "Sèche-Cheveux Professionnel numérique ARC",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGTulc9kOdMcNRzrS2UDyYJY2RE69YFM2PLg&s",
+      "original": "https://corioliss.fr/2447-large_default/seche-cheveux-arc.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/hair-drier/rw/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQalfI4HJF7Mrr99dF8nxWGcmyReqFjTBBBlQ&s",
+      "fuentePagina": "https://bellissima.com/fr-fr/products/seche-cheveux-ionique?srsltid=AfmBOopsMPy30kz58NmwmUcwykUg58rT7PMO6QExnq3-7v0WGpwfsP8h",
+      "titulo": "Sèche-cheveux anti-frisottis avec diffuseur et technologie ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQalfI4HJF7Mrr99dF8nxWGcmyReqFjTBBBlQ&s",
+      "original": "https://bellissima.com/cdn/shop/files/11523-ga-05-asciugacapelli-tecnologia-ioni-K92300.jpg?v=1734512376&width=1946"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/hair-drier/rw/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqpe73OZ__36Y9iIx8qHulaGsoHn9lOJGcew&s",
+      "fuentePagina": "https://shikeratine.fr/products/seche-cheveux-professionnel-mq-hair-2400watts?srsltid=AfmBOopFwrHgVIgTsM3mXnjRgNW2E1-wLokZ9mnNmLxvNA2Wz9SNAfcO",
+      "titulo": "Sèche-cheveux professionnel MQ HAIR PRO DIGITAL ion ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqpe73OZ__36Y9iIx8qHulaGsoHn9lOJGcew&s",
+      "original": "https://shikeratine.fr/cdn/shop/files/SECADOR-PRO-DIGITAL-_1.jpg?v=1750404126&width=2480"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/hair-drier/rw/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2Cw05RMw7EXg452X8u8LslGRzdbVd5ZbanQ&s",
+      "fuentePagina": "https://sharkclean.fr/produits/seche-cheveux-shark-speedstyle-pro-5-en-1-hd752eu-zidHD752EU",
+      "titulo": "Sèche-cheveux Shark SpeedStyle Pro 5-en-1 HD752EU - Shark France",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2Cw05RMw7EXg452X8u8LslGRzdbVd5ZbanQ&s",
+      "original": "https://res.cloudinary.com/sharkninja/image/upload/b_rgb:FFFFFF,c_pad,dpr_2.0,f_auto,h_300,q_auto,w_300/c_pad,h_300,w_300/v1736849108/France/Shark/Products/HD752EU/Gallery/HD752EU_FR_01?pgw=1"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/hair-drier/rw/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQi_xmcGDFNA-CKs_ETUDMBEQ7IjvuW3W22yw&s",
+      "fuentePagina": "https://corioliss.fr/flow/246-seche-cheveux-flow-black-zebra.html",
+      "titulo": "Sèche-Cheveux Professionnel FLOW Blaxk Zebra",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQi_xmcGDFNA-CKs_ETUDMBEQ7IjvuW3W22yw&s",
+      "original": "https://corioliss.fr/2541-large_default/seche-cheveux-flow-black-zebra.jpg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/hair-drier/rw/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRImyIl7WyOh0EPlV5n8cIGIcC1qVhs686tNQ&s",
+      "fuentePagina": "https://www.babyliss.com/fr-fr/s%C3%A8che-cheveux-cordkeeper-2000-D373E.html",
+      "titulo": "Sèche-cheveux Cordkeeper 2000 | D373E | BaByliss",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRImyIl7WyOh0EPlV5n8cIGIcC1qVhs686tNQ&s",
+      "original": "https://www.babyliss.com/on/demandware.static/-/Sites-master-fr/default/dw5843a599/images/BaByliss-ML/Dryers/D373E/WEB_D373E%20_BaByliss_Cordkeeper_2000_Hairdryer_3.jpg"
+    }
+  ]
+}

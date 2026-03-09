@@ -1,0 +1,71 @@
+{
+  "categoria": "oven",
+  "categoriaSlug": "oven",
+  "idioma": "ar",
+  "nombreIdioma": "العربية",
+  "termino": "فرن",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:25:46.528Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "ar",
+    "gl": "eg"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=%D9%81%D8%B1%D9%86&hl=ar&gl=eg",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/oven/ar/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLQce-uMXHJmTfT_lPirVLwhU5vbjvo89wog&s",
+      "fuentePagina": "https://alharaminstore.com/built-in-oven-60-cm-hydraulic-door-gas-oven-and-grill/",
+      "titulo": "فرن بلت ان يونيون اير 60 سم مع شواية وقلاية هوائية BO66S ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLQce-uMXHJmTfT_lPirVLwhU5vbjvo89wog&s",
+      "original": "https://alharaminstore.com/wp-content/uploads/2024/10/%D8%A8%D9%88%D8%AA%D8%A7%D8%AC%D8%A7%D8%B2.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/oven/ar/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSh5JGlKtr0aTt-G1Z9urzncZW1Cw1HA4FSnQ&s",
+      "fuentePagina": "https://menashopeg.com/product/ido-freestanding-electric-oven-to50sgbk-html/?srsltid=AfmBOooYAdrRkexACEwnl0N_6WlRk11rkgwU8Ty3LYUTYQ0tLO7ObajN",
+      "titulo": "فرن كهربائي اي دو، 50 لتر، 2000 وات، اسود وفضي - TO50SG-BK",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSh5JGlKtr0aTt-G1Z9urzncZW1Cw1HA4FSnQ&s",
+      "original": "https://menashopeg.com/wp-content/uploads/2024/05/6f200261054490ef99c6a8beaa60ea0017dc1a6b781eca0615f30f56dd2121d6-1.jpeg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/oven/ar/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRv6QUQ1_GLDJrbXinBzvW401N6bt8sS-Npcg&s",
+      "fuentePagina": "https://khamato.com/bog6622e00x-gorenje-built-in-gas-oven-60-cm-stainless?srsltid=AfmBOoqVdWFq3iQBOeznCZazXeQES62436YnaPkOV4ufrKemtHAyDCl7",
+      "titulo": "فرن بلت ان جورينيا غاز 60 سم استانلس",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRv6QUQ1_GLDJrbXinBzvW401N6bt8sS-Npcg&s",
+      "original": "https://e-motion-cdn.fra1.cdn.digitaloceanspaces.com/product/3175/wkAVaojsIAqKMwN9BbN8bx9dQ6rkGCh2uxkaRXKO-1000x1000.png?v=-1"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/oven/ar/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0Zz9jDz4MuPCnKvUhEVNQBUa7acXwfxnZsg&s",
+      "fuentePagina": "https://alsaifkitchen.com/products/%D9%81%D8%B1%D9%86-%D9%83%D9%87%D8%B1%D8%A8%D8%A7%D8%A1-%D9%83%D9%88%D9%85%D8%AA%D9%8A%D9%84-36-%D9%84%D8%AA%D8%B1-1420-%D9%88%D8%A7%D8%AA-%D8%B3%D9%84%D9%81%D8%B1?srsltid=AfmBOop1iG50yiLJwdzpb8B60FuJ9BraXixRO3p_n6Dv3uWn4el_fejY",
+      "titulo": "فرن كهربائي كومتيل 36 لتر 1420 واط سلفر. اطلبه الآن !",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0Zz9jDz4MuPCnKvUhEVNQBUa7acXwfxnZsg&s",
+      "original": "https://media.zid.store/b734aba6-7bd8-4dff-8efa-bd44a8833134/82d32cba-e15c-4a16-8c0c-4381e2218c55.png"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/oven/ar/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS50f7AJaPAUJGafRiqe_noFFtNBT6Cf5ggtA&s",
+      "fuentePagina": "https://eliraqi.com.eg/ar/fresh-oven-electric-elite-65-liter-grill-and-fan-silver-with-2-hot-plates-65l-hp?srsltid=AfmBOoqB3PgmaTf2Asr5fdMOrJCGN1g3r28AlQ4GzCtbgXyAIM9fvSmC",
+      "titulo": "شركة العراقى | فرن كهربائي فريش 65 لتر شواية ومروحة سيلفر مع ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS50f7AJaPAUJGafRiqe_noFFtNBT6Cf5ggtA&s",
+      "original": "https://eliraqi.com.eg/images/thumbs/0049292_fresh-electric-oven-elite-65-liter-grill-and-fan-silver-with-2-hot-plates-65l-hp_600.jpeg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/oven/ar/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSaVCKf_qgNHylmuxSgnd3pW0Xr10R2z43cXw&s",
+      "fuentePagina": "https://kenzz.com/product/D44AKPQZELY4/%D9%81%D8%B1%D9%86-%D9%83%D9%87%D8%B1%D8%A8%D8%A7%D8%A6%D9%8A-%D9%85%D8%B9-%D8%B4%D9%88%D8%A7%D9%8A%D9%87-%D9%88%D8%B5%D9%8A%D9%86%D9%8A%D9%87-%D9%85%D9%86-%D9%81%D8%B1%D8%B3%D8%AA-50-%D9%84%D8%AA%D8%B1-%D8%A3%D8%B3%D9%88%D8%AF?srsltid=AfmBOopgHDkwyiXBW-9PQ60_QRsGom-NAkEvocnsxvXsdTQ2Oaja1MgW",
+      "titulo": "فرن كهربائي مع شوايه وصينيه من فرست - 2000 وات - 50 لتر - أسود",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSaVCKf_qgNHylmuxSgnd3pW0Xr10R2z43cXw&s",
+      "original": "https://assets.kenzz.com/products/104582/001_Rafae3-3.jpeg"
+    }
+  ]
+}

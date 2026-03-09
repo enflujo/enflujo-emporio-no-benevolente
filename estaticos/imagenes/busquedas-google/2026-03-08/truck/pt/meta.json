@@ -1,0 +1,71 @@
+{
+  "categoria": "truck",
+  "categoriaSlug": "truck",
+  "idioma": "pt",
+  "nombreIdioma": "Português",
+  "termino": "caminhão",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T20:45:29.990Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "pt",
+    "gl": "br"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=caminh%C3%A3o&hl=pt&gl=br",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/truck/pt/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQU5MkWgWixr1Ukfeac4eA1sBhgGAEgADJ8rg&s",
+      "fuentePagina": "https://decklog.com.br/tipos-de-caminhao-dimensoes-e-uso/",
+      "titulo": "Tipos de caminhão: dimensões e uso | Decklog",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQU5MkWgWixr1Ukfeac4eA1sBhgGAEgADJ8rg&s",
+      "original": "https://decklog.com.br/wp-content/uploads/2024/07/Toco-ou-semi-pesado.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/truck/pt/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU6tLdB0hxgTOOBH4WWMzWBvj_2MWXnI2h-g&s",
+      "fuentePagina": "https://blog.fretebras.com.br/veiculos-pesados-conheca-os-principais-tipos-de-caminhao/",
+      "titulo": "Veículos pesados: conheça os principais tipos de caminhão",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU6tLdB0hxgTOOBH4WWMzWBvj_2MWXnI2h-g&s",
+      "original": "https://blog.fretebras.com.br/wp-content/uploads/2022/08/Fretebras_Veiculos_pesados_img-blog.png"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/truck/pt/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSW4KbN3TG87EEkkl1TtLO9fQ9kT-lYnQPydw&s",
+      "fuentePagina": "https://transportemundial.com.br/scania-super-e-reconhecido-como-o-melhor/",
+      "titulo": "Scania Super é reconhecido como o melhor caminhão de ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSW4KbN3TG87EEkkl1TtLO9fQ9kT-lYnQPydw&s",
+      "original": "https://transportemundial.com.br/wp-content/uploads/2024/04/53d7ef96e1a33f95c2d2b6798db570d6-scaled.jpeg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/truck/pt/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTiuZqi-6W9pTWhcz9sKdYi5N6Ij2M07J0w9A&s",
+      "fuentePagina": "https://www.unifisa.com.br/consorcio-de-caminhoes/",
+      "titulo": "Consórcio de Caminhão da Unifisa",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTiuZqi-6W9pTWhcz9sKdYi5N6Ij2M07J0w9A&s",
+      "original": "https://www.unifisa.com.br/file/2023/06/Caminhao-4.png"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/truck/pt/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbBEANTFDb2CxHW4R1IXJdcxakqgqTX_VQZg&s",
+      "fuentePagina": "https://logweb.com.br/melhor-caminhao-ja-desenvolvido-pela-montadora-no-brasil-se-destaca-no-segmento/",
+      "titulo": "Melhor caminhão já desenvolvido pela montadora no Brasil se ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbBEANTFDb2CxHW4R1IXJdcxakqgqTX_VQZg&s",
+      "original": "https://logweb.com.br/wp-content/uploads/2023/05/SWay_.jpeg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/truck/pt/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRXBCwO2wOG_dM0r470AP3_ZcTMohlKfP9LA&s",
+      "fuentePagina": "https://motz.com.br/blog/alteracoes-e-acessorios-proibidos-para-o-caminhao",
+      "titulo": "Alterações e acessórios proibidos para o caminhão",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRXBCwO2wOG_dM0r470AP3_ZcTMohlKfP9LA&s",
+      "original": "https://motz.com.br/storage/news/27.webp"
+    }
+  ]
+}

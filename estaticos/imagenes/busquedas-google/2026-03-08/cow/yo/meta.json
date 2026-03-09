@@ -1,0 +1,71 @@
+{
+  "categoria": "cow",
+  "categoriaSlug": "cow",
+  "idioma": "yo",
+  "nombreIdioma": "Yorùbá",
+  "termino": "màlúù",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T20:53:02.231Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "yo",
+    "gl": "ng"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=m%C3%A0l%C3%BA%C3%B9&hl=yo&gl=ng",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/cow/yo/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShEBRejkdNPDWZC-1L4vWZGHTaxoFvyvUYaw&s",
+      "fuentePagina": "https://yo.wikipedia.org/wiki/M%C3%A0l%C3%BA%C3%B9",
+      "titulo": "Màlúù - Wikipedia, ìwé-ìmọ̀ ọ̀fẹ́",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShEBRejkdNPDWZC-1L4vWZGHTaxoFvyvUYaw&s",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Cow_female_black_white.jpg/250px-Cow_female_black_white.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/cow/yo/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkUDf63avvSLc5W1e0SO5omKwdDtRIuFcoPg&s",
+      "fuentePagina": "https://yo.wikipedia.org/wiki/M%C3%A0l%C3%BA%C3%B9",
+      "titulo": "Màlúù - Wikipedia, ìwé-ìmọ̀ ọ̀fẹ́",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkUDf63avvSLc5W1e0SO5omKwdDtRIuFcoPg&s",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/CH_cow_2_cropped.jpg/330px-CH_cow_2_cropped.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/cow/yo/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzBftd47M7sGqgDgtIJQQH3tgPevaG-RwCvw&s",
+      "fuentePagina": "https://www.facebook.com/abubakar.husseini.35/posts/shanunaim%C3%A0l%C3%BA%C3%B9-ehiin-english-language-we-call-it-bulllll/3166672546850939/",
+      "titulo": "Shanu Na'i Màlúù Ehi In English language we call it Bulllll",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzBftd47M7sGqgDgtIJQQH3tgPevaG-RwCvw&s",
+      "original": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=3166672506850943"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/cow/yo/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfNr91ImUHpfcpIaQ1FJQS50XE9p0_h3Np2w&s",
+      "fuentePagina": "https://glosbe.com/en/yo/cow",
+      "titulo": "cow in Yoruba - English-Yoruba Dictionary | Glosbe",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfNr91ImUHpfcpIaQ1FJQS50XE9p0_h3Np2w&s",
+      "original": "https://glosbe.com/fb_img/profilePageAvatar/sG4953368_Screenshot-2020-05-06-at-11.57.05-PM.png.cvrt.jpg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/cow/yo/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRLw1fNKL5S6uluZjMy5uTOA4ydsURqScfKA&s",
+      "fuentePagina": "https://www.facebook.com/aduagbagardenonlinetv/posts/%C3%B2we-wa-tal%E1%BA%B9%CC%81-y%C3%AC%C3%AD-k%C3%ADni-%C3%ACtum%E1%BB%8D%CC%80-%C3%B2we-y%C3%AC%C3%ADm%C3%A0l%C3%BA%C3%B9-t%C3%AD-k%C3%B2-n%C3%ADr%C3%B9aduagbagardenonlinetv-owe-ma/617166687732749/",
+      "titulo": "Òwe wa t'alẹ́ yìí (Kíni ìtumọ̀ òwe yìí?) MÀLÚÙ TÍ KÒ NÍRÙ ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRLw1fNKL5S6uluZjMy5uTOA4ydsURqScfKA&s",
+      "original": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=617166664399418"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/cow/yo/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5Y6kxUZT_T4FtoY7dK-Rq9MloBqT3DX7dvg&s",
+      "fuentePagina": "https://www.instagram.com/p/DMHrM1lIxNc/",
+      "titulo": "Ọjọ́ tí a ti bí ọmọ màlúù ló tóbi ju ọmọ ewúrẹ́ lọ ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5Y6kxUZT_T4FtoY7dK-Rq9MloBqT3DX7dvg&s",
+      "original": "https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3677097606227512742"
+    }
+  ]
+}

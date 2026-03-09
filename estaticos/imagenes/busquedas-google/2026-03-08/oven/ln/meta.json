@@ -1,0 +1,71 @@
+{
+  "categoria": "oven",
+  "categoriaSlug": "oven",
+  "idioma": "ln",
+  "nombreIdioma": "Lingala",
+  "termino": "four",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:25:27.171Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "fr",
+    "gl": "cd"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=four&hl=fr&gl=cd",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/oven/ln/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXvmqzEJpSbgG503axCII0w7XixYCbMrN-fA&s",
+      "fuentePagina": "https://equipement-direct.fr/fours-a-convection/205731-fours-a-convection-four-electrique-patissier-a-convection-4-niveaux-humidificateur-manuel-3200-w-220-v-mono-diamond-brio64-x-p-3701188028790.html",
+      "titulo": "Four électrique pâtissier à convection, 4 niveaux ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXvmqzEJpSbgG503axCII0w7XixYCbMrN-fA&s",
+      "original": "https://media.equipement-direct.fr/229500-product_main/fours-a-convection-four-electrique-patissier-a-convection-4-niveaux-humidificateur-manuel-3200-w-220-v-mono-diamond-brio64-x-p.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/oven/ln/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRADhHG04SMjSvEQF0ILXg8Y4oVX0-sBqVivw&s",
+      "fuentePagina": "https://www.cobal.fr/four/6900-four-encast-elect-inox-bbic12100xd.html",
+      "titulo": "FOUR ENCAST ELECT INOX 70L MULTI FONCTION",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRADhHG04SMjSvEQF0ILXg8Y4oVX0-sBqVivw&s",
+      "original": "https://www.cobal.fr/1802-large_default/four-encast-elect-inox-bbic12100xd.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/oven/ln/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQk9bysFrm0DszjQEvGyo9x8QfRKiVbwBDVhw&s",
+      "fuentePagina": "https://www.rollergrill-international.com/fr/gamme-professionnelle/193/10/la-cuisson/fours-multifonctions/four-chaleur-tournante-38-l-detail.html",
+      "titulo": "Four électrique 38 litres : four professionnel à poser",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQk9bysFrm0DszjQEvGyo9x8QfRKiVbwBDVhw&s",
+      "original": "https://www.rollergrill-international.com/images/stories/virtuemart/product/four-electrique-38-litres-four-professionnel-poser-fc380.webp"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/oven/ln/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSq85bF-dO_s4hdinUZAijjD-1uAox-jrwa2Q&s",
+      "fuentePagina": "https://www.beko.fr/page-editoriale/guide-entretien-et-bonnes-pratiques-comment-bien-utiliser-son-four",
+      "titulo": "Guide d'entretien et bonnes pratiques : comment bien ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSq85bF-dO_s4hdinUZAijjD-1uAox-jrwa2Q&s",
+      "original": "https://www.beko.fr/sites/default/files/thumbnails/image/bien_choisir_son_four_beko_.png"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/oven/ln/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTg4xQx3YPjgDgL8lXDBZR6y5sa_jrObpJ-Mw&s",
+      "fuentePagina": "https://ninjakitchen.fr/ninja-catalogue/fours/",
+      "titulo": "Fours | Ninja Kitchen France",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTg4xQx3YPjgDgL8lXDBZR6y5sa_jrObpJ-Mw&s",
+      "original": "https://res.cloudinary.com/sharkninja/image/upload/f_auto,q_auto/v1637141611/Ninja/DT200UK/DT200UK-lamb-angle-2-without-model.jpg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/oven/ln/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2FRVl2mYHEwBZSC1xeKchWLnV0kTE9lCAjQ&s",
+      "fuentePagina": "https://www.conforama.fr/gros-electromenager/cuisson/four/c/070304",
+      "titulo": "Four pas cher - Électroménager - Paiement 4 fois | Conforama",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2FRVl2mYHEwBZSC1xeKchWLnV0kTE9lCAjQ&s",
+      "original": "https://media.conforama.fr/assets/bltd50d0089a2c99486/bltab0ed1aa7535e7db/S_104076_A.jpg"
+    }
+  ]
+}

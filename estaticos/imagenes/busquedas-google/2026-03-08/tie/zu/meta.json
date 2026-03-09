@@ -1,0 +1,71 @@
+{
+  "categoria": "tie",
+  "categoriaSlug": "tie",
+  "idioma": "zu",
+  "nombreIdioma": "isiZulu",
+  "termino": "ithayi",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T20:58:23.996Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "zu",
+    "gl": "za"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=ithayi&hl=zu&gl=za",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/tie/zu/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0sStpWYtUpSrDim2WJdVbPZO_kjRsU7xQ8w&s",
+      "fuentePagina": "https://www.facebook.com/groups/706780510356439/posts/1524232835277865/",
+      "titulo": "Layenza indaba ithayi",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0sStpWYtUpSrDim2WJdVbPZO_kjRsU7xQ8w&s",
+      "original": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=1543641239974576"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/tie/zu/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZjpmF9GvxnunwJlC0VLuygtxYbdEG7bCpIA&s",
+      "fuentePagina": "http://zu.yilitie.com/news/judging-tie-quality-the-art-of-tie-buying/",
+      "titulo": "Izindaba - Ukwahlulela Ikhwalithi Yethayi: Ubuciko ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZjpmF9GvxnunwJlC0VLuygtxYbdEG7bCpIA&s",
+      "original": "http://www.yilitie.com/uploads/1.1-The-Tie-Shell-Exterior.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/tie/zu/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3MreLGRcxczUrQm96d2Hvc0-ho09Sy3anmg&s",
+      "fuentePagina": "https://open.spotify.com/track/3hXVuF0pPPFPRkwwAiTfYH",
+      "titulo": "Ithayi lemoto - song and lyrics by iS'chomane sosoPHONGOLO ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3MreLGRcxczUrQm96d2Hvc0-ho09Sy3anmg&s",
+      "original": "https://i.scdn.co/image/ab67616d00001e02c1227dd6d04e25a9711c2de6"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/tie/zu/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnm8DJucCJJ4NNreHx-tai9STXCiBuIi7UOQ&s",
+      "fuentePagina": "https://www.facebook.com/groups/1010534460077935/posts/1549431409521568/",
+      "titulo": "Ithayi lemoto ka Brown Mogotsi.",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnm8DJucCJJ4NNreHx-tai9STXCiBuIi7UOQ&s",
+      "original": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=122204106974048480"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/tie/zu/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1MmaqA8cTnakbl48_VhxQezhRR42nhprxxw&s",
+      "fuentePagina": "https://www.tiktok.com/discover/ithayi-lemoto-mtanami",
+      "titulo": "Ithayi Lemoto Mtanami | TikTok",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1MmaqA8cTnakbl48_VhxQezhRR42nhprxxw&s",
+      "original": "https://www.tiktok.com/api/img/?itemId=7560346371392572679&location=0&aid=1988"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/tie/zu/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLuUwEX05sakP4h2yINjIgo3fJRccybwowCg&s",
+      "fuentePagina": "https://www.temu.com/za-zu/i-1pc-intambo-esiliva-egolide-ye-crochet-1mm-intambo-yokuluka-yensimbi-ekhazimulayo-yokweluka-eyenziwe-ngesandla-isikhwama-sesikhwama-isigqoko-sebhasikidi-inalitha-yokusebenza-okubalulekile-ukuthunga-ubuciko-abahlinzeki-besitolo-esithengisa-ngokukhanya-okuncane-okucwebezelayo-umugqa-kasilika-ogqamile-480m-200-i-polyester-g-601099525078531.html",
+      "titulo": "Intambo Yokukrosha Yegolide Esiyisiliva engu-200G 1MM Ekhazimulayo Yentambo  Yokunitha Yensimbi Yokuluka Ngezandla Isikhwama Sesikhwama Isitsha Isigqoko  Indw* Yokuthunga Izinto Zokuthunga Izinto ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLuUwEX05sakP4h2yINjIgo3fJRccybwowCg&s",
+      "original": "https://img.kwcdn.com/product/Fancyalgo/VirtualModelMatting/f87d189e03f13dc9310e4612a6a3fb71.jpg?imageMogr2/auto-orient%7CimageView2/2/w/800/q/70/format/webp"
+    }
+  ]
+}

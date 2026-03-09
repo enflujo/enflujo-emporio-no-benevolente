@@ -1,0 +1,71 @@
+{
+  "categoria": "bottle",
+  "categoriaSlug": "bottle",
+  "idioma": "kg",
+  "nombreIdioma": "Kikongo",
+  "termino": "butelu",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:06:05.981Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "fr",
+    "gl": "cd"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=butelu&hl=fr&gl=cd",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bottle/kg/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcReYXRueGfykTJp7eM4LJUX_W9AY5JGEQnXMw&s",
+      "fuentePagina": "https://www.shazam.com/song/1814896003/ndi-butelu-ike-na-mba-ofesi",
+      "titulo": "Ndi Butelu Ike na Mba Ofesi",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcReYXRueGfykTJp7eM4LJUX_W9AY5JGEQnXMw&s",
+      "original": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/42/0f/26/420f26a0-e6c9-7000-64f1-2e8b3703774f/artwork.jpg/600x600cc.webp"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bottle/kg/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSj3o5wswtnJMuqBSL8jFoyCu7xmLgvepaoJw&s",
+      "fuentePagina": "https://soundcloud.com/elveektor/onye-butelu-ike",
+      "titulo": "Stream Onye Butelu Ike by Elveektor | Listen online for free ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSj3o5wswtnJMuqBSL8jFoyCu7xmLgvepaoJw&s",
+      "original": "https://i1.sndcdn.com/artworks-YXb2DTjpG4PuoWdG-nZqhVA-t500x500.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bottle/kg/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBI-MOzHWAL18DzaPIzAhNDnFmqdEqRHrtgA&s",
+      "fuentePagina": "https://audiomack.com/nothingMega/song/men-butelu-ike",
+      "titulo": "Men Butelu Ike by NothingMega: Listen on Audiomack",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBI-MOzHWAL18DzaPIzAhNDnFmqdEqRHrtgA&s",
+      "original": "https://i.audiomack.com/jmapel-nothingmega/16f0a89c79.webp?width=2880"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bottle/kg/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT66NRpOZUu6e2ppQJirMJr_3Sm0KfJ8NvQLA&s",
+      "fuentePagina": "https://www.shazam.com/song/1608664627/onye-butelu-ike/music-video",
+      "titulo": "Onye Butelu Ike - Music Video by Elveektor - Shazam",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT66NRpOZUu6e2ppQJirMJr_3Sm0KfJ8NvQLA&s",
+      "original": "https://i.ytimg.com/vi/K_Rk3BNxHSk/hqdefault.jpg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bottle/kg/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-FKPYdvkZ8KNtno5ND28ik_XbJS2ZtweKFg&s",
+      "fuentePagina": "https://www.facebook.com/people/Buteli-Butelu/100086558245113/",
+      "titulo": "Buteli Butelu",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-FKPYdvkZ8KNtno5ND28ik_XbJS2ZtweKFg&s",
+      "original": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=100086558245113"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bottle/kg/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-5Ngd4dsY2lS_-NW6zgsPDaa8DKkbx9pWRA&s",
+      "fuentePagina": "https://audiomack.com/Princeigedeosadebe/song/ndi-butelu-ike-na-mba-ofesi-special",
+      "titulo": "NDI BUTELU IKE NA MBA OFESI SPECIAL by Prince Igede Osadebe ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-5Ngd4dsY2lS_-NW6zgsPDaa8DKkbx9pWRA&s",
+      "original": "https://i.audiomack.com/emeco-music/6cd4fa26ec.webp?width=1000&height=1000"
+    }
+  ]
+}

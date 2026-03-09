@@ -1,0 +1,71 @@
+{
+  "categoria": "bench",
+  "categoriaSlug": "bench",
+  "idioma": "rw",
+  "nombreIdioma": "Kinyarwanda",
+  "termino": "intebe nderera",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T20:49:02.290Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "en",
+    "gl": "rw"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=intebe%20nderera&hl=en&gl=rw",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bench/rw/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTeu7IYvR80HxpEkhttiZih0FPefptBKVLcCw&s",
+      "fuentePagina": "https://www.instagram.com/p/Cqqpdt1s2E1/",
+      "titulo": "Furnitures:Intebe zo muri Salon ndetse na Salle a Mangé ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTeu7IYvR80HxpEkhttiZih0FPefptBKVLcCw&s",
+      "original": "https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3074452050461063302"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bench/rw/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQf2Mz3fNtLbzxppg7c5YIk36jhfnmYMac-8Q&s",
+      "fuentePagina": "https://www.instagram.com/p/CO2MxmdhAe4/",
+      "titulo": "Intebe yose wakenera uko yaba ikoze kose , Design Yose ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQf2Mz3fNtLbzxppg7c5YIk36jhfnmYMac-8Q&s",
+      "original": "https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=2573300417929015770"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bench/rw/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6t5j_canyT9eLBg3RPYPwXd-ZcoOXbKd_ng&s",
+      "fuentePagina": "https://www.instagram.com/p/CO2MxmdhAe4/",
+      "titulo": "Intebe yose wakenera uko yaba ikoze kose , Design Yose ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6t5j_canyT9eLBg3RPYPwXd-ZcoOXbKd_ng&s",
+      "original": "https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=2573300417887079576"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bench/rw/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8Fqv503lnMzkcKdE-sXzJ98hxJkL0A6FyWQ&s",
+      "fuentePagina": "https://www.instagram.com/p/Cqqpdt1s2E1/",
+      "titulo": "Furnitures:Intebe zo muri Salon ndetse na Salle a Mangé ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8Fqv503lnMzkcKdE-sXzJ98hxJkL0A6FyWQ&s",
+      "original": "https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3074452050460837680"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bench/rw/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNeoWO-vuy2uqzVC30TI3u8G3g6DHsmEYPtA&s",
+      "fuentePagina": "https://www.facebook.com/furnitureslandrwanda/posts/tubakorera-intebe-nziza-tunasanira-intebe-kubabikeneye-cyangwa-abashaka-kwambika/446941913417307/",
+      "titulo": "Tubakorera intebe nziza, tunasanira intebe kubabikeneye ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNeoWO-vuy2uqzVC30TI3u8G3g6DHsmEYPtA&s",
+      "original": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=446939043417594"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bench/rw/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQg9Mdi-_pfPq0So0B5DzeSa25DL6X837vQvA&s",
+      "fuentePagina": "https://www.facebook.com/furnitureslandrwanda/posts/tubafitiye-intebe-nziza-zubwoko-bwose-kandi-kugiciro-gito-dufasha-abashaka-kugur/712532500191579/",
+      "titulo": "Tubafitiye intebe nziza zubwoko bwose kandi kugiciro gito ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQg9Mdi-_pfPq0So0B5DzeSa25DL6X837vQvA&s",
+      "original": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=712530493525113"
+    }
+  ]
+}

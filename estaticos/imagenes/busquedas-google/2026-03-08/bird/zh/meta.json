@@ -1,0 +1,71 @@
+{
+  "categoria": "bird",
+  "categoriaSlug": "bird",
+  "idioma": "zh",
+  "nombreIdioma": "中文",
+  "termino": "鸟",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T20:50:06.828Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "zh-CN",
+    "gl": "cn"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=%E9%B8%9F&hl=zh-CN&gl=cn",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bird/zh/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSckk12rvGKalcD6b2WJiYYgVGJ2oqylWsGWA&s",
+      "fuentePagina": "http://gd.people.com.cn/n2/2023/0520/c123932-40423850.html",
+      "titulo": "粤看粤美| 最美“爱情鸟”组团飞抵湛江--广东频道--人民网",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSckk12rvGKalcD6b2WJiYYgVGJ2oqylWsGWA&s",
+      "original": "http://gd.people.com.cn/NMediaFile/2023/0520/LOCAL1684547641362AJ76T1AUFL.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bird/zh/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXUjzIRD9-jwGHzyAJwLfRYHnhJXkm2jGHaQ&s",
+      "fuentePagina": "http://www.szbird.org.cn/szbird/bjs/1zhonglei.html",
+      "titulo": "鸟的种类",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXUjzIRD9-jwGHzyAJwLfRYHnhJXkm2jGHaQ&s",
+      "original": "http://www.szbird.org.cn/szbird/bjs/bird/jpg/ptcn3.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bird/zh/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZbcBzqaB2d_nKF47Tvbs_d7rGi0T7ztQTAg&s",
+      "fuentePagina": "http://cn.alpinebirding.com/Domestic/",
+      "titulo": "国内行程- 山鸟社",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZbcBzqaB2d_nKF47Tvbs_d7rGi0T7ztQTAg&s",
+      "original": "http://cn.alpinebirding.com/uploadfile/2021/0615/20210615100018967.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bird/zh/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRd_XO5-1DxjO-6csFRxR-7doupl56ptcjFDA&s",
+      "fuentePagina": "https://www.ravenox.com/zh/blogs/news/what-is-the-best-bluebird-house?srsltid=AfmBOooUQ5ZsS5h3rVSWzCL1UEvxRp0LeGjShvLzvNosJl-vS8jUpRGL",
+      "titulo": "最好的蓝鸟屋是什么？ – Ravenox",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRd_XO5-1DxjO-6csFRxR-7doupl56ptcjFDA&s",
+      "original": "https://cdn.shopify.com/s/files/1/0838/8677/files/Ravenox_Bluebirds_Flying_Martins_large.jpg?v=1592067998"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bird/zh/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_gEYH8RInZ0FvNgCgac1Gvt5se3nF3_NuPw&s",
+      "fuentePagina": "https://www.qlnote.com/English/%E4%BA%8C%E7%BE%8AEY/articles/204/",
+      "titulo": "Qlnote",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_gEYH8RInZ0FvNgCgac1Gvt5se3nF3_NuPw&s",
+      "original": "https://www.qlnote.com/static/upload/IMG_E7921.JPG"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bird/zh/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNzWjWBD9ZzQIPpIlGwtEplgVhs8VrWxHNhg&s",
+      "fuentePagina": "http://gd.people.com.cn/n2/2023/0520/c123932-40423850-4.html",
+      "titulo": "粤看粤美| 最美“爱情鸟”组团飞抵湛江【4】--广东频道--人民网",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNzWjWBD9ZzQIPpIlGwtEplgVhs8VrWxHNhg&s",
+      "original": "http://gd.people.com.cn/NMediaFile/2023/0520/LOCAL16845476416475DNIUTORTO.jpg"
+    }
+  ]
+}

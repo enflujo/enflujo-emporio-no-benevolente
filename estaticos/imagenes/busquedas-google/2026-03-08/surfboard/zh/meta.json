@@ -1,0 +1,71 @@
+{
+  "categoria": "surfboard",
+  "categoriaSlug": "surfboard",
+  "idioma": "zh",
+  "nombreIdioma": "中文",
+  "termino": "冲浪板",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:05:11.156Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "zh-CN",
+    "gl": "cn"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=%E5%86%B2%E6%B5%AA%E6%9D%BF&hl=zh-CN&gl=cn",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/surfboard/zh/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkvJn9FMwFv038HnL_m1tLrQ18_DcGZ85ILg&s",
+      "fuentePagina": "https://www.nauticexpo.cn/prod/tahe-outdoors/product-26744-604190.html",
+      "titulo": "长板冲浪板- 8'4'' METEOR - Tahe Outdoors - 软纤维板/ 新手用 ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkvJn9FMwFv038HnL_m1tLrQ18_DcGZ85ILg&s",
+      "original": "https://img.nauticexpo.cn/images_ne/photo-mg/26744-19858856.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/surfboard/zh/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSv0y3v6G5Cijjy-mkss3KvpDnnnX6MGF6LaQ&s",
+      "fuentePagina": "https://www.nauticexpo.cn/prod/semente-surfboards/product-4597007-605196.html",
+      "titulo": "短板冲浪板- The Stray - Semente Surfboards - PU",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSv0y3v6G5Cijjy-mkss3KvpDnnnX6MGF6LaQ&s",
+      "original": "https://img.nauticexpo.cn/images_ne/photo-g/4597007-19911536.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/surfboard/zh/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTo3ppLu3KtOmFHMRzr-_ZeSRQJffGigrOTcQ&s",
+      "fuentePagina": "https://www.redbull.com/cn-zh/how-to-buy-the-perfect-summer-board",
+      "titulo": "为炎炎夏日挑个完美的冲浪板",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTo3ppLu3KtOmFHMRzr-_ZeSRQJffGigrOTcQ&s",
+      "original": "https://img.redbull.com/images/c_limit,w_1500,h_1000/f_auto,q_auto/redbullcom/2015/03/07/1331709845382_10/kolohe-andino-juxtaposition"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/surfboard/zh/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQo1Y0O139_gDUQQUXfeI9QstFKbw_EB65lZw&s",
+      "fuentePagina": "https://www.adventure-works.com/zh-hans/kiama-%E7%BB%8F%E5%85%B8%E5%86%B2%E6%B5%AA%E6%9D%BF/68719518371.p",
+      "titulo": "Kiama 经典冲浪板",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQo1Y0O139_gDUQQUXfeI9QstFKbw_EB65lZw&s",
+      "original": "https://images-us-prod.cms.commerce.dynamics.com/cms/api/stpmsksxpr/imageFileData/search?fileName=/Products%2F72100_000_001.png"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/surfboard/zh/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkex-xyMFxfF7liCPMslUtjDQD81LGZviBzA&s",
+      "fuentePagina": "https://zh.wikipedia.org/zh-cn/%E8%A1%9D%E6%B5%AA%E6%9D%BF",
+      "titulo": "冲浪板- 维基百科，自由的百科全书",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkex-xyMFxfF7liCPMslUtjDQD81LGZviBzA&s",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/The_Surfboards_%288422914814%29.jpg/1280px-The_Surfboards_%288422914814%29.jpg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/surfboard/zh/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQr1XEk59Rg-7yMCF3n5kIkDNJtqisgz1SHOg&s",
+      "fuentePagina": "https://www.brunotti.com/zh/products/challenger-multifunctionele-sup-orange",
+      "titulo": "挑战者多功能SUP |橙子",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQr1XEk59Rg-7yMCF3n5kIkDNJtqisgz1SHOg&s",
+      "original": "http://www.brunotti.com/cdn/shop/products/100602-2200-7.jpg?v=1730732096&width=2048"
+    }
+  ]
+}

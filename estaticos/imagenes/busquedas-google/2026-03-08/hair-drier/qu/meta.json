@@ -1,0 +1,71 @@
+{
+  "categoria": "hair drier",
+  "categoriaSlug": "hair-drier",
+  "idioma": "qu",
+  "nombreIdioma": "Quechua",
+  "termino": "secadora",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:31:54.325Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "es",
+    "gl": "pe"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=secadora&hl=es&gl=pe",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/hair-drier/qu/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrb4vxaz5-BmBJNtULATgY6qUo7O3_4ScL0w&s",
+      "fuentePagina": "https://simple.ripley.com.pe/secadora-siegen-cabello-sg-3031-2200w-2019280371333p?srsltid=AfmBOopusiKSyH_tg85Ujassv1zvSR6jRyPeplgM9wxFeT-cuY3uKT5M",
+      "titulo": "SECADORA SIEGEN CABELLO SG-3031 2200W",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrb4vxaz5-BmBJNtULATgY6qUo7O3_4ScL0w&s",
+      "original": "https://home.ripley.com.pe/Attachment/WOP_5/2019280371333/2019280371333_2.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/hair-drier/qu/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXLAHbet_ge4FdKzgH6jnu7w4px-v3t2oU8g&s",
+      "fuentePagina": "https://www.promart.pe/secadora-profesional-gama-diva-ceramic-ion-2300watts-100062652/p?srsltid=AfmBOorlq9d3zr9WZSsrj6P0IbT3JlAo97PhJV_TZyJqwovsSXVlNQBJ",
+      "titulo": "Secadora Profesional Gama Diva Ceramic Ion 2300Watts ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXLAHbet_ge4FdKzgH6jnu7w4px-v3t2oU8g&s",
+      "original": "https://promart.vteximg.com.br/arquivos/ids/2648607/image-084fb73ccc8d44e680e0e7644d76c040.jpg?v=637710259843100000"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/hair-drier/qu/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPCY29Jc9ruepTfkNtPU18Gjrat3oYAQl66w&s",
+      "fuentePagina": "https://www.inche.com.pe/producto/secadora-diva-3d-keration-de-220v-gama-bechd0000002033/?srsltid=AfmBOopiXT6DQ48RAekP3p27qsLONyLk-xLZOhOmQbVTBsS4hmMLLmWg",
+      "titulo": "Secadora Diva 3D Keration de 2300W Gama - BECHD0000002033",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPCY29Jc9ruepTfkNtPU18Gjrat3oYAQl66w&s",
+      "original": "https://www.inche.com.pe/wp-content/uploads/2021/09/BECHD0000002033.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/hair-drier/qu/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQp41i8woHoIK3klxrCSJ6rhnyykfHiouCnwQ&s",
+      "fuentePagina": "https://www.lacuracao.pe/secadora-compacta-2-vel-gama-2741-g-bechd00002741.html?srsltid=AfmBOooi6Oc9vNEGdXWRXxvh8yL5XqbruP3dEll8QV_gceI5bvei3mLE",
+      "titulo": "Secadora Compacta Gama 2 Velocidades Gama 2741",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQp41i8woHoIK3klxrCSJ6rhnyykfHiouCnwQ&s",
+      "original": "https://www.lacuracao.pe/media/catalog/product/g/-/g-bechd00002741_1.jpg?quality=80&bg-color=255,255,255&fit=bounds&height=700&width=700&canvas=700:700"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/hair-drier/qu/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLwqC7VlKujlnfMVdxoZoZJGo9FdB3Dq7u6w&s",
+      "fuentePagina": "https://www.remingtonlatam.com/pe/producto/mujer/cuidado-del-cabello/secadores/secador-remington-silk-2/",
+      "titulo": "Secador Remington Silk – Remington Perú",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLwqC7VlKujlnfMVdxoZoZJGo9FdB3Dq7u6w&s",
+      "original": "https://www.remingtonlatam.com/pe/wp-content/uploads/sites/34/2019/12/AC9096-Secador-Remington-Silk-Infundido-en-Ceramica-con-Seda-03.jpg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/hair-drier/qu/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4PtuAVqj68_Kh7MaPi346QLNPc1pQZVntEQ&s",
+      "fuentePagina": "https://www.lacasadelelectrodomestico.com/blog/elegir-la-mejor-secadora/",
+      "titulo": "Cómo elegir la mejor secadora para tu hogar?",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4PtuAVqj68_Kh7MaPi346QLNPc1pQZVntEQ&s",
+      "original": "https://www.lacasadelelectrodomestico.com/blog/wp-content/uploads/2023/03/mejor-secadora.jpg"
+    }
+  ]
+}

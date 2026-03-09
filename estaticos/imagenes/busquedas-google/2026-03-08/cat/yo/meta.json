@@ -1,0 +1,71 @@
+{
+  "categoria": "cat",
+  "categoriaSlug": "cat",
+  "idioma": "yo",
+  "nombreIdioma": "Yorùbá",
+  "termino": "ológìnní",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T20:50:26.583Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "yo",
+    "gl": "ng"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=ol%C3%B3g%C3%ACnn%C3%AD&hl=yo&gl=ng",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/cat/yo/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKLWmvR38tO6L9na4UbD06BW8HzKmhYuXl8w&s",
+      "fuentePagina": "https://www.facebook.com/groups/3780190418678055/permalink/25236443189292801/",
+      "titulo": "Ológìnní tó sùn bí ọ̀lẹ, ọgbọ́n inú rẹ̀ pé igba ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKLWmvR38tO6L9na4UbD06BW8HzKmhYuXl8w&s",
+      "original": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=1091835343032680"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/cat/yo/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGYaqpKqDwq5whqdZY2HINh7cq0T4BTJPVRA&s",
+      "fuentePagina": "https://www.facebook.com/groups/3780190418678055/posts/26493575806912860/",
+      "titulo": "Ti àì rí oúnjẹ jẹ kọ̀ ni kò jẹ́kí ológìnní tóbi ...✌️",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGYaqpKqDwq5whqdZY2HINh7cq0T4BTJPVRA&s",
+      "original": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=1506031544856912"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/cat/yo/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5tVjLy78DTaReFGEs9yloBkOrB_STkNg3rQ&s",
+      "fuentePagina": "https://www.instagram.com/p/C91wpKuIQHk/",
+      "titulo": "Ológìnní tó sùn bí ọ̀lẹ, ọgbọ́n inú rẹ̀ pé igba. Translation ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5tVjLy78DTaReFGEs9yloBkOrB_STkNg3rQ&s",
+      "original": "https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3419853427300172260"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/cat/yo/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEX0dd3wcGRzPxl2P7rxWYjIaqVB12OpWhnA&s",
+      "fuentePagina": "https://www.instagram.com/p/Cjm-6YHsl98/",
+      "titulo": "Ológìnní tó sùn bí ọ̀lẹ, ọgbọ́n inú u rẹ̀ pé igba ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEX0dd3wcGRzPxl2P7rxWYjIaqVB12OpWhnA&s",
+      "original": "https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=2947319696672841596"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/cat/yo/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGwgmNMiltZvXIMeTKyzqb7gp9lyvT3UFPOQ&s",
+      "fuentePagina": "https://www.instagram.com/p/DHkhIAXtzk2/",
+      "titulo": "Ológìnní tó sùn bí ọ̀lẹ, ọgbọ́n inú rẹ̀ pé igba. Translation ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGwgmNMiltZvXIMeTKyzqb7gp9lyvT3UFPOQ&s",
+      "original": "https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3595144088237062454"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/cat/yo/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSiOcIci7o-Xp5swgB3GA_qn2SZCDtIOzxqxg&s",
+      "fuentePagina": "https://www.facebook.com/groups/1492499144321992/posts/4263163047255574/",
+      "titulo": "Àìsínílé ológìnní, ilé dilé èkúté: Ológìnní tàjò dé, èkúté ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSiOcIci7o-Xp5swgB3GA_qn2SZCDtIOzxqxg&s",
+      "original": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=636276335979660"
+    }
+  ]
+}

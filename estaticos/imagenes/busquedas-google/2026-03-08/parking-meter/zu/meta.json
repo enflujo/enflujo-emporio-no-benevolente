@@ -1,0 +1,71 @@
+{
+  "categoria": "parking meter",
+  "categoriaSlug": "parking-meter",
+  "idioma": "zu",
+  "nombreIdioma": "isiZulu",
+  "termino": "isilinganisi sokumisa",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T20:48:34.642Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "zu",
+    "gl": "za"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=isilinganisi%20sokumisa&hl=zu&gl=za",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/parking-meter/zu/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSihIV4cVQHSMx4taKRADmmIvsWyw4POCNmKQ&s",
+      "fuentePagina": "https://dailynews.co.za/news/politics/2026-01-29-former-crime-intelligence-official-declines-to-reveal-colleagues-identity-during-dumisani-khumalo-testimony/",
+      "titulo": "Former Crime Intelligence official declines to reveal ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSihIV4cVQHSMx4taKRADmmIvsWyw4POCNmKQ&s",
+      "original": "https://iol-prod.appspot.com/image/0f4f6a89b81bcd9862b30f695471c0b85950ef73=w700"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/parking-meter/zu/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5Ldl_NfoJBw5uZX5WtESOK2qIr5LnmScEnA&s",
+      "fuentePagina": "https://www.facebook.com/kznhealth/posts/isifo-sokuwa-siyingozi-umsiza-kanjani-umuntu-ohlaselwa-yisifo-sokuwa/589208473246249/",
+      "titulo": "Isifo sokuwa siyingozi. Umsiza kanjani umuntu ohlaselwa ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5Ldl_NfoJBw5uZX5WtESOK2qIr5LnmScEnA&s",
+      "original": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=1953251775268077&get_thumbnail=1"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/parking-meter/zu/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmDpOm-dQVXYp_NHZoWpuPe6CHR2-YpqP2Qw&s",
+      "fuentePagina": "https://play.google.com/store/apps/details?id=com.dsp.lb_480_dsp&hl=zu",
+      "titulo": "Blaupunkt GTD 1407 A - Izinhlelo zokusebenza ku-Google Play",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmDpOm-dQVXYp_NHZoWpuPe6CHR2-YpqP2Qw&s",
+      "original": "https://play-lh.googleusercontent.com/0sUyvy_xTHI3Nkpcg7vFTfJzAZDLpi8xYFwHnfFUGRU0kdi-BHqVrPjmANM1sRv3-4M=w600-h300-pc0xffffff-pd"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/parking-meter/zu/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-MYxqnq-GqjHJ_wIt1k4bbqBU-DnbuBNKTA&s",
+      "fuentePagina": "https://zu.cdchuangrong.com/quick-connector-pp-plumbing-fittings-plastic-end-cap-aaptor-for-water-supply-product/",
+      "titulo": "I-China Isixhumi Esisheshayo se-PP Ukufakwa kwamapayipi ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-MYxqnq-GqjHJ_wIt1k4bbqBU-DnbuBNKTA&s",
+      "original": "https://www.cdchuangrong.com/uploads/1213015231065489409.jpg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/parking-meter/zu/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQs43yoEkNPGfVHgvy47q52ah2TlCrtcbfC6w&s",
+      "fuentePagina": "https://play.google.com/store/apps/details?id=voio.androidvolumelouder&hl=zu",
+      "titulo": "Max Volume Booster for Android - Izinhlelo zokusebenza ku ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQs43yoEkNPGfVHgvy47q52ah2TlCrtcbfC6w&s",
+      "original": "https://play-lh.googleusercontent.com/nknfaZRa-eOgwf4nUSUgORBXJ_-waNyrgqYycsuicUlLemlJ7gwGBh_yTK_kYaz4uZc-"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/parking-meter/zu/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyg780PBna7vXei69y5hu6eDydnbE0He_GGQ&s",
+      "fuentePagina": "https://www.youtube.com/watch?v=2UCErSoJJzM",
+      "titulo": "Kusuke umsindo umawengane edlisa iBread winner || IZINKINGA ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyg780PBna7vXei69y5hu6eDydnbE0He_GGQ&s",
+      "original": "https://i.ytimg.com/vi/2UCErSoJJzM/sddefault.jpg?v=696cdd0a"
+    }
+  ]
+}

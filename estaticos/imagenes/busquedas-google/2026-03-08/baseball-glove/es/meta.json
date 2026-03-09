@@ -1,0 +1,71 @@
+{
+  "categoria": "baseball glove",
+  "categoriaSlug": "baseball-glove",
+  "idioma": "es",
+  "nombreIdioma": "Español",
+  "termino": "guante de béisbol",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:03:54.261Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "es",
+    "gl": "es"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=guante%20de%20b%C3%A9isbol&hl=es&gl=es",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/baseball-glove/es/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSu8Q60deG1PshGk7DqzOz1ovF0Cv6rf0-VSw&s",
+      "fuentePagina": "https://www.amazon.es/Guante-B%C3%A9isbol-Mejorado-Softball-Entrenamiento/dp/B0CWS8XYXK",
+      "titulo": "Guante de Béisbol de Cuero PU con Agarre Mejorado, Guante de ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSu8Q60deG1PshGk7DqzOz1ovF0Cv6rf0-VSw&s",
+      "original": "https://m.media-amazon.com/images/I/7140mcJuI-L._AC_UF894,1000_QL80_.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/baseball-glove/es/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqa3qejnUt81c0o_JPR-eGx__xnvFC6KwVuA&s",
+      "fuentePagina": "https://www.decathlon.es/es/p/guante-de-beisbol-de-lanzamiento-para-diestros-adulto-ba100-negro-rojo/341154/c381c77m8771316",
+      "titulo": "Guante de béisbol de lanzamiento para diestros Adulto ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqa3qejnUt81c0o_JPR-eGx__xnvFC6KwVuA&s",
+      "original": "https://contents.mediadecathlon.com/p2704427/k$f2f1cafc977ccc3d8f57c722ad84f72e/picture.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/baseball-glove/es/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpelDMDwjA0LB2ook6jIrzcY_x4AWt53dvuw&s",
+      "fuentePagina": "https://www.amazon.es/Rawlings-Sandlot-Guantes-convencionales-espalda/dp/B099TPM5Q1",
+      "titulo": "Rawlings Sandlot Series - Guantes de Cuero convencionales con Espalda,  11-1/2 Pulgadas, Lanzamiento a Mano Derecha, 11.5 Pulgadas, Red en I, Color  ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpelDMDwjA0LB2ook6jIrzcY_x4AWt53dvuw&s",
+      "original": "https://m.media-amazon.com/images/I/81X3HLQMWqL._AC_UF894,1000_QL80_.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/baseball-glove/es/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0lfSuiklxSEM--JRrSQIhPwsjMX2xdOLDyw&s",
+      "fuentePagina": "https://sportlandamerican.com/es/guantes-beisbol-infield/20476-169826-guante-de-beisbol-wilson-a2000-23-1786-115-infield-crema.html?srsltid=AfmBOoqDiBQjU5J24WOLCGK9sHbn6OmH8MSbP0tZJ0QVY9XG27gCuAXP",
+      "titulo": "Guante de Béisbol Wilson A2000 23 1786 11.5\" Infield Crema",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0lfSuiklxSEM--JRrSQIhPwsjMX2xdOLDyw&s",
+      "original": "https://sportlandamerican.com/55872-large_default/guante-de-beisbol-wilson-a2000-23-1786-115-infield-crema.webp"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/baseball-glove/es/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxqyANlifMLYCu9B_AvLYLdlAheDBvtqK3SA&s",
+      "fuentePagina": "https://www.decathlon.es/es/p/guante-de-beisbol-de-lanzamiento-para-diestros-nino-ba100-azul-beis/341160/c279c188m8771319",
+      "titulo": "Guante de béisbol de lanzamiento para diestros Niño - BA100 Azul Beis",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxqyANlifMLYCu9B_AvLYLdlAheDBvtqK3SA&s",
+      "original": "https://contents.mediadecathlon.com/p2704410/k$7ed38d04fd3236ce09f63dd138a7940b/picture.jpg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/baseball-glove/es/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZqTc6w2f82gSOYUELk5wSQTPDNYkRD3HwoQ&s",
+      "fuentePagina": "https://baseball-shop.online/es/guantes/598-guante-de-beisbol-rawlings-serie-select-pro-lite-joven-105-083321848230.html",
+      "titulo": "Guante de béisbol RAWLINGS SERIE \"SELECT PRO LITE\" JOVEN (10,5\")",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZqTc6w2f82gSOYUELk5wSQTPDNYkRD3HwoQ&s",
+      "original": "https://baseball-shop.online/3169-large_default/guante-de-beisbol-rawlings-serie-select-pro-lite-joven-105.jpg"
+    }
+  ]
+}

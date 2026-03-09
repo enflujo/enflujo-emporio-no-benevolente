@@ -1,0 +1,71 @@
+{
+  "categoria": "car",
+  "categoriaSlug": "car",
+  "idioma": "gn",
+  "nombreIdioma": "Guaraní",
+  "termino": "muvilo",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T20:42:06.897Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "es",
+    "gl": "py"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=muvilo&hl=es&gl=py",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/car/gn/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1e-Ard3ftvtVdgZAVnTVU76ce5ws4SqLCwA&s",
+      "fuentePagina": "https://www.farmaoliva.com.py/movisil-duo-caja-x-30-sobres-p46442",
+      "titulo": "MOVISIL DUO CAJA X 30 SOBRES",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1e-Ard3ftvtVdgZAVnTVU76ce5ws4SqLCwA&s",
+      "original": "https://farmaoliva.cdn1.dattamax.com/userfiles/images/productos/600/160296-7401156616214-mosilduo30sobres.png?v=1760466675"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/car/gn/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSiNDPFxDRb3Cc-X-Zhp8NJrWnBJ-VHY2cujQ&s",
+      "fuentePagina": "https://www.ultimahora.com/los-murcielagos-vuelan-diferente-altura-segun-su-tipo-alimentacion-n746294",
+      "titulo": "Murciélagos vuelan a diferente altura según su alimentación ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSiNDPFxDRb3Cc-X-Zhp8NJrWnBJ-VHY2cujQ&s",
+      "original": "https://grupovierci.brightspotcdn.com/dims4/default/8ff774a/2147483647/strip/true/crop/628x354+0+38/resize/1000x563!/quality/90/?url=https%3A%2F%2Fk2-prod-grupo-vierci.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fadjuntos%2F161%2Fimagenes%2F004%2F723%2F0004723302.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/car/gn/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJyGcCSRXxypuWVmOoQBWLYagvMG_-bkxMoA&s",
+      "fuentePagina": "https://www.abc.com.py/mundo-curioso/murcielagos-vuelan-a-diferente-altura-segun-alimentacion-646155.html",
+      "titulo": "Murciélagos vuelan a diferente altura según alimentación ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJyGcCSRXxypuWVmOoQBWLYagvMG_-bkxMoA&s",
+      "original": "https://www.abc.com.py/resizer/v2/https%3A%2F%2Farc-anglerfish-arc2-prod-abccolor.s3.amazonaws.com%2Fpublic%2FKBV5R7HXFNHYVNDUFTQP6WJOUM.jpg?auth=4d8f2213ab9d68be31e6f8c5728d14f98f2db32fe3fa419132f64ca8df197241&width=1200&smart=true"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/car/gn/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQp-7U-zyqlRJBOmvlZeEUvHdWgPzdXRFAqKQ&s",
+      "fuentePagina": "https://www.abc.com.py/edicion-impresa/suplementos/casa-y-jardin/murcielagos-1260254.html",
+      "titulo": "Murciélagos - Casa y Jardín - ABC Color",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQp-7U-zyqlRJBOmvlZeEUvHdWgPzdXRFAqKQ&s",
+      "original": "https://www.abc.com.py/resizer/v2/https%3A%2F%2Farc-anglerfish-arc2-prod-abccolor.s3.amazonaws.com%2Fpublic%2FENGRWENNJRAWHMTAVGJSOQY2SY.jpg?auth=ae0ba424fed1c94b051d15654cb41fb6a45b7a4e3ef435d92e511c0ed48622af&width=1200&smart=true"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/car/gn/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsUIIYo0aSymFNOQ_8UNpda0r0pwMEKc6rcA&s",
+      "fuentePagina": "https://www.lanacion.com.py/reportaje/2021/08/31/la-vida-del-murcielago-transcurre-entre-peligros-y-secretos/",
+      "titulo": "La Nación / La vida del murciélago transcurre entre peligros ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsUIIYo0aSymFNOQ_8UNpda0r0pwMEKc6rcA&s",
+      "original": "https://www.lanacion.com.py/resizer/v2/https%3A%2F%2Fcloudfront-us-east-1.images.arcpublishing.com%2Flanacionpy%2F5R2RHEHY4FH6VAWVER6YKS2DTU.bmp?auth=295eef22b347e47f198cf21d1469a09b7063a3928c37748b11a131171142c363&width=1280&smart=true"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/car/gn/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9A7QQMJ0CDVD5lZuUzUB_FoJ-x5jCUYzEtA&s",
+      "fuentePagina": "https://www.lanacion.com.py/pais/2023/03/03/ambientalista-afirma-que-los-murcielagos-cumplen-una-funcion-importante-en-el-ecosistema/",
+      "titulo": "La Nación / Ambientalista afirma que los murciélagos cumplen ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9A7QQMJ0CDVD5lZuUzUB_FoJ-x5jCUYzEtA&s",
+      "original": "https://www.lanacion.com.py/resizer/v2/ZKIV7WXOK5HVFI3ZHNP7S6GH7A.jpg?auth=23ff8474dac93276091951c1b3571c9db4023546c58db68e37888db233483fab&width=1280&smart=true"
+    }
+  ]
+}

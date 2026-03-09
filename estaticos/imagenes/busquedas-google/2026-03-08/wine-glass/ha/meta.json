@@ -1,0 +1,71 @@
+{
+  "categoria": "wine glass",
+  "categoriaSlug": "wine-glass",
+  "idioma": "ha",
+  "nombreIdioma": "Hausa",
+  "termino": "gilashi na giya",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:06:51.639Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "ha",
+    "gl": "ng"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=gilashi%20na%20giya&hl=ha&gl=ng",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/wine-glass/ha/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyBtAetHEbgsJXKGWzSfpixsp9Cxj5hhr-tQ&s",
+      "fuentePagina": "https://www.samuelbottle.com/ha/news/how-to-pack-different-shapes-of-glass-wine-bottles/",
+      "titulo": "Labarai - Yadda ake shirya nau'ikan kwalabe na gilasai daban ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyBtAetHEbgsJXKGWzSfpixsp9Cxj5hhr-tQ&s",
+      "original": "https://www.samuelbottle.com/uploads/IMG_4344.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/wine-glass/ha/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQuyZlYTYOpcD4hf4Jaxzq0m2HCR0FgZVbtQ&s",
+      "fuentePagina": "https://www.garboglass.com/ha/colored-glassware/300ml-spray-color-glass-goblet-for-wine-drinking-with-high-quality-customized-wholesale-glassware.html",
+      "titulo": "China 300ml fesa gilashin gilashin ruwan inabi don shan giya ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQuyZlYTYOpcD4hf4Jaxzq0m2HCR0FgZVbtQ&s",
+      "original": "https://www.garboglass.com/data/watermark/20210116/60025d5d99b8f.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/wine-glass/ha/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5IGKQPxPTzbCW4VX-HSXw8-VJ0Y7xvTCecQ&s",
+      "fuentePagina": "https://www.cnglassbottle.com/ha/crystal-glass-bottle-liquor-glass-bottle-product/",
+      "titulo": "Kasar Crystal Glast Gilashin Kwalban gilashin gilashi da ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5IGKQPxPTzbCW4VX-HSXw8-VJ0Y7xvTCecQ&s",
+      "original": "https://cdn.globalso.com/cnglassbottle/H7e6fac52db704ea39eee2590fa3ff044X-300x300.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/wine-glass/ha/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlq9ZPNpCvHVucDu2SxfnDC4LkWdr3I3knDw&s",
+      "fuentePagina": "https://www.garboglass.com/ha/colored-glassware/300ml-spray-color-glass-goblet-for-wine-drinking-with-high-quality-customized-wholesale-glassware.html",
+      "titulo": "China 300ml fesa gilashin gilashin ruwan inabi don shan giya ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlq9ZPNpCvHVucDu2SxfnDC4LkWdr3I3knDw&s",
+      "original": "https://www.garboglass.com/data/upload/ueditor/20210116/60025dcb41bff.jpg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/wine-glass/ha/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXtIEmJVdrurJa5sY-5JzIRmQOkA_9iFZIzQ&s",
+      "fuentePagina": "https://www.antpackaging.com/ha/650ml-square-clear-customized-glass-liquor-bottles.html",
+      "titulo": "Masana'antar da masana'antun kwalban giya na gilashi mai ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXtIEmJVdrurJa5sY-5JzIRmQOkA_9iFZIzQ&s",
+      "original": "https://www.antpackaging.com/uploads/unique-liquor-bottles.jpg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/wine-glass/ha/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRi6Z046RMmkpK55wJgnBQKPPDYDWGeQQ4C0A&s",
+      "fuentePagina": "https://ruisenbottle.com/ha/product/glass-bottles-750ml-vodka-vodka-bottles-suppliers-duplicate-1",
+      "titulo": "Gilashin Gilashin Kayan Gilashi Na Musamman 500ml Na ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRi6Z046RMmkpK55wJgnBQKPPDYDWGeQQ4C0A&s",
+      "original": "https://ruisenbottle.com/wp-content/uploads/2023/07/DD6A8235-500x500.jpg"
+    }
+  ]
+}

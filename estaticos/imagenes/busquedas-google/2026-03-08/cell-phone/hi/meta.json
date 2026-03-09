@@ -1,0 +1,71 @@
+{
+  "categoria": "cell phone",
+  "categoriaSlug": "cell-phone",
+  "idioma": "hi",
+  "nombreIdioma": "हिन्दी",
+  "termino": "मोबाइल",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:24:29.221Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "hi",
+    "gl": "in"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=%E0%A4%AE%E0%A5%8B%E0%A4%AC%E0%A4%BE%E0%A4%87%E0%A4%B2&hl=hi&gl=in",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/cell-phone/hi/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTd5YQA2fxl0HzzWbMDpa-6CoFOHjlSGiyXEw&s",
+      "fuentePagina": "https://www.91mobiles.com/hindi/upcoming-phones-2025-in-india-samsung-apple-oneplus-vivo-oppo-redmi-xiaomi-infinix/",
+      "titulo": "2025 में ये टॉप मोबाइल फोन इंडिया ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTd5YQA2fxl0HzzWbMDpa-6CoFOHjlSGiyXEw&s",
+      "original": "https://static.hub.91mobiles.com/multisite/wp-content/uploads/sites/7/2025/04/Upcoming-Phone-2025.jpg?tr=q-70"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/cell-phone/hi/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThTqwwGCmBKHpsfqBBRq07Ul57KED3fxJDag&s",
+      "fuentePagina": "https://apnabazaar.indiatimes.com/mobile-phones/mobiles/premium-mobile-phones-on-amazon-get-apple-iphone-16-samsung-oneplus-and-many-other-models-with-best-deals-article-125862076",
+      "titulo": "इन बेस्ट Premium Mobile Phones का ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThTqwwGCmBKHpsfqBBRq07Ul57KED3fxJDag&s",
+      "original": "https://static.langimg.com/thumb/msid-125862085,imgsize-1852627,width=1600,height=900,resizemode=75/best-mobile-phonesunsplash-125862085.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/cell-phone/hi/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_Wc5WAJ32OevtVR1fmCP0v8XVql-c0nEmFg&s",
+      "fuentePagina": "https://hindi.news18.com/news/tech/0ffers-5g-mobile-under-10000-poco-m6-availbale-at-rs-8000-with-offer-8737310.html",
+      "titulo": "8000 से कम में 5G मोबाइल फोन, 50MP ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_Wc5WAJ32OevtVR1fmCP0v8XVql-c0nEmFg&s",
+      "original": "https://images.news18.com/ibnkhabar/uploads/2024/08/Poco-M6-Plus-5G-2024-08-9c508a15e8376741e51f072d7dc2f7c1.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/cell-phone/hi/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZlXnwtry83jPSwPi3t5POzlUskoeEuPdgqw&s",
+      "fuentePagina": "https://www.bhaskar.com/business/news/apple-iphone-samsung-mobile-phones-to-be-made-in-india-govt-clears-10-companies-for-mobile-phone-pli-scheme-127786025.html",
+      "titulo": "Apple iPhone, Samsung mobile phones to be Made In India ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZlXnwtry83jPSwPi3t5POzlUskoeEuPdgqw&s",
+      "original": "https://images.bhaskarassets.com/web2images/521/2020/10/06/smartphone_1602001475.jpg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/cell-phone/hi/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGEdv9zuqdHWiAPLe0ADSR2qJfEW2dbmyAfg&s",
+      "fuentePagina": "https://www.abplive.com/mobiles.html",
+      "titulo": "Latest Mobile Phones: देखें लेटेस्ट और ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGEdv9zuqdHWiAPLe0ADSR2qJfEW2dbmyAfg&s",
+      "original": "https://cdn.abplive.com/onecms/images/product/ad81c26f2d90ffd97b22a6541b1dc0b3.png?impolicy=abp_cdn&imwidth=300"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/cell-phone/hi/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4biIsswZ10ymMyE9M6OPKeCc_FRh8mJOeUg&s",
+      "fuentePagina": "https://www.bajajfinserv.in/hindi/best-phones-under-20000",
+      "titulo": "पूरे स्पेसिफिकेशन और फीचर्स के ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4biIsswZ10ymMyE9M6OPKeCc_FRh8mJOeUg&s",
+      "original": "https://cms-assets.bajajfinserv.in/is/image/bajajfinance/android-phone-generic?scl=1&fmt=png-alpha"
+    }
+  ]
+}

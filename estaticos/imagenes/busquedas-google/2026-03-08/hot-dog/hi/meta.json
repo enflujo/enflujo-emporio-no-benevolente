@@ -1,0 +1,71 @@
+{
+  "categoria": "hot dog",
+  "categoriaSlug": "hot-dog",
+  "idioma": "hi",
+  "nombreIdioma": "हिन्दी",
+  "termino": "हॉट डॉग",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:14:42.515Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "hi",
+    "gl": "in"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=%E0%A4%B9%E0%A5%89%E0%A4%9F%20%E0%A4%A1%E0%A5%89%E0%A4%97&hl=hi&gl=in",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/hot-dog/hi/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzU0GEh8H6_2P9Zebw0dJOVAIatRdRRz53eA&s",
+      "fuentePagina": "https://food.ndtv.com/recipe-chicken-hot-dog-hindi-955706",
+      "titulo": "चिकन हॉट डॉग रेसिपी",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzU0GEh8H6_2P9Zebw0dJOVAIatRdRRz53eA&s",
+      "original": "https://c.ndtvimg.com/2021-09/950ea6r8_chicken-hot-dog_625x300_28_September_21.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/hot-dog/hi/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSaLcTGkCUamyPOeM6bcOZMH5wpHC8bBLiiig&s",
+      "fuentePagina": "https://www.youtube.com/watch?v=G02Hs6AzYik",
+      "titulo": "100% वेज हॉट डॉग की रेसिपी - veg hot dog recipe / subway sandwich -  cookingshooking",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSaLcTGkCUamyPOeM6bcOZMH5wpHC8bBLiiig&s",
+      "original": "https://i.ytimg.com/vi/G02Hs6AzYik/maxresdefault.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/hot-dog/hi/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpJomClGlc4G_9C4nMW0CV76KeJH52--PGzg&s",
+      "fuentePagina": "https://hindi.news18.com/news/lifestyle/recipe-veg-hot-dog-fast-food-easy-way-to-make-for-breakfast-in-hindi-neer-4408950.html",
+      "titulo": "वेज हॉट डॉग",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpJomClGlc4G_9C4nMW0CV76KeJH52--PGzg&s",
+      "original": "https://images.news18.com/ibnkhabar/uploads/2022/07/veg-hot-dog-16584101963x2.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/hot-dog/hi/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFWXAvJLrs8ea-09tQGe1WfSaZy4hq4y_veg&s",
+      "fuentePagina": "https://www.betterbutter.in/hi/recipe/13345/hot-dog",
+      "titulo": "Hot Dog recipe by Bindiya Sharma in Hindi at BetterButter",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFWXAvJLrs8ea-09tQGe1WfSaZy4hq4y_veg&s",
+      "original": "https://s3-ap-south-1.amazonaws.com/betterbutterbucket-silver/bindiya-sharma6714670022535770ad8d28725.jpeg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/hot-dog/hi/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPQD-46wDT5Uz6x5Sj3xbHbNGjeHBMHPekFQ&s",
+      "fuentePagina": "https://womenoftoday.com/hi/how-to-make-ultimate-hot-dog-bar/",
+      "titulo": "अल्टीमेट हॉट डॉग बार कैसे बनाएं ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPQD-46wDT5Uz6x5Sj3xbHbNGjeHBMHPekFQ&s",
+      "original": "https://womenoftoday.com/app/uploads/2021/06/hot-dog-bar-19.jpg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/hot-dog/hi/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNq9PCtNwUtGE-d0aDO8zrX3hWDhdeAbnlBw&s",
+      "fuentePagina": "https://www.herzindagi.com/hindi/recipe-tips/lucknow-special-seekh-hot-dogs-recipe-article-238702",
+      "titulo": "इवनिंग स्नैक्स में बनाएं लखनऊ स्पेशल सीख हॉट डॉग, जानें रेसिपी",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNq9PCtNwUtGE-d0aDO8zrX3hWDhdeAbnlBw&s",
+      "original": "https://images.herzindagi.info/image/2023/Jul/seekh-hot-dogs.jpg"
+    }
+  ]
+}

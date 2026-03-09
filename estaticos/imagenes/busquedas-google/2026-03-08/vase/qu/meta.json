@@ -1,0 +1,71 @@
+{
+  "categoria": "vase",
+  "categoriaSlug": "vase",
+  "idioma": "qu",
+  "nombreIdioma": "Quechua",
+  "termino": "vase",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:29:52.586Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "es",
+    "gl": "pe"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=vase&hl=es&gl=pe",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/vase/qu/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1FoddhnCV8V0WMmDLXiOCI4sI8lkCzr7Mtg&s",
+      "fuentePagina": "https://www.pewabic.org/products/small-classic-vase?srsltid=AfmBOoqY8fpvX-Fb2-yBtQmhBYk0Ee52uZwF5Y4kzk-4NWXdJpsChiGB",
+      "titulo": "Small Classic Vase – Pewabic Pottery",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1FoddhnCV8V0WMmDLXiOCI4sI8lkCzr7Mtg&s",
+      "original": "http://www.pewabic.org/cdn/shop/files/EEBerger_Pewabic_March25_209_small_classic_vase_pewabic_blue.jpg?v=1762374831"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/vase/qu/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSm0wCKfVV1HOwK96rFoNRzWfdZr31O9jD-KA&s",
+      "fuentePagina": "https://www.amazon.com/Magcolor-Creative-Sophisticated-Decorative-16-5x6-7x8-7/dp/B09W8FXJ9H",
+      "titulo": "Amazon.com: Magcolor Tall Table Modern Vase,Large Ceramic ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSm0wCKfVV1HOwK96rFoNRzWfdZr31O9jD-KA&s",
+      "original": "https://m.media-amazon.com/images/I/61KvH-iybDL._AC_UF894,1000_QL80_.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/vase/qu/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-XQ_-0VeBQ14cZDek-0Yb8FqfpG4XzDSwAg&s",
+      "fuentePagina": "https://derutaitaly.com/ceramic-love-birds-flower-vase/?srsltid=AfmBOoqnlTeYk0qTg9epScmpQ-U64JQZQ4u32ZAXEzI1bmRY5I1mjhEA",
+      "titulo": "Ceramic Flower Vase | Love Birds Pattern | Mod Ceramics",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-XQ_-0VeBQ14cZDek-0Yb8FqfpG4XzDSwAg&s",
+      "original": "https://cdn11.bigcommerce.com/s-ukqi7wk1fh/images/stencil/1280x1280/products/1311/6650/Original-Deruta-Pottery-Vase-Love-Birds__23403.1749810812.jpg?c=2"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/vase/qu/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHJ9QkpxnvQwTIHb2Es4GwfPf8ZbxdRcQ6Xg&s",
+      "fuentePagina": "https://market99.com/products/ww10005158-light-pink-ceramic-curvy-vase-engraved-floral-pattern?srsltid=AfmBOooT6Fi_NmMfQluTUVjq2RED7xYj9oOSi9O7NERpME9ijNNAp12s",
+      "titulo": "Light Pink Ceramic Curvy Vase - Engraved Floral Pattern ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHJ9QkpxnvQwTIHb2Es4GwfPf8ZbxdRcQ6Xg&s",
+      "original": "http://market99.com/cdn/shop/files/WW10005158_1.jpg?v=1751007648"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/vase/qu/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTD7y7ixt4wVv9aP_r53fXSpwHmlggsQthXDg&s",
+      "fuentePagina": "https://www.next.ae/en/style/st735056/732297",
+      "titulo": "Buy Multi Pretty Floral Print Ceramic Flower Vase from Next ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTD7y7ixt4wVv9aP_r53fXSpwHmlggsQthXDg&s",
+      "original": "https://xcdn.next.co.uk/common/items/default/default/itemimages/3_4Ratio/product/lge/732297s.jpg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/vase/qu/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgmWB9E8CCChpRqSNkPBm0x4QO0untkUaSqQ&s",
+      "fuentePagina": "https://siciliabeddashop.com/gb/vases-and-cachepots/14246-long-neck-flower-vase-in-caltagirone-ceramic-h-30-x-o-18-cm-approx-baroque-decoration-on-a-green-background.html?srsltid=AfmBOoreEfF7-ugpxfz4UV2eviwoB635-6hncyUDbAyh_rgiB3hQtw2o",
+      "titulo": "Long neck flower vase in Caltagirone ceramic, h 30 x Ø 18 cm ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgmWB9E8CCChpRqSNkPBm0x4QO0untkUaSqQ&s",
+      "original": "https://siciliabeddashop.com/39563-large_default/long-neck-flower-vase-in-caltagirone-ceramic-h-30-x-o-18-cm-approx-baroque-decoration-on-a-green-background.jpg"
+    }
+  ]
+}

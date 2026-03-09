@@ -1,0 +1,71 @@
+{
+  "categoria": "fork",
+  "categoriaSlug": "fork",
+  "idioma": "sw",
+  "nombreIdioma": "Kiswahili",
+  "termino": "uma",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:07:59.220Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "sw",
+    "gl": "tz"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=uma&hl=sw&gl=tz",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/fork/sw/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxbpdlTYXoyMYc8cEyGQjUpCUzs3KuGUs_eA&s",
+      "fuentePagina": "https://disney.fandom.com/wiki/Uma",
+      "titulo": "Uma | Disney Wiki | Fandom",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxbpdlTYXoyMYc8cEyGQjUpCUzs3KuGUs_eA&s",
+      "original": "https://static.wikia.nocookie.net/disney/images/3/37/Descendants%EA%9E%89_The_Rise_of_Red_-_Uma_Poster.jpg/revision/latest?cb=20240414233942"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/fork/sw/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxuDR-0xYZEu9HlIQmo89fZokuPjBDr1shpg&s",
+      "fuentePagina": "https://descendants.fandom.com/wiki/Uma",
+      "titulo": "Uma | Descendants Wiki | Fandom",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxuDR-0xYZEu9HlIQmo89fZokuPjBDr1shpg&s",
+      "original": "https://static.wikia.nocookie.net/thedescendants/images/8/88/Uma-Descendants-2.jpg/revision/latest/scale-to-width/360?cb=20170429192752"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/fork/sw/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThs8p5OESEC1RIMi3aCqBFvsWxez1dUF6mXA&s",
+      "fuentePagina": "https://magnificentbaddie.fandom.com/wiki/Uma_(Descendants)",
+      "titulo": "Uma (Descendants) | Magnificent Baddie Wiki | Fandom",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThs8p5OESEC1RIMi3aCqBFvsWxez1dUF6mXA&s",
+      "original": "https://static.wikia.nocookie.net/magnificentbaddie/images/e/e2/Uma.webp/revision/latest?cb=20230802223959"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/fork/sw/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfQLChsVSBYV7XVMVgvSxIZqX9ezpiVs0JWg&s",
+      "fuentePagina": "https://en.wikipedia.org/wiki/Uma_Thurman",
+      "titulo": "Uma Thurman - Wikipedia",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfQLChsVSBYV7XVMVgvSxIZqX9ezpiVs0JWg&s",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/6/68/UmaThurman-byPhilipRomano.jpg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/fork/sw/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbAxi2dXcd0Ap4CdvvYWwc8Pg6EsAm-nqoYA&s",
+      "fuentePagina": "https://descendants.fandom.com/wiki/Uma",
+      "titulo": "Uma | Descendants Wiki | Fandom",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbAxi2dXcd0Ap4CdvvYWwc8Pg6EsAm-nqoYA&s",
+      "original": "https://static.wikia.nocookie.net/thedescendants/images/e/ec/Uma_-_Descendants_3.jpg/revision/latest?cb=20190215034730"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/fork/sw/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2UTiSl6wZetCe6A2xgiQwDdljqQel1U2f0A&s",
+      "fuentePagina": "https://www.ubuy.co.tz/en/product/JMCGVGI2-disguise-descendants-3-girls-uma-deluxe-costume-size-4-6?srsltid=AfmBOoor9gHljJ2O-dtihToEzj-eNAc63VcCzYzV9z7qVXDvY2woI2qv",
+      "titulo": "Disney Uma Descendants 3 Deluxe Girls' Costume Tanzania | Ubuy",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2UTiSl6wZetCe6A2xgiQwDdljqQel1U2f0A&s",
+      "original": "https://m.media-amazon.com/images/I/81SnDlcEtML._AC_SL1000__.jpg"
+    }
+  ]
+}

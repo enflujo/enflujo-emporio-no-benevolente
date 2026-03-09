@@ -1,0 +1,71 @@
+{
+  "categoria": "sports ball",
+  "categoriaSlug": "sports-ball",
+  "idioma": "rw",
+  "nombreIdioma": "Kinyarwanda",
+  "termino": "umupira",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:01:20.859Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "en",
+    "gl": "rw"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=umupira&hl=en&gl=rw",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/sports-ball/rw/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZQFGI4jhVAiywCQlIoYjnyxI-f8aMHqNBZg&s",
+      "fuentePagina": "https://www.youtube.com/watch?v=oyS_1w-QM1o",
+      "titulo": "#WARAMUTSE_RWANDA: Umupira w'Amaguru mu Rwanda uragana he?",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZQFGI4jhVAiywCQlIoYjnyxI-f8aMHqNBZg&s",
+      "original": "https://i.ytimg.com/vi/oyS_1w-QM1o/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLDBMthytlq0VR3ZupH5NRtJwFYmzQ"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/sports-ball/rw/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS48gfq2mPZ8Q8sdDJu1rqjkdkK0mgfDwaUFw&s",
+      "fuentePagina": "https://www.kigalitoday.com/imikino/football/article/sobanukirwa-amategeko-agenga-umupira-w-amaguru-w-abafite-ubumuga",
+      "titulo": "Sobanukirwa amategeko agenga umupira w'amaguru w'abafite ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS48gfq2mPZ8Q8sdDJu1rqjkdkK0mgfDwaUFw&s",
+      "original": "https://www.kigalitoday.com/IMG/jpg/close-enecounter.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/sports-ball/rw/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLpPk6fKtksXfIuA9YCI-xOQp8bnT9HK0feQ&s",
+      "fuentePagina": "https://www.bbc.com/gahuza/amakuru-49889614",
+      "titulo": "Bwa mbere mu mateka, Sudan yatangije shampiyona y'umupira w ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLpPk6fKtksXfIuA9YCI-xOQp8bnT9HK0feQ&s",
+      "original": "https://ichef.bbci.co.uk/ace/ws/640/cpsprodpb/51E3/production/_109036902_efxkapcx0aa6h6m.jpg.webp"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/sports-ball/rw/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtUUPn2UY7VH8pdcOj_mTYrGsnJyU8X93Ssw&s",
+      "fuentePagina": "https://www.youtube.com/watch?v=FgWulPkLP6c",
+      "titulo": "AMAVUBI IMBERE Y'UMUKURU W'IGIHUGU WARUMAZE IMYAKA UMUNANI ATAZA KUREBA  UMUPIRA WAMAGURU KURI STADE",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtUUPn2UY7VH8pdcOj_mTYrGsnJyU8X93Ssw&s",
+      "original": "https://i.ytimg.com/vi/FgWulPkLP6c/maxresdefault.jpg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/sports-ball/rw/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDaSfk90ScrskIuou9sGVPRmet_4RL8gQ4rw&s",
+      "fuentePagina": "https://murukali.com/products/baby-foot-ball-pc?srsltid=AfmBOopbLNC19OCFV1MOXejbI0Io79Lg-xcToNw-5z08QE1IH69suCVt",
+      "titulo": "Baby Foot Ball-Umupira /pc | Best Price in 2024 at murukali ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDaSfk90ScrskIuou9sGVPRmet_4RL8gQ4rw&s",
+      "original": "https://murukali.com/cdn/shop/files/Baby-Foot-Ball-Umupira-pc-murukali-com-7459_284x426.jpg?v=1744978529"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/sports-ball/rw/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYMzHfLtuwIUN6AHrJww6TD6l-6cIRvprOXg&s",
+      "fuentePagina": "https://www.youtube.com/watch?v=s17-B37FGkE",
+      "titulo": "Umukinyi w’umupira w’amaguru agendana ubumuga yabiciye biracika mu kibuga",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYMzHfLtuwIUN6AHrJww6TD6l-6cIRvprOXg&s",
+      "original": "https://i.ytimg.com/vi/s17-B37FGkE/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLBahojw75hnXgfSAypBGFenmAPm0g"
+    }
+  ]
+}

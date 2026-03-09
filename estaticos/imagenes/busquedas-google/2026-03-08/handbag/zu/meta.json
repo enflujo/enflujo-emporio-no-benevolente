@@ -1,0 +1,71 @@
+{
+  "categoria": "handbag",
+  "categoriaSlug": "handbag",
+  "idioma": "zu",
+  "nombreIdioma": "isiZulu",
+  "termino": "isikhwama",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T20:57:43.439Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "zu",
+    "gl": "za"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=isikhwama&hl=zu&gl=za",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/handbag/zu/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSo3U5RVSdzeh7nVe9UFA79ANdnI0asqnq5hg&s",
+      "fuentePagina": "https://ranisherbalist.co.za/products/bag-for-bone-727-isikhwama-medium",
+      "titulo": "Bag For Bone 727 Isikhwama Medium",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSo3U5RVSdzeh7nVe9UFA79ANdnI0asqnq5hg&s",
+      "original": "https://ranisherbalist.co.za/cdn/shop/files/727bagforbonesisikhwama_medium_6009694909921_3c0f1b2c-4069-4cf2-8b47-1f7c774dd456.png?v=1742033897&width=1946"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/handbag/zu/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0xvg0VSbL9aSofaCUdjgz1B2Nt0MLarbJng&s",
+      "fuentePagina": "https://www.facebook.com/MkhuluVivilzz/posts/isikhwamaitasi-explained-this-is-a-healing-legacy-from-a-predecessor-to-a-succes/466417861843712/",
+      "titulo": "ISIKHWAMA/ITASI EXPLAINED This is a healing legacy from a ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0xvg0VSbL9aSofaCUdjgz1B2Nt0MLarbJng&s",
+      "original": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=466417821843716"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/handbag/zu/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHq39334yGyPHPU4ttgQtP1VE-UvHQdcEndw&s",
+      "fuentePagina": "https://www.crossoverint.co.za/zu/products/vialli-va23001-costacio-bag?srsltid=AfmBOor52ige8KOWUWWaVxuukFYv4aK7qst2iyc4h_fmlIu6LcOgnDhr",
+      "titulo": "Isikhwama sika-Costacio*",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHq39334yGyPHPU4ttgQtP1VE-UvHQdcEndw&s",
+      "original": "http://www.crossoverint.co.za/cdn/shop/files/vialli-va23001-costacio-backpack-italian-1.png?v=1700630507"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/handbag/zu/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQV7RmilQAqchGkiECx5aVBPRhwgAjyCh_Upg&s",
+      "fuentePagina": "http://zu.tiger-bags.com/travel-bag-large-capacity-portable-fitness-bag-yoga-bag-travel-bag-waterproof-duffel-bag-storage-bag-product/",
+      "titulo": "Isikhwama Sokuhamba Esinamandla Esikhulu Esiphathekayo ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQV7RmilQAqchGkiECx5aVBPRhwgAjyCh_Upg&s",
+      "original": "http://cdn.globalso.com/tiger-bags/doi3xiryn1o.jpg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/handbag/zu/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwedAbacYdyb-jZuKWckFFBOHaOEJQpdb_rw&s",
+      "fuentePagina": "https://www.wzrods.com/zu/carry-bag-product/",
+      "titulo": "Ifulegi lezimpaphe laseShayina - Umkhiqizi wezikhwama ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwedAbacYdyb-jZuKWckFFBOHaOEJQpdb_rw&s",
+      "original": "https://ecdn6.globalso.com/upload/p/552/image_product/2023-12/656bb33d537c673503.jpg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/handbag/zu/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8DxN6mUtn5NK1MOZxa4DOYr0M3GPYT1QlTA&s",
+      "fuentePagina": "https://www.catholicbookshop.co.za/xh/collections/all-products/products/pyx-pouch-black-cloth?srsltid=AfmBOoqfK5c69xgD6ootDQ7K9TSNFUwD80wXqHhfT7PQeweXoUeIvGkP",
+      "titulo": "Isikhwama sePyx ilaphu elimnyama",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8DxN6mUtn5NK1MOZxa4DOYr0M3GPYT1QlTA&s",
+      "original": "https://www.catholicbookshop.co.za/cdn/shop/files/Pyxbagblack.jpg?v=1760967321"
+    }
+  ]
+}

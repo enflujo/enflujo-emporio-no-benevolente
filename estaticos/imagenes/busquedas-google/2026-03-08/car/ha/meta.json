@@ -1,0 +1,71 @@
+{
+  "categoria": "car",
+  "categoriaSlug": "car",
+  "idioma": "ha",
+  "nombreIdioma": "Hausa",
+  "termino": "mota",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T20:41:54.626Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "ha",
+    "gl": "ng"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=mota&hl=ha&gl=ng",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/car/ha/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5AE9QzgXKn6JncdsoRm_FCkYHTaasxG3FAQ&s",
+      "fuentePagina": "https://int.vittoria.com/products/mota-enduro",
+      "titulo": "Mota Enduro - Enduro Tires | Vittoria",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5AE9QzgXKn6JncdsoRm_FCkYHTaasxG3FAQ&s",
+      "original": "https://int.vittoria.com/cdn/shop/products/mota-mtb-enduro-1.webp?v=1698154053&width=3000"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/car/ha/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1ZLqqC_zEk4dRAmHvzlLaCwZhuxduad6mdA&s",
+      "fuentePagina": "https://www.amazon.in/Sowbhagya-Foods-Mota-Mixture-Pouch/dp/B09L84BCHJ",
+      "titulo": "Sowbhagya Foods Mota Mixture, 500g Pouch : Amazon.in ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1ZLqqC_zEk4dRAmHvzlLaCwZhuxduad6mdA&s",
+      "original": "https://m.media-amazon.com/images/I/81rz1LP3HAL.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/car/ha/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3LGFiEz9cMk4Rwy6GVgxKeog0lnZu4rpmOQ&s",
+      "fuentePagina": "https://motamotor.com/",
+      "titulo": "Mota Motor",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3LGFiEz9cMk4Rwy6GVgxKeog0lnZu4rpmOQ&s",
+      "original": "https://motamotor.com/Uploads/images/2023/10/24/1698133815_img.png"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/car/ha/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsxJSZsuRYtg5vbPH55aPBfVTrKuxn8OKptA&s",
+      "fuentePagina": "https://www.mota-engil.com/en/",
+      "titulo": "Mota-Engil | A World of Inspiration",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsxJSZsuRYtg5vbPH55aPBfVTrKuxn8OKptA&s",
+      "original": "https://www.mota-engil.com/app/uploads/2025/03/HomePage_Banner-3_1920x1080-min-png.webp"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/car/ha/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTE8he4qoIhDTK4AAaGWx01FmTKPpoeaxZO3A&s",
+      "fuentePagina": "https://www.tiktok.com/@alamin_sarkinmota/video/7494394042235505925",
+      "titulo": "Sarkin mota (@alamin_sarkinmota)’s videos with original sound - Sarkin mota  | TikTok",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTE8he4qoIhDTK4AAaGWx01FmTKPpoeaxZO3A&s",
+      "original": "https://www.tiktok.com/api/img/?itemId=7494394042235505925&location=0&aid=1988"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/car/ha/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTibSJrIbVmU6IDguMxHSN1DXPoKyEvjWrRDw&s",
+      "fuentePagina": "https://www.shreemithai.com/products/mota-mixture",
+      "titulo": "Mota Mixture – Shree Mithai",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTibSJrIbVmU6IDguMxHSN1DXPoKyEvjWrRDw&s",
+      "original": "https://www.shreemithai.com/cdn/shop/products/mota-mixture-346494.jpg?v=1707820008"
+    }
+  ]
+}

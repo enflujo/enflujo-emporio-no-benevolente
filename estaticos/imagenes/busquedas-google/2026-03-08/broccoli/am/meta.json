@@ -1,0 +1,71 @@
+{
+  "categoria": "broccoli",
+  "categoriaSlug": "broccoli",
+  "idioma": "am",
+  "nombreIdioma": "Amharic — አማርኛ",
+  "termino": "ብሮኮሊ",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:13:20.290Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "am",
+    "gl": "et"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=%E1%89%A5%E1%88%AE%E1%8A%AE%E1%88%8A&hl=am&gl=et",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/broccoli/am/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLlEPmvy6ORprgvLzijJYL38MLWTeF1IHFTw&s",
+      "fuentePagina": "http://am.biowaynutrition.com/news/unlocking-the-health-potential-of-broccoli-extract/",
+      "titulo": "ዜና - ብሮኮሊ የጤናን ጤና አቅም መክፈት",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLlEPmvy6ORprgvLzijJYL38MLWTeF1IHFTw&s",
+      "original": "http://www.biowaynutrition.com/uploads/Organic-broccoli-powder-10.png"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/broccoli/am/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRo4atmkhsAGniJtGO6n93-q6U0mOZeL_B8ZA&s",
+      "fuentePagina": "https://saba.market/product/%E1%89%A5%E1%88%AE%E1%8A%AE%E1%88%8A/",
+      "titulo": "ብሮኮሊ – Saba Market",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRo4atmkhsAGniJtGO6n93-q6U0mOZeL_B8ZA&s",
+      "original": "https://saba.market/wp-content/uploads/2022/10/Order-now-16.png"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/broccoli/am/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYbi79o-3IxRDgj_oYIpId9VMmwvToU00aOw&s",
+      "fuentePagina": "https://www.habeshashops.com/product-page/broccoli",
+      "titulo": "Broccoli in KGs | HabeshaShops",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYbi79o-3IxRDgj_oYIpId9VMmwvToU00aOw&s",
+      "original": "https://static.wixstatic.com/media/626362_f4de21c9cd52415c980e4576f3182479~mv2.png/v1/fill/w_520,h_274,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/626362_f4de21c9cd52415c980e4576f3182479~mv2.png"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/broccoli/am/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTz5UWfkmFITcj_xB2huu1r08iDz-sQeW9pTw&s",
+      "fuentePagina": "https://www.youtube.com/watch?v=HoarmjzIQ54",
+      "titulo": "የብሮኮሊ የጤና ጥቅሞች | Health Benefits of Broccoli | የጤና ቃል #ጤና #dr",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTz5UWfkmFITcj_xB2huu1r08iDz-sQeW9pTw&s",
+      "original": "https://i.ytimg.com/vi/HoarmjzIQ54/maxresdefault.jpg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/broccoli/am/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTZ1CKdMkcOMjAUvJhc6wMiYUfYraLWLFyrw&s",
+      "fuentePagina": "https://ebtshopper.com/am/recipe-page-broccoli-soup-cm/",
+      "titulo": "ብሮኮሊ ሾርባ",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTZ1CKdMkcOMjAUvJhc6wMiYUfYraLWLFyrw&s",
+      "original": "https://ebtshopper.com/wp-content/uploads/2022/06/BroccoliSoup.jpg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/broccoli/am/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLzCLfzI9Ei1mPddGiKBbN-TOeK6JR5-RDKA&s",
+      "fuentePagina": "http://am.ruiqiaofoods.com/high-quality-green-vegetables-iqf-frozen-broccolis-frozen-broccoli-product/",
+      "titulo": "የጅምላ IQF ብሮኮሊ የቀዘቀዘ ብሮኮሊ የአበባ አምራች ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLzCLfzI9Ei1mPddGiKBbN-TOeK6JR5-RDKA&s",
+      "original": "http://cdn.globalso.com/ruiqiaofoods/IQF-Broccoli.jpg"
+    }
+  ]
+}

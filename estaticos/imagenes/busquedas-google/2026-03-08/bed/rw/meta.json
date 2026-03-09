@@ -1,0 +1,16 @@
+{
+  "categoria": "bed",
+  "categoriaSlug": "bed",
+  "idioma": "rw",
+  "nombreIdioma": "Kinyarwanda",
+  "termino": "igitanda",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:19:01.051Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "en",
+    "gl": "rw"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=igitanda&hl=en&gl=rw",
+  "imagenes": []
+}

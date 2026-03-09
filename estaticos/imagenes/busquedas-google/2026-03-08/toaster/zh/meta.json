@@ -1,0 +1,71 @@
+{
+  "categoria": "toaster",
+  "categoriaSlug": "toaster",
+  "idioma": "zh",
+  "nombreIdioma": "中文",
+  "termino": "烤面包机",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:26:37.386Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "zh-CN",
+    "gl": "cn"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=%E7%83%A4%E9%9D%A2%E5%8C%85%E6%9C%BA&hl=zh-CN&gl=cn",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/toaster/zh/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBOVjXSqzdLhRwBqo6G4wYYVFvI7oDhxMQNg&s",
+      "fuentePagina": "https://www.philips.com.cn/c-p/HD2584_60/daily-collection-toaster",
+      "titulo": "Daily Collection 烤面包机HD2584/60 | Philips -飞利浦",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBOVjXSqzdLhRwBqo6G4wYYVFvI7oDhxMQNg&s",
+      "original": "https://images.philips.com/is/image/philipsconsumer/vrs_246db5e627c441af9b09d523f123a830af12fc11?$pnglarge$&wid=1250"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/toaster/zh/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzx3YT8PO7CyXsvK9j7zncbfBu0R51RVv6Mg&s",
+      "fuentePagina": "https://consumer.panasonic.cn/product/cooking-appliances/bread-maker/nt-p400.html",
+      "titulo": "NT-P400烤面包机-松下家电",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzx3YT8PO7CyXsvK9j7zncbfBu0R51RVv6Mg&s",
+      "original": "https://consumer.panasonic.cn/static/upload/image/20221205/1670234682974456.png"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/toaster/zh/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSB2JmYhecAdm0OSPSwE-2OCYnAqjCWXze1VQ&s",
+      "fuentePagina": "https://www.philips.com.cn/c-p/HD2519_10/daily-collection-toaster",
+      "titulo": "Daily Collection 烤面包机HD2519/10 | Philips -飞利浦",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSB2JmYhecAdm0OSPSwE-2OCYnAqjCWXze1VQ&s",
+      "original": "https://images.philips.com/is/image/philipsconsumer/vrs_e72679ece8d5c8d695c033f08f0205146b8234cd?wid=700&hei=700&$pnglarge$"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/toaster/zh/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYzmrSrSbrVHrOXyjuUk7qPB_jwXRrM0uqLQ&s",
+      "fuentePagina": "https://www.suning.com/itemvideo/0000000000/10512707035.html",
+      "titulo": "灿坤(Eupa)烤面包机TSK-P203P家用2片早餐多士炉吐司机全自动迷你 ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYzmrSrSbrVHrOXyjuUk7qPB_jwXRrM0uqLQ&s",
+      "original": "https://imgservice.suning.cn/uimg1/b2c/image/Vhc6f0F7MZyKP9WPY1PpvQ.jpg_800w_800h_4e"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/toaster/zh/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTV-QY7S3sq1tv6njNHpBeHN9VUi3zCYOY6g&s",
+      "fuentePagina": "https://www.philips.com.cn/c-p/HD2584_50/daily-collection-toaster",
+      "titulo": "Daily Collection 烤面包机HD2584/50 | Philips -飞利浦",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTV-QY7S3sq1tv6njNHpBeHN9VUi3zCYOY6g&s",
+      "original": "https://images.philips.com/is/image/philipsconsumer/vrs_9341473c445224fb52b17b01319a2d25bcec4de3?$pnglarge$&wid=1250"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/toaster/zh/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0aNzSTMV7vlZRoK0I6Yc7ViXgMEx_3GvSuQ&s",
+      "fuentePagina": "https://www.archiexpo.cn/prod/hamilton-beach/product-67680-1844618.html",
+      "titulo": "4片烤面包机- 24791 - Hamilton Beach - 金属",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0aNzSTMV7vlZRoK0I6Yc7ViXgMEx_3GvSuQ&s",
+      "original": "https://img.archiexpo.cn/images_ae/photo-mg/67680-11276936.jpg"
+    }
+  ]
+}

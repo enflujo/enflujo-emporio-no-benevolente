@@ -1,0 +1,71 @@
+{
+  "categoria": "bicycle",
+  "categoriaSlug": "bicycle",
+  "idioma": "am",
+  "nombreIdioma": "Amharic — አማርኛ",
+  "termino": "ብስክሌት",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T20:41:15.564Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "am",
+    "gl": "et"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=%E1%89%A5%E1%88%B5%E1%8A%AD%E1%88%8C%E1%89%B5&hl=am&gl=et",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bicycle/am/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZlWAa_dpGui5DDwuKHcv-X7GrxlnG04MTyA&s",
+      "fuentePagina": "https://am.wikipedia.org/wiki/%E1%89%A5%E1%88%B5%E1%8A%AD%E1%88%8C%E1%89%B5",
+      "titulo": "ውክፔዲያ - ብስክሌት",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZlWAa_dpGui5DDwuKHcv-X7GrxlnG04MTyA&s",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/LOUIS_GARNEAU_LGS-FIVE.jpg/250px-LOUIS_GARNEAU_LGS-FIVE.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bicycle/am/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7gLzIcwR8sBuYEbAcyIIlfGbTf_SM0ZBkHA&s",
+      "fuentePagina": "https://eipa.gov.et/%E1%89%B3%E1%8C%A3%E1%8D%8A-%E1%8A%A5%E1%89%83-%E1%8A%A5%E1%8A%93-%E1%88%B0%E1%8B%8D%E1%8A%95-%E1%88%98%E1%8C%AB%E1%8A%95-%E1%8B%A8%E1%88%9A%E1%89%BD%E1%88%8D-%E1%89%A5%E1%88%B5%E1%8A%AD%E1%88%8C/",
+      "titulo": "ታጣፊ እቃ እና ሰውን መጫን የሚችል ብስክሌት ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7gLzIcwR8sBuYEbAcyIIlfGbTf_SM0ZBkHA&s",
+      "original": "https://eipa.gov.et/wp-content/uploads/2021/10/Biycicle-3.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bicycle/am/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAe2gInfGtnj7KTBYG_CxFruf8AoyOnww-IA&s",
+      "fuentePagina": "http://am.fulike-ebike.com/factory-wholesale-popular-electric-bicycle-2-seat-mini-bike-500w-48v-product/",
+      "titulo": "የጅምላ ፋብሪካ የጅምላ ሽያጭ ታዋቂ የኤሌክትሪክ ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAe2gInfGtnj7KTBYG_CxFruf8AoyOnww-IA&s",
+      "original": "http://cdn.globalso.com/fulike-ebike/B14-%E5%B0%8F%E7%BA%A2%E8%B1%86-%E4%B8%BB2.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bicycle/am/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_nGZXMKAUZ2Zt7lUrGZHBuXFJNkg9DEK_OA&s",
+      "fuentePagina": "https://www.mootoroebike.com/am/bicycles/",
+      "titulo": "ኢ-ብስክሌቶች አምራቾች - ቻይና ኢ-ብስክሌቶች ፋብሪካ ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_nGZXMKAUZ2Zt7lUrGZHBuXFJNkg9DEK_OA&s",
+      "original": "https://cdnus.globalso.com/mootoroebike/Mootoro-C1-blue.jpg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bicycle/am/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_dfkV7y7NsX2IX5J5GRlrLRtW-yDmibrzKg&s",
+      "fuentePagina": "https://amharicteacher.com/dictionary/english/%E1%89%A5%E1%88%B5%E1%8A%AD%E1%88%8C%E1%89%B5",
+      "titulo": "ብስክሌት (bsklaet) meaning in English - Amharic Dictionary",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_dfkV7y7NsX2IX5J5GRlrLRtW-yDmibrzKg&s",
+      "original": "https://d9seco0wfq8yu.cloudfront.net/dict/biskilet.png"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bicycle/am/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpzT7tVEGEr4tgP3eSweWayxByyqkNQUCk8w&s",
+      "fuentePagina": "https://www.mootoroebike.com/am/mootoro-r2-e-bike-product/",
+      "titulo": "R2 ደረጃ በደረጃ መጽናኛ እና ብስክሌት– 500W እና 48V ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpzT7tVEGEr4tgP3eSweWayxByyqkNQUCk8w&s",
+      "original": "https://cdnus.globalso.com/mootoroebike/R2-right-view-white.jpg"
+    }
+  ]
+}

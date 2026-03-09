@@ -1,0 +1,71 @@
+{
+  "categoria": "tv",
+  "categoriaSlug": "tv",
+  "idioma": "ha",
+  "nombreIdioma": "Hausa",
+  "termino": "talabijin",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:21:07.023Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "ha",
+    "gl": "ng"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=talabijin&hl=ha&gl=ng",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/tv/ha/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5N5iudwOQfcWvT44ggzMqXk4gfpRAxPVmag&s",
+      "fuentePagina": "https://www.youtube.com/playlist?list=PLCfFSW2fG_AxFtvGP2rWDtaNaPCW4Js3d",
+      "titulo": "Labaran Talabijin - YouTube",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5N5iudwOQfcWvT44ggzMqXk4gfpRAxPVmag&s",
+      "original": "https://i.ytimg.com/vi/NA2T1Xa3yxo/hq720.jpg?sqp=-oaymwEXCK4FEIIDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLCky-Y--PnJKCnE13U5ZLfXSdvchA"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/tv/ha/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTi2BbzEaZkkhEhFZRD7aVxFT1wqiVkwLwo6w&s",
+      "fuentePagina": "https://www.hausadictionary.com/talabijin",
+      "titulo": "talabijin - HausaDictionary.com | Hausa English Translations",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTi2BbzEaZkkhEhFZRD7aVxFT1wqiVkwLwo6w&s",
+      "original": "https://hausadictionary.com/m/7/7a/TV.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/tv/ha/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-hqQzSt9OCTfX7LE6ADDXaunsl20lTK_MZQ&s",
+      "fuentePagina": "https://www.voahausa.com/a/tasirin-talabijin-a-rayuwar-bil-adam/4128194.html",
+      "titulo": "Tasirin Talabijin A Rayuwar Bil-Adam",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-hqQzSt9OCTfX7LE6ADDXaunsl20lTK_MZQ&s",
+      "original": "https://gdb.voanews.com/403959a3-21b8-443a-9649-0622f0feee63_cx5_cy34_cw94_w408_r1_s.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/tv/ha/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSA-NPSu34f1sUn4HtAr3CsDX6Qi5Cv__cIcg&s",
+      "fuentePagina": "https://www.youtube.com/watch?v=r0bzN7UKzJA",
+      "titulo": "Labaran Talabijin na 11/02/2020 tare da Umaymah Sani Abdulmumin",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSA-NPSu34f1sUn4HtAr3CsDX6Qi5Cv__cIcg&s",
+      "original": "https://i.ytimg.com/vi/r0bzN7UKzJA/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLDBX2M-7ZFtkneMzls4Wo_H1E64yQ"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/tv/ha/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVtjIIKb04Zemth0otHSIrKSWUaIIzkASPiA&s",
+      "fuentePagina": "https://hausa.premiumtimesng.com/tag/talabijin",
+      "titulo": "Talabijin Archives - Premium Times Hausa",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVtjIIKb04Zemth0otHSIrKSWUaIIzkASPiA&s",
+      "original": "https://hausa.premiumtimesng.com/wp-content/files/sites/4/2024/08/Screenshot_20240809-1820202-350x250.png"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/tv/ha/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoejxFLgrQmTJd4FUHkqFESjL9mtUxB7cGDw&s",
+      "fuentePagina": "https://www.facebook.com/BBCNewsHausa/videos/labaran-talabijin-na-10032021/909931433095509/",
+      "titulo": "Labaran Talabijin na 10/03/2021 | BBC Hausa | Facebook",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoejxFLgrQmTJd4FUHkqFESjL9mtUxB7cGDw&s",
+      "original": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=909931433095509&get_thumbnail=1"
+    }
+  ]
+}

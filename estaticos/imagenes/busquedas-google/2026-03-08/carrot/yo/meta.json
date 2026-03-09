@@ -1,0 +1,71 @@
+{
+  "categoria": "carrot",
+  "categoriaSlug": "carrot",
+  "idioma": "yo",
+  "nombreIdioma": "Yorùbá",
+  "termino": "kárọ̀ọ̀tì",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:13:56.793Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "yo",
+    "gl": "ng"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=k%C3%A1r%E1%BB%8D%CC%80%E1%BB%8D%CC%80t%C3%AC&hl=yo&gl=ng",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/carrot/yo/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR85xxQE1H5dccAV7TTaWz8GPA12WzFMCnKrA&s",
+      "fuentePagina": "https://www.bbc.com/yoruba/articles/cj4qne5z0r0o",
+      "titulo": "Wo àwọn àǹfààní tí kárọ́ọ̀tì ń ṣe fún àgọ́ ara rẹ - BBC News ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR85xxQE1H5dccAV7TTaWz8GPA12WzFMCnKrA&s",
+      "original": "https://ichef.bbci.co.uk/news/1024/branded_yoruba/70fb/live/178dd620-cd04-11f0-b6c9-cfd3a9666535.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/carrot/yo/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6pOY0MwJIpxdbAvXngvYAtFM_vb6DnQ14iw&s",
+      "fuentePagina": "https://en.wiktionary.org/wiki/kar%E1%BB%8D%E1%BB%8Dti",
+      "titulo": "karọọti - Wiktionary, the free dictionary",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6pOY0MwJIpxdbAvXngvYAtFM_vb6DnQ14iw&s",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Vegetable-Carrot-Bundle-wStalks.jpg/1280px-Vegetable-Carrot-Bundle-wStalks.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/carrot/yo/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvwgeC4Z7XY5ggqQbVbGJiBJXeTc5WyQdb7A&s",
+      "fuentePagina": "https://so.wikipedia.org/wiki/Kaaroot",
+      "titulo": "Kaaroot - Wikipedia",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvwgeC4Z7XY5ggqQbVbGJiBJXeTc5WyQdb7A&s",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/2/27/BunchCarrots.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/carrot/yo/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRF1JfOK_nVzntsfsvqiSjDkQBn1NAih6-wUw&s",
+      "fuentePagina": "https://www.youtube.com/watch?v=zi_7KJrL0lE",
+      "titulo": "Karoti by Social Mula",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRF1JfOK_nVzntsfsvqiSjDkQBn1NAih6-wUw&s",
+      "original": "https://i.ytimg.com/vi/zi_7KJrL0lE/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGH8gPyg2MA8=&rs=AOn4CLBbbruiGyS-ZkDgjfhuGAiILbuGow"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/carrot/yo/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSJyjGE-obcG1fXe98MCoXX2IOH8RR62ZUaA&s",
+      "fuentePagina": "https://en.wiktionary.org/wiki/kareti",
+      "titulo": "kareti - Wiktionary, the free dictionary",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSJyjGE-obcG1fXe98MCoXX2IOH8RR62ZUaA&s",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/d/d2/Carrots_with_stems.jpg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/carrot/yo/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwkQPlF9oJeBajrtjaYeC5EHQzzQitQnjNtQ&s",
+      "fuentePagina": "https://umutihealth.com/akamaro-ka-karoti-ku-buzima/",
+      "titulo": "Karoti ibyiza, ibiyigize n' ibyo zimarira umubiri wacu",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwkQPlF9oJeBajrtjaYeC5EHQzzQitQnjNtQ&s",
+      "original": "https://umutihealth.com/wp-content/uploads/2016/09/karoti-.jpg"
+    }
+  ]
+}

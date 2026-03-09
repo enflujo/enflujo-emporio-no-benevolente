@@ -1,0 +1,71 @@
+{
+  "categoria": "tie",
+  "categoriaSlug": "tie",
+  "idioma": "fr",
+  "nombreIdioma": "Français",
+  "termino": "cravate",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T20:58:16.295Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "fr",
+    "gl": "be"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=cravate&hl=fr&gl=be",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/tie/fr/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDg-lNpKPmWQbebIpKWlAiB8MGypv-OyI6_w&s",
+      "fuentePagina": "https://deguisement-costume.be/cravates-noeud-papillon-echarpes/2300-cravate-noir.html",
+      "titulo": "Cravate noir",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDg-lNpKPmWQbebIpKWlAiB8MGypv-OyI6_w&s",
+      "original": "https://deguisement-costume.be/10004-large_default/cravate-noir.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/tie/fr/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5WHixBaRhR5UAcyRDgINLex2oysTol4oZqg&s",
+      "fuentePagina": "https://www.jules.com/fr-be/p/3732506.html",
+      "titulo": "Cravate unie | Jules BE",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5WHixBaRhR5UAcyRDgINLex2oysTol4oZqg&s",
+      "original": "https://www.jules.com/dw/image/v2/AAHK_PRD/on/demandware.static/-/Sites-core-master-catalog/default/dw34e0a5fb/images/1003673_11846_V11.jpg?sw=1562&sh=1800&sm=fit"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/tie/fr/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1xLipEjtnXSlnG3nkr_rrkFyuIwlLK4oSGA&s",
+      "fuentePagina": "https://fr.zalando.be/massi-morino-cravate-dunkelblau-gepunktet-m8s52r001-k12.html",
+      "titulo": "Massi Morino SET - Cravate - Dunkelblau - Gepunktet/bleu ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1xLipEjtnXSlnG3nkr_rrkFyuIwlLK4oSGA&s",
+      "original": "https://img01.ztat.net/article/spp-media-p1/f13f11ae351b4a679310d6e775940cb7/9b059cb3414746f3981cf4c54a3a12d5.jpg?imwidth=1800"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/tie/fr/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcWB216d-3gzgr5MrqxOdRXOlBqCZmkQkmwQ&s",
+      "fuentePagina": "https://www.pointcarre.be/products/accessories-by-jack-jones-cravates-noir-12230334-black",
+      "titulo": "Cravate - noir – PointCarré",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcWB216d-3gzgr5MrqxOdRXOlBqCZmkQkmwQ&s",
+      "original": "https://www.pointcarre.be/cdn/shop/files/12230334_BLACK_6.jpg?v=1760662585&width=900"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/tie/fr/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdWHbXGvj89W3C-P7oK2ULA0-bhPWgcTQn5g&s",
+      "fuentePagina": "https://www.pavillonliege.be/cravate-noir-eleventy.html",
+      "titulo": "Cravate - Noir - ELEVENTY - PAVILLON",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdWHbXGvj89W3C-P7oK2ULA0-bhPWgcTQn5g&s",
+      "original": "https://cdn.webshopapp.com/shops/310071/files/391324789/image.jpg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/tie/fr/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPTBV2SWmlJ4pVqGc0_QV0n1u5hZtnClAG9Q&s",
+      "fuentePagina": "https://www.jules.com/fr-be/p/100367316346.html",
+      "titulo": "Cravate unie | Jules BE",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPTBV2SWmlJ4pVqGc0_QV0n1u5hZtnClAG9Q&s",
+      "original": "https://www.jules.com/dw/image/v2/AAHK_PRD/on/demandware.static/-/Sites-core-master-catalog/default/dw8f466a19/images/1003673_16346_V5.jpg?sw=1562&sh=1800&sm=fit"
+    }
+  ]
+}

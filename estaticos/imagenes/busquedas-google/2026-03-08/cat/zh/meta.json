@@ -1,0 +1,71 @@
+{
+  "categoria": "cat",
+  "categoriaSlug": "cat",
+  "idioma": "zh",
+  "nombreIdioma": "中文",
+  "termino": "猫",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T20:50:45.748Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "zh-CN",
+    "gl": "cn"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=%E7%8C%AB&hl=zh-CN&gl=cn",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/cat/zh/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUbZE42cYZxE3nGboaAvzI8LvKnFpz98j-Bw&s",
+      "fuentePagina": "https://www.bbc.com/zhongwen/simp/science-40356544",
+      "titulo": "人猫万年情这一切是怎么开始的？ - BBC News 中文",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUbZE42cYZxE3nGboaAvzI8LvKnFpz98j-Bw&s",
+      "original": "https://ichef.bbci.co.uk/news/1024/branded_zhongwen/42E2/production/_96522171_gettyimages-450864271.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/cat/zh/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9NPDN2X11wKEm9VbIOV9AY9RMICo_qv7gOg&s",
+      "fuentePagina": "https://zh.wikipedia.org/zh-cn/%E7%8C%AB",
+      "titulo": "猫- 维基百科，自由的百科全书",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9NPDN2X11wKEm9VbIOV9AY9RMICo_qv7gOg&s",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/7/74/Cat_August_2010-3.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/cat/zh/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT74p0-GFNquBzzGLN9SazH22Wrus46aPPqYQ&s",
+      "fuentePagina": "https://zh.wikipedia.org/zh-cn/%E8%99%8E%E6%96%91%E7%8C%AB",
+      "titulo": "虎斑猫- 维基百科，自由的百科全书",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT74p0-GFNquBzzGLN9SazH22Wrus46aPPqYQ&s",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Cat_November_2010-1a.jpg/960px-Cat_November_2010-1a.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/cat/zh/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTi7beTlb5K5SUm2FImeuJVffwcQOC_omCVhA&s",
+      "fuentePagina": "https://post.m.smzdm.com/p/a8prkd2l/",
+      "titulo": "家猫有哪些种类？_猫咪_什么值得买",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTi7beTlb5K5SUm2FImeuJVffwcQOC_omCVhA&s",
+      "original": "https://am.zdmimg.com/202406/06/6661b3b4908201030.jpg_e1080.jpg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/cat/zh/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZbfKF3mp69QmCX_djusuZZRHToU9dWOhg_A&s",
+      "fuentePagina": "https://www.epochtimes.com/gb/25/9/6/n14588814.htm",
+      "titulo": "猫也会罹患失智症？ 专家：有8个迹象| 宠物| 认知| 障碍| 大紀元",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZbfKF3mp69QmCX_djusuZZRHToU9dWOhg_A&s",
+      "original": "https://i.epochtimes.com/assets/uploads/2024/09/id14340586-shutterstock_1659464965.jpg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/cat/zh/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrLVhuRlKWJ24zL6hUfVxjJSK7MLYJfsGc4w&s",
+      "fuentePagina": "https://baike.baidu.com/item/%E7%8C%AB/22261",
+      "titulo": "猫_百度百科",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrLVhuRlKWJ24zL6hUfVxjJSK7MLYJfsGc4w&s",
+      "original": "https://bkimg.cdn.bcebos.com/smart/cf1b9d16fdfaaf51f3dec5bd8a0283eef01f3a29cc21-bkimg-process,v_1,rw_1,rh_1,pad_1,color_ffffff?x-bce-process=image/format,f_auto"
+    }
+  ]
+}

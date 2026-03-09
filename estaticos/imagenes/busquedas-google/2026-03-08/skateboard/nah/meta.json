@@ -1,0 +1,71 @@
+{
+  "categoria": "skateboard",
+  "categoriaSlug": "skateboard",
+  "idioma": "nah",
+  "nombreIdioma": "Náhuatl",
+  "termino": "skateboard",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:04:29.259Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "es",
+    "gl": "mx"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=skateboard&hl=es&gl=mx",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/skateboard/nah/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMOyJx90-UX8lg0kCOEqtCtB8H0_0OHlwvOQ&s",
+      "fuentePagina": "https://www.amazon.com.mx/Antideslizante-Principiantes-Profesionales-Adolescentes-Entretenerse/dp/B0CKXSTKNR",
+      "titulo": "FHZLAJ Patineta Skateboard Completo Monopatín Estándar & Truco, 9 Capas  Tablas Cóncavas de Doble Patada Antideslizante para Principiante  Profesional ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMOyJx90-UX8lg0kCOEqtCtB8H0_0OHlwvOQ&s",
+      "original": "https://m.media-amazon.com/images/I/71OI2qnHQkL.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/skateboard/nah/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEtzW4BuPeNeDHf0mBkFXEAxdNCmvArwWiWA&s",
+      "fuentePagina": "https://waldos.com.mx/products/patineta-skateboard-para-principiantes-color-aqua?srsltid=AfmBOoqtGp6AV1LZs57ZIBSsPc-IVc_8Bx_cJ8MRvaLDIKIR1n7rL15N",
+      "titulo": "Patineta Skateboard para Principiantes, color Aqua",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEtzW4BuPeNeDHf0mBkFXEAxdNCmvArwWiWA&s",
+      "original": "https://waldos.com.mx/cdn/shop/files/23381504AQUA_1.jpg?v=1703792974&width=1214"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/skateboard/nah/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCaGa0Aoa7djZBNhyD8QaTd9OQmtdikzAiBw&s",
+      "fuentePagina": "https://deportesguerra.com.mx/products/patineta-skateboard-completa-de-madera-juvenil-con-diseno?srsltid=AfmBOooLgkLhTiV3DC8xRqOPbMJXkEW_jEPEoKmWVdTxS-SzAbW6XCPK",
+      "titulo": "Patineta Madera Mediana Skateboard Semi Profesional,Con Diseño 70x20cm y  Lija",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCaGa0Aoa7djZBNhyD8QaTd9OQmtdikzAiBw&s",
+      "original": "https://deportesguerra.com.mx/cdn/shop/files/PatinetaMediano4.png?v=1719976725&width=4000"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/skateboard/nah/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRxX4Mqqw9LjnZeAsCt5QeKsBT23wJj5-Pcw&s",
+      "fuentePagina": "https://mexico-experts.com/producto/skateboard/",
+      "titulo": "Skateboard",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRxX4Mqqw9LjnZeAsCt5QeKsBT23wJj5-Pcw&s",
+      "original": "https://mexico-experts.com/wp-content/uploads/2018/09/shop-1-img-14.jpg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/skateboard/nah/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnjoACKp24tuRiu7iGFF7GUvkMcw3LKxCIEg&s",
+      "fuentePagina": "https://www.skatepro.com.mx/a538.htm?srsltid=AfmBOop1-cmmp3lmUCDhRqZlXFuF11bBnUzvmt9RIFXECkByOMfU9kvg",
+      "titulo": "Guía de compra de tablas de skate | SkatePro",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnjoACKp24tuRiu7iGFF7GUvkMcw3LKxCIEg&s",
+      "original": "https://cdn.skatepro.com/upload/2024/06/skateboard_deck_shapes_4939.jpg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/skateboard/nah/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRw8B9vyyQ72jn1_mStPpkGG5ki_jYyhFES9A&s",
+      "fuentePagina": "https://us.maddgear.com/es/products/madd-31-popsicle-skateboard-munch?srsltid=AfmBOoofNRGujnPJHagqNNiESLU6BhDKLJVZ_LWLNfJ0k5x-7uUStoHH",
+      "titulo": "Madd Gear 31\" Learn to Skate Skateboard Completo - Zootoxin",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRw8B9vyyQ72jn1_mStPpkGG5ki_jYyhFES9A&s",
+      "original": "https://us.maddgear.com/cdn/shop/files/2024MG31INCHLTRSKATEBOARDZOOTOXIN1484x2001WM_1080x.jpg?v=1707768247"
+    }
+  ]
+}

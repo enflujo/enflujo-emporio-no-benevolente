@@ -1,0 +1,71 @@
+{
+  "categoria": "potted plant",
+  "categoriaSlug": "potted-plant",
+  "idioma": "ar",
+  "nombreIdioma": "العربية",
+  "termino": "نبات في وعاء",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:18:34.618Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "ar",
+    "gl": "eg"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=%D9%86%D8%A8%D8%A7%D8%AA%20%D9%81%D9%8A%20%D9%88%D8%B9%D8%A7%D8%A1&hl=ar&gl=eg",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/potted-plant/ar/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzsFA1rEGUxmxaXxsbWkUrz_4LoQOVS_HCeQ&s",
+      "fuentePagina": "https://www.ikea.com/eg/ar/p/klarbaer-plant-pot-with-saucer-in-outdoor-grey-brown-80508429/",
+      "titulo": "KLARBÄR وعاء نباتات مع صحن, داخلي/خارجي رمادي-بني, 15 سم - IKEA",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzsFA1rEGUxmxaXxsbWkUrz_4LoQOVS_HCeQ&s",
+      "original": "https://www.ikea.com/eg/ar/images/products/klarbaer-plant-pot-with-saucer-in-outdoor-grey-brown__1156489_pe887113_s5.jpg?f=s"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/potted-plant/ar/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-A2fiV5S_95G7fWXZzrpr2mlFu35pM6pNkQ&s",
+      "fuentePagina": "https://ar.pngtree.com/so/%D9%85%D9%86-%D9%86%D8%A8%D8%A7%D8%AA-%D9%85%D9%86%D8%B2%D9%84%D9%8A-%D9%81%D9%8A-%D9%88%D8%B9%D8%A7%D8%A1",
+      "titulo": "من نبات منزلي في وعاء PNG الصور | ناقل و PSD الملفات | تحميل ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-A2fiV5S_95G7fWXZzrpr2mlFu35pM6pNkQ&s",
+      "original": "https://png.pngtree.com/png-vector/20240309/ourmid/pngtree-home-plant-in-pot-cutout-png-image_11899655.png"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/potted-plant/ar/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzrl-ynKd4VtkHRWpMf5me3y4X_1p-xrI4Ig&s",
+      "fuentePagina": "https://www.ikea.com/eg/ar/p/foerenlig-plant-pot-in-outdoor-white-40454819/",
+      "titulo": "FÖRENLIG وعاء نباتات - داخلي/خارجي أبيض 24 سم",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzrl-ynKd4VtkHRWpMf5me3y4X_1p-xrI4Ig&s",
+      "original": "https://www.ikea.com/eg/ar/images/products/foerenlig-plant-pot-in-outdoor-white__0817554_pe774233_s5.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/potted-plant/ar/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6d0wJRNdp1W1Wrm3Urch8CxXR0Cj3SRVZ1Q&s",
+      "fuentePagina": "https://kemitt.com/ar-eg/products/6767f25db22cab71b0d445eb?srsltid=AfmBOope_3mIF8xg3jR4PPxbJCM9IfbckPLMgSpNz0XqJtT2jAFVzOYt",
+      "titulo": "Medium Plants Pot, 50 cm, Multiple Colors - KM-EG121-15",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6d0wJRNdp1W1Wrm3Urch8CxXR0Cj3SRVZ1Q&s",
+      "original": "https://images.kemitt.com/img/product/images-1734879184554.jpg?class=Product"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/potted-plant/ar/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYvP2Oz3XbJ_IQoczxc6SD56HXHjIeRpR17w&s",
+      "fuentePagina": "https://ar.pngtree.com/freepng/home-plant-in-pot-isolated-on-transparent-background_15245251.html",
+      "titulo": "نبات المنزل في وعاء معزول على خلفية شفافة, بيت, نبات, وعاء ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYvP2Oz3XbJ_IQoczxc6SD56HXHjIeRpR17w&s",
+      "original": "https://png.pngtree.com/png-clipart/20240604/original/pngtree-home-plant-in-pot-isolated-on-transparent-background-png-image_15245251.png"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/potted-plant/ar/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBKJ5_Pk80FG24udgCQj6sJXw5_NFBCswXDg&s",
+      "fuentePagina": "https://www.ikea.com/eg/ar/p/fraekenvaext-plant-pot-in-outdoor-deep-green-20610873/",
+      "titulo": "FRÄKENVÄXT وعاء نباتات, داخلي/خارجي/أخضر زيتوني, 24 سم - IKEA",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBKJ5_Pk80FG24udgCQj6sJXw5_NFBCswXDg&s",
+      "original": "https://www.ikea.com/eg/ar/images/products/fraekenvaext-plant-pot-in-outdoor-deep-green__1541726_ph207841_s5.jpg?f=s"
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "categoria": "parking meter",
+  "categoriaSlug": "parking-meter",
+  "idioma": "rw",
+  "nombreIdioma": "Kinyarwanda",
+  "termino": "metero y'agari",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T20:48:22.152Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "en",
+    "gl": "rw"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=metero%20y'agari&hl=en&gl=rw",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/parking-meter/rw/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjoub4J2ioLoVB8m3Owwuwvj6PlIUI6Y9cAQ&s",
+      "fuentePagina": "https://igihe.com/amakuru/rwanda/article/rusizi-hakenewe-metero-kibe-zirenga-26-000-z-amazi-ku-munsi",
+      "titulo": "Rusizi: Hakenewe metero kibe zirenga 26.000 z'amazi ku munsi ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjoub4J2ioLoVB8m3Owwuwvj6PlIUI6Y9cAQ&s",
+      "original": "https://igihe.com/IMG/logo/inganda_z_i_rusizi_zitunganya_metero_kube_10_000_z_amazi_mu_gihe_hakenewe_metero_kube_26.000.jpg?1764067831"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/parking-meter/rw/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCW3PeoKU6rrXySG0KHIGmBt702pPo85SSkw&s",
+      "fuentePagina": "https://www.facebook.com/TheAfricanLane/posts/agaroagaro-is-a-town-in-southwestern-ethiopia-located-in-the-jimma-zone-of-the-o/956089976688054/",
+      "titulo": "AGARO Agaro is a town in southwestern Ethiopia, located in ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCW3PeoKU6rrXySG0KHIGmBt702pPo85SSkw&s",
+      "original": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=956089470021438"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/parking-meter/rw/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnNTSuiqkHX0v6VEUAr7L9YSL-6yx5vwL9ig&s",
+      "fuentePagina": "https://www.instagram.com/p/DUIM7ekjBgT/",
+      "titulo": "Mutongoria wa mbutu cia ita Uganda General Muhoozi ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnNTSuiqkHX0v6VEUAr7L9YSL-6yx5vwL9ig&s",
+      "original": "https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3828642195427200017"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/parking-meter/rw/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRP2uCSzFmfI-gY9b5IBYICa89tcqF_-3d7yw&s",
+      "fuentePagina": "https://www.youtube.com/watch?v=RbjHkobSmzk",
+      "titulo": "Muhanga: Uwacukuraga amabuye y'agaciro mu buryo butemewe yagwiriwe  n'ikirombe aheramo.",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRP2uCSzFmfI-gY9b5IBYICa89tcqF_-3d7yw&s",
+      "original": "https://i.ytimg.com/vi/RbjHkobSmzk/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGHIgTCg5MA8=&rs=AOn4CLBuMuzN5fsxNqsKmO11lw_ZxC2oNg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/parking-meter/rw/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHQYP2fTCFX9fBuuNuhzJEsc4W1egL6h-iGQ&s",
+      "fuentePagina": "https://www.instagram.com/p/DVFrXCqluEI/",
+      "titulo": "Rwa_Qatar: Ambasaderi w'u Rwanda muri Qatar, Igor Marara ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHQYP2fTCFX9fBuuNuhzJEsc4W1egL6h-iGQ&s",
+      "original": "https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3839695529769203139"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/parking-meter/rw/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLAFiNsAe5wJpzs5vV6x0DKS1JxI6RqqA6oQ&s",
+      "fuentePagina": "https://www.instagram.com/p/B9qwA7RgDLm/",
+      "titulo": "I. Mwanafunzi agarutse muri studio kubagezaho #AMAKURU11H00 ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLAFiNsAe5wJpzs5vV6x0DKS1JxI6RqqA6oQ&s",
+      "original": "https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3843938566615387532"
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "categoria": "oven",
+  "categoriaSlug": "oven",
+  "idioma": "zh",
+  "nombreIdioma": "中文",
+  "termino": "烤箱",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:25:58.308Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "zh-CN",
+    "gl": "cn"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=%E7%83%A4%E7%AE%B1&hl=zh-CN&gl=cn",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/oven/zh/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7BdNquuAh7rIhkg-FcWtY3yM-ZuHUKeGmcA&s",
+      "fuentePagina": "https://www.euleven.com/products/kbo-sd3008?srsltid=AfmBOorfR-QiGOGftemI2Qw8wJGJwQcnwJXIcSyd9UVvtZpTmpuj-ezI",
+      "titulo": "Kolin 歌林】20L電烤箱KBO-SD3008 - 上下加熱管循環聚能加熱Euleven",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7BdNquuAh7rIhkg-FcWtY3yM-ZuHUKeGmcA&s",
+      "original": "https://cdn1.cybassets.com/media/W1siZiIsIjMzMzIvcHJvZHVjdHMvNDMwNzYwMDAvMTY5ODkxMjkyNF8wZmIxOTFhMWYxY2RkZWJkODAzZi5qcGVnIl0sWyJwIiwidGh1bWIiLCI2MDB4NjAwIl1d.jpeg?sha=3ba8604ee6df9cc5"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/oven/zh/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrGbx8WyrQEChtqZx5jaTqqio2KdxzI94PAg&s",
+      "fuentePagina": "https://consumer.panasonic.cn/product/cooking-appliances/microwave-ovens/micro-steaming-roast/nt-h900.html",
+      "titulo": "NT-H900电烤箱-松下家电",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrGbx8WyrQEChtqZx5jaTqqio2KdxzI94PAg&s",
+      "original": "https://consumer.panasonic.cn/static/upload/image/20221124/1669265700703268.png"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/oven/zh/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6qkF_xlY2xZLVq7DsOBFckUiVh_g6_iSyiQ&s",
+      "fuentePagina": "https://ciao.kitchen/oven/",
+      "titulo": "烘培新手烤箱推薦⟫ 如何挑選烤箱、烤箱使用守則、烤箱實際心得 ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6qkF_xlY2xZLVq7DsOBFckUiVh_g6_iSyiQ&s",
+      "original": "https://ciao.kitchen/wp-content/uploads/2019/06/DSC0727.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/oven/zh/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSO33Z91JpPa-WnoXM3ers_M9fggI90XuYarA&s",
+      "fuentePagina": "https://www.jinkon-polar.com/tw/product-detail/JK-709",
+      "titulo": "烤箱、電烤箱、多功能電烤箱推薦《晶工&普樂》【晶工牌】9L電 ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSO33Z91JpPa-WnoXM3ers_M9fggI90XuYarA&s",
+      "original": "https://www.jinkon-polar.com/upload/product/202401051515300.jpg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/oven/zh/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS06xqEnfuN_5pgK8kd7CeaZ_e8WTvTSx-Oxg&s",
+      "fuentePagina": "https://www.sogo.com.tw/product/021EC0P00000570",
+      "titulo": "飛騰家電飛騰法國原裝多功能烤箱RG08RN黑D | SOGOplus 線上購物",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS06xqEnfuN_5pgK8kd7CeaZ_e8WTvTSx-Oxg&s",
+      "original": "https://d2natqlvzq9fp5.cloudfront.net/App_Images/738/ChannelProduct/20240424/6e420ebd-397e-4215-98ef-418065c912c9.jpg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/oven/zh/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRClb5FajED6Glz0YamrOeLGRJk9XYGDCDe0w&s",
+      "fuentePagina": "https://consumer.panasonic.cn/product/cooking-appliances/oven/nb-nj3201h.html",
+      "titulo": "蒸烤箱-松下家电",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRClb5FajED6Glz0YamrOeLGRJk9XYGDCDe0w&s",
+      "original": "https://consumer.panasonic.cn/static/upload/image/20230107/1673082071215006.png"
+    }
+  ]
+}

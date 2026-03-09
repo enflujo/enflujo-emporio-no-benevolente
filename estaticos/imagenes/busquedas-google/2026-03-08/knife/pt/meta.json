@@ -1,0 +1,71 @@
+{
+  "categoria": "knife",
+  "categoriaSlug": "knife",
+  "idioma": "pt",
+  "nombreIdioma": "Português",
+  "termino": "faca",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:09:08.715Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "pt",
+    "gl": "br"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=faca&hl=pt&gl=br",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/knife/pt/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkJzcXlBkJw-EAkMQxNZNdKp5KQcXPB2mNyA&s",
+      "fuentePagina": "https://www.zakharov.com.br/faca-churrasco-zakharov-gaucha-pata-de-cavalo-10-sc35e-p430?srsltid=AfmBOopWBbJPQ_PqrorMBeEAThktLvkQmN6oaOhwkrtv50mEzKDOj3g0",
+      "titulo": "Faca Churrasco e Cozinha Gaúcha Pata de Cavalo 10\" - Zakharov",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkJzcXlBkJw-EAkMQxNZNdKp5KQcXPB2mNyA&s",
+      "original": "https://d4gcrmj4rvlf3.cloudfront.net/Custom/Content/Products/04/30/0430_faca-churrasco-zakharov-gaucha-pata-de-cavalo-10-sc35e_l6_638416215741483284.webp"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/knife/pt/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRl52kTR8_pzOar1z4p82pe_ZiRfAzIq5Txig&s",
+      "fuentePagina": "https://www.utifacil.com.br/faca-profissional-chef-aco-inoxidavel-8?srsltid=AfmBOoq_bvyHPaso7rDIVXJn-ivepzxL4SEWXlFk-cchEk4R3tdv2uUm",
+      "titulo": "Faca Chef Profissional Aço Inoxidável 8\" Casa Cozinha ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRl52kTR8_pzOar1z4p82pe_ZiRfAzIq5Txig&s",
+      "original": "https://cdn.awsli.com.br/2500x2500/19/19830/produto/27236079/2-pcs--100--sh782oa1t4.png"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/knife/pt/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEQRPZBa_SN6QkC4jELfUJdKGR-8QGxl0OMQ&s",
+      "fuentePagina": "https://www.montecristostore.com.br/acessorios/faca-lamina-inox-cacapesca-cabo-hibrido-full-tang-ht1?srsltid=AfmBOooHMQN2vAM6onBsXFvAShfs4zM7n0LZo5M4_7fgo45vpJx4ym-d",
+      "titulo": "Faca Lâmina Inox Caça/pesca Cabo Hibrido Full Tang - HT1 ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEQRPZBa_SN6QkC4jELfUJdKGR-8QGxl0OMQ&s",
+      "original": "https://images.tcdn.com.br/img/img_prod/694367/faca_lamina_inox_caca_pesca_cabo_hibrido_full_tang_ht1_2909_1_2b9d94a94f2e50f59ca4e3e8816c481f.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/knife/pt/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXltAPqB5T1lk7E1SXrEjQXVHT-LkXLwMI7g&s",
+      "fuentePagina": "https://www.mundodassacolas.net/cutelaria/faca-de-cozinha-8-lamina-de-aco-inoxidavel-sq-2509-cabo-emborrachado-vermelho-com-branco?srsltid=AfmBOoraD4ae7WA15BstKYH4YUFm__B3Jt_arxQmZEX6YdBlqie_MuMx",
+      "titulo": "Faca de Cozinha 8\" Lâmina de Aço Inoxidável SQ-2509 Cabo ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXltAPqB5T1lk7E1SXrEjQXVHT-LkXLwMI7g&s",
+      "original": "https://images.tcdn.com.br/img/img_prod/993134/faca_de_cozinha_8_lamina_de_aco_inoxidavel_sq_2509_cabo_emborrachado_vermelho_com_branco_1420_1_809e5fbb826a37acce8ccd50b49f3a01.jpg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/knife/pt/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAlSOU4Mhjq-9D6SIlS6f8T6a2TVXKcmM1vQ&s",
+      "fuentePagina": "https://www.cutelariaholder.com/facas-para-churrasco/faca-personalizada-churrasco",
+      "titulo": "Faca Artesanal Para Churrasco 10'' Holder, Aço Inox Cirúrgico",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAlSOU4Mhjq-9D6SIlS6f8T6a2TVXKcmM1vQ&s",
+      "original": "https://images.tcdn.com.br/img/img_prod/914928/faca_artesanal_para_churrasco_10_holder_aco_inox_cirurgico_389_1_d8d7a9c989326ccf6287206c5a3adf87_20240205211331.jpg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/knife/pt/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUK_jAGHsROyvt1hal38Zu6nyZOklIEqD8Zw&s",
+      "fuentePagina": "https://www.atacadodolojista.com.br/faca-de-acougueiro-aco-12-rosebrand-16537-7908541702496",
+      "titulo": "Faca de Açougueiro Aço 12 Rosebrand",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUK_jAGHsROyvt1hal38Zu6nyZOklIEqD8Zw&s",
+      "original": "https://images.tcdn.com.br/img/img_prod/1333847/faca_de_acougueiro_aco_12_rosebrand_1un_18261_1_a2f8f3a3e5958cad5a01b3592bd1f2e0.jpg"
+    }
+  ]
+}

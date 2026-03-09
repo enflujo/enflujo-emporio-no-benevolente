@@ -1,0 +1,71 @@
+{
+  "categoria": "remote",
+  "categoriaSlug": "remote",
+  "idioma": "ln",
+  "nombreIdioma": "Lingala",
+  "termino": "télécommande",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:22:50.947Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "fr",
+    "gl": "cd"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=t%C3%A9l%C3%A9commande&hl=fr&gl=cd",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/remote/ln/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuzFE2qM_EoRRbzEmCHlV4uGQy6fJFDxvwZQ&s",
+      "fuentePagina": "https://www.schneiderconsumer.com/fr/produit/telecommande-universelle-noire-3085/",
+      "titulo": "Télécommande universelle noire - 3085",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuzFE2qM_EoRRbzEmCHlV4uGQy6fJFDxvwZQ&s",
+      "original": "https://www.schneiderconsumer.com/app/uploads/2018/08/3085_FAHD.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/remote/ln/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVpOV0gpGZTn7yBrMnp-0ODad54vo-TulVLg&s",
+      "fuentePagina": "https://geemarc.com/fr/product/tv1/",
+      "titulo": "TV1 - Geemarc France",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVpOV0gpGZTn7yBrMnp-0ODad54vo-TulVLg&s",
+      "original": "https://geemarc.com/fr/wp-content/uploads/sites/3/2022/06/TV1_1_bold-scaled.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/remote/ln/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ167yJrgklPWObuUtyjJTVyFWfYAx-nbzQ9Q&s",
+      "fuentePagina": "https://www.meliconi.fr/produit/tlc07-pour-tv-grandin-et-saba/",
+      "titulo": "TLC07+ - (GRANDIN,SABA) - 808028 - Meliconi",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ167yJrgklPWObuUtyjJTVyFWfYAx-nbzQ9Q&s",
+      "original": "https://www.meliconi.fr/wp-content/uploads/2024/02/808028_1.png"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/remote/ln/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvSbhYiYJ0r7Pj7xVMPGFoJu_ONYTnfo51dQ&s",
+      "fuentePagina": "https://www.rueducommerce.fr/p/m24073852986.html",
+      "titulo": "Linq Télécommande universelle Toshiba - Accessoires TV - Rue ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvSbhYiYJ0r7Pj7xVMPGFoJu_ONYTnfo51dQ&s",
+      "original": "https://media.rueducommerce.fr/mktp/product/productImage/3/175/c1c9e4f5f3cb487ebab2ce3081e0ce14.webp"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/remote/ln/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-1WViuxbeoxdp-gai7AZ3X2jI0O3y3tIt4A&s",
+      "fuentePagina": "https://www.walmart.ca/fr/ip/T-l-commande-Universelle-T-l-commande-Universelle-pour-TV-T-l-commande-Tr-s-Polyvalente/39UWKRN6ZIKZ",
+      "titulo": "Télécommande Universelle, Télécommande Universelle pour TV ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-1WViuxbeoxdp-gai7AZ3X2jI0O3y3tIt4A&s",
+      "original": "https://i5.walmartimages.com/asr/f9da8735-f4ee-4075-b26f-df88214ec489_1.b530f5c7892f8e01d18be6bbc74cc81a.jpeg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/remote/ln/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhG1n8TdzpA00Lb5LJmO06rDKmE5A-35Pfsw&s",
+      "fuentePagina": "https://www.amazon.fr/Universelle-Telecommande-pour-TCL-Smart-TV-Vocale-T%C3%A9l%C3%A9commande-Commande-Android/dp/B0DDPVPBJD",
+      "titulo": "Universelle-Telecommande-pour-TCL-Smart-TV, Vocale ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhG1n8TdzpA00Lb5LJmO06rDKmE5A-35Pfsw&s",
+      "original": "https://m.media-amazon.com/images/I/61gObUs3mVL._AC_UF1000,1000_QL80_.jpg"
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "categoria": "car",
+  "categoriaSlug": "car",
+  "idioma": "pt",
+  "nombreIdioma": "Português",
+  "termino": "carro",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T20:42:15.128Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "pt",
+    "gl": "br"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=carro&hl=pt&gl=br",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/car/pt/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6fVh4DuRVp6f4LA4JsaG9ptF1lHnTbx4jMQ&s",
+      "fuentePagina": "https://quatrorodas.abril.com.br/noticias/fiat-mobi-e-o-novo-carro-mais-barato-do-brasil-por-r-64-990/",
+      "titulo": "Fiat Mobi é o novo carro mais barato do Brasil, por R ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6fVh4DuRVp6f4LA4JsaG9ptF1lHnTbx4jMQ&s",
+      "original": "https://quatrorodas.abril.com.br/wp-content/uploads/2024/02/FiatMobiLikeMY245.jpg?quality=70&strip=info"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/car/pt/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpORocZ-UyfvfXOC-1mAAIq_YlWiLAoLMB1A&s",
+      "fuentePagina": "https://blog.autocompara.com.br/carros-esportivos/",
+      "titulo": "Carros esportivos: confira 5 características desses veículos ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpORocZ-UyfvfXOC-1mAAIq_YlWiLAoLMB1A&s",
+      "original": "https://blog.autocompara.com.br/wp-content/uploads/2024/06/carros-esportivos.jpeg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/car/pt/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTK17J-t9gn3K6rInynHWHFlopJyOORpjK7sw&s",
+      "fuentePagina": "https://www.codivechevrolet.com.br/modelos",
+      "titulo": "Todos os Modelos de Carros Chevrolet | Concessionária Codive",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTK17J-t9gn3K6rInynHWHFlopJyOORpjK7sw&s",
+      "original": "https://www.codivechevrolet.com.br/content/dam/chevrolet/sa/br/pt/master/home/cars/onix-plus/myr-2026/showroom/onix-plus-2026-para-showroom.jpg?imwidth=960"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/car/pt/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7ng5vMIO2syNZoMumR5jzRA12B-sAWbJdGA&s",
+      "fuentePagina": "https://br.freepik.com/fotos-vetores-gratis/carro-desenho",
+      "titulo": "Carro desenho Imagens – Download Grátis no Freepik",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7ng5vMIO2syNZoMumR5jzRA12B-sAWbJdGA&s",
+      "original": "https://img.freepik.com/vetores-gratis/modelo-de-adesivo-com-um-carro-vermelho-isolado_1308-61978.jpg?semt=ais_hybrid&w=740&q=80"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/car/pt/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQzyt9o9Pi2R2K3ByqdVC9RKIxkoOEpqAHgg&s",
+      "fuentePagina": "https://blog.sodresantoro.com.br/carro-esportivo/",
+      "titulo": "Saiba tudo sobre carro esportivo aqui no blog Sodré Santoro",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQzyt9o9Pi2R2K3ByqdVC9RKIxkoOEpqAHgg&s",
+      "original": "https://blog.sodresantoro.com.br/wp-content/uploads/2023/04/iStock-1446257941-960x540.jpg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/car/pt/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyKFIfwnk92oGvfLywUX2gLjg-tbqBy767Kg&s",
+      "fuentePagina": "https://www.novoriochevroletaraguaina.com.br/carros",
+      "titulo": "Todos os modelos de Carros Hatch e Sedan | Chevrolet Novo Rio",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyKFIfwnk92oGvfLywUX2gLjg-tbqBy767Kg&s",
+      "original": "https://www.novoriochevroletaraguaina.com.br/content/dam/chevrolet/sa/br/pt/master/home/cars/onix/onix-2026/7-showroom/onix-2026-para-showroom.jpg?imwidth=960"
+    }
+  ]
+}

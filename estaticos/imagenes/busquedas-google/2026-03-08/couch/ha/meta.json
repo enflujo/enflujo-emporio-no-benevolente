@@ -1,0 +1,71 @@
+{
+  "categoria": "couch",
+  "categoriaSlug": "couch",
+  "idioma": "ha",
+  "nombreIdioma": "Hausa",
+  "termino": "sofa",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:17:46.887Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "ha",
+    "gl": "ng"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=sofa&hl=ha&gl=ng",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/couch/ha/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR890TQ9iimhrUShg3HfjScP_SGqnofLnyJTA&s",
+      "fuentePagina": "https://hogfurniture.co/products/6-seater-classic-sofa?srsltid=AfmBOoruJxepJ3_RgjEXjLZzkso6f17PeRo8Ax1Gjeh4g6yzcs3YASIZ",
+      "titulo": "6 Seater Classic Sofa",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR890TQ9iimhrUShg3HfjScP_SGqnofLnyJTA&s",
+      "original": "http://hogfurniture.co/cdn/shop/files/6_Seater_Classic_Sofa_1.jpg?v=1772034037"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/couch/ha/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJZhlgWiCBBrmllrY5RArKlTmTg0nWRc3ZEg&s",
+      "fuentePagina": "https://www.u-buy.com.ng/product/G87WU3BFE-81l-couches-and-sofas-atumon-3-seat-sofa-couch-mid-century-upholstered-sofa-furniture-with-4-metal-legs-and-3-pillows-modern-sofa-for-living-room?srsltid=AfmBOop_9qCSR19yWeOCj5zkiosBH0wAsJ1OlOm0nBMW4wkV6aJ-t7Yf",
+      "titulo": "Atumon 81L 3-Seat Sofa Couch, Mid-Century Nigeria | Ubuy",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJZhlgWiCBBrmllrY5RArKlTmTg0nWRc3ZEg&s",
+      "original": "https://i5.walmartimages.com/seo/81-L-Couches-Sofas-Atumon-3-Seat-Sofa-Couch-Mid-Century-Upholstered-Sofa-Furniture-4-Metal-Legs-3-Pillows-Modern-Sofa-Living-Room-Bedroom-Apartment-8_8d356111-34ac-4481-b571-c53d5b37c096.b6e43cc54fad929c179a6a531b6f4e96.jpeg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/couch/ha/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcrf89aVC4Sjz9ABLcCVszyRE8EyrMGK1PnA&s",
+      "fuentePagina": "https://lusso-living.com/en/products/l-form-nebula",
+      "titulo": "L form Sofa NEBULA – LUSSO - my way of living",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcrf89aVC4Sjz9ABLcCVszyRE8EyrMGK1PnA&s",
+      "original": "https://lusso-living.com/cdn/shop/files/LSLGROLSNBA_6_1024x1024.jpg?v=1736857824"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/couch/ha/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWrCmGrRc-lQra9UnYOMwFF2etnt6lr5wBQA&s",
+      "fuentePagina": "https://www.estre.in/products/salvador-sofa-set?srsltid=AfmBOopG0ce6QEyW2SFG10Ejc4qal0dOaZ2I5j6yZLKUc_aUMZzzp0sr",
+      "titulo": "Buy Now: Estre's Brasilia Sofa - Modern Designs & Customized ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWrCmGrRc-lQra9UnYOMwFF2etnt6lr5wBQA&s",
+      "original": "http://www.estre.in/cdn/shop/files/2-min_d2bc49bf-1893-4118-bab5-8d0848d4d3fb.jpg?v=1743762905"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/couch/ha/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqZtuIDFPa72BrjED8ll4Cgpn1eDZv_GnhQA&s",
+      "fuentePagina": "https://www.u-buy.com.ng/product/54KUWPG0Y-living-room-sofa-set-couch-furniture-tufted-velvet-upholstered-sofa-roll-arm-classic-chesterfield-l-shaped-sofa-set-with-3-pillows-for-living-room?srsltid=AfmBOooaXJcqy2oC8_B4Tuw9W_49flGiJCTW2qrLajRt4iKqRIRs_IAn",
+      "titulo": "Grey Velvet Chesterfield L-Shaped Sofa Set with Roll Arm, 5-Seat, 3 Pillows  for Living Room and Office",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqZtuIDFPa72BrjED8ll4Cgpn1eDZv_GnhQA&s",
+      "original": "https://images-cdn.ubuy.ae/6486c27ad951db0373098f4e-living-room-sofa-set-couch-furniture.jpg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/couch/ha/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNGj3zyYWooi8PKZAVOuyKF-CJH5gFOqGIUw&s",
+      "fuentePagina": "https://www.amazon.in/groovecraft-Ewan-Seater-Modern-Living/dp/B0CYLXLPVW",
+      "titulo": "groovecraft Ewan Wooden 3+2 Seater Modern Comfy Sofa Set for ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNGj3zyYWooi8PKZAVOuyKF-CJH5gFOqGIUw&s",
+      "original": "https://m.media-amazon.com/images/I/81r7H0opcZL._AC_UF894,1000_QL80_.jpg"
+    }
+  ]
+}

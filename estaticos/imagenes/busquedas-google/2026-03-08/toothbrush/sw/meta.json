@@ -1,0 +1,71 @@
+{
+  "categoria": "toothbrush",
+  "categoriaSlug": "toothbrush",
+  "idioma": "sw",
+  "nombreIdioma": "Kiswahili",
+  "termino": "mswaki",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:32:10.553Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "sw",
+    "gl": "tz"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=mswaki&hl=sw&gl=tz",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/toothbrush/sw/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsERtKeHoSk93DSM-tIJnFvrTLZ525NJmkoA&s",
+      "fuentePagina": "https://sw.wikipedia.org/wiki/Mswaki",
+      "titulo": "Mswaki - Wikipedia, kamusi elezo huru",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsERtKeHoSk93DSM-tIJnFvrTLZ525NJmkoA&s",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/1/16/Toothbrush_toothbrush.JPG"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/toothbrush/sw/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTk9Q-jaz33WFgjX3ZIGF-ikb-DB5boJsgbag&s",
+      "fuentePagina": "https://www.facebook.com/EastAfricaTV/posts/mswaki-unapaswa-kutumika-mwisho-muda-gani-kiafya/3904367732910949/",
+      "titulo": "Mswaki unapaswa kutumika mwisho muda gani kiafya?",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTk9Q-jaz33WFgjX3ZIGF-ikb-DB5boJsgbag&s",
+      "original": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=3904367582910964"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/toothbrush/sw/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjP_Uj0a-rmalB5uGHilPgBpy-npZLPiXDyQ&s",
+      "fuentePagina": "https://www.instagram.com/p/CHUeZdmnqZk/",
+      "titulo": "Part 3-Kinywa (mswaki) Kuna mtu mahala sasa hivi katoka ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjP_Uj0a-rmalB5uGHilPgBpy-npZLPiXDyQ&s",
+      "original": "https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=2437706986622519809"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/toothbrush/sw/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-Ke7SUn8VQvil6uKqr0wP-QryoIJOOna8gg&s",
+      "fuentePagina": "https://sw.wikipedia.org/wiki/Mswaki",
+      "titulo": "Mswaki - Wikipedia, kamusi elezo huru",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-Ke7SUn8VQvil6uKqr0wP-QryoIJOOna8gg&s",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Miswak2.jpg/250px-Miswak2.jpg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/toothbrush/sw/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSncR9EFVvwzcMyNcRVQnGMsN9Gp9vOHwqqpA&s",
+      "fuentePagina": "https://www.facebook.com/JamiiForums/posts/afya-kimapokeo-mswaki-ni-kijiti-kibichi-ambacho-kinatoka-kwenye-mti-au-tawi-na-h/1805893696141283/",
+      "titulo": "AFYA: Kimapokeo, mswaki ni kijiti kibichi ambacho kinatoka ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSncR9EFVvwzcMyNcRVQnGMsN9Gp9vOHwqqpA&s",
+      "original": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=1805893506141302"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/toothbrush/sw/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSfhpI59_sswBPswz-zyUjI8qj7nkRxOr8pQ&s",
+      "fuentePagina": "https://sw.islamicbazaar.co.uk/bidhaa/mswaki-wa-asili-meno-ya-asili-36788",
+      "titulo": "Mswaki Asilia, Seti ya Kung'arisha Meno Asilia, 100% Mswaki ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSfhpI59_sswBPswz-zyUjI8qj7nkRxOr8pQ&s",
+      "original": "https://www.islamicbazaar.co.uk/cdn/shop/products/il_fullxfull.2188937361_5bss_3de63409-d858-455b-87af-fabcdd73b951_480x480@2x.jpg?v=1675453310"
+    }
+  ]
+}

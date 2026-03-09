@@ -1,0 +1,71 @@
+{
+  "categoria": "spoon",
+  "categoriaSlug": "spoon",
+  "idioma": "am",
+  "nombreIdioma": "Amharic — አማርኛ",
+  "termino": "ማንኪያ",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:09:27.513Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "am",
+    "gl": "et"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=%E1%88%9B%E1%8A%95%E1%8A%AA%E1%8B%AB&hl=am&gl=et",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/spoon/am/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsmT2t6U-_BUzuSOvVIC0Q8H4j78kNy93OOA&s",
+      "fuentePagina": "https://amharicteacher.com/dictionary/english/%E1%88%9B%E1%8A%95%E1%8A%AA%E1%8B%AB",
+      "titulo": "ማንኪያ (mankiya) meaning in English - Amharic Dictionary",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsmT2t6U-_BUzuSOvVIC0Q8H4j78kNy93OOA&s",
+      "original": "https://d9seco0wfq8yu.cloudfront.net/dict/mankiya.png"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/spoon/am/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTqstf5aYdOpTETuznqlLWeuNpJs02-7t2lA&s",
+      "fuentePagina": "https://www.infullcutlery.com/am/video/products-detail-658464",
+      "titulo": "ለማብሰያ ወይም ለማገልገል ጠንካራ የሾርባ ማንኪያ ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTqstf5aYdOpTETuznqlLWeuNpJs02-7t2lA&s",
+      "original": "https://img001.video2b.com/1287/file_01654739934521.jpg?x-oss-process=image/resize,m_lfit,w_768/format,webp/quality,88"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/spoon/am/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQZrw6wIcuNu5-mLOGtNRNLAGN2tr2y6tMeQ&s",
+      "fuentePagina": "https://aarsunwoods.com/am/product/handmade-wooden-spoon-set/",
+      "titulo": "የእንጨት ማንኪያ ለኩሽና / የእንጨት ስፓታላ",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQZrw6wIcuNu5-mLOGtNRNLAGN2tr2y6tMeQ&s",
+      "original": "https://aarsunwoods.com/wp-content/uploads/2020/10/Wooden-Spoon-Set-For-Kitchen-Wooden-Spatula-B-jpg.webp"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/spoon/am/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRa87Wjm5joOLbfiIiqrg3dPG7tUG53tYmGWg&s",
+      "fuentePagina": "https://aarsunwoods.com/am/product/handmade-wooden-spoon-set/",
+      "titulo": "የእንጨት ማንኪያ ለኩሽና / የእንጨት ስፓታላ",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRa87Wjm5joOLbfiIiqrg3dPG7tUG53tYmGWg&s",
+      "original": "https://aarsunwoods.com/wp-content/uploads/2020/10/Wooden-Spoon-Set-For-Kitchen-Wooden-Spatula-C-jpg.webp"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/spoon/am/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSu3t39Dwk1rRF-e6fbWa0RJakT70YEjXRFTw&s",
+      "fuentePagina": "https://www.infullcutlery.com/am/video/products-detail-658464",
+      "titulo": "ለማብሰያ ወይም ለማገልገል ጠንካራ የሾርባ ማንኪያ ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSu3t39Dwk1rRF-e6fbWa0RJakT70YEjXRFTw&s",
+      "original": "https://img001.video2b.com/1287/file_31654739934521.jpg?x-oss-process=image/resize,m_lfit,w_768/format,webp/quality,88"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/spoon/am/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYzphOc_90l6wJWYn7InwDIf6jY_HBrtC57w&s",
+      "fuentePagina": "https://www.rtkitchenknife.com/am/ruitai-wholesale-premium-stainless-steel-cutlery-set-spoon-fork-knife",
+      "titulo": "Ruitai የጅምላ ፕሪሚየም የማይዝግ ብረት ቆራጭ አዘጋጅ ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYzphOc_90l6wJWYn7InwDIf6jY_HBrtC57w&s",
+      "original": "https://img80003074.weyesimg.com/uploads/www.rtkitchenknife.com//images/16233166096695.jpg?imageView2/2/w/768/q/80/format/webp"
+    }
+  ]
+}

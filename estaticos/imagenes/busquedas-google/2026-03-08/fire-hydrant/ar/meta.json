@@ -1,0 +1,71 @@
+{
+  "categoria": "fire hydrant",
+  "categoriaSlug": "fire-hydrant",
+  "idioma": "ar",
+  "nombreIdioma": "العربية",
+  "termino": "صنبور إطفاء",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T20:47:15.916Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "ar",
+    "gl": "eg"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=%D8%B5%D9%86%D8%A8%D9%88%D8%B1%20%D8%A5%D8%B7%D9%81%D8%A7%D8%A1&hl=ar&gl=eg",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/fire-hydrant/ar/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQj0fBXNB6bpQ6Tg_dVUZQW19ubM7twFpocUQ&s",
+      "fuentePagina": "https://ar.wikipedia.org/wiki/%D8%B5%D9%86%D8%A8%D9%88%D8%B1_%D9%85%D9%8A%D8%A7%D9%87_%D8%AD%D8%B1%D9%8A%D9%82",
+      "titulo": "صنبور مياه حريق - ويكيبيديا",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQj0fBXNB6bpQ6Tg_dVUZQW19ubM7twFpocUQ&s",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/5/5a/Downtown_Charlottesville_fire_hydrant.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/fire-hydrant/ar/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJ5wSieDizbzrAGSbFjB0SrMyJySr-1yHVJA&s",
+      "fuentePagina": "https://www.tvnvalve.com/ar/product/%D8%B5%D9%86%D8%A8%D9%88%D8%B1-%D8%A5%D8%B7%D9%81%D8%A7%D8%A1-%D8%A7%D9%84%D8%AD%D8%B1%D8%A7%D8%A6%D9%82-v554/",
+      "titulo": "صنبور إطفاء الحرائق V554 - TVN Valve & Piping Company",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJ5wSieDizbzrAGSbFjB0SrMyJySr-1yHVJA&s",
+      "original": "https://www.tvnvalve.com/ar/wp-content/uploads/2020/06/V554-FIRE-HYDRANT.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/fire-hydrant/ar/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2TyNmMT0EfzvrgzdUnE8EFPjp6154Ulc7cg&s",
+      "fuentePagina": "https://carewater.solutions/%D8%B5%D9%8A%D8%A7%D9%86%D8%A9-%D8%B5%D9%86%D8%A7%D8%A8%D9%8A%D8%B1-%D8%A5%D8%B7%D9%81%D8%A7%D8%A1-%D8%A7%D9%84%D8%AD%D8%B1%D9%8A%D9%82/",
+      "titulo": "صيانة صنابير إطفاء الحريق - مؤسسة رعاية المياه",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2TyNmMT0EfzvrgzdUnE8EFPjp6154Ulc7cg&s",
+      "original": "https://carewater.solutions/wp-content/uploads/2024/04/%D8%A7%D9%84%D8%B5%D9%8A%D8%A7%D9%86%D8%A9-%D8%A7%D9%84%D8%B6%D8%B1%D9%88%D8%B1%D9%8A%D8%A9-%D9%84%D8%B5%D9%86%D8%A7%D8%A8%D9%8A%D8%B1-%D8%A5%D8%B7%D9%81%D8%A7%D8%A1-%D8%A7%D9%84%D8%AD%D8%B1%D9%8A%D9%82.jpeg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/fire-hydrant/ar/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTChAOvE3LLGyta7UgmqW0_j8hS5ZT61OsNZw&s",
+      "fuentePagina": "https://carewater.solutions/%D8%A3%D8%B3%D8%A7%D8%B3%D9%8A%D8%A7%D8%AA-%D8%B9%D8%A7%D9%85%D8%A9-%D8%B9%D9%86-%D8%B5%D9%86%D8%A8%D9%88%D8%B1-%D8%A5%D8%B7%D9%81%D8%A7%D8%A1-%D8%A7%D9%84%D8%AD%D8%B1%D9%8A%D9%82/",
+      "titulo": "أساسيات عامة عن صنبور إطفاء الحريق - مؤسسة رعاية المياه",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTChAOvE3LLGyta7UgmqW0_j8hS5ZT61OsNZw&s",
+      "original": "https://carewater.solutions/wp-content/uploads/2024/04/%D8%B5%D9%86%D8%A8%D9%88%D8%B1-%D8%A5%D8%B7%D9%81%D8%A7%D8%A1-%D8%A7%D9%84%D8%AD%D8%B1%D9%8A%D9%82-1.jpg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/fire-hydrant/ar/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYEQuqq1nmbtO-rRA8SSNH2RMlvxEwB-esoA&s",
+      "fuentePagina": "https://www.foredesecurity.com/fire-hydrant-system/fire-hydrant/",
+      "titulo": "الصين صنبور النار المصنعين والموردين - صنبور النار بسعر ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYEQuqq1nmbtO-rRA8SSNH2RMlvxEwB-esoA&s",
+      "original": "https://www.foredesecurity.com/uploads/25380/small/2-way-wet-pillar-fire-hydrant51d96.jpg?size=360x0"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/fire-hydrant/ar/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmSreFNmr8LiM8Vp8IiV9_HL-Lq2OonZyzfg&s",
+      "fuentePagina": "https://www.tvnvalve.com/ar/product/%D8%B5%D9%86%D8%A8%D9%88%D8%B1-%D8%A5%D8%B7%D9%81%D8%A7%D8%A1-%D8%A7%D9%84%D8%AD%D8%B1%D8%A7%D8%A6%D9%82-v551/",
+      "titulo": "صنبور إطفاء الحرائق V551 - TVN Valve & Piping Company",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmSreFNmr8LiM8Vp8IiV9_HL-Lq2OonZyzfg&s",
+      "original": "https://www.tvnvalve.com/ar/wp-content/uploads/2020/06/V551-FIRE-HYDRANT.jpg"
+    }
+  ]
+}

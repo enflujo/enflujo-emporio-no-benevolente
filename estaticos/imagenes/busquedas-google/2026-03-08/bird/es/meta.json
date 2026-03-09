@@ -1,0 +1,71 @@
+{
+  "categoria": "bird",
+  "categoriaSlug": "bird",
+  "idioma": "es",
+  "nombreIdioma": "Español",
+  "termino": "pájaro",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T20:50:08.902Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "es",
+    "gl": "es"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=p%C3%A1jaro&hl=es&gl=es",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bird/es/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQ1trPQfRtN1G3Tkzjzy89K-HnpcCBE3nDfg&s",
+      "fuentePagina": "https://culturacientifica.com/2024/04/08/el-pajaro-que-se-comunica-con-un-gesto-simbolico/",
+      "titulo": "El pájaro que se comunica con un gesto simbólico",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQ1trPQfRtN1G3Tkzjzy89K-HnpcCBE3nDfg&s",
+      "original": "https://culturacientifica.com/app/uploads/2024/04/png1.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bird/es/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNQeqs1DuPDaxN05YXwan1XVvFOKWpGqwwLw&s",
+      "fuentePagina": "https://www.shutterstock.com/es/search/p%C3%A1jaro-azul",
+      "titulo": "3,2 millones resultados de imágenes, fotos de stock e ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNQeqs1DuPDaxN05YXwan1XVvFOKWpGqwwLw&s",
+      "original": "https://www.shutterstock.com/image-photo/blue-jay-bird-on-green-260nw-2430565815.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bird/es/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjoByGuJcGxYBLz-1Mmy1Sj2rC0FSmD24YhQ&s",
+      "fuentePagina": "https://verne.elpais.com/verne/2020/01/14/mexico/1578964252_117131.html",
+      "titulo": "El pájaro de Twitter vive en México | Verne México EL PAÍS",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjoByGuJcGxYBLz-1Mmy1Sj2rC0FSmD24YhQ&s",
+      "original": "https://ep01.epimg.net/verne/imagenes/2020/01/14/mexico/1578964252_117131_1578976412_noticia_normal.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bird/es/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSN5GgCeIRvy3o3YVVQEHTlC_Z8cQnL01Xyxw&s",
+      "fuentePagina": "https://www.francesnaturephotography.com/articulo-pajaro-o-ave.html",
+      "titulo": "Pájaro y ave: No es lo mismo ni se escribe igual",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSN5GgCeIRvy3o3YVVQEHTlC_Z8cQnL01Xyxw&s",
+      "original": "https://www.francesnaturephotography.com/img/hero-articulo-pajaro-o-ave-1200.jpg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bird/es/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcReitGAozP8nuO2tL5DHaf32xiv_6pNLIZlsA&s",
+      "fuentePagina": "https://es.pngtree.com/free-png-vectors/p%C3%A1jaro-animado",
+      "titulo": "Pájaro Animado PNG, Dibujos, Vectores Para Descarga Gratuita ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcReitGAozP8nuO2tL5DHaf32xiv_6pNLIZlsA&s",
+      "original": "https://png.pngtree.com/png-vector/20250320/ourmid/pngtree-beautiful-animated-bird-flying-with-colorful-feathers-png-image_15779114.png"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bird/es/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjQqiN42hZBafGRz9-wSDx-BmQ4MUN2sGA5A&s",
+      "fuentePagina": "https://seo.org/ave/pajaro-gato-gris/",
+      "titulo": "Pájaro gato gris - SEO/BirdLife",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjQqiN42hZBafGRz9-wSDx-BmQ4MUN2sGA5A&s",
+      "original": "https://seo.org/wp-content/uploads/2013/11/F400_Foto_01.jpg"
+    }
+  ]
+}

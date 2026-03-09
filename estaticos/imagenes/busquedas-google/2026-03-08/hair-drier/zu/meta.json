@@ -1,0 +1,71 @@
+{
+  "categoria": "hair drier",
+  "categoriaSlug": "hair-drier",
+  "idioma": "zu",
+  "nombreIdioma": "isiZulu",
+  "termino": "isomiso senwele",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:31:46.645Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "zu",
+    "gl": "za"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=isomiso%20senwele&hl=zu&gl=za",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/hair-drier/zu/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSebHUmptbGibWUrY4B36TfdnFbeIg7yzJcQA&s",
+      "fuentePagina": "https://www.youtube.com/watch?v=zzzuyclw0Fc",
+      "titulo": "Indumiso Ye Tende Music Awards - Lelo Simelane - Usibonile",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSebHUmptbGibWUrY4B36TfdnFbeIg7yzJcQA&s",
+      "original": "https://i.ytimg.com/vi/zzzuyclw0Fc/mqdefault.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/hair-drier/zu/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSG9qJQHWLrKV0xzpqR8tRartG0D-_Lftf5uA&s",
+      "fuentePagina": "https://zu.postposmo.com/isomiso/",
+      "titulo": "Isomiso: Kuyini?, Izimpawu, Izinhlobo nokunye",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSG9qJQHWLrKV0xzpqR8tRartG0D-_Lftf5uA&s",
+      "original": "https://www.postposmo.com/wp-content/uploads/2020/06/Sequ%C3%ADa-1.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/hair-drier/zu/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdmfyoOY0o_SuUxTz9juLfh_1yRPAl4w2_FQ&s",
+      "fuentePagina": "https://zu.postposmo.com/isomiso/",
+      "titulo": "Isomiso: Kuyini?, Izimpawu, Izinhlobo nokunye",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdmfyoOY0o_SuUxTz9juLfh_1yRPAl4w2_FQ&s",
+      "original": "https://www.postposmo.com/wp-content/uploads/2020/06/Sequ%C3%ADa-3.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/hair-drier/zu/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJ2xOSF5lz_ymc__XBYU-T4nEAUHD_T0XWTQ&s",
+      "fuentePagina": "https://www.youtube.com/watch?v=x7GbOnkxv9s",
+      "titulo": "Sibonelo Ntshangase | Yimi Nkosi Engikuthintile | Jeppestown Revival",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJ2xOSF5lz_ymc__XBYU-T4nEAUHD_T0XWTQ&s",
+      "original": "https://i.ytimg.com/vi/x7GbOnkxv9s/hq720.jpg?sqp=-oaymwE7CK4FEIIDSFryq4qpAy0IARUAAAAAGAElAADIQj0AgKJD8AEB-AH-CYAC0AWKAgwIABABGBMgQih_MA8=&rs=AOn4CLBHE5KqxmLIa1yzal3QqnBa0_lF0g"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/hair-drier/zu/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_KnzZNhbtoGtFSFsZRDBlSXzYiFt_3uQaiw&s",
+      "fuentePagina": "https://www.pa.org.za/person/sm-dhlomo/",
+      "titulo": "Sibongiseni Maxwell Dhlomo :: People's Assembly",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_KnzZNhbtoGtFSFsZRDBlSXzYiFt_3uQaiw&s",
+      "original": "https://static.pa.org.za/images/Dr_S_Dhlomo.JPG"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/hair-drier/zu/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzEEuMbL7tnqBHRwj3HgJulkha5eWqrTowcw&s",
+      "fuentePagina": "https://zu.postposmo.com/isomiso/",
+      "titulo": "Isomiso: Kuyini?, Izimpawu, Izinhlobo nokunye",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzEEuMbL7tnqBHRwj3HgJulkha5eWqrTowcw&s",
+      "original": "https://www.postposmo.com/wp-content/uploads/2020/06/Sequ%C3%ADa-8.jpg"
+    }
+  ]
+}

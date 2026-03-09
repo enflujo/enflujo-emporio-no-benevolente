@@ -1,0 +1,71 @@
+{
+  "categoria": "stop sign",
+  "categoriaSlug": "stop-sign",
+  "idioma": "nah",
+  "nombreIdioma": "Náhuatl",
+  "termino": "icxitlan señal",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T20:48:07.178Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "es",
+    "gl": "mx"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=icxitlan%20se%C3%B1al&hl=es&gl=mx",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/stop-sign/nah/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzUll_eFuNm1uIXLr7j374rmf-g4SWwuoHYQ&s",
+      "fuentePagina": "https://multisenal.com.mx/categoria-producto/senales-verticales-2/informativas-de-destino-sct/",
+      "titulo": "Señales Informativas de Destino-SCT archivos - Multiseñal SA ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzUll_eFuNm1uIXLr7j374rmf-g4SWwuoHYQ&s",
+      "original": "https://multisenal.com.mx/wp-content/uploads/2022/08/Senalamiento-SID-14-300x300.png"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/stop-sign/nah/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9rKeR6xOOUKiNCEH8jgMwLrEXggZ5PKlGHA&s",
+      "fuentePagina": "https://provialmex.com.mx/senalamientos/senales-informativas-de-destino/",
+      "titulo": "Señales Informativas de Destino (SID) - Provialmex",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9rKeR6xOOUKiNCEH8jgMwLrEXggZ5PKlGHA&s",
+      "original": "https://provialmex.com.mx/wp-content/uploads/2022/09/senales-informativas-de-destino-1024x683.webp"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/stop-sign/nah/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUVXC-paohroWAX7kd_a33AzSo_rv2lwGmyA&s",
+      "fuentePagina": "https://nwn.hamiltonlits.org/s/main/item/695",
+      "titulo": "Icxitlan · New World Nature · New World Nature",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUVXC-paohroWAX7kd_a33AzSo_rv2lwGmyA&s",
+      "original": "https://nwn.hamiltonlits.org/files/large/515edf63bda5e5cff8a57dff8f24c26194e8712b.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/stop-sign/nah/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSeqs3BcoUzzyJ3qm4PgMjQ-5eFUOpQ7tO6Bw&s",
+      "fuentePagina": "https://multisenal.com.mx/categoria-producto/senales-verticales-2/informativas-de-destino-sct/",
+      "titulo": "Señales Informativas de Destino-SCT archivos - Multiseñal SA ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSeqs3BcoUzzyJ3qm4PgMjQ-5eFUOpQ7tO6Bw&s",
+      "original": "https://multisenal.com.mx/wp-content/uploads/2022/08/Senalamiento-SID-15.png"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/stop-sign/nah/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgw6PwmeQKhqOpzXO4-pVhvbXEr6KpEXiFeQ&s",
+      "fuentePagina": "https://roadsigns.com.mx/producto/senal-de-informacion-sis-14/",
+      "titulo": "Señal de información SIS-14 - roadsings",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgw6PwmeQKhqOpzXO4-pVhvbXEr6KpEXiFeQ&s",
+      "original": "https://roadsigns.com.mx/wp-content/uploads/2023/07/sr-23-1-1024x1024.webp"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/stop-sign/nah/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2K29h4tKJYLqones2k12rKyjOZRCCx60QBQ&s",
+      "fuentePagina": "https://udgtv.com/radioudg/colotlan/senal-informativa-colotlan/289",
+      "titulo": "Señal Informativa Colotlán",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2K29h4tKJYLqones2k12rKyjOZRCCx60QBQ&s",
+      "original": "https://blob.udgtv.com/images/2023/09/28/perfil-spotify-senal-informativa-colotlan.jpg"
+    }
+  ]
+}

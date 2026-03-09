@@ -1,0 +1,71 @@
+{
+  "categoria": "sports ball",
+  "categoriaSlug": "sports-ball",
+  "idioma": "yo",
+  "nombreIdioma": "Yorùbá",
+  "termino": "bọọlù",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:01:30.197Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "yo",
+    "gl": "ng"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=b%E1%BB%8D%E1%BB%8Dl%C3%B9&hl=yo&gl=ng",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/sports-ball/yo/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGXUWjOcCEMvS4CNYVtJApgAhfwdK2_2qpAg&s",
+      "fuentePagina": "https://www.facebook.com/gbolahan.oluwakemi/posts/%E1%BB%8Dp%E1%BA%B9-ni-f%C3%BAn-%E1%BB%8Dl%E1%BB%8Dhun-t%C3%B3-se-ibere-gb%C3%ADgb%C3%A1-b%E1%BB%8D%E1%BB%8Dl%C3%B9-%C3%A0l%C3%A1f%E1%BA%B9%CC%81%E1%B9%A3%E1%BA%B9gb%C3%A1-t%C3%B3n%C3%AD-y%C3%A0r%C3%A1-s%C3%AD-y%C3%A0r%C3%A1-inter-c/33822207267366574/",
+      "titulo": "Ọpẹ ni Fún Ọlọhun Tó se Ibere Gbígbá Bọọlù Àláfẹ́ṣẹgbá Tóní ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGXUWjOcCEMvS4CNYVtJApgAhfwdK2_2qpAg&s",
+      "original": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=33822202830700351"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/sports-ball/yo/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZDN1tL_BsS0nMG5572AIt9Wkd3IIHvqCssA&s",
+      "fuentePagina": "https://www.facebook.com/gbolahan.oluwakemi/posts/%E1%BB%8Dp%E1%BA%B9-ni-f%C3%BAn-%E1%BB%8Dl%E1%BB%8Dhun-t%C3%B3-se-ibere-gb%C3%ADgb%C3%A1-b%E1%BB%8D%E1%BB%8Dl%C3%B9-%C3%A0l%C3%A1f%E1%BA%B9%CC%81%E1%B9%A3%E1%BA%B9gb%C3%A1-t%C3%B3n%C3%AD-y%C3%A0r%C3%A1-s%C3%AD-y%C3%A0r%C3%A1-inter-c/33822207267366574/",
+      "titulo": "Ọpẹ ni Fún Ọlọhun Tó se Ibere Gbígbá Bọọlù Àláfẹ́ṣẹgbá Tóní ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZDN1tL_BsS0nMG5572AIt9Wkd3IIHvqCssA&s",
+      "original": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=33822204614033506"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/sports-ball/yo/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSG_PqDSanjZJwUQ9Oz1csEQm3Iehbw9KrujA&s",
+      "fuentePagina": "https://www.bbc.com/yoruba/ere-idaraya-44329528",
+      "titulo": "Nàìjíríà kò na England ri nínú ìdíje bọọlù - BBC News Yorùbá",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSG_PqDSanjZJwUQ9Oz1csEQm3Iehbw9KrujA&s",
+      "original": "http://c.files.bbci.co.uk/B859/production/_101839174_englandvsnigeria.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/sports-ball/yo/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPoB39ELevJ-KzUFa9B2Q7hij9C1T65X3zOQ&s",
+      "fuentePagina": "https://www.bbc.com/yoruba/ere-idaraya-44329528",
+      "titulo": "Nàìjíríà kò na England ri nínú ìdíje bọọlù - BBC News Yorùbá",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPoB39ELevJ-KzUFa9B2Q7hij9C1T65X3zOQ&s",
+      "original": "https://ichef.bbci.co.uk/ace/ws/640/cpsprodpb/1437E/production/_101841828_gettyimages-938873860-3.jpg.webp"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/sports-ball/yo/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTd6BHTx1jwmyZjn3Lq4mw6McSPSB-wkC3MzQ&s",
+      "fuentePagina": "https://www.facebook.com/gbolahan.oluwakemi/posts/%E1%BB%8Dp%E1%BA%B9-ni-f%C3%BAn-%E1%BB%8Dl%E1%BB%8Dhun-t%C3%B3-se-ibere-gb%C3%ADgb%C3%A1-b%E1%BB%8D%E1%BB%8Dl%C3%B9-%C3%A0l%C3%A1f%E1%BA%B9%CC%81%E1%B9%A3%E1%BA%B9gb%C3%A1-t%C3%B3n%C3%AD-y%C3%A0r%C3%A1-s%C3%AD-y%C3%A0r%C3%A1-inter-c/33822207267366574/",
+      "titulo": "Ọpẹ ni Fún Ọlọhun Tó se Ibere Gbígbá Bọọlù Àláfẹ́ṣẹgbá Tóní ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTd6BHTx1jwmyZjn3Lq4mw6McSPSB-wkC3MzQ&s",
+      "original": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=33822202874033680"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/sports-ball/yo/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSMmGvOrEsujMgc1AqATPe1NDyDYthI2Hf5g&s",
+      "fuentePagina": "https://www.bbc.com/yoruba/ere-idaraya-44329528",
+      "titulo": "Nàìjíríà kò na England ri nínú ìdíje bọọlù - BBC News Yorùbá",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSMmGvOrEsujMgc1AqATPe1NDyDYthI2Hf5g&s",
+      "original": "https://ichef.bbci.co.uk/ace/ws/640/cpsprodpb/16A8E/production/_101841829_gettyimages-874115966.jpg.webp"
+    }
+  ]
+}

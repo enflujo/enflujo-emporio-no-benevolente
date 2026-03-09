@@ -1,0 +1,71 @@
+{
+  "categoria": "baseball glove",
+  "categoriaSlug": "baseball-glove",
+  "idioma": "kg",
+  "nombreIdioma": "Kikongo",
+  "termino": "gant",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:03:26.481Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "fr",
+    "gl": "cd"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=gant&hl=fr&gl=cd",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/baseball-glove/kg/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwJAdmvfV-oAPK2v5xYh7_cHAj_ChAs63uvg&s",
+      "fuentePagina": "https://www.solidur.fr/fr/gants/gant-jardin.html?srsltid=AfmBOoqgUA8H76XBEWJsOFH97HbXarJuHlv9zeGkiW93MMiqo7i7KlkF",
+      "titulo": "Gants de jardinage JARDIN",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwJAdmvfV-oAPK2v5xYh7_cHAj_ChAs63uvg&s",
+      "original": "https://www.solidur.fr/1352-large_default/gant-jardin.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/baseball-glove/kg/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqAK3KsbvA1YwHvWKaoeK_vIqrFiAaaLXTEg&s",
+      "fuentePagina": "https://www.aluhome.fr/quincaillerie/16312-gants-de-travail-aluhome.html?srsltid=AfmBOoq8Z_cBpA0e5vjFxF7ZSLCH_DZM3OnMA2HFv0tSkKyTGympdDCh",
+      "titulo": "Gants de travail - Pour les pros et bricoleurs",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqAK3KsbvA1YwHvWKaoeK_vIqrFiAaaLXTEg&s",
+      "original": "https://www.aluhome.fr/19831-large_default/gants-de-travail-aluhome.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/baseball-glove/kg/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSL9Mea9-rbGnoZK08WXAHQxspkW_QwL94QBg&s",
+      "fuentePagina": "https://www.decathlon.ma/p/340853-63591-gants-de-running-tactiles-adulte-kiprun-warm-500-v2-noir.html?srsltid=AfmBOooPysSLnafnKzF4Gsjaz_auYLGlFqcBu7K74PHjAvpnflS3Jd2f",
+      "titulo": "Gants de running tactiles adulte - kiprun warm+ 500 v2 noir ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSL9Mea9-rbGnoZK08WXAHQxspkW_QwL94QBg&s",
+      "original": "https://contents.mediadecathlon.com/p2514040/k$8369b55df6cbf7a3e37c0c415109917d/gants-tactiles-running-noirs.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/baseball-glove/kg/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPYo0_ImTpXc697UTiIE09nDckxHBnZO8kPw&s",
+      "fuentePagina": "https://www.zalando.lu/gant-archive-shield-hoodie-unisex-sweatshirt-evening-blue-ga326k01q-k11.html",
+      "titulo": "GANT ARCHIVE SHIELD HOODIE UNISEX - Sweat à capuche ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPYo0_ImTpXc697UTiIE09nDckxHBnZO8kPw&s",
+      "original": "https://img01.ztat.net/article/spp-media-p1/d52ebf68510d45658f10c25c3e83f473/9ae12d985bfe4851814e2eda40c76211.jpg?imwidth=1800&filter=packshot"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/baseball-glove/kg/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgRVRIlUi6K23a2IDgUSHjjpH4z5oRzQ5x5g&s",
+      "fuentePagina": "https://www.solidur.fr/fr/gants/gants-precision.html?srsltid=AfmBOoovflnN-xa8w6MEpM6zWXh8Dt4wBagWSa-XjrsbxbRPIIJIv06O",
+      "titulo": "Gants de travail multi-usages PRECISION RENFORT",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgRVRIlUi6K23a2IDgUSHjjpH4z5oRzQ5x5g&s",
+      "original": "https://www.solidur.fr/1820-large_default/gants-precision.jpg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/baseball-glove/kg/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJ0jFU5627JOabQdH4QkefwbO1L6rYiLkwig&s",
+      "fuentePagina": "https://www.1000gants.com/boutique/produit/kiruna/",
+      "titulo": "Gants en cuir d'agneau pour homme chauds et élégants",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJ0jFU5627JOabQdH4QkefwbO1L6rYiLkwig&s",
+      "original": "https://www.1000gants.com/app/uploads/2022/09/KIRUNA-GANTS_EN_CUIR_NOIR-GANTS_AGNEAU-GANTS_DOUBLE_LAPIN-GANTS_HOMME-VUE_FACE_DORSALE-600x810.jpg"
+    }
+  ]
+}

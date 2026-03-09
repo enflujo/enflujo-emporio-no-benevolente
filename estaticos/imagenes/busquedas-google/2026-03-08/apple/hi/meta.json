@@ -1,0 +1,71 @@
+{
+  "categoria": "apple",
+  "categoriaSlug": "apple",
+  "idioma": "hi",
+  "nombreIdioma": "हिन्दी",
+  "termino": "सेब",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:11:36.259Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "hi",
+    "gl": "in"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=%E0%A4%B8%E0%A5%87%E0%A4%AC&hl=hi&gl=in",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/apple/hi/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSK9osLeZ51-PGpgOxA2nmtg3Y4cEqEzayNTg&s",
+      "fuentePagina": "https://www.1mg.com/hi/patanjali/benefits-of-apple-in-hindi/?srsltid=AfmBOorA9fQdX_8xuXvmGNtTZjuEXld324eLJwzUcRH_5S5ketknvvY4",
+      "titulo": "Apple Benefits in Hindi- सेब खाने के फायदे व ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSK9osLeZ51-PGpgOxA2nmtg3Y4cEqEzayNTg&s",
+      "original": "https://www.1mg.com/hi/patanjali/wp-content/uploads/2019/02/apple-benefits.png"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/apple/hi/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSedSDB16gtSg-kNOWm4zGiZGbR7B0w-Nf-oQ&s",
+      "fuentePagina": "https://www.amazon.in/-/hi/%E0%A4%A4%E0%A4%BE%E0%A4%9C%E0%A4%BC%E0%A4%BE-%E0%A4%B2%E0%A4%BE%E0%A4%B2-%E0%A4%B8%E0%A5%8D%E0%A4%B5%E0%A4%BE%E0%A4%A6%E0%A4%BF%E0%A4%B7%E0%A5%8D%E0%A4%9F-%E0%A4%B8%E0%A5%87%E0%A4%AC-800g/dp/B07BG79D3S",
+      "titulo": "ताज़ा लाल स्वादिष्ट सेब, 800g, 4 Pcs ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSedSDB16gtSg-kNOWm4zGiZGbR7B0w-Nf-oQ&s",
+      "original": "https://m.media-amazon.com/images/I/81aRkv2DltL.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/apple/hi/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR65KDukjCMrrcKUoq3ugq6Xnoo__CyrwD1pg&s",
+      "fuentePagina": "https://hindi.news18.com/news/lifestyle/apple-benefits-history-and-interesting-facts-of-this-fruit-in-hindi-rada-4540295.html",
+      "titulo": "दुनियाभर में सेब की हैं 7500 से ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR65KDukjCMrrcKUoq3ugq6Xnoo__CyrwD1pg&s",
+      "original": "https://images.news18.com/ibnkhabar/uploads/2022/09/apple-03-16621978833x2.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/apple/hi/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcJkjv-wtWlEkGw4in84-o7QLwltaQQvcKGg&s",
+      "fuentePagina": "https://www.myupchar.com/tips/apple-khane-ke-fayde-hindi-me",
+      "titulo": "Apple Benefits in hindi | सेब के फायदे और सेब ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcJkjv-wtWlEkGw4in84-o7QLwltaQQvcKGg&s",
+      "original": "https://image.myupchar.com/1484/original/apple-khane-ke-fayde-hindi-me-2.jpg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/apple/hi/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUVodMqDNVwsU7HEFPzrAMUq-FR-vYrx3Pmw&s",
+      "fuentePagina": "https://ndtv.in/food/benefits-and-side-effects-of-eating-apple-right-way-and-time-to-consume-apple-seb-khane-ke-fayde-aur-nuksan-9165803",
+      "titulo": "सेब खाने के फायदे और नुकसान, सेवन ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUVodMqDNVwsU7HEFPzrAMUq-FR-vYrx3Pmw&s",
+      "original": "https://c.ndtvimg.com/2025-07/fdii56tk_apple-benefits_650x400_02_July_25.jpg?im=FaceCrop,algorithm=dnn,width=1200,height=738"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/apple/hi/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDsD_45c3dAOjqxGpulAOuE7kSo4RsqfR-fA&s",
+      "fuentePagina": "https://www.aajtak.in/visualstories/agriculture/easy-tips-to-to-increase-apple-production-apple-plants-fruits-ahlbs-225542-15-04-2025",
+      "titulo": "सेब के पौधे में चाहते हैं खूब ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDsD_45c3dAOjqxGpulAOuE7kSo4RsqfR-fA&s",
+      "original": "https://cf-img-a-in.tosshub.com/sites/visualstory/wp/2025/04/Apple-cultivationITG-1744640638736.jpg?size=*:675"
+    }
+  ]
+}

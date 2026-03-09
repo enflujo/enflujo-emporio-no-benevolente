@@ -1,0 +1,71 @@
+{
+  "categoria": "zebra",
+  "categoriaSlug": "zebra",
+  "idioma": "ar",
+  "nombreIdioma": "العربية",
+  "termino": "حمار وحشي",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T20:55:06.693Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "ar",
+    "gl": "eg"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=%D8%AD%D9%85%D8%A7%D8%B1%20%D9%88%D8%AD%D8%B4%D9%8A&hl=ar&gl=eg",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/zebra/ar/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbEEubFFGJjkvkuaxDAa7DcSeWnWEy1y2lbA&s",
+      "fuentePagina": "https://www.independentarabia.com/node/46051/%D8%B5%D8%AD%D8%A9/%D9%83%D9%8A%D9%81-%D8%A8%D9%88%D8%B3%D8%B9-%D8%AD%D9%85%D8%A7%D8%B1-%D8%A7%D9%84%D9%88%D8%AD%D8%B4-%D8%A3%D9%86-%D9%8A%D8%B3%D8%A7%D8%B9%D8%AF-%D8%B5%D8%AD%D9%91%D8%AA%D9%83%D9%85-%D8%A7%D9%84%D8%B9%D9%82%D9%84%D9%8A%D8%A9",
+      "titulo": "كيف بوسع حمار الوحش أن يساعد صحّتكم العقلية | اندبندنت عربية",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbEEubFFGJjkvkuaxDAa7DcSeWnWEy1y2lbA&s",
+      "original": "https://www.independentarabia.com/sites/default/files/styles/1368x911/public/article/mainimage/2019/08/03/82241-695768781.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/zebra/ar/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4VDFoB__VfnBA6Nd5u3s6kxdFXu4BkxvIvQ&s",
+      "fuentePagina": "https://www.instagram.com/p/CQvwgfShwzI/",
+      "titulo": "هناك ثلاثة أنواع من الحمير الوحشية ، الحمار الوحشي السهلي ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4VDFoB__VfnBA6Nd5u3s6kxdFXu4BkxvIvQ&s",
+      "original": "https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=2607516048123432136"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/zebra/ar/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRb2aaLwILNWjo-TB6Zls22QqoLfgC87E2zMA&s",
+      "fuentePagina": "https://www.lebarmy.gov.lb/ar/content/%D8%A3%D8%AA%D8%B9%D8%B1%D9%91%D9%81-%D8%A5%D9%84%D9%89-%D8%B9%D8%A7%D9%84%D9%85%D9%8A-27",
+      "titulo": "أتعرّف إلى عالمي | الموقع الرسمي للجيش اللبناني",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRb2aaLwILNWjo-TB6Zls22QqoLfgC87E2zMA&s",
+      "original": "https://www.lebarmy.gov.lb/sites/default/files/field/images/07_16/mag-373-232.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/zebra/ar/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgFSFNTKvlv26cjn9uMVucaRIxQPuDP1LFNQ&s",
+      "fuentePagina": "https://ar.wikipedia.org/wiki/%D8%AD%D9%85%D8%A7%D8%B1_%D8%A7%D9%84%D8%B2%D8%B1%D8%AF",
+      "titulo": "حمار الزرد - ويكيبيديا",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgFSFNTKvlv26cjn9uMVucaRIxQPuDP1LFNQ&s",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/e/e3/Plains_Zebra_Equus_quagga.jpg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/zebra/ar/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyTVlbSWUT_Myeyhp2gjb-C24zyIeDQZ6Qug&s",
+      "fuentePagina": "https://www.animals-wd.com/%D9%85%D8%A7%D8%B0%D8%A7-%D9%8A%D8%A3%D9%83%D9%84-%D8%A7%D9%84%D8%AD%D9%85%D8%A7%D8%B1-%D8%A7%D9%84%D9%88%D8%AD%D8%B4%D9%8A/",
+      "titulo": "ماذا يأكل الحمار الوحشي - موسوعة عالم الحيوانات",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyTVlbSWUT_Myeyhp2gjb-C24zyIeDQZ6Qug&s",
+      "original": "https://www.animals-wd.com/wp-content/uploads/2018/08/%D8%A7%D9%84%D8%AD%D9%85%D8%A7%D8%B1-%D8%A7%D9%84%D9%88%D8%AD%D8%B4%D9%8A.jpg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/zebra/ar/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3t-Rf_JLh2SG8t1nSoWBzOBS3ggRXMAt_7Q&s",
+      "fuentePagina": "https://safarimallorca.es/ar/%D9%83%D9%84-%D8%A7%D9%84%D8%AD%D9%8A%D9%88%D8%A7%D9%86%D8%A7%D8%AA/%D8%A7%D9%84%D8%AD%D9%85%D8%A7%D8%B1-%D8%A7%D9%84%D9%88%D8%AD%D8%B4%D9%8A/",
+      "titulo": "حمار وحشي - سفاري مايوركا",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3t-Rf_JLh2SG8t1nSoWBzOBS3ggRXMAt_7Q&s",
+      "original": "https://safarimallorca.es/wp-content/uploads/2025/03/12-5.jpg"
+    }
+  ]
+}

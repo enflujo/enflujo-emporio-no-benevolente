@@ -1,0 +1,71 @@
+{
+  "categoria": "cat",
+  "categoriaSlug": "cat",
+  "idioma": "am",
+  "nombreIdioma": "Amharic — አማርኛ",
+  "termino": "ድመት",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T20:50:30.669Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "am",
+    "gl": "et"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=%E1%8B%B5%E1%88%98%E1%89%B5&hl=am&gl=et",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/cat/am/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWEa02-Q36bO_yiAxB4eXlcAnpHy84GiQ0KQ&s",
+      "fuentePagina": "https://am.wiktionary.org/wiki/%E1%8B%B5%E1%88%98%E1%89%B5",
+      "titulo": "ድመት - Wiktionary",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWEa02-Q36bO_yiAxB4eXlcAnpHy84GiQ0KQ&s",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Akrotiri_01-2017_img08_StNicholas_of_the_Cats.jpg/960px-Akrotiri_01-2017_img08_StNicholas_of_the_Cats.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/cat/am/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3CdvXLfQ3iBD5Vfsvt3oG1F6mdwlvAfzZOw&s",
+      "fuentePagina": "https://amharicteacher.com/dictionary/english/%E1%8B%B5%E1%88%98%E1%89%B5",
+      "titulo": "ድመት (dimet) meaning in English - Amharic Dictionary",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3CdvXLfQ3iBD5Vfsvt3oG1F6mdwlvAfzZOw&s",
+      "original": "https://d9seco0wfq8yu.cloudfront.net/dict/dimet.png"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/cat/am/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxqOWbH4IemWX3velAg912GshwUM-WJyO5Sg&s",
+      "fuentePagina": "https://am.wikipedia.org/wiki/%E1%8B%B5%E1%88%98%E1%89%B5",
+      "titulo": "ውክፔዲያ - ድመት",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxqOWbH4IemWX3velAg912GshwUM-WJyO5Sg&s",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Collage_of_Six_Cats-01.jpg/500px-Collage_of_Six_Cats-01.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/cat/am/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1eJOUMYf9T6v_lPSK7u53p696kTIvYXaTGw&s",
+      "fuentePagina": "https://am.wikipedia.org/wiki/%E1%8B%B5%E1%88%98%E1%89%B5",
+      "titulo": "ውክፔዲያ - ድመት",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1eJOUMYf9T6v_lPSK7u53p696kTIvYXaTGw&s",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/June_odd-eyed-cat_cropped.jpg/250px-June_odd-eyed-cat_cropped.jpg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/cat/am/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXsVCzk8PzS5UPgib3RkFrgPeSsoYdgh77vg&s",
+      "fuentePagina": "https://play.google.com/store/apps/details?id=com.ransapps.kittensounds&hl=am",
+      "titulo": "ድመት ድምጾች - መተግባሪያዎች Google Play ላይ",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXsVCzk8PzS5UPgib3RkFrgPeSsoYdgh77vg&s",
+      "original": "https://play-lh.googleusercontent.com/TTDnIMU0rIDkDIqDEmGCYPsmvn7xA436cwOuLpqizLvS-wmOl2Jg8N863paWdslqyS4Z"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/cat/am/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOFBr6IIDTNRUQ_8iIkpEGLbDUjePuurHEow&s",
+      "fuentePagina": "https://www.bbc.com/amharic/45352116",
+      "titulo": "ድመቶች ዝር የማይሉበት የኒውዚላንድ መንደር - BBC ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOFBr6IIDTNRUQ_8iIkpEGLbDUjePuurHEow&s",
+      "original": "http://c.files.bbci.co.uk/16F50/production/_103223049_5adc6293-c9d5-4ea9-93bd-44bdef45d2b4.jpg"
+    }
+  ]
+}

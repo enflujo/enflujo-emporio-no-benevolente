@@ -1,0 +1,71 @@
+{
+  "categoria": "train",
+  "categoriaSlug": "train",
+  "idioma": "qu",
+  "nombreIdioma": "Quechua",
+  "termino": "trinsita",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T20:44:38.041Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "es",
+    "gl": "pe"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=trinsita&hl=es&gl=pe",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/train/qu/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThHby3cCvQrd8kHZAvDaX_O9fGCjKdcBYYaw&s",
+      "fuentePagina": "https://co.pinterest.com/paulita1002010/trenzitas/",
+      "titulo": "85 ideas de Trenzitas ♥️ | peinados con trenzas faciles ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThHby3cCvQrd8kHZAvDaX_O9fGCjKdcBYYaw&s",
+      "original": "https://i.pinimg.com/736x/c3/f0/21/c3f021d4462f37994419f0cac01575e9.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/train/qu/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqzRFK2PdCb1EUKIgNjx5RAKfel6n1P-leBg&s",
+      "fuentePagina": "https://mx.pinterest.com/irmiuxppv1/trenzitas/",
+      "titulo": "12 ideas de Trenzitas | peinados con trenzas cosidas ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqzRFK2PdCb1EUKIgNjx5RAKfel6n1P-leBg&s",
+      "original": "https://i.pinimg.com/736x/07/3d/88/073d888d80f4cc09c03beb5fe8e5c752.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/train/qu/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6_prvKIbPv81nKR36MqYhTeJBorQX-sI9Uw&s",
+      "fuentePagina": "https://co.pinterest.com/jenigalvis/trenzas/",
+      "titulo": "150 ideas de Trenzas | trenzas, trenzas africanas, peinados",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6_prvKIbPv81nKR36MqYhTeJBorQX-sI9Uw&s",
+      "original": "https://i.pinimg.com/736x/a5/48/fa/a548fa1b88a69acb19ff4969111f751d.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/train/qu/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQejYz3ThRojKbwMgRrq_N5QYTCpi5Hn_huLg&s",
+      "fuentePagina": "https://ar.pinterest.com/nanitakorralez/trenzitas/",
+      "titulo": "16 ideas de Trenzitas!!! para guardar hoy | trenzas todo el ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQejYz3ThRojKbwMgRrq_N5QYTCpi5Hn_huLg&s",
+      "original": "https://i.pinimg.com/736x/83/54/6e/83546e3d365e68ba297006262f131e7b.jpg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/train/qu/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSouaGzfKTbogaEPzPgF2yGUjVsaDN8t9xJZw&s",
+      "fuentePagina": "https://www.youtube.com/watch?v=tHANhqnGJDA",
+      "titulo": "VIDEO TUTORIAL TRENZA HILO",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSouaGzfKTbogaEPzPgF2yGUjVsaDN8t9xJZw&s",
+      "original": "https://i.ytimg.com/vi/tHANhqnGJDA/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLDC4UXA_cW0OBOaKWOsf5MUOJAGQg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/train/qu/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXtL7j5pGd1fhTwybavlxw3YNiXqRsTw8-Xw&s",
+      "fuentePagina": "https://co.pinterest.com/paulita1002010/trenzitas/",
+      "titulo": "85 ideas de Trenzitas ♥️ | peinados con trenzas faciles ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXtL7j5pGd1fhTwybavlxw3YNiXqRsTw8-Xw&s",
+      "original": "https://i.pinimg.com/736x/6e/2d/09/6e2d09a6738f65f528ba9dba81594dae.jpg"
+    }
+  ]
+}

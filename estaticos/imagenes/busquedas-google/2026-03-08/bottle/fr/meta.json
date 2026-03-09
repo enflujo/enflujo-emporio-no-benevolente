@@ -1,0 +1,71 @@
+{
+  "categoria": "bottle",
+  "categoriaSlug": "bottle",
+  "idioma": "fr",
+  "nombreIdioma": "Français",
+  "termino": "bouteille",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:06:08.397Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "fr",
+    "gl": "be"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=bouteille&hl=fr&gl=be",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bottle/fr/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCNRck0umsL0oT2YkXAH4tY4NiBp8JZHrsKQ&s",
+      "fuentePagina": "https://fr.wikipedia.org/wiki/Bouteille",
+      "titulo": "Bouteille — Wikipédia",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCNRck0umsL0oT2YkXAH4tY4NiBp8JZHrsKQ&s",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/e/e3/Bouteille.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bottle/fr/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtX23eijZyfGlir9II1GoLRJfBrI7Qnq_U3g&s",
+      "fuentePagina": "https://glassmania.com/be_fr/bouteilles-en-verre/bouteille-a-spiritueux-oblo-50cl.html",
+      "titulo": "Bouteille à spiritueux Oblò 50cl | Glassmania Belgique",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtX23eijZyfGlir9II1GoLRJfBrI7Qnq_U3g&s",
+      "original": "https://glassmania.com/media/catalog/product/cache/c2977421f383e646049de5ab98da7a5c/n/s/nspf50bobl_5.png"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bottle/fr/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZsV2c6dpaz9F0psJ-Col1NoV0zqinjywPJg&s",
+      "fuentePagina": "https://glassmania.com/be_fr/bouteilles-en-verre/bouteille-a-spiritueux-apothicaire-50cl.html",
+      "titulo": "Bouteille à spiritueux Apothicaire 50cl | Glassmania Belgique",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZsV2c6dpaz9F0psJ-Col1NoV0zqinjywPJg&s",
+      "original": "https://glassmania.com/media/catalog/product/cache/2f8a2cbe8eb76902d8836b270861f315/n/s/nspb50bapobal_3.png"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bottle/fr/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJ6TSnezVC1hPavdK0PAMqk3FXnFvEn6sj7w&s",
+      "fuentePagina": "https://www.decashop.be/fr/fra%C3%AEcheur-750ml-verre-to48-transparent",
+      "titulo": "Bouteille jus de fruit - 750 ml verre transparent |",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJ6TSnezVC1hPavdK0PAMqk3FXnFvEn6sj7w&s",
+      "original": "https://www.decashop.be/content/images/thumbs/0000552_fles-fraicheur-750ml-glas-to48-clear.jpeg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bottle/fr/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR99wjahCRoa3wrmWPGWtZ6rvgXQQl4Xf-AFQ&s",
+      "fuentePagina": "https://www.emob.be/fr/bouteille-decorative-verre-vert-large",
+      "titulo": "Bouteille decorative verre vert large",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR99wjahCRoa3wrmWPGWtZ6rvgXQQl4Xf-AFQ&s",
+      "original": "https://www.emob.be/media/catalog/product/cache/53a094445c57bdfaede61de2441adbf7/2/3/23302_1108.jpg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bottle/fr/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7rFrzK9sIgM0c5Ag7_8za3q-RnohrR_559g&s",
+      "fuentePagina": "https://weckenonline.be/bouteille-vide-en-verre-avec-bouchon-a-vis-350-ml.html",
+      "titulo": "Bouteille vide en verre avec bouchon à vis 350 ml ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7rFrzK9sIgM0c5Ag7_8za3q-RnohrR_559g&s",
+      "original": "https://weckenonline.be/media/catalog/product/g/l/glazenfles350mlmetschroefdop.jpg"
+    }
+  ]
+}

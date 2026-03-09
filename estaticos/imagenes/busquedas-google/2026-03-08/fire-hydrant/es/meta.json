@@ -1,0 +1,71 @@
+{
+  "categoria": "fire hydrant",
+  "categoriaSlug": "fire-hydrant",
+  "idioma": "es",
+  "nombreIdioma": "Español",
+  "termino": "hidrante",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T20:47:29.733Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "es",
+    "gl": "es"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=hidrante&hl=es&gl=es",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/fire-hydrant/es/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUlHPA6A_ei5VuRoRf2-_oEgkD4Va3jCLYmA&s",
+      "fuentePagina": "https://extintoreslaunion.com/hidrantes-de-columna-humeda",
+      "titulo": "Hidrantes de columna húmeda | Extintores La Unión Madrid",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUlHPA6A_ei5VuRoRf2-_oEgkD4Va3jCLYmA&s",
+      "original": "https://extintoreslaunion.com/assets/images/shop/hidrantes.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/fire-hydrant/es/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjVjMoGBKdfdm7QwetANoxvn1lg1LZHc8nXg&s",
+      "fuentePagina": "https://extinbur.com/servicios/hidrantes/",
+      "titulo": "Hidrantes | Extinbur Seguridad",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjVjMoGBKdfdm7QwetANoxvn1lg1LZHc8nXg&s",
+      "original": "https://extinbur.com/wp-content/uploads/2021/08/Extinbur_servicios_hidrantes_03.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/fire-hydrant/es/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS99OL4ZenlUdjK8Wo20ewDcz5f-AipM-xAkw&s",
+      "fuentePagina": "https://eaci.es/familia.php?id_fam=18",
+      "titulo": "Hidrantes",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS99OL4ZenlUdjK8Wo20ewDcz5f-AipM-xAkw&s",
+      "original": "https://eaci.es/productos/pro_174_ozdnVyoveq_0.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/fire-hydrant/es/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSVBkh91uGUR5N8jwEupoyJWGRSSJb0sYikQ&s",
+      "fuentePagina": "https://extintorescarlisa.es/hidrantes-contra-incendios/",
+      "titulo": "Qué son los hidrantes contra incendios y qué tipos hay ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSVBkh91uGUR5N8jwEupoyJWGRSSJb0sYikQ&s",
+      "original": "https://extintorescarlisa.es/wp-content/uploads/2021/01/hidrantes-contra-incendios-copia.jpg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/fire-hydrant/es/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJw09z3lXi9PZy8zkWSlVyH3A8XTZy2wIHEw&s",
+      "fuentePagina": "https://www.tecnifuego.org/hidrante-el-equipo-que-suministra-mas-cantidad-de-agua-en-un-incendio-0",
+      "titulo": "HIDRANTE, EL EQUIPO QUE SUMINISTRA MAS CANTIDAD DE AGUA EN ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJw09z3lXi9PZy8zkWSlVyH3A8XTZy2wIHEw&s",
+      "original": "https://www.tecnifuego.org/sites/default/files/2021-06/20150527_1046hidrante_en_urbanizacion_Septiembre_2011_274.JPG"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/fire-hydrant/es/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJAYMpkKyUIfyoYNyFNjlEzcSbbsE_184SPg&s",
+      "fuentePagina": "http://semamcoin.com/diferencias-entre-hidrantes-contra-incendios/",
+      "titulo": "Diferencias entre hidrantes contra incendios. | Semamcoin",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJAYMpkKyUIfyoYNyFNjlEzcSbbsE_184SPg&s",
+      "original": "http://semamcoin.com/wp-content/uploads/2015/11/hidrante.jpg"
+    }
+  ]
+}

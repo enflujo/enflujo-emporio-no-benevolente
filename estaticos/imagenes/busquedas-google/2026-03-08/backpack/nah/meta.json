@@ -1,0 +1,71 @@
+{
+  "categoria": "backpack",
+  "categoriaSlug": "backpack",
+  "idioma": "nah",
+  "nombreIdioma": "Náhuatl",
+  "termino": "mochila",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T20:56:37.199Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "es",
+    "gl": "mx"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=mochila&hl=es&gl=mx",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/backpack/nah/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7keOWaf4OrVGsYRhsy8DCQQ-tWpkaCxAb1A&s",
+      "fuentePagina": "https://www.amazon.com.mx/Mochila-portatil-pulgadas-ordenador-impermeable/dp/B0C4KL1RDK",
+      "titulo": "Mochilas para Mujer Laptop, Mochila de Viaje 15.6 Pulgadas con Puerto USB,  Mochila Escolar Ligera Bolsa de Ordenador Impermeable para la Trabajo ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7keOWaf4OrVGsYRhsy8DCQQ-tWpkaCxAb1A&s",
+      "original": "https://m.media-amazon.com/images/I/71Q0-F7xGsL.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/backpack/nah/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKzfk9QFUdXc3EI-gDmAozsb9BBjMa8LcD1A&s",
+      "fuentePagina": "https://www.delsol.com.mx/mochila-universitaria-gepack-plumbago-2500083476351P?srsltid=AfmBOoqzliGGgKJgmNBlfTYv4PWWfjg7bCfPUHCekqu6vJjteaK6t0E7",
+      "titulo": "Mochila Universitaria Gepack Plumbago | DelSol",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKzfk9QFUdXc3EI-gDmAozsb9BBjMa8LcD1A&s",
+      "original": "https://detqhtv6m6lzl.cloudfront.net/HCLContenido/producto/FullImage/2500083476351-1.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/backpack/nah/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjiuVlIuhYdi1uv11OFlQCxDPra3IzzzbOPA&s",
+      "fuentePagina": "https://chenson.com.mx/products/mochila-grande-1818-unisex-wynn-gris-5?srsltid=AfmBOorPwBDdYvQVkiCSgOE3NlFf3cthOC4oz6lcuHyiDv8gD8nv6t6I",
+      "titulo": "Mochila Grande 1818 Unisex Wynn Gris – Chenson Mexico",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjiuVlIuhYdi1uv11OFlQCxDPra3IzzzbOPA&s",
+      "original": "https://chenson.com.mx/cdn/shop/files/59c6bfa8-86c2-453a-832e-75243b98d384_800x.jpg?v=1710172134"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/backpack/nah/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfKzwIqmQOYG7ULOWHcm_v5xLKGgLApnxg_w&s",
+      "fuentePagina": "https://www.adidas.mx/mochila-classic-3-bar-logo/JI6953.html",
+      "titulo": "Mochila Classic 3 Bar Logo",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfKzwIqmQOYG7ULOWHcm_v5xLKGgLApnxg_w&s",
+      "original": "https://assets.adidas.com/images/w_600,f_auto,q_auto/83e8a50f81c044e69c9d3274af19fb2d_9366/Mochila_Classic_3_Bar_Logo_Negro_JI6953_01_00_standard.jpg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/backpack/nah/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZjtQ8po0RFZsNWLofTXFK8ZGTc0Ia2rzimw&s",
+      "fuentePagina": "https://www.amazon.com.mx/Mochila-Escolar-Kasqo-Resistente-Pulgadas/dp/B09WKY4D8R",
+      "titulo": "Mochila Escolar, Kasqo Mochila clásica Ligera Resistente al Agua de 15,6  Pulgadas para Hombres, Mujeres, Adolescentes, Niñas, Niños a la Escuela, ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZjtQ8po0RFZsNWLofTXFK8ZGTc0Ia2rzimw&s",
+      "original": "https://m.media-amazon.com/images/I/41fxcEc3FsL._AC_SY1000_.jpg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/backpack/nah/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxTD8EDgtuOJlygHE9T3mup8liMV52gEKWdw&s",
+      "fuentePagina": "https://chenson.com.mx/products/mochila-grande-1818-unisex-softy-beige-con-porta-laptop-de-hasta-15?srsltid=AfmBOorV4VQMQV5WbmFOc1Prj5qijyI4Gh8y4zTpz0dnWYynkxsGaNdR",
+      "titulo": "Mochila Grande 1818 Unisex Softy Beige Con Porta Laptop De ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxTD8EDgtuOJlygHE9T3mup8liMV52gEKWdw&s",
+      "original": "https://chenson.com.mx/cdn/shop/files/1866480-E_06_800x.jpg?v=1711061300"
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "categoria": "suitcase",
+  "categoriaSlug": "suitcase",
+  "idioma": "en",
+  "nombreIdioma": "English",
+  "termino": "suitcase",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T20:58:42.736Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "en",
+    "gl": "us"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=suitcase&hl=en&gl=us",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/suitcase/en/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCuauKmxiP2h9CaWVGGy5azT2_Qr96uxripA&s",
+      "fuentePagina": "https://www.next.us/en/style/st145051/c89337",
+      "titulo": "Grey Large Next Suitcase",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCuauKmxiP2h9CaWVGGy5azT2_Qr96uxripA&s",
+      "original": "https://xcdn.next.co.uk/common/items/default/default/itemimages/3_4Ratio/product/lge/C89337s.jpg?im=Resize,width=750"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/suitcase/en/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrEZeteeIjt-aprrzadaUC-jYY4iVSMLVjTA&s",
+      "fuentePagina": "https://www.ebay.com/itm/235249818637",
+      "titulo": "Extra Large 32” Suitcase Lightweight 4 Wheel ABS Hard Shell ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrEZeteeIjt-aprrzadaUC-jYY4iVSMLVjTA&s",
+      "original": "https://i.ebayimg.com/images/g/WK4AAOSwgRhk9cZT/s-l1200.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/suitcase/en/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjhucruqO3oBQCIitGmxQH8LembhtLNG_WhQ&s",
+      "fuentePagina": "https://business.walmart.com/ip/Zimtown-3-Piece-Nested-Spinner-Suitcase-Luggage-Set-With-TSA-Lock-Pink/550114538",
+      "titulo": "Zimtown 3 Piece Nested Spinner Suitcase Luggage Set With TSA ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjhucruqO3oBQCIitGmxQH8LembhtLNG_WhQ&s",
+      "original": "https://i5.walmartimages.com/seo/Zimtown-3-Piece-Nested-Spinner-Suitcase-Luggage-Set-With-TSA-Lock-Pink_776518df-2bd7-42ea-a143-53945de37385.9affe408d3b6f11a22055f9acdec8fe6.jpeg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/suitcase/en/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMBUxkuw5wfmoE8xs0KIiEcSCZDNifHjLPKA&s",
+      "fuentePagina": "https://www.bestproducts.com/lifestyle/a46179010/how-to-pack-a-suitcase/",
+      "titulo": "How to Pack a Suitcase: Tips From Travel Experts",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMBUxkuw5wfmoE8xs0KIiEcSCZDNifHjLPKA&s",
+      "original": "https://hips.hearstapps.com/hmg-prod/images/woman-packing-her-clothes-into-a-suitcase-at-home-royalty-free-image-1703018334.jpg?crop=0.667xw:1.00xh;0.168xw,0&resize=640:*"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/suitcase/en/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSZLovaktbljtk9fcoEbiJZvYr9Qy-OVlZGg&s",
+      "fuentePagina": "https://www.target.com/p/hardside-medium-checked-suitcase-open-story/-/A-88289947",
+      "titulo": "Hardside Medium Checked Suitcase - Open Story™ : Target",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSZLovaktbljtk9fcoEbiJZvYr9Qy-OVlZGg&s",
+      "original": "https://target.scene7.com/is/image/Target/GUEST_eb7c1e4f-c1b9-48a6-80d1-a156d22cd1b0?wid=300&hei=300&fmt=pjpeg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/suitcase/en/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpr6AVj0zWtSNmZVnzVPpRbv0krNWVmjBAqw&s",
+      "fuentePagina": "https://www.awaytravel.com/products/large-jet-black?srsltid=AfmBOoqMEyz3zHTNrzt2LK-X6aP1kVKu2V0vJTZGqKo2-5USDQdBC0bf",
+      "titulo": "The Large in Jet Black",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpr6AVj0zWtSNmZVnzVPpRbv0krNWVmjBAqw&s",
+      "original": "https://www.awaytravel.com/cdn/shop/files/Amazon_PDP_No_Annotations_Large_d2b3e829-a80d-4ae5-964e-7c7d5e3483eb.jpg?v=1753195407&width=2400"
+    }
+  ]
+}

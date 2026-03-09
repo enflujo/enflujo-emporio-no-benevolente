@@ -1,0 +1,71 @@
+{
+  "categoria": "skateboard",
+  "categoriaSlug": "skateboard",
+  "idioma": "es",
+  "nombreIdioma": "Español",
+  "termino": "patineta",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:04:33.469Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "es",
+    "gl": "es"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=patineta&hl=es&gl=es",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/skateboard/es/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSh9N63MGgiMlX3UxEqvcaPvYn5IwKW5-j8GA&s",
+      "fuentePagina": "https://www.amazon.es/Skateboard-Patinetas-Monopatin-Completo-Principiantes/dp/B09JSW8RVN",
+      "titulo": "Skateboard 70×20 cm Patinetas de Trucos Monopatin Completo ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSh9N63MGgiMlX3UxEqvcaPvYn5IwKW5-j8GA&s",
+      "original": "https://m.media-amazon.com/images/I/61MCt6AEyvL._AC_UF894,1000_QL80_.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/skateboard/es/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSy6wSWRXrJX_6lz3IFnI0DeMVGIShI2IaY_g&s",
+      "fuentePagina": "https://www.tiendalove.com.ar/productos/skate-patineta-28-art-22-tienda-love/?srsltid=AfmBOorc0aaBf2jp9fPErD5S1j-IpCI7SoPPuKztfPypX1zObSLwx7Yb",
+      "titulo": "Patineta 28\" Art. 22 Love - Comprar en Love",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSy6wSWRXrJX_6lz3IFnI0DeMVGIShI2IaY_g&s",
+      "original": "https://acdn-us.mitiendanube.com/stores/597/843/products/dsc_65091-cc55c30ce8ac64a1c816644751462198-1024-1024.webp"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/skateboard/es/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgbmMb72n_vgFX2xmHjMfJ4rpbFiCyM2bOWQ&s",
+      "fuentePagina": "https://www.amazon.es/Patineta-Principiantes-Profesional-Adolescentes-Deportivos/dp/B0D7VB82BV",
+      "titulo": "Patineta, patineta para Principiantes, patineta Profesional Completa de 31  Pulgadas, Adecuada para Patines estándar para Adultos y Adolescentes, ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgbmMb72n_vgFX2xmHjMfJ4rpbFiCyM2bOWQ&s",
+      "original": "https://m.media-amazon.com/images/I/518btYzvogL._AC_UF894,1000_QL80_.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/skateboard/es/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWRvXTw-BOWSI7yNJPc1kxFXjiqyt-0pDNkQ&s",
+      "fuentePagina": "https://ecoflybikes.com/product/patineta-electrica-v10-plus-2000w/",
+      "titulo": "Patineta Eléctrica V10 Plus 2000W - Ecofly Bikes",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWRvXTw-BOWSI7yNJPc1kxFXjiqyt-0pDNkQ&s",
+      "original": "https://ecoflybikes.com/wp-content/uploads/2024/04/Sin-titulo-1_0003_Capa-1-copia-2-600x600.jpg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/skateboard/es/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS457OtAk8MzducB3ev0imsNErppPBQoY-t2Q&s",
+      "fuentePagina": "https://www.shutterstock.com/es/search/patinetas",
+      "titulo": "695 mil resultados de imágenes, fotos de stock e ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS457OtAk8MzducB3ev0imsNErppPBQoY-t2Q&s",
+      "original": "https://www.shutterstock.com/image-photo/black-skateboard-green-wheels-isolated-260nw-2642891077.jpg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/skateboard/es/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcReChJwOXHaM6o5hqwQaEBGEyJa5s_tcgVccg&s",
+      "fuentePagina": "https://www.amazon.es/meteor-Monopat%C3%ADn-pl%C3%A1stico-Skateboard-Completo/dp/B08BPBFD65",
+      "titulo": "meteor Monopatín Retro plástico Skateboard Completo Patineta para Niños  Jóvenes Adultos : Amazon.es: Deportes y aire libre",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcReChJwOXHaM6o5hqwQaEBGEyJa5s_tcgVccg&s",
+      "original": "https://m.media-amazon.com/images/I/71QGpCBYU6L._AC_UF894,1000_QL80_.jpg"
+    }
+  ]
+}

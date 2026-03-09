@@ -1,0 +1,71 @@
+{
+  "categoria": "person",
+  "categoriaSlug": "person",
+  "idioma": "pt",
+  "nombreIdioma": "Português",
+  "termino": "pessoa",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T20:40:56.803Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "pt",
+    "gl": "br"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=pessoa&hl=pt&gl=br",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/person/pt/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJjwvjndxQFsrZ_s7AhJV6I1RXnA2g5hy9mg&s",
+      "fuentePagina": "https://www.psicologo.com.br/blog/sou-uma-pessoa-boa-quando-acho-que-nao-sou-uma-boa-pessoa/",
+      "titulo": "Você se reconhece como uma boa pessoa?",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJjwvjndxQFsrZ_s7AhJV6I1RXnA2g5hy9mg&s",
+      "original": "https://www.psicologo.com.br/wp-content/uploads/sou-uma-pessoa-boa-ou-nao.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/person/pt/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNfTkosk_XISYGUe8YAUWMrv0kcP5a4YMcVQ&s",
+      "fuentePagina": "https://br.freepik.com/fotos/pessoa-rosto",
+      "titulo": "Fotos de Pessoa rosto - Baixe fotos grátis de alta qualidade ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNfTkosk_XISYGUe8YAUWMrv0kcP5a4YMcVQ&s",
+      "original": "https://img.freepik.com/fotos-gratis/retrato-de-homem-branco-isolado_53876-40306.jpg?semt=ais_hybrid&w=740&q=80"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/person/pt/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvbXEVInE0E3Y2H6WCxAyoSLkhkHdC-eUsNw&s",
+      "fuentePagina": "https://www.significados.com.br/pessoa/",
+      "titulo": "O que é uma pessoa (conceito e definição) - Significados",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvbXEVInE0E3Y2H6WCxAyoSLkhkHdC-eUsNw&s",
+      "original": "https://static.significados.com.br/foto/pessoa-og.jpg?class=ogImageWide"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/person/pt/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7d3DpbK7RjT37eIT9xuR2Eft5met7w2EiFw&s",
+      "fuentePagina": "https://fastcompanybrasil.com/worklife/quer-ser-mais-feliz-confira-5-habitos-para-adotar-ainda-hoje/",
+      "titulo": "Quer ser mais feliz? Confira 5 hábitos para adotar ainda ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7d3DpbK7RjT37eIT9xuR2Eft5met7w2EiFw&s",
+      "original": "https://fastcompanybrasil.com/wp-content/uploads/2025/05/quer-ser-mais-feliz-confira-5habitos-para-adotar-ainda-hoje.jpg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/person/pt/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMvUnYHdQ1Tan2JJmGOI0QhQxBBD2lK2vcow&s",
+      "fuentePagina": "https://psicoter.com.br/pessoa-mais-flexivel/",
+      "titulo": "10 PASSOS PARA SER UMA PESSOA MAIS FLEXÍVEL – Psicoter",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMvUnYHdQ1Tan2JJmGOI0QhQxBBD2lK2vcow&s",
+      "original": "https://psicoter.com.br/wp-content/uploads/2019/01/pessoa-flexivel-seja-mais-flexivel.jpg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/person/pt/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9LuNuBaUDTd9GyPVX8M2rgRa7ltwlP1vXxQ&s",
+      "fuentePagina": "https://www.infomoney.com.br/carreira/os-11-segredos-de-pessoas-irresistiveis/",
+      "titulo": "Os 11 segredos de pessoas irresistíveis",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9LuNuBaUDTd9GyPVX8M2rgRa7ltwlP1vXxQ&s",
+      "original": "https://www.infomoney.com.br/wp-content/uploads/2019/06/pessoa-feliz.jpg?fit=900%2C600&quality=50&strip=all"
+    }
+  ]
+}

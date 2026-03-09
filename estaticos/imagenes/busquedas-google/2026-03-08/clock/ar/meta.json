@@ -1,0 +1,71 @@
+{
+  "categoria": "clock",
+  "categoriaSlug": "clock",
+  "idioma": "ar",
+  "nombreIdioma": "العربية",
+  "termino": "ساعة",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:29:02.963Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "ar",
+    "gl": "eg"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=%D8%B3%D8%A7%D8%B9%D8%A9&hl=ar&gl=eg",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/clock/ar/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTAKrdSJAhL_q1afnpDfu7UpygWbF6kR-Rdw&s",
+      "fuentePagina": "https://ar.wikipedia.org/wiki/%D8%B3%D8%A7%D8%B9%D8%A9_(%D9%88%D8%AD%D8%AF%D8%A9)",
+      "titulo": "ساعة (وحدة) - ويكيبيديا",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTAKrdSJAhL_q1afnpDfu7UpygWbF6kR-Rdw&s",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/8/8a/AnalogClockAnimation1_2hands_1h_in_6sec.gif"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/clock/ar/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMrAapoHLo35Y665XAU5BvkUWwqPtTysdywg&s",
+      "fuentePagina": "https://www.pinterest.com/pin/264656915593021268/",
+      "titulo": "ساعة, مشاهدة, الوقت PNG تنزيل ، ساعة صور متجهة ، ملفات PSD ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMrAapoHLo35Y665XAU5BvkUWwqPtTysdywg&s",
+      "original": "https://i.pinimg.com/736x/dc/d4/54/dcd4542f62a0ff79afcd4b00e7287e44.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/clock/ar/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIF1SOC1rW27Cr7WUqEgnvTTvELMEUaPMhkA&s",
+      "fuentePagina": "https://play.google.com/store/apps/details?id=com.egert.clock&hl=ar",
+      "titulo": "Clock - التطبيقات على Google Play",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIF1SOC1rW27Cr7WUqEgnvTTvELMEUaPMhkA&s",
+      "original": "https://play-lh.googleusercontent.com/QhSOBvBkjPfqq__qMsyHObSD8Ys_w_WpqAISSkwJjZTyK3a6ibNSVL0o2nfqKAhDhA"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/clock/ar/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOXqv4P7eDYvlGkwE7rkD74gxFPxhLKaosdg&s",
+      "fuentePagina": "https://www.ikea.com/eg/ar/p/pluttis-wall-clock-red-30540851/",
+      "titulo": "PLUTTIS ساعة حائط, أحمر, 28 سم - IKEA",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOXqv4P7eDYvlGkwE7rkD74gxFPxhLKaosdg&s",
+      "original": "https://www.ikea.com/eg/ar/images/products/pluttis-wall-clock-red__1013097_pe829051_s5.jpg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/clock/ar/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRoARohxc5j_1lSynD_RYKHVQUmal-i6QZGA&s",
+      "fuentePagina": "https://manuals.plus/ar/hama/00-186411-wall-clock-manual",
+      "titulo": "هاما 00 186411 كتيب تعليمات ساعة الحائط",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRoARohxc5j_1lSynD_RYKHVQUmal-i6QZGA&s",
+      "original": "https://manuals.plus/wp-content/uploads/2022/12/hama-00-186411-Wall-Clock.png"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/clock/ar/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqQyxpB8o88YNl3MHremi7ZFy-lxujWGVBJQ&s",
+      "fuentePagina": "https://coomowatches.com/ar/%D8%B3%D8%A7%D8%B9%D8%A9-%D9%8A%D8%AF-%D8%AC%D9%84%D8%AF-%D9%84%D9%88%D9%86-%D8%A8%D9%86%D9%8A-%D8%B1%D8%AC%D8%A7%D9%84%D9%8A%D8%A9/p1577473924",
+      "titulo": "ساعة يد جلد لون بني رجالية | بخصم 70% - كومو للساعات - افضل ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqQyxpB8o88YNl3MHremi7ZFy-lxujWGVBJQ&s",
+      "original": "https://cdn.salla.sa/gGPZZ/Gp5b0I9MwLP7zOeirRRsuH29DvbupfmAHhMA5Pn1.jpg"
+    }
+  ]
+}

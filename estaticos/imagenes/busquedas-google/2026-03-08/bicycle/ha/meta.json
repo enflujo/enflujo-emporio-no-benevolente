@@ -1,0 +1,71 @@
+{
+  "categoria": "bicycle",
+  "categoriaSlug": "bicycle",
+  "idioma": "ha",
+  "nombreIdioma": "Hausa",
+  "termino": "keke",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T20:41:13.630Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "ha",
+    "gl": "ng"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=keke&hl=ha&gl=ng",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bicycle/ha/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfB1BwE9eWqetW8EZg_HE6jYKbHSSW9y0Mzw&s",
+      "fuentePagina": "https://en.wikipedia.org/wiki/Keke_Palmer",
+      "titulo": "Keke Palmer - Wikipedia",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfB1BwE9eWqetW8EZg_HE6jYKbHSSW9y0Mzw&s",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/4/47/Keke_Palmer_at_Essence_Festival_of_Culture_2025_cropped.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bicycle/ha/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLV2r_1CwnGl1XPsfxtQVsbpu143N5yBdi-w&s",
+      "fuentePagina": "https://naseni.gov.ng/naseni-electric-keke/",
+      "titulo": "NASENI Electric KEKE – Naseni",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLV2r_1CwnGl1XPsfxtQVsbpu143N5yBdi-w&s",
+      "original": "https://naseni.gov.ng/wp-content/uploads/2024/07/electric-keke-no-bg.png"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bicycle/ha/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJqtBUXW5_Czf4ne4STds0LgfCAufP9ekkYw&s",
+      "fuentePagina": "https://www.nbc.com/nbc-insider/keke-palmer-real-name",
+      "titulo": "Keke Palmer's Real Name Is Nothing Like Her Stage Moniker",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJqtBUXW5_Czf4ne4STds0LgfCAufP9ekkYw&s",
+      "original": "https://www.nbc.com/sites/nbcblog/files/styles/scale_862/public/2025/01/keke-palmer.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bicycle/ha/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfLKeUUOa3Z4qw47nXIdGNcDCPTgdgrKIWIg&s",
+      "fuentePagina": "https://www.cosmopolitan.com/entertainment/music/a65078100/keke-palmer-just-keke-interview-2025/",
+      "titulo": "Keke Palmer Spills Tea On SZA & Proves She’s The Ultimate Bestie",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfLKeUUOa3Z4qw47nXIdGNcDCPTgdgrKIWIg&s",
+      "original": "https://hips.hearstapps.com/hmg-prod/images/keke-10-jpg-68531674c6f29.jpg?crop=1xw:0.4500458061889251xh;0,0.0308xh"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bicycle/ha/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFJq2rhBgUJADd3Nu1LagT-tr0HAAtrD8clw&s",
+      "fuentePagina": "https://www.deezer.com/en/artist/66093",
+      "titulo": "Keke Palmer: albums, songs, concerts | Deezer",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFJq2rhBgUJADd3Nu1LagT-tr0HAAtrD8clw&s",
+      "original": "https://cdn-images.dzcdn.net/images/artist/3d275c49a62b6adeb44fac2dd01c312d/1900x1900-000000-80-0-0.jpg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bicycle/ha/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTd7t-P3Sq9YWUliz9XEhE1wQyH_3LyM1NkIA&s",
+      "fuentePagina": "https://www.parents.com/keke-palmer-is-a-good-vibe-11784923",
+      "titulo": "Keke Palmer Is a Good Vibe",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTd7t-P3Sq9YWUliz9XEhE1wQyH_3LyM1NkIA&s",
+      "original": "https://www.parents.com/thmb/xIlSxE57bj8vdXVmIn9rxb3DteM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-2209366955-c1082f43cf3e4192b6a9e5c2d80a73ef.jpg"
+    }
+  ]
+}

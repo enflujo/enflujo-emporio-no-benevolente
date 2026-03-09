@@ -1,0 +1,71 @@
+{
+  "categoria": "giraffe",
+  "categoriaSlug": "giraffe",
+  "idioma": "zu",
+  "nombreIdioma": "isiZulu",
+  "termino": "indlulamithi",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T20:55:41.176Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "zu",
+    "gl": "za"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=indlulamithi&hl=zu&gl=za",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/giraffe/zu/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3uxzYaQFLOzK4_zijwP1WMP8LqKvG8AAoWQ&s",
+      "fuentePagina": "https://zu.wikipedia.org/wiki/Indlulamithi",
+      "titulo": "Indlulamithi - Wikipedia",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3uxzYaQFLOzK4_zijwP1WMP8LqKvG8AAoWQ&s",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/9/9f/Giraffe_standing.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/giraffe/zu/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRprswd_5Ot8P7uD4A7JOXjChfRuGPNdBeC_w&s",
+      "fuentePagina": "https://www.facebook.com/ISIZULU101/posts/indlulamithi-giraffethe-isizulu-word-for-a-giraffe-is-indlulamithimorphologicall/4939554142830501/",
+      "titulo": "INDLULAMITHI / GIRAFFE The isiZulu word for a giraffe is ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRprswd_5Ot8P7uD4A7JOXjChfRuGPNdBeC_w&s",
+      "original": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=4939554079497174"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/giraffe/zu/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpQ8b2oHQjBMBeUkueoQkcq6jZmdg9dkYzaw&s",
+      "fuentePagina": "https://thandablog.com/2016/02/06/indlulamithi/",
+      "titulo": "Indlulamithi – As tall as a tree … |",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpQ8b2oHQjBMBeUkueoQkcq6jZmdg9dkYzaw&s",
+      "original": "https://thandablog.com/wp-content/uploads/2016/02/20160131-cs2_5430-t.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/giraffe/zu/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQoJLr1AA24dLjpKl9mSuvguQqLqk8-ed4IlQ&s",
+      "fuentePagina": "https://www.instagram.com/p/DF4greBKyZC/",
+      "titulo": "I just love the isiZulu name for giraffes - indlulamithi ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQoJLr1AA24dLjpKl9mSuvguQqLqk8-ed4IlQ&s",
+      "original": "https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3564742811081838439"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/giraffe/zu/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWh4T4ogtWGEGAKyIBb06jxXZ3dZsTjEvo1A&s",
+      "fuentePagina": "https://www.qualibooks.co.za/bookstore/non-fiction/indlulamithi-ingazikhotha-yini-idlebe/?srsltid=AfmBOor3it7h2NBpTwujp8H3_P21toippSPOVnnGrAGYFuUsGZDGIkWH",
+      "titulo": "Indlulamithi ingazikhotha yini idlebe?",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWh4T4ogtWGEGAKyIBb06jxXZ3dZsTjEvo1A&s",
+      "original": "https://www.qualibooks.co.za/wp-content/uploads/2023/10/9781775612377_cover.jpg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/giraffe/zu/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS01N7eQXam_Wmy8GC2u50eNAc3hxCavKLHDg&s",
+      "fuentePagina": "https://indlulamithi.org.za/resources/indlulamithi-scenarios-2035/",
+      "titulo": "Indlulamithi Scenarios 2035 – Indlulamithi",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS01N7eQXam_Wmy8GC2u50eNAc3hxCavKLHDg&s",
+      "original": "https://cdn-ilbhhfh.nitrocdn.com/VHadlRuAUoPWUWHRKWGmbjoRXRWtBBFC/assets/images/optimized/rev-1fd4b2b/indlulamithi.org.za/wp-content/uploads/2023/11/Weaver-Colour-Mobile-uai-550x550.jpg"
+    }
+  ]
+}

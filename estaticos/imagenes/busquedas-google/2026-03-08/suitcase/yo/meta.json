@@ -1,0 +1,71 @@
+{
+  "categoria": "suitcase",
+  "categoriaSlug": "suitcase",
+  "idioma": "yo",
+  "nombreIdioma": "Yorùbá",
+  "termino": "ẹrù",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T20:58:56.493Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "yo",
+    "gl": "ng"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=%E1%BA%B9r%C3%B9&hl=yo&gl=ng",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/suitcase/yo/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHpAJEb9oXqlbKh7V4MllVIu8xyWq_mwWG7A&s",
+      "fuentePagina": "https://yo.wikipedia.org/wiki/Ile_%E1%BA%B8r%C3%B9",
+      "titulo": "Ile Ẹrù - Wikipedia, ìwé-ìmọ̀ ọ̀fẹ́",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHpAJEb9oXqlbKh7V4MllVIu8xyWq_mwWG7A&s",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/A_local_barn.jpg/250px-A_local_barn.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/suitcase/yo/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXZ2gkB8gliG0CeWP_LMA3jhJKKqqJ2KYKYQ&s",
+      "fuentePagina": "https://www.facebook.com/groups/3780190418678055/posts/25419045994365852/",
+      "titulo": "Ẹrù kò ní pa òṣùká, ẹlẹ́rù ni ẹrù á pa. #Translation: The ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXZ2gkB8gliG0CeWP_LMA3jhJKKqqJ2KYKYQ&s",
+      "original": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=4185667215011386"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/suitcase/yo/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHf5UPkYBIvt2OKdUN8yMtGjAPx8hWR1eRdw&s",
+      "fuentePagina": "https://www.tonlexing.com/yo/%E1%BA%B9ru-okun-vs-%E1%BA%B9ru-%E1%BB%8Dk%E1%BB%8D/",
+      "titulo": "Ẹrù Òkun àti Ẹrù Afẹ́fẹ́: Iye owó, Àkókò Ìrìnàjò & Èwo Ni A Yàn",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHf5UPkYBIvt2OKdUN8yMtGjAPx8hWR1eRdw&s",
+      "original": "https://www.tonlexing.com/wp-content/uploads/2026/01/Sea-Freight-vs-Air-Freight-Costs-Transit-Times-and-How-to-Choose-in-2026.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/suitcase/yo/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8tj931i1Exur7rIQ-k_wfEvrXSGaKqjLXFA&s",
+      "fuentePagina": "https://www.tonlexing.com/yo/%E1%BA%B8r%C3%B9-%E1%BB%8Dk%E1%BB%8D%CC%80-%C3%B2f%C3%BAruf%C3%BA-l%C3%A1ti-guangzhou-can-s%C3%AD-chicago-ord/",
+      "titulo": "Ẹrù ọkọ̀ òfurufú láti Guangzhou (CAN) sí Chicago (ORD): Owó ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8tj931i1Exur7rIQ-k_wfEvrXSGaKqjLXFA&s",
+      "original": "https://www.tonlexing.com/wp-content/uploads/2026/02/Air-Freight-from-Guangzhou-CAN-to-Chicago-ORD.jpg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/suitcase/yo/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYVpOXIM-85ClDgJNXf47xmVlQV5v72-6Hxw&s",
+      "fuentePagina": "https://www.crawlerundercarriage.com/yo/steel-track-undercarriage-with-5-60-tons-load-capacity-for-drilling-rig-crusher-excavator-industrial-machinery-product/",
+      "titulo": "Ẹrù ọkọ̀ abẹ́ ilẹ̀ China pẹ̀lú agbára ẹrù tó tó tọ́ọ̀nù 5-60 ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYVpOXIM-85ClDgJNXf47xmVlQV5v72-6Hxw&s",
+      "original": "https://www.crawlerundercarriage.com/uploads/8-tons-drilling-rig-undercarriage.jpg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/suitcase/yo/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0gIdkahVQ6zAeTF2M6xztXi7nVdXcED995Q&s",
+      "fuentePagina": "https://www.crawlerundercarriage.com/yo/rubber-track-undercarriage-customized-by-yijiang-company-product/",
+      "titulo": "Ẹrù abẹ́ ilẹ̀ ọkọ̀ roba ti China tí ilé-iṣẹ́ Yijiang ṣe ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0gIdkahVQ6zAeTF2M6xztXi7nVdXcED995Q&s",
+      "original": "https://cdn.globalso.com/crawlerundercarriage/SJ1000A1-300x300.jpg"
+    }
+  ]
+}

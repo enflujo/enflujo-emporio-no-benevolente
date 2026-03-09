@@ -1,0 +1,71 @@
+{
+  "categoria": "train",
+  "categoriaSlug": "train",
+  "idioma": "ar",
+  "nombreIdioma": "العربية",
+  "termino": "قطار",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T20:44:33.958Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "ar",
+    "gl": "eg"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=%D9%82%D8%B7%D8%A7%D8%B1&hl=ar&gl=eg",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/train/ar/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTimoe7jhQwavzyVM_ERzCLxZu5ID7FhmnkYQ&s",
+      "fuentePagina": "https://www.alarabiya.net/arab-and-world/egypt/2025/07/04/%D8%A8%D8%B4%D9%83%D9%84-%D9%85%D9%81%D8%A7%D8%AC%D9%8A%D8%A1-%D9%88%D9%81%D8%A7%D8%A9-%D8%B3%D8%A7%D8%A6%D9%82-%D9%82%D8%B7%D8%A7%D8%B1-%D9%81%D9%8A-%D9%85%D8%B5%D8%B1-%D8%AF%D8%A7%D8%AE%D9%84-%D9%83%D8%A7%D8%A8%D9%8A%D9%86%D8%A9-%D8%A7%D9%84%D9%82%D9%8A%D8%A7%D8%AF%D8%A9",
+      "titulo": "بأزمة قلبية.. وفاة سائق قطار في مصر داخل كابينة القيادة",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTimoe7jhQwavzyVM_ERzCLxZu5ID7FhmnkYQ&s",
+      "original": "https://vid.alarabiya.net/images/2025/07/04/caabd1a9-f92a-4c0b-88f2-66ca198cab37/caabd1a9-f92a-4c0b-88f2-66ca198cab37.jpg?crop=4:3&width=1200"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/train/ar/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQS2zad2KKt_CU4dAwtIo28OysjPmlqJzu2YQ&s",
+      "fuentePagina": "https://aawsat.com/home/article/173921",
+      "titulo": "شركة إسبانية تدرس جدوى إنشاء قطار كهربائي يختصر رحلة الدمام ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQS2zad2KKt_CU4dAwtIo28OysjPmlqJzu2YQ&s",
+      "original": "https://static.srpcdigital.com/styles/1037xauto/public/2014/09/03/Train.jpg.webp"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/train/ar/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZvNwQTZ6CCIvXuUmi2X_ZnYgqF9hN6Sl2Hg&s",
+      "fuentePagina": "https://aawsat.com/home/article/2642591/%D8%A3%D9%84%D9%85%D8%A7%D9%86%D9%8A%D8%A7-%D8%AA%D8%AC%D8%B1%D8%A8-%D9%82%D8%B7%D8%A7%D8%B1-%C2%AB%D8%B3%D9%8A%D9%85%D9%86%D8%B3%C2%BB-%D8%A7%D9%84%D9%87%D9%8A%D8%AF%D8%B1%D9%88%D8%AC%D9%8A%D9%86%D9%8A-%D8%B9%D8%A7%D9%85-2024",
+      "titulo": "ألمانيا تجرب قطار «سيمنس» الهيدروجيني عام 2024",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZvNwQTZ6CCIvXuUmi2X_ZnYgqF9hN6Sl2Hg&s",
+      "original": "https://static.srpcdigital.com/styles/1037xauto/public/2020/11/23/1606136642775002000.jpg.webp"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/train/ar/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJuXT7mBotp_gyuqrQ3ZmNZaFCSbd60xN-NQ&s",
+      "fuentePagina": "https://play.google.com/store/apps/details?id=com.gokids.trains&hl=ar",
+      "titulo": "ألعاب القطار للأطفال ضة أطفال - التطبيقات على Google Play",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJuXT7mBotp_gyuqrQ3ZmNZaFCSbd60xN-NQ&s",
+      "original": "https://play-lh.googleusercontent.com/3462f3qM-BUI5326aobeUx5UZU7FXII4Ewabv3Yfd-ekcv5UofIXUXk61Q_o7LhMPXM"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/train/ar/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYyaWAJ5RD7HaUoG5Y-48JrCryoQhgW70O1g&s",
+      "fuentePagina": "https://nzoi.com/product/%D9%84%D8%B9%D8%A8%D8%A9-%D9%82%D8%B7%D8%A7%D8%B1-%D9%83%D9%87%D8%B1%D8%A8%D8%A7%D8%A6%D9%8A-%D9%83%D9%84%D8%A7%D8%B3%D9%8A%D9%83%D9%8A/",
+      "titulo": "لعبة قطار كهربائي كلاسيكي – nzoi",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYyaWAJ5RD7HaUoG5Y-48JrCryoQhgW70O1g&s",
+      "original": "https://nzoi.com/wp-content/uploads/2024/08/medium_01_377909695f.jpg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/train/ar/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2jGMzIwx42eHsVljkzVFE4c6PfvWcyjev7w&s",
+      "fuentePagina": "https://www.pinterest.com/pin/png--722264859006011190/",
+      "titulo": "كرتون, قطار, جميل صور خلفية مجانية ، كارتون القطار صورة ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2jGMzIwx42eHsVljkzVFE4c6PfvWcyjev7w&s",
+      "original": "https://i.pinimg.com/736x/72/c6/6c/72c66c77c36bad78119f1e954c23fa73.jpg"
+    }
+  ]
+}

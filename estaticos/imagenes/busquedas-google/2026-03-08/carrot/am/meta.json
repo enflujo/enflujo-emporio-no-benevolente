@@ -1,0 +1,71 @@
+{
+  "categoria": "carrot",
+  "categoriaSlug": "carrot",
+  "idioma": "am",
+  "nombreIdioma": "Amharic — አማርኛ",
+  "termino": "ካሮት",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:14:00.806Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "am",
+    "gl": "et"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=%E1%8A%AB%E1%88%AE%E1%89%B5&hl=am&gl=et",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/carrot/am/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTiRQJfywAdUUQvFGE1-plVYkQCTK_ijL_3nw&s",
+      "fuentePagina": "https://www.facebook.com/megebtena/posts/%E1%8B%A8%E1%8A%AB%E1%88%AE%E1%89%B5-carrot-%E1%8B%A8%E1%8C%A4%E1%8A%93-%E1%8C%A5%E1%89%85%E1%88%9E%E1%89%BD%E1%8A%AB%E1%88%AE%E1%89%B5-%E1%8B%A8%E1%88%9A%E1%88%B0%E1%8C%A0%E1%8B%8D-%E1%8B%A8%E1%8C%A4%E1%8A%93-%E1%8C%A5%E1%89%85%E1%88%9D-%E1%89%A0%E1%89%B0%E1%88%88%E1%88%9D%E1%8B%B6-%E1%8A%A8%E1%88%9D%E1%8A%93%E1%8B%8D%E1%89%80%E1%8B%8D-%E1%88%88%E1%8B%93%E1%8B%AD%E1%8A%95%E1%8A%A8%E1%88%9A%E1%88%B0%E1%8C%A0%E1%8B%8D-%E1%8C%A5%E1%89%85%E1%88%9D-%E1%89%A0%E1%89%B0%E1%8C%A8%E1%88%9B%E1%88%AA-%E1%8A%AB%E1%88%B0%E1%88%AD%E1%8A%95-%E1%8A%A5%E1%8A%93-%E1%8B%A8/2399761976984666/",
+      "titulo": "የካሮት /Carrot/ የጤና ጥቅሞች ካሮት የሚሰጠው የጤና ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTiRQJfywAdUUQvFGE1-plVYkQCTK_ijL_3nw&s",
+      "original": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=2399761710318026"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/carrot/am/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpAgq9Q_SHOmDXSsLEJI1Bd_izxRA9R__dsQ&s",
+      "fuentePagina": "https://amharicteacher.com/dictionary/english/%E1%8A%AB%E1%88%AE%E1%89%B5",
+      "titulo": "ካሮት (karot) meaning in English - Amharic Dictionary",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpAgq9Q_SHOmDXSsLEJI1Bd_izxRA9R__dsQ&s",
+      "original": "https://d9seco0wfq8yu.cloudfront.net/dict/karot.png"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/carrot/am/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6Kx79E4v_ROIX8mX5-SYjUD7kqQDFL9AVYQ&s",
+      "fuentePagina": "https://soderestore.com/%E1%8A%AB%E1%88%AE%E1%89%B5-Carrot-Ethiopia-Only-p203631016",
+      "titulo": "ካሮት Carrot (Ethiopia Only)",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6Kx79E4v_ROIX8mX5-SYjUD7kqQDFL9AVYQ&s",
+      "original": "https://d2j6dbq0eux0bg.cloudfront.net/images/16648100/1452263237.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/carrot/am/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSJyjGE-obcG1fXe98MCoXX2IOH8RR62ZUaA&s",
+      "fuentePagina": "https://am.wikipedia.org/wiki/%E1%8A%AB%E1%88%AE%E1%89%B5",
+      "titulo": "ውክፔዲያ - ካሮት",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSJyjGE-obcG1fXe98MCoXX2IOH8RR62ZUaA&s",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/d/d2/Carrots_with_stems.jpg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/carrot/am/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrk_Q7AJzIZHj8GYfcApjJlV8gU4N-O9n-SA&s",
+      "fuentePagina": "https://www.ncgce.com/am/carrot-2-product/",
+      "titulo": "የቻይና ካሮት ማምረቻ እና ፋብሪካ | ኖንግቹንግጋንግ",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrk_Q7AJzIZHj8GYfcApjJlV8gU4N-O9n-SA&s",
+      "original": "https://cdn.globalso.com/ncgce/3_%E5%89%AF%E6%9C%AC.jpg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/carrot/am/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrmOSVC8RhrTYbgTMAVkipfNO1iGiu4amx8A&s",
+      "fuentePagina": "https://www.facebook.com/photo.php?fbid=339225446860037&set=a.747388183425091&id=100044617471012",
+      "titulo": "Doctor - ካሮትና ቀይስር የመመገብ የጤና ጥቅሞች ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrmOSVC8RhrTYbgTMAVkipfNO1iGiu4amx8A&s",
+      "original": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=339225446860037"
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "categoria": "orange",
+  "categoriaSlug": "orange",
+  "idioma": "hi",
+  "nombreIdioma": "हिन्दी",
+  "termino": "संतरा",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:12:52.487Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "hi",
+    "gl": "in"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=%E0%A4%B8%E0%A4%82%E0%A4%A4%E0%A4%B0%E0%A4%BE&hl=hi&gl=in",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/orange/hi/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGEPIDhQ4ZISU--iUzVfjb-syniyhJtquoKA&s",
+      "fuentePagina": "https://hi.wikipedia.org/wiki/%E0%A4%B8%E0%A4%82%E0%A4%A4%E0%A4%B0%E0%A4%BE_(%E0%A4%AB%E0%A4%B2)",
+      "titulo": "संतरा (फल) - विकिपीडिया",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGEPIDhQ4ZISU--iUzVfjb-syniyhJtquoKA&s",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/4/49/Mandarin_Oranges_%28Citrus_Reticulata%29.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/orange/hi/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTswy7bPf_KA5fQqpY-_ISYijapenIIs37qw&s",
+      "fuentePagina": "https://www.amazon.in/-/hi/%E0%A4%B8%E0%A4%82%E0%A4%A4%E0%A4%B0%E0%A5%87-%E0%A4%A4%E0%A4%BE%E0%A4%9C%E0%A5%87-%E0%A4%AA%E0%A5%8C%E0%A4%A7%E0%A5%87-%E0%A4%A8%E0%A4%BE%E0%A4%B0%E0%A4%82%E0%A4%97%E0%A5%80-%E0%A4%B8%E0%A5%8D%E0%A4%B5%E0%A4%B8%E0%A5%8D%E0%A4%A5/dp/B0D8PY5J5B?s=bazaar",
+      "titulo": "संतरे ताजे फल पौधे रहते हैं ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTswy7bPf_KA5fQqpY-_ISYijapenIIs37qw&s",
+      "original": "https://m.media-amazon.com/images/I/51qFSdheDPL._AC_UF1000,1000_QL80_.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/orange/hi/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrjQ7jq8pxN5v6g5ZJvKqDloK-MfmsWygqiw&s",
+      "fuentePagina": "https://www.aajtak.in/lifestyle/news/photo/oranges-benefits-or-santara-khane-ke-fayde-eat-daily-in-winter-for-vitamin-c-weight-loss-tlifp-1568576-2022-11-04",
+      "titulo": "रोज एक संतरा खाने के हैं इतने ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrjQ7jq8pxN5v6g5ZJvKqDloK-MfmsWygqiw&s",
+      "original": "https://akm-img-a-in.tosshub.com/aajtak/images/photo_gallery/202211/gettyimages-185284489.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/orange/hi/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwNjALGclMG_HmRFuXmnSuQ3Y1NIsbuUbcmA&s",
+      "fuentePagina": "https://www.myupchar.com/tips/santre-ke-fayde-aur-nuksan-in-hindi",
+      "titulo": "संतरे के फायदे और नुकसान - Orange ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwNjALGclMG_HmRFuXmnSuQ3Y1NIsbuUbcmA&s",
+      "original": "https://image.myupchar.com/706/original/santre-ke-fayde-aur-nuksan-in-hindi-1.jpg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/orange/hi/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2XkLDTNUGveIptulRwPdEs9dM8EAWlvWZGQ&s",
+      "fuentePagina": "https://redcliffelabs.com/myhealth/fruit/benefits-of-eating-orange-benefits-for-health/",
+      "titulo": "Santra Khane Ke Fayde: सेहत के लिए लाभ",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2XkLDTNUGveIptulRwPdEs9dM8EAWlvWZGQ&s",
+      "original": "https://redcliffelabs.com/myhealth/_next/image/?url=https%3A%2F%2Fmyhealth-redcliffelabs.redcliffelabs.com%2Fmedia%2Fblogcard-images%2FNone%2F22186a67-b89b-4a24-8d19-1a79ab8c0a9c.webp&w=3840&q=40"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/orange/hi/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqyIMmJUJ9kejoMam6xYRjUcp6ySQRuPr3FQ&s",
+      "fuentePagina": "https://ndtv.in/photos/santra-khane-ke-fayde-benefits-of-eating-orange-109757",
+      "titulo": "संतरे खाने से मिलते हैं ये ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqyIMmJUJ9kejoMam6xYRjUcp6ySQRuPr3FQ&s",
+      "original": "https://drop.ndtv.com/albums/NEWS/santra-khane-ke_638972585093873592/638972585135138869.jpeg"
+    }
+  ]
+}

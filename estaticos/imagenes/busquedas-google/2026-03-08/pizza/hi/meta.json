@@ -1,0 +1,71 @@
+{
+  "categoria": "pizza",
+  "categoriaSlug": "pizza",
+  "idioma": "hi",
+  "nombreIdioma": "हिन्दी",
+  "termino": "पिज़्ज़ा",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:15:17.546Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "hi",
+    "gl": "in"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=%E0%A4%AA%E0%A4%BF%E0%A4%9C%E0%A4%BC%E0%A5%8D%E0%A4%9C%E0%A4%BC%E0%A4%BE&hl=hi&gl=in",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/pizza/hi/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQ4Bx-SoNT9M1kPf8NqRy_fwIdSkTplT4E4A&s",
+      "fuentePagina": "https://hebbarskitchen.com/hi/veg-pizza-recipe-veggie-pizza-recipe/",
+      "titulo": "वेज पिज़्ज़ा रेसिपी | veg pizza in hindi | वेजी पिज़्ज़ा | वेजिटेबल पिज़्ज़ा",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQ4Bx-SoNT9M1kPf8NqRy_fwIdSkTplT4E4A&s",
+      "original": "http://hebbarskitchen.com/wp-content/uploads/mainPhotos/veg-pizza-recipe-veggie-pizza-recipe-vegetable-pizza-recipe-1-1024x769.jpeg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/pizza/hi/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlKLMhAFAGRK_sDQ8IqeduVvzC97vIVHO-Qw&s",
+      "fuentePagina": "https://hebbarskitchen.com/hi/dominos-cheese-burst-pizza-recipe/",
+      "titulo": "चीज़ बर्स्ट पिज़्ज़ा रेसिपी | cheese burst pizza in hindi | डोमिनोज़ चीज़  बर्स्ट पिज़्ज़ा",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlKLMhAFAGRK_sDQ8IqeduVvzC97vIVHO-Qw&s",
+      "original": "https://hebbarskitchen.com/wp-content/uploads/mainPhotos/cheese-burst-pizza-recipe-how-to-make-dominos-cheese-burst-pizza-1.jpeg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/pizza/hi/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxGpIk1SCsoqidY7tqySz3HKAeW6xx16zOHQ&s",
+      "fuentePagina": "https://www.instagram.com/reel/C8n8OzMO_23/",
+      "titulo": "घर पर ही तवे पर या ओवन में बनाएं पिज्जा -सबसे आसान Homemade Pizza Recipe  बार बार बनाएंगे, पिज्जा सॉस रेसेपी (Homemade Pizza Sauce Recipe) :  https://fb.watch/sQzZ8ZGvtc/, #KhanaKhazanaWithShikha #pizza ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxGpIk1SCsoqidY7tqySz3HKAeW6xx16zOHQ&s",
+      "original": "https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3397949343703760311"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/pizza/hi/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXgOlTPaZJa3Dpe-iACZ0U1d60wktBybUZTg&s",
+      "fuentePagina": "https://www.betterbutter.in/hi/recipe/128199/chij-burst-pizza-in-pan/",
+      "titulo": "Chij burst pizza in pan recipe by Dharmistha Kholiya in Hindi at  BetterButter",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXgOlTPaZJa3Dpe-iACZ0U1d60wktBybUZTg&s",
+      "original": "https://s3-ap-south-1.amazonaws.com/betterbutterbucket-silver/dharmistha-kholiya020180830103624713.jpeg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/pizza/hi/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSagNYAFkHBjPHB1JPhcufcKvcO0Mj6nyz6rg&s",
+      "fuentePagina": "https://www.abplive.com/photo-gallery/lifestyle/food-ingredients-of-olive-corn-pizza-please-thsese-steps-2348253",
+      "titulo": "Ingredients of Olive Corn Pizza please thsese steps | Olive ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSagNYAFkHBjPHB1JPhcufcKvcO0Mj6nyz6rg&s",
+      "original": "https://feeds.abplive.com/onecms/images/uploaded-images/2023/03/02/922f5e7583949dc098e2c0c88e9272621677761605013593_original.jpg?impolicy=abp_cdn&imwidth=600"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/pizza/hi/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSP-5jlHgI5kGqxXyOt1z4_4GqVjFujWrEISw&s",
+      "fuentePagina": "https://www.jaipurthepinkcity.com/recipe/cheese-pizza-recipe-in-hindi",
+      "titulo": "1 Minute Cheese Pizza Recipe in Hindi - 1 मिनट में चीज़ पिज़्ज़ा बनाइये",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSP-5jlHgI5kGqxXyOt1z4_4GqVjFujWrEISw&s",
+      "original": "http://www.jaipurthepinkcity.com/wp-content/uploads/2015/06/cheese-pizza-recipe-in-hindi.jpg"
+    }
+  ]
+}

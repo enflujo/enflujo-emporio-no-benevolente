@@ -1,0 +1,71 @@
+{
+  "categoria": "sink",
+  "categoriaSlug": "sink",
+  "idioma": "nah",
+  "nombreIdioma": "Náhuatl",
+  "termino": "atlacomitl",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:27:12.719Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "es",
+    "gl": "mx"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=atlacomitl&hl=es&gl=mx",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/sink/nah/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBOpqYrf13J82JXE45DhMtm99kMgGxZLL-NQ&s",
+      "fuentePagina": "https://es.wikipedia.org/wiki/Municipio_de_Atlacomulco",
+      "titulo": "Municipio de Atlacomulco - Wikipedia, la enciclopedia libre",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBOpqYrf13J82JXE45DhMtm99kMgGxZLL-NQ&s",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Atlacomulco_Z%C3%B3calo%2C_Estado_de_M%C3%A9xico-_Atlacomulco_Z%C3%B3calo_State_of_Mexico_%2822960215500%29.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/sink/nah/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnXvlZSplbZ6_cASHDuCODxENeU95y_2Y0xw&s",
+      "fuentePagina": "https://www.facebook.com/conoceatlacomulco/",
+      "titulo": "Conoce Atlacomulco (@conoceatlacomulco) • Facebook",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnXvlZSplbZ6_cASHDuCODxENeU95y_2Y0xw&s",
+      "original": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=1359701429528041"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/sink/nah/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpIxu5WW-BdQgSzxDdGt7e4fxXuhcKO6aRAA&s",
+      "fuentePagina": "https://www.cronica.com.mx/academia/tlacomiztli-medio-gato.html",
+      "titulo": "El tlacomiztli o medio gato – La Crónica de Hoy",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpIxu5WW-BdQgSzxDdGt7e4fxXuhcKO6aRAA&s",
+      "original": "https://www.cronica.com.mx/resizer/wcQ0OZDugz4LblCpZXXzGmtBdTI=/arc-photo-lacronicadehoy/arc2-prod/public/OZSNCISCGLAFFOBQCX3TRZ4LUU.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/sink/nah/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRy1LQqgUgLjqK1U9xEUNxmRwvJcg4YO_Humg&s",
+      "fuentePagina": "https://www.facebook.com/conoceatlacomulco/posts/el-centro-%EF%B8%8F-atlacomulco-estado-de-m%C3%A9xico-/869498898548299/",
+      "titulo": "El centro!!! ▪️ 🥰 Atlacomulco, Estado de México!!! 🇲🇽",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRy1LQqgUgLjqK1U9xEUNxmRwvJcg4YO_Humg&s",
+      "original": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=869498871881635"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/sink/nah/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXiLEIbFKxGdN-68VTzH9vy9s4x9AcPUQ3rw&s",
+      "fuentePagina": "https://ast.wikipedia.org/wiki/Atl-tlachinolli",
+      "titulo": "Atl-tlachinolli - Wikipedia",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXiLEIbFKxGdN-68VTzH9vy9s4x9AcPUQ3rw&s",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Teocalli_of_the_Sacred_War_-_sun.jpg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/sink/nah/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8bP_btC6Pti0yYuClnLFUM1pJrGaeYADF8g&s",
+      "fuentePagina": "https://www.facebook.com/conoceatlacomulco/posts/-atlacomulco-estado-de-m%C3%A9xico-/1111457039458199/",
+      "titulo": "🥰🇲🇽 🥰 Atlacomulco, Estado de México!!! 🇲🇽",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8bP_btC6Pti0yYuClnLFUM1pJrGaeYADF8g&s",
+      "original": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=1111456999458203"
+    }
+  ]
+}

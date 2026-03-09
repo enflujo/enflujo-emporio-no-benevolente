@@ -1,0 +1,71 @@
+{
+  "categoria": "dining table",
+  "categoriaSlug": "dining-table",
+  "idioma": "ha",
+  "nombreIdioma": "Hausa",
+  "termino": "teburin ci abinci",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:19:48.659Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "ha",
+    "gl": "ng"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=teburin%20ci%20abinci&hl=ha&gl=ng",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/dining-table/ha/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOHcqearozuCn3owEWziO5L675w9BxaX9vGQ&s",
+      "fuentePagina": "https://hogfurniture.co/ha/products/charles-eames-dining-table-and-chair-7?srsltid=AfmBOopjJES-n83SX0OEZP6UvLoLeHVQmShSTS8TnAYyfF81mw36Ek_b",
+      "titulo": "Teburin cin abinci na Charles Eames da kujera",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOHcqearozuCn3owEWziO5L675w9BxaX9vGQ&s",
+      "original": "https://hogfurniture.co/cdn/shop/files/240668_1743723981_1024x.jpg?v=1744191723"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/dining-table/ha/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJaLURUnCZLsog2-Xz30oqPs_LshY7ayuV4A&s",
+      "fuentePagina": "https://hogfurniture.co/ha/products/charles-eames-dining-table-and-chair-3?srsltid=AfmBOooYIm1PEdfWd7qyswhqLFTpY0A7fl3Rk_Kd4aihHsz70s7vG5-g",
+      "titulo": "Teburin cin abinci na Charles Eames da kujera",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJaLURUnCZLsog2-Xz30oqPs_LshY7ayuV4A&s",
+      "original": "https://hogfurniture.co/cdn/shop/products/charles-eames-dining-table-and-chair-36237551272179_1024x.jpg?v=1637933636"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/dining-table/ha/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBp9gwqFpc0P6kGNwoJxQKh7Y57AbHfRd5Hg&s",
+      "fuentePagina": "https://aarsunwoods.com/ha/experience-luxury-dining-with-trending-7-wooden-dining-sets/",
+      "titulo": "Kwarewa cin abinci na alatu tare da Trending 7 Tsarin ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBp9gwqFpc0P6kGNwoJxQKh7Y57AbHfRd5Hg&s",
+      "original": "https://aarsunwoods.com/wp-content/uploads/2024/12/d2-450x600.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/dining-table/ha/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGRWPE3Uf9qmloZv3HnPxxTZ3nZL1T5wu_1g&s",
+      "fuentePagina": "https://www.sinotxj.com/ha/news/how-to-choose-a-dining-table/",
+      "titulo": "China Yadda za a zabi teburin cin abinci? Masu masana'anta ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGRWPE3Uf9qmloZv3HnPxxTZ3nZL1T5wu_1g&s",
+      "original": "https://img.goodao.net/sinotxj/Quebec-+Jackie-.jpg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/dining-table/ha/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRksGZ8wW6Q0Y_q71ALubA_p9W_HMV81fRERQ&s",
+      "fuentePagina": "https://aarsunwoods.com/ha/wooden-dining-table-designs/",
+      "titulo": "165 Mafi Kyawun Teburin Cin Abinci Kan Layi 2025",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRksGZ8wW6Q0Y_q71ALubA_p9W_HMV81fRERQ&s",
+      "original": "https://aarsunwoods.com/wp-content/uploads/2022/07/8-Seater-Royal-Dining-Set-in-Solid-Wood-A-jpg.webp"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/dining-table/ha/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQY0_wnLFryTieNeWaN0cS2zUVuhMxRC9CtBg&s",
+      "fuentePagina": "https://aarsunwoods.com/ha/experience-luxury-dining-with-trending-7-wooden-dining-sets/",
+      "titulo": "Kwarewa cin abinci na alatu tare da Trending 7 Tsarin ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQY0_wnLFryTieNeWaN0cS2zUVuhMxRC9CtBg&s",
+      "original": "https://aarsunwoods.com/wp-content/uploads/2024/12/d6b-600x455.webp"
+    }
+  ]
+}

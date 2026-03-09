@@ -1,0 +1,71 @@
+{
+  "categoria": "potted plant",
+  "categoriaSlug": "potted-plant",
+  "idioma": "hi",
+  "nombreIdioma": "हिन्दी",
+  "termino": "गमले का पौधा",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:18:37.284Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "hi",
+    "gl": "in"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=%E0%A4%97%E0%A4%AE%E0%A4%B2%E0%A5%87%20%E0%A4%95%E0%A4%BE%20%E0%A4%AA%E0%A5%8C%E0%A4%A7%E0%A4%BE&hl=hi&gl=in",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/potted-plant/hi/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdV3qKgWavXd99gMHLNWrLBhittfKa8Ez1Vg&s",
+      "fuentePagina": "https://www.facebook.com/Indiasgardening/posts/%E0%A4%97%E0%A4%AE%E0%A4%B2%E0%A5%87-%E0%A4%AE%E0%A5%87%E0%A4%82-%E0%A4%B2%E0%A4%97%E0%A4%BE%E0%A4%8F-%E0%A4%AF%E0%A5%87-9-%E0%A4%96%E0%A5%82%E0%A4%AC%E0%A4%B8%E0%A5%82%E0%A4%B0%E0%A4%A4-%E0%A4%AA%E0%A5%8C%E0%A4%A7%E0%A5%87-%E0%A4%9C%E0%A5%8B-%E0%A4%86%E0%A4%AA%E0%A4%95%E0%A5%87-%E0%A4%97%E0%A4%BE%E0%A4%B0%E0%A5%8D%E0%A4%A1%E0%A4%A8-%E0%A4%95%E0%A5%80-%E0%A4%B6%E0%A5%8B%E0%A4%AD%E0%A4%BE-%E0%A4%95%E0%A5%8B-%E0%A4%AC%E0%A4%A2%E0%A4%BC%E0%A4%BE-%E0%A4%A6%E0%A5%87%E0%A4%82%E0%A4%97%E0%A5%87plants-garde/1239257401552502/",
+      "titulo": "गमले में लगाए ये 9 खूबसूरत पौधे ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdV3qKgWavXd99gMHLNWrLBhittfKa8Ez1Vg&s",
+      "original": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=1239257371552505"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/potted-plant/hi/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVlrLyuteohRy3yw7knfUCO-DS5vjIdzjRQQ&s",
+      "fuentePagina": "https://www.youtube.com/watch?v=jEUVKZGCsZs",
+      "titulo": "गमलों में लगातार फूल देने वाले पौधों के नाम, Names of continuous flowering  plants",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVlrLyuteohRy3yw7knfUCO-DS5vjIdzjRQQ&s",
+      "original": "https://i.ytimg.com/vi/jEUVKZGCsZs/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLB0Fk9FYGh0N10OGzg6Kz9YXix6lg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/potted-plant/hi/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3Gdeyv9fYqWMKkMJJ6W7HINp2kCsMsrR_hw&s",
+      "fuentePagina": "https://www.kuberindustries.co.in/products/kuber-industries-flower-pot-with-plate-18-inch-lightweight-polymers-indoor-outdoor-plant-pots-flower-pot-gamla-for-home-office-amp-garden-planter-for-living-room-white",
+      "titulo": "Kuber Industries Flower Pot with Plate | 18 Inch Lightweight ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3Gdeyv9fYqWMKkMJJ6W7HINp2kCsMsrR_hw&s",
+      "original": "https://www.kuberindustries.co.in/uploads/kuberindustries/products/kuber-industries-flower-pot-with-plate--18-inch-lightweight-polymers-indoor-outdoor-plant-pots--flow-188295443499156_l.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/potted-plant/hi/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEnUtJ07O_fgFo_f_xFJdIj0rf3oiDwv5h0w&s",
+      "fuentePagina": "https://www.amazon.in/COTYNI-Succulent-Planters-Drainage-Planter/dp/B0BR3T2TRH",
+      "titulo": "COTYNI Face Plant Pots, Succulent Pots, 5 Inch Head Planters ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEnUtJ07O_fgFo_f_xFJdIj0rf3oiDwv5h0w&s",
+      "original": "https://m.media-amazon.com/images/I/71o0s0eQRcL._AC_UF894,1000_QL80_.jpg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/potted-plant/hi/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_ghN_Lr3b75qzRPwOn6CFP8wA5UxX_0AdPA&s",
+      "fuentePagina": "https://www.homesake.in/products/white-metal-flower-pot-succulent-plant-pot-indoor-and-outdoor-set-of-2?srsltid=AfmBOorzXdgey9acZpzPjblRGeDGY-6HnwD1AeH_f8_MGmVkkTyqZAu7",
+      "titulo": "White Metal Flower Pot Succulent Plant Pot Indoor and Outdoor Set of 2",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_ghN_Lr3b75qzRPwOn6CFP8wA5UxX_0AdPA&s",
+      "original": "http://www.homesake.in/cdn/shop/files/IH0E257_theme.jpg?v=1747737924"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/potted-plant/hi/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKWWCvMWiFDmE6edFetR_H_jl1UWNpvmCvOw&s",
+      "fuentePagina": "https://www.amazon.in/Outdoor-Indoor-Planters-Flower-Pots/dp/B084ZM9QKF",
+      "titulo": "Outdoor Indoor Planters Flower Pots - 9.4 Inch Planter Pot ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKWWCvMWiFDmE6edFetR_H_jl1UWNpvmCvOw&s",
+      "original": "https://m.media-amazon.com/images/I/61O7VHZtmgL.jpg"
+    }
+  ]
+}

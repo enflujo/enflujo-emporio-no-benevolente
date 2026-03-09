@@ -1,0 +1,71 @@
+{
+  "categoria": "cake",
+  "categoriaSlug": "cake",
+  "idioma": "en",
+  "nombreIdioma": "English",
+  "termino": "cake",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:16:11.618Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "en",
+    "gl": "us"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=cake&hl=en&gl=us",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/cake/en/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTymGedbqksQgqz34xtXOi1A6XuVtVg58umw&s",
+      "fuentePagina": "https://www.landolakes.com/recipe/6220/birthday-cake/",
+      "titulo": "Birthday Cake",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTymGedbqksQgqz34xtXOi1A6XuVtVg58umw&s",
+      "original": "https://stordfkenticomedia.blob.core.windows.net/df-us/rms/media/recipemediafiles/recipe%20images%20and%20files/retail/desktop%20(600x600)/2025/april/2025_retail_birthday-cake_600x600.webp?ext=.webp"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/cake/en/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ94q_9F1WBMWsvFeeq-Yx36eJ2sv6c2Ng1rg&s",
+      "fuentePagina": "https://sugargeekshow.com/easy-chocolate-cake/",
+      "titulo": "Easy Chocolate Cake Recipe",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ94q_9F1WBMWsvFeeq-Yx36eJ2sv6c2Ng1rg&s",
+      "original": "https://sugargeekshow.com/wp-content/uploads/2023/10/easy_chocolate_cake_slice.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/cake/en/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMbkYyPycPprTNCfT5cKp0Kof1gWnU6cLm0A&s",
+      "fuentePagina": "https://www.foodandwine.com/fraisier-cake-8671247",
+      "titulo": "Fraisier Cake",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMbkYyPycPprTNCfT5cKp0Kof1gWnU6cLm0A&s",
+      "original": "https://www.foodandwine.com/thmb/cUck29eCdcIEjx_r5Q5ReugKoNM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Fraiser-cake-FT-RECIPES0624-e9972b38ccb54d3ca8edbbb9a5bb1642.jpeg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/cake/en/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7x6786VLvfSL2E7XqCKdbO6W844Acv2y5aA&s",
+      "fuentePagina": "https://sugarandsparrow.com/vanilla-cake-recipe/",
+      "titulo": "Perfect Vanilla Cake Recipe",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7x6786VLvfSL2E7XqCKdbO6W844Acv2y5aA&s",
+      "original": "https://sugarandsparrow.s3.us-west-2.amazonaws.com/flour/wp-content/uploads/2022/02/16214527/Best-Vanilla-Cake-Recipe-6.jpeg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/cake/en/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4fPXtTIh9c-xU0_S6c27WrFfSeGZIMZDJ7w&s",
+      "fuentePagina": "https://thescranline.com/vanilla-cake/",
+      "titulo": "Soft Bakery-Style Vanilla Cake Recipe",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4fPXtTIh9c-xU0_S6c27WrFfSeGZIMZDJ7w&s",
+      "original": "https://thescranline.com/wp-content/uploads/2025/02/VANILLA-CAKE-25-S-01.jpg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/cake/en/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQf7XOVAtBKrADYCHtucJAqrOOVQ6dGYQ5LDw&s",
+      "fuentePagina": "https://curlygirlkitchen.com/rainbow-cake-birthday-sprinkle-buttercream/",
+      "titulo": "High Altitude Rainbow Birthday Cake",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQf7XOVAtBKrADYCHtucJAqrOOVQ6dGYQ5LDw&s",
+      "original": "https://curlygirlkitchen.com/wp-content/uploads/2024/01/Rainbow-Cake-High-Altitude-Sprinkles-Lucky-Charms-St-Patricks-Day-007.jpg"
+    }
+  ]
+}

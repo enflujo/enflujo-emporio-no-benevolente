@@ -1,0 +1,71 @@
+{
+  "categoria": "tv",
+  "categoriaSlug": "tv",
+  "idioma": "rw",
+  "nombreIdioma": "Kinyarwanda",
+  "termino": "televiziyo",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:20:58.162Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "en",
+    "gl": "rw"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=televiziyo&hl=en&gl=rw",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/tv/rw/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTa51YqR2gdc0GWAng-uCBOvHRnLGiG4oIimA&s",
+      "fuentePagina": "https://www.kigalitoday.com/ikoranabuhanga/utuntu-n-utundi/article/televiziyo-ni-nde-ukwiye-kuyiharira-undi-mu-muryango",
+      "titulo": "Impaka mu kureba Televiziyo: Ni nde ukwiye kuyiharira undi ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTa51YqR2gdc0GWAng-uCBOvHRnLGiG4oIimA&s",
+      "original": "https://www.kigalitoday.com/IMG/jpg/tv_ok.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/tv/rw/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_P7DA1Wcm1ebkZFT5BIBVv3hxvz7cYziqGA&s",
+      "fuentePagina": "https://www.instagram.com/p/DVOLY3_iEXa/",
+      "titulo": "Gloria Mukamabano wari umunyamakuru wa Televiziyo y'u Rwanda ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_P7DA1Wcm1ebkZFT5BIBVv3hxvz7cYziqGA&s",
+      "original": "https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3841057620094371290"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/tv/rw/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOV2NPtQ_IurqbjhkMYQK3cB7suO5xszvW0Q&s",
+      "fuentePagina": "https://igihe.com/ikoranabuhanga/article/nyuma-ya-mudasobwa-televiziyo-nazo-zigiye-guteranyirizwa-mu-rwanda",
+      "titulo": "Nyuma ya mudasobwa, televiziyo zigiye guteranyirizwa mu ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOV2NPtQ_IurqbjhkMYQK3cB7suO5xszvW0Q&s",
+      "original": "https://www.igihe.com/local/cache-vignettes/L600xH335/arton99106-7bcd6.jpg?1714500773"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/tv/rw/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMap_rY_EK4Xnv7aDYnudZLv0ziYBKFfagWQ&s",
+      "fuentePagina": "https://www.facebook.com/BPRbankrw/posts/ntucikanwe-nibiganiro-ukunda-ishyura-ifatabuguzi-rya-televiziyo-byoroshye-ukanze/1407878294717632/",
+      "titulo": "Ntucikanwe n'ibiganiro ukunda! Ishyura ifatabuguzi rya ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMap_rY_EK4Xnv7aDYnudZLv0ziYBKFfagWQ&s",
+      "original": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=1407877888051006"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/tv/rw/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3fsRbKTmzRSAgXBXC215J-P1LPYDHMeoanw&s",
+      "fuentePagina": "https://www.youtube.com/watch?v=khPqddpsTUs",
+      "titulo": "Imyaka 32 irashize Televiziyo Rwanda ivutse|| Nkurunziza wari uhari  yatubwiye uko byari bimeze",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3fsRbKTmzRSAgXBXC215J-P1LPYDHMeoanw&s",
+      "original": "https://i.ytimg.com/vi/khPqddpsTUs/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLBMeCdpLrSdafwFEwi-5qb-t77H0Q"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/tv/rw/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuBvlHW0iXv9Xd53979mV_gmBOd8KGqi5ijg&s",
+      "fuentePagina": "https://www.kigalitoday.com/kwamamaza/article/mu-rwanda-hatangijwe-televiziyo-nshya-igaragara-kuri-startimes",
+      "titulo": "Mu Rwanda hatangijwe televiziyo nshya igaragara kuri ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuBvlHW0iXv9Xd53979mV_gmBOd8KGqi5ijg&s",
+      "original": "https://www.kigalitoday.com/IMG/jpg/tv_4.jpg"
+    }
+  ]
+}

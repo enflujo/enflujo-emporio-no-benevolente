@@ -1,0 +1,71 @@
+{
+  "categoria": "hair drier",
+  "categoriaSlug": "hair-drier",
+  "idioma": "pt",
+  "nombreIdioma": "Português",
+  "termino": "secador de cabelo",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:32:04.868Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "pt",
+    "gl": "br"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=secador%20de%20cabelo&hl=pt&gl=br",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/hair-drier/pt/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4_0WBIQ0c-HaZMsYMqcEqF5xCNBfxXFv8NA&s",
+      "fuentePagina": "https://www.plenacosmeticos.com.br/secador-de-cabelo-profissional-taiff-style-2000w-preto-220v?srsltid=AfmBOoqjPioU-PED28xMDHT7Jbg2PkR_z9_dyWMIfg4BApJJoUuAacm8",
+      "titulo": "Secador de Cabelo Profissional Taiff Style 2000W Preto 220V",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4_0WBIQ0c-HaZMsYMqcEqF5xCNBfxXFv8NA&s",
+      "original": "https://cdn.awsli.com.br/600x700/1824/1824275/produto/212004924/secador-pt-style-zistga.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/hair-drier/pt/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkvsxnbsP-hNZzF3tCkeYRHZ-Pol-V7Skfvw&s",
+      "fuentePagina": "https://www.dutramaquinas.com.br/p/secador-de-cabelo-2000-watts-style-pro-0356?srsltid=AfmBOoqUGXJlTjYVpLe63Ci4Ch9X7ggk-A8ye2YfJThwtfS-naH_8t0F",
+      "titulo": "Secador de cabelo 2000 watts 3 temperaturas - Style Pro 110V",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkvsxnbsP-hNZzF3tCkeYRHZ-Pol-V7Skfvw&s",
+      "original": "https://www.dutramaquinas.com.br/shared/img/produto/alta/380769_secador_de_cabelo_2000_watts_style_pro.webp"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/hair-drier/pt/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1r4HTJlviRVW9ZeLqvS6U5t9cl9RaqLUe5A&s",
+      "fuentePagina": "https://www.lojasedmil.com.br/secador-de-cabelo-mondial-scn-01-black-purple-2000w-preto/p?srsltid=AfmBOoorsZWF8Mw4KMlKRaXh-mZDgTAqT1CiB353lb73KdwjFSZoWmpo",
+      "titulo": "Secador de Cabelo Mondial SCN-01 Black Purple 2000W - Preto",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1r4HTJlviRVW9ZeLqvS6U5t9cl9RaqLUe5A&s",
+      "original": "https://io.convertiez.com.br/m/lojasedmil/shop/products/images/1270/medium/secador-de-cabelo-mondial-scn-01-black-purple-2000w-preto_12800.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/hair-drier/pt/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYv2LgYkknWzj0vrA7iaxowAeMUzx0EcfMJw&s",
+      "fuentePagina": "https://www.fujiokadistribuidor.com.br/secador-taiff-red-ion-vermelho-1900w-220v/p",
+      "titulo": "Secador de Cabelo Profissional Taiff Red Íon Vermelho 1.900W ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYv2LgYkknWzj0vrA7iaxowAeMUzx0EcfMJw&s",
+      "original": "https://fujiokadistribuidor.vteximg.com.br/arquivos/ids/223088"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/hair-drier/pt/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSBhhY3uzLcN8EBO65x07xzvwtOr39Hu45Lg&s",
+      "fuentePagina": "https://www.comepi.com.br/cabelo/taiff-secador-de-cabelo-easy-127v",
+      "titulo": "TAIFF: Taiff Secador de cabelo Easy 1700W/127V (COMEPI! Aproveite as  ofertas por tempo limitado!!)",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSBhhY3uzLcN8EBO65x07xzvwtOr39Hu45Lg&s",
+      "original": "https://images.tcdn.com.br/img/img_prod/926373/taiff_secador_de_cabelo_easy_1700w_127v_1693_1_0fa576a024fada2441384f5ca4b06316.png"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/hair-drier/pt/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSz9lJT64-Ta2abDpweU1CfMtTIDpMpKlXAHg&s",
+      "fuentePagina": "https://www.lojasallesprofissional.com.br/equipamentos/secador-de-cabelo/secador-de-cabelo-volcano4200-salles-rosa-110v?srsltid=AfmBOoptLeLFmqEXfnMWzioNCiVJlnaYrl864yOjNKEtHKO8VzIbkJf9",
+      "titulo": "Loja Salles Profissional | Secador de Cabelo Profissional ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSz9lJT64-Ta2abDpweU1CfMtTIDpMpKlXAHg&s",
+      "original": "https://images.tcdn.com.br/img/img_prod/730726/secador_de_cabelo_volcano_4200_salles_profissional_rosa_731_2_054eb3d70e48aa4d3269572c5ffac2a8.jpg"
+    }
+  ]
+}

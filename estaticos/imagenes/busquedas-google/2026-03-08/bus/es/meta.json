@@ -1,0 +1,71 @@
+{
+  "categoria": "bus",
+  "categoriaSlug": "bus",
+  "idioma": "es",
+  "nombreIdioma": "Español",
+  "termino": "autobús",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T20:44:10.018Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "es",
+    "gl": "es"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=autob%C3%BAs&hl=es&gl=es",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bus/es/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJEhyK8T3WEaIgUJyUp7mQwF0Hbtopgb4h3Q&s",
+      "fuentePagina": "https://es.wikipedia.org/wiki/Autob%C3%BAs",
+      "titulo": "Autobús - Wikipedia, la enciclopedia libre",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJEhyK8T3WEaIgUJyUp7mQwF0Hbtopgb4h3Q&s",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Bus_rural_los_angeles_g6.jpg/250px-Bus_rural_los_angeles_g6.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bus/es/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYYHHiulUMsqqyPEOcU3cpxej-trZzrUhmVA&s",
+      "fuentePagina": "https://www.grupopacopepe.com/avada_portfolio/71-plazas/",
+      "titulo": "Autobús de 71 plazas - Autobuses Paco Pepe",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYYHHiulUMsqqyPEOcU3cpxej-trZzrUhmVA&s",
+      "original": "https://www.grupopacopepe.com/wp-content/uploads/2016/03/autobus-71-plazas-scaled.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bus/es/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTq7GbBW8YgmQB89BXEpUY_Pk-ZJb8UIaUpgw&s",
+      "fuentePagina": "https://actoraconsumo.org/derechos-del-consumidor/derechos-en-viajes/derechos-de-los-pasajeros-de-autobus/",
+      "titulo": "Derechos de los pasajeros de autobús y cómo reclamar",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTq7GbBW8YgmQB89BXEpUY_Pk-ZJb8UIaUpgw&s",
+      "original": "https://actoraconsumo.org/wp-content/uploads/2017/11/bus.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bus/es/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRw3DSUR1iDefPnaiJn-8qqI6moVplv-uKHFA&s",
+      "fuentePagina": "https://www.vipcar.es/5-ventajas-de-viajar-en-autobus/",
+      "titulo": "Cinco ventajas de viajar en autobús | VIP CAR Autocares",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRw3DSUR1iDefPnaiJn-8qqI6moVplv-uKHFA&s",
+      "original": "https://www.vipcar.es/wp-content/uploads/2019/07/vipcar-autocar-post.jpg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bus/es/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSe6JK8btS2lN-ZggYFopONyWQDHUZgQFWdwA&s",
+      "fuentePagina": "https://www.freepik.es/fotos-vectores-gratis/autobus-animado",
+      "titulo": "Imágenes de Autobus animado - Descarga gratuita en Freepik",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSe6JK8btS2lN-ZggYFopONyWQDHUZgQFWdwA&s",
+      "original": "https://img.freepik.com/vector-gratis/autobus-escolar-dibujos-animados-sobre-fondo-blanco_1308-132853.jpg?w=360"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bus/es/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKKcQba5Gv3pk_PFdzGrIGNB3HbyOP47aK6A&s",
+      "fuentePagina": "https://autocaresmonsalve.com/empresas-autobuses-madrid",
+      "titulo": "Buscas empresas de autobuses en Madrid? | Monsalve 🚍",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKKcQba5Gv3pk_PFdzGrIGNB3HbyOP47aK6A&s",
+      "original": "https://autocaresmonsalve.com/Media/autocaresmonsalve/dayvo/alquiler-autobuses-excursion.jpg"
+    }
+  ]
+}

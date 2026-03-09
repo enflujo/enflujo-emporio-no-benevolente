@@ -1,0 +1,71 @@
+{
+  "categoria": "dining table",
+  "categoriaSlug": "dining-table",
+  "idioma": "qu",
+  "nombreIdioma": "Quechua",
+  "termino": "manka churana",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:20:00.561Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "es",
+    "gl": "pe"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=manka%20churana&hl=es&gl=pe",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/dining-table/qu/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTo9kH42k8Ycz7Kaa8ik1M_QL1bqP7H1QOJZg&s",
+      "fuentePagina": "https://www.facebook.com/Manka.fusion.artesanal/",
+      "titulo": "Manka Fusión Artesanal | Huaraz",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTo9kH42k8Ycz7Kaa8ik1M_QL1bqP7H1QOJZg&s",
+      "original": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=100063529871967"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/dining-table/qu/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1h91eM81loyawcJ7LEQwTDxqcwRNvB2kdPw&s",
+      "fuentePagina": "https://www.tripadvisor.com.pe/Restaurant_Review-g294314-d6924228-Reviews-Manka-Cusco_Cusco_Region.html",
+      "titulo": "MANKA, Cuzco - Restaurante Opiniones, Carta y Fotos ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1h91eM81loyawcJ7LEQwTDxqcwRNvB2kdPw&s",
+      "original": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/07/83/53/78/sumaq-manka.jpg?w=900&h=500&s=1"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/dining-table/qu/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSsrmHxHvRkt0qqL49W9qZG-Z9hQQvFIWB8A&s",
+      "fuentePagina": "https://www.udocz.com/apuntes/706501/jampi-qhurakunas?utm=embed&action=fullscreen",
+      "titulo": "Jampiqhurakunas | ARACELI LUZ ESCOBAR CHOQUE | uDocz",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSsrmHxHvRkt0qqL49W9qZG-Z9hQQvFIWB8A&s",
+      "original": "https://udocz-cdn-hop.b-cdn.net/documents_html/706501-90f507e04720e4d55a330123b690d830/bg3.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/dining-table/qu/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQCCDYJSM2zPGOB7ZxGfkNq07U_VUBRtU_1Q&s",
+      "fuentePagina": "https://www.instagram.com/mankaperuana/",
+      "titulo": "Manka Peruana (@mankaperuana) • Instagram photos and videos",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQCCDYJSM2zPGOB7ZxGfkNq07U_VUBRtU_1Q&s",
+      "original": "https://lookaside.fbsbx.com/lookaside/crawler/instagram/mankaperuana/profile_pic.jpg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/dining-table/qu/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsr14TXsgo9588zO5dpMmCcKKDJxAMZtQDpA&s",
+      "fuentePagina": "https://www.tripadvisor.com.pe/Restaurant_Review-g294314-d6924228-Reviews-Manka-Cusco_Cusco_Region.html",
+      "titulo": "MANKA, Cuzco - Restaurante Opiniones, Carta y Fotos ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsr14TXsgo9588zO5dpMmCcKKDJxAMZtQDpA&s",
+      "original": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/14/a9/8b/6a/one-of-our-favorite-foods.jpg?w=900&h=500&s=1"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/dining-table/qu/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFXbpF4tSaZT2TSiLtEaW17ApKuA982WFxgA&s",
+      "fuentePagina": "https://atodoperu.com/manka/",
+      "titulo": "Restaurante Manka - A Todo Perú",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFXbpF4tSaZT2TSiLtEaW17ApKuA982WFxgA&s",
+      "original": "https://atodoperu.com/wp-content/uploads/2020/05/IMG-20200528-WA0022_opt-700x430.jpg"
+    }
+  ]
+}

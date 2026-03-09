@@ -1,0 +1,71 @@
+{
+  "categoria": "toilet",
+  "categoriaSlug": "toilet",
+  "idioma": "es",
+  "nombreIdioma": "Español",
+  "termino": "inodoro",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:20:48.462Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "es",
+    "gl": "es"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=inodoro&hl=es&gl=es",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/toilet/es/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRosw7yBFiuHuqD2GaVisKb7-_QQ7k-QGCVEw&s",
+      "fuentePagina": "https://es.wikipedia.org/wiki/Inodoro",
+      "titulo": "Inodoro - Wikipedia, la enciclopedia libre",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRosw7yBFiuHuqD2GaVisKb7-_QQ7k-QGCVEw&s",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/0/06/Toilet_with_flush_water_tank.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/toilet/es/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRO0bj-fZuYlCEI8y1o54eN_hL5tm8-acH0BA&s",
+      "fuentePagina": "https://www.bricomoraleja.com/producto/inodoro-jazmin-blanco/",
+      "titulo": "Inodoro Jazmín Blanco Salida Dual - Bricomoraleja",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRO0bj-fZuYlCEI8y1o54eN_hL5tm8-acH0BA&s",
+      "original": "https://www.bricomoraleja.com/wp-content/uploads/2023/10/blanco.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/toilet/es/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAn9wzoKI-2NB3HYnbJb9SwEKj6vvknQhNog&s",
+      "fuentePagina": "https://www.decorabano.com/inodoro-confort-bruntec.html?srsltid=AfmBOoo5_kIEvZKDIjZ2axaprXVzdqQtJaFZYrw0YzkP_vKcWw5PhVHE",
+      "titulo": "Inodoro confort Bruntec altura 46 cm con cisterna baja ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAn9wzoKI-2NB3HYnbJb9SwEKj6vvknQhNog&s",
+      "original": "https://cdn.decorabano.com/image/upload/ar_4:3,c_lpad,f_auto,h_600,q_auto,w_865/v1/products/f4312c0e-54b1-4279-92e7-dba9668b6ddb/inodoro-confort-bruntec_1762866065.5445416"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/toilet/es/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQArl_ssGZcZSrV69tkG4fxIFdJZ490rHc1cg&s",
+      "fuentePagina": "https://ferrum.com/inodoro-largo-veneto-vnt-in-004-bl.html",
+      "titulo": "Inodoro largo Veneto",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQArl_ssGZcZSrV69tkG4fxIFdJZ490rHc1cg&s",
+      "original": "https://ferrum.com/pub/media/catalog/product/cache/723de03bc8ecfa836485d5b2e3f2ed4a/i/n/inodoro-de-pie-largo-veneto-ferrum-sanitarios-blanco-vnt-in-004-bl-a_1.jpg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/toilet/es/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRr4s0zmq-g-5RQfjKQg0W1ugLk05DzflYtcA&s",
+      "fuentePagina": "https://www.todomueblesdebano.com/inodoro-roca-victoria.html?srsltid=AfmBOophjfquC8bRuygIZbyAdgMAllDegIGe68Vt9m6ORCfyU36JBK7I",
+      "titulo": "Inodoro Roca Victoria | Todomueblesdebaño [2026]",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRr4s0zmq-g-5RQfjKQg0W1ugLk05DzflYtcA&s",
+      "original": "https://cdn.todomueblesdebano.com/image/upload/ar_4:3,c_lpad,f_auto,h_600,q_auto,w_700/v1/products/17ad5fb6-b17a-4a8a-ab9e-4613cae85bb3/Inodoro-vistoria-roca_1744163640.323269"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/toilet/es/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR14pXdY4tZXUMBKs-A-QbUk0C1ifRcW5k8OA&s",
+      "fuentePagina": "https://carintia.es/producto/aquore-smart-toilet-i-wc-inodoro-inteligente-rimless-confort-completo/",
+      "titulo": "AQUORE SMART TOILET i-WC Inodoro Inteligente Rimless Confort Completo ⋆  Carintia | Estilo en tu baño",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR14pXdY4tZXUMBKs-A-QbUk0C1ifRcW5k8OA&s",
+      "original": "https://carintia.es/wp-content/uploads/2024/07/inodoro-iwc.jpg"
+    }
+  ]
+}

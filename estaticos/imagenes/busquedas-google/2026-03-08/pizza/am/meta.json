@@ -1,0 +1,71 @@
+{
+  "categoria": "pizza",
+  "categoriaSlug": "pizza",
+  "idioma": "am",
+  "nombreIdioma": "Amharic — አማርኛ",
+  "termino": "ፒዛ",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:15:10.665Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "am",
+    "gl": "et"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=%E1%8D%92%E1%8B%9B&hl=am&gl=et",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/pizza/am/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQme-YQ9_YFuQakr-ttfaW-nmdVbYEmuo-8WA&s",
+      "fuentePagina": "https://www.youtube.com/watch?v=gARACFGdB-Q",
+      "titulo": "Italian pizza At home የፒዛ አዘገጃጀት",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQme-YQ9_YFuQakr-ttfaW-nmdVbYEmuo-8WA&s",
+      "original": "https://i.ytimg.com/vi/gARACFGdB-Q/maxresdefault.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/pizza/am/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUww0FE_-x2eiN6tqWlzq8TyPejb_js00Arg&s",
+      "fuentePagina": "https://www.youtube.com/watch?v=YdxjXERut9Y",
+      "titulo": "ፒዛ አስራር Ethiopian pizza without cheese @zed kichen ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUww0FE_-x2eiN6tqWlzq8TyPejb_js00Arg&s",
+      "original": "https://i.ytimg.com/vi/YdxjXERut9Y/sddefault.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/pizza/am/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHvBc1BwQpHOH74IpLk5I2tA1hnsbkICnNzQ&s",
+      "fuentePagina": "https://www.youtube.com/watch?v=6ZfpHzK5LdA",
+      "titulo": "ቀላል የጾም ፒዛ አሰራር /QUICK AND EASY HOMEMADE PIZZA-VEGETARIAN",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHvBc1BwQpHOH74IpLk5I2tA1hnsbkICnNzQ&s",
+      "original": "https://i.ytimg.com/vi/6ZfpHzK5LdA/maxresdefault.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/pizza/am/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGUEIsqKFNMAb1DMp9dkdNtIZ-aQtbOGDgtQ&s",
+      "fuentePagina": "https://www.youtube.com/watch?v=dvlEbfclHMg",
+      "titulo": "How to make Homemade Pizza ቆንጆና ቀላል ፒዛ አሰራር- Bahlie tube",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGUEIsqKFNMAb1DMp9dkdNtIZ-aQtbOGDgtQ&s",
+      "original": "https://i.ytimg.com/vi/dvlEbfclHMg/maxresdefault.jpg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/pizza/am/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvA-6EnZyjPBTu9CK56bdD4nvr1CkZASquyw&s",
+      "fuentePagina": "https://www.youtube.com/watch?v=PQwD1HxYB1A",
+      "titulo": "ፒዛ አሰራር|የስጋ ፒዛ|HOW TO MAKE PIZZA AT HOME #Ethiopia",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvA-6EnZyjPBTu9CK56bdD4nvr1CkZASquyw&s",
+      "original": "https://i.ytimg.com/vi/PQwD1HxYB1A/maxresdefault.jpg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/pizza/am/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAX6mYJHbk1Bv429ATf6W0ALdLT86t6CcqWQ&s",
+      "fuentePagina": "https://am.wikipedia.org/wiki/%E1%8D%92%E1%8B%9B",
+      "titulo": "ውክፔዲያ - ፒዛ",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAX6mYJHbk1Bv429ATf6W0ALdLT86t6CcqWQ&s",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/9/97/Sardellenpizza.JPG"
+    }
+  ]
+}

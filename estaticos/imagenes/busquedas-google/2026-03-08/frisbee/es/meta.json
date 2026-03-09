@@ -1,0 +1,71 @@
+{
+  "categoria": "frisbee",
+  "categoriaSlug": "frisbee",
+  "idioma": "es",
+  "nombreIdioma": "Español",
+  "termino": "frisbee",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T20:59:56.514Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "es",
+    "gl": "es"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=frisbee&hl=es&gl=es",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/frisbee/es/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRY8WPB-DaPZq3T33sI_w1Q25El5lg-BLxutw&s",
+      "fuentePagina": "https://www.amazon.es/Joker-81110-Frisbee-Unisex-Amarillo/dp/B0009TNFI6",
+      "titulo": "Joker Wham-O 81110 Frisbee, Unisex Adulto, Amarillo : Amazon ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRY8WPB-DaPZq3T33sI_w1Q25El5lg-BLxutw&s",
+      "original": "https://m.media-amazon.com/images/I/8149-Dsn5mL.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/frisbee/es/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCgDqdBixGJcLCDGqCPm-aaq5ey6OzO3d-rA&s",
+      "fuentePagina": "https://www.novodistribuciones.com/disco-volador-122951",
+      "titulo": "Frisbee De Colores 25 Cm Para Niños Detalle",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCgDqdBixGJcLCDGqCPm-aaq5ey6OzO3d-rA&s",
+      "original": "https://www.novodistribuciones.com/251352-medium_default/disco-volador.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/frisbee/es/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS--HEhij0TKL78qgkqH35e9zEN_BEmFFmq6A&s",
+      "fuentePagina": "https://zabcafe.com/en/products/frizbee-cafelimo?srsltid=AfmBOopInuYQabMo0O8bo3PVtE8SU8sD5oXyiMAX5WCkjIN7kxXNZhEZ",
+      "titulo": "Cafélimo Frisbee – Zab Café",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS--HEhij0TKL78qgkqH35e9zEN_BEmFFmq6A&s",
+      "original": "https://zabcafe.com/cdn/shop/files/frisbee-cafelimo-sky.jpg?v=1748348264&width=1200"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/frisbee/es/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9KEUBjzGj_5R6bxOsTQC0BCrtEcU7YdOLdQ&s",
+      "fuentePagina": "https://www.netjuggler.net/Es/comprar/escuela-definitiva-de-frisbee.html",
+      "titulo": "Frisbee escolar definitivo - LMI [160 g] - NetJuggler",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9KEUBjzGj_5R6bxOsTQC0BCrtEcU7YdOLdQ&s",
+      "original": "https://photos.netjuggler.net/Frisbee-Ultimate-Scolaire-LMI-160g/grande/frisbee-ultimate-scolaire-lmi-160g.65518.jpg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/frisbee/es/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFWHpdVsWEkBG_wVeOD61syErhKkVYF_jbZw&s",
+      "fuentePagina": "https://www.telstarsurf.es/discraft-ultrastar-111198.html",
+      "titulo": "Discraft UltraStar Naranja Frisbee - Telstar Surf",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFWHpdVsWEkBG_wVeOD61syErhKkVYF_jbZw&s",
+      "original": "https://telstarsurf.xcdn.nl/RM625,625/-/catalog/product/111198_1.jpg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/frisbee/es/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOPPeUYRXc0mWVFPbMztz_8WmpOi3qORN0Uw&s",
+      "fuentePagina": "https://en.wikipedia.org/wiki/Frisbee",
+      "titulo": "Frisbee - Wikipedia",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOPPeUYRXc0mWVFPbMztz_8WmpOi3qORN0Uw&s",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Frisbee_090719.jpg/500px-Frisbee_090719.jpg"
+    }
+  ]
+}

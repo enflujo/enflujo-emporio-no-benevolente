@@ -1,0 +1,71 @@
+{
+  "categoria": "skis",
+  "categoriaSlug": "skis",
+  "idioma": "hi",
+  "nombreIdioma": "हिन्दी",
+  "termino": "स्की",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:00:24.096Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "hi",
+    "gl": "in"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=%E0%A4%B8%E0%A5%8D%E0%A4%95%E0%A5%80&hl=hi&gl=in",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/skis/hi/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSp48SheSstl_SZtblrx2Vt7vYPYNdzfCbquw&s",
+      "fuentePagina": "https://www.olympics.com/hi/news/alpine-skiing-winter-olympics-sport",
+      "titulo": "अल्पाइन स्कीइंग क्या है? खेल के ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSp48SheSstl_SZtblrx2Vt7vYPYNdzfCbquw&s",
+      "original": "https://img.olympics.com/images/image/private/t_s_pog_staticContent_hero_md_2x/f_auto/primary/gtrlsx7jxf9h7mzspoaq"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/skis/hi/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcZPx0MJ1W7CuBs7PLt26Ur2gY1rBwiUAX8w&s",
+      "fuentePagina": "https://hi.wikipedia.org/wiki/%E0%A4%B8%E0%A5%8D%E0%A4%95%E0%A5%80",
+      "titulo": "स्की - विकिपीडिया",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcZPx0MJ1W7CuBs7PLt26Ur2gY1rBwiUAX8w&s",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/f/fc/Ski_models_2010.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/skis/hi/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcRdA6mGSl7ebuv0DyqJYQhvGsy71Bdmv8lg&s",
+      "fuentePagina": "https://www.skatepro.com/en-us/a806.htm?srsltid=AfmBOoq6ShXjJOOqLxlKoFU_C6ElPcEF8hVQ4e8m5niRLroq4XaVWGl3",
+      "titulo": "How to choose the best skis for beginners - Buying guide",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcRdA6mGSl7ebuv0DyqJYQhvGsy71Bdmv8lg&s",
+      "original": "https://cdn.skatepro.com/upload/thumbnails/2020/11/piste_4512.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/skis/hi/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ83kpP50BgTRCXUqEi_gXFBRugXofKG_GyJQ&s",
+      "fuentePagina": "https://www.austria.info/en-gb/activities/resorts-for-beginners-and-returning-skiers/",
+      "titulo": "Ski Resorts for Beginners and Returning Skiers in Austria",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ83kpP50BgTRCXUqEi_gXFBRugXofKG_GyJQ&s",
+      "original": "https://fuutazbsb.filerobot.com/Freigegeben/Lebensgefuehl-Oesterreich-Skianfaenger-auf-der-Piste_Oesterreich-Werbung_Marko-Mestrovic.jpeg?gravity=auto&w=1728&h=740&func=crop&q=75"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/skis/hi/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwpgApzZchQutK47r9O-B0Pzc8R6U5bYtINA&s",
+      "fuentePagina": "https://www.valthorens.com/en/ski/forfaits/forfait-6-jours/",
+      "titulo": "6 Day Ski Package Val Thorens : A Week of Escape to the ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwpgApzZchQutK47r9O-B0Pzc8R6U5bYtINA&s",
+      "original": "https://www.valthorens.com/app/uploads/2023/09/230406-ski-salomon-l.brochot-ot-val-thorens-62.webp"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/skis/hi/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXaCZmZZsfgjx07RK79erpmncDIUXSsgD_AQ&s",
+      "fuentePagina": "https://en.wikipedia.org/wiki/Skiing",
+      "titulo": "Skiing - Wikipedia",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXaCZmZZsfgjx07RK79erpmncDIUXSsgD_AQ&s",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/8/84/Ski_Famille_-_Family_Ski_Holidays.jpg"
+    }
+  ]
+}

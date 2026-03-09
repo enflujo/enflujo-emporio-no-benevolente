@@ -1,0 +1,71 @@
+{
+  "categoria": "potted plant",
+  "categoriaSlug": "potted-plant",
+  "idioma": "rw",
+  "nombreIdioma": "Kinyarwanda",
+  "termino": "igiti cyo mu gasibo",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:18:17.460Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "en",
+    "gl": "rw"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=igiti%20cyo%20mu%20gasibo&hl=en&gl=rw",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/potted-plant/rw/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRs-U3QemF5X_jpL0Lv1_0FmruI3WrAaGi38A&s",
+      "fuentePagina": "https://mobile.igihe.com/umuco/amateka/article/akarere-ka-gatsibo-mu-mushinga-wo-kubyaza-umusaruro-igiti-kiri-ahabereye",
+      "titulo": "Igiti cy'itora i Gatsibo, ahabereye amatora ya referandumu ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRs-U3QemF5X_jpL0Lv1_0FmruI3WrAaGi38A&s",
+      "original": "https://mobile.igihe.com/local/cache-vignettes/L1000xH750/igiti-2-13ebe.jpg?1714376535"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/potted-plant/rw/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzp9cjYMDr0LxczKPF_K8MZUuFCfGzD-pffQ&s",
+      "fuentePagina": "https://imvahonshya.co.rw/menya-akamaro-kigiti-cyitwa-umukoyoyo/",
+      "titulo": "Menya akamaro k'igiti cyitwa Umukoyoyo ImvahoNshya",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzp9cjYMDr0LxczKPF_K8MZUuFCfGzD-pffQ&s",
+      "original": "https://imvahonshya.co.rw/wp-content/uploads/2023/12/Umukoyoyo.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/potted-plant/rw/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ11Xo01PxiVUDWpBEu8ITEOYeTDssMj6oOiw&s",
+      "fuentePagina": "http://mobile.igihe.com/umuco/umurage/sobanukirwa-n-igiti-cyitwaga-imana-mu-mateka-nyarwanda",
+      "titulo": "Sobanukirwa n'igiti cyitwaga 'Imana' mu mateka nyarwanda | IGIHE",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ11Xo01PxiVUDWpBEu8ITEOYeTDssMj6oOiw&s",
+      "original": "https://igihe.com/IMG/arton22493.jpg?1333260130"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/potted-plant/rw/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOSV63X6imjwTBJ1MKhX_1iQ6zdAnZ5ibXRw&s",
+      "fuentePagina": "https://www.kigalitoday.com/amakuru/mu-rwanda/article/kayonza-umuturage-afungiwe-igiti-cy-urumogi-cyagaragaye-mu-rugo-rwe",
+      "titulo": "Kayonza: Umuturage afungiwe igiti cy'urumogi cyagaragaye mu ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOSV63X6imjwTBJ1MKhX_1iQ6zdAnZ5ibXRw&s",
+      "original": "https://www.kigalitoday.com/IMG/jpg/Urumogi.jpg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/potted-plant/rw/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfmsH7iXMo6o8kiYbyryZuRG9-pMAHTNLv6Q&s",
+      "fuentePagina": "https://igihe.com/amakuru/muri-afurika/u-rwanda/article/igisobanuro-cy-igiti-cy-icyizere-cyakoreshejwe-mu-gutangiza-icyumweru-cyo",
+      "titulo": "Igisobanuro cy'igiti cy'icyizere cyakoreshejwe mu gutangiza ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfmsH7iXMo6o8kiYbyryZuRG9-pMAHTNLv6Q&s",
+      "original": "https://igihe.com/IMG/logo/2024-04-07_at_13.29_35-16304.jpg?1712584724"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/potted-plant/rw/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEulsQgkxbG-M_2f1VIIfhCTUtVAkYUzzZSg&s",
+      "fuentePagina": "https://kigalitoday.com/amakuru/mu-rwanda/article/kicukiro-hari-igiti-n-iriba-bidasanzwe",
+      "titulo": "Kicukiro: Hari igiti n'iriba bidasanzwe - Kigali Today",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEulsQgkxbG-M_2f1VIIfhCTUtVAkYUzzZSg&s",
+      "original": "https://kigalitoday.com/IMG/jpg/igiti_cy_amahoro.jpg"
+    }
+  ]
+}

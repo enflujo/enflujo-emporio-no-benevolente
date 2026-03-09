@@ -1,0 +1,71 @@
+{
+  "categoria": "book",
+  "categoriaSlug": "book",
+  "idioma": "kg",
+  "nombreIdioma": "Kikongo",
+  "termino": "ntoma",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:28:08.946Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "fr",
+    "gl": "cd"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=ntoma&hl=fr&gl=cd",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/book/kg/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_s8dFFXiWDVxug_1apwdsIPQEV64do91N2A&s",
+      "fuentePagina": "https://ts.wikipedia.org/wiki/Ntoma",
+      "titulo": "Ntoma - Wikipedia",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_s8dFFXiWDVxug_1apwdsIPQEV64do91N2A&s",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Diospyros_mespiliformis_MS_2107.JPG/250px-Diospyros_mespiliformis_MS_2107.JPG"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/book/kg/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2J0TOozC_7xncP8Rtfzb9cSR0j90e8luWWA&s",
+      "fuentePagina": "https://www.modernghana.com/lifestyle/8593/ntoma-fabric-patterns-and-their-proverbial-symbolism-part1.html",
+      "titulo": "Ntoma Fabric Patterns and their Proverbial Symbolism Part1",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2J0TOozC_7xncP8Rtfzb9cSR0j90e8luWWA&s",
+      "original": "https://cdn.modernghana.com/content/500/200/ntoma2bcollection.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/book/kg/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQmDWyk4TtP_jKz_-wJoHvQ6cQUnE-pGDzEA&s",
+      "fuentePagina": "https://ntomaeverything.wordpress.com/",
+      "titulo": "NTOMA EVERYTHING\" – FASHION IS A LIFESTYLE",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQmDWyk4TtP_jKz_-wJoHvQ6cQUnE-pGDzEA&s",
+      "original": "https://ntomaeverything.wordpress.com/wp-content/uploads/2016/07/image.jpeg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/book/kg/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzhXhO_NZEJvhWjPcyN3A3v4KSB0gNOdv4jg&s",
+      "fuentePagina": "https://www.facebook.com/NtomaLodges/posts/did-you-knowntoma-is-the-shangaan-african-language-word-for-the-jackalberry-tree/405794770148889/",
+      "titulo": "Did you know...? Ntoma is the Shangaan (African Language) word for the  Jackalberry Tree (Diospyros mespiliformis). It is a large dioecious  evergreen tree found mostly in the savannas of Africa. Jackals are",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzhXhO_NZEJvhWjPcyN3A3v4KSB0gNOdv4jg&s",
+      "original": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=405794623482237"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/book/kg/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTOFF_TFYaoDk0cwRhMAszQlo3KXfU-HwAqQ&s",
+      "fuentePagina": "https://www.pinterest.com/maaadwoa17/afrika-ntoma-styles/",
+      "titulo": "900+ Afrika Ntoma styles ideas | african fashion, african attire, african  fashion dresses",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTOFF_TFYaoDk0cwRhMAszQlo3KXfU-HwAqQ&s",
+      "original": "https://i.pinimg.com/236x/9b/66/73/9b667384d6d2ae567b91616d90943c37.jpg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/book/kg/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGvkGHxBoyOm2trKns3AkEcSttnxvPaGITVw&s",
+      "fuentePagina": "https://www.etsy.com/market/ntoma",
+      "titulo": "Ntoma - Etsy",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGvkGHxBoyOm2trKns3AkEcSttnxvPaGITVw&s",
+      "original": "https://i.etsystatic.com/10317816/r/il/9371b2/6759707912/il_300x300.6759707912_6zlw.jpg"
+    }
+  ]
+}

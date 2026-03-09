@@ -1,0 +1,71 @@
+{
+  "categoria": "sports ball",
+  "categoriaSlug": "sports-ball",
+  "idioma": "ha",
+  "nombreIdioma": "Hausa",
+  "termino": "ƙwallo",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:01:32.566Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "ha",
+    "gl": "ng"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=%C6%99wallo&hl=ha&gl=ng",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/sports-ball/ha/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTeGHIvFeVBRZKd8AUoZBbMKfxqcuLyN83lxw&s",
+      "fuentePagina": "https://www.bbc.com/hausa/articles/cnv215dq847o",
+      "titulo": "Erling Haaland: Yadda ya ci ƙwallo 100 a wasanni ƙalilan ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTeGHIvFeVBRZKd8AUoZBbMKfxqcuLyN83lxw&s",
+      "original": "https://ichef.bbci.co.uk/ace/ws/640/cpsprodpb/43b3/live/28405840-cfd3-11f0-8f5a-c92765fc418d.jpg.webp"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/sports-ball/ha/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxgFUyhd4keCSWV41DXo3uCbprBk96SAUeag&s",
+      "fuentePagina": "https://www.bbc.com/hausa/articles/cw4y9er9g3zo",
+      "titulo": "Premier League: An yi cinikin ƴan ƙwallo £185.5m fiye da ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxgFUyhd4keCSWV41DXo3uCbprBk96SAUeag&s",
+      "original": "https://ichef.bbci.co.uk/ace/ws/640/cpsprodpb/b1f1/live/8ad845e0-37c1-11ef-9386-fdd59bd4b6b8.jpg.webp"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/sports-ball/ha/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEAuRxgy93OcBWN6lw5V7T7_dP29aQ3W-yww&s",
+      "fuentePagina": "https://www.instagram.com/p/DT8RxJwijsL/",
+      "titulo": "🏹 Ƙwallo ta farko ga Endrick a Ligue 1! A wasanni 3 kacal ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEAuRxgy93OcBWN6lw5V7T7_dP29aQ3W-yww&s",
+      "original": "https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3818004728626428683"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/sports-ball/ha/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7oqJvV-XiGTlS5g54ermMjVfdmq6vYlhz8A&s",
+      "fuentePagina": "https://www.bbc.com/hausa/articles/c2lr7994jy0o",
+      "titulo": "Ƴan ƙwallo Musulmai da ke taka leda suna azumin Ramadan ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7oqJvV-XiGTlS5g54ermMjVfdmq6vYlhz8A&s",
+      "original": "https://ichef.bbci.co.uk/ace/ws/640/cpsprodpb/1753/live/17f7ad00-10c7-11f1-b4d3-abf57a569766.png.webp"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/sports-ball/ha/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRI7X8zzN053g0RcpwMahbcT_Bei4NhXnlSAg&s",
+      "fuentePagina": "https://www.bbc.com/hausa/articles/clyz5617vq7o",
+      "titulo": "Dembele ya ci ƙwallo karo na 10 a jere bayan da PSG ta doke ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRI7X8zzN053g0RcpwMahbcT_Bei4NhXnlSAg&s",
+      "original": "https://ichef.bbci.co.uk/ace/ws/640/cpsprodpb/5817/live/b4acd2b0-e8be-11ef-8bb2-a9986bcdac12.jpg.webp"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/sports-ball/ha/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR42T3ewG1_ME2JdOQmWr5ebvkZZwHmyq3X8g&s",
+      "fuentePagina": "https://www.rfi.fr/ha/wasanni/20260115-hankula-sun-karkata-ga-wasan-%C6%99arshe-na-afcon-tsakanin-morocco-da-senegal",
+      "titulo": "Hankula sun karkata ga wasan ƙarshe na AFCON tsakanin ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR42T3ewG1_ME2JdOQmWr5ebvkZZwHmyq3X8g&s",
+      "original": "https://s.rfi.fr/media/display/8c118ff6-ed92-11f0-90b5-005056a90284/w:1024/p:16x9/000-928Z9BZ.jpg"
+    }
+  ]
+}

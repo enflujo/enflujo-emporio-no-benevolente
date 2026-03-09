@@ -1,0 +1,71 @@
+{
+  "categoria": "tie",
+  "categoriaSlug": "tie",
+  "idioma": "am",
+  "nombreIdioma": "Amharic — አማርኛ",
+  "termino": "ክራቫት",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T20:58:21.674Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "am",
+    "gl": "et"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=%E1%8A%AD%E1%88%AB%E1%89%AB%E1%89%B5&hl=am&gl=et",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/tie/am/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsH7BJ2x9dspAX56fRrZg1YB59CZXUxRiUhg&s",
+      "fuentePagina": "https://am.wikipedia.org/wiki/%E1%8B%A8%E1%8A%AD%E1%88%AB%E1%89%AB%E1%89%B5_%E1%8A%A0%E1%88%B5%E1%89%B0%E1%88%B3%E1%88%B0%E1%88%AD_%E1%8B%98%E1%8B%B4%E1%8B%88%E1%89%BD",
+      "titulo": "ውክፔዲያ - የክራቫት አስተሳሰር ዘዴወች",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsH7BJ2x9dspAX56fRrZg1YB59CZXUxRiUhg&s",
+      "original": "https://upload.wikimedia.org/wikipedia/am/7/70/TyingKravat.gif"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/tie/am/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGSu1oYsTZqHj5bfq9y1lA7nk5QMHgnkDWsg&s",
+      "fuentePagina": "https://www.facebook.com/amenmc/posts/%E1%8A%AD%E1%88%AB%E1%89%AB%E1%89%B5-%E1%88%88%E1%88%9B%E1%88%B0%E1%88%AD-%E1%8D%88%E1%88%8D%E1%8C%88%E1%8B%8D-%E1%8A%A5%E1%8A%95%E1%8B%B4%E1%89%B5-%E1%8A%A5%E1%8A%95%E1%8B%B0%E1%88%9A%E1%89%B3%E1%88%B0%E1%88%AD-%E1%89%A3%E1%88%88%E1%88%9B%E1%8B%88%E1%89%85%E1%8B%8E-%E1%89%B0%E1%89%B8%E1%8C%8D%E1%88%A8%E1%8B%8B%E1%88%8D-%E1%8A%A5%E1%8A%95%E1%8C%8D%E1%8B%B2%E1%8B%AB%E1%8B%8D-%E1%8B%A8%E1%89%B0%E1%88%88%E1%8B%AB%E1%8B%A9-%E1%8B%93%E1%8B%AD%E1%8A%90%E1%89%B5-%E1%8B%A8%E1%8A%A8%E1%88%A8%E1%89%AB%E1%89%B5-%E1%8A%A0%E1%88%B5%E1%89%B0%E1%88%B3%E1%88%B0%E1%88%AE%E1%89%BD%E1%8A%95-%E1%8A%A5%E1%8A%90%E1%88%86-/1321695544674475/",
+      "titulo": "ክራቫት ለማሰር ፈልገው እንዴት እንደሚታሰር ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGSu1oYsTZqHj5bfq9y1lA7nk5QMHgnkDWsg&s",
+      "original": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=1321695478007815"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/tie/am/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgHgPKE4OTYQfD8RUSc1x1j9waoRxYamFEzg&s",
+      "fuentePagina": "https://www.facebook.com/mesfkebede/posts/%E1%8A%AD%E1%88%AB%E1%89%AB%E1%89%B5-%E1%88%88%E1%89%A3%E1%88%BD-%E1%8A%A5%E1%89%A5%E1%8B%B6%E1%89%BD-%E1%88%B0%E1%8B%8D-%E1%8B%AB%E1%89%A0%E1%8B%B0-%E1%88%B3%E1%8B%AD%E1%88%98%E1%88%B5%E1%88%88%E1%8B%8D-%E1%8A%A0%E1%89%A5%E1%8B%B6-%E1%8B%A8%E1%88%9A%E1%8C%88%E1%8A%9D%E1%89%A0%E1%89%B5-%E1%8B%88%E1%89%85%E1%89%B5%E1%8A%93-%E1%8C%8D%E1%8B%9C-%E1%8A%A0%E1%88%88%E1%8B%8D-%E1%88%88%E1%88%9A%E1%8B%AB%E1%8B%AD-%E1%88%B0%E1%8B%8D-%E1%8A%A0%E1%89%A5%E1%8B%B7%E1%88%8D-%E1%88%88%E1%88%AB%E1%88%B1-%E1%8C%8D%E1%8A%95-%E1%8A%A0%E1%8B%AD%E1%89%B3%E1%8B%A8%E1%8B%8D%E1%88%9D-%E1%88%9D%E1%8A%AD/1095792875895771/",
+      "titulo": "ክራቫት ለባሽ እብዶች ============== ሰው ያበደ ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgHgPKE4OTYQfD8RUSc1x1j9waoRxYamFEzg&s",
+      "original": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=1095792715895787"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/tie/am/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOKfEXNpWsg1HT8ZLdsbe2iDKUARdhfUvzgw&s",
+      "fuentePagina": "http://am.yilitie.com/cravat-ascot-tie-product/",
+      "titulo": "የቻይና ክራቫት አስኮ ታይ ፋብሪካ እና አምራቾች |YILI",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOKfEXNpWsg1HT8ZLdsbe2iDKUARdhfUvzgw&s",
+      "original": "http://www.yilitie.com/uploads/PD012-7.jpg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/tie/am/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZbX2IKCkS9Rj9jRz-j1zTdbaj4I6fUMuqLA&s",
+      "fuentePagina": "https://www.facebook.com/amenmc/posts/%E1%8A%AD%E1%88%AB%E1%89%AB%E1%89%B5-%E1%88%88%E1%88%9B%E1%88%B0%E1%88%AD-%E1%8D%88%E1%88%8D%E1%8C%88%E1%8B%8D-%E1%8A%A5%E1%8A%95%E1%8B%B4%E1%89%B5-%E1%8A%A5%E1%8A%95%E1%8B%B0%E1%88%9A%E1%89%B3%E1%88%B0%E1%88%AD-%E1%89%A3%E1%88%88%E1%88%9B%E1%8B%88%E1%89%85%E1%8B%8E-%E1%89%B0%E1%89%B8%E1%8C%8D%E1%88%A8%E1%8B%8B%E1%88%8D-%E1%8A%A5%E1%8A%95%E1%8C%8D%E1%8B%B2%E1%8B%AB%E1%8B%8D-%E1%8B%A8%E1%89%B0%E1%88%88%E1%8B%AB%E1%8B%A9-%E1%8B%93%E1%8B%AD%E1%8A%90%E1%89%B5-%E1%8B%A8%E1%8A%A8%E1%88%A8%E1%89%AB%E1%89%B5-%E1%8A%A0%E1%88%B5%E1%89%B0%E1%88%B3%E1%88%B0%E1%88%AE%E1%89%BD%E1%8A%95-%E1%8A%A5%E1%8A%90%E1%88%86-/1321695544674475/",
+      "titulo": "ክራቫት ለማሰር ፈልገው እንዴት እንደሚታሰር ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZbX2IKCkS9Rj9jRz-j1zTdbaj4I6fUMuqLA&s",
+      "original": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=1321695464674483"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/tie/am/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLgYZSsawxKWpLxN8lNIKScs7Dz6c1erCmQg&s",
+      "fuentePagina": "http://www.geezwatches.com/products?sort-by=price_asc",
+      "titulo": "Products",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLgYZSsawxKWpLxN8lNIKScs7Dz6c1erCmQg&s",
+      "original": "http://www.geezwatches.com/storage/audio/photo-2025-03-16-17-11-58-400x400.jpg"
+    }
+  ]
+}

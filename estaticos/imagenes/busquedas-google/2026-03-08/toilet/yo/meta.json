@@ -1,0 +1,71 @@
+{
+  "categoria": "toilet",
+  "categoriaSlug": "toilet",
+  "idioma": "yo",
+  "nombreIdioma": "Yorùbá",
+  "termino": "ilé ìgbọ̀nsẹ̀",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:20:25.498Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "yo",
+    "gl": "ng"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=il%C3%A9%20%C3%ACgb%E1%BB%8D%CC%80ns%E1%BA%B9%CC%80&hl=yo&gl=ng",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/toilet/yo/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvqWu3Wk_b-33Al2lk0t6xI3YOLzlYQfS2rg&s",
+      "fuentePagina": "https://www.bbc.com/yoruba/articles/c6pyxw5dv5ro",
+      "titulo": "Unilorin mú kí àwọn akẹ́kọ̀ọ́ tó wọ aṣọ tí kò tọ́ ṣán oko ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvqWu3Wk_b-33Al2lk0t6xI3YOLzlYQfS2rg&s",
+      "original": "https://ichef.bbci.co.uk/ace/ws/640/cpsprodpb/505f/live/29936d20-0bd2-11ef-82e8-cd354766a224.jpg.webp"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/toilet/yo/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRF5eXsW1cBIzmUWwNO8H1S31NlaieW9R9Kpw&s",
+      "fuentePagina": "https://www.bbc.com/yoruba/articles/cn0p4j44vq7o",
+      "titulo": "Wo ilé ìgbọ̀nsẹ̀ tí kò lo omi rárá, ike àti gíláàsì tí wọn ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRF5eXsW1cBIzmUWwNO8H1S31NlaieW9R9Kpw&s",
+      "original": "https://ichef.bbci.co.uk/ace/ws/640/cpsprodpb/8e28/live/c9a88300-83b4-11ee-a637-09bc290f2b6f.jpg.webp"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/toilet/yo/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQXiTlchwbFldJkrUVVL9CRDfW33QuCm_Adw&s",
+      "fuentePagina": "https://www.bbc.com/yoruba/media-59449403",
+      "titulo": "Akure Murder: Ọlọ́pàá bẹ̀rẹ̀ ìwádìí àwọn olólùfẹ́ yìí tí ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQXiTlchwbFldJkrUVVL9CRDfW33QuCm_Adw&s",
+      "original": "https://ichef.bbci.co.uk/ace/ws/640/cpsprodpb/1199/production/_121850540_dbe00812-4a45-4d10-828b-3791184d9d37.jpg.webp"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/toilet/yo/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSy9yhsN-gIaHZsZ_Wn9zgp73RhdlwoxJiu6g&s",
+      "fuentePagina": "https://fohomeceramics.com/yo/%C3%80w%E1%BB%8Dn-il%C3%A9-%C3%ACgb%E1%BB%8D%CC%80ns%E1%BA%B9%CC%80-wo-l%C3%B3-gbaj%C3%BAm%E1%BB%8D%CC%80-j%C3%B9l%E1%BB%8D-n%C3%AD-%E1%BB%8Dj%C3%A0-Argentina/",
+      "titulo": "Àwọn Ilé Ìgbọ̀nsẹ̀ Wo Ni Ó Gbajúmọ̀ Jùlọ Ní Ọjà Argentina ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSy9yhsN-gIaHZsZ_Wn9zgp73RhdlwoxJiu6g&s",
+      "original": "https://fohomeceramics.com/wp-content/uploads/2026/01/Bathroom.webp"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/toilet/yo/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbzWu6T3rwYKCvkF31yGbX5AVg4_gal6evyg&s",
+      "fuentePagina": "https://www.bbc.com/yoruba/articles/cjlz79nrgyxo",
+      "titulo": "Nǹkan yan, ilé ẹjọ́ ní kí ọmọ 'yahoo' lọ fọ ilé ìgbọ̀nsẹ̀ ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbzWu6T3rwYKCvkF31yGbX5AVg4_gal6evyg&s",
+      "original": "https://ichef.bbci.co.uk/ace/ws/640/cpsprodpb/124b/live/48dc0320-f187-11ec-8935-4f1eb8b88d37.jpg.webp"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/toilet/yo/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCjtC7QiKTeJsxYv9JdPYNWZKt0YjJdMEjUg&s",
+      "fuentePagina": "https://www.facebook.com/100063675229000/posts/i%E1%B9%A3%E1%BA%B9ju-m%C3%A9l%C3%B2%C3%B3-l%E1%BA%B9-ma-lo-ninu-iru-il%C3%A9-%C3%ACgb%E1%BB%8D%CC%80ns%E1%BA%B9%CC%80-y%C3%AC%C3%AD-p%E1%BA%B9l%C3%BA-gbogbo-anfaani-to-wa-nibe-y/1224048449727651/",
+      "titulo": "Iṣẹju mélòó lẹ ma lo ninu iru ilé ìgbọ̀nsẹ̀ yìí pẹlú gbogbo ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCjtC7QiKTeJsxYv9JdPYNWZKt0YjJdMEjUg&s",
+      "original": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=1224048416394321"
+    }
+  ]
+}

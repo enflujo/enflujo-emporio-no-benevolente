@@ -1,0 +1,71 @@
+{
+  "categoria": "clock",
+  "categoriaSlug": "clock",
+  "idioma": "pt",
+  "nombreIdioma": "Português",
+  "termino": "relógio",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:29:18.505Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "pt",
+    "gl": "br"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=rel%C3%B3gio&hl=pt&gl=br",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/clock/pt/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3R36cV0uih2agPtvFt-vaUfGbkrN5onRCMg&s",
+      "fuentePagina": "https://www.amazon.com.br/Esportivo-Pulseira-Resistente-Qualidade-Regulagem/dp/B0D8XQ1QMK",
+      "titulo": "Relógio Digital Esportivo Led Preto Pulso Pulseira De Silicone Resistente  Juvenil Qualidade Premium Alto Nível De Regulagem (Somente a Cor Preta) -  ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3R36cV0uih2agPtvFt-vaUfGbkrN5onRCMg&s",
+      "original": "https://m.media-amazon.com/images/I/41TehCBgTiL._AC_UF1000,1000_QL80_.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/clock/pt/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8yv4X0OuPN8zJbmfnOCtvzycnVtIB8JVJlg&s",
+      "fuentePagina": "https://www.americanas.com.br/relogio-digital-estilo-g-masculino-esportivo-militar-prata-17493ec1953260b9/p",
+      "titulo": "Relógio Digital Estilo G Masculino Esportivo Militar Prata",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8yv4X0OuPN8zJbmfnOCtvzycnVtIB8JVJlg&s",
+      "original": "https://americanas.vtexassets.com/arquivos/ids/32491502/Relogio-Digital-Estilo-G-Masculino-Esportivo-Militar-Prata.jpg?v=638851877643200000"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/clock/pt/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvgKOisnfnCqguUjKOkdJtLj5jYQZ6FX2POg&s",
+      "fuentePagina": "https://www.tropicalmultiloja.com.br/integra/relogio-de-parede-079-aluminio-sulclock?srsltid=AfmBOoq6f1dKieBElqbqtlcYfOwHNhsyz1RwPJXNwESM84aCVGpPE5j_",
+      "titulo": "Relógio de Parede Quartz em Alumínio Escovado Ambiente ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvgKOisnfnCqguUjKOkdJtLj5jYQZ6FX2POg&s",
+      "original": "https://images.tcdn.com.br/img/img_prod/841126/relogio_de_parede_quartz_em_aluminio_escovado_15593_1_b313d04461ef8319131a2bbd6e072dcf.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/clock/pt/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjehPU33s2k--lExn_TyawN6pd-Z3ooX3NrQ&s",
+      "fuentePagina": "https://www.amazon.com.br/LIGE-Masculinos-Anal%C3%B3gico-Masculino-Waterproo/dp/B089Q8JM93",
+      "titulo": "Relógios, relógio masculino de aço inoxidável completo azul ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjehPU33s2k--lExn_TyawN6pd-Z3ooX3NrQ&s",
+      "original": "https://m.media-amazon.com/images/I/51sc7a6ZP0L._AC_SY900_.jpg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/clock/pt/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAAY1SjFQDbCX_mthCEC7n487DHnngN7RjRQ&s",
+      "fuentePagina": "https://www.pendulari.com.br/relogio-de-luxo-masculino-dourado-classico-casual-analogico?srsltid=AfmBOop81Lz8uQCpK97zdVEaUXCWsI0NfhR6SSoTbL_-lRLtmIihTvbw",
+      "titulo": "Relógio De Luxo Masculino Dourado Clássico Casual Analógico ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAAY1SjFQDbCX_mthCEC7n487DHnngN7RjRQ&s",
+      "original": "https://cdn.awsli.com.br/1293/1293420/produto/291828712/relogio-casual-masculino-dourado-prata-analogico-9988-ol-09a_06-f08gewjv3h.jpg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/clock/pt/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPVBI5sxgUeaN4UEsBXGk-Q2ohXDrJrNa-CQ&s",
+      "fuentePagina": "https://www.philliplondon.co/relogio-masculino-falcon-silver-46mm?srsltid=AfmBOorJ6NejhQ9rqCj99bWwk9l3ntnotJ0eJSdz7K_UNpBKWsD-aNAY",
+      "titulo": "Relógio Masculino Falcon Silver 46mm com design robusto e ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPVBI5sxgUeaN4UEsBXGk-Q2ohXDrJrNa-CQ&s",
+      "original": "https://images.tcdn.com.br/img/img_prod/1259972/relogio_masculino_falcon_silver_46mm_399_9_e669ac6b18b0833f740802a74c1bf71b.png"
+    }
+  ]
+}

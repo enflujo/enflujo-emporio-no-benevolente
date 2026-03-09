@@ -1,0 +1,71 @@
+{
+  "categoria": "bottle",
+  "categoriaSlug": "bottle",
+  "idioma": "ar",
+  "nombreIdioma": "العربية",
+  "termino": "زجاجة",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:06:19.972Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "ar",
+    "gl": "eg"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=%D8%B2%D8%AC%D8%A7%D8%AC%D8%A9&hl=ar&gl=eg",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bottle/ar/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWKVnSJowEVZqLAoUFshXtNeFKvhmrhCoc0Q&s",
+      "fuentePagina": "https://upack-eg.com/product/juice-glass-bottle/?srsltid=AfmBOooGQsP4zgny43BKX7l1GwX7BBnjClYOaAETu7bqejaorl8Oxcdb",
+      "titulo": "Juice Glass Bottle",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWKVnSJowEVZqLAoUFshXtNeFKvhmrhCoc0Q&s",
+      "original": "https://upack-eg.com/wp-content/uploads/2022/03/juice-glass-bottles.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bottle/ar/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRl7-GP6t25yA5oLF8opwqPWVxw_TSH-W35Xw&s",
+      "fuentePagina": "https://beytnahomeware.com/shop/%D8%B2%D8%AC%D8%A7%D8%AC%D8%A9-%D9%85%D9%8A%D8%A7%D9%87-2/?srsltid=AfmBOooHmdPySt-McqQqTKYtZ6Xnsaj3EwM2VgmgnxeldSJMUegY4hGx",
+      "titulo": "زجاجة مياه شرب رياضية سعة 500 مل - أزرق - Beytna Homeware",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRl7-GP6t25yA5oLF8opwqPWVxw_TSH-W35Xw&s",
+      "original": "https://beytnahomeware.com/wp-content/uploads/2023/08/8695122004900-scaled.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bottle/ar/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZ-f0evlCJ6LQxU28FFRe1pCJ6fwL3cqvYtw&s",
+      "fuentePagina": "https://www.ikea.com/eg/ar/p/spartansk-water-bottle-clear-glass-green-60517953/",
+      "titulo": "SPARTANSK قارورة ماء, زجاج شفاف/أخضر, 0.5 ل - IKEA",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZ-f0evlCJ6LQxU28FFRe1pCJ6fwL3cqvYtw&s",
+      "original": "https://www.ikea.com/eg/ar/images/products/spartansk-water-bottle-clear-glass-green__1062060_pe850637_s5.jpg?f=s"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bottle/ar/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGGhu5HHsU27revkDYxsQwhXZnx3SqN11-IQ&s",
+      "fuentePagina": "https://max-plast.com/ar/shop/%D8%A7%D9%84%D8%B9%D9%88%D8%AF%D8%A9-%D8%A7%D9%84%D9%8A-%D8%A7%D9%84%D9%85%D8%AF%D8%A7%D8%B1%D8%B3/%D8%A7%D9%84%D8%B2%D8%AC%D8%A7%D8%AC%D8%A7%D8%AA/max-crystal-bottle/?srsltid=AfmBOoreEQmXOryKRcJ5q_vWczWcJsfDWZEQpPrIgnVNE-qvOpCtc2l7",
+      "titulo": "زجاجة ماكس كريستال - Maxplast",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGGhu5HHsU27revkDYxsQwhXZnx3SqN11-IQ&s",
+      "original": "https://i0.wp.com/max-plast.com/wp-content/uploads/2025/01/554.jpg?fit=1080%2C1080&ssl=1"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bottle/ar/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkO1ds7KXARA32piiEHRCOWVYsGgQAZaaUyw&s",
+      "fuentePagina": "https://tupperware-egypt.com/ar/products/%D9%82%D9%86%D9%8A%D9%86%D8%A9-%D9%85%D8%A7%D8%A1-%D9%85%D8%B9-%D8%BA%D8%B7%D8%A7%D8%A1-%D9%A5%D9%A0%D9%A0-%D9%85%D9%84%D9%84-%D8%A7%D8%B2%D8%B1%D9%82?srsltid=AfmBOopagIcN2qDI3YBsToySGeuxC8q_90VQ5Lsq9pPEsCWQ5Udnd8gQ",
+      "titulo": "زجاجة مياه Eco plus - غطاء كبس - 500 ملل – ازرق",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkO1ds7KXARA32piiEHRCOWVYsGgQAZaaUyw&s",
+      "original": "https://tupperware-egypt.com/cdn/shop/files/EP5-4384.jpg?v=1708504990"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bottle/ar/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2IgalKHQGIxOhSB4WWsKNutbDS-zwxQPCjQ&s",
+      "fuentePagina": "https://kenzz.com/product/7RLDU4K8RZVH/%D8%B2%D8%AC%D8%A7%D8%AC%D8%A9-%D9%85%D9%8A%D8%A7%D9%87-%D8%B2%D8%AC%D8%A7%D8%AC-%D8%B4%D9%81%D8%A7%D9%81%D9%87-500-%D9%85%D9%84?srsltid=AfmBOop1dQlKlOjDTdMYadVD79YxDhNID8m_LIaTkAPnjoLAwgtkEwc7",
+      "titulo": "زجاجة مياه بلاستيك شفافه - 500 مل",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2IgalKHQGIxOhSB4WWsKNutbDS-zwxQPCjQ&s",
+      "original": "https://assets.kenzz.com/products/395342/001_B0CWPP7Q5M.jpeg"
+    }
+  ]
+}

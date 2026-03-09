@@ -1,0 +1,71 @@
+{
+  "categoria": "scissors",
+  "categoriaSlug": "scissors",
+  "idioma": "zu",
+  "nombreIdioma": "isiZulu",
+  "termino": "isikelo",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:30:26.298Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "zu",
+    "gl": "za"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=isikelo&hl=zu&gl=za",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/scissors/zu/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXUrQAnokPyw6_kuutnCAEjyjBfiITyNrEzA&s",
+      "fuentePagina": "https://izindaba.scrolla.africa/isimanga-owesilisa-eshutheka-isikelo-ezinqeni/",
+      "titulo": "Isimanga owesilisa eshutheka isikelo ezinqeni | Scrolla Izindaba",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXUrQAnokPyw6_kuutnCAEjyjBfiITyNrEzA&s",
+      "original": "https://scrollaafricazulu.storage.googleapis.com/content/media/2023/05/23052255/230522Scissors.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/scissors/zu/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHgJXZlGkdYTWAYp8tOIgjJ1135v9xqh0oSg&s",
+      "fuentePagina": "https://www.rtkitchenknife.com/zu/video/products-detail-4708018",
+      "titulo": "Isikelo Esisha Somkhiqizo Wezinwele RJ22&RJ23 | I-RUITAI",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHgJXZlGkdYTWAYp8tOIgjJ1135v9xqh0oSg&s",
+      "original": "https://img001.video2b.com/1515/file_11711100592353.jpg?x-oss-process=image/resize,m_lfit,w_768/format,webp/quality,80"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/scissors/zu/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9ye1oCDBPYHJ1irf2ttP5w_Ytt3xCPvf7bg&s",
+      "fuentePagina": "https://zu.secrets-of-dream-interpretation.com/Isikelo-ephusheni/",
+      "titulo": "Iyini incazelo yokubona isikelo ephusheni ngu-Ibn Sirin no ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9ye1oCDBPYHJ1irf2ttP5w_Ytt3xCPvf7bg&s",
+      "original": "https://secrets-of-dream-interpretation.com/wp-content/uploads/2022/11/%D8%B1%D8%A4%D9%8A%D8%A9-%D8%A7%D9%84%D9%85%D9%82%D8%B5.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/scissors/zu/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZg9xhc2KxcM_fiBpSJFB1QCiScqi_hi7Fvg&s",
+      "fuentePagina": "https://www.rtkitchenknife.com/zu/video/products-detail-4708018",
+      "titulo": "Isikelo Esisha Somkhiqizo Wezinwele RJ22&RJ23 | I-RUITAI",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZg9xhc2KxcM_fiBpSJFB1QCiScqi_hi7Fvg&s",
+      "original": "https://img001.video2b.com/1515/file_21711100592353.jpg?x-oss-process=image/resize,m_lfit,w_768/format,webp/quality,80"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/scissors/zu/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRN-WLVtVSpLhJhnF7fevOuQENc0wg09oJHiw&s",
+      "fuentePagina": "https://zu.interpret-dreams-online.com/Isikelo-ephusheni/",
+      "titulo": "Ukuhunyushwa kokubona isikelo ephusheni ngu-Ibn Sirin ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRN-WLVtVSpLhJhnF7fevOuQENc0wg09oJHiw&s",
+      "original": "https://interpret-dreams-online.com/wp-content/uploads/2023/01/%D8%A7%D9%84%D9%85%D9%82%D8%B5%D8%A7%D8%AA-%D9%81%D9%8A-%D8%A7%D9%84%D9%85%D9%86%D8%A7%D9%85.jpg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/scissors/zu/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrKg8GAoxg45I0DYiBrGFz_B-zsuAD3BvtZg&s",
+      "fuentePagina": "https://www.rtkitchenknife.com/zu/video/products-detail-4708018",
+      "titulo": "Isikelo Esisha Somkhiqizo Wezinwele RJ22&RJ23 | I-RUITAI",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrKg8GAoxg45I0DYiBrGFz_B-zsuAD3BvtZg&s",
+      "original": "https://img001.video2b.com/1515/file_51711100592353.jpg?x-oss-process=image/resize,m_lfit,w_768/format,webp/quality,80"
+    }
+  ]
+}

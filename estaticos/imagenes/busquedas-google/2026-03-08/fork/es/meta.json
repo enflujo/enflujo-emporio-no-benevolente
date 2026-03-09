@@ -1,0 +1,71 @@
+{
+  "categoria": "fork",
+  "categoriaSlug": "fork",
+  "idioma": "es",
+  "nombreIdioma": "Español",
+  "termino": "tenedor",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:08:27.826Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "es",
+    "gl": "es"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=tenedor&hl=es&gl=es",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/fork/es/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQv__7t0F6qMyW1e-eX-J9P8-nWuIXjPAegiw&s",
+      "fuentePagina": "https://glassur.es/sevilla-tenedor-mesa-caja-12-uds-17168.html",
+      "titulo": "SEVILLA TENEDOR MESA Caja 12 Uds.",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQv__7t0F6qMyW1e-eX-J9P8-nWuIXjPAegiw&s",
+      "original": "https://glassur.es/77687-large_default/sevilla-tenedor-mesa-caja-12-uds.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/fork/es/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGA8P55y-GKkA4uPsOx6Q56nL62Q4P79JeSQ&s",
+      "fuentePagina": "https://www.fumisan.es/tenedor-mesa-acero-inox-comas-north-2839.html",
+      "titulo": "Comprar Tenedor Mesa Comas North S (12 uds) Online",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGA8P55y-GKkA4uPsOx6Q56nL62Q4P79JeSQ&s",
+      "original": "https://www.fumisan.es/14346-large_default/tenedor-mesa-acero-inox-comas-north.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/fork/es/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLYeKmmPALeMtQrHUPFkTSHuGwtygCxZxA_Q&s",
+      "fuentePagina": "https://www.amazon.com/-/es/Tenedor-inoxidable-pulgadas-resistente-lavavajillas/dp/B08FHGQTRK",
+      "titulo": "Amazon.com: Tenedor de cena de acero inoxidable 18/10, 8 ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLYeKmmPALeMtQrHUPFkTSHuGwtygCxZxA_Q&s",
+      "original": "https://m.media-amazon.com/images/I/61z0LVrrowL._AC_UF894,1000_QL80_.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/fork/es/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4NY4Ve20NjdGMhfO_jLLI686ajHQkv46Odg&s",
+      "fuentePagina": "https://productoshosteleros.com/8100/1651-tenedor-pescado-cruz-de-malta-8100.html",
+      "titulo": "TENEDOR PESCADO CRUZ DE MALTA 8100",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4NY4Ve20NjdGMhfO_jLLI686ajHQkv46Odg&s",
+      "original": "https://productoshosteleros.com/4610-large_default/tenedor-pescado-cruz-de-malta-8100.jpg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/fork/es/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwLFpC75Fgmp-G5aRBnl6z--g87w1VX2OD4g&s",
+      "fuentePagina": "https://www.monouso.es/tenedor-de-plastico-premium-ps-negro-190mm-1000-uds-9087.html?srsltid=AfmBOop-Rox3bkN_nW9em-NFZbwyCnk9SwwdfxatTsMLMD1vH3czLzEE",
+      "titulo": "Tenedor de Plástico Premium PS Negro 190mm (1000 Uds)",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwLFpC75Fgmp-G5aRBnl6z--g87w1VX2OD4g&s",
+      "original": "https://www.monouso.es/cdn-cgi/image/width=610,quality=80/33007-large_default/tenedor-de-plastico-premium-ps-negro-190mm-1000-uds.jpg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/fork/es/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4dcus2lvGZTnn8amO8mMBoSm3XZfROJQOxw&s",
+      "fuentePagina": "https://www.retif.es/fourchette-inox-18cm-argent-par-100.html?srsltid=AfmBOoopv0yDae6GTV3ZyPIAE2rfORm6U4ScIAEZAAeMZIDlgKkGdmHt",
+      "titulo": "Tenedor acero inoxidable 18 cm plata - 100 unidades",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4dcus2lvGZTnn8amO8mMBoSm3XZfROJQOxw&s",
+      "original": "https://www.retif.es/media/catalog/product/5/0/501340_Retif_PH_01.jpg?quality=80&bg-color=255,255,255&fit=bounds&height=920&width=920&canvas=920:920"
+    }
+  ]
+}

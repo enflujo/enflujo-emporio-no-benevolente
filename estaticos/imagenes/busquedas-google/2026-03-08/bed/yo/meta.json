@@ -1,0 +1,71 @@
+{
+  "categoria": "bed",
+  "categoriaSlug": "bed",
+  "idioma": "yo",
+  "nombreIdioma": "Yorùbá",
+  "termino": "àkètà",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:19:07.535Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "yo",
+    "gl": "ng"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=%C3%A0k%C3%A8t%C3%A0&hl=yo&gl=ng",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bed/yo/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9JzVLwSHyVHoxTATvyezspSDihqBSbKLgEg&s",
+      "fuentePagina": "https://www.goal.com/en-ng/news/ake-focused-on-more-playing-time-at-man-city-after-chelsea-end-transfer-pursuit/bltcb1ce3ce3c9ca306",
+      "titulo": "Ake 'focused' on more playing time at Man City after Chelsea ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9JzVLwSHyVHoxTATvyezspSDihqBSbKLgEg&s",
+      "original": "https://assets.goal.com/images/v3/blt15741665d6f53c7b/Nathan_Ake_pre-season_2022_Man_City.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bed/yo/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGtJRI16U5nNKT-psI1gdFXPgpzej2UkvpfQ&s",
+      "fuentePagina": "https://ha.wikipedia.org/wiki/Nathan_Ake",
+      "titulo": "Nathan Ake - Wikipedia",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGtJRI16U5nNKT-psI1gdFXPgpzej2UkvpfQ&s",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/3/34/Yokohama_F._Marinos_-_Manchester_City_%283-5%29_-_53075276224_%28Nathan_Ake%29.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bed/yo/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShxsnbVMtj697FjR-UDckKYR2kbRS8iX-opg&s",
+      "fuentePagina": "https://www.football.london/arsenal-fc/news/nathan-ake-explains-man-city-29078958",
+      "titulo": "Nathan Ake explains why Man City are not worried about ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShxsnbVMtj697FjR-UDckKYR2kbRS8iX-opg&s",
+      "original": "https://i2-prod.football.london/article29079041.ece/ALTERNATES/s1200c/0_GettyImages-2150163949.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bed/yo/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTeO1InYGcfPMdT8rxtalT2UF3abodsxVYpQg&s",
+      "fuentePagina": "https://www.mancity.com/players/nathan-ake/news",
+      "titulo": "Nathan Aké - Profile, News & Videos | Manchester City F.C. ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTeO1InYGcfPMdT8rxtalT2UF3abodsxVYpQg&s",
+      "original": "https://www.mancity.com/meta/media/zzjpkf42/nathan-ake-elec-blue.png"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bed/yo/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTA3raq5vSgAAu3KsOpXwBWErVdFwlpNHDDJg&s",
+      "fuentePagina": "https://www.bbc.com/sport/football/articles/c0jgq8n91jgo",
+      "titulo": "Nathan Ake: Manchester City hope defender will be fit to ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTA3raq5vSgAAu3KsOpXwBWErVdFwlpNHDDJg&s",
+      "original": "https://c.files.bbci.co.uk/5066/live/f0813410-fb66-11ef-a22a-99baa85a29ca.jpg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bed/yo/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8pX524hkxneoublECMSMvMPe5RYBwfkPkJA&s",
+      "fuentePagina": "https://www.manchestercity.news/nathan-ake-man-city-wife-stats-wages-salary-height-weight-stats-position-goals-transfer-fee/",
+      "titulo": "Who is Nathan Ake? Age, stats, wages of the Man City defender",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8pX524hkxneoublECMSMvMPe5RYBwfkPkJA&s",
+      "original": "https://cdn1.manchestercity.news/uploads/30/2024/08/GettyImages-1920702188-1140x783.jpg"
+    }
+  ]
+}

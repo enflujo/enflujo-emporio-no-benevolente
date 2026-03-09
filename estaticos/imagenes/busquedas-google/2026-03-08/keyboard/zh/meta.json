@@ -1,0 +1,71 @@
+{
+  "categoria": "keyboard",
+  "categoriaSlug": "keyboard",
+  "idioma": "zh",
+  "nombreIdioma": "中文",
+  "termino": "键盘",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:23:59.990Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "zh-CN",
+    "gl": "cn"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=%E9%94%AE%E7%9B%98&hl=zh-CN&gl=cn",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/keyboard/zh/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvZO5sukQTY0LIjVvgqZ5Zp1XoWpmTQY3KJw&s",
+      "fuentePagina": "https://zhuanlan.zhihu.com/p/79346714",
+      "titulo": "电脑键盘的详细介绍，学电脑必看！ - 知乎",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvZO5sukQTY0LIjVvgqZ5Zp1XoWpmTQY3KJw&s",
+      "original": "https://picx.zhimg.com/v2-79b59f409dd114ebc560c0d6eb388ded_1440w.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/keyboard/zh/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAXb7irJ796Mip_lynONkscjOcRqOXHP_CuQ&s",
+      "fuentePagina": "https://www.logitech.com/zh-cn/shop/c/keyboards",
+      "titulo": "电脑键盘- 无线，蓝牙，机械| 罗技",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAXb7irJ796Mip_lynONkscjOcRqOXHP_CuQ&s",
+      "original": "https://www.logitech.com/content/dam/logitech/en/products/keyboards/k250/gallery/k-250-graphite-top-02.png"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/keyboard/zh/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqmIBBSmAb4YDDHbcyCt4ZDGU3aC2UIlZ2oA&s",
+      "fuentePagina": "https://www.apple.com.cn/cn-edu/shop/product/mxcl3ch/a",
+      "titulo": "妙控键盘- 中文(拼音) - 教育- Apple (中国大陆)",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqmIBBSmAb4YDDHbcyCt4ZDGU3aC2UIlZ2oA&s",
+      "original": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/MXCL3CH?wid=1144&hei=1144&fmt=jpeg&qlt=90&.v=YlRteW1ydjMzNC96bjJBN0hZdm5nbUplSUFzS2tKYWdhODBINzNubEdCUXk1VXUzQzBNamRxOFhueFJ3ck9OSWlFVEQrYkl4Q2phU3llM0tpa1ZYaGc"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/keyboard/zh/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSaJCIxy074M-iRCyZeC_ek6F_MVZ2uedmJ3g&s",
+      "fuentePagina": "https://blog.csdn.net/weixin_30733003/article/details/95765259",
+      "titulo": "104键键盘布局高清示意图-CSDN博客",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSaJCIxy074M-iRCyZeC_ek6F_MVZ2uedmJ3g&s",
+      "original": "https://i-blog.csdnimg.cn/blog_migrate/3ab3ed3209e9ae410a5607734a5e79e7.jpeg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/keyboard/zh/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlZY7BzbimOClS2MqmUb8b2jjrQKYU3Pz6NQ&s",
+      "fuentePagina": "https://www.logitechg.com/zh-cn/shop/p/g316-x-8k-customizable-mechanical-gaming-keyboard",
+      "titulo": "G316 X 8K Customizable Gaming Keyboard | Logitech G",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlZY7BzbimOClS2MqmUb8b2jjrQKYU3Pz6NQ&s",
+      "original": "https://www.logitechg.com/content/dam/gaming/en/products/g316-x-pdp/gallery-images-black/new/g316x-keyboard-top-angle-black-gallery-1.png"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/keyboard/zh/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyQuPFgPet_nD7CfSeIQJgWNSI-j6n96OefA&s",
+      "fuentePagina": "https://www.microsoftstore.com.cn/accessories/surface-pro-keyboard",
+      "titulo": "Surface Pro 键盘 | 微软官方商城",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyQuPFgPet_nD7CfSeIQJgWNSI-j6n96OefA&s",
+      "original": "https://cdn.microsoftstore.com.cn/media/product_long_description/3881-00000/pdp_image/3.jpg"
+    }
+  ]
+}

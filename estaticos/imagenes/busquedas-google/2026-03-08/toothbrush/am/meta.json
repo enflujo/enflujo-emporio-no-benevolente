@@ -1,0 +1,71 @@
+{
+  "categoria": "toothbrush",
+  "categoriaSlug": "toothbrush",
+  "idioma": "am",
+  "nombreIdioma": "Amharic — አማርኛ",
+  "termino": "የጥርስ ብሩሽ",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:32:26.855Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "am",
+    "gl": "et"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=%E1%8B%A8%E1%8C%A5%E1%88%AD%E1%88%B5%20%E1%89%A5%E1%88%A9%E1%88%BD&hl=am&gl=et",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/toothbrush/am/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzVNJ6DVR5lSE9V_aRz_lI7EDCgXMZp2MyDw&s",
+      "fuentePagina": "http://am.puretoothbrush.com/teeth-whitening-toothbrush-oral-products-fade-color-toothbrush-product/",
+      "titulo": "የቻይና ጥርስ ነጩ የጥርስ ብሩሽ የቃል ምርቶች ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzVNJ6DVR5lSE9V_aRz_lI7EDCgXMZp2MyDw&s",
+      "original": "https://cdn.globalso.com/puretoothbrush/10%E7%89%99%E5%88%B7%E4%B8%BB%E5%9B%BE23.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/toothbrush/am/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRR13_LyiKdFEyat01BZwdtUPg6SiRtNDFP8g&s",
+      "fuentePagina": "http://am.puretoothbrush.com/teeth-whitening-toothbrush-oral-products-fade-color-toothbrush-product/",
+      "titulo": "የቻይና ጥርስ ነጩ የጥርስ ብሩሽ የቃል ምርቶች ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRR13_LyiKdFEyat01BZwdtUPg6SiRtNDFP8g&s",
+      "original": "https://cdn.globalso.com/puretoothbrush/10%E7%89%99%E5%88%B7%E4%B8%BB%E5%9B%BE7.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/toothbrush/am/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXcF7bafnI--FZFqAQYOKeoV6nBK9dYk2RJA&s",
+      "fuentePagina": "http://am.puretoothbrush.com/teeth-whitening-toothbrush-oral-products-fade-color-toothbrush-product/",
+      "titulo": "የቻይና ጥርስ ነጩ የጥርስ ብሩሽ የቃል ምርቶች ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXcF7bafnI--FZFqAQYOKeoV6nBK9dYk2RJA&s",
+      "original": "https://cdn.globalso.com/puretoothbrush/10%E7%89%99%E5%88%B7%E4%B8%BB%E5%9B%BE13.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/toothbrush/am/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBQQ_fSHB9NSgkIl2auTZtG5vLhRLYDXvTjQ&s",
+      "fuentePagina": "http://am.puretoothbrush.com/personalised-toothbrush-dental-products-cleaning-brush-product/",
+      "titulo": "ቻይና ለግል የተበጀ የጥርስ ብሩሽ የጥርስ ምርቶች ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBQQ_fSHB9NSgkIl2auTZtG5vLhRLYDXvTjQ&s",
+      "original": "http://www.puretoothbrush.com/uploads/Desinged-For-Adults-5.jpg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/toothbrush/am/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPLo9UAnfpmxcDFOp4iSY4XGPQ_TRKLUGGsg&s",
+      "fuentePagina": "http://am.puretoothbrush.com/eco-toothbrush-plastic-toothbrush-product/",
+      "titulo": "የቻይና ኢኮ የጥርስ ብሩሽ የፕላስቲክ የጥርስ ብሩሽ ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPLo9UAnfpmxcDFOp4iSY4XGPQ_TRKLUGGsg&s",
+      "original": "https://cdn.globalso.com/puretoothbrush/11%E7%89%99%E5%88%B7%E4%B8%BB%E5%9B%BE7.jpg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/toothbrush/am/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxoc_tVhvTM4Z5g9oJSzVRqYhJFaFbR4UZ7A&s",
+      "fuentePagina": "https://www.facebook.com/DrHelinaFenta/posts/%E1%88%88%E1%8C%A4%E1%8A%93%E1%88%9B-%E1%8B%A8%E1%8A%A0%E1%8D%8D-%E1%8A%A5%E1%8A%95%E1%8A%AD%E1%89%A5%E1%8A%AB%E1%89%A4-%E1%8B%A8%E1%8C%A5%E1%88%AD%E1%88%B5-%E1%89%A5%E1%88%A9%E1%88%BD-%E1%8B%88%E1%88%B3%E1%8A%99-%E1%8A%90%E1%8C%88%E1%88%AD-%E1%8A%90%E1%8B%8D-%E1%89%A0%E1%8C%A5%E1%88%AD%E1%88%B5-%E1%88%85%E1%8A%AD%E1%88%9D%E1%8A%93-%E1%89%A3%E1%88%88%E1%88%99%E1%8B%AB%E1%8B%8E%E1%89%BD-%E1%8B%A8%E1%88%9A%E1%88%98%E1%8A%A8%E1%88%A8%E1%8B%8D-%E1%88%88%E1%88%B5%E1%88%8B%E1%88%B3-%E1%8B%A8%E1%88%86%E1%8A%90-%E1%89%A5%E1%88%A9%E1%88%BD-%E1%88%B2%E1%88%86%E1%8A%95-%E1%88%9D%E1%8A%AD%E1%8A%95/681862687709292/",
+      "titulo": "ለጤናማ የአፍ እንክብካቤ የጥርስ ብሩሽ ወሳኙ ነገር ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxoc_tVhvTM4Z5g9oJSzVRqYhJFaFbR4UZ7A&s",
+      "original": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=683242147571346"
+    }
+  ]
+}

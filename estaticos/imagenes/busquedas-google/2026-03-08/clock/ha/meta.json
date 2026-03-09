@@ -1,0 +1,71 @@
+{
+  "categoria": "clock",
+  "categoriaSlug": "clock",
+  "idioma": "ha",
+  "nombreIdioma": "Hausa",
+  "termino": "agogo",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:28:56.624Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "ha",
+    "gl": "ng"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=agogo&hl=ha&gl=ng",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/clock/ha/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREVqturkGXjPfZaCOFIHss6v9698V24jCzeQ&s",
+      "fuentePagina": "https://en.wikipedia.org/wiki/Agog%C3%B4",
+      "titulo": "Agogô - Wikipedia",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREVqturkGXjPfZaCOFIHss6v9698V24jCzeQ&s",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/7/71/Modern-Agogo.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/clock/ha/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSK2E2QJQ2BeReKo4tWyLvCDuSQdcdp4kzDAA&s",
+      "fuentePagina": "https://everyevery.ng/a-yoruba-musical-instrument-agogo/",
+      "titulo": "A YORUBA MUSICAL INSTRUMENT: AGOGO | EveryEvery",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSK2E2QJQ2BeReKo4tWyLvCDuSQdcdp4kzDAA&s",
+      "original": "https://everyevery.ng/wp-content/uploads/2019/06/WhatsApp-Image-2019-06-05-at-08.44.11.jpeg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/clock/ha/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSje3MLDAxMlHEEcJb3Jr_oN2va18OzpJZ92w&s",
+      "fuentePagina": "https://www.shutterstock.com/search/african-agogo",
+      "titulo": "106 African Agogo Royalty-Free Images, Stock Photos ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSje3MLDAxMlHEEcJb3Jr_oN2va18OzpJZ92w&s",
+      "original": "https://www.shutterstock.com/image-photo/african-black-agogo-bell-metal-600nw-2143815165.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/clock/ha/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRk1UTZyDlwtQoTIlrLobu4FN0vgadyu2HAKg&s",
+      "fuentePagina": "https://www.amazon.co.uk/A-Star-Metal-Double-Agogo-Bells/dp/B00JBYUJ98",
+      "titulo": "A-Star Two Tone Double Metal Samba Agogo Bells with ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRk1UTZyDlwtQoTIlrLobu4FN0vgadyu2HAKg&s",
+      "original": "https://m.media-amazon.com/images/I/510+HQPmDLL._AC_UF1000,1000_QL80_.jpg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/clock/ha/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXgdzW32ULzzz-ELztFKvuXW2BYWx1Jr8ziw&s",
+      "fuentePagina": "https://en.wikipedia.org/wiki/Junior_Agogo",
+      "titulo": "Junior Agogo - Wikipedia",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXgdzW32ULzzz-ELztFKvuXW2BYWx1Jr8ziw&s",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/a/a4/Junioragogo.jpg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/clock/ha/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlc_WRLnbl9lKKNeJ2EFPVjC7qI2lmr1MfCQ&s",
+      "fuentePagina": "https://www.facebook.com/afrimaofficial/posts/the-agog%C3%B4-yoruba-agogo-meaning-bell-is-a-single-or-a-multiple-bell-now-used-thro/2360517424190355/",
+      "titulo": "The agogô (Yoruba: agogo, meaning bell) is a single or a ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlc_WRLnbl9lKKNeJ2EFPVjC7qI2lmr1MfCQ&s",
+      "original": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=2360517367523694"
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "categoria": "snowboard",
+  "categoriaSlug": "snowboard",
+  "idioma": "hi",
+  "nombreIdioma": "हिन्दी",
+  "termino": "स्नोबोर्ड",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:01:00.785Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "hi",
+    "gl": "in"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=%E0%A4%B8%E0%A5%8D%E0%A4%A8%E0%A5%8B%E0%A4%AC%E0%A5%8B%E0%A4%B0%E0%A5%8D%E0%A4%A1&hl=hi&gl=in",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/snowboard/hi/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDqVi1zWNmvo90RcabJ2tX1DAGnpICiubAXg&s",
+      "fuentePagina": "https://www.amazon.in/-/hi/Sledsterz-%E0%A4%9C%E0%A4%BF%E0%A4%AF%E0%A5%8B%E0%A4%B8%E0%A5%8D%E0%A4%AA%E0%A5%87%E0%A4%B8-%E0%A4%A6%E0%A5%8D%E0%A4%B5%E0%A4%BE%E0%A4%B0%E0%A4%BE-%E0%A4%95%E0%A4%BF%E0%A4%A1%E0%A5%8D%E0%A4%B8-%E0%A4%B8%E0%A5%8D%E0%A4%A8%E0%A5%8B%E0%A4%AC%E0%A5%8B%E0%A4%B0%E0%A5%8D%E0%A4%A1/dp/B01N021CG9",
+      "titulo": "Sledsterz रेड में जियोस्पेस द्वारा ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDqVi1zWNmvo90RcabJ2tX1DAGnpICiubAXg&s",
+      "original": "https://m.media-amazon.com/images/I/81rrddfReqL._AC_UF894,1000_QL80_.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/snowboard/hi/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPR7skfMcoNLDmErT0LH56_sXjE_ggHGoEGw&s",
+      "fuentePagina": "https://dictionary.langeek.co/en-HI/word/171264?entry=snowboard",
+      "titulo": "अंग्रेज़ी में \"Snowboard\" की परिभाषा ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPR7skfMcoNLDmErT0LH56_sXjE_ggHGoEGw&s",
+      "original": "https://cdn.langeek.co/photo/61624/original/snowboard?type=jpeg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/snowboard/hi/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3o6LcEprbzZMPdadPyq4XqwvqOsjlcOVBVg&s",
+      "fuentePagina": "https://www.dopesnow.com/mag/what-to-wear-snowboarding-skiing/?srsltid=AfmBOorbe7o58zGx5XnamqT9cxXW-Iv9KhcupWlCI-y0ZUvqtoJyowQ1",
+      "titulo": "What to wear snowboarding and skiing | Dope Magazine",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3o6LcEprbzZMPdadPyq4XqwvqOsjlcOVBVg&s",
+      "original": "https://www.dopesnow.com/images/wordpress-4582242/uploads/2024/05/what-to-wear-snowboarding-and-skiing-dope-magazine.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/snowboard/hi/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpxyhD7ZGykea6fPtB6Oo3AaVRhZo6AnUSUg&s",
+      "fuentePagina": "https://www.dopesnow.com/mag/is-snowboarding-a-good-workout/?srsltid=AfmBOopHOkF498RQtb49ozgz3d1-1DHt6oIdF1V8XJLp_XHgxJyNtoUW",
+      "titulo": "Is snowboarding a good workout? - Top 5 benefits | Dope Magazine",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpxyhD7ZGykea6fPtB6Oo3AaVRhZo6AnUSUg&s",
+      "original": "https://www.dopesnow.com/images/wordpress-4582242/uploads/2023/01/top-5-health-benefits-of-skiing-and-snowboarding-dope-magazine.jpg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/snowboard/hi/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlu3AL-dH_F7zvCwpBo1ivyZyoYGA3FqQKng&s",
+      "fuentePagina": "https://www.klook.com/en-IN/activity/138438-snowboard-lessons-in-winsport-calgary/",
+      "titulo": "Snowboard Lessons in Winsport Calgary - Klook India",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlu3AL-dH_F7zvCwpBo1ivyZyoYGA3FqQKng&s",
+      "original": "https://res.klook.com/image/upload/w_750,h_469,c_fill,q_85/w_80,x_15,y_15,g_south_west,l_Klook_water_br_trans_yhcmh3/activities/s8hm4fy6ze2udwk0v0hj.jpg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/snowboard/hi/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRs5lvXxekMb44My0pN0-X5dqm2lBdmSSdN0A&s",
+      "fuentePagina": "https://www.klook.com/en-IN/activity/138438-snowboard-lessons-in-winsport-calgary/",
+      "titulo": "Snowboard Lessons in Winsport Calgary - Klook India",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRs5lvXxekMb44My0pN0-X5dqm2lBdmSSdN0A&s",
+      "original": "https://res.klook.com/images/fl_lossy.progressive,q_65/c_fill,w_1295,h_864/w_80,x_15,y_15,g_south_west,l_Klook_water_br_trans_yhcmh3/activities/j1twhxxvwe3h9ft75zgw/CanadaSnowboardLessonsinAlbertaCalgary.jpg"
+    }
+  ]
+}

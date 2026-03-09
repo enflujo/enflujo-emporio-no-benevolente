@@ -1,0 +1,71 @@
+{
+  "categoria": "scissors",
+  "categoriaSlug": "scissors",
+  "idioma": "nah",
+  "nombreIdioma": "Náhuatl",
+  "termino": "tlaxintepoztli",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:30:39.456Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "es",
+    "gl": "mx"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=tlaxintepoztli&hl=es&gl=mx",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/scissors/nah/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqyEgnnXTAfdexR6UBG4U-FxVx1EU3wFFXlQ&s",
+      "fuentePagina": "https://librepedia.miraheze.org/wiki/Tlaximaltepoztli",
+      "titulo": "Tlaximaltepoztli - LibrePedia",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqyEgnnXTAfdexR6UBG4U-FxVx1EU3wFFXlQ&s",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/1/11/Tepoztli_Codex_Laud_p._43.png"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/scissors/nah/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQit17k_j4se-hRLN3x3KZupyXKWXS83VX9_Q&s",
+      "fuentePagina": "https://www.reddit.com/r/MexicoPreHispanic/comments/1pw0lq1/tlacotzontli_es_una_deidad_mexica_el_dios/",
+      "titulo": "Tlacotzontli es una deidad mexica, el dios protector de los ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQit17k_j4se-hRLN3x3KZupyXKWXS83VX9_Q&s",
+      "original": "https://preview.redd.it/tlacotzontli-es-una-deidad-mexica-el-dios-protector-de-los-v0-91dji01rri9g1.jpeg?auto=webp&s=fbe1c6d064d82af8a447015824992ff8aca07b6d"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/scissors/nah/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXGgY9JoXOsUmkMKIYnRUhAtRXI9PYBRhM3g&s",
+      "fuentePagina": "https://es.wikipedia.org/wiki/Tlacaxipehualiztli",
+      "titulo": "Tlacaxipehualiztli - Wikipedia, la enciclopedia libre",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXGgY9JoXOsUmkMKIYnRUhAtRXI9PYBRhM3g&s",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Calendarxt.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/scissors/nah/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjLARzs05gmkWHGNh7onuxILMTguk8_O5PgQ&s",
+      "fuentePagina": "https://www.infobae.com/america/mexico/2021/12/18/acamapichtli-el-primer-tlatoani-azteca-del-que-descendieron-todos-los-gobernantes-de-tenochtitlan/",
+      "titulo": "Acamapichtli: el primer tlatoani azteca del que descendieron ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjLARzs05gmkWHGNh7onuxILMTguk8_O5PgQ&s",
+      "original": "https://www.infobae.com/new-resizer/cpf14j8n9sMxkEm8L9j6J1s9ipk=/arc-anglerfish-arc2-prod-infobae/public/AXSTK5BVUNC7NEFWPLHDVXOYAY.jpeg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/scissors/nah/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqjvGiYknHEy5zD_vVMH4jvRKtLIYAsmVGpA&s",
+      "fuentePagina": "https://es.wikipedia.org/wiki/Tlacotzontli",
+      "titulo": "Tlacotzontli - Wikipedia, la enciclopedia libre",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqjvGiYknHEy5zD_vVMH4jvRKtLIYAsmVGpA&s",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Tlacotzontli.jpg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/scissors/nah/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6xVzvsiQ4u3b19eLapBfUzdyIOKYWh9cFdg&s",
+      "fuentePagina": "https://www.cronica.com.mx/academia/tlacomiztli-medio-gato.html",
+      "titulo": "El tlacomiztli o medio gato – La Crónica de Hoy",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6xVzvsiQ4u3b19eLapBfUzdyIOKYWh9cFdg&s",
+      "original": "https://cloudfront-us-east-1.images.arcpublishing.com/lacronicadehoy/OZSNCISCGLAFFOBQCX3TRZ4LUU.jpg"
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "categoria": "microwave",
+  "categoriaSlug": "microwave",
+  "idioma": "zu",
+  "nombreIdioma": "isiZulu",
+  "termino": "imayikhrowevu",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:25:05.071Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "zu",
+    "gl": "za"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=imayikhrowevu&hl=zu&gl=za",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/microwave/zu/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwyJeYt6KtmhByJzmhanFiQVbSaEnFW7w-0A&s",
+      "fuentePagina": "https://www.sowetan.co.za/news/2026-01-28-ekurhulenis-mngwevu-remembered-for-leadership-compassion-after-death/",
+      "titulo": "LISTEN | Ekurhuleni's Mngwevu remembered for leadership ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwyJeYt6KtmhByJzmhanFiQVbSaEnFW7w-0A&s",
+      "original": "https://www.sowetan.co.za/resizer/v2/ROL4463L3JE47AEV7SEV6BQ3OE.jpg?auth=06c06bce654cbbf422b325843f65fc318bc5f1207faf498b2d7120df669e30a2&width=300"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/microwave/zu/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSH1caWAd_fm3mnhZk1hzs-GNERWzsjfgtVAA&s",
+      "fuentePagina": "https://www.instagram.com/p/DTcR5B9jTw4/",
+      "titulo": "The Limpopo Premier, alongside MEC for Education Mavhungu ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSH1caWAd_fm3mnhZk1hzs-GNERWzsjfgtVAA&s",
+      "original": "https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3829471417977322359"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/microwave/zu/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtkAiHCVeBuWEi_GHZca64NjZIa3wthJ2iMg&s",
+      "fuentePagina": "https://www.instagram.com/p/C6T_i6wi7nY/",
+      "titulo": "southafrica🇿🇦 Ummemo hosted by Inkhosi Manyovu III ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtkAiHCVeBuWEi_GHZca64NjZIa3wthJ2iMg&s",
+      "original": "https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3356305602841824801"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/microwave/zu/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQK7kJ1C2QJDwEmIY-kT3SxIt2d3x0lSS6HbQ&s",
+      "fuentePagina": "https://amref.ac.ke/category/leadership/",
+      "titulo": "Leadership Archives - Amref International University (AMIU)",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQK7kJ1C2QJDwEmIY-kT3SxIt2d3x0lSS6HbQ&s",
+      "original": "https://amref.ac.ke/wp-content/uploads/2025/11/Tsitsi-Masiyiwa.png"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/microwave/zu/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7qInR4gfn9fKYcRvHAxE_6LBF1qeaJZDCQw&s",
+      "fuentePagina": "https://www.instagram.com/prophetessmemorymatimbire/",
+      "titulo": "Prophetess Memory (@prophetessmemorymatimbire) • Instagram ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7qInR4gfn9fKYcRvHAxE_6LBF1qeaJZDCQw&s",
+      "original": "https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3682337863370941649"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/microwave/zu/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYcGPQUjwJe_ed_wU9cslBVtrI5cfiUBpF_w&s",
+      "fuentePagina": "https://www.instagram.com/reel/DVWFCXLioh3/",
+      "titulo": "📌 Eastern Cape! The mandate remains Total Freedom and ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYcGPQUjwJe_ed_wU9cslBVtrI5cfiUBpF_w&s",
+      "original": "https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3840956895008239795"
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "categoria": "sink",
+  "categoriaSlug": "sink",
+  "idioma": "ar",
+  "nombreIdioma": "العربية",
+  "termino": "حوض المطبخ",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:27:04.605Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "ar",
+    "gl": "eg"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=%D8%AD%D9%88%D8%B6%20%D8%A7%D9%84%D9%85%D8%B7%D8%A8%D8%AE&hl=ar&gl=eg",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/sink/ar/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7gIpivHA47HZR2o16Y1LVlNa2xB5_0olIeg&s",
+      "fuentePagina": "https://panorama-egypt.com/index.php?route=product/product&product_id=813",
+      "titulo": "حوض مطبخ استانلس سمارت 45*75سم بخلاط و فلتر و شلال و2 صفاية و لوح تقطيع و  مغسلة اكواب و صبانة صابون سائل وحنفيه فلتر اللون رمادي غامق",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7gIpivHA47HZR2o16Y1LVlNa2xB5_0olIeg&s",
+      "original": "https://panorama-egypt.com/image/cache/catalog/Panorama/7eaa9d_fec74adb4f3c4919b04afc29d734f78d~mv2-550x550.webp"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/sink/ar/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1y8AZr-F4ug1jzlJUruvOqg90p8eHJxxdjA&s",
+      "fuentePagina": "https://www.sebakashop.com/product/%D8%AD%D9%88%D8%B6-%D8%A7%D9%84%D9%85%D8%B7%D8%A8%D8%AE-%D9%87%D8%A7%D9%86%D8%AF%D9%85%D9%8A%D8%AF-60-x-45-%D8%B3%D9%85-%D9%86%D8%A7%D9%86%D9%88%D8%B3%D9%8A%D8%B1%D8%A7%D9%85%D9%8A%D9%83-%D8%B3/?srsltid=AfmBOoqoLQCIQen1RpvjSJnjlSOFjTiowCccAPi3e9Jcog3APcXyySlU",
+      "titulo": "حوض المطبخ هاندميد 60 × 45 سم نانوسيراميك 3 مم HandMade ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1y8AZr-F4ug1jzlJUruvOqg90p8eHJxxdjA&s",
+      "original": "https://www.sebakashop.com/wp-content/uploads/2024/09/%D8%AD%D9%88%D8%B6-%D8%A7%D9%84%D9%85%D8%B7%D8%A8%D8%AE-%D9%87%D8%A7%D9%86%D8%AF%D9%85%D9%8A%D8%AF-60-45-%D8%B3%D9%85-%D9%84%D9%84%D8%AE%D9%84%D8%A7%D8%B7-%D9%88%D8%AD%D9%86%D9%81%D9%8A%D8%A9-%D8%A7%D9%84%D9%81%D9%84%D8%AA%D8%B1-%D8%A3%D9%88-%D8%AF%D9%8A%D8%B3%D9%8A%D9%86%D8%B3%D8%B1-%D8%A7%D9%84%D8%B5%D8%A7%D8%A8%D9%88%D9%86-%D8%A7%D8%B3%D8%AA%D8%A7%D9%86%D9%84%D8%B3-304-%D8%B3%D9%85%D9%83-3-%D9%85%D9%85-%D8%A8%D8%B7%D8%A8%D9%82%D8%A9-%D9%86%D8%A7%D9%86%D9%88%D8%B3%D9%8A%D8%B1%D8%A7%D9%85%D9%8A%D9%83-%D9%85%D8%B6%D8%A7%D8%AF%D8%A9-%D9%84%D8%A7%D9%84%D8%AA%D8%B5%D8%A7%D9%82-%D8%A7%D9%84%D8%AF%D9%87%D9%88%D9%86-%D9%88%D8%A7%D9%84%D8%A8%D9%83%D8%AA%D8%B1%D9%8A%D8%A7-1.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/sink/ar/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsTPF5eza2iqObG119jP8N7NaeaLNt-WkO0A&s",
+      "fuentePagina": "https://boomegypt.com/product/%D8%AD%D9%88%D8%B6-%D9%85%D8%B7%D8%A8%D8%AE-%D8%B3%D9%85%D8%A7%D8%B1%D8%AA-%D9%85%D9%82%D8%A7%D8%B3-7545-5-%D8%B2%D8%B1%D8%A7%D8%B1-%D8%A8%D8%B4%D8%A7%D8%B4%D9%87-%D8%AF%D9%8A%D8%AC%D9%8A%D8%AA/",
+      "titulo": "حوض مطبخ سمارت مقاس 75*45 / 5 زرار بشاشه ديجيتال | بوم ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsTPF5eza2iqObG119jP8N7NaeaLNt-WkO0A&s",
+      "original": "https://boomegypt.com/wp-content/uploads/2024/05/71D8skLpsZL._AC_SX679_.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/sink/ar/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMA_FcgKvHR3NeUg2Rr4pWX4uj9esSYlNf4Q&s",
+      "fuentePagina": "https://www.sebakashop.com/product/%D8%AD%D9%88%D8%B6-%D8%A7%D9%84%D9%85%D8%B7%D8%A8%D8%AE-%D8%B3%D9%85%D8%A7%D8%B1%D8%AA-75-x-45-%D8%B3%D9%85-%D8%A8%D8%A7%D9%84%D8%B5%D8%B1%D9%81-%D9%88-%D8%A7%D9%84%D9%85%D8%B4%D8%AA%D9%85%D9%84/?srsltid=AfmBOopDpY9nRMJDFXn3aA7zckGQuuBeMN0sXT8n1rmUd16KfohOHcnr",
+      "titulo": "حوض المطبخ سمارت 75 × 45 سم HENZ KOREA ( اسود - ذهبي - رمادي ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMA_FcgKvHR3NeUg2Rr4pWX4uj9esSYlNf4Q&s",
+      "original": "https://www.sebakashop.com/wp-content/uploads/2023/09/%D8%AD%D9%88%D8%B6-%D8%A7%D9%84%D9%85%D8%B7%D8%A8%D8%AE-%D8%B3%D9%85%D8%A7%D8%B1%D8%AA-%D8%A7%D9%84%D8%A3%D8%B3%D9%88%D8%AF-%D8%A7%D9%84%D9%83%D9%88%D8%B1%D9%8A-75-45-%D9%85%D9%86-%D9%87%D9%8A%D9%86%D8%B2-%D9%83%D9%88%D8%B1%D9%8A%D8%A75-HENZ-KOREA-SMART-KITCHEN-SINK.jpg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/sink/ar/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT94gG-CHoZKv_JMCHHWz3g-i-0OkpEGB8Scw&s",
+      "fuentePagina": "https://www.amazon.eg/%D8%A7%D9%84%D9%85%D8%B7%D8%A8%D8%AE-%D8%B3%D9%85%D8%A7%D8%B1%D8%AA-%D8%A7%D9%84%D8%AF%D9%8A%D8%AC%D9%8A%D8%AA%D8%A7%D9%84-%D8%A8%D8%A7%D9%84%D8%B5%D8%B1%D9%81-%D8%A7%D9%84%D9%85%D8%B4%D8%AA%D9%85%D9%84%D8%A7%D8%AA/dp/B0CN4WH985",
+      "titulo": "حوض المطبخ سمارت الديجيتال 75 × 45 سم لون اسود بالصرف و المشتملات 3 مم:  اشتري اون لاين بأفضل الاسعار في مصر - سوق.كوم الان اصبحت امازون مصر",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT94gG-CHoZKv_JMCHHWz3g-i-0OkpEGB8Scw&s",
+      "original": "https://m.media-amazon.com/images/I/51xqSTuxV1L._AC_UF894,1000_QL80_.jpg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/sink/ar/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTODh3qgbuDhGaeOjvFLVEJ4brPx7JqIi28Kw&s",
+      "fuentePagina": "https://www.jumia.com.eg/stainless-steel-kitchen-basin-78-43-generic-mpg814894.html?srsltid=AfmBOopmfmsmiB3jyj1bCX6dChRNXkoJVqijckyNO-NPNiGfFQllzRch",
+      "titulo": "Stainless Steel Kitchen Basin 78 × 43 - Generic - Jumia Egypt",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTODh3qgbuDhGaeOjvFLVEJ4brPx7JqIi28Kw&s",
+      "original": "https://eg.jumia.is/unsafe/fit-in/500x500/filters:fill(white)/product/99/746122/1.jpg?3210"
+    }
+  ]
+}

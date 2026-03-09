@@ -1,0 +1,71 @@
+{
+  "categoria": "book",
+  "categoriaSlug": "book",
+  "idioma": "ar",
+  "nombreIdioma": "العربية",
+  "termino": "كتاب",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:28:22.457Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "ar",
+    "gl": "eg"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=%D9%83%D8%AA%D8%A7%D8%A8&hl=ar&gl=eg",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/book/ar/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0rBagw357bCu_f9I_KYZzT6aKN9mXhSuxmQ&s",
+      "fuentePagina": "https://ar.pikbest.com/png-images/qiantu-cartoon-open-book-without-button_2608862.html",
+      "titulo": "كرتون كتاب مفتوح بدون زر | صور PNG PSD تحميل مجاني - Pikbest",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0rBagw357bCu_f9I_KYZzT6aKN9mXhSuxmQ&s",
+      "original": "https://img.pikbest.com/png-images/qiantu/cartoon-open-book-without-button_2608862.png!sw800"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/book/ar/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsM6zfm4BZw-hBHt70p3aMt61NBZS_vZ2btw&s",
+      "fuentePagina": "https://www.facebook.com/openvvbook/",
+      "titulo": "كتاب مفتوح.‎ (@openvvbook) • Facebook",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsM6zfm4BZw-hBHt70p3aMt61NBZS_vZ2btw&s",
+      "original": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=100063581446488"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/book/ar/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwpJgjQBLGH8Tr-BgoAiOsBtJuG3TVC8smOQ&s",
+      "fuentePagina": "https://www.pinterest.com/mostafadagheer/%D9%83%D8%AA%D8%A7%D8%A8-%D9%85%D9%81%D8%AA%D9%88%D8%AD/",
+      "titulo": "أفكار13 {اسم المجلس } | كتاب, روضة, ملصقات",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwpJgjQBLGH8Tr-BgoAiOsBtJuG3TVC8smOQ&s",
+      "original": "https://i.pinimg.com/originals/5f/c8/d4/5fc8d454a690edc255ddf209adc19da3.png"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/book/ar/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRr-Pd8DJ6GqzAmG23gEyUOAwTO6I7RrcVmJQ&s",
+      "fuentePagina": "https://blog.mostaql.com/creative-books-design/",
+      "titulo": "تعرّف إلى كيفية تصميم كتب احترافية - مدونة مستقل",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRr-Pd8DJ6GqzAmG23gEyUOAwTO6I7RrcVmJQ&s",
+      "original": "https://blog.mostaql.com/wp-content/uploads/2023/05/%D8%AA%D8%B5%D9%85%D9%8A%D9%85-%D9%83%D8%AA%D8%A8-%D8%A7%D8%AD%D8%AA%D8%B1%D8%A7%D9%81%D9%8A%D8%A9.png"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/book/ar/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCY3dhBaqiOekm-XujYOStlUqJoDbdfdkD4Q&s",
+      "fuentePagina": "https://bshra.com/arabic/5uxadwix",
+      "titulo": "في يوم الكتاب العالمي.. الكتاب غذاء الفكر",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCY3dhBaqiOekm-XujYOStlUqJoDbdfdkD4Q&s",
+      "original": "https://bshra.com/filestorage/58faf4a93af56.jpg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/book/ar/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlziVGaFzwAy4vslgSVplirDAHsaQDOjqO4Q&s",
+      "fuentePagina": "https://www.pinterest.com/smbamen/%D8%B5%D9%88%D8%B1-%D9%83%D8%AA%D8%A8/",
+      "titulo": "اكتشف عالم الأناقة مع 17 من أفكار صور كتب وكتب | كتاب، وصورة ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlziVGaFzwAy4vslgSVplirDAHsaQDOjqO4Q&s",
+      "original": "https://i.pinimg.com/736x/20/db/c3/20dbc3dd2446c0ead60b7ee0d10275cd.jpg"
+    }
+  ]
+}

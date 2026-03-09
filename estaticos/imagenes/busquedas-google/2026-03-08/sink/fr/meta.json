@@ -1,0 +1,71 @@
+{
+  "categoria": "sink",
+  "categoriaSlug": "sink",
+  "idioma": "fr",
+  "nombreIdioma": "Français",
+  "termino": "évier",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:26:54.096Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "fr",
+    "gl": "be"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=%C3%A9vier&hl=fr&gl=be",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/sink/fr/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6Y4X9O2-E8-8uR_Lprs5gTNBKvr31SJOrpw&s",
+      "fuentePagina": "https://www.bol.com/be/fr/p/evier-de-cuisine-chrome-55-45cm-eviers-avec-1-bac-evier-de-cuisine-en-acier-inoxydable-brosse-avec-siphon-et-evier-en-granit-trop-plein-simple-cuve/9300000178014984/",
+      "titulo": "Évier de Cuisine chromé 55*45CM Éviers avec 1 bac Évier de ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6Y4X9O2-E8-8uR_Lprs5gTNBKvr31SJOrpw&s",
+      "original": "https://media.s-bol.com/0klGLE78mkrG/Vmv8xrW/550x550.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/sink/fr/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrwz2rsKHW83GbOrVXNL2a6N2rZb3kfQDajg&s",
+      "fuentePagina": "https://www.ikea.com/be/fr/p/vresjoen-evier-integre-1-bac-acier-inoxydable-s29425729/",
+      "titulo": "VRESJÖN évier intégré, 1 bac, acier inoxydable, 73x44 cm ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrwz2rsKHW83GbOrVXNL2a6N2rZb3kfQDajg&s",
+      "original": "https://www.ikea.com/be/fr/images/products/vresjoen-evier-integre-1-bac-acier-inoxydable__1052225_pe846009_s5.jpg?f=s"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/sink/fr/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmpasI25vH2IAtH7WDpf_hs68lhoZPsV62fw&s",
+      "fuentePagina": "https://www.ikea.com/be/fr/p/kilsviken-evier-integre-1-bac-avec-egouttoir-noir-composite-de-quartz-s89337027/",
+      "titulo": "KILSVIKEN évier intégré, 1 bac avec égouttoir, noir ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmpasI25vH2IAtH7WDpf_hs68lhoZPsV62fw&s",
+      "original": "https://www.ikea.com/be/fr/images/products/kilsviken-evier-integre-1-bac-avec-egouttoir-noir-composite-de-quartz__1323549_pe942757_s5.jpg?f=s"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/sink/fr/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRaPJvVl6Q4yf_n30KGXMMyxhD1x_uIs5JGg&s",
+      "fuentePagina": "https://www.grohe.be/fr_be/cuisine/evier-de-cuisine/evier-en-noir/",
+      "titulo": "Éviers noirs composites pour la cuisine parfaite | GROHE",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRaPJvVl6Q4yf_n30KGXMMyxhD1x_uIs5JGg&s",
+      "original": "https://cdn.cloud.grohe.com/Web/4_3/ZZH_T31647E01_000_01_4_3/4_3/960/ZZH_T31647E01_000_01_4_3_4_3.jpg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/sink/fr/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2KfMqQSNqLIJx7dXsT370outaE-xy3kncQA&s",
+      "fuentePagina": "https://fr.vidaxl.be/e/vidaxl-evier-de-cuisine-granit-seul-lavabo-beige/8719883567600.html",
+      "titulo": "vidaXL Évier de cuisine Granit Seul lavabo Beige",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2KfMqQSNqLIJx7dXsT370outaE-xy3kncQA&s",
+      "original": "https://fr.vidaxl.be/dw/image/v2/BFNS_PRD/on/demandware.static/-/Sites-vidaxl-catalog-master-sku/default/dw4c71d1c0/hi-res/632/133/1673/1687/2757/144849/image_1_144849.jpg?sw=600"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/sink/fr/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQH69ZPrFYzgHdWbPyxjtSye7YEHEj3h2dXqQ&s",
+      "fuentePagina": "https://www.grohe.be/fr_be/cuisine/evier-de-cuisine/evier-en-noir/",
+      "titulo": "Éviers noirs composites pour la cuisine parfaite | GROHE",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQH69ZPrFYzgHdWbPyxjtSye7YEHEj3h2dXqQ&s",
+      "original": "https://cdn.cloud.grohe.com/Web/3_4/ZZH_T31650E01_000_01_3_4/3_4/532/ZZH_T31650E01_000_01_3_4_3_4.jpg"
+    }
+  ]
+}

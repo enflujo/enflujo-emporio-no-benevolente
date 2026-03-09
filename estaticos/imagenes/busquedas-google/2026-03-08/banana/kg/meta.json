@@ -1,0 +1,71 @@
+{
+  "categoria": "banana",
+  "categoriaSlug": "banana",
+  "idioma": "kg",
+  "nombreIdioma": "Kikongo",
+  "termino": "mbizi",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:10:38.305Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "fr",
+    "gl": "cd"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=mbizi&hl=fr&gl=cd",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/banana/kg/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTg4DtXWkXywkGS_k4u-O3CzgfpvfQHaxbWkA&s",
+      "fuentePagina": "https://sn.wikipedia.org/wiki/Mbizi",
+      "titulo": "Mbizi - Wikipedia",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTg4DtXWkXywkGS_k4u-O3CzgfpvfQHaxbWkA&s",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/8/83/Zebra_Botswana_edit02.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/banana/kg/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPhMqfoLipwarVlAq0cGe3J98tZzJ6lR5P1A&s",
+      "fuentePagina": "https://suessmund-kaffee.com/en/products/ruanda-mbizi-women-coffee-bio-espresso?srsltid=AfmBOopDRASlxww3EE4t4B3mxHmQR_5rkRpjhP1R9rqpPhAuc8XWqHCd",
+      "titulo": "Buy fruity organic espresso from women in Rwanda - Mbizi ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPhMqfoLipwarVlAq0cGe3J98tZzJ6lR5P1A&s",
+      "original": "https://suessmund-kaffee.com/cdn/shop/files/Ruanda-Bio-Mbizi_Mockup_Front_250g_1200x1600.jpg?v=1756727109"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/banana/kg/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT75Elgp-TnJA0c9hwJD-jCof1MBoxirmhLww&s",
+      "fuentePagina": "https://poppybeans.cz/en/products/rwanda-kamonyi-washed?srsltid=AfmBOopbC5gcLW5HXCJySrIEZqwDdZd4_Bk4qUmL7wlvUnlxZ-BAN2rR",
+      "titulo": "Rwanda Mbizi Washed – Poppy Beans Coffee",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT75Elgp-TnJA0c9hwJD-jCof1MBoxirmhLww&s",
+      "original": "http://poppybeans.cz/cdn/shop/files/mbizi.jpg?v=1721558376"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/banana/kg/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStf5dhXW4NUE4hdHQ0RksTpB_F2HDg8fhHYg&s",
+      "fuentePagina": "https://www.eyrolles.com/Loisirs/Livre/je-suis-un-coach-depuis-le-debut-9782322472413/",
+      "titulo": "Je suis un coach depuis le début - Rodrigue Mbizi ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStf5dhXW4NUE4hdHQ0RksTpB_F2HDg8fhHYg&s",
+      "original": "https://servimg.eyrolles.com/static/media/2413/9782322472413_internet_h1400.jpg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/banana/kg/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRF7QSbhojxIxKqiBSu-Ps226q0VZOPkdbu0Q&s",
+      "fuentePagina": "https://www.booking.com/hotel/za/mbizi-bush-lodge.fr.html",
+      "titulo": "Mbizi Bush Lodge, Grietjie Nature Reserve (tarifs actualisés ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRF7QSbhojxIxKqiBSu-Ps226q0VZOPkdbu0Q&s",
+      "original": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/170804685.jpg?k=a9b9f48e33d9eb93d5ce9ccad6212cb1662734ea127f386133b71c8729e9e24e&o="
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/banana/kg/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8hEHns8nEAJkO2_EQXMwDRw5hjYAP1Gl9wg&s",
+      "fuentePagina": "https://copantrade.com/products/rwanda-maraba-co-op?srsltid=AfmBOoqpXLUXQDjgken3jk3aUWpYTX3RXPlmI-lJhdkOIhHwRRoBcHyk",
+      "titulo": "RWANDA MBIZI FW 15+",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8hEHns8nEAJkO2_EQXMwDRw5hjYAP1Gl9wg&s",
+      "original": "http://copantrade.com/cdn/shop/products/5C8CEB1A-2A9F-49B7-A2BD-0632B4777D1A.jpg?v=1673315697"
+    }
+  ]
+}

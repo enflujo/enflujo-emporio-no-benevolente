@@ -1,0 +1,71 @@
+{
+  "categoria": "surfboard",
+  "categoriaSlug": "surfboard",
+  "idioma": "yo",
+  "nombreIdioma": "Yorùbá",
+  "termino": "pákò omi",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:04:49.996Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "yo",
+    "gl": "ng"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=p%C3%A1k%C3%B2%20omi&hl=yo&gl=ng",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/surfboard/yo/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmvkZP987KHm8XD5fsxCBK96-1YUsHPiF9HA&s",
+      "fuentePagina": "https://www.facebook.com/100057123683380/posts/agbo-awoka-arthritispako-mejeji-eru-awonka-aidan-eruju-epakun-baka-ao-ko-sinu-or/1383740790206697/",
+      "titulo": "AGBO AWOKA (Arthritis) Pako mejeji, eru awonka, aidan, eruju ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmvkZP987KHm8XD5fsxCBK96-1YUsHPiF9HA&s",
+      "original": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=1384726763441433"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/surfboard/yo/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-8KQ9tAh2eCe5_plooWNmDqOPgSA1wWvubQ&s",
+      "fuentePagina": "https://pako.hu/termek/omnilux-omi-575",
+      "titulo": "Omnilux - OMI 575 | Pako.hu",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-8KQ9tAh2eCe5_plooWNmDqOPgSA1wWvubQ&s",
+      "original": "https://pako.hu/storage/cache/photo/13358-1000x1000-contain-white.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/surfboard/yo/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdeq0fm6cuPvRrtmclYLhkDsRh7ZAOs5w23w&s",
+      "fuentePagina": "https://yo.lc-pcb.com/unmanned-aerial-vehicle-pcb-quick-turn-prototype-printed-circuit-boards-product/",
+      "titulo": "China China Ọkọ̀ afẹ́fẹ́ tí a kò fi ọkọ̀ ojú omi ṣe àwòkọ ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdeq0fm6cuPvRrtmclYLhkDsRh7ZAOs5w23w&s",
+      "original": "https://ecdn6.globalso.com/upload/p/3533/image_product/2025-03/67ceaa9c9011419982.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/surfboard/yo/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9FJ1hwR9ZTNWBRvUY0ccQLbgMBvQJg4LHVQ&s",
+      "fuentePagina": "https://www.zhonglonggeo.com/yo/eva-waterproof-board/",
+      "titulo": "Pátákó EVA Tí Kò Lè Mú Omi Rọrùn - Ilé Iṣẹ́ Àpò Tí Kò Lè Mú ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9FJ1hwR9ZTNWBRvUY0ccQLbgMBvQJg4LHVQ&s",
+      "original": "https://ecdn6.globalso.com/upload/p/1469/image_other/2025-07/waterproof-board-factory-005.jpg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/surfboard/yo/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVx7o5phSd6hd6FhX5CG1CckLV4p6knbNbWQ&s",
+      "fuentePagina": "https://www.hygeomaterials.com/yo/sheet-type-drainage-board-product/",
+      "titulo": "Ṣáínà dì - irú pákó ìdàgbàsókè Olùpèsè àti Olùpèsè | Hongyue",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVx7o5phSd6hd6FhX5CG1CckLV4p6knbNbWQ&s",
+      "original": "https://cdn.globalso.com/hygeomaterials/Sheet-type-drainage-board%EF%BC%881%EF%BC%89-300x300.jpg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/surfboard/yo/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXoDn9bjk89hu3vmlvw2AfWP7NhmYmFfNv5Q&s",
+      "fuentePagina": "https://yo.glorexclamp.com/german-type-hose-clamp-without-weldingwith-a-spring-product/",
+      "titulo": "Idẹ okun onirin ti orilẹ-ede China laisi alurinmorin (pẹlu ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXoDn9bjk89hu3vmlvw2AfWP7NhmYmFfNv5Q&s",
+      "original": "https://www.glorexclamp.com/uploads/f11527671.jpg"
+    }
+  ]
+}

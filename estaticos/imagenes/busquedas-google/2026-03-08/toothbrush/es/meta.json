@@ -1,0 +1,71 @@
+{
+  "categoria": "toothbrush",
+  "categoriaSlug": "toothbrush",
+  "idioma": "es",
+  "nombreIdioma": "Español",
+  "termino": "cepillo de dientes",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:32:46.063Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "es",
+    "gl": "es"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=cepillo%20de%20dientes&hl=es&gl=es",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/toothbrush/es/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbS53o6d73Yu0n0HF_a-2NQvXesW24us7z1g&s",
+      "fuentePagina": "https://farmacialosaltos.es/es/4577-cepillo-dental-vitis-suave-.html",
+      "titulo": "CEPILLO DENTAL VITIS SUAVE",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbS53o6d73Yu0n0HF_a-2NQvXesW24us7z1g&s",
+      "original": "https://farmacialosaltos.es/13599-large_default/cepillo-dental-vitis-suave-.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/toothbrush/es/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzk0MUm0JECj4k_0vqRf8Vxmdecht4zbqeTQ&s",
+      "fuentePagina": "https://es.wikipedia.org/wiki/Cepillo_de_dientes",
+      "titulo": "Cepillo de dientes - Wikipedia, la enciclopedia libre",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzk0MUm0JECj4k_0vqRf8Vxmdecht4zbqeTQ&s",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/6/66/Toothbrush_x3_20050716_002.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/toothbrush/es/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTk_O5aTw7USkM8GKfP3s1a1RA_liaGp4k3zQ&s",
+      "fuentePagina": "https://www.dentalcouce.com/blog/noticias/tipos-de-cepillos-de-dientes-y-uso/",
+      "titulo": "Clínica Dental Couce - TIPOS DE CEPILLOS DE DIENTES Y USO",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTk_O5aTw7USkM8GKfP3s1a1RA_liaGp4k3zQ&s",
+      "original": "https://www.dentalcouce.com/wp-content/uploads/2024/08/20e6d0dc79365d45f8620c21a172f633-scaled.jpg.webp"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/toothbrush/es/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7gCLMxr8mG88zsaUQmv6QEvgS58DAjjqRsQ&s",
+      "fuentePagina": "https://www.colgate.es/products/toothbrush/colgate-total-manual-toothbrush-medium-2-pack",
+      "titulo": "Cepillo de dientes manual Total Medio 1+1 | Colgate",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7gCLMxr8mG88zsaUQmv6QEvgS58DAjjqRsQ&s",
+      "original": "https://pxmshare.colgatepalmolive.com/JPEG_1500/2_RVmhnONZEpUKK2nWaC4.jpg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/toothbrush/es/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKE86MGazzK_CV8qKo_Bk2h9CxLztMg7hhKA&s",
+      "fuentePagina": "https://curaprox.es/cepillos-de-dientes/cepillos-de-dientes-manuales/cs-1560-p326?srsltid=AfmBOopjji9qQIqdY-fWmNjvixD1M-mVqT1nexqMU2Q5U01PobSJZAZB",
+      "titulo": "Cepillo de dientes firme – CS 1560 | CURAPROX-Shop Spain",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKE86MGazzK_CV8qKo_Bk2h9CxLztMg7hhKA&s",
+      "original": "https://curaprox.es/7541-pdt_540/cs-1560.jpg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/toothbrush/es/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0cIIhs10Y-DBvcLwdVP7M1kaoYgbr0TQBfQ&s",
+      "fuentePagina": "https://www.ampri.es/cepillo-dental-desechable-ps-con-pasta-de-dientes-color-purpura-15-x-2-6-cm-med-comfort-comprar-cepillo-dental-desechable-de-poliestireno-para-viajes-y-uso-antes-del-tratamiento-dental-como-suministros-dentales./09590-l",
+      "titulo": "Cepillo dental desechable PS con pasta de dientes, color ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0cIIhs10Y-DBvcLwdVP7M1kaoYgbr0TQBfQ&s",
+      "original": "https://ampri.imgbolt.de/media/af/1d/21/1747125873/09590-L_1.png?ts=1747126180"
+    }
+  ]
+}

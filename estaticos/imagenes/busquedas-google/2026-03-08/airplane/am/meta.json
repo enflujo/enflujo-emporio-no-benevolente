@@ -1,0 +1,71 @@
+{
+  "categoria": "airplane",
+  "categoriaSlug": "airplane",
+  "idioma": "am",
+  "nombreIdioma": "Amharic — አማርኛ",
+  "termino": "አውሮፕላን",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T20:43:12.458Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "am",
+    "gl": "et"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=%E1%8A%A0%E1%8B%8D%E1%88%AE%E1%8D%95%E1%88%8B%E1%8A%95&hl=am&gl=et",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/airplane/am/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRczb65iT3B6az_sNn8KI84F6BCJnY8ab4Tgw&s",
+      "fuentePagina": "https://www.bbc.com/amharic/articles/crg95d6e02vo",
+      "titulo": "አውሮፕላኑ ከኳታር አውሮፕላን ጋር ሊጋጭ ተቃርቦ ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRczb65iT3B6az_sNn8KI84F6BCJnY8ab4Tgw&s",
+      "original": "https://ichef.bbci.co.uk/ace/ws/640/cpsprodpb/f96b/live/1f568c40-d61f-11ee-b83b-0f87a864f372.jpg.webp"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/airplane/am/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRX-ShTsjF2N6eZBSRa0UNMCaNbKvAMlAqP-g&s",
+      "fuentePagina": "https://www.bbc.com/amharic/articles/c4ny1yvxew9o",
+      "titulo": "ወደ ሃርጌሳ ሲበር የነበረ የኢትዮጵያ አውሮፕላን ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRX-ShTsjF2N6eZBSRa0UNMCaNbKvAMlAqP-g&s",
+      "original": "https://ichef.bbci.co.uk/ace/ws/640/cpsprodpb/5232/live/1f99a180-b52a-11ee-997a-05d686c8e739.png.webp"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/airplane/am/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyoLoAICti33PSu4ohWdoA52aptATyhDrMmA&s",
+      "fuentePagina": "https://www.bbc.com/amharic/news-47772442",
+      "titulo": "አደጋው የደረሰበት ቦይንግ 737 ማክስ አውሮፕላን ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyoLoAICti33PSu4ohWdoA52aptATyhDrMmA&s",
+      "original": "https://ichef.bbci.co.uk/ace/ws/640/cpsprodpb/12D4D/production/_106133177_5fe1d814-e55f-40b5-a88b-31a5d9e32676.jpg.webp"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/airplane/am/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmHRAMEp8jZUFV6iQYOJJyHPofRtFTk6t85A&s",
+      "fuentePagina": "https://www.facebook.com/EBCzena/posts/%E1%8A%A8%E1%88%B4%E1%8A%94%E1%8C%8B%E1%88%8D-%E1%8B%A8%E1%89%B0%E1%8A%90%E1%88%B3%E1%8B%8D-%E1%8B%A8%E1%8A%A2%E1%89%B5%E1%8B%AE%E1%8C%B5%E1%8B%AB-%E1%8A%A0%E1%8B%A8%E1%88%AD-%E1%88%98%E1%8A%95%E1%8C%88%E1%8B%B5-%E1%8A%A0%E1%8B%8D%E1%88%AE%E1%8D%95%E1%88%8B%E1%8A%95-%E1%89%A0%E1%89%B4%E1%8A%AD%E1%8A%92%E1%8A%AD-%E1%89%BD%E1%8C%8D%E1%88%AD-%E1%8B%88%E1%8B%B0-%E1%89%B0%E1%8A%90%E1%88%B3%E1%89%A0%E1%89%B5-%E1%8A%A0%E1%8B%A8%E1%88%AD-%E1%88%9B%E1%88%A8%E1%8D%8A%E1%8B%AB-%E1%89%B0%E1%88%98%E1%88%8D%E1%88%B6-%E1%88%88%E1%88%9B%E1%88%A8%E1%8D%8D-%E1%89%B0%E1%8C%88%E1%8B%B0%E1%8B%B0%E1%8B%A8%E1%8A%A2%E1%89%B5/2779478202084038/",
+      "titulo": "ከሴኔጋል የተነሳው የኢትዮጵያ አየር መንገድ ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmHRAMEp8jZUFV6iQYOJJyHPofRtFTk6t85A&s",
+      "original": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=2779477898750735"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/airplane/am/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-wPtm6BngRoQBo8T9ErRt_tETUvbAZMyTjQ&s",
+      "fuentePagina": "https://www.fanamc.com/archives/286566",
+      "titulo": "የኢትዮጵያ አየር መንገድ የመጀመሪያውን የቢዝነስ ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-wPtm6BngRoQBo8T9ErRt_tETUvbAZMyTjQ&s",
+      "original": "https://sp-ao.shortpixel.ai/client/to_webp,q_lossy,ret_img/https://www.fanamc.com/wp-content/uploads/2025/03/photo_2025-03-17_16-06-41-683x430.jpg?v=1742217042"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/airplane/am/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRayaG0K39l8bpvWqgN4CqIeuY8H0tcl-Svmw&s",
+      "fuentePagina": "https://www.bbc.com/amharic/articles/c844yvl32ezo",
+      "titulo": "የኳታር አየር መንገድ አውሮፕላን ባጋጠመው ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRayaG0K39l8bpvWqgN4CqIeuY8H0tcl-Svmw&s",
+      "original": "https://ichef.bbci.co.uk/ace/ws/640/cpsprodpb/6b63/live/e5b284b0-1be4-11ef-baa7-25d483663b8e.jpg.webp"
+    }
+  ]
+}

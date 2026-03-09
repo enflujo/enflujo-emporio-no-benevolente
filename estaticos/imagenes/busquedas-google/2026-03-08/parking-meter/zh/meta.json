@@ -1,0 +1,71 @@
+{
+  "categoria": "parking meter",
+  "categoriaSlug": "parking-meter",
+  "idioma": "zh",
+  "nombreIdioma": "中文",
+  "termino": "停车收费表",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T20:48:48.074Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "zh-CN",
+    "gl": "cn"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=%E5%81%9C%E8%BD%A6%E6%94%B6%E8%B4%B9%E8%A1%A8&hl=zh-CN&gl=cn",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/parking-meter/zh/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJIZ3Rxuit1EmAbYJndsUhBUxQc6J5pevEtw&s",
+      "fuentePagina": "https://www.777ppt.com/detail?mat_id=2008536",
+      "titulo": "计时停车收费表excel模板_完美办公",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJIZ3Rxuit1EmAbYJndsUhBUxQc6J5pevEtw&s",
+      "original": "https://img.777ppt.com/mat_img/c00d269f.jpg?x-oss-process=image/resize,w_1920,m_lfit/quality,q_80/interlace,1"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/parking-meter/zh/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-vS7oaeo6CSaCyMLxcKC0rvRsa1E1WrGr4A&s",
+      "fuentePagina": "https://www.lanren.work/excel/104961.html",
+      "titulo": "计时停车收费表免费下载_懒人办公",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-vS7oaeo6CSaCyMLxcKC0rvRsa1E1WrGr4A&s",
+      "original": "https://qn-lanren-oss.bg84.cn/tpl/4961-fir/1.webp"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/parking-meter/zh/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqub9O3LEkXTuelio7r1qdi7i3PTCgNHSMkw&s",
+      "fuentePagina": "https://zh.wikipedia.org/zh-cn/%E5%81%9C%E8%BB%8A%E6%94%B6%E8%B2%BB%E7%A2%BC%E9%8C%B6",
+      "titulo": "停车收费码表- 维基百科，自由的百科全书",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqub9O3LEkXTuelio7r1qdi7i3PTCgNHSMkw&s",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/b/b1/ParkuhrBiberach060408_P1040517.JPG"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/parking-meter/zh/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5vQKAJe8AODF3TlbmML7vzv1Jo0jGj4VaDg&s",
+      "fuentePagina": "https://www.sucaisucai.com/sucai/14536294.html",
+      "titulo": "停车场收费标准素材图片下载-素材编号14536294-素材天下图库",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5vQKAJe8AODF3TlbmML7vzv1Jo0jGj4VaDg&s",
+      "original": "https://pic4.sucaisucai.com/14/36/14536294_2.jpg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/parking-meter/zh/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5NqPe13TpZera_ltUyc7AvNjU47_I5st45A&s",
+      "fuentePagina": "https://nipic.com/show/47520950.html",
+      "titulo": "停车收费表设计图__国内广告设计_广告设计_设计图库_昵图网",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5NqPe13TpZera_ltUyc7AvNjU47_I5st45A&s",
+      "original": "https://pic.nximg.cn/file/20240710/25920834_145743206103_2.jpg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/parking-meter/zh/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiAdXURmiugYBz3v_jcHhMZ-bA1V5phLcRxQ&s",
+      "fuentePagina": "https://www.16pic.com/pic/pic_6944711.html",
+      "titulo": "停车收费表,米,已过期高清图库素材免费下载(图片编号:6944711 ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiAdXURmiugYBz3v_jcHhMZ-bA1V5phLcRxQ&s",
+      "original": "https://photo.16pic.com/00/69/44/16pic_6944711_b.jpg"
+    }
+  ]
+}

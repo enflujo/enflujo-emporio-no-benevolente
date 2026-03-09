@@ -1,0 +1,71 @@
+{
+  "categoria": "wine glass",
+  "categoriaSlug": "wine-glass",
+  "idioma": "pt",
+  "nombreIdioma": "Português",
+  "termino": "taça de vinho",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:07:11.961Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "pt",
+    "gl": "br"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=ta%C3%A7a%20de%20vinho&hl=pt&gl=br",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/wine-glass/pt/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTq3W2x9hhaaaknfjjRvwfDLrXoPi4Yl8Mcww&s",
+      "fuentePagina": "https://letseatit.com.br/products/kit-com-6-tacas-para-vinho-em-cristal-sommelier-460ml?srsltid=AfmBOoptouOVnQdIUm443Oi7kNE8odhicIMCM4fmzv9oMkzPoN4kd6W6",
+      "titulo": "PRÉ-VENDA: Kit com 6 Taças para Vinho em Cristal Bohemia Sommelier 460ml",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTq3W2x9hhaaaknfjjRvwfDLrXoPi4Yl8Mcww&s",
+      "original": "https://letseatit.com.br/cdn/shop/files/OUTLET-Kit-com-6-Tacas-para-Vinho-em-Cristal-Bohemia-Sommelier-460ml.webp?v=1765861140&width=960"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/wine-glass/pt/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwbhMb9jLIbFaRbzLWSMracSXoeGKKrCqZ1Q&s",
+      "fuentePagina": "https://www.meucopo.com/taca-de-cristal-para-vinho-event-burgundy-740ml?srsltid=AfmBOopisjS94fFuqny_fjE-AsxwlSYXVEYQ0kBX8UU5UcfuOTy7Xsdn",
+      "titulo": "Taça de Cristal Para Vinho Event Burgundy 740ml",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwbhMb9jLIbFaRbzLWSMracSXoeGKKrCqZ1Q&s",
+      "original": "https://images.tcdn.com.br/img/img_prod/682190/taca_de_cristal_event_burgundy_para_vinho_740ml_ruvolo_80286_1_da18ef763d1d3031881f3d4207b79924.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/wine-glass/pt/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREQGOGeHIwTnPRNFEkMPRCEnkLNF1brDq2zw&s",
+      "fuentePagina": "https://www.casafreitas.com.br/taca-para-vinho-cristal-ecologico-sommelier-580ml-5169-lyor/p?srsltid=AfmBOooiE4VhWKXAkcYPWDDeAlWiLtsqt_80sHqH5CxttvkeCPfzkRVb",
+      "titulo": "Taça para vinho cristal ecológico sommelier 580ml 5169 Lyor ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREQGOGeHIwTnPRNFEkMPRCEnkLNF1brDq2zw&s",
+      "original": "https://casafreitas2.vteximg.com.br/arquivos/ids/244371-1000-1000/3605741800001_4.jpg?v=637926608725670000"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/wine-glass/pt/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRN_Rqd4WolhMw1rg9OHj3t_teUm9qmveydNA&s",
+      "fuentePagina": "https://www.cristaisdeblumenau.com.br/products/taca-de-cristal-mozart-borgonha-expert-ultra-fina-incolor?srsltid=AfmBOorvV5ZBWogKT0Rr-0rXnnyLyr1pUuNBGKo2Uu0OU_KawD5D0K-4",
+      "titulo": "Taça de Cristal Vale dos Vinhedos Mozart Crystal By Frederico Strauss -  892ml - Expert",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRN_Rqd4WolhMw1rg9OHj3t_teUm9qmveydNA&s",
+      "original": "https://www.cristaisdeblumenau.com.br/cdn/shop/files/taca-vale-dos-vinhedos-mozart.jpg?v=1741973518&width=1200"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/wine-glass/pt/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSivnknko5fEVWUSQq62xC6ARba7aZ8oUueeg&s",
+      "fuentePagina": "https://blog.winelovers.com.br/a-importancia-da-taca-de-vinho/",
+      "titulo": "A Importância da Taça de Vinho - Blog Wine Lovers | O vinho ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSivnknko5fEVWUSQq62xC6ARba7aZ8oUueeg&s",
+      "original": "https://blog.winelovers.com.br/wp-content/uploads/2024/06/alt1-Escolha-a-taca-certa-para-cada-vinho-1024x682.jpg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/wine-glass/pt/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7ICn3UIF6FxgmULEqFmpWYt4sX_JXcam2EA&s",
+      "fuentePagina": "https://www.coqueluchecasa.com.br/jogo-2-tacas-vinho-grand-sommelier-cristal-850ml---bohemia-38210/p?srsltid=AfmBOorfrPtPTkP5bkp1h-Se3388hwcKreMIQcE_K_i1yjy5q5Ilm_N1",
+      "titulo": "Jogo 2 Taças Vinho Grand Sommelier Cristal 850Ml - Bohemia ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7ICn3UIF6FxgmULEqFmpWYt4sX_JXcam2EA&s",
+      "original": "https://coqueluchecasa.vteximg.com.br/arquivos/ids/257195-1000-1000/taca_cristal_grand_sommelier_fullfit_3.png?v=638183079509370000"
+    }
+  ]
+}

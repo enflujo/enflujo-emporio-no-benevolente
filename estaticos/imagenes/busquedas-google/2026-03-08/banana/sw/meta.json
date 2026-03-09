@@ -1,0 +1,71 @@
+{
+  "categoria": "banana",
+  "categoriaSlug": "banana",
+  "idioma": "sw",
+  "nombreIdioma": "Kiswahili",
+  "termino": "ndizi",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:10:34.386Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "sw",
+    "gl": "tz"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=ndizi&hl=sw&gl=tz",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/banana/sw/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR76Wc6SDsMBHxifsKucVxb7-pL2lO0CvSukQ&s",
+      "fuentePagina": "https://mabibosokoni.com/tz/product/bananas-ndizi-mbivu-10-pcs/",
+      "titulo": "Bananas (Ndizi Mbivu) 10 PCS",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR76Wc6SDsMBHxifsKucVxb7-pL2lO0CvSukQ&s",
+      "original": "https://mabibosokoni.com/tz/magunia/2023/01/banana-1.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/banana/sw/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYNj34sXbEO-tNK-f2ax_eo6jtpOH7mr1lVA&s",
+      "fuentePagina": "https://www.instagram.com/p/CcKyVstN0gz/",
+      "titulo": "Aina za ndizi Kuna aina nyigi sana za ndizi. Nchini Tanzania ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYNj34sXbEO-tNK-f2ax_eo6jtpOH7mr1lVA&s",
+      "original": "https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=2813282310684100659"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/banana/sw/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTu8Xg7AVyiwmdLggMvp81FTAljzbuayNgjGQ&s",
+      "fuentePagina": "https://www.mwananchi.co.tz/mw/habari/kitaifa/-kama-una-tatizo-hili-usile-ndizi-mbivu-2986932",
+      "titulo": "Kama una tatizo hili, usile ndizi mbivu | Mwananchi",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTu8Xg7AVyiwmdLggMvp81FTAljzbuayNgjGQ&s",
+      "original": "https://www.mwananchi.co.tz/resource/image/2986934/landscape_ratio3x2/1620/1080/d3ed798f90663655c1fe6d5289104d28/pm/ndizi-pic.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/banana/sw/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOVEmsmlT3dj9G9LIbcCngsEk9_xTy4h5OIA&s",
+      "fuentePagina": "https://www.bbc.com/swahili/articles/cd1wype8nldo",
+      "titulo": "Sababu 7 kwa nini ule ndizi leo - BBC News Swahili",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOVEmsmlT3dj9G9LIbcCngsEk9_xTy4h5OIA&s",
+      "original": "https://ichef.bbci.co.uk/ace/ws/640/cpsprodpb/efc2/live/536b9aa0-1e4d-11ee-941e-23d1e9ab75fa.jpg.webp"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/banana/sw/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSktnEPHiWATMPlQeCkJLdyXmez5Cs_RLTM3Q&s",
+      "fuentePagina": "https://mabibosokoni.com/tz/product/ndizi-mshale/",
+      "titulo": "Ndizi Mshale",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSktnEPHiWATMPlQeCkJLdyXmez5Cs_RLTM3Q&s",
+      "original": "https://mabibosokoni.com/tz/magunia/2023/01/Mshale.jpeg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/banana/sw/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmJFl-0mNuPtKMizepEBJ3tHJ-VVYb1mUUjg&s",
+      "fuentePagina": "https://www.facebook.com/photo.php?fbid=1580790872051598&set=a.471211581724261&id=100065062680945",
+      "titulo": "AGC - In Swahili a banana is known as 'ndizi'. Bananas are ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmJFl-0mNuPtKMizepEBJ3tHJ-VVYb1mUUjg&s",
+      "original": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=1580790872051598"
+    }
+  ]
+}

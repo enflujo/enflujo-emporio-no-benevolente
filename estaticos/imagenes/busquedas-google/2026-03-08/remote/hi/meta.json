@@ -1,0 +1,71 @@
+{
+  "categoria": "remote",
+  "categoriaSlug": "remote",
+  "idioma": "hi",
+  "nombreIdioma": "हिन्दी",
+  "termino": "रिमोट",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:23:13.821Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "hi",
+    "gl": "in"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=%E0%A4%B0%E0%A4%BF%E0%A4%AE%E0%A5%8B%E0%A4%9F&hl=hi&gl=in",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/remote/hi/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoVjFMpD7_H_kv0WAx1Ih7NeyeOTvPZcKjkg&s",
+      "fuentePagina": "https://play.google.com/store/apps/details?id=com.remote.control.universal.forall.tv&hl=hi",
+      "titulo": "Remote Control for All TV - Google Play पर ऐप्लिकेशन",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoVjFMpD7_H_kv0WAx1Ih7NeyeOTvPZcKjkg&s",
+      "original": "https://play-lh.googleusercontent.com/GN6VNvzbyjHK02NVSKw5uGLa84SSV30H0ToW-ksl8pqkmfCCIq0Vt1m04t5-GWuqew"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/remote/hi/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4R1oKf_WbdXEZzoUXUEQZ_PcjJMiFODDSHQ&s",
+      "fuentePagina": "https://www.amazon.in/-/hi/%E0%A4%B0%E0%A4%BF%E0%A4%AE%E0%A5%8B%E0%A4%9F-%E0%A4%95%E0%A4%82%E0%A4%9F%E0%A5%8D%E0%A4%B0%E0%A5%8B%E0%A4%B2-%E0%A4%AB%E0%A5%8D%E0%A4%B0%E0%A5%80-%E0%A4%A1%E0%A4%BF%E0%A4%B6-%E0%A4%AC%E0%A5%89%E0%A4%95%E0%A5%8D%E0%A4%B8/dp/B0B7DRTGBL",
+      "titulo": "रिमोट कंट्रोल फ्री डिश DVB dth रिमोट ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4R1oKf_WbdXEZzoUXUEQZ_PcjJMiFODDSHQ&s",
+      "original": "https://m.media-amazon.com/images/I/41qNss7CwlL.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/remote/hi/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRP59TfIL37vs0AE0ko_oiHugEHk27jNcxdEg&s",
+      "fuentePagina": "https://www.amazon.in/-/hi/Mitashi-%E0%A4%8F%E0%A4%B2%E0%A4%88%E0%A4%A1%E0%A5%80-%E0%A4%8F%E0%A4%B2%E0%A4%B8%E0%A5%80%E0%A4%A1%E0%A5%80-%E0%A4%B0%E0%A4%BF%E0%A4%AE%E0%A5%8B%E0%A4%9F-%E0%A4%95%E0%A4%82%E0%A4%9F%E0%A5%8D%E0%A4%B0%E0%A5%8B%E0%A4%B2%E0%A4%B0/dp/B01MCSRBX8",
+      "titulo": "Mitashi एलईडी/एलसीडी टीवी रिमोट ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRP59TfIL37vs0AE0ko_oiHugEHk27jNcxdEg&s",
+      "original": "https://m.media-amazon.com/images/I/61rln9Be-WL._AC_UF1000,1000_QL80_.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/remote/hi/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2OUEqglVUn2cGy5_chc8UssRQ_9UhnkB6cA&s",
+      "fuentePagina": "https://anmremotes.com/hi/products/anm-led-smart-tv-remote-control-compatible-for-impex-elista-bpl-tv-remote?srsltid=AfmBOooN8VH9xsCsrlDPrAw3TtqIrn7UR5Ffce0Q1WEsRKuhbGlxn7Ot",
+      "titulo": "एएनएम एलईडी स्मार्ट टीवी रिमोट ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2OUEqglVUn2cGy5_chc8UssRQ_9UhnkB6cA&s",
+      "original": "http://anmremotes.com/cdn/shop/files/elista.jpg?v=1750654566"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/remote/hi/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvJ0r50e9ms5GxWIL6hUr9p_uOvZOAD7kgpw&s",
+      "fuentePagina": "https://play.google.com/store/apps/details?id=in.remotify.www.dishtvremotecontrol&hl=hi",
+      "titulo": "Dish TV Remote Controller - Google Play पर ऐप्लिकेशन",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvJ0r50e9ms5GxWIL6hUr9p_uOvZOAD7kgpw&s",
+      "original": "https://play-lh.googleusercontent.com/o2iH9haC1sNEcW3FaUY_zFWNOFjeYQiBTwnR6CxxTyK4N1IBTdiTZFSVebV-1A5fvgo"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/remote/hi/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuKrcz9GFaJlliK01QgTp8-XnNYrlXIBL3uQ&s",
+      "fuentePagina": "https://www.amazon.in/-/hi/%E0%A4%95%E0%A5%8D%E0%A4%B0%E0%A4%BE%E0%A4%89%E0%A4%A8-%E0%A4%B8%E0%A5%8D%E0%A4%AE%E0%A4%BE%E0%A4%B0%E0%A5%8D%E0%A4%9F-%E0%A4%8F%E0%A4%B2%E0%A4%B8%E0%A5%80%E0%A4%A1%E0%A5%80-%E0%A4%95%E0%A4%82%E0%A4%9F%E0%A5%8D%E0%A4%B0%E0%A5%8B%E0%A4%B2-%E0%A4%96%E0%A4%B0%E0%A5%80%E0%A4%A6%E0%A4%A8%E0%A5%87/dp/B0CQM9K62W",
+      "titulo": "क्राउन स्मार्ट एलसीडी/एलईडी टीवी के लिए रिमोट कंट्रोल (खरीदने से पहले  पुराने रिमोट का मिलान करें) : Amazon.in: इलेक्ट्रॉनिक्स",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuKrcz9GFaJlliK01QgTp8-XnNYrlXIBL3uQ&s",
+      "original": "https://m.media-amazon.com/images/I/6172C6QPuCL._AC_UF1000,1000_QL80_.jpg"
+    }
+  ]
+}

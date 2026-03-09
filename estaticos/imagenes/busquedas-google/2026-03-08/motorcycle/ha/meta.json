@@ -1,0 +1,71 @@
+{
+  "categoria": "motorcycle",
+  "categoriaSlug": "motorcycle",
+  "idioma": "ha",
+  "nombreIdioma": "Hausa",
+  "termino": "babur",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T20:42:31.341Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "ha",
+    "gl": "ng"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=babur&hl=ha&gl=ng",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/motorcycle/ha/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQENybsjicjd-Wgxe3J-aYG9oFUwjv8RNlqfw&s",
+      "fuentePagina": "https://en.wikipedia.org/wiki/Babur",
+      "titulo": "Babur - Wikipedia",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQENybsjicjd-Wgxe3J-aYG9oFUwjv8RNlqfw&s",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Humayun_and_Babur_%28Late_Shah_Jahan_Album%29_Babur_detail.jpg/960px-Humayun_and_Babur_%28Late_Shah_Jahan_Album%29_Babur_detail.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/motorcycle/ha/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_rGv75E976gUWeGbN3vQZ-KdtSNV9OIgStg&s",
+      "fuentePagina": "https://study.com/learn/lesson/mughal-emperor-babur-biography-dynasty.html",
+      "titulo": "Emperor Babur | Overview, Reign & the Baburnama - Lesson ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_rGv75E976gUWeGbN3vQZ-KdtSNV9OIgStg&s",
+      "original": "https://study.com/cimages/multimages/16/babur_of_india8041694879093677261.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/motorcycle/ha/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQbgxJz5XOALsoS6_kDHeITeNNKE174NN7GA&s",
+      "fuentePagina": "https://www.instagram.com/p/DCcWa7QsSKG/",
+      "titulo": "Mirza Zahir ud-Din Muhammad Babur, aka Firdaus Makani (1483 ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQbgxJz5XOALsoS6_kDHeITeNNKE174NN7GA&s",
+      "original": "https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3502773217547854470"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/motorcycle/ha/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQn65PQhjnIbJThcD5PLID883tklSueHpzHNQ&s",
+      "fuentePagina": "https://timesofindia.indiatimes.com/education/news/ncert-calls-babur-brutal-what-historys-shifting-lens-reveals-about-the-mughal-emperor/articleshow/122632992.cms",
+      "titulo": "NCERT calls Babur brutal: What history's shifting lens ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQn65PQhjnIbJThcD5PLID883tklSueHpzHNQ&s",
+      "original": "https://static.toiimg.com/thumb/msid-122633794,imgsize-221032,width-400,resizemode-4/Babur.jpg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/motorcycle/ha/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS43LHEeB-IEY8oncXd6gzg29y_1NcaIhB9ag&s",
+      "fuentePagina": "https://medium.com/@mehboobali4600997/the-era-of-babur-f26c96a3a905",
+      "titulo": "The Era of Babur:. Era of Babur | by Muhammad Mehboob | Medium",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS43LHEeB-IEY8oncXd6gzg29y_1NcaIhB9ag&s",
+      "original": "https://miro.medium.com/1*9abCgBby7m2lz0QPa3wvWg.jpeg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/motorcycle/ha/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_yNE-E9w3CDtLYp_l352_jtrlgGZb0i-PYA&s",
+      "fuentePagina": "https://www.indiatoday.in/education-today/gk-current-affairs/story/mughal-emperor-babur-839094-2016-12-25",
+      "titulo": "Babur: The founder of the empire which ruled India for over ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_yNE-E9w3CDtLYp_l352_jtrlgGZb0i-PYA&s",
+      "original": "https://akm-img-a-in.tosshub.com/indiatoday/babur-647-x-404_122615113118.jpg?size=1200:675"
+    }
+  ]
+}

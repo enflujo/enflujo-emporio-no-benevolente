@@ -1,0 +1,71 @@
+{
+  "categoria": "bowl",
+  "categoriaSlug": "bowl",
+  "idioma": "zh",
+  "nombreIdioma": "中文",
+  "termino": "碗",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:10:23.569Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "zh-CN",
+    "gl": "cn"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=%E7%A2%97&hl=zh-CN&gl=cn",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bowl/zh/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ18-PsAUPOC3_3u08Ciuqud51k_Cdrks8uhQ&s",
+      "fuentePagina": "https://www.bestsub.com/zh/other-mugs/9544-ceramic-bowl.html",
+      "titulo": "中式陶瓷碗（ 7.7*14.7cm） - 专业的数码印制产品供应商-BestSub ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ18-PsAUPOC3_3u08Ciuqud51k_Cdrks8uhQ&s",
+      "original": "https://www.bestsub.com/media/k2/galleries/9544/TBW02.webp"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bowl/zh/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTMn15Z_T0Y0-MchMagTGcJA5q8Qrjm87Vig&s",
+      "fuentePagina": "https://www.ikea.cn/cn/zh/p/blanda-blank-bu-lang-da-bu-lan-ke-shang-cai-yong-wan-bu-xiu-gang-30166051/",
+      "titulo": "BLANDA BLANK 布朗达布兰科上菜用碗不锈钢- IKEA",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTMn15Z_T0Y0-MchMagTGcJA5q8Qrjm87Vig&s",
+      "original": "https://file.app.ikea.cn/cn/zh/images/products/blanda-blank-bu-lang-da-bu-lan-ke-shang-cai-yong-wan-bu-xiu-gang__1245284_pe921561_s5.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bowl/zh/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXMvH_jH2PzX0dQHp-6BF6OC_MYf0Pg4AZIw&s",
+      "fuentePagina": "https://product.suning.com/0071158555/11881097327.html",
+      "titulo": "陶瓷汤面碗家用泡面碗汤碗大号面条碗韩式大碗创意吃面的瓷碗 ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXMvH_jH2PzX0dQHp-6BF6OC_MYf0Pg4AZIw&s",
+      "original": "https://imgservice.suning.cn/uimg1/b2c/image/XHsbtl2JZH1v8v8WrA_Nuw.jpg_800w_800h_4e_80Q_is"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bowl/zh/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8E7iPxywH7Jv5fUv4sIXdXvgHZ2yHCFFjhQ&s",
+      "fuentePagina": "https://www.ikea.cn/cn/zh/p/oftast-ao-fu-ta-wan-bai-se-60258916/",
+      "titulo": "OFTAST 奥夫塔碗白色- IKEA",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8E7iPxywH7Jv5fUv4sIXdXvgHZ2yHCFFjhQ&s",
+      "original": "https://file.app.ikea.cn/cn/zh/images/products/oftast-ao-fu-ta-wan-bai-se__0712208_pe728639_s5.jpg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bowl/zh/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSa5ygs33gK4kq-TcIxTd0ts7GoV6BGU94BLw&s",
+      "fuentePagina": "https://m.sinarutara.com/index.php?ws=showproducts&products_id=3348544&lang=cn",
+      "titulo": "SB8003 18.0 x 8.0CM 面碗BOWL Colour Porcelain Ceramic ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSa5ygs33gK4kq-TcIxTd0ts7GoV6BGU94BLw&s",
+      "original": "https://cdn1.npcdn.net/userfiles/21804/image/SB8003.jpeg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bowl/zh/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8UdHM5ifj_Yczh4W-4_-oobj7sDKcPRoXVA&s",
+      "fuentePagina": "https://www.nordic.com.tw/product/8551?srsltid=AfmBOorC83JsutyGBqSVGP6sRv5uXcu8G3Qx6bJIBY9RBqWvHM-UHk8R",
+      "titulo": "Colore 釉色餐碗（Ø 15cm、番紅花黃） | 北歐櫥窗NORDIC",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8UdHM5ifj_Yczh4W-4_-oobj7sDKcPRoXVA&s",
+      "original": "https://www.nordic.com.tw/uploads/product_picture/6577f781b10ba7vJS7.jpg"
+    }
+  ]
+}

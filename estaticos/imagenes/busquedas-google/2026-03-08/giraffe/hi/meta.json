@@ -1,0 +1,71 @@
+{
+  "categoria": "giraffe",
+  "categoriaSlug": "giraffe",
+  "idioma": "hi",
+  "nombreIdioma": "हिन्दी",
+  "termino": "जिराफ",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T20:55:45.955Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "hi",
+    "gl": "in"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=%E0%A4%9C%E0%A4%BF%E0%A4%B0%E0%A4%BE%E0%A4%AB&hl=hi&gl=in",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/giraffe/hi/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfxs7QUn_QlqcLCxz_uP1eyId46rJfQFgSHg&s",
+      "fuentePagina": "https://www.instagram.com/reel/DUkN2WajT4z/",
+      "titulo": "जिराफ प्रकृति के सबसे अनोखे और दिलचस्प जीवों में से एक हैं। इंसानों के  फिंगरप्रिंट की तरह हर जिराफ के शरीर के धब्बों का पैटर्न बिल्कुल अलग और  अनोखा होता है। प्रकृति के इस अनमोल वन्य प्राणी का संरक्षण ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfxs7QUn_QlqcLCxz_uP1eyId46rJfQFgSHg&s",
+      "original": "https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3829246492695936563"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/giraffe/hi/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzyOiLzwv6JHNVnj2uvZHAwFDAs6HiFSkwtg&s",
+      "fuentePagina": "https://www.instagram.com/reel/DM8CigViyyU/",
+      "titulo": "जिराफ की अनोखी बातें! क्या आप ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzyOiLzwv6JHNVnj2uvZHAwFDAs6HiFSkwtg&s",
+      "original": "https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3842500300088397984"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/giraffe/hi/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxU3pb4sj55xlKxTcUQA7HhwQ2KedRJt4Wxw&s",
+      "fuentePagina": "https://www.reddit.com/r/wildlifephotography/comments/1rhmoi0/giraffe_in_kenya_aberdare_national_park/?tl=hi",
+      "titulo": "केन्या के अबरदारे नेशनल पार्क ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxU3pb4sj55xlKxTcUQA7HhwQ2KedRJt4Wxw&s",
+      "original": "https://i.redd.it/tnrmxaitqcmg1.jpeg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/giraffe/hi/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKKOOV3EjPqJR_Ir-6Kc-ATDEbCRLrsKm5lg&s",
+      "fuentePagina": "https://www.timesnowhindi.com/photos/education/general-knowledge-which-is-the-tallest-animal-in-the-world-know-why-does-a-giraffe-sleep-standing-up-photo-gallery-153637023",
+      "titulo": "General Knowledge Which is the Tallest Animal in the world ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKKOOV3EjPqJR_Ir-6Kc-ATDEbCRLrsKm5lg&s",
+      "original": "https://images.timesnowhindi.com/photo/msid-153637023/153637023.jpg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/giraffe/hi/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmC7-_tKODUdZrIZIgRE4LMW5Zm7tm-QOX2A&s",
+      "fuentePagina": "https://www.timesnowhindi.com/web-stories/viral/what-is-the-lifespan-of-giraffe-here-know-answer/photostory/116307487.cms",
+      "titulo": "कितने साल तक जिंदा रहता है जिराफ ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmC7-_tKODUdZrIZIgRE4LMW5Zm7tm-QOX2A&s",
+      "original": "https://static.sociofyme.com/photo/116307538/116307538.jpg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/giraffe/hi/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6XSYgS0urKNgtaWU4gv-b_4dXsvpuGPsM6A&s",
+      "fuentePagina": "https://www.bhaskar.com/g/local/bihar/patna/news/patna-zoo-female-giraffe-shanti-dies-21-years-old-137118637.html",
+      "titulo": "Patna Zoo Female Giraffe Shanti Dies at 21 | Pregnancy ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6XSYgS0urKNgtaWU4gv-b_4dXsvpuGPsM6A&s",
+      "original": "https://images.bhaskarassets.com/web2images/521/2026/02/04/comp-3_1770174877.gif"
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "categoria": "fire hydrant",
+  "categoriaSlug": "fire-hydrant",
+  "idioma": "ln",
+  "nombreIdioma": "Lingala",
+  "termino": "prise ya mai",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T20:46:55.916Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "fr",
+    "gl": "cd"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=prise%20ya%20mai&hl=fr&gl=cd",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/fire-hydrant/ln/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXsDbz9wh9IFMfW60jZgcz0x2MBEETCNrqUQ&s",
+      "fuentePagina": "https://www.worldstandards.eu/fr/electricite/types-de-prises/ab/",
+      "titulo": "Prises électriques de type A & B",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXsDbz9wh9IFMfW60jZgcz0x2MBEETCNrqUQ&s",
+      "original": "https://www.worldstandards.eu/wp-content/uploads/electricity-type-A-socket-218x300.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/fire-hydrant/ln/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThe8Ly8wZ1jURgJ87iMIzSysTfKrnji5RTXg&s",
+      "fuentePagina": "https://www.camping-cote-vermeille.com/blog/distinguer-prise-connectee-et-prise-ordinaire/",
+      "titulo": "Découvrez comment distinguer facilement prise connectée et ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThe8Ly8wZ1jURgJ87iMIzSysTfKrnji5RTXg&s",
+      "original": "https://www.camping-cote-vermeille.com/wp-content/uploads/2020/04/05.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/fire-hydrant/ln/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5Kq9a5yqBvENsRf0C0zRFJWtDpNz5jZW1ng&s",
+      "fuentePagina": "https://www.gaijinjapan.org/prise-electrique-au-japon/",
+      "titulo": "Prise électrique au Japon et adaptateurs | Un Gaijin au Japon",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5Kq9a5yqBvENsRf0C0zRFJWtDpNz5jZW1ng&s",
+      "original": "https://www.gaijinjapan.org/wp-content/uploads/2014/12/Prise-%C3%A9lectrique-Japon-et-%C3%A9lectricit%C3%A9-Japon.png"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/fire-hydrant/ln/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAb91lHTU_R3NPB3ktLisC4xHZKA6eVTEdcw&s",
+      "fuentePagina": "https://www.jumia.ci/yaki-prise-encastree-lot-de-10-pieces-blanc-yaki-19947949.html?srsltid=AfmBOopqaa6zMyaMLwYO1J04ji5FhXTroqN6HeBhpuUazta27x5CxNvL",
+      "titulo": "Yaki Prise Encastrée (Lot De 10 Pieces) - Blanc Yaki - Prix ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAb91lHTU_R3NPB3ktLisC4xHZKA6eVTEdcw&s",
+      "original": "https://ci.jumia.is/unsafe/fit-in/500x500/filters:fill(white)/product/94/974991/1.jpg?6229"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/fire-hydrant/ln/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqRdl23QoC4WCnovac3mEsunTkR8ZUXzokWw&s",
+      "fuentePagina": "https://www.reddit.com/r/Komi_san/comments/1pemr5c/hot_take_i_am_neutral_about_yamai_ren/?tl=fr",
+      "titulo": "Prise de position à chaud ( ?) : Je suis neutre envers Yamai ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqRdl23QoC4WCnovac3mEsunTkR8ZUXzokWw&s",
+      "original": "https://i.redd.it/lgff1v8flb5g1.jpeg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/fire-hydrant/ln/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRK2fOiBIfx1CN1vOftP9n1yp3Y8dSpOHCH5g&s",
+      "fuentePagina": "https://www.legrand.fr/questions-frequentes/une-de-mes-prises-de-courant-ne-tient-pas-pourquoi-et-que-faire",
+      "titulo": "Une de mes prises de courant ne tient pas : pourquoi et que ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRK2fOiBIfx1CN1vOftP9n1yp3Y8dSpOHCH5g&s",
+      "original": "https://www.legrand.fr/sites/default/files/ecat/th_LG-CG8111-WEB-R2.jpg"
+    }
+  ]
+}

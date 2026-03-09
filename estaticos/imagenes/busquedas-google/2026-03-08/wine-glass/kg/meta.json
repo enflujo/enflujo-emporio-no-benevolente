@@ -1,0 +1,71 @@
+{
+  "categoria": "wine glass",
+  "categoriaSlug": "wine-glass",
+  "idioma": "kg",
+  "nombreIdioma": "Kikongo",
+  "termino": "verre",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:06:45.432Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "fr",
+    "gl": "cd"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=verre&hl=fr&gl=cd",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/wine-glass/kg/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTBOWy3SzpEmyxuu42afNPTmLnIRvM8jxaLQ&s",
+      "fuentePagina": "https://duralexcanada.ca/fr/products/duralex-le-picardie-verre-a-cocktail-lot-de-6?srsltid=AfmBOopEgamXGkaaL8ZezRqfMfBBhhu3QA0cQ2tDsOdqVbGp7uj8wL3l",
+      "titulo": "Verre à Cocktail transparent et coloré | Collection Duralex ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTBOWy3SzpEmyxuu42afNPTmLnIRvM8jxaLQ&s",
+      "original": "https://duralexcanada.ca/cdn/shop/files/1029B_1e1aa217-2fad-4bfd-902c-63f1ae0d75e5.png?v=1695122000&width=700"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/wine-glass/kg/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6x1cu9bgiLb691Badw1K2Mo7uQPbWkicoDA&s",
+      "fuentePagina": "https://www.diframed.com/verre-25-cl-c6x36353759",
+      "titulo": "Verre 25 cl très résistant pour environnement difficile",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6x1cu9bgiLb691Badw1K2Mo7uQPbWkicoDA&s",
+      "original": "https://www.diframed.com/Files/25210/Img/14/HS616-Z-Verre-resistant-25cl-pour-environnement-difficile.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/wine-glass/kg/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOdmsai_KKH429a0xY_Gm_rFEmctFQQMLRdQ&s",
+      "fuentePagina": "https://www.falaise-reception.fr/produit/vaisselle/verres/gamme-elegance-verres/verre-a-eau-33-cl/",
+      "titulo": "Verre à eau Élégance 33 cl - Falaise réception",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOdmsai_KKH429a0xY_Gm_rFEmctFQQMLRdQ&s",
+      "original": "http://www.falaise-reception.fr/wp-content/uploads/2017/07/WasserglasImpulse330ml_2_184946_2016-09-21_18-08-3258f9a166041e8_600x600.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/wine-glass/kg/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQId8spSCm3wjVxQdOVTi9xVgwh2MYEG_X5Rw&s",
+      "fuentePagina": "https://www.loca-reception.fr/verres/85-verre-a-vodka.html",
+      "titulo": "Verre à Vodka - Locareception",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQId8spSCm3wjVxQdOVTi9xVgwh2MYEG_X5Rw&s",
+      "original": "https://www.loca-reception.fr/1234-thickbox_default/verre-a-vodka.webp"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/wine-glass/kg/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGv-nfTJrf2J3kU9g9f2cC-2CqaDVl7vQ6lg&s",
+      "fuentePagina": "https://www.barochamp.fr/1524-service-6-verres-excellence-30cl.html",
+      "titulo": "Service 6 verres à vin Excellence Lehmann Glass 30 cl",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGv-nfTJrf2J3kU9g9f2cC-2CqaDVl7vQ6lg&s",
+      "original": "https://www.barochamp.fr/871-large_default/service-6-verres-excellence-30cl.jpg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/wine-glass/kg/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9EWzn8ngfA7EJRM14EGKagxccrrDrV6a18Q&s",
+      "fuentePagina": "https://ml-locations.be/locations/location-verre-mojito/",
+      "titulo": "Verres à Mojito 41 cl en location | ML Locations",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9EWzn8ngfA7EJRM14EGKagxccrrDrV6a18Q&s",
+      "original": "https://ml-locations.be/wp-content/uploads/2018/05/Location-verre-mojito-blanche.jpg"
+    }
+  ]
+}

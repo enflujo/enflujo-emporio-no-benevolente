@@ -1,0 +1,71 @@
+{
+  "categoria": "banana",
+  "categoriaSlug": "banana",
+  "idioma": "nah",
+  "nombreIdioma": "Náhuatl",
+  "termino": "tzapotl",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:11:02.772Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "es",
+    "gl": "mx"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=tzapotl&hl=es&gl=mx",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/banana/nah/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGML-iz45M1wOl9uQjJzgyMrVdDkA4-94R2w&s",
+      "fuentePagina": "https://www.instagram.com/p/DDVEvE1SrjC/",
+      "titulo": "Considerado el tzapotl original náhuatl , el zapote negro es ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGML-iz45M1wOl9uQjJzgyMrVdDkA4-94R2w&s",
+      "original": "https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3518739511050418370"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/banana/nah/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_I93FICFjEe1D988TW6GOUTR6l1yjtZSuGA&s",
+      "fuentePagina": "https://www.instagram.com/p/CL5cEuqrBJe/",
+      "titulo": "Zapote es una palabra de origen náhuatl Tzapotl que sirve ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_I93FICFjEe1D988TW6GOUTR6l1yjtZSuGA&s",
+      "original": "https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=2520168932995745166"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/banana/nah/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZG4YFG7MM15mCVTD5ohCmmg4DVQ2puBziSA&s",
+      "fuentePagina": "https://www.flickr.com/photos/66696206@N04/12842803774",
+      "titulo": "Zapote | Zapote (náhuatl: tzapotl: zapote ) es el nombre usa ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZG4YFG7MM15mCVTD5ohCmmg4DVQ2puBziSA&s",
+      "original": "https://live.staticflickr.com/3713/12842803774_6398129223_b.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/banana/nah/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-LzlzYYy0I7mLfcDFFn5iRTS9xT-LWvIzbg&s",
+      "fuentePagina": "https://www.facebook.com/radiomexicointernacional/posts/una-fruta-mexicana-zapotenegro-en-n%C3%A1huatl-tzapotl-los-mayas-lo-denominaban-tauch/1238995204894952/",
+      "titulo": "Una fruta mexicana🫒: #ZapoteNegro | En náhuatl #tzapotl ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-LzlzYYy0I7mLfcDFFn5iRTS9xT-LWvIzbg&s",
+      "original": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=1238995181561621"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/banana/nah/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOV40umKr9IeYVYY_QQI7v4jbqxrlax8Uitg&s",
+      "fuentePagina": "https://www.instagram.com/p/DJ5X1UAugJM/",
+      "titulo": "La palabra 'zapote' viene del nahuatl 'tzapotl' que ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOV40umKr9IeYVYY_QQI7v4jbqxrlax8Uitg&s",
+      "original": "https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3637042984160608654"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/banana/nah/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIo04qUIX2qpS8GACcHbVn6GHXJ-h19aGjog&s",
+      "fuentePagina": "https://www.gob.mx/agricultura/articulos/zapote-fruta-multicolor-y-multisabor",
+      "titulo": "Zapote, fruta multicolor y multisabor | Secretaría de ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIo04qUIX2qpS8GACcHbVn6GHXJ-h19aGjog&s",
+      "original": "https://www.gob.mx/cms/uploads/article/main_image/42216/zapote_1.jpg"
+    }
+  ]
+}

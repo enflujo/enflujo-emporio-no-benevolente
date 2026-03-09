@@ -1,0 +1,71 @@
+{
+  "categoria": "motorcycle",
+  "categoriaSlug": "motorcycle",
+  "idioma": "es",
+  "nombreIdioma": "Español",
+  "termino": "motocicleta",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T20:42:52.299Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "es",
+    "gl": "es"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=motocicleta&hl=es&gl=es",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/motorcycle/es/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0_mKTBN-NN5eRu0T_e0xVbcSbB23IMRKmHg&s",
+      "fuentePagina": "https://es.wikipedia.org/wiki/Motocicleta",
+      "titulo": "Motocicleta - Wikipedia, la enciclopedia libre",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0_mKTBN-NN5eRu0T_e0xVbcSbB23IMRKmHg&s",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/5/50/Ducati_748_Studio.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/motorcycle/es/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpbVG9zIqe35uNB1_jwzmy08NLt-vUcy8whQ&s",
+      "fuentePagina": "https://www.boxrepsol.com/es/cultura-motera/diferencias-entre-motocicleta-y-ciclomotor/",
+      "titulo": "Principales diferencias entre una motocicleta y un ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpbVG9zIqe35uNB1_jwzmy08NLt-vUcy8whQ&s",
+      "original": "https://bxrepsol.s3.eu-west-1.amazonaws.com/static/2025/02/11093350/Foto-2-2-1024x576.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/motorcycle/es/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTl_S7mViUHwliHxjxo5IMEkWhS2cI2nt-bow&s",
+      "fuentePagina": "https://www.galgo.com/mx/motos",
+      "titulo": "Motos en México 2026🏍️ | Compra tu moto nueva en Galgo",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTl_S7mViUHwliHxjxo5IMEkWhS2cI2nt-bow&s",
+      "original": "https://images.ctfassets.net/8zlbnewncp6f/4RxbRFRNzlhu2RJfqBgeF7/f107ce339bab45a3057e49cbf39006d1/Motocicleta_Bajaj_Pulsar_N250_en_primer_plano_galgo_M%C3%A9xico.png?w=600&fm=webp&q=90"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/motorcycle/es/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTl4Gw6U7G-TerNOzv9r9LMr8xkzueQjW3zlA&s",
+      "fuentePagina": "https://www.yamahamotos.cl/producto/bolt/",
+      "titulo": "BOLT R SPEC - Yamaha Motos",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTl4Gw6U7G-TerNOzv9r9LMr8xkzueQjW3zlA&s",
+      "original": "https://www.yamahamotos.cl/wp-content/uploads/2019/10/bol7.jpg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/motorcycle/es/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgOgTpumCJYTu1TAnyafnQJec3KahA3cE1oA&s",
+      "fuentePagina": "https://fasterbikeservices.com/diferentes-partes-motocicleta-como-funcionan/",
+      "titulo": "Las principales partes de una moto y su funcionamiento",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgOgTpumCJYTu1TAnyafnQJec3KahA3cE1oA&s",
+      "original": "https://fasterbikeservices.com/wp-content/uploads/2024/02/partes-de-la-moto.jpg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/motorcycle/es/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8i86e5tU-xmROANpusRg8uDuUxCbl2bDuIA&s",
+      "fuentePagina": "https://www.bbc.com/mundo/noticias-37656289",
+      "titulo": "Así es la motocicleta del futuro, según BMW: sin casco, sin ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8i86e5tU-xmROANpusRg8uDuUxCbl2bDuIA&s",
+      "original": "http://c.files.bbci.co.uk/A908/production/_91927234_bmw-moto-futuro.jpg"
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "categoria": "cow",
+  "categoriaSlug": "cow",
+  "idioma": "ln",
+  "nombreIdioma": "Lingala",
+  "termino": "ngombe",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T20:52:52.456Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "fr",
+    "gl": "cd"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=ngombe&hl=fr&gl=cd",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/cow/ln/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZBpgskSCPHg-vXm4IuOOPvb1W_DfPTOWC5Q&s",
+      "fuentePagina": "https://www.101lasttribes.com/tribes/ngombe.html",
+      "titulo": "AFRICA | 101 Last Tribes - Ngombe people",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZBpgskSCPHg-vXm4IuOOPvb1W_DfPTOWC5Q&s",
+      "original": "https://www.101lasttribes.com/logo_tribes/Ngombe.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/cow/ln/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbSUlgDRjkCB8Qt6uAkqtwm4kJ4-razeMdLA&s",
+      "fuentePagina": "https://www.101lasttribes.com/tribes/ngombe.html",
+      "titulo": "AFRICA | 101 Last Tribes - Ngombe people",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbSUlgDRjkCB8Qt6uAkqtwm4kJ4-razeMdLA&s",
+      "original": "https://www.101lasttribes.com/images/ngombe_04.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/cow/ln/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWfvBact6P9uCsrGklooEXcppNpPpSu3iC2g&s",
+      "fuentePagina": "https://www.101lasttribes.com/tribes/ngombe.html",
+      "titulo": "AFRICA | 101 Last Tribes - Ngombe people",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWfvBact6P9uCsrGklooEXcppNpPpSu3iC2g&s",
+      "original": "https://www.101lasttribes.com/images/ngombe1.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/cow/ln/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvHvt0j0MJzdIpZk0R7qka3kXe42fMrRbIBQ&s",
+      "fuentePagina": "https://fr.wikipedia.org/wiki/Ngombe_(peuple)",
+      "titulo": "Ngombe (peuple) — Wikipédia",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvHvt0j0MJzdIpZk0R7qka3kXe42fMrRbIBQ&s",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/c/ca/Ngombe_baptistes-1908.jpg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/cow/ln/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-k7d1Qmy0j-Bbfnx544ntJDioSa8QaFgmkw&s",
+      "fuentePagina": "https://www.101lasttribes.com/tribes/ngombe.html",
+      "titulo": "AFRICA | 101 Last Tribes - Ngombe people",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-k7d1Qmy0j-Bbfnx544ntJDioSa8QaFgmkw&s",
+      "original": "https://www.101lasttribes.com/images/ngombe_03.jpg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/cow/ln/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCs9HgfZovpm8TR1HIoTlP8brBEPQx9klkBw&s",
+      "fuentePagina": "https://www.101lasttribes.com/tribes/ngombe.html",
+      "titulo": "AFRICA | 101 Last Tribes - Ngombe people",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCs9HgfZovpm8TR1HIoTlP8brBEPQx9klkBw&s",
+      "original": "https://www.101lasttribes.com/images/ngombe_05.jpg"
+    }
+  ]
+}

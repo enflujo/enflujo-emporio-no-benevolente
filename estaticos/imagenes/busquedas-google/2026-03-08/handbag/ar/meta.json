@@ -1,0 +1,71 @@
+{
+  "categoria": "handbag",
+  "categoriaSlug": "handbag",
+  "idioma": "ar",
+  "nombreIdioma": "العربية",
+  "termino": "حقيبة يد",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T20:57:45.876Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "ar",
+    "gl": "eg"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=%D8%AD%D9%82%D9%8A%D8%A8%D8%A9%20%D9%8A%D8%AF&hl=ar&gl=eg",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/handbag/ar/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqYJKCpKJ0-KwgQeOy-LKt5JxBD39LIMSsDw&s",
+      "fuentePagina": "https://vlamoursa.com/blog/%D8%B4%D9%86%D8%B7-%D9%8A%D8%AF-%D9%86%D8%B3%D8%A7%D8%A6%D9%8A%D9%87/a-1566873088?srsltid=AfmBOooCIKMQnpDdp-2daLHtdQxNbiAcJVfRepD8r9B5q-iqQd4Pk05D",
+      "titulo": "شنط يد نسائيه - موقع فلامور الرسمي متجر ساعات وشنط ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqYJKCpKJ0-KwgQeOy-LKt5JxBD39LIMSsDw&s",
+      "original": "https://cdn.salla.sa/vOaqB/36aada99-ebcd-485e-b75a-3e299ccccfc6-1000x625-G2JkeMptwn8hnqnaVP3VqjKaaYLgyJi75wGEFdHy.png"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/handbag/ar/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuPs0E9gEUOKwXtCiUijsaYL-N1K7aDieNog&s",
+      "fuentePagina": "https://cutestore6.com/blog/%D8%AD%D9%82%D9%8A%D8%A8%D8%A9-%D8%A7%D9%84%D9%8A%D8%AF/a-1912487769?srsltid=AfmBOopWHUZ_SFajILM0KP_MQE4Nf0X-dF6Oe8dwOgbMzoaO0iN9lrIW",
+      "titulo": "حقيبة اليد | كيوت ستور - كيوت ستور شنط ماركات اصلية",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuPs0E9gEUOKwXtCiUijsaYL-N1K7aDieNog&s",
+      "original": "https://cdn.salla.sa/ARZB/U00rVLxfztlSzFeYt9JgoOrYugq1xY9KJLx4PlZ8.png"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/handbag/ar/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRn5BvIeA5zCGDNbnTTr3kD7WGXI5ROXO7odA&s",
+      "fuentePagina": "https://ellenstores.com/product/luxury-bag-1120/?srsltid=AfmBOoqNrudUa-GihipfucnqhxILe9KA3PzTn6Vn1ebuNVwYfu89CUSr",
+      "titulo": "شنطة فخمة درجة أولى Code 1120 - Ellen Stores",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRn5BvIeA5zCGDNbnTTr3kD7WGXI5ROXO7odA&s",
+      "original": "https://ellenstores.com/wp-content/uploads/2024/02/E1120BK.webp"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/handbag/ar/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6qzvMS3s3c3A2rmGUGc3FKQl_-g32xXHwJQ&s",
+      "fuentePagina": "https://exemore.com/womens-handbag-8",
+      "titulo": "شنطة يد حريمي",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6qzvMS3s3c3A2rmGUGc3FKQl_-g32xXHwJQ&s",
+      "original": "https://exemore.com/images/thumbs/0088050_womens-handbag_510.jpeg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/handbag/ar/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpmTzWFVhFiS1wiyx4lb2ds8yjkevgna6qpw&s",
+      "fuentePagina": "https://four-bag.com/%D9%83%D8%B1%D8%B3%D8%A8%D9%8A%D9%84%D8%A7-%D8%AD%D9%82%D9%8A%D8%A8%D8%A9-%D9%8A%D8%AF-%D9%84%D9%88%D9%86-%D8%A7%D8%B3%D9%88%D8%AF-%D9%85%D8%B9-%D9%82%D9%81%D9%84/p1808979886",
+      "titulo": "حقيبة يد حقيبة يد لون اسود مع قفل - فور باج متجر الشنط ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpmTzWFVhFiS1wiyx4lb2ds8yjkevgna6qpw&s",
+      "original": "https://cdn.salla.sa/nEgqxn/656a6569-76d0-4d5f-b510-6ccf9dc10f25-1000x666.66666666667-jCRjTkbmz8H9vO96duE3aDNYcgeFByDsJ6RjBgin.jpg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/handbag/ar/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSA5j3Nhy_I6l7k1_eHLws4PrAjO5jVYFFDdA&s",
+      "fuentePagina": "https://www.guess.eg/ar/%D8%B4%D9%86%D8%B7-%D9%8A%D8%AF/%D8%AD%D9%82%D9%8A%D8%A8%D8%A9-%D9%8A%D8%AF-%D9%83%D8%A8%D9%8A%D8%B1%D8%A9-%D8%AB%D9%86%D8%A7%D8%A6%D9%8A%D8%A9-%D8%A7%D9%84%D8%A3%D9%82%D8%B3%D8%A7%D9%85/013625835317.html?srsltid=AfmBOoott0Z_wR7X71ICt4wbC_CURoORJeNsnMl_Z3niEukQCL3-b6vF",
+      "titulo": "تسوقوا حقيبة يد كبيرة ثنائية الأقسام من جيس عبر الإنترنت",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSA5j3Nhy_I6l7k1_eHLws4PrAjO5jVYFFDdA&s",
+      "original": "https://www.guess.eg/dw/image/v2/BDDB_PRD/on/demandware.static/-/Sites-guess-master-catalog/default/dw04e26061/images/SG849310_BLA_02.jpg?sw=800&sh=1040"
+    }
+  ]
+}

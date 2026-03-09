@@ -1,0 +1,71 @@
+{
+  "categoria": "bus",
+  "categoriaSlug": "bus",
+  "idioma": "qu",
+  "nombreIdioma": "Quechua",
+  "termino": "busta",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T20:44:02.565Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "es",
+    "gl": "pe"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=busta&hl=es&gl=pe",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bus/qu/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4nrcVChit70lmbr8mfjZ6Q0viZPygGzEvjg&s",
+      "fuentePagina": "https://es.wikipedia.org/wiki/Busta_Rhymes",
+      "titulo": "Busta Rhymes - Wikipedia, la enciclopedia libre",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4nrcVChit70lmbr8mfjZ6Q0viZPygGzEvjg&s",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Busta_Rhymes_%2852380599657%29_%28cropped%29.jpg/250px-Busta_Rhymes_%2852380599657%29_%28cropped%29.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bus/qu/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbQfNPLAWOx63Mfuvpx_g44ZZAdzy-tnY1gw&s",
+      "fuentePagina": "https://rappers.fandom.com/wiki/Busta_Rhymes",
+      "titulo": "Busta Rhymes | Rappers Wiki | Fandom",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbQfNPLAWOx63Mfuvpx_g44ZZAdzy-tnY1gw&s",
+      "original": "https://static.wikia.nocookie.net/rappers/images/2/2c/Mh-hiphop-social-busta-1-64c84540f2a4b.png/revision/latest?cb=20230920175940"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bus/qu/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLvLo8D2HuFJxqVQ0f0CrKoVyX4U9IXUfvWA&s",
+      "fuentePagina": "https://www.deezer.com/es/artist/796",
+      "titulo": "Busta Rhymes: discos, canciones y conciertos | Deezer",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLvLo8D2HuFJxqVQ0f0CrKoVyX4U9IXUfvWA&s",
+      "original": "https://cdn-images.dzcdn.net/images/artist/6292d7ffe248b8a340682ddff4114aaa/1900x1900-000000-81-0-0.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bus/qu/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKv0GoQUOaVTvjtFT4uhslV5TKz0IHm9KzhQ&s",
+      "fuentePagina": "https://www.tvinsider.com/people/busta-rhymes/",
+      "titulo": "Busta Rhymes - Rapper, Singer, Songwriter, Record Producer ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKv0GoQUOaVTvjtFT4uhslV5TKz0IHm9KzhQ&s",
+      "original": "https://ntvb.tmsimg.com/assets/assets/152149_v9_bc.jpg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bus/qu/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0PhETUIJIaNZC9AguW9fxD6Fzqv474sP8Nw&s",
+      "fuentePagina": "https://www.menshealth.com/es/adelgazar-perder-peso/a35187164/busta-rhymes-transformacion-dieta-entrenamiento/",
+      "titulo": "Busta Rhymes: dieta y entrenamiento para su transformación ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0PhETUIJIaNZC9AguW9fxD6Fzqv474sP8Nw&s",
+      "original": "https://hips.hearstapps.com/hmg-prod/images/busta-rhymes-walks-the-red-carpet-at-the-official-grand-news-photo-1610445604.?crop=1.00xw:0.668xh;0,0.140xh&resize=640:*"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bus/qu/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxOM5NbQzs4Rhk7HpNVC3aqQZjq2yusCom4w&s",
+      "fuentePagina": "https://shopsmj.com/products/busta-1",
+      "titulo": "Busta Soft Drink | Home Drink Delivery in Trinidad | SMJ ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxOM5NbQzs4Rhk7HpNVC3aqQZjq2yusCom4w&s",
+      "original": "https://cdn.shopify.com/s/files/1/1302/2643/files/Busta_copy.png?v=1726749007"
+    }
+  ]
+}

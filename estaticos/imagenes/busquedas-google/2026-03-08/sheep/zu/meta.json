@@ -1,0 +1,71 @@
+{
+  "categoria": "sheep",
+  "categoriaSlug": "sheep",
+  "idioma": "zu",
+  "nombreIdioma": "isiZulu",
+  "termino": "imvu",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T20:52:31.578Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "zu",
+    "gl": "za"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=imvu&hl=zu&gl=za",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/sheep/zu/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDmuB2_5_7h38m_k-zkt_DgQmMP9Q4_sVGow&s",
+      "fuentePagina": "https://www.instagram.com/p/C7mhXvIvpDx/",
+      "titulo": "🚀 Join the IMVU Official Discord! Dive into the ultimate ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDmuB2_5_7h38m_k-zkt_DgQmMP9Q4_sVGow&s",
+      "original": "https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3379535337083539697"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/sheep/zu/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1zzbs8KsuDZl42kJ4qkEvpalRZL6WKKFhKw&s",
+      "fuentePagina": "https://livecards.net/en/all-blogs/imvu-your-3d-avatar-social-world",
+      "titulo": "IMVU: Your 3D Avatar Social World",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1zzbs8KsuDZl42kJ4qkEvpalRZL6WKKFhKw&s",
+      "original": "https://livecards.net/i/51807.png"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/sheep/zu/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4w0IVI-eS_z1qDNJJYEAxCKhzIsd1e1EZEg&s",
+      "fuentePagina": "https://play.google.com/store/apps/details?id=com.imvu.mobilecordova&hl=en_ZA",
+      "titulo": "IMVU: Social Chat & Avatar app – Apps on Google Play",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4w0IVI-eS_z1qDNJJYEAxCKhzIsd1e1EZEg&s",
+      "original": "https://play-lh.googleusercontent.com/EZdNtUV_BG5cjT5RojqbKx9XSDXR2N-6ltQAnyETZxKHlDaAfATWonafIJVpBVU2NafX"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/sheep/zu/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRa2_raHUsHb40f1JklYxi7qDH_ldmwq4b_Ow&s",
+      "fuentePagina": "https://www.coindesk.com/business/2021/01/12/avatar-social-platform-imvu-launches-ethereum-token-to-power-its-virtual-economy",
+      "titulo": "Avatar Social Platform IMVU Launches Ethereum Token to Power ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRa2_raHUsHb40f1JklYxi7qDH_ldmwq4b_Ow&s",
+      "original": "https://www.coindesk.com/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fs3y3vcno%2Fproduction%2F4401650cdfbbe739c02c85989f07a67480c59ed2-1040x667.png%3Fauto%3Dformat&w=1080&q=75"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/sheep/zu/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRH0kSGZV_-oNUsp3PdCvd0YfTVTiJ4_eBXOw&s",
+      "fuentePagina": "https://open.spotify.com/track/4LLHczdd4a2PKEEOKuPOtQ",
+      "titulo": "IMVU - song and lyrics by 98$upreme | Spotify",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRH0kSGZV_-oNUsp3PdCvd0YfTVTiJ4_eBXOw&s",
+      "original": "https://i.scdn.co/image/ab67616d0000b273689809b6e6f9343ea776d46c"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/sheep/zu/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwBp2K_unKQPyJbbPiMRpxn00-iGmayuJ9kg&s",
+      "fuentePagina": "https://www.tiktok.com/@gamingorwhateva/video/7246465631066017070",
+      "titulo": "#CapCut Part 2 | #imvu Dc: @♾️ #familythings | TikTok",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwBp2K_unKQPyJbbPiMRpxn00-iGmayuJ9kg&s",
+      "original": "https://www.tiktok.com/api/img/?itemId=7246465631066017070&location=0&aid=1988"
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "categoria": "potted plant",
+  "categoriaSlug": "potted-plant",
+  "idioma": "es",
+  "nombreIdioma": "Español",
+  "termino": "planta en maceta",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:18:48.693Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "es",
+    "gl": "es"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=planta%20en%20maceta&hl=es&gl=es",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/potted-plant/es/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXqlh6Guc7k1HSxHLqz3uUgidJFa_5EQPscA&s",
+      "fuentePagina": "https://www.gardentech.com/es/blog/how-to-guides/easy-herbs-for-indoors-and-out",
+      "titulo": "Cómo cultivar hierbas en macetas en interiores y exteriores",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXqlh6Guc7k1HSxHLqz3uUgidJFa_5EQPscA&s",
+      "original": "https://www.gardentech.com/-/media/project/oneweb/gardentech/images/blog/easy-herbs-for-indoors-and-out/easy_herbs-header.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/potted-plant/es/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5qDHd6jYJPGkEeaUcY8js5wEMye32_VqO1A&s",
+      "fuentePagina": "https://machineplanet.net/blog/trucos-mantenimiento-macetas/?srsltid=AfmBOoqzXWujHiM_Yjc3qqyHQoDrDh634RcvD9TYIJ4yczlOJ-KoBv4F",
+      "titulo": "Trucos para el mantenimiento de tus macetas",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5qDHd6jYJPGkEeaUcY8js5wEMye32_VqO1A&s",
+      "original": "https://machineplanet.net/blog/wp-content/uploads/2024/02/Plantas-en-maceta.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/potted-plant/es/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxW4L3PmGhtYcp9WmNRIpzbjWutFcjRbhChw&s",
+      "fuentePagina": "https://www.elmueble.com/plantas-flores/como-conseguir-que-tus-plantas-maceta-vivan-mas-trucos-que-todo-amante-plantas-deberia-saber_52983",
+      "titulo": "Cómo conseguir que tus plantas en maceta vivan más: 9 trucos ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxW4L3PmGhtYcp9WmNRIpzbjWutFcjRbhChw&s",
+      "original": "https://content.elmueble.com/medio/2023/10/26/sigue-estos-trucos-para-alargar-la-vida-de-tus-plantas-en-macetas_b6d2aa07_231026103457_900x900.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/potted-plant/es/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4-Lrri2vjOvcBwarzP7uXx2E-QaB7BO0tlQ&s",
+      "fuentePagina": "https://aloepluslanzarote.com/blog/aloe-vera-en-maceta-planta-y-cuida-tu-aloe-en-casa",
+      "titulo": "▷ Aloe Vera en maceta, planta y cuida tu aloe en casa ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4-Lrri2vjOvcBwarzP7uXx2E-QaB7BO0tlQ&s",
+      "original": "https://aloepluslanzarote.com/media/entradas/AdobeStock_227721823.jpeg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/potted-plant/es/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSthU4VQJa7qLYDcaozSaZCWnWhyqXG31RY8w&s",
+      "fuentePagina": "https://www.jardinerosenlima.com/categoria-de/plantas-con-macetas/?srsltid=AfmBOopkvuQq96ciYF9inbioicFPh-NzZCXUwaawfLmD7sGhq-s_rAQ9",
+      "titulo": "Plantas con Macetas en » 【Jardineros Lima】",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSthU4VQJa7qLYDcaozSaZCWnWhyqXG31RY8w&s",
+      "original": "https://www.jardinerosenlima.com/wp-content/uploads/2024/07/planta-hawaina-con-maceta-capsula-v3-300x300.png"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/potted-plant/es/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQx6DjIu3Y4NS_cwoyGJC_LMRu1zGA0W7885Q&s",
+      "fuentePagina": "https://www.manomano.es/consejos/como-trasplantar-una-planta-a-otra-maceta-7389",
+      "titulo": "Cómo trasplantar una planta a otra maceta?",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQx6DjIu3Y4NS_cwoyGJC_LMRu1zGA0W7885Q&s",
+      "original": "https://cdn.manomano.com/media/edison/a/1/7/b/a17b25349cea.jpg"
+    }
+  ]
+}

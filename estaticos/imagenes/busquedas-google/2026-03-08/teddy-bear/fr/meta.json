@@ -1,0 +1,71 @@
+{
+  "categoria": "teddy bear",
+  "categoriaSlug": "teddy-bear",
+  "idioma": "fr",
+  "nombreIdioma": "Français",
+  "termino": "ours en peluche",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:30:59.162Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "fr",
+    "gl": "be"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=ours%20en%20peluche&hl=fr&gl=be",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/teddy-bear/fr/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCQxwFcCJQmrerIFCHCYWMt_B2YBMUzJhPBA&s",
+      "fuentePagina": "https://www.babylux.be/fr/peluche-ours-teddy-76cm-childhome.html",
+      "titulo": "Peluche Ours Teddy 76 cm",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCQxwFcCJQmrerIFCHCYWMt_B2YBMUzJhPBA&s",
+      "original": "https://www.babylux.be/media/catalog/product/cache/45f4f755edda6da9b7e5efa8a966a136/t/e/teddy-knuffelbeer-76cm-childhome3_CWO00455_0_1.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/teddy-bear/fr/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwicfLlqwczbRUyq62N5ZX9mLVWzlqrk9gvw&s",
+      "fuentePagina": "https://www.amazon.com.be/Uni-Toys-peluche-super-marron-clair/dp/B091JZS97T",
+      "titulo": "Uni-Toys Ours en peluche, super doux (marron clair) – 24 cm (hauteur) –  Ours en peluche, doudou : Amazon.com.be: Jouets",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwicfLlqwczbRUyq62N5ZX9mLVWzlqrk9gvw&s",
+      "original": "https://m.media-amazon.com/images/I/81TBsuVTjiL.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/teddy-bear/fr/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMFaiDNoOJvDxMIfMfhgDGkseRJ3fHbhCqVQ&s",
+      "fuentePagina": "https://www.king-jouet.be/jeu-jouet/peluches/ours-peluche/ref-224333-ours-en-peluche-avec-noeud-15-cm.htm?srsltid=AfmBOorYBYy8I2mOxxEWRyIZf8fhASVMved9ftBOhW68gHh6pueLW1X0",
+      "titulo": "Ours en peluche avec nœud 15 cm",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMFaiDNoOJvDxMIfMfhgDGkseRJ3fHbhCqVQ&s",
+      "original": "https://images.king-jouet.com/6/gu224333_6.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/teddy-bear/fr/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT16-NTlaIXiEfCarkY6kv0XyeMw7M3sYL1pA&s",
+      "fuentePagina": "https://www.bol.com/be/fr/p/ours-en-peluche-maxxhome-ours-en-peluche-100-cm-marron-clair-peluche-douce/9200000097790814/",
+      "titulo": "Ours en peluche MaxxHome - Ours en peluche - 100 cm - Marron clair -  Peluche douce | bol",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT16-NTlaIXiEfCarkY6kv0XyeMw7M3sYL1pA&s",
+      "original": "https://media.s-bol.com/BJVO017pM9Mx/Z4YBnnw/550x612.jpg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/teddy-bear/fr/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkh1v52Iy3p458djuGW0DMp1WXADXSlVDN8g&s",
+      "fuentePagina": "https://www.deubaxxl.be/fr/ours-en-peluche-geant-xl-brun/101252/",
+      "titulo": "Ours en peluche géant - XL - Brun",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkh1v52Iy3p458djuGW0DMp1WXADXSlVDN8g&s",
+      "original": "https://www.deubaxxl.be/media/81/13/2f/1699878073/86d567f0a8e837766030c5397cbd9840_de-101252d-1-1--1.jpg?ts=1699878073"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/teddy-bear/fr/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2_C7_DqRnlVdo1zfbHt7Xp09gepxKej79Xg&s",
+      "fuentePagina": "https://shop.makeawishsud.be/products/ours-en-peluche",
+      "titulo": "Ours en peluche",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2_C7_DqRnlVdo1zfbHt7Xp09gepxKej79Xg&s",
+      "original": "https://shop.makeawishsud.be/cdn/shop/files/5.png?v=1744276790&width=1445"
+    }
+  ]
+}

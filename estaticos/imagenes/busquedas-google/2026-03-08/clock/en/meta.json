@@ -1,0 +1,71 @@
+{
+  "categoria": "clock",
+  "categoriaSlug": "clock",
+  "idioma": "en",
+  "nombreIdioma": "English",
+  "termino": "clock",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:28:42.408Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "en",
+    "gl": "us"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=clock&hl=en&gl=us",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/clock/en/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRD9VUxzyN6sg2LuuCx_HyS4oX7SgbBtiA3hg&s",
+      "fuentePagina": "https://www.amazon.com/Ultimate-Wall-Clock-Battery-Operated/dp/B07HVN4BVQ",
+      "titulo": "Amazon.com: The Ultimate Wall Clock |14 Inch | Modern ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRD9VUxzyN6sg2LuuCx_HyS4oX7SgbBtiA3hg&s",
+      "original": "https://m.media-amazon.com/images/I/81nUFx9sXoL._AC_UF894,1000_QL80_.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/clock/en/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOXqv4P7eDYvlGkwE7rkD74gxFPxhLKaosdg&s",
+      "fuentePagina": "https://www.ikea.com/us/en/p/pluttis-wall-clock-red-30540851/",
+      "titulo": "PLUTTIS wall clock, red, 11\" - IKEA",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOXqv4P7eDYvlGkwE7rkD74gxFPxhLKaosdg&s",
+      "original": "https://www.ikea.com/us/en/images/products/pluttis-wall-clock-red__1013097_pe829051_s5.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/clock/en/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2yXXkhGQ-bdaQwZjKSFqDacG9xLR5rU0p_w&s",
+      "fuentePagina": "https://www.ikea.com/us/en/p/pluttis-wall-clock-black-10540847/",
+      "titulo": "PLUTTIS wall clock, black, 11\" - IKEA",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2yXXkhGQ-bdaQwZjKSFqDacG9xLR5rU0p_w&s",
+      "original": "https://www.ikea.com/us/en/images/products/pluttis-wall-clock-black__1013114_pe829054_s5.jpg?f=s"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/clock/en/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQq1xY5YwrO5fqZjDC1IItqZFhCIoMU-oDl5A&s",
+      "fuentePagina": "https://www.learningresources.com/item-mini-teaching-clock?srsltid=AfmBOoqMpmC5Tt7sPtKnk5FFW5lifgPy9V3NU_YAaF_x8H02ctLMkgxb",
+      "titulo": "Big Time™ Mini Clock",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQq1xY5YwrO5fqZjDC1IItqZFhCIoMU-oDl5A&s",
+      "original": "https://www.learningresources.com/media/catalog/product/6/0/60532b7939127e506a1c2cacbc246d295d1082ec_112.jpg?quality=80&bg-color=255,255,255&fit=bounds&height=500&width=700&canvas=700:500"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/clock/en/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSz_aUA9EHyZFmClRLQMmHPw69YkDFYiN63w&s",
+      "fuentePagina": "https://www.amazon.com/SHARP-Wall-Clock-Operated-Classroom/dp/B092RJTMXL",
+      "titulo": "Amazon.com: Sharp Wall Clock – Black, Silent Non Ticking 14 ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSz_aUA9EHyZFmClRLQMmHPw69YkDFYiN63w&s",
+      "original": "https://m.media-amazon.com/images/I/61taOJJ7-sS._AC_UF894,1000_QL80_.jpg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/clock/en/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRN8yHvSnFVxT6d1ucVLFbWy14qNPcfv8qqQw&s",
+      "fuentePagina": "https://www.walmart.com/ip/Universal-UNV10441-12-63-in-Diameter-24-Hour-Round-Wall-Clock-Black-Case/41883692",
+      "titulo": "Universal UNV10441 12.63 in. Diameter 24-Hour Round Wall ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRN8yHvSnFVxT6d1ucVLFbWy14qNPcfv8qqQw&s",
+      "original": "https://i5.walmartimages.com/seo/Universal-UNV10441-12-63-in-Diameter-24-Hour-Round-Wall-Clock-Black-Case_641c9e76-0345-4a1a-acd2-3e6eddda8b23.93aeda5de012a51142e0bc9fa974054b.jpeg?odnHeight=768&odnWidth=768&odnBg=FFFFFF"
+    }
+  ]
+}

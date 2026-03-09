@@ -1,0 +1,71 @@
+{
+  "categoria": "bench",
+  "categoriaSlug": "bench",
+  "idioma": "yo",
+  "nombreIdioma": "Yorùbá",
+  "termino": "ìjókòó",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T20:49:08.860Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "yo",
+    "gl": "ng"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=%C3%ACj%C3%B3k%C3%B2%C3%B3&hl=yo&gl=ng",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bench/yo/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7Mtbk8rhCV9P-MZeDFos1Xh3Yhf_9RNpxCQ&s",
+      "fuentePagina": "https://www.facebook.com/asalewayoruba/posts/if-you-greet-an-indigene-of-ekiti-or-%C3%B2nd%C3%B3-%E1%BA%B9k%C3%B9-%C3%ACj%C3%B3k%C3%B2%C3%B3-they-will-reject-it-for-you/597880888655296/",
+      "titulo": "If you greet an Indigene of Ekiti or Òndó Ẹkù ìjókòó, they ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7Mtbk8rhCV9P-MZeDFos1Xh3Yhf_9RNpxCQ&s",
+      "original": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=597880855321966"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bench/yo/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJbMZULfOPzQwizTDS-iRHihgRqtYN5WAiEw&s",
+      "fuentePagina": "https://www.instagram.com/reel/DSlD72vDFSl/",
+      "titulo": "A BRIEF GUIDE TO A YORUBA TRADITIONAL WEDDING 🇳🇬✨, ✨ Alágà Ìdúró vs Alágà  Ìjókòó, The Alágàs are the MCs of the day., • Alágà Ìdúró represents the  groom’s family, • Alágà Ìjókòó represents the bride’s ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJbMZULfOPzQwizTDS-iRHihgRqtYN5WAiEw&s",
+      "original": "https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3793455568489567397"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bench/yo/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAMGosdQ__AmNg_V0KUTzmcoxQhV1pK1ipGQ&s",
+      "fuentePagina": "https://www.bbc.com/yoruba/articles/cpq18p3w4q5o",
+      "titulo": "Àwọn asòfin Ondo bínú jáde níbi ìjókòó ilé torí abá àfikún ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAMGosdQ__AmNg_V0KUTzmcoxQhV1pK1ipGQ&s",
+      "original": "https://ichef.bbci.co.uk/ace/ws/640/cpsprodpb/dded/live/b1138200-c0d8-11f0-945a-35e14552e076.jpg.webp"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bench/yo/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFuVk6DhIb8VlPfcdeMJBrmeyKJoPILs3osA&s",
+      "fuentePagina": "https://www.cxycaravanseat.com/yo/medic-seats-ambulance-passenger-bench-seat-product/",
+      "titulo": "Ijókòó Ìṣègùn Tó Dáa Jùlọ - Ilé Ijókòó Arìnrìn-àjò, Ilé Iṣẹ́ ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFuVk6DhIb8VlPfcdeMJBrmeyKJoPILs3osA&s",
+      "original": "https://ecdn6.globalso.com/upload/p/1453/image_other/2025-12/medic-seats-ambulance-passenger-bench-seat-1-1.jpg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bench/yo/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEFypDmAnc0gPUdn0dBAxESGkBBobX7h_sfA&s",
+      "fuentePagina": "https://www.tch-fiberglass.com/yo/%C3%ACgb%E1%BA%B9%CC%81-o%C3%BAnj%E1%BA%B9-fiberglass/",
+      "titulo": "Àga ìwẹ̀ Fiberglass 1",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEFypDmAnc0gPUdn0dBAxESGkBBobX7h_sfA&s",
+      "original": "https://www.tch-fiberglass.com/wp-content/uploads/2025/12/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20251217091023_724_40-1024x1024.jpg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bench/yo/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRC9eretME00r5RXi7KH0VLft-84X5MXxx--w&s",
+      "fuentePagina": "https://www.cxycaravanseat.com/yo/medic-seats-ambulance-passenger-bench-seat-product/",
+      "titulo": "Ijókòó Ìṣègùn Tó Dáa Jùlọ - Ilé Ijókòó Arìnrìn-àjò, Ilé Iṣẹ́ ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRC9eretME00r5RXi7KH0VLft-84X5MXxx--w&s",
+      "original": "https://ecdn6.globalso.com/upload/p/1453/image_other/2025-12/medic-seats-ambulance-passenger-bench-seat-3-1.jpg"
+    }
+  ]
+}

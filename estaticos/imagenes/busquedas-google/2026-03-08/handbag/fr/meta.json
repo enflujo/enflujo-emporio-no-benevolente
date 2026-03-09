@@ -1,0 +1,71 @@
+{
+  "categoria": "handbag",
+  "categoriaSlug": "handbag",
+  "idioma": "fr",
+  "nombreIdioma": "Français",
+  "termino": "sac à main",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T20:57:36.152Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "fr",
+    "gl": "be"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=sac%20%C3%A0%20main&hl=fr&gl=be",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/handbag/fr/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7MMbGzSNlBYW2IxyX8m3Oa0qO808D6AdKzQ&s",
+      "fuentePagina": "https://fr.zalando.be/anna-field-sac-a-main-cognac-an651h0zo-o11.html",
+      "titulo": "Anna Field Sac bandoulière - cognac - ZALANDO",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7MMbGzSNlBYW2IxyX8m3Oa0qO808D6AdKzQ&s",
+      "original": "https://img01.ztat.net/article/spp-media-p1/6cb1d75933454a00a16b964e594740cf/a6f7a23bb3f44a08bd5a9f8a8dd5739f.jpg?imwidth=762&filter=packshot"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/handbag/fr/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8bIQEhIuMC1k71yYhRnGlChn4fQFVOsru2Q&s",
+      "fuentePagina": "https://www.berca.be/fr/produit/13273/selected-by-lara-sac-a-main-noir",
+      "titulo": "Selected By La.ra Sac à main noir - Sacs à main - Sacs ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8bIQEhIuMC1k71yYhRnGlChn4fQFVOsru2Q&s",
+      "original": "https://www.berca.be/Cached/1543/canvas/800x800/226971_0001.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/handbag/fr/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSB6c4DqEK_SXjp8igfiihfAvzp8Ix8HDzqwQ&s",
+      "fuentePagina": "https://www.torfs.be/fr/signatur-sac-a-main-en-mauve/334048.html",
+      "titulo": "Signatur Sac à main en Mauve | Femmes Sacs à main | en ligne ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSB6c4DqEK_SXjp8igfiihfAvzp8Ix8HDzqwQ&s",
+      "original": "https://www.torfs.be/on/demandware.static/-/Sites-torfs-catalog-master/default/dw5c479413/hi-res/pdp/334/334048/334048-1.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/handbag/fr/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlChAfgaYHrgB_mxDgz0cINtuvAAqP8W-UlA&s",
+      "fuentePagina": "https://www.laredoute.be/ppdp/prod-350335335.aspx?srsltid=AfmBOooweH7FMNTmx-RMMg21Ws4o-2VimSITgM7MoPvC4Uy59Zn7eGIv",
+      "titulo": "Sac à main bi-matière La Redoute Collections marron/beige ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlChAfgaYHrgB_mxDgz0cINtuvAAqP8W-UlA&s",
+      "original": "https://cdn.laredoute.com/cdn-cgi/image/width=500,height=500,fit=pad,dpr=1/products/2/8/1/2812f743d01ce284ccfc040e93d16cf4.jpg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/handbag/fr/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLGJMBHDM2PsomEnb-g589bG40dvd1mZz7uQ&s",
+      "fuentePagina": "https://www.bol.com/be/fr/p/eleganci-sac-a-main-pour-femme-shopper-convient-pour-a4-avec-bandouliere-extra-longue-noir-ideal-pour-l-ecole-ou-le-sac-de-travail/9300000225852045/",
+      "titulo": "Eleganci - Sac à main pour femme - shopper - convient pour A4 - avec  bandoulière extra... | bol",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLGJMBHDM2PsomEnb-g589bG40dvd1mZz7uQ&s",
+      "original": "https://media.s-bol.com/jjW4lPEWBqkl/1wvO6ro/550x705.jpg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/handbag/fr/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmKee0t5PyTiUhtBB7FzvRgLC_x73lkfMRXA&s",
+      "fuentePagina": "https://fr.zalando.be/anna-field-sac-a-main-black-an651h15a-q11.html",
+      "titulo": "Anna Field Sac à main - black/noir - ZALANDO",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmKee0t5PyTiUhtBB7FzvRgLC_x73lkfMRXA&s",
+      "original": "https://img01.ztat.net/article/spp-media-p1/558d8d96a1634629a6efc87956692498/d4d17e43830f4688a112cedf26deea95.jpg?imwidth=762&filter=packshot"
+    }
+  ]
+}

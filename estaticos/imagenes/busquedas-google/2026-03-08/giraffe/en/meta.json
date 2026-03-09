@@ -1,0 +1,71 @@
+{
+  "categoria": "giraffe",
+  "categoriaSlug": "giraffe",
+  "idioma": "en",
+  "nombreIdioma": "English",
+  "termino": "giraffe",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T20:55:22.497Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "en",
+    "gl": "us"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=giraffe&hl=en&gl=us",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/giraffe/en/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQn5re5_yO1Aub59xdtRp1QcImI3MiQowU4Ew&s",
+      "fuentePagina": "https://en.wikipedia.org/wiki/Giraffe",
+      "titulo": "Giraffe - Wikipedia",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQn5re5_yO1Aub59xdtRp1QcImI3MiQowU4Ew&s",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Giraffe_Mikumi_National_Park.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/giraffe/en/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxZoIlGAOKQnMNynIBnKgpCncgEbkvq8OH8A&s",
+      "fuentePagina": "https://dosomething.org/article/11-facts-about-giraffes",
+      "titulo": "11 Facts About Giraffes | DoSomething.org",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxZoIlGAOKQnMNynIBnKgpCncgEbkvq8OH8A&s",
+      "original": "https://cdn.sanity.io/images/cphrnle8/production/a9a440a90458d24d5c34e722094520110f5883df-1440x811.webp?w=1440&q=100"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/giraffe/en/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREdaYVo6Beu5A66JkAHaf23rWsC4Cd62TzJg&s",
+      "fuentePagina": "https://giraffeconservation.org/facts-about-giraffe/faqs-about-baby-giraffe/",
+      "titulo": "FAQs About Baby Giraffe - Giraffe Conservation Foundation",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREdaYVo6Beu5A66JkAHaf23rWsC4Cd62TzJg&s",
+      "original": "https://giraffeconservation.org/wp-content/uploads/2024/11/featured-16-9_topaz-bobby-jo-photography-25-1024x576.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/giraffe/en/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmzDM25DqKsA13om7z63CvgZEc64OHNTTqHQ&s",
+      "fuentePagina": "https://animals.sandiegozoo.org/animals/giraffe",
+      "titulo": "Giraffe | San Diego Zoo Animals & Plants",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmzDM25DqKsA13om7z63CvgZEc64OHNTTqHQ&s",
+      "original": "https://animals.sandiegozoo.org/sites/default/files/2016-11/animals_hero_giraffe_1_0.jpg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/giraffe/en/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgDqCa7sMiMcd9OCG4aeRgz7xLvpLFq4rqaQ&s",
+      "fuentePagina": "https://iucn.org/press-release/202508/four-giraffe-species-officially-recognised-major-conservation-reclassification",
+      "titulo": "Four giraffe species officially recognised in major ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgDqCa7sMiMcd9OCG4aeRgz7xLvpLFq4rqaQ&s",
+      "original": "https://iucn.org/sites/default/files/2025-08/reticulated-giraffe-giraffa-reticulata_kenya-laikipia-plateau_copyrightmichaelbrown.jpg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/giraffe/en/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0Ko_daSUgeekacwlYCXKBGVJ3Za2m1p0_xQ&s",
+      "fuentePagina": "https://stlzoo.org/animals/mammals/hoofed-mammals/reticulated-giraffe",
+      "titulo": "Reticulated Giraffe | Saint Louis Zoo",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0Ko_daSUgeekacwlYCXKBGVJ3Za2m1p0_xQ&s",
+      "original": "https://transforms.stlzoo.org/production/animals/reticulated-giraffe-01-01.jpg?w=1200&h=1200&auto=compress%2Cformat&fit=crop&dm=1658951271&s=539e4b5c7b1f8c0287834e192ecc61d0"
+    }
+  ]
+}

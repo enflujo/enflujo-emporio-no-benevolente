@@ -1,0 +1,71 @@
+{
+  "categoria": "fire hydrant",
+  "categoriaSlug": "fire-hydrant",
+  "idioma": "sw",
+  "nombreIdioma": "Kiswahili",
+  "termino": "bomba la maji",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T20:46:58.239Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "sw",
+    "gl": "tz"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=bomba%20la%20maji&hl=sw&gl=tz",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/fire-hydrant/sw/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRguiV84wRuNDUdDL8hlghYEQUjrd5uvfGxkQ&s",
+      "fuentePagina": "https://fullshangweblog.co.tz/2026/02/01/changamoto-ya-maji-kijiji-cha-sungamile-bomba-la-maji-ya-ziwa-victoria-limepita-lakini-wananchi-bado-hawana-maji/",
+      "titulo": "CHANGAMOTO YA MAJI KIJIJI CHA SUNGAMILE: BOMBA LA MAJI YA ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRguiV84wRuNDUdDL8hlghYEQUjrd5uvfGxkQ&s",
+      "original": "https://fullshangweblog.co.tz/wp-content/uploads/2026/02/IMG-20260201-WA0126.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/fire-hydrant/sw/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMKtRROiF8dadI--zIhs_O35UyUU6WHlJ4Cg&s",
+      "fuentePagina": "https://cms.nukta.co.tz/njia-za-kupunguza-gharama-za-bili-za-maji-nyumbani/",
+      "titulo": "Njia za kupunguza gharama za bili za maji nyumbani - Nukta ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMKtRROiF8dadI--zIhs_O35UyUU6WHlJ4Cg&s",
+      "original": "https://cms.nukta.co.tz/wp-content/uploads/2021/03/7439646709e2eb14a207bf8fc8d0a63a.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/fire-hydrant/sw/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRa-CaflZO_l33-SK79BAFCfprN4rdamp8R3w&s",
+      "fuentePagina": "https://www.instagram.com/p/C-UJAvdK6GN/",
+      "titulo": "Mtu mwenye talanta nyingi kama bomba la maji linaweza kutoa ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRa-CaflZO_l33-SK79BAFCfprN4rdamp8R3w&s",
+      "original": "https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3428404849709654413"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/fire-hydrant/sw/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQf7ibbFQ1f9TgRtmkTgA26-IGMJGKoK9l-Mw&s",
+      "fuentePagina": "https://legacy.ippmedia.com/sw/habari/bomba-kutiririsha-maji-mara-kwanza-tangu-1952",
+      "titulo": "Bomba kutiririsha maji mara kwanza tangu 1952",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQf7ibbFQ1f9TgRtmkTgA26-IGMJGKoK9l-Mw&s",
+      "original": "https://legacy.ippmedia.com/sites/default/files/styles/image660/public/articles/2018/02/19/maji.jpg?itok=e-54a4ER&timestamp=1519044565"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/fire-hydrant/sw/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRThKqzy2FhYUEx8zFLVXELeWfdG_p69W6BxA&s",
+      "fuentePagina": "http://sw.pntekplast.com/long-spout-faucet-kitchen-faucet-plastic-taps-faucet-red-water-tap-product/",
+      "titulo": "Bomba la Mdomo Mrefu la China Bomba la Jiko la Plastiki ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRThKqzy2FhYUEx8zFLVXELeWfdG_p69W6BxA&s",
+      "original": "http://www.pntekplast.com/uploads/water-tap12.jpg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/fire-hydrant/sw/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8iS3fQQKCcyH5OrafCn4xwPGMAExB-olt0Q&s",
+      "fuentePagina": "https://sw.come4buy.com/products/water-bottle-pump-usb-charging-automatic",
+      "titulo": "Bomba la Maji Bomba la USB Kuchaji Umeme Otomatiki ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8iS3fQQKCcyH5OrafCn4xwPGMAExB-olt0Q&s",
+      "original": "https://come4buy.com/cdn/shop/products/come4buy26_ccc22fd9-a28b-49e7-84b7-9781b0d2592b.jpg?v=1664422667"
+    }
+  ]
+}

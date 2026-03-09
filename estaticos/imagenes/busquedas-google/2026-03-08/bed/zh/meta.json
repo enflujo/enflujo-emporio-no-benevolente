@@ -1,0 +1,71 @@
+{
+  "categoria": "bed",
+  "categoriaSlug": "bed",
+  "idioma": "zh",
+  "nombreIdioma": "中文",
+  "termino": "床",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:19:27.293Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "zh-CN",
+    "gl": "cn"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=%E5%BA%8A&hl=zh-CN&gl=cn",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bed/zh/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRz_MrM86hdUJpeR2_nmPAj5z5Ie0NRhKvYWQ&s",
+      "fuentePagina": "https://c-h-c.com.tw/product/d08/",
+      "titulo": "O'IN北歐風家具｜ 暮影半牛皮床台(5尺) - 晶華傢俱",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRz_MrM86hdUJpeR2_nmPAj5z5Ie0NRhKvYWQ&s",
+      "original": "https://c-h-c.com.tw/wp-content/uploads/2024/06/D08%E5%BA%8A%E6%83%85%E5%A2%83%E5%9C%961000%C3%971000.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bed/zh/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-hx2fcO0ZowQbNLFrt2WRgaPbP8IH8cWuAA&s",
+      "fuentePagina": "https://js-furniture.com.tw/product/nordic-bed/?srsltid=AfmBOopyuc1j8qeTBEKqVZ509QutT9u_6B57wCQb5WunsNj4gZKe0h0V",
+      "titulo": "Nordic 北歐床架｜愜意自然的居家美學- 佳昕家居",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-hx2fcO0ZowQbNLFrt2WRgaPbP8IH8cWuAA&s",
+      "original": "https://js-furniture.com.tw/wp-content/uploads/2024/01/webp_600x600-%E5%8C%97%E6%AD%90%E5%BA%8A%E6%9E%B67J0A7310-%E5%8E%BB%E8%83%8C-%E8%83%A1%E6%A1%83%E8%89%B2.webp"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bed/zh/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJcVwyHojC6aU8ZP4-c3GVewV5mz2ep3l9dg&s",
+      "fuentePagina": "https://www.trplus.com.tw/c/EC_20120776",
+      "titulo": "床架｜家具床墊｜特力屋",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJcVwyHojC6aU8ZP4-c3GVewV5mz2ep3l9dg&s",
+      "original": "https://cdn3.trplus.com.tw/medias/sys_master/advimage/advimage/h0d/h71/13489333698590/Y90B13-.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bed/zh/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbfHAUzed9V1hIr-N4Y8IRVGA5FCo__gGV3g&s",
+      "fuentePagina": "https://zh.wikipedia.org/zh-cn/%E5%BA%8A",
+      "titulo": "床- 维基百科，自由的百科全书",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbfHAUzed9V1hIr-N4Y8IRVGA5FCo__gGV3g&s",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/a/a7/PJK-Bed.jpg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bed/zh/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRRKvR74KoDXEytT1Rg28533KmXU2uW-Vw9g&s",
+      "fuentePagina": "https://www.nordic.com.tw/product/8674?srsltid=AfmBOoo1aQ6hQGLVusVJeXgwGhs6Z11oeDgfuN8GUcn3UBU1HEkagimX",
+      "titulo": "MO 雙人床架（歐洲橡木、180 公分） | 北歐櫥窗NORDIC",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRRKvR74KoDXEytT1Rg28533KmXU2uW-Vw9g&s",
+      "original": "https://www.nordic.com.tw/uploads/product_picture/65ba05b781b13YldCv.jpg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bed/zh/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZqgGuj0rttokunGQU1wzc8TpODncOcwxmKQ&s",
+      "fuentePagina": "https://www.twucm.com/products/bedroom/bedframe/square-bed",
+      "titulo": "福沃床架-有情門設計家具",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZqgGuj0rttokunGQU1wzc8TpODncOcwxmKQ&s",
+      "original": "https://www.twucm.com/uploads/products/628f20c58d8b3.jpg"
+    }
+  ]
+}

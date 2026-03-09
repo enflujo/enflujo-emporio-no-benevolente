@@ -1,0 +1,71 @@
+{
+  "categoria": "bird",
+  "categoriaSlug": "bird",
+  "idioma": "ha",
+  "nombreIdioma": "Hausa",
+  "termino": "tsuntsu",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T20:49:49.326Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "ha",
+    "gl": "ng"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=tsuntsu&hl=ha&gl=ng",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bird/ha/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4gM9YZbU1Xsqifcub1SQaRoppyom3h9DFbw&s",
+      "fuentePagina": "https://www.facebook.com/BBCMediaActionArewa/posts/bashi-ga-tsuntsu-bashi-ga-tarko-inji-masu-iya-magana/2864735100204900/",
+      "titulo": "Bashi ga tsuntsu, bashi ga tarko inji masu iya magana.",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4gM9YZbU1Xsqifcub1SQaRoppyom3h9DFbw&s",
+      "original": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=2864830060195404"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bird/ha/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCYkRrJFykPoyK0i1-JvGTsWItK3NaiBpzbA&s",
+      "fuentePagina": "https://ha.sadaalomma.com/Mutuwar-tsuntsu-a-mafarki-b/",
+      "titulo": "Menene fassarar ganin mutuwar tsuntsu a mafarki kamar yadda ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCYkRrJFykPoyK0i1-JvGTsWItK3NaiBpzbA&s",
+      "original": "https://sadaalomma.com/wp-content/uploads/2023/01/img-201216032322-67-landing011.webp"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bird/ha/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTN4uGSgElsalS6Dy5Qw530swpp_1ebC7sb0g&s",
+      "fuentePagina": "https://www.bbc.com/hausa/labarai-54536211",
+      "titulo": "Tsuntsu mai siffar jirgin yaƙi ya kafa tarihin yin tafiya ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTN4uGSgElsalS6Dy5Qw530swpp_1ebC7sb0g&s",
+      "original": "https://ichef.bbci.co.uk/ace/ws/640/cpsprodpb/7210/production/_114900292_tsuntsufighterjetgetty.jpg.webp"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bird/ha/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFA0Zdce_JXGYzCXEBYT-T8JfAVruEtGLefg&s",
+      "fuentePagina": "https://hausa.leadership.ng/wani-tsuntsu-ya-kafa-tarihin-tafiya-mafi-nisa-a-duniya/",
+      "titulo": "Wani Tsuntsu Ya Kafa Tarihin Tafiya Mafi Nisa A Duniya",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFA0Zdce_JXGYzCXEBYT-T8JfAVruEtGLefg&s",
+      "original": "https://hausa.leadership.ng/wp-content/uploads/2022/12/b0e0bdced0a54c2d355fbe327f805815.png"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bird/ha/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRiPozDTtsgt4NMRPB4piL3a9aaXJ9NevWlzw&s",
+      "fuentePagina": "https://www.youtube.com/watch?v=Lbhj9B_9mpg",
+      "titulo": "Hoton tsuntsu Hudahuda. da Kurciya da gizogizo.",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRiPozDTtsgt4NMRPB4piL3a9aaXJ9NevWlzw&s",
+      "original": "https://i.ytimg.com/vi/Lbhj9B_9mpg/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AHyCIAC0AWKAgwIABABGH8gWigxMA8=&rs=AOn4CLCp_RoeV_YCmWqt8mF-AMDnPJ6pmw"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bird/ha/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1to-Mj1dUFs51C0NeLEtclPfHHcgjKwnY-g&s",
+      "fuentePagina": "https://www.facebook.com/ironairo22/posts/learn-hausa-and-english-language-words-bird-tsuntsu-birds-tsuntsaye/24027226936911014/",
+      "titulo": "Learn Hausa and English language words Bird - Tsuntsu Birds ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1to-Mj1dUFs51C0NeLEtclPfHHcgjKwnY-g&s",
+      "original": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=24027226533577721"
+    }
+  ]
+}

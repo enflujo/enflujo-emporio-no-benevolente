@@ -1,0 +1,71 @@
+{
+  "categoria": "apple",
+  "categoriaSlug": "apple",
+  "idioma": "en",
+  "nombreIdioma": "English",
+  "termino": "apple",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:11:12.108Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "en",
+    "gl": "us"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=apple&hl=en&gl=us",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/apple/en/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSz3mIf7riOXklE3zlfN3oCgFQJTZEBIel7Jw&s",
+      "fuentePagina": "https://en.wikipedia.org/wiki/Apple_Inc.",
+      "titulo": "Apple Inc. - Wikipedia",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSz3mIf7riOXklE3zlfN3oCgFQJTZEBIel7Jw&s",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Apple_logo_black.svg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/apple/en/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMDSVdPdlrqONQ9f7MW0tuV5ITTAihFdCJUQ&s",
+      "fuentePagina": "https://www.walmart.com/ip/Fresh-Red-Delicious-Apple-Each/45912954",
+      "titulo": "Fresh Red Delicious Apple, Each - Walmart.com",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMDSVdPdlrqONQ9f7MW0tuV5ITTAihFdCJUQ&s",
+      "original": "https://i5.walmartimages.com/seo/Fresh-Red-Delicious-Apple-Each_7320e63a-de46-4a16-9b8c-526e15219a12_3.e557c1ad9973e1f76f512b34950243a3.jpeg?odnHeight=768&odnWidth=768&odnBg=FFFFFF"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/apple/en/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1tUKSAt5t5Lm17StJu-v7_dCeV2DhHX__ZQ&s",
+      "fuentePagina": "https://www.apple.com/shop/buy-iphone",
+      "titulo": "Buy iPhone - Apple",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1tUKSAt5t5Lm17StJu-v7_dCeV2DhHX__ZQ&s",
+      "original": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/iphone-card-40-17-202509_FMT_WHH?wid=508&hei=472&fmt=p-jpg&qlt=95&.v=WVVFRzUzVk1oblJhbW9PbGNSU25jckJGdUIrY1B0R3cwWTRVMzRnT1RWUmZMQnBkTWowcTVzai9uUEgzVDdYM3NtS0NkZnlUKzBRdlpRai9zMDR0cTQ2SzdvNlo3RnBaVmExOWFYbG5HREhZVGtLdlpieFJ0bE9GNURYSnYrUWw"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/apple/en/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAu2mZ830SD2185RCt26uImF95C7pXFhwXMQ&s",
+      "fuentePagina": "https://www.britannica.com/plant/apple-fruit-and-tree",
+      "titulo": "Apple | Fruit, Types, Nutrition, Cultivation, & Facts ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAu2mZ830SD2185RCt26uImF95C7pXFhwXMQ&s",
+      "original": "https://cdn.britannica.com/22/187222-050-07B17FB6/apples-on-a-tree-branch.jpg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/apple/en/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlkKG0nAyY8F_jWnfYO3mKbyprP_jlMwpv_w&s",
+      "fuentePagina": "https://www.freepik.com/free-photos-vectors/apple-fruits",
+      "titulo": "Apple fruits Images - Free Download on Freepik",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlkKG0nAyY8F_jWnfYO3mKbyprP_jlMwpv_w&s",
+      "original": "https://img.freepik.com/free-psd/close-up-delicious-apple_23-2151868338.jpg?semt=ais_rp_progressive&w=740&q=80"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/apple/en/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQVbcfX79YQsoUfd2GvfluBqo6PI7I7Ylrow&s",
+      "fuentePagina": "https://www.prevention.com/food-nutrition/g20481875/apple-varieties-and-recipes/",
+      "titulo": "25 Different Types of Apples — Apple Varieties and Their Tastes",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQVbcfX79YQsoUfd2GvfluBqo6PI7I7Ylrow&s",
+      "original": "https://hips.hearstapps.com/hmg-prod/images/apples-at-farmers-market-royalty-free-image-1627321463.jpg?crop=1xw:0.94466xh;center,top&resize=1200:*"
+    }
+  ]
+}

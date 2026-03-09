@@ -1,0 +1,71 @@
+{
+  "categoria": "cow",
+  "categoriaSlug": "cow",
+  "idioma": "zh",
+  "nombreIdioma": "中文",
+  "termino": "牛",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T20:53:24.442Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "zh-CN",
+    "gl": "cn"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=%E7%89%9B&hl=zh-CN&gl=cn",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/cow/zh/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSh0FnjheyIxof0UBlUTaIjdeCJRzJ3l3gJmA&s",
+      "fuentePagina": "https://www.ycbeef.com.tw/blog/posts/the-introduction-of-bovine",
+      "titulo": "牛的英文你知道多少？",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSh0FnjheyIxof0UBlUTaIjdeCJRzJ3l3gJmA&s",
+      "original": "https://img.shoplineapp.com/media/image_clips/61bfdbe82c4a9d001ab5c960/original.jpg?1639963624"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/cow/zh/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgWPgSCBC3lkq62bcUPdghxKATNN75Vdefew&s",
+      "fuentePagina": "https://www.englishok.com.tw/learning/toefl-junior/year-of-the-ox",
+      "titulo": "節慶學英文／牛年快樂！來學超應景單字、片語| | EnglishOK 中學 ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgWPgSCBC3lkq62bcUPdghxKATNN75Vdefew&s",
+      "original": "https://www.englishok.com.tw/wp-content/uploads/2021/02/210208-%E7%89%9B%E5%B9%B4%E8%8B%B1%E6%96%87_%E5%9C%961.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/cow/zh/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRP1AGXGXMUM3pqGKnV7cf0nwYqfO-RCAmvGw&s",
+      "fuentePagina": "https://zh.wikipedia.org/zh-cn/%E8%8D%B7%E6%96%AF%E5%9D%A6%E7%89%9B",
+      "titulo": "荷斯坦牛- 维基百科，自由的百科全书",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRP1AGXGXMUM3pqGKnV7cf0nwYqfO-RCAmvGw&s",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/b/b8/Holstein_Cow_in_Mont%C3%A9r%C3%A9gie%2C_Quebec.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/cow/zh/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSBWogBccfmqwjgUQCKhK_KjhUKH1NrSLKDg&s",
+      "fuentePagina": "https://www.epochtimes.com/gb/21/1/28/n12718892.htm",
+      "titulo": "牛年话牛】中国古代有哪些著名的“牛” | 宋宝蓝| 大纪元",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSBWogBccfmqwjgUQCKhK_KjhUKH1NrSLKDg&s",
+      "original": "https://i.epochtimes.com/assets/uploads/2021/02/1309241035472483-689x359.jpg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/cow/zh/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2-ooF0d-aw9DkqbvIReAiHwIBiNMHsDV5SQ&s",
+      "fuentePagina": "https://zh.wikipedia.org/zh-cn/%E7%89%9B",
+      "titulo": "牛- 维基百科，自由的百科全书",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2-ooF0d-aw9DkqbvIReAiHwIBiNMHsDV5SQ&s",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Cow_%28Fleckvieh_breed%29_Oeschinensee_Slaunger_2009-07-07.jpg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/cow/zh/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrv_kiLkER4q2xqxW145ThD1nhDidSg51PoA&s",
+      "fuentePagina": "http://fodizi.net/qt/qita/24890.html",
+      "titulo": "牛年说牛---佛教里的「牛」 - 佛弟子文库",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrv_kiLkER4q2xqxW145ThD1nhDidSg51PoA&s",
+      "original": "http://fodizi.net/uploadfile/202102/11/1357477609.jpg"
+    }
+  ]
+}

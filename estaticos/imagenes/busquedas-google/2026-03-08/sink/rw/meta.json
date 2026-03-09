@@ -1,0 +1,71 @@
+{
+  "categoria": "sink",
+  "categoriaSlug": "sink",
+  "idioma": "rw",
+  "nombreIdioma": "Kinyarwanda",
+  "termino": "isink",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:26:50.228Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "en",
+    "gl": "rw"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=isink&hl=en&gl=rw",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/sink/rw/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdz-g_C2E2IgYWpnNi4UaIYnkb0bScNmHCBQ&s",
+      "fuentePagina": "https://www.instagram.com/p/DE4G2TZuxCc/",
+      "titulo": "𝐢 𝐬𝐢𝐧𝐤 𝐢𝐧𝐝𝐮𝐬𝐭𝐫𝐢𝐞𝐬 𝑀𝑎𝑛𝑢𝑓𝑎𝑐𝑡𝑢𝑟𝑒𝑟𝑠 ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdz-g_C2E2IgYWpnNi4UaIYnkb0bScNmHCBQ&s",
+      "original": "https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3814760479764360512"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/sink/rw/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWhScuVSwhizg-f9PKRFDdsoByIGr15iS6sw&s",
+      "fuentePagina": "https://www.instagram.com/p/DS4BuG-jZR8/",
+      "titulo": "𝐢 𝐬𝐢𝐧𝐤 𝑀𝑎𝑛𝑢𝑓𝑎𝑐𝑡𝑢𝑟𝑒𝑟𝑠 𝑖𝑛 𝑆.𝑆. 𝑆𝑖𝑛𝑘 ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWhScuVSwhizg-f9PKRFDdsoByIGr15iS6sw&s",
+      "original": "https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3798793852321371260"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/sink/rw/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBjEDpHgFkdnaGyV9LVck-kWfM87TQw5zqrg&s",
+      "fuentePagina": "https://www.instagram.com/p/DBOwzKUSg0O/",
+      "titulo": "𝐢 𝐬𝐢𝐧𝐤 𝐢𝐧𝐝𝐮𝐬𝐭𝐫𝐢𝐞𝐬 𝑀𝑎𝑛𝑢𝑓𝑎𝑐𝑡𝑢𝑟𝑒𝑟𝑠 ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBjEDpHgFkdnaGyV9LVck-kWfM87TQw5zqrg&s",
+      "original": "https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3826261540144301512"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/sink/rw/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXmIYWwX6m1_IyznTB8TueW6YBOFuL3NmY9w&s",
+      "fuentePagina": "https://www.instagram.com/p/DBOwzKUSg0O/",
+      "titulo": "𝐢 𝐬𝐢𝐧𝐤 𝐢𝐧𝐝𝐮𝐬𝐭𝐫𝐢𝐞𝐬 𝑀𝑎𝑛𝑢𝑓𝑎𝑐𝑡𝑢𝑟𝑒𝑟𝑠 ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXmIYWwX6m1_IyznTB8TueW6YBOFuL3NmY9w&s",
+      "original": "https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3827761900281489061"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/sink/rw/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQeXCjFh2oNiW-NhyLOjEXPwUqd2I49Z5xTcw&s",
+      "fuentePagina": "https://www.bigbath.com.my/blogs/news/isink-3-0-the-era-of-intelligent-kitchen?srsltid=AfmBOoptgn0facA6Uk-F5--4xMuLmBxW0eUurFODlytadYKZSpzmbfOh",
+      "titulo": "iSink 3.0- The Era of Intelligent Kitchen – Big Bath Sdn Bhd",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQeXCjFh2oNiW-NhyLOjEXPwUqd2I49Z5xTcw&s",
+      "original": "https://cdn.shopify.com/s/files/1/0331/3709/8797/files/isink.jpg?v=1594628618"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/sink/rw/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKak6o3u0pmZT2y4IPdxeOOf2E7KuUbx5wGQ&s",
+      "fuentePagina": "https://www.instagram.com/p/DTKHN4_DZea/",
+      "titulo": "𝐢 𝐬𝐢𝐧𝐤 𝑀𝑎𝑛𝑢𝑓𝑎𝑐𝑡𝑢𝑟𝑒𝑟𝑠 𝑖𝑛 𝑆.𝑆. 𝑆𝑖𝑛𝑘 ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKak6o3u0pmZT2y4IPdxeOOf2E7KuUbx5wGQ&s",
+      "original": "https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3803884576133978010"
+    }
+  ]
+}

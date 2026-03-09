@@ -1,0 +1,71 @@
+{
+  "categoria": "sink",
+  "categoriaSlug": "sink",
+  "idioma": "yo",
+  "nombreIdioma": "Yorùbá",
+  "termino": "ibùsọ̀ omi",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:26:56.081Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "yo",
+    "gl": "ng"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=ib%C3%B9s%E1%BB%8D%CC%80%20omi&hl=yo&gl=ng",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/sink/yo/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTC_fWMGJzxWJ4jHSnAoPDqD4Zd5dLq8DbX6w&s",
+      "fuentePagina": "https://www.thepretendchef.com/omi-obe-soup/",
+      "titulo": "Omi Obe (Stew) - The Pretend Chef",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTC_fWMGJzxWJ4jHSnAoPDqD4Zd5dLq8DbX6w&s",
+      "original": "https://www.thepretendchef.com/wp-content/uploads/2017/05/Omi-Obe-Stew-1-11.jpg.webp"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/sink/yo/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHmsXYlZOEXVsUoY7uA4yVZ9Fw7a3026G5kA&s",
+      "fuentePagina": "https://www.thepretendchef.com/omi-obe-soup/",
+      "titulo": "Omi Obe (Stew) - The Pretend Chef",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHmsXYlZOEXVsUoY7uA4yVZ9Fw7a3026G5kA&s",
+      "original": "https://www.thepretendchef.com/wp-content/uploads/2017/05/Omi-Obe-Stew-1.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/sink/yo/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNUBtMmGiS470ogdTudQyHhl1hdZV0S-InaA&s",
+      "fuentePagina": "https://yo.wikipedia.org/wiki/Coconut_Beach_Badagary",
+      "titulo": "Coconut Beach Badagary - Wikipedia, ìwé-ìmọ̀ ọ̀fẹ́",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNUBtMmGiS470ogdTudQyHhl1hdZV0S-InaA&s",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Coconut-Beach-Badagry.jpg/250px-Coconut-Beach-Badagry.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/sink/yo/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvNxZ2EXTlnwo5gUdQBDKJBXefSmgqMoiMtA&s",
+      "fuentePagina": "https://www.instagram.com/p/DJ3kuGIN6vx/",
+      "titulo": "Oríkì Ọ̀ṣun (Oríkì Osun): Ọ̀ṣun Ọsogbo, Yèyé Ọ̀sùn, ọmọ ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvNxZ2EXTlnwo5gUdQBDKJBXefSmgqMoiMtA&s",
+      "original": "https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3636536721475611633"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/sink/yo/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTa0ALuLj3Kj6UOb2uX7sWNKJ6SEKoaJlxsfA&s",
+      "fuentePagina": "https://www.bbc.com/yoruba/afrika-56473634",
+      "titulo": "Kabiyesi Kidnapped: Olorí Oba Imope ní ẹbí kábíyèsí kò ní ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTa0ALuLj3Kj6UOb2uX7sWNKJ6SEKoaJlxsfA&s",
+      "original": "https://ichef.bbci.co.uk/ace/ws/640/cpsprodpb/AF7D/production/_117652944_imopeking.jpg.webp"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/sink/yo/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvyqFUrLZabeX7CNqCm4IQ95EXWMTi4eM7tQ&s",
+      "fuentePagina": "https://1835galapagosinclusivetrip.com/yo/%E1%BB%8Dja/%C3%A0w%E1%BB%8Dn-galapagos-l%C3%A1%C3%ACs%C3%AD-%C3%A0w%E1%BB%8Dn-%C3%ACd%C3%A8n%C3%A0-6d-5n-santa-cruz-galapagos/",
+      "titulo": "Àwọn Galapagos Láìsí Ìdènà 6D/5N – Santa Cruz Galápagos",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvyqFUrLZabeX7CNqCm4IQ95EXWMTi4eM7tQ&s",
+      "original": "https://1835galapagosinclusivetrip.com/wp-content/uploads/2025/09/WhatsApp-Image-2025-10-28-at-14.28.07.jpeg"
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "categoria": "surfboard",
+  "categoriaSlug": "surfboard",
+  "idioma": "ha",
+  "nombreIdioma": "Hausa",
+  "termino": "allunan ruwa",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:04:52.090Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "ha",
+    "gl": "ng"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=allunan%20ruwa&hl=ha&gl=ng",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/surfboard/ha/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTon3KheNXD-DiyAOtg9Thgqzk_i8QBQ9Svuw&s",
+      "fuentePagina": "https://www.sinsmarts.com/ha/ip68-waterproof-android-14-tablet/?srsltid=AfmBOoocQ17at4jZUtz5oVOIzBvHCAbmYS5d6BJL6C2amFeszAb-Hdgj",
+      "titulo": "Allunan IP68, IP68 mai hana ruwa ruwa Android 14 kwamfutar hannu",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTon3KheNXD-DiyAOtg9Thgqzk_i8QBQ9Svuw&s",
+      "original": "https://ecdn6.globalso.com/upload/p/1462/image_other/2025-04/sin-t1101e-8781_thumbW360.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/surfboard/ha/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQogpN_gPHpntQUcw1oMbeXgPVxoWQ2K3Vk6g&s",
+      "fuentePagina": "https://www.filterpur.com/ha/massive-selection-for-water-filter-tablets-integrated-waterway-board-for-water-filter-easy-replace-filterpur-product/",
+      "titulo": "Babban Zaɓin Zaɓuɓɓuka na Kasar Sin don Allunan Fitar Ruwa ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQogpN_gPHpntQUcw1oMbeXgPVxoWQ2K3Vk6g&s",
+      "original": "https://cdn.globalso.com/filterpur/57e922f3.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/surfboard/ha/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSV9O9qUUKOBj4tbAVjXS9WN87L9wETDVAEkw&s",
+      "fuentePagina": "https://www.filterpur.com/ha/massive-selection-for-water-filter-tablets-integrated-waterway-board-for-water-filter-easy-replace-filterpur-product/",
+      "titulo": "Babban Zaɓin Zaɓuɓɓuka na Kasar Sin don Allunan Fitar Ruwa ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSV9O9qUUKOBj4tbAVjXS9WN87L9wETDVAEkw&s",
+      "original": "https://cdn.globalso.com/filterpur/db0257d8.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/surfboard/ha/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSPEHLVpab7IdtHvmPf5OGGKBT1rjRQfIEvA&s",
+      "fuentePagina": "https://www.jaynevytours.com/ha/shan-ruwa-ruwa-kashe-kilimanjaro.html?srsltid=AfmBOootJkadcX33SVQSETpMQkTiZZc0e_XvBU-ti0tUheikV3rKBECY",
+      "titulo": "Ruwan sha a kan Kilimanjaro - Duk Abinda Yake so ku sani",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSPEHLVpab7IdtHvmPf5OGGKBT1rjRQfIEvA&s",
+      "original": "https://www.jaynevytours.com/assets/images/drinking-water-on-kilimanjaro-2-400.webp"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/surfboard/ha/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjdg9TLLpOKVg3SekDXgN6ks_s63u2Ku5RVA&s",
+      "fuentePagina": "https://www.filterpur.com/ha/massive-selection-for-water-filter-tablets-integrated-waterway-board-for-water-filter-easy-replace-filterpur-product/",
+      "titulo": "Babban Zaɓin Zaɓuɓɓuka na Kasar Sin don Allunan Fitar Ruwa ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjdg9TLLpOKVg3SekDXgN6ks_s63u2Ku5RVA&s",
+      "original": "https://cdn.globalso.com/filterpur/4f557b64.jpg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/surfboard/ha/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzQCnTT2QxQYqVJVo3iWXZaoai1i0ro7Tg0A&s",
+      "fuentePagina": "https://www.sinsmarts.com/ha/solutions/efficient-port-management-how-to-optimize-the-operation-process-t/?srsltid=AfmBOopJj3KwxREskkkwNsTGDs-6gDJfLBQFKOmcpAe01lJxz036thvW",
+      "titulo": "Ingantaccen sarrafa tashar jiragen ruwa: Yadda ake inganta ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzQCnTT2QxQYqVJVo3iWXZaoai1i0ro7Tg0A&s",
+      "original": "https://ecdn6.globalso.com/upload/p/1462/image_other/2025-04/fghrtf1.jpg"
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "categoria": "person",
+  "categoriaSlug": "person",
+  "idioma": "kg",
+  "nombreIdioma": "Kikongo",
+  "termino": "muntu",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T20:40:28.630Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "fr",
+    "gl": "cd"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=muntu&hl=fr&gl=cd",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/person/kg/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHBImQttswdzl3Wn-GpjSotaPV_g9wqS0_eQ&s",
+      "fuentePagina": "https://www.shutterstock.com/fr/search/muntu",
+      "titulo": "72 Images et Photos de Muntu Libres de Droits | Shutterstock",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHBImQttswdzl3Wn-GpjSotaPV_g9wqS0_eQ&s",
+      "original": "https://www.shutterstock.com/image-photo/cobek-muntu-ready-cooking-white-260nw-2690427161.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/person/kg/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMGjlU3awAXk0jin7C3PPAeEsI1tpS1ixhVw&s",
+      "fuentePagina": "https://www.imdb.com/fr-ca/title/tt16376030/",
+      "titulo": "Muntu (2020) - IMDb",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMGjlU3awAXk0jin7C3PPAeEsI1tpS1ixhVw&s",
+      "original": "https://m.media-amazon.com/images/M/MV5BZDliOWE0MmYtMDc5NS00MThlLTg1YjgtMjc1YTFjYmE5YmQxXkEyXkFqcGc@._V1_.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/person/kg/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXFfi71yJC4kM02rtXBgnwhF04PG4jyscRJA&s",
+      "fuentePagina": "https://www.presenceafricaine.com/philosophie-afrique-philosophe-africain/650-la-crise-du-muntu-9782708703384.html",
+      "titulo": "La crise du Muntu",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXFfi71yJC4kM02rtXBgnwhF04PG4jyscRJA&s",
+      "original": "https://www.presenceafricaine.com/440-medium_default/la-crise-du-muntu.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/person/kg/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1PrD91XWu7FaF2QrJnqKCbzmoWrJai6qtUA&s",
+      "fuentePagina": "https://www.facebook.com/muntu001/",
+      "titulo": "muntu (@muntu001) • Facebook",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1PrD91XWu7FaF2QrJnqKCbzmoWrJai6qtUA&s",
+      "original": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=100049384956986"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/person/kg/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyBeSF5AN6mB-1yjekUtxVnursn-ReYAnG8w&s",
+      "fuentePagina": "https://www.shutterstock.com/fr/search/muntu",
+      "titulo": "72 Images et Photos de Muntu Libres de Droits | Shutterstock",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyBeSF5AN6mB-1yjekUtxVnursn-ReYAnG8w&s",
+      "original": "https://www.shutterstock.com/shutterstock/photos/2690427161/display_1500/stock-photo--cobek-and-muntu-ready-for-cooking-with-white-background-2690427161.jpg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/person/kg/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThQn755NEGl2YpahAdcp3uztQ0RZdwrWCaFA&s",
+      "fuentePagina": "https://talatala.cd/deputes/722/",
+      "titulo": "Député Jérôme Muntu Woma",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThQn755NEGl2YpahAdcp3uztQ0RZdwrWCaFA&s",
+      "original": "https://backup-gce-talatala.s3.amazonaws.com/media/deputy/Muntu_Woma_Jerome.png"
+    }
+  ]
+}

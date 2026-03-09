@@ -1,0 +1,71 @@
+{
+  "categoria": "dog",
+  "categoriaSlug": "dog",
+  "idioma": "am",
+  "nombreIdioma": "Amharic — አማርኛ",
+  "termino": "ውሻ",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T20:51:08.467Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "am",
+    "gl": "et"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=%E1%8B%8D%E1%88%BB&hl=am&gl=et",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/dog/am/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHfwVkBb5AWcgVm3yn4PQUwsafiMnAyTWnjA&s",
+      "fuentePagina": "https://am.wikipedia.org/wiki/%E1%8B%8D%E1%88%BB",
+      "titulo": "ውክፔዲያ - ውሻ",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHfwVkBb5AWcgVm3yn4PQUwsafiMnAyTWnjA&s",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Coat_types_3.jpg/250px-Coat_types_3.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/dog/am/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWxVZ9zQz10SpPZNUANjBzFC1CODe1KVuqSg&s",
+      "fuentePagina": "https://www.bbc.com/amharic/articles/cq5qvqx243yo",
+      "titulo": "ሃቺኮ፡ የዓለማችን እጅግ ታማኙ ውሻ 100 መቶኛ ዓመት ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWxVZ9zQz10SpPZNUANjBzFC1CODe1KVuqSg&s",
+      "original": "https://ichef.bbci.co.uk/ace/ws/640/cpsprodpb/d94b/live/7263e6f0-18ae-11ee-8cae-4785e93eadf1.jpg.webp"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/dog/am/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHoHeiAbeFk5dY_FqJpt1zzC5fUyLEzgLhcQ&s",
+      "fuentePagina": "https://am.wikipedia.org/wiki/%E1%8A%A3%E1%8B%8D%E1%88%AC_%E1%8B%8D%E1%88%BB",
+      "titulo": "ውክፔዲያ - ኣውሬ ውሻ",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHoHeiAbeFk5dY_FqJpt1zzC5fUyLEzgLhcQ&s",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/African_wild_dog_%28Lycaon_pictus_pictus%29.jpg/250px-African_wild_dog_%28Lycaon_pictus_pictus%29.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/dog/am/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS82mek1ehRwnzHgM8Airj26jxb2hlT-0MGQg&s",
+      "fuentePagina": "https://www.fanamc.com/archives/226741",
+      "titulo": "የእብድ ውሻ በሽታ ምንነት፣ምልክቶች እና መከላከያ ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS82mek1ehRwnzHgM8Airj26jxb2hlT-0MGQg&s",
+      "original": "https://sp-ao.shortpixel.ai/client/to_webp,q_lossy,ret_img/https://www.fanamc.com/wp-content/uploads/2023/12/photo_2023-12-15_11-10-12-680x430.jpg?v=1702628423"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/dog/am/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQiYieWbEGgBwcg44kv20WN7pWukRLkA5nAg&s",
+      "fuentePagina": "https://amharicteacher.com/dictionary/english/%E1%8B%8D%E1%88%BB",
+      "titulo": "ውሻ (wsha) meaning in English - Amharic Dictionary",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQiYieWbEGgBwcg44kv20WN7pWukRLkA5nAg&s",
+      "original": "https://d9seco0wfq8yu.cloudfront.net/dict/wisha.png"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/dog/am/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7m4D-Dzklpt4OZEMCZle4qFT1Q0GIcoTelQ&s",
+      "fuentePagina": "https://hakimethio.org/%E1%8B%A8%E1%8A%A5%E1%89%A5%E1%8B%B5-%E1%8B%8D%E1%88%BB-%E1%89%A0%E1%88%BD%E1%89%B3-%E1%8A%A5%E1%8A%95%E1%8B%B4%E1%89%B5-%E1%88%98%E1%8A%A8%E1%88%8B%E1%8A%A8%E1%88%8D-%E1%8B%AD%E1%89%BB%E1%88%8B/",
+      "titulo": "የእብድ ውሻ በሽታ እንዴት መከላከል ይቻላል?",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7m4D-Dzklpt4OZEMCZle4qFT1Q0GIcoTelQ&s",
+      "original": "https://hakimethio.org/wp-content/uploads/2024/09/d7gxxzrdadq.jpg"
+    }
+  ]
+}

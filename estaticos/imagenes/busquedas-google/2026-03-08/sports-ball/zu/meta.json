@@ -1,0 +1,71 @@
+{
+  "categoria": "sports ball",
+  "categoriaSlug": "sports-ball",
+  "idioma": "zu",
+  "nombreIdioma": "isiZulu",
+  "termino": "ibhola",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:01:37.791Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "zu",
+    "gl": "za"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=ibhola&hl=zu&gl=za",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/sports-ball/zu/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjWa4M2wvNTrz7TbVYPxCImL3BpwBQg0M5Ig&s",
+      "fuentePagina": "https://www.facebook.com/groups/1432328757032290/",
+      "titulo": "TRANSFER FOOTBALL WORLD NEWS IBHOLA LETHU | Facebook",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjWa4M2wvNTrz7TbVYPxCImL3BpwBQg0M5Ig&s",
+      "original": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=149026854611579"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/sports-ball/zu/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfFEEGnJaKPK1kg7kUgILgl5NXWHB1r1n_Pg&s",
+      "fuentePagina": "https://www.facebook.com/JustFutball/",
+      "titulo": "Ibhola Lethu (@JustFutball) • Facebook",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfFEEGnJaKPK1kg7kUgILgl5NXWHB1r1n_Pg&s",
+      "original": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=100063722290185"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/sports-ball/zu/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxJLbDTrYxo0tiS_iq834Qej9RDSamX-i3Ww&s",
+      "fuentePagina": "https://xh.wikipedia.org/wiki/Ibhola_(Ibhola_ekhatywayo)",
+      "titulo": "Ibhola (Ibhola ekhatywayo) - Wikipedia",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxJLbDTrYxo0tiS_iq834Qej9RDSamX-i3Ww&s",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Football_Pallo_valmiina-cropped.jpg/250px-Football_Pallo_valmiina-cropped.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/sports-ball/zu/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRyNKFVd_rlaCmNbTSUr4viHNXIfD1LN7POA&s",
+      "fuentePagina": "https://www.instagram.com/p/DGz2K4YtZVE/",
+      "titulo": "Zamani Zakes Makautsi | Mshini wazi ibhola bafethu aii ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRyNKFVd_rlaCmNbTSUr4viHNXIfD1LN7POA&s",
+      "original": "https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3581444370940138820"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/sports-ball/zu/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSoXWrazmYRjnUSJFDozHDH0LxcucLxfwD-g&s",
+      "fuentePagina": "https://www.shazam.com/song/1864870294/ibhola-lethu/music-video",
+      "titulo": "IBHOLA LETHU - Music Video by Shafu-omnyama - Shazam",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSoXWrazmYRjnUSJFDozHDH0LxcucLxfwD-g&s",
+      "original": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/9e/a4/f9/9ea4f9ac-1426-118c-e9af-7ce5badc4516/7300347791177.jpg/800x800cc.jpg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/sports-ball/zu/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhl4Mxa0G0KkbcnHMjd5xsFIipSBHEnt9YoQ&s",
+      "fuentePagina": "https://xh.wikipedia.org/wiki/Ibhola_ekhatywayo",
+      "titulo": "Ibhola ekhatywayo - Wikipedia",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhl4Mxa0G0KkbcnHMjd5xsFIipSBHEnt9YoQ&s",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Football_in_Bloomington%2C_Indiana%2C_1995.jpg/330px-Football_in_Bloomington%2C_Indiana%2C_1995.jpg"
+    }
+  ]
+}

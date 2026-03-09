@@ -1,0 +1,71 @@
+{
+  "categoria": "mouse",
+  "categoriaSlug": "mouse",
+  "idioma": "pt",
+  "nombreIdioma": "Português",
+  "termino": "mouse",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:22:46.629Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "pt",
+    "gl": "br"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=mouse&hl=pt&gl=br",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/mouse/pt/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAGeABb4fjfkj8Qfn8bGP5586CDjl9b5Xn4w&s",
+      "fuentePagina": "https://www.dell.com/pt-br/shop/mouse-gamer-sem-fio-alienware-pro/apd/570-bbgr/acess%C3%B3rios-para-computador",
+      "titulo": "Mouse gamer Alienware – 4 KHz sem fio e 8 KHz com fio | Dell ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAGeABb4fjfkj8Qfn8bGP5586CDjl9b5Xn4w&s",
+      "original": "https://i.dell.com/is/image/DellContent/content/dam/ss2/product-images/dell-client-products/peripherals/mouse/aw-pro-wireless-mouse/pdp/alienware-pro-mouse-dsotm-pdp-gallery-hero.psd?fmt=jpg&wid=5000&hei=2810"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/mouse/pt/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbazEcwjQvmx1UVyh1f0tExouvNVfn9SzjrQ&s",
+      "fuentePagina": "https://www.goldentec.com.br/mouse-gamer-gt-nebula-rgb-12800-dpi-6-botoes/p",
+      "titulo": "Mouse Gamer GT Nebula RGB 12800 DPI - lojagoldentec",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbazEcwjQvmx1UVyh1f0tExouvNVfn9SzjrQ&s",
+      "original": "https://lojagoldentec.vteximg.com.br/arquivos/ids/166761-1000-1000/image-224acc37069842568a859bd4cdd15ab8.jpg?v=638590603445700000"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/mouse/pt/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFXaVWWHLmtx130PTY0v8_ziRbkOAyvXFpOw&s",
+      "fuentePagina": "https://www.logitechstore.com.br/mouse-sem-fio-para-jogos-logitech-g-pro-wireless/?srsltid=AfmBOop7ddGkJ6GW3hLpKHvWSyLwIX6GjD2WcuYCo_8OcxoHBK71G1io",
+      "titulo": "Mouse Gamer Sem Fio Logitech G PRO Wireless",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFXaVWWHLmtx130PTY0v8_ziRbkOAyvXFpOw&s",
+      "original": "https://www.logitechstore.com.br/media/catalog/product/cache/105e6f420716e0751863c4b81f527d17/g/a/gabarito_logitech.png"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/mouse/pt/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOoo7J5fO6-W2GNf4QRKT3GrsUMFvaYDgkIg&s",
+      "fuentePagina": "https://www.multilaser.com.br/mouse-sem-fio-ms400-1600-dpi-6-botoes-e-clique-silencioso-preto-mo381/p?srsltid=AfmBOorN_VNvNwd6AlT6V_T6eCe5Z8pA7r7dfMPY4fvpbppNXc-QtboB",
+      "titulo": "Mouse Sem Fio MS400 DPI Ajustavel 6 Botões e Clique Silencioso Preto Multi  (Multilaser) - MO381",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOoo7J5fO6-W2GNf4QRKT3GrsUMFvaYDgkIg&s",
+      "original": "https://lojamultilaser.vtexassets.com/arquivos/ids/1523955-800-auto?v=638949683200400000&width=800&height=auto&aspect=true"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/mouse/pt/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMjEkdWUQYEj1b7sHyQoc0VneOXA_6Nbtu0g&s",
+      "fuentePagina": "https://row.hyperx.com/pt/products/hyperx-pulsefire-core-gaming-mouse",
+      "titulo": "Pulsefire Core - Mouse gamer RGB",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMjEkdWUQYEj1b7sHyQoc0VneOXA_6Nbtu0g&s",
+      "original": "https://row.hyperx.com/cdn/shop/files/hyperx_pulsefire_core_white_pink_2_back_angled.jpg?v=1732516884&width=1946"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/mouse/pt/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzWqsk5VEHPD2HCx58K992ZdHJcLH6TSaKTw&s",
+      "fuentePagina": "https://www.kabum.com.br/produto/264683/mouse-gamer-usb-x7-gaming-2400dpi-led-sport-7-botoes-estone",
+      "titulo": "Mouse Gamer, Usb, X7 Gaming, 2400dpi, Led, Sport, 7 Botões, Estone",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzWqsk5VEHPD2HCx58K992ZdHJcLH6TSaKTw&s",
+      "original": "https://images.kabum.com.br/produtos/fotos/sync_mirakl/264683/Mouse-Gamer-Usb-X7-Gaming-2400dpi-Led-Sport-7-Bot-es-Estone_1652396261_gg.jpg"
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "categoria": "bicycle",
+  "categoriaSlug": "bicycle",
+  "idioma": "fr",
+  "nombreIdioma": "Français",
+  "termino": "vélo",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T20:41:09.000Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "fr",
+    "gl": "be"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=v%C3%A9lo&hl=fr&gl=be",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bicycle/fr/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRh37biIxRQnSsU6p4JvcGRt6EAEZMOcZ7Gzg&s",
+      "fuentePagina": "https://www.test-achats.be/mobilite/velos",
+      "titulo": "Meilleur vélo électrique de 2026: Comparaison des modèles et ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRh37biIxRQnSsU6p4JvcGRt6EAEZMOcZ7Gzg&s",
+      "original": "https://www.test-achats.be/-/media/global-artwork/mobility/bikes/e-bikes.svg?rev=2e8c724e-b060-471e-b486-1df196f0c11b&hash=701C01D75F9230A1AA7697203DA21943"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bicycle/fr/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBSg4k8Q0oa3HgKVvWQADTD6rfmK5PqUcUVA&s",
+      "fuentePagina": "https://velophil.be/products/velo-de-ville-seb-890-homme?srsltid=AfmBOorszpiUrE0vd29ZjM214x8TgghRc6_eH6JJ-7NZozaGlD8sw1_Z",
+      "titulo": "Velo De Ville SEB 890 Homme",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBSg4k8Q0oa3HgKVvWQADTD6rfmK5PqUcUVA&s",
+      "original": "https://velophil.be/cdn/shop/products/velo-de-ville-seb-890-homme-2.png?v=1673551188&width=1946"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bicycle/fr/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrY4GmBpfxWZg108xt3Ym0Tzzw_srb3SM8Tg&s",
+      "fuentePagina": "https://gibuscycles.com/products/velo-20-pouces?srsltid=AfmBOorMMZ1Z0vZ6p2CPm3MU6fxvVN8f6qfH77CcjMCIsR1SZSVc9Z7e",
+      "titulo": "Vélo 20 pouces Fille - Garçon | VTT 20 pouces – Gibus Cycles",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrY4GmBpfxWZg108xt3Ym0Tzzw_srb3SM8Tg&s",
+      "original": "https://gibuscycles.com/cdn/shop/files/velo-20-pouces-profil-droit-bleu-gibus-cycles.jpg?v=1745845076"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bicycle/fr/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyMZsUuN-Pt4tLX8KExqW_-Rhr8fbhmXOBKQ&s",
+      "fuentePagina": "https://www.chango.fr/catalogue/produits/le-sport-2",
+      "titulo": "Vélo électrique Le Sport 2 - Le Reconditionné - Vélo Mad ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyMZsUuN-Pt4tLX8KExqW_-Rhr8fbhmXOBKQ&s",
+      "original": "https://cdn.shopify.com/s/files/1/0700/3272/0159/products/VELOMAD-sport-2-noir-profil-800x500_0828c9a0-7bf8-44c8-8610-cea3650cbdb4.jpg?v=1699439841"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bicycle/fr/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQepMy3J6COoZhXs8QFdif_jsGw610s5sPC2A&s",
+      "fuentePagina": "https://www.bikeshop.be/shop/velo-enfant-route-gravel-bemoov-r26-couleur-nationale-belge/",
+      "titulo": "Vélo Enfant Route/Gravel BEMOOV R26 Couleur Nationale Belge ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQepMy3J6COoZhXs8QFdif_jsGw610s5sPC2A&s",
+      "original": "https://www.bikeshop.be/wp-content/uploads/2024/08/velo-enfant-26-pouces-1.jpg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bicycle/fr/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsBezP2jZ2fnH6G0W6q7SwsGPTEFxzdm6Psg&s",
+      "fuentePagina": "https://fabricbike.com/fr/velos/fixie-velo-original.html",
+      "titulo": "Vélo fixie FabricBike. Spécialiste en vélos de pignon fixe ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsBezP2jZ2fnH6G0W6q7SwsGPTEFxzdm6Psg&s",
+      "original": "https://fabricbike.com/983-thickbox_default/fixie-velo-original.jpg"
+    }
+  ]
+}

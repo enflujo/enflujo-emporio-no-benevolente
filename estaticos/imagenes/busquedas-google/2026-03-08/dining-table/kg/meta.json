@@ -1,0 +1,71 @@
+{
+  "categoria": "dining table",
+  "categoriaSlug": "dining-table",
+  "idioma": "kg",
+  "nombreIdioma": "Kikongo",
+  "termino": "table",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:19:42.826Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "fr",
+    "gl": "cd"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=table&hl=fr&gl=cd",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/dining-table/kg/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT65I1Sax4sczzCNCtoQZeI6majds14_qXP-A&s",
+      "fuentePagina": "https://www.sundays-company.com/products/field-dining-table-white-oak?srsltid=AfmBOopQL9kdwvtcvf9MU7131Wj8xzbPUidpz9DlmgsBEFc6ht4nzVpu",
+      "titulo": "Field Dining Table, Seats 6-8 People, Oak - Sundays Company",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT65I1Sax4sczzCNCtoQZeI6majds14_qXP-A&s",
+      "original": "https://www.sundays-company.com/cdn/shop/products/DIN-BC-001-050_045_2000x_2000x_c54c21a5-a37b-4900-8cea-e5d2e56978aa.jpg?v=1743705842&width=4000"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/dining-table/kg/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsmgpDfz9Qu6NY2AAIiavp2XDxkFotWh_hOQ&s",
+      "fuentePagina": "https://www.ikea.com/fr/fr/cat/tables-dexterieur-700191/",
+      "titulo": "Tables d'extérieur, terrasse et jardin - IKEA",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsmgpDfz9Qu6NY2AAIiavp2XDxkFotWh_hOQ&s",
+      "original": "https://www.ikea.com/ext/ingkadam/m/927d0b85973d140/original/NO-outdoor-2024-22.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/dining-table/kg/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHpEAWnrmeTQ4LEvx4DElHdSUll139Tczl1Q&s",
+      "fuentePagina": "https://hoekhome.com/products/the-table?srsltid=AfmBOopSHAZIPq44WcHcUiy4BFJ3Hf72aHshoscu9YZeYZeC0Sl5BZNv",
+      "titulo": "The Table – Hoek Home: Furniture, Simplified.",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHpEAWnrmeTQ4LEvx4DElHdSUll139Tczl1Q&s",
+      "original": "http://hoekhome.com/cdn/shop/files/The_Table_Birch_Black_GADs.jpg?v=1724438650"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/dining-table/kg/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOHdo4jKfYcSw6uL12kSGZidwursqjN-JY1w&s",
+      "fuentePagina": "https://www.homedepot.com/p/BYBLIGHT-RoeslerRectangular-Brown-Wood-Square-39-4-in-4-Legs-Dining-Table-for-4-Seating-Small-Kitchen-Tables-for-Dining-Room-BB-F1889YF/328885910",
+      "titulo": "BYBLIGHT RoeslerRectangular Brown Wood Square 39.4 in. 4 ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOHdo4jKfYcSw6uL12kSGZidwursqjN-JY1w&s",
+      "original": "https://images.thdstatic.com/productImages/1c654fe6-311b-4755-b501-a861c534988f/svn/brown-byblight-kitchen-dining-tables-bb-f1889yf-64_1000.jpg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/dining-table/kg/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQYWjlNT_iFP1NYhVu6I6GX1_1c3rR0OKE5Q&s",
+      "fuentePagina": "https://www.artmeta.fr/mobilier/tables/table-mikado-bois/?srsltid=AfmBOopbi_Phdjl4auL8HW4TBiHzwhbYzoVet7dyBoxV5ugmMLCQwI5Z",
+      "titulo": "Table à manger Mikado : plateau bois massif + pied central ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQYWjlNT_iFP1NYhVu6I6GX1_1c3rR0OKE5Q&s",
+      "original": "https://www.artmeta.fr/wp-content/uploads/2024/02/Table-Mikado-acier-et-bois-massif-300x100-cm-12-personnes-1-scaled.jpg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/dining-table/kg/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQB4e-PXbReTZG6EF0tHifN20sE2kkCpN4aug&s",
+      "fuentePagina": "https://www.affordableseating.net/ottis-solid-wood-plank-top-table-black-metal-legs.html",
+      "titulo": "Ottis Table Set in Black Finish",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQB4e-PXbReTZG6EF0tHifN20sE2kkCpN4aug&s",
+      "original": "https://images.affordableseating.net/dpr_1.0,f_auto,q_auto,w_2000,h_2000/afd/media/catalog/product/s/w/swpl-set-3048-na-mfb-3048-bl-30h-1_2.png"
+    }
+  ]
+}

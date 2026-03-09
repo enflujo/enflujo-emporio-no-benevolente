@@ -1,0 +1,71 @@
+{
+  "categoria": "elephant",
+  "categoriaSlug": "elephant",
+  "idioma": "rw",
+  "nombreIdioma": "Kinyarwanda",
+  "termino": "inzovu",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T20:53:37.136Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "en",
+    "gl": "rw"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=inzovu&hl=en&gl=rw",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/elephant/rw/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlbJKqYgF23uXbaQSaFRQXCE3zIN9wN7fYCQ&s",
+      "fuentePagina": "https://www.bbc.com/gahuza/articles/cy9vdd4qdyqo",
+      "titulo": "Uganda: 10kg vy'amasenge y'inzovu bimujanye gupfungwa ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlbJKqYgF23uXbaQSaFRQXCE3zIN9wN7fYCQ&s",
+      "original": "https://ichef.bbci.co.uk/ace/ws/640/cpsprodpb/810c/live/bebcf470-513e-11ed-ac87-630245663c6a.jpg.webp"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/elephant/rw/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJIZ5t7uKOWeAONE_GMDart9C3C3i3VCX73Q&s",
+      "fuentePagina": "https://www.youtube.com/watch?v=Fb8Nxjymjg8",
+      "titulo": "INZOVU: Imbaraga zikomeye z' Imana zigaragara mu byaremwe",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJIZ5t7uKOWeAONE_GMDart9C3C3i3VCX73Q&s",
+      "original": "https://i.ytimg.com/vi/Fb8Nxjymjg8/maxresdefault.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/elephant/rw/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCT7rYlv7uM2ka8H0D0t1w3lCsISlU4mHIlQ&s",
+      "fuentePagina": "https://muhaziyacu.rw/amakuru/amateka-yinzovu-inyamaswa-ya-mbere-nini-ku-isiigice-cya-mbere/",
+      "titulo": "Amateka y'Inzovu inyamaswa ya mbere nini ku isi mu ziba ku ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCT7rYlv7uM2ka8H0D0t1w3lCsISlU4mHIlQ&s",
+      "original": "https://muhaziyacu.rw/wp-content/uploads/2022/02/inzovu.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/elephant/rw/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTv2gjc8-KcDkvi2GBuzgP-nwjwQ4-C-rMdpQ&s",
+      "fuentePagina": "https://rn.wikipedia.org/wiki/Inzovu",
+      "titulo": "Inzovu - Wikipedia",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTv2gjc8-KcDkvi2GBuzgP-nwjwQ4-C-rMdpQ&s",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/0/09/Elephant_Kruger_2003.jpg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/elephant/rw/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsKQiTa7nfsuU44xS3nExM8MejwqK5nOTsPg&s",
+      "fuentePagina": "https://www.kigalitoday.com/amakuru/mu-mahanga/article/inzovu-yari-ikuze-kurusha-izindi-muri-afurika-yarapfuye",
+      "titulo": "Inzovu yari ikuze kurusha izindi muri Afurika yarapfuye ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsKQiTa7nfsuU44xS3nExM8MejwqK5nOTsPg&s",
+      "original": "https://www.kigalitoday.com/IMG/jpg/dida.jpg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/elephant/rw/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJ4gKbPflhZPWHrbG3To966R1D1E5RbyjBXg&s",
+      "fuentePagina": "https://rn.wikipedia.org/wiki/Inzovu",
+      "titulo": "Inzovu - Wikipedia",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJ4gKbPflhZPWHrbG3To966R1D1E5RbyjBXg&s",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/African_Bush_Elephant.jpg/250px-African_Bush_Elephant.jpg"
+    }
+  ]
+}

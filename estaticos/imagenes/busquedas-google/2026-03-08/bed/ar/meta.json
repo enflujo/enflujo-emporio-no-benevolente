@@ -1,0 +1,71 @@
+{
+  "categoria": "bed",
+  "categoriaSlug": "bed",
+  "idioma": "ar",
+  "nombreIdioma": "العربية",
+  "termino": "سرير",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:19:15.934Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "ar",
+    "gl": "eg"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=%D8%B3%D8%B1%D9%8A%D8%B1&hl=ar&gl=eg",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bed/ar/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHENPh0TClBYMLXlD4ASmyBfdDMD2nLmsHIA&s",
+      "fuentePagina": "https://sofazoneeg.com/products/%D8%B3%D8%B1%D9%8A%D8%B1-%D9%85%D9%88%D8%AF%D8%B1%D9%86-szb27?srsltid=AfmBOorRWukfiN7Qya1weeHtaOr-cElaHrhyYOpFiFlY-R0rTriyyVad",
+      "titulo": "سرير مودرن-SZB27",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHENPh0TClBYMLXlD4ASmyBfdDMD2nLmsHIA&s",
+      "original": "http://sofazoneeg.com/cdn/shop/files/WhatsAppImage2024-07-04at1.40.21PM_1.jpg?v=1746438997"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bed/ar/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsCq1EYzvcG85PRG_Gqqnn7KotwLLc3eZgew&s",
+      "fuentePagina": "https://www.jumia.com.eg/ar/generic-captonian-anatomy-bed-140-x-195-cm-light-gray-42256196.html?srsltid=AfmBOorTLjnfDVOH5gr2-zTqxMVB-J-LbMBBAWNHufOIvuyaizswpu-3",
+      "titulo": "سرير كابتونيان التشريحي 140 × 195 سم باللون الرمادي الفاتح ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsCq1EYzvcG85PRG_Gqqnn7KotwLLc3eZgew&s",
+      "original": "https://eg.jumia.is/unsafe/fit-in/680x680/filters:fill(white)/product/69/165224/1.jpg?8995"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bed/ar/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT187FWCss4uC7y5hezPgfyISirMEK-2QPynw&s",
+      "fuentePagina": "https://masterroom.com/%D8%BA%D8%B1%D9%81-%D8%A7%D9%84%D9%86%D9%88%D9%85/%D8%B3%D8%B1%D9%8A%D8%B1-%D8%BA%D8%B1%D9%81%D8%A9-%D9%86%D9%88%D9%85-%D8%A7%D8%B1%D8%B6%D9%8A-%D8%A8%D8%AA%D8%B5%D9%85%D9%8A%D9%85-%D9%85%D9%85%D9%8A%D8%B2/?srsltid=AfmBOorAADdoPOFRsjGRZGp5oW2Za0VLeuEsCHhxqJNfXQboLxSPQ7ht",
+      "titulo": "سرير غرفة نوم ارضي بتصميم مميز - Master Room",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT187FWCss4uC7y5hezPgfyISirMEK-2QPynw&s",
+      "original": "https://masterroom.com/wp-content/uploads/2024/05/%D8%B3%D8%B1%D9%8A%D8%B1-%D8%BA%D8%B1%D9%81%D8%A9-%D9%86%D9%88%D9%85-%D8%A7%D8%B1%D8%B6%D9%8A-%D8%A8%D8%AA%D8%B5%D9%85%D9%8A%D9%85-%D9%85%D9%85%D9%8A%D8%B2.webp"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bed/ar/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAdAHeLJniI3y31Uv6WplnPok5j1qFWkA2pA&s",
+      "fuentePagina": "https://kemitt.com/ar-eg/products/64ac0335e79d2c4da290b0d4?srsltid=AfmBOooWMyz9BoV0MQV-sYLVXTCbDFjpnTvpPJlCOMJzQ6H3kCSxmi2_",
+      "titulo": "Beech wood And Velvet Bed, multi sizes - Beige AT21",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAdAHeLJniI3y31Uv6WplnPok5j1qFWkA2pA&s",
+      "original": "https://images.kemitt.com/img/product/images-1748158435144.webp"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bed/ar/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8xX85XrrvhvoGKgzHqcADPulXVn99NwFMiQ&s",
+      "fuentePagina": "https://www.ikea.com/eg/ar/cat/beds-bm003/",
+      "titulo": "الأسرّة وهياكل الأسرة اونلاين في مصر | خصم حتى 30%",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8xX85XrrvhvoGKgzHqcADPulXVn99NwFMiQ&s",
+      "original": "https://www.ikea.com/ext/ingkadam/m/6aedea1a86a1df66/original/PH204584.jpg?f=s"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bed/ar/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_URlzS9vPtqAwR7myg9RzDqUsO0l87ZqdKw&s",
+      "fuentePagina": "https://chichomz.com/products/bed-237?srsltid=AfmBOor7m2RNLPmjGPR9jMX8CfYMgD8bn6S3qxAP8Dmbmy1os_WKTvdM",
+      "titulo": "سرير 180×210سم مع 2كومود - WOD1",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_URlzS9vPtqAwR7myg9RzDqUsO0l87ZqdKw&s",
+      "original": "http://chichomz.com/cdn/shop/products/BDF001.jpg?v=1718025643"
+    }
+  ]
+}

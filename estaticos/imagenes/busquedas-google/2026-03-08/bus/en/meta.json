@@ -1,0 +1,71 @@
+{
+  "categoria": "bus",
+  "categoriaSlug": "bus",
+  "idioma": "en",
+  "nombreIdioma": "English",
+  "termino": "bus",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T20:43:34.864Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "en",
+    "gl": "us"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=bus&hl=en&gl=us",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bus/en/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuV8GBSycrg2YxlKrhoFE4j0pTd6v4u5-7ew&s",
+      "fuentePagina": "https://en.wikipedia.org/wiki/Bus",
+      "titulo": "Bus - Wikipedia",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuV8GBSycrg2YxlKrhoFE4j0pTd6v4u5-7ew&s",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/8/84/LTZ1328-19-20241030-160332.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bus/en/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEmPOSYmeSOMiNWZR-_NCO5MDLJUgK5Vh21w&s",
+      "fuentePagina": "https://will.illinois.edu/studentnewsroom/story/school-buses-are-safe-and-seat-belts-make-them-safer-but-its-not-cheap-to-upgrade",
+      "titulo": "School buses are safe, and seat belts make them safer. But ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEmPOSYmeSOMiNWZR-_NCO5MDLJUgK5Vh21w&s",
+      "original": "https://will.illinois.edu/images/uploads/_large/SchoolBus_WEB.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bus/en/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTM6Qq96WHe0zV3-8B86ENiEoj3dDYo7ZS0iQ&s",
+      "fuentePagina": "https://www.freepik.com/free-photos-vectors/school-bus",
+      "titulo": "School bus Images - Free Download on Freepik",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTM6Qq96WHe0zV3-8B86ENiEoj3dDYo7ZS0iQ&s",
+      "original": "https://img.freepik.com/free-vector/school-bus-side-view_78370-9683.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bus/en/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpq-_SekB7ikKTQY1jpPpTYS8ZE3OZaSYwCA&s",
+      "fuentePagina": "https://www.empirecenter.org/publications/turning-nys-yellow-buses-green-could-cost-8b/",
+      "titulo": "Turning NY's Yellow Buses Green Could Cost $8B+ - Empire ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpq-_SekB7ikKTQY1jpPpTYS8ZE3OZaSYwCA&s",
+      "original": "https://www.empirecenter.org/wp-content/uploads/2024/02/52442670174_505b749ec3_k.jpg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bus/en/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHXT8O2c_iiaSLLdFfwkiL64wsTHwC0aMldQ&s",
+      "fuentePagina": "https://www.icbus.com/buses/school/ceseries",
+      "titulo": "ICBus | CE Series Type C School Bus - Up to 83 Passengers ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHXT8O2c_iiaSLLdFfwkiL64wsTHwC0aMldQ&s",
+      "original": "https://www.icbus.com/-/media/Project/Navistar/ICBus/ICBus/Buses/CE-Series-School/icbus-diesel-ce-series.jpg?h=600&iar=0&w=1000&rev=b3cd121ccce74981a2d9cd96e0afc8fd&hash=3B9B742FC22527870F609E11B56FBCAC"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bus/en/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLO4zMRV9X3x0LCCq7LCpNpFhL2QkkVdDjSg&s",
+      "fuentePagina": "https://www.freepik.com/free-photos-vectors/school-bus",
+      "titulo": "School bus Images - Free Download on Freepik",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLO4zMRV9X3x0LCCq7LCpNpFhL2QkkVdDjSg&s",
+      "original": "https://img.freepik.com/free-vector/cartoon-school-bus-white-background_1308-132853.jpg?semt=ais_rp_50_assets&w=740&q=80"
+    }
+  ]
+}

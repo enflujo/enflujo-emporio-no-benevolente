@@ -1,0 +1,71 @@
+{
+  "categoria": "hot dog",
+  "categoriaSlug": "hot-dog",
+  "idioma": "rw",
+  "nombreIdioma": "Kinyarwanda",
+  "termino": "hot dog",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:14:26.307Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "en",
+    "gl": "rw"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=hot%20dog&hl=en&gl=rw",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/hot-dog/rw/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdv1C2D9MGCOZl6gW55yqPXqFr7DgJJTK3PA&s",
+      "fuentePagina": "https://en.wikipedia.org/wiki/Hot_dog",
+      "titulo": "Hot Dog",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdv1C2D9MGCOZl6gW55yqPXqFr7DgJJTK3PA&s",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Hot_dog_with_mustard.png/1280px-Hot_dog_with_mustard.png"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/hot-dog/rw/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQP2Fe6InhZ3h3tfYd8N_YmqOJ5p-U6jldVZg&s",
+      "fuentePagina": "https://cooking.nytimes.com/recipes/1025641-grilled-hot-dogs",
+      "titulo": "Grilled Hot Dogs",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQP2Fe6InhZ3h3tfYd8N_YmqOJ5p-U6jldVZg&s",
+      "original": "https://static01.nyt.com/images/2024/06/28/multimedia/28GRILL-HOTDOGS-REX-cqwj/01GRILL-HOTDOGS-REX-cqwj-videoSixteenByNineJumbo1600.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/hot-dog/rw/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcKffHYj8GNeC-Gn4lvvu0VWcGk3UVDQtZ7A&s",
+      "fuentePagina": "https://www.allrecipes.com/recipe/268494/basic-air-fryer-hot-dogs/",
+      "titulo": "Basic Air Fryer Hot Dogs",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcKffHYj8GNeC-Gn4lvvu0VWcGk3UVDQtZ7A&s",
+      "original": "https://www.allrecipes.com/thmb/hHB6wlw7KZQFB6jU5CEa2ACeKjg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/AR-268494-BasicAirFryerHotDogs-4x3-49aad2a82d284f8dab6d3c09243eeaea.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/hot-dog/rw/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJ8COhqyCQPJOoOlCy8oJ9sG5e69Al_CWk8w&s",
+      "fuentePagina": "https://www.foodandwine.com/recipes/hot-dog-melts",
+      "titulo": "Hot Dog Melts",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJ8COhqyCQPJOoOlCy8oJ9sG5e69Al_CWk8w&s",
+      "original": "https://www.foodandwine.com/thmb/RKXMQtYD_qZRYEVnOXwQ--2fY4s=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/hot-dog-melts-FT-RECIPE0525-469242c72f084f7584eae18b46d3a8ba.jpg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/hot-dog/rw/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHeLkcqgOn3kYqsOfP0m7pfCNh2OOQXuL4hg&s",
+      "fuentePagina": "https://www.belbrandsfoodservice.com/recipes/cheese-hot-dawg/",
+      "titulo": "Cheese “HOT” Dawg",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHeLkcqgOn3kYqsOfP0m7pfCNh2OOQXuL4hg&s",
+      "original": "https://www.belbrandsfoodservice.com/wp-content/uploads/2018/05/recipe-desktop-merkts-cheesy-hot-dawg.jpg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/hot-dog/rw/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRb03xtsz6jbohWNcc-KJjSzlLA7UAXLEQuA&s",
+      "fuentePagina": "https://cookidoo.com.au/recipes/recipe/en-AU/r902949",
+      "titulo": "Chicago-Style Hot Dogs",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRb03xtsz6jbohWNcc-KJjSzlLA7UAXLEQuA&s",
+      "original": "https://assets.tmecosys.com/image/upload/t_web_rdp_recipe_584x480/img/recipe/ras/Assets/5cf6c117f5c41319d85be7490cbb0e47/Derivates/0fa2242bd92c2f55248c9d38bdbca4b5d543a220.jpg"
+    }
+  ]
+}

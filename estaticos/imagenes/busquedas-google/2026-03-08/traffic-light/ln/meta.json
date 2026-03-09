@@ -1,0 +1,71 @@
+{
+  "categoria": "traffic light",
+  "categoriaSlug": "traffic-light",
+  "idioma": "ln",
+  "nombreIdioma": "Lingala",
+  "termino": "feu ya barabara",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T20:46:14.983Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "fr",
+    "gl": "cd"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=feu%20ya%20barabara&hl=fr&gl=cd",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/traffic-light/ln/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrQ1FGc_gVhYXUqZm2TSjmGxnX-cgOixJbog&s",
+      "fuentePagina": "https://www.facebook.com/groups/411523072333272/posts/1759565024195730/",
+      "titulo": "Nyumba ina lungula mu quartier mukonzi sai yulu ya barabara ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrQ1FGc_gVhYXUqZm2TSjmGxnX-cgOixJbog&s",
+      "original": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=963471794165992"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/traffic-light/ln/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShT2enBGopr3vtVjIYTO74G98XHdQvjf6itA&s",
+      "fuentePagina": "https://www.facebook.com/groups/411523072333272/posts/1759565024195730/",
+      "titulo": "Nyumba ina lungula mu quartier mukonzi sai yulu ya barabara ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShT2enBGopr3vtVjIYTO74G98XHdQvjf6itA&s",
+      "original": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=963471854165986"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/traffic-light/ln/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxEEwHXL0rzAfxx_xBKrB0wqTubSI2cFD8Ew&s",
+      "fuentePagina": "https://www.facebook.com/georges.kisando/posts/nord-kivu-installation-du-premier-feu-de-signalisation-%C3%A0-benila-ville-de-beni-fr/4221714614707063/",
+      "titulo": "Nord-Kivu : installation du premier feu de signalisation à ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxEEwHXL0rzAfxx_xBKrB0wqTubSI2cFD8Ew&s",
+      "original": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=4221714524707072"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/traffic-light/ln/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRk6INFpGlQj4BCUhEuXThDmCbTx9rLuKkwOg&s",
+      "fuentePagina": "https://www.musicme.com/Barabara-13-Ulyankulu/albums/Dunia-Hii-Ya-Shida-3614975576223.html",
+      "titulo": "Barabara 13 Ulyankulu : écoute gratuite, téléchargement MP3 ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRk6INFpGlQj4BCUhEuXThDmCbTx9rLuKkwOg&s",
+      "original": "https://covers-ng2.hosting-media.net/jpgr295/u3614975576223.jpg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/traffic-light/ln/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwlQBXeyMgOSz0c4qeSLl15-E8R_5HAOGyQg&s",
+      "fuentePagina": "https://mines.cd/tanganyika-un-feu-de-brousse-consume-une-cinquantaine-de-maisons-dans-une-carriere-dor/",
+      "titulo": "Tanganyika : Un feu de brousse consume une cinquantaine de ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwlQBXeyMgOSz0c4qeSLl15-E8R_5HAOGyQg&s",
+      "original": "https://mines.cd/wp-content/uploads/2023/09/IMG-20230901-WA0110.jpg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/traffic-light/ln/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxHmYc6LqFqG1WfQJKiqYa2UzRDu5esieV7g&s",
+      "fuentePagina": "https://www.instagram.com/reel/DSaCTFGCPu9/",
+      "titulo": "Kinshasa et matadi 😭😭😭😭",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxHmYc6LqFqG1WfQJKiqYa2UzRDu5esieV7g&s",
+      "original": "https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3790352143618735037"
+    }
+  ]
+}

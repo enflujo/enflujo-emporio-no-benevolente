@@ -1,0 +1,71 @@
+{
+  "categoria": "cup",
+  "categoriaSlug": "cup",
+  "idioma": "sw",
+  "nombreIdioma": "Kiswahili",
+  "termino": "kikombe",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:07:17.857Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "sw",
+    "gl": "tz"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=kikombe&hl=sw&gl=tz",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/cup/sw/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBj1QiCZoGcTYGghjZMAvYdHegDEhN7iezTA&s",
+      "fuentePagina": "https://www.garbotableware.com/sw/ceramic-mug/stoneware-370ml-mug-with-comfortable-handle-for-drinking-coffee-in-office.html",
+      "titulo": "Kikombe cha vyombo vya mawe 370ml chenye mpini mzuri wa ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBj1QiCZoGcTYGghjZMAvYdHegDEhN7iezTA&s",
+      "original": "https://www.garbotableware.com/data/watermark/20230516/646301b25c610.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/cup/sw/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNjZE45-AkxLCm55I4iRwR3jcZeHnigQHJcA&s",
+      "fuentePagina": "https://www.instagram.com/p/CK2wg3AnRLD/",
+      "titulo": "Kikombe kikubwa Ni sh 5000",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNjZE45-AkxLCm55I4iRwR3jcZeHnigQHJcA&s",
+      "original": "https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=2501400007372772035"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/cup/sw/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKvPnUKPQl9yIcR7BBc_50tONelyJxIalD4A&s",
+      "fuentePagina": "https://soundcloud.com/ongeaswahili/cup-kikombe",
+      "titulo": "Stream episode Cup-Kikombe by Ongea Swahili podcast | Listen ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKvPnUKPQl9yIcR7BBc_50tONelyJxIalD4A&s",
+      "original": "https://i1.sndcdn.com/artworks-r9qyL65ZSfTZ32sH-TjJ78w-t500x500.png"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/cup/sw/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOxek4x5QXPO9ATrYyEXPhZzzuU9mpFtqhSQ&s",
+      "fuentePagina": "https://swahili.zzhcmy.com/kombe-la-kinywa-cha-daraja-la-juu-ulaya/vikombe-vya-enamel-kwa-ajili-ya-kuweka-kambi-kikombe-cha-enamel-cha-rimenamel-kikombe-hcmg-5612",
+      "titulo": "Vikombe vya enameli kwa ajili ya kuweka kambi Kikombe cha ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOxek4x5QXPO9ATrYyEXPhZzzuU9mpFtqhSQ&s",
+      "original": "https://www.zzhcmy.com/upload/product/1680766460578924.jpg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/cup/sw/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2NyuKhQ_nXaHaBkKORMV-D09-IZcNt9PTxw&s",
+      "fuentePagina": "https://www.springsoko.co.tz/kikombe-cup.html",
+      "titulo": "kikombe, cup",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2NyuKhQ_nXaHaBkKORMV-D09-IZcNt9PTxw&s",
+      "original": "https://www.springsoko.co.tz/media/catalog/product/cache/50a8be8fc6e88ef99f92bb1b41e66764/4/1/41.kikombe_chai_uzt_0.32_ur_12up_9-springsoko_watermark-26nov20.webp"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/cup/sw/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQaEQ334qrIgK5JQhe_lyaPGMdSSwnTkdUfhg&s",
+      "fuentePagina": "https://www.instagram.com/p/CaowYaRKhWu/",
+      "titulo": "tbt - Kunywa chai ya moto kwa hiki kikombe ilikuwa adhabu ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQaEQ334qrIgK5JQhe_lyaPGMdSSwnTkdUfhg&s",
+      "original": "https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=2785689153233884590"
+    }
+  ]
+}

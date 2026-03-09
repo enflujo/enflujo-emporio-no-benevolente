@@ -1,0 +1,71 @@
+{
+  "categoria": "bird",
+  "categoriaSlug": "bird",
+  "idioma": "gn",
+  "nombreIdioma": "Guaraní",
+  "termino": "guyra",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T20:50:02.402Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "es",
+    "gl": "py"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=guyra&hl=es&gl=py",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bird/gn/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTeaBeuOqR14yACq5T1F6gkAu1rwVBZdelMRg&s",
+      "fuentePagina": "https://www.facebook.com/paraguay.salvaje/posts/guyra-tata-el-ave-m%C3%A1s-colorida-in-el-bosque-chaque%C3%B1oparaguay-salvaje-los-domingo/2385791348123681/",
+      "titulo": "Guyra tata, el ave más colorida in el bosque chaqueño ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTeaBeuOqR14yACq5T1F6gkAu1rwVBZdelMRg&s",
+      "original": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=2385789758123840"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bird/gn/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4v-NypP48A05Zqi1bO0zU-ThkgKDBFumfBQ&s",
+      "fuentePagina": "https://www.birdlife.org/partners/paraguay-guyra-paraguay/",
+      "titulo": "Paraguay - Guyra Paraguay - BirdLife International",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4v-NypP48A05Zqi1bO0zU-ThkgKDBFumfBQ&s",
+      "original": "https://www.birdlife.org/wp-content/uploads/2023/07/Paraguay-1024x1024.png"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bird/gn/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQi7boOS1QMvdn-s-W2fgNNGxqAxJpW2XwLzw&s",
+      "fuentePagina": "https://www.abc.com.py/ciencia/2022/02/01/guyra-pytai/",
+      "titulo": "Guyra pytã'i - Ciencia - ABC Color",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQi7boOS1QMvdn-s-W2fgNNGxqAxJpW2XwLzw&s",
+      "original": "https://www.abc.com.py/resizer/v2/https%3A%2F%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fabccolor%2FGUUSPXP3HBBBJBJQYJ2WIRIPEE.jpg?auth=08d658e92634702072fae35f830d893bdddae48467e41ca2626c5b074f953f45&width=770&smart=true"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bird/gn/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQO5zPJJDH11n_iKtspvqEgfqa0TI4nWSCWbg&s",
+      "fuentePagina": "https://guyra.org.py/",
+      "titulo": "Guyra Paraguay",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQO5zPJJDH11n_iKtspvqEgfqa0TI4nWSCWbg&s",
+      "original": "https://guyra.org.py/storage/uploads/zzaAWJinBehlp2w3iXDn9UMuulSa64zrkDullslJ.jpeg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bird/gn/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRAPejq5ztkD9N1-wgS7JM4kpz9sg1Duckwg&s",
+      "fuentePagina": "https://www.hoy.com.py/nacionales/guyra-jetapa-en-peligro-de-extincion-en-el-area-de-influencia-de-transchaco",
+      "titulo": "Diario HOY | Guyra Jetapa en peligro de extinción en el área ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRAPejq5ztkD9N1-wgS7JM4kpz9sg1Duckwg&s",
+      "original": "https://hoypyspace.sfo2.cdn.digitaloceanspaces.com/imagenes/2021/08/08080847/slider_26-8-21-x8.jpg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bird/gn/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSaY8C9esTIepe3gVEpmODPzNyPk-jGsBjCvQ&s",
+      "fuentePagina": "https://www.tiktok.com/@reservanaturalmorombi/video/7298812503964863749",
+      "titulo": "Canto del Guyra Campana: Naturaleza en Paraguay, Argentina y Brasil",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSaY8C9esTIepe3gVEpmODPzNyPk-jGsBjCvQ&s",
+      "original": "https://www.tiktok.com/api/img/?itemId=7298812503964863749&location=0&aid=1988"
+    }
+  ]
+}

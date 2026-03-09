@@ -1,0 +1,71 @@
+{
+  "categoria": "teddy bear",
+  "categoriaSlug": "teddy-bear",
+  "idioma": "nah",
+  "nombreIdioma": "Náhuatl",
+  "termino": "oso teddy",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:31:19.265Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "es",
+    "gl": "mx"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=oso%20teddy&hl=es&gl=mx",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/teddy-bear/nah/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwkbzAGGLCL7YOnhX1cTSDKoV1tUVej2Cxpw&s",
+      "fuentePagina": "https://www.sanborns.com.mx/producto/69186/osito-de-peluche-ted-teddy-bear",
+      "titulo": "Osito de Peluche Ted Teddy Bear",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwkbzAGGLCL7YOnhX1cTSDKoV1tUVej2Cxpw&s",
+      "original": "https://resources.sanborns.com.mx/imagenes-sanborns-ii/1200/813237021096.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/teddy-bear/nah/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDdTSNvU0gjo_alb1K5gxBZl5lNPK_n4ZF3Q&s",
+      "fuentePagina": "https://ted.fandom.com/es/wiki/Ted_(personaje)",
+      "titulo": "Ted (personaje) | Wiki Ted | Fandom",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDdTSNvU0gjo_alb1K5gxBZl5lNPK_n4ZF3Q&s",
+      "original": "https://static.wikia.nocookie.net/ted/images/8/87/Ted-2.jpg/revision/latest?cb=20240113211650&path-prefix=es"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/teddy-bear/nah/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSq9_uZRxhNbyhnk0s4-KGSmRgwGf4uZwpoZA&s",
+      "fuentePagina": "https://www.infobae.com/que-puedo-ver/2024/02/17/ted-el-oso-malcriado-llego-a-streaming-con-divertida-serie-precuela/",
+      "titulo": "Ted”: el oso malcriado llegó a streaming con una divertida ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSq9_uZRxhNbyhnk0s4-KGSmRgwGf4uZwpoZA&s",
+      "original": "https://www.infobae.com/resizer/v2/QLPHIUYCERA4JIPJWHSOLVIXWA.jpg?auth=41babb0b05077254e596753d13eb965ca1a285649d4ed50040535cd3faa0e4c9&smart=true&width=1200&height=1200&quality=85"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/teddy-bear/nah/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGnw7llloMWeLdUZHZbO5y_LFPR8ojCa6EYA&s",
+      "fuentePagina": "https://luiflowershop.com.mx/producto/oso-teddy/",
+      "titulo": "Oso Teddy",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGnw7llloMWeLdUZHZbO5y_LFPR8ojCa6EYA&s",
+      "original": "https://luiflowershop.com.mx/wp-content/uploads/2021/08/8E63ED21-0AE3-405B-9562-4AC7C091D0EE_1_102_a.jpeg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/teddy-bear/nah/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDxyzwEyVjBubY5cKnE_hFsq3xGCi0VIm_KA&s",
+      "fuentePagina": "https://mx.pinterest.com/edgarhanstereo98/oso-ted/",
+      "titulo": "11 ideas de Oso ted | oso ted, ted, oso tedi",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDxyzwEyVjBubY5cKnE_hFsq3xGCi0VIm_KA&s",
+      "original": "https://i.pinimg.com/736x/f1/2f/70/f12f705ee21b823263c2c93fbb208ef2.jpg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/teddy-bear/nah/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRb-Mm7g03HlgliykIWKFMHjGX0Cryk4QdOJg&s",
+      "fuentePagina": "https://www.istockphoto.com/es/fotos/teddy-bear",
+      "titulo": "213.300+ Teddy Bear Fotografías de stock, fotos e imágenes ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRb-Mm7g03HlgliykIWKFMHjGX0Cryk4QdOJg&s",
+      "original": "https://media.istockphoto.com/id/909772478/es/foto/oso-de-peluche-marr%C3%B3n-aislada-frente-a-un-fondo-blanco.jpg?s=612x612&w=0&k=20&c=N9aM9XZ6PZ24em83wYJzmAQ6no_lnW2Ta7WD9SxxwjY="
+    }
+  ]
+}

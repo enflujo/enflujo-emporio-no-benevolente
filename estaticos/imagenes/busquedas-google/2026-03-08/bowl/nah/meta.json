@@ -1,0 +1,71 @@
+{
+  "categoria": "bowl",
+  "categoriaSlug": "bowl",
+  "idioma": "nah",
+  "nombreIdioma": "Náhuatl",
+  "termino": "caxitl",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:10:21.653Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "es",
+    "gl": "mx"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=caxitl&hl=es&gl=mx",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bowl/nah/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIBn1Ep5AV0n_vH-Nu_m9_Zrp-CW3tE5z5kw&s",
+      "fuentePagina": "https://matedesign.com.mx/products/molcajete-caxitl?srsltid=AfmBOoqZrMDI-lMD6STrFENhQDiZSYFF1YgvitBumnn8xsXq5tcSIoKS",
+      "titulo": "Molcajete 'Caxitl' | Piedra Volcánica – MÁTE DESIGN",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIBn1Ep5AV0n_vH-Nu_m9_Zrp-CW3tE5z5kw&s",
+      "original": "http://matedesign.com.mx/cdn/shop/files/41_0d158797-bd91-4e00-8305-c8a5eba0cb46.jpg?v=1719088800"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bowl/nah/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkpW1g3XzFpB9LSdqAbda93WYPisYmzCYumA&s",
+      "fuentePagina": "https://www.bodegaaurrera.com.mx/ip/articulos-de-cocina/molcajete-caxitl-de-piedra-volcanica-cemcui-molcajete-en-forma-de-tazon-cuenco-artesanal-especial-para-hacer-salsas-hecho-por-manos-mexicanas/00060670781658",
+      "titulo": "Molcajete Caxitl de Piedra Volcanica CEMCUI Molcajete en ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkpW1g3XzFpB9LSdqAbda93WYPisYmzCYumA&s",
+      "original": "https://i5.walmartimages.com/asr/20f07a10-ea52-4642-8fe5-ae2ed575910f.2ab726645ca1b5ccfb101b53126db17a.jpeg?odnHeight=612&odnWidth=612&odnBg=FFFFFF"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bowl/nah/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSU7azX8McxRcuQFnNJ0cFmgVEX2LPYW3DuQg&s",
+      "fuentePagina": "https://laroussecocina.mx/palabra/cajete/",
+      "titulo": "Palabras ⋆ Diccionario enciclopédico de la Gastronomía ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSU7azX8McxRcuQFnNJ0cFmgVEX2LPYW3DuQg&s",
+      "original": "https://laroussecocina.mx/wp-content/uploads/2018/01/Cajete-001-Larousse-Cocina.jpg.webp"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bowl/nah/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqmTAHinqs47pXGgRX24yUC5T78nGeRVNQhA&s",
+      "fuentePagina": "https://matedesign.com.mx/products/molcajete-caxitl?srsltid=AfmBOorRIAUVud8d5CHlebmQ5KcBsUbK0MNWp_QZ0E3eGgGhvjhf4kXo",
+      "titulo": "Molcajete 'Caxitl' | Piedra Volcánica – MÁTE DESIGN",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqmTAHinqs47pXGgRX24yUC5T78nGeRVNQhA&s",
+      "original": "https://matedesign.com.mx/cdn/shop/files/38_0cc35d0d-601a-4041-82b4-4d091dd3f942.jpg?v=1719088800&width=1445"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bowl/nah/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHY4NLWGIPyd2od1g5bkQ-C6eEfUyeWTgFdQ&s",
+      "fuentePagina": "https://www.amoxcalli.org.mx/glifos.php?id_codice=373&id_lamina=373_1&id_zona=373_1_C&id_comp=373_1_C_49&id_glifo=373_1_C_49_05.03.05",
+      "titulo": "Amoxcalli Códices",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHY4NLWGIPyd2od1g5bkQ-C6eEfUyeWTgFdQ&s",
+      "original": "https://www.amoxcalli.org.mx/codices/373/laminas/ImagenReal/cajete.jpg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bowl/nah/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2HjbEESBMv5v1vEb_zsAo2nK9q_0gC3UuQg&s",
+      "fuentePagina": "https://www.amazon.com.mx/CEMCUI-Molcajete-Volcanica-Orgullosamente-Temperaturas/dp/B09447NPK9",
+      "titulo": "CEMCUI Molcajete Caxitl de Piedra Volcanica, Molcajete en ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2HjbEESBMv5v1vEb_zsAo2nK9q_0gC3UuQg&s",
+      "original": "https://m.media-amazon.com/images/I/81F3SrzzpAL._AC_UF894,1000_QL80_.jpg"
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "categoria": "cat",
+  "categoriaSlug": "cat",
+  "idioma": "gn",
+  "nombreIdioma": "Guaraní",
+  "termino": "mbarakaja",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T20:50:41.284Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "es",
+    "gl": "py"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=mbarakaja&hl=es&gl=py",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/cat/gn/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuG3cXweMph4SyQHw42FCzherV2qoV_ZsAOA&s",
+      "fuentePagina": "https://paraguayologia.com/diccionario-paraguayo/mbarakaja-soondie/",
+      "titulo": "Mbarakaja so'ondie - Paraguayología",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuG3cXweMph4SyQHw42FCzherV2qoV_ZsAOA&s",
+      "original": "https://paraguayologia.com/wp-content/uploads/2022/05/F7E00D10-B2E1-4F2C-A131-54BE09B925E5.png"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/cat/gn/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzt973oJv0W_k6-_aqJnfw_KF3SsjH8928ww&s",
+      "fuentePagina": "https://www.instagram.com/p/C8FUXA6P7NC/",
+      "titulo": "🌟 ¡COLECCIÓN 2024 - MBARAKAJA! 🌟 Te presentamos nuestras ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzt973oJv0W_k6-_aqJnfw_KF3SsjH8928ww&s",
+      "original": "https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3388203829487825334"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/cat/gn/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuniPBE7YRvENWZhugKuj0OcaSuAMqdmQsBA&s",
+      "fuentePagina": "https://gn.wikipedia.org/wiki/Mbarakaja",
+      "titulo": "Mbarakaja - Vikipetã",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuniPBE7YRvENWZhugKuj0OcaSuAMqdmQsBA&s",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Collage_of_Six_Cats-02.jpg/1280px-Collage_of_Six_Cats-02.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/cat/gn/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTaUfU_mJ_kAbdHKQzdOBF0TdOPWrPY3exqLw&s",
+      "fuentePagina": "https://www.facebook.com/jahaminaparaguay/posts/hoy-en-el-dia-mundial-del-mbarakaja-gato-en-guarani-se-nos-viene-este-tbt-y-vos-/2691355394275690/",
+      "titulo": "🌎🐱Hoy en el dia mundial del Mbarakaja (gato en Guarani ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTaUfU_mJ_kAbdHKQzdOBF0TdOPWrPY3exqLw&s",
+      "original": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=2691355367609026"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/cat/gn/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQX0kLYIZDW5OH_tciXEK0esql3kyw3auQArA&s",
+      "fuentePagina": "https://www.facebook.com/curiosidadesdelalenguaguarani/posts/otras-formas-de-llamar-al-gato-mbarakaja-m%C3%ADchi-kich%C3%ADro-chivi-se-le-ahuyenta-con-/2805747199523304/",
+      "titulo": "Otras formas de llamar al gato (mbarakaja): míchi, kichíro ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQX0kLYIZDW5OH_tciXEK0esql3kyw3auQArA&s",
+      "original": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=2805747139523310"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/cat/gn/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJE3oD3CqsOMifLIBac4MzT6RFx6yTZuIgwQ&s",
+      "fuentePagina": "https://www.editorialenalianza.com.py/item/mbarakaja-ha-jagua/372/",
+      "titulo": "En Alianza | Editorial",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJE3oD3CqsOMifLIBac4MzT6RFx6yTZuIgwQ&s",
+      "original": "https://www.editorialenalianza.com.py/imagen/item/372/Mbarakaja.png"
+    }
+  ]
+}

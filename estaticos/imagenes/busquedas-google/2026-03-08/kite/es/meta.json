@@ -1,0 +1,16 @@
+{
+  "categoria": "kite",
+  "categoriaSlug": "kite",
+  "idioma": "es",
+  "nombreIdioma": "Español",
+  "termino": "cometa",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:02:29.497Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "es",
+    "gl": "es"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=cometa&hl=es&gl=es",
+  "imagenes": []
+}

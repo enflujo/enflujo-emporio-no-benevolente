@@ -1,0 +1,71 @@
+{
+  "categoria": "backpack",
+  "categoriaSlug": "backpack",
+  "idioma": "ln",
+  "nombreIdioma": "Lingala",
+  "termino": "sac ya mokolo",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T20:56:04.605Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "fr",
+    "gl": "cd"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=sac%20ya%20mokolo&hl=fr&gl=cd",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/backpack/ln/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPZV2Mv-NCHQvYWC6jlJvaUMOftMLsezz24A&s",
+      "fuentePagina": "https://www.facebook.com/groups/377070057665934/posts/1079694944070105/",
+      "titulo": "Mokolo vente des Habits en ligne",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPZV2Mv-NCHQvYWC6jlJvaUMOftMLsezz24A&s",
+      "original": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=1132447068903335"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/backpack/ln/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBqGCJcqAV2ulJAbGWLEVztqVWT2Sk16ZQTg&s",
+      "fuentePagina": "https://www.tiktok.com/@grossistemokolo/video/7447771693499698438",
+      "titulo": "Sacs de Commerce disponibles à la Boutique - Nouvelles ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBqGCJcqAV2ulJAbGWLEVztqVWT2Sk16ZQTg&s",
+      "original": "https://www.tiktok.com/api/img/?itemId=7447771693499698438&location=0&aid=1988"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/backpack/ln/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVuwD4c0FewevQq_CpZ3Qp6tVZ8gPV_gFqhA&s",
+      "fuentePagina": "https://www.facebook.com/groups/2457412054536048/posts/4105383336405570/",
+      "titulo": "🔵 L'histoire ya sac ya classe oyo ekómi viral ! By Beriya ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVuwD4c0FewevQq_CpZ3Qp6tVZ8gPV_gFqhA&s",
+      "original": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=122138095922791876"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/backpack/ln/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJwxvuCP23Rwgh7JcHMMLKTyR2nV5m5i3LeA&s",
+      "fuentePagina": "https://www.facebook.com/groups/523338554897521/posts/1962755667622462/",
+      "titulo": "Fin de série en solde , Fais juste ton choix , Boutique située au marché  Mendong, 697873628 | MD Bag's | Facebook",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJwxvuCP23Rwgh7JcHMMLKTyR2nV5m5i3LeA&s",
+      "original": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=1443747833749566&get_thumbnail=1"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/backpack/ln/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpjs6mVpx8KlQVqlaIkWELGHxIEd3I_k6zcQ&s",
+      "fuentePagina": "https://www.facebook.com/groups/1858368241053740/posts/4063089147248294/",
+      "titulo": "👜 Mama oyo a changé son style... Grâce à Beriya! Likambo ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpjs6mVpx8KlQVqlaIkWELGHxIEd3I_k6zcQ&s",
+      "original": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=122142441326791876"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/backpack/ln/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpdwfKARmLxTd1PL86HOZITHD8xvKWESZLLQ&s",
+      "fuentePagina": "https://www.tiktok.com/@crepusculestore/video/7540224383659347206",
+      "titulo": "Mokolo : Meilleur Grossiste de Sacs à Main à Yaoundé | TikTok",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpdwfKARmLxTd1PL86HOZITHD8xvKWESZLLQ&s",
+      "original": "https://www.tiktok.com/api/img/?itemId=7540224383659347206&location=0&aid=1988"
+    }
+  ]
+}

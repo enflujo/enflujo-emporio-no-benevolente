@@ -1,0 +1,71 @@
+{
+  "categoria": "mouse",
+  "categoriaSlug": "mouse",
+  "idioma": "qu",
+  "nombreIdioma": "Quechua",
+  "termino": "maus",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:22:36.696Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "es",
+    "gl": "pe"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=maus&hl=es&gl=pe",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/mouse/qu/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS22kyxAmnfs9-RsAdsprFWBp4I0_D9tqwJEQ&s",
+      "fuentePagina": "https://www.buscalibre.pe/libro-maus/9788439720713/p/2895685?srsltid=AfmBOopqmve_zo_yKG8ASzYHcgPNvG2ClOHEBMTPRR4s6vfZE1ecFjp7",
+      "titulo": "Maus",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS22kyxAmnfs9-RsAdsprFWBp4I0_D9tqwJEQ&s",
+      "original": "https://images.cdn1.buscalibre.com/fit-in/360x360/3c/79/3c79af46726fb51f1addc075d7bd621f.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/mouse/qu/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-xd3Fei40VsD6JVoPqdEUMiQ__1rEKzStYw&s",
+      "fuentePagina": "https://en.wikipedia.org/wiki/Panzer_VIII_Maus",
+      "titulo": "Panzer VIII Maus - Wikipedia",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-xd3Fei40VsD6JVoPqdEUMiQ__1rEKzStYw&s",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/c/c2/Maus_2025_b.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/mouse/qu/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlny75ORM9IjWV0YHi2BK1ymcOyXmd8wO2ag&s",
+      "fuentePagina": "https://en.wikipedia.org/wiki/Maus",
+      "titulo": "Maus - Wikipedia",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlny75ORM9IjWV0YHi2BK1ymcOyXmd8wO2ag&s",
+      "original": "https://upload.wikimedia.org/wikipedia/en/thumb/7/7d/Maus_%28volume_1%29_cover.jpg/250px-Maus_%28volume_1%29_cover.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/mouse/qu/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOfvScdHPqD8tWeGZXVfSmAr_I9uZCrO1z0g&s",
+      "fuentePagina": "https://worldoftanks.com/es-ar/tankopedia/6929-G42_Maus/",
+      "titulo": "Maus: reseña, características, comparación",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOfvScdHPqD8tWeGZXVfSmAr_I9uZCrO1z0g&s",
+      "original": "https://na-wotp.wgcdn.co/dcont/tankopedia_images/g42_maus/g42_maus_image_resized.png"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/mouse/qu/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtofGcD1nOVWvFUkk0DzNKc0KuB9C05Q2zcA&s",
+      "fuentePagina": "https://es.topwar.ru/185094-maus-vnutri-nemeckogo-monstra.html",
+      "titulo": "Maus: dentro de un monstruo alemán",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtofGcD1nOVWvFUkk0DzNKc0KuB9C05Q2zcA&s",
+      "original": "https://topwar.ru/uploads/posts/2021-07/1626685339_maus_2_eebaell.jpg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/mouse/qu/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQO3egRjE8ioP-5bpld7Sya0xS_I4H94IgRw&s",
+      "fuentePagina": "https://gup.fandom.com/wiki/Maus",
+      "titulo": "Maus | Girls und Panzer Wiki | Fandom",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQO3egRjE8ioP-5bpld7Sya0xS_I4H94IgRw&s",
+      "original": "https://static.wikia.nocookie.net/gup/images/e/e7/Maus.png/revision/latest/thumbnail/width/360/height/360?cb=20220108124541"
+    }
+  ]
+}

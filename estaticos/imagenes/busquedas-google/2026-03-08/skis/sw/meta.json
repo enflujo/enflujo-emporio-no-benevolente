@@ -1,0 +1,71 @@
+{
+  "categoria": "skis",
+  "categoriaSlug": "skis",
+  "idioma": "sw",
+  "nombreIdioma": "Kiswahili",
+  "termino": "ski",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:00:05.805Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "sw",
+    "gl": "tz"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=ski&hl=sw&gl=tz",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/skis/sw/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTipKotzkm2I1MeI8nk9cPn8n3G7MJt5mLmiQ&s",
+      "fuentePagina": "https://www.kirkwood.com/",
+      "titulo": "Kirkwood Mountain Resort | Kirkwood Ski Resort",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTipKotzkm2I1MeI8nk9cPn8n3G7MJt5mLmiQ&s",
+      "original": "https://scene7.vailresorts.com/is/image/vailresorts/20230208_PC_Wright_173:Large-Hero?resMode=sharp2&w=2880&h=900&wid=412&fit=vfit,1&hei=309&dpr=on,2.625"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/skis/sw/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcRdA6mGSl7ebuv0DyqJYQhvGsy71Bdmv8lg&s",
+      "fuentePagina": "https://www.skatepro.com/en-us/a806.htm?srsltid=AfmBOoobLyxe4RFNHIsFJIzc2GEnED6Zqvy2pRcE6Zn_8iKjxvKE69VU",
+      "titulo": "How to choose the best skis for beginners - Buying guide",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcRdA6mGSl7ebuv0DyqJYQhvGsy71Bdmv8lg&s",
+      "original": "https://cdn.skatepro.com/upload/thumbnails/2020/11/piste_4512.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/skis/sw/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwpgApzZchQutK47r9O-B0Pzc8R6U5bYtINA&s",
+      "fuentePagina": "https://www.valthorens.com/en/ski/forfaits/forfait-6-jours/",
+      "titulo": "6 Day Ski Package Val Thorens : A Week of Escape to the ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwpgApzZchQutK47r9O-B0Pzc8R6U5bYtINA&s",
+      "original": "https://www.valthorens.com/app/uploads/2023/09/230406-ski-salomon-l.brochot-ot-val-thorens-62.webp"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/skis/sw/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ83kpP50BgTRCXUqEi_gXFBRugXofKG_GyJQ&s",
+      "fuentePagina": "https://www.austria.info/en-gb/activities/resorts-for-beginners-and-returning-skiers/",
+      "titulo": "Ski Resorts for Beginners and Returning Skiers in Austria",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ83kpP50BgTRCXUqEi_gXFBRugXofKG_GyJQ&s",
+      "original": "https://fuutazbsb.filerobot.com/Freigegeben/Lebensgefuehl-Oesterreich-Skianfaenger-auf-der-Piste_Oesterreich-Werbung_Marko-Mestrovic.jpeg?gravity=auto&w=1728&h=740&func=crop&q=75"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/skis/sw/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCuUPwvS9f7vuucWnhFh3CalbrMFd1kcaZaw&s",
+      "fuentePagina": "https://www.breckenridge.com/",
+      "titulo": "Colorado's Premier Skiing Destination | Breckenridge Resort",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCuUPwvS9f7vuucWnhFh3CalbrMFd1kcaZaw&s",
+      "original": "https://scene7.vailresorts.com/is/image/vailresorts/20230208_PC_Wright_173:Epic-Pass-Home-Page-Hero-Mobile?resMode=sharp2&wid=412&fit=constrain,1&dpr=on,2.625"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/skis/sw/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6nh5boAwjsBnBRIfZQUbpQnhIWVMyg_koPw&s",
+      "fuentePagina": "https://www.ridestore.com/mag/how-to-ski-switch-backwards/",
+      "titulo": "How To Ski Backwards | Ridestore Magazine",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6nh5boAwjsBnBRIfZQUbpQnhIWVMyg_koPw&s",
+      "original": "https://www.ridestore.com/images/wordpress-4582241/uploads/2023/10/how-to-ski-backwards-ridestore-magazinejpg.jpg?w=320"
+    }
+  ]
+}

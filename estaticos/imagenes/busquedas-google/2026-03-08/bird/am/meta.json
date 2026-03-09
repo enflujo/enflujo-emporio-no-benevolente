@@ -1,0 +1,71 @@
+{
+  "categoria": "bird",
+  "categoriaSlug": "bird",
+  "idioma": "am",
+  "nombreIdioma": "Amharic — አማርኛ",
+  "termino": "ወፍ",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T20:49:51.457Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "am",
+    "gl": "et"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=%E1%8B%88%E1%8D%8D&hl=am&gl=et",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bird/am/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxVSzSTXOsMBO0d2_brr9cSLd2C4SI5z0gww&s",
+      "fuentePagina": "https://am.wikipedia.org/wiki/%E1%8B%88%E1%8D%8D",
+      "titulo": "ውክፔዲያ - ወፍ",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxVSzSTXOsMBO0d2_brr9cSLd2C4SI5z0gww&s",
+      "original": "https://upload.wikimedia.org/wikipedia/am/b/bc/480px-Petroica_boodang_Meehan_Range_1_crop.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bird/am/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnmw-WGMgr3fwQ8pf-IJqQk-AjynLE1Wt23Q&s",
+      "fuentePagina": "https://www.bbc.com/amharic/articles/cj5v4yyvz2mo",
+      "titulo": "የመስቀል ወፍ፡ አብራን ያለች እንግዳ ወይስ መስቀል ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnmw-WGMgr3fwQ8pf-IJqQk-AjynLE1Wt23Q&s",
+      "original": "https://ichef.bbci.co.uk/ace/ws/640/cpsprodpb/c902/live/d7301d70-5d22-11ee-954a-413268577267.jpg.webp"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bird/am/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1XWeyqxWaofhU1-GUjKzxoKH8lO2Fjb-p3g&s",
+      "fuentePagina": "https://play.google.com/store/apps/details?id=com.isoperla.birdidusa&hl=am",
+      "titulo": "Bird Id North America - መተግባሪያዎች Google Play ላይ",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1XWeyqxWaofhU1-GUjKzxoKH8lO2Fjb-p3g&s",
+      "original": "https://play-lh.googleusercontent.com/4ms5FmxsbcC3njog5si3yflWdsQAu9a2eyPPNix802wRJGwRq9EwXlLiX1f9C19xeAA"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bird/am/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6QffjU7cBk2-_9hjF2qWxQbfIJRA1SRLo8A&s",
+      "fuentePagina": "https://www.facebook.com/DRDHealthcaree/posts/%E1%8B%A8%E1%88%98%E1%88%B5%E1%89%80%E1%88%8D-%E1%8B%88%E1%8D%8D-%E1%8A%A5%E1%8A%93-%E1%8B%A8%E1%8A%A0%E1%8B%B0%E1%8B%AD-%E1%8A%A0%E1%89%A0%E1%89%A3-%E1%89%80%E1%8C%A0%E1%88%AE-%E1%8A%A5%E1%8A%95%E1%8B%B3%E1%88%8B%E1%89%B8%E1%8B%8D-%E1%88%98%E1%88%B5%E1%8A%A8%E1%88%A8%E1%88%9D-%E1%88%B2%E1%8C%A0%E1%89%A3%E1%8A%A5%E1%8A%95%E1%8A%B3%E1%8A%95-%E1%88%88%E1%89%A5%E1%88%AD%E1%88%80%E1%8A%90-%E1%88%98%E1%88%B5%E1%89%80%E1%88%89-%E1%89%A0%E1%88%B0%E1%88%8B%E1%88%9D-%E1%8A%A0%E1%8B%B0%E1%88%A8%E1%88%B3%E1%89%BD%E1%88%81%E1%8B%A8%E1%88%98%E1%88%B5%E1%89%80%E1%88%8D-%E1%8B%88%E1%8D%8D-%E1%88%88%E1%8B%88%E1%88%AB/396976734584116/",
+      "titulo": "የመስቀል ወፍ እና የአደይ አበባ ቀጠሮ እንዳላቸው ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6QffjU7cBk2-_9hjF2qWxQbfIJRA1SRLo8A&s",
+      "original": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=396976034584186"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bird/am/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlG2j8KPAzr-3g33GGQf9WILDuNP_P4zIHBA&s",
+      "fuentePagina": "https://ethiopianreporter.com/54090/",
+      "titulo": "ደረተ ሰማያዊ ንብበል ወፍ - ሪፖርተር - Ethiopian ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlG2j8KPAzr-3g33GGQf9WILDuNP_P4zIHBA&s",
+      "original": "https://ethiopianreporter.com/files/2018/03/sine1610.jpg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bird/am/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSH4-Mg079EkrBm1rjFNZ1R9dKubXMV71yMw&s",
+      "fuentePagina": "https://www.amn.gov.et/blog/27480/",
+      "titulo": "የመስቀል ወፍ ፡- በኢትዮጰያውያን ዘንድ ያላቸው ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSH4-Mg079EkrBm1rjFNZ1R9dKubXMV71yMw&s",
+      "original": "https://www.amn.gov.et/wp-content/uploads/2025/09/13-6.jpg"
+    }
+  ]
+}

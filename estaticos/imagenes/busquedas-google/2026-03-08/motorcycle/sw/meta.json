@@ -1,0 +1,71 @@
+{
+  "categoria": "motorcycle",
+  "categoriaSlug": "motorcycle",
+  "idioma": "sw",
+  "nombreIdioma": "Kiswahili",
+  "termino": "pikipiki",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T20:42:21.984Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "sw",
+    "gl": "tz"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=pikipiki&hl=sw&gl=tz",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/motorcycle/sw/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTW5WrCav3xSSt0W7pzU6SS2bzqdgM-kqmLxw&s",
+      "fuentePagina": "https://www.keeway.com/tz-sw/products/kc-150",
+      "titulo": "KC-150 | Keeway",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTW5WrCav3xSSt0W7pzU6SS2bzqdgM-kqmLxw&s",
+      "original": "https://cdn-alc.bbike-cdn.com.cn/keeway-3-0/media/797/conversions/2560x2180-(94)-hd.png"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/motorcycle/sw/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFcD_NrIVP-RYD1R244UMnlAfUKKSw7fNBtQ&s",
+      "fuentePagina": "https://sw.wikipedia.org/wiki/Pikipiki_za_majini",
+      "titulo": "Pikipiki za majini - Wikipedia, kamusi elezo huru",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFcD_NrIVP-RYD1R244UMnlAfUKKSw7fNBtQ&s",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/7/74/Megelli_Sports_motorcycle.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/motorcycle/sw/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgXYc_ngZHf_d5YbFLAB0sqWCPR-ObJzf7kg&s",
+      "fuentePagina": "https://sw.yizhilingev.com/electric-bike/62917271.html",
+      "titulo": "2024 High Speed ​​Racing Pikipiki/ Scooter Moped/ Pikipiki ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgXYc_ngZHf_d5YbFLAB0sqWCPR-ObJzf7kg&s",
+      "original": "http://bsg-i.nbxc.com/product/dd/c9/2b/d1693c4acb5cc8bd56e9d2c14a.jpg@95Q.webp"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/motorcycle/sw/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0CciSkmoZfvVuibF_nX1cHXj6TgSkcmmbMw&s",
+      "fuentePagina": "https://nukta.co.tz/spiro-yazindua-pikipiki-ya-umeme-kuchochea-usafiri-salama-nafuu-tanzania",
+      "titulo": "Spiro yazindua pikipiki ya umeme kuchochea usafiri salama ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0CciSkmoZfvVuibF_nX1cHXj6TgSkcmmbMw&s",
+      "original": "https://i0.wp.com/nukta.co.tz/wp-content/uploads/2025/05/NUKTA-STREM-THUMB-15-scaled.png?fit=2560%2C1440&ssl=1"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/motorcycle/sw/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnoGvFHs1RcBuKHV4zbWPUwcZ6qe5p8DmLTQ&s",
+      "fuentePagina": "https://www.mwananchi.co.tz/mw/habari/kitaifa/tvs-yazindua-pikipiki-mpya-2863332",
+      "titulo": "TVS yazindua pikipiki mpya | Mwananchi",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnoGvFHs1RcBuKHV4zbWPUwcZ6qe5p8DmLTQ&s",
+      "original": "https://www.mwananchi.co.tz/resource/image/2863334/landscape_ratio16x9/1600/900/ffc5ba26c7afc80fd3e7a6415b40c8b6/Cv/pic-pikipiki.jpg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/motorcycle/sw/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROargkkWTZJhsTWhPLjY5B01bDH9md65kNPg&s",
+      "fuentePagina": "https://www.terafundchina.com/sw/kids-motorcycle-to-ride-bb8188-product/",
+      "titulo": "China Kids pikipiki kuendesha BB8188 Supplier na Kiwanda ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROargkkWTZJhsTWhPLjY5B01bDH9md65kNPg&s",
+      "original": "https://www.terafundchina.com/uploads/2980.jpg"
+    }
+  ]
+}

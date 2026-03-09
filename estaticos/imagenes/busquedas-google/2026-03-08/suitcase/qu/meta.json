@@ -1,0 +1,71 @@
+{
+  "categoria": "suitcase",
+  "categoriaSlug": "suitcase",
+  "idioma": "qu",
+  "nombreIdioma": "Quechua",
+  "termino": "maleta",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T20:59:12.896Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "es",
+    "gl": "pe"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=maleta&hl=es&gl=pe",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/suitcase/qu/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSL5HpL4jAauBaMPmp53AFdYW3qCYW3kGZBAw&s",
+      "fuentePagina": "https://www.proshopper.pe/products/inusa-trend-maleta-71-cm-negro",
+      "titulo": "InUSA. Trend. Maleta Grande de 71 Cm 23 Kg Negro – ProShopper Perú",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSL5HpL4jAauBaMPmp53AFdYW3qCYW3kGZBAw&s",
+      "original": "https://www.proshopper.pe/cdn/shop/products/2E0A7131_1024x1024.jpg?v=1654006241"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/suitcase/qu/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8VxYKmhubiYt4ibnI864En9znRgg3ot5WRw&s",
+      "fuentePagina": "https://bagstore.com.pe/product/maleta-casual-transit-pc103/",
+      "titulo": "Maleta Cabinera Dulcinea – Bag Store Perú",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8VxYKmhubiYt4ibnI864En9znRgg3ot5WRw&s",
+      "original": "https://bagstore.com.pe/wp-content/uploads/2016/04/23KG-Palo-Rosa-1.png"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/suitcase/qu/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7kyP1WRYknE5WvFWy34U-5HsCP3Y32FSeLg&s",
+      "fuentePagina": "https://www.proshopper.pe/products/inusa-trend-maleta-61-cm-orange",
+      "titulo": "InUSA. Trend. Maleta Mediana de 61 Cm Naranja – ProShopper Perú",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7kyP1WRYknE5WvFWy34U-5HsCP3Y32FSeLg&s",
+      "original": "https://www.proshopper.pe/cdn/shop/files/TRMO_1_1080x.jpg?v=1723306205"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/suitcase/qu/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS73dnwaPMIs3vsZ-vLlTCYfCDYz9h-XQoSvA&s",
+      "fuentePagina": "https://bubbabags.com.pe/products/maleta-travel-1?srsltid=AfmBOooWP_KKvAaV3A_UJTITGzabMcKtOOMmaYiRuCqSDMVdfzfhA3Jp",
+      "titulo": "MALETA TRAVEL – Bubba Bags Perú",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS73dnwaPMIs3vsZ-vLlTCYfCDYz9h-XQoSvA&s",
+      "original": "http://bubbabags.com.pe/cdn/shop/files/Copia_de_6902221481658_1.jpg?v=1757607839"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/suitcase/qu/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRc431CSWQHTXgPySKHmq7qR921gRDv0ycxzw&s",
+      "fuentePagina": "https://www.promart.pe/maleta-mediana-15-kg-trend-arena---trmar-1001116660/p?srsltid=AfmBOooRddmm9Sn6rp1MIgj_t73nCoJQaHONOb5PldEDNnoJuWH-PY-p",
+      "titulo": "Maleta Mediana 15 kg Trend Arena - TRMAR | Promart.pe - Promart",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRc431CSWQHTXgPySKHmq7qR921gRDv0ycxzw&s",
+      "original": "https://promart.vteximg.com.br/arquivos/ids/8893150/imageUrl_1.jpg?v=638848771404870000"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/suitcase/qu/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGhv7HGABtl2m4LlbfsU77HYXcdQe8wgEm9w&s",
+      "fuentePagina": "https://www.newtel.pe/?e=57945847021800",
+      "titulo": "Maleta Bolso De Transporte Maleta De Viaje Compartimento Para Laptop Ruedas  Rotación 360° Airly",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGhv7HGABtl2m4LlbfsU77HYXcdQe8wgEm9w&s",
+      "original": "https://perfectchoice.me/cdn/shop/files/PC-084792_C02_800x.jpg?v=1758318238"
+    }
+  ]
+}

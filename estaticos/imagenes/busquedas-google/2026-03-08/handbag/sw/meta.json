@@ -1,0 +1,71 @@
+{
+  "categoria": "handbag",
+  "categoriaSlug": "handbag",
+  "idioma": "sw",
+  "nombreIdioma": "Kiswahili",
+  "termino": "mfuko",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T20:57:29.763Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "sw",
+    "gl": "tz"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=mfuko&hl=sw&gl=tz",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/handbag/sw/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTU7UkQqDotSKGfNYwwszzF3gxFOTpLqBRTIQ&s",
+      "fuentePagina": "https://www.instagram.com/p/C55HYh_qhI2/",
+      "titulo": "Vipi kuhusu ubora wa mfuko?Vipi kuhusu Design ya mfuko?Na ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTU7UkQqDotSKGfNYwwszzF3gxFOTpLqBRTIQ&s",
+      "original": "https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3348740270021284406"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/handbag/sw/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWHYwuVjonlgffqTM-zuFZ6sPYG0I0MEhxQA&s",
+      "fuentePagina": "https://sw.wikipedia.org/wiki/Mfuko",
+      "titulo": "Mfuko - Wikipedia, kamusi elezo huru",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWHYwuVjonlgffqTM-zuFZ6sPYG0I0MEhxQA&s",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Garbage_bag_Basel_Bebbisagg.JPG/960px-Garbage_bag_Basel_Bebbisagg.JPG"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/handbag/sw/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRY1HalW2z4ngDRuaGZIhJixsgCfMQe345Vew&s",
+      "fuentePagina": "https://www.facebook.com/harshogroup/posts/mfuko-wa-non-wovenmfuko-mbadala-wa-mifuko-ya-plastiki-ambayo-ni-mithili-ya-kitam/2327769784149104/",
+      "titulo": "Mfuko wa Non Woven,Mfuko Mbadala wa mifuko ya plastiki ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRY1HalW2z4ngDRuaGZIhJixsgCfMQe345Vew&s",
+      "original": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=2327769740815775"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/handbag/sw/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSc03reFago2NFh2xHrJ9iaOKXrM5Er-hO9qw&s",
+      "fuentePagina": "https://www.facebook.com/BrilliantTZA/photos/a.2216098828649407/3011544269104855/?id=2105435089715782",
+      "titulo": "Brilliant - Je unahitaji mfuko kwa ajili ya kuwapa wateja ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSc03reFago2NFh2xHrJ9iaOKXrM5Er-hO9qw&s",
+      "original": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=3011544269104855"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/handbag/sw/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqTIv4lJX4arQAteC37ydXxv8vW9KMGBQgOQ&s",
+      "fuentePagina": "https://swahili.bossxiao.com/T-shirt-bag/supermarket-custom-non-woven-t-shirt-bag-vest-fabric-bag-foldable-non-woven-bag796",
+      "titulo": "Mfuko wa shati maalum usio na kusuka mfuko wa kitambaa wa ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqTIv4lJX4arQAteC37ydXxv8vW9KMGBQgOQ&s",
+      "original": "https://www.bossxiao.com/upload/product/1648459239372963.jpg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/handbag/sw/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSaBwqRvsi0QvEZv_UiZPjVEG0FB3JoNNG-Gw&s",
+      "fuentePagina": "https://www.instagram.com/p/DQ4Ah4PCJ4g/",
+      "titulo": "Ubora wa Mfuko wako unaongea zaidi na kukutangaza zaidi ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSaBwqRvsi0QvEZv_UiZPjVEG0FB3JoNNG-Gw&s",
+      "original": "https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3762759816792546848"
+    }
+  ]
+}

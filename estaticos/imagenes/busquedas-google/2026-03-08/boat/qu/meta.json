@@ -1,0 +1,71 @@
+{
+  "categoria": "boat",
+  "categoriaSlug": "boat",
+  "idioma": "qu",
+  "nombreIdioma": "Quechua",
+  "termino": "wampuna",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T20:46:00.581Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "es",
+    "gl": "pe"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=wampuna&hl=es&gl=pe",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/boat/qu/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOTRVgNmCuEL4CULUQQKY0fnT2ZHgVDnOsDw&s",
+      "fuentePagina": "https://genshin-impact.fandom.com/wiki/Wampuna",
+      "titulo": "Wampuna | Genshin Impact Wiki | Fandom",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOTRVgNmCuEL4CULUQQKY0fnT2ZHgVDnOsDw&s",
+      "original": "https://static.wikia.nocookie.net/gensin-impact/images/f/f7/NPC_Wampuna.png/revision/latest?cb=20250103090443"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/boat/qu/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAJ7cHuYeZQ3sXez4Uc4_j-Xf1vKEOaP5hUw&s",
+      "fuentePagina": "https://en.wikipedia.org/wiki/Wamp%27una",
+      "titulo": "Wamp'una - Wikipedia",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAJ7cHuYeZQ3sXez4Uc4_j-Xf1vKEOaP5hUw&s",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/c/c6/Qaqa_Mach%27ay_Peru.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/boat/qu/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRK-MB9Q2KtPkPK4DXdWHBc3jndb18Ln0D5sA&s",
+      "fuentePagina": "https://www.youtube.com/watch?v=XpHyyNGCNgU",
+      "titulo": "WAMPUNA (Single Disc) / URKU LLANTHU (Band) / MUSIC & VIDEO OFFICIAL 2021 /  #DungeonSynth",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRK-MB9Q2KtPkPK4DXdWHBc3jndb18Ln0D5sA&s",
+      "original": "https://i.ytimg.com/vi/XpHyyNGCNgU/maxresdefault.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/boat/qu/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCg3Bk50fP5htBmL_Vrn_Wy_o9QGPg1NLEHA&s",
+      "fuentePagina": "https://www.deezer.com/pt/album/266079352",
+      "titulo": "WAMPUNA (Versión instrumental) - Urku Llanthu | Deezer",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCg3Bk50fP5htBmL_Vrn_Wy_o9QGPg1NLEHA&s",
+      "original": "https://cdn-images.dzcdn.net/images/cover/5d2b1a6b1e7759bbbf4d9e8e12e2dc99/1900x1900-000000-81-0-0.jpg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/boat/qu/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlRpgLF2CZS-47x949OV2flC416Wc4CpGU6A&s",
+      "fuentePagina": "https://open.spotify.com/intl-id/track/1eObZME5JG571GBCUjHkd5",
+      "titulo": "WAMPUNA - Versión instrumental - lagu dan lirik oleh URKU ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlRpgLF2CZS-47x949OV2flC416Wc4CpGU6A&s",
+      "original": "https://i.scdn.co/image/ab67616d00001e0208e5780a850337e3e6f068f9"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/boat/qu/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvo48VANP8YXX5gGhpgLrgiQqgM4LBC8uYTw&s",
+      "fuentePagina": "https://en.wikipedia.org/wiki/Wamp%27una",
+      "titulo": "Wamp'una - Wikipedia",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvo48VANP8YXX5gGhpgLrgiQqgM4LBC8uYTw&s",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Peru_physical_map.svg/250px-Peru_physical_map.svg.png"
+    }
+  ]
+}

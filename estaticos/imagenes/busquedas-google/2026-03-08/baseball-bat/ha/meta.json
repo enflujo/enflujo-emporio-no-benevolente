@@ -1,0 +1,71 @@
+{
+  "categoria": "baseball bat",
+  "categoriaSlug": "baseball-bat",
+  "idioma": "ha",
+  "nombreIdioma": "Hausa",
+  "termino": "sanda na kwallon baseball",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:02:49.108Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "ha",
+    "gl": "ng"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=sanda%20na%20kwallon%20baseball&hl=ha&gl=ng",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/baseball-bat/ha/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLq4bvHoHJz2-XijwOOLy_69sGlZHQkaPX-g&s",
+      "fuentePagina": "https://www.facebook.com/katsinapost/posts/jihar-katsina-za-ta-wakilci-sauran-jihohin-arewa-maso-yamma-a-babbar-gasar-kwall/1455135786625348/",
+      "titulo": "Jihar Katsina za ta wakilci sauran Jihohin Arewa maso Yamma ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLq4bvHoHJz2-XijwOOLy_69sGlZHQkaPX-g&s",
+      "original": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=1455131756625751"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/baseball-bat/ha/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxgNMtSvG17JX8w4XnqEtBI4Yhcfy0SagrGA&s",
+      "fuentePagina": "https://hausa.premiumtimesng.com/rahotanni/81379-sufeton-%C6%B4an-sandan-najeriya-ya-tabbatar-da-janye-jamiai-11566-masu-gadin-manya-da-%C6%B4an-siyasa.html",
+      "titulo": "Sufeton Ƴan sandan Najeriya ya tabbatar da janye jami'ai ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxgNMtSvG17JX8w4XnqEtBI4Yhcfy0SagrGA&s",
+      "original": "https://hausa.premiumtimesng.com/wp-content/files/sites/4/2024/07/images-2024-07-24T012410.852.jpeg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/baseball-bat/ha/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4ekdhhFsFBzIzFOGbPF7tjv6V_31lhHR6EA&s",
+      "fuentePagina": "https://www.tiktok.com/@factnewshausa/video/7533735993459936568",
+      "titulo": "Yadda Kwallon Kafa ke Canza Rayuwar Matasa a Najeriya",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4ekdhhFsFBzIzFOGbPF7tjv6V_31lhHR6EA&s",
+      "original": "https://www.tiktok.com/api/img/?itemId=7533735993459936568&location=0&aid=1988"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/baseball-bat/ha/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAP0frYmkVhs8XwBbQOKb7Gx4-NSC5AGMo6g&s",
+      "fuentePagina": "https://www.bbc.com/hausa/labarai-58969995",
+      "titulo": "Ɗan sanda da ya kaɗa ƙuri'a a zaɓen shugabannin APC a Kano ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAP0frYmkVhs8XwBbQOKb7Gx4-NSC5AGMo6g&s",
+      "original": "https://ichef.bbci.co.uk/ace/ws/640/cpsprodpb/DD61/production/_121137665_fb_img_1634641393342-002.jpg.webp"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/baseball-bat/ha/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKC6hsc8cHKe5LIyE6IMGNMXeEy_xKRpL_EA&s",
+      "fuentePagina": "https://www.katsinapost.ng/An-Karrama-Gwamna-Dikko-Radda-Da-Lambar-Lambar-Girmamawa-a-Fannin-Inganta-Rayuwar-Matasa-Da-Wasanni-83087/",
+      "titulo": "An Karrama Gwamna Dikko Radda Da Lambar Lambar ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKC6hsc8cHKe5LIyE6IMGNMXeEy_xKRpL_EA&s",
+      "original": "https://www.katsinapost.ng/uploads/513039981_652288661184535_7155457448386866156_n.jpg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/baseball-bat/ha/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKYwACtNrs-4voV-FxVz6JBnco-fglDr2qog&s",
+      "fuentePagina": "https://www.tiktok.com/@anconews/video/7480914745244011781",
+      "titulo": "Labarai Kan Wasanni: Champions League Highlights 2025",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKYwACtNrs-4voV-FxVz6JBnco-fglDr2qog&s",
+      "original": "https://www.tiktok.com/api/img/?itemId=7480914745244011781&location=0&aid=1988"
+    }
+  ]
+}

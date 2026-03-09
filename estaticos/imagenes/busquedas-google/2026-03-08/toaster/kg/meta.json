@@ -1,0 +1,71 @@
+{
+  "categoria": "toaster",
+  "categoriaSlug": "toaster",
+  "idioma": "kg",
+  "nombreIdioma": "Kikongo",
+  "termino": "grille-pain",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:26:14.565Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "fr",
+    "gl": "cd"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=grille-pain&hl=fr&gl=cd",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/toaster/kg/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAvjW6JE83gj3KKUODm6UaZk8BrsL4dTmr6g&s",
+      "fuentePagina": "https://www.fr.fnac.ch/Moulinex-Grille-pain-longue-fente-Subito-Inox-noir-LS5S08E0/a21404550",
+      "titulo": "Moulinex Grille-pain longue fente Subito Inox noir LS5S08E0",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAvjW6JE83gj3KKUODm6UaZk8BrsL4dTmr6g&s",
+      "original": "https://static.fnac-static.com/multimedia/Images/FR/MDM/36/c9/aa/27969846/1520-4/tsp20260219154224/Moulinex-Grille-pain-longue-fente-Subito-Inox-noir-LS5S08E0.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/toaster/kg/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpI5jG173ZAjtyWpX27Zvrt-gd78VDrHhjdg&s",
+      "fuentePagina": "https://www.amazon.fr/Bestron-Cafeti%C3%A8res-permanent-automatique-Collection/dp/B07ZZ57GDS",
+      "titulo": "Bestron grille-pain, Toaster pour 2 tranches & avec 7 ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpI5jG173ZAjtyWpX27Zvrt-gd78VDrHhjdg&s",
+      "original": "https://m.media-amazon.com/images/I/71xMw-vQ5-L._AC_UF350,350_QL80_.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/toaster/kg/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbqp_L1CNWffV8ppwHOwgajdSBMb-E_k22MQ&s",
+      "fuentePagina": "https://lagrange.fr/fr/grille-pain/266-Grille-pain-Naos-519010.html?srsltid=AfmBOoo1BIfYaGI4zlTAyDWo3L8VEUrPZNwSlklGt7H6jYyx41qfpe8h",
+      "titulo": "Grille-pain Naos Lagrange",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbqp_L1CNWffV8ppwHOwgajdSBMb-E_k22MQ&s",
+      "original": "https://lagrange.fr/2229-product_main_2x/Grille-pain-Naos-519010.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/toaster/kg/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUyFLMaXejr10U0gJ6zJrsqm8mJc29Z_NUgw&s",
+      "fuentePagina": "https://www.domo-elektro.be/fr/do966t-domo-broodrooster-voor-2-toasts-incl-ingebouwd-broodjesrek",
+      "titulo": "DOMO Grille-pain - pour 2 toasts - avec support petits pains ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUyFLMaXejr10U0gJ6zJrsqm8mJc29Z_NUgw&s",
+      "original": "https://www.domo-elektro.be/media/catalog/product/cache/f08d0db0d0699bca6b022829de5603d1/D/O/DO966T_Toaster_01.jpg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/toaster/kg/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRqBg7cRINiMibyFFJ3xrVpAUv5il-m7v8GQ&s",
+      "fuentePagina": "https://www.vitrinemagique.com/p/grille-pain-rouge-metallise-basilico/62615/",
+      "titulo": "Grille-pain, rouge-métallisé Basilico | Vitrine Magique",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRqBg7cRINiMibyFFJ3xrVpAUv5il-m7v8GQ&s",
+      "original": "https://media.vitrinemagique.com/pdmain/62615-H-01-3P_HAUPTBILD_WS_3P_FR.jpg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/toaster/kg/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmmA2JFIHxDvR66PIf4qqsANDx1VYtrJWtRA&s",
+      "fuentePagina": "https://www.kitchenaid.fr/grille-pains",
+      "titulo": "Grille-pains | KitchenAid FR",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmmA2JFIHxDvR66PIf4qqsANDx1VYtrJWtRA&s",
+      "original": "https://images.ctfassets.net/0e6jqcgsrcye/5baEIbNb7K3vgJOBPJAr7u/0758d0196e1b5a43104aab691d5754e1/PLP-toaster-benefits-toasters-sandwich-rack-for-toasties.jpg"
+    }
+  ]
+}

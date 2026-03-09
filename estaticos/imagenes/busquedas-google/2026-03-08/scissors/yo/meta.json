@@ -1,0 +1,71 @@
+{
+  "categoria": "scissors",
+  "categoriaSlug": "scissors",
+  "idioma": "yo",
+  "nombreIdioma": "Yorùbá",
+  "termino": "àáké",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:30:19.877Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "yo",
+    "gl": "ng"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=%C3%A0%C3%A1k%C3%A9&hl=yo&gl=ng",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/scissors/yo/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRW5k-i3NEn3X14q9O--9RvKqEHm9Tg90WkZg&s",
+      "fuentePagina": "https://www.eayoruba.com/yoruba-idioms-akanlo-ede-yoruba/videos/fi-aake-k-ri",
+      "titulo": "Fi àáké kọ́rí - Yorùbá Idioms (Àkànlò èdè Yorùbá) - EAYoruba",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRW5k-i3NEn3X14q9O--9RvKqEHm9Tg90WkZg&s",
+      "original": "https://vhx.imgix.net/eayoruba/assets/3fe2e57a-ad51-4a5b-ad3d-6d6cc2814534?auto=format%2Ccompress&fit=crop&h=360&w=640"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/scissors/yo/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtf1rOC5OvtBjp_C2qpol4PXhnquGqCGIMMQ&s",
+      "fuentePagina": "https://www.bbc.com/yoruba/afrika-55961332",
+      "titulo": "Amotekun attack: Àwọn jàndùkú ṣá ẹ̀ṣọ́ Amotekun àti ọlọ́pàá ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtf1rOC5OvtBjp_C2qpol4PXhnquGqCGIMMQ&s",
+      "original": "https://ichef.bbci.co.uk/ace/ws/640/cpsprodpb/802E/production/_116841823_amotekun1.jpg.webp"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/scissors/yo/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTv_CsXNSmDnzjhIDpmwULPg81heaO7v1a3UQ&s",
+      "fuentePagina": "https://www.eayoruba.com/yoruba-idioms-akanlo-ede-yoruba/videos/fi-aake-k-ri",
+      "titulo": "Fi àáké kọ́rí - Yorùbá Idioms (Àkànlò èdè Yorùbá) - EAYoruba",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTv_CsXNSmDnzjhIDpmwULPg81heaO7v1a3UQ&s",
+      "original": "https://vhx.imgix.net/eayoruba/assets/34329a20-9e41-4fb4-be7a-9203a37d883d?auto=format%2Ccompress&fit=crop&h=360&w=640"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/scissors/yo/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgqVDGgh_WmID20zFLuLF5WJ1x-XNGHn5BdQ&s",
+      "fuentePagina": "https://www.instagram.com/reel/Cmg1BaBgnJh/",
+      "titulo": "“Fi àáké kọ́rí “, Kini ìtumọ̀ àkànlò èdè yi àti wípé ìgbàwo ni a máa ń lòó  (What is the meaning of this idiom and when can we use it), #yorubateacher  #yorubalanguage #yoruba",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgqVDGgh_WmID20zFLuLF5WJ1x-XNGHn5BdQ&s",
+      "original": "https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=2999630544955929185"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/scissors/yo/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSW8PdNOc95bqKcGsnC_6CUMBq19o9Ne3f3Uw&s",
+      "fuentePagina": "https://www.facebook.com/groups/1492499144321992/posts/3811674932404390/",
+      "titulo": "Agbára tó ṣe àwárí àáké àwọn ọmọ wòlíì nínú omi yóò ṣe àwárí ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSW8PdNOc95bqKcGsnC_6CUMBq19o9Ne3f3Uw&s",
+      "original": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=296905523334895"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/scissors/yo/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1XngvAkhBVNYTIXnq-IQvS4wI9s-hd1qdCQ&s",
+      "fuentePagina": "https://www.eayoruba.com/yoruba-idioms-akanlo-ede-yoruba/videos/fi-aake-k-ri",
+      "titulo": "Fi àáké kọ́rí - Yorùbá Idioms (Àkànlò èdè Yorùbá) - EAYoruba",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1XngvAkhBVNYTIXnq-IQvS4wI9s-hd1qdCQ&s",
+      "original": "https://vhx.imgix.net/eayoruba/assets/39a50ad6-648b-4dec-9f92-72c7dd46c329?auto=format%2Ccompress&fit=crop&h=360&w=640"
+    }
+  ]
+}

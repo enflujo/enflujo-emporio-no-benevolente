@@ -1,0 +1,71 @@
+{
+  "categoria": "train",
+  "categoriaSlug": "train",
+  "idioma": "en",
+  "nombreIdioma": "English",
+  "termino": "train",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T20:44:14.226Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "en",
+    "gl": "us"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=train&hl=en&gl=us",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/train/en/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0GwdklPaH9LS6-pgFe_6TkogGLdWrMfHnFw&s",
+      "fuentePagina": "https://en.wikipedia.org/wiki/Train",
+      "titulo": "Train - Wikipedia",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0GwdklPaH9LS6-pgFe_6TkogGLdWrMfHnFw&s",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/5/50/%D0%9F%D0%BE%D0%B5%D0%B7%D0%B4_%D0%BD%D0%B0_%D1%84%D0%BE%D0%BD%D0%B5_%D0%B3%D0%BE%D1%80%D1%8B_%D0%A8%D0%B0%D1%82%D1%80%D0%B8%D1%89%D0%B5._%D0%92%D0%BE%D1%80%D0%BE%D0%BD%D0%B5%D0%B6%D1%81%D0%BA%D0%B0%D1%8F_%D0%BE%D0%B1%D0%BB%D0%B0%D1%81%D1%82%D1%8C.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/train/en/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2LF-0tNV5pw-LHqJ1WLfoBzeZu5HVTOEeQA&s",
+      "fuentePagina": "https://en.wikipedia.org/wiki/Commuter_rail",
+      "titulo": "Commuter rail - Wikipedia",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2LF-0tNV5pw-LHqJ1WLfoBzeZu5HVTOEeQA&s",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/e/e9/Next_Stop-_Downers_Grove_%28Metra_train_departs_Halsted_Street_July_2025%29.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/train/en/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUDEo6TtzrJoW9652xNei5AEnL2fLUAM4oDQ&s",
+      "fuentePagina": "https://en.wikipedia.org/wiki/Auto_Train",
+      "titulo": "Auto Train - Wikipedia",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUDEo6TtzrJoW9652xNei5AEnL2fLUAM4oDQ&s",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Amtrak_Auto_Train_52_Passing_Through_Guinea_Station%2C_Virginia.jpg/330px-Amtrak_Auto_Train_52_Passing_Through_Guinea_Station%2C_Virginia.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/train/en/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFz8rd4WqvP3QbsOY16krk-ZHwqkcbMUHhPw&s",
+      "fuentePagina": "https://startpac.com/blog/locomotive-vs-train/",
+      "titulo": "Locomotive vs Train: What's the Difference in Rail Transport?",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFz8rd4WqvP3QbsOY16krk-ZHwqkcbMUHhPw&s",
+      "original": "https://startpac.com/wp-content/uploads/2024/11/what-is-the-difference-between-a-train-and-a-locomotive.jpg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/train/en/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZeMLLGQPPajJnV1OyujE6HpvbwN5tzUzH8g&s",
+      "fuentePagina": "https://www.escalontimes.com/news/historic-movie-train-running-the-rails-again/",
+      "titulo": "Historic movie train running the rails again - Escalon Times",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZeMLLGQPPajJnV1OyujE6HpvbwN5tzUzH8g&s",
+      "original": "https://centralca.cdn-anvilcms.net/media/images/2025/07/23/images/Water_Tower_pix_7-23.max-752x423.jpg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/train/en/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRe6zZTVHgxcndlO-b9dHbQLmrxcr7zS7jn9A&s",
+      "fuentePagina": "https://www.freepik.com/premium-vector/realistic-train-vector-illustration-concept_223922323.htm",
+      "titulo": "Realistic train vector illustration concept | Premium Vector",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRe6zZTVHgxcndlO-b9dHbQLmrxcr7zS7jn9A&s",
+      "original": "https://img.freepik.com/premium-vector/realistic-train-vector-illustration-concept_1253202-17600.jpg"
+    }
+  ]
+}

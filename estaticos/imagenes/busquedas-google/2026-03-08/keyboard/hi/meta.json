@@ -1,0 +1,71 @@
+{
+  "categoria": "keyboard",
+  "categoriaSlug": "keyboard",
+  "idioma": "hi",
+  "nombreIdioma": "हिन्दी",
+  "termino": "कीबोर्ड",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:23:50.894Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "hi",
+    "gl": "in"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=%E0%A4%95%E0%A5%80%E0%A4%AC%E0%A5%8B%E0%A4%B0%E0%A5%8D%E0%A4%A1&hl=hi&gl=in",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/keyboard/hi/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRm6MCCqtQMAe_R5lbnYDSQxLf9ik4eQpnh2Q&s",
+      "fuentePagina": "https://www.amazon.in/-/hi/Enter-%E0%A4%B2%E0%A5%88%E0%A4%AA%E0%A4%9F%E0%A5%89%E0%A4%AA-%E0%A4%A1%E0%A5%87%E0%A4%B8%E0%A5%8D%E0%A4%95%E0%A4%9F%E0%A5%89%E0%A4%AA-Easyclick-%E0%A4%95%E0%A5%80%E0%A4%AC%E0%A5%8B%E0%A4%B0%E0%A5%8D%E0%A4%A1/dp/B0CTQ5CLF8",
+      "titulo": "Enter लैपटॉप और डेस्कटॉप के लिए ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRm6MCCqtQMAe_R5lbnYDSQxLf9ik4eQpnh2Q&s",
+      "original": "https://m.media-amazon.com/images/I/61QxkJGYxeL._AC_UF1000,1000_QL80_.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/keyboard/hi/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSG7mUhJu9g59VfmukYgGOzkeGsmS3b6YHZVA&s",
+      "fuentePagina": "https://gyanwith.wordpress.com/2020/05/07/keyboard-%E0%A4%95%E0%A5%8D%E0%A4%AF%E0%A4%BE-%E0%A4%B9%E0%A5%88-what-is-keybord-in-hindi/",
+      "titulo": "कीबोर्ड क्या है हिंदी में what is ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSG7mUhJu9g59VfmukYgGOzkeGsmS3b6YHZVA&s",
+      "original": "https://gyanwith.wordpress.com/wp-content/uploads/2020/05/gettyimages-183252996-2048x2048-94885817.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/keyboard/hi/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyCnrFrm5lW7OxEfA_t4WGPbkurReIPBO1Kg&s",
+      "fuentePagina": "https://www.amazon.in/-/hi/ZEBRONICS-K20-%E0%A4%95%E0%A5%80%E0%A4%AC%E0%A5%8B%E0%A4%B0%E0%A5%8D%E0%A4%A1-%E0%A4%87%E0%A4%82%E0%A4%9F%E0%A4%B0%E0%A4%AB%E0%A4%BC%E0%A5%87%E0%A4%B8-%E0%A4%B0%E0%A4%BF%E0%A4%9F%E0%A5%8D%E0%A4%B0%E0%A5%88%E0%A4%95%E0%A5%8D%E0%A4%9F%E0%A5%87%E0%A4%AC%E0%A4%B2/dp/B07KX9V8J4",
+      "titulo": "ZEBRONICS K20, वायर्ड कीबोर्ड, 104 कीज़, 1.2m केबल, ₹ की, UV कोटेड कीज़,  USB इंटरफ़ेस, रिट्रैक्टेबल स्टैंड, प्लग एंड प्ले : Amazon.in: कंप्यूटर और  ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyCnrFrm5lW7OxEfA_t4WGPbkurReIPBO1Kg&s",
+      "original": "https://m.media-amazon.com/images/I/71qdcxI6lDL._AC_UF1000,1000_QL80_.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/keyboard/hi/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPTGhv-lJcVUf0uLQ1T__U-XGExBNlbwvn4Q&s",
+      "fuentePagina": "https://www.youtube.com/watch?v=8PfmGcvss40",
+      "titulo": "कीबोर्ड की A to Z जानकारी हिंदी में ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPTGhv-lJcVUf0uLQ1T__U-XGExBNlbwvn4Q&s",
+      "original": "https://i.ytimg.com/vi/8PfmGcvss40/sddefault.jpg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/keyboard/hi/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSVUgyumERJG-u9SWDppBzW1s4GdZWQkt-dg&s",
+      "fuentePagina": "https://www.shahnawazblog.com/keyboard-%E0%A4%95%E0%A5%80%E0%A4%AC%E0%A5%8B%E0%A4%B0%E0%A5%8D%E0%A4%A1/",
+      "titulo": "Keyboard-कीबोर्ड - Shahnawaz Blog",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSVUgyumERJG-u9SWDppBzW1s4GdZWQkt-dg&s",
+      "original": "https://shahnawazblog.com/wp-content/uploads/2021/09/QWERTY-Keyboard.png"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/keyboard/hi/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0XcPu-wEePyjG4h1qCXTwCRHJJXBCd3p5mg&s",
+      "fuentePagina": "https://www.youtube.com/watch?v=W3kRYWtJrmw",
+      "titulo": "Computer Education Part-6 | Keyboard keys and their functions in Hindi -  कीबोर्ड कीज़ के काम",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0XcPu-wEePyjG4h1qCXTwCRHJJXBCd3p5mg&s",
+      "original": "https://i.ytimg.com/vi/W3kRYWtJrmw/maxresdefault.jpg"
+    }
+  ]
+}

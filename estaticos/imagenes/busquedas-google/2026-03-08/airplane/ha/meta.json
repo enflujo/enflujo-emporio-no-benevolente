@@ -1,0 +1,71 @@
+{
+  "categoria": "airplane",
+  "categoriaSlug": "airplane",
+  "idioma": "ha",
+  "nombreIdioma": "Hausa",
+  "termino": "jirgin sama",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T20:43:10.549Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "ha",
+    "gl": "ng"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=jirgin%20sama&hl=ha&gl=ng",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/airplane/ha/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhM4B8LJF47fICbPefEnhe7oKI42kRZlNASw&s",
+      "fuentePagina": "https://bakandamiya.com/jirgin-sama/",
+      "titulo": "Jirgin sama | Bakandamiya",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhM4B8LJF47fICbPefEnhe7oKI42kRZlNASw&s",
+      "original": "https://eejsccb469o.exactdn.com/wp-content/uploads/2024/10/maxresdefault6.jpg?strip=all"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/airplane/ha/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS50oFCvYmwZQMOepL_Hb-ZBniGERAZ19yR8Q&s",
+      "fuentePagina": "https://ha.wikipedia.org/wiki/Jirgin_sama",
+      "titulo": "Jirgin sama - Wikipedia",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS50oFCvYmwZQMOepL_Hb-ZBniGERAZ19yR8Q&s",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/6/65/Airliners_28.07.2009_10-01-28.JPG"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/airplane/ha/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNAzqH1Qi5ScnmjnM01fbMMTWuJQ8KYUp36Q&s",
+      "fuentePagina": "https://hausa.legit.ng/duniya/1639635-jirgin-sama-dauke-da-mutum-10-ya-bace-a-sararin-samaniya-a-amurka/",
+      "titulo": "Jirgin Sama Ɗauke da Fasinjoji Ya Ɓace a Sararin Samaniya ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNAzqH1Qi5ScnmjnM01fbMMTWuJQ8KYUp36Q&s",
+      "original": "https://cdn.legit.ng/images/1120/fb649a5c8690d577.jpeg?v=1"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/airplane/ha/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIkdlYtsWFWCF8I_AirgvxOwATD0DJSWuk8A&s",
+      "fuentePagina": "https://hausa.legit.ng/duniya/1638179-jirgin-sama-dauke-da-fasinjoji-ya-ci-karo-da-jirgin-sojoji-a-kasar-amurka/",
+      "titulo": "Jirgin Sama Ɗauke da Fasinjoji Ya Yi Taho Mu Gama da Jirgin ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIkdlYtsWFWCF8I_AirgvxOwATD0DJSWuk8A&s",
+      "original": "https://cdn.legit.ng/images/1120/28b535162c19b1e0.jpeg?v=1"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/airplane/ha/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvy7k5-qfeIaFJ_5h2SIkbTzJQypVnq46Nyw&s",
+      "fuentePagina": "https://www.bbc.com/hausa/vert-aut-37474335",
+      "titulo": "Ka san inda ya kamata ka zauna a jirgin sama? - BBC News Hausa",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvy7k5-qfeIaFJ_5h2SIkbTzJQypVnq46Nyw&s",
+      "original": "https://ichef.bbci.co.uk/ace/ws/640/cpsprodpb/1188A/production/_91381817_15b15db8-49f5-46b7-b43f-162a4c0a8141.jpg.webp"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/airplane/ha/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmKSWUyI5RvII-CdTuH7wijGLsPXuh6_zKZg&s",
+      "fuentePagina": "https://fimmagazine.com/jirgin-farko-daga-minna-zuwa-abuja-ya-nuna-ha%C9%97in-gwiwar-gwamnatin-tarayya-da-jihohi-idris/",
+      "titulo": "Jirgin Farko Daga Minna Zuwa Abuja Ya Nuna Haɗin Gwiwar ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmKSWUyI5RvII-CdTuH7wijGLsPXuh6_zKZg&s",
+      "original": "https://fimmagazine.com/wp-content/uploads/2025/04/IMG-20250423-WA0023.jpg"
+    }
+  ]
+}

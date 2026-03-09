@@ -1,0 +1,71 @@
+{
+  "categoria": "horse",
+  "categoriaSlug": "horse",
+  "idioma": "am",
+  "nombreIdioma": "Amharic — አማርኛ",
+  "termino": "ፈረስ",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T20:51:50.920Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "am",
+    "gl": "et"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=%E1%8D%88%E1%88%A8%E1%88%B5&hl=am&gl=et",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/horse/am/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsBu65TVxu8bDSFZDxmq470ldVkAhkUCFKxw&s",
+      "fuentePagina": "https://am.wikipedia.org/wiki/%E1%8D%88%E1%88%A8%E1%88%B5",
+      "titulo": "ውክፔዲያ - ፈረስ",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsBu65TVxu8bDSFZDxmq470ldVkAhkUCFKxw&s",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/f/fd/Mangalarga_Marchador.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/horse/am/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4YlmHzSShVXS4yqE6L45tHXLA3aRIV7nsxA&s",
+      "fuentePagina": "https://www.youtube.com/watch?v=2IHmMhNn-nw",
+      "titulo": "ፈረስ | ከእንሣት አለም - Animal Life || As-Sunnah Kids የአስሱና ልጆች",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4YlmHzSShVXS4yqE6L45tHXLA3aRIV7nsxA&s",
+      "original": "https://i.ytimg.com/vi/2IHmMhNn-nw/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLAvz5Qzb60BwZJehhKhiqI1WSYnvA"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/horse/am/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBpybAgGnZFMmH3KkfWdQaXj39SZ6a4wwpvQ&s",
+      "fuentePagina": "https://www.facebook.com/100064092156005/posts/%E1%8B%A8%E1%8B%88%E1%88%8E-%E1%8D%88%E1%88%A8%E1%88%B5/640810396649113/",
+      "titulo": "የወሎ ፈረስ 🐎🐎🐎",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBpybAgGnZFMmH3KkfWdQaXj39SZ6a4wwpvQ&s",
+      "original": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=640809236649229"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/horse/am/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPEZfFVCZe8wcqKyI74uPX-2CVm7KrSLZ4Zg&s",
+      "fuentePagina": "https://www.instagram.com/p/DFfHgq6iMlM/",
+      "titulo": "ፈረስ እና ፈረሰኞቹ በ85ኛው የአገው ፈረሰኞ በዓል ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPEZfFVCZe8wcqKyI74uPX-2CVm7KrSLZ4Zg&s",
+      "original": "https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3557595236841236254"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/horse/am/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTYOw5RczEhGKoKcJtStpAJW3gbToh6o-dhQ&s",
+      "fuentePagina": "https://play.google.com/store/apps/details?id=com.ransapps.horsesounds&hl=am",
+      "titulo": "የፈረስ ድምፆች - መተግባሪያዎች Google Play ላይ",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTYOw5RczEhGKoKcJtStpAJW3gbToh6o-dhQ&s",
+      "original": "https://play-lh.googleusercontent.com/qcsepTu4ZcBjurYMOolUo2tj3imZYjgoW9q7_ADNuqxf0YnZlAQQSuPEj_0G4oaWBi8"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/horse/am/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_FpI6W_-U2uz_SQWoDNLYbEl0dO6lDwAIsw&s",
+      "fuentePagina": "https://www.ameco.et/70070/",
+      "titulo": "የአጅባር ሜዳ እና የፈረስ ጉግስ ታሪክ!",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_FpI6W_-U2uz_SQWoDNLYbEl0dO6lDwAIsw&s",
+      "original": "https://www.ameco.et/wp-content/uploads/2025/02/476046507_1028339112657346_1011579260553485418_n-696x464.jpg"
+    }
+  ]
+}

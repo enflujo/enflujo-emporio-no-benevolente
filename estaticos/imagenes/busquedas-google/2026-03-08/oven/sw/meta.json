@@ -1,0 +1,71 @@
+{
+  "categoria": "oven",
+  "categoriaSlug": "oven",
+  "idioma": "sw",
+  "nombreIdioma": "Kiswahili",
+  "termino": "tanuru",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:25:29.028Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "sw",
+    "gl": "tz"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=tanuru&hl=sw&gl=tz",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/oven/sw/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBz8tyw5DyZY4yO4-RnCdbnvL-xF61UrE3kg&s",
+      "fuentePagina": "https://www.amshauwezo.co.tz/2022/03/03/hivi-ndivyo-unavyoweza-kukaa-kwenye-moto-wa-tanuru-na-kupata-kile-unachokitafuta/",
+      "titulo": "Hivi Ndivyo Unavyoweza Kukaa Kwenye Moto Wa Tanuru Na Kupata ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBz8tyw5DyZY4yO4-RnCdbnvL-xF61UrE3kg&s",
+      "original": "https://www.amshauwezo.co.tz/wp-content/uploads/2022/03/images-28.jpeg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/oven/sw/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNLujH9C62zsuUL0JyVUNMtaHhJubOLVJHcg&s",
+      "fuentePagina": "http://larusa86.blogspot.com/2013/06/tanuru-la-matofali-ya-kuchoma.html",
+      "titulo": "larusa86: TANURU LA MATOFALI YA KUCHOMA",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNLujH9C62zsuUL0JyVUNMtaHhJubOLVJHcg&s",
+      "original": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgxaN_7mEvZcAQ7eTroSY4N0QX8uAvmwvOrQoUjoomP2XmStmK03UXBR6eairqmVhRavnpya7Y57IyNUuDbIu0viz4YD2GjH1LO1dOcdP9XD5gigGRalLOMRKXoWO43aeCtia34zrDTCpA/s1600/discovery+arusha.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/oven/sw/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcST03VMRiGeP47S42JisFkwe2TBbiGSXCV0TQ&s",
+      "fuentePagina": "https://www.imdb.com/title/tt31106445/",
+      "titulo": "Tanuru (TV Series 2024– ) - IMDb",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcST03VMRiGeP47S42JisFkwe2TBbiGSXCV0TQ&s",
+      "original": "https://m.media-amazon.com/images/M/MV5BNmY3ZjgwNGUtNDBmNC00ODg4LThjNjEtNzRjYzQzOGE5YjBlXkEyXkFqcGc@._V1_.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/oven/sw/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnxXy7FuD6Q9Tqo4zbv0wYr4XOYxH7UCd5zA&s",
+      "fuentePagina": "https://wingulamashahidi.org/2022/01/13/wakati-wakina-shadraka-wanatupwa-katika-tanuru-la-moto-danieli-alikuwa-wapi/",
+      "titulo": "Wakati wakina Shadraka wanatupwa katika tanuru la moto ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnxXy7FuD6Q9Tqo4zbv0wYr4XOYxH7UCd5zA&s",
+      "original": "https://wingulamashahidi.org/wp-content/uploads/2022/01/images-92.jpeg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/oven/sw/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvRgTEYvyVsiSXZNSGh2SC4xZDrAufYaLjyQ&s",
+      "fuentePagina": "https://www.torontech.com/sw/controlled-atmosphere-furnace-tt-af-8-1200/",
+      "titulo": "Tanuru ya angahewa inayodhibitiwa TT-AF-8-1200 | Torontech",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvRgTEYvyVsiSXZNSGh2SC4xZDrAufYaLjyQ&s",
+      "original": "https://torontech-15784.kxcdn.com/cdn/ff/wPBjC6tLbvGLWWFsAWmLo7IwQAUCxyWn8Oif0a50VoA/1766498343/public/styles/large/public/2025-10/controlled-atmosphere-furnace-tt-af-8-12001794046813.webp?itok=BVAqZjBY"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/oven/sw/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREbNBd3gWwzdd2qzZw-QJIEWsSnte3xejtzg&s",
+      "fuentePagina": "https://sw.inductionheattreatment.com/frequency-ya-kati-ya-kutengeneza-tanuru/",
+      "titulo": "Tanuru ya Kubuni ya Masafa ya Kati - KETCHAN Induction",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREbNBd3gWwzdd2qzZw-QJIEWsSnte3xejtzg&s",
+      "original": "https://inductionheattreatment.com/wp-content/uploads/2022/03/Medium-Frequency-Forging-Furnace-1-jpg.webp"
+    }
+  ]
+}

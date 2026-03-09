@@ -1,0 +1,71 @@
+{
+  "categoria": "toaster",
+  "categoriaSlug": "toaster",
+  "idioma": "pt",
+  "nombreIdioma": "Português",
+  "termino": "torradeira",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:26:41.900Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "pt",
+    "gl": "br"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=torradeira&hl=pt&gl=br",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/toaster/pt/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWmfNr5IfX9WRMYD1BG7kHKhXt-LBFyDyazA&s",
+      "fuentePagina": "https://www.dutramaquinas.com.br/p/torradeira-de-paes-800-watts-smart-toast-inox-t-13-t-13-110v?srsltid=AfmBOorqqVXTLNMpikHMw_lRMvrnKQS1Mkr-f_ZxIxr-ADU9BUY8TUPV",
+      "titulo": "Torradeira de pães 800 watts Smart Toast Inox - T-13 110V",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWmfNr5IfX9WRMYD1BG7kHKhXt-LBFyDyazA&s",
+      "original": "https://www.dutramaquinas.com.br/shared/img/produto/alta/420853_torradeira_de_paes_800_watts_smart_toast_inox_t_13.webp"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/toaster/pt/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyxVQgfjN9oYTCGFa7fWlQ2ew9q-mlND2XeQ&s",
+      "fuentePagina": "https://ariete.net.br/loja/cozinha/torradeiras/torradeira-eletrica-ariete-155-vintage-verde-p-2-fatias-6-niveis-de-tostagem-750w/",
+      "titulo": "Torradeira Elétrica Ariete 155 Vintage Verde p/ 2 Fatias 6 ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyxVQgfjN9oYTCGFa7fWlQ2ew9q-mlND2XeQ&s",
+      "original": "https://ariete.net.br/wp-content/uploads/2025/02/00C01551EARBR_01-1.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/toaster/pt/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScmomBqPVeiEYFEW8D9w8daJ99ffUOHqNouw&s",
+      "fuentePagina": "https://www.arno.com.br/torradeira-arno-soleil-com-7-niveis-de-tostagem-preta-spto-127v_7211419303/p?srsltid=AfmBOooLe9aGYFfNE2CUZ1kC-ZL-Qsft1w_z-XU-_IsWmk5Xg1X_bCGK",
+      "titulo": "Torradeira Arno Soleil Preta SPTO | Arno",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScmomBqPVeiEYFEW8D9w8daJ99ffUOHqNouw&s",
+      "original": "https://lojaarno.vtexassets.com/arquivos/ids/166511-800-auto?v=638624405124330000&width=800&height=auto&aspect=true"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/toaster/pt/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScJTexS1_xLxFnADhZlJRptjarTULxcDk4EA&s",
+      "fuentePagina": "https://www.amazon.com.br/Torradeira-Philco-tostagem-PTR03A-fun%C3%A7%C3%B5es/dp/B0DNKRQHXH",
+      "titulo": "Torradeira Philco 7 Níveis de tostagem PTR03A 3 funções 220V :  Amazon.com.br: Cozinha",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScJTexS1_xLxFnADhZlJRptjarTULxcDk4EA&s",
+      "original": "https://m.media-amazon.com/images/I/61lrpNIR+9L.jpg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/toaster/pt/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMurAlPOpUBvPXNipkeNPjK1K2Mder9N5VdQ&s",
+      "fuentePagina": "https://letseatit.com.br/products/torradeira-eletrica-moderna-vermelha-127v-750w-ariete?srsltid=AfmBOoqsfwqsUdmtxMJ8V3k_sSlXs8cZIB04l9DBWfcF16UXhqfRl2xA",
+      "titulo": "Torradeira Elétrica Moderna Vermelha 127V 750W Ariete",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMurAlPOpUBvPXNipkeNPjK1K2Mder9N5VdQ&s",
+      "original": "https://letseatit.com.br/cdn/shop/files/Torradeira-Eletrica-Moderna-Vermelha-220V-750W-Ariete.webp?v=1765859720&width=960"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/toaster/pt/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdVmVNvWQd8V9ZbKYbBHHbLWVpPz1Uw-bS8A&s",
+      "fuentePagina": "https://loja.wap.ind.br/torradeira-eletrica-wap-wte1/p?srsltid=AfmBOoodVnrKHWgYfCuRAvIKE8wld04pLFXRLfq_eBWEFaMFjs83IsjO",
+      "titulo": "Torradeira Elétrica WAP WTE1",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdVmVNvWQd8V9ZbKYbBHHbLWVpPz1Uw-bS8A&s",
+      "original": "https://lojawap.vteximg.com.br/arquivos/Torradeira_produto_com_alimento.png"
+    }
+  ]
+}

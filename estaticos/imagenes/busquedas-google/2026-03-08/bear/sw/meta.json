@@ -1,0 +1,71 @@
+{
+  "categoria": "bear",
+  "categoriaSlug": "bear",
+  "idioma": "sw",
+  "nombreIdioma": "Kiswahili",
+  "termino": "dubu",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T20:54:11.256Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "sw",
+    "gl": "tz"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=dubu&hl=sw&gl=tz",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bear/sw/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4bP6xEZ4dyBQJD5x43Bx60ymn1u2a96eF-A&s",
+      "fuentePagina": "https://sw.wikipedia.org/wiki/Dubu",
+      "titulo": "Dubu - Wikipedia, kamusi elezo huru",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4bP6xEZ4dyBQJD5x43Bx60ymn1u2a96eF-A&s",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/8/82/Medved_mzoo.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bear/sw/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKjqZFa0tKpLaYx-Eyzh7HClHSJNicldFibg&s",
+      "fuentePagina": "https://www.youtube.com/watch?v=-opM33G0t-Q",
+      "titulo": "JE WAJUA ukweli kuhusu dubu barafu? Sehemu ya pili",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKjqZFa0tKpLaYx-Eyzh7HClHSJNicldFibg&s",
+      "original": "https://i.ytimg.com/vi/-opM33G0t-Q/maxresdefault.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bear/sw/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPco40793ldKXcohvGT4GnYv1wrACEai0vBw&s",
+      "fuentePagina": "https://www.facebook.com/swahilicricn/posts/dubu-mnene-ni-dubu-mwenye-afya-zaidi-hifadhi-ya-wanyamapori-ya-marekani-yafanya-/3200324143412210/",
+      "titulo": "Dubu mnene ni dubu mwenye afya zaidi! Hifadhi ya wanyamapori ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPco40793ldKXcohvGT4GnYv1wrACEai0vBw&s",
+      "original": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=3200323956745562"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bear/sw/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmnL3jDGSGP5_4cybxT5HWQ8nC4pE2ymmhPQ&s",
+      "fuentePagina": "https://www.facebook.com/100063755438594/posts/unabiisehemu-ya-pilimnyama-dubudanieli-75natazama-mnyama-mwingine-wa-pili-kama-d/1329482180747031/",
+      "titulo": "UNABII:Sehemu ya pili. MNYAMA DUBU ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmnL3jDGSGP5_4cybxT5HWQ8nC4pE2ymmhPQ&s",
+      "original": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=1329482080747041"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bear/sw/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzXThzQgn285RZqOlN09xIebOAC4xz6k-dyA&s",
+      "fuentePagina": "https://www.bbc.com/swahili/habari-50168898",
+      "titulo": "Mwindaji wa duma aliyekula sehemu za siri za dubu atiwa ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzXThzQgn285RZqOlN09xIebOAC4xz6k-dyA&s",
+      "original": "https://ichef.bbci.co.uk/ace/ws/640/cpsprodpb/15CA6/production/_109345298_gettyimages-1048916330.jpg.webp"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bear/sw/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3aDGItbZUxe0RTZ6HRzoPGv-h2FmNPluXAg&s",
+      "fuentePagina": "https://www.facebook.com/JucoTourismClub/posts/dubu-1-mnyama-mkubwa-wa-mwituni-mwenye-manyoya-mengi-yasiyolaini-na-ambae-asili-/1100838466720851/",
+      "titulo": "Dubu 1. Mnyama mkubwa wa mwituni mwenye manyoya mengi ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3aDGItbZUxe0RTZ6HRzoPGv-h2FmNPluXAg&s",
+      "original": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=1100838373387527"
+    }
+  ]
+}

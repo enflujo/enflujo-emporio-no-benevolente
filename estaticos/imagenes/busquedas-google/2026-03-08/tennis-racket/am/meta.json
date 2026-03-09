@@ -1,0 +1,71 @@
+{
+  "categoria": "tennis racket",
+  "categoriaSlug": "tennis-racket",
+  "idioma": "am",
+  "nombreIdioma": "Amharic — አማርኛ",
+  "termino": "ራኬት",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:05:35.342Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "am",
+    "gl": "et"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=%E1%88%AB%E1%8A%AC%E1%89%B5&hl=am&gl=et",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/tennis-racket/am/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkf0WzocNpttGZZME6VTCqv-bW2ZWYF-jgqQ&s",
+      "fuentePagina": "https://www.hotsionsports.com/am/in-stock-paddle-tennis-racket-carbon-fiber-custom-diamond-shape-padel-racket-with-case-product/",
+      "titulo": "የጅምላ ሽያጭ በስቶክ ፓድል ቴኒስ ራኬት ካርቦን ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkf0WzocNpttGZZME6VTCqv-bW2ZWYF-jgqQ&s",
+      "original": "https://cdnus.globalso.com/hotsionsports/Hfbda0162e4554a868c2241e59ea9510bJ.jpg_960x960.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/tennis-racket/am/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGsP27FDrAvLk1obJ58ULuANic27hlRURQgg&s",
+      "fuentePagina": "https://www.hotsionsports.com/am/tennis-racket-hot-sale-aluminum-team-sport-tennis-racket-product/",
+      "titulo": "የጅምላ ቴኒስ ራኬት ሙቅ ሽያጭ አሉሚኒየም የቡድን ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGsP27FDrAvLk1obJ58ULuANic27hlRURQgg&s",
+      "original": "https://cdnus.globalso.com/hotsionsports/H65eb93fe2663462cb7bd41245fb40fe7H.png_960x960.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/tennis-racket/am/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6_OEe_LmDzAcP7Pb1eJT7_vnbUpfCTqCQlw&s",
+      "fuentePagina": "http://am.precisepackage.com/crossbody-tennis-racket-bag-product/",
+      "titulo": "ቻይና ተሻጋሪ ቴኒስ ራኬት ቦርሳ ማምረት እና ፋብሪካ ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6_OEe_LmDzAcP7Pb1eJT7_vnbUpfCTqCQlw&s",
+      "original": "https://www.precisepackage.com/uploads/449.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/tennis-racket/am/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRumrWa7RC1qFHYNHz33pNJq2Us-KOm4RcLOQ&s",
+      "fuentePagina": "http://am.tiger-bags.com/sports-badminton-tennis-racket-backpack-bag-product/",
+      "titulo": "ሰርቫይቫል ስፖርት የባድሚንተን ቴኒስ ራኬት ቦርሳ ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRumrWa7RC1qFHYNHz33pNJq2Us-KOm4RcLOQ&s",
+      "original": "https://cdn.globalso.com/tiger-bags/HTB1_xBbhKySBuNjy1zdq6xPxFXaK.jpg_720x720q50-300x300.jpg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/tennis-racket/am/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtnmZZH9yBNyiFcyetk6UXbJ5jNr4IERO_rA&s",
+      "fuentePagina": "https://www.hotsionsports.com/am/27-inch-tennis-racket-with-racket-bag-lightweight-tennis-racket-product/",
+      "titulo": "የጅምላ 27 ኢንች ቴኒስ ራኬት ከራኬት ቦርሳ፣ቀላል ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtnmZZH9yBNyiFcyetk6UXbJ5jNr4IERO_rA&s",
+      "original": "https://cdnus.globalso.com/hotsionsports/16704696717.png"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/tennis-racket/am/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLgQAaca--_XsrZanaHbo75Jp1Bzw0wVGxvg&s",
+      "fuentePagina": "https://www.compraenyiwu.com/am/professional-high-quality-table-tennis-racket-product/",
+      "titulo": "የቻይና ፕሮፌሽናል ከፍተኛ ጥራት ያለው የጠረጴዛ ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLgQAaca--_XsrZanaHbo75Jp1Bzw0wVGxvg&s",
+      "original": "https://cdn.globalso.com/compraenyiwu/e360472f-300x300.jpg"
+    }
+  ]
+}

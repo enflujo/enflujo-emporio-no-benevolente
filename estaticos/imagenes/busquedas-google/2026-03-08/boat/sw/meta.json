@@ -1,0 +1,71 @@
+{
+  "categoria": "boat",
+  "categoriaSlug": "boat",
+  "idioma": "sw",
+  "nombreIdioma": "Kiswahili",
+  "termino": "boti",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T20:45:36.372Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "sw",
+    "gl": "tz"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=boti&hl=sw&gl=tz",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/boat/sw/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmP6ABASTHFLpvPR9rP1iFoNu5JMJrS2pgWw&s",
+      "fuentePagina": "https://www.facebook.com/groups/chefatlarge/posts/7565755156846394/",
+      "titulo": "Recipe for delicious Goat Intestine Boti Curry",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmP6ABASTHFLpvPR9rP1iFoNu5JMJrS2pgWw&s",
+      "original": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=7545800685480817"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/boat/sw/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3sqgXrizokU3chOFA1Wy5h_TNzQhrUa6kyQ&s",
+      "fuentePagina": "https://en.wikipedia.org/wiki/Boti",
+      "titulo": "Boti - Wikipedia",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3sqgXrizokU3chOFA1Wy5h_TNzQhrUa6kyQ&s",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/b/bf/Boti_with_coconut_grater.JPG"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/boat/sw/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4cYfr6peH2lSOinLa8AeIkUzU_RV_WA2IWg&s",
+      "fuentePagina": "https://www.youtube.com/watch?v=2GAZ723iV_o",
+      "titulo": "Hyderabadi Style Boti Ka Salan | Spicy Boti ka Salan Recipe | Goat  Intestine Recipe | Boti curry",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4cYfr6peH2lSOinLa8AeIkUzU_RV_WA2IWg&s",
+      "original": "https://i.ytimg.com/vi/2GAZ723iV_o/maxresdefault.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/boat/sw/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZtuUwSmQQi3xAYoCQhe1FU9FvWWx7hMNCbQ&s",
+      "fuentePagina": "https://alaal.in/mutton-boti-tripe1kg-pack/",
+      "titulo": "Mutton Boti / Tripe(1Kg Pack) - Alaal",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZtuUwSmQQi3xAYoCQhe1FU9FvWWx7hMNCbQ&s",
+      "original": "https://alaal.in/wp-content/uploads/2024/06/mutton-boti-1.jpg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/boat/sw/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRr1sd55MgnL5cabJ4Yg8gdUaWSuK5irFIIJQ&s",
+      "fuentePagina": "https://butteroverbae.com/chicken-malai-boti/",
+      "titulo": "Chicken Malai Boti",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRr1sd55MgnL5cabJ4Yg8gdUaWSuK5irFIIJQ&s",
+      "original": "https://butteroverbae.com/wp-content/uploads/2025/04/chicken-malai-boti.jpg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/boat/sw/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShMrAWiYWhfnV2QmAYS8zQ8gSIAODleEcFUQ&s",
+      "fuentePagina": "https://www.facebook.com/groups/chefatlarge/posts/7253503574738222/",
+      "titulo": "Preparation and cooking of Boti curry, a traditional goat ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShMrAWiYWhfnV2QmAYS8zQ8gSIAODleEcFUQ&s",
+      "original": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=7232358696825019"
+    }
+  ]
+}

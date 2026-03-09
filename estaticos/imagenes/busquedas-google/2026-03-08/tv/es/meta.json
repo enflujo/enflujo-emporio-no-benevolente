@@ -1,0 +1,71 @@
+{
+  "categoria": "tv",
+  "categoriaSlug": "tv",
+  "idioma": "es",
+  "nombreIdioma": "Español",
+  "termino": "televisión",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:21:27.543Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "es",
+    "gl": "es"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=televisi%C3%B3n&hl=es&gl=es",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/tv/es/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4XaU-Rh1pyC6IBdBupVou40e7Zgtk5DN_UA&s",
+      "fuentePagina": "https://es.pngtree.com/so/televisi%C3%B3n-de-tubo",
+      "titulo": "Televisión De Tubo PNG Imágenes Y Dibujos Con Fondo ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4XaU-Rh1pyC6IBdBupVou40e7Zgtk5DN_UA&s",
+      "original": "https://png.pngtree.com/png-vector/20250320/ourmid/pngtree-classic-vintage-tv-clipart-old-school-television-png-image_15793935.png"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/tv/es/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFcOIotwQyVNSTP2n00ofMZjA-xpWOjLE5OA&s",
+      "fuentePagina": "https://www.amazon.es/fasient-Inteligente-multifunci%C3%B3n-Entretenimiento-regulations/dp/B08F4YC26F",
+      "titulo": "fasient Televisor LCD HD de 32 Pulgadas, televisión ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFcOIotwQyVNSTP2n00ofMZjA-xpWOjLE5OA&s",
+      "original": "https://m.media-amazon.com/images/I/715KhA-4rRL._AC_UF1000,1000_QL80_.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/tv/es/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJMaOoz9ujn0uSlBRJs_pCljC9ZsT8RI4M4A&s",
+      "fuentePagina": "https://www.abc.es/favorito/electronica/abci-mejor-television-calidad-precio-202203012122_noticia.html",
+      "titulo": "Mejor televisión en calidad precio del 2022: Guía de compra",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJMaOoz9ujn0uSlBRJs_pCljC9ZsT8RI4M4A&s",
+      "original": "https://static.abc.es/media/favorito/2022/03/01/mejor-television-calidad-precio_20220301201917-U14660146830mJe-1248x698@abc.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/tv/es/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNXZKD3BaXFQB3B7zpziJCezZDQ3eTKkN6lw&s",
+      "fuentePagina": "https://es.wikipedia.org/wiki/Televisi%C3%B3n",
+      "titulo": "Televisión - Wikipedia, la enciclopedia libre",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNXZKD3BaXFQB3B7zpziJCezZDQ3eTKkN6lw&s",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/4/40/Cptvdisplay.jpg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/tv/es/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSejRoSa9PHFFrheVlQxMV--aY_kmqNeapMDA&s",
+      "fuentePagina": "https://humanidades.com/television/",
+      "titulo": "Televisión: qué es, historia, tipos y características",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSejRoSa9PHFFrheVlQxMV--aY_kmqNeapMDA&s",
+      "original": "https://humanidades.com/wp-content/uploads/2018/07/television-1-e1572919362655-800x400.jpg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/tv/es/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJFgoPWDGa_wrhue40hL15mJv_xJ8j1rt54Q&s",
+      "fuentePagina": "https://www.freepik.es/vectores/television-pequena/2",
+      "titulo": "Página 2 | Vectores de Television pequena - Descarga ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJFgoPWDGa_wrhue40hL15mJv_xJ8j1rt54Q&s",
+      "original": "https://img.freepik.com/vector-gratis/television-estilo-pop-art-noventa_24877-81774.jpg?semt=ais_rp_50_assets&w=740&q=80"
+    }
+  ]
+}

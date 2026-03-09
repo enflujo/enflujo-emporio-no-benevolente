@@ -1,0 +1,71 @@
+{
+  "categoria": "oven",
+  "categoriaSlug": "oven",
+  "idioma": "qu",
+  "nombreIdioma": "Quechua",
+  "termino": "qoncha",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:25:51.734Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "es",
+    "gl": "pe"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=qoncha&hl=es&gl=pe",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/oven/qu/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrJRpKVF_4TPqFb8gx5_L_5ZDj73l6L6Fdrg&s",
+      "fuentePagina": "https://www.instagram.com/p/Co_OF0etKW4/",
+      "titulo": "Qoncha Raymi es una fiesta en Conchacalla, Anta una vez al ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrJRpKVF_4TPqFb8gx5_L_5ZDj73l6L6Fdrg&s",
+      "original": "https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3044213845724014008"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/oven/qu/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShU_65uq4w4VjTw9t3kngIBcG0nPqIq0KySw&s",
+      "fuentePagina": "https://www.facebook.com/108449273895908/posts/cocina-tradicional-qoncha-donde-se-prepara-la-tradicional-chicha-de-jora-y-la-fr/146459526761549/?locale=es_LA",
+      "titulo": "Cocina tradicional \"Qoncha\", donde se prepara la tradicional ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShU_65uq4w4VjTw9t3kngIBcG0nPqIq0KySw&s",
+      "original": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=146459526761549"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/oven/qu/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnToub_fKofnyRR3WKxTDZHa1sQ2uvH4Z-Tw&s",
+      "fuentePagina": "https://www.tiktok.com/@bernardinocondori1/video/7199658064155266309",
+      "titulo": "Quienes conocen Qoncha 🤠 #pitumarca #cuscotiktok | TikTok",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnToub_fKofnyRR3WKxTDZHa1sQ2uvH4Z-Tw&s",
+      "original": "https://www.tiktok.com/api/img/?itemId=7199658064155266309&location=0&aid=1988"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/oven/qu/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyXgnPFM3PdXQO5iU_Kwznetqa_H3aZa81tg&s",
+      "fuentePagina": "https://www.turismoperuano.com/festival-de-qoncha-raymi-en-cconchacalla-cusco",
+      "titulo": "Festival de Qoncha Raymi en Cconchacalla » Recurso Turístico ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyXgnPFM3PdXQO5iU_Kwznetqa_H3aZa81tg&s",
+      "original": "https://www.turismoperuano.com/wp-content/uploads/festival-de-qoncha-raymi-en-cconchacalla-cusco.jpg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/oven/qu/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMOeB6y-w6Stk-SZRvjUOCZi6QgF_I2eOYAw&s",
+      "fuentePagina": "https://www.facebook.com/MunayQoncha/",
+      "titulo": "Munay Qoncha | Cusco",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMOeB6y-w6Stk-SZRvjUOCZi6QgF_I2eOYAw&s",
+      "original": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=100067836263333"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/oven/qu/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZ_V3TvRZQwgZ5fCO9ejtOigjdzQZrW24T6w&s",
+      "fuentePagina": "https://www.tiktok.com/@yuber_flores1/video/7446999397595909381",
+      "titulo": "Qoncha: El Hongo de Nuestro Cerro en Cusco, Perú",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZ_V3TvRZQwgZ5fCO9ejtOigjdzQZrW24T6w&s",
+      "original": "https://www.tiktok.com/api/img/?itemId=7446999397595909381&location=0&aid=1988"
+    }
+  ]
+}

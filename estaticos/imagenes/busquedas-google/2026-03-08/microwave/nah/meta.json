@@ -1,0 +1,71 @@
+{
+  "categoria": "microwave",
+  "categoriaSlug": "microwave",
+  "idioma": "nah",
+  "nombreIdioma": "Náhuatl",
+  "termino": "microondas",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:25:15.483Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "es",
+    "gl": "mx"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=microondas&hl=es&gl=mx",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/microwave/nah/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUGvzeM1bmNakaPGr0g1H-TrhSvYYrz4c1Jw&s",
+      "fuentePagina": "https://cantia.com.mx/products/horno-microndas-mabe-m9929?srsltid=AfmBOorTPkWgXms1fcL-lkqXIFcZyY8mHdadMvKHzmX-dKcep20foo3T",
+      "titulo": "Horno Microondas Mabe 0.7 cuft espejo",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUGvzeM1bmNakaPGr0g1H-TrhSvYYrz4c1Jw&s",
+      "original": "http://cantia.com.mx/cdn/shop/files/M9929_46446166-422d-4f35-9492-9ee344960839.png?v=1715297096"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/microwave/nah/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNl-ytLRhMGcd3U8fzKV23SF7paT_Eq-8aKQ&s",
+      "fuentePagina": "https://www.rac.mx/producto/horno-de-microondas-panasonic-de-1-3-pies-con-10-niveles-de-potencia/",
+      "titulo": "Horno Microondas Panasonic 1.3 Pies | RAC",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNl-ytLRhMGcd3U8fzKV23SF7paT_Eq-8aKQ&s",
+      "original": "https://www.rac.mx/wp-content/uploads/2024/11/horno-microondas-panasonic-1-3-pies-10-niveles-potencia-2.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/microwave/nah/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGK2t6GrQBbqOcNSfDZlYBcU36wWNFtFYBzg&s",
+      "fuentePagina": "https://chefman.com.mx/products/chefman-horno-de-microondas-de-1-3-cu-digital?srsltid=AfmBOoolRxcEeHCKU_HGyoMgj8EezDb4mzneOmpmdDijo-pms-0-7B1m",
+      "titulo": "Chefman - Horno de microondas De 1.3 Cu. Digital",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGK2t6GrQBbqOcNSfDZlYBcU36wWNFtFYBzg&s",
+      "original": "https://chefman.com.mx/cdn/shop/files/71O6BxwzaNL._AC_SL1500.jpg?v=1723671175&width=900"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/microwave/nah/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQahHOpUE3nWSZdAdg3J3g-mmlR0Mk4r0VQsg&s",
+      "fuentePagina": "https://www.samsung.com/mx/microwave-ovens/solo/mw4000d-grill-solo-mwo-grill-fry-bread-defrost-seamless-and-recessed-handle-design-ms32dg4504agax/?srsltid=AfmBOooVOOkCV25JaaAdMjjOTzHrUgpZUu0OeyZWcKZhDOVMBkCzrMfh",
+      "titulo": "Horno de microondas 1.1 pies Acero Inox Negro | Samsung México",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQahHOpUE3nWSZdAdg3J3g-mmlR0Mk4r0VQsg&s",
+      "original": "https://images.samsung.com/is/image/samsung/p6pim/mx/ms32dg4504agax/gallery/mx-mw4000d-ms32dg4504agax-543042478?$Q90_1248_936_F_PNG$"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/microwave/nah/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8jZSsy4ossGNVxwSlEMVnxfajmHB50LSbww&s",
+      "fuentePagina": "https://www.maytag.mx/microondas-2-2-pies-7umc5225gz/p?srsltid=AfmBOoowmMLppOKWu9SFbP01KAXTnzEca5K2DZI6L5D93pMi-qnR4s89",
+      "titulo": "Microondas 2.2 pies Gris - Maytag México",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8jZSsy4ossGNVxwSlEMVnxfajmHB50LSbww&s",
+      "original": "https://www.maytag.mx/arquivos/ids/155445-auto-auto/7UMC5225GZ-03.jpg?v=638785109495800000"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/microwave/nah/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNQ_YXjVOW-hCxHGLuUTCDai4w_kmLwzbVOQ&s",
+      "fuentePagina": "https://www.liverpool.com.mx/tienda/pdp/horno-de-microondas-convencional-whirlpool-modelo-wm1807b/1109367962",
+      "titulo": "Horno de microondas convencional Whirlpool modelo WM1807B 0.7 pies cúbicos",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNQ_YXjVOW-hCxHGLuUTCDai4w_kmLwzbVOQ&s",
+      "original": "https://ss625.liverpool.com.mx/xl/1109367962.jpg"
+    }
+  ]
+}

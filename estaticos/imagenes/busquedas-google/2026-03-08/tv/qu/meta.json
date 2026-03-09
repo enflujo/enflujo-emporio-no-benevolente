@@ -1,0 +1,71 @@
+{
+  "categoria": "tv",
+  "categoriaSlug": "tv",
+  "idioma": "qu",
+  "nombreIdioma": "Quechua",
+  "termino": "televizion",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:21:18.204Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "es",
+    "gl": "pe"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=televizion&hl=es&gl=pe",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/tv/qu/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNXZKD3BaXFQB3B7zpziJCezZDQ3eTKkN6lw&s",
+      "fuentePagina": "https://es.wikipedia.org/wiki/Televisi%C3%B3n",
+      "titulo": "Televisión - Wikipedia, la enciclopedia libre",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNXZKD3BaXFQB3B7zpziJCezZDQ3eTKkN6lw&s",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/4/40/Cptvdisplay.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/tv/qu/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnvHkicSvcwSkdFKOqhP0LlKMdu2hWVhAGqA&s",
+      "fuentePagina": "https://www.istockphoto.com/es/fotos/television",
+      "titulo": "482.700+ Television Fotografías de stock, fotos e imágenes ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnvHkicSvcwSkdFKOqhP0LlKMdu2hWVhAGqA&s",
+      "original": "https://media.istockphoto.com/id/1395191574/es/foto/pantalla-de-televisi%C3%B3n-led-negra-en-blanco-aislada.jpg?s=612x612&w=0&k=20&c=5x9hgnOmbIvniJnNGf5dTHoBlbGxsLVYe-OWCcidMgE="
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/tv/qu/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKHMkjneeMNl7PZPHLej7U1ESUXvesMRxYQQ&s",
+      "fuentePagina": "https://www.shutterstock.com/es/image-vector/televizion-internet-home-659236441",
+      "titulo": "Televizion Internet Home: vector de stock (libre de regalías ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKHMkjneeMNl7PZPHLej7U1ESUXvesMRxYQQ&s",
+      "original": "https://www.shutterstock.com/shutterstock/photos/659236441/display_1500/stock-vector-televizion-and-internet-at-home-659236441.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/tv/qu/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuKJie0juKWcdhusAQnbewXgPP7ia4c3GcIg&s",
+      "fuentePagina": "https://www.esferize.com/evolucion-del-mundo-de-la-television/",
+      "titulo": "Evolución del mundo de la televisión desde 1926 - Esferize",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuKJie0juKWcdhusAQnbewXgPP7ia4c3GcIg&s",
+      "original": "https://www.esferize.com/wp-content/uploads/2021/11/metaball_3d-retro-tv-2.jpg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/tv/qu/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQH2_hSnUEfcYIFK9bNWLPQbTB-_2aD5OHuig&s",
+      "fuentePagina": "https://www.facebook.com/tvnola/",
+      "titulo": "Televizion | Kenner LA",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQH2_hSnUEfcYIFK9bNWLPQbTB-_2aD5OHuig&s",
+      "original": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=100039501864971"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/tv/qu/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFyFFdYH5kiB1AcYBKbBbnfCJlmUKQQgEneQ&s",
+      "fuentePagina": "https://humanidades.com/television/",
+      "titulo": "Televisión: qué es, historia, tipos y características",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFyFFdYH5kiB1AcYBKbBbnfCJlmUKQQgEneQ&s",
+      "original": "https://humanidades.com/wp-content/uploads/2018/07/television-1-e1572919373410.jpg"
+    }
+  ]
+}

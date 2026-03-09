@@ -1,0 +1,71 @@
+{
+  "categoria": "fork",
+  "categoriaSlug": "fork",
+  "idioma": "zh",
+  "nombreIdioma": "中文",
+  "termino": "叉子",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:08:25.814Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "zh-CN",
+    "gl": "cn"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=%E5%8F%89%E5%AD%90&hl=zh-CN&gl=cn",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/fork/zh/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7X9ipPcEavkPAzhnNUByIJhN-ryIseNPbbg&s",
+      "fuentePagina": "https://zh.wikipedia.org/zh-cn/%E9%A4%90%E5%8F%89",
+      "titulo": "餐叉- 维基百科，自由的百科全书",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7X9ipPcEavkPAzhnNUByIJhN-ryIseNPbbg&s",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Stainless_Steel_Fork.jpg/250px-Stainless_Steel_Fork.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/fork/zh/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6C0P4DcHQ-Dp3l05-Hsr3b5V1qSmX52XUxg&s",
+      "fuentePagina": "https://www.mineminete.com/products/%E6%8A%97%E8%8F%8C%E5%8F%89%E5%AD%90",
+      "titulo": "抗菌叉子",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6C0P4DcHQ-Dp3l05-Hsr3b5V1qSmX52XUxg&s",
+      "original": "https://shoplineimg.com/5a153786552115d6050001ad/5bf3d39bd4f341001388e814/800x.jpg?"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/fork/zh/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfeHUEdSG8TCywM73IEZpHMQB39h-L2PxFWw&s",
+      "fuentePagina": "https://www.jshoppers.com/zh-cn/product/W09151",
+      "titulo": "mA 叉子| JSHOPPERS.com",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfeHUEdSG8TCywM73IEZpHMQB39h-L2PxFWw&s",
+      "original": "https://navibird-cdn-cxgsbjdmfza2adhm.z01.azurefd.net/imgshop/1049-2015-I/pb/W09151pb01.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/fork/zh/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGmhKZxMrKVDn0jb_BRLxYneuSrtmTGwcUew&s",
+      "fuentePagina": "https://cn.dreamstime.com/%E5%BA%93%E5%AD%98%E5%9B%BE%E7%89%87-%E5%8F%89%E5%AD%90-image25421384",
+      "titulo": "Fork 库存照片. 图片包括有金属, 厨具, 烹调, 炊具, 叉子, 发光 ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGmhKZxMrKVDn0jb_BRLxYneuSrtmTGwcUew&s",
+      "original": "https://thumbs.dreamstime.com/b/%E5%8F%89%E5%AD%90-25421384.jpg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/fork/zh/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1-vfjKyPqLpwXb-WDGmQWo8JrJjfMwv1UYA&s",
+      "fuentePagina": "https://www.da-sing.com/products_detail/647?srsltid=AfmBOorQ689CruE6yq3pDB9TgmA7-WFvTQikwmBFvLWPyO5Dp3G8-SyU",
+      "titulo": "叉子/西餐叉【100入】 - PRODUCT產/ 品/ 介/ 紹- 大興包裝｜富田 ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1-vfjKyPqLpwXb-WDGmQWo8JrJjfMwv1UYA&s",
+      "original": "https://www.da-sing.com/upload/images/0zzfdg-a.jpg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/fork/zh/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsIiGaF4MHyp-26SB7iFtwxU7eaq0qCUFhHw&s",
+      "fuentePagina": "https://www.garboflatware.com/zh-CN/silver-fork/factory-price-430-stainless-steel-fork-flatware-for-home-hotel.html",
+      "titulo": "工厂价430 不锈钢叉子餐具，适用于家庭酒店制造商美国",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsIiGaF4MHyp-26SB7iFtwxU7eaq0qCUFhHw&s",
+      "original": "https://www.garboflatware.com/data/watermark/20250322/67de219e93c89.jpg"
+    }
+  ]
+}

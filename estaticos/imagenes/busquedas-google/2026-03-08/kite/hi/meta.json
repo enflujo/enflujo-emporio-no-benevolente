@@ -1,0 +1,71 @@
+{
+  "categoria": "kite",
+  "categoriaSlug": "kite",
+  "idioma": "hi",
+  "nombreIdioma": "हिन्दी",
+  "termino": "पतंग",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:02:18.844Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "hi",
+    "gl": "in"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=%E0%A4%AA%E0%A4%A4%E0%A4%82%E0%A4%97&hl=hi&gl=in",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/kite/hi/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtOkmgKI0lH3oJNfmfz9QDsQJNV0zV04_wug&s",
+      "fuentePagina": "https://www.amazon.in/-/hi/Ruhani-%E0%A4%95%E0%A4%BE%E0%A4%97%E0%A4%9C-%E0%A4%AA%E0%A4%A4%E0%A4%82%E0%A4%97-%E0%A4%AC%E0%A4%A1%E0%A4%BC%E0%A5%87-%E0%A4%AC%E0%A4%9A%E0%A5%8D%E0%A4%9A%E0%A5%87/dp/B0C4TWC76Q",
+      "titulo": "Ruhani कागज पतंग पतंग बड़े आकार की ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtOkmgKI0lH3oJNfmfz9QDsQJNV0zV04_wug&s",
+      "original": "https://m.media-amazon.com/images/I/71wAUbrzL0L.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/kite/hi/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTk5fN6v6U2GivAL-7ijWzMPsf4nsprjH5stA&s",
+      "fuentePagina": "https://www.amazon.in/-/hi/Yamuna-Patang-%E0%A4%AA%E0%A4%A4%E0%A4%82%E0%A4%97-%E0%A4%91%E0%A4%B0%E0%A5%87%E0%A4%82%E0%A4%9C-%E0%A4%B8%E0%A4%AB%E0%A4%BC%E0%A5%87%E0%A4%A6/dp/B0196FEIM0",
+      "titulo": "Yamuna Patang पतंग, 20 का सेट (ऑरेंज ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTk5fN6v6U2GivAL-7ijWzMPsf4nsprjH5stA&s",
+      "original": "https://m.media-amazon.com/images/I/713KsFijWkL.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/kite/hi/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAPjfdEYV9qM5UU3r9Gijc7w5GvhOosavEPg&s",
+      "fuentePagina": "https://bharatdiscovery.org/india/%E0%A4%AA%E0%A4%A4%E0%A4%82%E0%A4%97",
+      "titulo": "पतंग - भारतकोश, ज्ञान का हिन्दी ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAPjfdEYV9qM5UU3r9Gijc7w5GvhOosavEPg&s",
+      "original": "https://bharatdiscovery.org/w/images/thumb/b/b1/Kite.jpg/250px-Kite.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/kite/hi/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRG_sBjw10l5ICqVQ2Oahd6f0OjTPLNy_DDyg&s",
+      "fuentePagina": "https://www.instagram.com/p/DDZ0C6zSa6T/",
+      "titulo": "तो देखिये कैसे एक 10 रुपये वाली ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRG_sBjw10l5ICqVQ2Oahd6f0OjTPLNy_DDyg&s",
+      "original": "https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3520073473039376813"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/kite/hi/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgkN2zYbDd0iifqXq33eczCm3ztymp4tIqtQ&s",
+      "fuentePagina": "https://www.youtube.com/watch?v=nXOHSbOiTM0",
+      "titulo": "उत्तरायन पर पतंग का चित्र बनाना सीखें | Kite Drawing | How to Draw a Kite  very easy step by step",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgkN2zYbDd0iifqXq33eczCm3ztymp4tIqtQ&s",
+      "original": "https://i.ytimg.com/vi/nXOHSbOiTM0/maxresdefault.jpg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/kite/hi/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQI3w6jbtDns_-xccCrraxvvrM3_Zczy9C-Zg&s",
+      "fuentePagina": "https://www.amazon.in/-/hi/%E0%A4%AA%E0%A4%A4%E0%A4%82%E0%A4%97%E0%A4%A1%E0%A5%8B%E0%A4%B0%E0%A5%80-%E0%A4%9A%E0%A5%80%E0%A4%B2-%E0%A4%AA%E0%A4%A4%E0%A4%82%E0%A4%97-60-%E0%A4%AA%E0%A5%88%E0%A4%95/dp/B07NGTWKMH",
+      "titulo": "पतंगडोरी चील पतंग - 60 पतंग का पैक ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQI3w6jbtDns_-xccCrraxvvrM3_Zczy9C-Zg&s",
+      "original": "https://m.media-amazon.com/images/I/81DIhaAi0wL._AC_UF1000,1000_QL80_.jpg"
+    }
+  ]
+}

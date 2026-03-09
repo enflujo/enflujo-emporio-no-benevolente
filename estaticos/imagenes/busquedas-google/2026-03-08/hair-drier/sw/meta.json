@@ -1,0 +1,71 @@
+{
+  "categoria": "hair drier",
+  "categoriaSlug": "hair-drier",
+  "idioma": "sw",
+  "nombreIdioma": "Kiswahili",
+  "termino": "dirayi ya nywele",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:31:32.805Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "sw",
+    "gl": "tz"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=dirayi%20ya%20nywele&hl=sw&gl=tz",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/hair-drier/sw/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQj-qIiavYJnZFkVEDu7vCr6GytdOl6X8tMiA&s",
+      "fuentePagina": "https://www.instagram.com/popular/draya-ya-nywele/",
+      "titulo": "Draya Ya Nywele",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQj-qIiavYJnZFkVEDu7vCr6GytdOl6X8tMiA&s",
+      "original": "https://lookaside.fbsbx.com/lookaside/crawler/instagram/DQRegRSjM3M/0/image.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/hair-drier/sw/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhWocvUNwaB7sLlkwH_LqpyUbEVeWzVmYZ_g&s",
+      "fuentePagina": "https://www.youtube.com/watch?v=AiFWnS4ZrCw",
+      "titulo": "Kunyoosha nywele na DRAYA LA MKONO na KU MASSAGE NGOZI YA KICHWA |How to  massage headskin",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhWocvUNwaB7sLlkwH_LqpyUbEVeWzVmYZ_g&s",
+      "original": "https://i.ytimg.com/vi/AiFWnS4ZrCw/maxresdefault.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/hair-drier/sw/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTaiqTZR8eYmFUrhTuKtfoNPYPV5BDgnAEVRA&s",
+      "fuentePagina": "https://www.instagram.com/reel/DTQnRcAiCnN/",
+      "titulo": "Nywele zipo babes tunafanya delivary dar es saalam na mikoa yote ya TZ kwa  uaminifu karibuni, 0687816269",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTaiqTZR8eYmFUrhTuKtfoNPYPV5BDgnAEVRA&s",
+      "original": "https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3805714407246801357"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/hair-drier/sw/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIc4IUArCMvwM1XCbcdWM0qufLawt43o9A5w&s",
+      "fuentePagina": "https://www.instagram.com/p/DEx2Yqbu0BW/",
+      "titulo": "Dawa ya nywele ndefu inafanya nywele yako kujaa na kurefuka ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIc4IUArCMvwM1XCbcdWM0qufLawt43o9A5w&s",
+      "original": "https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3544853571058745430"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/hair-drier/sw/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4TS8ThyBIjsDxB4J6LCWfQ1n5NNbArqqDDQ&s",
+      "fuentePagina": "https://www.instagram.com/p/DSFRJ3TCMKv/",
+      "titulo": "HAIR @darlinghairtanzania JINSI YA KUSUKA NYWELE HII ANGALIA ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4TS8ThyBIjsDxB4J6LCWfQ1n5NNbArqqDDQ&s",
+      "original": "https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3784506491475115396"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/hair-drier/sw/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFSf9_VzpdEmOkfJitkU5o8N94UHxCC3uyAA&s",
+      "fuentePagina": "https://www.youtube.com/watch?v=1YzTGpCiBGg",
+      "titulo": "jinsi ya KURETOUCH NYWELE na DAWA YA RADIANT INAYOKUZA NYWELE NA KUZIJAZA✅",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFSf9_VzpdEmOkfJitkU5o8N94UHxCC3uyAA&s",
+      "original": "https://i.ytimg.com/vi/1YzTGpCiBGg/maxresdefault.jpg"
+    }
+  ]
+}

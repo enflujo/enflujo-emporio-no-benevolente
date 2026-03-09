@@ -1,0 +1,71 @@
+{
+  "categoria": "baseball glove",
+  "categoriaSlug": "baseball-glove",
+  "idioma": "gn",
+  "nombreIdioma": "Guaraní",
+  "termino": "guante",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:03:47.804Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "es",
+    "gl": "py"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=guante&hl=es&gl=py",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/baseball-glove/gn/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDoXj9Jm4Clj8kijgZ-OnTA5DRFOG1S2aMVQ&s",
+      "fuentePagina": "https://tiendapetersen.com.py/products/guantes-de-latex-para-limpieza-pretul-talla-grande?srsltid=AfmBOoroR6_9cQE5tx8eMp-IBlmlrvtbG9BZb5FACTZSmnb7hKx7KpTy",
+      "titulo": "Guantes de látex para limpieza Pretul, talla Grande",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDoXj9Jm4Clj8kijgZ-OnTA5DRFOG1S2aMVQ&s",
+      "original": "http://tiendapetersen.com.py/cdn/shop/products/TR23261-1.jpg?v=1756907209"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/baseball-glove/gn/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTe8pAuvMQjRnYa69TDWoSj24yknCvhlrswpg&s",
+      "fuentePagina": "https://www.elmohicano.com.py/products/guante-truper-nitrilo-13294",
+      "titulo": "GUANTE TRUPER NITRILO 13294 – MMG IMPORT SA",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTe8pAuvMQjRnYa69TDWoSj24yknCvhlrswpg&s",
+      "original": "http://www.elmohicano.com.py/cdn/shop/files/GU-122.jpg?v=1718312691"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/baseball-glove/gn/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRm7rwMAGlcrBiLzN9crrmnitstfybHsGdJiw&s",
+      "fuentePagina": "https://garimport.com.py/tienda/guantes/generales/guante-tejido-con-palma-de-latex/?srsltid=AfmBOopZHktDm-wLiu6q31JVb-Jn6Z7-AtYmfWqPzwWNMlJg4Uvfweh2",
+      "titulo": "GUANTE PALMA DE GOMA - Garimport",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRm7rwMAGlcrBiLzN9crrmnitstfybHsGdJiw&s",
+      "original": "https://garimport.com.py/wp-content/uploads/2022/03/7032.png"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/baseball-glove/gn/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTn3vY6fwscjzfePNrIC0uLVE869BNpL5xDbA&s",
+      "fuentePagina": "https://www.semar.com.py/producto/GG600XL/guantes-de-nitrilo-ge-desechables-tamano-xl-azul?srsltid=AfmBOoqZG5k3fJxeWptmTEmN_j6hyETHJ7Ts1JmKuORJlOcar7hQZYys",
+      "titulo": "Guantes de Nitrilo GE desechables Tamaño XL - AZUL",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTn3vY6fwscjzfePNrIC0uLVE869BNpL5xDbA&s",
+      "original": "https://www.semar.com.py/storage/sku/general-electric-guantes-guantes-de-nitrilo-desechables-tamano-m-azul-1-1-1713282035.jpg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/baseball-glove/gn/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRop0y9vsPaUXIhqZSzqdc5CInrYUmdmXDRwg&s",
+      "fuentePagina": "https://www.casadeloscompresores.com.py/ProdutoId-7141,366/FERRETERIA/Equipo-De-Seguridad/Guantes/GUANTE-PMECANICO-PU-NEGRO-T09G.html?srsltid=AfmBOoqQEHSzvHj93mZddeesQELxbg5mHUAn7IwBcWgy5EPi7-xedoSa",
+      "titulo": "GUANTE P/MECANICO PU NEGRO T.09G - KALIPSO - CASA DE LOS ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRop0y9vsPaUXIhqZSzqdc5CInrYUmdmXDRwg&s",
+      "original": "https://www.casadeloscompresores.com.py/files/pro_11828_g.jpg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/baseball-glove/gn/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_EX-y0VV2EJ5dfIE6-U6BdAo4z3iHl15jyQ&s",
+      "fuentePagina": "https://www.semar.com.py/producto/GG215MC/guante-recubierto-de-nitrilo-m?srsltid=AfmBOoocVpY2N1rQJPSUJ2D17QHz1CtgfvkimihPExtS20qkkI4tFBUR",
+      "titulo": "Guante Recubierto De Nitrilo M",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_EX-y0VV2EJ5dfIE6-U6BdAo4z3iHl15jyQ&s",
+      "original": "https://www.semar.com.py/storage/sku/best-value-guantes-guante-recubierto-de-nitrilo-l-1-1-1644924043.jpg"
+    }
+  ]
+}

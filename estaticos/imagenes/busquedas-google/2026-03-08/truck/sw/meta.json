@@ -1,0 +1,71 @@
+{
+  "categoria": "truck",
+  "categoriaSlug": "truck",
+  "idioma": "sw",
+  "nombreIdioma": "Kiswahili",
+  "termino": "lori",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T20:44:56.425Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "sw",
+    "gl": "tz"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=lori&hl=sw&gl=tz",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/truck/sw/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTScO3UKIEJ_cSu0udqmW4jG0W8E8ACDCnfAA&s",
+      "fuentePagina": "https://techcrunch.com/2019/11/08/african-logistics-startup-lori-systems-raises-series-a-led-by-chinese-investors/",
+      "titulo": "African logistics startup Lori Systems raises Series A led ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTScO3UKIEJ_cSu0udqmW4jG0W8E8ACDCnfAA&s",
+      "original": "https://techcrunch.com/wp-content/uploads/2019/11/74209721_977752739284187_1199095907732160512_o.jpg?w=960"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/truck/sw/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQK0zR-wLeOmv8VXKvrtemPn6zsJO0eUrTaPg&s",
+      "fuentePagina": "https://www.onnfatt.com.my/showproducts/productid/4760327/cid/460350/isuzu-nkr55ueeh-lori-28m-10feet-5ton/",
+      "titulo": "ISUZU NKR55UEEH LORI 2.8(M) 10FEET 5TON Commercial Vehicle ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQK0zR-wLeOmv8VXKvrtemPn6zsJO0eUrTaPg&s",
+      "original": "https://cdn1.npcdn.net/images/a6e9366ea98403553d7d20e7cbee9477_1702285147.webp?md5id=26e7a304ed45698a4ce9dce1a964daf7&new_width=1000&new_height=1000&size=max&w=1703560694&from=jpeg&type=9"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/truck/sw/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSr3TnYDKLZ8eC4vwhXKHNAagCwFIwInuSuUA&s",
+      "fuentePagina": "https://nl.wikipedia.org/wiki/Lori%27s_en_galago%27s",
+      "titulo": "Lori's en galago's - Wikipedia",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSr3TnYDKLZ8eC4vwhXKHNAagCwFIwInuSuUA&s",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/b/b8/Sri_Lankan_Slender_Loris_1.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/truck/sw/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSA1g17tSHTHBDv09akqRPNhu4CcIn9UlgeGA&s",
+      "fuentePagina": "https://www.isuzujp.com/sw/bidhaa/lori-la-isuzu-nkr-8000l-lori-la-maziwa/",
+      "titulo": "ISUZU Nkr 8000L Lori Tanker Truck - Mtengenezaji wa Malori ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSA1g17tSHTHBDv09akqRPNhu4CcIn9UlgeGA&s",
+      "original": "https://www.isuzujp.com/wp-content/uploads/2021/08/ISUZU-Nkr-8000L-Milk-Tanker-Truck.webp"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/truck/sw/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3RC0qy_92x6XRDjEPAQ4fNcWKVX7FpNlZ6A&s",
+      "fuentePagina": "https://www.isuzuvehicles.com/sw/product-category/isuzu-dump-truck/",
+      "titulo": "Lori la Taka la ISUZU, Lori la Tipper, Ndogo Linauzwa ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3RC0qy_92x6XRDjEPAQ4fNcWKVX7FpNlZ6A&s",
+      "original": "https://www.isuzuvehicles.com/wp-content/uploads/2025/12/ISUZU-FTR-8-CBM-Heavy-Duty-Dump-Truck-Main-600x450.jpg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/truck/sw/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSe-KFEYGQgetd8qoYj1vpxUgZkwkXUi28phQ&s",
+      "fuentePagina": "https://www.chinatanktruck.com/sw/what-is-a-fuel-lorry-called/",
+      "titulo": "Lori ya Mafuta Inaitwaje? - Lori la tanki la China",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSe-KFEYGQgetd8qoYj1vpxUgZkwkXUi28phQ&s",
+      "original": "https://www.chinatanktruck.com/wp-content/uploads/SHACMAN-X3000-32000-Liters-Fuel-Tank-Lorry-8-800x800.jpg?v=1763603454"
+    }
+  ]
+}

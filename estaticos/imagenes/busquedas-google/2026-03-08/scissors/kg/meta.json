@@ -1,0 +1,71 @@
+{
+  "categoria": "scissors",
+  "categoriaSlug": "scissors",
+  "idioma": "kg",
+  "nombreIdioma": "Kikongo",
+  "termino": "ciseaux",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:30:16.294Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "fr",
+    "gl": "cd"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=ciseaux&hl=fr&gl=cd",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/scissors/kg/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0DGqB-J7Np0DkURlqkkCXeWbTGGQCMhCwMQ&s",
+      "fuentePagina": "https://www.geant-beaux-arts.fr/ciseaux-ecolier.html",
+      "titulo": "Ciseaux écolier | Le Géant des Beaux-Arts",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0DGqB-J7Np0DkURlqkkCXeWbTGGQCMhCwMQ&s",
+      "original": "https://images.geant-beaux-arts.fr/out/pictures/generated/1500_1500/388056/Ciseaux+%C3%A9colier.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/scissors/kg/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5yOeY9k0zrq4IIueP78wBv6G2rFhkbz3W1A&s",
+      "fuentePagina": "https://lesciseauxmagiques.fr/ciseaux/ciseaux-de-couture-23-cm-noir-milward-9819.html",
+      "titulo": "Ciseaux de Couture 23 cm Noir - Milward | Les Ciseaux Magiques",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5yOeY9k0zrq4IIueP78wBv6G2rFhkbz3W1A&s",
+      "original": "https://lesciseauxmagiques.fr/66704-large_default/ciseaux-de-couture-23-cm-noir-milward.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/scissors/kg/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6vSOdhUOhLRaUTF6X3umvWUVLeTbci8YDJQ&s",
+      "fuentePagina": "https://www.gerstaecker.ch/fr/Ciseaux-pour-enfants-a-bout-pointu.html",
+      "titulo": "Ciseaux pour enfants à bout pointu",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6vSOdhUOhLRaUTF6X3umvWUVLeTbci8YDJQ&s",
+      "original": "https://images.gerstaecker.ch/out/pictures/generated/1500_1500/370221/Ciseaux+pour+enfants+%C3%A0+bout+pointu.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/scissors/kg/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHvJ5mbpWeTiuEg3kRS6vu3Jm6UV8lLwl1vQ&s",
+      "fuentePagina": "https://www.labeautepro.fr/ciseaux-droit-droitier-taille-55.html",
+      "titulo": "Ciseaux droit droitier taille 5.5 - La Beauté ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHvJ5mbpWeTiuEg3kRS6vu3Jm6UV8lLwl1vQ&s",
+      "original": "https://www.labeautepro.fr/upload/image/ciseaux-droit-droitier-taille-55---p-image-32352-grande.jpg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/scissors/kg/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXNZJsrlgTIr9WDUGYhDrt7lfslW0m-sy6zQ&s",
+      "fuentePagina": "https://www.fiducial-office-solutions.fr/paire-ciseaux-bout-rond-13-cm-p-106469.html?srsltid=AfmBOoplqJfEgNEz9YPkn13axWsa93ubgm6HSa8T0BHSmWsiFxQLORYh",
+      "titulo": "Ciseaux à bouts ronds",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXNZJsrlgTIr9WDUGYhDrt7lfslW0m-sy6zQ&s",
+      "original": "https://www.fiducial-office-solutions.fr/INTERSHOP/static/WFS/FOS-FR-Site/-/FOS/fr_FR/L/106469/106469_a.webp"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/scissors/kg/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRoJ5O9Njk2pWcALe25qjiSooCyH7EefClIvg&s",
+      "fuentePagina": "https://www.scoleo.fr/ciseaux-32026.html",
+      "titulo": "Ciseaux",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRoJ5O9Njk2pWcALe25qjiSooCyH7EefClIvg&s",
+      "original": "https://www.scoleo.fr/publicmedia/formatted/580/397/98/fr/2694100-ciseaux-pour-droitier-ciseaux-d-ecolier-de-4-a-10-ans-1.jpg;maxh=260,maxw=260.jpg"
+    }
+  ]
+}

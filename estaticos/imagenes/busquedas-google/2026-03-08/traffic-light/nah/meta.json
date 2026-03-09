@@ -1,0 +1,71 @@
+{
+  "categoria": "traffic light",
+  "categoriaSlug": "traffic-light",
+  "idioma": "nah",
+  "nombreIdioma": "Náhuatl",
+  "termino": "semáforo",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T20:46:45.474Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "es",
+    "gl": "mx"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=sem%C3%A1foro&hl=es&gl=mx",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/traffic-light/nah/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4EaGvFJ3pUw7qz17uRZxL27-KNgRtsUut0w&s",
+      "fuentePagina": "https://es.wikipedia.org/wiki/Sem%C3%A1foro",
+      "titulo": "Semáforo - Wikipedia, la enciclopedia libre",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4EaGvFJ3pUw7qz17uRZxL27-KNgRtsUut0w&s",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Semaforo.png/250px-Semaforo.png"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/traffic-light/nah/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRR9jx86PjWfPTdG2o5H4LlEjFryRAV9-yM8g&s",
+      "fuentePagina": "https://www.segurmaniazurekin.eus/sabias-que/sabias-que-el-semaforo-tiene-mas-de-106-anos/",
+      "titulo": "Sabías que el semáforo tiene más de 106 años? - Segurmanía",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRR9jx86PjWfPTdG2o5H4LlEjFryRAV9-yM8g&s",
+      "original": "https://www.segurmaniazurekin.eus/a/2021/03/segurmania_semaforo_aniversario_destacada.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/traffic-light/nah/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwQC7WW8nqhObX2rbw0oORdjT62Hx2UUq2GA&s",
+      "fuentePagina": "https://www.freepik.es/fotos-vectores-gratis/semaforo",
+      "titulo": "Imágenes de Semaforo - Descarga gratuita en Freepik",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwQC7WW8nqhObX2rbw0oORdjT62Hx2UUq2GA&s",
+      "original": "https://img.freepik.com/vector-gratis/semaforos-realistas_1284-4985.jpg?semt=ais_rp_50_assets&w=740&q=80"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/traffic-light/nah/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTU2YD6bjLv4tSKvw9kwyG72eKxRsWWYz-gGw&s",
+      "fuentePagina": "https://www.psicoayudainfantil.com/control-impulsos-tecnica-del-semaforo/",
+      "titulo": "Control de impulsos: La técnica del semáforo - Psico Ayuda ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTU2YD6bjLv4tSKvw9kwyG72eKxRsWWYz-gGw&s",
+      "original": "https://www.psicoayudainfantil.com/wp-content/uploads/2017/02/Psico-Ayuda-Infantil-Control-de-impulsos-T%C3%A9cnica-del-sem%C3%A1foro-portada.jpg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/traffic-light/nah/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqPloeThSTsSOcXHm2M4HLlbLX-IL4fFw84Q&s",
+      "fuentePagina": "https://www.amazon.com.mx/Industrial-Rojo-Amarillo-Verde-Se%C3%B1alizaci%C3%B3n-Autom%C3%B3viles-Impermeable/dp/B0CD59FFV6",
+      "titulo": "200mm Semáforo Industrial Tricolor, Rojo-Amarillo-Verde ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqPloeThSTsSOcXHm2M4HLlbLX-IL4fFw84Q&s",
+      "original": "https://m.media-amazon.com/images/I/710OhYL4DoL.jpg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/traffic-light/nah/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQWIPUz0J9g7EU8KRZab9BTTzvo5II9b34ew&s",
+      "fuentePagina": "https://es.dreamstime.com/icono-de-sem%C3%A1foro-se%C3%B1al-carretera-la-ciudad-dibujos-animados-caricatura-aislada-en-fondo-blanco-image265545939",
+      "titulo": "Icono De Semáforo. Señal De Carretera De La Ciudad De ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQWIPUz0J9g7EU8KRZab9BTTzvo5II9b34ew&s",
+      "original": "https://thumbs.dreamstime.com/z/icono-de-sem%C3%A1foro-se%C3%B1al-carretera-la-ciudad-dibujos-animados-caricatura-aislada-en-fondo-blanco-265545939.jpg"
+    }
+  ]
+}

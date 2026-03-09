@@ -1,0 +1,71 @@
+{
+  "categoria": "parking meter",
+  "categoriaSlug": "parking-meter",
+  "idioma": "hi",
+  "nombreIdioma": "हिन्दी",
+  "termino": "पार्किंग मीटर",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T20:48:40.462Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "hi",
+    "gl": "in"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=%E0%A4%AA%E0%A4%BE%E0%A4%B0%E0%A5%8D%E0%A4%95%E0%A4%BF%E0%A4%82%E0%A4%97%20%E0%A4%AE%E0%A5%80%E0%A4%9F%E0%A4%B0&hl=hi&gl=in",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/parking-meter/hi/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSe4tQGTSTdoKmICEriJq_1SW0xefyDe7s_A&s",
+      "fuentePagina": "https://www.collinsdictionary.com/dictionary/english/parking-meter",
+      "titulo": "PARKING METER definition and meaning | Collins English ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSe4tQGTSTdoKmICEriJq_1SW0xefyDe7s_A&s",
+      "original": "https://www.collinsdictionary.com/images/full/parkingmeter_83708620_1000.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/parking-meter/hi/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBtcbovn2ww9Z0nzSJi7z41aFOBtt43OYd0w&s",
+      "fuentePagina": "https://www.coloradoan.com/story/life/2023/05/02/old-town-fort-collins-last-parking-meter-gets-a-makeover/70170836007/",
+      "titulo": "Old Town Fort Collins' last parking meter gets a makeover",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBtcbovn2ww9Z0nzSJi7z41aFOBtt43OYd0w&s",
+      "original": "https://www.coloradoan.com/gcdn/presto/2023/05/01/PFTC/b0cf945f-ae99-4708-9d5d-c958fddddd2a-Parking_meter.jpg?width=1512&height=2016&fit=crop&format=pjpg&auto=webp"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/parking-meter/hi/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdoLOF5ie8zkxygtg9y_OOm4dsH57avHkzXg&s",
+      "fuentePagina": "https://en.wikipedia.org/wiki/Parking_meter",
+      "titulo": "Parking meter - Wikipedia",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdoLOF5ie8zkxygtg9y_OOm4dsH57avHkzXg&s",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Parking_Meter_Front.JPG"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/parking-meter/hi/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8Mjxiza52tJrYMPALJmRFJyNgPOVoRgWFbg&s",
+      "fuentePagina": "https://www.northsydney.nsw.gov.au/parking-meters/paying-parking-meters/2",
+      "titulo": "Parking meter payments and receipts – North Sydney Council",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8Mjxiza52tJrYMPALJmRFJyNgPOVoRgWFbg&s",
+      "original": "https://www.northsydney.nsw.gov.au/images/parking_meter.jpeg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/parking-meter/hi/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsIVS514gA2o5qD-VtLbmY__-chxpTYvlU3A&s",
+      "fuentePagina": "https://www.arlingtonva.us/Government/Programs/Transportation/Parking/Paying-for-Parking",
+      "titulo": "Paying for Parking – Official Website of Arlington County ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsIVS514gA2o5qD-VtLbmY__-chxpTYvlU3A&s",
+      "original": "https://www.arlingtonva.us/files/sharedassets/public/v/1/transportation/images/meter-for-people-with-disabilities-e1598021807575.jpg?w=1080"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/parking-meter/hi/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgBy6gGQW1e923Y2S-IkhmQGDBCSfZlDqlhw&s",
+      "fuentePagina": "https://www.parkingindustry.ca/parking-technology/smart-parking-technology-determining-the-right-fit-for-your-operation",
+      "titulo": "Smart Parking Technology: Determining the Right Fit for Your ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgBy6gGQW1e923Y2S-IkhmQGDBCSfZlDqlhw&s",
+      "original": "https://images.squarespace-cdn.com/content/v1/5e2f2c9ca1e8e420307e5fb0/1683647882998-IV1MCTYU712G7XBCN0HK/Four+different+parking+meters+in+a+surface+parking+lot.png"
+    }
+  ]
+}

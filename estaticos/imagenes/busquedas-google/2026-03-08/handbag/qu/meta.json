@@ -1,0 +1,71 @@
+{
+  "categoria": "handbag",
+  "categoriaSlug": "handbag",
+  "idioma": "qu",
+  "nombreIdioma": "Quechua",
+  "termino": "wayaka",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T20:57:51.529Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "es",
+    "gl": "pe"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=wayaka&hl=es&gl=pe",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/handbag/qu/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKplaVnr2ldZkH1P3ZzXTkj9OvVvJfkIldJA&s",
+      "fuentePagina": "https://www.blue-oceans.com/index.php/environment/plant-files/guaiacum-officinale-wayaka",
+      "titulo": "Guaiacum Officinale - Wayaka",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKplaVnr2ldZkH1P3ZzXTkj9OvVvJfkIldJA&s",
+      "original": "https://www.blue-oceans.com/images/environment/plantfiles/guaiacum-officinale-wayaka-seeds.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/handbag/qu/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVyLogZA_PPRuDvZuu5rrs_d5LtBIwRyEfew&s",
+      "fuentePagina": "https://bonaireisland.com/es/experiencias/playas/playas/wayaka/",
+      "titulo": "Wayaka | Island of Bonaire",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVyLogZA_PPRuDvZuu5rrs_d5LtBIwRyEfew&s",
+      "original": "https://bonaireisland.com/wp-content/uploads/2022/08/wayaka1-1-xl_2000x850.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/handbag/qu/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBg1pqVQqGCZV59YvT3JxnBhbz8nWkjuySqw&s",
+      "fuentePagina": "https://bonaireisland.com/es/experiencias/buceo/lugares-para-bucear/wayaka/",
+      "titulo": "Wayaka | Island of Bonaire",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBg1pqVQqGCZV59YvT3JxnBhbz8nWkjuySqw&s",
+      "original": "https://bonaireisland.com/wp-content/uploads/2022/08/Wayaka_2000x850.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/handbag/qu/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTE7C0hoWkjmrsWKq1sawEpr5JxA5PQJsbLtA&s",
+      "fuentePagina": "https://arubaeco.tours/plants-wayaka-lignum-vitae_aruba_tours/",
+      "titulo": "Plants - Wayaka - Lignum Vitae - Aruba Nature Adventure ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTE7C0hoWkjmrsWKq1sawEpr5JxA5PQJsbLtA&s",
+      "original": "https://arubaeco.tours/wp-content/uploads/2023/02/Aruba_Outdoor_tours_Wayaka_or_the_Lignum_Vitae1.webp"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/handbag/qu/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQn-3LmJGbel06WBcYE32upOPwnXS5x19jnLQ&s",
+      "fuentePagina": "https://www.blue-oceans.com/index.php/environment/plant-files/guaiacum-officinale-wayaka",
+      "titulo": "Guaiacum Officinale - Wayaka",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQn-3LmJGbel06WBcYE32upOPwnXS5x19jnLQ&s",
+      "original": "https://www.blue-oceans.com/images/environment/plantfiles/guaiacum-officinale-wayaka-flowers.jpg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/handbag/qu/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVYHtzvtiwAKEDsLEeWU2fLAUE8U41MfULyg&s",
+      "fuentePagina": "https://www.facebook.com/echobonaire.org/posts/this-weeks-tree-of-the-week-is-the-wayaka-tree-guaiacum-officinalethe-wakaya-tre/3903095269751892/",
+      "titulo": "This week's tree of the week is the Wayaka tree (Guaiacum ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVYHtzvtiwAKEDsLEeWU2fLAUE8U41MfULyg&s",
+      "original": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=3903094983085254"
+    }
+  ]
+}

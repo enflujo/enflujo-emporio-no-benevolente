@@ -1,0 +1,71 @@
+{
+  "categoria": "knife",
+  "categoriaSlug": "knife",
+  "idioma": "hi",
+  "nombreIdioma": "हिन्दी",
+  "termino": "चाकू",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:08:56.120Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "hi",
+    "gl": "in"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=%E0%A4%9A%E0%A4%BE%E0%A4%95%E0%A5%82&hl=hi&gl=in",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/knife/hi/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcGM5dXT1JE6Y6Bh0tAlYSSjLx3pYj9RlRWg&s",
+      "fuentePagina": "https://www.rasoishop.com/hi/products/rena-stainless-steel-chef-knife-210-mm-black-1-pc?srsltid=AfmBOor4CdFcIRcKjYL1l_j9yJVDXhr1QN0HOC-5ign1O-JcBhA25GZs",
+      "titulo": "रेना स्टेनलेस स्टील शेफ चाकू - 210 ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcGM5dXT1JE6Y6Bh0tAlYSSjLx3pYj9RlRWg&s",
+      "original": "https://www.rasoishop.com/cdn/shop/files/8904142300023.jpg?v=1703345227&width=1445"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/knife/hi/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvBCapdEjdpLIbZCrG-AG2R33tpKNKCNvQyw&s",
+      "fuentePagina": "https://www.amazon.in/-/hi/Captoola-%E0%A4%AB%E0%A5%88%E0%A4%82%E0%A4%B8%E0%A5%80-%E0%A4%B8%E0%A5%8D%E0%A4%9F%E0%A4%BE%E0%A4%87%E0%A4%B2%E0%A4%BF%E0%A4%B6-%E0%A4%AA%E0%A5%8B%E0%A4%B0%E0%A5%8D%E0%A4%9F%E0%A5%87%E0%A4%AC%E0%A4%B2-%E0%A4%AF%E0%A4%BE%E0%A4%A4%E0%A5%8D%E0%A4%B0%E0%A4%BE/dp/B0D7VK3ZF2",
+      "titulo": "Captoola फैंसी चाकू चाकू तेज छीलने चाकू रसोई के लिए स्टाइलिश चाकू चाकू चाकू  चाकू चाकू छोटे चाकू पोर्टेबल चाकू यात्रा के लिए छोटे पॉकेट चाकू कागज काटने  ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvBCapdEjdpLIbZCrG-AG2R33tpKNKCNvQyw&s",
+      "original": "https://m.media-amazon.com/images/I/51wH8SWAA2L.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/knife/hi/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_E7l4gQUClkczExgyR-fABg8jG_cdBtiJOw&s",
+      "fuentePagina": "https://www.moglix.com/hi/generic-3-pcs-stainless-steel-kitchen-knife-set-apoc058/mp/msn39yrzpjpl5q?srsltid=AfmBOooo0Y7wu0o4qCnA3LTP3EylJ9G92HGRXGgeRb45mhvhVY_PDum9",
+      "titulo": "3 पीस स्टेनलेस स्टील रसोई चाकू सेट",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_E7l4gQUClkczExgyR-fABg8jG_cdBtiJOw&s",
+      "original": "https://cdn.moglix.com/p/ZbVw7TNtnWugc-xxlarge.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/knife/hi/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrX5fHILPsHLAK90LN0Ymw7bl7Ycc8hmcbKQ&s",
+      "fuentePagina": "https://www.amazon.in/-/hi/KITCHENMASTER-%E0%A4%B8%E0%A4%AC%E0%A5%8D%E0%A4%9C%E0%A5%80-WANTIAN-%E0%A4%B8%E0%A5%8D%E0%A4%9F%E0%A5%87%E0%A4%A8%E0%A4%B2%E0%A5%87%E0%A4%B8-%E0%A4%B8%E0%A5%8D%E0%A4%9F%E0%A5%80%E0%A4%B2-24/dp/B07DM18ZQG",
+      "titulo": "KITCHENMASTER -सब्जी काटने/मांस काटने ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrX5fHILPsHLAK90LN0Ymw7bl7Ycc8hmcbKQ&s",
+      "original": "https://m.media-amazon.com/images/I/51SuzErIV-L._AC_UF894,1000_QL80_.jpg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/knife/hi/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8dde2cLf3gxc9ueDEn_x5kcFKM5TucHOWHg&s",
+      "fuentePagina": "https://www.rasoishop.com/hi/products/rena-stainless-steel-steak-plain-knife-with-wooden-handle-brown-1-pc?srsltid=AfmBOorsCt0ZuH4lVKkfg836x5-XoDeIfX5gzYNx62qJ5V9YDGH3xFsM",
+      "titulo": "लकड़ी के हैंडल के साथ रेना ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8dde2cLf3gxc9ueDEn_x5kcFKM5TucHOWHg&s",
+      "original": "http://www.rasoishop.com/cdn/shop/files/00RenaKnife.jpg?v=1709657344"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/knife/hi/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrxPtz4IfC_L9euN96Fp8y0ubsODFdLZL9_g&s",
+      "fuentePagina": "https://hi.made-in-china.com/co_cnjointer/product_Finger-Holes-Fixed-Blade-Hunting-Knives-Tactical-Knives-with-Leather-35cm-HK983-2_eeyrugrng.html",
+      "titulo": "फिंगर होल्स फिक्स्ड ब्लेड शिकार ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrxPtz4IfC_L9euN96Fp8y0ubsODFdLZL9_g&s",
+      "original": "https://image.made-in-china.com/202f0j00iwRhQMgCAAuv/Finger-Holes-Fixed-Blade-Hunting-Knives-Tactical-Knives-with-Leather-35cm-HK983-2.webp"
+    }
+  ]
+}

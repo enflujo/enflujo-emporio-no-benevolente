@@ -1,0 +1,71 @@
+{
+  "categoria": "cake",
+  "categoriaSlug": "cake",
+  "idioma": "fr",
+  "nombreIdioma": "Français",
+  "termino": "gâteau",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:16:21.866Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "fr",
+    "gl": "be"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=g%C3%A2teau&hl=fr&gl=be",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/cake/fr/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQI_nWaI3VfLaSRAmhinNKpGPt3UP4lVI4Uow&s",
+      "fuentePagina": "https://www.recettesjecuisine.com/fr/recettes/desserts/gateau-tuxedo/",
+      "titulo": "Gâteau tuxedo",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQI_nWaI3VfLaSRAmhinNKpGPt3UP4lVI4Uow&s",
+      "original": "https://cdn.pratico-pratiques.com/app/uploads/sites/4/2024/04/12105406/Gateau-tuxedo.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/cake/fr/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWGx1TQwStSbob9LLOWYcEW-UR6y7TbO5V1w&s",
+      "fuentePagina": "https://www.oetker.ca/fr_CA/recettes/r/gateau-danniversaire",
+      "titulo": "Gâteau d'anniversaire",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWGx1TQwStSbob9LLOWYcEW-UR6y7TbO5V1w&s",
+      "original": "https://recipesblob.oetker.ca/assets/123b2075c7f84a8f9482ec5561a5e2d8/750x400/birthday-cake-fr.webp"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/cake/fr/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRY5VH-Ip58It15sXNvVuhKifB9ll4tI94xLA&s",
+      "fuentePagina": "https://ici.radio-canada.ca/mordu/recettes/9329/gateau-classique-chocolat",
+      "titulo": "Gâteau classique au chocolat",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRY5VH-Ip58It15sXNvVuhKifB9ll4tI94xLA&s",
+      "original": "https://images.radio-canada.ca/v1/alimentation/recette/4x3/gateau-classique-chocolat.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/cake/fr/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRlTZi5yiqw-xnDy60OjQeyqHNqMb7keYoEw&s",
+      "fuentePagina": "https://www.5ingredients15minutes.com/fr/recettes/desserts-fr/gateau-danniversaire-aux-confettis/",
+      "titulo": "Gâteau d’anniversaire aux confettis",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRlTZi5yiqw-xnDy60OjQeyqHNqMb7keYoEw&s",
+      "original": "https://cdn.pratico-pratiques.com/app/uploads/sites/2/2022/11/07120727/gateau-d-anniversaire-aux-confettis.jpg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/cake/fr/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRi0n7LUBnkU3AzrzroG5nZrjX8_NKUyktvGg&s",
+      "fuentePagina": "https://cookidoo.be/recipes/recipe/nl-BE/r256786",
+      "titulo": "Gâteau piñata surprise au chocolat",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRi0n7LUBnkU3AzrzroG5nZrjX8_NKUyktvGg&s",
+      "original": "https://assets.tmecosys.com/image/upload/t_web_rdp_recipe_584x480_1_5x/img/recipe/ras/Assets/E893EE1D-1273-42DD-BABE-5513BD2CCC56/Derivates/fe69c1f7-0b13-4671-a5b1-2da3b3018c5c.jpg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/cake/fr/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjpxQvYnoPnZ-hcB7sctELQVgRoqTOV19R-Q&s",
+      "fuentePagina": "https://www.lesrecettesdecaty.com/fr/recettes/desserts/gateau-mousse-aux-trois-chocolats/",
+      "titulo": "Gâteau-mousse aux trois chocolats",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjpxQvYnoPnZ-hcB7sctELQVgRoqTOV19R-Q&s",
+      "original": "https://cdn.pratico-pratiques.com/app/uploads/sites/3/2018/08/20193108/gateau-mousse-aux-trois-chocolat.jpeg"
+    }
+  ]
+}

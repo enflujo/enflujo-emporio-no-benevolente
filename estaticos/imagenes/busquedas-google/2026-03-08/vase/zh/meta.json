@@ -1,0 +1,71 @@
+{
+  "categoria": "vase",
+  "categoriaSlug": "vase",
+  "idioma": "zh",
+  "nombreIdioma": "中文",
+  "termino": "花瓶",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:29:59.032Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "zh-CN",
+    "gl": "cn"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=%E8%8A%B1%E7%93%B6&hl=zh-CN&gl=cn",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/vase/zh/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZK9SP7OcY40IodjCC6VomHaPiPP4GPRCQOA&s",
+      "fuentePagina": "https://zh.wikipedia.org/zh-cn/%E8%8A%B1%E7%93%B6",
+      "titulo": "花瓶- 维基百科，自由的百科全书",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZK9SP7OcY40IodjCC6VomHaPiPP4GPRCQOA&s",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/b/b8/Chinese_vase.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/vase/zh/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTciy2PKMkY7m9N7zCZDlUcPqTBsElULZBCvw&s",
+      "fuentePagina": "https://www.koch.co.th/zh/collections/vases-ceramic",
+      "titulo": "陶瓷花瓶",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTciy2PKMkY7m9N7zCZDlUcPqTBsElULZBCvw&s",
+      "original": "https://www.koch.co.th/cdn/shop/files/90436730.FlowerVase.BlueFlowers_3fb90856-628b-4724-b541-cab42259498d.jpg?v=1728973898&width=570"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/vase/zh/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0ee0EAqLp9w09AMOJ7jDqUAHId7crviT0xQ&s",
+      "fuentePagina": "https://www.dior.cn/zh_cn/fashion/maison/decor/vases",
+      "titulo": "DIOR迪奥花瓶|DIOR迪奥中国官方网站| DIOR",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0ee0EAqLp9w09AMOJ7jDqUAHId7crviT0xQ&s",
+      "original": "https://assets.christiandior.cn/is/image/diorprod/HYH01VLD0UC000_E01-1?$r2x3_default$&crop=407,393,981,1329&wid=1334&hei=2000&scale=0.75&bfc=on&qlt=85"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/vase/zh/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRO-bLWJXX0SfABADjWG3w3F1zHB1h6riHKFA&s",
+      "fuentePagina": "https://www.pintoo.com/products/s1035-vase-160pcs-flowers-and-birds?srsltid=AfmBOoozDIIWfpAkEK2pzUKztqZe4CpEL16QKr_5zaQuK8QLkIjaS2NV",
+      "titulo": "S1035 - 花瓶160片- 鳥語花香",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRO-bLWJXX0SfABADjWG3w3F1zHB1h6riHKFA&s",
+      "original": "https://shoplineimg.com/5ff1da1434957d0020ba64c4/61ee16a94d2d120001be936b/800x.jpg?"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/vase/zh/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTu7hou7GiTa47QysK4FsW81JmMSPfUjvr9JQ&s",
+      "fuentePagina": "https://www.yadao8.com/taocizhishi/5057.html",
+      "titulo": "花瓶的寓意和象征_各种瓶型的寓意- 宝蕴陶瓷网",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTu7hou7GiTa47QysK4FsW81JmMSPfUjvr9JQ&s",
+      "original": "https://www.yadao8.com/uploads/20210712/16260937278717.jpg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/vase/zh/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqLADMfOwUit0rMzC4JM7kSAN0nu07WV2Qqg&s",
+      "fuentePagina": "https://www.floralia.com.tw/products/%E8%8A%B1%E7%93%B6%E9%9C%A7%E8%97%8D%E8%89%B2",
+      "titulo": "Ginori-東方義大利-霧藍色-25cm花瓶花樂雅堂floraliadecor",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqLADMfOwUit0rMzC4JM7kSAN0nu07WV2Qqg&s",
+      "original": "https://cdn-next.cybassets.com/media/W1siZiIsIjE4NDI2L3Byb2R1Y3RzLzM0MTA1NjE5LzE2MjczNzUzMTJfYWI2ZDBkMzBmMGRkYmE1OGUzYzYucG5nIl0sWyJwIiwidGh1bWIiLCI2MDB4NjAwIl1d.png?sha=661f10a3e6706d4d"
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "categoria": "truck",
+  "categoriaSlug": "truck",
+  "idioma": "fr",
+  "nombreIdioma": "Français",
+  "termino": "camion",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T20:45:02.733Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "fr",
+    "gl": "be"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=camion&hl=fr&gl=be",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/truck/fr/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQloFJs2P_CDzASwbqsaooh4lmadbyk6aanzA&s",
+      "fuentePagina": "https://www.daf.be/fr-be/trucks/achat-d-un-nouveau-camion",
+      "titulo": "Achat d'un nouveau camion- DAF Trucks Belgique / Luxembourg",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQloFJs2P_CDzASwbqsaooh4lmadbyk6aanzA&s",
+      "original": "https://www.daf.be/-/media/images/daf-trucks/trucks/ngd/daf-new-generation-daf-teaser.jpg?mw=525&rev=6e11cbe2aac6456a8f596a9ef12514bd&hash=9471D509DF26B21A2222C6A1A36EEAF6"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/truck/fr/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRh_CoWihEGf6Blxn5CVzNAqf74VRhDRZId_Q&s",
+      "fuentePagina": "https://fr.wikipedia.org/wiki/Camion",
+      "titulo": "Camion — Wikipédia",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRh_CoWihEGf6Blxn5CVzNAqf74VRhDRZId_Q&s",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Renault_T-Truck_-_E_5958KC.jpg/330px-Renault_T-Truck_-_E_5958KC.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/truck/fr/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7cxkQjCVnkZ-SPvxJDHxlQ3aX5x0-rQAniw&s",
+      "fuentePagina": "https://fr.csc-trucks.com/van-truck/refrigerated-truck/6-wheelers-refrigerated-box-truck-18-cbm.html",
+      "titulo": "Chine Camions réfrigérés à 6 roues de haute qualité 18 CBM ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7cxkQjCVnkZ-SPvxJDHxlQ3aX5x0-rQAniw&s",
+      "original": "http://fr.csc-trucks.com/uploads/202421798/6-wheelers-refrigerated-box-truck-18-cbm1a6e813c-d7ea-4c30-9ce5-44143bdcd73c.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/truck/fr/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCyvw28CsaW_ihKQ-ISj4Sp9Ac-banFCqEbA&s",
+      "fuentePagina": "https://sinotruksgroup.com/fr/produit/camion-leger-howo-box/",
+      "titulo": "Camion léger Howo Box - SINOTRUK GROUP Des solutions ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCyvw28CsaW_ihKQ-ISj4Sp9Ac-banFCqEbA&s",
+      "original": "https://sinotruksgroup.com/wp-content/uploads/2024/06/Howo-Box-Light-Truck-2.webp"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/truck/fr/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSC7q13dPBgjEL3TcseAySqLJbJF9Y67J1b4w&s",
+      "fuentePagina": "https://www.tralert.com/fr/blog/quelle-est-la-largeur-maximale-d-un-camion/",
+      "titulo": "Dimensions & poids maximaux des camions : règles par pays 2026.",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSC7q13dPBgjEL3TcseAySqLJbJF9Y67J1b4w&s",
+      "original": "https://www.tralert.com/wp-content/uploads/2024/09/Vrachtwagen-breedte.webp"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/truck/fr/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBx-bT7BvZmre0jkSEwCLCZWAwA_rAe9QKTA&s",
+      "fuentePagina": "https://www.volvotrucks.be/fr-be/trucks/camions-au-gaz.html",
+      "titulo": "Volvo Trucks - camions au gaz: puissance & durabilité",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBx-bT7BvZmre0jkSEwCLCZWAwA_rAe9QKTA&s",
+      "original": "https://assets.volvo.com/is/image/VolvoInformationTechnologyAB/gas-powered-landing-volvo-fh-aero-cgi-exterior-3?qlt=82&wid=1024&ts=1705488005971&dpr=off&fit=constrain&fmt=png-alpha"
+    }
+  ]
+}

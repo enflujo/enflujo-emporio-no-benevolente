@@ -1,0 +1,71 @@
+{
+  "categoria": "umbrella",
+  "categoriaSlug": "umbrella",
+  "idioma": "yo",
+  "nombreIdioma": "Yorùbá",
+  "termino": "àgbádò ojú ọjọ́",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T20:56:58.572Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "yo",
+    "gl": "ng"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=%C3%A0gb%C3%A1d%C3%B2%20oj%C3%BA%20%E1%BB%8Dj%E1%BB%8D%CC%81&hl=yo&gl=ng",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/umbrella/yo/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSqD4PZg_MdVCJHrRlZ0X3GFiVWdduQYf9nw&s",
+      "fuentePagina": "https://www.bbc.com/yoruba/articles/cql5w1ylkvno",
+      "titulo": "Wo ọjọ́ tí Ramadan yóò bẹ̀rẹ̀, ọjọ́ Àjíǹde, àti àwọn ọjọ́ ìsinmi tí ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSqD4PZg_MdVCJHrRlZ0X3GFiVWdduQYf9nw&s",
+      "original": "https://ichef.bbci.co.uk/news/1024/branded_yoruba/ba59/live/590e4820-ca74-11ef-9fd6-0be88a764111.png"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/umbrella/yo/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQoV6aVj0C2spr_wn7sInw3EKLv5NxSBx2DvA&s",
+      "fuentePagina": "https://www.bbc.com/yoruba/62052638",
+      "titulo": "Àwọn eèyàn máà ń sá fún mi, bẹ́ẹ̀ èmi ni mo sọ arà mi ní Agbákò- Charles  Olumo",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQoV6aVj0C2spr_wn7sInw3EKLv5NxSBx2DvA&s",
+      "original": "http://c.files.bbci.co.uk/60E8/production/_125780842_p0cjz0wb.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/umbrella/yo/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpDEKp9sjT0dmmQaEprDIkBPAXW6k6MZ_MPA&s",
+      "fuentePagina": "https://www.instagram.com/p/DKpyrCZohhB/",
+      "titulo": "Ojodu Oba is more than just a neighborhood, it's a lively ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpDEKp9sjT0dmmQaEprDIkBPAXW6k6MZ_MPA&s",
+      "original": "https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3650650681194448612"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/umbrella/yo/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlZmnmB-RCCHKrfuhp9iSksyqsgK2JzdxGDA&s",
+      "fuentePagina": "https://www.instagram.com/p/DKpyrCZohhB/",
+      "titulo": "Ojodu Oba is more than just a neighborhood, it's a lively ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlZmnmB-RCCHKrfuhp9iSksyqsgK2JzdxGDA&s",
+      "original": "https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3650650681211255958"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/umbrella/yo/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTC2OuUYxI90IRwjwD7_WZD4NUlAj1Pl_CSrA&s",
+      "fuentePagina": "https://www.instagram.com/reel/DMzXKIxNf5T/",
+      "titulo": "The arrival of Agbado Oke-Odo LCDA Chairman, Hon Abiodun ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTC2OuUYxI90IRwjwD7_WZD4NUlAj1Pl_CSrA&s",
+      "original": "https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3830823973097981790"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/umbrella/yo/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQy0arQqw6AlTXBqPIgWL0p177f_h2Btv33xw&s",
+      "fuentePagina": "https://www.youtube.com/watch?v=8fDQ_BR-X7c",
+      "titulo": "Oju Oluwa - YouTube",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQy0arQqw6AlTXBqPIgWL0p177f_h2Btv33xw&s",
+      "original": "https://i.ytimg.com/vi/8fDQ_BR-X7c/sddefault.jpg"
+    }
+  ]
+}

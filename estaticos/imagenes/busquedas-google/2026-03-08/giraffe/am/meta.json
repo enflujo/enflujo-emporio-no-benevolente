@@ -1,0 +1,71 @@
+{
+  "categoria": "giraffe",
+  "categoriaSlug": "giraffe",
+  "idioma": "am",
+  "nombreIdioma": "Amharic — አማርኛ",
+  "termino": "ቀጭኔ",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T20:55:39.056Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "am",
+    "gl": "et"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=%E1%89%80%E1%8C%AD%E1%8A%94&hl=am&gl=et",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/giraffe/am/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR84_YcEbi_CoFg4Zc0raeZtjvoxwTMNB4QEg&s",
+      "fuentePagina": "https://am.wikipedia.org/wiki/%E1%89%80%E1%8C%AD%E1%8A%94",
+      "titulo": "ውክፔዲያ - ቀጭኔ",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR84_YcEbi_CoFg4Zc0raeZtjvoxwTMNB4QEg&s",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Giraffe_standing.jpg/960px-Giraffe_standing.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/giraffe/am/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPlD3Bn3CBKz_A13aeu9qeKWeDowm-pORrrg&s",
+      "fuentePagina": "https://www.facebook.com/photo.php?fbid=127049385610085&set=a.121472962834394&id=100064063834417",
+      "titulo": "ከ - #ቀጭኔ -በ የብስ ላይ ከሚኖሩ እንስሳቶች በሙሉ ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPlD3Bn3CBKz_A13aeu9qeKWeDowm-pORrrg&s",
+      "original": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=127049385610085"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/giraffe/am/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6xUAHqVVDeOMIA5X9f1rnUYqltToYAqPtlA&s",
+      "fuentePagina": "https://www.facebook.com/unityparkethiopia/posts/%E1%89%80%E1%8C%AD%E1%8A%94-%E1%88%A8%E1%8C%85%E1%88%99-%E1%8A%A0%E1%8C%A5%E1%89%A2-%E1%8A%A5%E1%8A%95%E1%88%B5%E1%88%B3%E1%89%A0%E1%8A%A0%E1%8A%95%E1%8B%B5%E1%8A%90%E1%89%B5-%E1%8D%93%E1%88%AD%E1%8A%AD-%E1%8B%A8%E1%88%98%E1%8A%AB%E1%8A%90-%E1%8A%A5%E1%8A%95%E1%88%B5%E1%88%B3%E1%89%B5%E1%8A%93-%E1%8A%A0%E1%8A%B3%E1%88%AD%E1%8B%AC%E1%88%9D-%E1%88%9B%E1%88%B3%E1%8B%AB-%E1%89%A6%E1%89%B3-%E1%8B%8D%E1%88%B5%E1%8C%A5-%E1%8B%AB%E1%88%88-%E1%8B%A8%E1%8A%A0%E1%8D%8D%E1%88%AA%E1%8A%AB-%E1%88%B3%E1%8D%8B%E1%88%AA-%E1%89%A0%E1%88%9A%E1%89%A3%E1%88%88%E1%8B%8D-%E1%8B%A8%E1%8A%A5%E1%8A%95%E1%88%B5%E1%88%B3/652556989485505/",
+      "titulo": "ቀጭኔ (ረጅሙ አጥቢ እንስሳ) በአንድነት ፓርክ የመካነ ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6xUAHqVVDeOMIA5X9f1rnUYqltToYAqPtlA&s",
+      "original": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=652556499485554"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/giraffe/am/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbw1EUdKPn6QwC7H8A-0yBn5CoxnrTz3wNfA&s",
+      "fuentePagina": "https://www.facebook.com/EBCzena/posts/%E1%89%80%E1%8C%AD%E1%8A%94-%E1%8A%A5%E1%8A%93-%E1%8B%A8%E1%8C%A5%E1%88%AD%E1%88%B5-%E1%88%80%E1%8A%AA%E1%88%9E%E1%89%B9-%E1%8B%88%E1%8D%8E%E1%89%BD%E1%89%80%E1%8C%AD%E1%8A%94-%E1%89%A0%E1%8A%A0%E1%88%88%E1%88%9B%E1%89%BD%E1%8A%95-%E1%8A%A5%E1%88%A8%E1%8C%85%E1%88%99-%E1%8B%A8%E1%8B%B1%E1%88%AD-%E1%8A%A5%E1%8A%95%E1%88%B5%E1%88%B3-%E1%88%98%E1%88%86%E1%8A%91-%E1%8B%AD%E1%89%B3%E1%8B%88%E1%89%83%E1%88%8D-%E1%89%A0%E1%8B%9A%E1%88%85-%E1%8A%A5%E1%8A%95%E1%88%B5%E1%88%B3-%E1%8A%A0%E1%8D%8D-%E1%8A%A0%E1%8A%AB%E1%89%A3%E1%89%A2-%E1%89%A3%E1%88%88-%E1%89%80%E1%8B%AD-%E1%88%9D%E1%8A%95/2072442482787617/",
+      "titulo": "ቀጭኔ እና የጥርስ ሀኪሞቹ ወፎች ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbw1EUdKPn6QwC7H8A-0yBn5CoxnrTz3wNfA&s",
+      "original": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=2072442242787641"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/giraffe/am/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-bZV2nSLgxqmGVIRgnyejJ_0isFddOpp9Gg&s",
+      "fuentePagina": "https://www.kasahorow.org/node/39881",
+      "titulo": "ቀጭኔ | kasahorow Foundation",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-bZV2nSLgxqmGVIRgnyejJ_0isFddOpp9Gg&s",
+      "original": "https://openclipart.org/image/300px/svg_to_png/104491/Giraffe_color.png"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/giraffe/am/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_U3nV3fyfSx0_vfFAiK9gxLZ23vbskMMPqw&s",
+      "fuentePagina": "http://am.eastsculpture.com/cheap-decoration-garden-brass-statue-giraffe-sculpture-product/",
+      "titulo": "ቻይና ርካሽ ማስዋቢያ የአትክልት ናስ ሐውልት ቀጭኔ ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_U3nV3fyfSx0_vfFAiK9gxLZ23vbskMMPqw&s",
+      "original": "http://cdnus.globalso.com/eastsculpture/HTB1Aq1nKeuSBuNjSsplq6ze8pXa9.jpg"
+    }
+  ]
+}

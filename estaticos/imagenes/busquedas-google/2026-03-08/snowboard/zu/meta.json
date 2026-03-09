@@ -1,0 +1,71 @@
+{
+  "categoria": "snowboard",
+  "categoriaSlug": "snowboard",
+  "idioma": "zu",
+  "nombreIdioma": "isiZulu",
+  "termino": "isnowboard",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:00:54.874Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "zu",
+    "gl": "za"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=isnowboard&hl=zu&gl=za",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/snowboard/zu/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLpZWcO4GBbjOcMhJ0tbemrD-oo66jN-FSYg&s",
+      "fuentePagina": "https://www.youtube.com/watch?v=1hJeQPwrfGw",
+      "titulo": "CAN I SNOWBOARD? | VLOG 266",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLpZWcO4GBbjOcMhJ0tbemrD-oo66jN-FSYg&s",
+      "original": "https://i.ytimg.com/vi/1hJeQPwrfGw/maxresdefault.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/snowboard/zu/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVosQNk3FTdK-OjT4EGF0jNi8_dCu3HwSUjw&s",
+      "fuentePagina": "https://www.instagram.com/p/DTs1a60DAOT/",
+      "titulo": "Me when I snowboard…..#snowboard #snow #comedy",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVosQNk3FTdK-OjT4EGF0jNi8_dCu3HwSUjw&s",
+      "original": "https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3813657930797679507"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/snowboard/zu/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKAeXyvziJ-ZLZAK9cpuS4Pdg7apovzKjGCg&s",
+      "fuentePagina": "https://www.instagram.com/p/DUiXfrwiCMo/",
+      "titulo": "sometimes I snowboard but skiers will say I only snowwalk or ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKAeXyvziJ-ZLZAK9cpuS4Pdg7apovzKjGCg&s",
+      "original": "https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3828724911087077635"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/snowboard/zu/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_iKbGEsIbJa6EVDfVJ6s7R2TsVouk2jJGjA&s",
+      "fuentePagina": "https://www.ebay.com/itm/305636318819",
+      "titulo": "Carrera Equalizer Supergold iSnowboard Goggles Black Frame Gold Lens",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_iKbGEsIbJa6EVDfVJ6s7R2TsVouk2jJGjA&s",
+      "original": "https://i.ebayimg.com/images/g/-ioAAOSwVPBl2VSL/s-l1200.jpg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/snowboard/zu/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQosPunKtcLLxb8HEuTYo69KFXiz3WcqozVxA&s",
+      "fuentePagina": "https://www.youtube.com/watch?v=Docf_v7RUoo",
+      "titulo": "Liam Rivera GoPro Winning Run I Snowboard Men I FWT 2026 Baqueira Beret Pro  by Movistar",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQosPunKtcLLxb8HEuTYo69KFXiz3WcqozVxA&s",
+      "original": "https://i.ytimg.com/vi/Docf_v7RUoo/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLCSScN6gG_fQRQDEQFbqcVNwZ3DDQ"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/snowboard/zu/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR99F5PDFRy0AKVdbzgBThSNKB7fp2C6sCOFg&s",
+      "fuentePagina": "https://www.tiktok.com/@nadrojnoiri/video/7613540047152860446",
+      "titulo": "Did you guys know I snowboard?😏 Lol this is my first time up this season  though… I missed it so much!!🙂‍↕️ #pnwsnow#pnwsnowr  ##snowboardinglife##pnwmountains#shredthegnar",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR99F5PDFRy0AKVdbzgBThSNKB7fp2C6sCOFg&s",
+      "original": "https://www.tiktok.com/api/img/?itemId=7613540047152860446&location=0&aid=1988"
+    }
+  ]
+}

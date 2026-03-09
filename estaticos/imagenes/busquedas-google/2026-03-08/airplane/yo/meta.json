@@ -1,0 +1,71 @@
+{
+  "categoria": "airplane",
+  "categoriaSlug": "airplane",
+  "idioma": "yo",
+  "nombreIdioma": "Yorùbá",
+  "termino": "ọkọ̀ òfurufú",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T20:43:08.618Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "yo",
+    "gl": "ng"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=%E1%BB%8Dk%E1%BB%8D%CC%80%20%C3%B2furuf%C3%BA&hl=yo&gl=ng",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/airplane/yo/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkDCd2Z2mXwil5_CVLFY4JsXYhfG6XeMulIA&s",
+      "fuentePagina": "https://yo.wikipedia.org/wiki/Dragon_(%E1%BB%8Dk%E1%BB%8D%CC%80-%C3%B2furuf%C3%BA)",
+      "titulo": "Dragon (ọkọ̀-òfurufú) - Wikipedia, ìwé-ìmọ̀ ọ̀fẹ́",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkDCd2Z2mXwil5_CVLFY4JsXYhfG6XeMulIA&s",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/NASA_TV_C2%2B_Dragon_grappled.jpg/250px-NASA_TV_C2%2B_Dragon_grappled.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/airplane/yo/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5xOL172babhGQvReY4BScD9NQpWMYpOazMw&s",
+      "fuentePagina": "https://yo.wikipedia.org/wiki/%E1%BB%8Ck%E1%BB%8D%CC%80-%C3%A0l%E1%BB%8Db%E1%BB%8D%CC%80_%C3%92furuf%C3%BA_Atlantis",
+      "titulo": "Ọkọ̀-àlọbọ̀ Òfurufú Atlantis - Wikipedia, ìwé-ìmọ̀ ọ̀fẹ́",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5xOL172babhGQvReY4BScD9NQpWMYpOazMw&s",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Atlantis_upright%2C_August_29%2C_2006.jpg/250px-Atlantis_upright%2C_August_29%2C_2006.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/airplane/yo/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgx-chbZXw94TIa1Y5NJLJ13rfrYrhNhbDuQ&s",
+      "fuentePagina": "https://www.youtube.com/watch?v=-e33ulwOQL8",
+      "titulo": "ỌKỌ̀ ÒFURUFÚ | YORUBA FOR KIDZ | WORD OF THE WEEK",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgx-chbZXw94TIa1Y5NJLJ13rfrYrhNhbDuQ&s",
+      "original": "https://i.ytimg.com/vi/-e33ulwOQL8/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLAMY3DJyuivPQImJx5kN8KLJTiEUQ"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/airplane/yo/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHhYcsyA7KUfuhWiYsZL6U10GTICt0Ndc3Ug&s",
+      "fuentePagina": "https://www.facebook.com/100090207312096/videos/il%C3%A9-epo-%E1%BB%8Dk%E1%BB%8D%CC%80-%C3%B2furuf%C3%BA/928816389869435/",
+      "titulo": "Ilé epo ọkọ̀ òfurufú. #fypシ #facebookreels | Brodawale | Facebook",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHhYcsyA7KUfuhWiYsZL6U10GTICt0Ndc3Ug&s",
+      "original": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=928816389869435&get_thumbnail=1"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/airplane/yo/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2kqTXY-u6Xi7EFAr6QSkUIauSnS4h6M4Wgg&s",
+      "fuentePagina": "https://nigeriatvinfo.com.siveril.yunethosting.rs/yo/alaye-ise/1898-india-ati-china-tun-bere-irinajo-oko-ofurufu-taara-leyin-idakeje-odun-marun-un",
+      "titulo": "India àti China Tún Bẹ̀rẹ̀ Ìrìnàjò Ọkọ̀ Òfurufú Tààrà Lẹ́yìn ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2kqTXY-u6Xi7EFAr6QSkUIauSnS4h6M4Wgg&s",
+      "original": "https://nigeriatvinfo.com/img_uploaded_news/1898_ngimage.jpg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/airplane/yo/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgB7CguUZKcuZPCJrM_FKRSUcH8DCA41uDtw&s",
+      "fuentePagina": "https://www.bbc.com/yoruba/articles/cpvm7nvy34vo",
+      "titulo": "Police respond to fiery scene after small plane crashes in Philadelphia",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgB7CguUZKcuZPCJrM_FKRSUcH8DCA41uDtw&s",
+      "original": "https://ichef.bbci.co.uk/images/ic/512xn/p0knhkwq.jpg.webp"
+    }
+  ]
+}

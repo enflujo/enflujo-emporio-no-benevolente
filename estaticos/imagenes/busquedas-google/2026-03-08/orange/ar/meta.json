@@ -1,0 +1,71 @@
+{
+  "categoria": "orange",
+  "categoriaSlug": "orange",
+  "idioma": "ar",
+  "nombreIdioma": "العربية",
+  "termino": "برتقالة",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:12:50.309Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "ar",
+    "gl": "eg"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=%D8%A8%D8%B1%D8%AA%D9%82%D8%A7%D9%84%D8%A9&hl=ar&gl=eg",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/orange/ar/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6GojwsEnSMDxUKNGMLeZMmmJxSUp9WxMsFQ&s",
+      "fuentePagina": "https://www.facebook.com/sakralandaloss/posts/%EF%B8%8F%D8%B5%D9%88%D8%B1%D8%A9-%D8%A8%D8%B1%D8%AA%D9%82%D8%A7%D9%84%D8%A9-%EF%B8%8F%D8%A3%D9%86%D8%AA-%D9%82%D8%A7%D8%B9%D8%AF-%D9%82%D8%A7%D8%B9%D8%AF-%D9%87%D9%8A%D8%A7-%D9%86%D8%B9%D8%A8%D8%B1-%D8%B4%D9%81%D9%87%D9%8A%D8%A7-%EF%B8%8F%D8%AA%D8%AA%D8%B0%D9%83%D8%B1-%D8%B5%D9%88%D8%B1%D8%A9-%D8%A7%D9%84%D8%A8%D9%82%D8%B1%D8%A9-%D8%A7%D9%84%D8%AA%D9%8A-%D9%86%D8%B4%D8%B1%D8%AA%D9%87%D8%A7-%D8%A7%D9%84%D8%A8%D8%A7%D8%B1/528656516475073/",
+      "titulo": "♦️صورة برتقالة 😮 ♦️أنت قاعد قاعد هيا نعبر شفهيا ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6GojwsEnSMDxUKNGMLeZMmmJxSUp9WxMsFQ&s",
+      "original": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=528656493141742"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/orange/ar/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6GAE2g2O2zAbAyVEnm0S4S2tfCOMWBiLt3w&s",
+      "fuentePagina": "https://24.ae/article/61177/",
+      "titulo": "برتقالة واحدة يومياً سر الحيوية وطول العمر - موقع 24",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6GAE2g2O2zAbAyVEnm0S4S2tfCOMWBiLt3w&s",
+      "original": "https://24.ae/images/Articles/201402180707583.Png?9740"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/orange/ar/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTeBp_nyT0PZfpp9q2tr5dykVw-GAdruB8ug&s",
+      "fuentePagina": "https://x.com/abo36fares/status/1043350262914662400",
+      "titulo": "مقاطعه_مايسترو_بيتزا عندك برتقالة واحدة وتريد أن تقسمها على ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTeBp_nyT0PZfpp9q2tr5dykVw-GAdruB8ug&s",
+      "original": "https://pbs.twimg.com/media/Dnq5hlmXgAAwMT_.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/orange/ar/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTct4QnA6zwU4tyn9vq_ADJ8Ey6RfIWK-6V6g&s",
+      "fuentePagina": "https://ar.wikipedia.org/wiki/%D8%A8%D8%B1%D8%AA%D9%82%D8%A7%D9%84",
+      "titulo": "برتقال - ويكيبيديا",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTct4QnA6zwU4tyn9vq_ADJ8Ey6RfIWK-6V6g&s",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/e/e3/Oranges_-_whole-halved-segment.jpg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/orange/ar/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdcOvh9Z1Fg64OC9HzAICYN2MM44rPry45Lw&s",
+      "fuentePagina": "https://ar.pngtree.com/freepng/half-a-cut-orange-fresh-orange_5498882.html",
+      "titulo": "نصف برتقالة مقطعة برتقالة طازجة, قصاصات فنية من البرتقال ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdcOvh9Z1Fg64OC9HzAICYN2MM44rPry45Lw&s",
+      "original": "https://png.pngtree.com/png-vector/20200821/ourlarge/pngtree-half-a-cut-orange-fresh-orange-png-image_2326488.jpg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/orange/ar/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1SuEths7XxIyHmRbWVBIbASh9RF8FWOhfLA&s",
+      "fuentePagina": "https://www.aljazeeramubasher.net/opinions/2024/2/19/%D8%AD%D8%AF%D9%8A%D8%AB-%D8%A7%D9%84%D8%A8%D8%B1%D8%AA%D9%82%D8%A7%D9%84%D8%A9",
+      "titulo": "حديث “البرتقالة” | المقالات والدراسات | الجزيرة مباشر",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1SuEths7XxIyHmRbWVBIbASh9RF8FWOhfLA&s",
+      "original": "https://www.aljazeeramubasher.net/wp-content/uploads/2024/02/licensed-image-1708354246.jpg?resize=770%2C513&quality=80"
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "categoria": "bottle",
+  "categoriaSlug": "bottle",
+  "idioma": "rw",
+  "nombreIdioma": "Kinyarwanda",
+  "termino": "icupa",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:06:03.825Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "en",
+    "gl": "rw"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=icupa&hl=en&gl=rw",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bottle/rw/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLivWDI4Oumb1JRTTDtErCE2ulqu1PB6N44w&s",
+      "fuentePagina": "https://www.facebook.com/Icupatg/",
+      "titulo": "Icupa | Kigali",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLivWDI4Oumb1JRTTDtErCE2ulqu1PB6N44w&s",
+      "original": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=878644984285576"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bottle/rw/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkoRimhh80tKdchExupQ8rduCYw-mPwIX4Eg&s",
+      "fuentePagina": "https://www.expoka.com/product/icupa-ryamazi-steel-water-bottle-3",
+      "titulo": "Icupa ry'amazi, Steel water bottle",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkoRimhh80tKdchExupQ8rduCYw-mPwIX4Eg&s",
+      "original": "https://expoka.com/public/uploads/all/k8nSeO5CFZUdQa4OaUwFME1Sr2BpRPqywLX2efDt.webp"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bottle/rw/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScLdwk_LAyKCnw0lPcZk6Fk0rxbGhxrZSaaw&s",
+      "fuentePagina": "https://www.youtube.com/watch?v=p71pBKj8RbI",
+      "titulo": "YIRONGOJE ICUPA WAMUKOBW😱KING IR ASHYIZE AMABANGA YOSE KUBASEBY  EMELIN//GASOPO KUBA HARABIKA BRIANE",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScLdwk_LAyKCnw0lPcZk6Fk0rxbGhxrZSaaw&s",
+      "original": "https://i.ytimg.com/vi/p71pBKj8RbI/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLA14ZND9flmwnXd-jPlYdoW7N2LHg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bottle/rw/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQE05dgZMpOOC7ruBW_z_EDNBSjVxHXkszRNg&s",
+      "fuentePagina": "https://www.youtube.com/watch?v=sBGwTk1Neow",
+      "titulo": "Platini P- Icupa (Official Video)",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQE05dgZMpOOC7ruBW_z_EDNBSjVxHXkszRNg&s",
+      "original": "https://i.ytimg.com/vi/sBGwTk1Neow/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGF0gZSgxMA8=&rs=AOn4CLCfEQ0HByLbxFKrfv0vcUBzgxG3mg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bottle/rw/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrsmclFgKDmkIZHLOtcHp9zXLhbW8qIkvT4w&s",
+      "fuentePagina": "https://music.apple.com/rw/album/icupa-single/1691979081",
+      "titulo": "Icupa - Single - Album by Platini P - Apple Music",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrsmclFgKDmkIZHLOtcHp9zXLhbW8qIkvT4w&s",
+      "original": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/94/11/63/94116319-e20c-e1de-ae2b-0e1ac1a82723/cover.jpg/600x600bf-60.jpg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bottle/rw/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIbZQlIjAWO7vtYhB8OiJ6nIkjz_hV6mYHUw&s",
+      "fuentePagina": "https://www.youtube.com/watch?v=qCx4gS3T0EA",
+      "titulo": "GUSHYIRA ICUPA MU GITSINA🤔JESSICA YANDAGAJE EMELYINE WIRONGOZA ICUPA😭IYI  VIDEO YO UYIBONYE WA😭YESU",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIbZQlIjAWO7vtYhB8OiJ6nIkjz_hV6mYHUw&s",
+      "original": "https://i.ytimg.com/vi/qCx4gS3T0EA/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLCUviFggai-D4dGPJJVt9i9OSjKIw"
+    }
+  ]
+}

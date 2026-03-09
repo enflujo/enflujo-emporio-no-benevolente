@@ -1,0 +1,71 @@
+{
+  "categoria": "donut",
+  "categoriaSlug": "donut",
+  "idioma": "zu",
+  "nombreIdioma": "isiZulu",
+  "termino": "idonatsi",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:15:51.174Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "zu",
+    "gl": "za"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=idonatsi&hl=zu&gl=za",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/donut/zu/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRST7auS4JYgC9WwrzY34DXuOPmEMruyUYLBA&s",
+      "fuentePagina": "https://www.youtube.com/watch?v=rx8dPv2kVvk",
+      "titulo": "Thando Skwatsha - isaziso (Official Video)",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRST7auS4JYgC9WwrzY34DXuOPmEMruyUYLBA&s",
+      "original": "https://i.ytimg.com/vi/rx8dPv2kVvk/mqdefault.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/donut/zu/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAB44jsiIXNEGyp92PQhcJMBqgfd57_CTpAQ&s",
+      "fuentePagina": "https://www.news24.com/drum/celebs/news/rising-star-chosi-on-her-musical-journey-part-of-my-purpose-is-to-enrich-african-people-20210720",
+      "titulo": "Rising star | Chosi on her musical journey – “Part of my ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAB44jsiIXNEGyp92PQhcJMBqgfd57_CTpAQ&s",
+      "original": "https://cdn.24.co.za/files/Cms/General/d/11176/97b98d9e353d4262ab3e77f72b4b0d32.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/donut/zu/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfgAvBJHxmU_aPJ-lbzUuKWGj_cjCg_CP5ZQ&s",
+      "fuentePagina": "https://www.facebook.com/adonismusatiproject/",
+      "titulo": "Adonis Musati Project | Cape Town",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfgAvBJHxmU_aPJ-lbzUuKWGj_cjCg_CP5ZQ&s",
+      "original": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=922174656609913"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/donut/zu/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlWeP1oUsTNrxrS5a0uHD6jQjAXYetDLEdyw&s",
+      "fuentePagina": "https://www.instagram.com/i.nandos/",
+      "titulo": "Ntandokathixo Dwango (@i.nandos) • Instagram photos and videos",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlWeP1oUsTNrxrS5a0uHD6jQjAXYetDLEdyw&s",
+      "original": "https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3837514865980262756"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/donut/zu/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzjMSaQtmeUj1wNkEaJCXeEPJJ52z5wVw7mQ&s",
+      "fuentePagina": "https://www.instagram.com/i.nandos/",
+      "titulo": "Ntandokathixo Dwango (@i.nandos) • Instagram photos and videos",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzjMSaQtmeUj1wNkEaJCXeEPJJ52z5wVw7mQ&s",
+      "original": "https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3834622600307805929"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/donut/zu/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRssFmXAytgIO2wJbmLOp5YccLcnUCyaOyuCQ&s",
+      "fuentePagina": "https://www.researchgate.net/profile/Idon-Nkhenso-Sibuyi",
+      "titulo": "Idon-Nkhenso SIBUYI | PostDoc Position | DTech(Informatics ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRssFmXAytgIO2wJbmLOp5YccLcnUCyaOyuCQ&s",
+      "original": "https://i1.rgstatic.net/ii/profile.image/11431281085450104-1663769524732_Q512/Idon-Nkhenso-Sibuyi.jpg"
+    }
+  ]
+}

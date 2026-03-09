@@ -1,0 +1,71 @@
+{
+  "categoria": "person",
+  "categoriaSlug": "person",
+  "idioma": "yo",
+  "nombreIdioma": "Yorùbá",
+  "termino": "ènìyàn",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T20:40:33.622Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "yo",
+    "gl": "ng"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=%C3%A8n%C3%ACy%C3%A0n&hl=yo&gl=ng",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/person/yo/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgfE8vdTxsNc6VSTjVSv4cYTbrRN-y0gKn7A&s",
+      "fuentePagina": "https://www.instagram.com/p/DUTypHJjP48/",
+      "titulo": "The Yoruba saying Ènìyàn la ṣọ́ mí. In English, it means ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgfE8vdTxsNc6VSTjVSv4cYTbrRN-y0gKn7A&s",
+      "original": "https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3824623236068212284"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/person/yo/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNbdl9Vg4tqkIPhUU9RbnnDLwx1KKe1fIsKw&s",
+      "fuentePagina": "https://ayegbayodamola.com/product/eniyan-human-12/",
+      "titulo": "Ènìyàn (human) 12 - Damola Ayegbayo - The best contemporary ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNbdl9Vg4tqkIPhUU9RbnnDLwx1KKe1fIsKw&s",
+      "original": "https://ayegbayodamola.com/wp-content/uploads/2024/08/DSC_3545-scaled.jpeg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/person/yo/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1L7xkLxUEmjoanBqUlRQGEMS37PlIxnhSiQ&s",
+      "fuentePagina": "https://www.facebook.com/nationalorientationagency/posts/%C3%ACw%C3%A0-rere-l%C3%A9s%C3%B3-%C3%A8n%C3%ACy%C3%A0n-good-character-is-what-adorns-a-maniwa-lewa-character-is-be/1148152050673870/",
+      "titulo": "Ìwà rere l'ésó ènìyàn' -\"Good character is what adorns a man ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1L7xkLxUEmjoanBqUlRQGEMS37PlIxnhSiQ&s",
+      "original": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=1148130730676002"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/person/yo/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZmkoc6d1Q7j7JX3SPlawzxP6dXxAJHJ25Ug&s",
+      "fuentePagina": "https://ayegbayodamola.com/product/eniyan-human-11/",
+      "titulo": "Ènìyàn (Human) 11 - Damola Ayegbayo - The best contemporary ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZmkoc6d1Q7j7JX3SPlawzxP6dXxAJHJ25Ug&s",
+      "original": "https://ayegbayodamola.com/wp-content/uploads/2024/08/DSC_3574-scaled.jpeg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/person/yo/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5lbw5xtXjpVSVI33oKazpV7cRRsTsA_TJWg&s",
+      "fuentePagina": "https://www.facebook.com/moyo.okediji/posts/e%CC%80ni%CC%80ya%CC%80nwe-have-the-power-to-choosee%CC%80ni%CC%80ya%CC%80n-in-yoruba-means-a-persone%CC%80ni%CC%80ya%CC%80n-/5896927423653221/",
+      "titulo": "ÈNÌYÀN—We Have the Power to Choose Ènìyàn in Yoruba means a ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5lbw5xtXjpVSVI33oKazpV7cRRsTsA_TJWg&s",
+      "original": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=5896926936986603"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/person/yo/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUBly3fghLsrHpqd-jbBYP1d8dDv5MwdwzEw&s",
+      "fuentePagina": "https://www.facebook.com/bello.ifeoluwa.437353/posts/ir%C3%BA-%C3%A8n%C3%ACy%C3%A0n-wo-n%C3%AD-yor%C3%B9b%C3%A1-%C5%84-p%C3%A8-n%C3%AD-as%C3%ADnw%C3%ADn-yoruba-yorubaheritage/2401243876993856/",
+      "titulo": "Irú ènìyàn wo ní Yorùbá ń pè ní “ASÍNWÍN” #yoruba ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUBly3fghLsrHpqd-jbBYP1d8dDv5MwdwzEw&s",
+      "original": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=2401243603660550"
+    }
+  ]
+}

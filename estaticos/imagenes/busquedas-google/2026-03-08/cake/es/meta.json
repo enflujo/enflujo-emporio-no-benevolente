@@ -1,0 +1,71 @@
+{
+  "categoria": "cake",
+  "categoriaSlug": "cake",
+  "idioma": "es",
+  "nombreIdioma": "Español",
+  "termino": "pastel",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:16:47.925Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "es",
+    "gl": "es"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=pastel&hl=es&gl=es",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/cake/es/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSn53otiSeb4vojCrW4TYQzd76KIhTuZHCHA&s",
+      "fuentePagina": "https://www.hersheyland.mx/recetas/pastel-de-chocolate-sin-harina-con-hersheys-zero-sugar.html",
+      "titulo": "Receta de pastel de chocolate sin harina | HERSHEY'S",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSn53otiSeb4vojCrW4TYQzd76KIhTuZHCHA&s",
+      "original": "https://www.hersheyland.mx/content/dam/Hersheyland_Mexico/es_mx/recipes/recipe-images/grocery-abril/pastel.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/cake/es/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlJ2ecnat2uDxaqEFtZ45JrMjWJ1ROAhzyIA&s",
+      "fuentePagina": "https://cookidoo.es/recipes/recipe/es-ES/r720210",
+      "titulo": "Pastel floral",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlJ2ecnat2uDxaqEFtZ45JrMjWJ1ROAhzyIA&s",
+      "original": "https://assets.tmecosys.com/image/upload/t_web_rdp_recipe_584x480_1_5x/img/recipe/ras/Assets/f8b97977-36f1-4feb-9008-afa91d790a00/Derivates/5beaac72-3441-4c7d-861c-195437f5861d.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/cake/es/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvwKGA8rkZPrVEZ5DMT0eQ1bJ4k_2liQKsUQ&s",
+      "fuentePagina": "https://thesweetmolcajete.com/pastel-de-mantequilla-con-buttercream-y-ganache-de-chocolate/",
+      "titulo": "PASTEL DE MANTEQUILLA CON BUTTERCREAM Y GANACHE DE CHOCOLATE",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvwKGA8rkZPrVEZ5DMT0eQ1bJ4k_2liQKsUQ&s",
+      "original": "https://thesweetmolcajete.com/wp-content/uploads/2018/02/Receta-de-Pastel-de-Mantequilla-con-relleno-y-cobertura-de-Chocolate-4.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/cake/es/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScud0ynmzIq4t2Sks86pqwlWMYnwMKPCcG7Q&s",
+      "fuentePagina": "https://www.cocinafacil.com.mx/recetas/hornear-pastel-de-cumpleanos",
+      "titulo": "Cómo hornear un pastel de cumpleaños perfecto",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScud0ynmzIq4t2Sks86pqwlWMYnwMKPCcG7Q&s",
+      "original": "https://editorialtelevisa.brightspotcdn.com/dims4/default/7c346bc/2147483647/strip/true/crop/700x700+250+0/resize/1000x1000!/quality/90/?url=https%3A%2F%2Fk2-prod-editorial-televisa.s3.us-east-1.amazonaws.com%2Fbrightspot%2F46%2F50%2Fc0d629b94bdd85e6ca9ecc65316f%2Fpastel-de-cumpleanos.jpg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/cake/es/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmUenGRS1vm0893rodBhfQh8b4r8gfR_Wa9Q&s",
+      "fuentePagina": "https://www.bettycrocker.lat/mx/recipe/pastel-maravilla-de-chocolate/",
+      "titulo": "Pastel maravilla de chocolate",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmUenGRS1vm0893rodBhfQh8b4r8gfR_Wa9Q&s",
+      "original": "https://www.bettycrocker.lat/mx/wp-content/uploads/sites/2/2020/12/BCmexico-recipe-pastel-maravilla-de-chocolate.png"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/cake/es/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnv2j5oAOkWgjUAUc6XD0fLIrwLxNBQYdvHA&s",
+      "fuentePagina": "https://recetas.elperiodico.com/receta-de-pastel-de-fresa-23942.html",
+      "titulo": "Receta de Pastel de fresa",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnv2j5oAOkWgjUAUc6XD0fLIrwLxNBQYdvHA&s",
+      "original": "https://cdn0.recetasgratis.net/es/posts/2/4/9/pastel_de_fresa_23942_orig.jpg"
+    }
+  ]
+}

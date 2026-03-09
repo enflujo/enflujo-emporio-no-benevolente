@@ -1,0 +1,71 @@
+{
+  "categoria": "truck",
+  "categoriaSlug": "truck",
+  "idioma": "hi",
+  "nombreIdioma": "हिन्दी",
+  "termino": "ट्रक",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T20:45:16.568Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "hi",
+    "gl": "in"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=%E0%A4%9F%E0%A5%8D%E0%A4%B0%E0%A4%95&hl=hi&gl=in",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/truck/hi/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRoNV0TWsOIxj5kaVozC5NREqC0NR1f1QLmmA&s",
+      "fuentePagina": "https://play.google.com/store/apps/details?id=com.vx.heavy.grand.indian.euro.spooky.truck&hl=hi",
+      "titulo": "Indian Truck Offroad Cargo 3D - Google Play पर ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRoNV0TWsOIxj5kaVozC5NREqC0NR1f1QLmmA&s",
+      "original": "https://play-lh.googleusercontent.com/BqEqN8tPzDA4TPhtBw7uCsjCKuaPc2jMzrBK9GM_YkQD7WipeYifQQpUqEIlIylkIRk"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/truck/hi/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRg-U7zwVsk7XjEnHQn6XuSq-YyvCiKn4IeUw&s",
+      "fuentePagina": "https://www.abplive.com/gk/why-truck-driver-tie-black-tube-strips-behind-truck-know-reason-behind-this-2304625",
+      "titulo": "Why Truck Driver tie black tube strips behind truck know ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRg-U7zwVsk7XjEnHQn6XuSq-YyvCiKn4IeUw&s",
+      "original": "https://feeds.abplive.com/onecms/images/uploaded-images/2023/01/10/d5073eae6847ef49e1c51642b0c8a2191673351445036617_original.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/truck/hi/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnj54G_PUFFsCj-tP-F0RVqz4lJ4JnM2lnqw&s",
+      "fuentePagina": "https://trucksfloor.com/hi/16-wheeler",
+      "titulo": "भारत में 16 व्हीलर/चक्का ट्रकों की ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnj54G_PUFFsCj-tP-F0RVqz4lJ4JnM2lnqw&s",
+      "original": "https://cdn.trucksfloor.com/vehicles/truck/trf/tata-lpt-4925/tata-lpt-4925-1.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/truck/hi/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_oStpH93GHWqnMhdFdQHJh3lUttm1XY6nkw&s",
+      "fuentePagina": "https://www.zeebiz.com/hindi/auto/truck-drivers-ac-cabin-mandatory-from-1-january-2025-government-issued-draft-papers-nitin-gadkari-news-134738",
+      "titulo": "ट्रक ड्राइवर्स को भी मिलेगी ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_oStpH93GHWqnMhdFdQHJh3lUttm1XY6nkw&s",
+      "original": "https://cdn.zeebiz.com/hindi/sites/default/files/2023/07/11/144633-truck.png"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/truck/hi/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYm0YsBgQEYFBcj6GXGG7phDbe_iQHo7jD0w&s",
+      "fuentePagina": "https://www.cmv360.com/hi/trucks/mahindra/blazo-x-haulage-35",
+      "titulo": "महिंद्रा ब्लेजो एक्स 35 कीमत ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYm0YsBgQEYFBcj6GXGG7phDbe_iQHo7jD0w&s",
+      "original": "https://www.cmv360.com/_next/image?url=https%3A%2F%2Fcmv360.s3.ap-southeast-1.amazonaws.com%2FMahindra_Blazo_X_35_Truck_3_75ead4291a.webp&w=3840&q=75"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/truck/hi/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPpKxcMclyLm7_NLkVjNX-X-SJsWFn3YBw0A&s",
+      "fuentePagina": "https://play.google.com/store/apps/details?id=com.citytruckgame.transportation.gt&hl=hi",
+      "titulo": "ट्रक वाला गेम: Truck Simulator - Google Play पर ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPpKxcMclyLm7_NLkVjNX-X-SJsWFn3YBw0A&s",
+      "original": "https://play-lh.googleusercontent.com/0YxJVTJCF99b9o8e3MdPjYvag27LIyWEnSVvzAm7l6gatzM9oC0Z5J-lakcPTagSNrwA"
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "categoria": "handbag",
+  "categoriaSlug": "handbag",
+  "idioma": "yo",
+  "nombreIdioma": "Yorùbá",
+  "termino": "àpo",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T20:57:38.297Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "yo",
+    "gl": "ng"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=%C3%A0po&hl=yo&gl=ng",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/handbag/yo/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTsDdPhOQZfaKiYHQvcIFiU4iQz9rH3ffHCQ&s",
+      "fuentePagina": "https://en.wikipedia.org/wiki/Mount_Apo",
+      "titulo": "Mount Apo - Wikipedia",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTsDdPhOQZfaKiYHQvcIFiU4iQz9rH3ffHCQ&s",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/d/d2/Tuktok_ng_Pilipinas.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/handbag/yo/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-fqAgPtSH5SPR2vmugNvsT_vBaAV0ECEERw&s",
+      "fuentePagina": "https://nollywire.com/titles/apo-the-bag/",
+      "titulo": "Apo (The Bag) - Nollywire",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-fqAgPtSH5SPR2vmugNvsT_vBaAV0ECEERw&s",
+      "original": "https://nollywire.com/wp-content/uploads/2023/09/Apo-2023-Nollywire.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/handbag/yo/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsjxJ56m0-UvYZVy7JifgaQynIUmDFW976VQ&s",
+      "fuentePagina": "https://blog.naijaspider.com/2024/06/24/area-guide-and-property-market-of-apo-abuja/",
+      "titulo": "Apo, Abuja : Area Guide | NaijaSpider Blog",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsjxJ56m0-UvYZVy7JifgaQynIUmDFW976VQ&s",
+      "original": "https://blog.naijaspider.com/wp-content/uploads/2024/06/Amina-Court-Apo-Abuja.webp"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/handbag/yo/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfGcw4BIj0Gj9B05oqUDmpHlVcHVesUo2Vqw&s",
+      "fuentePagina": "https://www.tripadvisor.com/Attraction_Review-g298459-d320862-Reviews-Mount_Apo-Davao_City_Davao_del_Sur_Province_Mindanao.html",
+      "titulo": "Mount Apo (2026) - All You MUST Know Before You Go (with ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfGcw4BIj0Gj9B05oqUDmpHlVcHVesUo2Vqw&s",
+      "original": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/05/9f/19/08/mount-apo.jpg?w=900&h=500&s=1"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/handbag/yo/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRh7IU_jFI9wa5eNjXMQM999IZOPSrTDyw9QQ&s",
+      "fuentePagina": "https://ikesuemmanuel.medium.com/is-apo-a-good-place-to-live-in-abuja-a-comprehensive-guide-emmanuel-ikesu-082502c1ffcf",
+      "titulo": "Is Apo a Good Place to Live in Abuja? A Comprehensive Guide ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRh7IU_jFI9wa5eNjXMQM999IZOPSrTDyw9QQ&s",
+      "original": "https://miro.medium.com/1*kqMbM4Nv2p0k1P8fh4ZHkg.jpeg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/handbag/yo/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJ6K9ZsPQCyQSP0hZ465QvO0N7l30p8MBtng&s",
+      "fuentePagina": "https://www.villaafrika.com/apo-dutse-district-guide/",
+      "titulo": "Apo Dutse Abuja | Area Guide - Villa Afrika Realty",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJ6K9ZsPQCyQSP0hZ465QvO0N7l30p8MBtng&s",
+      "original": "https://www.villaafrika.com/wp-content/uploads/2019/02/apo-dutse-houses.jpg"
+    }
+  ]
+}

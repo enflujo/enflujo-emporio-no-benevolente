@@ -1,0 +1,71 @@
+{
+  "categoria": "frisbee",
+  "categoriaSlug": "frisbee",
+  "idioma": "gn",
+  "nombreIdioma": "Guaraní",
+  "termino": "frisbee",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T20:59:50.421Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "es",
+    "gl": "py"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=frisbee&hl=es&gl=py",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/frisbee/gn/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS--HEhij0TKL78qgkqH35e9zEN_BEmFFmq6A&s",
+      "fuentePagina": "https://zabcafe.com/en/products/frizbee-cafelimo?srsltid=AfmBOorm4gKnAtuts8SpXzLfzklLZWTqjKqSLNRXsmHOanUTyr0jl8fn",
+      "titulo": "Cafélimo Frisbee – Zab Café",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS--HEhij0TKL78qgkqH35e9zEN_BEmFFmq6A&s",
+      "original": "https://zabcafe.com/cdn/shop/files/frisbee-cafelimo-sky.jpg?v=1748348264&width=1200"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/frisbee/gn/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdwodbmrVoOxkp0Pkjnbign4QYu1Jr16bi1w&s",
+      "fuentePagina": "https://www.decathlon.ph/p/ultimate-disc-original-175g-white-tribord-8590276.html",
+      "titulo": "Ultimate Disc Original 175g - White",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdwodbmrVoOxkp0Pkjnbign4QYu1Jr16bi1w&s",
+      "original": "https://contents.mediadecathlon.com/p2140421/k$2317974123b07ccd65c829aad67cefb9/ultimate-disc-original-175g-white-tribord-8590276.jpg?f=1920x0&format=auto"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/frisbee/gn/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOPPeUYRXc0mWVFPbMztz_8WmpOi3qORN0Uw&s",
+      "fuentePagina": "https://en.wikipedia.org/wiki/Frisbee",
+      "titulo": "Frisbee - Wikipedia",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOPPeUYRXc0mWVFPbMztz_8WmpOi3qORN0Uw&s",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Frisbee_090719.jpg/500px-Frisbee_090719.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/frisbee/gn/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHfgeluxAwql4gsa68EzcCKvkNeQNEBYrhzA&s",
+      "fuentePagina": "https://www.acefitness.org/continuing-education/prosource/june-2016/5914/ace-sponsored-research-can-you-get-fit-playing-ultimate-frisbee/?srsltid=AfmBOoo9bHjnvzLRCyTx23_Zaq_LSVY3nOeBUVhy-uZewd88KSg8tT2X",
+      "titulo": "ACE - ProSource™: June 2016 - ACE-SPONSORED RESEARCH: Can ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHfgeluxAwql4gsa68EzcCKvkNeQNEBYrhzA&s",
+      "original": "https://ik.imagekit.io/02fmeo4exvw/June2016/Frisbee_main.jpg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/frisbee/gn/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXRDBwt3pAm1U7UZEeDxsxP8z4nYTP-7Vt0Q&s",
+      "fuentePagina": "https://wham-o.com/products/frisbee%C2%AE-ultimate%C2%AE-1?srsltid=AfmBOoptg5t0O5ZAU3kUyPJD_afTQAqjtMMTrshVSvW4Ty5epNIpKSuQ",
+      "titulo": "Frisbee® Ultimate® | Wham-O®",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXRDBwt3pAm1U7UZEeDxsxP8z4nYTP-7Vt0Q&s",
+      "original": "https://wham-o.com/cdn/shop/files/Wham-O_Frisbee_Ultimate.webp?v=1741055636&width=2400"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/frisbee/gn/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWyD6mrETDDbj-R572NLHRkW9YOeWr3YrFXA&s",
+      "fuentePagina": "https://www.planetoys.com.py/compra-online/disco-frisbee-colores-surtidos/?srsltid=AfmBOoptv3plyJ2OiQbwnDq3dCsXodyOCuPDBim1T2jltmRWl6pG61g3",
+      "titulo": "Disco Frisbee Colores Surtidos",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWyD6mrETDDbj-R572NLHRkW9YOeWr3YrFXA&s",
+      "original": "https://www.planetoys.com.py/wp-content/uploads/2024/03/CJX055-012B.jpg"
+    }
+  ]
+}

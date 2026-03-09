@@ -1,0 +1,71 @@
+{
+  "categoria": "apple",
+  "categoriaSlug": "apple",
+  "idioma": "zu",
+  "nombreIdioma": "isiZulu",
+  "termino": "i-aphula",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:11:30.581Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "zu",
+    "gl": "za"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=i-aphula&hl=zu&gl=za",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/apple/zu/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjUl3YfUBBMTB5K5XHGZHpAU-_Op3_egKNKQ&s",
+      "fuentePagina": "https://open.spotify.com/track/6iW3jTnYxaxBawbuIgBuRv",
+      "titulo": "I-Aphula - song and lyrics by Ijong'elihle | Spotify",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjUl3YfUBBMTB5K5XHGZHpAU-_Op3_egKNKQ&s",
+      "original": "https://i.scdn.co/image/ab67616d00001e02c341aa954ac4b9facd1c9afa"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/apple/zu/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQh9KR_jMWbrQJ9uK8Ly3ewElNtY3AisaI9A&s",
+      "fuentePagina": "https://www.tiktok.com/@hheshe.ngaleskhat/video/7443424267288579384",
+      "titulo": "Sidla i Aphula: Izingoma Zika Lwah Ndlunkulu",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQh9KR_jMWbrQJ9uK8Ly3ewElNtY3AisaI9A&s",
+      "original": "https://www.tiktok.com/api/img/?itemId=7443424267288579384&location=0&aid=1988"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/apple/zu/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSv27Lr_qdzbpf-pIJaoj_vWbYAoyzuGj2QPw&s",
+      "fuentePagina": "https://open.spotify.com/track/6iW3jTnYxaxBawbuIgBuRv",
+      "titulo": "I-Aphula - song and lyrics by Ijong'elihle | Spotify",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSv27Lr_qdzbpf-pIJaoj_vWbYAoyzuGj2QPw&s",
+      "original": "https://i.scdn.co/image/ab67616d00001e0279ab4aaa1947b80e8fd9395c"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/apple/zu/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNlyi0_S26B1N1Co03dvXtzj6DpttAdMOUqw&s",
+      "fuentePagina": "https://www.boomplay.com/songs/195358527",
+      "titulo": "STS ukudla kwendlebe - Sidla i Aphula Ngomese MP3 Download ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNlyi0_S26B1N1Co03dvXtzj6DpttAdMOUqw&s",
+      "original": "https://source.boomplaymusic.com/group10/M00/01/05/31566c01f70648db8b67c3ec8edc9a21H3000W3000_464_464.jpg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/apple/zu/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQG1vJCsKbJgYgA3hCQMbBYIOsw5InxN_mHjw&s",
+      "fuentePagina": "https://www.tiktok.com/@sibonile.ngubane/video/7594089174530149640",
+      "titulo": "#familytime Mxoleleni bakithi akakwazi ukusebenzisa i-aphula 😍😍😍❤️❤️❤️",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQG1vJCsKbJgYgA3hCQMbBYIOsw5InxN_mHjw&s",
+      "original": "https://www.tiktok.com/api/img/?itemId=7594089174530149640&location=0&aid=1988"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/apple/zu/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_K0Cj3UEEsoanXgkxDLc_ZMFp1tyz5Ja6HQ&s",
+      "fuentePagina": "https://www.facebook.com/Skhenqe/posts/ngigade-umzila-ngidla-i-aphula-ngommese-ngsiqhumisa-emoyeni-isiswebhu-ngyanibiza/1122702129858761/",
+      "titulo": "Ngigade umzila ngidla I aphula ngommese Ngsiqhumisa emoyeni ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_K0Cj3UEEsoanXgkxDLc_ZMFp1tyz5Ja6HQ&s",
+      "original": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=1122701383192169"
+    }
+  ]
+}

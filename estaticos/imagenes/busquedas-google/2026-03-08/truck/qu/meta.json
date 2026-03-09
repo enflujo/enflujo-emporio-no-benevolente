@@ -1,0 +1,71 @@
+{
+  "categoria": "truck",
+  "categoriaSlug": "truck",
+  "idioma": "qu",
+  "nombreIdioma": "Quechua",
+  "termino": "kamión",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T20:45:19.212Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "es",
+    "gl": "pe"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=kami%C3%B3n&hl=es&gl=pe",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/truck/qu/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbNma4qUnUV6ERSinE8pV7HZ5EcrtuV4UsFA&s",
+      "fuentePagina": "https://sk.wikipedia.org/wiki/Kami%C3%B3n",
+      "titulo": "Kamión – Wikipédia",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbNma4qUnUV6ERSinE8pV7HZ5EcrtuV4UsFA&s",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Scania_124L-Galliker_%28B%29-2003..jpg/250px-Scania_124L-Galliker_%28B%29-2003..jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/truck/qu/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVOZxUmWfZ1eUdxKVDu39YCq6kLnt8BG8EiQ&s",
+      "fuentePagina": "https://kprofiles.com/kamion-cosmosy-profile-and-facts/",
+      "titulo": "Kamión (cosmosy) Profile and Facts (Updated!) - Kpop Profiles",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVOZxUmWfZ1eUdxKVDu39YCq6kLnt8BG8EiQ&s",
+      "original": "https://kprofiles.com/wp-content/uploads/2024/12/Snapinsta.app_471873525_542597272264812_3987574201359046349_n_1080-800x800.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/truck/qu/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8MrQ2HH3ZkHfK3Olzj0jZ6dpn8FtOOWl0rQ&s",
+      "fuentePagina": "https://www.facebook.com/cruzo74/?locale=es_LA",
+      "titulo": "kamion truck (@cruzo74) • Facebook",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8MrQ2HH3ZkHfK3Olzj0jZ6dpn8FtOOWl0rQ&s",
+      "original": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=100068842975605"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/truck/qu/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzCzo1mED6xxLgeVIjOstiCVDbvewViOpVXQ&s",
+      "fuentePagina": "https://www.popydesign.cz/plakat-cerveny-kamion/",
+      "titulo": "Plakát - Červený kamión | PopyDesign - PopyDesign.cz",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzCzo1mED6xxLgeVIjOstiCVDbvewViOpVXQ&s",
+      "original": "https://www.popydesign.cz/gallery/products/middle/4622.jpg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/truck/qu/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuC8u8RJMAURsNQMa9Iz9vqVDfs29YhDhSfA&s",
+      "fuentePagina": "https://3ai-transport.sk/en/truck",
+      "titulo": "TRUCK - 3AI Transport",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuC8u8RJMAURsNQMa9Iz9vqVDfs29YhDhSfA&s",
+      "original": "http://3ai-transport.sk/wp-content/uploads/2019/07/kamion-dobry.jpg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/truck/qu/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAf9cxMxTkTMROqcuk0p_mYSpawQG_C7B5YA&s",
+      "fuentePagina": "https://www.warhammer.com/es-ES/shop/Kami%C3%B3n?srsltid=AfmBOoqSnwkWhDmRc1UhaIiKyzd7tCrm68RGEpAaauWQmB4zPWAzaFxj",
+      "titulo": "Kamión",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAf9cxMxTkTMROqcuk0p_mYSpawQG_C7B5YA&s",
+      "original": "https://www.warhammer.com/app/resources/catalog/product/threeSixty/99120103083_OrksTrukkOTT1360/01-01.jpg?fm=webp&w=650"
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "categoria": "fork",
+  "categoriaSlug": "fork",
+  "idioma": "nah",
+  "nombreIdioma": "Náhuatl",
+  "termino": "tenedor",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:08:23.329Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "es",
+    "gl": "mx"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=tenedor&hl=es&gl=mx",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/fork/nah/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0GQiHoC2VAiN5AeODIG8h80LIw4A3QXQZuQ&s",
+      "fuentePagina": "https://anforama.com/products/tenedor-mesa-4-acero-inoxidable?srsltid=AfmBOopgQoHfEHxTrbYo3zOs20RxyvaDLx5rTVjeg0wJljSCMDkiDnij",
+      "titulo": "Tenedor para Mesa de 18.3 cm a 4 dientes de Acero Inoxidable ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0GQiHoC2VAiN5AeODIG8h80LIw4A3QXQZuQ&s",
+      "original": "https://anforama.com/cdn/shop/files/TenedorparaMesaa4dientesdeAceroInoxidableEleganteToledoMovenM00120033.png?crop=center&height=1497&v=1756940560&width=1361"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/fork/nah/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8EkhIQ3DBYAFTZy8uBp0T-LV83sng798S-A&s",
+      "fuentePagina": "https://balos.mx/product/tenedor-mesa-180-peer-caja-c-12-pzas1",
+      "titulo": "ONE-B512FPLF - TENEDOR MESA 18/0 PEER CAJA C/ 12 PZAS",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8EkhIQ3DBYAFTZy8uBp0T-LV83sng798S-A&s",
+      "original": "https://balos.mx/assets/uploads/ONE-B512FPLF.JPEG"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/fork/nah/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLYeKmmPALeMtQrHUPFkTSHuGwtygCxZxA_Q&s",
+      "fuentePagina": "https://www.amazon.com.mx/Tenedor-acero-inoxidable-resistente-lavaplatos/dp/B08FHGQTRK",
+      "titulo": "Tenedor de cena de acero inoxidable 18/10, de 8 pulgadas, juego de 12,  resistente y apto para lavaplatos : Amazon.com.mx: Hogar y Cocina",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLYeKmmPALeMtQrHUPFkTSHuGwtygCxZxA_Q&s",
+      "original": "https://m.media-amazon.com/images/I/61z0LVrrowL._AC_UF894,1000_QL80_.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/fork/nah/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_IeB9WKkjMM2jU5SOJ-EkQjv72myawHe1XA&s",
+      "fuentePagina": "https://www.mesaregalos.mx/producto/tenedor-para-ensalada-albi/",
+      "titulo": "Tenedor para ensalada Albi. Christofle México",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_IeB9WKkjMM2jU5SOJ-EkQjv72myawHe1XA&s",
+      "original": "https://www.mesaregalos.mx/wp-content/uploads/2021/08/Salad_20fork_20Albi_20_20Silver_20plated_00021013000101_F_2_1.png"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/fork/nah/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHeuS8QC47U6wVOgj_n5DWdSBfzbMplNJ3Jg&s",
+      "fuentePagina": "https://www.vianca.mx/p/tenedor-para-fruta-minerva/?srsltid=AfmBOopMBJxqcFqzlSNhnQ4Wh3wKG9AgoP6ZYabuTdoHznhkuRvJ3k5p",
+      "titulo": "Tenedor para fruta Minerva",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHeuS8QC47U6wVOgj_n5DWdSBfzbMplNJ3Jg&s",
+      "original": "https://www.vianca.mx/wp-content/uploads/2020/05/004060_PROD-Tenedor-fruta-botana-Vianca-MInerva.jpg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/fork/nah/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4oVrNvDd1pu1Rw4CJ5aMTrZDKvsLcG2b6Fg&s",
+      "fuentePagina": "https://es.uline.mx/Product/Detail/S-22075/Utensils/Plastic-Sporks",
+      "titulo": "Cuchara-Tenedor de Plástico",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4oVrNvDd1pu1Rw4CJ5aMTrZDKvsLcG2b6Fg&s",
+      "original": "https://img.uline.com/is/image/uline/S-22075?$Mobile_Zoom$"
+    }
+  ]
+}

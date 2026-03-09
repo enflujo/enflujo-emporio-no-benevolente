@@ -1,0 +1,71 @@
+{
+  "categoria": "person",
+  "categoriaSlug": "person",
+  "idioma": "hi",
+  "nombreIdioma": "हिन्दी",
+  "termino": "व्यक्ति",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T20:40:44.919Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "hi",
+    "gl": "in"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=%E0%A4%B5%E0%A5%8D%E0%A4%AF%E0%A4%95%E0%A5%8D%E0%A4%A4%E0%A4%BF&hl=hi&gl=in",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/person/hi/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNyv0wbR6a-i_12TX7TdjjTN6HDL12Qa_iUQ&s",
+      "fuentePagina": "https://www.youtube.com/watch?v=hdlhR850X5k",
+      "titulo": "व्यक्ति को इंग्लिश में क्या कहते हैं ? vyakti ko English mein kya kahate  hain | Spoken English class",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNyv0wbR6a-i_12TX7TdjjTN6HDL12Qa_iUQ&s",
+      "original": "https://i.ytimg.com/vi/hdlhR850X5k/maxresdefault.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/person/hi/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4JWGxAdfJR2UAaFtJl-PZfA1G-17jhJABYg&s",
+      "fuentePagina": "https://www.youtube.com/watch?v=hCqyrRjBFl0",
+      "titulo": "व्यक्ति को इंग्लिश में क्या ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4JWGxAdfJR2UAaFtJl-PZfA1G-17jhJABYg&s",
+      "original": "https://i.ytimg.com/vi/hCqyrRjBFl0/hq720.jpg?sqp=-oaymwE7CK4FEIIDSFryq4qpAy0IARUAAAAAGAElAADIQj0AgKJD8AEB-AGMCIAC0AWKAgwIABABGGQgZSgkMA8=&rs=AOn4CLDOlG8RA_B-YNZ7MH7qxCFiRu8NJw"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/person/hi/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgXScNi4Zakoz3FHlQGUBsIQr-8sRBW2BMYA&s",
+      "fuentePagina": "https://www.bhaskar.com/jeevan-mantra/dharm/news/albert-einstein-quotes-quotes-of-albert-einstein-motivational-quotes-in-hindi-quotes-about-success-127776472.html",
+      "titulo": "albert Einstein quotes, quotes of albert Einstein ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgXScNi4Zakoz3FHlQGUBsIQr-8sRBW2BMYA&s",
+      "original": "https://images.bhaskarassets.com/web2images/521/2020/10/03/quote-alberteinstein_1601722215.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/person/hi/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQb9zpeQbxAXUZgECiAwAr9cgulbGDHVW-E6Q&s",
+      "fuentePagina": "https://in.pinterest.com/pin/373306256610621253/",
+      "titulo": "व्यक्ति क्या है ? ये महत्वपूर्ण ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQb9zpeQbxAXUZgECiAwAr9cgulbGDHVW-E6Q&s",
+      "original": "https://i.pinimg.com/736x/da/8f/11/da8f116cea37bda4bb17f59ff930d312.jpg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/person/hi/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGdF4eyXhi-XUiUlR_1RG3ycPo1eDyGWIecg&s",
+      "fuentePagina": "https://www.facebook.com/drarchanapriyaji/posts/%E0%A4%85%E0%A4%B9%E0%A4%82%E0%A4%95%E0%A4%BE%E0%A4%B0-%E0%A4%94%E0%A4%B0-%E0%A4%B8%E0%A4%82%E0%A4%B8%E0%A5%8D%E0%A4%95%E0%A4%BE%E0%A4%B0%E0%A4%85%E0%A4%B9%E0%A4%82%E0%A4%95%E0%A4%BE%E0%A4%B0-%E0%A4%B8%E0%A5%87-%E0%A4%AD%E0%A4%B0%E0%A4%BE-%E0%A4%B5%E0%A5%8D%E0%A4%AF%E0%A4%95%E0%A5%8D%E0%A4%A4%E0%A4%BF-%E0%A4%A6%E0%A5%82%E0%A4%B8%E0%A4%B0%E0%A5%8B%E0%A4%82-%E0%A4%95%E0%A5%8B-%E0%A4%A8%E0%A5%80%E0%A4%9A%E0%A4%BE-%E0%A4%A6%E0%A4%BF%E0%A4%96%E0%A4%BE-%E0%A4%95%E0%A4%B0-%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%B8%E0%A4%A8%E0%A5%8D%E0%A4%A8-%E0%A4%B9%E0%A5%8B%E0%A4%A4%E0%A4%BE-%E0%A4%B9%E0%A5%88-%E0%A4%B8%E0%A4%82/1339437318189690/",
+      "titulo": "अहंकार\" और \"संस्कार\" अहंकार से भरा ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGdF4eyXhi-XUiUlR_1RG3ycPo1eDyGWIecg&s",
+      "original": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=1339437291523026"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/person/hi/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSL8G7WF8AIqJD4iUHm55ap_ow4ifaLwZRoVw&s",
+      "fuentePagina": "https://www.bhaskar.com/jeevan-mantra/dharm/news/quotes-on-success-in-hindi-motivational-quotes-about-success-and-happiness-prerak-vichar-positive-thoughts-131061344.html",
+      "titulo": "quotes on success in hindi, motivational quotes about ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSL8G7WF8AIqJD4iUHm55ap_ow4ifaLwZRoVw&s",
+      "original": "https://images.bhaskarassets.com/web2images/521/2023/03/20/5-quotes6_1679300529.jpg"
+    }
+  ]
+}

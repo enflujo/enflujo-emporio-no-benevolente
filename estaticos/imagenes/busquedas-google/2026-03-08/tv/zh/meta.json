@@ -1,0 +1,71 @@
+{
+  "categoria": "tv",
+  "categoriaSlug": "tv",
+  "idioma": "zh",
+  "nombreIdioma": "中文",
+  "termino": "电视",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:21:23.844Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "zh-CN",
+    "gl": "cn"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=%E7%94%B5%E8%A7%86&hl=zh-CN&gl=cn",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/tv/zh/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfFV7uh0gyriEXyUbOhIPC8IA7ka_5T9XC2Q&s",
+      "fuentePagina": "https://consumer.panasonic.cn/product/homeav/led-tv/",
+      "titulo": "电视机-松下家电",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfFV7uh0gyriEXyUbOhIPC8IA7ka_5T9XC2Q&s",
+      "original": "https://consumer.panasonic.cn/static/upload/image/20230221/1676956873489976.png"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/tv/zh/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZM7K3h7BM1m2yhBRNWnshMC970h6QAlHk-g&s",
+      "fuentePagina": "https://www.philips.com.cn/c-p/65PUF8568_T3/8500-series-4k-uhd-led-smart-tv",
+      "titulo": "8500 series 4K UHD LED 智能电视65PUF8568/T3 | Philips -飞利浦",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZM7K3h7BM1m2yhBRNWnshMC970h6QAlHk-g&s",
+      "original": "https://images.philips.com/is/image/philipsconsumer/a52c8ab3f0de42559ff8b08f001f18f9"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/tv/zh/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxi4bDlD4hLqoZHqgUioiCSYX1qHupiW2ujg&s",
+      "fuentePagina": "https://consumer.panasonic.cn/product/homeav/led-tv/lx600.html",
+      "titulo": "4K悬浮全面屏AI智能语音电视-松下家电",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxi4bDlD4hLqoZHqgUioiCSYX1qHupiW2ujg&s",
+      "original": "https://consumer.panasonic.cn/static/upload/image/20221122/1669125612512361.png"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/tv/zh/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5MUWbDEzuuxiKUQY3Q9sOViMt0-6ujJkmHA&s",
+      "fuentePagina": "https://s1.mi.com/pages/162d18156abe38a3b32851b72b1d44f5/index.html",
+      "titulo": "小米电视新品上市",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5MUWbDEzuuxiKUQY3Q9sOViMt0-6ujJkmHA&s",
+      "original": "https://i8.mifile.cn/b2c-mimall-media/95013a877119f7dd64eefd4b47bee025.jpg?w=516&h=420"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/tv/zh/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkow9TgMwg4uKo1ic0UM8YzmJuoJSNTrF-9A&s",
+      "fuentePagina": "https://www.oppo.com/cn/accessories/oppo-tv-k9/",
+      "titulo": "OPPO 智能电视K9 十亿色彩，十分出彩| OPPO 官方网站",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkow9TgMwg4uKo1ic0UM8YzmJuoJSNTrF-9A&s",
+      "original": "https://www.oppo.com/content/dam/oppo/product-asset-library/iot/k9/cn/v1/index/assets/sec3-box1-1920.jpg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/tv/zh/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqaodFIpscURXv7glALZMNqtF6Ct2zwTfgCQ&s",
+      "fuentePagina": "https://www.samsung.com.cn/tvs/",
+      "titulo": "三星电视-QLED 8K电视-Samsung Lifestyle电视-4K超高清电视-三星 ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqaodFIpscURXv7glALZMNqtF6Ct2zwTfgCQ&s",
+      "original": "https://images.samsung.com.cn/is/image/samsung/assets/cn/tvs/2025/2025-tvs-pcd-f03-line-up-02-mo.jpg?$720_N_JPG$"
+    }
+  ]
+}

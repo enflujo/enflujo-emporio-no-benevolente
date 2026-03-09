@@ -1,0 +1,71 @@
+{
+  "categoria": "broccoli",
+  "categoriaSlug": "broccoli",
+  "idioma": "hi",
+  "nombreIdioma": "हिन्दी",
+  "termino": "ब्रोकोली",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:13:28.096Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "hi",
+    "gl": "in"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=%E0%A4%AC%E0%A5%8D%E0%A4%B0%E0%A5%8B%E0%A4%95%E0%A5%8B%E0%A4%B2%E0%A5%80&hl=hi&gl=in",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/broccoli/hi/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7yqOc3nazNQrj7hDqQamvYxWy3oBeb1xe2w&s",
+      "fuentePagina": "https://www.ekrishikendra.com/home/sen/t-12",
+      "titulo": "Broccoli Farming - ब्रोकोली की खेती....!",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7yqOc3nazNQrj7hDqQamvYxWy3oBeb1xe2w&s",
+      "original": "https://www.ekrishikendra.com/upload/back/training/admin/broccoli_adm_2023_09_30_04_59_31pm.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/broccoli/hi/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS94ZRQOcC3JJx6p4fbki1NoyN8vOS4v7snDw&s",
+      "fuentePagina": "https://www.amazon.in/-/hi/%E0%A4%AC%E0%A5%8D%E0%A4%B0%E0%A5%8B%E0%A4%95%E0%A5%8B%E0%A4%B2%E0%A5%80-%E0%A4%B8%E0%A4%AC%E0%A5%8D%E0%A4%9C%E0%A5%80-%E0%A4%AC%E0%A5%80%E0%A4%9C-%E0%A4%AC%E0%A4%BE%E0%A4%97%E0%A4%B5%E0%A4%BE%E0%A4%A8%E0%A5%80-%E0%A4%AC%E0%A5%80%E0%A4%9C%E0%A5%8B%E0%A4%82/dp/B0BJMF8LJ4",
+      "titulo": "ब्रोकोली सब्जी के बीज बागवानी के ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS94ZRQOcC3JJx6p4fbki1NoyN8vOS4v7snDw&s",
+      "original": "https://m.media-amazon.com/images/I/81PLxjDaK1L._AC_UF1000,1000_QL80_.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/broccoli/hi/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2sWxUhaL_HCReC5RCg7sBGahm5q_7xNP_Uw&s",
+      "fuentePagina": "https://www.abplive.com/lifestyle/health/broccoli-benefits-find-out-why-this-vegetable-is-a-food-here-are-reasons-1821668",
+      "titulo": "Broccoli Benefits: Find out why this vegetable is a food ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2sWxUhaL_HCReC5RCg7sBGahm5q_7xNP_Uw&s",
+      "original": "https://static.abplive.com/wp-content/uploads/sites/2/2021/03/18123807/pjimage-2021-03-18T070745.815.jpg?impolicy=abp_cdn&imwidth=640"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/broccoli/hi/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT31vCiClruvye8AwVjFsjpPZ3ox4j5v9JoyQ&s",
+      "fuentePagina": "https://www.youtube.com/watch?v=Muy90cUxPTE",
+      "titulo": "ब्रोकोली की सब्जी ऐसे बनायेंगे तो सब उंगलियाँ चाट-चाट कर खायेंगे/Broccoli  ki sabji /Broccoli recipe",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT31vCiClruvye8AwVjFsjpPZ3ox4j5v9JoyQ&s",
+      "original": "https://i.ytimg.com/vi/Muy90cUxPTE/maxresdefault.jpg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/broccoli/hi/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSundJ4AKAT9QpuPGx5udFijqJqkTbua8SRUA&s",
+      "fuentePagina": "https://hi.wikipedia.org/wiki/%E0%A4%AC%E0%A5%8D%E0%A4%B0%E0%A5%8B%E0%A4%95%E0%A4%B2%E0%A5%80",
+      "titulo": "ब्रोकली - विकिपीडिया",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSundJ4AKAT9QpuPGx5udFijqJqkTbua8SRUA&s",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Broccoli_and_cross_section_edit.jpg/250px-Broccoli_and_cross_section_edit.jpg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/broccoli/hi/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6iyv8_t25LEUbhcGnnMAZLJxiTXnCQnl0lg&s",
+      "fuentePagina": "https://ndtv.in/food-lifestyle/health-benefits-of-broccoli-7-wonderful-benefits-of-broccoli-for-immunity-iron-and-diabetes-2361635",
+      "titulo": "Benefits Of Broccoli: इम्यूनिटी, आयरन और ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6iyv8_t25LEUbhcGnnMAZLJxiTXnCQnl0lg&s",
+      "original": "https://c.ndtvimg.com/f8iqlsco_broccoli_625x300_23_July_18.jpg"
+    }
+  ]
+}

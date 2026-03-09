@@ -1,0 +1,71 @@
+{
+  "categoria": "sheep",
+  "categoriaSlug": "sheep",
+  "idioma": "hi",
+  "nombreIdioma": "हिन्दी",
+  "termino": "भेड़",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T20:52:35.980Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "hi",
+    "gl": "in"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=%E0%A4%AD%E0%A5%87%E0%A4%A1%E0%A4%BC&hl=hi&gl=in",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/sheep/hi/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWwrrd9RAX0NqIM7A-njtaEuMWOoathSG8Ow&s",
+      "fuentePagina": "https://hi.wikipedia.org/wiki/%E0%A4%AD%E0%A5%87%E0%A4%A1%E0%A4%BC",
+      "titulo": "भेड़ - विकिपीडिया",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWwrrd9RAX0NqIM7A-njtaEuMWOoathSG8Ow&s",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Lleyn_sheep.jpg/250px-Lleyn_sheep.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/sheep/hi/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKNMC9pKqyW3HpRSed3LMwO_cHMbTRP1X4cg&s",
+      "fuentePagina": "https://animalsss.com/Blog/101/%E0%A4%AD%E0%A4%A1-%E0%A4%AA%E0%A4%B2%E0%A4%A8-%E0%A4%B5%E0%A4%AF%E0%A4%AA%E0%A4%B0",
+      "titulo": "भेड़ पालन व्यापार | Animals Super Store",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKNMC9pKqyW3HpRSed3LMwO_cHMbTRP1X4cg&s",
+      "original": "https://animalsss.com/media/Blog/goatsandsheep-31561f526a0347e3a9c722bf678ae646.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/sheep/hi/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTigEhymwLJWttIr4zYOQEbwCbhnrI-dLcrTw&s",
+      "fuentePagina": "https://www.aajtak.in/visualstories/agriculture/sheep-farming-avishaan-breed-of-sheep-is-beneficial-for-animal-husbandry-in-terms-of-milk-and-wool-production-ralbsa-165308-31-08-2024",
+      "titulo": "इस नस्ल की भेड़ पालकर कमाएं लाखों ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTigEhymwLJWttIr4zYOQEbwCbhnrI-dLcrTw&s",
+      "original": "https://cf-img-a-in.tosshub.com/sites/visualstory/wp/2024/08/1ab29db01182637acff324a1987e5cf7.jpg?size=*:900"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/sheep/hi/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWArc2QE2L6S9HVYOuP8rAswYF0P8AdX_G6Q&s",
+      "fuentePagina": "https://www.apnikheti.com/hn/pn/%E0%A4%AA%E0%A4%B6%E0%A5%81/%E0%A4%AD%E0%A5%87%E0%A4%A1%E0%A4%BC/%E0%A4%AE%E0%A5%88%E0%A4%B0%E0%A5%80%E0%A4%A8%E0%A5%8B",
+      "titulo": "मैरीनो | भेड़ के बारे में जानकारी",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWArc2QE2L6S9HVYOuP8rAswYF0P8AdX_G6Q&s",
+      "original": "https://www.apnikheti.com/upload/liveStock/7963idea99merino-sheep.jpg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/sheep/hi/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUJse3m12yPkAIbjPlh32Jw4mJpF1g5BVMew&s",
+      "fuentePagina": "https://hindi.news18.com/news/nation/sheep-farming-benefits-and-profit-diseases-milk-production-reproduction-breeds-5208077.html",
+      "titulo": "Sheep Farming: भेड़ के व्यवसाय से हो ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUJse3m12yPkAIbjPlh32Jw4mJpF1g5BVMew&s",
+      "original": "https://images.news18.com/ibnkhabar/uploads/2023/01/sheep-1-16735161313x2.jpg?im=FitAndFill,width=1200,height=675"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/sheep/hi/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTx0gxYl8DJqQCpma6yF40xc52peyKPva5Ag&s",
+      "fuentePagina": "https://www.reddit.com/r/sheep/comments/1ju8ckn/what_sheep/?tl=hi",
+      "titulo": "ये क्या भेड़ है? : r/sheep",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTx0gxYl8DJqQCpma6yF40xc52peyKPva5Ag&s",
+      "original": "https://i.redd.it/what-sheep-v0-2v5oxh08jkte1.jpg?width=3024&format=pjpg&auto=webp&s=0095ae9e63feb31224ce3cf5155558ea7b299235"
+    }
+  ]
+}

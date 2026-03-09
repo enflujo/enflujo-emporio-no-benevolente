@@ -1,0 +1,71 @@
+{
+  "categoria": "tie",
+  "categoriaSlug": "tie",
+  "idioma": "es",
+  "nombreIdioma": "Español",
+  "termino": "corbata",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T20:58:38.883Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "es",
+    "gl": "es"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=corbata&hl=es&gl=es",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/tie/es/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYO35Ej-eEousWLZst_ZM9wF0kYkD2Dl10sA&s",
+      "fuentePagina": "https://trinitycollege.es/tienda/corbata/",
+      "titulo": "Corbata - Trinity College",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYO35Ej-eEousWLZst_ZM9wF0kYkD2Dl10sA&s",
+      "original": "https://trinitycollege.es/wp-content/uploads/2021/07/CorbataTC.png"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/tie/es/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvdO-HPJDNmUQ26MSbwzlr5x_EEwn7I0Pqog&s",
+      "fuentePagina": "https://www.confex.es/corbatas-lazos/11-corbata-saten-negra.html",
+      "titulo": "Corbata negra de satén | Elegante, de calidad y económica ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvdO-HPJDNmUQ26MSbwzlr5x_EEwn7I0Pqog&s",
+      "original": "https://www.confex.es/1504-large_default/corbata-saten-negra.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/tie/es/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7-yGAlgeBMD8Es7fCZ33yLCVW4Y0jc5DsDA&s",
+      "fuentePagina": "https://sastreriaforaster.es/5-claves-para-elegir-la-corbata-adecuada/",
+      "titulo": "5 claves para elegir la corbata adecuada - Sastrería Foraster",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7-yGAlgeBMD8Es7fCZ33yLCVW4Y0jc5DsDA&s",
+      "original": "https://sastreriaforaster.es/wp-content/uploads/2021/02/corbata-color.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/tie/es/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPcrZsNJxXRxyZUQFmmkkwdssz2TKunYvWGQ&s",
+      "fuentePagina": "https://www.freepik.es/fotos-vectores-gratis/corbata-dibujo",
+      "titulo": "Imágenes de Corbata dibujo - Descarga gratuita en Freepik",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPcrZsNJxXRxyZUQFmmkkwdssz2TKunYvWGQ&s",
+      "original": "https://img.freepik.com/vector-gratis/conjunto-corbatas-varios-estilos_78370-9463.jpg?semt=ais_rp_50_assets&w=740&q=80"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/tie/es/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6OfkIBErs71ynp7yimtrybeznAR4YzKH3Qw&s",
+      "fuentePagina": "https://www.amazon.es/BAJIE-Corbata-pa%C3%B1uelo-Negocios-Gemelos/dp/B09PDVQTHY",
+      "titulo": "BAJIE Corbata Hombre, Corbata de Seda para Hombre, Corbata de Boda a Rayas,  Color sólido, Azul Oscuro, pañuelo de Negocios para Hombre, Gemelos, ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6OfkIBErs71ynp7yimtrybeznAR4YzKH3Qw&s",
+      "original": "https://m.media-amazon.com/images/I/81coW-U2vWL._AC_UF894,1000_QL80_.jpg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/tie/es/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIaQTez5Usk3sHyZed9LzHiRJrvNdQLyFFNQ&s",
+      "fuentePagina": "https://www.istockphoto.com/es/fotos/dibujo-corbata",
+      "titulo": "97.200+ Dibujo Corbata Fotografías de stock, fotos e ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIaQTez5Usk3sHyZed9LzHiRJrvNdQLyFFNQ&s",
+      "original": "https://media.istockphoto.com/id/925793072/es/vector/corbata.jpg?s=612x612&w=0&k=20&c=52TCOI2r9Od1akDef5ak0r-7oyl9fQfyLgJf4V36uJA="
+    }
+  ]
+}

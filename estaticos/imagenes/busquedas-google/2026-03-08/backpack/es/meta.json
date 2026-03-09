@@ -1,0 +1,71 @@
+{
+  "categoria": "backpack",
+  "categoriaSlug": "backpack",
+  "idioma": "es",
+  "nombreIdioma": "Español",
+  "termino": "mochila",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T20:56:42.021Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "es",
+    "gl": "es"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=mochila&hl=es&gl=es",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/backpack/es/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfKzwIqmQOYG7ULOWHcm_v5xLKGgLApnxg_w&s",
+      "fuentePagina": "https://www.adidas.es/mochila-classic-3-bar-logo/JI6953.html",
+      "titulo": "Mochila Classic 3 Bar Logo",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfKzwIqmQOYG7ULOWHcm_v5xLKGgLApnxg_w&s",
+      "original": "https://assets.adidas.com/images/w_600,f_auto,q_auto/83e8a50f81c044e69c9d3274af19fb2d_9366/Mochila_Classic_3_Bar_Logo_Negro_JI6953_01_00_standard.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/backpack/es/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpa2I6uQ-nJUAxWMRBAKGWATHh1xBVFEDcVg&s",
+      "fuentePagina": "https://www.regalospublicitarios.com/mochila-de-poliester-rpet-600d-bapal-plus?srsltid=AfmBOorhaoW1h266dk1StmduG6SHQfzs-bmjnMCThfXQkfwTLVnG2BS0",
+      "titulo": "Mochila de poliéster rpet 600d Bapal+",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpa2I6uQ-nJUAxWMRBAKGWATHh1xBVFEDcVg&s",
+      "original": "https://cdn1.midocean.com/image/700X700/mo6703-60.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/backpack/es/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTB-xA5Xz17ERlIGdWeW5tXZQ9CDKLrVzmYcA&s",
+      "fuentePagina": "https://coolpack.es/mochilas-de-viaje/mochila-urbana-trek-black-10158?srsltid=AfmBOopgvkE_b8qCCvEE-VxW9xZZJylAqyIs36Pu-haYEznb2d1L3Iyk",
+      "titulo": "Mochila viaje TREK Black",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTB-xA5Xz17ERlIGdWeW5tXZQ9CDKLrVzmYcA&s",
+      "original": "https://coolpack.es/20896-large_default/mochila-urbana-trek-black.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/backpack/es/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTV1PL3x1dAK3MxNAFEY2M0T22acUtu4YOiaw&s",
+      "fuentePagina": "https://www.sprintersports.com/mochila-nike-academy-0364878",
+      "titulo": "Mochila Nike Academy - Negro - Mochila 22 L | Sprinter",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTV1PL3x1dAK3MxNAFEY2M0T22acUtu4YOiaw&s",
+      "original": "https://resize.sprintercdn.com/b/1504x2256/products/0364878/mochila-nike-academy_0364878_00_5_548813159.jpg?w=1504&q=75"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/backpack/es/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5Iw-KbCVDoQJqt5NDLQbt6es5X9lqJ3k1Pg&s",
+      "fuentePagina": "https://www.carrefour.es/mochila-mujer-para-portatil-14-rosa-peachskin-adelaide-1-20/7704758843201/p",
+      "titulo": "Mochila Mujer Para Portátil 14\" Rosa Peachskin - Adelaide 1 2.0",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5Iw-KbCVDoQJqt5NDLQbt6es5X9lqJ3k1Pg&s",
+      "original": "https://storage.googleapis.com/catalog-pictures-carrefour-es/catalog/pictures/hd_510x_/7704758843201_1.jpg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/backpack/es/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBa100Yx1ADuDGL80UCCmZooLYTW7KpPHX4A&s",
+      "fuentePagina": "https://www.elcorteingles.es/papeleria/A55704988-mochila-viaje-cabina-portatil-156-safta/",
+      "titulo": "Mochila viaje cabina portátil 15,6'' Safta · Safta · El ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBa100Yx1ADuDGL80UCCmZooLYTW7KpPHX4A&s",
+      "original": "https://dam.elcorteingles.es/producto/www-001006625461998-00.jpg?impolicy=Resize&width=1200&height=1200"
+    }
+  ]
+}

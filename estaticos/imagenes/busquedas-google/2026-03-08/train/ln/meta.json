@@ -1,0 +1,71 @@
+{
+  "categoria": "train",
+  "categoriaSlug": "train",
+  "idioma": "ln",
+  "nombreIdioma": "Lingala",
+  "termino": "tere",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T20:44:15.975Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "fr",
+    "gl": "cd"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=tere&hl=fr&gl=cd",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/train/ln/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSW-8GdUMGOiuXtX5VIhLW6SSki9kRbT2dgeA&s",
+      "fuentePagina": "https://tr.wikipedia.org/wiki/Tere",
+      "titulo": "Tere - Vikipedi",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSW-8GdUMGOiuXtX5VIhLW6SSki9kRbT2dgeA&s",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Tereler.JPG"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/train/ln/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7ZVOf8qC99IF0F2bcwJ6CLr1T6joQlON2sw&s",
+      "fuentePagina": "https://medipol.com.tr/saglik-rehberi/terenin-faydalari-nelerdir",
+      "titulo": "Terenin Faydaları Nelerdir? Tere Otu Neye İyi Gelir ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7ZVOf8qC99IF0F2bcwJ6CLr1T6joQlON2sw&s",
+      "original": "https://media.medipol.com.tr/assets/s3fs-public/styles/just_webp/public/2025-12/tere.jpg.webp?itok=dR6jhdHv"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/train/ln/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQo8gMEUGoTrM2wSq4vqXIO2WuquR5GTAookw&s",
+      "fuentePagina": "https://www.acibadem.com.tr/hayat/tere-otu-nedir/",
+      "titulo": "Tere Otu Nedir? Faydaları Nelerdir? - Acıbadem Hayat",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQo8gMEUGoTrM2wSq4vqXIO2WuquR5GTAookw&s",
+      "original": "https://www.acibadem.com.tr/hayat/Images/YayinMakaleler/tere-otu-nedir_315332_1.gif"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/train/ln/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRt2uuVZlPUMuMXNdwxM4ZcaRs8vAxw0yu7Q&s",
+      "fuentePagina": "https://www.sebzemeyvedunyasi.com/tere-otu?srsltid=AfmBOorrKFi1HBN4qQxgFtwd57AvlCn1UONnzZDp6NZ5GDUcSnkNxOd3",
+      "titulo": "Tere Otu Siparişi | SEBZE MEYVE DÜNYASI | 0216 491 05 70",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRt2uuVZlPUMuMXNdwxM4ZcaRs8vAxw0yu7Q&s",
+      "original": "https://static.ticimax.cloud/cdn-cgi/image/width=-,quality=85/11919/uploads/urunresimleri/buyuk/tere-otu-demet-41fa.png"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/train/ln/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGjZQ1DOO7NsF63vvMiSYdtvEv-4lxeT9hBQ&s",
+      "fuentePagina": "https://www.youtube.com/watch?v=O9P1g9q1JtM",
+      "titulo": "Toofan - \"TERÉ TERÉ\" (Official Video)",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGjZQ1DOO7NsF63vvMiSYdtvEv-4lxeT9hBQ&s",
+      "original": "https://i.ytimg.com/vi/O9P1g9q1JtM/maxresdefault.jpg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/train/ln/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXH0VEgdkNtAqXa1KKhx3FWNnHwdQkezh1nQ&s",
+      "fuentePagina": "https://www.medicana.com.tr/tere-otu-neye-iyi-gelir-tere-otunun-yan-etkileri-nelerdir/blog/23865",
+      "titulo": "Tere otu neye iyi gelir? Tere otunun yan etkileri nelerdir ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXH0VEgdkNtAqXa1KKhx3FWNnHwdQkezh1nQ&s",
+      "original": "https://img.medicana.com.tr/photo/r/tere-otu__23-34302_WebImage_b.webp"
+    }
+  ]
+}

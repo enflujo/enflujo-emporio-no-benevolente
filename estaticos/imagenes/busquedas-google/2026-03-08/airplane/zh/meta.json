@@ -1,0 +1,71 @@
+{
+  "categoria": "airplane",
+  "categoriaSlug": "airplane",
+  "idioma": "zh",
+  "nombreIdioma": "中文",
+  "termino": "飞机",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T20:43:26.713Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "zh-CN",
+    "gl": "cn"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=%E9%A3%9E%E6%9C%BA&hl=zh-CN&gl=cn",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/airplane/zh/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXU1uHyPROECpgwzIXrJI7SrbYe-RZfP12hw&s",
+      "fuentePagina": "https://www.epochtimes.com/gb/18/6/11/n10473129.htm",
+      "titulo": "飞机高空飞行中打开舱门会发生什么事？ | 压力| 温度| 降落| 大紀元",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXU1uHyPROECpgwzIXrJI7SrbYe-RZfP12hw&s",
+      "original": "https://i.epochtimes.com/assets/uploads/2018/06/Fotolia_16956926_Subscription_L.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/airplane/zh/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9i92FZ7sJlnx3RPjS8cke_4rxAIzLQXI4uQ&s",
+      "fuentePagina": "https://www.asiacharterjets.com/hawker-800/",
+      "titulo": "豪客800XP - 私人飞机系列",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9i92FZ7sJlnx3RPjS8cke_4rxAIzLQXI4uQ&s",
+      "original": "https://cdn.shortpixel.ai/spai/w_865+q_+ret_img+to_webp/www.asiacharterjets.com/wp-content/uploads/hawker-800.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/airplane/zh/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT51dQNqKigrUSkSUNWhbcJY__W-nlp9kEDrw&s",
+      "fuentePagina": "https://science.caixin.com/2023-06-09/102064076.html",
+      "titulo": "研究：气候危机会增加飞机颠簸风险",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT51dQNqKigrUSkSUNWhbcJY__W-nlp9kEDrw&s",
+      "original": "https://img.caixin.com/2023-06-09/168631039101893_480_320.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/airplane/zh/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8Xdi04FgqGDwYKfmAevjFr5sNg7YYMw_RkA&s",
+      "fuentePagina": "https://www.pinprestige.com/my/lifestyle/most-expensive-private-planes/",
+      "titulo": "世上最昂贵的私人飞机| 马版｜MALAYSIA - 《品PIN Prestige》",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8Xdi04FgqGDwYKfmAevjFr5sNg7YYMw_RkA&s",
+      "original": "https://images.pinprestige.com/wp-content/uploads/sites/3/2023/05/30201419/Bombardier-Global-8000-.jpg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/airplane/zh/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBbuqnrVSD7vycuW0-XtaV5wqLPhT3gxz1mg&s",
+      "fuentePagina": "https://www.wenxiaobai.com/api/expends/detail?article=9e0cd8d8-055b-4979-b4e3-5446d9d7f633",
+      "titulo": "为什么飞机在飞行过程中会增加高度？",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBbuqnrVSD7vycuW0-XtaV5wqLPhT3gxz1mg&s",
+      "original": "https://wy-static.wenxiaobai.com/aigc-online/delogo_9921e5b4-f703-493a-a3a9-c25192c94711.webp?ratioWH=1.5&type=opt"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/airplane/zh/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6xdTZ2xNSklIlwVdGvo-NrqL3Eh52h8VmJw&s",
+      "fuentePagina": "https://zh.wikipedia.org/zh-cn/%E9%A3%9B%E6%A9%9F",
+      "titulo": "飞机- 维基百科，自由的百科全书",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6xdTZ2xNSklIlwVdGvo-NrqL3Eh52h8VmJw&s",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/ANA_777-300_Taking_off_from_JFK.jpg/330px-ANA_777-300_Taking_off_from_JFK.jpg"
+    }
+  ]
+}

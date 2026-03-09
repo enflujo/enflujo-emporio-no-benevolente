@@ -1,0 +1,71 @@
+{
+  "categoria": "refrigerator",
+  "categoriaSlug": "refrigerator",
+  "idioma": "sw",
+  "nombreIdioma": "Kiswahili",
+  "termino": "jokofu",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:27:24.932Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "sw",
+    "gl": "tz"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=jokofu&hl=sw&gl=tz",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/refrigerator/sw/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQM_q_WiSGDK_NyCuatkMuvkuQqxkqVdiOqQA&s",
+      "fuentePagina": "https://venusjapan.com/swc-cd/bidhaa/venus-refrigerator-350-l-silver/",
+      "titulo": "Jokofu VG352 CS 350 L - Venus - Vifaa vya Nyumbani vya Premium",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQM_q_WiSGDK_NyCuatkMuvkuQqxkqVdiOqQA&s",
+      "original": "https://venusjapan.com/wp-content/uploads/2024/05/VG-352-CS-PAGE-1.png"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/refrigerator/sw/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqxKV8PDScRzWqTThuML7nqSgOnyZEC-lhKw&s",
+      "fuentePagina": "https://www.mwananchi.co.tz/mw/habari/kitaifa/epuka-haya-unapohidfadhivyakula-katika-jokofu-lako-3776828",
+      "titulo": "Epuka haya unapohidfadhivyakula katika jokofu lako | Mwananchi",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqxKV8PDScRzWqTThuML7nqSgOnyZEC-lhKw&s",
+      "original": "https://www.mwananchi.co.tz/resource/image/3776834/landscape_ratio3x2/1620/1080/aae35f8fd570e50c7be46a70d4eec3b7/tE/jojkofu-pic.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/refrigerator/sw/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbRlBZJIsn6DIGL3bvpg9aHvlvEoqigdu-0Q&s",
+      "fuentePagina": "https://sw.wikipedia.org/wiki/Jokofu",
+      "titulo": "Jokofu - Wikipedia, kamusi elezo huru",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbRlBZJIsn6DIGL3bvpg9aHvlvEoqigdu-0Q&s",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/0/09/Food_into_a_refrigerator_-_20111002.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/refrigerator/sw/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3sYSV60MxMD7XLnUc0NOlkKuZU9FK0sLyQA&s",
+      "fuentePagina": "https://sw.wanbao-refrigerator.com/top-mount-refrigerator/61807368.html",
+      "titulo": "Jokofu iliyo sawa ya milango miwili ya Juu Mtengenezaji wa China",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3sYSV60MxMD7XLnUc0NOlkKuZU9FK0sLyQA&s",
+      "original": "https://bsg-i.nbxc.com/product/df/a3/25/faa83c6bee0baa78e6448c91f8.png@watermark=2&text=c3cud2FuYmFvLXJlZnJpZ2VyYXRvci5jb20%3D&t=75&color=I0ZGRkZGRg%3D%3D&s=20&size=19&p=9%7C95Q.webp"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/refrigerator/sw/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4ZY7DpNydQo6Rn6JF4ZX-RzWTO8QQTX5OAQ&s",
+      "fuentePagina": "https://www.mwananchi.co.tz/mw/habari/kitaifa/jokofu-la-nyumbani-latumika-kuhifadhi-dawa--4487136",
+      "titulo": "Jokofu la nyumbani latumika kuhifadhi dawa | Mwananchi",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4ZY7DpNydQo6Rn6JF4ZX-RzWTO8QQTX5OAQ&s",
+      "original": "https://www.mwananchi.co.tz/resource/image/4487140/portrait_ratio1x1/1600/1600/d55cac092053cc6182f4590d3e00304e/oE/jokofu-pic.jpg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/refrigerator/sw/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvQa4BJj9VZgbRzjajflpYTSjYpQqf1vGdGw&s",
+      "fuentePagina": "https://www.facebook.com/photo.php?fbid=1115196541951496&id=156821827788977&set=a.156826347788525",
+      "titulo": "Samsung - Jokofu zetu zinapatikana kwa rangi hii pia ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvQa4BJj9VZgbRzjajflpYTSjYpQqf1vGdGw&s",
+      "original": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=1115196541951496"
+    }
+  ]
+}

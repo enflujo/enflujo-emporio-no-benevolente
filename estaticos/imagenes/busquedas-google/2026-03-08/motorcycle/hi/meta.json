@@ -1,0 +1,71 @@
+{
+  "categoria": "motorcycle",
+  "categoriaSlug": "motorcycle",
+  "idioma": "hi",
+  "nombreIdioma": "हिन्दी",
+  "termino": "मोटरसाइकिल",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T20:42:39.966Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "hi",
+    "gl": "in"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=%E0%A4%AE%E0%A5%8B%E0%A4%9F%E0%A4%B0%E0%A4%B8%E0%A4%BE%E0%A4%87%E0%A4%95%E0%A4%BF%E0%A4%B2&hl=hi&gl=in",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/motorcycle/hi/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8H1LRxrZZl8A12kjbbCbwso6OMgUQqGdwJA&s",
+      "fuentePagina": "https://www.tradeindia.com/hi/products/ecent-style-best-in-class-mileage-great-features-dream-motorcycle-honda-bike-7823153.html",
+      "titulo": "ईवेंट स्टाइल बेस्ट इन क्लास ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8H1LRxrZZl8A12kjbbCbwso6OMgUQqGdwJA&s",
+      "original": "https://tiimg.tistatic.com/fp/1/007/823/ecent-style-best-in-class-mileage-great-features-dream-motorcycle-honda-bike-153.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/motorcycle/hi/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIhFvXDRJhmyjda15UyeDQhRV_cdWSgjz3bg&s",
+      "fuentePagina": "https://hindi.news18.com/news/auto/bikes-best-bikes-under-1-lakh-with-abs-disk-brake-digital-meter-8886548.html",
+      "titulo": "जेब में है 1 लाख और खरीदनी है बाइक ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIhFvXDRJhmyjda15UyeDQhRV_cdWSgjz3bg&s",
+      "original": "https://images.news18.com/ibnkhabar/uploads/2024/11/New-TVS-Apache-160-4V-2024-11-3da70a6bafa3fda076838da010b979a4.jpg?impolicy=website&width=640&height=480"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/motorcycle/hi/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwHL2AH-l_jEW_KyDPHexeWIiek6EdoqtHtw&s",
+      "fuentePagina": "https://fj.dayiscooter.com/electric-motorcycle/10000w-motorcycle-125e/fastest-electric-motorcycle-bikes-scooters.html",
+      "titulo": "चीन सबसे तेज़ इलेक्ट्रिक ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwHL2AH-l_jEW_KyDPHexeWIiek6EdoqtHtw&s",
+      "original": "https://fj.dayiscooter.com/uploads/202322475/fastest-electric-motorcycle-bikes-scooters007f5195-274f-488a-83da-587369326b7f.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/motorcycle/hi/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkDzJ9V6LbfNZVfK3QdjOOt-WvTcJzdtIULg&s",
+      "fuentePagina": "https://navbharattimes.indiatimes.com/auto/car-bikes/september-2025-motorcycle-sales-report-hero-splendor-honda-shine-pulsar-hf-deluxe-platina-apache/articleshow/124800872.cms",
+      "titulo": "September 2025 Most Selling Motorcycle,Hero Splendor का ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkDzJ9V6LbfNZVfK3QdjOOt-WvTcJzdtIULg&s",
+      "original": "https://static.langimg.com/nbt/thumb/124800872/hero-splendor.jpg?imgsize=32032&width=1600&height=900&resizemode=75"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/motorcycle/hi/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLVNAzhjJB-NowE0YspG1bLvINXd5KR7CeYQ&s",
+      "fuentePagina": "https://hi.wikipedia.org/wiki/%E0%A4%AE%E0%A5%8B%E0%A4%9F%E0%A4%B0%E0%A4%B8%E0%A4%BE%E0%A4%87%E0%A4%95%E0%A4%BF%E0%A4%B2",
+      "titulo": "मोटरसाइकिल - विकिपीडिया",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLVNAzhjJB-NowE0YspG1bLvINXd5KR7CeYQ&s",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Offroad_Triumph.jpg/1200px-Offroad_Triumph.jpg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/motorcycle/hi/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4rgpfTMj2wuJVQ_2kLUDCeQBkfrLQ4rI-rw&s",
+      "fuentePagina": "https://www.amazon.in/-/hi/Maisto-%E0%A4%B8%E0%A5%8D%E0%A4%95%E0%A5%87%E0%A4%B2-%E0%A4%B8%E0%A5%8D%E0%A4%AA%E0%A5%87%E0%A4%B6%E0%A4%B2-%E0%A4%AE%E0%A5%8B%E0%A4%9F%E0%A4%B0%E0%A4%B8%E0%A4%BE%E0%A4%87%E0%A4%95%E0%A4%BF%E0%A4%B2-Yamaha/dp/B0008EJIYC",
+      "titulo": "Maisto 1:12 स्केल स्पेशल एडिशन मोटरसाइकिल - Yamaha : Amazon.in: खिलौने और  गेम",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4rgpfTMj2wuJVQ_2kLUDCeQBkfrLQ4rI-rw&s",
+      "original": "https://m.media-amazon.com/images/I/71dUjh-N6vL._AC_UF1000,1000_QL80_.jpg"
+    }
+  ]
+}

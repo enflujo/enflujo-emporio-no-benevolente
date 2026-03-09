@@ -1,0 +1,71 @@
+{
+  "categoria": "stop sign",
+  "categoriaSlug": "stop-sign",
+  "idioma": "ar",
+  "nombreIdioma": "العربية",
+  "termino": "إشارة قف",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T20:47:57.738Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "ar",
+    "gl": "eg"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=%D8%A5%D8%B4%D8%A7%D8%B1%D8%A9%20%D9%82%D9%81&hl=ar&gl=eg",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/stop-sign/ar/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuWzjAovZWUTuC1Akxsx3z_1LROhysz7fPfA&s",
+      "fuentePagina": "https://x.com/ToyotaALJ/status/575308884518158336",
+      "titulo": "إشارة قف تعني الوقوف التام و التأكد من خلو الطريق المراد ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuWzjAovZWUTuC1Akxsx3z_1LROhysz7fPfA&s",
+      "original": "https://pbs.twimg.com/media/B_voYd0VEAAUNOt.png"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/stop-sign/ar/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWxNNK5i7fckwcbirksFGf7uP9l7n1ybJvBA&s",
+      "fuentePagina": "https://www.youm7.com/story/2019/5/12/%D8%A5%D8%B4%D8%A7%D8%B1%D8%A9-%D9%85%D8%B1%D9%88%D8%B1-%D8%AA%D8%B9%D8%B1%D9%81-%D8%B9%D9%84%D9%89-%D8%B9%D9%84%D8%A7%D9%85%D8%A7%D8%AA-%D8%AA%D9%86%D8%B0%D8%B1-%D8%A8%D9%88%D8%AC%D9%88%D8%AF-%D8%AF%D9%88%D8%B1%D8%A7%D9%86-%D9%88%D8%A3%D8%B9%D9%85%D8%A7%D9%84-%D8%AA%D8%B7%D9%88%D9%8A%D8%B1/4238049",
+      "titulo": "إشارة مرور.. تعرف على علامات تنذر بوجود دوران وأعمال تطوير ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWxNNK5i7fckwcbirksFGf7uP9l7n1ybJvBA&s",
+      "original": "https://img.youm7.com/ArticleImgs/2019/5/12/42084-%D8%B9%D9%84%D8%A7%D9%85%D8%A7%D8%AA-%D9%85%D8%B1%D9%88%D8%B1%D9%8A%D8%A9.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/stop-sign/ar/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmNRsWQUtJPIAsPv6wKQLCZo4oXXcsOyRq_Q&s",
+      "fuentePagina": "https://ae.linkedin.com/posts/mohammed-boumeddiene-893104160_%D8%A5%D8%B4%D8%A7%D8%B1%D8%A9-%D9%82%D9%81-%D9%84%D9%85%D8%A7%D8%AF%D8%A7-%D8%B5%D9%85%D9%85%D8%AA-%D8%A8%D8%B4%D9%83%D9%84-%D8%AB%D9%85%D8%A7%D9%86%D9%8A-%D8%A7%D9%84%D8%A3%D8%B6%D9%84%D8%A7%D8%B9-%D8%B9%D9%83%D8%B3-activity-7181637972734148608-JHJY",
+      "titulo": "إشارة قف لمادا صممت بشكل ثماني الأضلاع عكس باقي إشارات المنع ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmNRsWQUtJPIAsPv6wKQLCZo4oXXcsOyRq_Q&s",
+      "original": "https://media.licdn.com/dms/image/v2/D4E22AQFx6-bOzSYy7g/feedshare-shrink_2048_1536/feedshare-shrink_2048_1536/0/1712235919791?e=2147483647&v=beta&t=44MewlGWTZSQdwNEvWE_PhbgalU7Z6lf1Ccr_OmrfR0"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/stop-sign/ar/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5CB1nSFpzQn1l8gvANGXzDv-Asle0wXqvWQ&s",
+      "fuentePagina": "https://ar.wikipedia.org/wiki/%D9%85%D9%84%D9%81:Zeichen_206_-_Halt!_Vorfahrt_gew%C3%A4hren!_StVO_1970.svg",
+      "titulo": "ملف:Zeichen 206 - Halt! Vorfahrt gewähren! StVO 1970.svg ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5CB1nSFpzQn1l8gvANGXzDv-Asle0wXqvWQ&s",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Zeichen_206_-_Halt%21_Vorfahrt_gew%C3%A4hren%21_StVO_1970.svg/250px-Zeichen_206_-_Halt%21_Vorfahrt_gew%C3%A4hren%21_StVO_1970.svg.png"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/stop-sign/ar/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOauTPkv1NSniLtOlADwKm9jc6phHGvlqpWQ&s",
+      "fuentePagina": "https://www.youtube.com/watch?v=wRsD_i5GCag",
+      "titulo": "العلامات المرورية علامة قف الدرس الاول stop sign",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOauTPkv1NSniLtOlADwKm9jc6phHGvlqpWQ&s",
+      "original": "https://i.ytimg.com/vi/wRsD_i5GCag/maxresdefault.jpg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/stop-sign/ar/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWCz8Nt2q5eJ8HQa4aKfCBFQUG4YuyT-_f2A&s",
+      "fuentePagina": "https://vector.ma/vectors/a34b8e3e-5fa8-4bc6-b3a6-b2d3c0bd534e",
+      "titulo": "vector.ma | علامة قف vector",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWCz8Nt2q5eJ8HQa4aKfCBFQUG4YuyT-_f2A&s",
+      "original": "https://api.vector.ma/vectors/thumbnail/a34b8e3e-5fa8-4bc6-b3a6-b2d3c0bd534e"
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "categoria": "orange",
+  "categoriaSlug": "orange",
+  "idioma": "en",
+  "nombreIdioma": "English",
+  "termino": "orange",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:12:29.048Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "en",
+    "gl": "us"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=orange&hl=en&gl=us",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/orange/en/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTct4QnA6zwU4tyn9vq_ADJ8Ey6RfIWK-6V6g&s",
+      "fuentePagina": "https://en.wikipedia.org/wiki/Orange_(fruit)",
+      "titulo": "Orange (fruit) - Wikipedia",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTct4QnA6zwU4tyn9vq_ADJ8Ey6RfIWK-6V6g&s",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/e/e3/Oranges_-_whole-halved-segment.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/orange/en/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCrnqmz2Sk9fOUssBuaP02dtvIKaPbGSwOAA&s",
+      "fuentePagina": "https://en.wikipedia.org/wiki/Orange_(word)",
+      "titulo": "Orange (word) - Wikipedia",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCrnqmz2Sk9fOUssBuaP02dtvIKaPbGSwOAA&s",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/4/43/Ambersweet_oranges.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/orange/en/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZbB_doR9LVg_xVbDXOOZc3TNbgNCEIzLLKw&s",
+      "fuentePagina": "https://www.quanta.org/orange/",
+      "titulo": "Orange",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZbB_doR9LVg_xVbDXOOZc3TNbgNCEIzLLKw&s",
+      "original": "https://www.quanta.org/orange/orange.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/orange/en/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-6GoLpPXoOkT0lAuFcxXwJSQ7nxtRQqVJLg&s",
+      "fuentePagina": "https://www.dole.com/produce/oranges",
+      "titulo": "Orange Juice Nutritional Value | Dole",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-6GoLpPXoOkT0lAuFcxXwJSQ7nxtRQqVJLg&s",
+      "original": "https://www.dole.com/sites/default/files/media/2025-01/oranges.png"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/orange/en/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTq779novU3KONBe9aIfxT3xiPXaNf8Pslfw&s",
+      "fuentePagina": "https://www.britannica.com/plant/orange-fruit",
+      "titulo": "Orange | Vitamins, Minerals & Health Benefits | Britannica",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTq779novU3KONBe9aIfxT3xiPXaNf8Pslfw&s",
+      "original": "https://cdn.britannica.com/24/174524-050-A851D3F2/Oranges.jpg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/orange/en/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShDZibBehmTA9pQayLFU2USSAPr8MBVIhBdQ&s",
+      "fuentePagina": "https://chemwatch.net/blog/the-humble-orange/",
+      "titulo": "The Humble Orange - Chemwatch",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShDZibBehmTA9pQayLFU2USSAPr8MBVIhBdQ&s",
+      "original": "https://chemwatch.net/wp-content/uploads/2021/11/image-6.jpeg"
+    }
+  ]
+}

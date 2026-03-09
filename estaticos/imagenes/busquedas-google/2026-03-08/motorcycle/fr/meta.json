@@ -1,0 +1,71 @@
+{
+  "categoria": "motorcycle",
+  "categoriaSlug": "motorcycle",
+  "idioma": "fr",
+  "nombreIdioma": "Français",
+  "termino": "moto",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T20:42:27.628Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "fr",
+    "gl": "be"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=moto&hl=fr&gl=be",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/motorcycle/fr/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHQOmnaTd3-Yf8irK9AYv1jTPoZC8U7RW4nQ&s",
+      "fuentePagina": "https://fr.wikipedia.org/wiki/Moto",
+      "titulo": "Moto — Wikipédia",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHQOmnaTd3-Yf8irK9AYv1jTPoZC8U7RW4nQ&s",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/4/45/Yamaha_MT-07_2025_EICMA_2024.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/motorcycle/fr/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLxcCEhAcOb7Kj3YMlDYbXzdrjgXWRcAX3fQ&s",
+      "fuentePagina": "https://lesbikeuses.fr/c/motos/130-190-poids/",
+      "titulo": "130kg - 190kg - Les Bikeuses",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLxcCEhAcOb7Kj3YMlDYbXzdrjgXWRcAX3fQ&s",
+      "original": "https://lesbikeuses.fr/wp-content/uploads/2022/07/lxs-125-lexmoto.png"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/motorcycle/fr/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMKWr9u0e74M2SQ16izvlJslCnoM85xUmIgA&s",
+      "fuentePagina": "https://www.cf-moto.fr/moto/",
+      "titulo": "Gamme moto | CFMOTO France",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMKWr9u0e74M2SQ16izvlJslCnoM85xUmIgA&s",
+      "original": "https://www.cf-moto.fr/moto/wp-content/uploads/sites/2/2025/05/CFMOTO-125NK-Bleu-34-avant.webp"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/motorcycle/fr/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQoHWvfW31fVVxarCTYj9uVOMXv3VUa4Vwd7Q&s",
+      "fuentePagina": "https://ventmoto.it/fr/moto/baja-50/",
+      "titulo": "BAJA 50 - VENT MOTO Srl",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQoHWvfW31fVVxarCTYj9uVOMXv3VUa4Vwd7Q&s",
+      "original": "https://ventmoto.it/wp-content/uploads/2021/06/VENTMOTO_0002_Baja-50-Rosso-5.jpg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/motorcycle/fr/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFQ3xXQxVt5s8Y7BL84ejyavZsZN7oGUGM_w&s",
+      "fuentePagina": "https://monimoto.com/fr/blog/motos-1000cc/",
+      "titulo": "Le Top 11 Des Motos 1000cc - Monimoto FR",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFQ3xXQxVt5s8Y7BL84ejyavZsZN7oGUGM_w&s",
+      "original": "https://monimoto.com/media/moto-1000cc.jpg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/motorcycle/fr/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEQAKP7aJ1AS-f6ky4CUHp7sJ6xzlt9oobrg&s",
+      "fuentePagina": "https://deux-roues.auto-moto.com/vie-du-motard-actualites/trail-juin-2025-marche-28085",
+      "titulo": "Ces motos détrônent les roadsters, les nouveaux chouchous ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEQAKP7aJ1AS-f6ky4CUHp7sJ6xzlt9oobrg&s",
+      "original": "https://photos.auto-moto.com/34/2025/07/photo_article/28085/382440/1200-L-ces-motos-dtrnent-les-roadsters-les-nouveaux-chouchous-des-motards-franais.jpg"
+    }
+  ]
+}

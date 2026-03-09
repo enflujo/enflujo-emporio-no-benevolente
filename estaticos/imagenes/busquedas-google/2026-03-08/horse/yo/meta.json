@@ -1,0 +1,71 @@
+{
+  "categoria": "horse",
+  "categoriaSlug": "horse",
+  "idioma": "yo",
+  "nombreIdioma": "Yorùbá",
+  "termino": "ẹṣin",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T20:51:47.104Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "yo",
+    "gl": "ng"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=%E1%BA%B9%E1%B9%A3in&hl=yo&gl=ng",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/horse/yo/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQoxecvfd-FlhlavF3FnxhPtM-aHWb6aRcM8A&s",
+      "fuentePagina": "https://yo.wikipedia.org/wiki/%E1%BA%B8%E1%B9%A3in",
+      "titulo": "Ẹṣin - Wikipedia, ìwé-ìmọ̀ ọ̀fẹ́",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQoxecvfd-FlhlavF3FnxhPtM-aHWb6aRcM8A&s",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Mangalarga_Marchador.jpg/250px-Mangalarga_Marchador.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/horse/yo/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_rLsCZPEhafSbGDD1SSrH6Ur3X-v51HWPWw&s",
+      "fuentePagina": "https://en.wiktionary.org/wiki/%E1%BA%B9%E1%B9%A3in",
+      "titulo": "ẹṣin - Wiktionary, the free dictionary",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_rLsCZPEhafSbGDD1SSrH6Ur3X-v51HWPWw&s",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Angkor_SiemReap_Cambodia_Horse-at-Angkor_Wat-01.jpg/250px-Angkor_SiemReap_Cambodia_Horse-at-Angkor_Wat-01.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/horse/yo/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9j37H1xEy-gDORZ4bYLkxx-O5-NZQBA0zOg&s",
+      "fuentePagina": "https://www.facebook.com/bello.ifeoluwa.437353/photos/%E1%BA%B9%E1%B9%A3inhorse%E1%BA%B9-pa-%C3%B2we-t%C3%B3-n%C3%AD-%E1%BA%B9%E1%B9%A3in-n%C3%ADn%C3%BA-t%C3%A0b%C3%AD-s%E1%BB%8D-gb%C3%B3l%C3%B3h%C3%B9n-t%C3%B3-n%C3%AD-%E1%BA%B9%E1%B9%A3in-n%C3%ADn%C3%BA-proverb-prove/2354750494976528/",
+      "titulo": "Bello - Ẹṣin(Horse) Ẹ pa òwe tó ní 'Ẹṣin' nínú, tàbí sọ ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9j37H1xEy-gDORZ4bYLkxx-O5-NZQBA0zOg&s",
+      "original": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=2354750494976528"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/horse/yo/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRxVPSTHReBzwcAHMNj3X70_yEmvUnufLjXQ&s",
+      "fuentePagina": "https://www.bbc.com/yoruba/articles/c0er0d88wdlo",
+      "titulo": "Àwọn òṣìṣẹ́ fẹ̀yìntì ìpínlẹ̀ Ọyọ fi ẹṣin funfun ta Gómìnà ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRxVPSTHReBzwcAHMNj3X70_yEmvUnufLjXQ&s",
+      "original": "https://ichef.bbci.co.uk/ace/ws/640/cpsprodpb/4ea3/live/57cdc280-012b-11f1-a8b8-bdd2c5f9bcad.jpg.webp"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/horse/yo/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQ7-ikqs-cmr-KsSKWIAx3dvyGIh5jSQQRYw&s",
+      "fuentePagina": "https://www.instagram.com/p/DKpcgH9I6rr/",
+      "titulo": "Ẹṣin ń pe ara wọn ránṣẹ́ níbi Ọdún Durbar nilùú Ilorin ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQ7-ikqs-cmr-KsSKWIAx3dvyGIh5jSQQRYw&s",
+      "original": "https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3650574297625459770"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/horse/yo/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7TXWX1Ip9FTq5o9uLgoTGWzza0pwbhdSOSQ&s",
+      "fuentePagina": "https://www.bbc.com/yoruba/articles/c74q2521y9vo",
+      "titulo": "Ọmọọbabìnrin Adesile tó ń fi ẹṣin dábírà l'Ojude Oba - BBC ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7TXWX1Ip9FTq5o9uLgoTGWzza0pwbhdSOSQ&s",
+      "original": "https://ichef.bbci.co.uk/images/ic/512xn/p0lj3hc9.jpg.webp"
+    }
+  ]
+}

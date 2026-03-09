@@ -1,0 +1,71 @@
+{
+  "categoria": "baseball glove",
+  "categoriaSlug": "baseball-glove",
+  "idioma": "am",
+  "nombreIdioma": "Amharic — አማርኛ",
+  "termino": "የቤዝቦል ጓንት",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:03:35.649Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "am",
+    "gl": "et"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=%E1%8B%A8%E1%89%A4%E1%8B%9D%E1%89%A6%E1%88%8D%20%E1%8C%93%E1%8A%95%E1%89%B5&hl=am&gl=et",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/baseball-glove/am/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLaFwXwMM1BM_G2v1rAcqiv2LCmJ2w2Xsd8g&s",
+      "fuentePagina": "https://am.hiconpopdisplays.com/functional-4-sided-silver-metal-baseball-glove-display-stand-product/",
+      "titulo": "ቻይና ተግባራዊ ባለ 4-ጎን ሲልቨር ሜታል ቤዝቦል ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLaFwXwMM1BM_G2v1rAcqiv2LCmJ2w2Xsd8g&s",
+      "original": "https://www.hiconpopdisplays.com/uploads/Functional-4-Sided-Silver-Metal-Baseball-Glove-Display-Stand-3.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/baseball-glove/am/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJOZlY2xa0HuXIEnsdjFlYqbRBbWatBridXg&s",
+      "fuentePagina": "https://platform.everychildready.org/sites/default/files/2021-06/PK3%20Unit%2011%20ECR%20%40%20Home_Amharic_0.pdf",
+      "titulo": "ክፍል 11",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJOZlY2xa0HuXIEnsdjFlYqbRBbWatBridXg&s",
+      "original": "x-raw-image:///9794fc4c06dfafeada21efd96e87fb0a2b6313c6a4e472a3f1889d5e1279b8c7"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/baseball-glove/am/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4Iwgsx_4AFxqk7ux2gUcqlWxuyu376H-h2g&s",
+      "fuentePagina": "https://am.lapelpinmaker.com/baseball-medals-product/",
+      "titulo": "የቻይና ቤዝቦል ሜዳሊያዎች ፋብሪካ እና አምራቾች ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4Iwgsx_4AFxqk7ux2gUcqlWxuyu376H-h2g&s",
+      "original": "http://cdncn.goodao.net/lapelpinmaker/BASEBALL-MEDALS.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/baseball-glove/am/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuqVfLK6_5eL0u-HCDPYqQBCE36-D_QgjwyQ&s",
+      "fuentePagina": "http://am.fzgolden.com/new-colored-cotton-striped-baseball-cap-for-kids-outdoor-sports-cap-product/",
+      "titulo": "በጅምላ አዲስ ባለ 6 ፓኔል ባለቀለም ጥጥ ልጆች ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuqVfLK6_5eL0u-HCDPYqQBCE36-D_QgjwyQ&s",
+      "original": "https://cdn.globalso.com/fzgolden/d41.jpg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/baseball-glove/am/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWk5gVmzAUUOoggsUNxHnIIAbtgY2cBJ-8nA&s",
+      "fuentePagina": "https://www.fzgolden.com/am/cheapest-reflective-glove-supplier-reflective-knitted-adult-mitten-fuzhi-product/",
+      "titulo": "በጅምላ በጣም ርካሹ አንጸባራቂ ጓንት አቅራቢ ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWk5gVmzAUUOoggsUNxHnIIAbtgY2cBJ-8nA&s",
+      "original": "https://cdn.globalso.com/fzgolden/0aca2963.jpg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/baseball-glove/am/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9XLsb0CcI-o0dHQB-YduEFB2xt04FjFvMkw&s",
+      "fuentePagina": "https://www.fzgolden.com/am/cheapest-reflective-glove-supplier-reflective-knitted-adult-mitten-fuzhi-product/",
+      "titulo": "በጅምላ በጣም ርካሹ አንጸባራቂ ጓንት አቅራቢ ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9XLsb0CcI-o0dHQB-YduEFB2xt04FjFvMkw&s",
+      "original": "https://cdn.globalso.com/fzgolden/8495d565.jpg"
+    }
+  ]
+}

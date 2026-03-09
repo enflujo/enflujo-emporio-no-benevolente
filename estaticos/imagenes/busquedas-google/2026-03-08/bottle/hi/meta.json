@@ -1,0 +1,71 @@
+{
+  "categoria": "bottle",
+  "categoriaSlug": "bottle",
+  "idioma": "hi",
+  "nombreIdioma": "हिन्दी",
+  "termino": "बोतल",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:06:22.524Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "hi",
+    "gl": "in"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=%E0%A4%AC%E0%A5%8B%E0%A4%A4%E0%A4%B2&hl=hi&gl=in",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bottle/hi/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIsaGh4Mj5aP2HT-z3YBO4h5tqdyj6g4Bu1w&s",
+      "fuentePagina": "https://www.moglix.com/dhara-quench-900-700ml-stainless-steel-pink-water-bottle-dbquepn900/mp/msng9vno2xe6kp?srsltid=AfmBOopZK09iS5ggRHybLARQIXFQDvl2OJJj2PTIYO01AAQzpbQVJiTZ",
+      "titulo": "Dhara Quench 900 700ml Stainless Steel Pink Water Bottle, DBQUEPN900",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIsaGh4Mj5aP2HT-z3YBO4h5tqdyj6g4Bu1w&s",
+      "original": "https://cdn.moglix.com/p/vqNuzVHV83GYU-xxlarge.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bottle/hi/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7RoYTJI98g-tVMNtd9bVMx2Lp-_jj8qC7dg&s",
+      "fuentePagina": "https://www.rasoishop.com/hi/products/milton-aura-thermosteel-bottle-hot-and-cold-1-pc?srsltid=AfmBOop4H1K4bIi0HlheZWjAIhiW0a5Hj3i-2zkMmsMrP2iiA7gVbRnB",
+      "titulo": "मिल्टन ऑरा थर्मोस्टील बोतल | गर्म ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7RoYTJI98g-tVMNtd9bVMx2Lp-_jj8qC7dg&s",
+      "original": "http://www.rasoishop.com/cdn/shop/products/8902061212632-6.jpg?v=1680976635"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bottle/hi/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsl-qfIIGAmNtx0-VNWUZwcGgeLIK8uYEfiw&s",
+      "fuentePagina": "https://www.amazon.in/-/hi/JUGTE-%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A5%87%E0%A4%B0%E0%A4%95-%E0%A4%B2%E0%A5%80%E0%A4%95%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A5%82%E0%A4%AB-%E0%A4%9F%E0%A5%8D%E0%A4%B0%E0%A5%88%E0%A4%95%E0%A4%BF%E0%A4%82%E0%A4%97-%E0%A4%AE%E0%A4%BE%E0%A4%B0%E0%A5%8D%E0%A4%95%E0%A5%8D%E0%A4%B8/dp/B0CDS6H1KL",
+      "titulo": "JUGTE प्रेरक पानी की बोतल समय और क्षमता मार्कर के साथ लीकप्रूफ अटूट पानी की  बोतल जिम ऑफिस के लिए 3 दैनिक ट्रैकिंग टाइम मार्क्स (नीला) प्लास्टिक, 2 ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsl-qfIIGAmNtx0-VNWUZwcGgeLIK8uYEfiw&s",
+      "original": "https://m.media-amazon.com/images/I/71qa1cXgV6L._AC_UF1000,1000_QL80_.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bottle/hi/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_xrxKrmoAHPBthaP2OIYxLwVeRNZuKn_QOQ&s",
+      "fuentePagina": "https://www.rasoishop.com/hi/products/milton-kool-convex-insulated-water-bottle-1-pc?srsltid=AfmBOoqLpQMOMIpNvlJb3Aw9WyepoP-pbzJrQqz4fTFxHgp3tDAWH5Ov",
+      "titulo": "मिल्टन कूल कॉन्वेक्स इंसुलेटेड ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_xrxKrmoAHPBthaP2OIYxLwVeRNZuKn_QOQ&s",
+      "original": "https://www.rasoishop.com/cdn/shop/products/kool_convex_1100_-_1024_x_1024_px_3.jpg?v=1680976512&width=1445"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bottle/hi/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSy2U4nemBx28KI2hdhKyr1-DsVWG9SBFTQ6w&s",
+      "fuentePagina": "https://www.vishalmegamart.com/hi-in/%E0%A4%B9%E0%A5%8B%E0%A4%AE-%E0%A4%94%E0%A4%B0-%E0%A4%95%E0%A4%BF%E0%A4%9A%E0%A4%A8/%E0%A4%9F%E0%A5%87%E0%A4%AC%E0%A4%B2%E0%A4%B5%E0%A5%87%E0%A4%AF%E0%A4%B0-%E0%A4%94%E0%A4%B0-%E0%A4%A1%E0%A4%BF%E0%A4%A8%E0%A4%B0%E0%A4%B5%E0%A5%87%E0%A4%AF%E0%A4%B0/%E0%A4%97%E0%A4%BF%E0%A4%B2%E0%A4%BE%E0%A4%B8-%E0%A4%9C%E0%A4%97-%E0%A4%94%E0%A4%B0-%E0%A4%AC%E0%A5%8B%E0%A4%A4%E0%A4%B2/%E0%A4%B9%E0%A5%8B%E0%A4%AE-%E0%A4%B8%E0%A5%87%E0%A4%B2%E0%A5%87%E0%A4%95%E0%A5%8D%E0%A4%9F-580-ml-%E0%A4%AA%E0%A5%8D%E0%A4%B2%E0%A4%BE%E0%A4%B8%E0%A5%8D%E0%A4%9F%E0%A4%BF%E0%A4%95-%E0%A4%AA%E0%A4%BE%E0%A4%A8%E0%A5%80-%E0%A4%95%E0%A5%80-%E0%A4%AC%E0%A5%8B%E0%A4%A4%E0%A4%B2/1211011115.html",
+      "titulo": "होम सेलेक्ट 580 ml प्लास्टिक पानी ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSy2U4nemBx28KI2hdhKyr1-DsVWG9SBFTQ6w&s",
+      "original": "https://www.vishalmegamart.com/dw/image/v2/BGHT_PRD/on/demandware.static/-/Sites-vmm-gm-master-catalog/default/dwf3979fa2/images/large/1211011115.jpg?sw=900&sh=900"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bottle/hi/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGVa-IeoRpawZzMHaYOqsMEikgbMNsRbs3Eg&s",
+      "fuentePagina": "https://www.amazon.in/-/hi/Home-Tune-23oz-%E0%A4%AC%E0%A4%9A%E0%A5%8D%E0%A4%9A%E0%A5%8B%E0%A4%82-%E0%A4%AA%E0%A4%BE%E0%A4%A8%E0%A5%80/dp/B08X44J5V1",
+      "titulo": "Home Tune 23oz बच्चों की पानी पीने की बोतल - BPA फ़्री, पुश-बटन, फ्लिप  ढक्कन, कैरी लूप लाइटवेट, लीक-प्रूफ वाटर बॉटल क्यूट डिज़ाइन के साथ लड़कियों  और ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGVa-IeoRpawZzMHaYOqsMEikgbMNsRbs3Eg&s",
+      "original": "https://m.media-amazon.com/images/I/714CnKktb8L._AC_UF1000,1000_QL80_.jpg"
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "categoria": "banana",
+  "categoriaSlug": "banana",
+  "idioma": "ha",
+  "nombreIdioma": "Hausa",
+  "termino": "ayaba",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:10:44.891Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "ha",
+    "gl": "ng"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=ayaba&hl=ha&gl=ng",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/banana/ha/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxQeuIOeANjIWBzaoy2ZMGYPWThEZmbpdgmA&s",
+      "fuentePagina": "https://ha.wikipedia.org/wiki/Ayaba",
+      "titulo": "Ayaba - Wikipedia",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxQeuIOeANjIWBzaoy2ZMGYPWThEZmbpdgmA&s",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/3/31/Cavendish_banana_from_Maracaibo.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/banana/ha/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQr2-7UD93AFtRIQqzo2IreZQFwLKOv7e_prA&s",
+      "fuentePagina": "https://ha.wikipedia.org/wiki/Ayaba",
+      "titulo": "Ayaba - Wikipedia",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQr2-7UD93AFtRIQqzo2IreZQFwLKOv7e_prA&s",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Banana_delivery.jpg/250px-Banana_delivery.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/banana/ha/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2YbxOJfNz_QzXYdJVG5RuMKEIjM7Xmg0XsQ&s",
+      "fuentePagina": "https://bakandamiya.com/ayaba/",
+      "titulo": "Ayaba | Bakandamiya",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2YbxOJfNz_QzXYdJVG5RuMKEIjM7Xmg0XsQ&s",
+      "original": "https://eejsccb469o.exactdn.com/wp-content/uploads/2025/01/C_Q5KJQokzdi0I-GzSflK0Q11ssYUUvsxokDSZVr4bc.jpg?strip=all"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/banana/ha/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFRE2vucvJhoS0yA_56q0_LoRsQxEqLTldCg&s",
+      "fuentePagina": "https://www.youtube.com/watch?v=uEKsAE_3gjM",
+      "titulo": "Amfanin Ayaba Goma Sha biyar a jikin Dan Adam",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFRE2vucvJhoS0yA_56q0_LoRsQxEqLTldCg&s",
+      "original": "https://i.ytimg.com/vi/uEKsAE_3gjM/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLCQECxKdLVVk9IkkZcZBrtUlHmLVQ"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/banana/ha/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTUwmjd1PKEKNKH8SPNzUGDxm23nHVyGUQTg&s",
+      "fuentePagina": "https://hausa.legit.ng/1120872-amfanin-ayaba-guda-7-a-jikin-mutum.html",
+      "titulo": "Amfanin ayaba guda 7 a jikin mutum - Legit.ng",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTUwmjd1PKEKNKH8SPNzUGDxm23nHVyGUQTg&s",
+      "original": "https://cdn.legit.ng/images/1120/vllkyt13rs6q42k31.jpeg?v=1"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/banana/ha/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbhSAob6VMPU2KSZNmJRPLneBvo-epwNaDGw&s",
+      "fuentePagina": "https://www.youtube.com/watch?v=sFav5yMqfnY",
+      "titulo": "AYABA -The African epic Esther Story | Full Movie | latest Christian film  2026",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbhSAob6VMPU2KSZNmJRPLneBvo-epwNaDGw&s",
+      "original": "https://i.ytimg.com/vi/sFav5yMqfnY/maxresdefault.jpg"
+    }
+  ]
+}

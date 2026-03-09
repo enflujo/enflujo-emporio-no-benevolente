@@ -1,0 +1,71 @@
+{
+  "categoria": "knife",
+  "categoriaSlug": "knife",
+  "idioma": "zh",
+  "nombreIdioma": "中文",
+  "termino": "刀",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:09:04.043Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "zh-CN",
+    "gl": "cn"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=%E5%88%80&hl=zh-CN&gl=cn",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/knife/zh/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-Ntg2O9eunEWStG-YGlxbgMbQTL-JsJZz5g&s",
+      "fuentePagina": "https://www.yetechcraft.com/products/%E5%82%B3%E7%B5%B1%E5%88%80-%E5%85%AD%E5%AF%B8%E6%96%87%E6%AD%A6%E5%88%80",
+      "titulo": "傳統菜刀-文武刀(厚度4.5mm) – 葉添刀具YeTech－台灣廚刀品牌",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-Ntg2O9eunEWStG-YGlxbgMbQTL-JsJZz5g&s",
+      "original": "https://cdn.store-assets.com/s/761499/f/15012678.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/knife/zh/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBvpKwWe3GXo4s26cm7wFj4iDw4XqjrmsF2w&s",
+      "fuentePagina": "https://www.nirey.com.tw/product/f-3073",
+      "titulo": "F-3073 24cm 西式主廚刀– 耐銳製造廠有限公司",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBvpKwWe3GXo4s26cm7wFj4iDw4XqjrmsF2w&s",
+      "original": "https://www.nirey.com.tw/wp-content/uploads/2019/05/F-3073-1.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/knife/zh/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHe_TAX8dPUK1_hwhXywz-0FKcgF5hkdgcLg&s",
+      "fuentePagina": "http://m.greatchef.com.cn/newsview?id=2106",
+      "titulo": "10分钟找到适合你的日本厨刀_名厨MINGCHU",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHe_TAX8dPUK1_hwhXywz-0FKcgF5hkdgcLg&s",
+      "original": "https://img.mingchu.co/ueditor/php/upload/image/20170302/s_1488464720863241.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/knife/zh/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_UFuG0izCR1VHptIGkJlDA3h15MMTEwGgng&s",
+      "fuentePagina": "https://www.wa-mare.com/zh-cn/column/496/",
+      "titulo": "上)日本刀是艺术还是武器?——战国时代的历史、美感与名刀解析- WA ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_UFuG0izCR1VHptIGkJlDA3h15MMTEwGgng&s",
+      "original": "https://www.wa-mare.com/uploads/column_event/0/496/eyecatch_21583f954675a76a1e137ff9322f9617.jpeg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/knife/zh/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgM46IPLh8T8BMy699VmENKsN8zLebxEQwAg&s",
+      "fuentePagina": "https://www.yetechcraft.com/products/%E7%B2%BE%E5%B7%A5-%E5%B0%8F%E6%96%B9%E5%88%80",
+      "titulo": "精工-小方刀Tradition (narrow version)(17.2cm) – 葉添刀具 ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgM46IPLh8T8BMy699VmENKsN8zLebxEQwAg&s",
+      "original": "https://cdn.store-assets.com/s/761499/f/15215701.jpg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/knife/zh/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyPJG4Wx5ADhoMiwoAfWnTy751POtqcR5lOw&s",
+      "fuentePagina": "http://www.81.cn/jskj/2015-03/19/content_6405233_8.htm",
+      "titulo": "世界名刀排行榜，你想拥有哪一把？ - 中国军网",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyPJG4Wx5ADhoMiwoAfWnTy751POtqcR5lOw&s",
+      "original": "http://www.81.cn/jskj/attachement/jpg/site351/20150318/14c3142c4f964052337339.jpg"
+    }
+  ]
+}

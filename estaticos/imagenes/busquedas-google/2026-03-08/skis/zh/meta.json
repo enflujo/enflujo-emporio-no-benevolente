@@ -1,0 +1,71 @@
+{
+  "categoria": "skis",
+  "categoriaSlug": "skis",
+  "idioma": "zh",
+  "nombreIdioma": "中文",
+  "termino": "滑雪板",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:00:31.262Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "zh-CN",
+    "gl": "cn"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=%E6%BB%91%E9%9B%AA%E6%9D%BF&hl=zh-CN&gl=cn",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/skis/zh/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTA1QgMgmXB-R2MWDOs9S9SmpYHczo-hfXtKQ&s",
+      "fuentePagina": "https://www.snowfeetstore.com/zh/collections/short-skis-for-adults?srsltid=AfmBOoqIXIFRDSGSRNilmQ-80Aj4-BTQwcaZYj_Y7twLeg31tHyBW7fS",
+      "titulo": "成人短滑雪板",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTA1QgMgmXB-R2MWDOs9S9SmpYHczo-hfXtKQ&s",
+      "original": "https://www.snowfeetstore.com/cdn/shop/files/Snowfeet99_black_snowboard_binding_1_69512f4a-61c7-466e-b5ac-699b63b46b1e.jpg?v=1763548948&width=1200"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/skis/zh/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcPHCojmifGQcQhvdZLpcAfiJXCsGWwAntWA&s",
+      "fuentePagina": "https://www.snowfeetstore.com/zh/products/skiblades-99-cm-by-snowfeet-skiboards-snowblades-short-little-skis-39-inch?srsltid=AfmBOoqnWISH3PBEv1aP8bHkvS7NbNgN4RZ0ME1URntSmQOb4jyxk1zW",
+      "titulo": "Snowfeet* Skiblades 99 CM | 高品質Snowblades 短滑雪板",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcPHCojmifGQcQhvdZLpcAfiJXCsGWwAntWA&s",
+      "original": "https://www.snowfeetstore.com/cdn/shop/files/Snowfeet99_white_simple_ski_binding_wiht_ski_boot_11.jpg?v=1764264647&width=1200"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/skis/zh/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTemLjw1SnVmFp9gpS-A4S6-_3BDMAzqaX6Jg&s",
+      "fuentePagina": "https://www.dior.cn/zh_cn/fashion/products/00X0075HOSNO_C030",
+      "titulo": "DIOR AND FACTORY 9 单板滑雪板161 厘米哑光米白色限量版| DIOR",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTemLjw1SnVmFp9gpS-A4S6-_3BDMAzqaX6Jg&s",
+      "original": "https://assets.christiandior.cn/is/image/diorprod/00X0075HOSNOC030_E01?$default_GHC$&crop=859,150,283,1486&wid=1850&hei=2000&scale=0.875&bfc=on&qlt=85"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/skis/zh/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2E3GFuBdagldwb9epaUXI5Gmv3HssCJaX3g&s",
+      "fuentePagina": "https://www.snowboardholic.com/GearSnowboard/index.html",
+      "titulo": "Snowboard 種類| 滑雪單板種類| 單板種類",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2E3GFuBdagldwb9epaUXI5Gmv3HssCJaX3g&s",
+      "original": "https://www.snowboardholic.com/Image/Snowboard/495x350A.jpg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/skis/zh/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUN2NAVCUER-2I7IntdiGVStk1y52BuOtamg&s",
+      "fuentePagina": "https://www.wenxiaobai.com/api/expends/detail?article=e42fcaef-c421-4a1f-9c43-8a37d6b5cce5",
+      "titulo": "‌滑雪板品牌排行榜前十名",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUN2NAVCUER-2I7IntdiGVStk1y52BuOtamg&s",
+      "original": "https://wy-static.wenxiaobai.com/aigc-online/delogo_f67e844c-8780-4edb-bc08-ba01e38bde9c.webp?ratioWH=1.0&type=opt"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/skis/zh/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFDPej3T5QUPrHWMOOerCr4uTImlFULWU0gw&s",
+      "fuentePagina": "https://www.dior.cn/zh_cn/fashion/products/00X0075HOSNO_C900",
+      "titulo": "DIOR AND FACTORY 9 单板滑雪板161 厘米哑光黑色- 限量版| DIOR",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFDPej3T5QUPrHWMOOerCr4uTImlFULWU0gw&s",
+      "original": "https://assets.christiandior.cn/is/image/diorprod/00X0075HOSNOC900_E01?$default_GHC$&crop=861,151,280,1480&wid=1850&hei=2000&scale=0.875&bfc=on&qlt=85"
+    }
+  ]
+}

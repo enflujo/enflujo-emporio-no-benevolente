@@ -1,0 +1,71 @@
+{
+  "categoria": "knife",
+  "categoriaSlug": "knife",
+  "idioma": "yo",
+  "nombreIdioma": "Yorùbá",
+  "termino": "ọbẹ",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:08:44.607Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "yo",
+    "gl": "ng"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=%E1%BB%8Db%E1%BA%B9&hl=yo&gl=ng",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/knife/yo/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMiHNVeqnaUiNNMPK3XdeWHtREQL2BxYkhmw&s",
+      "fuentePagina": "https://www.bbc.com/yoruba/afrika-43131003",
+      "titulo": "Ọbẹ ẹgusi",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMiHNVeqnaUiNNMPK3XdeWHtREQL2BxYkhmw&s",
+      "original": "https://ichef.bbci.co.uk/images/ic/512xn/p05ysb8c.jpg.webp"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/knife/yo/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcST-PVTVAa1NNLzFbfkzBy9BpUpQjp1X0CHkw&s",
+      "fuentePagina": "https://www.tiktok.com/@bibis_living/video/7468342429016542497",
+      "titulo": "Omi ọbẹ ẹja - A Delicious Fish Stew Recipe",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcST-PVTVAa1NNLzFbfkzBy9BpUpQjp1X0CHkw&s",
+      "original": "https://www.tiktok.com/api/img/?itemId=7468342429016542497&location=0&aid=1988"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/knife/yo/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDE8pCdhKu9udiD9oEWxA-YBatduVYqT3GwA&s",
+      "fuentePagina": "https://www.facebook.com/100063675229000/posts/ewo-ninu-%C3%A0w%E1%BB%8Dn-%E1%BB%8Db%E1%BA%B9-ibil%E1%BA%B9-w%E1%BB%8Dnyi-ni-%C3%A0%C3%A0y%C3%B2-ti%E1%BA%B9-okrosoup-vegetablesouprecipe-melon-ewe/1348635433935618/",
+      "titulo": "EWO NINU ÀWỌN ỌBẸ IBILẸ WỌNYI NI ÀÀYÒ TIẸ #okrosoup ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDE8pCdhKu9udiD9oEWxA-YBatduVYqT3GwA&s",
+      "original": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=1348635347268960"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/knife/yo/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQss8FhpupPnLCUaloUItZBQR_1sEtULEkRaw&s",
+      "fuentePagina": "https://www.iechocutter.com/yo/news/what-is-knife-intelligence%EF%BC%9F/",
+      "titulo": "Iroyin - Kini oye Ọbẹ?",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQss8FhpupPnLCUaloUItZBQR_1sEtULEkRaw&s",
+      "original": "https://www.iechocutter.com/uploads/28ff221e4.jpg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/knife/yo/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwZft8MbMivoLe2uclI_CUMKqq11OH0z5slg&s",
+      "fuentePagina": "https://www.rtkitchenknife.com/yo/ultra-sharp-8-inch-chef-knife-set-stainless-steel-blade-forged-bright-pakkawood-ruitai-gm802-05t",
+      "titulo": "Ultra-Sharp Oluwanje ọbẹ Ṣeto Irin alagbara, irin eke Imọlẹ ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwZft8MbMivoLe2uclI_CUMKqq11OH0z5slg&s",
+      "original": "https://img80003074.weyesimg.com/uploads/rtkitchenknife.com/images/15874425668714.jpg?imageView2/2/w/768/q/80/format/webp"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/knife/yo/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmkrrlyr9GbiuDsVKVYZWjvuZ626oI6NJmoA&s",
+      "fuentePagina": "https://www.facebook.com/groups/755416377925974/posts/3957551217712458/",
+      "titulo": "Ọbẹ kìí mú kí ó gbẹ́...... ìdí ara rẹ̀✌️",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmkrrlyr9GbiuDsVKVYZWjvuZ626oI6NJmoA&s",
+      "original": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=1494337962692937"
+    }
+  ]
+}

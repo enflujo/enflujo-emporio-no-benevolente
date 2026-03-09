@@ -1,0 +1,71 @@
+{
+  "categoria": "boat",
+  "categoriaSlug": "boat",
+  "idioma": "ar",
+  "nombreIdioma": "العربية",
+  "termino": "قارب",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T20:45:56.381Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "ar",
+    "gl": "eg"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=%D9%82%D8%A7%D8%B1%D8%A8&hl=ar&gl=eg",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/boat/ar/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0fI-8XhkqCAXjtJbxM-3YVHGDHTLx26lqkg&s",
+      "fuentePagina": "https://ar.wikipedia.org/wiki/%D9%82%D8%A7%D8%B1%D8%A8",
+      "titulo": "قارب - ويكيبيديا",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0fI-8XhkqCAXjtJbxM-3YVHGDHTLx26lqkg&s",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Bled_swingboat_%281%29.jpg/250px-Bled_swingboat_%281%29.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/boat/ar/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGoAdaadEamJHE_IzDImyh3ldL3k-CmatuNg&s",
+      "fuentePagina": "https://aldhaenmarine.com/home-2/?lang=ar",
+      "titulo": "Home - الظاعن البحرية",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGoAdaadEamJHE_IzDImyh3ldL3k-CmatuNg&s",
+      "original": "https://aldhaenmarine.com/wp-content/uploads/2024/08/485-01.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/boat/ar/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnPaT3tlilL_OZL3bAxPNyxG9uX4MyPCW-9Q&s",
+      "fuentePagina": "https://dive36.com/shop/boat-master-license-53",
+      "titulo": "Boat Master License | Dive36",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnPaT3tlilL_OZL3bAxPNyxG9uX4MyPCW-9Q&s",
+      "original": "https://dive36.com/web/image/product.template/53/image_1024?unique=04d7527"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/boat/ar/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAGd55gn2GXmCVXHe040h4WuU4nIoTksoVDA&s",
+      "fuentePagina": "https://ar.pngtree.com/free-backgrounds-photos/%D9%82%D8%A7%D8%B1%D8%A8-%D8%A7%D9%84%D8%AA%D8%AC%D8%AF%D9%8A%D9%81-pictures",
+      "titulo": "471+ قارب التجديف الصور والصور وصور الخلفية للتنزيل المجاني",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAGd55gn2GXmCVXHe040h4WuU4nIoTksoVDA&s",
+      "original": "https://png.pngtree.com/thumb_back/fh260/background/20240415/pngtree-oar-paddle-from-row-boat-image_15658945.jpg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/boat/ar/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNbXELflpFsQfhta2MOKYVylCEGWRPGlH41A&s",
+      "fuentePagina": "https://www.ssf.com.tw/ar/category/B04.html",
+      "titulo": "قارب القطب والخطوط | أكثر من 51 عامًا من بناء قوارب الألياف ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNbXELflpFsQfhta2MOKYVylCEGWRPGlH41A&s",
+      "original": "https://cdn.ready-market.com.tw/89f75dcf/Templates/pic/PLB48-1.jpg?v=99f82be4"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/boat/ar/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRiPd1PC1j0Mcd2ukhjGpI8FwkhB3VSFDFiDg&s",
+      "fuentePagina": "https://ar.wikipedia.org/wiki/%D9%82%D8%A7%D8%B1%D8%A8",
+      "titulo": "قارب - ويكيبيديا",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRiPd1PC1j0Mcd2ukhjGpI8FwkhB3VSFDFiDg&s",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/a/ae/Doni_aux_Maldives_cropped.jpg"
+    }
+  ]
+}

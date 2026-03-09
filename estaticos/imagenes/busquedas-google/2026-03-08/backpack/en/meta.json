@@ -1,0 +1,71 @@
+{
+  "categoria": "backpack",
+  "categoriaSlug": "backpack",
+  "idioma": "en",
+  "nombreIdioma": "English",
+  "termino": "backpack",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T20:56:02.640Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "en",
+    "gl": "us"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=backpack&hl=en&gl=us",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/backpack/en/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqR3EOl_0jqv8hI9dCO58031dwXivrgzuSyQ&s",
+      "fuentePagina": "https://www.amazon.com/VECAVE-121201-Backpack-Black/dp/B0BLJL4BLT",
+      "titulo": "Amazon.com: VECAVE School Backpack Black Waterproof Bookbag ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqR3EOl_0jqv8hI9dCO58031dwXivrgzuSyQ&s",
+      "original": "https://m.media-amazon.com/images/I/61SvzX1ckpL._AC_UY1000_.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/backpack/en/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOIG5k42y78tQ0w9gln8x31q0oSKLUHhmXcg&s",
+      "fuentePagina": "https://www.amazon.com/College-Backpack-Lightweight-Pockets-Bookbag/dp/B0CQLNMWWF",
+      "titulo": "Amazon.com | Lendolk College Backpack For Women Men ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOIG5k42y78tQ0w9gln8x31q0oSKLUHhmXcg&s",
+      "original": "https://m.media-amazon.com/images/I/711vhCj9WCL._AC_UY1000_.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/backpack/en/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThgLomGR--NY9RAR6I61G1_d1gRrs5JzOF6Q&s",
+      "fuentePagina": "https://www.slam.com/products/unisex-backpack-a463006s00",
+      "titulo": "Backpack - Water-Resistant Backpack | SLAM",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThgLomGR--NY9RAR6I61G1_d1gRrs5JzOF6Q&s",
+      "original": "https://www.slam.com/cdn/shop/files/A463006S00_W01_BACKPACK_F_ACC_016_13148.webp?v=1710245242&width=1946"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/backpack/en/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzW3FltGnpcKzVOdqG1Zx-tdAyi7kO8UBtOg&s",
+      "fuentePagina": "https://www.nytimes.com/wirecutter/reviews/best-school-backpack-for-high-school-and-college/",
+      "titulo": "The Best 5 Backpacks for College and High School Students of ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzW3FltGnpcKzVOdqG1Zx-tdAyi7kO8UBtOg&s",
+      "original": "https://cdn.thewirecutter.com/wp-content/media/2022/09/backpacks-2048px-2x1-0006.jpg?width=2048&quality=75&crop=2:1&auto=webp"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/backpack/en/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJOLBCm1o9Gba8HxjCUonTh2x8dRTbMqQoIQ&s",
+      "fuentePagina": "https://www.target.com/p/faux-neoprene-17-34-backpack-black-all-in-motion-8482/-/A-89731089",
+      "titulo": "14L Faux Neoprene Backpack - All In Motion™️Black ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJOLBCm1o9Gba8HxjCUonTh2x8dRTbMqQoIQ&s",
+      "original": "https://target.scene7.com/is/image/Target/GUEST_5beaff22-882d-4d15-be5b-85123ce3fecc?wid=300&hei=300&fmt=pjpeg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/backpack/en/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVFLPik7TXnSY5TN1O6ZJVcWm2HL6oQnHQWQ&s",
+      "fuentePagina": "https://www.walmart.com/ip/JAHH-Casual-Backpack-Fits-17-7-Laptop-Plain-for-College-Travel-Basic-Women-Lightweight-Medium-Casual-Daypack-Minimalist-Backpacks-Men-Bookbag/8335602260",
+      "titulo": "JAHH Casual Backpack Fits 17.7'' Laptop Plain for College ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVFLPik7TXnSY5TN1O6ZJVcWm2HL6oQnHQWQ&s",
+      "original": "https://i5.walmartimages.com/seo/JAHH-Casual-Backpack-Fits-17-7-Laptop-Plain-for-College-Travel-Basic-Women-Lightweight-Medium-Casual-Daypack-Minimalist-Backpacks-Men-Bookbag_52d98c42-004e-4dc5-90dc-02fda75c5f5a.da381e246d8a1c0f72094660edbe4729.jpeg"
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "categoria": "broccoli",
+  "categoriaSlug": "broccoli",
+  "idioma": "nah",
+  "nombreIdioma": "Náhuatl",
+  "termino": "brócoli",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:13:35.728Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "es",
+    "gl": "mx"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=br%C3%B3coli&hl=es&gl=mx",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/broccoli/nah/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVGk70vOECmTeWdfCp9QE9tsfJUDLw52ZNRQ&s",
+      "fuentePagina": "https://www.trevijano.com/ingredientes/brocoli/",
+      "titulo": "Qué es el Brócoli? - Propiedades y beneficios - Trevijano",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVGk70vOECmTeWdfCp9QE9tsfJUDLw52ZNRQ&s",
+      "original": "https://www.trevijano.com/wp-content/uploads/Brocoli.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/broccoli/nah/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjoXQwdknd-dnbr8swE-vbN2k3Csg70Kj6eQ&s",
+      "fuentePagina": "https://www.cookforyourlife.org/es/recetas/brocoli-al-vapor/",
+      "titulo": "Brócoli al Vapor",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjoXQwdknd-dnbr8swE-vbN2k3Csg70Kj6eQ&s",
+      "original": "https://images.cookforyourlife.org/wp-content/uploads/2018/08/shutterstock_294838064-min.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/broccoli/nah/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRir7BSqJv7IZ24_O6WO-0Eh1jqHCEezmht_w&s",
+      "fuentePagina": "https://5aldia.cl/frutas-y-vegetales/brocoli/",
+      "titulo": "Brócoli - 5 al día",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRir7BSqJv7IZ24_O6WO-0Eh1jqHCEezmht_w&s",
+      "original": "https://5aldia.cl/wp-content/uploads/2018/03/appetite-broccoli-brocoli-broccolli-calories-161486.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/broccoli/nah/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSexAM8oCWDiM8dHO-FypIXWBwKuLAA_0EGtg&s",
+      "fuentePagina": "https://mejorconsalud.as.com/dieta/nutricion/la-manera-correcta-comer-brocoli-aprovechar-nutrientes/",
+      "titulo": "¿Cuál es la manera correcta de comer brócoli?",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSexAM8oCWDiM8dHO-FypIXWBwKuLAA_0EGtg&s",
+      "original": "https://mejorconsalud.as.com/wp-content/uploads/2015/06/brocoli-ramas.jpg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/broccoli/nah/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTY-iUVawB-YGVIn5bXJP5qStoMhzJtbzLwAQ&s",
+      "fuentePagina": "https://peregrin.es/brocoli-2/",
+      "titulo": "El brócoli es una verdura crucífera con floretes - Peregrín",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTY-iUVawB-YGVIn5bXJP5qStoMhzJtbzLwAQ&s",
+      "original": "https://peregrin.es/wp-content/uploads/2024/04/brocoli.png"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/broccoli/nah/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXSRKn1TYbwDnUW2Rr6Rmh3nffIJzWgot2SQ&s",
+      "fuentePagina": "https://recetasdecocina.elmundo.es/2025/02/brocoli-al-vapor-receta-facil-guarnicion-sana.html",
+      "titulo": "Brócoli al vapor. Receta fácil de guarnición sana",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXSRKn1TYbwDnUW2Rr6Rmh3nffIJzWgot2SQ&s",
+      "original": "https://recetasdecocina.elmundo.es/wp-content/uploads/2025/02/brocoli-al-vapor-1024x683.jpg"
+    }
+  ]
+}

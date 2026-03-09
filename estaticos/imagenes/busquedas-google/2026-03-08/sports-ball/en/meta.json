@@ -1,0 +1,71 @@
+{
+  "categoria": "sports ball",
+  "categoriaSlug": "sports-ball",
+  "idioma": "en",
+  "nombreIdioma": "English",
+  "termino": "sports ball",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:01:14.603Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "en",
+    "gl": "us"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=sports%20ball&hl=en&gl=us",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/sports-ball/en/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJ07zViZQnlsdE2_4SFpaGh9tATi6ZRhloZg&s",
+      "fuentePagina": "https://mybtoys.com/shop/sports-balls/",
+      "titulo": "Sports Balls | 4 Balls & Carry Bag | B. sports",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJ07zViZQnlsdE2_4SFpaGh9tATi6ZRhloZg&s",
+      "original": "https://mybtoys.com/wp-content/uploads/BX2348_LS_N.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/sports-ball/en/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFHqzLBO_TT1MsETrD_7nF2uupf356ZZelvw&s",
+      "fuentePagina": "https://www.amazon.com/AppleRound-Sports-Basketball-Playground-Football/dp/B00Y8EGGXE",
+      "titulo": "Amazon.com: AppleRound 4-Pack Sports Balls for Toddlers ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFHqzLBO_TT1MsETrD_7nF2uupf356ZZelvw&s",
+      "original": "https://m.media-amazon.com/images/I/71ogJFGsYlL.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/sports-ball/en/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-byI-l00jWJ-szr1LXohpROF0rMKtroBdHQ&s",
+      "fuentePagina": "https://www.amazon.com/AnyDesign-Versatile-Classroom-Bulletin-Decorations/dp/B0CGTWS2XF",
+      "titulo": "Amazon.com: 45Pcs Paper Sports Balls Cutouts 9 Designs ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-byI-l00jWJ-szr1LXohpROF0rMKtroBdHQ&s",
+      "original": "https://m.media-amazon.com/images/I/71iXWv6rg5L.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/sports-ball/en/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9FYfjBJ_U4WCSknz3fo26i9yCXtJn18pHNQ&s",
+      "fuentePagina": "https://www.vecteezy.com/free-vector/sports-balls",
+      "titulo": "Sports Balls Vector Art, Icons, and Graphics for Free Download",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9FYfjBJ_U4WCSknz3fo26i9yCXtJn18pHNQ&s",
+      "original": "https://static.vecteezy.com/system/resources/thumbnails/022/734/075/small/various-sports-balls-graphics-vector.jpg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/sports-ball/en/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3t_25CMxGvds719-2xI0hdiA-sFmj6Fk_HQ&s",
+      "fuentePagina": "https://www.gumball.com/products/bulk-sport-balls-100-ct?srsltid=AfmBOopdAFaVPVHQdIdq6BDvxI53LIpiQavMXmGI0eId3ywkErEb7Tpz",
+      "titulo": "Bulk Sport Balls 100 ct",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3t_25CMxGvds719-2xI0hdiA-sFmj6Fk_HQ&s",
+      "original": "http://www.gumball.com/cdn/shop/products/SPBAB_L_d020cc11-98be-4a91-985b-a4ee84a57789.jpg?v=1650998371"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/sports-ball/en/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlEMmaAinmIHqaaxPIy8SfQKUvpv81tJ60Wg&s",
+      "fuentePagina": "https://www.ebay.com/itm/292187646178",
+      "titulo": "Set of 4 Sports Balls for Kids (Soccer Ball, Basketball, Football, Tennis  Ball) | eBay",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlEMmaAinmIHqaaxPIy8SfQKUvpv81tJ60Wg&s",
+      "original": "https://i.ebayimg.com/images/g/qzQAAOSwISJetHad/s-l400.jpg"
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "categoria": "spoon",
+  "categoriaSlug": "spoon",
+  "idioma": "nah",
+  "nombreIdioma": "Náhuatl",
+  "termino": "cuchara",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:09:40.784Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "es",
+    "gl": "mx"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=cuchara&hl=es&gl=mx",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/spoon/nah/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmz3QjXXI-Nq8ksd9z5yeXTEZ09Wy-KXIqJw&s",
+      "fuentePagina": "https://es.wikipedia.org/wiki/Cuchara",
+      "titulo": "Cuchara - Wikipedia, la enciclopedia libre",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmz3QjXXI-Nq8ksd9z5yeXTEZ09Wy-KXIqJw&s",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/9/92/Soup_Spoon.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/spoon/nah/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1rCpCFiPHAsnmSotkAfrqoDI9YdfWbrRlVQ&s",
+      "fuentePagina": "https://jopco.net/producto/cuchara-para-postre-o-te-stanford-winco/",
+      "titulo": "Cuchara para postre o té stanford │Winco - Jopco Equipos y ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1rCpCFiPHAsnmSotkAfrqoDI9YdfWbrRlVQ&s",
+      "original": "https://jopco.net/wp-content/uploads/2020/11/WI-0034-01.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/spoon/nah/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgnieBRaDOvsUhFDTOkVSeF7HEMTFR59QzJw&s",
+      "fuentePagina": "https://www.freepik.es/fotos-vectores-gratis/cuchara",
+      "titulo": "Imágenes de Cuchara - Descarga gratuita en Freepik",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgnieBRaDOvsUhFDTOkVSeF7HEMTFR59QzJw&s",
+      "original": "https://img.freepik.com/vector-gratis/utensilios-cocina-cuchara-pegatina-sobre-fondo-blanco_1308-67037.jpg?semt=ais_hybrid&w=740&q=80"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/spoon/nah/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFgCyvYn2mXSDC96v_CKRIfI07cUnGFmDIEQ&s",
+      "fuentePagina": "https://anforama.com/products/cccuchara-sopera-economica-delgada-acero-inoxidable-casia?srsltid=AfmBOorEK8vHAzi95t0wrcedG90uJg2Y4sgahFJ3PrKj9QMrggq3hhQA",
+      "titulo": "Cuchara Lisa Sopera de 18.1 cm Económica Delgada de Acero Inoxidable Casia  Moven",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFgCyvYn2mXSDC96v_CKRIfI07cUnGFmDIEQ&s",
+      "original": "http://anforama.com/cdn/shop/files/CucharaLisaSoperade18.1cmEconomicaDelgadadeAceroInoxidableCasiaMoven.webp?v=1756940065"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/spoon/nah/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTK7OUi9ULpr-la8QC8ZZ0C9ETl8q809iCIcA&s",
+      "fuentePagina": "https://www.vianca.mx/p/cuchara-sopera-cascada/?srsltid=AfmBOoqg1i11LTCShb3zh6c_WLGNop58fo0yjMYplOUKfnTGczuz2D43",
+      "titulo": "Cuchara sopera Cascada",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTK7OUi9ULpr-la8QC8ZZ0C9ETl8q809iCIcA&s",
+      "original": "https://www.vianca.mx/wp-content/uploads/2020/05/003010_PROD-Cuchara-sopera-Vianca-Cascada.jpg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/spoon/nah/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3N32DBfqYS2uT0XO1Ejoy4hSNT4cQh86z5A&s",
+      "fuentePagina": "https://www.gastronomiavasca.net/es/gastro/glossary/cuchara-sopera",
+      "titulo": "Cuchara sopera - Gastronomía Vasca: Escuela de Hostelería Leioa",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3N32DBfqYS2uT0XO1Ejoy4hSNT4cQh86z5A&s",
+      "original": "https://www.gastronomiavasca.net/uploads/image/file/6345/cuchara_sopera.jpg"
+    }
+  ]
+}

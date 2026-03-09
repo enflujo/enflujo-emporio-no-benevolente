@@ -1,0 +1,71 @@
+{
+  "categoria": "oven",
+  "categoriaSlug": "oven",
+  "idioma": "hi",
+  "nombreIdioma": "हिन्दी",
+  "termino": "भट्टी",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:25:49.630Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "hi",
+    "gl": "in"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=%E0%A4%AD%E0%A4%9F%E0%A5%8D%E0%A4%9F%E0%A5%80&hl=hi&gl=in",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/oven/hi/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsVFYx5EMsL6uHRElBSTlrn3LR2fQMf8zdOg&s",
+      "fuentePagina": "https://www.flipkart.com/hi/netvull-gas-stove-big-size-bhatti-set-14-x-inches-high-flame-bhattiti-stainless-steel-manual/p/itm847f441e1dab5",
+      "titulo": "NETVULL gas stove big size, bhatti gas stove set, 14 X 14 ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsVFYx5EMsL6uHRElBSTlrn3LR2fQMf8zdOg&s",
+      "original": "https://rukminim2.flixcart.com/image/480/640/xif0q/gas-stove/x/p/n/1-1-5-single-burner-stainless-steel-square-commercial-gas-chulha-original-imagzhjtfr5zywh3.jpeg?q=90"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/oven/hi/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjbpdsX7A3gZ6IeLUf7tJfbq9-Od8EWtMv0g&s",
+      "fuentePagina": "https://www.moglix.com/hi/commercial-cooking-range-lpg-gas-bhatti/mp/msnl5glpwlmyk4?srsltid=AfmBOooryE10iqcOSObDXE4KYpDClBVq9ECM1jIucMkjb_RCNqZEt-11",
+      "titulo": "खरीदें कमर्शियल कुकिंग रेंज ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjbpdsX7A3gZ6IeLUf7tJfbq9-Od8EWtMv0g&s",
+      "original": "https://cdn.moglix.com/p/UOB6sURUjJvMP-xxlarge.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/oven/hi/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCKwk2ro5-wl7pm-SSsM4FsSLn-nwP42GarQ&s",
+      "fuentePagina": "https://www.amazon.in/-/hi/%E0%A4%AC%E0%A4%B0%E0%A5%8D%E0%A4%A8%E0%A4%B0-%E0%A4%B5%E0%A4%BE%E0%A4%A3%E0%A4%BF%E0%A4%9C%E0%A5%8D%E0%A4%AF%E0%A4%BF%E0%A4%95-%E0%A4%B8%E0%A5%8D%E0%A4%9F%E0%A5%8B%E0%A4%B5-%E0%A4%AD%E0%A4%9F%E0%A5%8D%E0%A4%9F%E0%A5%80-%E0%A4%85%E0%A4%9F%E0%A5%88%E0%A4%9A%E0%A4%AE%E0%A5%87%E0%A4%82%E0%A4%9F/dp/B0DJJBD54Y",
+      "titulo": "दो बर्नर डबल वाणिज्यिक बर्नर गैस ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCKwk2ro5-wl7pm-SSsM4FsSLn-nwP42GarQ&s",
+      "original": "https://m.media-amazon.com/images/I/61YuJQl-qQL.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/oven/hi/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5k3IGjssq3XYIXqD4uf_y-b96valgbKl9KA&s",
+      "fuentePagina": "https://www.amazon.in/-/hi/ujjwal-engineering-%E0%A4%9A%E0%A5%81%E0%A4%B2%E0%A5%8D%E0%A4%B9%E0%A4%BE-%E0%A4%AD%E0%A4%9F%E0%A5%8D%E0%A4%9F%E0%A5%80-%E0%A4%B8%E0%A5%8D%E0%A4%9F%E0%A5%8B%E0%A4%B5/dp/B07882QB27",
+      "titulo": "ujjwal engineering LPG गैस चुल्हा भट्टी ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5k3IGjssq3XYIXqD4uf_y-b96valgbKl9KA&s",
+      "original": "https://m.media-amazon.com/images/I/51VqcijOzvL.jpg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/oven/hi/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUr1ZSd2HGM80C4Kb7sdAD2zzuoQMyS2A6rA&s",
+      "fuentePagina": "https://www.tradeindia.com/hi/products/diesel-bhatti-c5590979.html",
+      "titulo": "डीजल भट्टी सबसे अच्छी कीमत पर ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUr1ZSd2HGM80C4Kb7sdAD2zzuoQMyS2A6rA&s",
+      "original": "https://cpimg.tistatic.com/5590979/b/4/diesel-bhatti.jpg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/oven/hi/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcReILde3MRI9tIehJne8QwsRyuf7j_fXsgATA&s",
+      "fuentePagina": "https://hi.wikipedia.org/wiki/%E0%A4%AD%E0%A4%9F%E0%A5%8D%E0%A4%9F%E0%A5%80",
+      "titulo": "भट्टी - विकिपीडिया",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcReILde3MRI9tIehJne8QwsRyuf7j_fXsgATA&s",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/6/69/Muffle-furnace.jpg"
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "categoria": "fire hydrant",
+  "categoriaSlug": "fire-hydrant",
+  "idioma": "hi",
+  "nombreIdioma": "हिन्दी",
+  "termino": "अग्निशामक नल",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T20:47:18.602Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "hi",
+    "gl": "in"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=%E0%A4%85%E0%A4%97%E0%A5%8D%E0%A4%A8%E0%A4%BF%E0%A4%B6%E0%A4%BE%E0%A4%AE%E0%A4%95%20%E0%A4%A8%E0%A4%B2&hl=hi&gl=in",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/fire-hydrant/hi/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR720kLyFruXpW9hE7T4fZkRupSte1ZJ1lNAA&s",
+      "fuentePagina": "https://hi.made-in-china.com/co_winanfire/product_High-Quality-Fire-Fighting-Equipment-Fire-Hydrant_ryosoreog.html",
+      "titulo": "उच्च गुणवत्ता वाली अग्निशामक ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR720kLyFruXpW9hE7T4fZkRupSte1ZJ1lNAA&s",
+      "original": "https://image.made-in-china.com/202f0j00varRQVLHIzoS/High-Quality-Fire-Fighting-Equipment-Fire-Hydrant.webp"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/fire-hydrant/hi/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzoRv6kkqwc3MgejSLv3Bv4scx37aaBG7ijg&s",
+      "fuentePagina": "https://hi.made-in-china.com/co_winanfire/product_High-Quality-Fire-Fighting-Equipment-Fire-Hydrant_ryosoreog.html",
+      "titulo": "उच्च गुणवत्ता वाली अग्निशामक ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzoRv6kkqwc3MgejSLv3Bv4scx37aaBG7ijg&s",
+      "original": "https://image.made-in-china.com/202f0j00CZklFLzPEMoG/High-Quality-Fire-Fighting-Equipment-Fire-Hydrant.webp"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/fire-hydrant/hi/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScBbkvnHArZWUsFGfEdjlQqXEN3qbWnsKX4g&s",
+      "fuentePagina": "https://hi.made-in-china.com/co_wofu001/product_Branch-Pipe-Fire-Fighting-Hose-Nozzle-for-Fire-Hose-Reel_hyiuhgshn.html",
+      "titulo": "ब्रांच पाइप अग्निशामक नली नोज़ल ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScBbkvnHArZWUsFGfEdjlQqXEN3qbWnsKX4g&s",
+      "original": "https://image.made-in-china.com/202f0j00tBaTkLSzgNWj/Branch-Pipe-Fire-Fighting-Hose-Nozzle-for-Fire-Hose-Reel.webp"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/fire-hydrant/hi/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1Pqvnj97WgXcEvckJJqXhBWcKjE0UbEyr7Q&s",
+      "fuentePagina": "https://hi.made-in-china.com/co_qdsata2019/product_China-Supplier-High-Effciency-Electric-Popcorn-Machine_uoshreongy.html",
+      "titulo": "मैनुअल हैंडल नियंत्रण अग्निशामक ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1Pqvnj97WgXcEvckJJqXhBWcKjE0UbEyr7Q&s",
+      "original": "https://image.made-in-china.com/318f0j00TErRfnGDFkpo/Manual-Fire-Monitor-mp4.webp"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/fire-hydrant/hi/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSehVxdo51kDjtnyMMRyOeUCEnb9R5RHf0Zfw&s",
+      "fuentePagina": "https://fj.xinsafety.com/fire-extinguisher/co2-fire-extinguisher/c02-fire-extinguisher-use.html",
+      "titulo": "चीन कस्टम C02 अग्निशमन बुझाने वाले ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSehVxdo51kDjtnyMMRyOeUCEnb9R5RHf0Zfw&s",
+      "original": "https://fj.xinsafety.com/uploads/202523376/c02-fire-extinguisher-use6f12dc89-4ce2-4321-b5ff-9588629dda90.jpg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/fire-hydrant/hi/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRiX3C6JXess9m6V3volzKLYQ8S16FVCw-D3A&s",
+      "fuentePagina": "https://www.amazon.in/-/hi/VFS_HB0014-%E0%A4%85%E0%A4%97%E0%A5%8D%E0%A4%A8%E0%A4%BF%E0%A4%B6%E0%A4%AE%E0%A4%A8-%E0%A4%A8%E0%A4%B2%E0%A5%80-%E0%A4%AC%E0%A5%89%E0%A4%95%E0%A5%8D%E0%A4%B8/dp/B09BZNH1V7",
+      "titulo": "अग्निशमन नली बॉक्स : Amazon.in: गृह सज्जा",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRiX3C6JXess9m6V3volzKLYQ8S16FVCw-D3A&s",
+      "original": "https://m.media-amazon.com/images/I/41rQ0n-5F8L._AC_UF1000,1000_QL80_.jpg"
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "categoria": "tennis racket",
+  "categoriaSlug": "tennis-racket",
+  "idioma": "es",
+  "nombreIdioma": "Español",
+  "termino": "raqueta",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:05:52.974Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "es",
+    "gl": "es"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=raqueta&hl=es&gl=es",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/tennis-racket/es/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQ4LIW71ARbNGMkYcNjkUmCotJsZgG38iQfQ&s",
+      "fuentePagina": "https://www.decathlon.es/es/deportes/tenis/raquetas-adulto",
+      "titulo": "Raquetas de tenis adulto hasta -20% dto | Decathlon",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQ4LIW71ARbNGMkYcNjkUmCotJsZgG38iQfQ&s",
+      "original": "https://contents.mediadecathlon.com/s1223176/k$e0812d5403dcba2ef270dc45fb8334a9/ebd2a864-c542-4e21-aa08-962d560c3d0e.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/tennis-racket/es/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT57RhofAybrpMR0NS5cpBBVOMgETu1KyYnqw&s",
+      "fuentePagina": "https://www.decathlon.es/es/deportes/tenis/raquetas-adulto",
+      "titulo": "Raquetas de tenis adulto hasta -20% dto | Decathlon",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT57RhofAybrpMR0NS5cpBBVOMgETu1KyYnqw&s",
+      "original": "https://contents.mediadecathlon.com/s1223192/k$dbc4e4477b9ca052817adbd0a8505afc/82fff10d-e3ed-4ab9-92b8-eee632ba3b7e.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/tennis-racket/es/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJPCd9JP4lZ_z3tCtuZKbzuGtyI-ltfr15lQ&s",
+      "fuentePagina": "https://www.elcorteingles.es/deportes/A54815672-raqueta-de-tenis-pro-staff-precision-xl-110-wilson/",
+      "titulo": "Raqueta de tenis Pro Staff Precision Xl 110 Wilson · Wilson ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJPCd9JP4lZ_z3tCtuZKbzuGtyI-ltfr15lQ&s",
+      "original": "https://dam.elcorteingles.es/producto/www-001008432119538-00.jpg?impolicy=Resize&width=1200&height=1200"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/tennis-racket/es/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQB4PS6YAbfsX5YEQ32HEeS3UAhRqXOfKYQ1g&s",
+      "fuentePagina": "https://www.m1tennis.com/raquetas-wilson-124",
+      "titulo": "Raquetas Wilson: Compra Al Mejor Precio | M1 TENNIS",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQB4PS6YAbfsX5YEQ32HEeS3UAhRqXOfKYQ1g&s",
+      "original": "https://www.m1tennis.com/36796-home_default/raqueta-wilson-blade-98-18x20-v9-2024.jpg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/tennis-racket/es/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSp4R3lov3DJgfHTtsfYV-OWXlkfoLn6W16VQ&s",
+      "fuentePagina": "https://www.soyvisual.org/fotos/raqueta-de-tenis",
+      "titulo": "Raqueta de tenis #Soyvisual",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSp4R3lov3DJgfHTtsfYV-OWXlkfoLn6W16VQ&s",
+      "original": "https://www.soyvisual.org/sites/default/files/styles/twitter_card/public/images/photos/dep_0004.jpg?itok=Ek8eIJA8"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/tennis-racket/es/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSetB-6F__8Nd15yBBJQvDB-dCJvVV6lDYPyw&s",
+      "fuentePagina": "https://www.mistertennis.com/es/head-speed-mp-raqueta-de-tenis-236014.html?srsltid=AfmBOorVpFo2I-988flqMzSGelwW7jBSLDWzv1-mbmW-wJIDsa6hAaRz",
+      "titulo": "Head Speed MP",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSetB-6F__8Nd15yBBJQvDB-dCJvVV6lDYPyw&s",
+      "original": "https://www.mistertennis.com/images/2024-media-01/head-speed-mp-racchetta-da-tennis-236014_B.jpg"
+    }
+  ]
+}

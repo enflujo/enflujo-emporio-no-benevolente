@@ -1,0 +1,71 @@
+{
+  "categoria": "suitcase",
+  "categoriaSlug": "suitcase",
+  "idioma": "fr",
+  "nombreIdioma": "Français",
+  "termino": "valise",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T20:58:54.678Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "fr",
+    "gl": "be"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=valise&hl=fr&gl=be",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/suitcase/fr/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsXWWd5eMdy4ORkHO8OtiSJ4-tQ4bujt04yg&s",
+      "fuentePagina": "https://www.igopromo.be/fr/bagages-voyages/valises-roulettes/valise-cabine-rpet-600d/p208907-master",
+      "titulo": "Valise cabine RPET 600D publicitaire dès 2 pcs. | IGO",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsXWWd5eMdy4ORkHO8OtiSJ4-tQ4bujt04yg&s",
+      "original": "https://static.igopromo.com/ish/Images/IGO/490x490/mo6807-05.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/suitcase/fr/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRF_MhRyaG-VD1bZTJ7KxOLExx7dbRpfc0rTg&s",
+      "fuentePagina": "https://www.groupon.be/deals/pink-suitcase-set",
+      "titulo": "Valise, sac de voyage et sac à cosmétiques Kono rose | Groupon",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRF_MhRyaG-VD1bZTJ7KxOLExx7dbRpfc0rTg&s",
+      "original": "https://img.grouponcdn.com/deal/dMtNEMs9X4GcMbxecJseA9YaEYB/dM-2048x1229/v1/t600x362.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/suitcase/fr/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2Y7q85oUtREg0Kt-rd1BDswzN-0X1Cb1-dg&s",
+      "fuentePagina": "https://www.amazon.com.be/Todeco-Valises-roulettes-Doubles-Champagne/dp/B0CHJ826FZ",
+      "titulo": "Todeco Set de 3 Valises de Voyage Rigide (55/68/78cm ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2Y7q85oUtREg0Kt-rd1BDswzN-0X1Cb1-dg&s",
+      "original": "https://m.media-amazon.com/images/I/71Aght6DcdL._AC_UY1000_.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/suitcase/fr/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNMwaHxm_RhSY3R06FbW1kHbkltJRyI89TaQ&s",
+      "fuentePagina": "https://lebagage.com/stock-a-0/328-lebagage-grande-valise-74-cm-4-doubles-roulettes-abs.html",
+      "titulo": "Grande Valise Rigide 4 roues - Garantie 1 an - Pièces Détachées",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNMwaHxm_RhSY3R06FbW1kHbkltJRyI89TaQ&s",
+      "original": "https://lebagage.com/2012-large_default/lebagage-grande-valise-74-cm-4-doubles-roulettes-abs.jpg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/suitcase/fr/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0MccL45q8Gx9FQeJfS023oy5B9_zUWhK2fg&s",
+      "fuentePagina": "https://www.samsonite.be/fr/restackd-spinner-expandable-68cm--midnight/150704-1547.html",
+      "titulo": "Restackd Valise 4 roues extensible 68cm | Samsonite Belgique",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0MccL45q8Gx9FQeJfS023oy5B9_zUWhK2fg&s",
+      "original": "https://www.samsonite.be/dw/image/v2/AATF_PRD/on/demandware.static/-/Sites-samsonite-product-catalog/default/dwd23eaf61/images/salsify/jfrvlne3l2gnlyg1cvb7_s--wTcXrx36--_fl_clip_pg_1_e_trim_c_fit_w_2000_h_3000_u_tcrttuyt8xafi2acibgb_fl_layer_apply_e_make_transparent.png?sw=600&sh=900"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/suitcase/fr/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRd-olvTygRBp8EWNMhoZ3Y7N2napK-v1mM7w&s",
+      "fuentePagina": "https://luggage4u.be/fr/products/discovery-reptile-handbagage-harde-kleine-koffer-trolley-reiskoffer-valies-54-5-cm-small-zwart?srsltid=AfmBOoquZ51jKQ93ESaoZ-jb_tYcZw4A2R19NMwKiSvl-EUR_-fPf4PO",
+      "titulo": "Petite valise Discovery Chariot à bagages à main | Valise de ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRd-olvTygRBp8EWNMhoZ3Y7N2napK-v1mM7w&s",
+      "original": "https://luggage4u.be/cdn/shop/files/D004HA.49.06_Black_2_1677f37f-1d45-4ed4-8e26-6468edd406c8.jpg?v=1756306964&width=1946"
+    }
+  ]
+}

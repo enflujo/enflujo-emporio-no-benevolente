@@ -1,0 +1,71 @@
+{
+  "categoria": "fire hydrant",
+  "categoriaSlug": "fire-hydrant",
+  "idioma": "zh",
+  "nombreIdioma": "中文",
+  "termino": "消防栓",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T20:47:27.424Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "zh-CN",
+    "gl": "cn"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=%E6%B6%88%E9%98%B2%E6%A0%93&hl=zh-CN&gl=cn",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/fire-hydrant/zh/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZE6x_ZSwkQkGf6ZdbuwJi6o7ZEmVuNZnvbA&s",
+      "fuentePagina": "https://zh.wikipedia.org/zh-cn/%E6%B6%88%E9%98%B2%E6%A0%93",
+      "titulo": "消火栓- 维基百科，自由的百科全书",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZE6x_ZSwkQkGf6ZdbuwJi6o7ZEmVuNZnvbA&s",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/d/de/Hong_Kong_fire_hydrant_number_1145.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/fire-hydrant/zh/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSonv8hNan1fB9d6rY4JgTK5HqxECyGefhIww&s",
+      "fuentePagina": "https://zh.wikipedia.org/zh-cn/%E6%B6%88%E9%98%B2%E6%A0%93",
+      "titulo": "消火栓- 维基百科，自由的百科全书",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSonv8hNan1fB9d6rY4JgTK5HqxECyGefhIww&s",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Nanhua_University_fire_hydrant_20091101.jpg/250px-Nanhua_University_fire_hydrant_20091101.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/fire-hydrant/zh/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKrzQBtGutuT_ocdFmK5XMM7t6Bh4fxPvQVA&s",
+      "fuentePagina": "https://www.facebook.com/NFA999/posts/1812287385604674/?locale=zh_HK",
+      "titulo": "火災搶救水的來源#消防栓】 水💧除了便宜容易取得之外，利用它高 ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKrzQBtGutuT_ocdFmK5XMM7t6Bh4fxPvQVA&s",
+      "original": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=1812284622271617"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/fire-hydrant/zh/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUJYuK3CkhmY3KGlyO3IeLzJZT8lrhYBTGnA&s",
+      "fuentePagina": "https://www.cheng-deh.com.tw/product/%E5%B1%8B%E5%A4%96%E9%98%B2%E6%92%9E%E5%9E%8B%E6%B6%88%E9%98%B2%E6%A0%93c%E5%9E%8B",
+      "titulo": "消防設備- 屋外防撞型消防栓（C型）｜正德防火",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUJYuK3CkhmY3KGlyO3IeLzJZT8lrhYBTGnA&s",
+      "original": "https://www.cheng-deh.com.tw/app_script/DisplayCut.ashx?file=202008070925330.jpg&rootDir=upload/product/&w=640&h=480"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/fire-hydrant/zh/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNo-wdrqOdsnUF6ls98dUpsg6ambHyPUCMAg&s",
+      "fuentePagina": "https://www.snpipe.com/product-%E5%9C%B0%E4%B8%8A%E5%BC%8F%E6%B6%88%E9%98%B2%E6%A0%93-firehydrant-1.html",
+      "titulo": "地上式消防栓firehydrant-1",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNo-wdrqOdsnUF6ls98dUpsg6ambHyPUCMAg&s",
+      "original": "https://www.snpipe.com/proimages/sr/products/06fire%20hydrant/01%E5%9C%B0%E4%B8%8A%E5%BC%8F%E6%B6%88%E9%98%B2%E6%A0%93(street)/fh04.png"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/fire-hydrant/zh/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS66eWG9SdksUcZE0n8ozKWm0bXWX_6wJkudw&s",
+      "fuentePagina": "https://www.judafire.net/news/%E9%98%B2%E7%81%BD%E7%9F%A5%E8%AD%98/%E5%AE%A4%E5%85%A7%E6%B6%88%E9%98%B2%E6%A0%93%E4%BD%BF%E7%94%A8%E6%B3%95.htm",
+      "titulo": "室內消防栓使用方法與口訣｜防災知識｜巨達消防工程",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS66eWG9SdksUcZE0n8ozKWm0bXWX_6wJkudw&s",
+      "original": "https://www.judafire.net/upload-files/news/2023-09-12/20230912-1.jpg"
+    }
+  ]
+}

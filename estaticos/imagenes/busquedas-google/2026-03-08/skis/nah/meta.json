@@ -1,0 +1,71 @@
+{
+  "categoria": "skis",
+  "categoriaSlug": "skis",
+  "idioma": "nah",
+  "nombreIdioma": "Náhuatl",
+  "termino": "skis",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:00:29.438Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "es",
+    "gl": "mx"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=skis&hl=es&gl=mx",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/skis/nah/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcRdA6mGSl7ebuv0DyqJYQhvGsy71Bdmv8lg&s",
+      "fuentePagina": "https://www.skatepro.com.mx/a806.htm?srsltid=AfmBOoqPbwaNszxeFb1zywCaYWvV3XfC4QkUOjWocZzpMFh7WFD1UrVs",
+      "titulo": "Compra de esquís para principiantes | SkatePro",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcRdA6mGSl7ebuv0DyqJYQhvGsy71Bdmv8lg&s",
+      "original": "https://cdn.skatepro.com/upload/thumbnails/2020/11/piste_4512.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/skis/nah/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUYMEcW0a08z-3QB5fBOaG6zjEP6sn73dpzg&s",
+      "fuentePagina": "https://www.amazon.com.mx/Snowfeet-esqu%C3%ADs-Cortos-Nieve-Patines/dp/B09PR8J572",
+      "titulo": "Snowfeet Mini esquís Cortos para Nieve | Patines de Nieve ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUYMEcW0a08z-3QB5fBOaG6zjEP6sn73dpzg&s",
+      "original": "https://m.media-amazon.com/images/I/71vWI7sSIvL._AC_UF350,350_QL80_.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/skis/nah/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_Dco6Qalh5f1hlPm9ryL_wy69vmvIrv8hYA&s",
+      "fuentePagina": "https://www.skiutah.com/blog/authors/courtney-hark/the-5-best-rossignol-women-s-skis-of/",
+      "titulo": "The 5 Best Rossignol Women's Skis of 2022 - Ski Utah",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_Dco6Qalh5f1hlPm9ryL_wy69vmvIrv8hYA&s",
+      "original": "https://www.skiutah.com/files/subblob/blog/images.listing/1647940606"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/skis/nah/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsjSE91kttABxFjMayhAzg7NLZKwoyJjRCLw&s",
+      "fuentePagina": "https://www.voile.com/voile-ultravector-skis.html?srsltid=AfmBOop51E_EUCgXrDYk2zPRRVLpDqUQM7v_kixTr1kRaNfn2zHyH2Ze",
+      "titulo": "Voile UltraVector Skis",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsjSE91kttABxFjMayhAzg7NLZKwoyJjRCLw&s",
+      "original": "https://www.voile.com/mm5/graphics/00000001/2/voile-ultravector-skis-2324.jpg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/skis/nah/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7_3FFxAA05ave7sfoU_IhdIOZDVGAX9Jjuw&s",
+      "fuentePagina": "https://us-store.altaiskis.com/product/altai-skis-adjustable-poles/",
+      "titulo": "Altai Skis Adjustable Poles | Altai Skis - US store",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7_3FFxAA05ave7sfoU_IhdIOZDVGAX9Jjuw&s",
+      "original": "https://us-store.altaiskis.com/wp-content/uploads/sites/3/2023/12/New-Xtrace-onHoks-snow.jpg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/skis/nah/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1aKdeOvp0JY1IIwOTVnXf8aDIlnb3cA90Ww&s",
+      "fuentePagina": "https://www.snowfeetstore.com/collections/short-skis-vs-long-skis?srsltid=AfmBOoon2FFHr09sr6EHIOOUNA1UN7Do2vttD49BbzhvB9FM-p70ZxX6",
+      "titulo": "Short Skis vs. Long Skis",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1aKdeOvp0JY1IIwOTVnXf8aDIlnb3cA90Ww&s",
+      "original": "https://www.snowfeetstore.com/cdn/shop/files/Snowfeet120_black_pro_ski_binding_5_7508a736-a928-421e-ba5d-ff9f96f71889.jpg?v=1762502402&width=1200"
+    }
+  ]
+}

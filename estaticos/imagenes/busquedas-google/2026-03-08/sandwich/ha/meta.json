@@ -1,0 +1,71 @@
+{
+  "categoria": "sandwich",
+  "categoriaSlug": "sandwich",
+  "idioma": "ha",
+  "nombreIdioma": "Hausa",
+  "termino": "sandwich",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:12:06.210Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "ha",
+    "gl": "ng"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=sandwich&hl=ha&gl=ng",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/sandwich/ha/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZYjO06J2alyy_bahlisJX3PyTt-RufMcL-Q&s",
+      "fuentePagina": "https://www.watermelon.org/recipes/watermelon-sandwich/",
+      "titulo": "Watermelon Sandwich",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZYjO06J2alyy_bahlisJX3PyTt-RufMcL-Q&s",
+      "original": "https://www.watermelon.org/wp-content/uploads/2023/02/Sandwich_2023-1000x1000.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/sandwich/ha/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpePQpQsspVsk_qeCK7LkXUpmBhFJov2Nb8g&s",
+      "fuentePagina": "https://www.tasteofhome.com/recipes/turkey-club-sandwich/",
+      "titulo": "Turkey Club Sandwich",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpePQpQsspVsk_qeCK7LkXUpmBhFJov2Nb8g&s",
+      "original": "https://www.tasteofhome.com/wp-content/uploads/2025/04/Turkey-Club-Sandwich_EXPS_FT25_278726_EC_0408_5.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/sandwich/ha/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6DHqoIPhtlRft2B96FmZ8vHnTdyY0qQXSOQ&s",
+      "fuentePagina": "https://recipes.timesofindia.com/recipes/club-sandwich/rs83740315.cms",
+      "titulo": "Club Sandwich Recipe",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6DHqoIPhtlRft2B96FmZ8vHnTdyY0qQXSOQ&s",
+      "original": "https://static.toiimg.com/thumb/83740315.cms?imgsize=361903&width=800&height=800"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/sandwich/ha/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSE2jUVThrHjKgTyJWdg8vRP9fo65mNU-uZIg&s",
+      "fuentePagina": "https://californiaavocado.com/recipe/avocado-bacon-grilled-cheese-sandwich/",
+      "titulo": "Avocado Bacon Grilled Cheese Sandwich",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSE2jUVThrHjKgTyJWdg8vRP9fo65mNU-uZIg&s",
+      "original": "https://californiaavocado.com/wp-content/uploads/2023/04/AvoBaconGrilledCheese_0011-scaled-e1682914545487.jpg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/sandwich/ha/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxdtia0H7GWdsmsf0FDmT91BtuIJbxSnXHmQ&s",
+      "fuentePagina": "https://www.tasteofhome.com/recipes/country-ham-sandwiches/",
+      "titulo": "Ham Sandwich",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxdtia0H7GWdsmsf0FDmT91BtuIJbxSnXHmQ&s",
+      "original": "https://www.tasteofhome.com/wp-content/uploads/2018/01/Country-Ham-Sandwiches_EXPS_FT23_25769_ST_1219_8.jpg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/sandwich/ha/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRx6NNpMxu1cKioAbXmRgN57Jp7rL_UDdx59Q&s",
+      "fuentePagina": "https://www.eatingwell.com/veggie-sandwich-with-garlic-herb-cheese-11748372",
+      "titulo": "Veggie Sandwich with Garlic-Herb Cheese",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRx6NNpMxu1cKioAbXmRgN57Jp7rL_UDdx59Q&s",
+      "original": "https://www.eatingwell.com/thmb/cwCxxIpDoKC8cQk7cTnY9FpyDE4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Veggie--Cream-Cheese-Sandwich-Beauty-1x1-56919_preview_maxWidth_4000_maxHeight_4000_ppi_300_quality_100-fdb2de8c05234e5a97f37fa3ad485220.jpg"
+    }
+  ]
+}

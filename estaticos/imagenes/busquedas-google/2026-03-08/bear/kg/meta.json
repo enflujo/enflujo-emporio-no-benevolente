@@ -1,0 +1,71 @@
+{
+  "categoria": "bear",
+  "categoriaSlug": "bear",
+  "idioma": "kg",
+  "nombreIdioma": "Kikongo",
+  "termino": "ours",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T20:54:15.519Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "fr",
+    "gl": "cd"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=ours&hl=fr&gl=cd",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bear/kg/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ49SOCXmGvWeyK5HhQoC9CP_ddQ7noQwMz_A&s",
+      "fuentePagina": "https://www.safari-peaugres.com/les-animaux/ours-brun/",
+      "titulo": "Ours brun - Safari Peaugres",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ49SOCXmGvWeyK5HhQoC9CP_ddQ7noQwMz_A&s",
+      "original": "https://www.safari-peaugres.com/wp-content/uploads/2023/12/ours-brun-3-e1713019239652.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bear/kg/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvo54oYLlGyZ4FTlF1mdsVOTBh-Sd7flkmJA&s",
+      "fuentePagina": "https://www.salamandre.org/article/idees-recues-ours/",
+      "titulo": "L'ours n'est ni strictement carnivore, ni hibernant, 9 idées ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvo54oYLlGyZ4FTlF1mdsVOTBh-Sd7flkmJA&s",
+      "original": "https://master.salamandre.org/media/21911/telle-est-la-bete-2-1707x1200.png"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bear/kg/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOxW1Fue2TS4X1hSW5m-W3E_-MrcnFqgXpmQ&s",
+      "fuentePagina": "https://www.futura-sciences.com/planete/definitions/zoologie-ours-brun-europeen-7745/",
+      "titulo": "Définition | Ours brun européen : qu'est-ce que c'est ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOxW1Fue2TS4X1hSW5m-W3E_-MrcnFqgXpmQ&s",
+      "original": "https://cdn8.futura-sciences.com/a1280/images/ours-brun-oursons.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bear/kg/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS10vOxcfWedSc1I64f9hILheAk8Og29WRj-A&s",
+      "fuentePagina": "https://www.monde-animal.fr/fiches-animaux/ursus-arctos/",
+      "titulo": "Ours brun (Ursus arctos) - Monde Animal",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS10vOxcfWedSc1I64f9hILheAk8Og29WRj-A&s",
+      "original": "https://www.monde-animal.fr/wp-content/uploads/2021/04/ours-brun-carre.jpg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bear/kg/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkbU7cJXk2C3rfjIX4BCJ5MQ3krns3EjnuJA&s",
+      "fuentePagina": "https://www.mnhn.fr/fr/ours-polaire",
+      "titulo": "Ours polaire | Muséum national d'Histoire naturelle",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkbU7cJXk2C3rfjIX4BCJ5MQ3krns3EjnuJA&s",
+      "original": "https://www.mnhn.fr/system/files/styles/16_10_highest/private/2023-03/Ours%20polaire.jpeg.webp?itok=ht19Ulml"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bear/kg/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_ZJO8NJz_24xjOeS8lcc9ld2KWe6EbllvmA&s",
+      "fuentePagina": "https://www.pairidaiza.eu/fr/les-mondes/la-derniere-frontiere/lours-brun/",
+      "titulo": "L'Ours brun | Pairi Daiza",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_ZJO8NJz_24xjOeS8lcc9ld2KWe6EbllvmA&s",
+      "original": "https://cms.pairidaiza.eu/thumbor/xNbTc_UhafgbkdD-rJfYL5HOUGQ=/fit-in/2880x/filters:quality(92)/--/uploads/2024/02/IMG_9896-e1708530419496.jpg"
+    }
+  ]
+}

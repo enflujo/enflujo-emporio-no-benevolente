@@ -1,0 +1,71 @@
+{
+  "categoria": "cow",
+  "categoriaSlug": "cow",
+  "idioma": "qu",
+  "nombreIdioma": "Quechua",
+  "termino": "waka",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T20:53:15.768Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "es",
+    "gl": "pe"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=waka&hl=es&gl=pe",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/cow/qu/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR18-Esg-chI0mIsF-siicg4KS8U0Ty-GZP7A&s",
+      "fuentePagina": "https://www.wakavaping.com/blogs/waka-instruction/waka-pa10000-instruction",
+      "titulo": "WAKA PA10000 Instruction - WAKA Vape Official",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR18-Esg-chI0mIsF-siicg4KS8U0Ty-GZP7A&s",
+      "original": "http://www.wakavaping.com/cdn/shop/articles/soPro_PA10000.png?v=1672741734"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/cow/qu/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDDYlqTHiBaxIi5NPtIBC9SQ-7EET6GbA74A&s",
+      "fuentePagina": "https://calaverashop.pe/producto/waka-15000-puff-triple-berry",
+      "titulo": "CALAVERA SHOP :",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDDYlqTHiBaxIi5NPtIBC9SQ-7EET6GbA74A&s",
+      "original": "https://d20f60vzbd93dl.cloudfront.net/uploads/tienda_011174/tienda_011174_e279019025ff5c4b7bc3d1aa7839a6bff65b34e0_producto_medium_100.webp"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/cow/qu/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSV-0LBrOZW00KkEL4jsSJ-fH-ExrCsJrmW1w&s",
+      "fuentePagina": "https://www.bloommart.co/products/vaporizador-waka-10000-puff?srsltid=AfmBOopcKcF6MNlZ6JLqA3ZBfnaSMzQMLAIMwgmuJdUN9fClmDe_TQow",
+      "titulo": "Waka SoPro PA10000: Saborea Menta, Lychee y Frambuesa ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSV-0LBrOZW00KkEL4jsSJ-fH-ExrCsJrmW1w&s",
+      "original": "https://www.bloommart.co/cdn/shop/files/Vaporizador-Waka-SoPro-Menta.png?v=1753891461&width=1080"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/cow/qu/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrcIYqXdYtj0r2E9P0pN0QJg37cUsc2vMCvg&s",
+      "fuentePagina": "https://takeavape.pe/products/vape-waka-solo-2-2500-peach-blue-raspberry",
+      "titulo": "Waka Solo 2 – 2500 Puffs | Peach Blue Raspberry (Durazno y Arándano)",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrcIYqXdYtj0r2E9P0pN0QJg37cUsc2vMCvg&s",
+      "original": "https://takeavape.pe/cdn/shop/files/Blueberry-Splash-removebg-preview.png?v=1759268007"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/cow/qu/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjq9jBqc4tJZzxsP_6zG6M_W87VMs_S_sf2w&s",
+      "fuentePagina": "https://cl.wakavaping.com/products/waka-pocket-4000",
+      "titulo": "Explora WAKA POCKET 4.000 | Oficial WAKA Chile",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjq9jBqc4tJZzxsP_6zG6M_W87VMs_S_sf2w&s",
+      "original": "https://cl.wakavaping.com/cdn/shop/files/WAKAPocket4000-CherryBomb.jpg?v=1755597618"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/cow/qu/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4ziq5GeLSKIpoBBaA0MN4Xa0uCCXJlpOptA&s",
+      "fuentePagina": "https://ajvapes.com/products/waka-blade-disposable-33-000-puffs-waka",
+      "titulo": "Waka Blade Disposable 33,000 Puffs | WAKA – AJ Vapes Mx",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4ziq5GeLSKIpoBBaA0MN4Xa0uCCXJlpOptA&s",
+      "original": "https://ajvapes.com/cdn/shop/files/WAKA-Waka-Blade-Disposable-33_000Puffs-CocoStrawberry.png?v=1747827713&width=1445"
+    }
+  ]
+}

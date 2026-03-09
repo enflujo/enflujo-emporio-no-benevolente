@@ -1,0 +1,71 @@
+{
+  "categoria": "toaster",
+  "categoriaSlug": "toaster",
+  "idioma": "zu",
+  "nombreIdioma": "isiZulu",
+  "termino": "itousta",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:26:24.897Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "zu",
+    "gl": "za"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=itousta&hl=zu&gl=za",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/toaster/zu/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJp3bALFXLfwcVLdm6qgEytLjtqTmeILrBvA&s",
+      "fuentePagina": "https://shop.roulezjeunesse.com/products/moustache-samedi-29-game-ltd?srsltid=AfmBOoq6OPTiLjQqae5HW2T0GgZmYjcCVnuc0yc5MWguNB5_F8I52en4",
+      "titulo": "Moustache Samedi 29 Game LTD – Roulez Jeunesse",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJp3bALFXLfwcVLdm6qgEytLjtqTmeILrBvA&s",
+      "original": "https://shop.roulezjeunesse.com/cdn/shop/files/MoustacheSamedi29GameLTD0045543.jpg?v=1734536594"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/toaster/zu/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUHI2fkhHPaII5Xi4PbQ5mY8FSROJR25xeig&s",
+      "fuentePagina": "https://upway.fr/products/moustache-samedi-27-xroad-6-open-ks11?srsltid=AfmBOoqgE69d-f30EY5u9qnZ_Qhh8-lRRsl2_6c0rZTXTmfONI6uyp_-",
+      "titulo": "Vélo électrique Moustache Samedi 27 Xroad 6 Open ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUHI2fkhHPaII5Xi4PbQ5mY8FSROJR25xeig&s",
+      "original": "http://upway.fr/cdn/shop/files/KS11-3_1200x1200.jpg?v=1744633376"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/toaster/zu/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGJMeG4GfWC11ctaz_qioX_qmc6HsoXd8Fow&s",
+      "fuentePagina": "https://itoo.co.za/products/",
+      "titulo": "Our Specialist Insurance Products | iTOO",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGJMeG4GfWC11ctaz_qioX_qmc6HsoXd8Fow&s",
+      "original": "https://itoo.co.za/wp-content/uploads/2019/07/MyCylution-Header.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/toaster/zu/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjIsjcVaagcWbXvXSiwKvq5GQYx0cfJlRD8g&s",
+      "fuentePagina": "https://www.leboncoin.fr/ad/velos/3154535895",
+      "titulo": "Vttae moustache neuf 388kms samedi 29 game 5 - 11/25 - Vélos",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjIsjcVaagcWbXvXSiwKvq5GQYx0cfJlRD8g&s",
+      "original": "https://img.leboncoin.fr/api/v1/lbcpb1/images/ea/e5/17/eae5174f1c0f0e96106a21dd85f8c63b9ed8a431.jpg?rule=ad-large"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/toaster/zu/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhaKiTSevCprUhAYXY356_fJH2fKmoSBebHQ&s",
+      "fuentePagina": "https://www.shutterstock.com/es/image-photo/grodno-belarus-october-5-2024-monument-2608640875",
+      "titulo": "Grodno Belarus October 5 2024 Monument Foto de stock ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhaKiTSevCprUhAYXY356_fJH2fKmoSBebHQ&s",
+      "original": "https://www.shutterstock.com/shutterstock/photos/2608640875/display_1500/stock-photo-grodno-belarus-october-monument-to-soldiers-liberators-on-sovetskaya-soviet-square-2608640875.jpg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/toaster/zu/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRiumRVyhl4HDqum5KrOMMywt7FWtF7PMJ-Ng&s",
+      "fuentePagina": "https://e-liquidy-do-e-cigariet.heureka.sk/frutie-visen-10-ml-6-mg/",
+      "titulo": "Frutie - Višeň 10 ml 6 mg - Heureka.sk",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRiumRVyhl4HDqum5KrOMMywt7FWtF7PMJ-Ng&s",
+      "original": "https://img-cdn.heureka.group/v1/67ba2433-6856-4b6e-8a9e-d78ae4dd0a07.jpg?width=350&height=350"
+    }
+  ]
+}

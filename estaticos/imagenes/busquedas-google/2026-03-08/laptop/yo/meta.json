@@ -1,0 +1,71 @@
+{
+  "categoria": "laptop",
+  "categoriaSlug": "laptop",
+  "idioma": "yo",
+  "nombreIdioma": "Yorùbá",
+  "termino": "kọ̀mpútà",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:21:43.979Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "yo",
+    "gl": "ng"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=k%E1%BB%8D%CC%80mp%C3%BAt%C3%A0&hl=yo&gl=ng",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/laptop/yo/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyJ7Axcduda4aA8hHrkDnipnverZE_MWpZ4Q&s",
+      "fuentePagina": "https://www.bbc.com/yoruba/articles/cdxr56g42zpo",
+      "titulo": "Wo ọ̀pọ̀ ìṣòro tó wà nídìí lílo ẹ̀rọ kọ̀mpútà fún ìdánwò ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyJ7Axcduda4aA8hHrkDnipnverZE_MWpZ4Q&s",
+      "original": "https://ichef.bbci.co.uk/news/1024/branded_yoruba/07e9/live/1409dce0-c13a-11f0-8717-7b6a6b2fefad.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/laptop/yo/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_4ngMyL1gY-1Q4ycVCP2P8n6sH9Df4GGjVA&s",
+      "fuentePagina": "https://yo.wikipedia.org/wiki/%C3%8C%E1%B9%A3i%E1%B9%A3%E1%BA%B9%CC%81_k%E1%BB%8D%CC%80mp%C3%BAt%C3%A0",
+      "titulo": "Ìṣiṣẹ́ kọ̀mpútà - Wikipedia, ìwé-ìmọ̀ ọ̀fẹ́",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_4ngMyL1gY-1Q4ycVCP2P8n6sH9Df4GGjVA&s",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Napier%27s_calculating_tables.JPG/250px-Napier%27s_calculating_tables.JPG"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/laptop/yo/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUbiQY0rDW-DAY8KL0eonRsQ-hfI57r5UgBw&s",
+      "fuentePagina": "https://www.bbc.com/yoruba/articles/c3gk6zk2x02o",
+      "titulo": "Àtúnṣe wáyà tó da nẹ́tíwọ́ọ̀kì fóònù àti kọ̀mpútà yín rú yóò ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUbiQY0rDW-DAY8KL0eonRsQ-hfI57r5UgBw&s",
+      "original": "https://ichef.bbci.co.uk/ace/ws/640/cpsprodpb/7286/live/c39098d0-e3a0-11ee-b37f-d1b21fdf330a.jpg.webp"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/laptop/yo/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTd-S49mrmQTIKG5R0Z1ZMviOst5cGEITcxYA&s",
+      "fuentePagina": "https://www.bbc.com/yoruba/articles/czrkv14p6d4o",
+      "titulo": "Ìjọba gbọ́dọ̀ ní àkójọpọ̀ orúkọ gbogbo aráàlú lórí ẹ̀rọ ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTd-S49mrmQTIKG5R0Z1ZMviOst5cGEITcxYA&s",
+      "original": "https://ichef.bbci.co.uk/ace/ws/640/cpsprodpb/b3a4/live/be577320-d101-11f0-9fb5-5f3a3703a365.png.webp"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/laptop/yo/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmpwUbluLOA6wbHaidLLrdiW0u0Xw0gXWHzg&s",
+      "fuentePagina": "https://www.facebook.com/drivetvnewsyoruba/posts/%E1%BA%B9-gb%E1%BB%8D-o-nipa-%E1%BB%8D%CC%80p%E1%BB%8D%CC%80-%C3%AC%E1%B9%A3%C3%B2ro-t%C3%B3-w%C3%A0-n%C3%ADd%C3%AC%C3%AD-l%C3%ADlo-%E1%BA%B9%CC%80r%E1%BB%8D-k%E1%BB%8D%CC%80mp%C3%BAt%C3%A0-ayarabiasa-f%C3%BAn-%C3%ACd%C3%A1nw%C3%B2-wa/1375562927913854/",
+      "titulo": "Ẹ gbọ o nipa ọ̀pọ̀ ìṣòro tó wà nídìí lílo ẹ̀rọ kọ̀mpútà ayarabiasa fún  ìdánwò WAEC, tí ilé aṣòfin ṣe sún lílo rẹ̀ síwájú di ọdun 2030 | DriveTv  News Yoruba | Facebook",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmpwUbluLOA6wbHaidLLrdiW0u0Xw0gXWHzg&s",
+      "original": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=1578448703288325&get_thumbnail=1"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/laptop/yo/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6vC_6pPbrIkLeXGw6E_Byb8CyRhBAvH-PAQ&s",
+      "fuentePagina": "https://franklincollege.edu/yo/pataki/imo-komputa-sayensi/",
+      "titulo": "Computer Science | Franklin College | Find your future at ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6vC_6pPbrIkLeXGw6E_Byb8CyRhBAvH-PAQ&s",
+      "original": "https://franklincollege.edu/wp-content/uploads/2024/03/Image-Side-Box-Computing-840x560.jpg"
+    }
+  ]
+}

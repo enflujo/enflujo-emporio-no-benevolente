@@ -1,0 +1,71 @@
+{
+  "categoria": "person",
+  "categoriaSlug": "person",
+  "idioma": "ha",
+  "nombreIdioma": "Hausa",
+  "termino": "mutum",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T20:40:35.829Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "ha",
+    "gl": "ng"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=mutum&hl=ha&gl=ng",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/person/ha/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRL6dL1cLbUbzQJzJXy0ArNaxc78RQPo_mDow&s",
+      "fuentePagina": "http://www.wikiaves.com.br/wiki/mutum-de-penacho",
+      "titulo": "mutum-de-penacho (Crax fasciolata) | WikiAves - A ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRL6dL1cLbUbzQJzJXy0ArNaxc78RQPo_mDow&s",
+      "original": "https://s3.amazonaws.com/media.wikiaves.com.br/images/0043/3400835_ed50c11fe5801c1c18085cd92f0981a6.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/person/ha/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOGqj_8uyUglGn0z_Pf7lM-6Uc0xhF2kbTgw&s",
+      "fuentePagina": "https://pick-upau.org.br/ong/noticias/noticias_2018/2018.10.02_ong-materia-especies-mutum-de-penacho/materia-projeto-aves-mutum-de-penacho-pick-upau.htm",
+      "titulo": "Projeto Aves: Mutum-de-penacho",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOGqj_8uyUglGn0z_Pf7lM-6Uc0xhF2kbTgw&s",
+      "original": "https://pick-upau.org.br/ong/noticias/noticias_2018/2018.10.02_ong-materia-especies-mutum-de-penacho/mutum-de-penacho-IMG_7543.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/person/ha/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTaF-YEQbgoVK5M-J-72lr9p0Fl6K5Bd_5N-A&s",
+      "fuentePagina": "https://es.wikipedia.org/wiki/Crax_blumenbachii",
+      "titulo": "Crax blumenbachii - Wikipedia, la enciclopedia libre",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTaF-YEQbgoVK5M-J-72lr9p0Fl6K5Bd_5N-A&s",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Crax_blumenbachii_%28male%29.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/person/ha/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPcLVXw01_lU6UYBrDTzVD5pnUn2VcnyFZDQ&s",
+      "fuentePagina": "https://liafuziy.itch.io/mutum-fudum",
+      "titulo": "Mutum Fudum by Lia Fuziy",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPcLVXw01_lU6UYBrDTzVD5pnUn2VcnyFZDQ&s",
+      "original": "https://img.itch.zone/aW1nLzIyMDE1MzUzLmpwZw==/original/HCL%2BMm.jpg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/person/ha/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRoTPtZIEYwx2GNEhjc66KAq2xKO8LE_q-YPw&s",
+      "fuentePagina": "https://pt.wikipedia.org/wiki/Mutum-do-nordeste",
+      "titulo": "Mutum-do-nordeste – Wikipédia, a enciclopédia livre",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRoTPtZIEYwx2GNEhjc66KAq2xKO8LE_q-YPw&s",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Mitu_mitu_1838.jpg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/person/ha/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCGnVNnQvim2v3MyrK5P7PXv7L4GhtyyEfBg&s",
+      "fuentePagina": "https://www.parquedasaves.com.br/blog/bastidores-do-parque-voce-saber-diferenciar-os-mutuns-do-parque/",
+      "titulo": "BASTIDORES DO PARQUE | Você saber diferenciar os mutuns do ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCGnVNnQvim2v3MyrK5P7PXv7L4GhtyyEfBg&s",
+      "original": "http://www.parquedasaves.com.br/imagens-blog/wp-content/uploads/2016/10/mutum-de-penacho.jpg?w=960&h=640&crop=1"
+    }
+  ]
+}

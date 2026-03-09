@@ -1,0 +1,71 @@
+{
+  "categoria": "remote",
+  "categoriaSlug": "remote",
+  "idioma": "yo",
+  "nombreIdioma": "Yorùbá",
+  "termino": "ìgbéjáde",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:23:02.568Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "yo",
+    "gl": "ng"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=%C3%ACgb%C3%A9j%C3%A1de&hl=yo&gl=ng",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/remote/yo/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUigAgAyLN9jo7BOA-xb0bb_iGYaTsoMDXRg&s",
+      "fuentePagina": "https://www.bbc.com/yoruba/articles/crgedz2vdr2o",
+      "titulo": "Ìgbéjáde owó náírà tuntun ṣàfihàn àwọn kùdìẹ̀kudiẹ Buhari ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUigAgAyLN9jo7BOA-xb0bb_iGYaTsoMDXRg&s",
+      "original": "https://ichef.bbci.co.uk/ace/ws/640/cpsprodpb/751d/live/48e57010-b205-11ed-89f4-f3657d2bfa3b.jpg.webp"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/remote/yo/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfR1E-KqCShvJgWBKWHSEzqycGkXpD-sqjSw&s",
+      "fuentePagina": "https://yo.hqhp-en.com/hydrogen-loadingunloading-post-product/",
+      "titulo": "Ibùdó ìfipamọ́/ìgbéjáde hydrogen tó ga jùlọ Ilé iṣẹ́ àti ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfR1E-KqCShvJgWBKWHSEzqycGkXpD-sqjSw&s",
+      "original": "http://cdn.globalso.com/hqhp-en/Hydrogen-Application2.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/remote/yo/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZNoMhznNB8PPhmeXDhOG2ywfOsBEbWFCNkg&s",
+      "fuentePagina": "https://www.facebook.com/oduowobamire2/videos/theory-of-production-in-yoruba-language-%C3%A8r%C3%B2-%C3%ACm%E1%BB%8D%CC%80-%C3%ACgb%C3%A9j%C3%A1de/268975405133247/",
+      "titulo": "Theory of Production in Yoruba Language | Èrò-ìmọ̀ Ìgbéjáde, Let's see your  view., Call or Whatsapp: 08029600719 | Economics, Ìmọ̀ọrọ̀ajé, In Yoruba  Language | Facebook",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZNoMhznNB8PPhmeXDhOG2ywfOsBEbWFCNkg&s",
+      "original": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=268975405133247&get_thumbnail=1"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/remote/yo/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6lzc6U_tPkUzy8pR9WNfCjYaioNdfbAHqQw&s",
+      "fuentePagina": "http://yo.blessonextrusion.com/evapoeepe-cast-film-production-line-evapoeepe-product/",
+      "titulo": "Ile-iṣẹ ati Ile-iṣẹ Awọn oṣere EVA/POE/EPE ti China | Blesson",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6lzc6U_tPkUzy8pR9WNfCjYaioNdfbAHqQw&s",
+      "original": "http://www.blessonextrusion.com/uploads/14.png"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/remote/yo/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkipAeow4o1BSx7TekRJfnxxnnY_nGorQHVA&s",
+      "fuentePagina": "https://www.alizarinchina.com/yo/printable-heat-transfer-decal-metallic-foil-product/",
+      "titulo": "Awọn olupese ati awọn olupese Foil Irin ti a le tẹjade ni ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkipAeow4o1BSx7TekRJfnxxnnY_nGorQHVA&s",
+      "original": "https://www.alizarinchina.com/uploads/HSFS-300S-Printable-Decal-Metallic.jpg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/remote/yo/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyNYwt-6G4Zh6ypj2ZSTeGazGCYjOYgfKR5A&s",
+      "fuentePagina": "http://yo.yavaconveyors.com/ya-va-wedge-conveyor-system-lift-product/",
+      "titulo": "Eto gbigbe ọkọ oju omi YA-VA ti China——olupese ati ile-iṣẹ ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyNYwt-6G4Zh6ypj2ZSTeGazGCYjOYgfKR5A&s",
+      "original": "https://cdn.globalso.com/yavaconveyors/%E6%9F%94%E6%80%A7%E5%A4%B9%E6%8C%81%E6%8F%90%E5%8D%87%E6%9C%BA-S%E5%9E%8B%E7%BF%BB%E8%BD%AC1-300x300.jpg"
+    }
+  ]
+}

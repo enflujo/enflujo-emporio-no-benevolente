@@ -1,0 +1,71 @@
+{
+  "categoria": "oven",
+  "categoriaSlug": "oven",
+  "idioma": "gn",
+  "nombreIdioma": "Guaraní",
+  "termino": "horno",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:25:53.883Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "es",
+    "gl": "py"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=horno&hl=es&gl=py",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/oven/gn/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQS4eKQyQaYHUxvO3JOxKCVBjXa3lKLyhHmIA&s",
+      "fuentePagina": "https://www.bristol.com.py/catalogo/horno-electrico-midea-38-litros_0101263_0101263?srsltid=AfmBOorpafNdMfs-krOF1NsvVFZ6F57kewNpldLQhgPGjfpmRWjLMV9z",
+      "titulo": "Horno eléctrico Midea 38 litros — Bristol",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQS4eKQyQaYHUxvO3JOxKCVBjXa3lKLyhHmIA&s",
+      "original": "https://f.fcdn.app/imgs/6ecfdb/www.bristol.com.py/brispy/ee00/original/catalogo/0101263_0101263_1/480x480/horno-electrico-midea-38-litros-horno-electrico-midea-38-litros.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/oven/gn/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3NLMo0IK0EL6wee7nkYnSfk8q-0CpTX7XGQ&s",
+      "fuentePagina": "https://www.gonzalezgimenez.com.py/producto/7811/horno-electrico-altech-42lts-negro-select?srsltid=AfmBOor-4Y6kf_AbgoPnPNty19AL6TB5OAApOYERIVhI8jMruxWa6ahG",
+      "titulo": "Horno Electrico Altech 42lts Negro Select",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3NLMo0IK0EL6wee7nkYnSfk8q-0CpTX7XGQ&s",
+      "original": "https://www.gonzalezgimenez.com.py/storage/sku/altech-hornos-de-mesa-horno-electrico-altech-42lts-negro-select-1-1-1734963244.jpg?v=1734963244"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/oven/gn/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlSaH499TqKtPYe8y8EPUuZTIVnMPuqParlw&s",
+      "fuentePagina": "https://www.olier.com.py/producto/9937/horno-electrico-prae-dn45e-45-lts",
+      "titulo": "Horno Eléctrico PRAE DN45E 45 Lts.",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlSaH499TqKtPYe8y8EPUuZTIVnMPuqParlw&s",
+      "original": "https://www.olier.com.py/storage/sku/prae-hornos-electricos-horno-electrico-prae-dn45e-45-lts-1-1-1704222302.png"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/oven/gn/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbrEEc5ncfVrxdSImcsyOABtfOk2vD9Amekg&s",
+      "fuentePagina": "https://www.consumer.com.py/producto/55/horno-elctrico-62-l",
+      "titulo": "Horno eléctrico 62 L.",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbrEEc5ncfVrxdSImcsyOABtfOk2vD9Amekg&s",
+      "original": "https://admin.consumer.com.py/storage/products/amUUrPw8UuOWHiSzzBIY1C7r8Fp2JVYAcUTveLAq.jpg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/oven/gn/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvUyjf-bwV9RQ9lrq7kDs6cZPpZAvm_989Jg&s",
+      "fuentePagina": "https://www.gonzalezgimenez.com.py/producto/3868/horno-electrico-mueller-44-lts-sapore?srsltid=AfmBOoqoMbZduAFdnCvYkw9QqII2g-9gsRcVp7hm6Rl-yPbqYxkkN_Gz",
+      "titulo": "Horno Eléctrico Mueller 44 Lts Sapore",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvUyjf-bwV9RQ9lrq7kDs6cZPpZAvm_989Jg&s",
+      "original": "https://www.gonzalezgimenez.com.py/storage/sku/mueller-cocina-horno-electrico-mueller-44-lts-saporte-1-1-1652479554.jpg?v=1652479554"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/oven/gn/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkM5OxAfVVJt2b2tCuNhPiAh82RdV6FQFLzQ&s",
+      "fuentePagina": "https://megastar.com.py/hornos-electricos/933-horno-electrico-ha382a.html",
+      "titulo": "Horno eléctrico 38L 220V - HA382",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkM5OxAfVVJt2b2tCuNhPiAh82RdV6FQFLzQ&s",
+      "original": "https://megastar.com.py/1699/horno-electrico-ha382a.jpg"
+    }
+  ]
+}

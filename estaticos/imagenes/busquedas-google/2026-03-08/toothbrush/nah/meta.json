@@ -1,0 +1,71 @@
+{
+  "categoria": "toothbrush",
+  "categoriaSlug": "toothbrush",
+  "idioma": "nah",
+  "nombreIdioma": "Náhuatl",
+  "termino": "tlantepoztli",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:32:41.328Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "es",
+    "gl": "mx"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=tlantepoztli&hl=es&gl=mx",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/toothbrush/nah/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNAYU5QaLpEkGR1XUt9om9jy77S7H05jx2ng&s",
+      "fuentePagina": "https://mitologia.fandom.com/es/wiki/Tlaltecuhtli",
+      "titulo": "Tlaltecuhtli | Wiki Mitología | Fandom",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNAYU5QaLpEkGR1XUt9om9jy77S7H05jx2ng&s",
+      "original": "https://static.wikia.nocookie.net/mitologa/images/5/5e/Tlaltecuhtli_monolith.jpg/revision/latest?cb=20190607113637&path-prefix=es"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/toothbrush/nah/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqyEgnnXTAfdexR6UBG4U-FxVx1EU3wFFXlQ&s",
+      "fuentePagina": "https://librepedia.miraheze.org/wiki/Tlaximaltepoztli",
+      "titulo": "Tlaximaltepoztli - LibrePedia",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqyEgnnXTAfdexR6UBG4U-FxVx1EU3wFFXlQ&s",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/1/11/Tepoztli_Codex_Laud_p._43.png"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/toothbrush/nah/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtXS5giZ2zKq-pI6dLk3E4mcN__l3VEtITpQ&s",
+      "fuentePagina": "https://es.wikipedia.org/wiki/Tlaltecuhtli",
+      "titulo": "Tlaltecuhtli - Wikipedia, la enciclopedia libre",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtXS5giZ2zKq-pI6dLk3E4mcN__l3VEtITpQ&s",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Tlalcihuatl_V.png/250px-Tlalcihuatl_V.png"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/toothbrush/nah/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTv0w5HTlpJEoyjiS34-RnCQ2qM0ORsjuBLgg&s",
+      "fuentePagina": "https://www.facebook.com/Culturaprehispana/posts/tlaximaltepoztlitepoztli-hacha-de-metaleste-tipo-de-hachas-era-principalmente-us/975491447702163/",
+      "titulo": "Tlaximaltepoztli/tepoztli \"hacha de metal\" Este tipo de ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTv0w5HTlpJEoyjiS34-RnCQ2qM0ORsjuBLgg&s",
+      "original": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=975491274368847"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/toothbrush/nah/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGXDJkeyE1kddhYISuaPUBe6otybOTq5Xd9g&s",
+      "fuentePagina": "https://arqueologiamexicana.mx/mexico-antiguo/tlazolteotl",
+      "titulo": "Tlazoltéotl | Arqueología Mexicana",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGXDJkeyE1kddhYISuaPUBe6otybOTq5Xd9g&s",
+      "original": "https://arqueologiamexicana.mx/sites/default/files/styles/arq1200x600/public/tlazolteotl_3.png?itok=ikfOM6ym"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/toothbrush/nah/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfVBoTzaoNDqKYpmoM6D6AL13MdUuHhtVILQ&s",
+      "fuentePagina": "https://www.facebook.com/photo/?fbid=1057034657668145&set=a.350385424999742",
+      "titulo": "Arqueología - Tlazoltéotl, diosa de la pasión y de la ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfVBoTzaoNDqKYpmoM6D6AL13MdUuHhtVILQ&s",
+      "original": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=1057034657668145"
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "categoria": "oven",
+  "categoriaSlug": "oven",
+  "idioma": "fr",
+  "nombreIdioma": "Français",
+  "termino": "four",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:25:35.147Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "fr",
+    "gl": "be"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=four&hl=fr&gl=be",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/oven/fr/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9BUU1BK78_Md6-55cvjA8xmxxWjs9yAHRcA&s",
+      "fuentePagina": "https://www.electrodepot.be/fr/gros-electromenager/four-micro-onde/four-encastrable.html?srsltid=AfmBOooDl-ap-AMTlgEwuedFyKpt7LHBdtb6vqc1y0oGJfFw_h8YEbTw",
+      "titulo": "Four encastrable : Achetez pas cher - ELECTRO DEPOT",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9BUU1BK78_Md6-55cvjA8xmxxWjs9yAHRcA&s",
+      "original": "https://www.electrodepot.be/media/catalog/product/cache/2decc206964ee42a97d61ec2abc9488a/P988609.jpg?frz-v=4352"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/oven/fr/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTaEJAMOBmUq0NPgBvh5dN2b_28G20ukz_RNQ&s",
+      "fuentePagina": "https://www.electrodepot.be/fr/gros-electromenager/four-micro-onde/four-posable.html?srsltid=AfmBOopq7J2mlE5gfj6wvCG_QFxikT1adQFqp8vQHIEK5KMoMwhmP9ao",
+      "titulo": "Four électrique pas cher - ELECTRO DEPOT",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTaEJAMOBmUq0NPgBvh5dN2b_28G20ukz_RNQ&s",
+      "original": "https://www.electrodepot.be/media/catalog/product/cache/2decc206964ee42a97d61ec2abc9488a/P10003693.jpg?frz-v=4354"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/oven/fr/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmHDE-jxm9MHhDg-1Vdcvmm451WK8ce2Q2dg&s",
+      "fuentePagina": "https://www.eldi.be/fr/encastrable/fours/whirlpool",
+      "titulo": "Four encastrable Whirlpool acheter - Tout en stock | Eldi",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmHDE-jxm9MHhDg-1Vdcvmm451WK8ce2Q2dg&s",
+      "original": "https://www.eldi.be/media/catalog/product/cache/2847e1246140a24d35865917c4365955/6/0/609184820_1.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/oven/fr/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQk9bysFrm0DszjQEvGyo9x8QfRKiVbwBDVhw&s",
+      "fuentePagina": "https://www.rollergrill-international.com/fr/gamme-professionnelle/193/10/la-cuisson/fours-multifonctions/four-chaleur-tournante-38-l-detail.html",
+      "titulo": "Four électrique 38 litres : four professionnel à poser",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQk9bysFrm0DszjQEvGyo9x8QfRKiVbwBDVhw&s",
+      "original": "https://www.rollergrill-international.com/images/stories/virtuemart/product/four-electrique-38-litres-four-professionnel-poser-fc380.webp"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/oven/fr/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbgrwILjrsqVx-ixK65MSmuOfuP084m8W5xw&s",
+      "fuentePagina": "https://www.krefel.be/fr/p/12003303-four-encastrable-akz9-6290-ix",
+      "titulo": "WHIRLPOOL Four encastrable AKZ96290IX",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbgrwILjrsqVx-ixK65MSmuOfuP084m8W5xw&s",
+      "original": "https://media.krefel.be/sys-master/products/9331596591134/2160x2160.12003303_001.webp"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/oven/fr/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbKE5uKW4_ooU-kDkHmPQginTK3lXmNKirSQ&s",
+      "fuentePagina": "https://www.vandenborre.be/fr/comment-bien-choisir-un-four/four-encastrable",
+      "titulo": "Comment choisir un four ? | Vanden Borre",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbKE5uKW4_ooU-kDkHmPQginTK3lXmNKirSQ&s",
+      "original": "https://image.vandenborre.be/WEB/images/cms/bloc5_fourencastrable.jpg"
+    }
+  ]
+}

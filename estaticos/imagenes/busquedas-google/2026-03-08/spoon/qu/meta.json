@@ -1,0 +1,71 @@
+{
+  "categoria": "spoon",
+  "categoriaSlug": "spoon",
+  "idioma": "qu",
+  "nombreIdioma": "Quechua",
+  "termino": "lluch'u",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:09:36.492Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "es",
+    "gl": "pe"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=lluch'u&hl=es&gl=pe",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/spoon/qu/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR88bsLX-AZHCPD2U5VY4m1PDyUylvLu6a1LA&s",
+      "fuentePagina": "https://www.ramonacultural.com/contenido-r/el-lluchu-boliviano-un-texido-tejido-a-mano/",
+      "titulo": "El lluch'u boliviano, un 'texido' tejido a mano | Ramona ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR88bsLX-AZHCPD2U5VY4m1PDyUylvLu6a1LA&s",
+      "original": "https://www.ramonacultural.com/wp-content/uploads/2024/12/Lluchu-foto.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/spoon/qu/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1AWeupTLpuObLoHShuPticYMBxh9OYYoQ-A&s",
+      "fuentePagina": "https://www.facebook.com/JavierLastario/posts/lluchu-lluchhuaymaradelsiglo21-si-quieres-aprender-aymara-%C3%BAnete-a-nuestro-grupo-/3098627920258089/",
+      "titulo": "Lluch'u Lluchhu #AymaraDelSiglo21 ------- 🇧🇴 SI QUIERES ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1AWeupTLpuObLoHShuPticYMBxh9OYYoQ-A&s",
+      "original": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=3098626356924912"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/spoon/qu/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpQNAPqU9_oiUKzmw9jGINFesm1aPGf2Xtbg&s",
+      "fuentePagina": "https://www.shazam.com/es-es/song/1682948107/lluchu",
+      "titulo": "Lluch'u - Saul Callejas Oropeza & INTI Bolivia: letras de ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpQNAPqU9_oiUKzmw9jGINFesm1aPGf2Xtbg&s",
+      "original": "https://i.ytimg.com/vi/SCKkMsCRW1c/maxresdefault.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/spoon/qu/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRiOVGAec9F9Yh9lvKkXlh_jpJl0xQ3CsuSuQ&s",
+      "fuentePagina": "https://collections.bowers.org/objects/144799/hat-lluchu?ctx=51e60640daf29535c3c0b9538910f770c478913a&idx=0",
+      "titulo": "Hat (Lluch'u) – Works – Bowers Museum",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRiOVGAec9F9Yh9lvKkXlh_jpJl0xQ3CsuSuQ&s",
+      "original": "https://collections.bowers.org/internal/media/dispatcher/40225/full"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/spoon/qu/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMA4X3t05V4wiDfyrKdN3uAFNECSYOyiPXKg&s",
+      "fuentePagina": "https://www.boliviamall.com/advanced_search_result.php?categories_id=42&inc_subcat=1&sort=2a&page=2",
+      "titulo": "BoliviaMall.com - The Largest Online Shopping Mall in Bolivia",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMA4X3t05V4wiDfyrKdN3uAFNECSYOyiPXKg&s",
+      "original": "https://www.boliviamall.com/images/AAG045_M.jpg?v=66"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/spoon/qu/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHTGpCNQdN_SKgbA_cfm4SErMazQ4B6XZu-w&s",
+      "fuentePagina": "https://www.opinion.com.bo/articulo/ramona/lluch-u-boliviano-texido-tejido-mano/20241229000045961588.html",
+      "titulo": "El lluch'u boliviano, un texido tejido a mano",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHTGpCNQdN_SKgbA_cfm4SErMazQ4B6XZu-w&s",
+      "original": "https://www.opinion.com.bo/asset/thumbnail,992,558,center,center/media/opinion/images/2024/11/30/2024113019190795815.jpg"
+    }
+  ]
+}

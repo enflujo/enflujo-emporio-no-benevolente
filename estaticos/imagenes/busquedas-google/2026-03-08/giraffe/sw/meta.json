@@ -1,0 +1,71 @@
+{
+  "categoria": "giraffe",
+  "categoriaSlug": "giraffe",
+  "idioma": "sw",
+  "nombreIdioma": "Kiswahili",
+  "termino": "twiga",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T20:55:26.530Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "sw",
+    "gl": "tz"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=twiga&hl=sw&gl=tz",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/giraffe/sw/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR84_YcEbi_CoFg4Zc0raeZtjvoxwTMNB4QEg&s",
+      "fuentePagina": "https://sw.wikipedia.org/wiki/Twiga",
+      "titulo": "Twiga - Wikipedia, kamusi elezo huru",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR84_YcEbi_CoFg4Zc0raeZtjvoxwTMNB4QEg&s",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Giraffe_standing.jpg/960px-Giraffe_standing.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/giraffe/sw/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMQSfloc32ibDm59SU8jpjSTHpe17AwB-EPQ&s",
+      "fuentePagina": "https://nukta.co.tz/twiga-hatarini-kutoweka-duniani",
+      "titulo": "Twiga hatarini kutoweka duniani - Nukta Habari",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMQSfloc32ibDm59SU8jpjSTHpe17AwB-EPQ&s",
+      "original": "https://nukta.co.tz/wp-content/uploads/2024/03/971dcef040caf79931273abc648f05bc5bc7fcf6.jpeg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/giraffe/sw/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7wQV83QNaLXP3UEhtUNftH0ezlMWxAWQ7tg&s",
+      "fuentePagina": "https://www.tripadvisor.com/LocationPhotoDirectLink-g608449-i476868929-Mikumi_National_Park_Morogoro_Region.html",
+      "titulo": "Giraffe (Twiga )in Swahili. Is a National animal of Tanzania ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7wQV83QNaLXP3UEhtUNftH0ezlMWxAWQ7tg&s",
+      "original": "https://media-cdn.tripadvisor.com/media/photo-s/1c/6c/71/41/giraffe-twiga-in-swahili.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/giraffe/sw/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlXxPGvb-dH-83InqFcnmud2Grb5STvs32Aw&s",
+      "fuentePagina": "https://www.bbc.com/swahili/habari-51816803",
+      "titulo": "Kenya: Twiga weupe wa kipekee wameuawa eneo la Kaskazini ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlXxPGvb-dH-83InqFcnmud2Grb5STvs32Aw&s",
+      "original": "http://c.files.bbci.co.uk/26E8/production/_111206990_157d8dc8-5d75-48c1-a205-2f24b55aeb11.jpg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/giraffe/sw/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfWRWAd6KYrESXsw9vybDzpep14MDm789lpA&s",
+      "fuentePagina": "https://www.facebook.com/JamiiForums/posts/fahamu-mambo-machache-kuhusu-mnyama-twiga-twiga-huwa-na-urefu-wa-kati-ya-mita-48/2495895583807754/",
+      "titulo": "FAHAMU MAMBO MACHACHE KUHUSU MNYAMA TWIGA > Twiga huwa na ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfWRWAd6KYrESXsw9vybDzpep14MDm789lpA&s",
+      "original": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=2495895523807760"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/giraffe/sw/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrTE0j2TjsJHTSBZsdzSvuUW0U5Vj3RSW7uQ&s",
+      "fuentePagina": "https://www.facebook.com/100064335661608/posts/mfahamu-vizuri-mnyama-twigatwiga-ni-miongoni-mwa-wanyama-wenye-mvuto-mkubwa-kuto/769756945178821/",
+      "titulo": "MFAHAMU VIZURI MNYAMA TWIGA. TWIGA ni miongoni mwa wanyama ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrTE0j2TjsJHTSBZsdzSvuUW0U5Vj3RSW7uQ&s",
+      "original": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=769756918512157"
+    }
+  ]
+}

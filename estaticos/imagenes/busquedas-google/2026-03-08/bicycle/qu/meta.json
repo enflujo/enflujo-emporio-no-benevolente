@@ -1,0 +1,71 @@
+{
+  "categoria": "bicycle",
+  "categoriaSlug": "bicycle",
+  "idioma": "qu",
+  "nombreIdioma": "Quechua",
+  "termino": "bisiklita",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T20:41:24.434Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "es",
+    "gl": "pe"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=bisiklita&hl=es&gl=pe",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bicycle/qu/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxMZmCjxDhFD4lmhd-BpxOBVSrP4iCsbqiGg&s",
+      "fuentePagina": "https://www.facebook.com/p/Bisiklita-ni-JUAN-online-bike-shop-100067999523306/",
+      "titulo": "Bisiklita ni JUAN online bike shop",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxMZmCjxDhFD4lmhd-BpxOBVSrP4iCsbqiGg&s",
+      "original": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=100067999523306"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bicycle/qu/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmLVr0g6bU-n6F_2WgRv6yOHVQezldLOnj_g&s",
+      "fuentePagina": "https://www.facebook.com/bisiklita/?locale=es_LA",
+      "titulo": "Bisiklita (@bisiklita) • Facebook",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmLVr0g6bU-n6F_2WgRv6yOHVQezldLOnj_g&s",
+      "original": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=100046920764597"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bicycle/qu/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTR7hffx3v9dcK5Xn3KzBxfh3Q_OTBQktRPzg&s",
+      "fuentePagina": "https://www.pinterest.com/pin/bisiklita-my-batanes--328059154076377980/",
+      "titulo": "bisiklita My Batanes",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTR7hffx3v9dcK5Xn3KzBxfh3Q_OTBQktRPzg&s",
+      "original": "https://i.pinimg.com/736x/18/9e/2f/189e2fbc1bc4843c482de4ce62235588.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bicycle/qu/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0dZ-pB6yUXrUix7WDV_HEEYsoBNmG3dVa3A&s",
+      "fuentePagina": "https://x.com/bisiklita_",
+      "titulo": "Bisiklita (@bisiklita_) / Posts / X",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0dZ-pB6yUXrUix7WDV_HEEYsoBNmG3dVa3A&s",
+      "original": "https://pbs.twimg.com/profile_images/822351112263057412/QH-Zftc-_400x400.jpg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bicycle/qu/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzn29DlXHsCYEgLYtw7yLurSVTRslp1-6_hA&s",
+      "fuentePagina": "https://www.studio7bike.pe/bicicletas?srsltid=AfmBOorWlohOzt8tod7KEf_J-yvBVln4pbDG8BAdSs7N_70tFmreWGFs",
+      "titulo": "Tienda De Bicicletas | Studio7Bike | Envíos a Todo El Perú",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzn29DlXHsCYEgLYtw7yLurSVTRslp1-6_hA&s",
+      "original": "https://static.wixstatic.com/media/04ee8b_faeb7fe633d14745bfd4b12d9d469f03~mv2.jpg/v1/fill/w_308,h_308,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/04ee8b_faeb7fe633d14745bfd4b12d9d469f03~mv2.jpg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/bicycle/qu/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCD1AU1OMX1MAekknxOw5xSX9ExVcIyANFwQ&s",
+      "fuentePagina": "https://www.studio7bike.pe/bicicletas?srsltid=AfmBOooGLCApejFWd7fqDyvjvDCH_AwU7liifqSViiLNjr1jv1iWZIK1",
+      "titulo": "Tienda De Bicicletas | Studio7Bike | Envíos a Todo El Perú",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCD1AU1OMX1MAekknxOw5xSX9ExVcIyANFwQ&s",
+      "original": "https://static.wixstatic.com/media/04ee8b_4fec99c7df274e38a483efb970157a47~mv2.jpg/v1/fill/w_308,h_308,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/04ee8b_4fec99c7df274e38a483efb970157a47~mv2.jpg"
+    }
+  ]
+}

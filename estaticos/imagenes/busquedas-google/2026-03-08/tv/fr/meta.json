@@ -1,0 +1,71 @@
+{
+  "categoria": "tv",
+  "categoriaSlug": "tv",
+  "idioma": "fr",
+  "nombreIdioma": "Français",
+  "termino": "télévision",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:21:02.688Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "fr",
+    "gl": "be"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=t%C3%A9l%C3%A9vision&hl=fr&gl=be",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/tv/fr/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7nSDyzqm7cRBkMWJJyXyraNEHfp0lTiYEsw&s",
+      "fuentePagina": "https://www.u-buy.be/fr/product/FTRJPTS3O-pyle-18-5-inch-1080p-led-rv-television-slim-flat-screen-monitor-fhd-small-tv-whdmi-rca-multimedia-diskdvd-combo-1224-volt-car-adapter-wall?srsltid=AfmBOoprEFpoKKsS01fvSlYbcrKqRBWxNjqmTyhVyFm2DHiiU2KC0zsm",
+      "titulo": "Pyle 15.6 Pouce 1080p LED RV Télévision - Slim Belgium | Ubuy",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7nSDyzqm7cRBkMWJJyXyraNEHfp0lTiYEsw&s",
+      "original": "https://m.media-amazon.com/images/I/61CO0C41WGL._AC_SL1000_.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/tv/fr/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRLp5NiKmziLMYYxNdvy41tMjClSzNodsI2g&s",
+      "fuentePagina": "https://www.vandenborre.be/fr/television/tv-lcd-led-oled",
+      "titulo": "Acheter votre TV | Vanden Borre – Le prix le plus bas",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRLp5NiKmziLMYYxNdvy41tMjClSzNodsI2g&s",
+      "original": "https://image.vandenborre.be/WEB/images/products/superzoom/jvc_lt-32fv140_7755384_1.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/tv/fr/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlrzYfdWPW9N-tRUeMIR2i_GqgyxT2pNBCnA&s",
+      "fuentePagina": "https://www.shutterstock.com/fr/search/t%C3%A9l%C3%A9vision",
+      "titulo": "1,3 million Images et Photos de Télévision Libres de Droits ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlrzYfdWPW9N-tRUeMIR2i_GqgyxT2pNBCnA&s",
+      "original": "https://www.shutterstock.com/image-photo/modern-tv-set-isolated-on-260nw-2548119265.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/tv/fr/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPKPYVtGLN3GF3gm560DkrS1epkUBpV4XOMA&s",
+      "fuentePagina": "https://www.eldi.be/fr/telefusion-u43faa11-led-43-full-hd",
+      "titulo": "Telefusion U43FAA10 - LED - 43'' - Full HD",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPKPYVtGLN3GF3gm560DkrS1epkUBpV4XOMA&s",
+      "original": "https://www.eldi.be/media/catalog/product/3/6/366953233-1_2.jpg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/tv/fr/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMJsIwnp2o3rtURcnxWQSi40ZiyYfNgbjBOQ&s",
+      "fuentePagina": "https://www.grundig.com/fr-fr/produits/divertissement-television",
+      "titulo": "Télévision",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMJsIwnp2o3rtURcnxWQSi40ZiyYfNgbjBOQ&s",
+      "original": "https://www.grundig.com/content/dam/rainbow-grundig-france-fr-aem/rainbow-grundig-france-fr-aemProductCatalog/product-images/AK3T00-24-VLE-4820-E/AK3T00-BULK-LO1-20221025-143021.png/jcr:content/renditions/original"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/tv/fr/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQN44UNiEd0HNgkIaTV99Pxq2IYFkmBXiT8bQ&s",
+      "fuentePagina": "https://www.test-achats.be/hightech/televiseurs",
+      "titulo": "Meilleure télévision de 2026 : avis d'experts, guide d'achat ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQN44UNiEd0HNgkIaTV99Pxq2IYFkmBXiT8bQ&s",
+      "original": "https://www.test-achats.be/-/media/global-artwork/hightech/televisions/televisions.svg?rev=e684e4f1-667c-403e-9635-e704b9d51444&hash=E63B3D2BB87BB0498F0CE4A660947DCA"
+    }
+  ]
+}

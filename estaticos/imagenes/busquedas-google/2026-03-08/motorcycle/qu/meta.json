@@ -1,0 +1,71 @@
+{
+  "categoria": "motorcycle",
+  "categoriaSlug": "motorcycle",
+  "idioma": "qu",
+  "nombreIdioma": "Quechua",
+  "termino": "motosikilita",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T20:42:42.052Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "es",
+    "gl": "pe"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=motosikilita&hl=es&gl=pe",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/motorcycle/qu/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqzBMO7GGABxLY-_eIX86uDCy1WhrqkoyOuA&s",
+      "fuentePagina": "https://mavila.pe/producto/mototaxi-m-150-gl/",
+      "titulo": "Mototaxi M-150 GL - Mavila Motos",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqzBMO7GGABxLY-_eIX86uDCy1WhrqkoyOuA&s",
+      "original": "https://mavila.pe/wp-content/uploads/2024/06/mototaxi-m-150-gl-1.jpeg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/motorcycle/qu/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkfqJyQI_ZVZebyYGQb-aN9erNsBZ4yWgAOw&s",
+      "fuentePagina": "https://mavila.pe/categoria-producto/mototaxis/",
+      "titulo": "Mototaxis - Mavila Motos",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkfqJyQI_ZVZebyYGQb-aN9erNsBZ4yWgAOw&s",
+      "original": "https://mavila.pe/wp-content/uploads/2024/06/mototaxi-m-150-xl-1-600x600.jpeg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/motorcycle/qu/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLdu0I35tRH4Z2YSdwpGxtE-acH_9tWa_Oig&s",
+      "fuentePagina": "https://www.motofacil.pe/marca/6",
+      "titulo": "motofacil - Inicio",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLdu0I35tRH4Z2YSdwpGxtE-acH_9tWa_Oig&s",
+      "original": "https://www.motofacil.pe/brands/9Cdjz3cSuW9iYsu4Q7uocTLER8uZNzgoL51OA1eX.png"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/motorcycle/qu/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8sgNmAqfWUtzGY_Kfu4iIybUXwtEoIoSlVw&s",
+      "fuentePagina": "https://www.galgo.com/pe/motos/PE195-mavila-mavila-dakota?srsltid=AfmBOoqTjk7sZe1a6IkFTBqXEJDrXrmXDYMVts0by0_-lRvzqlsZ-W8J",
+      "titulo": "Mavila Dakota | Motos Mavila | Galgo | Perú",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8sgNmAqfWUtzGY_Kfu4iIybUXwtEoIoSlVw&s",
+      "original": "https://images.ctfassets.net/8zlbnewncp6f/1sV5nNtycDmxhkTY6hI7WL/20b81df1b4eb154e067083b5ab0a64e1/Mavila_Dakota.jpg?w=400&fm=webp&q=100"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/motorcycle/qu/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxGiQHv1cm3xMdhwnSZ4LKfEowTyH2TXgdxA&s",
+      "fuentePagina": "https://es.wikipedia.org/wiki/Mototaxi",
+      "titulo": "Mototaxi - Wikipedia, la enciclopedia libre",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxGiQHv1cm3xMdhwnSZ4LKfEowTyH2TXgdxA&s",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Jinny_taxi_Peru.jpg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/motorcycle/qu/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8D2OUhmqcUjWD-a_UfVmoEhg4clGCOMa-uQ&s",
+      "fuentePagina": "https://motocorp.pe/motos.html?brand%5B0%5D=Ssenda&brand%5B1%5D=Bajaj&brand%5B2%5D=B52&brand%5B3%5D=Mavila&p=3",
+      "titulo": "Motos Nuevas en Perú | Todas las Marcas y Modelos | Motocorp",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8D2OUhmqcUjWD-a_UfVmoEhg4clGCOMa-uQ&s",
+      "original": "https://motocorp.pe/media/catalog/product/m/a/madakota-nr_1.jpg?quality=80&bg-color=255,255,255&fit=bounds&height=400&width=400&canvas=400:400"
+    }
+  ]
+}

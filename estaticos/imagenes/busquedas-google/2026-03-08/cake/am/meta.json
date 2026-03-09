@@ -1,0 +1,71 @@
+{
+  "categoria": "cake",
+  "categoriaSlug": "cake",
+  "idioma": "am",
+  "nombreIdioma": "Amharic — አማርኛ",
+  "termino": "ኬክ",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:16:28.925Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "am",
+    "gl": "et"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=%E1%8A%AC%E1%8A%AD&hl=am&gl=et",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/cake/am/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvgwyvyIYD_vox3zZyR_N-BEARKQJwtqnSEw&s",
+      "fuentePagina": "https://www.youtube.com/watch?v=QyJArxQHq_I",
+      "titulo": "ቀላል እና ጣፋጭ የሶፍት ኬክ አሰራር : how to make delicious and soft cake in Amharic",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvgwyvyIYD_vox3zZyR_N-BEARKQJwtqnSEw&s",
+      "original": "https://i.ytimg.com/vi/QyJArxQHq_I/maxresdefault.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/cake/am/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMTdQT5oDRCrpnxuaj7mHTAyZMsg0bUlDNzg&s",
+      "fuentePagina": "https://www.facebook.com/agapefoodtube/posts/best-birthday-cake%E1%8A%A0%E1%88%AA%E1%8D%8D-%E1%8B%A8%E1%88%8D%E1%8B%B0%E1%89%B5-%E1%8A%AC%E1%8A%AD/140306621144440/",
+      "titulo": "Best birthday cake አሪፍ የልደት ኬክ",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMTdQT5oDRCrpnxuaj7mHTAyZMsg0bUlDNzg&s",
+      "original": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=140306581144444"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/cake/am/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXW-PI2GARwP-ApRP74OG83vCQuBrywY8D1A&s",
+      "fuentePagina": "https://www.youtube.com/watch?v=6L-L1GlIosM",
+      "titulo": "በጣም ቀላል የመጥበሻ ሶፍት ኬክ አሰራር / cake aserar / pan cake / የቡና ቁርስ / sponge cake  without oven",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXW-PI2GARwP-ApRP74OG83vCQuBrywY8D1A&s",
+      "original": "https://i.ytimg.com/vi/6L-L1GlIosM/sddefault.jpg"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/cake/am/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRuhjIYCm7Sfi6ZvVAl4ZPyxYqdBn6ltsKQA&s",
+      "fuentePagina": "https://www.youtube.com/watch?v=bX1afueYfAI",
+      "titulo": "ኬክ በቤታችን አዘገጃጀት- Vanilla Cake recipe -Bahlie ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRuhjIYCm7Sfi6ZvVAl4ZPyxYqdBn6ltsKQA&s",
+      "original": "https://i.ytimg.com/vi/bX1afueYfAI/sddefault.jpg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/cake/am/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0IWfCS_cgTraRvKB-Iaf8XN3svG2a-PHSwA&s",
+      "fuentePagina": "https://kefta.2merkato.com/the-corner-cake/",
+      "titulo": "ዘ ኬክ ኮርነር – Kefta",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0IWfCS_cgTraRvKB-Iaf8XN3svG2a-PHSwA&s",
+      "original": "https://kefta.2merkato.com/wp-content/uploads/2022/01/The-cake-Corner-599x330.jpg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/cake/am/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJoGw4-1qYY-SpcFGBx-_v9QCyqqPYdh0YQg&s",
+      "fuentePagina": "https://www.youtube.com/watch?v=ZjfQosm_k_U",
+      "titulo": "በጣም ቀላል ኬክ ካለእንቁላልና ወተት / የፆም No egg No milk spong cake / ኬክ አሰራር / ebs /  seifu / cake",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJoGw4-1qYY-SpcFGBx-_v9QCyqqPYdh0YQg&s",
+      "original": "https://i.ytimg.com/vi/ZjfQosm_k_U/sddefault.jpg"
+    }
+  ]
+}

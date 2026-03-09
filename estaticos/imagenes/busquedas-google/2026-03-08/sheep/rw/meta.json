@@ -1,0 +1,71 @@
+{
+  "categoria": "sheep",
+  "categoriaSlug": "sheep",
+  "idioma": "rw",
+  "nombreIdioma": "Kinyarwanda",
+  "termino": "intama",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T20:52:18.921Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "en",
+    "gl": "rw"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=intama&hl=en&gl=rw",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/sheep/rw/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSa3KVAuc1ja0lavk12G8Txx4o6jow65LX6KQ&s",
+      "fuentePagina": "https://rw.wikipedia.org/wiki/Intama",
+      "titulo": "Intama - Wikipedia",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSa3KVAuc1ja0lavk12G8Txx4o6jow65LX6KQ&s",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Flock_of_sheep.jpg/250px-Flock_of_sheep.jpg"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/sheep/rw/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQy6bxsSKj6MO4vJ6JiC1myqKs98_93zXgPog&s",
+      "fuentePagina": "https://igihe.com/amakuru/utuntu-n-utundi/article/intama-ishobora-kumenya-isura-y-umuntu-imurebye-ku-ifoto",
+      "titulo": "Intama ishobora kumenya isura y'umuntu imurebye ku ifoto | IGIHE",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQy6bxsSKj6MO4vJ6JiC1myqKs98_93zXgPog&s",
+      "original": "https://mobile.igihe.com/local/cache-vignettes/L1000xH750/intama-4-2d2f4.jpg?1714022606"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/sheep/rw/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrLV6b6futDV6LRbCTzUKw7xg8DAnc0VxiaA&s",
+      "fuentePagina": "https://igihe.com/amakuru/utuntu-n-utundi/article/intama-ishobora-kumenya-isura-y-umuntu-imurebye-ku-ifoto",
+      "titulo": "Intama ishobora kumenya isura y'umuntu imurebye ku ifoto | IGIHE",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrLV6b6futDV6LRbCTzUKw7xg8DAnc0VxiaA&s",
+      "original": "https://www.igihe.com/local/cache-vignettes/L600xH446/arton99640-26460.jpg?1714022606"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/sheep/rw/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpMTYXoXWw9R-TITylOT8iMt8gJNmefDg_Bw&s",
+      "fuentePagina": "https://www.kigalitoday.com/ubuhinzi/ubworozi/article/rab-igiye-gutanga-icyororo-cy-intama-zibyara-kabiri-mu-mwaka",
+      "titulo": "RAB igiye gutanga icyororo cy'intama zibyara kabiri mu mwaka ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpMTYXoXWw9R-TITylOT8iMt8gJNmefDg_Bw&s",
+      "original": "https://www.kigalitoday.com/IMG/jpg/23-47.jpg"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/sheep/rw/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxD8IzXZZ9_ZmGL1F3zSuG9PlgHb4qisZqRg&s",
+      "fuentePagina": "https://www.bbc.com/gahuza/amakuru-48204725",
+      "titulo": "Ishuri ryo mu Bufaransa ryanditse intama nk'abanyeshuri ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxD8IzXZZ9_ZmGL1F3zSuG9PlgHb4qisZqRg&s",
+      "original": "http://c.files.bbci.co.uk/15832/production/_106841188_intama.jpg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/sheep/rw/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcSQj5AG4fTZPe2kUJqBbV-xdaa7zOpu-zXg&s",
+      "fuentePagina": "https://www.igihe.com/umuco/amateka/article/inkomoko-y-umugani-kubura-intama-n",
+      "titulo": "Inkomoko y'umugani “Kubura intama n'ibyuma” | IGIHE",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcSQj5AG4fTZPe2kUJqBbV-xdaa7zOpu-zXg&s",
+      "original": "https://igihe.com/IMG/arton36070.jpg?1368972405"
+    }
+  ]
+}

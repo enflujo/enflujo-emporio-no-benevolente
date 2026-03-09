@@ -1,0 +1,71 @@
+{
+  "categoria": "spoon",
+  "categoriaSlug": "spoon",
+  "idioma": "zh",
+  "nombreIdioma": "中文",
+  "termino": "勺子",
+  "version": "2026-03-08",
+  "fecha": "2026-03-08T21:09:42.876Z",
+  "proveedor": "serper",
+  "locale": {
+    "hl": "zh-CN",
+    "gl": "cn"
+  },
+  "googleUrl": "https://www.google.com/search?tbm=isch&q=%E5%8B%BA%E5%AD%90&hl=zh-CN&gl=cn",
+  "imagenes": [
+    {
+      "orden": 1,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/spoon/zh/01.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQI7VovFhHU584jYXwZ-vDIno16T_RBl6TDqg&s",
+      "fuentePagina": "https://www.nordicnest.cn/brands/gense/oxford-serving-spoon/",
+      "titulo": "Oxford serving 勺子来自Gense - nordicnest.cn",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQI7VovFhHU584jYXwZ-vDIno16T_RBl6TDqg&s",
+      "original": "https://www.nordicnest.cn/assets/blobs/gense-oxford-serving/p_31641-13-01-4a5c3b4edc.jpg?preset=tiny&dpr=2"
+    },
+    {
+      "orden": 2,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/spoon/zh/02.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxlWyFzSLabc8yseSQ-jaq-lsEANRUyTuUpA&s",
+      "fuentePagina": "https://www.amazon.com/-/zh_TW/Tenta-Kitchen-%E5%B0%88%E6%A5%AD%E5%A4%A7%E5%9E%8B%E4%B8%8D%E9%8A%B9%E9%8B%BC%E5%8B%BA%E5%8B%BA%E5%AD%90-%E8%82%89%E6%B1%81%E5%8B%BA%E5%AD%90%E6%B9%AF%E5%8B%BA-%E9%81%A9%E7%94%A8%E6%96%BC%E5%AD%B8%E6%A0%A1%E9%A3%9F%E5%A0%82%E3%80%81%E9%85%92%E5%BA%97%E5%BB%9A%E6%88%BF%E3%80%81%E9%A4%90%E5%BB%B3/dp/B076F6WWMQ",
+      "titulo": "Amazon.com: Tenta Kitchen 專業大型不銹鋼勺勺子- 肉汁勺子湯勺 ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxlWyFzSLabc8yseSQ-jaq-lsEANRUyTuUpA&s",
+      "original": "https://m.media-amazon.com/images/I/61PIO-GSuwL.jpg"
+    },
+    {
+      "orden": 3,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/spoon/zh/03.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxWtz40Fa0fH0j7hmXGajGwsl9RcBzFdR3KQ&s",
+      "fuentePagina": "https://www.suning.com/itemvideo/0000000000/11548285121.html",
+      "titulo": "304不锈钢2号汤勺餐具勺子调羹勺子视频介绍_304不锈钢2号汤勺 ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxWtz40Fa0fH0j7hmXGajGwsl9RcBzFdR3KQ&s",
+      "original": "https://imgservice.suning.cn/uimg1/b2c/image/fugO_MCYz15ZqU3fhJaGfg.jpg_800w_800h_4e"
+    },
+    {
+      "orden": 4,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/spoon/zh/04.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzJDdRoSWeX1kBiS6VhCekfGXmOI9Ccj0klw&s",
+      "fuentePagina": "https://m.sinarutara.com/index.php?ws=showproducts&products_id=3208815&lang=cn",
+      "titulo": "SYJ06L 6号木柄勺子Ladle Kitchen Tools Sinar Supplier ...",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzJDdRoSWeX1kBiS6VhCekfGXmOI9Ccj0klw&s",
+      "original": "https://cdn1.npcdn.net/images/1610505859c8288c874dd5b2098387f7a31b0e34b3.jpeg?md5id=e78e39ea372dddd546988c1f8e7bd0cb&new_width=1000&new_height=1000&w=1603328313"
+    },
+    {
+      "orden": 5,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/spoon/zh/05.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRep_RqBnnNr3EO26cXG_oJRVc5YxkHYMKznw&s",
+      "fuentePagina": "https://www.jd.com/jiage/6196bae1fc165d84333e.html",
+      "titulo": "家用勺子价格报价行情- 京东",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRep_RqBnnNr3EO26cXG_oJRVc5YxkHYMKznw&s",
+      "original": "https://img12.360buyimg.com/n1/jfs/t1/222215/17/38716/122924/660d2115Fed4a3f49/c71d49f26fcc14f3.jpg"
+    },
+    {
+      "orden": 6,
+      "rutaLocal": "estaticos/imagenes/busquedas-google/2026-03-08/spoon/zh/06.jpg",
+      "fuenteImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFSnWzryW-dD1-MmCHo09YjNx5atiI95T78Q&s",
+      "fuentePagina": "https://www.garboflatware.com/zh-CN/silver-spoon/cutlery-manufacturers-stainless-steel-spoon-for-home.html",
+      "titulo": "印度家居制造公司的餐具制造商不锈钢勺子",
+      "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFSnWzryW-dD1-MmCHo09YjNx5atiI95T78Q&s",
+      "original": "https://www.garboflatware.com/data/watermark/20240203/65be20a2a3e0b.jpg"
+    }
+  ]
+}
