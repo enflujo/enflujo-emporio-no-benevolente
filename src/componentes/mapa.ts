@@ -167,7 +167,6 @@ function aplicarEstilosPaises(codigo: string | null = null) {
 }
 
 function aplicarEstilosPaisesPorConjunto(paisesResaltados: Set<number> | null = null) {
-
   svgEl.querySelectorAll<SVGPathElement>('.pais').forEach((path) => {
     const id = Number(path.getAttribute('data-id'));
 

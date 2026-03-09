@@ -275,7 +275,7 @@ function renderizarTextoCuratorial() {
     figura.classList.add(`logo--${claveLogo}`);
 
     const imagen = document.createElement('img');
-    imagen.src = `${baseConSlash}estaticos/logos/${logo.archivo}`;
+    imagen.src = `${baseConSlash}logos/${logo.archivo}`;
     imagen.alt = logo.nombre;
     imagen.loading = 'lazy';
     imagen.decoding = 'async';
@@ -413,9 +413,7 @@ function textoDeteccion(categoria: string, score: number): string {
   const pct = (score * 100) | 0;
   const claveTexto = score >= 0.7 ? 'frasesAlta' : score >= 0.4 ? 'frasesMedia' : 'frasesBaja';
   const articulo = getArticuloES(categoria);
-  return t(claveTexto)
-    .replace('{articulo}', articulo)
-    .replace('{term}', `«${categoria}» (${pct}%)`);
+  return t(claveTexto).replace('{articulo}', articulo).replace('{term}', `«${categoria}» (${pct}%)`);
 }
 
 function estilosPorConfianza(ctx: CanvasRenderingContext2D, score: number, color: string) {

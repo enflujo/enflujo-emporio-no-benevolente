@@ -99,7 +99,7 @@ function renderizarBuscadorPerfil(indice: number) {
   capturaWrap.className = 'googlePerfilCapturaWrap';
   const captura = document.createElement('img');
   captura.className = 'googlePerfilCaptura';
-  captura.src = `${baseConSlash()}estaticos/perfiles/${perfil.id}.jpg`;
+  captura.src = `${baseConSlash()}perfiles/${perfil.id}.jpg`;
   captura.alt = `Resultados de Google para ${perfil.nombre}`;
   captura.loading = 'lazy';
   captura.decoding = 'async';

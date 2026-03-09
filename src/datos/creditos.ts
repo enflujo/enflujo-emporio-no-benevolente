@@ -133,11 +133,11 @@ const contenidoCuratorialPorIdioma: Record<string, ContenidoCuratorial> = {
     ],
   },
   ha: {
-    tituloCabeceraA: 'Gaskiyar ma\'auni',
+    tituloCabeceraA: "Gaskiyar ma'auni",
     tituloCabeceraB: 'AIAIAIAIAIAIAIAIAI',
-    tituloSeccion: 'Gaskiyar ma\'auni',
+    tituloSeccion: "Gaskiyar ma'auni",
     parrafos: [
-      '“Gaskiyar ma\'auni” (ground truth) ba ta nufin gaskiyar duniya ba; tana nufin iyakar abin da samfurin ML zai iya gane wa a matsayin gaskiya.',
+      "“Gaskiyar ma'auni” (ground truth) ba ta nufin gaskiyar duniya ba; tana nufin iyakar abin da samfurin ML zai iya gane wa a matsayin gaskiya.",
       'A computer vision, wannan iyaka tana zama rufaffen jerin rukuni. Abin da bai shiga jerin ba ba za a gano shi ba, don haka ba ya wanzuwa ga tsarin.',
       'Wannan aiki yana amfani da COCO-SSD a kan hotunan da aka dauka a lokacin mulkin mallakar Turai a Afirka. Sakamakon ba ya bayyana archive; yana rage shi zuwa taxonomia da aka riga aka tanada.',
       'Wannan aiki na fasaha yana amsa kallon mulkin mallaka: rarrabewa domin sarrafawa, sanya suna domin mulki, da daidaita abubuwan da ba su daidaita ba.',
@@ -290,7 +290,8 @@ export const perfilesCreditos: PerfilCredito[] = [
         titulo: 'Verdad de referencia · Equipo',
         dominio: 'enflujo.com',
         url: 'https://enflujo.com/emporio/',
-        descripcion: 'Coautoría en conceptualización, montaje y comportamiento autónomo de la interfaz para espacio expositivo.',
+        descripcion:
+          'Coautoría en conceptualización, montaje y comportamiento autónomo de la interfaz para espacio expositivo.',
       },
       {
         titulo: 'Práctica transnacional',
@@ -319,13 +320,15 @@ export const perfilesCreditos: PerfilCredito[] = [
         titulo: 'Verdad de referencia · Investigación',
         dominio: 'enflujo.com',
         url: 'https://enflujo.com/emporio/',
-        descripcion: 'Coautoría en metodología crítica y traducción conceptual del proyecto para contexto expositivo internacional.',
+        descripcion:
+          'Coautoría en metodología crítica y traducción conceptual del proyecto para contexto expositivo internacional.',
       },
       {
         titulo: 'Medios y colonialidad',
         dominio: 'media-ecologies.org',
         url: 'https://media-ecologies.org/',
-        descripcion: 'Trabajo sobre regímenes de visibilidad, colonialidad técnica y materialidades de la clasificación.',
+        descripcion:
+          'Trabajo sobre regímenes de visibilidad, colonialidad técnica y materialidades de la clasificación.',
       },
     ],
   },
@@ -348,13 +351,15 @@ export const perfilesCreditos: PerfilCredito[] = [
         titulo: 'Verdad de referencia · Curaduría',
         dominio: 'enflujo.com',
         url: 'https://enflujo.com/emporio/',
-        descripcion: 'Coautoría curatorial y diseño narrativo para circulación pública de la obra en contexto de exposición.',
+        descripcion:
+          'Coautoría curatorial y diseño narrativo para circulación pública de la obra en contexto de exposición.',
       },
       {
         titulo: 'Interfaces y conocimiento',
         dominio: 'aesthetic-inquiry.eu',
         url: 'https://aesthetic-inquiry.eu/',
-        descripcion: 'Trabajo sobre visualización de datos, mediación cultural y epistemologías críticas de plataformas.',
+        descripcion:
+          'Trabajo sobre visualización de datos, mediación cultural y epistemologías críticas de plataformas.',
       },
     ],
   },

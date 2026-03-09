@@ -6,7 +6,10 @@ export const paisesPorLengua: { [codigo: string]: number[] } = {
   sw: [834, 404, 800, 646, 108, 180, 508, 174], // Kiswahili: Tanzania, Kenia, Uganda, Ruanda, Burundi, DRC, Mozambique, Comoras
   rw: [646, 180, 800], // Kinyarwanda: Ruanda, DRC (este), Uganda
   kg: [180, 178, 24], // Kikongo: DRC, Rep. Congo, Angola
-  fr: [250, 56, 756, 442, 124, 204, 854, 120, 140, 148, 178, 180, 384, 262, 266, 324, 332, 450, 466, 478, 504, 562, 646, 686, 768, 788], // Français
+  fr: [
+    250, 56, 756, 442, 124, 204, 854, 120, 140, 148, 178, 180, 384, 262, 266, 324, 332, 450, 466, 478, 504, 562, 646,
+    686, 768, 788,
+  ], // Français
   yo: [566, 204, 768], // Yorùbá: Nigeria, Benín, Togo
   ha: [566, 562, 288, 120, 148], // Hausa: Nigeria, Níger, Ghana, Camerún, Chad
   am: [231], // Amharic: Etiopía
