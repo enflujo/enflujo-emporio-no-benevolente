@@ -340,7 +340,7 @@ export const ui: Record<string, TraduccionesUI> = {
   gn: {
     frasesBaja: "Neirundéi ñe'ẽ chupe. Avave {term}?",
     frasesMedia: 'Ahecha {term} kópe.',
-    frasesAlta: "Añeê ko {term} peva.",
+    frasesAlta: 'Añeê ko {term} peva.',
     frasesBajaPasada: "Neirundéi ñe'ẽ chupe. Avave {term}?",
     frasesMediaPasada: "Ahecha {term} kópe araka'e.",
     frasesAltaPasada: "Añeê ko {term} peva araka'e.",

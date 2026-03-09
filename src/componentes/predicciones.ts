@@ -11,7 +11,6 @@ type DatosCategoria = {
 let registro: { [categoria: string]: DatosCategoria } = {};
 
 export default function utilidadPredicciones() {
-
   function construirDiccionario() {
     listaCategorias.innerHTML = '';
     registro = {};
