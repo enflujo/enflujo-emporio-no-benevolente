@@ -6,22 +6,134 @@ import utilidadPredicciones from './componentes/predicciones';
 import categoriasConColor from './componentes/categorias';
 import { crearMenuVideos } from './componentes/ListaVideos';
 import cargarModelo from './componentes/cargarModelo';
-import { inicializarPanel } from './componentes/panelTraducciones';
+import { inicializarPanel, mostrarTraducciones } from './componentes/panelTraducciones';
+import { mostrarPanelCreditos, ocultarPanelCreditos, actualizarIdiomaPanelCreditos } from './componentes/panelCreditos';
 import { inicializarMapa } from './componentes/mapa';
+import { crearBarraProgreso } from './componentes/barraProgreso';
+import { t, onCambioIdioma, aplicarTraduccionesDOM, getIdioma } from './utilidades/idioma';
+import { crearSelectorIdioma } from './componentes/selectorIdioma';
+import type { ClaveUI } from './datos/ui';
+import { logosInstituciones, obtenerContenidoCuratorial } from './datos/creditos';
 
 const video = document.getElementById('video') as HTMLVideoElement;
 const lienzo = document.getElementById('lienzo1') as HTMLCanvasElement;
 const ctx = lienzo.getContext('2d') as CanvasRenderingContext2D;
 const lienzoEspectros = document.getElementById('lienzo2') as HTMLCanvasElement;
 const ctx2 = lienzoEspectros.getContext('2d') as CanvasRenderingContext2D;
-const lienzoEspectroCategoria = document.getElementById('lienzo3') as HTMLCanvasElement;
 
 let contadorAnim: number;
 let escala = { x: 1, y: 1 };
 const verVideoBtn = document.getElementById('verVideo');
 const verVis = document.getElementById('verVis');
+const fraseBajaEl = document.getElementById('fraseBaja') as HTMLParagraphElement;
+const fraseMediaEl = document.getElementById('fraseMedia') as HTMLParagraphElement;
+const fraseAltaEl = document.getElementById('fraseAlta') as HTMLParagraphElement;
+const leyendaConfianzaEl = document.getElementById('leyendaConfianza') as HTMLDivElement;
+const escenaVideoEl = document.getElementById('escenaVideo') as HTMLDivElement;
+const botonCreditosEl = document.getElementById('btnCreditos') as HTMLButtonElement | null;
 
-const predicciones = utilidadPredicciones(lienzoEspectroCategoria);
+let terminoBajaActual: string | null = null;
+let terminoMediaActual: string | null = null;
+let terminoAltaActual: string | null = null;
+const ES_MODO_CREDITOS =
+  new URLSearchParams(window.location.search).get('modo') === 'creditos' ||
+  new URLSearchParams(window.location.search).get('creditos') === '1';
+const TIEMPO_RETORNO_CREDITOS_MS = 60 * 1000;
+let creditosActivos = false;
+let temporizadorInactividadCreditos: ReturnType<typeof setTimeout> | null = null;
+let listenersInactividadRegistrados = false;
+let reanudarTrasCreditos = false;
+let restaurarPanelPrincipal: () => void = () => {
+  mostrarTraducciones('person', categoriasConColor.person);
+};
+const logoPorPerfil: Record<string, string> = {
+  anna: 'paris8',
+  alexander: 'erg',
+  hugo: 'duke',
+  'juan-camilo': 'enflujo-andes',
+};
+
+// Género gramatical en español para artículo "un/una"
+const categoriasFemeninas = new Set([
+  'person',
+  'bicycle',
+  'motorcycle',
+  'stop sign',
+  'sheep',
+  'cow',
+  'zebra',
+  'giraffe',
+  'backpack',
+  'tie',
+  'suitcase',
+  'kite',
+  'surfboard',
+  'tennis racket',
+  'bottle',
+  'wine glass',
+  'cup',
+  'spoon',
+  'apple',
+  'orange',
+  'carrot',
+  'pizza',
+  'donut',
+  'chair',
+  'potted plant',
+  'bed',
+  'dining table',
+  'toaster',
+  'scissors',
+]);
+function getArticuloES(categoria: string): string {
+  return categoriasFemeninas.has(categoria) ? 'una' : 'un';
+}
+
+const TIEMPO_REPOSO_MS = 2500;
+type ClaveTimer = 'baja' | 'media' | 'alta';
+const clavesPresente: Record<ClaveTimer, ClaveUI> = { baja: 'frasesBaja', media: 'frasesMedia', alta: 'frasesAlta' };
+const clavesPasada: Record<ClaveTimer, ClaveUI> = {
+  baja: 'frasesBajaPasada',
+  media: 'frasesMediaPasada',
+  alta: 'frasesAltaPasada',
+};
+const timersFrases: Record<ClaveTimer, ReturnType<typeof setTimeout> | null> = { baja: null, media: null, alta: null };
+const termsPreviosFrases: Record<ClaveTimer, string | null> = { baja: null, media: null, alta: null };
+const estadoFrases: Record<ClaveTimer, 'activa' | 'reposo'> = { baja: 'reposo', media: 'reposo', alta: 'reposo' };
+
+function limpiarTimersFrases() {
+  (['baja', 'media', 'alta'] as ClaveTimer[]).forEach((clave) => {
+    if (timersFrases[clave] !== null) {
+      clearTimeout(timersFrases[clave]!);
+      timersFrases[clave] = null;
+    }
+  });
+}
+
+function pulsarFrase(el: HTMLParagraphElement, clave: ClaveTimer, termActual: string) {
+  if (creditosActivos) return;
+  if (timersFrases[clave] !== null) clearTimeout(timersFrases[clave]!);
+
+  estadoFrases[clave] = 'activa';
+  el.classList.add('activa');
+
+  timersFrases[clave] = setTimeout(() => {
+    estadoFrases[clave] = 'reposo';
+    el.classList.remove('activa');
+    timersFrases[clave] = null;
+    renderizarFrasesConfianza(); // re-render en pasado al desvanecerse
+  }, TIEMPO_REPOSO_MS);
+
+  // Flash de fondo solo cuando cambia el término detectado
+  if (termActual !== termsPreviosFrases[clave]) {
+    termsPreviosFrases[clave] = termActual;
+    el.classList.remove('nueva-deteccion');
+    void el.offsetWidth; // reiniciar animación CSS
+    el.classList.add('nueva-deteccion');
+  }
+}
+
+const predicciones = utilidadPredicciones();
 
 function activarModo(modo: 'archivo' | 'rastro') {
   if (modo === 'archivo') {
@@ -51,15 +163,259 @@ if (verVis) {
 
 const CONFIANZA_POR_DEFECTO = 0.2;
 
+function acumularPuntaje(acumulado: { [categoria: string]: number }, categoria: string, score: number) {
+  acumulado[categoria] = (acumulado[categoria] || 0) + score;
+}
+
+function categoriaDominante(acumulado: { [categoria: string]: number }): string | null {
+  const entradas = Object.entries(acumulado);
+  if (entradas.length === 0) return null;
+
+  let dominante: string | null = null;
+  let puntajeDominante = 0;
+
+  entradas.forEach(([categoria, puntaje]) => {
+    if (puntaje > puntajeDominante) {
+      dominante = categoria;
+      puntajeDominante = puntaje;
+    }
+  });
+
+  return dominante;
+}
+
+function renderizarFrase(el: HTMLParagraphElement, clave: ClaveTimer, term: string | null) {
+  const enReposo = estadoFrases[clave] === 'reposo' && term !== null;
+  const plantilla = enReposo ? t(clavesPasada[clave]) : t(clavesPresente[clave]);
+  const termDisplay = term ?? '...';
+  const articulo = getArticuloES(termDisplay);
+  const textoCompuesto = plantilla.replace('{articulo}', articulo);
+  const [antes = '', despues = ''] = textoCompuesto.split('{term}');
+
+  el.innerHTML = '';
+  const base = document.createElement('span');
+  base.className = 'textoBase';
+  base.textContent = antes.trim();
+
+  const contenedorDestacado = document.createElement('span');
+  contenedorDestacado.className = 'terminoDestacado';
+
+  const abre = document.createTextNode('«');
+  const palabra = document.createElement('span');
+  palabra.textContent = termDisplay;
+
+  if (clave === 'alta' && term !== null) {
+    const color = categoriasConColor[term];
+    if (color) palabra.style.color = color;
+  }
+
+  const cierre = document.createTextNode(`»${despues}`);
+
+  contenedorDestacado.appendChild(abre);
+  contenedorDestacado.appendChild(palabra);
+  contenedorDestacado.appendChild(cierre);
+
+  el.appendChild(base);
+  el.appendChild(contenedorDestacado);
+}
+
+function renderizarFrasesConfianza() {
+  if (creditosActivos) {
+    renderizarCabeceraCreditos();
+    return;
+  }
+  renderizarFrase(fraseBajaEl, 'baja', terminoBajaActual);
+  renderizarFrase(fraseMediaEl, 'media', terminoMediaActual);
+  renderizarFrase(fraseAltaEl, 'alta', terminoAltaActual);
+}
+
+function renderizarCabeceraCreditos() {
+  fraseBajaEl.textContent = 'Verdad de referencia';
+  fraseMediaEl.textContent = 'AIAIAIAIAIAIAIAIAI';
+  fraseAltaEl.textContent = '';
+
+  fraseBajaEl.classList.add('activa');
+  fraseMediaEl.classList.add('activa');
+  fraseAltaEl.classList.remove('activa');
+  fraseBajaEl.classList.remove('nueva-deteccion');
+  fraseMediaEl.classList.remove('nueva-deteccion');
+  fraseAltaEl.classList.remove('nueva-deteccion');
+
+  leyendaConfianzaEl.style.display = 'none';
+}
+
+function renderizarTextoCuratorial() {
+  const previo = document.getElementById('textoCuratorial');
+  if (previo) previo.remove();
+
+  const texto = document.createElement('section');
+  texto.id = 'textoCuratorial';
+  const contenido = obtenerContenidoCuratorial(getIdioma());
+
+  const titulo = document.createElement('h2');
+  titulo.textContent = contenido.tituloSeccion;
+  texto.appendChild(titulo);
+
+  contenido.parrafos.forEach((parrafoTexto) => {
+    const parrafo = document.createElement('p');
+    parrafo.textContent = parrafoTexto;
+    texto.appendChild(parrafo);
+  });
+
+  const franjaLogos = document.createElement('div');
+  franjaLogos.id = 'logosInstituciones';
+
+  const base = import.meta.env.BASE_URL || '/';
+  const baseConSlash = base.endsWith('/') ? base : `${base}/`;
+
+  logosInstituciones.forEach((logo) => {
+    const figura = document.createElement('figure');
+    figura.className = 'logoInstitucion';
+    const claveLogo = logo.archivo.replace(/\.[^/.]+$/, '').replace(/_/g, '-');
+    figura.classList.add(`logo--${claveLogo}`);
+
+    const imagen = document.createElement('img');
+    imagen.src = `${baseConSlash}estaticos/logos/${logo.archivo}`;
+    imagen.alt = logo.nombre;
+    imagen.loading = 'lazy';
+    imagen.decoding = 'async';
+
+    figura.appendChild(imagen);
+    franjaLogos.appendChild(figura);
+  });
+
+  texto.appendChild(franjaLogos);
+
+  escenaVideoEl.appendChild(texto);
+}
+
+function actualizarLogoActivoCreditos(perfilId: string | null) {
+  const logos = document.querySelectorAll<HTMLElement>('#logosInstituciones .logoInstitucion');
+  if (!logos.length) return;
+  const logoActivo = perfilId ? logoPorPerfil[perfilId] : null;
+
+  logos.forEach((logo) => {
+    const clases = Array.from(logo.classList);
+    const claseLogo = clases.find((clase) => clase.startsWith('logo--')) || '';
+    const clave = claseLogo.replace('logo--', '');
+    logo.classList.toggle('activa', Boolean(logoActivo && clave === logoActivo));
+  });
+}
+
+function actualizarFranjaConfianza(baja: string | null, media: string | null, alta: string | null) {
+  terminoBajaActual = baja;
+  terminoMediaActual = media;
+  terminoAltaActual = alta;
+  if (creditosActivos) return;
+  renderizarFrasesConfianza();
+}
+
+function actualizarBotonCreditos() {
+  if (!botonCreditosEl) return;
+  botonCreditosEl.textContent = creditosActivos ? 'Volver' : 'Créditos';
+  botonCreditosEl.classList.toggle('activo', creditosActivos);
+}
+
+function limpiarTemporizadorInactividadCreditos() {
+  if (temporizadorInactividadCreditos) {
+    clearTimeout(temporizadorInactividadCreditos);
+    temporizadorInactividadCreditos = null;
+  }
+}
+
+function reiniciarTemporizadorInactividadCreditos() {
+  if (!creditosActivos) return;
+  limpiarTemporizadorInactividadCreditos();
+  temporizadorInactividadCreditos = setTimeout(() => {
+    cerrarCreditos();
+  }, TIEMPO_RETORNO_CREDITOS_MS);
+}
+
+function registrarListenersInactividadCreditos() {
+  if (listenersInactividadRegistrados) return;
+  listenersInactividadRegistrados = true;
+  const reiniciarTemporizador = () => {
+    reiniciarTemporizadorInactividadCreditos();
+  };
+  ['mousemove', 'mousedown', 'keydown', 'touchstart', 'wheel'].forEach((evento) => {
+    document.addEventListener(evento, reiniciarTemporizador);
+  });
+}
+
+function abrirCreditos() {
+  if (creditosActivos) return;
+  creditosActivos = true;
+  limpiarTimersFrases();
+  reanudarTrasCreditos = !video.paused;
+  if (reanudarTrasCreditos) video.pause();
+
+  document.body.classList.add('modo-creditos');
+  renderizarCabeceraCreditos();
+  renderizarTextoCuratorial();
+  actualizarLogoActivoCreditos(null);
+  mostrarPanelCreditos();
+  actualizarBotonCreditos();
+
+  registrarListenersInactividadCreditos();
+  reiniciarTemporizadorInactividadCreditos();
+}
+
+function cerrarCreditos() {
+  if (!creditosActivos) return;
+  creditosActivos = false;
+  limpiarTemporizadorInactividadCreditos();
+  document.body.classList.remove('modo-creditos');
+  const textoCuratorial = document.getElementById('textoCuratorial');
+  if (textoCuratorial) textoCuratorial.remove();
+  ocultarPanelCreditos();
+  restaurarPanelPrincipal();
+  fraseBajaEl.classList.remove('activa', 'nueva-deteccion');
+  fraseMediaEl.classList.remove('activa', 'nueva-deteccion');
+  fraseAltaEl.classList.remove('activa', 'nueva-deteccion');
+  leyendaConfianzaEl.style.display = 'grid';
+  renderizarFrasesConfianza();
+  actualizarBotonCreditos();
+
+  if (reanudarTrasCreditos) {
+    video.play().catch(() => {});
+  }
+  reanudarTrasCreditos = false;
+}
+
+document.addEventListener('creditos:perfil-activo', (evento) => {
+  const custom = evento as CustomEvent<{ id?: string }>;
+  actualizarLogoActivoCreditos(custom.detail?.id ?? null);
+});
+
+if (botonCreditosEl) {
+  botonCreditosEl.addEventListener('click', () => {
+    if (creditosActivos) cerrarCreditos();
+    else abrirCreditos();
+  });
+}
+
+document.addEventListener('keydown', (evento) => {
+  if (evento.key === 'Escape' && creditosActivos) cerrarCreditos();
+});
+
+onCambioIdioma(() => {
+  aplicarTraduccionesDOM();
+  if (ES_MODO_CREDITOS || creditosActivos) {
+    renderizarCabeceraCreditos();
+    renderizarTextoCuratorial();
+    actualizarIdiomaPanelCreditos();
+    return;
+  }
+  renderizarFrasesConfianza();
+});
+
 function textoDeteccion(categoria: string, score: number): string {
   const pct = (score * 100) | 0;
-  if (score >= 0.7) {
-    return `I'm fairly certain this is a ${categoria} (${pct}%)`;
-  } else if (score >= 0.4) {
-    return `I think I see a ${categoria} here (${pct}%)`;
-  } else {
-    return `I'm struggling to name this. Perhaps a ${categoria}? (${pct}%)`;
-  }
+  const claveTexto = score >= 0.7 ? 'frasesAlta' : score >= 0.4 ? 'frasesMedia' : 'frasesBaja';
+  const articulo = getArticuloES(categoria);
+  return t(claveTexto)
+    .replace('{articulo}', articulo)
+    .replace('{term}', `«${categoria}» (${pct}%)`);
 }
 
 function estilosPorConfianza(ctx: CanvasRenderingContext2D, score: number, color: string) {
@@ -82,14 +438,25 @@ function estilosPorConfianza(ctx: CanvasRenderingContext2D, score: number, color
 }
 
 async function inicio() {
-  inicializarPanel({
-    pausar: () => video.pause(),
-    reanudar: () => video.play().catch(() => {}),
-  });
+  // Inicializar i18n
+  crearSelectorIdioma();
+  aplicarTraduccionesDOM();
+  if (ES_MODO_CREDITOS) {
+    renderizarCabeceraCreditos();
+  } else {
+    renderizarFrasesConfianza();
+  }
+  actualizarBotonCreditos();
+
+  inicializarPanel();
   await inicializarMapa();
 
-  imprimirMensaje('Cargando vocabulario — 80 palabras para nombrar el mundo...');
+  mostrarTraducciones('person', categoriasConColor.person);
+
+  imprimirMensaje(t('cargandoVocabulario'));
   const modelo = await cargarModelo(CONFIANZA_POR_DEFECTO);
+
+  const barra = crearBarraProgreso(video);
 
   const { videos, marcarActivo } = await crearMenuVideos((_nombre, _formato, indice) => {
     irAVideo(indice);
@@ -97,12 +464,54 @@ async function inicio() {
 
   controlesPantallaCompleta();
 
+  // Click en el video: alternar play/pausa
+  video.addEventListener('click', () => {
+    if (video.paused) video.play().catch(() => {});
+    else video.pause();
+  });
+
   let indiceActual = 0;
+  let categoriaPanelActual: string | null = 'person';
+  let terminoBajaActivo: string | null = null;
+  let terminoMediaActivo: string | null = null;
+  let terminoAltaActiva: string | null = 'person';
+
+  function actualizarPanelDesdeAltaConfianza(categoria: string | null) {
+    if (creditosActivos) return;
+    if (!categoria || categoria === categoriaPanelActual) return;
+
+    const color = categoriasConColor[categoria];
+    if (!color) return;
+
+    categoriaPanelActual = categoria;
+    mostrarTraducciones(categoria, color);
+  }
 
   function reiniciar() {
     predicciones.reiniciar();
+    barra.reiniciar();
     ctx2.clearRect(0, 0, lienzoEspectros.width, lienzoEspectros.height);
     ctx.clearRect(0, 0, lienzo.width, lienzo.height);
+    terminoBajaActivo = null;
+    terminoMediaActivo = null;
+    terminoAltaActiva = categoriaPanelActual;
+
+    // Resetear estado visual de las frases
+    (['baja', 'media', 'alta'] as ClaveTimer[]).forEach((clave) => {
+      termsPreviosFrases[clave] = null;
+      estadoFrases[clave] = 'reposo';
+    });
+    limpiarTimersFrases();
+    fraseBajaEl.classList.remove('activa', 'nueva-deteccion');
+    fraseMediaEl.classList.remove('activa', 'nueva-deteccion');
+    fraseAltaEl.classList.remove('activa', 'nueva-deteccion');
+
+    actualizarFranjaConfianza(terminoBajaActivo, terminoMediaActivo, terminoAltaActiva);
+    restaurarPanelPrincipal = () => {
+      const categoriaRestaurada = categoriaPanelActual ?? terminoAltaActiva ?? 'person';
+      const colorRestaurado = categoriasConColor[categoriaRestaurada] || categoriasConColor.person;
+      mostrarTraducciones(categoriaRestaurada, colorRestaurado);
+    };
   }
 
   function irAVideo(indice: number) {
@@ -124,19 +533,20 @@ async function inicio() {
   }
 
   // Arrancar con el primer video
-  imprimirMensaje('La máquina está lista. Iniciando archivo...');
+  imprimirMensaje(t('maquinaLista'));
   irAVideo(0);
+  if (ES_MODO_CREDITOS) abrirCreditos();
 
   video.onloadstart = () => {
-    const nombreArchivo = video.querySelector('source')?.src.split('/').pop();
-    imprimirMensaje(`Cargando archivo: ${nombreArchivo}`);
+    const nombreArchivo = video.querySelector('source')?.src.split('/').pop() ?? '';
+    imprimirMensaje(t('cargandoArchivo', { nombre: nombreArchivo }));
   };
 
   video.onloadedmetadata = () => {
     escalar();
-    imprimirMensaje('Observando...');
+    imprimirMensaje(t('observando'));
     video.play().catch(() => {
-      imprimirMensaje('Presione play para comenzar.');
+      imprimirMensaje(t('presionarPlay'));
     });
   };
 
@@ -160,6 +570,10 @@ async function inicio() {
       tiempoAnterior = video.currentTime;
       const { detections } = modelo.detectForVideo(video, tiempoAhora);
       ctx.clearRect(0, 0, lienzo.width, lienzo.height);
+      const puntajesBaja: { [categoria: string]: number } = {};
+      const puntajesMedia: { [categoria: string]: number } = {};
+      let categoriaAltaFrame: string | null = null;
+      let scoreAltaFrame = 0;
 
       detections.forEach((prediccion) => {
         if (prediccion.boundingBox) {
@@ -195,15 +609,50 @@ async function inicio() {
           ctx2.restore();
 
           predicciones.agregar(categoria, score, { x, y, ancho, alto }, video.currentTime);
+          if (score >= 0.7) {
+            if (score > scoreAltaFrame) {
+              scoreAltaFrame = score;
+              categoriaAltaFrame = categoria;
+            }
+          } else if (score >= 0.4) {
+            acumularPuntaje(puntajesMedia, categoria, score);
+          } else {
+            acumularPuntaje(puntajesBaja, categoria, score);
+          }
         }
       });
+
+      const dominanteBaja = categoriaDominante(puntajesBaja);
+      const dominanteMedia = categoriaDominante(puntajesMedia);
+
+      if (dominanteBaja) {
+        terminoBajaActivo = dominanteBaja;
+        pulsarFrase(fraseBajaEl, 'baja', dominanteBaja);
+      }
+      if (dominanteMedia) {
+        terminoMediaActivo = dominanteMedia;
+        pulsarFrase(fraseMediaEl, 'media', dominanteMedia);
+      }
+      if (categoriaAltaFrame) {
+        terminoAltaActiva = categoriaAltaFrame;
+        pulsarFrase(fraseAltaEl, 'alta', categoriaAltaFrame);
+        actualizarPanelDesdeAltaConfianza(terminoAltaActiva);
+      }
+
+      actualizarFranjaConfianza(terminoBajaActivo, terminoMediaActivo, terminoAltaActiva);
+
+      const dominanteFrame = categoriaAltaFrame || dominanteMedia || dominanteBaja;
+      if (dominanteFrame) {
+        const colorFrame = categoriasConColor[dominanteFrame];
+        if (colorFrame) barra.registrar(video.currentTime, colorFrame);
+      }
     }
     contadorAnim = requestAnimationFrame(observar);
   }
 
   function escalar() {
-    video.width = lienzo.width = lienzoEspectros.width = lienzoEspectroCategoria.width = video.clientWidth;
-    video.height = lienzo.height = lienzoEspectros.height = lienzoEspectroCategoria.height = video.clientHeight;
+    video.width = lienzo.width = lienzoEspectros.width = video.clientWidth;
+    video.height = lienzo.height = lienzoEspectros.height = video.clientHeight;
 
     escala.x = lienzo.width / video.videoWidth;
     escala.y = lienzo.height / video.videoHeight;

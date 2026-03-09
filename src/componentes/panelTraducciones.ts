@@ -1,24 +1,17 @@
 import { traducciones, idiomas } from '../datos/traducciones';
+import { t } from '../utilidades/idioma';
 import { obtenerImagenesCategoria } from '../datos/imagenes';
-import { obtenerTextoCategoria } from '../datos/textos';
-import { mostrarMapa, resaltarLengua, ocultarMapa } from './mapa';
+import { mostrarMapa, resaltarLengua } from './mapa';
 import { crearBuscadorSimulado, type ControlBuscadorSimulado } from './buscadorSimulado';
 
-// Fallback de inactividad: 3 minutos
-const TIEMPO_CIERRE_INACTIVIDAD = 3 * 60 * 1000;
-const INTERVALO_AUTORRECORRIDO = 1000;
+const INTERVALO_AUTORRECORRIDO = 2000;
 
 const overlay = document.getElementById('mapaOverlay') as HTMLDivElement;
-const botonVolver = document.getElementById('mapaVolver') as HTMLButtonElement;
 const colorBar = document.getElementById('mapaColorBar') as HTMLDivElement;
 const categoriaNombre = document.getElementById('mapaCategoriaNombre') as HTMLSpanElement;
 const traduccionesList = document.getElementById('mapaTraduccionesList') as HTMLDivElement;
-const seccionTexto = document.getElementById('seccionTexto') as HTMLElement;
 const seccionImagenes = document.getElementById('seccionImagenes') as HTMLElement;
 
-let temporizador: ReturnType<typeof setTimeout> | null = null;
-let pausarVideo: () => void = () => {};
-let reanudarVideo: () => void = () => {};
 let tokenRenderImagenes = 0;
 let controladorBuscador: ControlBuscadorSimulado | null = null;
 let temporizadorRecorrido: ReturnType<typeof setInterval> | null = null;
@@ -44,6 +37,25 @@ function activarIdioma(codigo: string | null, actualizarBuscador = true) {
   Object.entries(filasPorIdioma).forEach(([idioma, fila]) => {
     fila.classList.toggle('activa', codigo === idioma);
   });
+  if (codigo && filasPorIdioma[codigo]) {
+    const fila = filasPorIdioma[codigo];
+    requestAnimationFrame(() => {
+      const contenedor = traduccionesList;
+      const filaTop = fila.offsetTop;
+      const filaBottom = filaTop + fila.offsetHeight;
+      const visibleTop = contenedor.scrollTop;
+      const visibleBottom = visibleTop + contenedor.clientHeight;
+
+      if (filaTop < visibleTop || filaBottom > visibleBottom) {
+        const objetivo = filaTop - contenedor.clientHeight / 2 + fila.offsetHeight / 2;
+        const maximo = Math.max(0, contenedor.scrollHeight - contenedor.clientHeight);
+        contenedor.scrollTo({
+          top: Math.max(0, Math.min(objetivo, maximo)),
+          behavior: 'smooth',
+        });
+      }
+    });
+  }
   resaltarLengua(codigo);
 
   if (actualizarBuscador && codigo && controladorBuscador) {
@@ -62,33 +74,6 @@ function iniciarRecorridoAutomatico() {
   }, INTERVALO_AUTORRECORRIDO);
 }
 
-function renderizarTexto(categoria: string) {
-  limpiarNodo(seccionTexto);
-  const texto = obtenerTextoCategoria(categoria);
-
-  if (!texto) {
-    const placeholder = document.createElement('p');
-    placeholder.className = 'contenidoVacio';
-    placeholder.textContent = 'Texto critico en construccion para esta categoria.';
-    seccionTexto.appendChild(placeholder);
-    return;
-  }
-
-  if (texto.titulo) {
-    const titulo = document.createElement('p');
-    titulo.className = 'mapaSeccionTitulo';
-    titulo.textContent = texto.titulo;
-    seccionTexto.appendChild(titulo);
-  }
-
-  texto.parrafos.forEach((contenido) => {
-    const parrafo = document.createElement('p');
-    parrafo.className = 'parrafoCritico';
-    parrafo.textContent = contenido;
-    seccionTexto.appendChild(parrafo);
-  });
-}
-
 function renderizarImagenesLocales(categoria: string, color: string) {
   limpiarNodo(seccionImagenes);
   seccionImagenes.style.setProperty('--categoria-color', color);
@@ -97,7 +82,7 @@ function renderizarImagenesLocales(categoria: string, color: string) {
   if (imagenes.length === 0) {
     const placeholder = document.createElement('p');
     placeholder.className = 'contenidoVacio';
-    placeholder.textContent = 'Sin imagenes cargadas para esta categoria.';
+    placeholder.textContent = t('sinImagenes');
     seccionImagenes.appendChild(placeholder);
     return;
   }
@@ -162,41 +147,8 @@ function renderizarImagenes(categoria: string, color: string, traduccionesCatego
     });
 }
 
-function cerrar() {
-  limpiarRecorrido();
-  if (controladorBuscador) {
-    controladorBuscador.destruir();
-    controladorBuscador = null;
-  }
-  overlay.classList.remove('visible');
-  ocultarMapa();
-  reanudarVideo();
-  if (temporizador !== null) {
-    clearTimeout(temporizador);
-    temporizador = null;
-  }
-}
-
-function reiniciarTemporizador() {
-  if (!overlay.classList.contains('visible')) return;
-  if (temporizador !== null) clearTimeout(temporizador);
-  temporizador = setTimeout(cerrar, TIEMPO_CIERRE_INACTIVIDAD);
-}
-
-// Cerrar con botón
-botonVolver.addEventListener('click', cerrar);
-
-// Cerrar con Escape
-document.addEventListener('keydown', (e) => {
-  if (e.key === 'Escape' && overlay.classList.contains('visible')) cerrar();
-});
-
-// Reiniciar temporizador con actividad del mouse
-document.addEventListener('mousemove', reiniciarTemporizador);
-
-export function inicializarPanel(callbacks: { pausar: () => void; reanudar: () => void }) {
-  pausarVideo = callbacks.pausar;
-  reanudarVideo = callbacks.reanudar;
+export function inicializarPanel() {
+  overlay.classList.add('visible');
 }
 
 export function mostrarTraducciones(categoria: string, color: string) {
@@ -242,7 +194,6 @@ export function mostrarTraducciones(categoria: string, color: string) {
     };
   });
 
-  renderizarTexto(categoria);
   renderizarImagenes(categoria, color, data);
   const idiomaInicial =
     idiomaPersistente && codigosDisponibles.includes(idiomaPersistente)
@@ -252,14 +203,12 @@ export function mostrarTraducciones(categoria: string, color: string) {
   activarIdioma(idiomaInicial, true);
   iniciarRecorridoAutomatico();
 
-  pausarVideo();
   mostrarMapa(codigosDisponibles);
   overlay.classList.add('visible');
-  reiniciarTemporizador();
 }
 
 export function ocultarTraducciones() {
-  // No cerrar al salir del hover — el usuario cierra manualmente o por inactividad
+  // Modo exhibicion: mantener siempre visible el panel.
 }
 
 export function panelTraduccionesVisible() {

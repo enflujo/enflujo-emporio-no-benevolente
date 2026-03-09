@@ -1,11 +1,7 @@
 import type { Aparicion, Cuadro } from '../tipos';
 import categoriasConColor, { categorias } from './categorias';
-import { mostrarTraducciones, ocultarTraducciones, panelTraduccionesVisible } from './panelTraducciones';
 
 const listaCategorias = document.getElementById('listaCategorias') as HTMLDivElement;
-const RETARDO_HOVER_INICIAL = 70;
-const RETARDO_HOVER_CAMBIO = 260;
-
 type DatosCategoria = {
   elemento: HTMLDivElement;
   contador: HTMLSpanElement;
@@ -13,10 +9,8 @@ type DatosCategoria = {
 };
 
 let registro: { [categoria: string]: DatosCategoria } = {};
-let temporizadorHover: ReturnType<typeof setTimeout> | null = null;
 
-export default function utilidadPredicciones(lienzoEspectroCategoria: HTMLCanvasElement) {
-  const ctx3 = lienzoEspectroCategoria.getContext('2d');
+export default function utilidadPredicciones() {
 
   function construirDiccionario() {
     listaCategorias.innerHTML = '';
@@ -38,37 +32,6 @@ export default function utilidadPredicciones(lienzoEspectroCategoria: HTMLCanvas
       elemento.appendChild(barra);
       elemento.appendChild(contador);
       listaCategorias.appendChild(elemento);
-
-      elemento.onmouseenter = () => {
-        if (temporizadorHover !== null) clearTimeout(temporizadorHover);
-        const retardo = panelTraduccionesVisible() ? RETARDO_HOVER_CAMBIO : RETARDO_HOVER_INICIAL;
-
-        temporizadorHover = setTimeout(() => {
-          mostrarTraducciones(nombreCategoria, color);
-
-          if (!ctx3) return;
-          const { apariciones } = registro[nombreCategoria];
-          if (apariciones.length === 0) return;
-
-          lienzoEspectroCategoria.classList.add('visible');
-          ctx3.clearRect(0, 0, lienzoEspectroCategoria.width, lienzoEspectroCategoria.height);
-          ctx3.fillStyle = color;
-          ctx3.globalAlpha = 0.05;
-
-          apariciones.forEach(({ area }) => {
-            ctx3.fillRect(area.x, area.y, area.ancho, area.alto);
-          });
-        }, retardo);
-      };
-
-      elemento.onmouseleave = () => {
-        if (temporizadorHover !== null) {
-          clearTimeout(temporizadorHover);
-          temporizadorHover = null;
-        }
-        ocultarTraducciones();
-        lienzoEspectroCategoria.classList.remove('visible');
-      };
 
       registro[nombreCategoria] = { elemento, contador, apariciones: [] };
     });

@@ -107,6 +107,15 @@ function crearMarcaGoogle() {
   return marca;
 }
 
+function obtenerDominio(url: string | null | undefined): string {
+  if (!url) return '';
+  try {
+    return new URL(url).hostname.replace(/^www\./, '');
+  } catch {
+    return '';
+  }
+}
+
 export async function crearBuscadorSimulado({
   contenedor,
   categoria,
@@ -218,8 +227,12 @@ export async function crearBuscadorSimulado({
 
       const titulo = crearElemento('p', 'googleResultadoTitulo');
       titulo.textContent = imagen.titulo || 'Untitled result';
+      const fuente = crearElemento('p', 'googleResultadoFuente');
+      const dominio = obtenerDominio(imagen.fuentePagina || imagen.fuenteImagen);
+      fuente.textContent = dominio || 'source unavailable';
 
       tarjeta.appendChild(enlace);
+      tarjeta.appendChild(fuente);
       tarjeta.appendChild(titulo);
       grid.appendChild(tarjeta);
     });

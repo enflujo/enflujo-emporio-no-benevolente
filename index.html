@@ -52,6 +52,23 @@
     ></script>
   </head>
   <body>
+    <div id="barraIdiomas" aria-label="Idioma de la interfaz"></div>
+    <button id="btnCreditos" type="button">Créditos</button>
+
+    <header id="franjaConfianza">
+      <div id="frasesConfianza">
+        <p class="fraseConfianza baja" id="fraseBaja"></p>
+        <p class="fraseConfianza media" id="fraseMedia"></p>
+        <p class="fraseConfianza alta" id="fraseAlta"></p>
+      </div>
+
+      <div id="leyendaConfianza">
+        <span class="segmentoUmbral baja" data-i18n="umbralBaja">0-40%</span>
+        <span class="segmentoUmbral media" data-i18n="umbralMedia">40-70%</span>
+        <span class="segmentoUmbral alta" data-i18n="umbralAlta">70-100%</span>
+      </div>
+    </header>
+
     <main id="contenedor">
       <span id="cerrarControles">X</span>
 
@@ -62,20 +79,27 @@
       </div>
 
       <div id="seccionVideo">
-        <canvas id="lienzo1" class="lienzo visible"></canvas>
-        <canvas id="lienzo2" class="lienzo visible"></canvas>
-        <canvas id="lienzo3" class="lienzo"></canvas>
-
-        <video id="video" class="visible" autoplay controls></video>
-
-        <div id="mapaOverlay">
-          <div id="mapaArea">
-            <svg id="mapaMundi"></svg>
+        <div id="columnaArchivo">
+          <div id="escenaVideo">
+            <canvas id="lienzo1" class="lienzo visible"></canvas>
+            <canvas id="lienzo2" class="lienzo visible"></canvas>
+            <video id="video" class="visible" autoplay></video>
           </div>
 
+          <div id="categorias">
+            <div class="columnas">
+              <span id="verVideo" class="modo activo" data-i18n="modoArchivo">Archivo</span>
+              <span id="verVis" class="modo" data-i18n="modoRastro">Rastro</span>
+            </div>
+
+            <div id="listaCategorias"></div>
+          </div>
+        </div>
+
+        <div id="mapaOverlay">
           <aside id="mapaSidebar">
             <header id="mapaHeader">
-              <button id="mapaVolver">← volver al archivo</button>
+              <button id="mapaVolver" data-i18n="volverArchivo">← volver al archivo</button>
               <div id="mapaCategoria">
                 <div id="mapaColorBar"></div>
                 <span id="mapaCategoriaNombre"></span>
@@ -83,30 +107,19 @@
             </header>
 
             <section class="mapaSeccion" id="seccionTraducciones">
-              <p class="mapaSeccionTitulo">en otras lenguas</p>
+              <p class="mapaSeccionTitulo" data-i18n="enOtrasLenguas">en otras lenguas</p>
               <div id="mapaTraduccionesList"></div>
-            </section>
-
-            <section class="mapaSeccion" id="seccionTexto">
-              <!-- textos críticos por categoría — se agregan desde datos/textos.ts -->
             </section>
 
             <section class="mapaSeccion" id="seccionImagenes">
               <!-- imágenes por categoría — se agregan desde estaticos/imagenes/{categoria}/ -->
             </section>
+
+            <div id="mapaArea">
+              <svg id="mapaMundi"></svg>
+            </div>
           </aside>
         </div>
-      </div>
-
-      <div id="categorias">
-        <!-- <input id="descargar" type="button" value="Download Data" /> -->
-
-        <div class="columnas">
-          <span id="verVideo" class="modo activo">Archivo</span>
-          <span id="verVis" class="modo">Rastro</span>
-        </div>
-
-        <div id="listaCategorias"></div>
       </div>
     </main>
 
